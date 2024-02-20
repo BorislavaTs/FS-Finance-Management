@@ -1,0 +1,5948 @@
+<Header>
+<FileStats>
+    <FileName>20010716_10-K_edgar_data_840254_0000936392-01-500149.txt</FileName>
+    <GrossFileSize>512051</GrossFileSize>
+    <NetFileSize>171511</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>222575</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>1</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000936392-01-500149.hdr.sgml : 20010717
+ACCESSION NUMBER:		0000936392-01-500149
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20010331
+FILED AS OF DATE:		20010716
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GREYSTONE DIGITAL TECHNOLOGY INC
+		CENTRAL INDEX KEY:			0000840254
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				841107140
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-28909
+		FILM NUMBER:		1682478
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4950 MURPHY CANYON ROAD
+		STREET 2:		N/A
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92123
+		BUSINESS PHONE:		8588747000
+
+	MAIL ADDRESS:	
+		STREET 1:		4950 MURPHY CANYON ROAD
+		STREET 2:		N/A
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92123
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EXPRESS CAPITAL CONCEPTS INC
+		DATE OF NAME CHANGE:	19980930
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ T90MZBm48i+3SeaYraD1eElTzPCqzQ2KRFRxp2ahEhyWSddYKBb5DQ4+J09gCK3G
+ 4wvfifM/WKwv2V8qPMSfkA==
+
+ 0000936392-01-500149.txt : 20010717
+
+10-K
+ 1
+ a74143e10-k.htm
+ FORM 10-K FISCAL YEAR ENDED MARCH 31,2001
+
+GREYSTONE DIGITAL TECHNOLOGY INC 
+
+Table of Contents 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+FORM 10-K 
+
+ FOR ANNUAL AND TRANSITIONAL REPORTS 
+PURSUANT TO SECTIONS 13 OR 15(d) 
+OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+(Mark One) 
+
+[X] 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE 
+SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended March 31, 2001 
+
+ OR 
+
+[ ] 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE 
+SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from ____________ to ____________. 
+
+ Commission File Number 000-28909 
+
+ GREYSTONE DIGITAL TECHNOLOGY, INC. 
+
+ (Name of Registrant as Specified in its Charter) 
+
+Delaware 
+(State or Other Jurisdiction of 
+Incorporation or Organization) 
+
+84-1107140 
+(I.R.S. Employer 
+Identification No.) 
+
+4950 Murphy Canyon Rd. 
+San Diego, California 
+(Address of Principal Executive Offices) 
+
+92123 
+(Zip Code) 
+
+(858) 874-7000 
+(Registrant s Telephone Number, Including Area Code) 
+
+ Securities registered pursuant to Section 12(b) of the Act: 
+None. 
+
+ Securities registered pursuant to Section 12(g) of the Act: 
+Common Stock, 0.001 par value 
+(Title of Class) 
+
+ Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. YES [X] NO [ ]
+
+Indicate by check mark if disclosure of delinquent filer pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to
+the best of registrant s knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [ ]
+
+As of July 6, 2001, the aggregate market value of the registrant s voting
+stock held by non-affiliates of the registrant was approximately 3,641,271,
+based on the closing price of the Company s Common Stock on the Nasdaq OTC
+Bulletin Board on July 6, 2001 of 0.16 per share.
+
+As of July 6, 2001, 29,749,034 shares of registrant s Common Stock, 0.001
+par value, and 3,183.5 shares of registrant s Preferred Stock, 0.001 par
+value, were outstanding.
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+
+ Portions of the Company s definitive Proxy Statement to be filed with the
+Securities and Exchange Commission within 120 days after the close of the
+fiscal year are incorporated by reference into Part III of this report. 
+
+TABLE OF CONTENTS 
+
+PART I 
+ Item 1. Business 
+ Item 2. Properties 
+ Item 3. Legal Proceedings 
+ Item 4. Submission of Matters to a Vote of Security Holders 
+ PART II 
+ Item 5. Market for Registrant s Common Equity and Related Stockholder Matters 
+ Item 6. Selected Financial Data 
+ Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ Item 7A. Quantitative and Qualitative Disclosures about Market Risk 
+ Item 8. Financial Statements and Supplemental Data 
+ Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ PART III 
+ Item 10. Directors and Executive Officers of the Registrant 
+ Item 11. Executive Compensation 
+ Item 12. Security Ownership of Certain Beneficial Owners and Management 
+ Item 13. Certain Relationships and Related Transactions 
+ PART IV 
+ Item 14. Exhibits, Financial Statement Schedules, and Reports on Form 8-K 
+ SIGNATURES 
+ REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS 
+ CONSOLIDATED BALANCE SHEETS 
+ CONSOLIDATED STATEMENTS OF OPERATIONS 
+ CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY (DEFICIENCY) 
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ EXHIBITS INDEX 
+ EXHIBIT 21 
+
+Table of Contents 
+
+PART I 
+
+ Forward-Looking Statements 
+
+ This document contains forward-looking statements, which may
+include the following:
+
+our business strategy;
+
+the timing of and plans for the introduction of new products and enhancements;
+
+plans for hiring additional personnel;
+
+anticipated growth in the market for our products;
+
+completion of acquisitions or the entering into strategic alliances; and
+
+the adequacy of our existing resources together with
+anticipated sources of additional capital to fund our operations
+for at least the next 12 months.
+
+Other statements about our plans, objectives, expectations and
+intentions contained in this document that are not historical facts may
+also be forward-looking statements. When used in this prospectus, the
+words expects, anticipates, intends, plans, believes, seeks, 
+ estimates and similar expressions are generally intended to identify
+forward-looking statements. Because these forward-looking statements
+involve risks and uncertainties, actual results could differ materially
+from those expressed or implied by these forward-looking statements for
+a number of reasons, including those discussed under Factors That May
+Affect Future Performance and elsewhere in this document. We assume no
+obligation to update any forward-looking statements.
+
+Item 1. Business 
+
+ Overview 
+
+ GreyStone is a software development and systems integration
+company. Specifically, we develop real-time, interactive, and networked
+three-dimensional (3-D) visual and aural software, simulated virtual 
+environments, and Info-Space applications that we market to customers
+in government and commercial markets. We also provide our customers with
+supporting engineering services in order to add value to the software
+applications that we sell to our customers.
+
+We commenced business in San Diego, California in 1989 in order to
+provide the United States military and its contractors with software and
+engineering services for applications in highly advanced military
+hardware (fighting aircraft, missiles, ships, and vehicles) and training
+simulators. Our defense customers have included the U.S. Navy, Army and
+Air Force, Lockheed Martin, Logicon, Hughes Aircraft, and the Defense
+Advanced Research Projects Agency (DARPA), and others. These customers
+use GreyStone s products and services in aerial, mechanized, and naval
+combat, electronic warfare, mission planning and support, training,
+battlefield command, control, communications, computers, and
+intelligence C4I ), and unmanned aerial vehicles UAVs ).
+
+In 1994, we initiated a long-term program to develop multi-player
+(collaborative) real-time, interactive, and networked 3-D entertainment
+content Titles to run on high-end 3-D multimedia home-based personal
+computers PCs and new PC-based open architecture arcade amusement
+machines OA3Ms ). During 1998 we developed our first PC-based
+entertainment Title, XS-G TM , to sell to the OA3M entertainment market. 
+
+Table of Contents 
+ In December 1999 we transitioned from operating as a privately-held
+company to a publicly-traded company with the completion of a merger
+with a company with no previous operations which was traded on the
+Over-the-Counter Bulletin Board. GreyStone Technology, Inc. s
+operations continue today as a wholly-owned subsidiary of GreyStone
+Digital Technology, Inc. (formerly Express Capital Concepts, Inc.). All
+references to GreyStone s operations in this report are those of the
+wholly-owned subsidiary, under which all of GreyStone Digital
+Technology, Inc. s operations are currently conducted.
+
+Since 1994 we have followed a strategy where we invested resources
+and devoted many arduous employee hours to translate the Company s
+technology and experience working in the defense business to the
+commercial entertainment business. However, a series of events during
+this past fiscal year has forced a reevaluation of this strategy and the
+decision to suspend our entertainment operations and focus our resources
+on our core revenue business areas, information science and technology
+for defense and government. In eliminating our involvement in non-core
+business areas, and instituting a number of internal changes designed to
+reduce our operating costs, we believe the Company can grow its core
+business and achieve positive cash flow from its operations.
+
+We have several goals in this effort. The first is to focus our
+business on what we do best information technology software and
+engineering services; and the second is to maximize our ability to
+achieve our goal of profitability. We will consider a merger or
+acquisition if it compliments this strategy or can increase shareholder
+value.
+
+According, we have begun to implement a profound transformation in
+our operations that will continue over the next two fiscal years. We
+believe that this transformation should result in a reliable course for
+profitable operations. We have begun to implement a number of
+initiatives which we believe will allow us to grow our core business in
+information science and technology and still apply our technology to
+certain commercial markets.
+
+During the next business year our Government Business Group will
+continue providing engineering services relating to the sale of its
+product, RAGE, and its engineering services contracts. Marketing
+targets remain focused on Battlefield Visualization applications, and
+customized C4I/ISR applications. During the past fiscal year we have
+won subcontractor positions on several new programs and will be
+aggressively pursuing new business under these contract vehicles.
+
+Our Current Markets, Products, and Services 
+
+ We have developed and marketed software products that are targeted
+at the defense preparation market. We develop software products that
+are used in combat and training simulations and provide support services
+that contain costs and increase the effectiveness of defense operations
+and defense preparation. We are planning expansion in these areas and
+may consider a merger or acquisition to support this strategy.
+
+GOVERNMENT BUSINESS 
+ We founded GreyStone in 1989 to provide the U.S. military and
+contractors with software and engineering services for applications in
+highly advanced military hardware and training simulators. We provide
+customers real-time, 2-D and 3-D, distributed and networked virtual
+environments for collaborative mission planning, rehearsal, mission
+reconstruction, testing, training, prototype development and operational
+assessments. Our virtual environments employ real-time simulation,
+intelligent agent and advanced visualization technologies that create a
+battle-space in which a commander and soldier alike can assess, command,
+and shape the dynamics of the battle as well as experiment with various
+contingencies to
+
+Table of Contents 
+
+ test skill and enhance judgment. Virtual environments are used to
+provide knowledge of the battle-space previously not available without
+deploying live troops and millions of dollars of equipment.
+
+From the beginning, we have built our government business on key
+technologies (real-time simulation, intelligent agents and advanced
+visualization) used to create virtual environments and the experience of
+qualified individuals who understand the requirements and utility of
+virtual environments for training and combat operations. GreyStone has
+modeling and simulation professionals, advanced systems integrators,
+mission-planning specialists, intelligent agent experts, software
+developers with defense industry experience, and experienced former
+military personnel who continue to provide the government customer with
+an alternative to deploying troops and systems to the field.
+
+GreyStone has a legacy of software development and engineering
+services for high-performance military systems that are immersive,
+interactive, and which function in real-time. GreyStone has been able to
+adapt its military software products for application across several
+mission areas: planning, advanced simulations, aerial combat,
+battlefield command and control, and, most recently, in the arenas of
+intelligence, surveillance and reconnaissance systems. GreyStone s
+defense products are applied to some of the world s most advanced
+military hardware and training simulators for aerial combat, combat
+simulation, electronic warfare, mission planning and support,
+battlefield C4I, and unmanned aerial vehicles (UAVs).
+
+RAGE the Product 
+
+ Military personnel use GreyStone s Real-time Advanced Graphics
+Environment, RAGE to reproduce realistic combat scenarios for
+command centers to visualize and distribute information in real-time
+regarding forces, systems situations and conditions.
+
+GreyStone s RAGE software product has been used in over 70 joint
+military exercises and advanced technology demonstrations worldwide.
+RAGE provides customers real-time, 2/3D, distributed and networked
+virtual environments for collaborative decision-making, situation
+awareness, mission planning/rehearsal/ reconstruction, testing,
+training, prototype development and operational assessments.
+
+Since RAGE is the primary software running the real-time enhanced
+virtual world simulation during an exercise, each site requires a RAGE
+license sale. With each exercise, GreyStone is paid for other
+engineering services it performs, such as modifications to RAGE, custom
+databases, and the creation of unique interfaces required of each
+application, in addition to providing both field and home-office
+services during the exercise. The system has been useful for UAV concept
+of employment and operational utility demonstrations in over 60
+large-scale live Joint and Army exercises and force modernization
+Advanced Warfighting Experiments.
+
+Engineering Services and Products 
+
+ GreyStone provides, on a contract basis, advanced engineering and
+software development services to the military and its contractors
+including services during the last twelve months to:
+
+Lockheed Martin Projects include F-22 Internal Research and Development
+
+Joint Strike Fighter Program
+Office Joint Strike Fighter C4I Support Plan
+
+U.S. Navy SPAWAR Systems
+Center Code 44 San Diego Joint
+Medical Operations Telemedicine, and Joint Semi-Automated
+Forces, DD-21 concept modeling and analysis
+
+Table of Contents 
+
+General Atomics Aeronautical Systems Inc. San Diego 
+Advanced visualization for Predator UAV ground-based trainer
+
+U.S. Navy NAWC Weapons Division China Lake Advanced
+visualization and simulation for unmanned vehicle flight
+simulation, flight test support
+
+U.S. Navy NWDC Simulation Center Newport Virtual UAV
+simulations, advanced sensor simulation for large-scale exercises
+
+U.S. Navy NAVAIR Patuxent River Advanced Electronic Attack
+Analysis of Alternatives to replace the EA-6B tactical jamming
+aircraft for OSD
+
+U.S. Air Force Wright-Patterson AFB Small Business
+Innovation Research into the use of Intelligent Agent technology
+for predicting aircraft system failures, providing preventive
+maintenance
+
+U.S.M.C. Warfighting Laboratory Quantico Advanced
+visualization and virtual UAV simulations for Limited Operation
+Experiments
+
+General Atomics Predator UAV ground trainer visualization
+
+U.S. Navy Space and Naval Warfare Systems Command San Diego
+ Early Operational Assessments for Navy C4I systems, experiment
+support
+
+U.S. Joint Forces Command Norfolk Virtual UAV simulation,
+advanced visualization technologies, exercise and experiment
+support
+
+These Services have been contracted for through the following:
+
+U.S. Navy SPAWAR Systems Center Code 44 BATTLEFIELD
+VISUALIZATION AND ADVANCED SIMULATION TECHNOLOGY: GreyStone has
+been awarded individual delivery orders for a total value of
+approximately 3,500,000 to date (last two years).
+
+INFORMATION WARFARE IDIQ: The Veridian Engineering, Inc. team,
+including GreyStone as a subcontractor, was awarded a three-year
+delivery order contract with a ceiling of 38.1 million to
+provide engineering services in support of developmental efforts
+for information warfare systems located at the Naval Air Warfare
+Center Weapons Division, Point Mugu, California.
+
+New awards in the last twelve months include:
+
+U.S. ARMY AVIATION and MISSILE COMMAND OMNIBUS 2000:
+GreyStone, as part of a large team lead by the Computer Sciences
+Corporation, has been selected to participate in the 2.5 billion
+U.S. Army Aviation and Missile Command OMNIBUS 2000 Support
+Services program. The OMNIBUS 2000 program will replace about 60
+separate support services contracts formerly awarded by the
+government. The U.S. Army Aviation and Missile Command develops,
+acquires, fields and sustains aviation and missile systems, which
+supports the readiness of the Army s technologically superior
+systems on the battlefield.
+
+U.S. ARMY SIMULATION TRAINING and INSTRUMENTATION COMMAND
+(STRICOM) TEAM OMNIBUS CONTRACT (STOC). STOC is an 8 year
+Indefinite Delivery/Indefinite Quantity Contract (ID/IQC)
+structured to allow STRICOM to acquire the full spectrum of
+Simulation, Training, Modeling, Test and Instrumentation products
+and services to support
+
+Table of Contents 
+
+Warfighter needs throughout the Army and DoD. The ID/IQC was
+structured to contain Lots for each STRICOM business domain: Live,
+Virtual, Constructive, and Test-Instrumentation. Within STRICOM,
+the Program Management offices are organized around the business
+domains: PM-TRADE (Live); PM-CATT (Virtual); PM-WARSIM
+(Constructive); and PM-ITTS (Test-Instrumentation). GreyStone
+participated as a subcontractor with three different companies,
+Motorola, CSC/Nichols, and Aegis for winning positions with both
+large and small companies in all four business domains. This
+contractual vehicle permits the issuance of task orders for
+modeling and simulation efforts at any phase within the acquisition
+life cycle of STRICOM systems.
+
+U.S. Navy SPAWAR Systems Center Code 42 C4I SOFTWARE
+APPLICATIONS and DATABASES. As part of the SAIC team. The
+contract requires system engineering tasks all software and
+associated documentation for new, upgraded, and existing C4I
+applications. These C4I applications include tactical decision
+aids, planning tools, analyst aids, user interaction techniques,
+visualization tools, correlation and fusion techniques, data and
+information interpretation approaches and interfaces. GreyStone
+is the subcontractor for modeling, simulation and visualization
+on this winning team.
+
+Defense
+Backlog 
+
+ GreyStone s backlog at March 31, 2001 was approximately 850,000.
+GreyStone s backlog at March 31, 2000 was approximately 405,000. All
+of the backlog is expected to be completed within the company s fiscal
+year 2002, ending March 31, 2002. All U.S. Government contracts are
+subject to termination at the convenience of the Government, whereupon
+the company would only be paid for work completed up to the termination
+date.
+
+Government
+Business Strategy 
+
+ We have focused our core software products and services on Command,
+Control, Communications, Computers and Intelligence (C4I) and modeling
+and simulation. In addition to software license sales, GreyStone
+provides, on a contract basis, advanced engineering and software
+development services to the military and its contractors. Our strategy
+the past year has been to:
+
+(1) Pursue large and growing opportunity in simulation, modeling
+and training: We have focused software products and services in the
+government-defined growth areas of simulation, advanced visualization
+and artificial intelligence and taken advantage of the government s
+mandate for commercial-off-the-shelf (COTS) solutions applications. We
+have been on the winning teams for seven such contracts in the past
+year, giving us eleven contract vehicles through which to pursue
+simulation-based engineering services.
+
+(2) Penetrate New Markets Via Strategic Relationships: We have
+pursued an aggressive teaming strategy with large and small businesses
+to gain access to new customers. We chose incumbent contractors whose
+technology complimented ours or for whom our virtual environments
+offered them a competitive advantage in renewing their contracts. We
+also accepted teaming agreements with new firms in the interest of
+participating in larger multiple contracts for a variety programs that
+we might not normally access. We engaged in teaming and ongoing
+relationships with, CSC Nichols, Motorola, SAIC, and three small
+businesses, all of which have a loyal customer base for which our
+technology adds new solutions.
+
+(3) Gain Access to New Technologies: Much of GreyStone s current
+capabilities and technology base has been achieved through targeting
+contracts from government research laboratories and organizations in
+order to gain access to emerging technologies. This important segment of
+the government market often funds high-risk technology initiatives and
+supports GreyStone s strategy of applying its technology across all of
+our business areas and products. This has been true particularly in
+promoting GreyStone s role in optimizing commercial image generator
+technology. As the government customer
+
+Table of Contents 
+
+ seeks lower cost computer workstations to host virtual environments,
+they are funding continued development of the software products on these
+new, more affordable hardware systems.
+
+GreyStone has been able to offer our government customers
+real-time, distributed, networked virtual environments on PCs because
+the technology base at GreyStone was already operating on PCs to satisfy
+GreyStone s commercial customers in the software games business. This
+common technology base creates a synergy in the company that helps us
+pull innovative and cost-effective methods for sharing and displaying
+data used in the commercial industry for our government customers.
+
+COMMERCIAL BUSINESS 
+ Mercracer
+3000 Program 
+
+ During the past fiscal year we introduced the Mercury motion-based
+entertainment system (MercRacer 3000 using the Canyon
+Fighter game, a derivative of our XS-G game as a
+first featured game content. In addition, we continued development of a
+new game designed specifically to take advantage of the exciting
+experience that the Mercury system provided. In December 2000, we
+executed an agreement with Virtual Distribution, Inc. (VDI) to purchase
+and exclusively distribute GreyStone s MercRacer 3000. Under the
+agreement, VDI was to purchase and GreyStone was to deliver 20 MercRacer
+3000 platforms by February 2001, a total of 150 systems by June 2001,
+and VDI was to continue placing orders for delivery of a minimum of 350
+systems through June 2002. After a series of delays in VDI s
+performance, in March 2001 we learned that VDI s parent corporation had
+disbanded VDI completely. As a result of VDI s demise, the lender of
+our line of credit called the loan, thereby disabling our ability to
+complete the production run of MercRacer units.
+
+As a result of the above events and our inability to immediately
+secure additional funding to maintain our entertainment business
+operations, we were forced to terminate the MercRacer program. As of the
+date of this report, we have stopped the development and production of
+all entertainment products and content.
+
+Virtual Info-Space 
+
+ During this past year we began to develop new products and services
+that could exploit the growth and potential of the Internet and wireless
+communication technology. These products and services were to be
+marketed primarily to the e-based business market, which we defined as
+those companies that seek to apply the reach and efficiency of the
+Internet to enhance their competitive market position and operational
+effectiveness. The products and services were intended to help
+businesses to acquire, manage, and distribute information in a more
+valuable and useful way.
+
+On January 23, 2001, GreyStone signed a services agreement to
+provide applications of Virtual Info-Space to OptMark Inc., a newly
+organized private company based in Corona, CA. Under the agreement,
+OptMark agreed to pay GreyStone 1.3 million over a nine to twelve month
+period for development of software applications that OptMark intended to
+market to provide customers with enhanced interactive content for
+wireless media platforms. The agreement also provided for GreyStone to
+receive continuing royalty payments from OptMark and for GreyStone to
+make a 100,000 equity investment in OptMark, which would represent a
+50 ownership of OptMark. In March 2001 OptMark had been unable to
+raise the money to pay GreyStone to develop the software and the two
+parties agreed to abandon
+the agreement. GreyStone had paid 30,000 of the 100,000 equity
+investment by the time the relationship ended. The 30,000 was
+written off in the period ended March 31, 2001.
+
+As of the date of this report, we have suspended the development of
+all Virtual Info-Space products and services. Although development has
+been suspended, we still plan to one day pursue this area and may
+consider a merger or acquisition to support our efforts.
+
+GreyStone's commercial business, including the
+MercRacer program and the Virtual Info-Space project have been
+treated as discontinued operations in the financial statements which
+accompany this report. 
+
+Table of Contents 
+
+Strategic Business Acquisitions or Mergers 
+
+ We may acquire or merge with businesses and engage the best
+professional talents to achieve our objectives at a faster pace when
+these actions are likely to lower our risk and improve our
+profitability. To advance our strategy we will consider business
+combinations with businesses that can benefit from our ability to apply
+advanced digital technology to solve problems and communicate better.
+Certain businesses that integrate communication systems and simulation
+systems, or have established e-commerce reach, or address an established
+community of common interest, or have an established communications
+network may advance our strategic plan.
+
+On January 14, 2000 GreyStone executed a letter of intent for the
+acquisition of a company that designs, builds, and sells forensic
+surveillance, mobile intelligence, and communications platforms.
+GreyStone chose not to pursue a business combination. The proposal for
+forensic vehicles and command and control systems for a national
+security agency in South America is still pending and the two companies
+have executed a teaming agreement regarding the opportunity.
+
+In support of the relationship between GreyStone and the target
+company, GreyStone loaned the target company president 500,000 in
+November 1999 and 100,000 in February 2000. The loans were
+collateralized by all of the borrower s stock in the target company. The
+loans have been extended by GreyStone three times, and most recently
+matured on November 18, 2000. Total principal and unpaid interest
+accrued through March 31, 2001 is 670,097. GreyStone has requested
+repayment of the loans and has received 27,500 this calendar year. A
+reserve was taken in the period ended December 31, 2000 for the loans.
+
+In June 2000 GreyStone purchased inventory from the target company,
+with a cost basis of 330,000, and purchased an account receivable for
+ 135,000. GreyStone has been unable to resell the inventory to-date and
+was unable to collect on the account receivable. A reserve for the
+entire amount of these purchases was taken in the period ended March 31,
+2001.
+
+Research and Development 
+
+ Our success will depend to a substantial degree upon our ability to
+develop and introduce in a timely fashion new products and enhancements
+to our existing products that meet changing customer requirements and
+emerging industry standards. We have made and plan to continue to make
+substantial investments in research and development. In the year ended
+March 31, 2001, our research and development expenses related to
+continuing operations were 634,312. This compares to 568,063 in 2000
+and 232,663 in 1999.
+
+We have focused our development efforts on the development of RAGE,
+our visualization and simulation software, and the UAV Toolkit software
+for the Government sector, the XS-G game and the Mercury motion-based
+entertainment system for the Commercial sector, and the GreySim tools
+which support both business sectors.
+
+Our research and development efforts have been coordinated by the
+Strategic Technology Unit, whose responsibility was to develop and
+demonstrate advanced technologies for use in GreyStone s products. These
+research and development projects included the exploration of basic
+technology alternatives, maturation of critical technology components,
+and the execution of cooperative technology ventures. As of the date of
+this report the majority of activities in the Strategic Technology Unit
+have been suspended.
+
+Table of Contents 
+
+Research and development expenses primarily consist of salaries and
+related costs of employees engaged in ongoing research, design and
+development activities and subcontracting costs. As of March 31, 2001,
+we had 24 employees engaged in research and development for continuing
+operations.
+
+Competition 
+
+ GreyStone experiences substantial competition in its defense and
+entertainment markets and believes its principal competitive advantages
+to be its reputation and experience in its selected market areas,
+creativity in applying existing and GreyStone proprietary technology to
+new applications that meet customer requirements, technical assistance
+to its customers, and price.
+
+GreyStone believes that it has a competitive advantage with its
+government software product, RAGE, which has been identified by the
+government in several sole source award announcements as a requirement
+for award performance. While GreyStone believes that this competitive
+advantage may continue, for an unknown period of time, there is no
+guarantee that the government will continue to identify GreyStone s
+software as a continuing requirement for such awards.
+
+GreyStone competes against established corporations in the
+government market that have substantially greater financial and other
+resources than GreyStone. In the past, GreyStone has worked closely with
+several companies as a sub-contractor. No assurances can be given that
+GreyStone will be successful in maintaining or enhancing these
+relationships in the future. GreyStone considers the principal
+competitors for its government products and services to include Science
+Applications International Corporation (SAIC), Cubic Corporation,
+Logicon, TRW and others. There can be no assurance that GreyStone will
+be able to compete with these and other companies for future government
+contracts or that such contracts, upon successful award, will be on
+terms favorable to GreyStone.
+
+The markets for interactive 3-D software products are still
+emerging, and we expect the number of competitors to increase. Companies
+having greater financial resources may be able to make greater
+investments in research and development, engage in more extensive
+marketing campaigns, carry large inventories, adopt more aggressive
+pricing policies and make more attractive offers to customers. We
+believe that large entertainment and computer companies are increasing
+their focus on the interactive 3-D software entertainment market, which
+will stimulate further competition.
+
+GreyStone s competitors range from small companies with limited
+resources to large companies with greater financial, technical and
+marketing resources. GreyStone s future success in its government
+markets will depend upon, among other things, its ability to withstand
+competition from larger companies, to obtain and retain competent
+personnel to successfully accomplish its obligations under its various
+contracts and agreements and to productively extend its technological
+expertise to new applications. All of these factors are subject to
+uncertainty.
+
+Patents and Proprietary Rights 
+
+ GreyStone applies for patents, or other appropriate proprietary or
+statutory protection, when it develops valuable new or improved
+technology. As of March 31, 2001, GreyStone has one design patent as
+well as certain trademarks and copyrights. The status of patents
+involves complex legal and factual questions and the breadth of claims
+allowed is uncertain. There can be no assurance that its patent will
+afford effective protection against competitors with similar technology;
+nor can there be any assurance that patents issued to GreyStone will not
+be infringed upon or designed around by others or that others will not
+obtain patents that GreyStone would need to license or design around. If
+the courts uphold existing or future patents containing broad claims,
+the holders of such patents might be in a position to require companies
+to obtain licenses. There can be no assurance those licenses that might
+be required for
+GreyStone s products would be available on reasonable terms, if at all.
+
+Table of Contents 
+
+In addition to patent and copyright law, GreyStone relies on trade
+secrets and proprietary know-how, which it seeks to protect in part by
+confidentiality agreements with its strategic partners, employees,
+consultants, vendors and licensees. GreyStone s agreements prohibit
+unauthorized disclosure or reverse engineering of GreyStone s systems.
+However, GreyStone expects that third parties may attempt to reverse
+engineer its technology. There can be no assurance that GreyStone s
+confidentiality agreements will not be breached or that GreyStone would
+have adequate remedies for any breach. The law concerning reverse
+engineering by a person or entity that has not signed a license
+agreement is currently uncertain. As a result, GreyStone may not have an
+adequate remedy if a competitor disassembles or reverse engineers
+products based on GreyStone s proprietary technology even if trade
+secret or copyright law protects GreyStone s technology.
+
+GreyStone relies in part on copyright laws to prevent unauthorized
+duplication or distribution of its software, written materials and
+audiovisual works. Existing copyright laws afford only limited
+protection, particularly in certain jurisdictions outside the United
+States where GreyStone may seek to
+license its technology.
+
+As used in this document, RAGE is a trademark of GreyStone. In June
+1998 GreyStone applied for registration of XS-G as a trademark. Notice
+of allowance was issued in August 1999.
+
+Employees 
+
+ GreyStone had 52 full-time employees as of March 31, 2001. 24 of
+these employees are in research and product development related
+activities, one in manufacturing and eight in GreyStone s business
+sectors, marketing and sales, and finance and administration. 19
+additional employees were assigned to operations which have since been
+discontinued. As of July 6, 2001, GreyStone had 33 full- time
+employees. GreyStone is not a party to any collective bargaining
+agreement, and GreyStone believes its relations with employees to be
+adequate.
+
+Factors Which May Affect Future Performance 
+
+ Risks Related to GreyStone s Operations 
+
+GreyStone s revenues are principally generated from sales and services
+to the U.S. Government and its contractors. 
+
+To date, substantially all of GreyStone s revenues have come from
+sales and services to U.S. government agencies and contractors.
+GreyStone s contracts are subject to funding limitations for the
+convenience of the government. Cancellations or delays of government
+projects or activities will have a significant impact on GreyStone s
+results of operations and financial condition. Because GreyStone tends
+to work on only a few projects at any time, cancellations or delays can
+affect GreyStone more adversely than larger companies.
+
+It is possible that the U.S. government may spend less money on
+military-related technology in the future or that GreyStone in any event
+will not be successful in attracting new government business in the
+future. While the total amount of expenditures should remain in the
+billions of dollars and GreyStone believes that an increasing proportion
+of these expenditures will be budgeted to software and related
+technologies, there can be no assurance that the purchases by the U.S.
+government or its contractors will remain at or above current levels.
+Any inability by GreyStone to offset declines in government business
+with sales to the commercial market or other governments would affect
+GreyStone materially and adversely.
+
+Table of Contents 
+
+GreyStone s government contracts can be terminated at any time . 
+
+ All government contracts and, in general, subcontracts under them
+may be terminated at any time at the convenience of the United States
+Government. Government contracts also may be canceled if the necessary
+funds are not appropriated by Congress. Since Congress normally
+appropriates funds only one fiscal year at a time, longer term
+government contracts are usually only partly funded at any time. If any
+of GreyStone s government contracts or subcontracts were to be
+terminated or canceled, GreyStone generally would only be entitled to
+receive payment for work completed and allowable termination or
+cancellation costs. Termination or cancellation of GreyStone s
+contracts or subcontracts could have a material adverse effect on
+GreyStone.
+
+GreyStone needs capital now and will need additional capital in the
+future, which may not be available on acceptable terms. 
+
+To finance its business plan and negative cash flow GreyStone has
+continually needed to obtain debt and equity financing on a private
+basis. Cash deficiencies in the past and at the time of this report have
+required GreyStone to defer payment of its obligations and impeded its
+operations and development. Although GreyStone has been able in the past
+to fund operations by selling shares and borrowing, there is no
+assurance that it can continue to do so.
+
+Historically, the company has funded its operations primarily
+through private sales of common and preferred stock, and borrowings.
+The stock sales have been made pursuant to private placements and
+exemptions from registration under the Securities Act of 1933. The
+Company raised approximately 6,000,000, 5,000,000, and 3,577,000
+during its business years ended March 31, 2001, 2000 and 1999,
+respectively. The funds raised in the recent business year was
+primarily from the sale of convertible preferred stock 4,500,000),
+borrowings from a one-year line of credit 845,000), and short term
+borrowings from the company s principal stockholder, officers, and other
+private lenders.
+
+On March 31, 2001, GreyStone s total current assets were 699,973
+and total current liabilities were 3,793,599, which resulted in a working
+capital deficiency of 3,093,626.
+
+No assurance can be given that additional equity capital or
+borrowings will be available to GreyStone on favorable terms, if at all.
+Nor is there any assurance that GreyStone s results from operations will
+improve, or that its financial condition will improve.
+
+GreyStone presently anticipates that its expenditures will continue
+to exceed its revenues from its operations if there is not a significant
+improvement in its revenues. If GreyStone s revenues do not increase
+substantially, and if there are any significant delays in raising
+additional capital, then GreyStone may face the risk of not having
+enough cash or other resources to continue to operate its current
+business plan. Without increased revenues, or the ability to raise
+additional capital, GreyStone could be compelled to curtail or even
+cease operations. If this were to happen, GreyStone shareholders could
+lose all or part of their investment.
+
+GreyStone s quarterly results are likely to fluctuate significantly and
+may be below the expectations of analysts and investors. 
+
+GreyStone s quarterly revenues, operating results and cash flows
+vary. Factors which cause this fluctuation include:
+
+the uncertainty in timing of the payments on government
+contracts;
+
+the reduction in size, delay in starting-time, interruption,
+or termination of one or more significant projects or contracts
+during a quarter;
+
+Table of Contents 
+
+the delays in the research, development and introduction of
+new products; and
+
+general economic conditions which may affect the ability of
+GreyStone to sell its products to the government and government
+contractors.
+
+The timing of payments on government contracts depends on
+government project schedules. When a project does not start on time or
+proceeds slowly GreyStone s financial condition and results of
+operations can be harmed. Because a majority of GreyStone s operating
+expenses, including salaries, depreciation and rent, are largely fixed
+before a quarter begins, GreyStone has only a limited ability to protect
+itself from these delays. GreyStone believes that quarterly revenues and
+operating results are likely to vary significantly in the future and
+that period-to-period comparisons of its revenues and operating results
+are not necessarily meaningful and should not be relied upon as
+indications of future performance.
+
+GreyStone will not be able to accurately predict the success of its
+future operations and you should not rely on GreyStone s forward-looking
+statements. 
+
+Forward-looking statements have been made in the Company Business 
+section and elsewhere in this document. Forward-looking statements are
+all those which are not about historical fact, and include, but are not
+limited to, information concerning:
+
+business strategy, future operations and results of operations;
+
+the ability of GreyStone to continue its operations
+
+the ability of GreyStone s shareholders to sell their shares in the over-the-counter market;
+
+the ability of GreyStone to raise additional capital; and
+
+other statements which include believes, expects, 
+ anticipates , intends, estimates or similar expressions.
+
+While these statements are based on GreyStone s current
+expectations, they are subject to important risks and uncertainties and
+should not be relied on as predictions of what will happen. Factors that
+may cause actual results to differ from the statements which have been
+made include, but are not limited to, the other risk factors discussed
+in this document. Forward-looking statements should not be seen as
+representations that they will be realized, and GreyStone is assuming no
+obligation to update them if they should become aware that the
+statements may not be realized.
+
+GreyStone depends on key engineering, technical and other personnel
+skilled in government contracting and may have difficulty retaining and
+attracting these skilled employees in the future. 
+
+GreyStone s recent cash inadequacies and suspension of the Commercial,
+Virtual Info-Space, and Strategic Technology groups have had, and may
+continue to have a negative effect in its ability to implement the
+business plan. GreyStone s future success depends to a significant
+extent on the continued service of its senior management and other key
+employees. The loss of any of these individuals could have a material
+adverse effect on GreyStone s business and results of operations.
+GreyStone also believes that its future success will depend, in large
+part, on its ability to attract and retain highly skilled employees in a
+variety of disciplines. Competition for such employees within the
+computer industry is intense, and there can be no assurance that
+GreyStone will be successful in attracting and retaining such personnel.
+
+We may engage in future mergers or acquisitions that dilute or
+stockholders equity and cause us to incur debt or assume contingent
+liabilities. 
+
+Table of Contents 
+
+We may pursue acquisitions that could provide new technologies or
+products. Future acquisitions may involve the use of significant amounts
+of cash, potentially dilutive issuances of equity or equity-linked
+securities, the incurrence of debt, or amortization expenses related to
+goodwill and other intangible assets.
+
+In addition, acquisitions involve numerous risks, including:
+
+difficulties in the assimilation of the operations,
+technologies, products and personnel of the acquired company;
+
+the diversion of management s attention from other business concerns;
+
+risks of entering markets in which we have no or limited prior experience; and
+
+the potential loss of key employees of the acquired company.
+
+We do not plan to pay cash dividend on our common stock. 
+
+ We have never paid cash dividends on our common stock and do not
+anticipate paying any cash dividends in the foreseeable future. We
+intend to retain future earnings, if any, to finance the growth and
+expansion of our business and for general corporate purposes.
+
+Risks related to the digital technology market 
+
+ GreyStone s market is characterized by rapid technological change and
+its products and services could become obsolete or fail to gain market
+acceptance. 
+
+GreyStone s success will depend on its ability to develop and introduce
+products which keep pace with the technological advances in a number of
+different disciplines, and to respond to rapidly changing customer
+preferences and tastes. GreyStone must also introduce new and innovative
+entertainment products frequently to attract and maintain consumer
+interest. There is no guarantee that GreyStone can give assurance that
+it will be successful in developing or marketing products that
+incorporate technological advances, or that adequately address changing
+customer preferences on a timely basis, if at all. Furthermore, even if
+GreyStone is able to successfully develop and market products that
+incorporate technological advances, there is no guarantee that these
+products will gain customer acceptance.
+
+GreyStone may experience delays in product introduction or defects in
+software code which could adversely affect its business and results of
+operations. 
+
+GreyStone could experience delays in new product introductions.
+GreyStone s new products could contain undetected or unresolved errors
+in the software code base when they are first introduced or when newer
+versions of the earlier products are released. Despite extensive
+testing, GreyStone may not detect all
+software errors in its new products and product upgrades. Delays in
+product introductions and undetected errors in software could result in
+an inability of GreyStone products to gain market acceptance.
+GreyStone s inability to resolve these issues could have a negative
+effect on business and operations.
+
+Government markets are intensely competitive and GreyStone may not be
+able to compete successfully. 
+
+GreyStone competes against established corporations that have
+substantially greater resources than GreyStone. GreyStone has often
+worked closely with several companies as a sub-contractor, but there can
+be no assurances that GreyStone will be successful in maintaining or
+enhancing these relationships in the future.
+
+Table of Contents 
+
+GreyStone considers its principal competitors for government
+products and services to include SAIC, Cubic Corporation, Logicon, TRW
+and others. There can be no assurance that GreyStone will be able to
+compete with these and other companies for future government contracts.
+Even if GreyStone is awarded contracts, there can be no assurance that
+the contracts will be on terms favorable to GreyStone.
+
+GreyStone believes that competition will intensify in the future,
+and that its ability to compete successfully depends on a number of
+factors, including the following:
+
+GreyStone s market presence;
+
+the reliability and quality of its software products and the
+hardware on which GreyStone s software products operate;
+
+the pricing and timing of services and products by GreyStone
+and its competitors;
+
+GreyStone s ability to retain and attract qualified and
+experienced engineering and other technical personnel,
+
+GreyStone s ability to react to changes in the market; and
+
+industry and economic trends.
+
+While GreyStone believes that its products may compare favorably to
+those offered by competitors, there can be no assurance that GreyStone s
+products will gain market acceptance or that they will compete
+successfully. Moreover, competitors might develop products or
+technologies that will have broader market
+acceptance than GreyStone s or make GreyStone s products non-competitive
+for other reasons. In addition, GreyStone believes that the game
+industry is consolidating, which may lead to the creation of larger,
+better-financed competitors. If GreyStone is not able to compete
+effectively with other 3-D software vendors, GreyStone s business and
+results of operations will be harmed.
+
+GreyStone depends largely on its intellectual property, for which legal
+protection may not be available nor sufficient. 
+
+GreyStone relies on a combination of patent, trade secret,
+contract, copyright and trademark law to protect its products and
+technology. As of the date of this report, GreyStone had one patent
+issued, one registered copyright and two registered trademarks.
+
+While GreyStone generally enters into confidentiality and/or
+license agreements with its employees, customers and potential customers
+and limits access and distribution of its products, documentation and
+other proprietary information, there can be no assurance that these
+steps will be sufficient to prevent the theft or independent third party
+development of its technology.
+
+If technology or intellectual property of GreyStone infringes on the
+intellectual property of others, GreyStone may incur liabilities and
+expense and may be required to stop using the infringing technology. 
+
+While GreyStone believes that its technology does not infringe upon
+the intellectual property rights of other parties, there can be no
+assurance that third parties will not assert infringement claims against
+GreyStone. If any such claims are asserted and upheld, there could be a
+material adverse effect on GreyStone s business and results of operations.
+
+Table of Contents 
+
+Risks Relating to Security Markets 
+
+There has been limited public market for GreyStone stock and the stock
+price is likely to be highly volatile. 
+
+GreyStone s common stock is quoted on the OTC-BB. Its total average
+daily trading volume during the 20 trading period preceding the date of
+this report was 83,060 shares with an average daily total quoted trading
+value of 19,042 (based on the daily high bid price). There can be no
+assurance that the trading volume or price for GreyStone common stock
+will increase in the near future.
+
+The market price of GreyStone s common stock may be subject to
+significant fluctuations. 
+
+Some factors which may cause fluctuation include:
+
+changes in the business, operations, financial results and
+prospects of GreyStone; 
+
+announcements of new products by competitors; 
+
+fluctuations in the stock market that are unrelated to the
+operating performance of particular companies;
+
+more shares of GreyStone stock being available for sale after
+the issuance of preferred stock conversion shares and shares
+underlying options and warrants;
+
+general market and economic conditions; and
+
+other factors, such as the exercise of warrants, options, or
+sale of new common or preferred shares.
+
+Because 33 of the outstanding stock of GreyStone is beneficially owned
+by directors and officers as a group, other investors will have limited
+influence over management decisions. 
+
+As of June 30, 2001, directors and executive officers of GreyStone,
+as a group, beneficially owned approximately 33 of the outstanding
+stock of GreyStone (including shares underlying exercisable options and
+warrants to purchase GreyStone stock). Richard A. Smith, GreyStone s
+founder owns directly and with his spouse, approximately 26 of the
+outstanding stock. As a result, the current directors and executive
+officers of GreyStone, if acting together, would be able to
+significantly influence most matters requiring the approval of the
+stockholders of GreyStone. The voting power of these stockholders can
+delay a change in control of GreyStone.
+
+GreyStone s board of directors will have broad discretion in issuing
+preferred stock, which may have an adverse effect on the rights of the
+holders of common stock. 
+
+The board of directors of GreyStone is authorized to issue
+3,000,000 shares of preferred stock without any vote or action by the
+stockholders of GreyStone. The board of directors have the authority to
+issue preferred stock in one or more series and to fix the rights,
+preferences, and restrictions thereof, including:
+
+Dividend rights and rates,
+
+Conversion rights,
+
+Voting rights,
+
+Table of Contents 
+
+Terms of redemption,
+
+Redemption prices,
+
+Liquidation preferences, and
+
+The number of shares constituting a series or the designation of
+such series.
+
+GreyStone believes the power to issue preferred stock provides
+desirable flexibility in connection with possible acquisitions or other
+corporate purposes. However, the issuance of preferred stock could have
+the effect of delaying, deferring or preventing a change of control of
+GreyStone without further actions by the stockholders. In addition, it
+may adversely affect the market price of the common stock and the voting
+rights of the holders of common stock.
+
+Conversion of our preferred stock and subsequent public sale of our
+common stock while its market price is declining may result in further
+decreases in its price. 
+
+As of June 30, 2001, we had outstanding 3,184 shares of convertible
+preferred stock. Each share of preferred stock has a stated value of
+ 1,000 per share and is convertible into common stock at a conversion
+price equal to the lesser of (i) 4.00 per share or (ii) 80 of the
+volume weighted average price per share of the 250,000 shares traded
+preceding the conversion notice date. Since there is no minimum
+conversion price, there is no limit on the number of shares of common
+stock that holders of preferred stock may acquire upon conversion.
+Holders of our preferred stock may sell at market price the shares of
+common stock they have acquired upon conversion at a 20 discount to
+prevailing market prices concurrently with, or shortly after,
+conversion, realizing a profit equal to the difference between the
+conversion price and the market price. The holders of the preferred
+stock also could engage in short sales of our common stock after
+delivering a notice of conversion to us, which could contribute to a
+decline in the market price of the common stock and give them the
+opportunity to profit from that decrease by covering their short
+position with shares acquired upon conversion at a 20 discount to the
+prevailing market price. The conversion of the preferred stock and
+subsequent sale of a large number of shares of common stock acquired
+upon conversion during periods when the market price of the common stock
+declines, or the possibility of such conversions and sales, may
+exacerbate the decline or impede increases in the market price of the
+common stock.
+
+Conversion of our outstanding preferred stock, the exercise of our
+outstanding warrants and stock options and subsequent public sale of our
+common stock will result in substantial dilution to existing
+stockholders. 
+
+As of July 6, 2001, we had outstanding 29,749,034 shares of common
+stock. An indeterminate number of shares may be acquired upon conversion
+of our outstanding preferred stock since there is no minimum conversion
+price. At an assumed conversion price of 0.13 per share (based on 80 
+of the closing price of GreyStone s common stock on July 6, 2001),
+holders of preferred stock could acquire upon conversion 33,077,091
+shares of common stock, or approximately 111 of the shares outstanding
+as of July 6, 2001. On that same date 11,009,096 shares may be acquired
+upon exercise of outstanding warrants at exercise prices ranging from
+ .60 to 12.00 per share and 5,911,851 shares may be
+acquired upon exercise of outstanding stock options at exercise
+prices ranging from .275 to 6.80 per share. Existing
+stockholders will experience substantial dilution in their percentage
+ownership of our common stock if our preferred stock is converted and
+warrants and stock options are exercised. If all of the outstanding
+preferred stock are converted at an assumed conversion price of .13 per
+share, and all outstanding warrants and stock options are exercised, the
+number of outstanding shares of common stock will increase by
+49,998,038 shares, representing approximately 168 of the outstanding common stock
+as of July 6, 2001. 
+
+Table of Contents 
+
+ Sales of substantial amounts of our common stock, or the possibility of
+such sales, may have an adverse effect on the market price of our common
+stock and impair our ability to raise capital through an offering of
+equity securities in the future. 
+
+If our securityholders sell publicly a substantial number of shares
+they own or may acquire upon exercise of outstanding options and
+warrants or upon conversion of our preferred stock, then the market
+price of our common stock may decline. Public perception that those
+sales will occur may also exert downward pressure on our common stock. A
+decline in the price of our common stock may also impair our ability to
+raise capital through the sale of equity securities.
+
+Item 2. Properties 
+
+ GreyStone leases approximately 27,600 feet of office and research
+and development space at 4950 Murphy Canyon Road, San Diego, CA 92123.
+The initial term of the lease expires on December 14, 2003, and
+can be renewed for an additional five year term subject to an
+adjustment of the rent to market rates. As of August 1, 2001, GreyStone
+will reduce its occupancy to one-half of the leased space, with the
+building s owner occupying the other half. We believe that the reduced
+facilities will be adequate to meet our needs throughout the remainder
+of the lease period.
+
+Item 3. Legal Proceedings 
+
+ On December 29, 2000 the Company initiated a temporary suspension
+of conversions of Series A preferred stock into common stock in order to
+prevent further degradation in the market price of the Company s common
+stock. On January 5, 2001 one of the 13 Series A preferred stockholders
+filed suit against the Company in the United States District Court,
+Southern District of New York for breach of contract for failure to
+honor conversions, and for an order to compel the Company to honor
+conversions. The stockholder also asked for a temporary injunction to be
+issued compelling the Company to honor any of stockholder s conversion
+notices. The order was granted on January 12, 2001. A second preferred
+stockholder joined the suit in March 2001, and the case was dismissed on
+June 19, 2001. A similar case was filed in the same court by a group of
+four other preferred stockholders on March 2, 2001, and the case was
+dismissed on March 23, 2001. Both suits were dismissed upon the
+company s agreement to continue to honor all conversion notices.
+
+On May 25, 2001 a lawsuit was filed against GreyStone by Mahan &
+Nash, a public relations service provider, in the Superior Court of the
+State of California, County of Los Angeles for the payment of 68,000
+in unpaid fees earned under a service contract. The Company has answered with a general denial and
+hopes to have the matter settled before the status conference, which is
+scheduled for September 14, 2001.
+
+On June 29, 2001 a lawsuit was filed against GreyStone and Richard
+A. Smith by Capital Solutions Fund LLC, the lender of the Company s
+February 2001 line of credit, in the Superior Court of the State of
+California, County of San Diego for breach of contract and fraud. A
+total of 1,050,000 (including 205,000 in loan fees) was drawn on the
+line of credit before the line was called by the lender. The line was
+called as a result of the March 2001 dissolution of GreyStone s
+exclusive distributor of the MercRacer entertainment system by the
+distributor s parent corporation. GreyStone s answer to the suit is due
+by August 2, 2001. Both GreyStone and its CEO, Richard Smith,
+vehemently deny the claims and intend to vigorously defend against the
+suit.
+
+Item 4. Submission of Matters to a Vote of Security Holders 
+
+ No matters were submitted to a vote of security holders during the
+quarter ended March 31, 2001.
+
+Table of Contents 
+
+PART II 
+
+Item 5. Market for Registrant s Common Equity and Related Stockholder Matters 
+
+ (a) The Company s Common Stock, 0.001 par value per share, traded
+on The Nasdaq OTC Bulletin Board under the symbol EXCC from May 1988
+until December 23, 1999, and under the symbol GSTN from December 23,
+1999 until August 21, 2000. The Company s Common Stock traded on the
+Nasdaq Small Cap Market under the trading symbol GSTN from August 22,
+2000 until June 21, 2001, when it was delisted for failing to meet the
+minimum market capitalization/net tangible assets/net income criteria,
+an also for not having the requisite minimum three independent members
+of the audit committee of the board of directors. The Company s Common
+Stock has traded on the Nasdaq OTC Bulletin Board under the symbol
+ GSTN since June 21, 2001. The following table sets forth the range of
+high and low bid prices for the Common Stock as reported by the Nasdaq
+OTC Bulletin Board and Nasdaq Small Cap Market during each full
+quarterly period during the three most recent fiscal years. The data
+through December 23, 1999 gives retroactive effect to a 41.66667 to 1
+(reverse) stock split.
+
+FISCAL YEAR 2000 
+ 
+ HIGH BID 
+ 
+ LOW BID 
+
+First Quarter to 6/30/99 
+
+20.833 
+
+7.917 
+
+Second Quarter to 9/30/99 
+
+20.833 
+
+7.917 
+
+Third Quarter to 12/31/99 
+
+41.667 
+
+9.115 
+
+Fourth Quarter to 3/31/00 
+
+13.250 
+
+4.875 
+
+FISCAL YEAR 2001 
+ 
+ HIGH BID 
+ 
+ LOW BID 
+
+First Quarter to 6/30/00 
+
+5.750 
+
+3.125 
+
+Second Quarter to 9/30/00 
+
+6.500 
+
+2.937 
+
+Third Quarter to 12/31/00 
+
+4.875 
+
+0.906 
+
+Fourth Quarter to 3/31/01 
+
+1.718 
+
+0.218 
+
+The over-the-counter market quotations reflect inter-dealer prices,
+without retail mark-up, mark-down or commission and may not necessarily
+represent actual transactions.
+
+(b) As of June 30, 2001 there were 21,727,034 shares of common
+stock outstanding held by approximately 1,750 holders of record.
+
+(c) No cash dividends have been paid on the Company s Common Stock
+during the Company s two most recent fiscal years, and the Company does
+not intend to pay cash dividends on its Common Stock in the
+foreseeable future.
+
+On May 22, 2000 GreyStone completed the sale of 5,000,000 in
+convertible preferred stock to a group of 13 accredited investors. The
+sale was made in reliance upon the exemption from securities
+registration afforded by Rule 506 of Regulation D as promulgated by the
+United States Securities and Exchange Commission under the Securities
+Act of 1933, as amended or Section 4(2) of the Act, which permits a sale
+of securities by an issuer for fewer than 35 accredited or knowledgeable
+investors. The company issued 5,000 shares of Series A Preferred Stock,
+convertible into common stock at a rate of the lower of (1) 250 shares
+of common stock per share of preferred stock (equivalent to an
+investment of 4.00 per share of common stock issued) or (2) 80 of the
+volume weighted average price for the previous 250,000 shares traded
+prior to submission by the preferred shareholder of a conversion notice
+to the company. The preferred stock carries a dividend of 8 per year,
+payable at the election of the company in common stock or cash. The
+Series A investors also received 5-year warrants to purchase 1,250,000
+shares of common stock at an exercise price of 5.38 per share, and
+registration rights on the conversion shares and the shares issuable
+upon the exercise of the warrants. After payment of a 10 
+
+Table of Contents 
+
+ commission for introducing the investors to the company, and legal
+fees totaling approximately 50,000, the company received net proceeds
+of 4,450,000 which it used for general corporate purposes.
+
+On July 7, 2001 GreyStone completed the sale of 631,000 of common
+stock to 11 accredited investors. The sale was made in reliance upon
+the exemption from securities registration afforded by Regulation D as
+promulgated by the United States Securities and Exchange Commission
+under the Securities Act of 1993, as amended, or Section 4(2) of the
+Act, which permits a sale of securities by an issuer for fewer than 35
+accredited or knowledgeable investor. The company issued 8,022,000
+shares of common stock, which included 1,112,000 shares issued to 2
+parties who introduced the investors to the company s private placement.
+The proceeds were used for general corporate purposes.
+
+Item 6. Selected Financial Data 
+
+ The selected financial data as of March 31, 2001, 2000, 1999, 1998,
+and 1997 and for each of the years in the five year period ended March
+31, 2001 have been derived from the Company s audited financial
+statements. The selected data set forth below is qualified in its
+entirety by reference to and should be read in conjunction with
+ Management s Discussion and Analysis of Financial Condition and Results
+of Operations and the Financial Statements and related notes thereto
+included elsewhere in this report.
+
+Years Ended March 31, 
+
+2001 
+ 
+ 2000 
+ 
+ 1999 
+ 
+ 1998 
+ 
+ 1997 
+
+Statement of Operations Data: 
+
+Revenues 
+
+2,367,731 
+
+1,850,883 
+
+2,090,902 
+
+2,111,966 
+
+1,933,593 
+
+Expenses: 
+
+Cost of revenues 
+
+2,160,860 
+
+1,153,586 
+
+1,261,798 
+
+1,181,728 
+
+1,317,125 
+
+Marketing and sales 
+
+965,039 
+
+733,506 
+
+654,759 
+
+490,401 
+
+504,244 
+
+Research and development 
+
+634,312 
+
+568,063 
+
+232,653 
+
+120,902 
+
+287,360 
+
+General and administrative 
+
+3,759,060 
+
+3,482,042 
+
+2,044,392 
+
+3,420,898 
+
+2,087,877 
+
+Total expenses 
+
+7,519,271 
+
+5,937,197 
+
+4,193,602 
+
+5,213,929 
+
+4,196,606 
+
+Loss from operations 
+
+(5,151,540) 
+
+(4,086,314) 
+
+(2,102,700) 
+
+(3,101,963) 
+
+(2,263,013) 
+
+Other
+(expense) income 
+
+(2,640,901) 
+
+84,407 
+
+(99,944) 
+
+(201,941) 
+
+(615,240) 
+
+Loss from continuing operations 
+
+(7,792,441) 
+
+(4,001,907) 
+
+(2,202,644) 
+
+(3,303,904) 
+
+(2,878,253) 
+
+Loss from discontinued operations 
+
+(1,920,056) 
+
+(485,319) 
+
+(1,056,687) 
+
+(1,304,897) 
+
+(1,808,377) 
+
+Loss on disposal of commercial segment 
+
+(418,000) 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+Net loss 
+
+(10,130,497) 
+
+(4,487,226) 
+
+(3,259,331) 
+
+(4,608,801) 
+
+(4,686,630) 
+
+Imputed preferred stock dividends 
+
+(4,760,456) 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+Net
+loss applicable to common stock attributable to continued operations 
+
+(12,552,897) 
+
+(4,001,907) 
+
+(2,202,644) 
+
+(3,303,904) 
+
+(2,878,253) 
+
+Net
+loss applicable to common stock attributable to discontinued operations 
+
+(2,338,056) 
+
+(485,319) 
+
+(1,056,687) 
+
+(1,304,897) 
+
+(1,808,377) 
+
+Basic
+net loss per share from continued operations 
+
+(0.76) 
+
+(0.25) 
+
+(0.15) 
+
+(0.24) 
+
+(0.24) 
+
+Basic
+net loss per share from discontinued operations 
+
+(0.14) 
+
+(0.03) 
+
+(0.07) 
+
+(0.09) 
+
+(0.15) 
+
+Basic
+net loss per share 
+
+(0.90) 
+
+(0.28) 
+
+(0.22) 
+
+(0.33) 
+
+(0.39) 
+
+Basic weighted average number of
+shares outstanding 
+
+16,528,113 
+
+15,756,488 
+
+14,610,101 
+
+13,915,377 
+
+11,888,158 
+
+Table of Contents 
+
+As of March 31, 
+
+2001 
+ 
+ 2000 
+ 
+ 1999 
+ 
+ 1998 
+ 
+ 1997 
+
+Balance Sheet Data: 
+
+Cash and cash equivalents 
+
+383,970 
+
+167,299 
+
+795,480 
+
+5,083 
+
+14,224 
+
+Working capital (deficiency) 
+
+(3,093,626) 
+
+(395,577) 
+
+(805,406) 
+
+(1,826,674) 
+
+(7,151,324) 
+
+Total assets 
+
+1,195,754 
+
+1,647,482 
+
+1,276,922 
+
+915,156 
+
+1,336,505 
+
+Total stockholders equity (deficiency) 
+
+(2,597,845) 
+
+657,390 
+
+(524,441) 
+
+(1,314,457) 
+
+(6,199,575) 
+
+Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+ Except for the historical information contained herein, the
+following contains forward-looking statements that involve risks and
+uncertainties. GreyStone s actual results in future periods could differ
+materially from those discussed here. Factors that could cause or
+contribute to such differences include, but are not limited to, those
+discussed in Item 1 Business and Factors which may effect future
+performance , as well as those discussed elsewhere and any document
+incorporated herein by reference. Also see GreyStone s financial
+statements included herein.
+
+Overview 
+
+ In December 1999, GreyStone Technology, Inc., a privately held
+company merged with Express Capital Concepts, Inc., a company which had
+no previous operations and was traded on the Over-the-Counter Bulletin
+Board. GreyStone Technology, Inc. s operations continue today as a
+wholly-owned subsidiary of GreyStone Digital Technology, Inc., (formerly
+Express Capital Concepts, Inc.) All references to GreyStone s 
+operations in this report are those of the wholly-owned subsidiary,
+under which all of GreyStone Digital Technology, Inc. s operations are
+currently conducted.
+
+GreyStone designs, develops and markets real-time, interactive, and
+networked three dimensional software. It develops and delivers its 3-D
+software principally for defense (i.e., training and simulation)
+applications. GreyStone applies its skills and experience in using
+real-time distributed and networked interactivity, 3-D graphics,
+artificial intelligence and physics-based behavioral modeling to create
+software which enables participants to interact realistically in a
+simulated environment. The same kills can be applied to create
+interactive products for education, edutainment , medicine and
+transportation.
+
+GreyStone s operations are currently consolidated into one business
+unit: the Government Strategic Business Unit SBU ). During the past
+three months the Company closed all operations in the Commercial
+Business Unit and suspended development activities for Virtual
+Info-Space and the Technology Business Unit. Since GreyStone commenced
+business in 1989 and until the fiscal year ending March 31, 1993 it
+earned all of its revenues from work performed on government contracts.
+During the fiscal year ending March 31, 1994, GreyStone s commercial SBU
+began to apply its technical expertise and knowledge to the development
+of products and services suited to commercial application and uses in an
+effort for GreyStone to achieve greater size and growth. GreyStone has
+suffered losses every year since 1993. As of March 31, 2001, GreyStone
+had an accumulated deficit of 52,555,464. GreyStone s losses have
+resulted principally from costs incurred in developing products and from
+general and administrative expenses associated with operations.
+Additional losses will likely be incurred as GreyStone develops its products. 
+
+Table of Contents 
+
+ Management s Discussion and Analysis of Financial Condition and Results
+of Operations for the Years Ended March 31, 2001 and 2000 
+
+Revenues for the year ended March 31, 2001 were 2,367,731 as
+compared to 1,850,883 for the year ended March 31, 2000, reflecting an
+increase in revenue of 516,848 or approximately 28 . During both these
+periods, the Government Strategic Business Unit (SBU) generated
+essentially all revenues The increase in revenue was primarily the
+result of an expanded government customer base and increased funding to
+current tasking with the SPARWARSYSCEN San Diego. In March 1999,
+GreyStone was awarded a 15.1 million delivery order contract from
+SPARWARSYSCEN San Diego. Approximately 3.5 million in delivery
+orders have been authorized under this contract through March 31, 2001,
+leaving an available ceiling of approximately 11.6 million during the
+remaining 33 months of the contract. The broad scope and extended
+performance period of this prime contract allows numerous end government
+customers cost effective access to the Company s modeling and simulation
+capabilities. For the twelve month period ending March 31, 2001,
+government customers other than SPARWARSYSCEN San Diego, have funded
+eleven additional delivery orders. The Company anticipates that this
+trend will continue. As of March 31, 2001, the company s backlog was
+approximately 850,000. All of the backlog is expected to be completed
+within the next twelve months.
+
+As a result of the dissolution of the product distributor for the
+MercRacer 3000 entertainment system and the subsequent calling of the 12
+month 2.5M line of credit by the lender, the Company has terminated the
+employment of the team developing the next game title for the MercRacer
+3000 and has suspended the MercRacer 3000 program.
+
+Cost of revenues increased to 2,160,860 for the current year,
+compared to 1,153,586 for the previous year. As a percentage of
+revenues, costs of revenues were 91 in the current period, compared to
+62 in the previous period. Cost of revenues increased in the current
+period due to an increase in purchased engineering services costs in
+support of new government related contractual work, an increase in the
+use of subcontractors and an increase in the Government SBU overhead
+rate and company fringe benefit rate applied to contractual work
+Additionally, included in the cost of revenues in the current period is
+a charge of 330,000 for finished goods inventory purchased from a
+potential acquisition candidate. It has been determined that the value
+of these assets has been impaired and therefore they have been written off. The
+Government SBU overhead rate increase was the result of additional costs
+associated with recruiting and hiring qualified engineering software
+personnel in support of Government SBU activities during the current
+year. The fringe rate applied to the cost of revenues in the current
+year is greater than the previous year due to higher medical claims in the
+current year. Additionally, direct travel costs were higher in the
+current year as a result of GreyStone s increased support of overseas
+and domestic military exercises and contracts.
+
+The components that make up the cost of revenues include burdened
+labor, direct travel, other direct costs, direct material, subcontracts
+and applicable SBU burden. These cost components can vary in amount from
+period to period and are highly dependent on such factors as the nature
+of the work performed, location and duration of the work (company vs.
+contractor site), who performed the work (company personnel vs.
+subcontractors) and who provided any required equipment (company vs.
+customer).
+
+Marketing and sales expenses were 965,039 or 41 of revenues in
+the current year compared to 733,506 or 40 of revenues for the
+previous year, an increase of 231,533 in the current year. The
+increase reflects a greater level of marketing effort in support of the
+company s UAV Toolkit TM and RAGE TM software products. In general,
+marketing and sales expenses result from bid and proposal activity as
+well as attendance at trade shows, company product demonstrations and
+in-house marketing related activities such as product brochures and
+marketing software development. These types of expenses can vary from
+period to period and are highly dependent upon the extent and manner in
+which the company focuses its efforts regarding potential future
+opportunities during the reporting period. 
+
+Table of Contents 
+
+ Research and development expenses were 634,312 for the current
+year, compared to 568,063 for the previous year, resulting in an
+increase of 66,249. The increase was the result of continued
+development work on RAGE TM software products.
+
+General and
+administrative expenses were 3,759,060 compared to
+ 3,482,062 for the previous year, resulting in an increase of 277,018.
+The increase in general and administrative cost in the current year was
+public relations expenses and outside professional
+services, including consultants.
+
+Other income
+(expense) of (2,640,901) consisted of interest income
+of 83,563, interest expense of (668,000) and reserves for notes receivables, contract receivable and
+subscriptions receivables including accrued interest, net of recoveries,
+and investment in Optmark in the amount of (2,073,837). (See Liquidity and Capital Resources below
+for a further discussion.) Additionally, there was miscellaneous income
+of 17,373 in the current period.
+
+The loss from
+continuing operations was 7,792,441 for the current
+period, compared with 4,001,907 in the previous period, an increase of
+ 3,790,534. The increase from the loss from operations was 1,065,226 in
+the current period, while other expense increased by 2,725,308.
+
+The loss from discontinued operations for the current period was
+ 1,920,056, as compared to 485,319 for the previous period. The
+current period marketing and sales expenses for the discontinued
+operations were higher due to the attendance of a trade show in November
+2000. Also, research and development expenses were higher in the
+current period as the Company continued work on the MercRacer
+3000 TM 
+entertainment system, creating a new title for play and developing a 3D
+virtual workspace environment.
+
+The loss from disposal of the commercial segment was 418,000 in
+the current period and includes the labor and non-labor costs after the
+current period year end to close down the Commercial SBU.
+
+The net loss of
+ 10,130,497 increased by 5,643,271 from the
+ 4,487,226 net loss reported in the previous year. In summary, the loss
+from continuing operations increased by 3,790,534 in the current
+period, while the loss from discontinued operations and loss on disposal
+from commercial segment increased by 1,434,737 and 418,000,
+respectively. During the current period, the Company recorded a one time imputed (non-cash)
+preferred stock dividends of 3,645,250 in connection with the
+issuance of detachable warrants associated with sale of
+ 5,000,000 convertible preferred stock, in May 2000 and 804,103
+of imputed stock dividends for the beneficial conversion features
+associated with the issuance of
+the preferred shares. The
+Company also recorded a non-cash preferred stock dividend of 311,103,
+due to the 8 cumulative preferred stock dividend feature.
+
+The net loss
+applicable to common stock attributable to continuing operations was
+ 12,552,897. This compares to 4,001,907 in the previous
+period.
+
+Management s Discussion and Analysis of Financial Condition and Results
+of Operations for the Years Ended March 31, 2000 and 1999 
+
+Revenues for the year ended March 31, 2000 were 1,850,883, as
+compared to 2,090,902 for the year ended March 31, 1999. During both of
+these periods, the Government SBU generated essentially all revenues.
+The sales decline in the Government SBU between years was the result of
+a delay in funding of government contracts. As a result, the company
+redirected a portion of its engineering staff to product development
+efforts in support of RAGE TM version 2.x product release.
+
+Cost of revenues declined to 1,153,586 for the current year
+compared to 1,261,798 for the previous year. As a percentage of
+revenues, costs of revenues were 62 in the current year compared to 60 
+in the previous year. Cost of revenues increased in the current year due
+to an increase in
+
+Table of Contents 
+
+ material/subcontract costs for computers and software tools in
+support of contractual work. Additionally, travel costs were higher as a
+result of GreyStone s support of overseas military experiments.
+
+The components that make up the cost of revenues include burdened
+labor, direct travel, other direct costs, direct material, subcontracts
+and applicable SBU burden. These cost components can vary in amount from
+period to period and are highly dependent on such factors as the nature
+of the work performed, location and duration of the work (company vs.
+contractor site), who performed the work (company personnel vs.
+subcontractors) and who provided any required equipment (company vs.
+customer).
+
+Marketing and sales expenses were 733,506 or 40 of revenues in
+the current year compared to 654,759 or 31 of revenues for the
+previous year. Government SBU marketing and sales expenses actually
+increased by 78,747. Marketing and sales expenses result from bid and
+proposal activity as well as attendance at trade shows, company product
+demonstrations and in-house marketing related activities. These types of
+expenses vary from period to period and are highly dependent upon the
+extent and manner in which the company focuses its efforts regarding
+potential future opportunities during the reporting period.
+
+Research and development expenses increased to 568,063 for the
+current year compared to 232,653 for the previous year, a net increase
+of 335,410. Government SBU research and development expenses increased
+as a result of development efforts on RAGE TM version 2.x.
+
+General and administrative expenses increased to 3,482,042
+compared to 2,044,392 for the previous year, resulting in an increase
+of 1,437,650. General and administrative increases were the result of
+legal, accounting and other related costs associated with the completion
+of the business combination with Express Capital Concepts, Inc. in
+December 1999 and becoming a publicly Trading and reporting company.
+Additionally, there was an increase in general and administrative
+expenses of approximately 191,000 in the current year that was
+associated with the granting of warrants and stock options.
+
+Interest expense was 10,260 for the current year compared to
+ 99,944 for the previous period, a decline of 89,684 and reflects the
+paying down and/or conversion of certain company indebtedness to equity.
+Interest income in the current year was 94,667.
+
+The loss from continuing operations was 4,001,907 for the current
+period compared with 2,202,644 for the previous period. The loss from
+operation increased by 1,983,614 in the current period, while other
+income increased by 184,351. The loss on discontinued operations for
+the current year was 485,319, as compared to 1,056,687 for the
+previous year. The current period saw a decline in research and
+development expense for discontinued operations as well as a decline in
+marketing and sales expenses.
+
+The net loss of 4,487,226 increased by 1,227,895 or 38 from the
+ 3,259,331 net loss reported in the previous year. In summary, the loss from continuing operations increased by 1,799,263 in the
+current period while the loss from discontinued operations decreased
+by 571,368.
+
+The net loss
+applicable to common stock attributable to continuing operations was
+ 4,001,907. This compares to 2,202,644 in the previous period.
+
+Liquidity and Capital Resources 
+
+ Net cash used in operating activities for the year ended March 31,
+2001 was 2,796,124 whereas cash used for operating activities for the
+years ended March 31, 2000 and 1999 was 3,611,999 and 1,372,164. The net loss for the current
+year was 10,130,497, an increase from the previous
+reporting period net loss amounts of 4,487,226 for the year ended
+march 31, 2000 and 3,259,331 for 1999. The loss from
+discontinued operations was 1,920,056 in the current period as
+compared to 485,319 in the previous period and 1,056,687 in 1999
+and the loss on disposal of the commercial segment was 418,000 in
+the current period. During the current
+reporting period, the company received 78,301 (valued at current
+market) in the return of GreyStone common stock toward the settlement of
+a debt for the exercise price of warrants in December 1999.
+Additionally, non cash expenses were 4,082,475, as compared to 790,465
+in the previous reporting period and 584,364 in 1999. Depreciation and compensation expense
+was 689,432 in the current reporting period, compared to 790,465 in
+the previous reporting period and 629,364 in 1999. Valuation reserves were
+
+Table of Contents 
+
+ 2,725,043 in the current reporting period and
+consisted of notes receivable including accrued interest of 643,151,
+related party notes receivable, including accrued interest of 56,655,
+forensic vehicle of 330,000, contract receivable of 135,000,
+subscriptions receivable, including accrued interest of 1,530,237,
+and an investment in OptMark, Inc. of 30,000. The write off of the
+line of credit fees in the current reporting period was 668,000 and
+included 205,000 in loan origination fees and 463,000 in additional
+interest expense associated with the granting of warrants in
+conjunction with the line of credit. Additionally, accounts receivable decreased by 106,733,
+(after recovery of a 40,000 valuation allowance), other assets
+decreased by 96,471 and accounts payable and accrued expenses increased
+by 788,939 in the current period. The net cash used in discontinued
+operations was 1,695,659 in the current period, as compared to
+ 472,725 in the previous period and 1,073,958 in 1999. The net cash
+used in operating activities was 4,491,783 in the current period,
+compared to 4,084,724 in the previous period and 2,446,122 in 1999.
+
+Net cash used
+in investing activities was 896,399 during the
+current reporting period compared to 941,913 for the previous reporting
+period and 5,772 in 1999. Current period investing activities included purchases of
+software licenses, equipment and leasehold improvements of 369,362 and
+the June 2000 purchase of finished goods inventory in the amount of
+ 330,000 from a target company that GreyStone entered into a letter of
+intent to acquire. Additionally, in June 2000, the Company gave the
+target Company 135,000 for the right to receive future payments on
+invoices to be generated by the target company upon the completion of
+work in progress. GreyStone has hired an agent to assist in the sale of
+the finished goods inventory and negotiations are underway regarding the
+goods sale. Additionally 30,000 was used to make an investment
+in OptMark, Inc. The 30,000 has been reserved. Due to the uncertainty of collection on the contract
+receivable and the finished goods inventory, reserves of 135,000 and
+ 330,000 have been established. Additionally, notes receivable accrued
+interest was 32,037.
+
+Net cash provided by financing activities was 5,604,853 in the
+current period compared to 4,398,456 for the previous period and
+ 3,242,291 in 1999.
+ 4,449,353 of the cash provided by financing activities was the net
+result of the sale on May 22, 2000 of 5,000,000 in convertible
+preferred stock to a group of private investors and is net of a 10 
+commission and legal fees. The net proceeds were used by the Company for
+general corporate purposes. The balance of the net cash provided by
+financing activities was made up of 186,500 of loans from the principal
+stockholder, 74,000 of loans by officers to the company, 50,000 (net)
+from the issuance of short term notes and 845,000 from a line of credit
+borrowing. In the previous period 1,703,796 was provided by the
+exercise of warrants and options, 3,250,470 from the sale of common stock and
+ 49,500 from a subscription receivable. Payments on loans and notes
+were 600,810 and 4,500 was returned upon cancellation of stock upon
+exercise of a recession offer. In 1999, cash provided by sales of common stock
+were 2,424,610, exercise of warrants and options were
+ 11,400, and loans and notes provided cash of 1,141,281. Repayments of notes
+payable were 335,000 in 1999.
+
+In December 1999, the company took a promissory note in the amount
+of 1,183,292 for the partial payment of common stock issued for the
+exercise of warrants by close advisors to the Company. The note was
+collateralized by a lien on property owned by the advisors and carried an
+interest rate of 10 per year. The maturity date of the note was
+extended three times and last matured on December 22, 2000. Total
+principal and unpaid interest accrued through March 31, 2000 was
+ 1,202,737. The Company has not accrued any interest on the note during
+the current period. A valuation reserve of 1,202,737 was established
+while the Company pursued collection of the note. In March 2001, in
+order to meet critical cash needs, the Company negotiated a settlement
+wherein the Company agreed to release the lien on the property which
+collateralized the note in exchange for a cash payment of 200,000, the
+return of the previously issued stock, valued at 78,301 (the trading
+value on the date received), less transaction costs of 13,750.
+
+At March 31, 2001, the Company had 383,970 in cash and cash
+equivalents, as compared to 167,299 for the fiscal year ended March 31,
+2000. The Company anticipates that in the future, it will need to
+obtain additional debt or equity financing to continue its operations
+for at least the next 12 months.
+
+As of the date of this report, the Company had approximately
+ 45,000 in cash, approximately 195,000 in accounts receivable, and
+current liabilities of almost 3,000,000. These obligations
+include accounts payable of approximately 1,000,000 (approximately
+ 691,000 of which is over 90 days) and short term notes payable of
+approximately 468,000. The company has been requested to make an
+immediate repayment of the 1,050,000 that had been advanced under the
+line of credit. Overdue salary obligations are approximately 441,000.
+Two Company officers have recently resigned. Overdue salary obligations
+to the remaining seven Company officers are equal to the seven most
+recent (twice monthly) pay periods. Back salary is also owed to the two
+resigned officers. Additionally, many employees have not been paid for
+the most recent one or two pay periods prior to the filing of this
+report, and most employee and officer expense reimbursement requests
+remain unpaid. 
+
+Table of Contents 
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk 
+
+ Not Applicable.
+
+Item 8. Financial Statements and Supplemental Data 
+
+ See the Index to Financial Statements on page F-1.
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+
+ None.
+
+PART III 
+
+Item 10. Directors and Executive Officers of the Registrant 
+
+ The information required by this Item will be set forth in the
+section headed Proposal 1 Election of Directors in the Company s
+definitive Proxy Statement for the Annual Meeting of Stockholders of the
+Company (the Proxy Statement which is expected to be filed not later
+than 120 days after the end of the Company s fiscal year ended March 31,
+2000, and is incorporated in this report by reference.
+
+Item 11. Executive Compensation 
+
+ The information required by this Item is set forth in the section
+headed Executive Compensation in the Company s definitive Proxy
+Statement and is incorporated in this report by reference.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management 
+
+ The information required by this Item is set forth in the section
+headed Security Ownership of Certain Beneficial Owners and Management 
+in the Company s definitive Proxy Statement and is incorporated in this
+report by reference.
+
+Item 13. Certain Relationships and Related Transactions 
+
+ Founders Stock Restriction Agreement and Promissory Notes 
+
+In order to provide incentives for certain founders of GreyStone,
+GreyStone sold shares to three persons in August 1991 in exchange for
+certain promissory notes bearing interest at 8.2 per annum (the
+ Founders Notes ). The Founders Notes were collateralized by these
+shares. All of the shares of common stock owned by these Founders are
+subject to a stock restriction agreement dated August 16, 1991 among
+GreyStone, the Founders, GreyStone s chief executive officer Richard A.
+Smith, and Mr. Smith s wife. The stock restriction agreement contains
+certain prohibitions on transfer of any common stock owned by the
+individuals, a right of first refusal in favor of GreyStone upon a
+proposed sale of the common stock and a covenant not to compete by each
+individual upon a sale of such individual s stock which is subject to
+the stock restriction agreement. In May l992, GreyStone reacquired
+certain of these shares from the three individuals and reduced the
+principal balances of the Founders Notes. The founders were compensated
+in March 2000 for the 1992 reacquisition by the issuance of a total of
+550,000 options to purchase additional shares of common stock at an
+exercise price of 6.00 per share under the company s 1991 Stock Option
+Plan. The Founders Notes mature on the earlier of:
+
+August 16, 2001,
+
+ninety (90) days after the termination of the Stock Restriction Agreement,
+
+the dissolution, bankruptcy or insolvency of GreyStone or
+
+GreyStone s initial public offering of its securities.
+
+In December 1999 the founders notes were amended to reduce the
+collateral requirements to one-half of the founders shares in order to
+provide for the founders to make gifts of some of their shares to their
+family members. In March 2000 the Founders and the Company terminated
+the stock restriction agreement and the founders notes were amended to
+establish the maturity date of founders notes to be August 16, 2001.
+The outstanding principal balances and the number of shares of common
+stock securing the Founders Notes as of June 30, 2000 were: Carl A.
+Beaudet 195,000/400,000 shares; Thomas D. Aldern 35,000/80,000
+shares; and David C. Vineyard 97,500/200,000 shares.
+
+Because of the continued financial difficulties of the company
+there is substantial doubt that the notes will ever be collected, and
+therefore, for the period ended March 31, 2001, a non-cash accounting
+reserve was charged in the amount of 327,500
+
+Services Agreement and Loans from and to Director Jon Reynolds 
+
+In July and September 1993 GreyStone borrowed 100,000 and 50,000
+from Kenwood Capital Limited Partnership. Kenwood is affiliated with Jon
+M. Reynolds, a director of GreyStone. GreyStone has repaid the loans in
+full, in cash and by issuing 14,286 shares of GreyStone common stock at
+a price of 7.00 per share.
+
+On November 22, 1993, GreyStone issued warrants to The Pointe Force
+Company to acquire the aggregate of 400,000 shares of common stock of
+GreyStone at an exercise price of 10.00 per share. The Pointe Force
+warrants terminate on November 22, 2003. As of the date of this report,
+none of the Pointe Force warrants had been exercised.
+
+In March 1996, GreyStone and Pointe Force entered into a services
+agreement which provides for Pointe Force, through its agent Jon
+Reynolds, who was at the time an officer and director of GreyStone, to
+provide continuing general financial and management advisory
+
+Table of Contents 
+
+services to GreyStone, including the services of Mr. Reynolds as the
+president and chief operating officer of GreyStone. In the services
+agreement, GreyStone acknowledged that it owed Pointe Force for services
+rendered through March 31, 1996 under a previous agreement in the
+aggregate sum of 92,954.14 and that for the period commencing April 1,
+1996 GreyStone would accrue compensation to Pointe Force in the amount
+of 10,000 per month until the earlier of Mr. Reynolds ceasing to
+perform services as president and chief operating officer of GreyStone
+or thirty (30) days after GreyStone s receipt of an infusion of debt or
+equity in an amount of not less than 2 million (the Capital
+Infusion ). The parties agreed that upon receiving the Capital Infusion,
+
+GreyStone would pay as soon as reasonably practical to Pointe
+Force the sum of 92,954.14 plus the sum of 10,000 per month from April
+1, 1996 until 30 days after the Capital Infusion, 
+
+Pointe Force and Reynolds would cease to be entitled to any
+further compensation; and 
+
+the parties would negotiate in good faith a compensation
+package for Mr. Reynolds in accordance with the parties understanding
+and agreement on the future involvement of Mr. Reynolds with GreyStone. 
+
+The services agreement terminated upon his resignation as president
+and chief operating officer of GreyStone effective as of January 1,
+1997. The 92,954.14 and all accrued compensation has been paid to Mr.
+Reynolds.
+
+In addition to the Point Force warrants, on March 29, 1996,
+GreyStone granted Point Force warrants to purchase 100,000 shares of
+common stock. Effective, January 1, 1997, all of these warrants were
+fully vested. Each of these warrants has a term of ten years from date
+of issuance and are exercisable at 10 per share.
+
+Commencing in July 1999, Mr. Reynolds services to GreyStone
+resumed under an agreement with The Pointe-Force Company, Inc., an
+entity controlled by Mr. Reynolds spouse. Mr. Reynolds provides
+consulting services to GreyStone in the areas of mergers and
+acquisitions, strategic planning, corporate financing, and relations
+with the investment community. Under this continuing advisory services
+agreement, the company pays Mr. Reynolds 11,000 per month, exclusive of
+expenses. In September 2000 Mr. Reynolds was appointed to the position
+of GreyStone Executive Vice President for Corporate Development.
+
+GreyStone loaned 20,000 on August 6, 1999, 10,000 on September
+22, 1999, and 20,000 on November 17, 1999 to The Pointe-Force Company,
+Inc. and its principal, GreyStone director Jon Reynolds. The loans are
+for a one year term and bear interest at a rate of 8.75 . All of the
+loans have matured and are in default. The company has deferred
+collection at this time and has recorded a valuation reserve to
+operations for the total amount of the obligation, including accrued
+interest.
+
+Loans from and Guarantees by Richard Smith 
+
+Between December 1994 and December 1995, Richard A. Smith,
+GreyStone s chief executive officer and principal stockholder, borrowed
+in excess of 2,700,000 from various persons and loaned those funds to
+GreyStone Smith Loans ). The notes which Mr. Smith delivered to those
+individual lenders Creditor Notes bear interest at the rate of 9 
+per annum and contain a provision which enables the holders to convert
+the amount owed into shares of GreyStone s common stock owned by Mr.
+Smith at the rate of 4.50 per share, except that the loans from three
+creditors for the aggregate amount of 147,500 bear interest at the rate
+of 18.0 per annum and are convertible at the option of the holder on
+maturity into
+
+Table of Contents 
+
+ shares of GreyStone s common stock owned by Mr. Smith at the rate of
+ 7.14 per share. The Smith Loans are evidenced by promissory notes
+issued by GreyStone in favor of Richard Smith and have substantially the
+same terms as the Creditor Notes, with the exception that the Smith
+Notes do not contain the right to convert the principal amount of the
+loans into shares of GreyStone common stock. During calendar year 1996,
+holders of Creditor Notes in the aggregate principal amount of 385,880
+plus unpaid accrued interest either converted their respective notes
+into shares of GreyStone s common stock owned by Mr. Smith or were paid
+in full.
+
+In March 1997, GreyStone expressed its desire to satisfy its
+obligation to repay the Smith Notes by assuming the obligation of Mr.
+Smith to repay the Creditor Notes, and agreed that if the creditors
+desired to convert their respective Creditor Notes into shares of
+GreyStone s common stock, then GreyStone would permit such conversion
+from the authorized shares of GreyStone, provided that the creditors
+exercising their conversion rights concurred. As of March 31, 1999,
+creditors holding an aggregate of 2,597,399 in outstanding principal of
+the Creditor Notes plus unpaid accrued interest were either paid in full
+or had agreed to the assumption of the debt by GreyStone and the
+conversion of such debt at 4.50 per share.
+
+From time to time through March 31, 1997, GreyStone made cash
+advances to Mr. Smith in the cumulative amount of 122,629. Since April
+1, 1997, interest has accrued at a rate of 9 per year. As of March 31,
+1999, a total of 21,955 in interest had accrued for a total balance of
+ 144,584.
+
+In the quarter ended March 31, 1999, Mr. Smith elected to forego
+having GreyStone repay its obligations to him evidenced by outstanding
+notes payable of 216,485 and accrued interest of 16,877. In return,
+GreyStone agreed to forgive advances to Mr. Smith of 122,629, plus
+accrued interest of 21,955. Mr. Smith agreed to contribute 80,778 to
+GreyStone. This amount has been included in additional paid in capital.
+The balance of 8,000 was paid to Mr. Smith by GreyStone in the year
+ended March 31, 2000.
+
+Beginning in 1989 and from time to time subsequently, GreyStone has
+borrowed money or leased equipment under terms which required
+GreyStone s Chief Executive Officer, Richard Smith, personally to
+guarantee GreyStone s repayment performance. In January 1995, GreyStone
+leased internal computer network equipment for a three year period,
+during which GreyStone was obligated to make 57,886 in payments. The
+lease provided for GreyStone s payment obligations to be guaranteed
+personally by Mr. Smith. The lease has been fully paid. In February
+1995, GreyStone leased a phone call processing system for a five year
+period during which GreyStone was obligated to make payments of 75,517.
+The lease provided for GreyStone s payment to be guaranteed personally
+by Mr. Smith. The lease has been fully paid.
+
+In December 1998, GreyStone borrowed 200,000 from an individual
+for a period of five weeks. The terms of the note provided for a
+personal collateralized guarantee by Mr. Smith. The note was repaid by
+GreyStone before the maturity date. In December 2000 and January 2001
+Mr. Smith either borrowed and in turn lent to GreyStone, or personally
+guaranteed a total of 240,000 in short-term debt from accredited
+GreyStone stockholders. One 40-day 100,000 note was collateralized
+by 107,000 shares of Richard Smith's GreyStone common stock. On
+February 12, 2001, the date the note matured, the lender agreed
+under the terms of the agreement to receive the shares of
+Mr. Smith's stock in lieu of repayment in the form of cash by
+GreyStone. As of March 31, 2001 175,500 had not been
+repaid.
+
+Subscriptions receivable and Services Agreements with AB
+Investments 
+
+In December 1999, the company accepted a promissory note in the
+amount of 1,183,292 as a partial payment of common stock issued upon
+the exercise of warrants by
+
+Table of Contents 
+
+ AB Investments, LLC, and entity owned by close advisors to the
+Company, Allen Gelbard and Robert Beaton. The note was collateralized
+by a lien on property owned by AB Investments and bore an interest rate
+of 10 per year. The maturity date of the note was extended three times
+and last matured on December 22, 2000. Total principal and unpaid
+interest accrued through March 31, 2000 was 1,202,737. The Company has
+not accrued any interest on the note during the year ended March 31,
+2001. A valuation reserve of 1,202,737 was established and charged to
+continuing operations while the Company pursued collection of the note.
+In March 2001, in order to meet critical cash needs, the Company
+negotiated a settlement wherein the Company agreed to release the lien
+on the property which collateralized the note in exchange for a cash
+payment of 200,000, the return of the previously issued stock, valued
+at 78,301 (the trading value on the date received), less transaction
+costs of 13,750.
+
+AB Investments, Allen Gelbard, or Robert Beaton have provided
+advisory and introduction services to GreyStone since July 1997. In
+late May 2000, the company paid AB Investments 150,000. The company
+paid Allen Gelbard 60,000 in July 2000, 60,000 in October 2000, and
+accrued 60,000 in May 2001 for serviced performed through March 31,
+2001. Allen Gelbard s current service agreement expires on September
+30, 2001 and includes tasking to develop sales and marketing programs,
+assist with possible acquisition or joint venture opportunities, locate
+and attract third party debt or equity funding for the company or its
+major interests, and provide general management services.
+
+PART IV 
+
+Item 14. Exhibits, Financial Statement Schedules, and Reports on Form 8-K 
+
+(a) 
+ 
+ The following documents are filed as part of this report:
+
+FINANCIAL STATEMENTS:
+
+Report of Independent Accountants
+
+Consolidated Balance Sheets as of March 31, 2001 and 2000
+
+Table of Contents 
+
+Consolidated Statements of Operations the Years Ended March 31,
+2001, 2000, and 1999
+
+Consolidated Statements of Stockholders Equity (Deficiency) for
+the Years Ended March 31, 2001, 2000, and 1999
+
+Consolidated Statements of Cash Flows for the Years Ended March 31,
+2001, 2000, and 1999
+
+Notes to Consolidated Financial Statements
+
+(b) 
+ 
+ R eports on Form 8-K 
+
+The Company filed no Current Reports on Form 8-K during the quarter
+ended March 31, 2001. The Company file one Current Report since March
+31, 2001.
+
+1. On May 10, 2001 the Company filed a Current Report addressing Item 5
+(Other Events). Disclosures related to the demise of the Company s
+exclusive distributor for MercRacer 3000 entertainment systems, the
+lender of GreyStone s line of credit calling the loan, the failure of
+OptMark to fund the Virtual Info-Space development, the eminent
+delisting of the Company s securities by Nasdaq, the suspension of the
+entertainment business unit, and the resignation of Board of Directors
+members Dr. Malcolm Currie and James Johnston.
+
+(c) 
+ 
+ Exhibits: 
+
+Exhibit 
+
+Number 
+ 
+ Description 
+
+3.1 
+
+Amended and Restated Certificate of Incorporation of the Company
+which was filed as Exhibit 3.1 to the Company s Registration
+Statement on Form S-4 (No. 333-65963) is incorporated herein by
+reference. 
+
+3.2 
+
+By-laws of the Company which was filed as Exhibit 3.2 to the
+Company s Registration Statement on Form S-4 (No. 333-65963) is
+incorporated herein by reference. 
+
+4 
+
+Specimen Common Stock Certificate which was filed as Exhibit 4.3 to
+the Company s Registration Statement on Form S-4 (No. 333-65963) is
+incorporated herein by reference. 
+
+10 
+
+Agreement and Plan of Merger and Reorganization by and among Express
+Capital Concepts, Inc., Express Capital Acquisition Corp., GreyStone
+Technology, Incorporated and Mr. Earnest Mathis, Jr., dated as of
+August 11, 1997, and the first and second amendments thereto which
+were filed as Exhibits 2.1, 2.2 and 2.3 respectively to the
+Company s Registration Statement on Form S-4 (No. 333-65963), is
+incorporated herein by this reference. 
+
+21 
+
+Subsidiaries of Registrant as of March 31, 2001 
+
+Previously filed as indicated and incorporated herein by reference.
+
+Table of Contents 
+
+SIGNATURES 
+
+ Pursuant to the requirements of Section 13 or 15(d) of the
+Securities Exchange Act of 1934, the registrant has duly caused this
+report to be signed on its behalf by the undersigned, thereunto duly
+authorized.
+
+GREYSTONE DIGITAL TECHNOLOGY, INC. 
+
+By: 
+ /s/ RICHARD A. SMITH 
+
+Richard A. Smith 
+President, Chief Executive Officer and Chairman 
+
+July 16, 2001
+
+Pursuant to the requirements of the Securities Exchange Act of
+1934, this report has been signed below by the following persons on
+behalf of the registrant in the capacities and on the dates indicated.
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/ RICHARD A. SMITH
+ 
+Richard A. Smith 
+
+President, Chief Executive
+Officer and Chairman
+(Principal Executive Officer)
+
+July 16, 2001 
+
+/s/ MARSHALL GELLER
+ 
+Marshall Geller 
+
+Chief Financial Officer
+(Principal Financial and
+Accounting Officer)
+
+July 16, 2001 
+
+/s/ THOMAS D. ALDERN
+ 
+Thomas D. Aldern 
+
+Director
+
+July 16, 2001 
+
+/s/ JON M. REYNOLDS
+ 
+Jon M. Reynolds 
+
+Director
+
+July 16, 2001 
+
+/s/ ALAN D. STONE
+ 
+Alan D. Stone 
+
+Director
+
+July 16, 2001 
+
+Table of Contents 
+ GREYSTONE DIGITAL TECHNOLOGY, INC. 
+(Formerly GreyStone Technology, Incorporated) 
+AND SUBSIDIARY 
+
+REPORT ON CONSOLIDATED FINANCIAL STATEMENTS 
+
+YEARS ENDED MARCH 31, 2001, 2000 AND 1999 
+
+Table of Contents 
+
+GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+INDEX
+
+PAGE 
+
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS 
+
+F-2 
+
+CONSOLIDATED BALANCE SHEETS MARCH 31, 2001 AND 2000 
+
+F-3 
+
+CONSOLIDATED STATEMENTS OF OPERATIONS YEARS ENDED MARCH 31, 2001, 2000 AND 1999 
+
+F-4 
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY (DEFICIENCY) YEARS ENDED MARCH 31, 2001, 2000 AND 1999 
+
+F-5/7 
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS YEARS ENDED MARCH 31, 2001, 2000 AND 1999 
+
+F-8/9 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+F-10/25 
+
+F-1 
+
+Table of Contents 
+
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+To the Stockholders and Board of Directors 
+ GreyStone Digital Technology, Inc.
+
+We have audited the accompanying consolidated balance sheets of GREYSTONE
+DIGITAL TECHNOLOGY, INC. (Formerly GreyStone Technology, Incorporated) AND
+SUBSIDIARY as of March 31, 2001 and 2000, and the related consolidated
+statements of operations, stockholders equity (deficiency) and cash flows for
+each of the three years in the period ended March 31, 2001. These consolidated
+financial statements are the responsibility of the Company s management. Our
+responsibility is to express an opinion on these consolidated financial
+statements based on our audits.
+
+We conducted our audits in accordance with auditing standards generally
+accepted in the United States of America. Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement. An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements. An audit also includes assessing the accounting
+principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the consolidated financial position of
+GreyStone Digital Technology, Inc. and Subsidiary as of March 31, 2001 and
+2000, and their consolidated results of operations and cash flows for each of
+the three years in the period ended March 31, 2001, in conformity with
+accounting principles generally accepted in the United States of America.
+
+The accompanying consolidated financial statements have been prepared assuming
+that GreyStone Digital Technology, Inc. and Subsidiary will continue as a going
+concern. As discussed in Note 2 to the consolidated financial statements, the
+Company had substantial working capital and stockholders deficiencies at March 31,
+2001 and substantial losses for the years ended March 31, 2001, 2000 and
+1999. In addition, as discussed in Note 9, the Company was in default on
+certain of its outstanding debt. These matters raise substantial doubt about
+the Company s ability to continue as a going concern. Management s plans in
+regard to these matters are also described in Note 2. The consolidated
+financial statements do not include any adjustments that might result from the
+outcome of these uncertainties.
+
+San Diego, California 
+July 14, 2001
+
+F-2 
+
+Table of Contents 
+
+GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+CONSOLIDATED BALANCE SHEETS 
+MARCH 31, 2001 AND 2000
+
+2001 
+ 
+ 2000 
+
+ASSETS 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+383,970 
+
+167,299 
+
+Accounts receivable, net of allowance for doubtful
+accounts of 40,000 in 2000 
+
+306,248 
+
+372,981 
+
+Other current assets 
+
+9,755 
+
+54,235 
+
+Total current assets 
+
+699,973 
+
+594,515 
+
+Notes receivable, net 
+
+616,077 
+
+Equipment, furniture and leasehold improvements, net 
+
+460,094 
+
+278,075 
+
+Deposits 
+
+35,687 
+
+87,678 
+
+Related party notes receivable, net 
+
+71,137 
+
+Totals 
+
+1,195,754 
+
+1,647,482 
+
+LIABILITIES AND STOCKHOLDERS EQUITY (DEFICIENCY) 
+
+Current liabilities: 
+
+Accounts payable and accrued expenses 
+
+2,002,332 
+
+970,092 
+
+Notes payable 
+
+1,186,767 
+
+Notes payable to principal stockholder 
+
+186,500 
+
+20,000 
+
+Loss from disposal of discontinued commercial segment 
+
+418,000 
+
+Total liabilities 
+
+3,793,599 
+
+990,092 
+
+Commitments and contingencies 
+
+Stockholders equity (deficiency): 
+
+Series A Preferred stock, .001 par value; 1,000 liquidation
+preference value per share; 3,000,000 shares authorized;
+3,731 shares, Series A Convertible issued and outstanding 
+
+4 
+
+Additional paid-in capital Preferred stock 
+
+4,295,605 
+
+Common stock, .001 par value; 100,000,000 shares
+authorized; 17,301,785 and 16,278,179 shares issued 
+
+17,302 
+
+16,278 
+
+Additional paid-in capital Common stock 
+
+45,723,009 
+
+39,816,415 
+
+Subscriptions receivable from equity transactions, net 
+
+(1,510,792) 
+
+Accumulated deficit 
+
+(52,555,464) 
+
+(37,664,511) 
+
+Treasury stock, at cost, 278,652 shares held 
+
+(78,301) 
+
+Total stockholders equity (deficiency) 
+
+(2,597,845) 
+
+657,390 
+
+Totals 
+
+1,195,754 
+
+1,647,482 
+
+See Notes to Consolidated Financial Statements.
+
+F-3 
+
+Table of Contents 
+ GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+YEARS ENDED MARCH 31, 2001, 2000 AND 1999
+
+2001 
+ 
+ 2000 
+ 
+ 1999 
+
+Revenues 
+
+2,367,731 
+
+1,850,883 
+
+2,090,902 
+
+Expenses: 
+
+Cost of revenues 
+
+2,160,860 
+
+1,153,586 
+
+1,261,798 
+
+Marketing and sales 
+
+965,039 
+
+733,506 
+
+654,759 
+
+Research and development 
+
+634,312 
+
+568,063 
+
+232,653 
+
+General and administrative 
+
+3,759,060 
+
+3,482,042 
+
+2,044,392 
+
+Totals 
+
+7,519,271 
+
+5,937,197 
+
+4,193,602 
+
+Loss from operations 
+
+(5,151,540) 
+
+(4,086,314) 
+
+(2,102,700) 
+
+Other income (expense): 
+
+Interest income, including 4,964 and 35,930 from
+related parties 
+
+83,563 
+
+94,667 
+
+Interest expense, including 2,800 and 8,500
+on loans from principal stockholder in 2000 and 1999 
+
+(668,000) 
+
+(10,260) 
+
+(99,944) 
+
+Reserve for notes receivable, including accrued
+interest of 70,097 
+
+(643,151) 
+
+Reserve for contract receivable 
+
+(135,000) 
+
+Reserve for subscriptions receivable, including
+accrued interest of 19,445 
+
+(1,530,237) 
+
+Recovery of subscription receivable reserve 
+
+264,551 
+
+Reserve
+for Optmark 
+
+(30,000) 
+
+Other 
+
+17,373 
+
+Totals 
+
+(2,640,901) 
+
+84,407 
+
+(99,944) 
+
+Loss from continuing operations 
+
+(7,792,441) 
+
+(4,001,907) 
+
+(2,202,644) 
+
+Loss from discontinued operations 
+
+(1,920,056) 
+
+(485,319) 
+
+(1,056,687) 
+
+Loss on disposal of commercial segment 
+
+(418,000) 
+
+Net loss 
+
+(10,130,497) 
+
+(4,487,226) 
+
+(3,259,331) 
+
+Preferred stock dividends: 
+
+Imputed stock dividends related to issuance
+of detachable warrants 
+
+(3,645,250) 
+
+Imputed stock dividends for beneficial
+conversion feature 
+
+(804,103) 
+
+Imputed cumulative stock dividends at 8 
+
+(311,103) 
+
+Net loss applicable to common stock 
+
+(14,890,953) 
+
+(4,487,226) 
+
+(3,259,331) 
+
+Net
+loss applicable to common stock attributed to continuing operations 
+
+(12,552,897) 
+
+(4,001,907) 
+
+(2,202,644) 
+
+Net
+loss applicable to common stock attributed to discontinued operations 
+
+(2,338,056) 
+
+(485,319) 
+
+(1,056,687) 
+
+Net
+loss applicable to common stock 
+
+(14,890,953) 
+
+(4,487,226) 
+
+(3,259,331) 
+
+Basic
+net loss per share from continuing operations 
+
+(0.76) 
+
+(0.25) 
+
+(0.15) 
+
+Basic
+net loss per share from discontinuing operations 
+
+(0.14) 
+
+(0.03) 
+
+(0.07) 
+
+Basic
+net loss per share 
+
+(0.90) 
+
+(0.28) 
+
+(0.22) 
+
+Basic weighted average number of common shares
+outstanding 
+
+16,528,113 
+
+15,756,488 
+
+14,610,101 
+
+See Notes to Consolidated Financial Statements.
+
+F-4 
+
+Table of Contents 
+
+GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY (DEFICIENCY) 
+YEARS ENDED MARCH 31, 2001, 2000 AND 1999
+
+Preferred Stock 
+ 
+ Common Stock 
+
+Additional 
+
+Additional 
+
+Paid-In 
+
+Paid-In 
+
+Shares 
+ 
+ At Par 
+ 
+ Capital 
+ 
+ Shares 
+ 
+ At Par 
+ 
+ Capital 
+
+Balance, April 1, 1998 
+
+14,548,883 
+
+27,037,537 
+
+1,894,119 
+
+Common stock sold for cash 
+
+400,288 
+
+2,424,610 
+
+Common stock issued upon
+exercise of stock options 
+
+3,000 
+
+11,400 
+
+Common stock issued upon
+conversion of convertible
+notes payable 
+
+6,667 
+
+30,000 
+
+Common stock issued to
+pay short-term
+notes payable 
+
+116,042 
+
+920,000 
+
+Common stock issued to
+reduce balance of notes
+payable to principal
+stockholder 
+
+5,557 
+
+25,000 
+
+Common stock issued to pay
+for accrued interest 
+
+4,625 
+
+23,693 
+
+Common stock issued to
+pay for services 
+
+16,875 
+
+125,000 
+
+Warrants issued to purchase
+common stock 
+
+392,066 
+
+Stock options to purchase
+common stock granted to
+non-employees 
+
+16,800 
+
+Effect of principal stockholders
+debt forgiveness 
+
+80,778 
+
+Net loss 
+
+Balance, March 31, 1999 
+
+15,101,937 
+
+30,597,240 
+
+2,383,763 
+
+[Additional columns below] 
+ [Continued from above table, first column(s) repeated] 
+
+Subscriptions 
+
+Receivable 
+
+from Equity 
+ 
+ Accumulated 
+ 
+ Treasury 
+
+Transactions 
+ 
+ Deficit 
+ 
+ Stock 
+ 
+ Total 
+
+Balance, April 1, 1998 
+
+(327,500) 
+
+(29,917,954) 
+
+(1,313,798) 
+
+Common stock sold for cash 
+
+2,424,610 
+
+Common stock issued upon
+exercise of stock options 
+
+11,400 
+
+Common stock issued upon
+conversion of convertible
+notes payable 
+
+30,000 
+
+Common stock issued to
+pay short-term
+notes payable 
+
+920,000 
+
+Common stock issued to
+reduce balance of notes
+payable to principal
+stockholder 
+
+25,000 
+
+Common stock issued to pay
+for accrued interest 
+
+23,693 
+
+Common stock issued to
+pay for services 
+
+125,000 
+
+Warrants issued to purchase
+common stock 
+
+392,066 
+
+Stock options to purchase
+common stock granted to
+non-employees 
+
+16,800 
+
+Effect of principal stockholders
+debt forgiveness 
+
+80,778 
+
+Net loss 
+
+(3,259,331) 
+
+(3,259,331) 
+
+Balance, March 31, 1999 
+
+(327,500) 
+
+(33,177,285) 
+
+(523,782) 
+
+F-5 
+
+Table of Contents 
+
+ GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY (DEFICIENCY) 
+YEARS ENDED MARCH 31, 2001, 2000 AND 1999
+
+Preferred Stock 
+ 
+ Common Stock 
+
+Additional 
+
+Additional 
+
+Paid-In 
+
+Paid-In 
+
+Shares 
+ 
+ At Par 
+ 
+ Capital 
+ 
+ Shares 
+ 
+ At Par 
+ 
+ Capital 
+
+Balance, April 1, 1999 
+
+15,101,937 
+
+30,597,240 
+
+2,383,763 
+
+Common stock sold for cash,
+net of selling expenses of
+ 201,207 
+
+575,283 
+
+3,250,470 
+
+Common stock issued upon
+conversion of
+notes payable to
+principal stockholder 
+
+11,111 
+
+50,000 
+
+Common stock issued to
+pay for
+accrued interest 
+
+4,296 
+
+19,332 
+
+Warrants issued to
+purchase common
+stock 
+
+549,400 
+
+Stock options to purchase
+common stock
+granted to non-employee 
+
+50,400 
+
+Common stock issued
+upon exercise
+of warrants 
+
+335,905 
+
+1,694,452 
+
+Common stock cancelled
+upon exercise
+of rescission offer 
+
+(1,000) 
+
+(4,500) 
+
+Common stock issued upon
+exercise of warrants in
+exchange for stock
+subscriptions receivable 
+
+248,147 
+
+1,232,792 
+
+Collection of subscription
+receivable 
+
+Change in par value
+of common stock
+to .001 per share 
+
+(36,823,510) 
+
+36,823,510 
+
+Common stock issued
+upon exercise
+of options 
+
+2,500 
+
+2 
+
+9,342 
+
+Net loss 
+
+Balance, March 31, 2000 
+
+16,278,179 
+
+16,278 
+
+39,816,415 
+
+[Additional columns below] 
+ [Continued from above table, first column(s) repeated] 
+
+Subscriptions 
+
+Receivable 
+
+from Equity 
+ 
+ Accumulated 
+ 
+ Treasury 
+
+Transactions 
+ 
+ Deficit 
+ 
+ Stock 
+ 
+ Total 
+
+Balance, April 1, 1999 
+
+(327,500) 
+
+(33,177,285) 
+
+(523,782) 
+
+Common stock sold for cash,
+net of selling expenses of
+ 201,207 
+
+3,250,470 
+
+Common stock issued upon
+conversion of
+notes payable to
+principal stockholder 
+
+50,000 
+
+Common stock issued to
+pay for
+accrued interest 
+
+19,332 
+
+Warrants issued to
+purchase common
+stock 
+
+549,400 
+
+Stock options to purchase
+common stock
+granted to non-employee 
+
+50,400 
+
+Common stock issued
+upon exercise
+of warrants 
+
+1,694,452 
+
+Common stock cancelled
+upon exercise
+of rescission offer 
+
+(4,500) 
+
+Common stock issued upon
+exercise of warrants in
+exchange for stock
+subscriptions receivable 
+
+(1,232,792) 
+
+Collection of subscription
+receivable 
+
+49,500 
+
+49,500 
+
+Change in par value
+of common stock
+to .001 per share 
+
+Common stock issued
+upon exercise
+of options 
+
+9,344 
+
+Net loss 
+
+(4,487,226) 
+
+(4,487,226) 
+
+Balance, March 31, 2000 
+
+(1,510,792) 
+
+(37,664,511) 
+
+657,390 
+
+F-6 
+
+Table of Contents 
+
+ GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS DEFICIENCY (CONCLUDED) 
+YEARS ENDED MARCH 31, 2001, 2000 AND 1999
+
+Preferred Stock 
+ 
+ Common Stock 
+
+Additional 
+
+Additional 
+
+Paid-In 
+
+Paid-In 
+
+Shares 
+ 
+ At Par 
+ 
+ Capital 
+ 
+ Shares 
+ 
+ At Par 
+ 
+ Capital 
+
+Balance, April 1, 2000 
+
+16,278,179 
+
+16,278 
+
+39,816,415 
+
+Preferred stock sold for cash,
+net of expenses of 550,647 
+
+5,000 
+
+5 
+
+4,449,348 
+
+Imputed preferred stock
+dividends related
+to issuance of
+detachable warrants
+for common stock in
+connection with
+the sale of preferred stock 
+
+3,645,250 
+
+Imputed preferred stock
+dividends for
+beneficial
+conversion feature 
+
+804,103 
+
+Common stock issued as
+payment for
+notes payable to
+principal stockholder 
+
+4,444 
+
+5 
+
+19,995 
+
+Common stock issued to
+pay accrued interest
+upon conversion of notes
+payable to principal
+stockholder 
+
+1,852 
+
+2 
+
+8,327 
+
+Warrants issued to
+purchase common
+stock 
+
+406,689 
+
+Warrants issued to
+purchase common
+stock associated with the line of credit 
+
+463,000 
+
+Stock options to
+purchase common stock
+granted to non-employees 
+
+50,400 
+
+Common stock issued to
+Board of Directors
+for annual compensation 
+
+9,231 
+
+9 
+
+44,991 
+
+Imputed preferred stock
+dividends at 8 
+
+311,103 
+
+Preferred stock converted
+to common
+stock 
+
+(1,269) 
+
+(1) 
+
+(1,268,949) 
+
+1,008,079 
+
+1,008 
+
+1,267,942 
+
+Treasury stock, 278,652
+shares held 
+
+Reserve for subscription
+receivable 
+
+Net loss 
+
+Balance, March 31, 2001 
+
+3,731 
+
+4 
+
+4,295,605 
+
+17,301,785 
+
+17,302 
+
+45,723,009 
+
+[Additional columns below] 
+ [Continued from above table, first column(s) repeated] 
+
+Subscriptions 
+
+Receivable 
+
+from Equity 
+ 
+ Accumulated 
+ 
+ Treasury 
+
+Transactions 
+ 
+ Deficit 
+ 
+ Stock 
+ 
+ Total 
+
+Balance, April 1, 2000 
+
+(1,510,792) 
+
+(37,664,511) 
+
+657,390 
+
+Preferred stock sold for cash,
+net of expenses of 550,647 
+
+4,449,353 
+
+Imputed preferred stock
+dividends related
+to issuance of
+detachable warrants
+for common stock in
+connection with
+the sale of preferred stock 
+
+(3,645,250) 
+
+Imputed preferred stock
+dividends for
+beneficial
+conversion feature 
+
+(804,103) 
+
+Common stock issued as
+payment for
+notes payable to
+principal stockholder 
+
+20,000 
+
+Common stock issued to
+pay accrued interest
+upon conversion of notes
+payable to principal
+stockholder 
+
+8,329 
+
+Warrants issued to
+purchase common
+stock 
+
+406,689 
+
+Warrants issued to
+purchase common
+stock associated with the line of credit 
+
+463,000 
+
+Stock options to
+purchase common stock
+granted to non-employees 
+
+50,400 
+
+Common stock issued to
+Board of Directors
+for annual compensation 
+
+45,000 
+
+Imputed preferred stock
+dividends at 8 
+
+(311,103) 
+
+Preferred stock converted
+to common
+stock 
+
+Treasury stock, 278,652
+shares held 
+
+(78,301) 
+
+(78,301) 
+
+Reserve for subscription
+receivable 
+
+1,510,792 
+
+1,510,792 
+
+Net loss 
+
+(10,130,497) 
+
+(10,130,497) 
+
+Balance, March 31, 2001 
+
+(52,555,464) 
+
+(78,301) 
+
+(2,597,845) 
+
+See Notes to Consolidated Financial Statements.
+
+F-7 
+
+Table of Contents 
+
+GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+YEARS ENDED MARCH 31, 2001, 2000 AND 1999
+
+2001 
+ 
+ 2000 
+ 
+ 1999 
+
+Operating activities: 
+
+Net loss 
+
+(10,130,497) 
+
+(4,487,226) 
+
+(3,259,331) 
+
+Adjustments to reconcile net loss to net cash
+used in operating activities of continuing
+operation: 
+
+Loss from discontinued operations 
+
+1,920,056 
+
+485,319 
+
+1,056,687 
+
+Loss on disposal of commercial
+segment 
+
+418,000 
+
+Return of stock in settlement of debt 
+
+(78,301) 
+
+Depreciation and amortization 
+
+187,343 
+
+190,665 
+
+220,498 
+
+Recovery of bad debts 
+
+(45,000) 
+
+Compensation expense recorded upon issuance
+of annual stock award for Board of Directors 
+
+45,000 
+
+Compensation expense recorded upon issuance
+of warrants and compensatory stock options 
+
+457,089 
+
+599,800 
+
+408,866 
+
+Reserve for notes receivable, including accrued
+Interest 
+
+643,151 
+
+Reserve for related party notes receivable,
+Including accrued interest 
+
+56,655 
+
+Forensic vehicle valuation reserve 
+
+330,000 
+
+Reserve for contract receivable 
+
+135,000 
+
+Reserve for subscription receivable, including
+accrued interest of 19,445 
+
+1,530,237 
+
+Reserve
+for OptiMark 
+
+30,000 
+
+Write-off of line of credit fees 
+
+668,000 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable 
+
+106,733 
+
+(172,504) 
+
+242,379 
+
+Other assets 
+
+96,471 
+
+(74,330) 
+
+16,526 
+
+Accounts payable and accrued expenses 
+
+788,939 
+
+(153,723) 
+
+(12,789) 
+
+Net cash used in operating activities
+of continuing operation 
+
+(2,796,124) 
+
+(3,611,999) 
+
+(1,372,164) 
+
+Net cash used in discontinued operations 
+
+(1,695,659) 
+
+(472,725) 
+
+(1,073,958) 
+
+Net cash used in operating activities 
+
+(4,491,783) 
+
+(4,084,724) 
+
+(2,446,122) 
+
+Investing activities: 
+
+Purchase of forensic vehicles 
+
+(330,000) 
+
+Purchase of contract receivables 
+
+(135,000) 
+
+Investment
+in OptiMark 
+
+(30,000) 
+
+Issuance of notes receivable 
+
+(650,000) 
+
+Notes receivable accrued interest 
+
+(32,037) 
+
+Purchases of software licenses, equipment,
+furniture and leasehold improvements 
+
+(369,362) 
+
+(291,913) 
+
+(5,772) 
+
+Net cash used in investing activities 
+
+(896,399) 
+
+(941,913) 
+
+(5,772) 
+
+F-8 
+
+Table of Contents 
+
+ GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS (CONCLUDED) 
+YEARS ENDED MARCH 31, 2001, 2000 AND 1999
+
+2001 
+ 
+ 2000 
+ 
+ 1999 
+
+Financing activities: 
+
+Proceeds from (payments of) loans from
+principal stockholder net 
+
+186,500 
+
+(58,000) 
+
+13,471 
+
+Proceeds from issuance of notes payable 
+
+450,000 
+
+987,000 
+
+Loans (repayments) from (to) officers net 
+
+74,000 
+
+(140,810) 
+
+140,810 
+
+Proceeds from line of credit borrowings 
+
+845,000 
+
+Repayments of notes payable 
+
+(400,000) 
+
+(402,000) 
+
+(335,000) 
+
+Exercise of warrants and options for common
+stock 
+
+1,703,796 
+
+11,400 
+
+Sale of common stock, net of selling expense 
+
+3,250,470 
+
+2,424,610 
+
+Proceeds from collection of subscription
+receivable 
+
+49,500 
+
+Common stock cancelled upon exercise of
+rescission offer 
+
+(4,500) 
+
+Sale of preferred stock, net of selling expenses 
+
+4,449,353 
+
+Net cash provided by financing activities 
+
+5,604,853 
+
+4,398,456 
+
+3,242,291 
+
+Net increase (decrease) in cash and cash
+equivalents 
+
+216,671 
+
+(628,181) 
+
+790,397 
+
+Cash and cash equivalents, beginning of year 
+
+167,299 
+
+795,480 
+
+5,083 
+
+Cash and cash equivalents, end of year 
+
+383,970 
+
+167,299 
+
+795,480 
+
+Supplemental disclosure of cash flow data: 
+
+Interest paid 
+
+14,679 
+
+83,261 
+
+76,314 
+
+Supplemental disclosure of noncash investing
+and financing activities: 
+
+Common stock issued upon conversion of
+convertible preferred stock 
+
+1,268,950 
+
+Common stock issued upon conversion of
+convertible notes payable 
+
+30,000 
+
+Common stock issued upon exercise of
+warrants for stock subscriptions receivable 
+
+1,232,792 
+
+Common stock issued as payment for: 
+
+Short-term notes payable 
+
+920,000 
+
+Notes payable to principal stockholder 
+
+20,000 
+
+50,000 
+
+25,000 
+
+Accrued interest payable 
+
+8,329 
+
+18,332 
+
+23,693 
+
+Services 
+
+125,000 
+
+Additional paid-in capital contributed as a result
+of debt forgiveness by principal stockholder 
+
+80,778 
+
+Change in par value of common stock 
+
+36,823,510 
+
+Imputed preferred stock dividends 
+
+4,760,456 
+
+See Notes to Consolidated Financial Statements.
+
+F-9 
+
+Table of Contents 
+
+GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 1 Business and summary of significant accounting policies:
+
+Merger and principles of consolidation:
+
+On December 27, 1999, a merger between Express Capital Concepts,
+Inc. and GreyStone Technology, Incorporated was completed,
+whereupon Express Capital Concepts was renamed GreyStone Digital
+Technology, Inc., underwent a 1-for-41.66667 reverse stock split
+(which reduced its issued and outstanding common stock to 480,000
+shares), changed the par value of the stock from .0001 to .001
+per share, and reduced the total authorized common stock from
+50,000,000 shares to 30,000,000 shares. Simultaneously, 15,101,937
+shares of common stock were issued to GreyStone Technology, Inc.
+common stockholders. The transaction has been accounted for as a
+reverse acquisition, wherein GreyStone Technology, Incorporated,
+the operating company, is treated as the acquirer for reporting
+purposes. The consolidated financial statements include the
+accounts of GreyStone Digital Technology, Inc, and GreyStone
+Technology, Inc. (the Company ). All significant intercompany
+accounts and transactions are eliminated in consolidation.
+
+Description of operations:
+
+The Company designs, develops and markets real-time, interactive,
+and networked three dimensional, digital media content digital
+media ). The Company develops and delivers its 3-D digital media
+content principally for defense (i.e., training and simulation)
+applications. The Company began operations in 1989 and works
+primarily as a contractor for U.S. defense customers. Company
+engineers perform systems software engineering, specializing in
+the application of advanced software techniques for developing
+ smarter systems that learn, reason and achieve some level of
+intelligence (i.e., artificial intelligence). Substantially all
+of the Company s revenue from its inception through March 31, 2001
+have been derived from government related contracts.
+
+Cash and cash equivalents:
+
+The Company considers all highly-liquid investments with
+maturities of three months or less when acquired to be cash
+equivalents.
+
+Equipment, furniture, and leasehold improvements:
+
+Equipment, furniture, and leasehold improvements are stated at
+cost and are depreciated over their estimated useful lives of
+three to five years using the straight-line method.
+
+F-10 
+
+Table of Contents 
+
+GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 1 Business and summary of significant accounting policies (continued):
+
+Impairment of long-lived assets:
+
+The Company has adopted the provisions of Statement of Financial
+Accounting Standards No. 121, Accounting for the Impairment of
+Long-Lived Assets and for Long-Lived Assets to be Disposed of SFAS 121 ). Under SFAS 121, impairment losses on long-lived
+assets, such as property and equipment and intangible assets, are
+recognized when events or changes in circumstances indicate that
+the undiscounted cash flows estimated to be generated by such
+assets are less than their carrying value and, accordingly, all or
+a portion of such carrying value may not be recoverable.
+Impairment losses are then measured by comparing the fair value of
+assets to their carrying amounts.
+
+Revenue recognition:
+
+Revenues are earned under a variety of cost reimbursement and
+fixed-price contracts with the U.S. Government, subcontracts with
+prime contractors and commercial contracts. Contract revenues on
+fixed price long-term contracts are recorded using the percentage
+of completion method, primarily based on contract costs incurred
+to date, compared with total estimated completion costs.
+Provisions for estimated losses on contracts are recorded as such
+losses become known. Because of the inherent uncertainties in
+estimating costs, it is at least reasonably possible that the
+estimates used will change significantly within the near term.
+Contract revenues on cost reimbursement type contracts are
+recognized as the related costs are incurred. Revenues on time and
+material contracts are recognized as earned.
+
+Cost of revenues:
+
+Cost of revenues consists of direct labor, fringe benefits, direct
+costs and overhead. Overhead is allocated based on the amount of
+direct labor and fringe benefits incurred on revenue projects.
+
+Advertising:
+
+The Company expenses the cost of advertising and promotions as
+incurred. Advertising costs charged to continuing operations were
+approximately 410,000 in 2001 and were not material in 2000 and
+1999.
+
+Research and development:
+
+Since the technological feasibility of software products has not
+been established, costs and expenses related to research and
+product development are expensed as incurred.
+
+F-11 
+
+Table of Contents 
+
+GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 1 Business and summary of significant accounting policies (concluded):
+
+Income taxes:
+
+The Company accounts for income taxes pursuant to the asset and
+liability method which requires deferred income tax assets and
+liabilities to be computed for temporary differences between the
+financial statement and tax bases of assets and liabilities that
+will result in taxable or deductible amounts in the future based
+on enacted laws and rates applicable to the periods in which the
+temporary differences are expected to affect taxable income.
+Valuation allowances are established when necessary to reduce
+deferred tax assets to the amounts expected to be realized. The
+income tax provision is the tax payable or refundable for the
+period plus or minus the change during the period in deferred tax
+assets and liabilities.
+
+Earnings (loss) per share:
+
+The Company has adopted the provisions of Statement of Financial
+Accounting Standards No. 128 Earnings per Share SFAS 128 ).
+
+Basic earnings (loss) per common share is calculated by dividing
+net income or loss applicable to common shares by the weighted
+average number of common shares outstanding during the period.
+The calculation of diluted earnings per common share is similar to
+that of basic earnings per common share, except that dilutive
+earnings per common share reflects the amount of earnings for the
+period available to each share of common stock outstanding during
+the reporting period, while giving effect to all dilutive
+potential common shares that were outstanding during the period
+such as common shares that could result from the potential
+exercise or conversion of securities and debt into common stock.
+Dilutive earnings per share has not been presented due to the
+Company s losses. The Company s convertible debt, convertible
+preferred stock, options and warrants, however, could potentially
+dilute earnings per share in the future.
+
+Use of estimates:
+
+The preparation of financial statements in conformity with
+accounting principles generally accepted in the United States of
+America requires management to make estimates and assumptions that
+affect certain reported amounts and disclosures. Accordingly,
+actual results could differ from those estimates.
+
+Reclassifications:
+
+Certain amounts in the accompanying 2000 and 1999 consolidated
+financial statements have been reclassified to conform to the 2001
+presentation.
+
+F-12 
+
+Table of Contents 
+
+GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 2 Basis of presentation and management s plans:
+
+As shown in the accompanying consolidated financial statements, the
+Company had a working capital deficiency of 3,093,626 at March 31,
+2001; net losses applicable to common stock attributed to continued
+operations of 12,552,897,
+ 4,001,907 and 2,202,644 in 2001, 2000 and 1999, respectively; and
+an accumulated deficit of 52,555,464 at March 31, 2001. These
+matters raise substantial doubt about the ability of the Company to
+continue as a going concern.
+
+Historically, the Company has funded its operations primarily through
+sales of common stock to, and borrowings from, its principal
+stockholder and sales of preferred and common stock and convertible
+notes payable to private investors pursuant to private placement
+memorandums and exemptions from registration under the Securities Act
+of 1933. The Company raised approximately 6,000,000, 4,999,000, and
+ 3,577,000 during 2001, 2000, and 1999 respectively, through
+borrowings from its principal stockholder and officers, issuance of
+short-term notes, private sales of preferred and common stock, line
+of credit borrowing, the exercising of stock options and warrants and
+convertible notes payable. Management plans to obtain the funds
+needed to enable the Company to continue as a going concern by
+actively pursuing additional investments of capital through
+subsequent private placements. However, management cannot provide any
+assurance that the Company will be successful in raising additional
+capital.
+
+The accompanying consolidated financial statements have been prepared
+in conformity with accounting principles generally accepted in the
+United States of America which contemplates (1) that the Company will
+continue as a going concern (2) realization
+of assets and (3) satisfaction of liabilities in the ordinary course
+of business. If the Company is unable to raise additional capital, it
+may be required to liquidate assets or take actions which may not be
+favorable to the Company. The consolidated financial statements do
+not include any adjustments that might result from the outcome of
+these uncertainties.
+
+The Company expects to generate new revenues from the introduction
+and sale of new products and associated engineering services to the
+government.
+
+F-13 
+
+Table of Contents 
+
+GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 3 Discontinued operations:
+
+Previously, the Company identified and reported on two industry
+segments based on strategic business units that were in turn based
+along market lines. The Government Business Unit which works
+primarily as a contractor for U.S. defense contractors and the U.S.
+Government, and the Commercial Business Unit which developed products
+to be sold for entertainment centers and home entertainment. In June
+2001, the Company discontinued its Commercial Business Unit and
+eliminated that business segment. Accordingly, the consolidated
+financial statements have been restated to reflect the losses
+associated with this segment as losses from discontinued operations.
+In addition, the Company has estimated the additional losses to be
+incurred from discontinued operations until the Unit s operations
+totally cease, and has accrued an additional loss for disposing of
+the Commercial Business Unit.
+
+Note 4 Acquisition matters:
+
+In 2000, the Company identified a potential acquisition candidate
+that manufactures forensic and surveillance vehicles. The Company
+loaned the acquisition candidate s president 500,000 in November
+1999 and an additional 100,000 in February 2000. Those notes, which
+were originally due in February 2000 and subsequently extended
+several times, are currently in default. Accordingly, in 2001 the
+Company charged a valuation reserve of 643,151 to continuing operations. These
+loans are collateralized by all of the Borrower s stock in the target
+company. The Company believes the value of the collateral to be
+minimum, and has deferred collection efforts while the teaming
+agreement is in existence.
+
+On June 9, 2000, the Company purchased finished goods inventory in
+the amount of 330,000 from the target company. Additionally, the
+Company paid the target company 135,000 for the right to receive
+future payment on invoices to be generated by the target company upon
+their completion of work in progress and subsequent delivery of
+product. The Company has determined that the value of these assets
+has been impaired. As a result, a reserve was charged against
+continuing operations of 465,000 in the period ended
+March 31, 2001.
+
+Note 5 Concentration of credit risk and sales to major customers:
+
+The Company maintains its cash balances with a financial institution
+and in an uninsured money market account. At times, financial
+institution balances exceed the Federal Deposit Insurance Corporation
+limitation for coverage of 100,000 thereby exposing the Company to
+credit risk. The Company reduces its exposure to credit risk by
+maintaining such deposits with a high quality financial institution
+and investment company. At March 31, 2001, the Company has cash and
+cash equivalent balances in excess of Federally insured limits in the
+amount of approximately 197,000.
+
+Accounts receivable are financial instruments that also expose the
+Company to a concentration of credit risk. The Company routinely
+assesses the financial strength of its customers and maintains an
+allowance for doubtful accounts that management believes will
+adequately provide for credit losses.
+
+F-14 
+
+Table of Contents 
+
+GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 6 Notes receivable:
+
+Notes receivable at March 31, 2001, consist of two notes from an
+individual originally due on February 20, 2000. The notes accrue
+interest at 9.00 and are collateralized by common stock in a company
+owned entirely by the individual. The notes were subsequently
+extended several times. The last maturity date was November 18, 2000.
+The Company has requested repayment of the notes and, as the notes
+are currently in default, has reserved for the full amount of the
+notes plus accrued interest. The Company has deferred pursuing collection of
+the notes.
+
+Note 7 Equipment, furniture and leasehold improvements:
+
+Equipment, furniture and leasehold improvements at March 31, 2001 and
+2000 consisted of the following:
+
+2001 
+ 
+ 2000 
+
+Computer, other equipment and furniture 
+
+2,848,407 
+
+2,564,391 
+
+Leasehold improvements 
+
+102,029 
+
+16,683 
+
+2,950,436 
+
+2,581,074 
+
+Less accumulated depreciation and
+amortization 
+
+2,490,342 
+
+2,302,999 
+
+Totals 
+
+460,094 
+
+278,075 
+
+Note 8 Lease commitment:
+
+The Company has a noncancelable lease for its office space which
+expires in December of 2003 and is classified as an operating lease.
+The Company has one option to renew for a five year period. Rent
+expense approximated 343,000 in 2001, and 332,000 in 2000 and 1999.
+On August 1, 2001 the Company will reduce its occupancy to
+one-half of the leased space, reducing the base rent by one half for
+the remainder of the lease period.
+
+Future minimum lease payments under the operating lease in years
+subsequent to March 31, 2001 are as follows:
+
+Year Ending 
+
+March 31, 
+ 
+ Amount 
+
+2002 
+
+255,000 
+
+2003 
+
+198,000 
+
+2004 
+
+154,000 
+
+Total 
+
+607,000 
+
+F-15 
+
+Table of Contents 
+
+ GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 9 Notes payable:
+
+At March 31, 2001, the Company had an outstanding note payable with a
+principal balance of 50,000 that was due and payable on June 22,
+2001. The note was unsecured and bore interest at 10 . The note has
+been extended to September 20, 2001.
+
+In February of 2001, the Company contracted for a line of credit with
+a lender that provided for maximum borrowings not to exceed
+ 2,500,000 to be used to provide working capital for production of
+its Merc Racer product by its commercial business unit and for
+general corporate matters. The credit facility provides that the
+Company pay a loan commitment fee of 8 plus costs of 205,000 and
+issued 1,150,000 warrants to purchase common stock. The expense relating to the warrants issued was 463,000,
+for a total of 668,000. The loan fee and the fair value of
+the warrants was to be
+amortized as additional imputed interest expense over the term of the
+agreement, 12 months. In addition the note bears interest at 14 .
+The credit agreement also provided for certain restrictive covenants
+dealing with, among other things, any substantial deterioration of
+the Company s financial condition. As of March 31, 2001, in addition
+to the 205,000 loan fee, the Company had drawn another 845,000 in
+advances. Citing a breech of the loan covenants dealing with
+material changes in the Company s financial condition, the lender
+declared the line of credit to be in default and has demanded the
+balance of 1,050,000 plus accrued interest be paid off immediately.
+Since the loan has been declared to be in default, the Company has
+written off the entire loan fee and the fair value of the
+warrants as a charge to interest expense in the
+current year.
+
+As of March 31, 2001, the Company had also borrowed 74,000 from
+certain of its officers. The loans were unsecured, non-interest
+bearing and due upon demand.
+
+At March 31, 1999, the Company had outstanding notes payable with a
+principal balance of 402,000 that had initial maturities of six
+months or less. The notes were unsecured and bore interest at 9 and
+10 . During the year ended March 31, 2000, these notes were paid in
+full including accrued interest of approximately 57,000.
+
+During the year ended March 31, 1999, 116,042 shares of common stock
+were issued to pay for 920,000 of short-term notes payable. The
+common shares were issued at the fair value of the common stock at
+the date of settlement, which varied from 6.00 to 8.00 per share.
+
+Note 10 Convertible notes payable:
+
+During the year ended March 31, 1999, convertible notes payable with
+a balance of 30,000 were converted at 4.50 per share into 6,667
+shares of common stock as originally provided in the conversion terms
+of the debt.
+
+F-16 
+
+Table of Contents 
+
+GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 11 Warrants:
+
+The Company has issued warrants in conjunction with the sale of
+convertible notes payable, assisting the Company in acquiring
+capital, extending loans, as an incentive to equity investors and as
+part of the consideration paid to various consultants. All of the
+warrants issued were for services or actions that had already been
+rendered at the date of issuance. In addition, the consideration
+received for the issuance of the warrants was not considered to be
+reliably measurable. Based on the provisions of Statement of
+Financial Accounting Standards No. 123, Accounting for Stock-Based
+Compensation SFAS 123 using the Black-Scholes option-pricing
+model and assuming a risk-free interest rate of 6 , expected warrant
+lives of one to ten years, expected volatility of 5 to 147 and no
+dividends, the compensation expense relating to the warrants issued
+was 869,689, 549,400 and 392,066 in 2001, 2000 and 1999,
+respectively. Each warrant entitles the holder to purchase one share
+of common stock upon exercise. The warrants expire at various dates
+from 2002 through 2010. The following is a summary of warrant
+activity during 2001, 2000 and 1999:
+
+Number of 
+ 
+ Exercise 
+
+Warrants 
+ 
+ Price 
+
+Outstanding at April 1, 1998 
+
+2,739,340 
+
+4.95 to 12 
+
+Granted 
+
+2,262,372 
+
+6 to 10 
+
+Exercised 
+
+(27,500) 
+
+8 
+
+Cancelled 
+
+(484,264) 
+
+10 
+
+Outstanding at March 31, 1999 
+
+4,489,948 
+
+4.95 to 12 
+
+Granted 
+
+3,363,200 
+
+4.95 to 10 
+
+Exercised 
+
+(584,052) 
+
+4.95 to 10 
+
+Cancelled 
+
+(60,000) 
+
+10 
+
+Outstanding at March 31, 2000 
+
+7,209,096 
+
+4.95 to 12 
+
+Granted 
+
+2,700,000 
+
+0.60 to 12 
+
+Outstanding at March 31, 2001 
+
+9,909,096 
+
+0.60 to 12 
+
+Warrants exercisable at March 31, 2001 
+
+8,191,097 
+
+0.60 to 12 
+
+Weighted average fair value of warrants
+granted during 2001 
+
+1.67 
+
+Weighted average fair value of warrants
+granted during 2000 
+
+.58 
+
+Weighted average fair value of warrants
+granted during 1999 
+
+.15 
+
+F-17 
+
+Table of Contents 
+
+ GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 12 Income taxes:
+
+The Company had net operating loss carryforwards at March 31, 2001 of
+approximately 41,711,000 available to reduce future Federal taxable
+income and approximately 8,803,000 available to reduce state
+taxable income, if any. The Federal net operating losses expire
+between 2006 and 2020. State net operating losses of approximately
+ 2,322,000 expired in 2001 and will continue to expire in 2002.
+Pursuant to Internal Revenue Code Section 382, use of the Company s
+net operating loss carryforwards may be severely limited if a cumulative
+change in ownership of more than 50 occurs within a three-year
+period. The Company has net deferred tax assets at March 31, 2001,
+2000 and 1999 comprised of the following:
+
+2001 
+ 
+ 2000 
+ 
+ 1999 
+
+Deferred tax assets: 
+
+Net operating loss carry-
+forwards 
+
+14,960,000 
+
+12,155,000 
+
+11,215,000 
+
+SFAS 123 stock option
+and warrant expense 
+
+569,000 
+
+412,000 
+
+136,000 
+
+Accrued salary and
+vacation expense 
+
+91,000 
+
+67,000 
+
+112,000 
+
+Accrued
+loss on disposal of commercial segment 
+
+179,000 
+
+Other 
+
+33,000 
+
+18,000 
+
+17,000 
+
+Totals 
+
+15,832,000 
+
+12,652,000 
+
+11,480,000 
+
+Valuation allowance for
+deferred tax assets 
+
+(15,832,000) 
+
+(12,652,000) 
+
+(11,480,000) 
+
+Net deferred tax assets 
+
+The Company has offset the net deferred tax assets by an equivalent
+valuation allowance due to the uncertainties related to the extent
+and timing of its future taxable income.
+
+The expected Federal income tax benefit, computed based on the
+Company s pre-tax losses in 2001, 2000 and 1999 and the statutory
+Federal income tax rate, is reconciled to the actual tax provision
+reflected in the accompanying consolidated financial statements as
+follows:
+
+2001 
+ 
+ 2000 
+ 
+ 1999 
+
+Expected tax benefit at
+statutory rates 
+
+3,444,000 
+
+1,526,000 
+
+1,108,000 
+
+Decrease resulting from
+change in valuation
+allowance 
+
+(3,444,000) 
+
+(1,526,000) 
+
+(1,108,000) 
+
+Totals 
+
+F-18 
+
+Table of Contents 
+
+ GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 13 Issuances of stock:
+
+The Company sold shares of preferred and common stock to private
+investors pursuant to private placement memorandums and exemptions
+from registration under the Securities Act of 1933.
+
+On May 22, 2000, the Company completed the sale of 5,000,000 in
+convertible preferred stock to a group of private investors. The
+Company issued 5,000 shares of Series A Preferred Stock, convertible
+immediately at the holders discretion, into common stock at a rate of
+the lower of (1) 250 shares of common stock per share of preferred
+stock (equivalent to an investment of 4.00 per share of common stock
+issued) or (2) 80 of the volume weighted average price for the
+previous 250,000 shares traded prior to submission by the preferred
+stockholder of a conversion notice to the Company. Embedded in the
+preferred stock is a mandatory conversion requirement effective three
+years after the date of issuance. The Series A investors also received
+warrants to purchase 1,250,000 shares of common stock at an exercise
+price of 5.38 per share, and registration rights on the conversion
+shares and the shares issuable upon the exercise of the warrants. The
+preferred stock provides for a cumulative dividend of 8 per year,
+payable in common stock or cash. After payment of a 10 commission for
+introducing the investors to the Company, and legal fees totaling
+approximately 50,000, the Company received net proceeds of
+approximately 4,449,000 which it has substantially used for general
+corporate purposes. In accordance with the Emerging Issues Task Force
+(EITF) Issue No 98-5, the Company recognized a beneficial conversion
+feature in the amount of 804,103 as a one-time non-cash preferred
+stock dividend. The amount represented the difference between the
+initial conversion price at the date of issuance of the preferred
+shares and the market price of the common stock at that date. In
+addition, the Company recorded a one-time, imputed (non-cash)
+preferred stock dividend of 3,437,500 as a result of allocating a
+portion of the proceeds received to the fair value of the warrants
+issued, as determined by the Black-Scholes model.
+
+In connection with the above sale of convertible preferred stock, the
+Company issued warrants to purchase 75,000 shares of common stock at
+an exercise price of 5.38 per share to the party who introduced the
+Company to the Series A private placement group. As a result, the
+Company recorded a one-time imputed (non cash) preferred stock
+dividend of 207,750.
+
+The aforementioned imputed preferred stock dividends associated with
+issuing the stock resulted in a one-time loss applicable to common
+stockholders of (0.27) per share. The Company also recorded a
+non-cash preferred stock dividend of 311,103 for the year ended
+March 31, 2001, due to the 8 cumulative preferred stock dividend
+feature.
+
+As of March 31, 2001, 1,269
+shares of Series A Preferred Stock issued at a price of 1,268,950
+had been converted into 1,008,079 shares of common stock.
+
+During 2000, the Company sold 575,283 shares
+of common stock at 6.00 per share
+resulting in gross proceeds of 3,451,677. In connection with the
+2000 sale of common stock, the Company recorded 201,207 for selling
+expenses which reduced the net proceeds to the Company to 3,250,470.
+
+F-19 
+
+Table of Contents 
+
+GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 13 Issuances of stock (concluded):
+
+In addition, the Company issued 248,147 shares of common stock upon
+exercise of warrants for subscriptions receivable in the amount of
+ 1,232,792 of that amount, 49,500 was collected in full during the
+last quarter of the year ended March 31, 2000.
+
+During 1999, the Company sold 400,288 shares of common stock at 6.00
+to 8.00 per share resulting in proceeds of 2,424,610. In addition,
+the Company issued 132,891 shares of common stock to retire 998,693
+of short-term debt. The Company also issued 16,875 shares of common
+stock for 125,000 of services and 3,000 shares of common stock upon
+the exercise of related stock options of 11,400.
+
+Note 14 Stock options:
+
+The Company has three
+incentive stock option ISO plans the
+ 1991 Plan , the 1994 Plan and the 2000 Plan . In addition, the
+Company granted nonqualified stock options NSOs in 1994, 1995,
+1997 and 1998. Information related to the plans and the other
+options granted follows:
+
+Options 
+
+Options 
+ 
+ Outstanding at 
+
+Year 
+
+Type 
+ 
+ Authorized 
+ 
+ March 31, 2001 
+
+1991 
+
+ISO 
+
+1,000,000 
+
+550,000 
+
+1994 
+
+NSO 
+
+200,000 
+
+200,000 
+
+1994 
+
+ISO 
+
+2,000,000 
+
+1,741,851 
+
+1995 
+
+NSO 
+
+200,000 
+
+200,000 
+
+1997 
+
+NSO 
+
+640,000 
+
+640,000 
+
+1998 
+
+NSO 
+
+750,000 
+
+750,000 
+
+2000 
+
+ISO 
+
+4,000,000 
+
+Total 
+
+4,081,851 
+
+Generally, the plans specify that the options to purchase shares may
+be granted at prices which approximate their fair market value at the
+date of grant. At March 31, 2001, options to purchase 450,000 shares
+were available for future grant under the 1991 Plan. The 1991 Plan
+will terminate on August 16, 2001.
+
+In July 1997, the Company modified the 1994 grant to its then Vice
+President, Corporate Development and General Counsel of incentive
+stock options to purchase 800,000 shares of the Company stock to
+provide that in the event his employment was terminated for any
+reason, then he would have a period of thirty-six months from the
+date of termination to exercise his vested options. Accordingly, the
+800,000 ISO options were cancelled and 800,000 of NSO options were
+issued. During 1999, 160,000 of non-vested NSO options were cancelled
+due to his employment termination.
+
+F-20 
+
+Table of Contents 
+
+GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 14 Stock options (continued):
+
+As of March 31, 2001, the Company had issued and outstanding options
+to purchase 1,741,851 shares and options to purchase 258,149 shares
+were available for future grant under the 1994 Plan. The 1994 Plan
+will terminate in July 2004 unless terminated as of an earlier date
+by the Board of Directors.
+
+Options issued under the plans and the other options granted vest
+over a five-year period and are exercisable over a ten-year period
+from the date of grant.
+
+The amount of compensation expense recognized relating to the
+granting of stock options to non-employees based on the fair value of
+the options at the grant date under the provisions of SFAS 123 and
+assuming a risk-free interest rate of 6 , expected option lives of 5
+years, expected volatility of 5 and no dividends was 50,400 in 2001
+and 2000 and 16,800 in 1999, respectively.
+
+If compensation cost for the stock options granted to employees had
+been determined based on the fair value of the options at the grant
+dates under the provisions of SFAS 123 and assuming a risk-free
+interest rate of 6 , expected option lives of one to five years,
+expected volatility of 5 to 60 and no dividends, the Company s net
+loss and net loss per share would have been increased to the pro
+forma amounts set forth below:
+
+2001 
+ 
+ 2000 
+ 
+ 1999 
+
+Net loss applicable to common
+stock attributed to continued operations as reported 
+
+(12,552,897) 
+
+(4,001,907) 
+
+(2,202,644) 
+
+Net loss applicable to common
+stock attributed to continued operations pro forma 
+
+(13,197,897) 
+
+(7,329,907) 
+
+(2,779,644) 
+
+Net loss applicable to common
+stock per common share attributed to continued operations as reported 
+
+(.76) 
+
+(.25) 
+
+(.15) 
+
+Net loss applicable to common
+stock per common share attributed to continued operations pro forma 
+
+(.80) 
+
+(.47) 
+
+(.19) 
+
+F-21 
+
+Table of Contents 
+
+ GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 14 Stock options (concluded):
+
+Additional information regarding options outstanding under the
+Company s stock option plans at March 31, 2001, 2000 and 1999 and
+changes in outstanding options in 2001, 2000 and 1999 follows:
+
+2001 
+ 
+ 2000 
+ 
+ 1999 
+
+Weighted 
+
+Weighted 
+
+Weighted 
+
+Shares 
+ 
+ Average 
+ 
+ Shares 
+ 
+ Average 
+ 
+ Shares 
+ 
+ Average 
+
+or Price 
+ 
+ Exercise 
+ 
+ or Price 
+ 
+ Exercise 
+ 
+ or Price 
+ 
+ Exercise 
+
+Per Share 
+ 
+ Price 
+ 
+ Per Share 
+ 
+ Price 
+ 
+ Per Share 
+ 
+ Price 
+
+Outstanding at beginning
+of year 
+
+4,106,762 
+
+4.31 
+
+2,581,050 
+
+3.81 
+
+3,063,550 
+
+3.78 
+
+Granted 
+
+101,089 
+
+4.95 
+
+1,624,750 
+
+5.10 
+
+48,500 
+
+6.80 
+
+Exercised 
+
+(2,500) 
+
+3.83 
+
+(3,000) 
+
+3.80 
+
+Cancelled 
+
+(126,000) 
+
+5.14 
+
+(96,538) 
+
+4.46 
+
+(528,000) 
+
+3.93 
+
+Outstanding at end of year 
+
+4,081,851 
+
+4.42 
+
+4,106,762 
+
+4.31 
+
+2,581,050 
+
+3.81 
+
+Price range at end of year 
+
+2.75 to 6.80 
+
+.275 to 6.80 
+
+.275 to 6.80 
+
+Exercisable at end of year 
+
+3,954,238 
+
+4.40 
+
+3,686,583 
+
+4.22 
+
+2,358,683 
+
+3.71 
+
+Available for grant at
+end of year 
+
+4,918,149 
+
+683,238 
+
+2,208,950 
+
+Weighted average fair
+value of options granted
+during the year 
+
+3.64 
+
+1.91 
+
+1.79 
+
+The following table summarizes information about stock options
+outstanding at March 31, 2001, all of which are at fixed prices:
+
+Weighted Average 
+
+Remaining 
+
+Number 
+ 
+ Contractual 
+ 
+ Number 
+
+Exercise 
+ 
+ of Options 
+ 
+ Life of Options 
+ 
+ of Options 
+
+Price 
+ 
+ Outstanding 
+ 
+ Exercisable 
+ 
+ Exercisable 
+
+0.275 
+
+200,000 
+
+0.37 years 
+
+200,000 
+
+1.000 
+
+200,000 
+
+3.26 years 
+
+200,000 
+
+3.825 
+
+1,054,762 
+
+2.41 years 
+
+1,054,762 
+
+4.875 
+
+40,589 
+
+9.47 years 
+
+13,534 
+
+4.950 
+
+1,050,000 
+
+3.38 years 
+
+1,050,000 
+
+5.100 
+
+904,000 
+
+8.22 years 
+
+848,174 
+
+6.800 
+
+22,000 
+
+7.15 years 
+
+17,600 
+
+6.000 
+
+553,000 
+
+8.93 years 
+
+551,000 
+
+5.000 
+
+57,500 
+
+9.35 years 
+
+19,168 
+
+4,081,851 
+
+3,954,238 
+
+F-22 
+
+Table of Contents 
+
+ GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 15 Related party transactions and balances:
+
+The Company had outstanding notes payable to its Principal
+Stockholder of 186,500 and 20,000 at March 31, 2001 and 2000,
+respectively, which were unsecured, nonconvertible and are interest
+free bear interest
+at 3 in 2001 and 9 in 2000. Accrued interest of approximately
+ 8,000 at March 31, 2000, respectively, is included in accounts
+payable and accrued expenses in the accompanying consolidated balance
+sheets.
+
+The Principal Stockholder borrowed a portion of the funds used to
+make the loans to the Company from a group of investors by issuing
+notes (the Smith Notes with the same interest rates and due dates
+as the notes issued by the Company to the Principal Stockholder. In
+addition, the Principal Stockholder granted the holders of the Smith
+Notes the right to convert the principal balance and accrued interest
+into shares of common stock that he owns at a conversion rate of
+ 4.50 per share.
+
+During 2001, the Company reduced the principal balance of, and the
+accrued interest on, the notes payable to the Principal Stockholder
+by 20,000 and 8,329, respectively, by issuing 6,296 shares of
+common stock to certain holders of the Smith Notes. The conversions
+of the principal balances and accrued interest during 2001 were at
+ 4.50 per share, as originally provided in the conversion terms of
+the debt agreement.
+
+During 2000, the Company reduced the principal balance of, and the
+accrued interest on, the notes payable to the Principal Stockholder
+by 50,000 and 19,332, respectively, by issuing 15,407 shares of
+common stock to certain holders of the Smith Notes. The conversions
+of the principal balances and accrued interest during 2000 were at
+ 4.50 per share, as originally provided in the conversion terms of
+the debt agreement.
+
+During 1999, the Company reduced the principal balance of, and the
+accrued interest on, the notes payable to the Principal Stockholder
+by 25,000 and 7,625, respectively, by issuing 7,251 shares of
+common stock to certain holders of the Smith Notes. The conversions
+of the principal balances and accrued interest during 1999 were at
+ 4.50 per share, as originally provided in the conversion terms of
+the debt agreement.
+
+In addition, during 1999, the Principal Stockholder forgave 80,778
+of the debt by contributing the amounts to additional paid-in
+capital.
+
+Loans payable to officers in the amount of 74,000 at March 31, 2001
+were unsecured, non-interest bearing and due upon demand.
+
+F-23 
+
+Table of Contents 
+
+GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 15- Related party transactions and balances (concluded):
+
+The subscriptions receivable from equity transactions of 327,500
+that is reflected as an increase to stockholders deficiency in the
+accompanying consolidated balance sheet at March 31, 2001 is
+evidenced by notes received as part of the consideration for the sale
+of common stock in 1992 to three of the Company s founding
+stockholders who were, and remain, employees of the Company, two of
+whom are officers. The notes are collateralized by the shares of the
+Company s common stock, mature in August 2001 (except under certain
+specified circumstances) and bear interest at 8.2 which is payable
+at maturity. Because of the continued financial difficulties of the
+Company, there is substantial doubt that those receivables will ever
+be collected. Accordingly, the Company has charged 327,500 to
+continuing operations as of March 31, 2001.
+
+During 2000, the Company issued 248,147 shares of common stock upon
+exercise of warrants in exchange for cash, services and a
+subscription receivable in the amount of 1,183,292 from an entity
+owned by close advisors of the Company. The note bears interest at
+10 and is collateralized by a first deed of trust on residential
+property held by the entity. The subscription receivable which was
+originally due March 31, 2000, was extended three additional times
+and last matured on December 22, 2000.
+
+Total principal and unpaid interest accrued is 1,202,737. The
+Company has not accrued any interest on the note during the current
+period. A valuation reserve of 1,202,737 was established while the
+Company pursued collection of the note. In March 2001, the Company
+negotiated a settlement where by the Company agreed to release the
+lien on the property in exchange for a cash payment of 200,000, the
+return of the previously issued stock, valued at 78,301 (the trading
+value on the date received), less transaction costs incurred of
+ 13,750.
+
+The entity and its owners have
+provided advisory and introduction services to GreyStone since July
+1997. In late May 2000, the company paid the entity 150,000. In
+addition, the company paid one of the owners 60,000 in July 2000,
+ 60,000 in October 2000, and accrued 60,000 in May 2001 for services
+performed through March 31, 2001. The current service agreement
+expires on September 30, 2001 and includes tasking to develop sales
+and marketing programs, assist with possible acquisition or joint
+venture opportunities, locate and attract third party debt or equity
+funding for the company or its major interests, and provide general
+management services. 
+
+In July 1999, a professional services agreement was entered into
+between the Company and the Pointe Force Company, Inc. Pointe
+Force ), an entity owned by a director and officer of the Company.
+Pointe Force supports the Company in the areas of mergers and
+acquisitions, strategic planning, corporate financing and relations
+with the investment community. Under this one-year advisory services
+agreement, the director or Pointe Force is compensated in the amount
+of 11,000 per month, exclusive of expenses. Additionally, the
+Company loaned 20,000 on August 6, 1999, 10,000 on September 22,
+1999 and 20,000 on November 17, 1999 to Pointe Force and its
+principal. All loans are for a one-year term and bear interest at
+8.75 per year. All of the loans have matured and are in default.
+The Company has recorded a valuation reserve to continuing operations
+of 56,635, the Company has deferred collection of the note.
+
+F-24 
+
+Table of Contents 
+
+GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 16 Employee benefit plan:
+
+The Company maintains a defined contribution Section 401(k) 
+retirement plan which covers all full-time eligible employees.
+Employees may elect to contribute a portion of their salaries
+directly to the plan, up to the maximum allowed by the Internal
+Revenue Code. The Company matches, on a discretionary basis, up to
+50 of each participant s annual contributions to the plan; however,
+the Company s matching contribution may not exceed 8 of the
+participant s annual compensation. The Company made approximately
+ 1,000 and 3,000 in contributions in 2001 and 2000.
+
+Note 17 Litigation:
+
+On December 29, 2000 the Company initiated a temporary suspension of
+conversions of Series A preferred stock into common stock in order to
+prevent further degradation in the market price of the Company s
+common stock. On January 5, 2001 one of the 13 Series A
+preferred stockholders filed suit against the Company in the United
+States District Court, Southern District of New York for breach
+of contract for failure to honor conversions, and for an order to
+compel the Company to honor conversions. The stockholder also asked for a
+temporary injunction to be issued compelling the Company to honor any
+of stockholder s conversion notices. The order was granted on
+January 12, 2001. A second preferred stockholder joined the suit
+in March 2001, and the case was dismissed on June 19, 2001. A
+similar case was filed in the same court by a group of four other
+preferred stockholders in March 2, 2001, and the case was
+dismissed on March 23, 2001. Both suits were dismissed upon the
+company s agreement to continue to honor all conversion notices.
+
+On May 25, 2001 a lawsuit
+was filed against GreyStone by Mahan & Nash, a public relations
+service provider, in the Superior Court of the State of California,
+County of Los Angeles for the payment of 68,000 in unpaid fees
+earned under a service contract. The Company has answered with a
+general denial and hopes to have the matter settled before the status
+conference, which is scheduled for September 14, 2001.
+
+On June 29, 2001 a
+lawsuit was filed against GreyStone and Richard A. Smith by Capital
+Solutions Fund LLC, the lender of the Company s February 2001
+line of credit, in the Superior Court of the State of California,
+County of San Diego for breach of contract and fraud. A total of
+ 1,050,000 (including 205,000 in loan fees) was drawn on the line of
+credit before the line was called by the lender. The line was called
+as a result of the March 2001 dissolution of GreyStone s
+exclusive distributor of the MereRacer entertainment system by the
+distributor s parent corporation. GreyStone s answer to the
+suit is due by August 2, 2001. Both GreyStone and its CEO,
+Richard Smith, vehemently deny the claims and intend to vigorously
+defend against the suit.
+
+Note 18 Subsequent events:
+
+As of the date of this report, the Company had approximately
+ 45,000 (unaudited) in cash, approximately 195,000 (unaudited) in accounts receivable, and
+current liabilities of almost 3,000,000 (unaudited). These overdue obligations
+include accounts payable of approximately 1,000,000 (unaudited) (approximately
+ 691,000 (unaudited) of which is over 90 days) and short term notes payable of
+approximately 468,000 (unaudited). The company has been requested to make an
+immediate repayment of the 1,050,000 that had been advanced under the
+line of credit. Overdue salary obligations are approximately 441,000 (unaudited).
+Two Company officers have recently resigned. Overdue salary
+obligations to the remaining seven Company officers are equal to the
+seven most recent (twice monthly) pay periods. Back salary is also
+owed to the two resigned officers. Additionally, many employees have
+not been paid for the most recent one or two pay periods prior to the
+filing of this report, and most employee and officer expense
+reimbursement requests remain unpaid. 
+
+On May 18, 2001 the Board of Directors authorized the issuance of
+warrants to purchase an aggregate of 1,100,000 shares of common stock,
+with exercise prices ranging from 1.00 to 2.50 per share. The
+warrants were issued to short term lenders of cash. On May 18, 2001 the
+Board also authorized the issuance of options to purchase 1,830,000
+shares of common stock to employees under the 2000 Stock Option Plan at
+an exercise price of 0.20 per share. 
+
+On July 7, 2001 GreyStone completed the sale of 631,000 of common
+stock to 11 accredited investors at prices ranging from 0.05 to 0.10
+per share. The company issued 8,022,000 shares of common stock, which
+included 1,112,000 shares issued to 2 parties who introduced the
+investors to the company s private placement. The proceeds were used
+for general corporate purposes. 
+
+From April 1, 2001 until the date of this report the company
+issued an aggregate of 4,425,249 shares of common stock upon the
+conversion of Series A Preferred Stock. 
+
+F-25 
+
+Table of Contents 
+ GREYSTONE DIGITAL TECHNOLOGY, INC. 
+AND SUBSIDIARY
+
+QUARTERLY FINANCIAL INFORMATION (UNAUDITED)
+
+First 
+ 
+ Second 
+ 
+ Third 
+ 
+ Fourth 
+
+Quarter 
+ 
+ Quarter 
+ 
+ Quarter 
+ 
+ Quarter 
+
+2001 
+
+Net revenues 
+
+540,044 
+
+655,993 
+
+470,985 
+
+700,709 
+
+Gross margin 
+
+116,542 
+
+161,579 
+
+38,244 
+
+(109,494) 
+
+Loss from operations 
+
+(1,233,467) 
+
+(1,124,404) 
+
+(1,148,896) 
+
+(1,644,773) 
+
+Net loss from
+continuing operations applicable to common stock 
+
+(5,699,248) 
+
+(1,175,680) 
+
+(3,216,016) 
+
+(2,461,953) 
+
+Basic net loss per
+share from continuing operations 
+
+0.35 
+
+0.07 
+
+0.19 
+
+0.15 
+
+Common Stock Prices 
+ High 
+
+5.750 
+
+6.500 
+
+4.875 
+
+1.718 
+
+Low 
+
+3.125 
+
+2.937 
+
+0.906 
+
+0.218 
+
+2000 
+
+Net revenues 
+
+459,422 
+
+436,234 
+
+379,986 
+
+575,241 
+
+Gross margin 
+
+232,578 
+
+196,350 
+
+86,505 
+
+181,864 
+
+Loss from operations 
+
+(488,607) 
+
+(1,002,889) 
+
+(1,248,049) 
+
+(1,346,769) 
+
+Net loss from continuing operations 
+
+(495,789) 
+
+(1,002,981) 
+
+(1,250,586) 
+
+(1,252,551) 
+
+Basic net loss per
+share from continuing operations 
+
+0.03 
+
+0.06 
+
+0.08 
+
+0.08 
+
+Common Stock Prices 
+ High 
+
+20.833 
+
+20.833 
+
+41.667 
+
+13.250 
+
+Low 
+
+7.917 
+
+7.917 
+
+9.115 
+
+4.875 
+
+F-26 
+
+Table of Contents 
+
+ GREYSTONE DIGITAL TECHNOLOGY, INC.
+
+EXHIBITS INDEX
+
+Exhibit 
+
+Number 
+ 
+ Description 
+
+3.1 
+
+Amended and Restated Certificate of Incorporation of the Company
+which was filed as Exhibit 3.1 to the Company s Registration
+Statement on Form S-4 (No. 333-65963) is incorporated herein by
+reference. 
+
+3.2 
+
+By-laws of the Company which was filed as Exhibit 3.2 to the
+Company s Registration Statement on Form S-4 (No. 333-65963) is
+incorporated herein by reference. 
+
+4 
+
+Specimen Common Stock Certificate which was filed as Exhibit 4.3 to
+the Company s Registration Statement on Form S-4 (No. 333-65963) is
+incorporated herein by reference. 
+
+10 
+
+Agreement and Plan of Merger and Reorganization by and among Express
+Capital Concepts, Inc., Express Capital Acquisition Corp., GreyStone
+Technology, Incorporated and Mr. Earnest Mathis, Jr., dated as of
+August 11, 1997, and the first and second amendments thereto which
+were filed as Exhibits 2.1, 2.2 and 2.3 respectively to the
+Company s Registration Statement on Form S-4 (No. 333-65963), is
+incorporated herein by this reference. 
+
+21 
+
+Subsidiaries of Registrant as of March 31, 2001 
+
+Previously filed as indicated and incorporated herein by reference.
+
+<EX-21>
+ 2
+ a74143ex21.txt
+ EXHIBIT 21
+
+1
+ EXHIBIT 21
+
+ SUBSIDIARIES OF GREYSTONE DIGITAL TECHNOLOGY, INC.
+
+State of
+ Incorporation
+Name or Jurisdiction
+- ---- ---------------
+ 
+Express Capital Acquisition Corporation
+ (Doing Business as GreyStone Technology, Inc.) Delaware
+
+</EX-21>
+

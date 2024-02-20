@@ -1,0 +1,369 @@
+<Header>
+<FileStats>
+    <FileName>20040326_10-K_edgar_data_1245821_0001277277-04-000309.txt</FileName>
+    <GrossFileSize>13715</GrossFileSize>
+    <NetFileSize>10896</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>226</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>2</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001277277-04-000309.hdr.sgml : 20040326
+<ACCEPTANCE-DATETIME>20040325213657
+ACCESSION NUMBER:		0001277277-04-000309
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20031231
+FILED AS OF DATE:		20040326
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WASHINGTON MUTUAL MORT SEC CORP WAMU MO PA TH CE SE 03 S6
+		CENTRAL INDEX KEY:			0001245821
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				942528990
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-103345-11
+		FILM NUMBER:		04691154
+
+	BUSINESS ADDRESS:	
+		STREET 1:		75 N FAIRWAY DR
+		CITY:			VERNON HILLS
+		STATE:			IL
+		ZIP:			60061
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Mvun40YIwMB2VDFh+U7CEbHMAv0fjno68zwEDna94NtlVea52i1bJLGtgu0orKGy
+ aeLchRiS0CgcCIn40MZeyQ==
+
+ 0001277277-04-000309.txt : 20040326
+
+10-K
+ 1
+ form10k083.txt
+ 
+ UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ Washington, D.C. 20549
+ Form 10-K
+
+[X] Annual report pursuant to Section 13 or 15(d) of the Securities Exchange
+ Act of 1934 for the fiscal year ended December 31, 2003
+
+[ ] Transition report pursuant to Section 13 or 15(d) of the Securities
+ Exchange Act of 1934
+
+ for the transition period from to
+
+Commission File Number 333-103345-11
+
+WASHINGTON MUTUAL MORTGAGE SECURITIES CORP.
+ (Exact name of Registrant as specified in its charter)
+
+ Delaware 94-2528990
+ (State or other jurisdiction of (I.R.S. Employer Identification No.)
+ incorporation
+
+ 1201 THIRD AVENUE, WMT 1706
+ SEATTLE, WASHINGTON 98101
+ (206) 377-8555
+ (Address, including zip code,
+ and telephone number, including area code, of
+ registrant's principal executive offices)
+
+ WAMU MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2003-S6
+ (Title of each class of securities covered by this Form)
+
+Securities registered pursuant to Section 12(b) of the Act: None
+Securities registered pursuant to Section 12(g) of the Act: None
+
+ Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X] No [ ] (as such reporting
+obligations are modified as set forth in J.P. Morgan Mortgage Pass-Through
+Corporation, SEC No-Action Letter, March 31, 1989, in reliance upon which the
+registrant is filing this modified report).
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ] Not applicable.
+
+ State the aggregate market value of the voting and non-voting common equity
+held by non-affiliates of the registrant: None.
+
+ Indicate the number of shares outstanding of each of the registrant's
+classes of common stock, as of the latest practicable date: Not applicable.
+
+ DOCUMENTS INCORPORATED BY REFERENCE
+
+ The registrant's Reports on Form 8-K concerning the registrant's WAMU
+MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2003-S6, issued pursuant to the
+Pooling and Servicing Agreement dated as of June 1, 2003 (the "Pooling
+Agreement") and registered pursuant to a registration statement on Form S-3
+(File No. 333-103345) (such mortgage pass-through certificates, the
+"Certificates"), are incorporated by reference as set forth in Part IV, Item 15.
+Capitalized terms used herein but not otherwise defined shall have the meanings
+assigned to them in the Pooling Agreement.
+
+ Part I
+
+Item 1. Business.
+
+ Not applicable.
+
+Item 2. Properties.
+
+ Information regarding the mortgaged properties related to the Certificates
+is furnished by reference to the Annual Statement of Compliance attached hereto
+as Exhibit 99.1.
+
+Item 3. Legal Proceedings.
+
+ There are no material pending legal proceedings with respect to the assets
+of the Trust involving the registrant or, to the best knowledge of the
+registrant, the Trustee, any Custodian, any Servicer or the assets of the Trust,
+other than ordinary routine litigation incidental to the Trustee's, any
+Custodian's, any Servicer's or the registrant's duties under the Pooling
+Agreement.
+
+Item 4. Submission of Matters to a Vote of Security Holders.
+
+ No vote or consent of holders of Certificates has been solicited for any
+purpose during 2003.
+
+Part II
+
+ Item 5. Market for Registrant's Common Equity and Related Stockholder
+ Matters.
+
+ (a) To the knowledge of the registrant, there exists no established public
+trading market for the Certificates.
+
+ (b) The Certificates are represented by one or more certificates registered
+in the name of Cede & Co., as nominee of the Depository Trust Company ("DTC")
+and are held in book-entry form only. The registrant considers Cede & Co. to be
+the sole holder of record of the Certificates.
+
+ (c) Not applicable.
+
+Item 6. Selected Financial Data.
+
+ Not applicable.
+
+Item 7. Management's Discussion and Analysis of Financial Condition and Results
+of Operations.
+
+ Not applicable.
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+
+ Not applicable.
+
+Item 8. Financial Statements and Supplementary Data.
+
+ Not applicable.
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and
+Financial Disclosure.
+
+ None.
+
+ Part III
+
+Item 10. Directors and Executive Officers of the Registrant.
+
+ Not applicable.
+
+Item 11. Executive Compensation.
+
+ Not applicable.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management.
+
+ Not applicable.
+
+Item 13. Certain Relationships and Related Transactions.
+
+ Not applicable.
+
+Item 14. Principal Accountant Fees and Services.
+
+ Not applicable.
+
+Part IV
+
+Item 15. Exhibits, Financial Statement Schedules, and Reports on Form 8-K.
+
+ (a) Documents filed as part of this report.
+
+ 1. Not applicable.
+
+ 2. Not applicable.
+
+ 3. The required exhibits are as follows:
+
+Exhibit No. Description
+ 
+31 Rule 13a-14(d) Certification
+
+99.1 Officer's Certificate regarding Annual Statement of Compliance of
+ Washington Mutual Mortgage Securities Corp., dated March 15, 2004
+
+99.2 Independent Accountants' Report on Management's Assertion
+ Concerning Compliance with Washington Mutual Mortgage
+ Securities Corp.'s Minimum Servicing Standards as of and for
+ the year ended December 31, 2003 (incorporated by reference
+ to the designated exhibit included in the registrant's
+ Current Report on Form 8-K, filed on March 24, 2004, (SEC
+ File No. 333-103345))
+
+(b) Reports on Form 8-K.
+
+ The registrant filed Current Reports on Form 8-K that described
+distributions made to Certificateholders on the Distribution Date occurring in
+the month preceding the month in which such Current Report on Form 8-K was filed
+and also provided certain information regarding delinquent Mortgage Loans and
+credit enhancements as of such Distribution Date. Such Current Reports on Form
+8-K are incorporated by reference herein, as follows:
+
+WAMU MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2003-S6
+
+EVENT REPORTED
+Monthly Distribution Report
+sent to holders of the Certificates Date Distribution Report Filed
+for payments made in: on Form 8-K:
+- ------------------------------------ ------------------------------
+
+July 2003 August 11, 2003
+August 2003 September 9, 2003
+September 2003 October 9, 2003
+October 2003 November 4, 2003
+November 2003 December 4, 2003
+
+SIGNATURES
+
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+Dated: March 24, 2004 WASHINGTON MUTUAL MORTGAGE SECURITIES CORP.
+
+By: /s/ Michael L. Parker
+ Michael L. Parker,
+ President and Director
+
+<EX-31>
+ 3
+ exh31083.txt
+ 
+Exhibit 31 Rule 13a-14(d) Certification
+
+ CERTIFICATION
+
+ I, Michael L. Parker, a President and Director of Washington Mutual
+Mortgage Securities Corp., certify that:
+
+ 1. I have reviewed this annual report on Form 10-K, and all reports on Form
+8-K containing distribution or servicing reports filed in respect of periods
+included in the year covered by this annual report, of WAMU MORTGAGE
+PASS-THROUGH CERTIFICATES, SERIES 2003-S6;
+
+ 2. Based on my knowledge, the information in these reports, taken as a
+whole, does not contain any untrue statement of a material fact or omit to state
+a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading as of the
+last day of the period covered by this annual report;
+
+ 3. Based on my knowledge, the distribution or servicing information
+required to be provided to the trustee by the servicer under the pooling and
+servicing, or similar, agreement, for inclusion in these reports is included in
+these reports;
+
+ 4. I am responsible for reviewing the activities performed by the
+servicer under the pooling and servicing, or similar, agreement and based upon
+my knowledge and the annual compliance review required under that agreement, and
+except as disclosed in the reports, the servicer has fulfilled its obligations
+under that agreement; and
+
+ 5. The reports disclose all significant deficiencies relating to the
+servicer's compliance with the minimum servicing standards based upon the report
+provided by an independent public accountant, after conducting a review in
+compliance with the Uniform Single Attestation Program for Mortgage Bankers or
+similar procedure, as set forth in the pooling and servicing, or similar,
+agreement, that is included in these reports.
+
+ In giving the certifications above, I have reasonably relied on
+information provided to me by the following unaffiliated third parties acting as
+servicers and sub-servicers:
+
+Washington Mutual
+
+Dated: March 15, 2004
+ /s/ Michael L. Parker
+ Michael L. Parker,
+ President and Director
+
+</EX-31>
+
+<EX-99.1>
+ 4
+ exh99083.txt
+ 
+Exhibit 99.1 Officer's Certificate regarding Annual Statement of
+ Compliance of Washington Mutual Mortgage Securities Corp.
+
+ WASHINGTON MUTUAL MORTGAGE SECURITIES CORP.
+ OFFICER'S CERTIFICATE
+
+ The undersigned officer of Washington Mutual Mortgage Securities Corp., a
+Delaware corporation (the "Company") hereby certifies on behalf of the Company
+and on his own behalf for purposes of the WAMU MORTGAGE PASS-THROUGH
+CERTIFICATES, SERIES 2003-S6, as follows:
+
+ 1. I am the duly appointed, qualified and acting President of the Company.
+
+ 2. Capitalized terms used and not defined herein shall have the meanings
+ascribed to such terms in the Pooling and Servicing Agreement related to the
+above-referenced series of Certificates.
+
+ 3. I am duly authorized to execute and deliver this Officer's Certificate
+on behalf of the Company.
+
+ 4. A review of the activities of the Master Servicer during the preceding
+calendar year and performance under this Agreement has been made under my
+supervision.
+
+ 5. To the best of my knowledge, based on such review, the Master Servicer
+has fulfilled all its obligations under the Agreement throughout such year.
+
+ IN WITNESS WHEREOF, I have signed my name as of March 15, 2004.
+
+WASHINGTON MUTUAL MORTGAGE SECURITIES CORP.
+
+By: /s/ Michael L. Parker
+ Michael L. Parker,
+ President and Director
+
+</EX-99.1>
+

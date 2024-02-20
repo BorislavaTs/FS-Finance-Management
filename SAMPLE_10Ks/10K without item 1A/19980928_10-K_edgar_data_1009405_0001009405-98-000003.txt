@@ -1,0 +1,623 @@
+<Header>
+<FileStats>
+    <FileName>19980928_10-K_edgar_data_1009405_0001009405-98-000003.txt</FileName>
+    <GrossFileSize>194778</GrossFileSize>
+    <NetFileSize>26903</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>164313</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>2</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001009405-98-000003.hdr.sgml : 19980930
+ACCESSION NUMBER:		0001009405-98-000003
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19980630
+FILED AS OF DATE:		19980928
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BONE CARE INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0001009405
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				391527471
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-27854
+		FILM NUMBER:		98716713
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE SCIENCE CT
+		CITY:			MADISON
+		STATE:			WI
+		ZIP:			53711
+		BUSINESS PHONE:		6082742663
+
+	MAIL ADDRESS:	
+		STREET 1:		313 WEST BELTLINE HIGHWAY
+		CITY:			MADISON
+		STATE:			WI
+		ZIP:			53713
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Kh0Ffv9uMxLY+JHB7x0zkJGRL+/XAdG6ofDOlAflhl1xn+4PFKTbjDS2vh7ZTZTr
+ 9ArS0DZ/gV9ZEosvNu6i6g==
+
+ 0001009405-98-000003.txt : 19980930
+
+10-K
+ 1
+ ANNUAL REPORT FOR YEAR ENDING 06/30/98
+
+SECURITIES AND EXCHANGE COMMISSION
+ Washington, D.C. 20549
+ _______________________
+
+ FORM 10-K
+ FOR ANNUAL AND TRANSITION REPORTS PURSUANT TO SECTIONS 13 OR 15(d)
+ OF THE SECURITIES EXCHANGE ACT OF 1934
+
+(Mark one)
+/x/ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934
+ For the fiscal year ended June 30, 1998
+ OR
+/ / TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+
+ For the Transition Period from __________ to __________
+
+ Commission file number 0-27854
+
+ Bone Care International, Inc. 
+ ------------------------------ 
+ (Exact name of registrant as specified in its charter)
+
+ Wisconsin 39-1527471 
+ ----------------- ----------------
+ 
+ (State or other jurisdiction of (IRS Employer
+ incorporation or organization) Identification No.)
+
+ One Science Court 
+ Madison, Wisconsin 53711 
+ --------------------- ---------------
+ (Address of principal executive offices) (Zip Code)
+
+ Registrant's telephone number, including area code: (608) 236-2500
+ Securities registered pursuant to Section 12(b) of the Act: None
+
+ Securities registered pursuant to Section 12(g) of the Act:
+
+ Common Stock, without par value
+ Preferred Stock Purchase Rights 
+ -----------------------------------
+ (Title of class)
+
+ Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+ Yes /X/ No / /
+
+ Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to
+the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [ ]
+
+ As of September 23, 1998, there were issued and outstanding 10,135,956
+shares of Common Stock. The aggregate market value of the voting and
+non-voting common equity held by nonaffiliates of the registrant was
+ 61,445,312 as of September 23, 1998, assuming solely for purposes of this
+calculation that all directors and executive officers of the Registrant are
+"affiliates". This determination of affiliate status is not necessarily a
+conclusive determination for other purposes.
+
+ DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of Bone Care International, Inc. Proxy Statement for its 1998
+Shareholders Meeting to be held on November 13, 1998 (Part III).
+
+BONE CARE INTERNATIONAL, Inc. 
+
+ INDEX TO
+ ANNUAL REPORT ON FORM 10-K
+ For Year Ended June 30, 1998
+
+ Page
+Part I ----
+Item 1 Business . . . . . . . . . . . . . . . . . . . . . . 1
+Item 2 Properties. . . . . . . . . . . . . . . . . . . . . . 21
+Item 3 Legal Proceedings . . . . . . . . . . . . . . . . . . 21
+Item 4 Submission of Matters to a Vote of Security Holders . 21
+Part II
+Item 5 Market for Registrant's Common Equity and
+ Related Stockholder Matters . . . . . . . . . . . . . 21
+Item 6 Selected Financial Data . . . . . . . . . . . . . . . 22
+Item 7 Management's Discussion and Analysis of Financial
+ Condition and Results of Operations . . . . . . . . . 23
+Item 7A Quantitative and Qualitative Disclosures about
+ Market Risk . . . . . . . . . . . . . . . . . . . . . 25
+Item 8 Financial Statements and Supplementary Data . . . . . 26
+Item 9 Changes in and Disagreements with Accountants on
+ Accounting and Financial Disclosure . . . . . . . . . 38
+Part III
+Item 10 Directors and Executive Officers
+ of the Registrant . . . . . . . . . . . . . . . . . . 38
+Item 11 Executive Compensation. . . . . . . . . . . . . . . . 38
+Item 12 Security Ownership of Certain
+ Beneficial Owners and Management. . . . . . . . . . . 39
+Item 13 Certain Relationships and Related Transactions. . . . 39
+Part IV
+Item 14 Exhibits, Financial Statement Schedules,
+ and Reports on Form 8-K . . . . . . . . . . . . . . . 39
+
+Index to Consolidated Financial Statements and
+ Financial Statement Schedule . . . . . . . . . . . . . . . . . . . 40
+
+Signatures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+
+Index to Exhibits. . . . . . . . . . . . . . . . . . . . . . . . . . 42
+
+ PART I
+
+ITEM 1. BUSINESS
+ -------- 
+General
+- -------
+ Bone Care International, Inc. (Bone Care or Company) is a leader in
+the discovery and development of improved vitamin D-hormone (D-hormone)
+therapies. D-hormones have a key role in secondary hyperparathyroidism
+leading to metabolic bone diseases in several patient populations,
+including end stage renal disease (ESRD), pre-dialysis, and osteoporosis
+patients. D-hormones also have a role in certain hyperproliferative
+diseases, including prostate, breast, and colon cancers, and psoriasis.
+In March 1998, the Company filed a New Drug Application (NDA) with the
+United States Food and Drug Administration (FDA) for an oral formulation
+of its lead product candidate, one-alpha D2 (Hectorol(trademark)), a
+synthetic D-hormone analog for the treatment of secondary
+hyperparathyroidism associated with ESRD. The Company filed the NDA
+based primarily on the results of two pivotal Phase 3 trials which were
+completed in August 1997 and involved 138 patients at 17 study centers
+in the United States. In these trials, an oral formulation of
+Hectorol(trademark) effectively controlled moderate to severe secondary
+hyperparathyroidism with no clinically important side effects in ESRD
+patients undergoing hemodialysis.
+
+ In February 1998, the Company completed two pivotal Phase 3 trials
+with an intravenous formulation of Hectorol(trademark) for the treatment
+of secondary hyperparathyroidism associated with ESRD. Data from these
+trials are consistent with the results obtained from the completed Phase
+3 trials for an oral formulation of Hectorol(trademark). The Company
+intends to submit an NDA to the FDA for this intravenous formulation of
+Hectorol(trademark)in October 1998. The Company is currently recruiting
+and enrolling patients for two pivotal Phase 3 trials of a second oral
+formulation of Hectorol(trademark) for the treatment of secondary
+hyperparathyroidism in pre-dialysis patients. The Company is also
+planning to conduct Phase 2 trials for the use of an oral formulation of
+Hectorol(trademark) for the treatment of osteoporosis associated with
+secondary hyperparathyroidism.
+
+ Secondary hyperparathyroidism is a chronic disease where the
+parathyroid glands secrete excessive quantities of parathyroid hormone
+(PTH) in response to reduced kidney function or kidney failure.
+Secondary hyperparathyroidism, if left untreated, leads to debilitating
+metabolic bone diseases, including osteoporosis, osteomalacia, rickets
+and renal osteodystrophy, as well as increased risk of fractures and
+severe bone pain. Moderate to severe secondary hyperparathyroidism is
+associated with advanced renal insufficiency and ESRD found in pre-
+dialysis and dialysis patients. Mild secondary hyperparathyroidism is
+associated with modest reductions in renal function often found in
+osteoporosis patients. According to the United States Health Care
+Financing Administration (HCFA), in 1997, there were approximately
+230,000 ESRD patients in the United States. In addition, based on
+published reports, the Company estimates that in the United States in
+1997 there were at least 600,000 pre-dialysis patients and at least
+2,000,000 patients with osteoporosis associated with secondary
+hyperparathyroidism.
+
+ Based on the role of D-hormones in controlling cellular growth and
+differentiation, the Company is also developing D-hormone therapies to
+treat certain hyperproliferative diseases. The Company is currently
+completing a Phase 1 trial of an oral formulation of Hectorol(trademark)
+to treat terminal prostate cancer. The Company is also investigating
+the use of other D-hormones and analogs for the treatment of prostate,
+breast and colon cancers, and psoriasis.
+
+ Although currently marketed D-hormone therapies have demonstrated
+efficacy in treating secondary hyperparathyroidism and certain
+hyperproliferative diseases, the systemic (oral or intravenous)
+administration of those products frequently produces toxic side effects
+at doses required for therapeutic effect. As a result, the widespread
+and effective use of systemic D-hormone therapies has been limited.
+Through the Company's collaborations with D-hormone research
+institutions, as well as its internal research and development efforts,
+the Company has developed substantial expertise in the area of D-hormone
+chemistry and biochemistry. The Company has leveraged that expertise to
+develop a portfolio of D-hormones and analogs which the Company believes
+possess improved safety and efficacy profiles compared to existing D-
+hormone therapies.
+
+Scientific Overview
+- -------------------
+ D-hormones have important roles in parathyroid function, calcium and
+phosphorus metabolism, and cellular growth and differentiation. D-
+hormones are produced in biological processes primarily involving
+vitamin D3 or vitamin D2. Vitamin D3 is produced in human skin during
+exposure to sunlight. Vitamin D2 is produced in plants during exposure
+to sunlight and is available through dietary sources. Vitamins D3 and
+D2 (collectively - vitamin D) are metabolized into three different D-
+hormones in two sequential steps involving the liver and then the
+kidneys. Vitamin D3 is metabolized into the D-hormone one-alpha,25-
+dihydroxyvitamin D3 (calcitriol). Vitamin D2 is metabolized into the two
+D-hormones, one-alpha,25-dihydroxyvitamin D2 and one-alpha,24-
+dihydroxyvitamin D2. In diseased or aged kidneys, sufficient quantities
+of D-hormones often cannot be produced.
+
+ Production of D-hormones by the kidneys is stimulated by PTH, which
+is secreted into the bloodstream by the parathyroid glands. D-hormone
+receptors located in the parathyroid glands monitor blood levels of D-
+hormones. The parathyroid glands increase PTH secretion markedly when
+blood levels of D-hormones are low and decrease PTH secretion as blood
+levels of D-hormones rise. After secretion from the parathyroid glands,
+PTH circulates in the blood to the kidneys where it activates an enzyme
+which produces D-hormones.
+
+ D-hormones increase blood levels of calcium and phosphorus, the key
+components of bone, by stimulating the small intestine to absorb these
+minerals from ingested food and by stimulating the kidneys to reabsorb
+calcium from urine. D-hormones also stimulate osteoblasts (bone-
+building cells) to increase the deposition of calcium and phosphorous in
+bone. When blood levels of D-hormones are low, intestinal absorption of
+calcium and phosphorus and kidney reabsorption of calcium are reduced,
+leading to hypocalcemia (low blood calcium). Bone formation is also
+reduced. PTH normalizes blood levels of calcium and phosphorus and bone
+formation by stimulating the increase of D-hormone production. However,
+when D-hormone production is insufficient, as in renal disease, PTH
+normalizes blood calcium and phosphorus by causing the release of
+calcium and phosphorus from bone into the blood.
+
+ In progressive renal disease, the kidneys become unable to produce
+sufficient quantities of D-hormones, leading to secondary
+hyperparathyroidism and associated bone disease. Secondary
+hyperparathyroidism is a chronic disease in which the parathyroid glands
+secrete excessive quantities of PTH. Elevated blood levels of PTH lead
+to excessive release of calcium and phosphorus from bones, causing
+debilitating metabolic bone diseases, such as osteoporosis,
+osteomalacia, rickets and renal osteodystrophy. A recent published
+report concluded that, compared to the general population, the risk of
+hip fracture is 3.5 times higher in the United States population of ESRD
+patients. Secondary hyperparathyroidism and associated bone disease can
+be controlled, and possibly prevented or reversed, by D-hormone
+replacement therapy.
+
+ In addition to having a role in parathyroid function, D-hormones have
+a role in controlling the normal growth and differentiation of skin,
+prostate, breast, and colon cells, all of which contain D-hormone
+receptors. Psoriasis, a condition in which skin cells grow too rapidly
+and remain immature (undifferentiated), can be effectively managed with
+topical D-hormone therapy. Likewise, clinical and preclinical research
+suggests that the uncontrolled cell growth in prostate, breast and colon
+cancers can be managed by D-hormone therapy.
+
+ Calcitriol is approved for systemic treatment of secondary
+hyperparathyroidism associated with ESRD and/or metabolic bone diseases
+in the United States and Europe. Paracalcitol is approved for systemic
+treatment of secondary hyperparathyroidism associated with ESRD in the
+United States. Alfacalcidol, a synthetic analog of calcitriol, is
+approved for oral treatment of secondary hyperparathyroidism associated
+with ESRD and/or metabolic bone diseases in Europe. Calcitriol and two
+synthetic analogs, tacalcitol and calcipotriol, are approved in Europe
+for the topical treatment of psoriasis. In addition, calcipotriol has
+been approved for topical treatment of psoriasis in the United States.
+
+ Although currently marketed D-hormone therapies have demonstrated
+efficacy, systemically administered D-hormone therapies frequently
+cause toxic side effects at doses required for therapeutic effects. The
+principal side effects observed are hypercalcemia (high blood calcium),
+hyperphosphatemia (high blood phoshorus), and hypercalciuria (high urine
+calcium), all of which are caused by excessive intestinal absorption of
+calcium and phosphorus. The most serious of these side effects is
+hypercalcemia, which increases the risk of calcification of soft
+tissues, including the heart, arteries, and kidneys, and can cause
+cardiac arrest. In addition, hypercalcemia can lead to other
+complications including gastrointestinal problems and mental disorders
+including depression. Hyperphosphatemia directly stimulates secretion
+of PTH, thereby exacerbating secondary hyperparathyroidism.
+Hypercalciuria can increase the risk of calcification of the kidneys and
+the formation of kidney stones, and can hasten kidney failure. In order
+to control these side effects, patients often must be temporarily or
+permanently withdrawn from current D-hormone therapies. As a result of
+these side effects, the widespread and effective use of currently
+marketed oral or intravenous D-hormone therapies has been limited.
+
+Products Under Development
+- --------------------------
+ The Company is developing D-hormone therapies which the Company
+believes have improved safety and efficacy profiles. The following
+table summarizes the Company's product candidates by indication and
+development status. 
+
+INDICATION PRODUCT CANDIDATE DEVELOPMENT STATUS(1) 
+- ---------- ----------------- ---------------------
+
+Secondary Hyperparathyroidism
+- -----------------------------
+ ESRD Hectorol(trademark) (oral) NDA filed March
+ 1998
+
+ Hectorol(trademark) (intravenous) Phase3. 
+ completed
+
+ Pre-dialysis Hectorol(trademark) (oral) Phase 3
+
+ Osteoporosis Hectorol(trademark) (oral) Phase 2
+
+Hyperproliferative Diseases
+- ---------------------------
+ Advanced
+ Prostate
+ Cancer Hectorol(trademark) (oral) Phase 1
+ 
+ Advanced
+ Prostate,
+ Breast and
+ Colon Cancers LR-103 (oral) Preclinical
+
+ Psoriasis Lead compound (oral) Research
+ ............................... 
+(1) "Research" indicates discovery and initial synthetic chemistry.
+ "Preclinical" indicates formulation, pharmacology and toxicity
+testing in animals.
+ "Phase 1" indicates initial clinical testing in humans to establish
+ safety.
+ "Phase 2" indicates further clinical testing in humans to establish
+ efficacy.
+ "Phase 3" indicates pivotal, well-controlled clinical testing to
+ establish safety and efficacy.
+
+Secondary Hyperparathyroidism
+- -----------------------------
+ Overview
+
+ Hyperparathyroidism refers to conditions in which the parathyroid
+glands secrete excessive quantities of PTH into the bloodstream. In
+primary hyperparathyroidism, one or more of the four parathyroid glands
+fails to properly regulate PTH secretion, usually due to one or more
+tumors in the glands. In secondary hyperparathyroidism, the parathyroid
+glands secrete excessive quantities of PTH in response to reduced kidney
+function or kidney failure. Mild secondary hyperparathyroidism is
+associated with modest reductions in renal function and contributes to
+osteoporosis. Moderate to severe secondary hyperparathyroidism is
+associated with advanced renal insufficiency and ESRD which are found in
+pre-dialysis and dialysis patients.
+
+Hectorol(trademark) for Secondary Hyperparathyroidism Associated with ESRD
+- --------------------------------------------------------------------------
+ The Company is developing oral and intravenous formulations of
+Hectorol(trademark) as treatments for secondary hyperparathyroidism
+associated with ESRD. Hectorol(trademark) is a synthetic D-hormone
+analog derived from vitamin D2. After oral or intravenous
+administration, Hectorol(trademark) is metabolized by the liver into the
+two D-hormones naturally produced from vitamin D2, without being
+metabolized by the kidneys. Based on data obtained from its clinical
+trials, the Company believes that Hectorol(trademark) is as active as
+currently marketed D-hormone replacement therapies and has an improved
+safety profile. The Company believes that the improved safety profile
+of Hectorol(trademark) enables it to be more consistently administered
+to patients at higher doses than currently marketed D-hormone
+replacement therapies, resulting in improved control of secondary
+hyperparathyroidism.
+
+ Secondary hyperparathyroidism is most severe in patients with ESRD.
+According to HCFA, there were approximately 230,000 ESRD patients in the
+United States at the end of 1997. This patient population, sustained
+primarily by renal dialysis, increased by approximately 7 in 1997. In
+ESRD there is extensive, irreversible loss of cells of the proximal
+nephron, the site in the kidneys where D-hormones are produced.
+Impaired production of D-hormones leads to low blood levels of D-
+hormones. Low blood levels of D-hormones cause the small intestine to
+absorb less dietary calcium and the kidneys to reabsorb less calcium
+from urine, often resulting in hypocalcemia. Low blood levels of D-
+hormones also decrease osteoblastic activity, causing reduced bone
+formation. The parathyroid glands respond to low blood levels of D-
+hormones and calcium by secreting PTH into the bloodstream. Ordinarily,
+PTH stimulates production of D-hormones by the kidneys. However, in
+ESRD the kidneys cannot respond to PTH stimulation. Without increased
+D-hormone production, the parathyroid glands secrete escalating
+quantities of PTH. Chronically elevated and rising blood levels of PTH
+stimulate a prolonged release of calcium and phosphorus from bone,
+leading to debilitating metabolic bone diseases, including osteoporosis,
+osteomalacia, rickets and renal osteodystrophy. Advanced bone disease
+is associated with an increased risk of fracture and is often
+accompanied by severe bone pain, most commonly arising in the lower
+back, hips, legs and joints.
+
+ Moderate to severe secondary hyperparathyroidism is exacerbated by
+hyperphosphatemia. Phosphorus derived from dietary sources (principally
+meat and dairy products) accumulates in the blood due to its
+insufficient elimination by dysfunctional kidneys. Excessive blood
+phosphorus directly inhibits the production of D-hormones and stimulates
+the parathyroid glands to secrete PTH. To control or reduce blood
+phosphorus, nephrologists routinely encourage their patients to adhere
+to low phosphorus diets and to ingest calcium carbonate or calcium
+acetate tablets with meals. These calcium preparations bind dietary
+phosphorus, reducing its absorption by the intestine and thereby helping
+to lower blood phosphorus levels. Calcium-based phosphate binders,
+however, promote hypercalcemia in patients receiving D-hormone
+replacement therapies.
+
+ D-hormone replacement is standard therapy for secondary
+hyperparathyroidism associated with ESRD. The goals of D-hormone
+replacement therapy are (1) to normalize blood calcium levels, (2) to
+control (normalize or reduce) blood PTH levels and (3) to treat or
+prevent metabolic bone diseases. Treating and preventing metabolic bone
+diseases is increasingly important as improvements in kidney dialysis
+increase the life expectancy of ESRD patients. D-hormone replacement
+therapies currently marketed in the United States and Europe for the
+treatment of secondary hyperparathyroidism associated with ESRD are
+Rocaltrol(trademark) (oral calcitriol), Calcijex(trademark) (intravenous
+calcitriol) and Zemplar(trademark) (intravenous paracalcitol). The
+Company estimates that total sales of these products in the United
+States in 1997 were approximately 155 million. Alfacalcidol, an oral
+synthetic analog of calcitriol, is marketed under numerous brand names
+in Europe.
+
+ Oral and intravenous calcitriol and oral alfacalcidol have limited
+effectiveness for treating secondary hyperparathyroidism associated with
+ESRD because they frequently cause toxic side effects (hypercalcemia and
+hyperphosphatemia) at doses required for therapeutic effect. Episodes
+of hypercalcemia and/or hyperphosphatemia are unpredictable and force
+temporary or permanent interruptions in therapy, resulting in less
+effective control of PTH secretion. Furthermore, in an effort to
+control blood phosphorus and reduce episodes of hyperphosphatemia,
+calcium-based phosphate binders are often administered at higher doses.
+However, calcitriol and alfacalcidol greatly stimulate intestinal
+absorption of calcium derived from those binders, increasing blood
+calcium levels and the frequency of episodes of hypercalcemia. In an
+attempt to mitigate the negative effects of calcium-based binders,
+nephrologists temporarily switch their patients from calcium-based
+binders to aluminum-based binders. However, aluminum from these
+alternate binders is readily absorbed through the intestine and
+accumulates in bone, potentially causing low turnover bone disease.
+When calcitriol and alfacalcidol are administered in lower, less toxic
+doses, their effectiveness in controlling secondary hyperparathyroidism
+decreases. Removal of the parathyroid glands is standard treatment for
+patients with severe secondary hyperparathyroidism whose disease cannot
+be managed with D-hormone replacement therapy. However, removal of the
+parathyroid glands does not cure existing metabolic bone disease or the
+underlying deficiency of D-hormones.
+
+ The Company is developing oral and intravenous formulations of
+Hectorol(trademark) as treatments for secondary hyperparathyroidism
+associated with ESRD. The oral product is a soft gelatin capsule
+designed to be administered by medical professionals to hemodialysis
+patients in the clinic, or self-administered daily by peritoneal
+dialysis patients at home. The Company's intravenous product is a
+sterile aqueous solution designed to be administered to patients only at
+hemodialysis. The Company is developing the oral formulation in advance
+of the intravenous formulation based primarily on the Company's
+expectation that the current fee-for-service reimbursement plan, which
+favors the use of an intravenous formulation of Hectorol(trademark),
+will be replaced with a capitated reimbursement plan which favors the
+less costly oral formulation of Hectorol(trademark). Further, the
+Company is developing an oral formulation of Hectorol(trademark) to
+treat secondary hyperparathyroidism in pre-dialysis and osteoporosis
+patients where intravenous therapy is inappropriate.
+
+Oral Hectorol(trademark)for Secondary Hyperparathyroidism Associated with ESRD.
+- ------------------------------------------------------------------------------
+ In November 1997, the Company announced results from its two pivotal
+Phase 3 trials with an oral formulation of Hectorol(trademark) for the
+treatment of secondary hyperparathyroidism associated with ESRD. The
+trials, which were completed in August 1997, involved 138 patients at 17
+study centers in the United States. Each trial consisted of an 8-week
+washout period, followed sequentially by a 16-week period in which
+patients received open-label treatment with oral Hectorol(trademark) at
+hemodialysis, and an 8-week period in which the patients were assigned
+in random, double-blinded fashion, to continued treatment with either
+oral Hectorol(trademark) or placebo. The study endpoint for efficacy
+was the observed change in blood PTH levels from post-washout baseline
+to the end of each treatment period. Endpoints for safety were the
+corresponding changes in blood levels of calcium and phosphorus. A
+total of 138 patients began treatment with oral Hectorol(trademark), of
+whom 110 completed the full 24 weeks of treatment. Dosages were
+individually titrated with patients initially receiving 10 mcg per
+hemodialysis and thereafter between 0 mcg and 20 mcg per dose three
+times per week. After 16 weeks of open-label treatment, observed blood
+PTH reductions exceeded 50 in both trials and were clinically and
+statistically significant (p 
+
+<EX-23>
+ 2
+ CONSENT OF KPMG PEAT MARWICK LLP
+
+Exhibit 23
+
+CONSENT OF KPMG PEAT MARWICK LLP
+
+The Board of Directors
+Bone Care International, Inc.
+
+We consent to incorporation by reference in the registration statement (No.
+333-23885) on Form S-8 of Bone Care International, Inc. of our report dated
+July 31, 1998, relating to the consolidated balance sheets of Bone Care
+International, Inc. and subsidiary as of June 30, 1998 and 1997, and the
+related consolidated statements of operations, shareholders' equity, and cash
+flows for each of the years in the three-year period ended June 30, 1998, which
+report appears in the 1998 annual report on Form 10-K of Bone Care
+International, Inc.
+
+KPMG Peat Marwick LLP
+Chicago, Illinois
+September 25, 1998
+
+</EX-23>
+
+<EX-27>
+ 3
+ ARTICLE 5 FDS FOR 10-K
+
+5
+ THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED
+ FROM FORM 10-K FOR THE YEAR ENDED JUNE 30, 1998 AND IS QUALIFIED
+ IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+ 1,000
+ YEAR
+ JUN-30-1998
+ JUN-30-1998
+ 3,484
+ 0
+ 0
+ 0
+ 230
+ 3,764
+ 620
+ 310
+ 5,813
+ 691
+ 0
+ 11,394
+ 0
+ 0
+ (6,272)
+ 5,813
+ 0
+ 0
+ 0
+ 4,830
+ 0
+ 0
+ 0
+ (4,490)
+ 0
+ (4,490)
+ 0
+ 0
+ 0
+ (4,490)
+ (.51)
+ (.51)
+
+</EX-27>
+

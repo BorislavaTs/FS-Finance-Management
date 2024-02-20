@@ -1,0 +1,947 @@
+<Header>
+<FileStats>
+    <FileName>20030331_10-K_edgar_data_1163321_0001104659-03-005512.txt</FileName>
+    <GrossFileSize>160714</GrossFileSize>
+    <NetFileSize>16717</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>125568</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001104659-03-005512.hdr.sgml : 20030331
+<ACCEPTANCE-DATETIME>20030331152029
+ACCESSION NUMBER:		0001104659-03-005512
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20021231
+FILED AS OF DATE:		20030331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CAPITAL ONE MULTI ASSET EXECUTION TRUST
+		CENTRAL INDEX KEY:			0001163321
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-75276
+		FILM NUMBER:		03630065
+
+	BUSINESS ADDRESS:	
+		STREET 1:		BANKERS TRUST DELAWARE
+		STREET 2:		E A DELLE DONNE CORP CTR 1011 CENTRE RD
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19805-1266
+		BUSINESS PHONE:		3026363382
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CAPITAL ONE UNIVERSAL NOTE TRUST
+		DATE OF NAME CHANGE:	20011206
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CAPITAL ONE MULTIPLE ISSUANCE TRUST
+		DATE OF NAME CHANGE:	20011207
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PDOc/iCPtYhK2GD9X+MaI5XYgCldZ4c8Wdgw8FUvKXxG99MgAOcsvbwfHOtXWNtp
+ wSgbHvLF0BcAiz3PZIZpQA==
+
+ 0001104659-03-005512.txt : 20030331
+
+10-K
+ 1
+ j8990_10k.htm
+ 10-K
+
+OMB
+
+ APPROVAL 
+
+OMB
+
+ Number: 3235-0063 
+
+Expires:
+
+ August 31,2005 
+
+Estimated
+
+ average burden 
+
+ hours per response: 1312.00 
+
+UNITED
+
+STATES 
+
+SECURITIES
+
+AND EXCHANGE COMMISSION 
+
+Washington,
+
+D.C. 20549 
+
+FORM
+
+10-K 
+
+FOR ANNUAL AND TRANSITION
+
+REPORTS 
+
+PURSUANT TO SECTIONS 13 OR 15(d) OF 
+
+THE SECURITIES EXCHANGE ACT OF 1934 
+
+(Mark One) 
+
+ANNUAL
+
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the
+
+fiscal year ended December 31, 2002. 
+
+or 
+
+TRANSITION
+
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE ECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from
+
+ to 
+
+333-75276 
+
+(Commission
+
+File Number) 
+
+CAPITAL ONE FUNDING, LLC 
+
+(as
+
+Depositor) 
+
+CAPITAL ONE MULTI-ASSET EXECUTION TRUST 
+
+(Exact
+
+name of registrant as specified in its charter) 
+
+Delaware 
+
+(State
+
+or Other Jurisdiction of Incorporation of the Issuer) 
+
+54-2058720 
+
+(Registrant s
+
+I.R.S. Employer Identification No.) 
+
+Capital One Funding, LLC 
+
+140 East Shore Drive, 
+
+Room 1048 
+
+Glen Allen, Virginia 23059 
+
+(Address
+
+and Telephone Number of Principal Executive Offices) 
+
+(Former
+
+Name or Former Address, if Changed Since Last Report) 
+
+Securities registered pursuant to Section
+
+12(b) of the Securities Exchange Act of 1934: 
+
+None. 
+
+Securities registered pursuant to Section
+
+12(g) of the Securities Exchange Act of 1934: 
+
+None. 
+
+Indicate by check mark whether the registrant
+
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934 during the preceding 12 months (or for such
+
+shorter period that the registrant was required to file such reports), and (2)
+
+has been subject to such filing requirements for the past 90 days. 
+
+Yes No 
+
+Indicate by check mark if disclosure of
+
+delinquent filers pursuant to Item 405 of Regulation S-K 229.405 of this
+
+chapter) is not contained herein, and will not be contained, to the best of
+
+registrant s knowledge, in definitive proxy or information statements
+
+incorporated by reference in Part III of this Form 10-K or any amendment to
+
+this Form 10-K. 
+
+Yes No 
+
+Indicate by check mark whether the registrant
+
+is an accelerated filer (as defined in Exchange Act Rule 12b-2). 
+
+Yes No 
+
+State the aggregate market value of the
+
+voting and non-voting common equity held by non-affiliates computed by
+
+reference to the price at which the common equity was last sold, or the average
+
+bid and asked price of such common equity, as of the last business day of the
+
+registrant s most recently completed second fiscal quarter. None. 
+
+Registrant does not have any voting stock. 
+
+THE
+
+INDEX APPEARS ON PAGE 6 
+
+1 
+
+PART I 
+
+Item 1. 
+
+Business 
+
+This Annual Report on Form
+
+ 10-K (the Report is filed with respect to Capital One Multi-asset
+
+ Execution Trust (the Trust ), a trust formed under the laws of the State of
+
+ Delaware pursuant to an Amended and Restated Trust Agreement, dated as of
+
+ October 9, 2002 (the Trust Agreement ), between Capital One Multi-asset
+
+ Execution Trust, the registrant and Deutsche BankTrust Company Delaware, as
+
+ owner trustee (the Owner Trustee ). 
+
+ Certain information otherwise required to be included in this Report
+
+ by the Instructions to Form 10-K has been omitted in reliance on the letter
+
+ relief granted by the staff of the SEC to other companies in similar
+
+ circumstances. 
+
+Item 2. 
+
+Properties 
+
+Not applicable. 
+
+Item 3. 
+
+Legal
+
+ Proceedings 
+
+The registrant knows of no
+
+ material pending legal proceedings with respect to the Trust, involving the
+
+ Servicer, the Trust, the Owner-Trustee, the Indenture Trustee, the Trust Assets
+
+ or Capital One Funding, LLC. 
+
+Item 4. 
+
+Submission of Matters to a Vote of Security Holders 
+
+No matter was submitted to
+
+ a vote of Noteholders during fiscal year covered by this report. 
+
+PART II 
+
+Item 5. 
+
+Market
+
+ for Registrant s Common Equity and Related Stockholder Matters 
+
+To the best knowledge of
+
+ the registrant, there is no established public trading market for the Notes. 
+
+(a) 
+
+For purposes of this
+
+ report, Noteholders includes Class A Noteholders, Class B 
+
+ Noteholders and Class C Noteholders. 
+
+(b) 
+
+Not applicable. 
+
+Item 6. 
+
+Selected
+
+ Financial Data 
+
+Not applicable. 
+
+Item 7. 
+
+Management s
+
+ Discussion and Analysis of Financial Condition and Results of Operations 
+
+Not applicable. 
+
+Item 7A. 
+
+Quantitative
+
+ and Qualitative Disclosures About Market Risk 
+
+Not applicable. 
+
+Item 8. 
+
+Financial
+
+ Statements and Supplementary Data 
+
+Not applicable. 
+
+2 
+
+Item 9. 
+
+Changes
+
+ in and Disagreements With Accountants on Accounting and Financial Disclosure 
+
+None. 
+
+PART III 
+
+Item 10. 
+
+Directors
+
+ and Executive Officers of the Registrant 
+
+Not applicable. 
+
+Item 11. 
+
+Executive
+
+ Compensation 
+
+Not applicable. 
+
+Item 12. 
+
+Security
+
+ Ownership of Certain Beneficial Owners and Management 
+
+(a) 
+
+Not applicable. 
+
+(b) 
+
+Not applicable. 
+
+(c) 
+
+Not applicable. 
+
+Item 13. 
+
+Certain
+
+ Relationships and Related Transactions 
+
+(a) 
+
+Not applicable. 
+
+(b) 
+
+Not applicable. 
+
+(c) 
+
+Not applicable. 
+
+Item 14. 
+
+Controls
+
+ and Procedures 
+
+Not applicable. 
+
+PART IV 
+
+Item 15. 
+
+Exhibits, Financial Statement Schedules, and Reports on
+
+ Form 8-K 
+
+3 
+
+(a) (1) Not applicable. 
+
+(2) Not applicable. 
+
+(3) The exhibits filed in
+
+response to Item 601 of Regulation S-K are listed in the Exhibit Index. 
+
+(b) Reports on Form
+
+8-K 
+
+The
+
+following Current Reports on Form 8-K were filed by the registrant during the
+
+year ending December 31, 2002: 
+
+Date of
+
+ Report 
+
+Items Reported 
+
+November
+
+ 12, 2002 
+
+Items
+
+ 5 and 7 
+
+November
+
+ 12, 2002 
+
+Items
+
+ 5 and 7 
+
+December
+
+ 10, 2002 
+
+Items
+
+ 5 and 7 
+
+(c) See subparagraph (a) (3)
+
+above. 
+
+(d) Not applicable. 
+
+4 
+
+SIGNATURES 
+
+Pursuant to the requirements
+
+of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant
+
+has duly caused this report to be signed on its behalf by the undersigned,
+
+thereunto duly authorized. 
+
+CAPITAL ONE MULTI-ASSET 
+
+ EXECUTION TRUST 
+
+(Registrant) 
+
+By: 
+
+Capital One Funding, LLC 
+
+(Depositor) 
+
+By: 
+
+/s/ Stephen
+
+ Linehan 
+
+Stephen Linehan 
+
+Chief Financial Officer 
+
+CERTIFICATIONS 
+
+I, Stephen Linehan, certify that: 
+
+1. I have reviewed
+
+this annual report on Form 10-K, and all reports on Form 8-K containing distribution
+
+or servicing reports filed in respect of periods included in the year covered
+
+by this annual report, of Capital One Multi-asset Execution Trust; 
+
+2. Based on my
+
+knowledge, the information in these reports, taken as a whole, does not contain
+
+any untrue statement of a material fact or omit to state a material fact
+
+necessary to make the statements made, in light of the circumstances under
+
+which such statements were made, not misleading as of the last day of the
+
+period covered by this annual report; 
+
+3. Based on my
+
+knowledge, the distribution or servicing information required to be provided to
+
+the Trustee by the Servicer under the Pooling and Servicing Agreement, for
+
+inclusion in these reports is included in these reports; 
+
+4. Based on my
+
+knowledge and upon the annual compliance statement included in the reports and
+
+required to be delivered to the Trustee in accordance with the Pooling and
+
+Servicing Agreement, and except as disclosed in the reports, the Servicer has
+
+fulfilled its obligations under the servicing agreement; and 
+
+5. The reports
+
+disclose all significant deficiencies relating to the Servicer s compliance
+
+with the minimum servicing standards based upon the report provided by an
+
+independent public accountant, after conducting a review in compliance with the
+
+attestation standards established by the American Institute of Certified Public
+
+Accountants, as set forth in the Pooling and Servicing Agreement, that is
+
+included in these reports. 
+
+March 31, 2003 
+
+By: 
+
+/s/ Stephen
+
+ Linehan 
+
+Stephen Linehan 
+
+Chief Financial Officer 
+
+Capital One Funding, LLC 
+
+5 
+
+EXHIBIT INDEX 
+
+Exhibit 3.1 
+
+Amended and Restated
+
+ Limited Liability Company Agreement of Capital One Funding, LLC dated as of
+
+ July 31, 2002 (File No. 333-75276). 
+
+Exhibit 3.2 
+
+Amended and Restated Trust
+
+ Agreement Dated as of October 9, 2003 (Filed as part of the Registrant's
+
+ Current Report on Form 8-K dated October 9, 2002). 
+
+Exhibit 99.0: 
+
+Capital One Multi-Asset
+
+ Execution Trust Aggregated Data for 2002. 
+
+Exhibit
+
+ 99.1: 
+
+Annual
+
+ Servicer s Certificate. 
+
+Exhibit 99.2: 
+
+Annual Report of
+
+ Independent Public Accountants. 
+
+Incorporated by Reference 
+
+6 
+
+<EX-99.0>
+ 3
+ j8990_ex99d0.htm
+ EX-99.0
+
+Exhibit 99.0 
+
+CAPITAL ONE MULTI-ASSET EXECUTION TRUST
+Distributions during 2002 
+
+Total
+ Interest paid during the year: 
+
+CUSIP 
+ Number 
+
+Total
+ Amount of 
+ Interest paid 
+
+Per 1000 
+
+Class A (2002-1) 
+
+14041NAC56 
+
+2,478,871.53 
+
+4.9577430556 
+
+Class A (2002-2) 
+
+14041NAD30 
+
+2,843,979.17 
+
+4.7399652778 
+
+Class B (2002-1) 
+
+14041NAA90 
+
+2,125,848.96 
+
+6.0738541667 
+
+Class C (2002-1) 
+
+14041NAB73 
+
+1,756,328.13 
+
+11.7088541667 
+
+Total
+ Principal paid during the year: 
+
+CUSIP 
+ Number 
+
+Total Amount of 
+ Principal paid 
+
+Per 1000 
+
+NOTHING TO REPORT 
+
+CAPITAL
+ ONE MULTI-ASSET EXECUTION TRUST Aggregated Data for 2002 
+
+F/C collection allocated 
+
+88,705,589.24 
+
+Principal collection allocated 
+
+735,992,485.85 
+
+Interest payment for total series 
+
+9,205,027.78 
+
+Principal payment for total series 
+
+0.00 
+
+Total servicing fees 
+
+7,399,890.19 
+
+Servicing Fee includes Servicer Interchange paid to Capital One Bank
+as the Servicer of the Capital One Master Trust. 
+
+</EX-99.0>
+
+<EX-99.1>
+ 4
+ j8990_ex99d1.htm
+ EX-99.1
+
+Exhibit 99.1 
+
+ ANNUAL SERVICER S CERTIFICATE 
+
+CAPITAL ONE BANK 
+
+CAPITAL ONE MASTER TRUST 
+
+The
+undersigned, a duly authorized representative of Capital One Bank (the Bank ),
+as Servicer, pursuant to the Amended and Restated Pooling and Servicing Agreement,
+dated as of September 30, 1993, as amended and restated as of August 1,
+2002 (as amended and supplemented, the Agreement ), among the Bank, as
+Servicer, Capital One Funding, LLC, as Transferor, and The Bank of New York, as
+Trustee, does hereby certify that: 
+
+1. The Bank is, as of the date hereof, the
+Servicer under the Agreement. 
+Capitalized terms used in this Certificate have their respective
+meanings as set forth in the Agreement. 
+
+2. The undersigned is a Servicing Officer
+who is duly authorized pursuant to the Agreement to execute and deliver this
+Certificate to the Trustee. 
+
+3. A review of the activities of the
+Servicer during the calendar year ended December 31, 2002, and of its
+performance under the Agreement, was conducted under my supervision. 
+
+4. Based on such review, the Servicer has,
+to the best of my knowledge, performed in all material respects its obligations
+under the Agreement throughout such year and no default in the performance of
+such obligations has occurred or is continuing except as set forth in the
+Paragraph 5 below. 
+
+5. The following is a description of each
+default in the performance of the Servicer s obligations under the provisions
+of the Agreement known to me to have been made by the Servicer during the year
+ended December 31, 2002, which sets forth in detail (i) the nature of each
+such default, (ii) the action taken by the Servicer, if any, to remedy
+each such default and (iii) the current status of each such default: 
+
+None. 
+
+IN WITNESS
+WHEREOF, the undersigned has duly executed this Annual Servicer s Certificate
+this 31st day of March, 2003. 
+
+CAPITAL ONE
+ BANK 
+
+as Servicer 
+
+By: 
+
+/s/ Thomas
+ A. Feil 
+
+Name: 
+
+Thomas A.
+ Feil 
+
+Title: 
+
+Director of
+ Capital Markets 
+
+</EX-99.1>
+
+<EX-99.2>
+ 5
+ j8990_ex99d2.htm
+ EX-99.2
+
+Exhibit
+99.2 
+
+Report of Independent
+Accountants 
+
+Capital One Bank 
+
+ 11013 West Broad Street 
+
+ Glen Allen, Virginia 23060 
+
+and 
+
+The Bank of New York 
+
+ 101 Barclay Street 
+
+ Corporate Trust Dept. 
+
+ New York, NY 10286 
+
+Capital One Master Trust 
+
+We have examined management s assertion, included in the accompanying Report of
+Management on Compliance , that Capital One Bank (the Bank ), a
+wholly-owned subsidiary of Capital One Financial Corporation, complied with the
+requirements of Sections 3.02, 3.04, 3.09, 4.02, 4.03, 4.04, 4.05 and 8.08 of
+the Pooling and Servicing Agreement dated as of September 30, 1993, as amended
+and restated as of August 1, 2002 between Capital One Funding, LLC, Capital One
+Bank, and The Bank of New York (collectively, the Agreement ), and Article IV
+of the supplements to the Agreement relating to Series 1996-2, 1996-3, 1997-1,
+1997-2, 1998-1, 1998-4, 1998-5, 1998-6, 1999-1, 1999-2, 1999-3, 1999-4, 1999-A,
+2000-1, 2000-2, 2000-3, 2000-4, 2000-5, 2001-1, 2001-2, 2001-3, 2001-4, 2001-5,
+2001-6, 2001-7, 2001-8, 2001-A, 2002-1, 2002-2, 2002-3, 2002-4, 2002-A, 2002-B,
+and 2002-CC (collectively, the Supplements ), for the year ended December 31,
+2002. Management is responsible for the
+Bank s compliance with those requirements. 
+Our responsibility is to express an opinion on management s assertion
+about the Bank s compliance based on our examination. 
+
+Our examination was conducted in accordance with attestation standards
+established by the American Institute of Certified Public Accountants and,
+accordingly, included examining, on a test basis, evidence about the Bank s
+compliance with those requirements and performing such other procedures as we
+considered necessary in the circumstances. 
+We believe that our examination provides a reasonable basis for our
+opinion. Our 
+
+examination does not provide a legal determination on the Bank s
+compliance with specified requirements. 
+
+In our opinion, management s assertion that the Bank complied with the
+requirements of the sections of the Agreement and the provisions of the
+Supplements to the Agreement referred to in the first paragraph above, for the
+year ended December 31, 2002 is fairly stated, in all material respects. 
+
+This report is intended solely for the information and use of Capital
+One Funding, LLC, Capital One Bank, and The Bank of New York and is not
+intended to be and should not be used by anyone other than these specified
+parties. However, this report is a
+matter of public record and its distribution is not limited. 
+
+/s/ Ernst Young LLP 
+
+Ernst Young LLP 
+
+March 31, 2003 
+
+2 
+
+Report of Management on Compliance 
+
+We, as members of management of Capital One Bank (the Bank ), a
+wholly-owned subsidiary of Capital One Financial Corporation, are responsible
+for complying with the requirements of Sections 3.02, 3.04, 3.09, 4.02, 4.03,
+4.04, 4.05 and 8.08 of the Pooling and Servicing Agreement dated as of
+September 30, 1993, as amended and restated as of August 1, 2002 between
+Capital One Funding, LLC, Capital One Bank, and The Bank of New York
+(collectively, the Agreement ), Article IV of the supplements to the Agreement
+relating to Series 1996-2, 1996-3, 1997-1, 1997-2, 1998-1, 1998-4, 1998-5,
+1998-6, 1999-1, 1999-2, 1999-3, 1999-4, 1999-A, 2000-1, 2000-2, 2000-3, 2000-4,
+2000-5, 2001-1, 2001-2, 2001-3, 2001-4, 2001-5, 2001-6, 2001-7, 2001-8, 2001-A,
+2002-1, 2002-2, 2002-3, 2002-4, 2002-A, 2002-B, and 2002-CC. We also are responsible for establishing and
+maintaining effective internal control over compliance with the requirements
+referred to in the preceding sentence. 
+
+We have performed an evaluation of the Bank s compliance with the
+requirements of Sections 3.02, 3.04, 3.09, 4.02, 4.03, 4.04, 4.05 and 8.08 of
+the Agreement and Article IV of the supplements to the Agreement relating to
+Series 1996-2, 1996-3, 1997-1, 1997-2, 1998-1, 1998-4, 1998-5, 1998-6, 1999-1,
+1999-2, 1999-3, 1999-4, 1999-A, 2000-1, 2000-2, 2000-3, 2000-4, 2000-5, 2001-1,
+2001-2, 2001-3, 2001-4, 2001-5, 2001-6, 2001-7, 2001-8, 2001-A, 2002-1, 2002-2,
+2002-3, 2002-4, 2002-A, 2002-B, and 2002-CC as of December 31, 2002 and for the
+year then ended. Based on this
+evaluation, we assert that for the year ended December 31, 2002, the Bank complied
+with the requirements of the sections in the Agreement and each supplement to
+the Agreement referred to above. 
+
+/s/ Richard D. Fairbank 
+
+/s/ Nigel W. Morris 
+
+/s/ David R. Lawson 
+
+Richard D. Fairbank 
+
+Nigel W. Morris 
+
+David R. Lawson 
+
+Chairman and Chief 
+
+President and Chief 
+
+Senior Vice President, 
+
+Executive Officer, 
+
+Operating Officer 
+
+Chief Financial Officer 
+
+Capital One Bank 
+
+Capital One Bank 
+
+Capital One Bank 
+
+March 31, 2003 
+
+3 
+
+</EX-99.2>
+

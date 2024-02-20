@@ -1,0 +1,4129 @@
+<Header>
+<FileStats>
+    <FileName>19970331_10-K_edgar_data_806637_0000806637-97-000001.txt</FileName>
+    <GrossFileSize>204843</GrossFileSize>
+    <NetFileSize>173741</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1033</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>1</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000806637-97-000001.hdr.sgml : 19970401
+ACCESSION NUMBER:		0000806637-97-000001
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19961231
+FILED AS OF DATE:		19970331
+SROS:			AMEX
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ONCOR INC
+		CENTRAL INDEX KEY:			0000806637
+		STANDARD INDUSTRIAL CLASSIFICATION:	IN VITRO & IN VIVO DIAGNOSTIC SUBSTANCES [2835]
+		IRS NUMBER:				521310084
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-16177
+		FILM NUMBER:		97570120
+
+	BUSINESS ADDRESS:	
+		STREET 1:		209 PERRY PKWY
+		CITY:			GAITHERSBURG
+		STATE:			MD
+		ZIP:			20877
+		BUSINESS PHONE:		3019633500
+
+	MAIL ADDRESS:	
+		STREET 1:		209 PERRY PKWY
+		CITY:			GAITHERSBURG
+		STATE:			MD
+		ZIP:			20877
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ WmwPcvTm8RPdYIOAUcjCRgmQ5ECTteJ9zWHYpvaK1ImXY0riqZv+obVNci0uPUzY
+ yd9NPXGaSJTE8PHaa4t5Zw==
+
+ 0000806637-97-000001.txt : 19970401
+
+10-K
+ 1
+
+SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+ 
+ FORM 10-K
+ 
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+ OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+ For the fiscal year ended December 31, 1996
+ 
+ Commission file number 0-16177
+ 
+ ONCOR, INC. 
+ (Exact name of registrant as specified in its charter)
+ 
+ Maryland 52-1310084 
+ (State of Incorporation) (I.R.S. Employer Identification No.)
+ 
+ 209 Perry Parkway
+ Gaithersburg, Maryland 20877 
+ (Address of principal executive offices)
+ (Zip code)
+ 
+ (301) 963-3500 
+ (Registrant's telephone number, including area code)
+
+ Securities registered pursuant to Section 12(b) of the Act:
+ NONE
+
+ Securities registered pursuant to Section 12(g) of the Act:
+
+ Common Stock (Par Value .01 Per Share)
+ (Title of Class)
+ 
+ Redeemable Common Stock Purchase Warrants
+ (Title of Class)
+
+Indicate by check mark whether the registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to
+file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+ 
+ YES x NO 
+
+Indicate by check mark if disclosure of delinquent filers
+pursuant to Item 405 of Regulation S-K is not contained herein,
+and will not be contained, to the best of registrant's knowledge,
+in definitive proxy or information statements incorporated by
+reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. X 
+ ---
+
+At February 28, 1997, there were 25,077,970 shares of Common
+Stock outstanding. The aggregate market value of the voting
+stock held by non-affiliates was approximately 98,975,914 at
+that date. Document incorporated by reference: Proxy Statement
+of Oncor, Inc. relative to the Annual Meeting of Shareholders to
+be held in July 1997, which is incorporated into Part III of this
+Form 10-K. 
+ TABLE OF CONTENTS
+
+PART I
+Item Page
+
+1. Business. . . . . . . . . . . . . . . . . . . . . . . .1
+
+2. Properties. . . . . . . . . . . . . . . . . . . . . . .24
+
+3. Legal Proceedings . . . . . . . . . . . . . . . . . . .25
+
+4. Submission of Matters to a Vote of Security Holders . .25
+
+PART II
+
+5. Market for Registrant's Common Equity
+ and Related Stockholder Matters . . . . . . . . . . . .26
+
+6. Selected Consolidated Financial Data. . . . . . . . . .27
+
+7. Management's Discussion and Analysis of 
+ Financial Condition and Results of Operation. . . . . .28
+
+8. Consolidated Financial Statements 
+ and Supplementary Data. . . . . . . . . . . . . . . . .36
+
+9. Changes in and Disagreements on Accounting
+ and Financial Disclosure. . . . . . . . . . . . . . . .36
+
+ PART III
+
+10. Directors and Executive Officers of the Registrant. . .37
+
+11. Executive Compensation. . . . . . . . . . . . . . . . .37
+
+12. Security Ownership of Certain 
+ Beneficial Owners and Management. . . . . . . . . . . .37
+
+13. Certain Relationships and Related Transactions. . . . .37
+
+ PART IV
+
+14. Exhibits, Financial Statement Schedules, 
+ and Reports on Form 8-K . . . . . . . . . . . . . . . .38
+
+ Signatures. . . . . . . . . . . . . . . . . . . . . . .42
+ 
+ PART I
+
+ITEM 1. BUSINESS
+
+ THE COMPANY
+
+ Oncor, Inc. ("Oncor") and together with its consolidated
+subsidiaries (the "Company") was incorporated in Maryland in
+July, 1983. Oncor's principal offices are located at 209 Perry
+Parkway, Gaithersburg, Maryland 20877, and its telephone number
+is (301) 963-3500. 
+
+ BUSINESS
+
+ This Report contains certain statements of a forward-looking
+nature relating to future events or the future financial
+performance of the Company. Investors are cautioned that such
+statements are only predictions and that actual events or results
+may differ materially. In evaluating such statements, investors
+should specifically consider the various factors identified in
+this Report which could cause actual results to differ materially
+from those indicated by such forward-looking statements,
+including the matters set forth in "Business - Additional Risk
+Factors."
+
+ The Company develops, produces and markets cancer-oriented
+genetic probes, related reagents, molecular biology products, and
+diagnostic products. The Company is conducting preclinical
+studies for detection tests for certain leukemias, bladder
+cancer, lung cancer and certain blood cancers. Oncor is also
+developing genetic test systems for the detection and management
+of significant life-threatening cancers, including breast cancer,
+bladder cancer, lung cancer and certain blood cancers. In
+addition to its genetic test systems, the Company currently
+manufactures and markets for research purposes nearly 200 genetic
+probes to specific human genes, with related reagents and
+instrumentation, and a wide array of molecular biology products. 
+The Company currently sells its products to over 1,700 customers
+worldwide. 
+
+ In February 1994, the Company filed a Premarket Approval
+("PMA") application with the United States Food and Drug
+Administration (the "FDA") for its Her-2/neu amplification test
+system for the characterization of breast cancer. In November
+1995, an FDA panel of independent advisors (the "Panel") made a
+recommendation against final approval of the Company's PMA
+application for the use of its Her-2/neu genetic test system for
+diagnostic purposes. In the third quarter of 1996, the Company
+received confirmation from the FDA that the agency had accepted
+the clinical validity and statistical model for determining the
+predictive value of the Her-2/neu test system. The FDA further
+indicated that the Company must re-run a sample of previously
+examined specimens, undergo a manufacturing site inspection and
+develop a physician education and training program. No assurance
+can be given that these or other required steps will be
+accomplished in a timely fashion or, if such requirements are
+accomplished, that the FDA will grant approval of the PMA on a
+timely basis, if at all. The failure to obtain FDA approval for
+its Her-2/neu genetic test system on a timely basis, or at all,
+would have a material and adverse effect on the Company's
+business, financial condition and results of operations. In the
+event that the Company receives FDA approval for its Her-2/neu
+genetic test system, there can be no assurance that the Company
+will be capable of manufacturing the test system in commercial
+quantities at reasonable costs or marketing the product
+successfully, that the test system will be accepted by the
+medical diagnostic community, or that the market demand for the
+test system will be sufficient to allow profitable sales.
+
+ Oncor's genetic test systems permit the detection of
+individual cancer cells at the fundamental genetic level, as
+distinct from conventional forms of analysis which detect the
+large cancer cell populations that result from the progression of
+the disease. In addition, genetic test systems can be used to
+characterize a cancer cell's origin or type, thereby facilitating
+the selection of the appropriate treatment modality. As a
+result, Oncor's genetic test systems may be useful throughout the
+cycle of cancer management from initial screening for
+predisposition to cancer, through detection and typing of cancer
+and selection of therapy, to monitoring of treatment and
+detection of residual disease or relapse. 
+
+ The Company has established agreements with numerous
+academic and research institutions which provide (or have
+provided) the Company with certain exclusive commercial rights to
+inventions relating to specific genes and other genetic
+technologies. These institutions include The Johns Hopkins
+University School of Medicine ("Johns Hopkins"), University of
+Helsinki, University of Chicago, The Children's Hospital of
+Philadelphia, Yale University, Tel Aviv University's Sackler
+School of Medicine, the Massachusetts General Hospital,
+University of Utah and Princeton University.
+ 
+Products
+
+ The Company's principal products include: (1) integrated
+genetic test systems containing one or more genetic probes (also
+sold separately) together with the reagents, slides and other
+materials necessary to perform genetic analysis, and (2)
+molecular biology reagents, enzymes and instruments. The Company
+also sells the individual genetic test system components as
+required by its customers. The Company's genetic test systems
+generally incorporate in situ hybridization techniques. 
+Enhancing the speed and reliability of these techniques and
+developing novel succeeding technologies have been major focuses
+of the Company. 
+
+ The Company's products are currently sold in the United
+States for research purposes only and, accordingly, do not
+require approval or clearance by the FDA or by any similar
+foreign authority. However, the Company plans to obtain FDA
+approval for the clinical use of a number of these products. No
+assurance can be given that the Company will obtain FDA approval
+for any of its products.
+
+ In July 1996, the Company announced a plan to discontinue or
+suspend the development, manufacture and marketing of certain
+products in certain geographic regions in which net margins for
+these products in these regions historically have been low. Such
+products and regions included the entire biological imaging
+product line and much of the products developed and manufactured
+by Appligene S.A., the Company's European operating subsidiary
+("Appligene") as they relate to sale in the United States. In
+addition, the Company has suspended the manufacture and marketing
+of its B/T Blue Gene Rearrangement Test System (B/T Blue) in
+order to complete the reconfiguration of the product and the
+submission of the required documentation with the FDA. The
+Company also has obtained an extension of its current PMA filing
+at the FDA for its leukemia detection test for Chronic
+Myelogenous Leukemia ("CML"), in order to (i) respond to
+questions provided by the FDA and (ii) consider the possible
+reconfiguration of the test system and resubmission of the PMA. 
+With respect to the B/T Blue and CML test systems, the Company
+cannot predict when or if it will complete these reconfigurations
+and submissions, or that, if such submissions would receive FDA
+approval on a timely basis, if at all. 
+
+ Through its in-house research and development efforts, along
+with collaborations with human genome research centers, Oncor has
+assembled, and is developing, a portfolio of genetic test systems
+and enabling technologies. Set forth below are descriptions of
+the Company's principal genetic test systems and related products
+currently being sold or under development. 
+
+ Breast Cancer 
+
+ The Company has developed a genetic test system to identify
+Her-2/neu gene amplification, an independent marker of breast
+cancer aggressiveness. The Company believes the presence of
+Her-2/neu amplification is indicative of clinically aggressive
+breast cancer, even in apparent localized tumors, requiring more
+aggressive treatment than localized breast cancer tumors.
+
+ The Company has completed clinical trials of its Her-2/neu
+amplification test system for breast cancer and filed a PMA
+application in February 1994. In November 1995, the Panel
+reviewed the PMA and made a recommendation against final approval
+of the Company's PMA application for the use of its Her-2/neu
+genetic test system for diagnostic purposes. In the third
+quarter of 1996, the Company received confirmation from the FDA
+that the agency had accepted the clinical validity and
+statistical model for determining the predictive value of the
+test system. The FDA further indicated that the Company must
+re-run a sample of previously examined specimens, undergo a
+manufacturing site inspection and develop a physician education
+and training program. No assurance can be given that these or
+other required steps will be accomplished in a timely fashion or,
+if they are, that the FDA will grant approval of the PMA
+applications. The failure to obtain FDA approval for its
+Her-2/neu genetic test system on a timely basis, or at all, would
+have a material and adverse effect on the Company's business,
+financial condition and results of operations. In the event that 
+the Company receives FDA approval for its Her-2/neu genetic test
+system, there can be no assurance that the Company will be
+capable of manufacturing the test system in commercial quantities
+at reasonable costs or marketing the product successfully, that
+the test system will be accepted by the medical diagnostic
+community, or that the market demand for the test system will be
+sufficient to allow profitable sales. The Company has recently
+received approval to market its Her-2/neu genetic test system for
+diagnostic use in Australia, Austria, Canada, Denmark, Germany,
+Ireland, Luxembourg, The Netherlands, Sweden, Switzerland and the
+United Kingdom and expects to commence marketing for diagnostic
+purposes in certain selected of these countries in the first half
+of 1997.
+
+ In addition, the Company has obtained an exclusive world-wide
+license from and entered into a sponsored research agreement
+with Tel Aviv University's Sackler School of Medicine ("Sackler")
+with respect to the development of methods for the detection of
+minute quantities of p43 antigen in human blood. The Company and
+Sackler believe that the presence of this antigen may indicate
+the early onset of breast cancer, and possibly other cancers. 
+Sackler continues research on the technology and the Company is
+undertaking pre-clinical test development with respect to the
+technology at Albany (NY) University School of Medicine.
+
+ Cervical Cancer
+
+ The Company has developed a test system for the detection of
+certain strains of Human Papilloma Virus ("HPV") in cervical
+tissue samples. Such strains of HPV are widely believed to be
+linked to the onset of cervical cancer. The Company filed a PMA
+application with and received a letter of approvability from the
+FDA with respect to the test system. The Company thereafter has
+reconfigured the test system to facilitate automation and
+integration of the test with automated Pap Smear testing. 
+Pursuant to this reconfiguration, the Company will be required,
+among other things,to conduct additional clinical trials and
+refile its PMA application. The Company currently is seeking to
+establish a cooperative arrangement with one or more companies
+involved in providing the capability for automated Pap Smear
+testing. There can be no assurance that such PMA will be filed
+on a timely basis, if at all, or if so filed, will be approved by
+the FDA on a timely basis, if at all. Furthermore, there can be
+no assurance that the Company will be successful in securing a
+cooperative arrangement with respect to the further development,
+testing and filing requirements for the test. The Company
+believes that it could not successfully undertake development of
+an automated and integrated HPV test system in the absence of
+such a cooperative agreement.
+
+ Bladder Cancer 
+
+ The Company has acquired exclusive rights to certain
+published technologies from Johns Hopkins which the Company
+believes may be beneficial in developing a bladder cancer 
+screening test. Johns Hopkins has filed U.S. and foreign patent
+applications relating to this technology. There can be no
+assurance that patents will issue as a result of any such pending
+applications or that, if issued, such patents will be
+sufficiently broad to afford protection against competitors with
+similar technology. In addition, there can be no assurance that
+any patents issued to the Company, or for which the Company has
+license rights, will not be challenged, invalidated or
+circumvented, or that the rights granted thereunder will provide
+competitive advantages to the Company. Plans are in progress to
+incorporate these technologies into preclinical and clinical
+trials.
+
+ Lung Cancer 
+
+ The Company and Johns Hopkins are actively pursuing the
+discovery of genetic changes associated with the early detection
+of lung cancer under a collaboration research and licensing
+agreement. The objective is the development of a method to
+detect the associated specific genetic events in sputum samples
+at an early stage. In October 1996, U.S. Patent No. 5,561,041
+was issued to Johns Hopkins which relates to this technology,
+which is licensed exclusively to the Company.
+
+ Breast, Prostate and Colon Cancer Molecular Staging Assay
+
+ In March 1994, the Company acquired an exclusive worldwide
+license from Johns Hopkins for a test that will detect small
+numbers of metastatic cancer cells in surgical sections and lymph
+nodes. Johns Hopkins has filed U.S. and foreign patent
+applications for this technology. There can be no assurance that
+patents will issue as a result of any such pending applications
+or that, if issued, such patents will be sufficiently broad to
+afford protection against competitors with similar technology. 
+In addition, there can be no assurance that any patents issued to
+the Company, or for which the Company has license rights, will
+not be challenged, invalidated or circumvented, or that the
+rights granted thereunder will provide competitive advantages to
+the Company. The test is more sensitive than current methods and
+could have broad-based implications in the staging and management
+of all solid tumors. The test is being developed by OncorMed,
+Inc. ("OncorMed"), the Company's medical services affiliate, for
+application in the detection and management of breast, colon and
+prostate cancers.
+
+ TriAmp(TM) Amplification Technology
+
+ The Company has developed a proprietary technology for the
+targeted amplification of DNA sequences. The technology is a
+continuous chemical reaction in which a copy of a small fragment
+of the target DNA is reproduced in a geometric fashion with an 
+objective of detecting gene mutations in samples too small to
+allow detection using current technologies. A U.S. patent
+relating to the technology was issued in January 1997.
+ 
+ Sunrise Primers and Rolling Circle Amplification
+
+ The Company has developed a family of proprietary
+technologies for the direct, quantitative analysis of nucleic
+acid amplification reactions. Certain of these technologies
+permit real-time quantitation of nucleic acid amplification
+techniques in a closed-tube format without the need for any
+post-amplification steps. The Company plans to begin marketing
+this new technology for research use only in the first half of 1997. 
+Two U.S. patent applications relating to the technologies are
+pending.
+
+ Methylation
+
+ The Company has licensed exclusively from Johns Hopkins a
+proprietary technology for determining the methylation status of
+specific genes. A U.S. patent application relating to the
+technology is pending. The expression of certain cancer related
+genes, including certain tumor suppressor genes and cell life
+cycle genes, is known to be influenced by the methylation status
+of certain regions within the genes. Oncor began marketing, for
+research use only, kits to measure methylation status early in
+1997.
+ 
+ Other Products
+
+ In addition to the genetic test systems for specific cancers
+and genetic diseases, the Company currently manufactures and
+sells nearly 200 other genetic probes to specific regions
+(chromosomes, loci or genes) for research purposes. In addition
+to genetic probes, the Company manufactures and markets for
+research purposes reagents and solutions for use in hybridization
+procedures, reagents for the extraction of DNA samples from blood
+and solid tissue, as well as various DNA labeling kits. 
+
+OncorMed
+
+ As more fully described in Note 4 to the accompanying
+consolidated financial statements, OncorMed, the Company's
+medical services affiliate, has completed two public offerings of
+its common stock, first in October 1994, then in February 1996. 
+As a result, the Company's ownership interest was reduced to
+approximately 40 of the outstanding common stock in 1995 and 29 
+in 1996. Accordingly, OncorMed is no longer a consolidated
+subsidiary of the Company. OncorMed continues to develop its
+genetic risk assessment, early cancer detection and other genetic
+services around technologies developed by OncorMed or licensed
+from others, including Oncor.
+
+Codon (formerly known as OncorPharm)
+
+ As more fully described in Note 4 to the accompanying
+consolidated financial statements, Codon Pharmaceuticals, Inc.
+("Codon")(formerly known as OncorPharm, Inc.) the Company's
+therapeutic affiliate, completed rounds of private equity
+financing in April 1995 and in April 1996. As a result, the
+Company's ownership interest was reduced to approximately 42 of
+Codon's outstanding capital stock. Accordingly, Codon is no
+longer a consolidated subsidiary of the Company. Codon is
+undertaking research activities in an effort to develop
+gene-repair compounds and other genetic therapies, based on
+technologies acquired, directly or indirectly, by exclusive
+license from Princeton University, Yale University and Johns
+Hopkins.
+
+Appligene
+
+ In September 1994, the Company acquired substantially all of
+the outstanding capital stock of Appligene. In July 1996,
+Appligene completed an initial public offering of its common
+stock in France, thereby reducing the Company's ownership
+interest to approximately 80 . Appligene develops, manufactures
+and markets a variety of molecular biology products, most
+significantly restriction enzymes, and markets related apparatus
+and equipment. The principal markets for Appligene's products
+are in Europe, including the United Kingdom. Oncor markets its
+products for research and diagnostic purposes in Europe through
+Appligene's direct sales force and distributors.
+
+Research and Development
+
+ The Company conducts the majority of its research and
+development activities through its own staff and facilities. The
+Company currently has 41 employees engaged in research and
+development, including 20 with Ph.D.'s. The Company's in-house
+research and development efforts are focused primarily on the
+development of new genetic test systems, new genetic probes,
+probe labeling and detection techniques, reagent chemistries, 
+sequencing products, amplification methods and cellular rare
+event detection. 
+
+ In addition to its in-house research programs, the Company
+collaborates with academic and research institutions to support
+research in areas of interest to the Company. In particular, all
+of the clinical testing required to support the Company's FDA
+approval applications are conducted by outside clinical research
+institutions. Typically under these arrangements, the Company's
+personnel in conjunction with consultants to the Company
+establish a clinical testing protocol, monitor the performance of
+the institution in implementing that protocol and, if necessary,
+prepare the associated documentation, statistical analysis and
+submission of results to the FDA. The Company usually pays the
+costs of the outside institution associated with conducting and
+reporting the results of the clinical trials. 
+
+ In addition, the Company occasionally licenses from third
+parties the rights to certain genetic probes and other
+technologies that it incorporates in its products or uses in its
+research and development efforts. See "Business -- Proprietary
+Rights and Licenses." 
+
+Sales and Marketing
+
+ The Company has direct sales forces in Europe and the United
+States, aggregating approximately 28 employees, and is supported
+by field application specialists and in-house technical services
+personnel. The Company currently markets its products through
+its sales forces to over 1,700 customers in the United States and
+Europe, primarily for research purposes. These customers include
+laboratory directors at centers that analyze tumors, genetic
+laboratories that perform chromosomal analysis and academic
+research laboratories. In other regions of the world, the
+Company sells its products through research product distributors. 
+The list prices of the Company's genetic test systems range from
+approximately 15 to 110 per test. The tests are typically
+purchased on a recurring basis. 
+
+ The Company emphasizes the sale of integrated genetic test
+systems composed of genetic probes, slides, reagents and other
+materials to help assure the performance of the products in the
+customer's laboratory. In addition, the Company operates
+periodic workshops in which clinicians pay tuition to receive
+training in the use of the Company's products for the research
+analysis of cancer and genetic diseases. 
+
+Manufacturing
+
+ The Company currently operates two manufacturing facilities. 
+One is co-located with its headquarters in Gaithersburg,
+Maryland, for the production of commercial quantities of its
+genetic test systems and reagents. The second facility is
+located in Strasbourg, France for the production of molecular
+biology products. The Company maintains its own quality control 
+laboratories at both sites to assure quality and product
+performance. 
+
+Competition
+
+ Competition in the medical diagnostic and research market is
+intense. The Company competes with a large number of companies
+ranging from very small businesses to large diagnostic, health
+care, pharmaceutical, biotechnology and chemical companies, many
+of which have substantially greater financial, manufacturing,
+marketing and product research resources than the Company.
+Academic institutions, governmental agencies and other public and
+private research organizations are also conducting research
+activities and may commercialize products on their own or through
+joint ventures with competitors. In general, the particular
+companies with which the Company competes and the technologies
+with which its products compete vary with the Company's different
+products and markets. The Company competes primarily on the
+basis of the clinical utility, accuracy, speed, ease of use and
+other performance characteristics of its products and, to a
+lesser degree, on the price of its products. 
+
+ The largest portion of the cancer diagnostics market to date
+has been represented by serum protein assays, which measure the
+actual amount of the specific target protein in the blood. Serum
+assays are recommended primarily for the monitoring of patients
+with known disease. In addition to protein assays, a number of
+companies supply antibodies to various cell surface proteins 
+associated with cancer. Antibody-based cancer diagnostics are
+also utilized in conjunction with flow cytometry instrumentation. 
+
+ The Company is also aware that other companies are likely 
+developing genetic test systems for diagnostic purposes, which
+may be competitive with the Company's existing products and those
+under development. In addition, a number of methods currently
+exist for gene amplification, including the widely used
+polymerase chain reaction ("PCR") process, and the Company is
+aware that additional methods are under development by other
+companies. These gene amplification methods could compete
+directly with the Company's amplification product line. The
+existence of these and other competing products or procedures
+that may be developed in the future may adversely affect the
+marketability of products developed by the Company. 
+
+ Competition for molecular biology products is intense both
+in the United States and Europe, primarily from very large multi-national
+corporations.
+
+ The Company's competitive position depends, in part, on its
+ability to attract and retain qualified scientific and other
+personnel, develop effective proprietary products, implement 
+production and marketing plans, obtain patent or exclusive
+licensing protection and obtain adequate capital resources. 
+
+Government Regulation
+
+ Those of the Company's products that are intended for
+research purposes only, as opposed to clinical diagnostic
+applications, and which are labeled and sold as such, may
+currently be marketed in the United States and most foreign
+markets. However, the manufacture, distribution and sale of the
+Company's products in the United States for clinical diagnostic
+purposes requires prior authorization by the FDA. The FDA and
+similar agencies in foreign countries, especially France and
+Japan, have promulgated substantial regulations which apply to
+the testing, marketing, import, export and manufacturing of
+diagnostic products. In order to obtain FDA approval (marketing
+clearance) of a new product for diagnostic purposes, the Company
+will be required to submit evidence of the safety and efficacy of
+the product. Such evidence typically entails extensive clinical
+and laboratory tests and demonstrations of compliance with FDA
+Good Manufacturing Practices ("GMP") regulations. The testing,
+preparation of necessary applications and response to the FDA in
+their processing of those applications is expensive and time
+consuming.
+ 
+ The clinical testing required of the Company's products is
+expected to be significantly less extensive than that typically
+required for a therapeutic product. Nevertheless, these clinical
+testing protocols may take several months or years to complete,
+depending on the nature of the filing. There can be no assurance
+that the FDA will act favorably or quickly in making its reviews,
+and significant difficulties or costs may be encountered by the
+Company in its efforts to obtain FDA approvals that could delay
+or preclude the Company from marketing its products for
+diagnostic purposes. Furthermore, there can be no assurance that
+the FDA will not request the development of additional data
+following the original submission. Based upon the data submitted
+to it, the FDA may also limit the scope of the labelling,
+permitted use of the product or deny the application altogether. 
+With respect to patented products or technologies, delays imposed 
+by the governmental approval process may materially reduce the 
+period during which the Company will have the exclusive right to
+exploit those products or technologies. 
+
+ The Company's diagnostic products, as presently
+contemplated, will be regulated as medical devices. Prior to
+entering commercial distribution, all of the Company's diagnostic
+products must undergo FDA review under one of two basic review
+procedures: a Section 510(k) premarket notification ("510(k)") or
+PMA application.
+
+ After product approvals have been received, they may still
+be withdrawn if compliance with regulatory standards is not
+maintained or if substantial problems occur after the product
+reaches the market. The FDA may require post-marketing
+surveillance programs to monitor products which have been
+commercialized, and has the power to prevent or limit further
+marketing of the products based on the results of these
+post-marketing programs. In addition, prior to obtaining FDA
+marketing approval for each product, the FDA must, under the
+Food, Drug and Cosmetic Act, inspect the manufacturing facilities
+and procedures on a routine basis for compliance with its GMP
+regulations. 
+
+ Sales of the Company's products outside the United States
+are also subject to extensive regulatory requirements, which vary
+widely from country to country. Diagnostic products that have
+not been approved by the FDA may be exported for sale outside the
+United States only after meeting specific conditions for export
+set forth by the FDA. Furthermore, such products may be exported
+for use only in certain countries, generally countries within
+Europe, Canada, Australia and Japan, and, then, only if the
+appropriate regulatory authorities in such countries have
+approved such products for use in their respective countries. 
+The time required to obtain such approval may be longer or
+shorter than that required for FDA approval. To date, the
+Company has received export approval from the FDA and import
+approval from the appropriate foreign regulatory bodies to market
+the Company's breast cancer test in Australia, Austria, Canada,
+Denmark, Germany, Ireland, Luxembourg, The Netherlands, Sweden,
+Switzerland and the United Kingdom.
+
+ The Company's products that are being sold for research
+purposes only are properly labeled as such, as required by the
+FDA. The FDA imposes distribution requirements and procedures
+for companies selling "research use only" and "investigational
+use only" labeled products and requires that the seller label the
+products appropriately and establish that the products are being
+used as labeled. As a result of these requirements, the
+Company's products can only be sold in the United States to a
+limited number of customers for limited use and cannot be sold
+for broader commercial use without future FDA approval. No
+assurance can be given that the Company will receive FDA approval
+for any of its products or that it will be able to sell its
+approved products in larger quantities. 
+
+ Any change in governmental regulations or in the
+interpretation thereof could have a material adverse effect on
+the Company. The Company is subject to regulation by other
+agencies in addition to the FDA, including the Environmental
+Protection Agency, the Occupational Safety and Health
+Administration, the Nuclear Regulatory Commission and the
+equivalent state and local regulatory agencies. The Company 
+believes that it is in compliance with the regulations of such
+agencies. 
+
+Proprietary Rights and Licenses
+
+ The Company relies on patent rights, trade secrets,
+trademarks, and nondisclosure agreements to establish and protect
+its proprietary rights in its technologies and products. Despite
+these precautions, it may be possible for unauthorized third
+parties to utilize the Company's technology or to obtain and use
+information that the Company regards as proprietary. The laws of
+some foreign countries do not protect the Company's proprietary
+rights in its processes and products to the same extent as do the
+laws of the United States. 
+
+ The Company has filed patent applications seeking patent
+protection for certain of its products. Currently, the Company
+owns four issued U.S. patents and numerous U.S. patents or patent
+applications are issued or pending for inventions owned by or
+licensed to the Company. In addition, numerous foreign patent
+applications or patents corresponding to these U.S. patents or
+patent applications are pending. The Company's owned or licensed
+issued U.S. patents have terms which are for the greater of
+seventeen years from grant, or twenty years from filing, and
+expire between 2007 and 2014.
+
+ One of the patents, issued June 6, 1995 and licensed
+exclusively to the Company by Princeton University, relates to
+methods for the formation of triple stranded nucleic acids. One
+of the U.S. patents owned by the Company relates to the Company's
+PROBE TECH(TM) technology for Southern analysis of DNA. The second
+and third U.S. patents relate to one of the Company's DNA
+amplification technologies. Foreign patent applications relating
+to this technology are pending in Europe, Canada and Japan. The
+fourth U.S. patent is related to the Company's TRI-AMP(TM) DNA
+amplification technology. One of the Company's U.S. patent
+applications relates to the detection of bladder cancer and two
+U.S. patent applications relate to the isolation of fetal cells
+from maternal circulation. One pending U.S. patent application
+and applications pending in Europe, Japan and Canada relate to
+TRI-AMP(TM) enzymatic amplification of nucleic acid sequences
+technology. Other patent applications relate to certain aspects
+of the Company's genetic probes and reagents, certain aspects of
+the technology enabling its in situ hybridization chemistry,
+certain aspects of the Company's mutation detection technology,
+certain aspects of enhancing fluorescent signals and detecting
+amplification products, novel labeled nucleotides developed by
+the Company, and novel oligonucleotide analogs and gene repair
+methods, both developed by Codon. There can be no assurance that
+the United States Patent and Trademark Office (the "PTO") or
+foreign patent offices will grant patent protection for the
+subject matter of any of these patent applications.
+
+ The Company has licensed rights to inventions disclosed in
+U.S. and foreign patent applications relating to methods and
+probes for detecting the presence of the Fragile X syndrome. The
+Company believes that its licensors are the original inventors
+and are entitled to patent protection in the United States, but
+the Company is aware that certain third parties also have filed
+patent applications in the United States and abroad and claim to
+be entitled to patents related to this technology. There is
+presently pending an interference proceeding with two other
+parties in the PTO to resolve which party is entitled to a U.S.
+patent, if any. The Company has settled the interference with
+respect to one of the parties, and has reached a settlement
+agreement in principle with the other party. 
+
+ The Company relies substantially on certain technologies
+which are not patentable or proprietary and are therefore
+available to the Company's competitors. In addition, many of the
+processes and much of the know-how of importance to the Company's
+technology are dependent upon the skills, knowledge and
+experience of its scientific and technical personnel, which
+skills, knowledge and experience are not patentable. To protect
+its rights in these areas, the Company requires all employees,
+significant consultants and advisors, and collaborators to enter
+into confidentiality agreements. There can be no assurance
+however, that these agreements will provide meaningful protection
+for the Company's trade secrets, know-how or other proprietary
+information in the event of any unauthorized use or disclosure of
+such trade secrets, know-how or proprietary information. 
+Further, in the absence of patent protection, the Company may be
+exposed to competitors who independently develop substantially
+equivalent technology or otherwise gain access to the Company's
+trade secrets, knowledge or other proprietary information. 
+
+ ONCOR(R), HYBRISOL(R), SURE BLOT(R), COATASOME(R), APOPTAG(R),
+FIDELITY(R) and the ONCOR MAN DESIGN(R) are registered trademarks of
+the Company. In addition to these trademarks, the Company is
+currently using the unregistered trademarks ONCOR ARCHIVE(TM),
+OPTICYTE(TM), BLOCKIT(TM), OPTIPROBE(TM), HYB-BATH(TM), EX-WAX(TM),
+RNA PREP(TM), TEMPLATE-TAMER(TM), PROBE TECH(TM), N.E.A.T.(TM),
+FLUORAMP(TM), INFORM(TM), ONCOR IMAGE(TM), APOTEST(TM) and
+TRAPEZE(TM), and has applied for the registration of the latter five
+trademarks. The Company has filed applications to register
+APOPNEXIN(TM), ONCORPHARM(TM), ROLLING CIRCLE AMPLIFICATION(TM), 
+RCA(TM) and TRI-AMP(TM) which the Company intends to use as
+trademarks. Also, Codon has filed applications for CODON,
+ON-CODE, ONCODE, CODE MARKER and CODE REPAIR, which it intends
+to use as trademarks. The Company's trademark registrations have
+ten year terms and are renewable for additional ten year terms for
+as long as the Company is using the registered trademark.
+
+ The Company has pursued a strategy of selectively licensing
+patents and technologies from third parties to accelerate the
+introduction of new products and to provide access to patented
+technologies and genetic probes. In some cases, the Company has
+assumed the prosecution of patent applications relating to the
+technology subject to these licenses. The Company's license
+agreements typically have a term equal to the term of the
+underlying patent or patents, or, in certain instances, six to
+ten years after the first commercial sale of a product developed
+from the licensed technology. 
+
+Employees
+
+ The Company had 179 employees at February 28, 1997,
+including 41 research, clinical and related laboratory personnel;
+52 employees in sales and marketing; and 86 employees in
+administration, finance, regulatory affairs, production and
+distribution. Of these employees, 62 reside and work in Europe. 
+Of the 41 laboratory employees, 20 have Ph.D.'s and one has an
+M.D. The future success of the Company will depend in large part
+upon its continued ability to attract and retain highly skilled
+and qualified personnel. Competition for such personnel is
+intense. None of the Company's U.S. employees is represented by
+a labor union. The Company has experienced no work stoppages and
+believes that its relations with its employees are excellent. 
+
+Additional Risk Factors
+
+ Risk Associated with the Her-2/neu Gene-Based Test System
+
+ In November 1995, an FDA advisory panel (the "Panel") made a
+recommendation against final approval of the Company's Pre-Market
+Approval ("PMA") application for the use of its Her-2/neu gene-based test
+system for diagnostic purposes. In the third quarter
+of 1996, the Company received confirmation from the FDA that the
+agency had accepted the clinical validity and statistical model
+for determining the predictive value of the Her-2/neu test
+system. The FDA further indicated that the Company must re-run a
+sample of previously examined specimens, undergo a manufacturing
+site inspection and develop a physician education and training
+program. No assurance can be given that the FDA will overturn
+the recommendation of the Panel or that the Company will obtain
+FDA approval for its Her-2/neu gene-based test system on a timely
+basis, if at all. The failure to obtain FDA approval for its
+Her-2/neu gene-based test system on a timely basis, or at all,
+would have a material and adverse effect on the Company's
+business, financial condition and results of operations. In the
+event that the Company receives FDA approval for its Her-2/neu
+gene-based test system, there can be no assurance that the
+Company will be capable of manufacturing the test system in
+commercial quantities at reasonable costs or marketing the
+product successfully, that the test system will be accepted by
+the medical diagnostic community, or that the market demand for
+the test system will be sufficient to allow profitable sales.
+
+ History of Operating Losses
+
+ Oncor has not been profitable since its inception in
+July 1983. For the year ended December 31, 1996, the Company
+incurred net losses of approximately 29 million. As of December
+31, 1996, the accumulated deficit of the Company was 102
+million. The Company expects to incur additional substantial
+losses in future periods. The Company is unable to predict when,
+or if, it will become profitable.
+
+ No Assurance of Regulatory Approvals; Government Regulation
+
+ The Company is currently pursuing or expects to pursue FDA
+approval of certain existing products and products under
+development. There can be no assurance that the Company will
+receive regulatory approval for any of its products or, even if
+it does receive regulatory approval for a particular product,
+that the Company will ever recover its costs in connection with
+obtaining such approval. The timing of regulatory approvals is
+not within the control of the Company. The failure of the
+Company to receive requisite approval, or significant delays in
+obtaining such approval, could have a material and adverse effect
+on the business, financial condition and results of operations of
+the Company.
+
+ Approval by the FDA requires lengthy, detailed and costly
+laboratory procedures, clinical testing procedures and
+application preparation and defense efforts to demonstrate a
+product's efficacy and safety before a product can be sold for
+diagnostic use. Even if such regulatory approval is obtained for
+a product, its manufacturer and its manufacturing facilities are
+subject to continual review and periodic inspections by the FDA
+and other regulatory agencies. The regulatory standards for
+manufacturing are applied stringently by the FDA. Discovery of
+previously unknown problems with a product, manufacturer or
+facility may result in restrictions on such product or
+manufacturer, including costly recalls or even withdrawal of the
+product from the market. Furthermore, approval may entail
+ongoing requirements for postmarketing studies. Failure to
+maintain requisite manufacturing standards or discovery of
+previously unknown problems could have a material and adverse
+effect on the Company's business, financial condition or results
+of operations.
+
+ Patents and Proprietary Rights
+
+ The Company's success will depend in large part on its, or
+its licensors', ability to obtain patents, defend its patents,
+maintain trade secrets and operate without infringing upon the
+proprietary rights of others, both in the United States and in
+foreign countries. The patent position of firms relying upon
+biotechnology is highly uncertain in general and involves complex
+legal and factual questions. To date there has emerged no
+consistent policy regarding the breadth of claims allowed in
+biotechnology patents or the degree of protection afforded under
+such patents. The Company relies on certain patents and pending
+U.S. and foreign patent applications relating to various aspects
+of its products. These patents and patent applications are
+either owned by the Company or rights under them are licensed to
+the Company. There can be no assurance that patents will issue
+as a result of any such pending applications or that, if issued,
+such patents will be sufficiently broad to afford protection
+against competitors with similar technology. In addition, there
+can be no assurance that any patents issued to the Company, or
+for which the Company has license rights, will not be challenged,
+invalidated or circumvented, or that the rights granted
+thereunder will provide competitive advantages to the Company. 
+The commercial success of the Company will also depend upon
+avoiding the infringement of patents issued to competitors and
+upon maintaining the technology licenses upon which certain of
+the Company's current products are, or any future products under
+development might be, based. Litigation, which could result in
+substantial cost to the Company, may be necessary to enforce the
+Company's patent and license rights or to determine the scope and
+validity of others' proprietary rights. If competitors of the
+Company prepare and file patent applications in the United States
+that claim technology also claimed by the Company, the Company
+may have to participate in interference proceedings declared by
+the PTO to determine the priority of invention, which could
+result in substantial cost to the Company, even if the outcome is
+favorable to the Company. An adverse outcome could subject the
+Company to significant liabilities to third parties and require
+the Company to license disputed rights from third parties or
+cease using the technology. A U.S. patent application is
+maintained under conditions of confidentiality while the
+application is pending in the PTO, so that the Company cannot
+determine the inventions being claimed in pending patent
+applications filed by its competitors in the PTO. Further, U.S.
+patents do not provide any remedies for infringement that
+occurred before the patent is granted. 
+
+ The University of California and its licensee, Vysis, Inc.
+("Vysis"), filed suit against Oncor on September 5, 1995 for
+infringement of U.S. Patent No. 5,447,841 entitled Methods and
+Compositions for Chromosome Specific Staining which issued on
+that same date. The patent relates to a method of performing in
+situ hybridization using a blocking nucleic acid that is
+complementary to repetitive sequences. The Company has requested
+summary judgment of invalidity, non-infringement and
+unenforceability of the patent claims in suit. The University
+and Vysis have requested a summary judgment of infringement and
+validity. In January 1997, a summary judgment hearing was held
+but as of March 26, 1997, there had been no decision on the
+motions. A failure to successfully defend against or settle this
+suit may result in damages being assessed against the Company and
+an injunction against the sale of some of the Company's probes
+and genetic test kits. 
+
+ The Company has licensed rights to inventions disclosed in
+United States and foreign patent applications relating to methods
+and probes for detecting the presence of the Fragile X syndrome. 
+The Company believes that its licensors are original inventors
+and are entitled to patent protection in the United States, but
+the Company is aware that two other parties also have filed
+patent applications in the United States and abroad and claim to
+be entitled to patents related to this technology. The Company
+has initiated an interference proceeding with these third parties
+in the PTO to resolve which party is entitled to a U.S. patent,
+if any. The application licensed by the Company is senior in the
+interference. An unfavorable decision in such a proceeding could
+have an adverse effect on the Company. The Company has settled
+the interference with respect to one of the parties, and has
+reached a settlement agreement in principle with the other party.
+
+ The Company currently has certain licenses from third
+parties and in the future may require additional licenses from
+other parties to develop, manufacture and market commercially
+viable products effectively. There can be no assurance that such
+licenses will be obtainable on commercially reasonable terms, if
+at all, that the patents underlying such licenses will be valid
+and enforceable or that the proprietary nature of the patented
+technology underlying such licenses will remain proprietary.
+
+ The Company relies substantially on certain technologies
+that are not patentable or proprietary and are therefore
+available to the Company's competitors. The Company also relies
+on certain proprietary trade secrets and know-how that are not
+patentable. Although the Company has taken steps to protect its
+unpatented trade secrets and know-how, in part through the use of
+confidentiality agreements with its employees, consultants and
+certain of its contractors, there can be no assurance that these
+agreements will not be breached, that the Company would have
+adequate remedies for any breach, or that the Company's trade
+secrets will not otherwise become known or be independently
+developed or discovered by competitors.
+
+ Uncertainties Relating to Product Development
+
+ The Company's actively marketed products have not been
+approved by the FDA and may be sold only for research purposes in
+the United States and certain other countries. The Company has
+undertaken to seek FDA approval for certain of these products,
+and may in the future undertake to seek such approval for other
+products, and substantial additional investment, laboratory
+development, clinical testing and FDA approval will be required
+prior to the commercialization of such products for diagnostic
+purposes. There can be no assurance that the Company will be
+successful in developing such existing or future products, that
+such products will prove to be efficacious in clinical trials,
+that required regulatory approvals can be obtained for such
+products, that such products, if developed and approved, will be
+capable of being manufactured in commercial quantities at
+reasonable costs, will be marketed successfully or will be 
+accepted by the medical diagnostic community, or that market
+demand for such products will be sufficient to allow profitable
+operations.
+
+ International Sales and Foreign Exchange Risk
+
+ The Company derived approximately 8.7 million or 57 of its
+total product revenues, from customers outside of the United
+States for the year ended December 31, 1996. The Company
+anticipates that a significant amount of its sales will take
+place in European countries and likely will be denominated in
+currencies other than the U.S. dollar. These sales may be
+adversely affected by changing economic conditions in foreign
+countries and by fluctuations in currency exchange rates. Any
+significant decline in the applicable rates of exchange could
+have a material adverse effect on the Company's business,
+financial condition and results of operations. Additional risks
+inherent in the Company's international business activities
+generally include unexpected changes in regulatory requirements,
+tariffs and other trade barriers, lack of acceptance of products
+in foreign markets, longer accounts receivable payment cycles,
+difficulties in managing international operations, potentially
+adverse tax consequences, restrictions on repatriation of
+earnings and the burdens of complying with a wide variety of
+foreign laws. There can be no assurance that such factors will
+not have a material adverse effect on the Company's future
+ 
+international revenues and, consequently, on the Company's
+business, financial condition and results of operations.
+
+ Limited Manufacturing Experience
+
+ The Company's ability to conduct clinical trials on a timely
+basis, to obtain regulatory approvals and to commercialize its
+products will depend in part upon its ability to develop and
+maintain facilities to manufacture its products, either directly
+or through third parties, at a competitive cost in accordance
+with the FDA's prescribed current GMP and other regulatory
+requirements. Any failure to maintain manufacturing facilities
+in accordance with the FDA's GMP requirements could result in the
+inability of the Company to manufacture its products and may
+limit the Company's ability to deliver its products to its
+customers, which would have a material and adverse effect on the
+Company's business, financial condition and results of
+operations. No assurance can be given that the Company will be
+able to develop and maintain GMP facilities or engage third
+parties to do so at a cost acceptable to the Company.
+
+ The Company has only limited experience in manufacturing
+products on a commercial basis. The Company believes that its
+existing manufacturing facilities, along with available
+contiguous space currently under option to the Company, will
+enable it to produce commercial quantities of its products
+through 1997. No assurance can be given, however, that
+manufacturing or quality control problems will not arise if the
+Company increases production of its products, or if additional
+facilities are required in the future.
+
+ Limited Marketing and Distribution Experience
+
+ The Company markets and sells its products for research
+purposes and, once approved by the appropriate regulatory
+authority, for diagnostic use, through its direct sales forces in
+both Europe and the United States and indirectly through third
+parties in the Pacific Rim and other areas. The Company only has
+limited experience in sales, marketing and distribution. In
+order to market its products directly, the Company must maintain
+a sales force with technical expertise and an understanding of
+the Company's products. There can be no assurance that the
+Company will be able to maintain such a sales force or that the
+Company's direct sales and marketing efforts will be successful. 
+In addition, the Company's products compete with the products of
+many other companies that currently have extensive and well-funded 
+marketing and sales operations. There can be no assurance
+that the Company's marketing and sales efforts will compete
+successfully against such other companies. To the extent the
+Company enters arrangements with third parties, any revenues
+received by the Company will be dependent on the efforts of such 
+third parties, and there can be no assurance that such efforts
+will be successful.
+
+ Competition and Technological Change
+
+ The diagnostic and biotechnology industries are subject to
+intense competition and rapid and significant technological
+change. Competitors of the Company in the United States and in
+foreign countries are numerous and include, among others,
+diagnostic, health care, pharmaceutical, biotechnology and
+chemical companies, academic institutions, government agencies
+and other public and private research organizations. Many of
+these competitors have substantially greater financial and
+technical resources and production and marketing capabilities
+than the Company. There can be no assurance that these
+competitors will not succeed in developing technologies and
+products that are more effective, easier to use or less expensive
+than those that have been or are being developed by the Company
+or that would render the Company's technology and products
+obsolete and noncompetitive. The Company also competes with
+various companies in acquiring technology from academic
+institutions, government agencies and research organizations. In
+addition, many of the Company's competitors have significantly
+greater experience than the Company in conducting clinical trials
+of new diagnostic products and in obtaining FDA and other
+regulatory approvals of products for use in health care. 
+Accordingly, the Company's competitors may succeed in obtaining
+regulatory approval for products more rapidly than the Company. 
+See "Business Competition." 
+
+ Investment in OncorMed, Appligene, and Codon
+
+ The Company owns approximately 29 and 80 of the common
+stock of its publicly-traded affiliates, OncorMed and Appligene,
+respectively, and 42 of the outstanding capital stock securities
+of its privately held affiliate, Codon. The shares of common
+stock of OncorMed, Appligene, and Codon held by the Company are
+not currently freely tradeable and no public market exists for
+the common stock of Codon. Therefore, there can be no assurance
+that the Company will be able to realize the economic benefit of
+its investment or predict the timing of such realization. The
+value of the Company's investment in OncorMed and Appligene
+represent a significant portion of the total assets of the
+Company and such value fluctuates with the market price of those
+companies' common stock. Therefore, any event that has a
+material and adverse effect on the market price of the common
+stock of OncorMed and Appligene will have a material and adverse
+effect on the value of the Company's investment in those
+companies. Although Stephen Turner, the Company's Chief
+Executive Officer, is a Director of OncorMed and, along with the
+Company's Chief Financial Officer, Appligene and the Company is a
+significant stockholder in those companies, the Company does not
+control the day-to-day operations and management of those
+companies and, therefore, has a varying but limited direct
+control over their operations and financial results. Codon
+currently requires significant additional financing to continue
+operations. The Company does not currently intend to provide a
+significant portion of such financing although the Company may
+provide additional financing to continue operations. The failure
+of Codon to obtain any required financing on acceptable terms
+would have a material and adverse effect on the value of the
+Company's investment in Codon.
+
+ Restricted Use of the Company's Products
+
+ The Company's actively marketed products must be sold in the
+United States for research purposes only and must be labeled
+accordingly. The FDA imposes distribution requirements and
+procedures on companies selling products for research purposes
+only, including the requirement that the seller receive specified
+certifications from its customer as to the customer's intended
+use of the product. As a result of these requirements, the
+Company's products can only be sold in the United States to a
+limited number of customers for limited use and can not be sold
+for broader commercial use without FDA approval. No assurance
+can be given that the Company will receive FDA approval for its
+products or that it will be able to sell its approved products in
+larger quantities. See "Business -- Government Regulation." 
+
+ Government Funding
+
+ The Company's products being sold for research purposes only
+are in large part purchased by cancer researchers operating under
+government funded programs both in the U.S. and in foreign
+countries. These products are also purchased by researchers
+involved in the human genome project, which is likewise
+principally funded by the government. There can be no assurance
+that such government funding will continue at its current level. 
+The Company would be adversely affected by decreases in or
+changes in the direction of government funding for cancer
+research or human genome research.
+
+ Attraction and Retention of Key Personnel
+
+ The Company's ability to successfully develop marketable
+products and to maintain a competitive position will depend in
+large part on its ability to attract and retain highly qualified
+scientific and management personnel. The Company is highly
+dependent upon the principal members of its management,
+scientific staff, and Medical and Science Advisory Boards. 
+Competition for such personnel and advisors is intense, and there
+can be no assurance that the Company will be able to continue to
+attract and retain such personnel. See "Business -- Employees."
+
+ Uncertainty Related to Health Care Reform 
+ Measures and Third-Party Reimbursement
+
+ Political, economic and regulatory influences are likely to
+lead to fundamental change in the health care industry in the
+United States. Numerous proposals for comprehensive reform of
+the nation's health care system have been introduced in Congress
+over the past year. In addition, certain states are considering
+various health care reform proposals. The Company anticipates
+that Congress and state legislatures will continue to review and
+assess alternative health care delivery systems and payment
+methodologies, and that public debate of these issues will likely
+continue in the future. Due to uncertainties regarding the
+ultimate features of reform initiatives and their enactment and
+implementation, the Company cannot predict which, if any, reforms
+will be adopted, when they may be adopted, or what impact they
+may have on the Company. The Company's ability to earn
+sufficient returns on its products may also depend in part on the
+extent to which reimbursement for the costs of such products will
+be available from government health administration authorities,
+private health insurers and other organizations. Third-party
+payors are increasingly challenging the price and cost
+effectiveness of medical products and services. Significant
+uncertainty exists as to the reimbursement status of newly
+approved health care products, and there can be no assurance that 
+adequate reimbursement will be available or sufficient to allow
+the Company to sell its products on a competitive basis.
+
+ Additional Financing Requirements and 
+ Access to Capital Funding
+
+ The Company has expended and will continue to expend in the
+future substantial funds to continue the research and development
+of its products, conduct clinical trials, make capital
+expenditures, establish additional manufacturing capability, and
+market its products. The Company believes that its existing
+funds will be adequate to finance its operations through 1997. 
+This belief is based on the Company's current research and
+development plans, the current regulatory environment, historical
+industry experience in the development of biotechnology products
+and general economic conditions. However, the Company's cash
+requirements may vary materially from those now planned as a
+result of unforeseen changes that could consume a significant
+portion of the available resources before such time. To the
+extent that funds on hand and expected to be generated from the
+Company's operations are insufficient to meet current or planned
+operating requirements, the Company will seek to obtain
+additional funds through equity or debt financing, collaborative
+or other arrangements with corporate partners and others, and
+from other sources. No assurance can be given that additional
+financing will be available when needed or on terms acceptable to
+the Company. If adequate funds are not available, the Company
+will likely be required to delay or to eliminate expenditures for
+certain of its products or to license to third parties the rights
+to commercialize products or technologies that the Company would
+otherwise seek to develop itself.
+
+ Product Liability
+
+ The testing, marketing and sale of health care products
+could expose the Company to the risk of product liability claims. 
+A product liability claim could have a material and adverse
+effect on the business, results of operations or financial
+condition of the Company. The Company currently maintains
+product liability insurance coverage of 5.0 million per
+occurrence. There can be no assurance, however, that the
+insurance policy will respond to any specific claim, that this
+coverage will be adequate to protect the Company against future
+product liability claims or that product liability insurance will
+be available to the Company in the future on acceptable terms, if
+at all.
+
+ Environmental Risks
+
+ The manufacturing and research and development processes of
+the Company involve the controlled use of hazardous materials. 
+The Company is subject to federal, state and local laws and
+regulations governing the use, manufacture, storage, handling and
+disposal of such materials and certain waste products. Although
+the Company believes that its activities currently comply with
+the standards prescribed by such laws and regulations, the risk
+of accidental contamination or injury from these materials cannot
+be eliminated. In the event of such an accident, the Company
+could be held liable for any damages that result and any such
+liability could exceed the resources of the Company. In
+addition, there can be no assurance that the Company will not be
+required to incur significant costs to comply with environmental
+laws and regulations in the future.
+
+ Possible Volatility of Stock Price
+
+ The market prices for securities of life sciences companies,
+including the Company, have been highly volatile and the market
+has experienced significant price and volume fluctuations that
+are unrelated to the operating performance of particular
+companies. Announcements of technological innovations or new
+commercial products by the Company or its competitors,
+developments concerning proprietary rights, including patents and
+litigation matters, publicity regarding actual or potential
+clinical trial results with respect to products under development
+by the Company or others, decisions regarding regulatory
+approvals of the products of the Company or others, regulatory
+developments in both the United States and foreign countries,
+public concern as to the efficacy of new technologies, general
+market conditions, as well as quarterly fluctuations in the
+Company's revenues and financial results and other factors, may
+have a significant impact on the market price of the Common
+Stock. In particular, the realization of any of the risks
+described in these "Risk Factors" could have a dramatic and
+adverse impact on such market price.
+
+ITEM 2. PROPERTIES
+
+ The Company's principal administrative, marketing,
+manufacturing and research and development facilities consist of
+approximately 65,000 square feet in Gaithersburg, Maryland and
+12,000 square feet in Strasbourg, France. The Company occupies
+the Gaithersburg, Maryland facilities under four lease agreements
+expiring in March 2004 with options to extend the principal
+leases for up to two additional five year terms. The facilities
+in Strasbourg, France are under a capital lease with a term of 15
+years, expiring in 2010. The Company believes that suitable
+additional space will be available as needed. 
+
+ITEM 3. LEGAL PROCEEDINGS
+
+ As noted under "Item 1. Business -- Additional Risk 
+Factors -- Patents and Proprietary Rights," elsewhere in this
+Annual Report, the Company has received notices from time to time
+claiming that certain of the Company's products infringe patents
+of third parties and has submitted the notices to its patent
+counsel for review. There can be no assurance, however, that
+these claims will not give rise to infringement proceedings
+involving the Company or that the Company would prevail in any
+such proceedings. Patent litigation has frequently proven in
+recent years to be complex and expensive and the outcome of
+patent litigation can be difficult to predict. If the Company
+were to be precluded from selling products incorporating the
+disputed technologies or required to pay damages or make
+additional royalty or other payments with respect to such sales,
+the Company's business, financial condition and results of
+operations could be materially and adversely affected.
+
+ The University of California and its licensee, Vysis, filed
+suit against Oncor on September 5, 1995 for infringement of U.S.
+Patent No. 5,447,841 entitled Methods and Compositions for
+Chromosome Specific Staining which issued on that same date. The
+patent relates to a method of performing in situ hybridization
+using a blocking nucleic acid that is complementary to repetitive
+sequences. The Company has requested summary judgment of
+invalidity, non-infringement and unenforceability of the patent
+claims in suit. The University and Vysis have requested summary
+judgment of infringement and validity. In January 1997, a
+summary judgment hearing was held. As of March 26, 1997, there
+had been no judicial decision on the motions. A failure to
+successfully defend against or settle this suit may result in
+damages being assessed against the Company and an injunction
+against the sale of some of the Company's probes.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+ None.
+
+ PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED 
+ STOCKHOLDER MATTERS
+
+ The Company's Common Stock is traded on the American Stock
+Exchange (the "Exchange") under the symbol "ONC." Prior to 
+May 15, 1995, the Company's Common Stock was traded on the NASDAQ
+National Market. The following table sets forth, for the
+calendar periods indicated, the range of high and low sale prices
+for the Common Stock as reported by the Exchange or NASDAQ: 
+
+High Low
+ ---- ---
+ 
+ 1995
+ First Quarter. . . . . . . . . . . . 5 3-1/2 
+ Second Quarter . . . . . . . . . . . 6-3/4 3-3/4
+ Third Quarter. . . . . . . . . . . . 8-5/8 5-7/8
+ Fourth Quarter . . . . . . . . . . . 7-11/16 3-3/4
+
+ 1996
+ First Quarter. . . . . . . . . . . . 6-7/8 4-1/8
+ Second Quarter . . . . . . . . . . . 7 4-7/8
+ Third Quarter. . . . . . . . . . . . 5-5/8 3-7/8
+ Fourth Quarter . . . . . . . . . . . 5-3/16 3-5/8
+
+HOLDERS
+
+ As of December 31, 1996, the approximate number of record
+holders of Common Stock was 488.
+
+DIVIDENDS
+
+ The Company has never declared or paid any cash dividends
+on its Common Stock. The Company currently intends to retain all
+future earnings, if any, for the operation and expansion of its
+business and does not anticipate paying any cash dividends in the
+foreseeable future. 
+ITEM 6. SELECTED CONSOLIDATED FINANCIAL DATA
+
+ The selected consolidated financial data set forth below as
+of December 31, 1992, 1993, 1994, 1995 and 1996, and for each of
+the periods then ended, have been derived from the audited
+consolidated financial statements of the Company. The
+consolidated financial statements of the Company as of
+December 31, 1995 and 1996 and for each of the years in the
+three-year period ended December 31, 1996, together with the
+notes thereto and the related report of Arthur Andersen LLP,
+independent public accountants, are included elsewhere in this
+Annual Report. The selected financial data set forth below
+should be read in conjunction with the consolidated financial
+statements of the Company and related notes thereto and
+"Management's Discussion and Analysis of Financial Condition and
+Results of Operations" included elsewhere in this Annual Report.
+ 
+ Year Ended December 31,
+ 1992 1993 1994 1995 1996
+ ---- ---- ---- ---- ----
+ (In thousands, except per share data)
+ 
+Statement of Operations Data:
+Gross revenues:
+ Product sales . . . . . . . 6,480 9,238 12,425 16,193 15,323 
+ Grant revenue . . . . . . . 100 62 342 895 483 
+ Contract revenue. . . . . . - - 48 300 200
+ -------- --------- --------- --------- --------- 
+ Total gross revenues . 6,580 9,300 12,815 17,388 16,006 
+ -------- ---------- --------- --------- ---------
+
+Operating expenses:
+ Direct cost of sales. . . . 3,555 4,376 7,254 8,280 9,656 
+ Repositioning expense . . . - - - - 2,075 
+ Amortization of intangible
+ assets . . . . . . . . . . - - 414 1,339 1,323 
+ Selling, general and
+ administrative . . . . . . 5,912 7,575 9,539 13,752 15,073 
+ Research and development. . 5,952 9,117 9,609 10,422 9,822 
+ Buyout of R&D contract . . 1,447 - - - -
+ Write off acquired R&D
+ projects in process. . . . - - 3,574 - - 
+ 
+ -------- --------- --------- ---------- ---------
+Total operating expenses . . . . . . 16,866 21,068 30,390 33,793 37,949 
+ -------- --------- --------- ---------- ---------
+Loss from operations . . . . . . . . (10,286) (11,768) (17,575) (16,405) (21,943) 
+
+Other income (expenses), net . . . . 1,051 681 (2,003) (1,825) (7,037) (2)
+ -------- -------- --------- ---------- ---------
+Net loss . . . . . . . . . . . . . . (9,235) (11,087) (19,578) (18,230) (28,980) 
+ ======== ========= ========= ========= =========
+
+Net loss per share(1). . . . . . . . (0.64) (0.71) (1.01) (0.87) (1.26) 
+Weighted average shares outstanding 14,518 15,558 19,437 20,888 23,031 
+ December 31,
+ 1992 1993 1994 1995 1996
+ ---- ---- ---- ---- ----
+ (In thousands)
+
+Balance Sheet Data:
+
+Cash and liquid investments. . . . . 27,922 18,587 23,301 15,830 18,880 
+
+Total assets . . . . . . . . . . . . 34,822 29,201 51,525 46,121 41,670 
+
+Long-term liabilities. . . . . . . . 223 164 2,513 9,320 10,386 
+
+Accumulated deficit. . . . . . . . . (23,762) (34,848) (54,427) (72,657) (101,637) 
+
+Stockholders' equity . . . . . . . . 33,297 24,186 40,279 25,987 23,344 
+
+_________________
+
+(1) Net loss per share is determined using the weighted-average number
+ of shares of Common Stockoutstanding during the years presented. The 
+ effects of options, warrants, and notes payable to stockholders have
+ not been considered, since the effects would be antidilutive. 
+
+(2) In March 1997, the SEC staff announced position with respect to an
+ accounting method whereby the full amount of the beneficial conversion
+ features in convertible debentures is to be charged to interest expense
+ ratably over the period up to the conversion of the debentures. Pursuant
+ to this adoption, the Company charged to interest expense 2.6 million
+ dollars in 1996.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+ CONDITION AND RESULTS OF OPERATION
+
+ The following discussion and analysis provides information
+which management believes is relevant to an assessment and
+understanding of the Company's results of operations and
+financial condition. The discussion should be read in
+conjunction with the audited consolidated financial statements of
+the Company and notes thereto. This Report contains certain
+statements of a forward-looking nature relating to future events
+or the future financial performance of the Company. Investors
+are cautioned that such statements are only predictions and that
+actual events or results may differ materially. In evaluating
+such statements, investors should specifically consider the
+various factors identified in this Report which could cause
+actual results to differ materially from those indicated by such
+forward-looking statements, including the matters set forth in
+the various captions under the section "Business," most
+significantly under the caption "Additional Risk Factors."
+
+Overview
+
+ The Company's sales to date have consisted primarily of
+sales of products used for research purposes and imaging systems. 
+Sales of products for diagnostic use require FDA approval. In
+July 1996, the Company announced a plan to discontinue or suspend
+the development, manufacture and marketing of certain products in
+certain geographic regions in which net margins for such products
+were low. Such products and regions included the entire
+biological imaging product line and the products developed and
+manufactured by Appligene as they relate to sale in the United
+States. In addition, the Company has suspended the manufacture
+and marketing of B/T Blue, a genetic test system for use in the
+differentiation, detection, treatment selection and monitoring of
+leukemia and lymphoma from whole blood samples, tissues and
+marrow specimens, pending the reformulation of the product and
+the submission of the required documentation with the FDA. As a
+result of all of the aforementioned, analysis of past sales of
+products for research use are not necessarily indicative of
+future sales of products for research or diagnostic purposes.
+
+ In May 1994, the Company acquired the imaging line of
+business of Biological Detections Systems, Inc. ("BDS"). The
+aggregate purchase price of 3.7 million was paid in cash, notes
+and Common Stock of the Company. In September 1994, the Company
+acquired 98.5 of the outstanding stock of Appligene,
+headquartered in Strasbourg, France. The aggregate purchase
+price of 10.6 million was paid in cash, notes and Common Stock
+of the Company. The acquisitions of Appligene and the imaging
+line of business of BDS in 1994 (together, the "Acquisitions")
+were accounted for as purchases and accordingly, the consolidated
+results of operations for the Company include the results of
+these acquired businesses from their respective dates of
+acquisition. The Company attributed approximately 2.5 million
+and 1.1 million of the purchase prices of the imaging line of
+business of BDS and of Appligene, respectively, to the value of
+acquired research and development projects in progress. 
+Accordingly, such amounts were expensed by the Company at their
+respective dates of acquisition. A significant amount of the
+Company's sales in Europe are as a result of the Appligene
+acquisition. Approximately 1.1 million of the purchase price of
+BDS was allocated to intangible assets, and such amount since has
+been amortized or written off. Approximately 9.7 million of the
+purchase price of Appligene was allocated to intangible assets
+and is being amortized on a straight line method over periods of
+two to ten years, with a weighted average amortization period of
+eight years. See Note 3 of the Notes to Consolidated Financial
+Statements.
+
+ In October 1994, OncorMed, previously an 83 owned
+consolidated subsidiary of the Company, completed an initial
+public offering of its common stock which reduced the Company's
+ownership interest in OncorMed to approximately 40 . 
+Accordingly, the results of operations of OncorMed were accounted
+for on the equity method of accounting retroactive to January 1,
+1994. In addition, the Company increased its carrying value of
+its investment in OncorMed by 5.5 million to an amount equal to
+the Company's proportionate share of the recorded stockholders'
+equity of OncorMed at the completion of the initial public
+offering. The adjustment was credited directly to the
+stockholders' equity of the Company in the fourth quarter of
+1994. In February 1996, OncorMed completed a public offering of
+its common stock which reduced the Company's ownership interest
+in OncorMed to approximately 29 . The Company increased its
+carrying value of its investment in OncorMed by approximately
+ 4.0 million to an amount equal to the Company's proportionate
+share of the recorded stockholders' equity of OncorMed at the
+completion of the offering and credit the adjustment directly to
+stockholders' equity in the first quarter of 1996. The Company
+will continue to record its proportionate share of the results of
+operations of OncorMed, expected to be losses throughout 1997, 
+adjusting the carrying value of the investment and advances until
+such time that the carrying value and advances are eliminated. 
+
+ In June 1994, the Company formed Codon Pharmaceuticals,
+Inc., formerly known as OncorPharm, Inc., a consolidated
+subsidiary, to develop and commercialize therapeutic products
+using Oncor's technologies in the field of genetic repair and
+drug delivery. Codon was initially capitalized with a 1.0
+million capital contribution from the Company and subsequently
+raised 3.0 million in a private placement. The Company has
+advanced approximately 0.6 to Codon which amount was converted
+into Codon common stock at 2.00 per share. On April 2, 1996,
+Codon completed a private placement of 1,012,667 of its preferred
+shares of stock at 3.00 per share. The Company purchased
+100,000 shares in this second private placement. In October
+1996, Codon issued 50,000 shares of its preferred stock to Oncor
+in connection with a Series B Stock Dividend. The effect of
+these transactions was to reduce the Company's ownership interest
+in Codon to approximately 42 . Accordingly, the results of
+operations of Codon were accounted for on the equity method of
+accounting retroactive to January 1, 1996, resulting in a
+non-operating expense of 2.4 million for the Company's 
+proportionate share of Codon losses in 1996. The Company will
+continue to record its proportionate share of the results of
+operations of Codon, expected to be losses throughout 1997, 
+adjusting the carrying value of the investment and advances 
+until such time that the carrying value and advances are
+eliminated. Codon is currently seeking additional funding
+to continue operations. Such efforts have not been successful
+to date and there can be no assurance that funding to continue
+operations will be available. If Codon ceases operations, the
+Company will be required to write off its investment in the 
+affiliate, recorded in "Investment In and Advances to Affiliates"
+in an amount of 0.7 million at December 31, 1996.
+
+ In the third and fourth quarter of 1996, the Company
+completed private placements of securities of 5.0 million and
+ 8.0 million, respectively, issuing unsecured notes convertible
+into shares of Common Stock of the Company and warrants to
+purchase shares of the Company's Common Stock. In January 1997,
+an additional 2.0 million of convertible notes were issued. As
+further discussed under "Results of Operations" and Note 13 to
+the Consolidated Financial Statements, these private placements
+involve substantial non-cash, current and future charges for
+imputed interest.
+
+Results of Operations
+
+ Consolidated product sales decreased 5 to 15.3 million in
+1996 compared to 16.2 million in 1995, which represented a 30 
+increase from 12.4 million in 1994. In 1996, the sales decrease
+was attributable largely to the discontinuation of certain
+product lines. After adjusting for the elimination of the sales
+of discontinued products, sales of continuing products increased
+14 from 1995 to 1996. The net increase in sales in 1995 as
+compared to 1994 is attributable to increases in product sales in
+Europe through the Company's French subsidiary, Appligene,
+acquired in September 1994. 
+
+ Contract and grant revenue decreased 42 to 0.7 million in
+1996 compared to 1.2 million in 1995, which increased 200 from
+ 0.4 million in 1994. Two grants were received from the National
+Institutes of Health, one in the middle of 1994 and the other
+early in 1995. The contract and grant revenue decreased in 1996
+due to the completion of these grants. 
+
+ Gross profit as a percentage of product sales decreased to
+37 in 1996 from 49 in 1995, which represented an increase from
+42 in 1994. The decrease in 1996 was due to (i) product mix
+changes and competitive pressures on margins in Europe, (ii)
+costs for regulating the initial stages of the manufacture of a
+controlled diagnostic product and (iii) diseconomies of scale
+with respect to manufacturing overhead resulting from reduced
+production to lower inventory levels. The increase in 1995 over
+1994 was due to favorable product mix and to increased sales in
+Europe which had supported higher margins.
+
+ Repositioning expense in 1996 is for charges taken related
+to the Company's decision to discontinue the development,
+manufacture, stocking and marketing of certain selected products
+and product lines. Such charges included inventory abandonment
+costs, goodwill adjustments and employee separation expenses.
+Future such expenses are not anticipated, but may occur.
+
+ Amortization of intangible assets in 1996, 1995 and 1994 was
+due to the amortization of the portion of the purchase price of
+Appligene attributable to the value of intangible assets
+acquired, primarily for contracts, completed research projects,
+and the excess of the purchase price over the book value of the
+assets acquired. The intangible assets are being amortized on a
+straight line basis over periods ranging from two to ten years,
+with a weighted average period of approximately eight years. 
+
+ Selling, general and administrative expenses increased 10 
+to 15.1 million in 1996, compared to 13.8 million in 1995,
+which represented a 44 increase from 9.5 million in 1994. The
+increase in 1996 was due to legal and other expenses associated
+with certain intellectual property issues more than offsetting
+the beneficial effects of cost reduction programs and
+deconsolidation of the operating results of Codon in 1996. The
+intellectual property issues have not been settled and related
+expenses may continue at a significant rate. Codon selling,
+general and administrative expenses were 0.7 million for 1995,
+its first year of significant administrative expenses. The
+increase in 1995 was attributable to expenses related to (i)
+Codon, (ii) the first full year of the inclusion of Appligene,
+(iii) depreciation on a new facility in France, (iv) ongoing
+higher levels of the European sales force, (v) unfavorable
+exchange rate differences and (vi) the expansion of the Company's
+marketing and field sales force in North America, beginning in
+the second half of 1994.
+
+ Research and development expenses decreased 11 to 7.3
+million in 1996 compared to 8.2 million in 1995, which
+represented a 3 increase from 8.0 million in 1994. The
+decrease in 1996 resulted primarily from (i) the deconsolidation
+of the operating results of Codon and (ii) project cessations as
+a result of the product discontinuation plan. Codon research and
+development expenses accounted for 1.3 million and 1.1 million
+in 1995 and 1994, respectively. The decrease in 1996 was, in
+part, offset by the costs associated with (i) initial payments,
+made largely in common stock of the Company, at the inception of
+two research collaboration agreements with the John Hopkins, (ii)
+the initial payment, made in common stock of the Company, at the
+inception of a research agreement related to a novel diagnostic
+test and (iii) substantial increased activity associated with the
+development of other diagnostic products. As the Company
+continues to acquire technologies key to the development of major
+diagnostic products, such expenses are expected to continue or
+increase. There was an increase of 0.6 million in 1995 compared
+to 1994 in research and development expenses attributable to the
+first full year of the inclusion of Appligene in the consolidated
+accounts. This increase was offset, in part, by a decrease in
+the expenditures made for license fees and grants to independent
+researchers in 1995.
+ 
+ Clinical and regulatory expenses increased 13 to 2.5
+million in 1996, compared to 2.3 million in 1995, which
+represented a 36 increase from 1.7 million in 1994. The
+continued increase of clinical and regulatory expenses in 1996
+and 1995 is attributable to the substantial regulatory efforts
+associated with the current applications for FDA approval of
+certain diagnostic tests including HER-2/neu. As the Company
+continues its efforts to concentrate on the development,
+manufacture and marketing of controlled diagnostic products,
+management expects such expenses to continue or increase.
+
+ Write-off of acquired research and development projects in
+process of 3.6 million in 1994 was attributable to the
+acquisitions of Appligene and BDS.
+
+ Investment income decreased 50 to 0.5 million in 1996,
+compared to 1.0 million in 1995, which represented a 20 
+decrease from 1.3 million in 1994. The level of investment
+income is directly related to the level of investment funds which
+increased in early 1994 with the public offering of common stock
+and again in late 1995 with the private placements, in each case
+partially depleted thereafter by subsequent cash operating losses
+of the Company.
+
+ Interest and other expenses of 3.1 million, 0.5 million
+and 0.2 million in 1996, 1995 and 1994, respectively represents
+primarily interest expense which has become substantially more
+significant through (i) the issuance of convertible debentures in
+1996 and 1995 and (ii) the issuance and acquisition of fixed rate
+debt related to the businesses acquired in 1994. In 1996,
+interest and other expenses included a non-cash charge of 2.6
+million representing the value of the beneficial conversion
+feature in the conversion formula associated with certain of the
+convertible debenture issues made by the Company. Such charges
+will continue at a somewhat higher rate through the first two
+quarters of 1997. The net increase in interest and other
+expenses in 1996 was partially offset by the gain of 0.3 million
+on the sale of the Company's pharmaceutical imaging business
+unit.
+
+ Equity in net loss of affiliates was 4.4 million in 1996 as
+compared to 2.4 million and 3.1 million in 1995 and 1994,
+respectively. The Company's proportionate share of net losses
+attributable to Codon, included in this caption in 1996 but
+included in operating results in 1995 and 1994, was 2.4 million. 
+The remainder of the equity in net loss of affiliates was
+attributable to the Company's interest in the losses of its other
+unconsolidated affiliate, OncorMed. The decrease in 1995 was due
+to a reduction in the level of the Company's interest in OncorMed
+in late 1994.
+
+ As a result of the factors discussed above, net loss
+increased 59 to 29.0 million in 1996 compared to 18.2 million
+in 1995, which represented a decrease of 7 from 19.6 million in
+1994.
+
+ The Company does not believe that inflation has had a
+material effect on its results of operations during the last
+three years. 
+
+Liquidity and Capital Resources
+ 
+ The consolidated cash and liquid investments balances of the
+company were 18.9 million at December 31, 1996, compared to
+ 15.8 million at December 31, 1995. Approximately 8.0 million
+of the cash and liquid investments at December 31, 1996 is
+limited to fund operations of the Company's European subsidiary. 
+Liquid investments include restricted cash, cash equivalents and
+short-term investments as set forth on the consolidated balance
+sheet included elsewhere in this Annual Report. The Company
+invests its excess cash exclusively in publicly traded,
+investment grade, fixed income securities. 
+
+ The following table sets forth the most significant elements
+of the cash flows of the Company in 1996 (in millions of
+dollars):
+
+ Net cash used in operating activities (16.9)
+ Decrease in net investment in working capital 2.1
+ Proceeds from the sale of Common Stock and
+ issuance of convertible notes payable 22.1
+ Principal portion of debt repayments (2.7)
+ Purchase of equipment and leasehold 
+ improvements (0.6)
+ Proceeds from exercise of options and other (1.0)
+ -------
+ Net increase in cash and liquid investments 3.0
+ =======
+ 
+ The net cash used in operating activities is the result of
+the losses of the Company described in "Results of Operations"
+above in this management's discussion and analysis. The
+Company's operations in 1997 will require the further utilization
+of significant amounts of cash.
+
+ The proceeds of 22.1 million from the sales of Common Stock
+and issuance of convertible notes payable were from private
+placements of 13.0 million in August, September and December
+1996 and from sales of Common Stock of Appligene of 9.1 million
+in a public offering of its stock in July 1996. 
+
+The principal portion of debt service related largely to
+debt incurred in connection with acquisitions made in 1994 for
+which the final 0.6 million quarterly installment was made in
+the third quarter of 1996.
+
+ The increase in cash related to reductions in working
+capital was caused by the reduction of inventory and accounts
+receivable. Reductions in working capital are not expected to
+continue at such rates, if at all.
+
+ Purchases of equipment are for the on-going replacement of
+office and laboratory equipment; the Company expects such
+purchases to continue at this rate. Any substantial leasehold
+improvements which may be required in manufacturing facilities
+are expected to be funded by the Company's primary landlord in
+accordance with the Company's current lease agreements.
+
+ The Company leases most of its facilities under operating
+leases with aggregate annual obligations for 1997 of 0.8
+million. The Company has committed to expend 1.0 million in
+support of various research agreements in 1997.
+
+ The Company includes its proportionate share of the losses
+of OncorMed and Codon in its net losses. Losses relating to the
+activities of OncorMed and Codon contributed 2.2 million and
+ 2.4 million, respectively, to the net loss in 1996. Codon
+currently requires additional financing other than from the
+Company.
+
+ Restricted cash of 5.4 million includes 0.7 million which
+is contractually restricted for an indefinite period and 4.7
+million which became available as unrestricted cash equivalents
+early in 1997.
+
+ The Company has available approximately 81.1 million in
+U.S. income tax net operating loss carryforwards which will
+significantly reduce any income tax liability which otherwise
+would be due on profits, if any, earned in the future.
+
+ The Company has available for use in operations in North
+America, where most of its cash losses occur, (i) approximately
+ 10.2 million dollars at December 31, 1996, or becoming available
+shortly thereafter, (ii) an additional 2.0 million raised
+through issuance of convertible debentures in January 1997, and
+(iii) an irrevocable commitment from a lending source in the
+amount of 3.0 million expiring March 31, 1998. The Company also
+holds marketable securities in affiliated companies with a
+present market value of approximately 22.6 million dollars,
+though substantial contractual, regulatory and market
+restrictions exist with respect to the rate at which these
+investments could be liquidated and significantly fluctuating
+market prices make the ultimate future selling prices
+unpredictable. With respect to North America, the Company
+believes that it has sufficient sources of cash to fund
+operations through the remainder of 1997 but believes that it
+will need to raise funds or liquidate assets shortly thereafter. 
+The Company plans to raise needed additional financing through
+private equity placements and collaborative or other arrangements
+with corporate partners and others. There can be no assurance
+that the Company will be able to obtain additional financing when
+needed, if at all, or on terms acceptable to the Company. The
+Company currently has no commitments to receive additional
+financing. Any additional funding which it may raise in 1997 or
+1998 likely will be dilutive to the interests of the current
+shareholders. Since December 1995, the principal source of funds
+for North American operations has been through the issuance of
+convertible debt securities. There are terms in certain of the
+agreements underlying these transactions which would make it more
+difficult to consummate similar such transactions in the future. 
+There can be no assurance that the Company could access such
+funding or other funding sources in the future on commercially
+reasonable terms, if at all. 
+
+ At March 31, 1997 the Company has outstanding approximately
+ 10.4 million of convertible debentures which convert into Common
+Stock of the Company at prices which relate to the quoted trading
+prices of the stock in a period immediately preceding the dates
+of conversion. If the quoted trading price of the Company's
+stock declines to or below approximately 2.75 per share and no
+debentures had theretofore been converted, the Company would need
+to seek approval from its shareholders to issue the full number
+of shares required pursuant to any request to convert all of the
+debentures based upon such price. If the shareholders elected
+not to provide such approval, the Company would be obligated at
+the holders' demands to redeem in cash any remaining unconverted
+debentures at a premium to the principal balance of such
+debentures. It is unlikely that the Company's cash resources
+would be sufficient to both satisfy such redemption demands and
+continue to fund operating deficits.
+
+ With respect to Europe, the Company believes that its cash
+position of approximately 8.0 million is sufficient to fund
+operations beyond 1997.
+
+Subsequent Event
+
+ In January and February 1997, the holders of certain of the
+Company's convertible notes exercised their rights to convert
+ 2.8 million of principal amount of the notes of the Company. 
+Accordingly, the Company issued approximately 854,000 registered
+shares of Common Stock pursuant to this conversion.
+
+ITEM 8. CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY
+ DATA.
+
+Index to Consolidated Financial Statements
+ Pages
+
+Report of Independent Public Accountants . . . . . . . . . . . .F-1 
+
+Consolidated Financial Statements:
+
+ Consolidated Balance Sheets as of 
+ December 31, 1995 and 1996 . . . . . . . . . . . . . . .F-2 
+
+ Consolidated Statements of Operations
+ for the years ended December 31, 1994, 
+ 1995 and 1996. . . . . . . . . . . . . . . . . . . . . .F-3 
+
+ Consolidated Statements of Changes in 
+ Stockholders' Equity for the years 
+ ended December 31, 1994, 1995 and 1996 . . . . . . . . .F-4 
+
+ Consolidated Statements of Cash Flows
+ for the years ended December 31, 1994, 
+ 1995 and 1996. . . . . . . . . . . . . . . . . . . . . .F-5 
+
+Notes to Consolidated Financial Statements . . . . . . . . . . .F-6 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS ON ACCOUNTING AND
+ FINANCIAL DISCLOSURE.
+ 
+ None.
+
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+To Oncor, Inc.:
+
+We have audited the accompanying consolidated balance sheets of
+Oncor, Inc. (a Maryland corporation) and subsidiaries as of
+December 31, 1995 and 1996, and the related consolidated
+statements of operations, stockholders' equity and cash flows for
+each of the three years in the period ended December 31, 1996.
+These financial statements are the responsibility of the
+Company's management. Our responsibility is to express an
+opinion on these financial statements based on our audits. 
+
+We conducted our audits in accordance with generally accepted
+auditing standards. Those standards require that we plan and
+perform an audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement. An audit
+includes examining, on a test basis, evidence supporting the
+amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating
+the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for our opinion. 
+
+As discussed in Note 1 to the financial statements, the Company
+has incurred significant losses and will require additional
+capital prior to March 31, 1998 to continue operating, research
+and development and other activities necessary to commercialize
+its products. Management's plans in regard to these matters are
+described in Note 1.
+
+In our opinion, the financial statements referred to above
+present fairly, in all material respects, the financial position
+of Oncor, Inc. and subsidiaries as of December 31, 1995 and 1996,
+and the results of their operations and their cash flows for each
+of the three years in the period ended December 31, 1996, in
+conformity with generally accepted accounting principles.
+
+ARTHUR ANDERSEN LLP
+
+Washington, D.C.
+March 28, 1997
+
+ONCOR, INC.
+
+ CONSOLIDATED BALANCE SHEETS
+ 
+ As of December 31, ---------------------------
+ 1995 1996
+ ---- ---- 
+
+ ASSETS 
+CURRENT ASSETS:
+ Cash and cash equivalents (Note 2) 14,249,925 13,058,657
+ Short-term investments, at market 1,580,127 388,504
+ Restricted cash (Note 2) - 5,432,478
+ Accounts receivable, net of allowance
+ for doubtful accounts of approxi- 
+ mately 341,000 and 372,000 3,946,147 2,401,639
+ Receivable from Officer/Director 129,192 294,039
+ Inventories 6,356,041 3,839,630
+ Other current assets 1,584,838 863,060
+ ------------ ------------
+ Total current assets 27,846,270 26,278,007
+ ------------ ------------ 
+
+NON-CURRENT ASSETS:
+ Property and equipment, net 7,445,214 5,044,270
+ Deposits and other non-current assets 718,183 216,035
+ Investment in and advances to affiliates 832,809 3,213,548
+ Intangible assets, net 9,278,376 6,918,278
+ ------------ ------------
+ Total non-current assets 18,274,582 15,392,131
+ ------------ ------------
+
+ Total assets 46,120,852 41,670,138
+ ============ ============
+
+ LIABILITIES AND STOCKHOLDERS' EQUITY
+CURRENT LIABILITIES: 
+ Accounts payable 3,679,034 2,523,585
+ Accrued expenses and other current
+ liabilities 1,596,203 1,656,900
+ Short-term borrowings 227,839 - 
+ Current portion of long-term debt 2,302,156 719,337
+ ------------ -------------
+ Total current liabilities 7,805,232 4,899,822
+ ------------ -------------
+
+NON-CURRENT LIABILITIES:
+ Long-term debt 9,301,408 10,386,110
+ Deferred rent 18,223 -
+ ------------ -------------
+ Total non-current liabilities 9,319,631 10,386,110
+ ------------ -------------
+
+ Total liabilities 17,124,863 15,285,932 
+ ------------ ------------- 
+COMMITMENTS AND CONTINGENCIES (Note 8)
+
+MINORITY INTEREST IN CONSOLIDATED 
+ SUBSIDIARY 3,008,637 3,040,119
+ ------------ -------------
+
+STOCKHOLDERS' EQUITY:
+ Preferred stock, .01 par value, 1,000,000
+ shares authorized, no shares issued - -
+ Common stock, .01 par value,
+ 50,000,000 shares authorized,
+ 21,822,477 and 24,214,349 issued;
+ 21,743,068 and 24,134,940 outstanding 217,431 242,143
+ Common stock warrants outstanding - 781,250
+ Additional paid-in capital 98,233,612 125,327,438 
+ Deferred compensation - (641,270)
+ Unrealized gain on investments 556 (94)
+ Cumulative translation adjustment 412,787 (508,172)
+ Accumulated deficit (72,656,522) (101,636,696)
+ Less - 79,409 shares of common
+ stock held in treasury, at cost (220,512) (220,512)
+ ------------ -------------
+ Total stockholders' equity 25,987,352 23,344,087
+ ------------ -------------
+
+ Total liabilities and
+ stockholders' equity 46,120,852 41,670,138
+ ============ =============
+
+The accompanying notes are an integral part
+ of these consolidated financial statements.
+
+ONCOR, INC.
+ CONSOLIDATED STATEMENTS OF OPERATIONS
+
+Years Ended December 31, 
+ -------------------------------------------------
+ 1994 1995 1996 
+ ---- ---- ---- 
+ 
+GROSS REVENUES:
+ Product sales 12,424,840 16,192,836 15,323,167 
+ Contract and Grants 389,905 1,194,646 682,529 
+ ------------------------------------------------
+ Gross revenues 12,814,745 17,387,482 16,005,696
+ ------------------------------------------------
+
+OPERATING EXPENSES:
+ Direct cost of sales 7,253,984 8,279,445 9,656,332
+ Repositioning expense - - 2,075,000
+ Amortization of 
+ intangible assets 413,771 1,339,023 1,322,838
+ Selling, general and 
+ administrative 9,539,097 13,751,342 15,073,138
+ Research and development 7,957,775 8,169,625 7,275,565
+ Clinical and regulatory 1,651,411 2,252,505 2,545,791
+ Write off of acquired 
+ research & development
+ projects in process 3,574,120 - -
+ ------------------------------------------------
+ Total operating expenses 30,390,158 33,791,940 37,948,664
+ ------------------------------------------------
+
+LOSS FROM OPERATIONS (17,575,413) (16,404,458) (21,942,968)
+ ------------------------------------------------
+
+OTHER INCOME (EXPENSE):
+ Investment income 1,297,552 1,032,584 519,153
+ Interest and other 
+ expenses, net (179,946) (501,410) (3,125,344)
+ Equity in net loss of 
+ affiliates (3,120,928) (2,356,453) (4,431,015)
+ ------------------------------------------------
+ Net other expense (2,003,322) (1,825,279) (7,037,206)
+ ------------------------------------------------
+
+ Net loss 19,578,735) 18,229,737) 28,980,174)
+ ================================================ 
+
+NET LOSS PER SHARE 1.01) 0.87) 1.26)
+ ================================================
+
+WEIGHTED AVERAGE COMMON
+ SHARES OUTSTANDING 19,436,852 20,887,873 23,030,793
+ ================================================
+
+ The accompanying notes are an integral part 
+ of these consolidated financial statements.
+
+ONCOR, INC.
+
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+ for the years ended December 31, 1994, 1995, and 1996
+ (Part I)
+
+Common Unrealized
+ Common Stock Stock (Loss) 
+ ---------------------- Warrants Gain On Deferred 
+ Shares Amount Outstanding Investments Compensation 
+ --------------------------------------------------------------------
+ 
+BALANCE,
+December 31, 1993 15,878,333 158,783 5,380 - -
+
+ Sales of common 
+ stock 3,350,000 33,500 - - -
+
+ Conversion of 
+ common stock
+ warrants into
+ common stock 3,479 35 (5,380) - -
+
+ Exercise of stock
+ options 596,495 5,965 - - -
+
+ Issuances of 
+ common stock in
+ connection with
+ acquisitions 835,631 8,356 - - - 
+
+ Sales of common
+ stock of unconso-
+ lidated affiliate - - - - -
+
+ Purchase of 
+ treasury stock - - - - -
+
+Unrealized holding 
+ loss on investments - - - (1,948) - 
+
+ Cumulative translation
+ adjustment - - - - -
+
+ Net loss - - - - -
+ --------------------------------------------------------------------
+BALANCE,
+December 31, 1994 20,663,938 206,639 - (1,948) - 
+
+ Sales of common
+ stock 768,384 7,684 - - -
+
+ Exercise of unit
+ purchase options 118,315 1,183 - - -
+
+ Exercise of stock
+ options and
+ warrants 192,431 1,925 - - -
+
+ Net unrealized 
+ holding gain on
+ investments - - - 2,504 -
+
+ Cumulative translation
+ adjustment - - - - -
+
+ Net loss - - - - -
+ --------------------------------------------------------------------
+BALANCE,
+December 31, 1995 21,743,068 217,431 - 556 -
+
+ Sales of common 
+ stock of subsidiary - - - - -
+
+ Issuance of common
+ stock of unconsoli-
+ dated affiliates - - - - -
+
+ Issuance of common
+ stock and warrants
+ in connection with
+ convertible debt 2,163,242 21,632 781,250 - -
+
+ Exercise of stock
+ options 159,534 1,595 - - -
+
+ Issuance of common
+ stock in connection
+ with research and 
+ development agreements 148,505 1,485 - - -
+
+ Issuance of non-employee 
+ stock options - - - - (641,270) 
+
+ Cumulative translation
+ adjustment - - - - -
+
+ Net unrealized holding
+ gain on investments - - - (650)
+
+ Net loss - - - - -
+ --------------------------------------------------------------------
+BALANCE,
+December 31, 1996 24,214,349 242,143 781,250 (94) (641,270)
+ ====================================================================
+
+The accompanying notes are an integral part
+ of these consolidated financial statements.
+
+ONCOR, INC.
+
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+ for the years ended December 31, 1994, 1995, and 1996
+ (Part II)
+
+Cumulative Additional Treasury Stock 
+ Translation Paid-In Accumulated ------------------ 
+ Adjustment Capital Deficit Shares Amount Total 
+ --------------------------------------------------------------------
+ 
+BALANCE,
+December 31,
+ 1993 - 58,942,693 (34,848,050) 64,409 72,387) 24,186,419
+
+ Sales of
+ common 
+ stock - 25,035,161 - - - 25,068,661
+
+ Conversion 
+ of common stock
+ stock warrants
+ into common
+ stock - 21,405 - - - 16,060
+
+ Exercise of stock
+ stock
+ options - 1,066,807 - - - 1,072,772
+ 
+ Issuances of 
+ common stock 
+ in connection 
+ with
+ acquisi-
+ tions - 4,193,799 - - - 4,202,155
+
+ Sales of
+ common
+ stock of
+ unconsol-
+ lidated
+ subsidiary - 5,474,926 - - - 5,474,926
+
+ Purchase of 
+ treasury
+ stock - - - 15,000 (148,125) (148,125)
+
+ Unrealized holding 
+ loss on
+ investments - - - - - (1,948)
+
+ Cumulative 
+ translation 
+ adjustment (13,224) - - - - (13,224)
+ 
+ Net loss - - (19,578,735) - - (19,578,735) 
+
+BALANCE,
+December 31,
+ 1994 (13,224) 94,734,791 (54,426,785) 79,409 (220,512) 40,278,961
+
+ Sales of common
+ stock - 2,801,800 - - - 2,809,484
+
+ Exercise of
+ unit
+ purchase
+ options - 172,433 - - - 173,616
+
+Exercise of stock
+ options and 
+ warrants - 524,588 - - - 526,513
+
+ Net unrealized 
+ holding gain
+ on
+ invest-
+ ments - - - - - 2,504
+
+ Cumulative
+ translation
+ adjustment 426,011 - - - - 426,011
+
+ Net loss - - (18,229,737) - - (18,229,737)
+ ------------------------------------------------------------------
+BALANCE,
+December 31,
+ 1995 412,787 98,233,612 (72,656,522) 79,409 (220,512) 25,987,352
+
+ Sales of common 
+ stock of
+ subsidiary - 5,347,641 - - - 5,347,641
+
+ Issuance of common
+ stock of
+ unconsolidated
+ affiliates - 7,080,504 - - - 7,080,504
+
+ Issuance of common
+ stock and warrants
+ in connection
+ with convertible
+ deb - 12,802,185 - - - 13,605,067
+
+ Exercise of stock
+ options - 666,940 - - - 668,535
+
+ Issuance of common
+ stock in connection
+ with research
+ and development
+ agreements - 460,619 - - - 462,104
+
+ Issuance of
+ non-employee 
+ stock
+ options - 735,937 - - - 94,667 
+
+ Cumulative
+ translation
+ adjust-
+ ment (920,959) - - - - (920,959)
+
+ Net unrealized
+ holding
+ gain on
+ investments - - - - (650)
+
+ Net loss - - (28,980,174) - - (28,980,174)
+ --------------------------------------------------------------------
+BALANCE,
+December 31,
+ 1996 508,172) 125,327,438 101,636,696) 79,409 220,512) 23,344,087 
+ ====================================================================
+
+The accompanying notes are an integral part
+ of these consolidated financial statements.
+
+ONCOR, INC.
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+Years Ended December 31, 
+ -------------------------------------------
+ 1994 1995 1996
+ ---- ---- ----
+ 
+CASH FLOWS FROM OPERATING ACTIVITIES:
+ Net loss 19,578,735) 18,229,737) 28,980,174)
+ Adjustments to reconcile net loss to
+ net cash used in operating activities:
+ Write off of acquired research &
+ development 3,574,120 - -
+ Issuance of common stock for interest 
+ and imputed interest of convertible
+ notes - - 2,755,235
+ Issuance of common stock in 
+ connection with research and
+ development agreements - - 462,104
+ Depreciation and amortization 1,770,707 3,028,523 2,858,337
+ Gain on disposal of assets - - (269,978)
+ Non-cash product discontinuation - - 1,719,473
+ Equity in net loss of affiliate
+ and other 3,120,928 2,409,027 4,431,004
+ Expenses for non-employee
+ stock options - - 94,667 
+ Changes in operating assets
+ and liabilities: 
+ Accounts receivable (438,189) (172,618) 1,434,837
+ Inventories (534,842) (847,473) 1,468,239
+ Other current assets 316,843 (593,076) 269,912
+ Deposits and other non-current
+ assets (15,892) 25,176 1,776
+ Accounts payable 1,601,672 705,260 (937,002)
+ Accrued expenses and other
+ current liabilities (122,896) (59,360) (134,451)
+ Deferred rent (72,858) (72,858) (18,223)
+ Net cash used in operating -------------------------------------------
+ activities (10,379,142) (13,807,136) (14,844,244)
+ -------------------------------------------
+ 
+CASH FLOWS FROM INVESTING ACTIVITIES:
+ Purchases of property and equipment (1,285,315) (3,127,285) (630,594)
+ Disposals of property and equipment - - 393,194
+ Acquisitions of businesses (Note 3) (3,974,649) (194,420) -
+ Issuance of note receivable (715,751) - -
+ Currency protection in Appligene
+ agreement - - (44,423)
+ Purchase of stock in affiliate - - (300,000)
+ Unrealized loss on investments (1,948) 2,504 (9,890)
+ Purchases of investments (13,551,122) - -
+ Redemptions of investments 100,000 11,970,995 681,623
+ Net cash (used in) provided -------------------------------------------
+ by investing activities (19,428,785) 8,651,794 89,910
+ -------------------------------------------
+ 
+CASH FLOWS FROM FINANCING ACTIVITIES: 
+ Net proceeds from sale of common stock 25,068,661 2,809,484 -
+ Proceeds from sales of common stock
+ of subsidiary 225,000 3,034,503 9,099,364 
+ Offering costs of private placement - - (54,100)
+ Purchase of treasury stock (148,125) - -
+ Exercise of stock options and warrats 1,088,832 700,129 668,535
+ Deferred offering costs 342,440 - -
+ Change in restricted funds - - (5,432,478)
+ Payment on notes for acquisitions (1,149,842) (2,990,507) (1,764,636)
+ Payment on bank loans (473,498) (1,169,381) (884,919)
+ Proceeds from borrowings and issuance
+ of warrants - 7,366,482 13,207,410
+ Net cash provided by financing -------------------------------------------
+ activities 24,953,468 9,750,710 14,839,176 
+ -------------------------------------------
+ 
+EFFECT OF CHANGE IN EXCHANGE RATE -------------------------------------------
+ ON CASH (13,224) (95,354) (485,080)
+ -------------------------------------------
+
+ Net (decrease) increase in cash and 
+ cash equivalents (4,867,683) 4,500,014 (400,238)
+
+CASH AND CASH EQUIVALENTS, beginning of 
+ the period 14,617,594 9,749,911 13,458,895
+ -------------------------------------------
+CASH AND CASH EQUIVALENTS, end of the
+ period 9,749,911 14,249,925 13,058,657
+ =========================================== 
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW
+ INFORMATION:
+ Cash paid during the year for 
+ interest 165,626 389,842 251,892
+
+The accompanying notes are an integral part
+ of these consolidated financial statements.
+
+ONCOR, INC.
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ AS OF DECEMBER 31, 1996
+
+(1) ORGANIZATION, PRINCIPLES OF CONSOLIDATION AND CERTAIN
+ ELEMENTS OF RISK
+
+ Nature of Organization
+
+ Oncor, Inc. (together with its consolidated subsidiaries,
+hereinafter the "Company" or "Oncor") develops and markets
+gene-based test systems and related products for use in the
+management of cancer, including risk assessment, detection, 
+treatment selection and monitoring. Oncor is developing 
+additional gene-based test systems for the management of
+certain cancers including breast cancer, cervical cancer,
+bladder cancer, lung cancer and ovarian cancer. In addition
+to its gene-based test systems, the Company currently
+manufactures and markets over 200 genetic probes to specific
+human genes, with related reagents and instrumentation, 
+for research purposes. The Company also produces and
+markets molecular biology products. The Company
+currently sells its products to over 1,700 customers world-wide.
+
+ Principles of Consolidation
+
+ The consolidated financial statements include the accounts
+of Oncor, Inc. and all subsidiaries. All significant
+intercompany accounts and transactions have been eliminated in
+consolidation. The Company records investments in affiliates
+owned more than 20 , but not in excess of 50 , using the equity
+method.
+
+ Significant Risks and Uncertainties
+
+ Through December 31, 1996, the Company has incurred
+cumulative losses totaling approximately 102 million. 
+Operations of the Company are subject to certain risks and
+uncertainties including, among others, uncertainties relating to
+product development, significant operating losses, competition,
+technological uncertainty, reliance on patents and proprietary
+rights, dependence on key personnel, governmental regulations and
+legislation and the availability of additional capital.
+Consequently, there can be no assurance as to the level of future
+operations or as to their profitability. 
+
+ The Company has available for use in operations in North
+America, where most of its cash losses occur, (i) approximately
+ 10.2 million dollars at December 31, 1996, or becoming available
+shortly thereafter, (ii) an additional 2.0 million raised
+through issuance of convertible debentures in January 1997, and
+(iii) an irrevocable commitment from a lending source in the
+amount of 3.0 million expiring March 31, 1998. The Company also
+holds marketable securities in affiliated companies with a
+present market value of approximately 22.6 million dollars,
+though substantial contractual, regulatory and market
+restrictions exist with respect to the rate at which these
+investments could be liquidated and significantly fluctuating
+market prices make the ultimate future selling prices
+unpredictable. With respect to North America, the Company
+believes that it has sufficient sources of cash to fund
+operations through the remainder of 1997 but believes that it
+will need to raise funds or liquidate assets shortly thereafter. 
+The Company plans to raise needed additional financing through
+private equity placements and collaborative or other arrangements
+with corporate partners and others. There can be no assurance
+that the Company will be able to obtain additional financing when
+needed, if at all, or on terms acceptable to the Company. The
+Company currently has no commitments to receive additional
+financing. Any additional funding which it may raise in 1997 or
+1998 likely will be dilutive to the interests of the current
+shareholders. Since December 1995, the principal source of funds
+for North American operations has been through the issuance of
+convertible debt securities. There are terms in certain of the
+agreements underlying these transactions which would make it more
+difficult to consummate similar such transactions in the future. 
+There can be no assurance that the Company could access such
+funding or other funding sources in the future on commercially
+reasonable terms, if at all. 
+
+ At March 31, 1997 the Company has outstanding approximately
+ 10.4 million of convertible debentures which convert into Common
+Stock of the Company at prices which relate to the quoted trading
+prices of the stock in a period immediately preceding the dates
+of conversion. If the quoted trading price of the Company's
+stock declines to or below approximately 2.75 per share and no
+debentures had theretofore been converted, the Company would need
+to seek approval from its shareholders to issue the full number
+of shares required pursuant to any request to convert all of the
+debentures based upon such price. If the shareholders elected
+not to provide such approval, the Company would be obligated at
+the holders' demands to redeem in cash any remaining unconverted
+debentures at a premium to the principal balance of such
+debentures. It is unlikely that the Company's cash resources
+would be sufficient to both satisfy such redemption demands and
+continue to fund operating deficits at its current rate.
+
+ Concentrations of Credit Risk
+
+ The Company and its customers are directly affected by the
+well being of the health care industry world-wide (see Note 9). 
+Concentrations of credit risk with respect to receivables is
+generally limited due to the large number of customers in the
+Company's customer base. The Company maintains an allowance for
+doubtful accounts based upon its expectation of the proportion of
+its receivables it shall be able to collect. With respect to its
+investments, it is the policy of the Company to invest only in
+publicly traded, investment grade, fixed income securities with
+minimal exposure to foreign currency risk. The Company does not
+invest in derivative securities.
+
+(2) SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+ Management's Use of Estimates
+
+ The preparation of financial statements in conformity with
+generally accepted accounting principles requires management to
+make estimates and assumptions that affect the reported amounts
+of assets and liabilities at the date of the financial statements
+and the reported amounts of revenues and expenses during the
+reporting period. Reserves have been recorded for estimates of
+uncollectible accounts receivable and excess and obsolete
+inventory. Management also uses estimates to determine the
+estimated lives of its intangible and tangible assets. Actual
+results could differ from those estimates.
+ 
+ Fair Value of Financial Instruments
+
+ Cash, accounts receivable, accounts payable, accrued
+liabilities and short-term borrowings, as reflected in the
+financial statements, approximate fair value because of the
+short-term maturity of those instruments. The fair value of
+notes receivable does not materially differ from the carrying
+value. The fair value of the Company's long-term debt does not
+materially differ from fair value as the majority of the
+debentures were issued at year-end.
+
+ Impairment of Long-Lived Assets 
+
+ The Company complies with Statement of Financial Accounting
+Standards ("SFAS") No. 121, Accounting for the Impairment of
+Long-Lived Assets and for Long-Lived Assets to Be Disposed of. 
+The Company reviews its long-lived assets, including identifiable
+intangibles; goodwill; and property, plant and equipment, for
+impairment whenever events or changes in circumstances indicate
+that the carrying amount of the assets may not be fully
+recoverable. To determine recoverability of its long-lived
+assets, the Company evaluates the probability that future
+undiscounted net cash flows will be less than the carrying amount
+of the assets. Impairment is measured at fair value.
+
+ Cash Equivalents and Investments
+
+ Cash equivalents and investments at December 31, 1995 and
+1996, consist primarily of funds invested in money market
+instruments, commercial paper and U.S. government treasury bills. 
+Investments with maturities between three months and one year are
+classified as short-term investments. Investments in securities
+with original maturities of less than three months are considered
+cash equivalents. Restricted cash of 0.7 million held in a
+single money market fund was pledged until January 1997 as
+security to a bank which guaranteed the principal and interest of
+a note issued in an acquisition. Cash of 4.0 million was
+restricted until a registration statement filed with the
+Securities and Exchange Commission was declared effective, which
+declaration occurred on February 28, 1997. The remaining 0.7
+million in restricted cash is pledged as collateral for a loan of
+an officer and director for an indefinite period of time.
+
+ The Company accounts for investments in accordance with SFAS
+No. 115, Accounting for Certain Investments in Debt and Equity
+Securities. All investments are classified as available-for-sale
+securities and, accordingly, carried at fair market value. 
+Unrealized holding gains and losses are excluded from earnings
+and reported as a net amount in a separate component of
+shareholders' equity until realized. In computing gains and
+losses, costs are determined on the basis of specific
+identification. The gross realized gains and (losses) on
+available-for-sale securities totaled 52,511 and 107,993),
+respectively, for the year ended December 31, 1996.
+
+ Revenue Recognition
+
+ The Company generally recognizes revenue from product sales 
+when the related goods are shipped. Grant and contract revenues
+are recognized on a percentage-of-completion basis. 
+
+ Foreign Currency Translation
+
+ In September 1994, the Company acquired an operation in
+France (see Notes 3 and 8) for which the functional currency is
+the French franc ("FF"). Assets and liabilities for the
+operation have been translated into U.S. dollars using the
+exchange rate in effect on December 31, 1995 and 1996. Revenues
+and expenses have been translated using the average exchange rate
+during the periods presented. Cumulative translation gains and
+(losses) of 412,787 and 508,172) at December 31, 1995 and
+1996, respectively, have been excluded in determining the results
+of operations and have been accumulated as a separate component
+of equity.
+
+ Income Taxes
+
+ The Company files a consolidated U.S. federal income tax
+return for the parent and all U.S. subsidiaries in which its
+ownership exceeds 80 . The Company filed a consolidated income
+tax return in France for its French subsidiaries in 1995.
+
+ Effective in 1993, the Company adopted SFAS No. 109,
+Accounting for Income Taxes, retroactive to January 1, 1993. 
+
+ With respect to U.S. federal income tax, as of December 31,
+1996 the Company has net operating loss carry-forwards ("NOLs")
+of approximately 81.1 million available to offset future taxable
+income. The Company also has research and development tax
+credits of approximately 1.4 million available to reduce future
+U.S. federal income tax. The tax NOL and research and
+development tax credits may be used through 2010, but begin to
+expire in 1998. Despite the NOL and credit carry-forwards, the
+Company may have an income tax liability in future years due to
+the application of the alternative minimum tax rules. In
+addition, the utilization of these tax NOL and credit
+carry-forwards is subject to statutory limitations 
+regarding changes in ownership. With respect to its tax position
+in France, the tax provision and liability are not significant. 
+ 
+The French company had accumulated capital loss and tax loss
+carryforwards of approximately 9.6 million and 15.2 million
+French francs, respectively, at December 31, 1996.
+
+ SFAS No. 109 requires that the tax benefit of financial
+reporting NOLs and tax credits be recorded as an asset to the
+extent that management assesses the utilization of such NOLs and
+tax credits to be "more likely than not." As of December 31,
+1996, the Company's net deferred tax assets in the United States
+and France were approximately 34.2 million and 1.6 million,
+respectively. A valuation reserve was recorded against the
+entire amount of both net deferred tax assets, since the Company
+has incurred operating losses in the United States since
+inception and in France on a frequent basis. The net deferred
+tax assets are primarily attributable to net operating losses,
+capital losses and tax credits.
+
+ Research and Development Costs
+
+ Expenditures for research and development activities are
+charged to expense as incurred. 
+
+ Net Loss Per Share
+
+ Net loss per share is determined using the weighted-average
+number of shares of Common Stock outstanding during the years
+presented. The effects of options, warrants, and convertible
+notes payable to stockholders have not been considered, since the
+effects would be antidilutive. 
+
+(3) MERGER AND ACQUISITIONS
+
+ Acquisition of Imaging Systems Line of Business
+
+ In May 1994, Oncor acquired certain assets of Biological
+Detection Systems, Inc. and a subsidiary. The assets acquired 
+constitute substantially all of the assets, properties and rights
+relating to or used in the Apple Computer-based research
+instrument imaging systems and software business (collectively,
+the "Imaging Business") of the Sellers. The consideration paid
+for the Imaging Business was (i) cash payments of approximately
+ 1.4 million, (ii) a promissory note in a principal amount of
+ 1.2 million, (iii) 200,000 unregistered and previously unissued
+shares of the Company's Common Stock valued at 5.12 per share,
+and (iv) the assumption of certain less significant liabilities
+and obligations. The transaction was accounted for as a purchase
+and the purchase price has been allocated as shown in the table
+below:
+ 
+ Inventories 36,594
+ Other current assets 36,817
+ Property and equipment 115,820
+ Intangible assets 
+ (completed software) 1,061,980
+ Research & development 
+ projects in process 2,464,120
+ ----------- 
+ TOTAL 3,715,331
+ ===========
+
+The costs allocated to intangible assets acquired in the
+acquisition have been written off as of December 31, 1996. 
+Amounts allocated to research and development projects in process
+were charged to expense in the second quarter of 1994. The
+Company discontinued the development and sale of its imaging
+system product line in 1996.
+
+ Acquisition of Appligene S.A.
+
+ In September 1994, Oncor acquired 98.5 of the outstanding
+capital stock of Appligene S.A., a French societe anonyme,
+("Appligene"). Appligene is a developer, manufacturer and
+marketer of molecular genetic products and is based in
+Strasbourg, France. The consideration paid was (i) cash payments
+in French francs of FF 12,810,000 (approximately 2.3 million)
+(ii) convertible promissory notes with an aggregate principal
+amount of FF 23,655,000 (approximately 4.4 million) and (iii)
+635,631 unregistered and previously unissued shares of the
+Company's Common Stock, 0.01 par value, valued at approximately
+ 3.2 million. The transaction was accounted for as a purchase
+and the allocation of the purchase price is set forth in the
+table below:
+
+Cash 261,317
+ Accounts receivable 1,197,989
+ Inventories 1,156,564
+ Other current assets 469,898 
+ Property and equipment 371,255
+ Other assets 69,192
+ Intangible assets 9,747,515
+ Research & development 
+ projects in process 1,110,000
+ Accounts payable and accrued
+ expenses (1,387,083)
+ Notes payable (1,631,151)
+ Long-term debt (731,357)
+ ------------
+ TOTAL 10,634,139 
+ ============
+
+ The costs allocated to intangible assets acquired in the
+acquisition are being amortized on a straight line method over
+periods of 5 to 10 years, with a weighted average amortization
+period of 8 years. Intangible assets include the estimated
+values of employment contracts, patents and licenses, and
+goodwill. The costs allocated to research and development
+projects in process were charged to expense in the third quarter
+of 1994.
+
+ Pro Forma Results of Acquired Entities
+
+ The results of operations of Appligene and the Imaging
+Business have been included in the Company's consolidated results
+of operations from the respective dates of acquisition. 
+Unaudited pro forma results of operations for the Company,
+assuming both of the acquisitions described above occurred on
+January 1, 1994 are as follows: 
+
+(Unaudited) 
+ Year End December 31, 
+ --------------------------
+
+ 1994 
+ ----
+ 
+ Revenues 16,137,612 
+ Net loss (20,073,747) 
+ Net loss per share 1.01) 
+
+ Such pro forma information is not intended to represent
+either the actual results which may have been achieved if the
+acquisitions occurred on that date or future results which may be
+achieved.
+
+(4) REPOSITIONING EXPENSE
+
+ In 1966, the Company adopted a repositioning plan to
+discontinue the development, manufacture, sale and support of
+certain imaging, research, and non-diagnostic genetics products. 
+Recorded repositioning costs of 2,075,000 comprise the charge-off of
+discontinued products, charge-off of goodwill associated
+with such products, and severance payments to employees
+terminated in conjunction with the plan.
+
+(5) TRANSACTIONS INVOLVING AFFILIATED COMPANIES
+
+ OncorMed, Inc.
+ 
+ In 1994, the Company and OncorMed entered into a license
+agreement pursuant to which OncorMed has a worldwide license to
+those of Oncor's existing and future human genome technologies
+which are useful for the purposes of development and
+commercialization of OncorMed's services. This agreement is
+subject to rights retained by the Company to use the licensed
+technologies for development and commercialization of Oncor's
+products, which may then be sold to OncorMed and to third
+parties. Under this agreement, OncorMed is obligated to pay
+royalties semi-annually equal to the greater of 6 of OncorMed's
+related revenues or 100,000. In February 1997, the terms of the
+license agreement were amended on a prospective basis to, among
+other things, broaden the basis of the payments to be made to
+Oncor, reduce the payment rates and adjust the minimum payment
+schedule.
+
+ From the period of inception of OncorMed until June 6, 1994,
+the Company advanced funds to OncorMed, the balance of which was
+converted to a term note due in June 1999 in the principal amount
+of 715,751 which bears interest at the rate of 7 per year. The
+note is recorded as a note receivable from unconsolidated
+affiliate and included in investments and advances to affiliates
+in the consolidated balance sheet at December 31, 1995 and 1996. 
+Included in other current assets at December 31, 1995 and 1996,
+are balances of 137,909 and 109,854, respectively, due from
+OncorMed, a majority of which represents royalties receivable
+under the license agreement.
+
+ In October 1994, OncorMed completed an initial public
+offering of 1,335,000 shares of its common stock at 6.00 per
+share. In November 1994, the Underwriter exercised the
+over-allotment option to purchase an additional 200,250 shares at
+ 6.00 per share. The effect of this transaction was to reduce
+the Company's ownership interest in OncorMed from 83 to
+approximately 40 . As the Company's voting interest was
+thereafter less than 50 , the Company accounts for its investment
+in OncorMed using the equity method of accounting. The financial
+statements for the year ended December 31, 1994 have been
+retroactively adjusted to record the results of OncorMed pursuant
+to the equity method of accounting. Thereafter, the Company only
+reflects in its financial statements its proportionate share of
+the earnings or losses of OncorMed. The restatement had no
+impact on the Company's net loss or net loss per share. OncorMed
+realized net cash proceeds of approximately 6.3 million from the
+sale of its shares, after underwriting discounts and commissions
+and expenses of the public offering. The initial public offering
+resulted in an increase of approximately 5.5 million in the
+Company's proportionate share of OncorMed equity, which has been
+recorded as an increase in the Company's investment in OncorMed
+and in its additional paid-in-capital. In February 1996,
+OncorMed completed a public offering of 2,000,000 shares of its
+common stock at 7.75 per share. The effect of this transaction
+was to reduce the Company's ownership interest in OncorMed to
+approximately 29 . The public offering resulted in an increase
+of approximately 4.0 million in the Company's proportionate
+share of OncorMed's equity which has been recorded as an increase
+to the Company's investment in OncorMed and in its paid-in-capital.
+ 
+ Summarized financial information of OncorMed is as follows:
+
+ 1994 1995 1996
+ ---- ---- ----
+
+Condensed Statement of 
+Income
+ Net Sales 34,303 311,387 627,390 
+ Operating Loss (4,098,171) (6,686,134) (7,915,717) 
+ Net Loss (3,981,373) (6,510,547) (7,455,973) 
+
+Condensed Balance Sheet
+ Current Assets 7,459,421 931,122 7,934,124 
+ Non-current Assets 912,762 1,520,752 1,179,851 
+
+ Current liabilities 801,708 1,331,806 1,444,762 
+ Non-current liabilities 730,449 726,261 719,334 
+ Shareholders' equity 6,840,026 393,807 6,949,879 
+
+At December 31, 1995 and 1996, the quoted market value of
+the Company's investment in OncorMed, based on a closing
+quotation of 6.00 and 4.8125 per share, was approximately 12
+million and 9.6 million, respectively; however, OncorMed is in
+the development stage, its stock price is highly volatile, and
+its trading volume is very low. OncorMed has issued warrants to
+the Underwriter to purchase 133,500 shares, exercisable for a
+period of three years commencing two years from the date of the
+offering at 6.90 per share. OncorMed also has adopted a stock
+option plan covering 2,250,000 common shares and has outstanding
+approximately 1,540,000 options at December 31, 1996. If all
+such outstanding warrants and options were exercised, the
+Company's ownership interest in OncorMed would be reduced to
+approximately 23 .
+
+ Codon Pharmaceuticals, Inc.
+
+ In June 1994, the Company formed and incorporated Codon
+Pharmaceuticals, Inc. ("Codon"), formerly known as OncorPharm,
+Inc., to develop and commercialize the therapeutic application of
+Oncor's technologies in the field of genetic repair. Oncor
+contributed 1.0 million in exchange for 2,000,000 shares of
+Codon common stock. During the remainder of 1994, Oncor advanced
+funds aggregating approximately 0.6 million to Codon to augment
+its working capital. Codon performed research services for Oncor
+for which Codon received revenues and reduced its obligations
+pursuant to the advances. In December 1994, the balance of the
+advances was converted into a note which is convertible into the
+common stock of Codon at a rate of 2.00 principal amount for
+each share of common stock. This note was converted into 316,251
+shares of common stock in 1995. 
+ 
+ In December 1994, Codon issued an aggregate of 450,000
+shares of common stock to certain members of its board of
+directors at .50 per share. In February through May 1995, Codon
+issued an aggregate of 140,000 shares of common stock at .50 per
+share and in April 1995, completed a private placement of
+1,500,000 shares of convertible preferred stock at 2.00 per
+share. On April 2, 1996, Codon completed a private placement of
+1,012,667 of its preferred shares of stock at 3.00 per share. 
+The Company purchased 100,000 shares in this second private
+placement. In October 1996, Codon issued 50,000 additional
+preferred shares in connection with a Series B Stock Dividend. 
+The effect of this transaction was to reduce the Company's
+ownership interest in Codon to approximately 42 . As the
+Company's voting interest is now less than 50 , the Company has
+accounted for its investment in Codon using the equity method of
+accounting. The financial statements of the Company for the
+three months ended March 31, 1996 have been retroactively
+adjusted to record the results of Codon pursuant to the equity
+method of accounting from January 1, 1996. Accordingly, the
+Company has reflected in the consolidated financial statements
+presented for all periods in 1996 only its proportionate share of
+the earnings or losses of Codon. The restatement had no impact
+on the Company's consolidated net loss or net loss per share. 
+Included in other current assets at December 31, 1996 is a
+balance of approximately 0.1 million due from Codon. 
+
+ Codon also has adopted a stock option plan covering
+1,400,000 common shares and has granted approximately 1,362,500
+options through December 31, 1996. If all such outstanding
+options were exercised, the Company's ownership interest in Codon
+would be reduced to approximately 34 .
+
+ Codon is presently seeking additional funding from other
+sources to continue its research efforts. Thus far, such efforts
+have not been successful and there can be no assurance that such
+funding will be available or that Codon will be successful in
+developing or commercializing any therapies or products. If
+Codon ceases operations, the Company will be required to write
+off its investment in the affiliate, included in Investments in
+and Advances to Affiliates in an amount of 0.7 million at
+December 31, 1996.
+
+Summarized financial information of Codon for the period
+following deconsolidation is as follows:
+
+1996 
+ ----
+
+Condensed Statement of Income
+ Net Sales -0- 
+ Operating Loss (4,033,733) 
+ Net Loss (4,222,904) 
+
+Condensed Balance Sheet
+ Current Assets 448,255 
+ Non-current Assets 1,434,677 
+
+ Current liabilities 392,604 
+ Non-current liabilities 123,037 
+ Shareholders' equity 1,367,291 
+
+Appligene, Inc.
+
+ In July 1996, Appligene Oncor S.A. ("Appligene"), the
+European subsidiary of the Company, completed an initial public
+offering of newly issued common shares for approximately 9.1
+million. As a result of this transaction, the Company's equity
+interest in Appligene was reduced to approximately 80 .
+
+ In connection with this offering, Appligene entered into an
+agreement with the underwriter and market maker to share in the
+gains and losses in after-market stabilization activities. The
+parties are currently negotiating amendments to the agreement
+with the objective of significantly reducing Appligene's
+potential exposure. However, there can be no assurance that such
+an amendment will be successfully negotiated or, if so, that such
+amendment would reduce Appligene's potential exposure in any
+material respect. The Company has recorded as a cost of the
+offering 0.5 million for a portion of the trading losses
+incurred by the underwriter to date.
+
+(6) RESEARCH, DEVELOPMENT AND LICENSING AGREEMENTS
+ 
+ Agreements with Dr. Albert de la Chapelle 
+
+ In January 1994, the Company and Dr. Albert de la Chapelle,
+a senior research scientist, entered into two agreements: a
+License Agreement and a Sponsored Research Agreement. Pursuant
+to the License Agreement, the Company has paid Dr. de la Chapelle
+an initial License fee of 125,000 and is obligated to pay a
+royalty of 6 of net sales on products that are covered by a
+claim of one of the licensed patents, subject to a minimum
+quarterly royalty payment of 6,250 which is effective from the
+date of the License Agreement. Pursuant to the Research
+Agreement, which expired at the end of 1996, the Company funded
+Dr. de la Chapelle's further research by paying a designee of Dr.
+de la Chapelle 150,000 per year.
+
+ Johns Hopkins Collaborative Research Agreement 
+
+ In October 1992, the Company entered into a joint
+Collaborative Research Agreement for the discovery and
+commercialization of new genetic technologies for the detection
+of cancer with The Johns Hopkins University School of Medicine
+("Johns Hopkins"). The agreement called for the Company to pay
+ 1.2 million over the three-year agreement period, which was
+charged to research and development expense over the agreement
+period. As additional consideration, the Company issued 60,000
+shares of its Common Stock, which was valued at 0.3 million and
+recorded as research and development expense during 1992. In 
+December 1995, this agreement was extended for an additional
+three years, pursuant to which the Company is to pay 1.5 million
+over this period.
+
+(7) STOCKHOLDERS' EQUITY
+ 
+ Preferred Stock
+
+ The Company is authorized to issue up to 1,000,000 shares of
+Preferred Stock (par value of .01 per share). No shares of
+Preferred Stock have ever been issued. The rights of any 
+Preferred Stock ultimately issued will be determined by the Board
+of Directors upon issuance. 
+
+ Common Stock and Warrants
+
+ On December 30, 1996, the Company completed a private
+placement of 6 five-year unsecured notes convertible into shares
+of Common Stock of the Company and warrants to purchase an
+aggregate of 200,000 shares of the Company's Common Stock. The
+Company received total proceeds of approximately 8.0 million of
+which 375,000 was allocated to the warrants, 2.0 million to
+paid-in-capital, and the remainder to the notes. Issuance costs
+were not significant. In January 1997, the amount of the
+debentures issued was increased to 10.0 million. The notes are
+immediately convertible at the option of the holder and will be
+automatically converted upon maturity. The notes are convertible
+at the lesser of 5.00 per share or prices which reduce from
+100.0 to 80.0 of the market value of the Common Stock at the
+time of conversion over a period of approximately five months.
+
+ On September 30, 1996, the Company completed a private
+placement of 6 three-year unsecured notes convertible into
+shares of Common Stock of the Company and warrants to purchase an
+aggregate of 250,000 shares of the Company's Common Stock. The
+Company received total proceeds of 5.0 million of which 406,250
+was allocated to the warrants, 1.2 million to paid-in-capital,
+and the remainder to the notes. Issuance costs were not
+significant. The notes are immediately convertible at the option
+of the holder and will be automatically converted upon maturity. 
+The notes are convertible at prices which reduce from 100.0 to
+80.0 of the market value of the Common Stock at the time of
+conversion over a period of approximately five months.
+
+In December 1995, the Company completed a private placement
+of 768,384 shares of its Common Stock and issued convertible 4.5 
+unsecured notes payable of 7,000,000. Total proceeds, net of
+issuance costs were approximately 9,300,000. As of 
+December 31, 1996, all these notes had been converted.
+
+ In February 1994, the Company completed a public offering of
+3,350,000 shares of its Common Stock at a price of 8.125 per
+share. Total proceeds, net of issuance costs, were approximately
+ 25.1 million.
+
+ The Company records as interest expense the difference
+between the conversion price and the quoted price of the stock
+issuable upon conversion of convertible debentures. This imputed
+interest is accreted on a straight line basis, over the holding
+periods of the debentures. The interest expense recorded in 1996
+is approximately 2.6 million.
+
+ In January, February and September of 1996, and in February
+of 1997, the Company filed registration statements on Form S-3
+with the Securities and Exchange Commission covering the sale of
+up to approximately 4,194,930, 260,580, 4,631,495 and 4,907,645
+shares, respectively, of Common Stock held by third party
+shareholders or issuable under certain contractual conditions,
+including shares issuable on exercise of certain options and the
+conversion of certain notes payable. Generally, the registration
+statements will remain effective for up to three to five years. 
+
+ Stock Options
+ 
+ The Company maintains a Stock Option Plan which was approved
+by the Board of Directors in March 1992 (the "1992 Stock Option
+Plan"), which incorporated the Company's former Incentive Stock
+Option Plan, Non-Qualified Stock Option Plan and Non-Qualified
+Stock Option Plan for Non-Employee Directors.
+
+ The aggregate number of shares available for issuance under
+the 1992 Stock Option Plan may not exceed 5,015,604 shares of
+Common Stock, subject to adjustment from time to time in the
+event of certain changes to the Company's capital structure. 
+
+ The Company accounts for this plan under APB Opinion No. 25,
+under which no compensation cost has been recognized. Had
+compensation cost for these plans been determined consistent with
+FASB Statement No. 123, the Company's net income and earnings per
+share would have been reduced to the following pro forma amounts:
+
+1995 1996
+
+Net Loss: As Reported 18,229,737) 28,980,174) 
+
+ Pro Forma (18,664,502) (30,544,795) 
+
+Net Loss Per Share: As Reported 0.87) 1.26) 
+
+ Pro Forma 0.89) 1.33) 
+
+Because the Statement 123 method of accounting has not been
+applied to options granted prior to January 1, 1995, the
+resulting pro forma compensation cost may not be representative
+of that to be expected in future years.
+
+ The fair market value of each option grant is estimated
+using the Black-Scholes option pricing model with the following
+assumptions used for grants in 1995 and 1996: risk-free interest
+rates of 4 percent; expected lives of 5.9 years for the options;
+and expected volatility of 55.8 percent.
+ 
+ Transactions relating to the Company's stock option plans
+are as follows:
+
+1992 Stock Option Plan Special Stock Options
+ -------------------------- --------------------------
+ Number of Weighted Avg. Number of Weighted Avg.
+ Shares Ex. Price Shares Ex. Price
+
+Balance, December 31, 1993 2,564,075 4.8325 970,353 2.1174 
+
+ Granted 186,240 5.9798 - - 
+ 
+ Exercised (262,754) 3.4727 (333,739) 1.0600 
+
+ Canceled (222,259) 5.2684 (86,763) 1.9800 
+ ----------- ---------- ---------- ----------
+
+Balance, December 31, 1994 2,265,302 5.0418 549,851 2.7206 
+
+ Granted 1,403,000 4.6600 15,000 4.0000 
+
+ Exercised (93,668) 4.0900 (98,763) 1.7400 
+
+ Canceled (165,264) 4.8600 (61,737) 3.9200 
+ ----------- ---------- ---------- ----------
+
+Balance, December 31, 1995 3,409,370 4.9200 404,351 2.8854 
+
+ Granted 1,181,333 4.7600 - - 
+
+ Exercised (158,751) 4.2000 (522) 2.4600 
+
+ Canceled (883,967) 5.0000 (3,829) 2.3800 
+ ----------- ---------- ---------- ----------
+
+Balance, December 31, 1996 3,547,985 4.8600 400,000 2.8906 
+ =========== ========== ========== ==========
+
+Options exercisable at
+ December 31, 1996(1) 1,788,480 4.9115 
+ =========== ==========
+Options not exercisable at
+ December 31, 1996(2) 1,759,505 4.8150 
+ =========== ==========
+ 
+__________________
+ 
+(1) Range of price for exercisable options: 1.0625 - 7.75
+(2) Range of price for non-exercisable options: 3.875 - 6.875
+
+Summary of reserved shares
+
+ As of December 31, 1996, the Company has reserved the following
+shares of Common Stock for future use as follows: 
+
+Unit purchase options. . . . . . . . . . . 118,346
+ 1992 stock option plan . . . . . . . . . . 3,547,985
+ Special stock options. . . . . . . . . . . 400,000
+ Conversion of debentures and warrants 
+ issued to common stockholders. . . . . . 3,039,803
+ ---------
+ 7,106,134
+ =========
+
+(8) COMMITMENTS AND CONTINGENCIES
+
+ The Company has royalty arrangements with certain
+consultants and institutions that call for royalty payments based
+upon a percentage of product sales developed under the royalty
+agreements. Royalty expense for the years ended December 31, 
+1994, 1995 and 1996 was approximately 320,000, 215,000 and
+ 270,000, respectively. In addition, the Company has entered
+into certain research support agreements (see Note 6). Annual
+minimum royalty and research support payments, as of December 31,
+1996, are as follows:
+
+For the Year
+ Ending
+ December 31, Amount
+ ------------- ------------ 
+
+1997 . . . . . . 1,049,224 
+ 1998 . . . . . . 872,224 
+ 1999 . . . . . . 130,100 
+ 2000 . . . . . . 127,600 
+ 2001 . . . . . . 127,600 
+ Thereafter . . . 127,600 
+ -----------
+ TOTAL 2,434,348 
+ ===========
+
+The Company leases office space and laboratory facilities
+under operating lease agreements which expire in periods from
+1997 to 2004. Lessor concessions with respect to space buildout
+and rental abatement, result in a deferred rent credit at
+December 31, 1996 of 18,214. Rental expense for the years ended
+December 31, 1994, 1995 and 1996 was approximately 755,000,
+ 717,000 and 795,000, respectively. Minimum lease payments
+under these lease agreements, excluding operating expense pass-throughs, as of
+December 31, 1996, are as follows: 
+
+For the Year
+ Ending
+ December 31, Amount
+ ------------- ------------ 
+
+1997 . . . . . . 812,703 
+ 1998 . . . . . . 831,349 
+ 1999 . . . . . . 856,294 
+ 2000 . . . . . . 881,977 
+ 2001 . . . . . . 908,437 
+ Thereafter . . . 2,145,811 
+ -----------
+ TOTAL 6,436,571 
+ ===========
+
+In February 1995, the Company entered into a lease which was
+accounted for as a capital lease with a net present value of
+future obligations of approximately 1.2 million.
+ 
+ The Company has guaranteed a loan of an officer/director for
+up to 960,000. The loan is due upon demand and collateralized
+by the Company's stock owned by the officer. The 700,000 of
+Company funds pledged as a guarantee for the loan are maintained
+in a separate account with the lender and are included in
+restricted cash in the accompanying consolidated balance sheet. 
+From time to time, the lender may make partial calls on the loan
+due to fluctuations in the market value of the stock of the
+Company collateralizing the loan. In the event the officer is
+unable to repay amounts necessary to satisfy these calls or in
+any other way defaults on the loan, the lender may liquidate
+portions of the collateral or immediately sell shares of stock
+collateralizing the loan or withdraw funds from the Company's
+account. At December 31, 1996, there was a 415,000 call on the
+loan. In the event the officer cannot satisfy the call, these
+funds may be withdrawn from the Company's account. As of
+December 31, 1996, the collateral on the loan had a value of 1.8
+million. In the event of a withdrawal from the Company's
+account, the Company succeeds to the rights to the collateral.
+
+ The Company has made advances to or paid expenses on behalf
+of the same officer/director in an amount outstanding at December
+31, 1996 of 294,039 and at December 31, 1995 of 129,192.
+
+ The University of California and its licensee, Vysis, Inc.
+filed suit against Oncor in 1995 for patent infringement. In
+January 1997, a summary judgment hearing was held but there has
+been no decision on the motion. A failure to successfully defend
+against or settle this motion may result in damages being
+assessed against the Company and an injunction against the sale
+of some of the Company's probe and genetic test kits.
+
+(9) SEGMENT AND SIGNIFICANT CUSTOMER INFORMATION
+
+ The Company operates in one dominant business segment,
+biomedical research products, with research, development,
+manufacturing and marketing in the United States and Europe. The
+operations in Europe were acquired through the acquisition of
+Appligene in September 1994 (see Note 3). 
+
+ Product sales relating to each geographic region are as
+follows:
+
+Years Ended December 31,
+
+ 1994 1995 1996 
+
+United States . . . . . 7,383,313 7,167,415 6,644,041
+ Europe. . . . . . . . . 4,332,899 7,707,198 7,018,994
+ Japan . . . . . . . . . 507,290 580,514 964,762
+ Other . . . . . . . . . 201,338 737,709 695,370
+ ------------ ------------ ------------
+ 12,424,840 16,192,836 15,323,167
+ ============ ============ ============
+
+Revenues, largely in Europe, attributable to the Company's
+operations in France from the date of acquisition of Appligene to
+December 31, 1994 and for the year ended December 31, 1995 and
+1996 were approximately 2.1 million, 7.3 million and 7.1
+million, respectively, and net loss for the same periods were
+ 319,978, 883,046 and 2,795,102, respectively. The Company's
+identifiable assets in France at December 31, 1994, 1995 and 1996 
+were carried at approximately 10.4 million, 9.2 million and
+ 9.8 million, respectively, largely comprising goodwill.
+
+ Product sales of the Company's imaging systems to
+pharmaceutical and industrial companies were approximately, 1.2
+million, 0.2 million and 4,000 for the years ended December 31,
+1994, 1995 and 1996, respectively. In 1996, the pharmaceutical
+imaging business unit was sold for aggregate proceeds of 377,000
+and a net gain of 270,000 which is included in interest and
+other expenses in the accompanying income statement.
+
+(10) RETIREMENT PLAN
+
+ In 1991, the Company adopted a defined contribution savings
+plan (the "Plan") in accordance with Section 401(k) of the
+Internal Revenue Code. The Plan covers all permanent employees
+who have attained the age of 21. Under the Plan, the Company may
+make discretionary contributions. The Company made no
+discretionary contributions to date.
+
+(11) LINE OF CREDIT
+
+ In March 1997, the Company obtained from a syndicate of
+financial institutions a working capital line of credit in the
+aggregate principal amount of 3.0 million. The line of credit
+commitment expires and any borrowings under the line of credit
+become due on March 31, 1998. In connection with this facility,
+the Company granted the syndicate 300,000 warrants each
+convertible into one share of common stock of the Company at
+ 3.875 per share. The stated rate of interest paid on any
+borrowings under the facility is prime + 2 . The Company had not
+borrowed under the facility as of March 31, 1997.
+
+(12) LONG-TERM DEBT
+
+ Long-term debt at December 31, 1996 consists of the
+following obligations:
+
+1995 1996
+ ---- ----
+
+Convertible notes issued by the 
+Company in connectionwith the private 
+placement, bearing interest at a rate of
+4.5 per year, payable quarterly, due in 1998. 7,000,000 - 
+ 
+Convertible notes issued by the Company in
+connection with private placements, bearing
+interest at a rate of 6 per year, payable
+semi-annually, due in 1999 and 2001. - 8,851,589 
+
+Notes issued by the Company in connection with
+an acquisition, payable in eight equal quarterly
+installments, beginning December 31, 1994,
+denominated in French francs, bearing interest
+at a rate of 5.5 per year,guaranteed by a bank
+and convertible into Common Stock of the Company
+at a rate of one share for approximately 11.30
+principal value of notes converted. 1,810,332 - 
+
+Obligation under capital lease bearing interest
+at 5.62 (collateralized by building) with final
+maturity in 2010. 1,235,504 1,075,070 
+
+Notes payable to a French government funding 
+agency, issued by a subsidiary, denominated 
+in French francs, without stated interest, due
+in 1998. 623,786 477,235 
+
+Various other notes payable to banks, primarily 
+secured by the assets of a subsidiary. 933,942 701,553 
+ ------------ ------------ 
+ 
+ Total long-term debt
+ 11,603,564 11,105,447 
+
+ Less current maturities 2,302,156 719,337 
+ ------------ ------------
+
+ Non-current portion 9,301,408 10,386,110 
+ ============ ============
+
+The conversion price of the convertible notes payable at
+December 31, 1996 is 100 to 80.0 of the average market price
+for the Common Stock for the five consecutive trading days ending
+one trading day prior to the date of the conversion notice and,
+with respect to 6.0 million of such notes, the conversion price
+is the lower of the aforementioned or 5.00 per share; the 
+conversion of the notes are also subject to certain additional
+restrictions.
+
+ The aggregate maturities of long-term debt at December 31,
+1996, are as follows:
+
+1997 719,337
+ 1998 330,923
+ 1999 3,491,497
+ 2000 223,167 
+ 2001 5,836,187
+ Thereafter 504,336
+ ----------- 
+ TOTAL 11,105,447
+ ===========
+
+(13) ACCOUNTING FOR THE ISSUANCE OF CONVERTIBLE DEBENTURES
+
+ The unaudited financial position and results of operations
+for the unaudited quarters ending March 31, 1996, June 30, 1996,
+and September 30, 1996 have been restated to give effect to the
+accounting treatment announced in March 1997 by the staff of the
+Securities and Exchange Commission (SEC) at a meeting of the
+Emerging Issues Task Force relevant to certain of the Company's
+convertible debentures having "beneficial conversion" features.
+
+ In December 1995, August 1996 and December 1996, the Company
+issued convertible debentures in private placements in exchange
+for cash of 7.0 million, 5.0 million and 8.0 million,
+respectively. In each such issuance, the holders of the
+debentures had "beneficial conversion" rights to convert the
+debentures into common shares of the Company at established
+discounts to the quoted trading price of the shares in a period
+immediately preceding the dates of conversions.
+
+ Under the recently announced accounting treatment, the value
+of the fixed discount, ranging from 15 -20 of the respective
+issuance's face value for of the Company's issuances, has been
+reflected in the restated unaudited quarters as additional
+interest expense in an aggregate amount of 2.6 million. Such
+additional fixed discount has been accreted for the period from
+date of issuance through the conversion dates of the respective
+issuances.
+
+As originally reported:
+ (Unaudited)
+ QUARTERS IN 1996
+ ---------------------------------------------
+
+ 1st 2nd 3rd 
+ --- --- ---
+
+ Interest and other
+ expense, net. . . . . . (151,695) (80,932) 88,267 
+ Net loss. . . . . . . . . (6,090,337) (7,727,314) (5,378,704) 
+ Net loss per share. . . . (0.28) (0.34) (0.23) 
+
+As restated: 
+ (Unaudited)
+ QUARTERS IN 1996
+ ---------------------------------------------
+
+ 1st 2nd 3rd 
+ --- --- ---
+
+Interest and other
+ expense, net. . . . . . (660,695) (795,932) (822,733) 
+ Net loss. . . . . . . . . (6,599,337) (8,442,314) (6,289,704) 
+ Net loss per share. . . . (0.30) (0.37) (0.27) 
+
+The restatements did not affect cash flows of the Company,
+working capital, or loss from operations.
+
+(14) SUPPLEMENTARY FINANCIAL STATEMENT INFORMATION
+
+ Inventories
+
+ Inventories consist of genetic probes, hybridization systems
+and reagents in various manufactured states. They are stated at
+lower of cost (first-in, first-out) or market. 
+
+ Inventories consist of the following: 
+
+As of December 31,
+ ----------------------------
+ 1995 1996 
+ ---- ----
+
+ Raw materials . . . . . . . . . . . 2,488,974 1,595,485 
+ Work in process . . . . . . . . . . 1,808,956 1,043,611 
+ Finished goods. . . . . . . . . . . 2,058,111 1,200,534 
+ ---------- ----------
+ 6,356,041 3,839,630 
+ ========== ==========
+
+Property and Equipment
+
+ Property and equipment are stated at cost. Depreciation and
+amortization are calculated on a straight-line basis over the
+estimated useful lives of the assets. The building is
+depreciated over fifteen years. Laboratory equipment is
+depreciated over seven years. Office equipment, furniture and
+fixtures are depreciated over seven and three years,
+respectively. Leasehold improvements are amortized over the
+lesser of their estimated useful lives or the applicable lease
+term. 
+
+Property and equipment consist of the following:
+ 
+ As of December 31,
+ ----------------------------
+ 1995 1996 
+ ---- ----
+ 
+ Building . . . . . . . . . . . . . 1,235,504 1,155,338 
+ Laboratory equipment . . . . . . . 4,631,090 3,713,500 
+ Office equipment, furniture and 
+ fixtures . . . . . . . . . . . . 5,190,596 5,011,235 
+ Leasehold improvements . . . . . . 1,455,072 1,015,180 
+ ------------ ------------
+ 12,512,262 10,895,253 
+ Less -- Accumulated depreciation
+ and amortization . . . . . . . . (5,067,048) (5,850,983)
+ ------------ ------------
+ Net property and equipment . . . . 7,445,214 5,044,270 
+ ============ ============
+
+Accrued Expenses and Other Current Liabilities
+
+ Accrued expenses and other current liabilities consist of
+the following: 
+
+As of December 31,
+ ----------------------------
+ 1995 1996 
+ ---- ----
+
+ Employee benefits. . . . . . . . . 621,234 512,063
+ Accrued royalties. . . . . . . . . 105,832 125,025
+ Deferred rent, current portion . . 72,858 18,214
+ Unbilled professional fees . . . . 192,403 280,000
+ Deferred revenue . . . . . . . . . 267,947 73,933
+ Sales taxes. . . . . . . . . . . . 85,462 4,099
+ Liability to the market maker in
+ subsidiary stock (Note 4). . . . - 500,000
+ Other. . . . . . . . . . . . . . . 250,467 143,566
+ ----------- -----------
+ 1,596,203 1,656,900
+ =========== ===========
+
+ Deposits and Other Non-Current Assets
+ 
+ Deposits and other non-current assets as of December 31,
+1995 consist primarily of debt issuance costs of 537,869. The
+costs related to the issuance of debt are capitalized and
+amortized to interest expense using the effective interest method
+over the lives of the related debt.
+
+ Investments in Debt Securities at December 31, 1996
+
+ The aggregate fair value of investments in debt securities
+as of December 31, 1996 was 397,353, which was commercial paper. 
+Gross unrealized holding gains and losses and the difference
+between amortized cost basis and aggregate fair value as of
+December 31, 1996 are not material.
+
+ Supplemental Schedule of Non-cash Investing and 
+ Financing Activities 
+
+ Transactions relating to the issuance of shares of its
+Common Stock by the Company in connection with conversion of
+convertible debt during 1996 are as follows:
+
+DATE SHARES ISSUED VALUE
+ ------------- ------------- --------------
+ 
+ December 472,638 1,475,000 
+
+ November 39,346 125,000 
+
+ August 260,209 950,000 
+
+ April 834,894 3,950,000 
+
+ March 498,081 2,100,000 
+ ------------- --------------
+ 2,105,168 8,600,000 
+ ============= ==============
+
+In February 1995, the Company entered into a 1.2
+million capital lease of a building. In May 1994, the Company
+issued a note payable of 1.2 million and 200,000 shares of the
+Company's Common Stock with a value of 1.02 million as partial
+consideration for the acquisition of the Apple Computer based
+imaging line of business (Note 3). In September 1994, the
+Company issued a note payable of 4.5 million and 635,631 shares
+of the Company's Common Stock with a value of 3.1 million as
+partial consideration for the acquisition of Appligene.
+
+PART III
+
+For information concerning Item 10, Directors and Executive
+Officers of the Registrant, Item 11, Executive Compensation, 
+Item 12, Security Ownership of Certain Beneficial Owners and
+Management and Item 13, Certain Relationships and Related
+Transactions, see the definitive proxy statement of Oncor, Inc.,
+relative to the Annual Meeting of Shareholders to be held in 
+July 1997, to be filed with the Securities and Exchange
+Commission, which information is incorporated herein by
+reference.
+
+PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON
+ FORM 8-K
+
+(a) Documents Filed as a Part of this Form 10-K:
+
+ 1. Financial Statements. The following consolidated
+ financial statements of Oncor, Inc. and report of
+ independent public accountants relating thereto
+ are filed with this Report.
+
+ Report of Independent Public Accountants on
+ Financial Statements
+
+ Balance Sheets
+
+ Statements of Operations
+
+ Statements of Stockholders' Equity
+
+ Statements of Cash Flows
+
+ Notes to Financial Statements
+ 
+ 2. Financial Statement Schedules. The following
+ consolidated financial statement schedules of
+ Oncor, Inc. are filed with this Report.
+
+ Report of Independent Public Accountants on
+ Schedule
+ 
+ Schedule II - Valuation and Qualifying Accounts
+ Information
+ 
+ (No other financial schedules are required.) 
+ 
+ 3. Exhibits.
+
+ 3 Articles of Incorporation and By-Laws 
+
+ 3.1 Articles of Amendment filed with Department
+ of Assessments and Taxation of the State of
+ Maryland on August 6, 1992 to Fourth Amended
+ and Restated Articles of Incorporation of
+ Oncor, Inc. (Filed as Exhibit 3.1 to the
+ Registrant's Annual Report on Form 10-K for
+ the fiscal year ended December 31, 1994 and
+ incorporated herein by reference.)
+
+ 3.2 By-Laws of Oncor, Inc., as amended and
+ restated on November 6, 1990. (Filed as
+ Exhibit 3.2 to the Registrant's Annual Report
+ on Form 10-K for the fiscal year ended
+ December 31, 1990 and incorporated herein by
+ reference.)
+
+ 4 Instruments defining the rights of security-holders, 
+ including indentures.
+
+ 4.1 Specimen certificate for shares of the
+ Registrant's Common Stock. (Filed as Exhibit
+ 4.1 to the Registrant's Registration
+ Statement No. 33-44520 and incorporated
+ herein by reference.)
+
+ 4.22 Provisions of the Articles of Incorporation
+ and By-Laws defining rights of holders of
+ Common Stock of the Registrant. (Filed as
+ Exhibit 3.1 to the Registrant's Annual Report
+ on Form 10-K for the fiscal year ended
+ December 31, 1993 and as Exhibit 3.2 to the
+ Registrant's Annual Report on Form 10-K for
+ the fiscal year ended December 31, 1990,
+ respectively, and incorporated herein by
+ reference.)
+
+ 10 Material Contracts.
+
+ 10.1 HPV Diagnostics Agreement of September 1988
+ with Medscand AB. (Filed as Exhibit 19.1 to
+ the Registrant's Quarterly Report on Form 10-Q
+ for the quarter ended September 30, 1988
+ and incorporated herein by reference.)
+
+ 10.2 Unit Purchase Option dated May 25, 1989
+ between Oncor, Inc. and D.H. Blair & Co.,
+ Inc., along with a schedule of nearly
+ identical unit purchase options issued to
+ other parties. (Filed as Exhibit 10.33 to
+ the Registrant's Annual Report on Form 10-K
+ for the fiscal year ended December 31, 1989
+ and incorporated herein by reference.)
+ 
+ 10.3 Stock Option Agreement dated October 18, 1989
+ between Oncor, Inc. and Taylor & Turner, L.P. 
+ (Filed as Exhibit 10.41 to the Registrant's
+ Annual Report on Form 10-K for the fiscal
+ year ended December 31, 1989 and incorporated
+ herein by reference.)
+
+ 10.4 Stock Option Agreement dated October 18, 1989
+ between Oncor, Inc. and Rotan Mosle
+ Technology Partners Ltd. (Filed as Exhibit
+ 10.41 to the Registrant's Annual Report on
+ Form 10-K for the fiscal year ended 
+ December 31, 1989 and incorporated herein by
+ reference.)
+
+ 10.5 Stock Option Agreement dated October 18, 1989
+ between Oncor, Inc. and Charles Atwood
+ Company. (Filed as Exhibit 10.42 to the
+ Registrant's Annual Report on Form 10-K for
+ the fiscal year ended December 31, 1989 and
+ incorporated herein by reference.)
+
+ 10.6 Stock Option Agreement dated October 18, 1989
+ between Oncor, Inc. and Stanton-Barnes
+ Company. (Filed as Exhibit 10.43 to the
+ Registrant's Annual Report on Form 10-K for
+ the fiscal year ended December 31, 1989 and
+ incorporated herein by reference.)
+
+ 10.7 Stock Option Agreement dated February 8, 1990
+ between Oncor, Inc. and John Pappajohn. 
+ (Filed as Exhibit 19.4 to the Registrant's
+ Quarterly Report on Form 10-Q for the fiscal
+ quarter ended March 31, 1990 and incorporated
+ herein by reference.)
+
+ 10.8 Lease dated March 22, 1990 between Oncor,
+ Inc. and Avenel Executive Park Phase II, Inc. 
+ (Filed as Exhibit 19.6 to the Registrant's
+ Quarterly Report on Form 10-Q for the fiscal
+ quarter ended March 31, 1990 and incorporated
+ herein by reference.)
+
+ 10.10 Stock Option Agreement dated November 20,
+ 1990 between Oncor, Inc. and John Pappajohn. 
+ (Filed as Exhibit 10.52 to the Registrant's
+ Annual Report on Form 10-K for the fiscal
+ year ended December 31, 1990 and incorporated
+ herein by reference.)
+
+ 10.13 Lease dated June 28, 1991 between Oncor, Inc.
+ and Avenel Associates Limited Partnership. 
+ (Filed as Exhibit 10.14 to the Registrant's
+ Annual Report on Form 10-K for the fiscal
+ year ended December 31, 1992 and incorporated
+ herein by reference.)
+
+10.14 Distribution Agreement dated November 28,
+ 1991 between Oncor, Inc. and Medical Systems. 
+ (Filed as Exhibit 10.15 to the Registrant's
+ Annual Report on Form 10-K for the fiscal
+ year ended December 31, 1992 and incorporated
+ herein by reference.)
+
+ 10.15 Lease dated March 22, 1990 between Oncor,
+ Inc. and Avenel Executive Park Phase II,
+ Inc., as amended on February 25, 1991 and
+ June 21, 1991. (Filed as Exhibit 10.15 to
+ the Registrant's Annual Report on Form 10-K
+ for the fiscal year ended December 31, 1994
+ and incorporated herein by reference.)
+
+ 10.16 First Amendment to the Lease dated 
+ June 28, 1991 between Oncor, Inc. and Avenel
+ Executive Park Phase II, Inc. (Filed as
+ Exhibit 10.16 to the Registrant's Annual
+ Report on Form 10-K for the fiscal year ended
+ December 31, 1994 and incorporated herein by
+ reference.)
+
+ 23 Consent of Independent Public Accountants to
+ incorporation of reports in Company's Annual
+ Report on Form 10-K for fiscal year 1996 into
+ the Company's previously filed S-3
+ Registration Statements, File Nos. 333-85 and
+ 333-735, 333-11997, and 333-20425, and into
+ the Company's previously filed S-8
+ Registration Statement, File No. 33-81021.
+
+ 27.1 Financial Data Schedule.
+
+ (b) Reports on Form 8-K.
+
+ None. 
+ SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this Report to
+be signed on its behalf by the undersigned, thereunto duly
+authorized.
+
+ ONCOR, INC. 
+
+Date: March 31, 1997 By 
+ Stephen Turner
+ Chairman of the Board and
+ Chief Executive Officer
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf
+of the Registrant and in the capacities and on the dates indicated.
+
+Date Signature Title
+
+March 31, 1997 Chairman of the 
+ Stephen Turner Board of Directors,
+ Chief Executive
+ Officer (Principal
+ Executive Officer)
+
+March 31, 1997 President, Chief
+ Cecil Kost Operating Officer
+ and Director
+
+March 31, 1997 Vice President, 
+ John L. Coker Secretary and
+ Treasurer 
+ (Principal Financial
+ Officer)
+
+March 31, 1997 Director
+ Timothy J. Triche
+
+March 31, 1997 Director
+ Philip S. Schein
+
+March 31, 1997 Director
+ William H. Taylor II
+
+March 31, 1997 Director
+ Glenn W. Bartlett
+
+March 31, 1997 Director
+ Derace L. Schaffer
+
+March 31, 1997 Director
+ Jose J. Coronas
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this Report to
+be signed on its behalf by the undersigned, thereunto duly
+authorized.
+
+ ONCOR, INC. 
+
+Date: March 31, 1997 By /s/ Stephen Turner 
+ Stephen Turner
+ Chairman of the Board and
+ Chief Executive Officer
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf
+of the Registrant and in the capacities and on the dates indicated.
+
+Date Signature Title
+
+March 31, 1997 /s/ Stephen Turner Chairman of the 
+ Stephen Turner Board of Directors,
+ Chief Executive
+ Officer (Principal
+ Executive Officer)
+
+March 31, 1997 /s/ Cecil Kost President, Chief
+ Operating Officer
+ and Director 
+
+March 31, 1997 /s/ John L. Coker Vice President, 
+ John L. Coker Secretary and
+ Treasurer 
+ (Principal Financial
+ Officer)
+
+March 31, 1997 /s/ Timothy J. Triche Director
+ Timothy J. Triche
+
+March 31, 1997 /s/ Philip S. Schein Director
+ Philip S. Schein
+
+March 31, 1997 /s/ William H. Taylor II Director
+ William H. Taylor II
+
+March 31, 1997 /s/ Glenn W. Bartlett Director
+ Glenn W. Bartlett
+
+March 31, 1997 /s/ Derace L. Schaffer Director
+ Derace L. Schaffer
+
+March 31, 1997 /s/ Jose J. Coronas Director
+ Jose J. Coronas 
+
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS ON SCHEDULES
+
+To Oncor, Inc.:
+
+We have audited, in accordance with generally accepted auditing
+standards, the consolidated financial statements of Oncor, Inc., and
+subsidiaries included in this Form 10-K and have issued our report
+thereon dated March 28, 1997. Our audits were made for the
+purpose of forming an opinion on the basic financial statements taken
+as a whole. The schedule listed in the index is the responsibility
+of the Company's management and is presented for purposes of
+complying with the Securities and Exchange Commission's rules and is
+not part of the basic financial statements. This schedule has been
+subjected to the auditing procedures applied in the audits of the
+basic financial statements and, in our opinion, fairly states in all
+material respects the financial data required to be set forth therein
+in relation to the basic financial statements taken as a whole.
+
+ARTHUR ANDERSEN LLP
+
+Washington, D.C.,
+March 28, 1997
+
+ONCOR, INC.
+
+ SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+
+Additions
+ Balance at charged to Additions Balance
+ beginning expenses due to at end of 
+ of period (recoveries) Acquisitions Write-offs period
+ ---------- ------------ ------------- ----------- ---------
+
+December 31, 1994
+- -----------------
+ 
+Allowance for 
+ doubtful accounts 176,080 (57,399) 68,304 (13,634) 173,351
+
+December 31, 1995
+- -----------------
+
+Allowance for 
+ doubtful accounts 173,351 200,295 - (32,764) 340,882
+
+December 31, 1996
+- -----------------
+
+Allowance for
+ doubtful accounts 340,882 73,408 - (42,306) 371,984
+
+EXHIBIT 23
+
+CONSENT OF INDEPENDENT PUBLIC ACCOUNTS
+
+As independent public accountants, we hereby consent to the
+incorporation of our reports included in this Form 10-K, into the Company's
+previously filed S-3 Registration Statement File Nos. 333-85, 333-735,
+333-11997 and 333-20425, and into S-8 Registration Statement
+File No. 33-81021.
+
+ARTHUR ANDERSEN LLP
+
+Washington, D.C.
+March 28, 1997
+
+<EX-27>
+ 2
+
+5
+
+12-MOS
+ DEC-31-1996
+ DEC-31-1996
+ 13058657
+ 0
+ 2773623
+ (371984)
+ 3839630
+ 26278007
+ 10895253
+ (5850983)
+ 41670138
+ 4899822
+ 0
+ 0
+ 0
+ 242143
+ 23101944
+ 41670138
+ 15323167
+ 16005696
+ 9656332
+ 37948664
+ (7037206)
+ 0
+ 3275502
+ (28980174)
+ 0
+ (28980174)
+ 0
+ 0
+ 0
+ (28980174)
+ (1.26)
+ (1.26)
+
+</EX-27>
+

@@ -1,0 +1,3185 @@
+<Header>
+<FileStats>
+    <FileName>20080331_10-K_edgar_data_1337826_0001193805-08-000983.txt</FileName>
+    <GrossFileSize>5414483</GrossFileSize>
+    <NetFileSize>148345</NetFileSize>
+    <NonText_DocumentType_Chars>5232914</NonText_DocumentType_Chars>
+    <HTML_Chars>5304</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001193805-08-000983.hdr.sgml : 20080331
+<ACCEPTANCE-DATETIME>20080331170658
+ACCESSION NUMBER:		0001193805-08-000983
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		33
+CONFORMED PERIOD OF REPORT:	20071231
+FILED AS OF DATE:		20080331
+DATE AS OF CHANGE:		20080331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHINA ORGANIC AGRICULTURE, INC.
+		CENTRAL INDEX KEY:			0001337826
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRICAL WORK [1731]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-52430
+		FILM NUMBER:		08725857
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ERMAPAO GREEN RICE LIMITED
+		STREET 2:		EAST PING FENG XIANG ZHENG FU,  QIAN GUO
+		CITY:			SONGYUAN CITY, JILIN PROVINCE
+		STATE:			F4
+		ZIP:			131108
+		BUSINESS PHONE:		310-441-1888
+
+	MAIL ADDRESS:	
+		STREET 1:		ERMAPAO GREEN RICE LIMITED
+		STREET 2:		EAST PING FENG XIANG ZHENG FU,  QIAN GUO
+		CITY:			SONGYUAN CITY, JILIN PROVINCE
+		STATE:			F4
+		ZIP:			131108
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INDUSTRIAL ELECTRIC SERVICES INC
+		DATE OF NAME CHANGE:	20050902
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ OoAT15Fo2wWPcIMUBWcjmPs8YSWbfC9Qe5qcRjuyopacQhveblWnypUnq9eInYlw
+ i1ryfGECf28CIV+veeYmGQ==
+
+ 0001193805-08-000983.txt : 20080331
+
+10-K
+ 1
+ e603590_10k-cnoa.txt
+
+UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ Washington, D.C. 20549
+
+ FORM 10-K
+
+(Mark One)
+
+|X| ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+OF 1934
+
+For the fiscal year ended December 31, 2007
+
+ or
+
+|_| TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934
+
+For the transition period from ________________ to ___________________________
+
+ Commission file number 333-129355
+
+ China Organic Agriculture, Inc.
+ (Exact name of registrant as specified in its charter)
+
+ Florida 20-3505071
+ State or other jurisdiction of (I.R.S. Employer
+ incorporation or organization Identification No.)
+
+ Jilin Province Songyuan City ErMaPao Green Rice Limited
+ East Ping Feng Xiang Zheng Fu, Qian Guo District
+ SongyuanCity, Jilin Province, P.R. China 131108
+ (Address of principal executive offices) (Zip Code)
+
+ (310) 441-9777
+ Registrant's telephone number, including area code
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ Title of each class Name of each exchange on which registered
+ None
+
+Securities registered pursuant to section 12(g) of the Act:
+
+ Title of each class Name of each exchange on which registered
+ None
+
+ The Company filed a Registration Statement on Form 10 to register its
+Common Stock, 0.001 par value per share under Section 12(g) of the Act. That
+Registration Statement has not yet become effective.
+
+ (Title of class)
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as
+defined in Rule 405 of the Securities Act. Yes |_| No |X|
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. Yes |_| No |X|
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes |_| No |X|
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K (ss. 229.405 of this chapter) is not contained herein, and
+will not be contained, to the best of registrant's knowledge, in definitive
+proxy or information statements incorporated by reference in Part III of this
+Form 10-K or any amendment to this Form 10-K |_|
+
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, a non-accelerated filer, or a smaller reporting company. See
+definitions of "large accelerated filer," "accelerated filer," and "smaller
+reporting company" in Rule 12b-2 of the Exchange Act. (Check one):
+
+Large accelerated filer |_| Accelerated filer |_|
+Non-accelerated filer |_| (Do not check if a smaller reporting company)
+ Smaller reporting company |X|
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Act). Yes [ ] No |X|
+
+State the aggregate market value of the voting and non-voting common equity held
+by non-affiliates computed by reference to the price at which the common equity
+was last sold, or the average bid and asked price of such common equity, as of
+the last business day of the registrant's most recently completed second fiscal
+quarter. As of June 30, 2007, the aggregate market value of the common stock of
+the registrant held by non-affiliates (excluding shares held by directors,
+officers and others holding more than 5 of the outstanding shares of the class)
+was 12,480,000 based upon a closing sale price on June 26, 2007 of 1.04 as
+reported by Bloomberg Finance and approximately 12,000,000 shares held by
+non-affiliates.
+
+APPLICABLE ONLY TO REGISTRANTS INVOLVED IN BANKRUPTCY PROCEEDINGS DURING THE
+PRECEDING FIVE YEARS: Indicate by check mark whether the registrant has filed
+all documents and reports required to be filed by Section 12, 13 or 15 of the
+Securities Exchange Act of 1934 subsequent to the distribution of securities
+under a plan confirmed by a court. Yes |_| No |_|
+
+(APPLICABLE ONLY TO CORPORATE REGISTRANTS) Indicate the number of shares
+outstanding of each of the registrant's classes of common stock, as of the
+latest practicable date. As of March 28, 2008, the registrant had outstanding
+51,548,776 shares of common stock.
+
+DOCUMENTS INCORPORATED BY REFERENCE List hereunder the following documents if
+incorporated by reference and the Part of the Form 10-K (e.g., Part I, Part II,
+etc.) into which the document is incorporated: (1) Any annual report to security
+holders; (2) Any proxy or information statement; and (3) Any report filed
+pursuant to Rule 424(b) or (c) under the Securities Act of 1933.
+
+ 2
+
+Table of Contents
+
+PART I
+Item 1. Business ................................................................ 4
+Item 1A. Risk Factors ............................................................ 9
+Item 2. Properties .............................................................. 16
+Item 3. Legal Proceedings ....................................................... 17
+Item 4. Submission of Matters to a Vote of Security Holders ..................... 17
+PART II
+Item 5. Market for Registrant's Common Equity, Related Stockholder
+ Matters and Issuer Purchases of Equity Securities ....................... 17
+Item 6. Selected Financial and Other Data ....................................... 18
+Item 7. Management's Discussion and Analysis of Financial
+ Condition and Results of Operations ..................................... 18
+Item 8. Financial Statements and Supplementary Data ............................. 21
+Item 9. Changes in and Disagreements With Accountants on
+ Accounting and Financial Disclosure ..................................... 21
+Item 9A Controls and Procedures ................................................. 22
+Item 9B Other Information ....................................................... 22
+PART III
+Item 10 Directors, Executive Officers and Corporate Governance
+Item 11 Executive Compensation .................................................. 22
+Item 12 Security Ownership of Certain Beneficial Owners and
+ Management and Related Stockholder Matters .............................. 23
+Item 13 Certain Relationships and Related Transactions, and
+ Director Independence ................................................... 26
+Item 14 Principal Accounting Fees and Services .................................. 26
+PART IV
+Item 15 Exhibits and Financial Statement Schedules .............................. 27
+Signatures ................................................................................ 30
+
+Special Note Regarding Forward Looking Information
+
+This report contains forward-looking statements that reflect management's
+current views and expectations with respect to our business, strategies, future
+results and events, and financial performance. All statements made in this
+report other than statements of historical fact, including statements that
+address operating performance, events or developments that management expects or
+anticipates will or may occur in the future, including statements related to
+future reserves, cash flows, revenues, profitability, adequacy of funds from
+operations, statements expressing general optimism about future operating
+results and non-historical information, are forward-looking statements. In
+particular, the words "believe," "expect," "intend," "anticipate," "estimate,"
+"plan," "may," "will," variations of such words and similar expressions identify
+forward-looking statements, but are not the exclusive means of identifying such
+statements and their absence does not mean that the statement is not
+forward-looking. Readers should not place undue reliance on forward-looking
+statements which are based on management's current expectations and projections
+
+3
+
+about future events, are not guarantees of future performance, and are subject
+to risks, uncertainties and assumptions. Our actual results, performance or
+achievements could differ materially from the results expressed in, or implied
+by, these forward-looking statements. Factors that could cause or contribute to
+such differences include those discussed in this report, particularly under the
+caption "Risk Factors." Except as required under the federal securities laws, we
+do not undertake any obligation to update the forward-looking statements in this
+report.
+
+ Special Note Regarding Filing Status
+
+The Company filed a Registration Statement on Form 10 with the Securities and
+Exchange Commission ("SEC") on February 13, 2008, to register its Common Stock,
+ 0.001 par value per share, under the Securities Exchange Act of 1934, as
+amended (the "1934 Act"). This Registration Statement has not yet been declared
+effective by the SEC and the Company received a comment letter from the Staff of
+the SEC with respect to a number of issues, including the disclosure contained
+in the Registration Statement, filings the Company had previously made with the
+SEC and the eligibility of the Company's securities for trading on the
+over-the-counter bulletin board.
+
+It is the Company's desire to continue to have its securities trade in the
+United States public markets and, in that connection, to become an entity
+required to file reports pursuant to the Securities Exchange Act of 1934. The
+Company intends to respond to the comments raised by the Staff in its comment
+letter referred to above and, to the extent necessary, to amend or supplement
+reports previously filed with the SEC. Pending the resolution of all questions
+raised by the Staff, the Company believes it is important to provide its
+shareholders with the information contained herein.
+
+The disclosure contained herein reflects, in part, the comments raised by the
+Staff of the SEC in its comment letter in response to the Company's Form 10. If
+it becomes necessary to do so, the Company will file an amendment to this Report
+to further modify the disclosures contained herein to more fully reflect the
+comments of the Staff.
+
+ PART I
+Item 1. Business.
+
+Introduction
+
+We, through our main subsidiary, are engaged in the business of rice production,
+processing and distribution. To date, our product has been sold only within the
+People's Republic of China. As used in this report, the terms "we," "our,"
+"Company" and "China Organic" refer to China Organic Agriculture, Inc. and its
+wholly-owned subsidiaries, and the terms "ton" and "tons" refers to metric tons,
+in each case, unless otherwise stated or the context requires otherwise.
+
+The Company's functional currency is the Renminbi, which had an average exchange
+rate of 0.12557 and 0.13167 during fiscal years 2006 and 2007 respectively.
+
+Our Corporate History
+
+In March 2007, the Company, then known as Industrial Electric Services, Inc.
+("IESI"), acquired through a reverse merger all of the shares of China Organic
+Agriculture Limited ("COA"). COA is a holding company formed under the laws of
+the British Virgin Islands that owns all of the issued and outstanding stock of
+Jilin Songyuan City ErMaPao Green Rice Limited ("ErMaPao"). ErMaPao is an
+operating company organized under the laws of China in May, 2002. Prior to the
+consummation of the acquisition, the Company, formed on August 5, 2005 to
+acquire all the interests of Industrial Electric Services, LLC, was an inactive
+corporation with no significant assets and liabilities. In May 2007 we changed
+our name to China Organic Agriculture, Inc.
+
+4
+
+The acquisition by the Company of COA and ErMaPao was accounted for as a reverse
+acquisition. Consequently, the financial statements included herein for dates
+and periods prior to the consummation of the acquisition reflect the historical
+financial condition, results of operations and cash flows of COA and ErMaPao and
+thus the financials do not reflect the activities of IESI that occurred prior to
+the reverse merger.
+
+Operations
+
+ErMaPao operates in Songyuan City of Jilin Province. Since its formation,
+ErMaPao has been dedicated to the production of "green" and "organic" rice. In
+2003, we were presented with the "Brand Name" award at the Changchun China
+Agriculture Exposition. In 2004 we were awarded the gold medal at the 2004
+Beijing International Agriculture Exposition. In 2004 ErMaPao received the ISO
+9001:2000 international quality control management system certification.
+Certification of a business as ISO 9001:2000 compliant provides that business's
+customers and business partners with the assurance that it adheres to a set of
+internationally recognized quality control standards, and thus, is more likely
+to be able to meet expectations of quality, customer service, delivery and, as
+necessary, remeditation measures within such relationships.
+
+In June of 2006, Jilin Province granted ErMaPao the rights to use the "ErMaPao"
+trademark. We have been granted land use rights extending to at least 2032 by
+the Chinese Government over approximately 1,600 acres of land, upon which we
+engage local farmers to farm rice. In concert with our own production, we have
+engaged in mutually beneficial, collaborative contracts with family units who
+supply us with rice grown on the approximately 4,660 acres to which they, in the
+aggregate, have been granted land use rights. We are able to establish standards
+regarding the quality of the product produced, and to ensure that our high
+standards of quality are maintained. We supply the family units with seed, tools
+and training. Throughout the growth cycle, the family units are provided access
+to agronomists who advise them on the avoidance of common cultivation problems
+and on the maximization of yield.
+
+A "family unit" may be defined as one or more persons within a familial group
+who are capable of working a given plot of land. As family units vary in size,
+the amount of acreage allotted to them by the Chinese government varies. The
+plots allotted to the family units with whom we contract are sized from five to
+fifteen acres. We also obtain rice grown by third parties through market
+channels. We have contracted with several grain depots to increase our supplies
+of new rice, and hence our sales capacity. The depots acquire grain wholesale on
+the open market which meets our certification standards, and we repurchase the
+grain from them at fixed prices pursuant to our agreements with them.
+
+In 2007, approximately 15 of our revenue came from sales of organic rice, and
+85 of our revenues were the result of sales of green rice.
+
+To be certified as "green" rice, rice and the methods by which it is produced
+must adhere to certain standards. Specifically:
+
+To be certified "A" grade green rice: the production quality of the environment
+must comport with certain basic green food production environment quality
+standards established by the Administration of Agricultural Quality,
+Supervision, Inspection and Quarantine of the People's Republic of China and
+there may be limited use of synthetic fertilizers and biotech production
+methods.
+
+To be certified "AA" grade green rice: the production quality and conditions
+must comport with more stringent green food production environment quality
+standards. During the production process, no chemical pesticides, fertilizers,
+food additives, feed additives, veterinary drugs or anything known to be harmful
+to the environment or human health can be used. The AA grade is obtained through
+the use of organic fertilizer such as green manure, biological or physical
+methods of crop plantation, soil fertilization, and pest control.
+
+Organic rice is rice produced to the highest of the "green food production
+environment quality standards."
+
+5
+
+Recent Developments
+
+On February 29, 2008, we purchased the Bellisimo Vineyard, a 153-acre operating
+vineyard located in Sonoma County, California, for 14,750,000. A portion of the
+purchase price, 8,515,000, was paid with funds provided by a commercial US
+lender which was granted a first lien on the property. The balance of the
+purchase price not paid by internally-generated funds was financed with third
+party debt of 6,216,000, pursuant to an agreement providing 4 interest per
+annum over a 5 year term. Bellisimo Vineyard provides Merlot, Chardonnay, and
+Cabernet Sauvignon grapes to wineries each year for both red and white wines.
+
+On March 25, 2008, China Organic Agriculture, Inc. (the "Company") and a group
+of six investors mutually agreed to terminate the Fixed Price Standby Equity
+Distribution Agreement they had entered on May 7, 2007. No shares were sold or
+distributed under the Agreement by, to or among any of the Parties, and none of
+the Parties have any rights remaining under the Agreement or arising out of the
+termination of the Agreement.
+
+On December 12 2007, the Company announced that it had entered into a letter of
+intent to acquire the Dalian Baoshui District Huiming Trading Limited
+("Dalian"). The acquisition is pending due diligence which is not likely to be
+completed until late Aprill. Dalian is engaged in grain procurement,
+international and domestic trading, wholesale sales and food delivery logistic
+services. Its main products include including soybeans, corn, and cereal crops,
+which are major products from the Northeast part of China. Sales to consumers
+are made in national regions including Liaoning Province, Jiling Province,
+Heilongjiang Province, Sichuan Province, Fujian Province, Beijing, and Shanghai.
+
+Location of Production Sites
+
+Our rice production and processing facilities are located in the Northeast part
+of China, abutting the Nen River in the Songyuan Plains, Jilin Province.
+
+Quality Assessment and Land Evaluation
+
+In order to grow rice permitted to be labeled "green" or "organic", our lands
+and operations must comport with the regulations titled "General Administration
+of Agricultural Quality, Supervision, Inspection and Quarantine of P.R.C," more
+fully described in the section hereof titled "Government Regulation". We are
+subject to inspection by the China Organic Food Certification Center, and must
+maintain those standards in accordance with the government regulations
+elaborated upon herein.
+
+Agricultural Background of this Region
+
+The main crop of the region in which we operate is rice. The area in which our
+rice is produced is one of the few areas of China which may be considered
+unpolluted for the purposes of achieving the right to claim the output is
+organic agricultural produce, and it has very little industry by comparison with
+the coastal areas of the country. The soil of the region is untainted and
+fertile, with much of the land considered "primitive" or undeveloped. The
+weather of the region is also suitable for the growing of rice.
+
+Processing of Rice
+
+Generally, all of our rice undergoes the following treatment before it is
+offered for sale:
+
+1) the materials are placed into a "vibration liquidation screen" which
+separates the grain from chaff, stone, dirt and other harvest byproducts;
+2) the materials are placed into an absorption type proportion stoner;
+3) the materials are moved into a metal eliminator;
+
+6
+
+4) the materials are then de-hulled using a roll huller;
+5) the materials are separated in a gravity unpolished rice separator;
+6) the materials are sent through a sand roller rice mill and then again
+through a metal eliminator;
+8) the materials are sent through a grader;
+9) the materials are polished, and sorted by color.
+
+Upon completion of these steps, the rice is inspected and then packaged.
+
+Sales and Marketing
+
+Principal Customers
+
+ In 2007, our revenue from large retailers and supermarkets was
+approximately 37.2 million. We sell a substantial portion of our wholesale
+products to a limited number of customers. Our principal customers during 2007
+were:
+
+ Percentage of
+Number Customer Revenue Revenue )
+- --------------------------------------------------------------------------------
+ 1 Songyuan Shunda Grain and Oil Company 5,046,893 13.4
+ 2 Songyuan Grain and Oil Company 4,399,670 11.7
+ 3 Changchun Qinghai Grain and Oil Company 4,314,572 11.4
+ 4 Songyuan Tonda Grain and Oil Company 3,739,177 10.0
+TOTAL 17,500,312 46.5
+- --------------------------------------------------------------------------------
+
+ At December 31, 2007, amounts due from these customers totaled
+approximately 2,552,068.
+
+ This concentration of customers has the potential to make us vulnerable to
+an adverse near-term impact, should one or more of these relationships be
+terminated.
+
+Principal Suppliers
+
+ In addition to the rice we produce on the lands we control, or rice which
+we are supplied via our relationships with the family units, we receive rice
+from several suppliers with whom we have established supply relationships, Our
+principal suppliers during 2007 were contract farmers as a group and Xinmiao
+Grain Depot..
+
+ During the 12 months ended December 31, 2007, Xinmiao Grain Depot
+purchased approximately 5,000 tons of green rice grains on the Company's behalf.
+This accounted for all of our purchases of green rice grain from grain depots in
+2007 and represented only a small fraction of our total output. As of December
+31, 2007, there are no outstanding payments to Xinmiao. The Company pays Xinmiao
+in cash immediately upon completion of each transaction
+
+ During 2006, we did not purchase any grains from any grain suppliers.
+
+ Though we are currently purchasing grain from only one supplier, the loss
+of which would not be significant to our business, we are dependent upon our
+ability to maintain our relationship with this supplier and develop similar
+relationships to expand our business.
+
+7
+
+In 2007 we underwent a significant expansion in our production capacity
+through the process of creating the supply relationship described above, and by
+the completion of an additional processing line.
+
+Competition
+
+ To date, our sales have been limited to customers within the PRC and we
+expect that our sales will remain primarily domestic for the immediate future.
+The markets for our products have been experiencing increased levels of demand
+as China continues its recent rate of accelerated growth. As a result, the
+markets for our products are highly competitive. Our marketing strategy involves
+developing long term ongoing working relationships with customers based on large
+multi-year agreements which foster mutually advantageous relationships.
+
+ Our principal competitors are Jilin Yufeng Rice Limited, Jilin Fengsheng
+Rice Limited, Jilin City Dongfu Rice Limited, and Daan Jixiang Rice Limited.
+Jilin Yufeng and Jilin City Dongfu currently possess organic and green rice
+certifications; the others have commenced the process of applying for such
+certifications. Each has a production capacity comparable with ours and each is
+viewed as a strong competitor in our markets.
+
+Government Regulation
+
+ The PRC and the various Provinces have enacted a series of laws and
+regulations over the past 20 years, including those designed to improve safety
+and decrease environmental degradation. The regulations titled "General
+Administration of Agricultural Quality, Supervision, Inspection and Quarantine
+of P.R.C." principally govern our agricultural practices. In pertinent part,
+these regulations require:
+
+ o organic food producers to operate in appropriate areas, in a
+ sufficient concentration to allow for regional certification as to
+ the organic nature of the product;
+
+ o irrigation and local water must meet quality standards and be
+ unpolluted, and irrigation water must be used efficiently
+ (Irrigation Water Quality Standards, GB5084, and Surface Water
+ Quality Standards, GB3838);
+
+ o land not previously dedicated to organic production must have
+ undergone sufficient conversion time to allow for depletion of
+ banned substances and land utilizing conventional farming methods
+ may not be allowed to leach or drain into the water or irrigation
+ facilities of organic land;
+
+ o Genetically modified organisms (GMOs) or derivatives may not be
+ utilized; nor may chemically treated or engineered seeds, artificial
+ pollination, transgenic plants or plant material be utilized;
+
+ o genetic diversity of crops must be ensured if possible, and crop
+ rotation undertaken;
+
+ o depleted soil fertility is to be regained through the use of
+ leguminous crop rotation and proper tillage of resting land;
+
+ o composting and organic matter and manure are to be employed to
+ assist in maintaining soil fertility;
+
+ o mineral supplementation is to be undertaken only on a limited basis;
+
+ o pest control is to be via natural or mechanical means except for
+ emergency situations;
+
+ o erosion and desertification prevention measures, including
+ sustainable water use, are to be employed.
+
+8
+
+All of our operating activities in China have been authorized by land and
+resources departments of local governments. In addition, all of our operations
+are subject to and have passed government safety inspections. We also have been
+granted environmental certification from the PRC Bureau of Environmental
+Protection.
+
+Employees
+
+ As of December 31, 2007, we employed approximately 69 full-time employees.
+Approximately 20 of our employees are management personnel, 50 are production
+staff, and 30 are sales and procurement staff. None of our employees is
+represented by a union.
+
+Research and Development
+
+ On November 30, 2007, the Company entered into a three year agreement with
+Jilin Agricultural University. Pursuant to this agreement, we support the
+University's development of an agricultural skills curriculum for its students
+by supplying employment opportunities and training, and financial support for
+agriculture-related research and development undertaken by the University. In
+return the University provides the Company with agricultural-related technical
+information and services, and management training, as well as assistance in the
+development of grains and guidance on soil, cultivation and crop management.
+
+Item 1A. Risk Factors.
+
+ You should consider carefully each of the following business and
+investment risk factors and all of the other information in this report. If any
+of the following risks and uncertainties develops into actual events, the
+business, financial condition or results of our operations could be materially
+adversely affected. If that happens, the trading price of our shares of common
+stock could decline significantly. The risk factors below contain
+forward-looking statements regarding our business. Actual results could differ
+materially from those set forth in the forward-looking statements. See "Special
+Note Regarding Forward-Looking Information."
+
+Risks Relating to Our Business
+
+Our revenues depend in large part on our distribution and supply relationships,
+and any loss, cancellation, reduction, or interruption in these relationships
+could harm our business.
+
+ In general, we depend on our distribution partners to bring to market our
+products to be sold to the Chinese public. If these relationships were to be
+disrupted, sales to such customers would become difficult or significantly
+reduced and thus our revenues and net income could significantly decline. Our
+success will depend on our continued ability to develop and manage relationships
+with significant distributors and suppliers. Any adverse change in our
+relationships with our distributors and suppliers may have a material adverse
+effect on our business. Although we have expanded our distribution capacity, we
+expect that our customer concentration will not change significantly in the near
+future. We cannot be sure that we will be able to retain our largest customers
+and suppliers or that we will be able to attract additional customers and
+suppliers, or that our customers and suppliers will continue to buy our products
+in the same amounts as in prior years. The loss of one or more of our largest
+customers or suppliers, any reduction or interruption in sales to these
+customers or suppliers, our inability to successfully develop relationships with
+additional customers or suppliers or future price concessions that we may have
+to make could significantly harm our business.
+
+9
+
+Attracting and retaining key personnel is an essential element of our future
+success.
+
+ Our future success depends to a significant extent upon the continued
+service of our executive officers and other key management and technical
+personnel and on our ability to continue to attract, retain and motivate
+executive and other key employees, including those in managerial, technical,
+marketing and information technology support positions. Experienced management
+and technical, marketing and support personnel are in demand and competition for
+their talents is intense. The loss of the services of one or more of our key
+employees or our failure to attract, retain and motivate qualified personnel
+could have a material adverse effect on our business, financial condition and
+results of operations.
+
+If we lose the services of either our chairman or our chief executive officer,
+our business may suffer.
+
+ We are dependent on Mr. Huizhi Xiao, our Chairman, and Mr. Changqing Xu,
+our Chief Executive Officer. The loss of the services of either could materially
+harm our business because of the cost and time necessary to recruit and train a
+replacement. Such a loss would also divert management attention away from
+operational issues. We do not have key-man term life insurance policy on Mr. Xu
+or Mr. Xiao.
+
+Our inability to successfully manage the growth of our business may have a
+material adverse effect on our business, results or operations and financial
+condition.
+
+ We expect to experience growth in the number of employees and the scope of
+our operations as a result of internal growth and acquisitions. Such activities
+could result in increased responsibilities for management. Our future success
+will be highly dependent upon our ability to manage successfully the expansion
+of operations. Our ability to manage and support our growth effectively will be
+substantially dependent on our ability to implement adequate improvements to
+financial, inventory, management controls, reporting, order entry systems and
+other procedures, and hire sufficient numbers of qualified financial,
+accounting, administrative, and management personnel.
+
+ Our future success depends on our ability to address potential market
+opportunities and to manage expenses to match our ability to finance operations.
+The need to control our expenses will place a significant strain on our
+management and operational resources. If we are unable to control our expenses
+effectively, our business, results of operations and financial condition may be
+adversely affected.
+
+Our management is comprised almost entirely of individuals residing in the PRC
+with very limited English skills.
+
+ Our management is comprised almost entirely of individuals born and raised
+in the PRC. As a result of differences in culture, educational background and
+business experiences, our management may analyze, evaluate and present business
+opportunities and results of operations differently from the way they are
+analyzed, evaluated and presented by management teams of public companies in
+Europe and the United States. In addition, our management has very limited
+skills in English. Consequently, it is possible that our management team will
+emphasize or fail to emphasize aspects of our business that might customarily be
+emphasized in a different manner by comparable public companies from different
+geographical and political areas.
+
+We will face many of the difficulties that companies in the early stage may
+face.
+
+ We have a relatively limited operating history as a rice producing
+company, which may make it difficult for you to assess our ability to identify
+merger or acquisition candidates and our growth and earnings potential.
+Therefore, we may face many of the difficulties that companies in the early
+stages of their development in new and evolving markets often face. We may
+continue to face these difficulties in the future, some of which may be beyond
+our control. If we are unable to successfully address these problems, our future
+growth and earnings will be negatively affected.
+
+10
+
+We cannot accurately forecast our future revenues and operating results, which
+may fluctuate.
+
+ Our short operating history and the rapidly changing nature of the markets
+in which we compete make it difficult to accurately forecast our revenues and
+operating results. Furthermore, our revenues and operating results may fluctuate
+in the future due to a number of factors, including the following:
+
+ o the introduction of competitive products by different or new
+ competitors;
+ o any factor that might interrupt or otherwise reduce the conduct of
+ business by our distributors,
+ o reduced demand for any given product;
+ o difficulty in keeping current with changing technologies;
+ o increased or uneven expenses, whether related to sales and
+ marketing, product development or administration;
+ o interruptions or reduction in the rice production due to adverse
+ weather; and
+ o costs related to possible acquisitions of technology or businesses.
+
+ Due to these factors, forecasts may not be achieved, either because
+expected revenues do not occur or because they occur at lower prices or on terms
+that are less favorable to us. In addition, these factors increase the chances
+that our results could be lower than the expectations of investors and analysts.
+If so, the market price of our stock would likely decline.
+
+Risks Related to Doing Business in the People's Republic of China
+
+ Our business operations take place primarily in the People's Republic of
+China. Because Chinese laws, regulations and policies are changing, our Chinese
+operations may face several risks summarized below.
+
+- - Limitations on Chinese economic market reforms may discourage foreign
+investment in Chinese businesses.
+
+ The value of investments in Chinese businesses could be adversely affected
+by political, economic and social uncertainties in China. The economic reforms
+in China in recent years are regarded by China's central government as a way to
+introduce economic market forces into China. Given the overriding desire of the
+central government leadership to maintain stability in China amid rapid social
+and economic changes in the country, the economic market reforms of recent years
+could be slowed, or even reversed.
+
+- - Any change in policy by the Chinese government could adversely affect
+investments in Chinese businesses.
+
+ Changes in policy could result in imposition of restrictions on currency
+conversion, imports or the source of supplies, as well as new laws affecting
+joint ventures and foreign-owned enterprises doing business in China. Although
+China has been pursuing economic reforms, events such as a change in leadership
+or social disruptions that may occur upon the proposed privatization of certain
+state-owned industries could significantly affect the government's ability to
+continue with its reform.
+
+- - We face economic risks in doing business in China.
+
+ As a developing nation, China's economy is more volatile than that of
+developed Western industrial economies. It differs significantly from that of
+the U.S. or a Western European country in such respects as structure, level of
+development, capital reinvestment, legal recourse, resource allocation and
+self-sufficiency. Only in recent years has the Chinese economy moved from what
+had been a command economy through the 1970s to one that during the 1990s
+encouraged substantial private economic activity. In 1993, the Constitution of
+China was amended to reinforce such economic reforms. The trends of the 1990s
+indicate that future policies of the Chinese government will emphasize greater
+utilization of market forces. For example, in 1999 the Government announced
+plans to amend the Chinese Constitution to recognize private property, although
+
+11
+
+private business will officially remain subordinate to state-owned companies,
+which are the mainstay of the Chinese economy. However, we cannot assure you
+that, under some circumstances, the government's pursuit of economic reforms
+will not be restrained or curtailed. Actions by the central government of China
+could have a significant adverse effect on economic conditions in the country as
+a whole and on the economic prospects for our Chinese operations.
+
+- - The Chinese legal and judicial system may negatively impact foreign investors.
+
+ In 1982, the National Peoples Congress amended the Constitution of China
+to authorize foreign investment and guarantee the "lawful rights and interests"
+of foreign investors in China. However, China's system of laws is not yet
+comprehensive. The legal and judicial systems in China are still under
+development , and enforcement of existing laws is inconsistent. Many judges in
+China lack the depth of legal training and experience that would be expected of
+a judge in a more developed country. Because the Chinese judiciary is relatively
+inexperienced in enforcing the laws that exist, anticipation of judicial
+decision-making is more uncertain than would be expected in a more developed
+country. It may be impossible to obtain swift and equitable enforcement of laws
+that do exist, or to obtain enforcement of the judgment of one court by a court
+of another jurisdiction. China's legal system is based on written statutes; a
+decision by one judge does not set a legal precedent that is required to be
+followed by judges in other cases. In addition, the interpretation of Chinese
+laws may shift to reflect domestic political changes.
+
+ The promulgation of new laws, changes to existing laws and the pre-emption
+of local regulations by national laws may adversely affect foreign investors.
+However, the trend of legislation over the last 20 years has significantly
+enhanced the protection of foreign investment and allowed for more control by
+foreign parties of their investments in Chinese enterprises. We cannot assure
+you that a change in leadership, social or political disruption, or unforeseen
+circumstances affecting China's political, economic or social life will not
+affect the Chinese government's ability to continue to support and pursue these
+reforms. Such a shift could have a material adverse effect on our business and
+prospects.
+
+ The practical effect of the People's Republic of China's legal system on
+our business operations in China can be viewed from two separate but intertwined
+considerations. First, as a matter of substantive law, the Foreign Invested
+Enterprise laws provide significant protection from government interference. In
+addition, these laws guarantee the full enjoyment of the benefits of corporate
+articles and contracts to Foreign Invested Enterprise participants. These laws,
+however, do impose standards concerning corporate formation and governance,
+which are not qualitatively different from the general corporation laws of the
+several states. Similarly, the accounting laws and regulations of the People's
+Republic of China mandate accounting practices which are not consistent with
+U.S. Generally Accepted Accounting Principles. China's accounting laws require
+that an annual "statutory audit" be performed in accordance with People's
+Republic of China's accounting standards and that the books of account of
+Foreign Invested Enterprises are maintained in accordance with Chinese
+accounting laws. Article 14 of the People's Republic of China Wholly
+Foreign-Owned Enterprise Law requires a Wholly Foreign-Owned Enterprise to
+submit certain periodic fiscal reports and statements to designated financial
+and tax authorities, at the risk of business license revocation. Second, while
+the enforcement of substantive rights may appear less clear than United States
+procedures, Foreign Invested Enterprises and Wholly Foreign-Owned Enterprises
+are Chinese registered companies, which enjoy the same status as other Chinese
+registered companies in business-to-business dispute resolution. Generally, the
+Articles of Association provide that all business disputes pertaining to Foreign
+Invested Enterprises are to be resolved by the Arbitration Institute of the
+Stockholm Chamber of Commerce in Stockholm, Sweden, applying Chinese substantive
+law. Any award rendered by this arbitration tribunal is, by the express terms of
+the respective Articles of Association, enforceable in accordance with the
+"United Nations' Convention on the Recognition and Enforcement of Foreign
+Arbitral Awards (1958)." Therefore, as a practical matter, although no
+assurances can be given, the Chinese legal infrastructure, while different in
+operation from its United States counterpart, should not present any significant
+impediment to the operation of Foreign Invested Enterprises.
+
+ Because our principal assets are located outside of the United States and
+all of our directors and executive officers reside outside of the United States,
+it may be difficult for you to enforce your rights based on the United States
+Federal securities laws against us and our officers and directors in the United
+States or to enforce judgments of United States courts against us or them in the
+People's Republic of China.
+
+12
+
+In addition, our operating subsidiaries and substantially all of our
+assets are located outside of the United States. You will find it difficult to
+enforce your legal rights based on the civil liability provisions of the United
+States Federal securities laws against us in the courts of either the United
+States or the People's Republic of China and, even if civil judgments are
+obtained in courts of the United States, to enforce such judgments in the courts
+of the People's Republic of China. In addition, it is unclear if extradition
+treaties in effect between the United States and the People's Republic of China
+would permit effective enforcement against us or our officers and directors of
+criminal penalties, under the United States Federal securities laws or
+otherwise.
+
+- - Economic Reform Issues
+
+ Although the Chinese government owns the majority of productive assets in
+China, during the past several years the government has implemented economic
+reform measures that emphasize decentralization and encourage private economic
+activity. Because these economic reform measures may be inconsistent or
+ineffectual, we are unable to assure you that:
+
+ o We will be able to capitalize on economic reforms;
+ o The Chinese government will continue its pursuit of economic reform
+ policies;
+ o The economic policies, even if pursued, will be successful;
+ o Economic policies will not be significantly altered from time to
+ time; and
+ o Business operations in China will not become subject to the risk of
+ nationalization.
+
+ Since 1979, the Chinese government has reformed its economic systems.
+Because many reforms are unprecedented or experimental, they are expected to be
+refined and improved. Other political, economic and social factors, such as
+political changes, changes in the rates of economic growth, unemployment or
+inflation, or in the disparities in per capita wealth between regions within
+China, could lead to further readjustment of the reform measures. This refining
+and readjustment process may negatively affect our operations.
+
+ Over the last few years, China's economy has registered a high growth
+rate. Recently, there have been indications that rates of inflation have
+increased. In response, the Chinese government recently has taken measures to
+curb this excessively expansive economy. These measures have included
+revaluations of the Chinese currency, the Renminbi (RMB), restrictions on the
+availability of domestic credit, and limited re-centralization of the approval
+process for purchases of some foreign products. These austerity measures alone
+may not succeed in slowing down the economy's excessive expansion or control
+inflation, and may result in severe dislocations in the Chinese economy. The
+Chinese government may adopt additional measures to further combat inflation,
+including the establishment of freezes or restraints on certain projects or
+markets.
+
+ To date, reforms to China's economic system have not adversely impacted
+our operations and are not expected to adversely impact operations in the
+foreseeable future. However, there can be no assurance that the reforms to
+China's economic system will continue or that we will not be adversely affected
+by changes in China's political, economic, and social conditions and by changes
+in policies of the Chinese government, such as changes in laws and regulations,
+measures which may be introduced to control inflation, changes in the rate or
+method of taxation, imposition of additional restrictions on currency conversion
+and remittance abroad, and reduction in tariff protection and other import
+restrictions.
+
+Risks Associated with Rice Production
+
+We are subject to risks associated with our operations which may affect our
+results.
+
+ The agricultural industry in the PRC has issues that the agricultural
+industry does not have within the United States. For instance:
+
+13
+
+o In China, insurance coverage is a relatively new concept compared to
+ that of the United States and for certain aspects of a business
+ operation, insurance coverage is restricted or expensive. Workers
+ compensation for employees in the PRC may be unavailable or, if
+ available, insufficient to adequately cover such employees.
+
+ o The environmental laws and regulations in the PRC set various
+ standards regulating certain aspects of health and environmental
+ quality, including, in some cases, the obligation to rehabilitate
+ current and former facilities and locations where operations are or
+ were conducted. Violation of those standards could result in a
+ temporary or permanent restriction by the PRC of our operations.
+
+We cannot assure you that we will be able to adequately address any of these or
+other limitations.
+
+Our earnings and, therefore our profitability, may be affected by price
+volatility.
+
+ We anticipate that the majority of our future revenues will be derived
+from the sale of rice and, as a result, our earnings are directly related to the
+prices of this product. There are many factors influencing the price of rice
+including expectations for inflation; global and regional demand and production;
+political and economic conditions; and production costs. These factors are
+beyond our control and are impossible for us to predict. As a result, price
+changes may adversely affect our operating results.
+
+Our business operations and related activities are, by their nature, subject to
+PRC government regulations concerning environmental protection.
+
+ We may have to make a significant financial commitment for compliance with
+environmental regulations and the establishment of a sound environmental
+protection management and monitoring system. Compliance with existing and future
+environmental protection regulations may increase our operating costs and may
+adversely affect our operating results.
+
+Risks Relating to our Common Stock and our Status as a Public Company
+
+The price of our common stock may be affected by a limited trading volume and
+may fluctuate significantly.
+
+ There has been a limited public market for our common stock and we cannot
+assure you that an active trading market for our stock will develop or if
+developed, will be maintained. The absence of an active trading market may
+adversely affect our stockholders' ability to sell our common stock in short
+time periods, or possibly at all. In addition, we cannot assure you that you
+will be able to sell shares of common stock that you have purchased without
+incurring a loss. The market price of our common stock may not necessarily bear
+any relationship to our book value, assets, past operating results, financial
+condition or any other established criteria of value, and may not be indicative
+of the market price for the common stock in the future. In addition, the market
+price for our common stock may be volatile depending on a number of factors,
+including business performance, industry dynamics, and news announcements or
+changes in general economic conditions.
+
+We have not and do not anticipate paying any dividends on our common stock;
+because of this the valuation of our securities could be adversely affected in
+the market.
+
+ We have paid no dividends on our common stock to date and it is not
+anticipated that any dividends will be paid to holders of our common stock in
+the foreseeable future. While our dividend policy will be based on the operating
+results and capital needs of the business, it is anticipated that any earnings
+will be retained to finance our future expansion and for the implementation of
+our business plan. As an investor, you should take note of the fact that a lack
+of a dividend can further affect the market value of our stock, and could
+significantly affect the value of any investment in our Company.
+
+14
+
+Our management is not familiar with the United States securities laws.
+
+ Our management and the former owners of the businesses we acquire are
+generally unfamiliar with the requirements of the United States securities laws
+and may not appreciate the need to devote the resources necessary to comply with
+such laws. A failure to adequately respond to applicable securities laws could
+lead to investigations by the Securities and Exchange Commission and other
+regulatory authorities that could be costly, divert management's attention and
+disrupt our business.
+
+We will continue to incur significant costs as a result of operating as a public
+company, and our management will be required to devote substantial time to new
+compliance requirements.
+
+ As a public company we incur significant legal, accounting and other
+expenses under the Sarbanes-Oxley Act of 2002, together with rules implemented
+by the Securities and Exchange Commission and applicable market regulators.
+These rules impose various requirements on public companies, including requiring
+certain corporate governance practices. Our management and other personnel will
+need to devote a substantial amount of time to these new compliance
+requirements. Moreover, these rules and regulations will increase our legal and
+financial compliance costs and will make some activities more time-consuming and
+costly.
+
+ In addition, the Sarbanes-Oxley Act requires, among other things, that we
+maintain effective internal controls for financial reporting and disclosure
+controls and procedures. In particular, commencing in 2007, we must perform
+system and process evaluations and testing of our internal controls over
+financial reporting to allow management and our independent registered public
+accounting firm to report on the effectiveness of our internal controls over
+financial reporting, as required by Section 404 of the Sarbanes-Oxley Act. Our
+testing, or the subsequent testing by our independent registered public
+accounting firm, may reveal deficiencies in our internal controls over financial
+reporting that are deemed to be material weaknesses. Compliance with Section 404
+may require that we incur substantial accounting expenses and expend significant
+management efforts. If we are not able to comply with the requirements of
+Section 404 in a timely manner, or if our accountants later identify
+deficiencies in our internal controls over financial reporting that are deemed
+to be material weaknesses, the market price of our stock could decline and we
+could be subject to sanctions or investigations by the SEC or other applicable
+regulatory authorities.
+
+Lack of management control by owners of the common stock.
+
+ Our chairman, Huizhi Xiao, beneficially owns approximately 20 of the
+outstanding shares of our common stock. In addition, other beneficial owners of
+more than 5 of our common stock in the aggregate owned approximately 56 of our
+common stock. As a result of this concentration of ownership, you and our other
+stockholders, acting alone, do not have the ability to determine the outcome of
+matters requiring stockholder approval, including the election of our directors
+or significant corporate transactions. In addition, this concentration of
+ownership, which is not subject to any voting restrictions, may discourage or
+thwart efforts by third parties to take-over or effect a change in control of
+our company that may be desirable for you and are other stockholders, and may
+limit the price that investors are willing to pay for our common stock.
+
+ Our Board of Directors has the authority, without stockholder approval, to
+issue preferred stock with terms that may not be beneficial to common stock
+holders and with the ability to adversely affect stockholder voting power and
+perpetuate the board's control over the Company.
+
+ Our certificate of incorporation authorizes the issuance of up to
+1,000,000,000 shares of common stock, par value 0.001 per share. Our Board of
+Directors by resolution may authorize the issuance of up to 20,000,000 shares of
+preferred stock in one or more series with such limitations and restrictions as
+it may determine, in its sole discretion, with no further authorization by
+security holders required for the issuance thereof. The Board may determine the
+specific terms of the preferred stock, including: designations; preferences;
+conversions rights; cumulative, relative; participating; and optional or other
+rights, including: voting rights; qualifications; limitations; or restrictions
+of the preferred stock.
+
+15
+
+The issuance of preferred stock may adversely affect the voting power and
+other rights of the holders of common stock. Preferred stock may be issued
+quickly with terms calculated to discourage, make more difficult, delay or
+prevent a change in control of our company or make removal of management more
+difficult. As a result, the Board of Directors' ability to issue preferred stock
+may discourage the potential hostile acquirer, possibly resulting in beneficial
+negotiations. Negotiating with an unfriendly acquirer may result in terms more
+favorable to us and our stockholders. Conversely, the issuance of preferred
+stock may adversely affect any market price of, and the voting and other rights
+of the holders of the common stock. We presently have no plans to issue any
+preferred stock.
+
+We may issue shares of our capital stock or debt securities to complete an
+acquisition, which would reduce the equity interest of our stockholders or
+subject our company to risks upon default
+
+ We may issue our securities to acquire companies or assets. Most likely,
+we will issue additional shares of our common stock or preferred stock, or both,
+to complete acquisitions. If we issue additional shares of our common stock or
+shares of our preferred stock, the equity interest of our existing stockholders
+may be reduced significantly, and the market price of our common stock may
+decrease. The shares of preferred stock we issue are likely to provide holders
+with dividend, liquidation and voting rights, and may include participation
+rights, senior to, and more favorable than, the rights and powers of holders of
+our common stock.
+
+ If we issue debt securities as part of an acquisition, and we are unable
+to generate sufficient operating revenues to pay the principal amount and
+accrued interest on that debt, we may be forced to sell all or a significant
+portion of our assets to satisfy our debt service obligations, unless we are
+able to refinance or negotiate an extension of our payment obligation. Even if
+we are able to meet our debt service obligations as they become due, the holders
+of that debt may accelerate payment if we fail to comply with, and/or are unable
+to obtain waivers of, covenants that require us to maintain certain financial
+ratios or reserves or satisfy certain other financial restrictions. In addition,
+financial and other covenants in the agreements we may enter into to secure debt
+financing may restrict our ability to obtain additional financing and our
+flexibility in operating our business.
+
+Future sales of our common stock, or the perception that such sales could occur,
+could have an adverse effect on the market price of our common stock.
+
+ We have approximately 51,548,776 shares of our common stock outstanding.
+There are a limited number of holders of our common stock. Future sales of our
+common stock, pursuant to a registration statement or Rule 144 under the
+Securities Act, or the perception that such sales could occur, could have an
+adverse effect on the market price of our common stock. The number of our shares
+available for sale pursuant to registration statements or Rule 144 is very large
+relative to the trading volume of our shares. Any attempt to sell a substantial
+number of our shares could severely depress the market price of our common
+stock. In addition, we may use our capital stock in the future to finance
+acquisitions and to compensate employees and management, which will further
+dilute the interests of our existing shareholders and could also depress the
+trading price of our common stock.
+
+Item 2. Properties.
+
+ We do not own any land, though we do own some of the buildings on land we
+lease. Our executive offices are located in China at Songyuan City in Jilin
+Province, which also is the headquarters of ErMaPao. These offices and
+processing facilities are located on approximately 1600 acres of land owned by
+The People's republic of China leased to the Company The lease for the land
+expires in 2032. The annual rent for the land is RMB 994,795 or approximately
+US 140,112 The buildings on this land has approximately 20,000 square meters of
+usable space and is owned by ErMaPao.
+
+16
+
+Item 3. Legal Proceedings.
+
+ We are not a party to any legal proceedings.
+
+Item 4. Submission of Matters to a Vote of Security Holders.
+
+ We did not submit any matter to a vote of our stockholders during the
+fourth quarter of 2007.
+
+ PART II
+
+Item 5. Market for Registrant's Common Equity, Related Stockholder Matters and
+Issuer Purchases of Equity Securities.
+
+Market for Our Common Stock
+
+ Our common stock is traded in the over-the-counter market (the OTC
+Bulletin Board). Prior to May 4, 2007, the date we changed our name from
+Industrial Electrical Services. Inc. to China Organic Agriculture, Inc., our
+common stock was quoted under the symbol "INEL.OB." From May 2007 to the
+present, our common stock has been quoted under the symbol "CNOA.OB."
+
+ The prices set forth below reflect the quarterly high and low bid price
+information for shares of our common stock for the periods indicated. These
+quotations reflect inter-dealer prices, without retail markup, markdown or
+commission, and may not represent actual transactions.
+
+ High Low
+ ---- ---
+2007
+- ----
+First Quarter 2.00 0.51
+Second Quarter 2.09 1.01
+Third Quarter 4.00 1.15
+Fourth Quarter 4.25 1.50
+
+2006
+- ----
+First Quarter N/A N/A
+Second Quarter N/A N/A
+Third Quarter N/A N/A
+Fourth Quarter 1.57 0.51
+
+ As March 28, 2008, our common stock was held of record by approximately
+1,300 stockholders, some of whom may hold shares for beneficial owners and have
+not been polled to determine the extent of beneficial ownership.
+
+ We have never paid cash dividends on our common stock. Holders of our
+common stock are entitled to receive dividends, if any, declared and paid from
+time to time by the Board of Directors out of funds legally available. We intend
+to retain any earnings for the operation and expansion of our business and do
+not anticipate paying cash dividends in the foreseeable future. Any future
+determination as to the payment of cash dividends will depend upon future
+earnings, results of operations, capital requirements, our financial condition
+and other factors that our Board of Directors may consider.
+
+Equity Compensation Plans
+
+ As of December 31, 2007, we did not have and we currently do not have any
+equity compensation plans or arrangements and therefore, the table below is
+blank.
+
+17
+
+Number of securities to be Weighted-average Number of securities remaining
+ Plan issued upon exercise of exercise price of available for future issuance under
+ category outstanding options, outstanding options, equity compensation plans (excluding
+ warrants and rights warrants and rights securities reflected in column (a))
+ (a) (b) (c)
+
+- ----------
+Purchases of Equity Securities by the Company and Affiliated Purchasers
+
+ During the fourth quarter of our fiscal year ended December 31, 2007,
+neither we nor any "affiliated purchaser" (as defined in Rule 10b-18(a)(3) under
+the Exchange Act) purchased any shares of our common stock. On February 13,
+2008, we filed with the Commission a Registration Statement on Form 10, which
+has not been declared effective. No class of our equity securities is registered
+pursuant to Section 12 of the Exchange Act.
+
+Recent Sales of Unregistered Securities
+
+ We have reported all sales of our unregistered equity securities that
+occurred during 2007 in our Reports on Form 10-QSB or Form 8-K, as applicable.
+
+Item 6. Selected Financial Data.
+
+Not applicable.
+
+Item 7. Management's Discussion and Analysis of Financial Condition and Results
+of Operation.
+
+The following discussion should be read in conjunction with the Consolidated
+Financial Statements and Notes thereto appearing elsewhere in this Report on
+Form 10-KSB. The following discussion contains forward-looking statements. Our
+actual results may differ significantly from those projected in the
+forward-looking statements. Factors that may cause future results to differ
+materially from those projected in the forward-looking statements include, but
+are not limited to, those discussed in "Risk Factors" and elsewhere in this Form
+10-KSB.
+
+OVERVIEW
+
+On March 15, 2007, the Company entered into an Agreement and Plan of Merger (the
+"Merger Agreement") with Industrial Electric Services, Inc. ("INEL") and a
+wholly owned Subsidiary of INEL ("Sub"), China Organic Agriculture Limited
+("COA"), and the shareholders of COA. Under the terms of the agreement COA is
+the surviving company.
+
+COA is a corporation formed under the laws of the British Virgin Islands and is
+a holding company that owns all of the issued and outstanding stock of Jilin
+Songyuan City ErMaPao Green Rice Limited ("ErMaPao"). ErMaPao is the operating
+company organized under the laws of China. Jilin Yutian of Organic Agriculture
+Co., Ltd ("Yutian") was founded in August 2007 under the laws of the People's
+Republic of China. It is owned 100 by ErMaPao. The Company is engaged in the
+business of rice production and processing.
+
+The Company consummated the Merger Transaction and acquired INEL from the
+INEL Shareholders and thereby indirectly acquired the Chinese operating company
+ErMaPao. In exchange for transferring INEL to the Company, the INEL Shareholders
+retained stock consisting of 24,100,000 shares of the Company's common stock.
+The reorganization of the Company was treated as an acquisition by the
+accounting acquiree that is being accounted for as a recapitalization and as a
+reverse merger by the legal acquirer for accounting purposes. Pursuant to the
+recapitalization, all capital stock shares and amounts and per share data have
+been retroactively restated. Accordingly:
+
+18
+
+(1) The balance sheets included herein consist of the net assets of the
+accounting acquirer at historical cost and the net assets of the legal acquirer
+at historical cost.
+
+(2) The statements of operations included herein reflect the operations of the
+accounting acquirer for the period presented and the operations of the legal
+acquirer from the date of the merger.
+
+The Company is now engaged in the business of rice production and processing.
+
+Results of operations for the years ending December 31, 2006 and 2007
+
+All financial information is presented for the year ending December 31, 2007 and
+the year ending December 31, 2006.
+
+ CONSOLIDATED STATEMENTS OF INCOME
+ FOR THE YEARS ENDING DECEMBER 31, 2007 AND 2006
+
+12/31/2007 12/31/2006
+ ------------ ------------
+ 
+Sales, net 44,500,003 9,002,345
+
+Cost of sales 29,382,399 5,210,575
+ ------------ ------------
+Gross profit 15,117,604 3,791,770
+
+Selling, general and administrative expenses 1,556,350 364,500
+ ------------ ------------
+Income from operations 13,561,254 3,427,270
+ ------------ ------------
+
+Other expense (income) 70,295 (3,827)
+Interest (income) (1,631)
+ ------------ ------------
+Income before income taxes 13,492,590 3,431,097
+
+Provision for income taxes -- --
+ ------------ ------------
+Net income 13,492,590 3,431,097
+ ============ ============
+
+Weighted average number of common shares, basic 51,548,776 51,548,776
+Weighted average number of common shares, dilutive 51,616,372 51,548,776
+Net Income:
+Basic 0.26 0.07
+Dilutive 0.26 0.07
+
+Net sales
+
+Net sales for the year ending December 31, 2007 totaled 44,500,003 compared to
+ 9,002,345 for the year ending December 31, 2006. This increase of 35,497,685,
+which is an increase of approximately 394 and, was almost entirely attributable
+to the increase in our green rice sales due to increases consumer demand of the
+product in part resulting from higher availability and brand awareness created
+through new distribution channels. We have expanded our distribution points from
+individual retailers to large company retailers and supermarkets in the second
+half of the year. Our products have been introduced in supermarkets in large
+cities such as Shanghai, Beijing, and Nanjing. This expansion along with
+increased production has been the major factor of our increase in products sales
+for 2007.
+
+19
+
+Gross Profit Margin
+
+Gross profit margin for the year ending December 31, 2007 was 34.0 compared to
+42.1 for the year ending December 31, 2007. The decline in gross profit margin
+is due to the increase of sales of less profitable green rice. In 2006, our
+organic rice made up about 56 of our sales with green rice making up the rest.
+Organic rice had a profit margin of approximately 55 and green rice had a
+margin of 21 due to high sale prices for organic rice. In 2007, our green rice
+sales increased significantly resulting in organic rice now making up about 15 
+of sales and green rice sales representing about 85 of the revenues. Gross
+profit margins in 2007 were about 57 for organic rice and 27 for green rice.
+Shipments of green rice reached 49,500 tons and organic rice shipments reached
+3,500 tons in 2007.
+
+Gross profit was up two percentage points for organic rice in 2007 due to
+improvements in the sales price while the costs remained constant. Green rice's
+gross profit margin increased by approximately six percentage points due to a
+higher mix of sales of the boxed green rice, which sells for a higher unit price
+as compared to bagged green rice.
+
+Our business focus is to increase production in both organic and green rice.
+However, due to capital, technology, environment constraints, and certain
+organic certification restrictions, expansion of organic rice production is more
+constrained as compared to green rice. Our organic rice plantation is constantly
+being researched and developed to improve production levels while complying with
+the "organic" requirements. The significant increase in green rice production in
+2007 is in part attributed to signing an agreement with Xinmiao Grain Depot
+which acquires green rice product for us and another agreement with Wukeshu
+Grain Depot to process roughly 42,000 tons of green rice annually for China
+Organic Agriculture.
+
+Selling, General and Administrative Expense
+
+Selling, general and administrative expense for the year ending December 31,
+2007 totaled 1,556,350 or approximately 3.5 of net sales, compared to 364,500
+or approximately 4.0 for the year ending December 31, 2006. Our expenses
+increased due largely to accommodate the expansion of our sales level. This has
+required additional staff at the distribution centers and related costs, as well
+as increased advertising promotion.
+
+Income from Operations and Net Income
+
+Income from operations for the year ending December 31, 2007 was 13,561,254 or
+30.5 of net Sales as compared to income from operations of 3,427,270 for the
+year ending December 31, 2006 or 38.1 of net Sales. Net income was 13,492,590
+or 30.3 of net Sales for the year ending December 31, 2007, compared to
+ 3,431,097 or 38.1 of net Sales for the year ending December 31, 2006.
+
+Both of these increases reflect the higher sales level discussed previously.
+
+Liquidity and Capital Resources
+
+Cash has historically been generated from operations. Operations and liquidity
+needs are funded primarily through cash flows from operations and short-term
+borrowings. Cash and cash equivalents were 9,697,793, current assets totaled
+ 15,152,917, and current liabilities were 920,315 at December 31, 2007. Working
+capital at December 31, 2007 was 14,232,602. We believe that the funds
+available to us are adequate to meet our operating needs for the remainder of
+2008.
+
+20
+
+Cash Flow
+
+Year Ended December 31
+ ------------------------------
+ 2007 2006
+ ----------- -----------
+ 
+Net cash provided by operating activities 9,696,012 3,147,011
+Net cash used in investing activities (852,041) (32,490)
+Net cash provided (used in) financing activities -- (3,429,165)
+Effects of exchange rates on cash 537,361 4,527
+Net cash flow 9,697,793 316,461
+
+Net Cash Provided by Operating Activities
+
+During the twelve months ended December 31, 2007, we had positive cash flow from
+operating activities of 9,696,012, primarily attributable to net income of
+ 13,879,376. The cash provided by operating activities in 2007 represents an
+increase of 6,481,015 over the 2006 level of 3,147,001, which was primarily
+attributable to net income of 3,348,317. In 2007, we had a significant
+increases in accounts receivable 1,122,361), inventory 2,739,639), as well
+as accounts payable and accrued expenses 899,690)
+
+Net Cash Provided (Used) by Investing Activities and Financing Activities
+
+The Company used 852,041 for the construction of new production lines and
+facilities during fiscal 2007. These constructions were financed by cash flows
+from operating activities.
+
+We anticipate that our available funds and cash flows generated from operations
+will be sufficient meet our anticipated on-going operating needs for the next
+twelve (12) months. However, we will likely raise additional capital in order to
+fund our ongoing constructions and acquisitions. We expect to raise those funds
+though credit facilities obtained from lending institutions, the issuance of
+equity, or a combination of both. There can be no guarantee that we will be able
+to obtain such funding, whether through the insurance of debt or equity, on
+terms satisfactory to management and our board of directors.
+
+ In connection with the acquisition of the Bellisimo Winery we incurred
+debt in the amount of 8,515,000 for which we granted the lender a first lien on
+the Winery. This debt bears interest at an initial rate of 7.7 per annum and is
+repayable in varying monthly payments over a period of 20 years. In addition, we
+received an advance of an additional 6,216,000 used to purchase the Winery, at
+4 interest over a 5 year term.
+
+ We have previously announced our intention to acquire Dalian Baoshui
+District Huiming Trading Limited. This acquisition remains subject to our due
+diligence and there can be no assurance that it will be consummated. If we were
+to complete this acquisition, it is likely that we would have to issue
+additional debt or equity securities, including debt or equity issued to the
+shareholders of Dalian as part of the purchase price. There is no assurance that
+the funds needed to acquire Dalian will be available to us or, if available,
+that the terms will be commercially reasonable.
+
+Item 8. Financial Statements and Supplementary Data.
+
+The financial information required by this item is set forth beginning on page
+F-1 appearing after the signature page.
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and
+Financial Disclosure.
+
+ On March 28, 2007, we appointed the firm of Morgenstern, Svoboda & Baer,
+CPAs, P.C. ("New Auditor") as our independent auditor and dismissed the firm of
+Pender Newkirk & Company LLP ("Former Auditor"), which had served as our
+independent auditor until that date. The Former Auditor was our auditor prior to
+the acquisition by our company of ErMaPao and China Organic Agriculture, Ltd.
+
+21
+
+The reports of the Former Auditor on our financial statements for the
+fiscal years ended December 31, 2005 and December 31, 2006 did not contain an
+adverse opinion, a disclaimer of opinion or any qualifications or modifications
+related to uncertainty, limitation of audit scope or application of accounting
+principles. During the fiscal years ending December 31, 2005 and December 31,
+2006 and the period from December 31, 2006 to March 28, 2007, the Company did
+not have any disagreements (within the meaning of Instruction 4 of Item 304 of
+Regulation S-K) with the Former Auditor as to any matter of accounting
+principles or practices, financial statement disclosure, or auditing scope or
+procedure and there have been no reportable events (as defined in Item 304 of
+Regulation S-K).
+
+Item 9A. Controls and Procedures.
+
+ The Company maintains disclosure controls and procedures, as defined in
+Rule 13a-15 under the Securities Exchange Act of 1934, as amended, that are
+designed to ensure that information required to be disclosed in the Company's
+reports that it files or submits under the Exchange Act is recorded, processed,
+summarized and reported within the time periods specified in the Securities and
+Exchange Commission's rules and forms and that the Company's employees
+accumulate this information and communicate it to the Company's management,
+including its Chief Executive Officer and Chief Financial Officer, as
+appropriate, to allow timely decisions regarding the required disclosure. In
+designing and evaluating the disclosure controls and procedures, management
+recognizes that any controls and procedures, no matter how well designed and
+operated, can provide only reasonable assurance of achieving the desired control
+objectives, and management necessarily must apply its judgment in evaluating the
+cost-benefit relationship of possible controls and procedures.
+
+ As of the end of the period covered by this report, the Company carried
+out an evaluation, under the supervision and with the participation of the
+Company's management, including the Company's Chief Executive Officer and Chief
+Financial Officer, of the effectiveness of the design and operation of the
+Company's disclosure controls and procedures under Rule 13a-15. Based upon that
+evaluation, the Company's Chief Executive Officer and Chief Financial Officer
+concluded that the Company's disclosure controls and procedures were effective
+at the reasonable assurance level.
+
+ There has not been any change in the Company's internal control over
+financial reporting during the Company's most recent fiscal quarter that has
+materially affected, or is reasonably likely to materially affect, the Company's
+internal control over financial reporting.
+
+Item 9B. Other Information.
+
+Not applicable.
+
+ PART III
+
+Item 10. Directors and Executive Officers of the Registrant.
+
+ Our directors, executive officers and key employees are:
+
+Name Age Title
+
+ Changqing Xu 37 Chief Executive Officer
+ Xuefeng Guo 34 Chief Financial Officer and Secretary
+ Huizhi Xiao 46 Chairman and Director
+ Shujie Wu 38 Director
+ Zhouzhe Jin 68 Director
+ Jingyong Ma 56 Director
+
+22
+
+Huizhi Xiao was elected Chairman of our Board of Directors on June 4, 2007, and
+Zhouzhe Jin and Jingyong Ma were appointed on July 18, 2007 and August 1, 2007,
+respectively. Shujie Wu was appointed a director on March 30th 2007. Xuefeng Guo
+was appointed CFO on November 7, 2007, and Changqing Xu was appointed CEO on
+December 7, 2007. The business experience of each director and executive officer
+of the Company is set forth below.
+
+Changqing Xu was from 2002 to December 2007 the CEO of food distributor Hubei
+Tianjian Limited, in charge of the company's investment plans and policies as
+well as management and market expansion. During this time, he worked with local
+agricultural universities to improve rice grain quality and increase grain
+production, and negotiated exclusive retail agreements in the Hubei and Hunan
+area as well. Prior to joining Hubei, Mr. Xu served as COO of Shanghai Huaying
+Investments Limited, in charge of market planning, internal control, financing,
+and asset restructuring, and was a market manager and managing director of
+Shenzhen Fuxing Printing Company Limited, in charge of sales and promotions of
+its products.
+
+Xuefeng Guo specializes in financial management and has successfully held, over
+the past five years, significant positions in the investment, finance and
+banking industries. He holds an MBA from the University of Shandong. Until
+December 2002, Mr. Guo was Deputy Manager of Tianlishou Medicine Factory, in
+Shandong. From January 2003 to present, he was deputy Manager of Beijing
+Mingtian Capital Holding Limited.
+
+Huizhi Xiao graduated from Jilin Agricultural University and is a senior
+agronomist with many years of experience in the food processing industry,
+particularly in rice processing. He is a prominent figure in the China's
+agriculture industry with a reputation as an innovator with extensive management
+experience through several past enterprises. From 1990-2002 he was General
+Manager of Qianguo District Guangsha Construction Company. From 2002 to the
+present he has served as President of Songyuan City ErMaPao Green Rice Limited,
+now our subsidiary.
+
+Shujie Wu served from 2002 to 2004 as Chairman of Dongguan Shijin Market
+Investment Company Limited. From 2003 to 2005, Wu served as Chairman of
+Guangzhou City Weirong Investment Consulting Company Limited, and from 2005, to
+2007, served as Managing Director of Jiayuanfen International Investments
+Company Limited.
+
+Zhouzhe Jin is a senior agronomist and recipient of the "National Special
+Contributions" Award. Jin graduated from Yanbian Agricultural College, and
+thereafter was assigned to Jilin Province Qianguo District's Agricultural Bureau
+on agricultural systems. In December 1969, he was delegated to Qianguo District
+Jilatu Agricultural Station. He also served as deputy mayor of Jilatu. While
+working with the agricultural bureau, Jin conducted agricultural scientific
+experiments such as paddy field phosphorus test, dry seeding, courtyard seeding,
+formulated fertilization of rice, and the "Three Dry Cultivation Methods".
+
+Jingyong Ma is an agricultural specialist and researcher. Since 1970, Mr. Ma has
+been a lecturer to the graduate students of the Jilin Agricultural Academy,
+while also conducting research on quality of rice grains, new varieties of rice
+breeding, and rice grain breeding genetics. Since January 2005, Mr. Ma has been
+retained by the Company as a rice grain specialist and consultant. Mr. Ma has
+developed a variety of new species of grains which are of high quality, high
+production value, and high resistance to disease and blight. Mr. Ma was
+commended in 1998 for outstanding contributions of young technical professionals
+in Jilin and was awarded the State Council's "Government's special allowances"
+in 2001.
+
+ Corporate Governance: Board Committees and Independent Directors
+
+23
+
+Our Board of Directors did not hold any meetings during 2007, though it
+did act by Unanimous Written Consent.
+
+Compensation of Directors
+
+ None of our directors received compensation from the Company for serving
+in such position during 2007.
+
+Section 16(a) Beneficial Ownership Reporting Compliance
+
+ Section 16(a) of the Securities Exchange Act of 1934 requires our
+directors, executive officers and beneficial owners of more than 10 of our
+common stock to file with the SEC reports of their holdings of, and transactions
+in, our common stock. Based solely upon our review of copies of such reports and
+written representations from reporting persons that were provided to us, we
+believe that our officers, directors and 10 stockholders complied with these
+reporting requirements with respect to 2007.
+
+Code of Ethics
+
+ We have not adopted a code of ethics to apply to our principal executive
+officer, principal financial officer, principal accounting officer and
+controller, or persons performing similar functions because, until recently, we
+have not been an operating company. We expect to prepare a Code of Ethics in the
+near future
+
+Item 11. Executive Compensation.
+
+ The following table sets forth information with respect to the amounts
+awarded to, earned by, or paid to, our principal executive officer for services
+provided in all capacities to us and our subsidiaries for the fiscal year ended
+December 31, 2007, and the amounts awarded to, earned by, or paid to that
+individual for the fiscal year ended December 31, 2006. No other executive
+officer or former executive officer received more than 100,000 in compensation
+for the fiscal year ended December 31, 2007.
+
+ Summary Compensation Table
+
+Non-equity Change in pension value and
+ Name and Stock Option incentive plan nonqualified deferred All other
+ principal Salary Bonus awards awards compensation compensation earnings compensation Total
+ position Year ) ) ) ) ) ) ) )
+ (a) (b) (c) (d) (e) (f) (g) (h) (i) (j)
+- --------------------------------------------------------------------------------------------------------------------------------
+ 
+Changqing Xu
+CEO 2007 8,000 N/A N/A N/A N/A N/A N/A 8,000
+- --------------------------------------------------------------------------------------------------------------------------------
+Changqing Xu
+CEO 2006 N/A N/A N/A N/A N/A N/A N/A N/A
+- --------------------------------------------------------------------------------------------------------------------------------
+Xuefeng Guo
+CFO & 2007 8,000 N/A N/A N/A N/A N/A N/A 8,000
+Secretary
+- --------------------------------------------------------------------------------------------------------------------------------
+Xuefeng Guo
+CFO & 2006 N/A N/A N/A N/A N/A N/A N/A N/A
+Secretary
+- --------------------------------------------------------------------------------------------------------------------------------
+Huizhi Xiao 2007 N/A N/A N/A N/A N/A N/A 8,000
+Chairman 8,000
+- --------------------------------------------------------------------------------------------------------------------------------
+Huizhi Xiao 2006 7,692 N/A N/A N/A N/A N/A N/A 7,692
+Chairman
+
+24
+
+Outstanding Equity Awards at Fiscal Year-End
+
+ We did not grant options, or make stock awards, to any of our executive
+officers in 2007, nor were any outstanding as of December 31, 2007.
+
+ We have not granted any equity-based compensation, awards or stock options
+to our chief executive officer or any other executive officer.
+
+ We have not entered into an employment or consulting agreement with any of
+our executive officers or directors. Except as disclosed below under the caption
+"Compensation of Directors," we have not paid or accrued any fees to any of our
+directors for serving as a member of our Board of Directors. We do not have any
+retirement, pension, profit sharing or stock option plans or insurance or
+medical reimbursement plans covering our officers and directors.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and
+Related Stockholder Matters.
+
+ The following table sets forth certain information as of March 28, 2008
+concerning the beneficial ownership of our common stock by (i) each person who,
+to our knowledge, beneficially owns more than 5 of our common stock; (ii) each
+of our directors and executive officers; and (iii) all of our directors and
+executive officers as a group. As of March 28, 2008, we had outstanding
+51,548,776 shares of common stock. Under SEC rules, a person is deemed to be the
+beneficial owner of securities that he may acquire within 60 days upon the
+exercise of warrants or options, or conversion or exchange of other of our
+securities. The percent of common stock owned by each beneficial owner is
+determined assuming the acquisition by him (but not any other beneficial owner)
+of all shares he may acquire within 60 days upon exercise, conversion of
+exchange of all derivative securities. Except as otherwise indicated, the
+address for each beneficial owner is c/o. the Company, Jilin Province Songyuan
+City ErMaPao Green Rice Limited, East Ping Feng Xiang Zheng Fu, Qian Guo
+District Songyuan City, Jilin Province, P.R. China 131108
+
+- --------------------------------------------------------------------------------
+ Name and Address of Amount and Percent
+ Beneficial Owner Nature of Of Class
+ Beneficial
+ Owner
+- --------------------------------------------------------------------------------
+Xia Wu 15,000,000 29.1
+- --------------------------------------------------------------------------------
+Huizhi Xiao 10,114,873 19.6
+- --------------------------------------------------------------------------------
+Luxesource International Limited 6,175,975 12.0
+Shennan Zhong Road, PO Box 031-072
+Shenzhen 518000, China
+- --------------------------------------------------------------------------------
+Simple (Hong Kong) Investment & Management 2,882,121 5.6
+Company Limited
+Shennan Zhong Road, PO Box 031-072
+Shenzhen 518000, China
+- --------------------------------------------------------------------------------
+First Capital Limited 2,744,878 5.3
+- --------------------------------------------------------------------------------
+China US Bridge Capital Limited 2,744,878 5.3
+- --------------------------------------------------------------------------------
+Changqing Xu 0 0
+- --------------------------------------------------------------------------------
+Xuefeng Guo 0 0
+- --------------------------------------------------------------------------------
+Shujie Wu 0 0
+- --------------------------------------------------------------------------------
+Zhouzhe Jin 0 0
+- --------------------------------------------------------------------------------
+Jingyong Ma 0 0
+- --------------------------------------------------------------------------------
+Officers and Directors as a group (6 persons) 10,114,873 19.6 
+- --------------------------------------------------------------------------------
+
+25
+
+Item 13. Certain Relationships and Related Transactions.
+
+ In connection with the acquisition by the Company of China Organic
+Agriculture Limited ("COA"), the BVI holding Company, the Company issued to the
+shareholders of COA, Huizhi Xiao, Luxesource International Limited, JK Friedman
+Capital Limited, Shenzhen Huaying, Guaranty and Investment Company Limited,
+First Capital Limited, Simple (Hong Kong) Investment & Management Company
+Limited and China US Bridge Capital Limited an aggregate of 27,448,776 shares of
+the Company's common stock.
+
+Item 14. Principal Accounting Fees and Services.
+
+ During fiscal year 2007 and fiscal year 2006, the aggregate fees which we
+paid to or were billed by Morgenstern, Svoboda, & Baer, CPA's, P.C. for
+professional services, which only included audit fees, were as follows:
+
+ Fiscal Year Ended December 31,
+ --------------------------------
+ 2007 2006
+Audit Fees (1) 21,000
+Audit-Related Fees (2) 22,500
+All Other Fees (3)
+
+(1) Fees for services to perform an audit or review in accordance with generally
+accepted auditing standards and services that generally only our independent
+registered public accounting firm can reasonably provide, such as the audit of
+our consolidated financial statements, the review of the financial statements
+included in our quarterly reports on Form 10-QSB, and for services that are
+normally provided by independent registered public accounting firms in
+connection with statutory and regulatory engagements.
+
+(2) Fees, if any, for assurance and related services that are traditionally
+performed by our independent registered public accounting firm, such as audit
+attest services not required by statute or regulation, and consultation
+concerning financial accounting and reporting standards.
+
+(3) Fees for tax compliance. Tax compliance generally involves preparation of
+original and amended tax returns, claims for refunds and tax payment planning
+services.
+
+26
+
+PART IV
+
+Item 15. Exhibits, Financial Statement Schedules.
+
+Documents filed as part of this Report:
+
+ 1. Financial Statements
+
+ Our Consolidated Financial Statements required by this Section appear in a
+separate section beginning on page F-1 of this Report.
+
+ 2. Financial Statement Schedules
+
+ None
+
+ 3. Exhibits
+
+Exhibit No. Description
+- --------------------------------------------------------------------------------
+2.1 Articles and Plan of Exchange between Registrant and Industrial Electric
+ Services LLC, incorporated herein by reference to Exhibit 2 to the
+ Registrant's Registration Statement on Form 10SB-2 filed on November 1,
+ 2005.
+
+3.1 Articles of Incorporation, incorporated herein by reference to Exhibit 3.1
+ to the Registrant's Registration Statement on Form 10SB-2 filed November
+ 1, 2005.
+
+3.2 Bylaws, incorporated herein by reference to Exhibit 3.2 to the
+ Registrant's Registration Statement on Form 10SB-2 filed on November 1,
+ 2005.
+
+3.3 Operating Agreement of Industrial Electric Services LLC, incorporated
+ herein by reference to Exhibit 3.3 to the Registrant's Registration
+ Statement on Form 10SB-2 filed on November 1, 2005.
+
+3.4 Articles of Amendment to the Articles of Incorporation, changing the name
+ from Industrial Electric Services, Inc. to China Organic Agriculture,
+ Inc., incorporated herein by reference to Exhibit 3.1 to the Registrant's
+ Current Report on Form 8-K filed on May 10, 2007.
+
+4.1 Warrants, incorporated herein by reference to Exhibit 4.1 to the
+ Registrant's Registration Statement on Form 10-12G filed on February 13,
+ 2008.
+
+10.1 Promissory Note, incorporated herein by reference to Exhibit 10 to the
+ Registrant's Registration Statement on Form 10SB-2 filed on November 1,
+ 2005.
+
+10.2 Agreement by and among Edward Lynch, Keith Yates and Registrant,
+ incorporated herein by reference to Exhibit 10.1 to the Registrant's
+ Current Report on Form 8-K filed on August 21, 2006.
+
+10.3 Promissory Note, incorporated herein by reference to Exhibit 10.1 to the
+ Registrant's Form 10-KSB filed on February 16, 2007.
+
+10.4 Assignment by and between International Machinery Movers, Inc. and
+ individuals listed on Exhibit B, incorporated herein by reference to
+ Exhibit 10.2 to the Registrant's Form 10-KSB filed on February 16, 2007.
+
+27
+
+10.5 Stock Purchase Agreement by and between Edward Lynch and Xia Wu,
+ incorporated herein by reference to Exhibit 10.1 to the Registrant's
+ Current Report on Form 8-K filed on February 26, 2007.
+
+10.6 Agreement and Plan of Merger by and among Registrant, INEL Merger Sub,
+ Inc., China Organic Agriculture Limited, ("COA"), and the shareholders of
+ COA, incorporated herein by reference to Exhibit 10.1 to the Registrant's
+ Current Report on Form 8-K filed on March 19, 2007.
+
+10.7 Form of Standby Equity Distribution Agreement between Registrant, and each
+ of the investors set forth on the signature page, incorporated herein by
+ reference to Exhibit 99.1 to the Registrant's Current Report on Form 8-K
+ filed on June 1, 2007.
+
+10.8 Agricultural Partnership Agreement between Registrant and Xinmiao Grain
+ Depot, incorporated herein by reference to Exhibit 10.1 to the
+ Registrant's Current Report on Form 8-K filed on July 16, 2007.
+
+10.9 Agriculture Processing Partnership Agreement between Songyuan City ErMaPao
+ Green Rice Limited, a wholly-owned subsidiary of the Registrant and
+ Wukeshu Grain Depot, incorporated herein by reference to Exhibit 99.1 to
+ the Registrant's Current Report on Form 8-K filed on August 8, 2007.
+
+10.10 Retailing Agreement between ErMaPao Green Rice Limited, a wholly-owned
+ subsidiary of the Registrant and Changchun City Huaxing Foods Ltd.,
+ incorporated herein by reference to Exhibit 99.1 to the Registrant's
+ Current Report on Form 8-K filed on September 4, 2007.
+
+10.11 Retailing Agreement between ErMaPao Green Rice Limited, a wholly-owned
+ subsidiary of the Registrant and Songyuan City Grain and Oil Company,
+ incorporated herein by reference to Exhibit 99.1 to the Registrant's
+ Current Report on Form 8-K filed on September 9, 2007.
+
+10.12 Cooperation Agreement between Registarant and Jilin Agriculture
+ University, incorporated herein by reference to Exhibit 10.1 to the
+ Registrant's Registration Statement on Form 10-12G filed on February 13,
+ 2008.
+
+10.13 Agricultural Partnership Agreement between Songyuan City ErMaPao Green
+ Rice Limited, a wholly-owned subsidiary of the Registrant, and Xinmiao
+ Grain Depot, incorporated herein by reference to Exhibit 10.2 to the
+ Registrant's Registration Statement on Form 10-12G filed on February 13,
+ 2008.
+
+10.14 Agriculture Processing Partnership Agreement between Songyuan City ErMaPao
+ Green Rice Limited, a wholly-owned subsidiary of the Registrant, and
+ Wukeshu Grain Depot, incorporated herein by reference to Exhibit 10.3 to
+ the Registrant's Registration Statement on Form 10-12G filed on February
+ 13, 2008.
+
+10.15 2007 Ermapao Products Retail Agreement between Songyuan City ErMaPao Green
+ Rice Limited, a wholly-owned subsidiary of the Registrant, and Changchun
+ City Huaxing Foods Limited, incorporated herein by reference to Exhibit
+ 10.4 to the Registrant's Registration Statement on Form 10-12G filed on
+ February 13, 2008.
+
+28
+
+10.16 2007 Ermapao Products Retail Agreement between Songyuan City ErMaPao Green
+ Rice Limited, a wholly-owned subsidiary of the Registrant, and Songyuan
+ City Ningjian District Shunda Grain and Oil Company, incorporated herein
+ by reference to Exhibit 10.5 to the Registrant's Registration Statement on
+ Form 10-12G filed on February 13, 2008.
+
+10.17 2007 Ermapao Products Retail Agreement between Songyuan City ErMaPao Green
+ Rice Limited, a wholly-owned subsidiary of the Registrant, and Changchun
+ City Qinghai Grain and Oil Company, incorporated herein by reference to
+ Exhibit 10.6 to the Registrant's Registration Statement on Form 10-12G
+ filed on February 13, 2008.
+
+10.18 2007 Ermapao Products Retail Agreement between Songyuan City ErMaPao Green
+ Rice Limited, a wholly-owned subsidiary of the Registrant, and Songyuan
+ City Ningjian District Shunda Grain and Oil Company, incorporated herein
+ by reference to Exhibit 10.7 to the Registrant's Registration Statement on
+ Form 10-12G filed on February 13, 2008.
+
+10.19 2007 Ermapao Products Retail Agreement between Songyuan City ErMaPao Green
+ Rice Limited, a wholly-owned subsidiary of the Registrant, and Songyuan
+ City Tongda Grain and Oil Company, incorporated herein by reference to
+ Exhibit 10.8 to the Registrant's Registration Statement on Form 10-12G
+ filed on February 13, 2008.
+
+10.20 Promissory Note dated February 25, 2008 between China Organic Agriculture,
+ Inc. and Mr. Xi Rong Xu.
+
+10.21 Promissory Note dated February 28, 2008 between Transamerica Life
+ Insurance Company and China Organic Agriculture, Inc.
+
+10.22 Agreements regarding the February 29, 2008 purchase of Bellisimo Vineyard.
+
+21.1 List of Subsidiaries
+
+31.1 Certification of Chief Executive Officer Pursuant to Section 302
+
+31.2 Certification of Chief Financial Officer Pursuant to Section 302
+
+32.1 Certification of Chief Executive Officer Pursuant to Section 906
+
+32.2 Certification of Chief Financial Officer Pursuant to Section 906
+
+ 29
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+Dated: March 31, 2008 CHINA ORGANIC AGRICULTURE, INC.
+
+By: /s/ Changqing Xu
+ -------------------------------------------
+ Changqing Xu
+ Chief Executive Officer
+ (principal executive officer)
+
+By: /s/ Xuefeng Guo
+ -------------------------------------------
+ Xuefeng Guo
+ Chief Financial Officer
+ (principal financial and accounting officer)
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the registrant on
+March 31, 2008 in the capacities indicated.
+
+Signature Title
+
+/s/ Huizhi Xiao Chairman and Director
+- -----------------
+Huizhi Xiao
+
+/s/ Shujie Wu Director
+- -----------------
+Shujie Wu
+
+/s/ Zhouzhe Jin Director
+- -----------------
+Zhouzhe Jin
+
+/s/ Jingyong Ma Director
+- -----------------
+Jingyong Ma
+
+30
+
+CHINA ORGANIC AGRICULTURE, INC.
+
+ CONSOLIDATED FINANCIAL STATEMENTS
+
+ DECEMBER 31, 2007 and 2006
+
+31
+
+TABLE OF CONTENTS
+
+Report of Independent Registered Public Accounting Firm 3
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+Consolidated Balance Sheets 4
+
+Consolidated Statements of Income 5
+
+Consolidated Statements of Cash Flows 6
+
+Consolidated Statements of Stockholders' Equity 7
+
+Notes to Consolidated Financial Statements 8 - 17
+
+32
+
+MORGENSTERN, SVOBODA, & BAER, CPA's, P.C.
+
+CERTIFIED PUBLIC ACCOUNTANTS
+40 Exchange Place, Suite 1820
+New York, NY 10005
+TEL: (212) 925-9490
+FAX: (212) 226-9134
+E-MAIL: MSBCPAS@GMAIL.COM
+
+Board of Directors and Stockholders of
+China Organic Agriculture, Inc.
+
+We have audited the accompanying consolidated balance sheets of China Organic
+Agriculture, Inc. ("Company") as of December 31, 2007 and 2006 and the related
+consolidated statements of income, comprehensive income, consolidated statements
+of stockholders' equity, and cash flows for the years then ended. The Company's
+management is responsible for these financial statements. Our responsibility is
+to express an opinion on these financial statements based on our audit.
+
+We conducted our audit in accordance with standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. The Company is not required to
+have, nor were we engaged to perform, an audit of its internal control over
+financial reporting. Our audit included consideration of internal control over
+financial reporting as a basis for designing audit procedures that are
+appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the Company's internal control over financial
+reporting. Accordingly, we express no such opinion. An audit also includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements, assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+consolidated financial statement presentation. We believe that our audits
+provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of China Organic Agriculture, Inc.
+as of December 31, 2007 and 2006, and the results of its operations and its cash
+flows for the periods then ended, in conformity with accounting principles
+generally accepted in the United States of America.
+
+Morgenstern, Svoboda & Baer, CPAs, P.C.
+Certified Public Accountants
+
+New York, NY
+March 26, 2008
+
+33
+
+CHINA ORGANIC AGRICULTURE, INC.
+
+ CONSOLIDATED BALANCE SHEET
+ DECEMBER 31, 2007 AND 2006
+
+ASSETS 2007 2006
+ ----------- -----------
+ 
+Current Assets
+Cash and cash equivalents 9,697,793 316,461
+Accounts receivable, net 1,924,080 801,719
+Inventory 3,176,034 436,395
+Trade deposits 42,420 --
+Other receivables and prepayments 312,590 3,284
+ ----------- -----------
+Total Current Assets 15,152,917 1,557,859
+
+Property, plant & equipment, net 1,505,783 721,728
+
+Intangibles, net 3,304,776 3,444,220
+
+ ----------- -----------
+Total Assets 19,963,476 5,723,807
+ =========== ===========
+
+ LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current Liabilities
+
+Accounts payable and accrued expenses 179,783 1,148,473
+Due to related party 364,865 --
+Taxes payable 375,667 51,649
+ ----------- -----------
+Total Current Liabilities 920,315 1,200,122
+Stockholders' Equity
+
+Preferred stock, par value, 0.001 per share
+ 20,000,000 shares authorized, none outstanding -- --
+Common stock, par value, "nil" 3,931,976 3,862,976
+ 1,000,000,000 shares authorized
+ 51,548,776 and 42,798,776 issued and outstanding
+Additional paid in capital 420,525 --
+Statutory reserves 824,168 824,168
+Other comprehensive income 602,498 65,137
+Retained earnings (deficit) 13,263,994 (228,596)
+ ----------- -----------
+Total Stockholders' Equity 19,043,161 4,523,685
+ ----------- -----------
+Total Liabilities and Stockholders' Equity 19,963,476 5,723,807
+ =========== ===========
+
+The accompanying notes are an integral part of these financial statements.
+
+34
+
+CHINA ORGANIC AGRICULTURE, INC.
+
+ CONSOLIDATED STATEMENTS OF INCOME
+ FOR THE YEARS ENDING DECEMBER 31, 2007 AND 2006
+
+2007 2006
+ ------------ ------------
+ 
+Sales, net 44,500,003 9,002,345
+
+Cost of sales 29,382,399 5,210,575
+ ------------ ------------
+Gross profit 15,117,604 3,791,770
+
+Selling, general and administrative expenses 1,556,350 364,500
+ ------------ ------------
+Income from operations 13,561,254 3,427,270
+ ------------ ------------
+
+Other expense (income) 70,295 (3,827)
+Interest (income) (1,631)
+ ------------ ------------
+Income before income taxes 13,492,590 3,431,097
+
+Provision for income taxes -- --
+ ------------ ------------
+Net income 13,492,590 3,431,097
+ ============ ============
+
+Weighted average number of common shares, basic 51,548,776 51,548,776
+Weighted average number of common shares, dilutive 51,616,372 51,548,776
+Earnings per share of common stock:
+
+Basic 0.26 0.07
+Dilutive 0.26 0.07
+
+The accompanying notes are an integral part of these financial statements.
+
+ 35
+
+CHINA ORGANIC AGRICULTURE, INC.
+
+ CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+ FOR THE YEARS ENDING DECEMBER 31, 2007 AND 2006
+
+2007 2006
+ ----------- -----------
+ 
+Net Income 13,492,590 3,431,097
+
+Other Comprehensive Income
+ Foreign Currency Translation Adjustment 537,361 4,527
+ ----------- -----------
+
+Comprehensive Income 14,029,951 3,435,624
+ =========== ===========
+
+The accompanying notes are an integral part of these financial statements.
+
+36
+
+CHINA ORGANIC AGRICULTURE, INC.
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+ FOR THE YEARS ENDED DECEMBER 31, 2007 AND 2006
+
+2007 2006
+ ----------- -----------
+CASH FLOWS FROM OPERATING ACTIVITIES
+ 
+Net income 13,492,590 3,431,097
+Adjustments to reconcile net income to net cash
+ provided by operating activities:
+ Stock based compensation 420,525 --
+ Depreciation and amortization 207,430 196,751
+ Loss on fixed assets retirements -- 4,042
+(Increase) /decrease in assets:
+ Accounts receivables (1,122,361) (207,606)
+ Inventory (2,739,639) 305,438
+ Trade deposits (42,420)
+ Other current assets (309,306) 5,365
+Increase /(decrease) in current liabilities:
+ Accounts payable and accrued expenses (899,690) (481,561)
+ Due to related party 364,865 --
+
+Taxes payable 324,018 (106,915)
+ ----------- -----------
+
+Net cash provided by operating activities 9,696,012 3,146,611
+ ----------- -----------
+
+CASH FLOWS FROM INVESTING ACTIVITIES
+Purchase of property, plant & equipment (852,041) (32,490)
+ ----------- -----------
+Net cash provided by Investing activities (852,041) (32,490)
+ ----------- -----------
+CASH FLOWS FROM FINANCING ACTIVITIES
+Dividend -- (3,429,165)
+ ----------- -----------
+Net Cash provided by (used in) Financing Activities (3,429,165)
+ ----------- -----------
+Effect of exchange rate changes on cash and cash equivalents 537,361 4,927
+
+Net change in cash and cash equivalents 9,381,332 (310,517)
+Cash and cash equivalents, beginning balance 316,461 626,578
+ ----------- -----------
+Cash and cash equivalents, ending balance 9,697,793 316,461
+ =========== ===========
+SUPPLEMENTAL DISCLOSURES:
+Cash paid during the year for:
+ Income tax payments -- --
+ =========== ===========
+ Interest payments -- --
+ =========== ===========
+
+The accompanying notes are an integral part of these financial statements.
+
+37
+
+CHINA ORGANIC AGRICULTURE, INC.
+
+ CONSOLIDATED STATEMENT OF STOCKHOLDERS' EQUITY
+
+ FOR THE YEARS ENDED DECEMBER 31, 2007 AND 2006
+
+Common Common Additional Other Retained Total
+ Stock Stock Paid Statutory Comprehensive Earnings Stockholders'
+ Shares Amount In Capital Reserves Income (Deficit) Equity
+ ------ ------ ---------- -------- ------ --------- ------
+
+Balance January 1, 2006 51,548,776 3,931,976 - 481,110 60,610 112,530 4,586,226
+Foreign currency translation
+ adjustments 4,527 4,527
+Net income for the year ended
+ 12/31/06 3,431,097 3,431,097
+
+Dividend (3,429,165) (3,429,165)
+
+Transferred to statutory reserve 343,058 (343,058) -
+ ---------- ----------- ----------- ---------- ---------- ------------ --------------
+Balance December 31, 2006 51,548,776 3,931,976 824,168 65,137 (228,596) 4,592,685
+Foreign currency translation
+ adjustments 537,361 537,361
+Net income for the year ended
+ 12/31/07 13,492,590 13,492,590
+Stock based compensation 420,525 420,525
+ ---------- ----------- ----------- ---------- ---------- ------------ --------------
+Balance December 31, 2007 51,548,776 3,931,976 420,525 824,168 602,498 13,263,994 19,043,161
+ ---------- ----------- ----------- ---------- ---------- ------------ --------------
+
+The accompanying notes are an integral part of these financial statements.
+
+38
+
+CHINA ORGANIC AGRICULTURE, INC.
+ NOTES TO FINANCIAL STATEMENTS
+ DECEMBER 31, 2007
+
+Note 1 - ORGANIZATION AND - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+China Organic Agriculture, Inc. ("CNOA" or "Company") (formerly Industrial
+Electric Services, Inc.) ("IESI") was incorporated on August 5, 2005, in the
+state of Florida. The Company has three wholly owned subsidiaries. China Organic
+Agriculture, Ltd. ("COA") was incorporated on August 10, 2006 under the laws of
+the British Virgin Islands. Jilin Songyuan City ErMaPao Green Rice Ltd
+("ErMaPao") was established in 2002 under the laws of the People's Republic of
+China. COA owns 100 of ErMaPao. Jilin Yutian of Organic Agriculture Co., Ltd
+("Yutian") was founded in August 2007 under the laws of the People's Republic of
+China. It is owned 100 by ErMaPao. The Company is engaged in the business of
+rice production and processing.
+
+Basis of Presentation
+
+The accompanying consolidated financial statements include the accounts of CNOA
+and its wholly-owned subsidiaries, except that the financials do not include the
+activities of IESI that occurred prior to the reverse merger as discussed below.
+These have been prepared in conformity with accounting principles generally
+accepted in the United States of America and all material intercompany
+transactions have been eliminated in consolidation. The Company's functional
+currency is the Chinese Yuan Renminbi; however, the accompanying consolidated
+financial statements have been translated and presented in U. S. Dollars. In the
+opinion of management, the accompanying consolidated financial statements
+reflect the adjustments considered necessary for a fair presentation of the
+Company's results as of December 31, 2007 and 2006, and for the years then
+ended.
+
+On March 15, 2007, CNOA, formerly IESI, through a reverse merger, issued
+27,448,776 shares of stock in exchange for all the outstanding shares of COA.
+Under accounting principles generally accepted in the United States, the share
+exchange is considered to be a capital transaction in substance, rather than a
+business combination. Thus the share exchange is equivalent to the issuance of
+stock by COA for the net monetary assets of CNOA, accompanied by a
+recapitalization, and is accounted for as a change in capital structure.
+Accordingly, the accounting for the share exchange will be identical to that
+resulting from a reverse acquisition, except no goodwill will be recorded. Under
+reverse takeover accounting, the post reverse acquisition comparative historical
+financial statements of the legal acquirer, CNOA, are those of the legal
+acquiree, COA, which is considered to be the accounting acquirer, and thus
+represent a continuation of the financial statements of COA. Share and per share
+amounts stated have been retroactively adjusted to reflect the merger.
+
+Translation Adjustment
+
+As of December 31, 2007 and December 31, 2006, the accounts of China Organic
+Agriculture, Inc., were maintained, and its financial statements were expressed,
+in Chinese Yuan Renminbi. Such financial statements were translated into U.S.
+Dollars in accordance with Statement of Financial Accounting Standards ("SFAS")
+No. 52, "Foreign Currency Translation" ("SFAS No. 52"), with the Chinese Yuan
+Renminbi as the functional currency. According to SFAS No. 52, all assets and
+liabilities were translated at the current exchange rate, stockholders' equity
+is translated at the historical rates and income statement items are translated
+at the average exchange rate for the period. The resulting translation
+adjustments are reported under other comprehensive income in accordance with
+SFAS No. 130, "Reporting Comprehensive Income," as a component of shareholders'
+equity. Transaction gains and losses are reflected in the income statement.
+
+39
+
+CHINA ORGANIC AGRICULTURE, INC.
+ NOTES TO FINANCIAL STATEMENTS
+ DECEMBER 31, 2007
+
+Note 1 - ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+
+Use of Estimates
+
+The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and disclosure of
+contingent assets and liabilities at the date of the financial statements and
+the reported amounts of revenues and expenses during the reporting period.
+Actual results could differ from those estimates.
+
+Risks and Uncertainties
+
+The Company is subject to substantial risks from, among other things, intense
+competition associated with the industry in general, other risks associated with
+financing, liquidity requirements, rapidly changing customer requirements,
+limited operating history, foreign currency exchange rates and the volatility of
+public markets.
+
+Contingencies
+
+Certain conditions may exist as of the date the financial statements are issued,
+which may result in a loss to the Company but which will only be resolved when
+one or more future events occur or fail to occur. The Company's management and
+legal counsel assess such contingent liabilities, and such assessment inherently
+involves an exercise of judgment. In assessing loss contingencies related to
+legal proceedings that are pending against the Company or unasserted claims that
+may result in such proceedings, the Company's legal counsel evaluates the
+perceived merits of any legal proceedings or unasserted claims as well as the
+perceived merits of the amount of relief sought or expected to be sought.
+
+If the assessment of a contingency indicates that it is probable that a material
+loss has been incurred and the amount of the liability can be estimated, then
+the estimated liability would be accrued in the Company's financial statements.
+If the assessment indicates that a potential material loss contingency is not
+probable but is reasonably possible, or is probable but cannot be estimated,
+then the nature of the contingent liability, together with an estimate of the
+range of possible loss if determinable and material would be disclosed.
+
+Loss contingencies considered to be remote by management are generally not
+disclosed unless they involve guarantees, in which case the guarantee would be
+disclosed.
+
+Cash and Cash Equivalents
+
+Cash and cash equivalents include cash in hand and cash in time deposits,
+certificates of deposit and all highly liquid debt instruments with original
+maturities of three months or less.
+
+Accounts Receivable
+
+The Company maintains reserves it judges are required for potential credit
+losses on accounts receivable. Management reviews the composition of accounts
+receivable and analyzes historical bad debts, customer concentrations, customer
+credit worthiness, current economic trends and changes in customer payment
+patterns to evaluate the adequacy of these reserves. Terms of the sales vary.
+Reserves are recorded primarily on a specific identification basis. There are no
+doubtful accounts as of December 31, 2007 and December 31, 2006.
+
+40
+
+CHINA ORGANIC AGRICULTURE, INC.
+ NOTES TO FINANCIAL STATEMENTS
+ DECEMBER 31, 2007
+
+Note 1 - ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+
+Inventories
+
+Inventories are valued at the lower of cost (determined on a weighted average
+basis) or market. Management compares the cost of inventories with the market
+value and allowances are made for writing down their inventories to market
+value, if lower. As of December 31, 2007 and December 31, 2006 inventories were
+ 3,176,034 and 436,395, respectively, including finished goods, valued at
+ 1,212,104 and 45,645, respectively. Raw material inventories as of December
+31, 2007 and December 31, 2006 are valued at 1,963,930 and 390,750,
+respectively. Expenses that are included in inventory and in cost of sales
+include the cost of purchased product, fees paid to the contractors, and any
+processing fees and packaging costs that may have been incurred in the
+preparation of the raw rice into the finished product.
+
+Property, Plant & Equipment
+
+Property, plant and equipment are stated at cost. Expenditures for maintenance
+and repairs are charged to earnings as incurred while additions, renewals and
+betterments are capitalized. When property, plant and equipment are retired or
+otherwise disposed of, the related cost and accumulated depreciation are removed
+from the respective accounts, and any gain or loss is included in operations.
+Depreciation of property, plant and equipment is provided using the
+straight-line method for substantially all assets with estimated lives of:
+
+ Real property 20 years
+ Machinery & equipment 5-10 years
+ Transportation equipment 5 years
+
+Intangible Assets
+
+In October 2005, the Company purchased land rights which expire in 2032. These
+intangible assets are amortized using the straight-line method over the term of
+the land rights. We evaluate the recoverability of intangible assets
+periodically and take into account events or circumstances that warrant revised
+estimates of useful lives or that indicate that impairment exists. All of our
+intangible assets are subject to amortization. No impairments of intangible
+assets have been identified during any of the periods presented.
+
+Long-Lived Assets
+
+Effective January 1, 2002, the Company adopted SFAS No. 144, "Accounting for the
+Impairment or Disposal of Long-Lived Assets" ("SFAS 144"), which addresses
+financial accounting and reporting for the impairment or disposal of long-lived
+assets and supersedes SFAS No. 121, "Accounting for the Impairment of Long-Lived
+Assets and for Long-Lived Assets to be Disposed Of," and the accounting and
+reporting provisions of Accounting Principals Board ("APB") Opinion No. 30,
+"Reporting the Results of Operations for a Disposal of a Segment of a Business."
+The Company periodically evaluates the carrying value of long-lived assets to be
+held and used in accordance with SFAS No. 144. SFAS No. 144 requires impairment
+losses to be recorded on long-lived assets used in operations when indicators of
+impairment are present and the undiscounted cash flows estimated to be generated
+by those assets are less than the assets carrying amounts. In that event, a loss
+is recognized based on the amount by which the carrying amount exceeds the fair
+market value of the long-lived assets. Loss on long-lived assets to be disposed
+of is determined in a similar manner, except that fair market values are reduced
+for the cost of disposal. Based
+
+41
+
+CHINA ORGANIC AGRICULTURE, INC.
+ NOTES TO FINANCIAL STATEMENTS
+ DECEMBER 31, 2007
+
+Note 1 - ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+
+Long-Lived Assets (continued)
+
+on its review, the Company believes that, as of December 31, 2007, there were no
+significant impairments of its long-lived assets.
+
+Fair Value of Financial Instruments
+
+SFAS No. 107, "Disclosures about Fair Value of Financial Instruments," requires
+that the Company disclose estimated fair values of financial instruments. The
+carrying amounts reported in the statements of financial position for current
+assets and current liabilities that qualify as financial instruments are a
+reasonable estimate of fair value.
+
+Revenue Recognition
+
+The Company's revenue recognition policies are in compliance with Staff
+Accounting Bulletin No. 104, "Revenue Recognition." Sales revenue is recognized
+at the date that our customers take delivery of the product at our distribution
+center when a formal arrangement exists, the price is fixed or determinable, no
+other significant obligations of the Company exist and collectability is
+reasonably assured. Payments received before all of the relevant criteria for
+revenue recognition are satisfied are recorded as unearned revenue. The
+Company's products are not returnable.
+
+Advertising Costs
+
+The Company expenses advertising costs as incurred. For the year ended December
+31, 2007, advertising costs were 38,406. The Company does not provide rebates,
+slotting fees or cooperative advertising payments to its customers.
+
+Income Taxes
+
+The Company utilizes SFAS No. 109, "Accounting for Income Taxes," which requires
+the recognition of deferred tax assets and liabilities for the expected future
+tax consequences of events that have been included in the financial statements
+or tax returns. Under this method, deferred income taxes are recognized for the
+tax consequences in future years for differences between the tax bases of assets
+and liabilities and their financial reporting amounts at each period end based
+on enacted tax laws and statutory tax rates applicable to the periods in which
+the differences are expected to affect taxable income. Valuation allowances are
+established, when necessary, to reduce deferred tax assets to the amount
+expected to be realized.
+
+Basic and Diluted Earnings per Share
+
+Earnings per share are calculated in accordance with the SFAS No. 128, "Earnings
+per Share" ("SFAS No.128"). SFAS No. 128 superseded APB No. 15. The basic
+earnings per share is based upon the weighted average number of common shares
+outstanding. Dilutive earnings per share is based on the weighted average shares
+of the common stock outstanding adjusted for the impact of potentially dilutive
+securities outstanding. The dilutive impact of warrants outstanding during 2007
+is calculated using the treasury stock method, which treats the warrants as if
+they were exercised at the date of grant, adjusted for common stock assume to be
+repurchased with the proceeds realized upon the exercise of the warrants. The
+Company had no dilutive securities outstanding as of December 31, 2006.
+
+42
+
+CHINA ORGANIC AGRICULTURE, INC.
+ NOTES TO FINANCIAL STATEMENTS
+ DECEMBER 31, 2007
+
+Note 1 - ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+
+Statement of Cash Flows
+
+In accordance with SFAS No. 95, "Statement of Cash Flows," cash flows from the
+Company's operations are based upon the local currency. As a result, amounts
+related to assets and liabilities reported on the statement of cash flows will
+not necessarily agree with changes in the corresponding balances on the balance
+sheet.
+
+Concentration of Credit Risk
+
+Financial instruments that potentially subject the Company to concentrations of
+credit risk are cash, accounts receivable and other receivables arising from its
+normal business activities. The Company places its cash in what it believes to
+be credit-worthy financial institutions. The Company has a diversified base of
+customers who are located in China. The Company controls credit risk related to
+accounts receivable through credit approvals, credit limits and monitoring
+procedures. The Company routinely assesses the financial strength of its
+customers and, based upon factors surrounding the credit risk, establishes an
+allowance, if required, for uncollectible accounts. As a consequence, the
+Company believes that its accounts receivable credit risk exposure beyond such
+allowance is limited.
+
+Segment Reporting
+
+SFAS No. 131, "Disclosure about Segments of an Enterprise and Related
+Information," requires use of the management approach model for segment
+reporting. The management approach model is based on how a company's management
+organizes segments within the company for making operating decisions and
+assessing performance. Reportable segments are based on products and services,
+geography, legal structure, management structure, or any other manner in which
+management disaggregates a company. Based on this model, the Company has one
+segment, the production and processing of rice.
+
+Recent Accounting Pronouncements
+
+In February 2006, FASB issued SFAS No. 155, "Accounting for Certain Hybrid
+Financial Instruments." ("SFAS No. 155"). SFAS No. 155 amends SFAS No 133,
+"Accounting for Derivative Instruments and Hedging Activities," ("SFAS No. 133")
+and SFAS No. 140, "Accounting for Transfers and Servicing of Financial Assets
+and Extinguishments of Liabilities" ("SFAS No. 140"). SFAS No. 155 allows
+financial instruments that have embedded derivatives to be accounted for as a
+whole (eliminating the need to bifurcate the derivative from its host) if the
+holder elects to account for the whole instrument on a fair value basis. SFAS
+No. 155 also clarifies and amends certain other provisions of SFAS No. 133 and
+SFAS No. 140. This statement is effective for all financial instruments acquired
+or issued in fiscal years beginning after September 15, 2006. The Company does
+not believe that its adoption had a material impact on its financial position,
+results of operations or cash flows.
+
+In March 2006, the FASB issued SFAS Statement No. 156, "Accounting for Servicing
+of Financial Assets - an amendment to FASB Statement No. 140," ("SFAS No. 156").
+Statement No. 156 requires that an entity recognize a servicing asset or
+servicing liability each time it undertakes an obligation to service a financial
+asset by entering into a service contract under certain situations. The new
+standard is effective for fiscal years beginning after September 15, 2006. The
+Company does not believe that its adoption of this new standard had a material
+impact on its financial position, results of operations or cash flows.
+
+43
+
+CHINA ORGANIC AGRICULTURE, INC.
+ NOTES TO FINANCIAL STATEMENTS
+ DECEMBER 31, 2007
+
+Note 1 - ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+
+Recent Accounting Pronouncements (continued)
+
+In September, 2006, FASB issued SFAS Statement No. 157 "Fair Value
+Measurements," ("SFAS No. 157"). SFAS No. 157 defines fair value, establishes a
+framework for measuring fair value in generally accepted accounting principles
+("GAAP"), and expands disclosures about fair value measurements. This Statement
+applies under other accounting pronouncements that require or permit fair value
+measurements, as the FASB previously concluded in those accounting
+pronouncements that fair value is the relevant measurement attribute.
+Accordingly, SFAS No. 157 does not require any new fair value measurements.
+However, for some entities, the application of SFAS No. 157 will change current
+practice. This Statement is effective for financial statements issued for fiscal
+years beginning after November 15, 2007, and interim periods within those fiscal
+years. The Company is currently evaluating the effect of this pronouncement on
+financial statements.
+
+In September 2006, FASB issued SFAS Statement No. 158 "Employers' Accounting for
+Defined Benefit Pension and Other Postretirement Plans - an amendment of FASB
+Statements No. 87, 88, 106, and 132(R)." SFAS No. 158 improves financial
+reporting by requiring an employer to recognize the over-funded or underfunded
+status of a defined benefit postretirement plan (other than a multiemployer
+plan) as an asset or liability in its statement of financial position and to
+recognize changes in that funded status in the year in which the changes occur
+through comprehensive income of a business entity or changes in unrestricted net
+assets of a not-for-profit organization. This Statement also improves financial
+reporting by requiring an employer to measure the funded status of a plan as of
+the date of its year-end statement of financial position, with limited
+exceptions. An employer with publicly traded equity securities is required to
+initially recognize the funded status of a defined benefit postretirement plan
+and to provide the required disclosures as of the end of the fiscal year ending
+after December 15, 2006.
+
+The requirement to measure plan assets and benefit obligations as of the date of
+the employer's fiscal year-end statement of financial position is effective for
+fiscal years ending after December 15, 2008.
+
+The Company believes that the adoption of these standards will have no material
+impact on its financial statements.
+
+In February, 2007, FASB issued SFAS No. 159, "The Fair Value Option for
+Financial Assets and Financial Liabilities - Including an Amendment of FASB
+Statement No. 115." This Statement permits entities to choose to measure many
+financial instruments and certain other items at fair value. This Statement is
+expected to expand the use of fair value measurement, which is consistent with
+the Board's long-term measurement objectives for accounting for financial
+instruments. This Statement is effective as of the beginning of an entity's
+first fiscal year that begins after November 15, 2007. The Company is currently
+evaluating the effect of this pronouncement on financial statements.
+
+44
+
+CHINA ORGANIC AGRICULTURE, INC.
+ NOTES TO FINANCIAL STATEMENTS
+ DECEMBER 31, 2007
+
+Note 2 -PROPERTY, PLANT & EQUIPMENT
+
+As of December 31, 2007 and December 31, 2006, Property, plant & equipment
+consist of the following:
+
+ 12/31/2007 12/31/2006
+ ----------- -----------
+
+ Construction in progress 793,557 --
+
+ Machinery & equipment 285,959 240,203
+
+ Real property 579,989 579,988
+
+ Transportation equipment 61,302 48,575
+ ----------- -----------
+
+ Total property, plant & equipment 1,720,807 868,766
+
+ Accumulated depreciation (215,024) (147,038)
+ ----------- -----------
+ Net property, plant & equipment 1,505,783 721,728
+ =========== ===========
+
+During the years ended December 31, 2007 and 2006, depreciation expense was 
+68,986 and 59,863, respectively.
+
+Note 3 - INTANGIBLE ASSETS
+
+As of December 31, 2007 and December 31, 2006, Intangible assets consist of the
+following:
+
+ 12/31/2007 12/31/2006
+ ----------- -----------
+
+ Purchased land rights 3,613,293 3,613,293
+
+ Accumulated amortization (308,517) (169,073)
+ ----------- -----------
+
+ Intangible assets 3,304,776 3,444,220
+ =========== ===========
+
+During the years ended December 31, 2007 and 2006, amortization expense was
+ 139,444 and 136,039 respectively.
+
+The estimated future amortization expenses related to intangible assets as of
+December 31, 2007 are as follows:
+
+ 2008 140,112
+ 2009 140,112
+ 2010 140,112
+ 2011 140,112
+ 2012 140,112
+ Thereafter 2,604,216
+
+45
+
+CHINA ORGANIC AGRICULTURE, INC.
+ NOTES TO FINANCIAL STATEMENTS
+ DECEMBER 31, 2007
+
+Note 4 - COMPENSATED ABSENCES
+
+Regulation 45 of local labor law entitles employees to annual vacation leave
+after 1 year of service. In general all leave must be utilized annually, with
+proper notification. Any unutilized leave is cancelled.
+
+Note 5 - INCOME TAXES
+
+The Company's subsidiary, Jilin Province ErMaPao Green Rice Ltd, is governed by
+the Income Tax Laws of the People's Republic of China ("PRC"). Pursuant to the
+PRC Income Tax Laws, the Enterprise Income Tax (EIT) is at a statutory rate of
+33 , which is comprised of 30 national income tax and 3 local income tax.
+However, companies in the agricultural sector within the PRC typically receive
+an exemption from income tax. The Company has received a Notice of Exemption
+from income taxes and has no further information regarding if or when this
+exemption might be withdrawn.
+
+Note 6 - COMMITMENTS
+
+The Company leases facilities and equipment under operating leases that have
+expired, but continue on a month to month basis. Rental expenses were 31,585
+for the year ended December 31, 2007. The Company has no future minimum
+obligations as of December 31, 2007.
+
+In May, 2007, China Organic Agriculture Inc. entered into a Fixed Price Standby
+Equity Distribution Agreement (the "Agreement") with six potential investors
+(the "Investors"). Pursuant to the Agreement, the Company could, at its
+discretion, periodically sell to the Investors up to 20 million shares of the
+Company's common stock, par value .001 per share, for a total purchase price of
+up to 21 million (a per share purchase price of 1.05 per share). The
+Investors' obligation to purchase shares of common stock under the Agreement was
+subject to certain conditions, including the Company obtaining an effective
+registration statement for the resale of the common stock sold under the
+Agreement.
+
+The commitment period under the Agreement was to commence on the earlier to
+occur of (i) the date that the Registration Statement is declared effective by
+the Securities and Exchange Commission (the "Effective Date"), or (ii) such
+earlier date as the Company and the Investors may mutually agree in writing.
+
+The commitment period under the Agreement was to expire on the earliest to occur
+of (i) the date on which the Investors have purchased an aggregate amount of 20
+million shares of our common stock under the Agreement, (ii) the date occurring
+eighteen months after the Effective Date, or (iii) the date the Agreement is
+earlier terminated as defined in the agreement. No sale or distribution of stock
+under this Agreement has been made. See Note 13 - Subsequent Events
+
+Note 7 - STATUTORY RESERVE
+
+In accordance with the laws and regulations of the PRC, 10 of the wholly-owned
+Foreign Invested Enterprises income, after the payment of the PRC income taxes,
+shall be allocated to the statutory reserve fund until the balance reaches 50 
+of registered capital. Prior to January 1, 2006, an additional 5-10 was to be
+allocated to a statutory public affair fund. Effective January 1, 2006, there is
+now only the statutory reserve fund requirement. As of December 31, 2007 the
+statutory reserve fund had exceeded 50 of registered capital and thus no
+further allocation is required.
+
+Statutory reserve funds are restricted for set off against losses, expansion of
+production and operation or increase in register capital of the respective
+company. The statutory public welfare fund is restricted to the capital
+expenditures for the collective welfare of employees. These reserves are not
+transferable in the form of cash dividends, loans or advances. These reserves
+are therefore not commonly available for distribution
+
+46
+
+CHINA ORGANIC AGRICULTURE, INC.
+ NOTES TO FINANCIAL STATEMENTS
+ DECEMBER 31, 2007
+
+Note 7 - STATUTORY RESERVE (Continued)
+
+As of December 31, 2007 and December 31, 2006, the Company had allocated
+ 824,168 to these non-distributable reserve funds.
+
+Note 8 - CURRENT VULNERABILITY DUE TO CERTAIN RISK FACTORS
+
+The Company's operations are carried out in the PRC. Accordingly, the Company's
+business, financial condition and results of operations may be influenced by the
+political, economic and legal environments in the PRC, and by the general state
+of the PRC's economy. The Company's business may be influenced by changes in
+governmental policies with respect to laws and regulations, anti-inflationary
+measures, currency conversion and remittance abroad, and rates and methods of
+taxation, among other things.
+
+Note 9 - PRODUCT MIX AND MAJOR CUSTOMERS
+
+In 2006, approximately 56 of the Company's revenue resulted from the sales of
+its "organic" rice and 44 came from the sale of its "green" rice variety. In
+2007 there was a significant increase in the sale of the "green" rice, which
+made up approximately 85 of the Company's revenue, with the remaining 15 
+pertaining to the "organic" rice. The Company had one customer who accounted for
+more than 10 of revenues during the year ended December 31, 2007. One customer
+accounted for more than 10 of the Company's accounts receivable at December 31,
+2007. There was no concentration for purchases or accounts payable.
+
+Note 10 - RELATED PARTIES
+
+The Company became indebted during the year to an affiliate of a related party,
+for advances made to third parties on behalf of the Company. As of December 31,
+2007 the Company owed 364,865 to such stockholder. The amount is evidenced by
+an interest free promissory note payable upon demand.
+
+During 2005 the Company received advances from related third parties totaling
+ 41,750 which were repaid without interest in 2006.
+
+During 2006 and 2005, the Company utilized office space and office amenities of
+a related entity. The Company recorded 900 and 3,600, respectively, for this
+as rent expense and considered the amount a contribution of capital.
+
+During the year ended December 31, 2006 the company sold property and equipment
+with a net book value of 17,718 to a related party, former shareholder, who
+assumed debt of 20,740.
+
+The above terms and amounts are not necessarily indicative of the terms and
+amounts that would have been incurred had comparable transactions been entered
+into with independent parties.
+
+Note 11 - STOCK WARRANT AND OPTIONS
+
+On April 19, 2007, the Company issued a warrant for 350,000 shares with an
+exercise price of 1.50. The warrants were issued for consulting services to be
+provided from April 19, 2007 to April 18, 2008. The warrant was exercisable
+immediately and expires on April 19, 2009. The holder has no voting or dividend
+rights. No warrants were exercised in 2007.
+
+The Company expensed 420,525, representing the fair value of this warrant, as
+consulting fees during 2007, the year of vesting. The warrants were valued using
+the Black-Scholes option-pricing model at the
+
+47
+
+CHINA ORGANIC AGRICULTURE, INC.
+ NOTES TO FINANCIAL STATEMENTS
+ DECEMBER 31, 2007
+
+Note 11 - STOCK WARRANT AND OPTIONS (Continued)
+
+date of granting. The fair value of the warrant was calculated assuming 101 
+volatility, a term of the warrant of two years, a risk free rate of 2 and a
+dividend yield of 0 .
+
+Expected volatility is based on the historical volatility of the Company's stock
+price. The expected term represents the period of time that the warrants remain
+outstanding. No dividend payouts were assumed, as the Company has no plans to
+declare dividends during the expected term of the warrants. The risk-free rate
+of return reflects the weighted average interest rate offered for zero coupon
+treasury bonds over the expected term of the warrants.
+
+ Exercise
+ Total Price ) Remaining Life
+- --------------------------------------------------------------------------------
+OUTSTANDING, December 2006 -
+- --------------------------------------------------------------------------------
+Granted in 2007 350,000 1.50 475 days
+- --------------------------------------------------------------------------------
+Exercised in 2007 -
+- --------------------------------------------------------------------------------
+OUTSTANDING, December 2007 350,000
+- --------------------------------------------------------------------------------
+
+The Company had no outstanding stock options during 2007 or 2006.
+
+Note 12 - EARNINGS PER SHARE
+
+The following table sets forth the computation of basic and diluted earnings per
+share for the years ended December 31:
+
+2007 2006
+ ----------- -----------
+ 
+Net income for basic and diluted earnings per share 13,492,590 3,431,097
+
+Weighted average shares of common stock for basic earnings per share 51,548,776 51,548,776
+
+Dilutive effect of stock warrants 67,596 --
+
+Adjusted weighted average shares of common stock for diluted
+earnings per share 51,616,372 51,548,776
+
+Basic earnings per share 0.26 0.07
+
+Diluted earnings per share 0.26 0.07
+
+48
+
+CHINA ORGANIC AGRICULTURE, INC.
+ NOTES TO FINANCIAL STATEMENTS
+ DECEMBER 31, 2007
+
+Note 13 - SUBSEQUENT EVENTS
+
+On December 12 2007, the Company announced that it had entered into a letter of
+intent to acquire Dalian Baoshui District Huiming Trading Limited ("Dalian").
+The acquisition remains subject to the Company's due diligence. Dalian is
+engaged in grain procurement, international and domestic trading, wholesale
+sales, and food delivery logistic services. Its main products include soybeans,
+corn and cereal crops, which are major products from the Northeast part of
+China. Dalian's sales are concentrated in the provinces of Liaoning, Jiling,
+Heilongjiang, Sichuan, and Fujian, as well as the cities of Beijing and
+Shanghai.
+
+On February 29, 2008, we purchased the Bellisimo Vineyard, a 153-acre operating
+vineyard located in Sonoma County, California, for 14,750,000. A portion of the
+purchase price, 8,515,000, was paid with funds provided by a commercial US
+lender which was granted a first lien on the property. The balance of the
+purchase price was financed with third party debt of approximately 6,235,000 on
+terms yet to be settled. Bellisimo Vineyard provides Merlot, Chardonnay, and
+Cabernet Sauvignon grapes to wineries each year for both red and white wines.
+
+On March 25, 2008, the Company and the group of six investors mutually agreed to
+terminate the Fixed Price Standby Equity Distribution Agreement they had entered
+in May, 2007. No shares were sold or distributed under the Agreement by, to or
+among any of the parties, and none of the parties have any rights remaining
+under the Agreement or arising out of the termination of the Agreement.
+
+49
+
+<EX-10.20>
+ 2
+ e603590_ex10-20.htm
+
+</EX-10.20>
+
+<EX-10.21>
+ 4
+ e603590_ex10-21.htm
+
+</EX-10.21>
+
+<EX-10.22>
+ 16
+ e603590_ex10-22.htm
+
+</EX-10.22>
+
+<EX-21.1>
+ 29
+ e603590_ex21-1.txt
+ 
+ Exhibit 21.1
+
+ Subsidiaries
+
+Name Jurisdiction of Incorporation Ownership
+- ---- ----------------------------- ---------
+ 
+China Organic Agriculture, Ltd. British Virgin Islands. 100 (direct)
+
+Jilin Songyuan City ErMaPao Green Rice Ltd Peoples Republic of China 100 (indirect)
+
+Jilin Yutian Organic Agriculture Co., Ltd People's Republic of China 100 (indirect)
+
+</EX-21.1>
+
+<EX-31>
+ 30
+ e603590_ex31-1.txt
+
+EXHIBIT 31.1
+
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO
+ SECTION 302(a) OF THE SARBANES-OXLEY ACT OF 2002
+
+ I, __________, President and Chief Executive Officer of China Organic,
+Inc. (the "Company"), certify that:
+
+ 1. I have reviewed this annual report on Form 10-K of the Company for the
+year ended December 31, 2007;
+
+ 2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report;
+
+ 3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+ 4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and internal
+control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and
+15d-15(f)) and have:
+
+ a. Designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known
+ to us by others within those entities, particularly during the
+ period in which this report is being prepared;
+
+ b. Designed such internal control over financial reporting, or caused
+ such internal control over financial reporting to be designed under
+ our supervision, to provide reasonable assurance regarding the
+ reliability of financial reporting and the preparation of financial
+ statements for external purposes in accordance with generally
+ accepted accounting principles;
+
+ c. Designed such internal control over financial reporting, or caused
+ such internal control over financial reporting to be designed under
+ our supervision, to provide reasonable assurance regarding the
+ reliability of financial reporting and the preparation of financial
+ statements for external purposes in accordance with generally
+ accepted accounting principles;
+
+ d. Evaluated the effectiveness of the registrant's disclosure controls
+ and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of
+ the end of the period covered by this report based on such
+ evaluation; and
+
+ e. Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the
+ registrant's fiscal quarter ended December 31, 2007 that has
+ materially affected, or is reasonably likely to materially affect,
+ the registrant's internal control over financial reporting; and
+
+5. The registrant's other certifying officer and I have disclosed, based on
+ our most recent evaluation of internal control over financial reporting,
+ to the registrant's auditors and the audit committee of registrant's board
+ of directors (or persons performing the equivalent functions):
+
+ a. All significant deficiencies and material weaknesses in the design
+ or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant's ability to
+ record, process, summarize and report financial information; and
+
+ b. Any fraud, whether or not material, that involves management or
+ other employees who have a significant role in the registrant's
+ internal control over financial reporting.
+
+Date: March __, 2008 --------------------------------
+ Name:
+
+</EX-31>
+
+<EX-31>
+ 31
+ e603590_ex31-2.txt
+
+EXHIBIT 31.2
+
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER PURSUANT TO
+ SECTION 302(a) OF THE SARBANES-OXLEY ACT OF 2002
+
+ I, ____________________, Chief Financial Officer of China Organic, Inc.
+(the "Company"), certify that:
+
+ 1. I have reviewed this annual report on Form 10-K of the Company for the
+year ended December 31, 2007;
+
+ 2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report;
+
+ 3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+ 4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and internal
+control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and
+15d-15(f)) and have:
+
+ a. Designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known
+ to us by others within those entities, particularly during the
+ period in which this report is being prepared;
+
+ b. Designed such internal control over financial reporting, or caused
+ such internal control over financial reporting to be designed under
+ our supervision, to provide reasonable assurance regarding the
+ reliability of financial reporting and the preparation of financial
+ statements for external purposes in accordance with generally
+ accepted accounting principles;
+
+ c. Designed such internal control over financial reporting, or caused
+ such internal control over financial reporting to be designed under
+ our supervision, to provide reasonable assurance regarding the
+ reliability of financial reporting and the preparation of financial
+ statements for external purposes in accordance with generally
+ accepted accounting principles;
+
+ d. Evaluated the effectiveness of the registrant's disclosure controls
+ and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of
+ the end of the period covered by this report based on such
+ evaluation; and
+
+ e. Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the
+ registrant's fiscal quarter ended December 31, 2007 that has
+ materially affected, or is reasonably likely to materially affect,
+ the registrant's internal control over financial reporting; and
+
+5. The registrant's other certifying officer and I have disclosed, based
+on our most recent evaluation of internal control over financial reporting, to
+the registrant's auditors and the audit committee of registrant's board of
+directors (or persons performing the equivalent functions):
+
+ a. All significant deficiencies and material weaknesses in the design
+ or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant's ability to
+ record, process, summarize and report financial information; and
+
+ b. Any fraud, whether or not material, that involves management or
+ other employees who have a significant role in the registrant's
+ internal control over financial reporting.
+
+Date: March __, 2008 --------------------------------
+ Name:
+
+</EX-31>
+
+<EX-32>
+ 32
+ e603590_ex32-1.txt
+
+EXHIBIT 32.1
+
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER
+ PURSUANT TO 18 U.S.C. SECTION 1350
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+The undersigned, the President and Chief Executive Officer of China Organic,
+Inc. (the "Company"), does hereby certify under the standards set forth and
+solely for the purposes of 18 U.S.C. 1350, as adopted pursuant to Section 906 of
+the Sarbanes-Oxley Act of 2002, that the Annual Report on Form 10-K of the
+Company for the year ended December 31, 2007 fully complies with the
+requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934
+and information contained in that Form 10-K fairly presents, in all material
+respects, the financial condition and results of operations of the Company.
+
+Dated: March __, 2008
+ --------------------------------------
+
+A signed original of this written statement required by Section 906 has been
+provided to the Company and will be retained by the Company and furnished to the
+Securities and Exchange Commission or its staff upon request.
+
+</EX-32>
+
+<EX-32>
+ 33
+ e603590_ex32-2.txt
+ 
+ EXHIBIT 32.2
+
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER
+ PURSUANT TO 18 U.S.C. SECTION 1350
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+The undersigned, the Chief Financial Officer of China Organic, Inc. (the
+"Company"), does hereby certify under the standards set forth and solely for the
+purposes of 18 U.S.C. 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that the Annual Report on Form 10-K of the Company
+for the year ended December 31, 2007 fully complies with the requirements of
+Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and information
+contained in that Form 10-K fairly presents, in all material respects, the
+financial condition and results of operations of the Company.
+
+Dated: March __, 2008
+ ------------------------------
+
+A signed original of this written statement required by Section 906 has been
+provided to the Company and will be retained by the Company and furnished to the
+Securities and Exchange Commission or its staff upon request.
+
+</EX-32>
+

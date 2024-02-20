@@ -1,0 +1,821 @@
+<Header>
+<FileStats>
+    <FileName>20001004_10-K_edgar_data_846777_0001000096-00-000668.txt</FileName>
+    <GrossFileSize>36305</GrossFileSize>
+    <NetFileSize>23228</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>731</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>1</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001000096-00-000668.hdr.sgml : 20001005
+ACCESSION NUMBER:		0001000096-00-000668
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19951231
+FILED AS OF DATE:		20001004
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FINANCIAL EXPRESS CORP /NV/
+		CENTRAL INDEX KEY:			0000846777
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [6770
+]		IRS NUMBER:				930996537
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10-K
+			SEC ACT:		
+			SEC FILE NUMBER:	033-27042-NY
+			FILM NUMBER:		734688
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		PO BOX 974
+				CITY:			RANCHO SANTA FE
+				STATE:			CA
+				ZIP:			92067
+				BUSINESS PHONE:		7606320312
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		PO BOX 974
+					CITY:			RANCHO SANTA FE
+					STATE:			CA
+					ZIP:			92067
+</MAIL-ADDRESS>
+
+					FORMER COMPANY:	
+						FORMER CONFORMED NAME:	HARLEY EQUITIES INC
+						DATE OF NAME CHANGE:	19931213
+</FORMER-COMPANY>
+</FILER>
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HjU3UG+SxPymY6aMQFdsvQcBoP4Ia+s21JVnrJ2b2kV5wPcY3Cqt08OXb5V4kkBO
+ 52EpT4obQDua0tQF7ZxO4A==
+
+ /in/edgar/work/0001000096-00-000668/0001000096-00-000668.txt : 20001005
+
+10-K
+ 1
+ 0001.txt
+ 10-K
+
+SECURITIES AND EXCHANGE COMMISSION
+
+ Washington, D.C. 20549
+
+ Form 10-K
+
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE
+ SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended Commission file number
+ December 31, 1995 33-27042-NY
+- ------------------------- ----------------------
+
+FINANCIAL EXPRESS CORPORATION
+ (Exact name of registrant as specified in its charter)
+
+ Nevada 93-0996537
+- ---------------------------- ----------------------
+(State of other jurisdiction (IRS Employer
+of incorporation) Identification Number)
+
+ P. O. Box 974, Rancho Santa Fe, California 92067
+- ------------------------------------------- ----------------------
+ (Address of principal executive offices) (Zip Code)
+
+Registrant's telephone number: (760) 756-3018
+ --------------
+
+ Securities registered pursuant to Section 12(b) of the Act:
+
+ NONE NONE
+ ------ ------
+ (Title of Each Class) (Name of Each Exchange
+ on which Registered)
+
+ Securities registered pursuant to Section 12 (g) of the Act:
+
+ Common
+ (Title of Class)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the registrant
+was required to file such reports) and (2) has been subject to such filing
+requirements for the past 90 days.
+
+ (1) Yes No X (2) Yes X No
+ ----- ----- ----- -----
+
+The number of shares of the Common Stock of the registrant outstanding as of
+December 31, 1995 was 3,704,900. The aggregate common stock held by
+non-affiliates on December 31, 1995 was approximately 204,900 shares.
+
+ Form 10-Q was not filed for 1999 and 2000 until August, 2000.
+
+FORM 10-K INDEX
+
+ PART I
+
+Item 1. Business 3
+
+Item 2. Properties 3
+
+Item 3. Legal Proceedings 3
+
+Item 4. Submission of Matters to a Vote of Security
+ Holders 3
+
+PART II
+
+Item 5. Market for Registrant's Common Equity and
+ Related Stockholders Matters 4
+
+Item 6. Selected Financial Matters 5
+
+Item 7. Management's Discussion and Analysis of Financial
+ Condition and Results of Operations 6
+
+Item 8. Financial Statements and Supplementary Data 7
+
+Item 9. Changes in and Disagreements with Accountants
+ on Accounting and Financial Disclosure 7
+
+PART III
+
+Item 10. Directors and Executive Officers of Registrant 7
+
+Item 11. Executive Compensation 7
+
+Item 12. Security Ownership of Certain Beneficial
+ Owners and Management 8
+
+Item 13. Certain Relationships and Related Transactions 8
+
+PART IV
+
+Item 14. Exhibits, Financial Statement Schedules, and
+ Reports on Form 8-K 8
+
+ A-1 Financial statements at December 31, 1995 Financial statements
+ at December 31, 1994 Financial statements at December 31, 1993
+ A-2 Financial statement schedules (None)
+ A-3 Exhibits (None)
+ B Reports on Form 8-K
+
+Item 1. Business
+ --------
+
+GENERAL
+
+ Financial Express Corporation (the "Company") was originally incorporated
+in the state of Nevada on January 5, 1989 as Harley Equities, Ltd., to purchase,
+merge with or acquire any business or assets which management believed had the
+potential for being profitable. During May of 1991, through a series of
+transactions, Harley acquired all of the outstanding stock of Financial Express
+Corporation, a company organized to develop and commercialize a distinctive
+nationwide service for processing and clearing checks and related bank
+transactions. The only assets of the acquired Company consisted of intangible
+assets comprised of intellectual properties, vendor relationships and customer
+relationships established during the development of the service.
+
+ Concurrent with the acquisition, the Company changed the Corporate name to
+Financial Express, Corporation. The Company expended all of its liquidity during
+1991 in the search for financing in order to properly develop and market its
+product.
+
+ During 1995, the development of this business was abandoned and the
+intangible assets were written off.
+
+ The Company is currently in the process of searching for financing and/or
+potential merger candidates to carry on the Company's existing or other business
+opportunities.
+
+ The Company currently has no employees.
+
+Item 2. Properties
+ ----------
+
+ The Company does not currently own or lease any properties. The directors
+provide office space at no charge to the Company.
+
+Item 3. Legal Proceedings
+ -----------------
+
+ None.
+
+Item 4. Submission of Matters to a Vote of Security Holders
+ ---------------------------------------------------
+
+ None.
+
+ 3
+
+PART II
+
+Item 5. Market for Registrant's Common Equity and
+ -----------------------------------------
+ Related Stockholder Matters
+ ---------------------------
+
+ (a) Market Information
+
+ There is no market information established for the Company.
+
+ (b) Holders
+
+The approximate number of shareholders of record of the Common Stock of the
+Company as of December 31, 1995 was 35.
+
+(c) Dividends
+
+ The Company has never paid a cash dividend and intends to retain earnings,
+if any, for use in its business and does not presently intend to pay any cash
+dividends on its Common Stock.
+
+ (d) Stock transactions
+
+ On May 1, 1991, the Registrant issued 3,500,000 shares of its Common Stock
+in exchange for all of the issued and outstanding Common Stock of Financial
+Express Corporation, Westlake, California, a business recently organized to
+develop and commercialize a distinctive nationwide service of processing the
+clearance of checks and related bank items. Prior to the completion of such
+transaction, there was issued and outstanding 138,000 Common Shares of the
+Registrant. The shareholders of Financial Express Corporation acquiring the
+shares of the Registrant are Phil E. Pearce, Frank G. Baldwin and D. Lee Falls,
+who acquired 1,166,667, 1,166,666 and 1,166,666 shares, respectively of the
+Registrant. Simultaneously with the completion of the transaction, Messrs.
+Pearce, Falls and Baldwin were elected directors of the Company and following
+completion of the transaction Howard Bronson, Isidor Friedenberg and Donald
+Weinberger resigned as officers and directors of the Company. Such resignations
+did not involve any disagreement with the Registrant. The Board of Directors has
+elected Mr. Pearce, Chairman, Mr. Falls, President, and Mr. Baldwin, Executive
+Vice President and Secretary of the Company. Following completion of the
+transaction, each of them own 31.6 of the issued and outstanding Common Stock
+of the Registrant.
+
+ 4
+
+(d) Stock transactions (continued)
+
+In connection with these transactions, the holders of Underwriter's Unit
+Purchase Warrant Agreements and Certificates issued by the Registrant in
+connection with the Registrant's initial public offering in June, 1990, agreed
+to cancel their demand registration rights and limit their piggy-back
+registration rights such that they not be exercisable after expiration of the
+Registrant's Class A or Class B Redeemable Stock Purchase Warrants. In addition,
+Westminster Securities Corporation, who acted as underwriter in connection with
+the Registrant's firm commitment public offering, agreed to a modification of
+Section 5 of the Registrant's Underwriting Agreement respecting the
+underwriter's "first right of refusal" on future offerings to limit such right
+to public offerings of the securities of the Registrant in amounts not to exceed
+ 5,000,000.
+
+Item 6. Selected Financial Data
+ -----------------------
+
+ 1995 1994 1993 1992 1991
+ ---- ------ ------ ------ ------
+
+Revenues -- -- -- -- 839
+
+Net profit (loss) (96,323) (72,890) (73,690) (70,820) (107,500)
+
+Net profit (loss)
+ per share (.03) (.02) (.02) (.019) (.029)
+
+Total assets -- 93,823 164,213 234,603 306,031
+
+Working Capital (8,300) (5,800) (3,300) -- 430
+
+ 5
+
+Item 7. Management's Discussion and Analysis of Financial Condition and Results
+ ------------------------------------------------------------------------
+ of Operations.
+ -------------
+
+ The following results of operations for the fiscal years ended December 31,
+1993, 1994 and 1995 should be read in conjunction with the financial statements
+and notes pertaining thereto appearing elsewhere in this Form 10-K.
+
+ 1995 1994 1993
+ ---- ---- ----
+
+Revenues -- -- --
+Expenses 96,323 72,890 73,690
+ ----------- ----------- -----------
+
+ Net loss (96,323) (72,890) (73,690)
+ =========== =========== ===========
+
+Weighted average common
+ shares outstanding 3,704,900 3,704,900 3,704,900
+ =========== =========== ===========
+
+Loss per common share (.03) (.02) (.02)
+ =========== =========== ===========
+
+The Company's activity during the fiscal year ended December 31, 1995
+consisted primarily of exploring various financing and investment opportunities.
+
+ As discussed in Note 1 to the Financial Statements, the Company's continued
+existence is dependent upon its ability to resolve its liquidity problems by the
+acquisition of additional equity financing, or the achievement of profitable
+operations. Management believes that profitable operations will be achieved
+within the next two years, based upon the Company's current planned operating
+activities made possible by various possible equity and debt capital options.
+
+ Liquidity. The Company currently has a short-term liquidity problem, as
+evidenced by its current working capital deficit of (8,300). However,
+management is confident that it will able to raise additional equity capital,
+due to the prospects for success with the possible new businesses.
+
+ YEAR ENDED DECEMBER 31, 1995 COMPARED TO DECEMBER 31, 1994
+
+ Operating expenses, exclusive of amortization, were insignificant due to
+company's inactivity.
+
+ YEAR ENDED DECEMBER 31, 1994 COMPARED TO DECEMBER 31, 1993
+
+ Operating expenses, exclusive of amortization, were insignificant due to
+the company's lack of working capital. The Company has no fixed operational
+financial commitments and management was able to avoid incurring any significant
+expenses during the year.
+
+ 6
+
+Item 8. Financial Statements and Supplementary Data
+ -------------------------------------------
+
+ Reference is made to the financial statements included later in this
+report under Item 14.
+
+Item 9. Changes in and Disagreements with Accountants
+ on Accounting and Financial Disclosure
+ --------------------------------------
+
+ None
+
+PART III
+
+Item 10. Directors and Executive Officers of the Registrant
+ --------------------------------------------------
+
+Name Age Position
+- ---- --- --------
+
+Phil E. Pierce 66 Chairman, Treasurer and
+ Director
+Frank G. Baldwin 65 President, Secretary, and
+ Director
+
+ The Directors will serve until the next annual meeting of shareholders or
+until their successors have been elected.
+
+ The Officers are elected annually by the Directors and serve at the
+discretion of the Board of Directors.
+
+Item 11. Executive Compensation
+ ----------------------
+
+ None.
+
+ 7
+
+Item 12. Security Ownership of Certain Beneficial
+ -----------------------------------------
+ Owners and Management
+ ---------------------
+
+Name and Address of Number of Shares of Percentage
+Beneficial Owner Common Stock Owned of Ownership
+- ---------------- ------------------ ------------
+
+Phil E. Pearce 1,166,666 31.5 
+6624 Greenleaf Court
+Charlotte, NC 28270
+
+D. Lee Falls 1,166,667 31.5 
+633 W. Fifth Street, #3675
+Los Angeles, CA 90071
+
+Frank G. Baldwin 1,166,667 31.5 
+P. O. Box 974
+Rancho Santa Fe, CA 92067
+ --------- ----
+
+All Officers and Directors
+ as a group 3,500,000 94.5 
+ ========= ====
+
+Item 13. Certain Relationships and Related Transactions
+ ----------------------------------------------
+ None.
+
+PART IV
+
+Item 14. Exhibits, Financial Statements Schedules and Reports on Form 8-K
+ ----------------------------------------------------------------
+
+ A-1 Financial statements at December 31, 1995,
+ 1994 and 1993
+ A-2 Financial statement schedules (None)
+ A-3 Exhibits (None)
+ B Reports on Form 8-K
+ May 1, 1991
+
+ 8
+
+Henson & Company, CPA's
+ 87 North Raymond Avenue Sixth Floor
+ Pasadena, CA 91103
+ (626) 792-0666 Fax (626) 683-0099
+ Stephen Henson, CPA Elizabeth Henson, CPA
+
+To the Board of Directors
+Financial Express Corporation
+
+We have audited the accompanying balance sheets of Financial Express Corporation
+at December 31, 1995 and 1994 and the related statements of operations,
+stockholders' equity, and cash flows for each of the years ended December 31,
+1995, 1994 and 1993. These financial statements are the responsibility of the
+Company's management. Our responsibility is to express an opinion on these
+financial statements based on our audit.
+
+We conducted our audit in accordance with generally accepted auditing standards.
+Those standards require that we plan and perform the audit to obtain reasonable
+assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audit provides a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of Financial Express Corporation
+at December 31, 1995 and 1994, and the results of operations, changes in
+stockholders' equity and cash flows for each of the years ended December 31,
+1995, 1994, and 1993 in conformity with generally accepted accounting
+principles.
+
+The accompanying 1995 financial statements have been prepared assuming that the
+Company will continue as a going concern. As discussed in note 1, at December
+31, 1995 the Company has no working capital and faces uncertainty with respect
+to the prospects of acquiring and/or operating a successful business in the
+future. These facts raise substantial doubt as to the Company's ability to
+continue as a going concern. Management's plans as to these matters are
+described in note 1. The 1995 financial statements do not include any
+adjustments that might result from the outcome of these uncertainties.
+
+Pasadena, California By: /s/ Stephen Henson
+ ---------------------------------------
+June 22, 2000 Stephen Henson, CPA
+
+ 9
+
+FINANCIAL EXPRESS CORPORATION
+ Balance Sheets
+ December 31, 1995 and 1994
+
+ Assets
+ 1995 1994
+ ---- ----
+Intangible assets,
+ net of accumulated
+ amortization of 351,950
+ and 258,127 -- 93,823
+ --------- ---------
+
+Total assets -- 93,823
+ ========= =========
+
+Liabilities and Stockholders' Equity
+
+Current liabilities:
+Accrued professional fees 6,150 3,650
+Due to officer 2,150 2,150
+ --------- ---------
+
+ Total current liabilities 8,300 5,800
+
+Stockholders' equity:
+Common stock .001 par value;
+ 25,000,000 shares
+ authorized; 3,704,900
+ issued and outstanding 3,705 3,705
+Additional paid in-capital 408,641 408,641
+Accumulated deficit (420,646) (324,323)
+ --------- ---------
+
+ Total stockholders' equity (8,300) 88,023
+ --------- ---------
+
+Total liabilities
+ and stockholders' equity -- 93,823
+ ========= =========
+
+ See accompanying notes
+
+ 10
+
+FINANCIAL EXPRESS CORPORATION
+ STATEMENTS OF OPERATIONS
+ For the years ended December 31, 1995, 1994 and 1993
+
+ 1995 1994 1993
+ ---- ---- ----
+
+Income -- -- --
+
+Operating expenses:
+ Amortization 93,823 70,390 70,390
+ Legal and
+ professional fees 2,500 2,500 3,300
+ ----------- ----------- -----------
+
+ Total operating expenses 96,323 72,890 70,820
+ ----------- ----------- -----------
+
+ Net loss (96,323) (72,890) (73,690)
+ =========== =========== ===========
+
+ Loss per share (.03) (.02) (.02)
+ =========== =========== ===========
+
+ Weighted average
+ shares outstanding 3,704,900 3,704,900 3,704,900
+ =========== =========== ===========
+
+ See accompanying notes
+
+ 11
+
+FINANCIAL EXPRESS, INC.
+ STATEMENT OF STOCKHOLDERS' EQUITY
+ For the Years Ended December 31, 1995, 1994, and 1993
+
+ Additional Total
+ Common Stock Paid In Accumulated Stockholders'
+ Shares Amount Capital Deficit Equity
+ ------ ------ ------- ------- ------
+
+Balances at December 31, 1992 3,704,900 3,705 408,641 (177,743) 234,603
+
+Net loss -- -- -- (73,690) (73,690)
+ --------- --------- --------- --------- ---------
+Balances at December 31, 1993 3,704,900 3,705 408,641 (251,433) 160,913
+
+Net loss -- -- -- (72,890) (72,890)
+ --------- --------- --------- --------- ---------
+Balances at December 31, 1994 3,704,900 3,705 408,641 (324,323) 88,023
+
+Net loss -- -- -- (96,323) (96,323)
+ --------- --------- --------- --------- ---------
+Balances at December 31, 1995 3,704,900 3,705 408,641 (420,646) (8,300)
+ ========= ========= ========= ========= =========
+
+See accompanying notes
+
+ 12
+
+FINANCIAL EXPRESS CORPORATION
+ (a development stage enterprise)
+ STATEMENTS OF CASH FLOWS
+ For the years ended December 31, 1995, 1994 and 1993
+
+ 1995 1994 1993
+ ---- ---- ----
+
+CASH FLOWS FROM OPERATING ACTIVITIES:
+
+ Net loss (96,323) (72,890) (73,690)
+
+ Adjustments to reconcile
+ net loss to net cash
+ used by operating
+ activities:
+
+ Amortization 93,823 70,390 70,390
+ (Increase) decrease in:
+ Accounts
+ receivable - officer -- -- --
+ Increase (decrease) in:
+ Bank overdraft -- -- --
+ Accrued liabilities 2,500 2,500 3,300
+ -------- -------- --------
+
+Net cash used
+ by operating activities -- -- --
+ -------- -------- --------
+
+NET INCREASE IN CASH -- -- --
+CASH - BEGINNING OF PERIOD -- -- --
+ -------- -------- --------
+
+CASH - END OF PERIOD -- -- --
+ ======== ======== ========
+
+ See accompanying notes
+
+ 13
+
+FINANCIAL EXPRESS CORPORATION
+ NOTES TO FINANCIAL STATEMENTS
+
+ December 31, 1995, 1994 and 1993
+
+1. Summary of significant accounting principles
+ --------------------------------------------
+
+ General
+ -------
+
+ Financial Express Corporation (the "Company") was originally
+ incorporated in the State of Nevada on January 5, 1989, as Harley
+ Equities, Inc. ("Harley"), and was formed to purchase, merge with or
+ acquire any business or assets which management believed had the
+ potential for being profitable. Through a series or transactions, Harley
+ acquired all of the stock of Financial Express Corporation, a Delaware
+ corporation organized to develop and commercialize a distinctive
+ nationwide service for processing and clearing checks and other bank
+ transactions. The only assets of the acquired Company consisted of
+ intangible assets comprised of intellectual properties, vendor
+ relationships and customer relationships established during the
+ development of the service. In connection with the transaction, the
+ Company changed its name to Financial Express Corporation.
+
+ During 1995, the development of the check clearing business was
+ abandoned and the intangible assets were fully amortized.
+
+ Presentation
+ ------------
+
+ The Company's 1996 financial statements have been presented on the
+ basis that it is a going concern, which contemplates the realization of
+ assets and the satisfaction of liabilities in the normal course of
+ business. As shown in the financial statements, the Company has a
+ working capital deficit, and currently has not been able to bring its
+ product to the marketplace. While the Company expects profits over the
+ long term, the Company is currently seeking additional working capital
+ and equity capital to fund the marketing and further development of the
+ Company's product. The Company is continuing to pursue various
+ investment and merger opportunities in its efforts to reach its
+ investment and business objectives.
+
+ The Company's continued existence is dependent upon its ability to
+ finance continued product development and marketing programs by the
+ acquisition of additional equity or debt financing, or in the
+ procurement of a suitable merger candidate. While pursuing such
+ opportunities, the Company must continue to operate on the limited
+ resources by the Company's officers.
+
+ 14
+
+FINANCIAL EXPRESS CORPORATION
+ NOTES TO FINANCIAL STATEMENTS
+
+ December 31, 1995, 1994 and 1993
+
+1. Summary of significant accounting principles (continued)
+ --------------------------------------------------------
+
+ Intangible assets
+ -----------------
+
+ Intangible assets are carried at cost, and are comprised of
+ intellectual properties and vendor and potential customer relationships.
+ Amortization is provided using the straight-line method over five years.
+
+2. Capitalization
+ --------------
+
+ In June 1990 the Company sold on a firm commitment basis 16,000 units
+ at 6.00 per unit. Each unit consisted of one share of common stock par
+ value of .001 and sixteen Redeemable Stock Purchase Warrants each
+ warrant capable of purchasing one share of common stock as follows:
+
+ Exercise
+ Warrants Total Price
+ Class Per Unit Warrants Expiration date Per Share
+ ----- -------- -------- --------------- ---------
+
+ A 16 256,000 June 3, 1996 5.50
+ B 16 256,000 June 3, 1996 6.00
+
+3. Stock Transactions
+ ------------------
+
+ On March 26, 1991 the Company issued 15,000 shares of common stock to
+ certain officers of Westminster Securities Corporation holding
+ Underwriters Purchase Warrants in exchange for their agreement to
+ modifications (see May 1, 1991 stock transaction below) to the
+ Underwriting Agreement and Underwriters Purchase Warrant Agreements.
+
+ On May 1, 1991, The Company issued 3,500,000 shares of its common
+ stock in exchange for all the issued and outstanding common stock of
+ Financial Express Corporation, a development stage enterprise organized
+ to develop and commercialize a distinctive nationwide service of
+ processing the clearance of checks and related bank items.
+
+ During 1990, the Company retained Howard Bronson and Co. to act as its
+ financial public relations counsel. In 1991, in connection therewith and
+ for prior services rendered, the Company issued 51,500 shares of common
+ stock to Howard Bronson and Co.
+
+ 15
+
+SIGNATURES
+
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, hereunto duly authorized
+
+FINANCIAL EXPRESS CORPORATION
+
+By: /s/ Frank Baldwin Date: June 16, 2000
+ ---------------------------- ---------------
+ Frank Baldwin
+ President and director
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed by the following person on behalf of the Registrant and
+in the capacity and on the date indicated.
+
+NAME & POSITION DATE
+
+/s/ Phil Pierce June 19, 2000
+- ------------------------------- ----
+Phil Pierce
+Chairman and Director
+
+/s/ Frank G. Baldwin June 16, 2000
+- ------------------------------- ----
+Frank G. Baldwin, Executive Vice
+President, Secretary and Director
+
+ 16
+
+<EX-27>
+ 2
+ 0002.txt
+ FINANCIAL DATA SCHEDULE
+
+5
+
+12-MOS
+ DEC-31-1995
+ DEC-31-1995
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 8,300
+ 0
+ 0
+ 0
+ 3,705
+ (12,005)
+ 0
+ 0
+ 0
+ 0
+ 0
+ 96,323
+ 0
+ 0
+ (96,323)
+ 0
+ (96,323)
+ 0
+ 0
+ 0
+ (96,323)
+ (.03)
+ (.03)
+
+</EX-27>
+

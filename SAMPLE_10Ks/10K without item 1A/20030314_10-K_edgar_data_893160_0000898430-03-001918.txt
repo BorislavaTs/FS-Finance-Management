@@ -1,0 +1,4578 @@
+<Header>
+<FileStats>
+    <FileName>20030314_10-K_edgar_data_893160_0000898430-03-001918.txt</FileName>
+    <GrossFileSize>1208860</GrossFileSize>
+    <NetFileSize>190516</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>914410</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000898430-03-001918.hdr.sgml : 20030314
+<ACCEPTANCE-DATETIME>20030314163937
+ACCESSION NUMBER:		0000898430-03-001918
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20021231
+FILED AS OF DATE:		20030314
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VENTANA MEDICAL SYSTEMS INC
+		CENTRAL INDEX KEY:			0000893160
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				942976937
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20931
+		FILM NUMBER:		03604460
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3865 N BUSINESS CENTER DRIVE
+		CITY:			TUCSON
+		STATE:			AZ
+		ZIP:			85705
+		BUSINESS PHONE:		5208872155
+
+	MAIL ADDRESS:	
+		STREET 1:		3865 N BUSINESS CENTER DR
+		CITY:			TUCSON
+		STATE:			AZ
+		ZIP:			85705
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EdCakv93XPg1oOnEZ2Xhu8OuAhq0W3+gyr9BEeeDWT8xPHMAIfO9MqzEpeza17Ll
+ 6SWdQKjKo+cBxTiflGqnOQ==
+
+ 0000898430-03-001918.txt : 20030314
+
+10-K
+ 1
+ d10k.htm
+ FORM 10-K
+
+Form 10-K 
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 10-K (Mark One) 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the fiscal year ended December 31, 2002
+ OR 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from
+ to
+ Commission file number: 000-20931 VENTANA
+MEDICAL SYSTEMS, INC. (Exact name of registrant as specified in its charter) 
+
+Delaware (State or other jurisdiction of incorporation or
+organization) 
+ 
+ 94-2976937 (I.R.S. Employer Identification
+Number) 
+
+1910 Innovation Park Drive Tucson, AZ (Address of principal executive
+offices) 
+ 
+ 85737 (Zip Code) 
+ Registrant s telephone number, including area code: (520) 887-2155 Securities registered pursuant to Section 12(b) of the Act:
+ None Securities registered pursuant to Section 12(g) of the Act:
+ Common Stock with a par value of 0.001
+ Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90
+days. Yes No 
+ Indicate by check mark if disclosure of
+delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of Registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form
+10-K or any amendment to this Form 10-K. Indicate by check mark whether the registrant is an accelerated filer (as defined in Rule 12b-2 of the
+Act). The aggregate market value of voting and non-voting common stock held by non-affiliates of the registrant (based on the closing price for the common stock on the Nasdaq National Market on June 28, 2002, which is the last
+business day of the Registrant s most recently completed second fiscal quarter) was approximately 357,410,972. Shares of common stock held by each officer and director and by each person who owns 5 or more of the outstanding common stock have
+been excluded in that such persons may be deemed to be affiliates. This determination of affiliate status is not necessarily a conclusive determination for other purposes. As of February 28, 2003 there were 16,398,790 shares of common stock outstanding. DOCUMENTS INCORPORATED BY REFERENCE Part III of this Form 10-K incorporates information by reference from the Registrant s definitive proxy statement to be filed with the Securities and Exchange Commission not later than 120 days after December 31, 2002.
+
+TABLE OF
+CONTENTS 
+
+Page 
+
+PART I 
+
+Item 1. 
+
+Business 
+ 
+ 1 
+ 
+ Item 2. 
+
+Properties 
+ 
+ 14 
+ 
+ Item 3. 
+
+Legal Proceedings 
+ 
+ 15 
+ 
+ Item 4. 
+
+Submission of Matters to a Vote of Security Holders 
+ 
+ 16 
+
+PART II 
+
+Item 5. 
+
+Market for Registrant s Common Equity and Related Stockholder Matters 
+ 
+ 17 
+ 
+ Item 6. 
+
+Selected Financial Data 
+ 
+ 17 
+ 
+ Item 7. 
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 20 
+ 
+ Item 7A. 
+
+Quantitative and Qualitative Disclosure About Market Risk 
+ 
+ 27 
+ 
+ Item 8. 
+
+Financial Statements and Supplementary Data 
+ 
+ 27 
+ 
+ Item 9. 
+
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 
+ 27 
+
+PART III 
+
+Item 10. 
+
+Directors and Executive Officers of the Registrant 
+ 
+ 28 
+ 
+ Item 11. 
+
+Executive Compensation 
+ 
+ 28 
+ 
+ Item 12. 
+
+Security Ownership of Certain Beneficial Owners and Management 
+ 
+ 28 
+ 
+ Item 13. 
+
+Certain Relationships and Related Transactions 
+ 
+ 28 
+ 
+ Item 14. 
+
+Controls and Procedures 
+ 
+ 28 
+
+PART IV 
+
+Item 15. 
+
+Exhibits, Financial Statement Schedules, and Reports on Form 8-K 
+ 
+ 29 
+
+Signatures 
+ 
+ 30 
+
+PART I This Form 10-K contains forward-looking statements that concern matters that involve risks and uncertainties
+that could cause actual results to differ materially from those projected in the forward-looking statements. Discussions containing forward-looking statements may be found in the material set forth under Business, Management s
+Discussion and Analysis of Financial Condition and Results of Operations and in other sections of this Form 10-K. Please see the beginning of Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations,
+for a description of these forward-looking statements and cautionary language, and please see the section of this Form 10-K entitled Risk Factors for a description of the risks that may cause our actual results to vary from the
+forward-looking statements. 
+ Item 1. Business Summary of Our Business Ventana Medical Systems, Inc. was incorporated in California in 1985, and reincorporated in Delaware in 1993. We launched our first instrument-reagent system in 1991, and have since launched numerous new products using internally
+developed and acquired technologies. Unless the context requires otherwise, all references to we , our us , Ventana , registrant or Company refer to Ventana Medical Systems, Inc.,
+and its six subsidiaries: Ventana Medical Systems, GmbH, Ventana Medical Systems, Japan K.K, Ventana Medical Systems, Pty. Ltd., Ventana Medical Systems, S.A., BioTek Solutions, Inc., and BioTechnology Tools, Inc. We develop, manufacture and market instruments and consumables
+that automate tissue preparation and slide staining in anatomical pathology and drug discovery laboratories. Our products are designed to provide users with automated high-quality and consistent results with high throughput and significant labor
+savings. Our clinical systems are important tools used in anatomical pathology labs to analyze human tissue to assist in the diagnosis and treatment of cancer and infectious diseases. Our drug discovery systems are used by large pharmaceutical and
+biotechnology companies to accelerate the discovery of new drug targets and to evaluate the safety of new drug compounds. The consumable products we market include reagents and other accessories required to operate our instruments. Our instruments
+have been placed in the majority of the top fifty U.S. cancer centers, including recognized leaders in cancer research and treatment such as Johns Hopkins Hospital, the Mayo Clinic, Memorial Sloan-Kettering Cancer Center, and M.D. Anderson Medical
+Center. For the purposes of financial reporting,
+we have two reportable segments: North America (primarily the United States) and International (primarily France, Germany, Japan and Australia). Please see Note 12 in the Notes to Consolidated Financial Statements for additional information
+concerning our North American and International business segments. Market Overview We
+target our instrument-reagent systems at two markets: (1) anatomical pathology labs (Histology and Cytology) and (2) drug discovery labs. We currently derive the majority of our revenues and profits from ongoing sales of consumables and instruments
+to anatomical pathology labs, although we expect sales to drug discovery labs to grow over time. According to the National Cancer Institute, cancer is the second leading cause of death in the United States. Mortality rates are improved by early detection and the selection of appropriate therapies.
+Pathologists and oncologists use Histology and Cytology tests to assist in the diagnosis of cancer and infectious diseases and to select an appropriate therapy. Based upon our modeling of the market, we estimate that anatomical pathology labs
+worldwide currently purchase approximately 1.0 billion in instruments and consumables on an annual basis. Most anatomical pathology labs are hospital-based, although some independent reference labs offer these services. Pharmaceutical and
+biotechnology companies involved in analyzing the human genome and proteome to accelerate new drug discovery also benefit from automating the analysis of human and animal tissue and cells. 
+ 1 
+
+Histology
+ Histology is the study of the microscopic
+structure of tissues. In a Histology lab, an anatomical pathologist attempts to identify the causes and consequences of disease in a specific part of the body by examining tissue samples obtained during surgery. Structural and other changes in
+cells, tissues, and organs are determined by using tools ranging from powerful microscopes to molecular analysis of cell proteins and genes. Anatomical pathology examinations are among the most reliable ways to establish: (1) a diagnosis of the type
+of disease suffered by the patient, (2) a prognosis on the likely progression of the disease and (3) a determination as to which therapies are most likely to be effective in treating the patient. All patient tissue samples entering the Histology lab move
+through seven sample preparation and work cells: 
+
+Accessioning Tissue is entered into the hospital information system for medical records and billing purposes. 
+
+Grossing Following accessioning, the gross tissue specimen is examined by a pathologist. Several tissue samples are then cut from the gross specimen for
+further examination and placed in small plastic cassettes. 
+
+Tissue Processing Cassettes from gross specimens are placed in an instrument called a tissue processor. Tissue processors preserve the tissue through the
+use of a fixative and infuse the tissue with paraffin so it can be more readily cut or sectioned. 
+
+Embedding Processed tissue is removed from each cassette and embedded in a paraffin block to produce a tissue block of uniform size.
+
+Sectioning Each tissue block is next transferred to the sectioning area of the lab where very thin sections are cut on a microtome and then mounted on a
+microscope slide. 
+
+Hematoxylin and Eosin, or H E, Staining Each microscope slide is then stained with two basic stains, Hematoxylin and Eosin, that help the
+pathologist identify each cell s nucleus, cytoplasm and membrane. 
+
+Microscopic Examination Finally, each H E stained slide is examined by a pathologist using a microscope to determine if the tissue or cells are
+healthy or diseased. In particular, the pathologist is looking for the presence of microorganisms that could indicate an infectious disease, or deformed cells that could indicate the presence of cancer. In cases where an H E stained slide
+appears to have abnormalities, the pathologist performing the initial examination of a patient specimen may request that the slide undergo additional testing. Additional tests, which may be requested by the pathologist, include immunohistochemistry, Special Stains or
+in situ hybridization tests. These tests are significantly more complex than the H E stains and require special reagents. 
+
+Immunohistochemistry, or IHC, stains are used primarily by pathologists and oncologists to assist in the diagnosis of cancer and the determination of different
+treatment options. IHC staining is used to test for the presence or over expression of the proteins involved in cancer. 
+
+Special stains are used primarily to assist in the diagnosis of infectious diseases, although they can also be used to assist in cancer diagnosis. Special stains are
+chemical dye stains that localize to microorganisms found in tissue and to specific tissue types. 
+
+In situ hybridization, or ISH, stains can be used to assist in the diagnosis of infectious diseases or genetic mutations that are usually associated with the
+presence of cancer. We currently
+offer products that are used in tissue processing, IHC staining, Special Stains staining and ISH staining. 
+ 2 
+
+Tissue
+Processing. In developed nations, all Histology labs have at least one automated tissue processor instrument and most labs have two or more. In less developed countries, tissue processing is still performed manually in
+most labs. Tissue processors consume a substantial quantity of reagents (fixatives, alcohol, xylene, paraffin). We do not, however, participate in this reagent market. IHC Staining. We estimate that there are in excess of 30 million slides stained
+with IHC annually on a worldwide basis. The majority of these slides are stained in the approximately 6,000 hospital-based anatomical pathology labs. However, in North America and Japan some hospitals send their IHC slides to regional reference labs
+for staining, rather than performing the work themselves. We estimate that the number of IHC slides processed across all labs in the U.S. is growing about 6 to 8 annually due to: (1) the increasing incidence of cancer as the population ages
+increases Histology producing surgical cases, and (2) the emergence of new stains that may influence therapy choices. We estimate that approximately 55 of the IHC slides processed in North America and Europe are stained on automated instruments. The rest
+of the world primarily uses manual staining, which we believe creates a substantial growth opportunity as these users convert to automated systems. IHC instruments require reagents and accessories to operate. We supply a full line of these consumables for use with our instruments. Our
+experience in the industry suggests that we are the worldwide market leader in supplying automated IHC staining systems. Special Stains Staining. We estimate that the Special Stains market is slightly smaller than the worldwide
+IHC market and is growing rapidly. There is an opportunity to place instruments with virtually every hospital-based Histology lab as Special Stains slides are rarely sent to reference labs. Currently, nearly all Special Stains slides are processed
+manually; we believe that a major segment of the market will switch to automated slide processing over the next 5 to 10 years. ISH Staining. The clinical market for ISH staining is currently very small due to the difficulty of
+performing ISH stains manually and the small number of assays accepted for clinical use. We expect automation to grow the clinical ISH Staining market significantly. Currently, the principal clinical tests are used to detect cancer and infectious
+diseases, primarily viruses, in tissue. We believe ISH tests for genetic mutations will become important clinical tests. Cytology Cytology is the microscopic study of cell samples from various human body sites for the detection, diagnosis, and management of human
+disease. Cytopathologists seek to identify cells, which are either living (phase microscopy) or dead (fixed). The cytotechnologist microscopically examines the morphologic features of the cells, which are gathered by brush, lavage, scraping or
+aspirate, relates these findings to the patient s clinical history, and then renders a cytological diagnosis. The cytopathologist then reviews all the findings and reports out gynecologic abnormal cases and all non-gynecologic cases. The
+cytopathologist s finding is used to aid the clinician with patient diagnosis, to assist with patient management and to provide a means to follow the progress or regression of a particular disease. In those cases where abnormalities are found to exist, tests
+including Special Stains, immunohistochemistry or in situ hybridization can be done to further assist the cytopathologist in assessing patient samples. According to Women s Health in Primary Care, Vol. 5, No 6/June 2002, of the 50-60 million women who undergo Papanicolaou (Pap)
+testing each year, approximately 3.5 million will have a cervical cytologic abnormality that requires further evaluation. In 2001, there were 12,900 newly diagnosed cases of invasive carcinoma and 4,400 deaths due to this malignancy. In the United
+States, there is a progressive increase in the incidence of invasive carcinoma up to the age of 64. It is believed that infection with Human Papillomavirus 
+ 
+ 3 
+
+(HPV) is a significant cause of invasive carcinoma. Our INFORM HPV in situ assays for liquid-based cytological specimens and tissue specimens are used to determine if a patient is HPV positive and if the
+infection is a high or low risk viral type. These tests are fully automated on the BENCHMARK slide staining
+system. Drug Research The research market for new drugs comprises over 500,000
+researchers worldwide located in labs operated by traditional pharmaceutical companies, biopharmaceutical companies, governments, and medical research centers. Research is conducted in these labs to determine the causes of disease and identify the
+specific drugs to treat disease. Both genomics, the study of genes and their function, and proteomics, the study of proteins and their function, seek to accelerate the drug discovery process by understanding the molecular mechanisms of disease. The
+genomic and proteomic revolutions are providing researchers with a dramatic increase in the number of potential drug targets. For example, researchers are now able to conduct screens against compound collections and compound libraries for activity
+against specific proteins. Genomics has created
+opportunities to fundamentally alter the field of human medicine through the discovery of new biological targets for drugs and an improved ability to diagnose and manage disease. Interest in understanding the relationships between genes and disease
+has generated a worldwide effort to identify and sequence the genes of many organisms, including the approximately three billion nucleotide pairs and the estimated 30,000 genes within the human genome. Once researchers identify the genes and their
+nucleotide sequences, we anticipate that many years of additional research will be required to gain an understanding of the specific function of each of these genes and their role in disease. Proteomics is the analysis of proteins encoded by active
+genes the direct cause of disease in the body. It is believed that there are many more proteins in the human body than genes. The human proteome is years away from being decoded, but this task will be simplified, as the functions of the
+estimated 30,000 human genes are uncovered. We believe proteomics will likely increase in importance in worldwide drug discovery labs. Our Discovery systems are used by large pharmaceutical and biotechnology companies to accelerate the testing process required to progress in these areas. Strategy Our objectives are to: (1) expand our worldwide leadership position in automating anatomical pathology labs, (2) leverage the core
+technologies we have developed for the anatomical pathology labs into drug discovery labs and (3) build substantial shareholder value. Key elements of our strategy include the following: 
+
+Provide high-quality, innovative and flexible automation systems for tissue analysis. Our position as a leader in anatomical pathology
+lab automation has been built on innovative automated instrument-reagent systems. These systems have been designed as broad enabling platforms that permit customers to easily expand their test menu and provide superior patient care with high
+quality, consistent and timely tissue staining. Labs also benefit by increasing output and reducing labor costs through automation and walk-away convenience. 
+
+Provide high throughput, value-added testing systems for drug discovery applications. We believe the same automated benefits we provide
+anatomical pathology labs are important to drug discovery labs. 
+
+Maximize domestic and worldwide placement of automated systems in anatomical pathology and drug discovery laboratories. We
+believe that our worldwide installed base of IHC, Special Stains and ISH instruments is larger than the instrument base of all of our competitors combined. The size and quality of our direct sales is key to our objective of maximizing instrument
+placements and revenue stream per placement. We believe that the establishment of a large base of our instruments will provide us a competitive advantage. 
+ 4 
+
+Provide a steady sales stream of consumables for use in our instruments. Each IHC, Special Stains and ISH instrument placed provides a
+recurring revenue stream from reagents and other consumable supplies. Typically, our instruments are closed systems that can only be operated with Ventana-produced consumables. Our strategy is to increase this revenue stream by expanding our menu of
+automated tests, thereby increasing the consumable revenue from each instrument placement. 
+
+Continue on-going technological development and improvement of our instrumentation and reagents. Unlike most of our competitors, who
+rely on outside design firms for the creation of their instrumentation, we design our products internally. We are designing new instrumentation, enhancing existing instruments, and developing reagents for current and future customer applications.
+Our engineering, marketing, and reagent research and development organizations work closely with their manufacturing counterparts on all new products to ensure cost effective production. We seek to protect these designs with an aggressive
+intellectual property strategy. Our Products
+ Our product offerings are summarized as
+follows: Tissue Processors Our RENAISSANCE tissue processor is a batch instrument that processes up to 350 specimens in a single run. This enclosed system has features that dramatically
+improve the quality of prepared tissue compared to manual methods. Staining Systems and Associated Reagents The principal benefits of automated cellular and tissue analyses using our integrated systems, compared with manual methods, are as follows: 
+
+improved reliability, reproducibility and consistency of test results; 
+
+faster turnaround time for test results; 
+
+increased test throughput for the testing; 
+
+reduced dependence on skilled technicians; 
+
+ability to obtain maximum clinical information from minimally-sized biopsies; 
+
+ability to document processing protocols; and 
+
+standardization of slide preparation among institutions. In addition to the critical clinical and operational advantages, our automated approach has shown significant cost savings over manual
+methods. IHC
+Staining. Our first product, launched in 1991, was an instrument-reagent system to automate IHC staining. Prior to the introduction of this system, all IHC staining was performed manually or with low-levels of automation.
+In early 1996, we acquired BioTek Solutions, Inc. and the TECHMATE automated stainer. We market three IHC instrument systems with a full line of
+complementary reagents and accessories. Our line of IHC products includes batch-processing and patient-priority systems targeted to hospital clinical and reference labs. Our TECHMATE 500 batch-processing instrument has a 120-slide capacity and is designed for large volume, single application testing, applicable to large and moderate-size reference and research labs. We manufacture
+and market reagents for use with our TECHMATE systems. 
+ 5 
+
+Our NEXES IHC staining system was the world s first truly automated IHC slide staining system which introduced a new
+level of staining quality while combining system modularity and ease of operation for improved laboratory productivity. NEXES is used in many small to mid-sized volume IHC customer accounts. Our premier IHC system, the BENCHMARK , launched in late 2000,
+is the only slide staining system to offer fully automated Baked Through Staining (BTS technology and the
+flexibility of multiple technologies, providing superior, standardized stain quality, increased testing efficiency and maximum laboratory productivity. (BTS technology describes the automation of the staining process which eliminated approximately 60 manual steps. This automation saves up to 90 minutes of manual work otherwise required prior to an IHC
+run, while allowing walk-away convenience. Additionally, this system performs both IHC and more complex ISH stains. The BENCHMARK uses a barcode system and is designed to run multiple tests on a single biopsy with rapid turnaround time without manual intervention. The barcode affixed to each slide identifies the slide and testing procedures to be
+performed. The BENCHMARK scans the slide, dispenses the reagents and processes each slide. The dispensing,
+incubating (i.e. temperature and time control) and washing performed using proprietary chemical/mechanical methods are critical to obtaining precise, sensitive and rapid test results. Our software controls all aspects of the test procedures. This
+makes the system reliable and easy to use, reducing slide processing time to less than two hours. We manufacture and market an extensive line of primary antibodies and detection chemistries for use on our IHC systems. In combination,
+these reagents detect antigens of interest in tissue samples. We produce reagents, used to condition tissue and cells prior to staining, primary antibodies and detection chemistries. Each of these reagent products is required for an IHC test.
+Customers with patient-priority systems must use our detection chemistries on all tests, but they have the option of purchasing primary antibodies from other sources. Customers with our batch-processing systems can purchase both primary antibodies
+and detection chemistries from other sources, however the majority purchase Ventana-produced reagents. As we place additional BENCHMARK systems, the reagents used to prepare tissue prior to the application of a primary antibody will become an important source of our revenue. The detection chemistries, primary antibodies and other
+reagents have been developed using proprietary formulations that, when combined, optimize the results of tests performed. These kits generate the visual signal in an IHC reaction at the site where a primary antibody is bound to a specific antigen or
+molecule in the cell or tissue. Additionally, we
+offer a line of consumable ancillary products necessary for processing slides used with both patient-priority and batch-processing instruments. These include buffers for optimizing the IHC reaction, and counterstains for staining cell nuclei.
+ Special Stains. 
+ In late 1998, we offered anatomical pathology labs the first automated system for Special Stains testing with the launch of our second instrument-reagent system. We believe our NEXES Special Stains system is the market leader in this product segment. The Special Stains module can be operated with the same control computer that operates our NEXES IHC and BENCHMARK modules, with up to eight complete modules operated on a system. This flexibility enables customers to design a combination Special Stains/IHC system that meets their specific needs and provides
+flexibility for future lab growth. Presently, our 14 Special Stains kits potentially serve 90 of all Special Stains testing performed in anatomical pathology labs. All of our kits are developed using proprietary protocols. ISH Staining. The launch of our
+GENII system in 1995 was our entry into the ISH staining market. The instrument was sold primarily into the
+drug discovery market, although some were placed into anatomical pathology labs. Our BENCHMARK IHC system also
+has ISH capability, and we plan to leverage this capability with an expanded menu of clinical ISH tests. 
+ 6 
+
+In December
+1999, we launched the DISCOVERY system for ISH and IHC staining in drug discovery labs. This system can
+function as a high throughput processor of DNA micro arrays, RNA micro arrays and tissue arrays used to validate drug leads. This system is sold primarily to drug research companies. Like the BENCHMARK system, the DISCOVERY system incorporates a number of
+important technological advances over our earlier NEXES IHC and Special Stains systems. In contrast to the
+NEXES IHC and Special Stains modules that heat the entire reaction chamber to a pre-set temperature and
+maintain that temperature during the entire processing cycle, the DISCOVERY system can accurately control the
+reaction temperature for each slide. Individual slide heaters permit an optimal protocol for each test and allow for the denaturing of DNA, a critical step for detecting genetic abnormalities. Contracts Instruments are placed through direct sales, non-recourse leases, instrument rentals and our Performance
+Evaluation Period (PEP) program. The PEP program allows customers to evaluate an instrument for up to six months, provided that the customer enters an agreement to purchase Ventana-produced consumables to operate the instrument. At the end of the
+evaluation period, the customer must purchase, rent or return the system. Research and Development Our research and development group is divided into two teams: (1) instrumentation development and (2) staining protocols and reagents. Our efforts are focused on innovative combined instrument-reagent systems, as well as enhancements
+to existing instruments. In addition, we are developing reagents for current and future customer applications. Our approximately 80 research and development employees perform the majority of our research and development activities. Their efforts are
+supplemented by consulting services and assistance from scientific advisors. We incurred research and development expenses of 16.4 million, 14.9 million, and 11.1 million in 2002, 2001, and 2000, respectively. Instrumentation Development Projects Our instrumentation development is focused on product
+improvement and new product development. The modular platform used by our NEXES IHC system enabled us to
+rapidly develop new products, such as the NEXES Special Stains system, the DISCOVERY system and the BENCHMARK system. This modular development strategy will continue as we explore new opportunities in instrument systems, and automating manual lab processes. Reagent Development Projects Our reagent development is divided into five principal areas:
+
+new antibody development; 
+
+detection chemistries; 
+
+Special Stain chemistries; 
+
+ISH clinical chemistries for BENCHMARK ; and 
+
+ISH and IHC applications for the DISCOVERY . We continue to
+monitor third-party development of new primary antibodies used to identify abnormal levels of patient expression and to assist pathologists in recommending treatment. We will license or purchase these antibodies as appropriate. New detection
+chemistries with improved sensitivity and specificity continue to be developed through our research efforts, and reagent development for our systems is on going. 
+
+ 7 
+
+Customers Our customers consist of hospital-based anatomical pathology
+labs, independent reference labs, and drug discovery labs of large pharmaceutical companies, biotechnology companies, government labs and medical research centers. None of our customers accounted for more than 5 of our consolidated revenues in
+2002, 2001 or 2000. Patents and Proprietary Rights
+ Our strategy is to patent key technologies
+in the automation of and chemistry of analyzing cells and tissues on microscope slides. Presently, we hold 38 active U.S. patents and numerous corresponding foreign patents, and have filed patent applications in the U.S. and abroad to cover our
+existing and future products. Eight U.S. patents were issued in 2002. These eight new patents complement our access to key technology through exclusive and nonexclusive licenses, manufacturing supply contracts, and research support agreements. The
+expiration dates of our issued U.S. patents range from September 2005 to 2019. In addition to patents, we rely on trade secrets and proprietary know-how. We seek protection of these trade secrets and proprietary know-how, in part, through confidentiality and proprietary
+information agreements. We require our employees, directors, consultants and advisors, outside scientific collaborators and sponsored researchers, other advisors and other individuals and entities to execute confidentiality agreements upon the start
+of employment, consulting or other contractual relationships with us. These agreements provide that all confidential information developed or made known to the individual or entity during the course of the relationship is to be kept confidential and
+not disclosed to third parties except in specific circumstances. In the case of employees and some other parties, the agreements provide that all inventions conceived by the individual will be our exclusive property. These agreements may not provide
+meaningful protection for or adequate remedies to protect our technology in the event of unauthorized use or disclosure of information. Furthermore, our trade secrets may otherwise become known to, or be independently developed by, our competitors.
+ Sales and Marketing Our sales and marketing strategy is to provide superior
+levels of customer service. In our major markets, including North America, Europe and Japan, we seek to achieve this goal by selling our products directly to our customers. Our direct sales force, which we believe to be the world s largest
+covering anatomical pathology labs, is organized by region in North America, with the exception of national and key accounts, and by country internationally. In smaller markets, we rely on strategic distributors to sell and service our products.
+ To augment our clinical anatomical pathology
+tactical marketing and sales organizations, we have established similar operations to cover our drug discovery line of business. These sales forces in North America, Europe and Japan primarily promote our DISCOVERY systems and related consumables. Our worldwide marketing team is responsible for identifying new product opportunities, working with our research and development group on
+product development and driving worldwide revenues through marketing support. Competition We face an
+array of competitors in the anatomical pathology lab and drug discovery lab markets. In many market segments our competitors have greater experience and name recognition. Competition is intense, and is based on product performance, product price,
+product line breadth and after-sales service. Tissue Processor In the
+tissue processing market, our principal competitor is Sakura Fine Technical Co., Ltd., a privately held Japanese company with extensive brand recognition. Other competitors in the industry include Leica Microsystems Group, a German-based competitor,
+Vision BioSystems Ltd., and Thermo BioAnalysis Group, a publicly traded U.S. company which owns Shandon Lipshaw, a competitor in lab equipment. 
+ 8 
+
+Histology
+ As the market share leader in automated IHC
+staining, we have historically placed more new instruments annually than all our competitors combined. Nevertheless, we face strong competition from the manual method of performing IHC tests and from competitors marketing instrument-reagent IHC
+staining systems. A number of anatomical pathology labs in the U.S. and the majority outside the U.S. continue to manually perform IHC slide staining. Significant barriers exist to automation in countries where insurance or governmental healthcare
+reimbursement for IHC tests is low. Additionally, labs in which pathologists prefer manually stained slides remain reluctant to automate their processes. Currently, direct competition comes from four competitors selling instrument-reagent IHC staining systems. These competitors are DAKO
+Cytomation A/S (DAKO), a privately held Danish company that dominates the market for manual IHC reagents; BioGenex Laboratories, Inc., a privately held U.S. company marketing instruments with a reagent stream; Lab Vision Corporation, a subsidiary of
+the publicly traded company, Apogent Technologies, Inc., that supplies DAKO with instruments, and markets its instruments through distributors and direct sales force; and Diagnostics Products Corp. who markets high-volume IHC staining systems in
+Europe. A future competitor is Vision BioSystems Ltd., an Australian biomedical company. Vision plans to launch an automated IHC/ISH staining system in the U.S. during 2003. Two automated Special Stains systems, offered by CytoLogix Corp., now owned
+by DAKO, and BioGenex, compete with our Special Stains module. We believe that our initial success in the Special Stains market will attract additional competitors. Cytology The current HPV testing market is dominated by Digene Corporation with their U.S. Food and Drug Administration (FDA) approved, HYBRID
+CAPTURE II liquid based prep assay holding more than 95 of the HPV testing market. Drug Discovery In drug discovery applications, we are focused on the study
+of the hybridization of nucleic acid micro arrays and messenger RNA expression. Our competitors in nucleic acid micro array hybridization include Genomic Solutions, Inc. and Molecular Dynamics, a subsidiary of the publicly traded company, Amersham
+Pharmacia Biotech. Currently, we do not face competition providing automated systems for messenger RNA expression studies. In drug discovery IHC staining, competition includes our clinical IHC competitors, DAKO and BioGenex. Manufacturing Our instrument and reagent manufacturing are housed in a
+single facility located in Tucson, Arizona. We manufacture all of our instruments with the exception of the TECHMATE 500 system, which is produced by a third-party manufacturer and accounts for a small portion of our sales. Medical device manufacturing operations are required to follow the FDA Quality Systems Regulations. These regulations subject our
+facilities to inspections to verify our compliance and require us to maintain documentation and controls for our manufacturing and quality measures. ISO 13485 is the international standard for medical device manufacturers, based upon the ISO 9001
+quality standard with additional specific industry requirements consistent with the FDA s current Good Manufacturing Practices and Quality System Regulations. In 2002, we implemented manufacturing policies and procedures, and we received ISO
+13485 certification in February 2003. Employees
+ As of December 31, 2002, we had 557
+full-time employees, including our 12 officers. 
+ 9 
+
+Available Information
+ We are subject to the reporting
+requirements under the Securities Exchange Act of 1934. Consequently, we are required to file reports and information with the Securities and Exchange Commission (SEC), including reports on the following forms: annual report on Form 10-K, quarterly
+reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934. The public may read and copy any materials we file with the SEC at the SEC s Public Reference Room at
+450 Fifth Street, NW, Washington, DC 20549. Members of the public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC also maintains at http://www.sec.gov an Internet site that contains
+reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. You may also find on our website at http://www.ventanamed.com electronic copies of our annual report on Form 10-K, quarterly reports on
+Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934. Such filings are placed on our website as soon as reasonably possible after they
+are filed with the SEC. Risk Factors
+ We may be required to bring litigation to enforce our
+intellectual property rights, which may result in substantial expense. We rely on patents to protect our intellectual property rights. The strength of this protection, however, is uncertain. In particular, it is not certain that: 
+
+our patents and pending patent applications use technology that we invented first; 
+
+we were the first to file patent applications for these inventions; 
+
+others will not independently develop similar or alternative technologies or duplicate our technologies; 
+
+any of our pending patent applications will result in issued patents; or 
+
+any patents issued to us will provide a basis for commercially viable products, will provide us with any competitive advantages or will not face third party
+challenges or be the subject of further proceedings limiting their scope We may become involved in interference proceedings in the U.S. Patent and Trademark Office to determine the priority of our inventions. We could also become involved in opposition proceedings in
+foreign countries challenging the validity of our patents. In addition, costly litigation could be necessary to protect our patent position. Patent law relating to the scope of claims in the technology fields in which we operate is still evolving
+and, consequently, patent positions in our industry are generally uncertain. We may not prevail in any lawsuit or, if we do prevail, we may not receive commercially valuable remedies. Failure to protect our patent rights or intellectual property
+could harm us. We also rely on trade secrets,
+unpatented proprietary know-how and continuing technological innovation that we seek to protect with confidentiality agreements with employees, consultants and others with whom we discuss our business. These individuals may breach our
+confidentiality agreements and our remedies may not be adequate to enforce these agreements. Disputes may arise concerning the ownership of intellectual property or the applicability or enforceability of these agreements, and we may not be able to
+resolve these disputes in our favor. Furthermore, our competitors may independently develop trade secrets and proprietary technology similar to ours. We may not be able to maintain the confidentiality of information relating to our products.
+ 
+ 10 
+
+Our products could infringe
+the intellectual property rights of others, which may cause us to engage in costly litigation and, if we are not successful, could cause us to pay substantial damages and prohibit us from selling our products. Third parties may assert patent, trademark or copyright
+infringement or other intellectual property claims against us based on their patents or other intellectual property. We may be required to pay substantial damages, including treble damages, for past infringement if it is ultimately determined that
+our products infringe a third party s intellectual property rights. Even if infringement claims against us are without merit, defending a lawsuit takes significant time, may be expensive and may divert management s attention from other
+business concerns. If we are not successful in a lawsuit, we may be unable to sell our products or continue to sell our products until we obtain a license from the owner of the relevant technology or other intellectual property rights. Even if a
+license is available, it may require us to pay substantial royalties. In the CytoLogix litigation, described in Item 3. Legal Proceedings , although we feel that we have strong legal defenses, if we received an adverse judgement and are determined to infringe CytoLogix s patents for
+ Moving Platform Slide Stainer With Heating Elements (U.S. 6,180,061), or Random Access Slide Stainer with Independent Slide Heating Regulation (U.S. 6,183,693), we might be enjoined from manufacturing or selling our
+DISCOVERY and BENCHMARK instruments, two of our principal products, which could reduce our sales revenue. In addition, in November 2001, a complaint was filed by Digene Corporation, Gaithersburg, MD, alleging that
+we infringe upon two patents with the sale of our INFORM HPV High-risk and Low-risk probe products. Although we
+feel that we have strong legal defenses to both infringement allegations, if we received an adverse determination, we might be enjoined or otherwise restricted from selling our INFORM HPV probes, which could reduce our sales revenue. If our customers do not receive adequate third-party reimbursement, our products may not be accepted in the market. In the United States, our products are primarily purchased by
+medical institutions and laboratories that bill third-party payers such as government health administration authorities, private health coverage insurers, managed care organizations and other similar organizations. Our ability to earn sufficient
+returns on our products will depend in part on the extent to which reimbursement for our products and related treatments will be available to our customers from third-party payers. Third-party payers are increasingly attempting to limit both the
+coverage and the level of reimbursement of products to contain costs. If third-party payers are successful in such efforts, our ability to sustain revenue growth and profitably will be adversely effected. If government funding is reduced, the ability of research centers to
+purchase our products may also be reduced. Some of our products are sold to universities, research laboratories, private foundations and other institutions where funding is dependent upon grants from government agencies, such as the National Institutes of Health. Research
+funding by the government could be significantly reduced and could materially affect the ability of many of our research customers to purchase our products. If we fail to develop new products, we may not be profitable in the future. A large part of our future growth and profitability will be dependent on our ability to develop, introduce
+and market new instruments and reagents used in disease diagnosis and treatment selection. We depend, in part, on the success of medical research done by others in developing new antibodies, nucleic acid probes and clinical diagnostic procedures
+that can be adapted for use in our systems. We may need to license some of these technologies. We may not be able to enter into these licenses on terms that would allow us to economically develop and market new products. If this were to occur, our
+operating results would suffer. 
+ 11 
+
+We face intense competition
+and rapid technological change that could result in products that are superior to the products we are developing. We have numerous competitors in the United States and abroad. These competitors include Sakura Fine Technical, DAKO Cytomation A/S,
+BioGenex Laboratories, Lab Vision Corporation, Digene Corporation, Genomic Solutions, Vision BioSystems Ltd., and Molecular Dynamics. These competitors may develop technologies and products that are more effective or less costly than our current or
+future products or that could render our technologies and products obsolete or noncompetitive. Many of these competitors have greater experience and name recognition. If we are not able to compete effectively, our result would suffer. We need to convince the medical community of the superiority of our product
+to be successful. The use of automated
+systems to perform diagnostic tests is relatively new. Historically, laboratory personnel have manually performed diagnostic tests that are now performed by our automated systems. Our ability to sell products is dependent on our ability to
+demonstrate to the medical community the benefits of automated diagnostic testing using our products. The quality and price of our products compared to manual testing and to our competitor s products will affect acceptance and sales of our
+products. If the medical community were not receptive to our products, our results would suffer. If we fail to obtain or maintain necessary FDA clearances or approvals for products, or if clearances or approvals are delayed, we will be unable to commercially distribute and market our products
+in the United States. In the United States,
+the FDA regulates, as medical devices, instruments and diagnostic tests and reagents that are traditionally manufactured and commercially marketed as equipment or finished test kits. Some clinical laboratories, however, purchase clinical products,
+which are marketed as analytic specific reagents, or ASRs, and develop and prepare their own finished diagnostic tests called home brews. The FDA also considers ASRs to be medical devices. The FDA restricts the sale of ASRs to clinical
+laboratories certified under the Clinical Laboratory Improvement Amendments of 1988, known as CLIA, to perform high complexity testing. We currently market some diagnostic products as finished test kits and others as individual reagents. We intend
+to market more of each in the future. Current products are, and future products will be, regulated as medical devices. Unless otherwise exempt, medical devices require approval or clearance prior to marketing in the United States. Although we believe that
+most of our currently marketed products, as well as those ASRs we market, are exempt from 510(k) premarket notification and premarket approval requirements, several products are subject to one or the other of these requirements. For these we have
+obtained the necessary clearance or approval. Clinical products that we may seek to introduce in the future may require FDA approvals or clearances prior to commercial sale in the United States. The process of obtaining approvals and clearances
+necessary to market clinical products can be time-consuming, expensive and uncertain. We may experience difficulties that could delay or prevent the successful development, introduction and marketing of new clinical products. In addition, we cannot
+assure you that regulatory approval or clearances of any clinical products for which we seek such approvals or clearances will be granted by the FDA or foreign regulatory authorities on a timely basis, if at all. Any products that we manufacture or distribute pursuant to FDA
+clearance or approval are subject to pervasive and continuing regulation by the FDA and certain state agencies, including record keeping requirements and reporting of adverse experience with the use of the device. Labeling and promotional activities
+are subject to scrutiny by the FDA and, in certain circumstances, by the Federal Trade Commission. Current FDA enforcement prohibits the promotion of approved medical devices for unapproved uses. If we fail to comply with the FDA s Quality System regulations, our
+manufacturing operations could be delayed, and our product sales and profitability could suffer. When manufacturing our medical devices, including ASRs, we are required to adhere to Quality System regulations, which require that we
+manufacture our products and maintain records in a prescribed manner. We 
+ 
+ 12 
+
+are subject to FDA Quality System inspections in the future, and we cannot assure you that we can pass future FDA audits or maintain
+compliance. CLIA regulations could harm our business by
+limiting the potential market for our products. Any of our customers using our products for clinical use in the United States may be regulated under CLIA. CLIA is intended to ensure the quality and reliability of clinical laboratories in the United States by mandating specific
+standards in the areas of personnel qualification, administration, participation in proficiency testing, patient test management, quality control, quality assurance and inspections. The regulations promulgated under CLIA establish three levels of
+clinical tests, and the standards applicable to a clinical laboratory depend on the level of the tests it performs. CLIA requirements may prevent some clinical laboratories from using our products. Therefore, CLIA regulations and future
+administrative interpretations of CLIA could harm our business by limiting the potential market for our products. Complying with international regulatory requirements is an expensive, time-consuming process and approval is never certain. European sales of our products are subject to strict
+regulatory requirements. The review process varies from country to country, is typically lengthy and expensive, and approval is never certain. Effective December 7, 2003, all of our products must be in compliance with the In Vitro Diagnostics
+Directive and bear the CE mark before being marketed in the European Union. The CE mark is a symbol indicating that the device conforms with the essential requirements of an applicable directive, and can be commercially distributed throughout
+Europe. The In Vitro Diagnostic Directive also subjects our manufacturing facilities to compliance inspections, and requires design, manufacturing, quality process documentation and controls. We cannot assure you that the CE mark will be granted for
+our products or that regulatory review will not involve delays that would harm our ability to market and sell our products in the European Union. If we make future acquisitions, such acquisitions may not be profitable. We may make additional acquisitions of complementary businesses, products or technologies in the future.
+Acquisitions of companies, divisions of companies, or products entail numerous risks. We cannot assure that we will not incur problems in any future acquisitions, or that future acquisitions will increase our profitability. We also cannot assure
+that we will realize value from any acquisitions that would justify the consideration paid. We depend on key personal to grow and sustain our business. We are dependent upon the retention of principal members of our management, Board of Directors, scientific, technical, marketing and sales
+staffs and the recruitment of additional personnel. Except as otherwise, described in other sections, we do not have employment agreements with any of our executive officers and we do not maintain key person life insurance on any of our
+personnel. We compete with other companies, academic institutions, government entities and other organizations for qualified personnel. Our inability to hire or retain qualified personnel could cause our results of operations to suffer. 
+ If we have problems with key suppliers, our product
+development and commercialization efforts could be delayed or stopped. Our reagent products are formulated from chemical and biological materials using proprietary technology, and standard processing techniques. We purchase components and raw materials used to make our
+reagent products from single-source vendors. We cannot assure that the materials or reagents needed will be available in commercial quantities or at acceptable prices. Any supply interruption or yield problems encountered in the use of materials
+from these vendors could have a significant effect on our ability to manufacture our products. Developing an alternative or additional suppliers could be time consuming and expensive. 
+ 13 
+
+A number of components used to manufacture instruments are made on a custom basis to our
+specifications and are available from a limited number of sources. If the supply of materials or components from any of these vendors were delayed or interrupted for any reason, or if the quality or reliability of the materials or components is not
+adequate for use in our instruments, our ability to make instruments in a timely fashion could be impaired and our results of operations would suffer. We deal with hazardous materials and generate hazardous wastes and must comply with environmental laws and regulations, which can be expensive and
+restrict how we do business. We could also be liable for damages or penalties, if we are involved in a hazardous material or waste spill or other accident. Our manufacturing processes, primarily those involved in producing some of our reagent products, require the
+use of potentially hazardous and carcinogenic chemicals. We are subject to federal, state and local laws and regulations governing the use, manufacture, storage, handling and disposal of these materials and waste. In the event of a hazardous
+material or waste spill or other accident, we could also be liable for damages or penalties. In addition, we may be liable or potentially liable for injury or contamination that results from our, or a third party s, use of these materials, and
+our liability could exceed our total assets. We cannot assure
+that we will be able to fund our future capital requirements through internal sources, our existing line of credit or from other sources. We anticipate that our existing capital resources and borrowing capacity will be adequate to satisfy our capital requirements for the next
+12 months. Our future capital requirements will depend on many factors including: 
+
+the extent that our products gain market acceptance; 
+
+the mix of instruments placed through direct sales, rental or through our PEP program; 
+
+the progression of our product development programs; 
+
+competing technological and market developments; 
+
+expansion of our sales and marketing activities; 
+
+the cost of manufacturing scale-up activities; 
+
+possible acquisitions of complementary businesses, products or technologies; and 
+
+our ability to sustain profitability with the uncertain timing of regulatory approvals. We may require additional capital resources and cannot assure that capital will be available to the extent
+required, on terms acceptable to us, or at all. Any such future capital requirements could result in the issuance of equity securities, which may affect the market price of our common stock and would dilute the interests of our existing
+stockholders. 
+ Item 2. Properties Currently, our U.S. research laboratories, instrument and reagent manufacturing facilities and administrative offices are located in approximately 182,400 square feet of owned space in Tucson, Arizona and 5,766 square feet
+of leased space in Chicago, Illinois. The lease for the Chicago facility expires on September 15, 2008. Currently, we own a 39,000 square foot office building for our European operations in Strasbourg, France. This building was acquired in
+June 2000 and financed through a capital lease. Our Japanese operations are located in a 1,400 square feet of leased office space in Tokyo. We moved into this space in February 2003 and signed a 4-year lease that expires in January 2007. 
+ 14 
+
+Item 3. Legal Proceedings On June 15, 1999, we filed a proof of claim against Oncor, Inc. in an action pending in the United States Bankruptcy Court for the District of Delaware titled IN RE ONCOR, INC., No. 9-437 (JJF). Our
+claims arose out of an Asset Purchase Agreement dated November 23, 1998 and related documents wherein we acquired Oncor s unincorporated In Situ Hybridization Technology Division and rights related thereto. In February 2000, we filed an amended
+proof of claim alleging, inter alia, that Oncor breached the terms of the Asset Purchase Agreement by purporting to transfer or assign to us Oncor s rights under a license agreement, which were not transferable or assignable under the
+circumstances then existing. The amended proof of claim sought damages of no less than approximately 7.3 million. In September 2002, the parties entered into a settlement agreement that provided for a payout to Ventana of 900,000 in settlement of
+all claims which was subsequently approved by the court, and the payment was received by Ventana in December 2002. The proceeds are reflected as other income in 2002. On December 9, 1999, we filed an action, VENTANA MEDICAL SYSTEMS, INC. v. CYTOLOGIX CORP., No. CIV99-606 TUC
+FRZ, alleging patent infringement of U.S. Patent No. 5,355,439 seeking monetary damages and injunctive relief in the United States District Court in Tucson. The original complaint was amended March 21, 2000 by the addition of another patent to the
+litigation, which was subsequently dropped from the litigation. On July 1, 2002, the court entered a final judgment approving a Settlement Agreement between the parties reflecting their agreement that the sole patent in suit, United States Patent
+5,355,439, is valid and enforceable, that the ARTISAN staining system does not infringe the 439 patent,
+that no further relief including costs or attorneys fees will be granted either party and that all existing claims and counterclaims may be dismissed with prejudice. On March 8, 2002, Ventana filed a new patent infringement action against CytoLogix in Arizona Federal
+District Court, Case No. CIV02-117TUCRCC, alleging infringement of U.S. Patent No. 6,352,861 (Automated Biological Reaction Apparatus) by the making, using and selling of the ARTISAN automated staining system. The suit seeks injunctive relief including a preliminary injunction against the continued making, using and selling of
+the instrument. On April 19, 2002, the court issued an Order that reflects the agreement of Cytologix to stop marketing and selling the ARTISAN automated staining system in its infringing embodiment until the matter is decided at the preliminary injunction hearing postponed to December, 2002. In September 2002, DAKO Cytomation announced it
+had purchased the ARTISAN product line from Cytologix. In December Cytologix filed a motion to dismiss the case. In January 2003, we filed a motion opposing that motion, and asking the court to re-schedule the Preliminary Injunction hearing. The
+hearing has not been scheduled as of this date. We believe our claims are meritorious and that we will prevail, however, results of the proceedings are uncertain and there can be no assurance to that effect. CytoLogix Corp. has filed three separate actions against us in
+various courts. The first action is CYTOLOGIX v. VENTANA, Case No. 00-12231 REK, filed Oct. 27, 2000 in federal district court in Boston. The complaint claims, under state-law based unfair competition law, that Ventana misappropriated
+CytoLogix s trade secrets related to individual slide heating and incorporated such secrets into our DISCOVERY and BENCHMARK instruments. CytoLogix seeks assignment of our patent applications relating to
+individual slide heating claiming the idea, treble damages (unspecified amount) and an injunction against our further sales of DISCOVERY and BENCHMARK instruments. In February 2002, CytoLogix filed a motion to amend their
+complaint to add the related claims of attempted monopolization and monopolization under the Sherman Act, and various Lanham Act violations which was allowed by the court. Previously this case and the patent infringement dispute, Case No. 01-10178
+REK (see below) had been consolidated for discovery; they were bifurcated for trial at the January 28, 2003 status conference. This case is not presently scheduled for trial. We believe that we have meritorious defenses to the claims in this action
+and that resolution of this matter will not have a material adverse effect on our business, financial condition or results of operation; however, the results of the proceeding are uncertain and there can be no assurance to that effect. The second is CYTOLOGIX v. VENTANA, Case No. 4 Ni 54/00 (EU)
+(Nullity suit), filed November 9, 2000 in the German Federal Patent Court, Munich, Germany. In a decision at the oral hearing March 20, 2002, the German Federal Patent Court ruled that our German patent no. DE 69117052.5, which covers various
+aspects 
+ 
+ 15 
+
+of our previous generation GENII automated slide staining system, is invalid. The technology addressed by the German patent is unrelated to the technologies involved in any of the other patent litigations, including the individual
+slide heating technology that is the subject of the Boston-based patent litigation. The decision affects our ability to enforce this patent in Germany subject to an appeal and final decision on validity. On May 22, 2002, we filed an appeal to the
+German Federal Court of Justice seeking that the previous judgment be set aside, and that the complaint be dismissed substituting an amended claim into the patent. We have been advised by German patent counsel that the appeal process will take up to
+two years; therefore, we do not expect a decision until the second or third quarter of 2004. It is management s opinion that there will be no material adverse outcome from this matter. The third action is CYTOLOGIX v. VENTANA, Case No. 01-10178
+REK, filed January 30, 2001 in the U.S. District Court, Eastern District of Massachusetts. This complaint claims that we infringed on CytoLogix s patent No. 6,180,061, entitled Moving Platform Slide Stainer with Heating Elements, 
+and was later amended to add U.S. Patent No. 6,183,693, issued Feb. 7, 2001, entitled Random Access Slide Stainer with Independent Slide Heating Regulation, both assigned to CytoLogix. CytoLogix seeks assignment of our patent
+applications claiming the independent slide heater idea, treble damages (unspecified amount) and an injunction against our further sales of DISCOVERY and BENCHMARK instruments. At the Pre-trial Hearing on Feb. 3,
+2003, the trial was indefinitely postponed until sometime in the Fall, 2003, however no specific trial date has been set. A Pre-trial hearing date of August 13, 2003 is set. We believe that we have meritorious defenses to the claims in this action
+and that resolution of this matter will not have a material adverse effect on our business, financial condition or results of operation; however, the results of the proceeding are uncertain and there can be no assurance to that effect. On November 19, 2001 a patent infringement claim was filed
+against us titled DIGENE CORPORATION v. VENTANA MEDICAL SYSTEMS, INC., (Case No. 01-752) in Delaware Federal District Court. This complaint alleges that we infringed two US patents held by Digene, U.S. 4,849,331 and 4,849,332 by activities relating
+to our INFORM HPV High-risk and Low-risk probe products. We filed an answer denying the allegations on
+Feb. 4, 2002. The parties have filed cross-motions for summary judgment. In addition, in November 2002 Digene filed a motion to amend its complaint to add numerous causes of action related to our September 2002 acquisition of Beckman
+Coulter s HPV business. Digene seeks, among other remedies, an injunction against the sale of our INFORM products, unspecified monetary damages, cancellation of the Beckman HPV acquisition, and related claims. A hearing was held March 5, 2003
+on several pending motions, however the court only ruled on one of them, allowing Digene to amend its amended complaint. The other motions are awaiting decision which we have been advised may occur towards the end of March 2003. We believe that we
+have meritorious defenses to the claims in this action and that resolution of this matter will not have a material adverse effect on our business, financial condition or results of operation; however, the results of the proceeding are uncertain and
+there can be no assurance to that effect. On
+January 2, 2003, we filed a Complaint in Arizona Federal District Court against Vision Systems Ltd., Vision an Australian biomedical company, for infringement of U.S. Patent Nos. 5,355,439 Method and Apparatus for Automated
+Tissue Assay and 6,352,861 Automated Biological Reaction Apparatus ). On March 5, 2003 Ventana was served with a Summons and Complaint by Vision Biosystems USA for Declaratory Judgment seeking a declaration of no infringement and invalidity of US patents 5,355,439 and
+6,352,861, both owned by Ventana, in the U.S. Federal Court for the Eastern District of Massachusetts. The Complaint alleges that Ventana has asserted that Vision s BOND system infringes both of the aforementioned patents, and that Vision has a reasonable apprehension of being sued. In addition to invalidity and
+non-infringement declarations, Vision also alleges tortuous interference with business advantage under Massachusetts law. We believe our defenses are meritorious and that we will prevail, however, results of the proceedings are uncertain and there
+can be no assurance to that effect. 
+ Item 4. Submission of Matters to a Vote of Security Holders No matters were submitted to a vote of security holders in the fourth quarter of 2002. 
+ 16 
+
+PART II 
+ Item 5. Market for Registrant s Common Equity and Related Stockholder Matters Our common stock is listed on the NASDAQ National Market under the symbol VMSI. The closing price of our common stock on
+February 28, 2003 was 19.42. The following table shows the high and low bid prices in dollars per share for the last two years as reported by NASDAQ: 
+
+Low 
+ 
+ High 
+ 
+ Year Ended December 31, 2001 
+
+First Quarter 
+
+15.88 
+
+24.25 
+ 
+ Second Quarter 
+
+20.00 
+
+32.25 
+ 
+ Third Quarter 
+
+18.27 
+
+35.45 
+ 
+ Fourth Quarter 
+
+20.19 
+
+25.87 
+ 
+ Year Ended December 31, 2002 
+
+First Quarter 
+
+18.00 
+
+24.35 
+ 
+ Second Quarter 
+
+18.27 
+
+25.80 
+ 
+ Third Quarter 
+
+16.32 
+
+24.30 
+ 
+ Fourth Quarter 
+
+15.23 
+
+24.50 
+ As of
+February 28, 2003, there were approximately 4,800 beneficial holders of our common stock. Dividend Policy No cash dividends were declared or paid in fiscal 2002 or fiscal 2001. We anticipate retaining all available funds to finance future internal growth and product development. Furthermore, under the terms of our line of credit, we are
+prohibited from declaring dividends on any of our equity securities. 
+ Item 6. Selected Financial Data The selected financial data set forth below with respect to our consolidated financial statements has been derived from our audited financial statements. The data set forth below should be read in
+conjunction with Management s Discussion and Analysis of Financial Condition and Results of Operations and the consolidated financial statements and related notes. The selected financial data in this section are not intended to
+replace the consolidated financial statements. 
+ 17 
+
+Selected Consolidated Financial Data 
+
+Years Ended December 31, 
+
+1998 
+
+1999 
+
+2000 
+
+2001 
+
+2002 
+
+(In thousands, except per share data) 
+
+Statement of Operations Data: 
+
+Sales: 
+
+Reagents and other 
+
+31,967 
+
+45,340 
+
+49,682 
+
+61,586 
+
+80,365 
+
+Instruments 
+
+15,737 
+
+24,069 
+
+21,467 
+
+26,227 
+
+25,072 
+
+Total net sales 
+
+47,704 
+
+69,409 
+
+71,149 
+
+87,813 
+
+105,437 
+
+Cost of goods sold 
+
+14,542 
+
+21,218 
+
+36,377 
+
+27,622 
+
+31,244 
+
+Gross profit 
+
+33,162 
+
+48,191 
+
+34,772 
+
+60,191 
+
+74,193 
+
+Operating expenses: 
+
+Research and development 
+
+5,057 
+
+7,078 
+
+11,116 
+
+14,929 
+
+16,359 
+
+Selling, general and administrative 
+
+23,805 
+
+32,381 
+
+43,800 
+
+42,760 
+
+51,828 
+
+Amortization of intangible assets 
+
+599 
+
+1,051 
+
+1,474 
+
+1,575 
+
+1,646 
+
+Special charges 
+
+3,160 
+
+4,519 
+
+1,151 
+
+Income (loss) from operations 
+
+541 
+
+7,681 
+
+(26,137) 
+
+927 
+
+3,209 
+
+Interest and other income (expense) 
+
+1,089 
+
+(370) 
+
+1,346 
+
+826 
+
+1,392 
+
+Income (loss) before taxes and cumulative effect of accounting change 
+
+1,630 
+
+7,311 
+
+(24,791) 
+
+1,753 
+
+4,601 
+
+(Provision for) benefit from income taxes 
+
+5,500 
+
+(350) 
+
+(311) 
+
+(528) 
+
+Income (loss) before cumulative effect of accounting change 
+
+1,630 
+
+12,811 
+
+(25,141) 
+
+1,442 
+
+4,073 
+
+Cumulative effect of accounting change, net of tax(l) 
+
+(2,154) 
+
+Net income (loss) 
+
+1,630 
+
+12,811 
+
+(27,295) 
+
+1,442 
+
+4,073 
+
+Amounts per common share, diluted: 
+
+Income (loss) before cumulative effect of accounting change 
+
+0.11 
+
+0.88 
+
+(1.70) 
+
+0.09 
+
+0.25 
+
+Cumulative effect of accounting change 
+
+(0.15) 
+
+Net income (loss) per share, diluted 
+
+0.11 
+
+0.88 
+
+(1.85) 
+
+0.09 
+
+0.25 
+
+Pro forma income (loss) assuming the accounting change is applied
+retroactively: 
+
+Net income (loss) 
+
+1,282 
+
+11,668 
+
+(25,141) 
+
+Net income (loss) per common share, diluted 
+
+0.09 
+
+0.80 
+
+(1.70) 
+
+Balance Sheet Data: 
+
+Cash, cash equivalents and short-term investments 
+
+2,424 
+
+1,787 
+
+38,512 
+
+12,280 
+
+18,708 
+
+Long-term debt and redeemable preferred stock 
+
+1,907 
+
+2,044 
+
+3,408 
+
+2,521 
+
+2,357 
+
+Working capital 
+
+22,277 
+
+28,408 
+
+49,577 
+
+33,838 
+
+39,030 
+
+Total assets 
+
+56,280 
+
+73,161 
+
+109,582 
+
+110,985 
+
+125,137 
+
+Accumulated deficit 
+
+(32,152) 
+
+(19,341) 
+
+(46,636) 
+
+(45,194) 
+
+(41,121) 
+ 
+ Total stockholders equity 
+
+45,784 
+
+60,500 
+
+87,088 
+
+94,153 
+
+102,104 
+
+(1) 
+ 
+ See Note 1 to the Consolidated Financial Statements in Form 10-K attached for information regarding the change in the accounting for revenue recognition in
+accordance with Staff Accounting Bulletin (SAB) No. 101. 
+ 18 
+
+The following tables contain summary unaudited quarterly consolidated statements of
+operations for the four quarters ended December 31, 2002 and the four quarters ended December 31, 2001. We have prepared the quarterly consolidated statements of operations data on the same basis as the Consolidated Statements of Operations
+presented on page F-3. Our results of operations have varied and may continue to fluctuate significantly from quarter to quarter. Results of operations in any period should not be considered indicative of the results to be expected for any future
+period. Summary Quarterly Condensed Consolidated Financial Data 
+
+Year ended December 31, 2002 
+
+First Quarter 
+
+Second Quarter 
+
+Third Quarter 
+
+Fourth Quarter 
+
+(in thousands, except per share data) 
+
+Statement of Operations Data: 
+
+Sales: 
+
+Reagents and other 
+
+17,835 
+
+19,800 
+
+20,411 
+
+22,319 
+
+Instruments 
+
+4,347 
+
+5,951 
+
+6,676 
+
+8,098 
+
+Total net sales 
+
+22,182 
+
+25,751 
+
+27,087 
+
+30,417 
+
+Cost of goods sold 
+
+6,810 
+
+7,885 
+
+7,989 
+
+8,560 
+
+Gross profit 
+
+15,372 
+
+17,866 
+
+19,098 
+
+21,857 
+
+Operating expenses: 
+
+Research and development 
+
+3,622 
+
+3,849 
+
+4,075 
+
+4,813 
+
+Selling, general and administrative 
+
+11,708 
+
+12,930 
+
+13,060 
+
+14,130 
+
+Amortization of intangible assets 
+
+412 
+
+396 
+
+382 
+
+456 
+
+Special charges 
+
+1,151 
+
+Income (loss) from operations 
+
+(370) 
+
+691 
+
+430 
+
+2,458 
+
+Interest and other income 
+
+3 
+
+63 
+
+108 
+
+1,218 
+
+Income (loss) before taxes 
+
+(367) 
+
+754 
+
+538 
+
+3,676 
+
+Provision for income taxes 
+
+(188) 
+
+(276) 
+
+(31) 
+
+(33) 
+
+Net income (loss) 
+
+(555) 
+
+478 
+
+507 
+
+3,643 
+
+Net income (loss) per common share 
+
+Basic 
+
+(0.03) 
+
+0.03 
+
+0.03 
+
+0.22 
+
+Diluted 
+
+(0.03) 
+
+0.03 
+
+0.03 
+
+0.22 
+
+Average basic common shares outstanding 
+
+16,187 
+
+16,258 
+
+16,308 
+
+16,339 
+
+Average diluted common shares outstanding 
+
+16,187 
+
+16,622 
+
+16,609 
+
+16,601 
+
+19 
+
+Year ended December 31, 2001 
+
+First Quarter 
+
+Second Quarter 
+
+Third Quarter 
+
+Fourth Quarter 
+
+(in thousands, except per share data) 
+ 
+ Statement of Operations Data: 
+
+Sales: 
+
+Reagents and other 
+
+13,674 
+
+15,143 
+
+15,735 
+
+16,944 
+ 
+ Instruments 
+
+5,516 
+
+6,195 
+
+5,922 
+
+8,594 
+
+Total net sales 
+
+19,190 
+
+21,338 
+
+21,657 
+
+25,538 
+ 
+ Cost of goods sold 
+
+6,175 
+
+7,051 
+
+6,472 
+
+7,924 
+
+Gross profit 
+
+13,015 
+
+14,287 
+
+15,185 
+
+17,614 
+ 
+ Operating expenses: 
+
+Research and development 
+
+3,306 
+
+3,850 
+
+4,137 
+
+3,636 
+ 
+ Selling, general and administrative 
+
+10,759 
+
+10,221 
+
+10,440 
+
+11,340 
+ 
+ Amortization of intangible assets 
+
+372 
+
+382 
+
+381 
+
+440 
+
+Income (loss) from operations 
+
+(1,422) 
+
+(166) 
+
+227 
+
+2,198 
+ 
+ Interest and other income 
+
+339 
+
+286 
+
+135 
+
+66 
+
+Income (loss) before taxes 
+
+(1,083) 
+
+120 
+
+362 
+
+2,264 
+ 
+ Provision for income taxes 
+
+(134) 
+
+(105) 
+
+(72) 
+
+Net income (loss) 
+
+(1,217) 
+
+15 
+
+290 
+
+2,264 
+
+Net income (loss) per common share 
+
+Basic 
+
+(0.08) 
+
+0.00 
+
+0.02 
+
+0.14 
+
+Diluted 
+
+(0.08) 
+
+0.00 
+
+0.02 
+
+0.14 
+
+Shares used in computing net income (loss) per share, basic 
+
+15,575 
+
+15,970 
+
+16,031 
+
+16,074 
+
+Shares used in computing net income (loss) per share, diluted 
+
+15,575 
+
+16,722 
+
+16,784 
+
+16,517 
+
+Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations Special Note Regarding Forward-Looking Statements and Analyst Reports Certain written and oral statements, other than purely historical information, including estimates,
+projections, statements relating to Ventana s business plans, objectives and expected operating results, and the assumptions upon which those statements are based, made or incorporated by reference from time to time by Ventana or its
+representatives in this report, other reports, filings with the SEC, press releases, conferences, or otherwise, are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 and Section 21E of
+the Securities Exchange Act of 1934. Forward-looking statements include, without limitation, any statement that may predict, forecast, indicate, or imply future results, performance, or achievements, and may contain the words believe, 
+ anticipate, expect, estimate, project, will be, will continue, will likely result, or words or phrases of similar meaning. Forward-looking statements involve risks
+and uncertainties that may cause actual results to differ materially from the forward-looking statements. The risks and uncertainties are detailed from time to time in reports filed by Ventana with the SEC, including Forms 8-K, 10-Q, and 10-K, and
+include, among others, the following: international, national and local general economic and market conditions including third-party reimbursement; the size and growth of the overall market; intense competition among sellers and distributors of
+instrument/reagent systems; difficulties in anticipating or forecasting changes in consumer demand for Ventana products, and the various market factors described above; difficulties in implementing, operating, and maintaining Ventana s
+increasingly complex information systems and controls, including, without limitation, the systems related to demand and supply planning, and inventory control; interruptions in data and communications systems; fluctuations and difficulty in
+forecasting operating results, the ability of Ventana to sustain, manage or forecast its growth and inventories; the size, timing and mix 
+ 
+ 20 
+
+of purchases of Ventana s products; new product development and introduction; the ability to secure and protect trademarks, patents, and
+other intellectual property; performance and reliability of products; customer service; the loss of significant customers or suppliers; business disruptions; increased costs of freight and transportation; increases in borrowing costs due to any
+decline in our debt ratings; changes in business strategy or development plans; general risks associated with doing business outside the United States, including without limitation, import duties, tariffs, quotas and political and economic
+instability; changes in government regulations; liability and other claims asserted against Ventana; the ability to attract and retain qualified personnel; and other factors referenced or incorporated by reference in this report and other reports.
+ The risks included here are not exhaustive.
+Other sections of this report may include additional factors that could adversely affect Ventana s business and financial performance. Moreover, Ventana operates in a very competitive and rapidly changing environment. New risk factors emerge
+from time to time and it is not possible for management to predict all such risk factors, nor can it assess the impact of all such risk factors on Ventana s business or the extent to which any factor, or combination of factors, may cause actual
+results to differ materially from those contained in any forward-looking statements. Given these risks and uncertainties, investors should not place undue reliance on forward-looking statements as a prediction of actual results. Investors should also be aware that while Ventana does, from
+time to time, communicate with securities analysts, it is against Ventana s policy to disclose to them any material non-public information or other confidential commercial information. Accordingly, shareholders should not assume that Ventana
+agrees with any statement or report issued by any analyst irrespective of the content of the statement or report. Critical Accounting Policies and Estimates Our discussion and analysis of financial condition and results of operations are based upon our consolidated financial statements, which
+have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities,
+revenues and expenses and related disclosure of contingent liabilities. On an ongoing basis, we evaluate our estimates, including those related to bad debts, inventories, income taxes and contingencies and litigation. We base our estimates on
+historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily
+apparent from other resources. Actual results may differ from these estimates under different assumptions or conditions. We have adopted the following critical accounting policies used in the preparation of our consolidated financial statements. Revenue Recognition Revenue from instrument sales made by us directly to the end
+user is generally recognized upon our completion of the installation. However, if the end user already has the identical instrument installed at the same location we recognize the revenue from that sale upon shipment. Revenue from reagents is
+recognized upon shipment. Service contract revenue is deferred and recognized ratably over the period service is to be provided, which is typically one to three years. Out-of-warranty work is recognized as services are rendered. A portion of our instrument revenue is from sales made to
+distributors under agreements that require them to assume responsibility for product installation without recourse to us. Revenue for instruments sold under these agreements is recognized upon shipment to the distributor when we assess their ability
+to pay as probable for that sale. There are certain foreign distributors for which revenue is not recognized until the instrument is installed and accepted by the end user, thereby making the related payment probable. 
+ 21 
+
+Reserve for
+Uncollectible Accounts Receivable We make
+ongoing estimates relating to the collectibility of our accounts receivable and maintain a reserve for estimated losses resulting from the inability of our customers to make required payments. In determining the amount of the reserve, we consider
+our historical level of credit losses and make judgments about the creditworthiness of significant customers based on ongoing credit evaluations. Historically, losses from uncollectible accounts have not exceeded our reserves. Since we cannot
+predict future changes in the financial stability of our customers, actual future losses from uncollectible accounts may differ from our estimates. If the financial condition of our customers were to deteriorate, resulting in their inability to make
+payments, a larger reserve might be required. In the event we determined that a smaller or larger reserve was appropriate, we would record a credit or a charge to selling and administrative expense in the period in which we made such a
+determination. Inventory Reserves
+ We also make ongoing estimates relating to
+the market value of inventories, based upon our assumptions about future demand and market conditions. If we estimate that the net realizable value of our inventory is less than the cost of the inventory recorded on our books, we record a reserve
+equal to the difference between the cost of the inventory and the estimated market value. This reserve is recorded as a charge to cost of sales. If changes in market conditions result in reductions in the estimated market value of our inventory
+below our previous estimate, we would increase our reserve in the period in which we made such a determination and record a charge to cost of sales. Goodwill and Other Intangible Assets In assessing the recoverability of our goodwill and other intangibles we must make certain assumptions regarding estimated future cash
+flows and other factors to determine the fair value of the respective assets. If these estimates or their related assumptions change in the future, we may be required to record impairment charges for these assets. Deferred Tax Assets We record a valuation allowance to reduce our deferred tax
+assets to the amount that we believe is more likely than not to be realized. We have considered future taxable income in assessing the need for the valuation allowance. In the event we determine that we would not be able to realize all or part of
+our net deferred tax assets in the future, an adjustment to the deferred tax assets would be charged to income in the period such determination was made. Likewise, should we determine that we would be able to realize our deferred tax assets in the
+future in excess of our net recorded amount, an adjustment to the deferred tax assets would increase income in the period such determination was made. Legal Contingencies We are currently involved in certain legal proceedings. We do not believe these proceedings will have a material adverse effect on our
+consolidated financial position. It is possible, however, that future results of operations for any particular quarterly or annual period could be materially affected by changes in our assumptions, or the effectiveness of our strategies, related to
+these proceedings. The above list is not
+intended to be a comprehensive list of all of our accounting policies. In many cases, the accounting treatment of a particular transaction is specifically dictated by generally accepted accounting principles, with no need for management s
+judgment in their application. There are also areas in which management s judgment in selecting any available alternative would not produce a materially different result. See the Company s audited consolidated financial statements and
+notes thereto which begin on page F-2 that contains accounting policies and other disclosures required by generally accepted accounting policies. 
+ 22 
+
+Results of Operations
+ Comparison of 2002 and 2001
+ Net Sales Net sales increased 20 to 105.4 million in 2002 versus
+ 87.8 million in 2001, primarily due to our reagent and other sales increasing by 30 . Instrument revenue decreased 4 compared to 2001, although our total installed base increased to approximately 4,000 in 2002 versus 3,200 at the end of 2001. The
+combination of our expanded reagent menu, together with the incorporation of ISH technology on the BENCHMARK ,
+is driving a significant incremental annuity stream as new and existing customers commit to the BENCHMARK 
+platform for their advanced staining needs. At the same time, we see our customers capital budget cycles lengthening, resulting in increased demand for our rental acquisition programs. Through these flexible programs, which allow customers to
+acquire an instrument without an up-front capital payment, we are continuing to make Ventana technology available to a broad customer base, thereby driving reagent sales growth. By segment, domestic and international revenues increased 23 and 14 respectively versus 2001, paced by 28 
+and 39 growth in reagent and other revenue, respectively, primarily due to our growing install base. Gross Margin Total gross margin percentage increased to 70 in 2002 from 69 in 2001. This improvement was driven primarily through the manufacturing
+efficiencies gained in the late 2001 consolidation of operations in our purpose-built manufacturing facility located in Tucson, and through growth in the higher margin reagent component of our total revenues. Research and Development Research and development spending increased to 16.4 million
+in 2002 from 14.9 million in 2001. In 2002, we completed development of our next generation stainer the BenchMark XT, and continued work on both our proprietary imaging system and our high volume H E Primary Stainer. In addition, we are investing in life sciences and associated reagent development consistent with our goal of maintaining a
+leadership position in the anatomical pathology market. Our 2002 investments notwithstanding, research and development spending decreased as a percent of sales to 16 in 2002 from 17 in 2001. Selling, General and Administrative (SG A)
+ SG A expenses increased to 51.8
+million in 2002 from 42.8 million in 2001. This 21 increase primarily reflects our investments in our sales force and associated infrastructure, continued development of our marketing organization, and new product launch activities. We also
+continued to invest in fortifying our intellectual property position and defending Ventana in a number of litigation matters (see Item 3. Legal Proceedings) . As a percentage of net sales, SG A was unchanged from 2001 at 49 . Amortization of Intangible Assets Amortization expense of intangible assets in 2002 was 1.6
+million, unchanged from 2001, although we no longer amortize goodwill totaling 2.8 million consistent with SFAS No. 142. This 2002 accounting change resulted in a 0.3 million benefit in 2002 versus 2001, which was wholly offset by the incremental
+amortization associated with our transaction with Beckman Coulter Inc. in the third quarter of 2002. Special Charges On September 24, 2002, we entered into an agreement with Beckman Coulter, Inc to acquire their HPV business and related assets, which
+included their HPV intellectual property portfolio and related products, for the quantitative and qualitative identification of HPV. The acquisition principally included the intellectual property 
+ 
+ 23 
+
+rights and the related technologies in HPV business applications. This acquisition includes assignment of the HPV intellectual property
+portfolio acquired by Beckman Coulter, Inc. from Institute Pasteur through a 1991 sub-license agreement. As a result of this transaction, we incurred a 1.2 million non-cash charge to write off the value of an existing supply agreement 0.9
+million) and associated goodwill 0.3 million) previously acquired through the purchase of certain oncology diagnostic technology and assets from Oncor, Inc. in 1998. Interest and Other Income (Expense) Interest and other income increased to 1.4 million in 2002 from 0.8 million in 2001. This increase was
+primarily due to a 0.9 million benefit received in connection with our claims in the United States Bankruptcy Court of the District of Delaware titled IN RE ONCOR, INC., No. 9-437 (JJF). Absent this benefit, other income in 2002 decreased versus
+2001, primarily as a result of lower interest income earned on our cash reserves due to current interest rates and lower average cash balances. Income Taxes We did not recognize any expense for U.S. taxes in 2002 or 2001 due to the existence of valuation allowances that had the effect of
+offsetting such expenses. We have recorded on our balance sheet deferred tax assets, net of valuation reserve, for the portion of our total deferred tax assets that management believes are more than likely than not recoverable in the foreseeable
+future. To the extent management s estimates with respect to the recoverable portion of its deferred tax assets change in the future, income tax expense/benefit could be impacted by such estimates. Tax expense reported consists of certain state
+and international taxes. Tax expense increased to 0.5 million in 2002, up from 0.3 million in 2001, due to growth in domestic revenues, increased state franchise taxes and the impact of increased operating profits in states where we are not
+permitted to offset current profits with prior period losses. Comparison of 2001 and 2000 Net Sales Net sales
+increased to 87.8 million in 2001 from 71.1 million in 2000. Net revenues for reagents and other sales increased by 24 from 2000 to 2001. Net revenues for instruments increased by 22 from 2000. The increase for reagents was primarily due to the
+growth in the underlying installed base and the launch of new reagent systems. Increased instrument revenue from 2000 to 2001 was primarily due to continued market acceptance of the BENCHMARK system, launched in late 2000, and strong performance from our IHC and Special Stains instruments. Gross Margin Our total gross margin percentage increased to 69 in 2001,
+up from 49 in 2000. The gross margin in 2000 was impacted by charges totaling 11.8 million. Absent these charges, the gross margin percentage increased four percentage points primarily due to the higher margin reagent and other sales mix as a
+percentage of total sales. Research and
+Development Research and development
+spending increased 3.8 million in 2001, or 34 from 2000, primarily due to increased spending on product development programs, including the development of chemistry applications for DNA micro arrays and messenger RNA tissue testing. 
+ 24 
+
+Selling,
+General and Administrative (SG A) Selling, general and administrative (SG A) expenses decreased 1.0 million (2 in 2001 compared to 2000, primarily due to charges of 5.7 million recorded in 2000 associated with the discontinuation of various products and with
+the revaluation of field instruments brought about with the launch of the BENCHMARK instrument. Absent this
+charge, SG A increased by 4.7 million, or 12 , as we continued to invest in key areas including our direct sales force, product strategy and customer support, to position ourselves for future market opportunities. Fiscal 2000 results were negatively impacted by 22.5 million
+in write-offs and accruals relating to several different issues. The following table summarizes the 2001 reserve activity: 
+
+Initial Charges 
+ 
+ Reserve Balances as of December 31, 2000 
+ 
+ Costs Incurred in 2001 
+ 
+ Revision to Estimates 
+
+Reserve Balances as of December 31, 2001 
+
+(in thousands) 
+ 
+ Reagent dispenser quality issue 
+
+5,355 
+
+2,510 
+
+867 
+
+(1,643) 
+
+Exit of electron microscopy product line 
+
+4,581 
+
+Impairment of inventory, diagnostic instruments and intangibles 
+
+8,615 
+
+1,310 
+
+1,460 
+
+150 
+
+Cost to close Gaithersburg facility 
+
+2,611 
+
+1,117 
+
+967 
+
+(150) 
+
+Other charges including contracted R D 
+
+1,362 
+
+Total impairment charges and other expenses 
+
+22,524 
+
+4,937 
+
+3,294 
+
+(1,643) 
+
+The 1.6
+million revision to the estimate was due to the favorable resolution of outstanding accounts receivable balances related to the reagent dispenser quality issue and were reflected in the 2001 financial statements as a reduction in SG A expenses.
+However, an additional 0.8 million charge was recorded as a charge to SG A expenses during the year due to our uncertainty of how the worldwide recession will impact our customer base and their ability to pay. Amortization of Intangible Assets Amortization of goodwill and other acquisition-related
+intangibles increased 0.1 million (7 in 2001 compared to 2000. The increase for the period was primarily due to a full year s impact of the 2000 acquisition of Quantitative Diagnostic Laboratories, Inc. We recorded approximately 1.6 million
+in amortization of our intangible assets during 2001. In accordance with SFAS No.142, effective January 1, 2002, we ceased amortizing goodwill totaling 3.1 million as of that date. Interest and Other Income (Expense) Interest and other net decreased 0.5 million (39 in 2001 compared to 2000. The decrease is primarily due
+to lower average investment balances in 2001 compared to 2000, as well as lower market rates of return as interest rates fell throughout 2001. The lower balances were primarily the result of the 2001 investment in the Company s new facility in
+Tucson, Arizona. Income Taxes
+ The deferred tax assets and valuation
+allowance decreased by 0.5 million during 2001. The decrease relates primarily to expiring state net operating loss carry forwards and reversal of temporary differences. No additional valuation allowance was considered necessary for the deferred
+tax assets of 8.8 million. At December 31, 2001, we had net operating loss carry forwards for state and federal income tax purposes of approximately 11.2 
+ 
+ 25 
+
+million and 18.7 million, respectively. These state and federal carry forwards will begin to expire in 2005 and 2007, respectively, if not
+previously utilized. Approximately 0.6 million of state net operating loss carry forwards expired unused in 2001. We also have research and development tax credit carry forwards of approximately 1.9 million that begin to expire in 2005, if not
+previously utilized. Utilization of our net operating loss carry forwards will be subject to limitations due to the change in ownership provisions of the Internal Revenue Code of 1996, as amended, as a result of our prior issuances of
+equity securities. These carry forwards, therefore, may expire prior to being fully utilized. Future financings may cause additional changes in ownership and further limitations on the use of federal net operating loss carry forwards. In addition,
+we have certain foreign net operating loss carry forwards approximating 7.4 million. We will continue to closely monitor operating results and analyze our ability to recover these deferred assets in the very near term. Liquidity and Capital Resources Cash and cash equivalents was 18.7 million at
+December 31, 2002, an increase of 6.4 million from December 31, 2001. We have funded our capital requirements since inception through sales of equity securities, debt financing and cash flows from operations. Net cash provided by (used in)
+operating activities was 11.9 million, (5.3) million and 2.2 million for fiscal years 2002, 2001 and 2000, respectively. Net cash provided by operating activities exceeded net income in 2002 primarily due to the effect of depreciation and
+amortization, and increases in operating liabilities. We use cash primarily to fund the investments of property and equipment and acquisitions of intangible assets. Net cash used in investing activities in fiscal years 2002, 2001, and 2000 was 8.5 million, 25.7 million, and 19.3
+million, respectively. Investment activities primarily consisted of capital expenditures of 7.1 million, 23.9 million and 15.1 million in fiscal years 2002, 2001 and 2000, respectively. During 2000 and 2001, we invested in land and buildings for
+the construction of our facilities in Tucson, Arizona and Strasbourg, France. Net cash provided by financing activities in fiscal years 2002, 2001 and 2000 was 3.2 million, 4.8 million and 54.3 million, respectively. Financing activities in fiscal year 2000 consisted
+primarily of the proceeds from our private equity placement. Financing activities in fiscal years 2001 and 2002 consisted primarily from the proceeds of the exercise of warrants, stock options and employee stock purchases. In August of 2002, we entered into a senior secured revolving
+credit facility with a commercial lending institution. The credit facility allows for borrowings up to 12.0 million. Borrowings under the line are collateralized by our receivables, inventories, and machinery and equipment. The line of credit
+contains certain financial covenants (measured quarterly) with which we must comply. At December 31, 2002 we had available borrowing capacity of 12.0 million, of which, 2.2 million has been committed in support of various standby letters of
+credit. At December 31, 2002, we were in compliance with all covenants. We believe that our cash flow from operations together with our current cash reserves will be sufficient to fund our projected capital requirements through 2003. In the event that additional capital is required, we will
+first access our existing credit facility. In the event that additional capital is required, we may seek to raise such capital through public or private equity or debt financings. Future capital funding transactions may result in dilution to current
+shareholders. Foreign Currency Risk The value of the U.S. Dollar affects our financial results.
+Changes in exchange rates may positively or negatively affect our revenues, gross margins, operating expenses and shareholders equity as expressed in U.S. Dollars. We have determined that hedging of non-U.S. Dollar net monetary assets is not
+cost effective and instead attempt to minimize currency exposure risk through working capital management. There can be no assurance that such an approach will be successful, especially if a significant and sudden decline occurs in the value of local
+currencies. We conduct a growing portion of our business in the Euro, the Japanese Yen and the Australian Dollar. 
+ 26 
+
+New Accounting Standards
+ In June 2002, the Financial Accounting
+Standards Board issued Statement of Financial Accounting Standard No. 146 (SFAS No. 146), Accounting for Costs Associated with Exit or Disposal Activities . SFAS No. 146 supersedes Emerging Issues Task Force (EITF) No. 94-3, Liability
+Recognition for Certain Employee Termination Benefits and Other Costs to Exit an Activity (Including Certain Costs Incurred in a Restructuring) . SFAS No. 146 eliminates the provisions of EITF No. 94-3 that required a liability to be recognized
+for certain exit or disposal activities at the date an entity committed to an exit plan. SFAS No. 146 requires a liability for costs associated with an exit or disposal activity to be recognized when the liability is incurred. SFAS No. 146 is
+effective for exit or disposal activities that are initiated after December 31, 2002. We do not expect the adoption of this statement to have an impact on its results of operations or financial position. In December 2002, the Financial Accounting Standards Board
+issued Statement of Financial Accounting Standard No. 148 (SFAS No. 148) SFAS No. 148, Accounting for Stock-Based Compensation Transition and Disclosure . SFAS No. 148 amends SFAS No. 123, Accounting for Stock-Based Compensation ,
+to provide alternative methods of transition to SFAS No. 123 s fair value method of accounting for stock-based employee compensation. Statement 148 also amends the disclosure provisions of SFAS No. 123 and APB Opinion No. 28, Interim
+Financial Reporting, to require disclosure in the summary of significant accounting policies of the effects of an entity s accounting policy with respect to stock-based employee compensation on reported net income and earnings per share in
+annual and interim financial statements. While SFAS No. 148 does not amend SFAS No. 123 to require companies to account for employee stock options using the fair value method, the disclosure provisions of SFAS No. 148 are applicable to all companies
+with stock-based employee compensation, regardless of whether they account for that compensation using the fair value method of SFAS No. 123 or the intrinsic value method of APB Opinion No. 25. As allowed by SFAS No. 123, the Company has elected to
+continue to utilize the accounting method prescribed by APB Opinion No. 25 and has adopted the disclosure requirements of SFAS No. 123. 
+ Item 7A. Quantitative and Qualitative Disclosures about Market Risk At December 31, 2002, our only cash equivalent investments are in money market accounts and overnight reverse repurchase agreements 14.5
+million) that are reflected as cash equivalents because all maturities are within 90 days. Our interest rate risk with respect to existing investments is limited due to the short-term duration of these arrangements and the yields earned which
+approximate current interest rates. At present,
+we have only 2.7 million in debt obligations and there are 2.2 million of borrowings under our line of credit facility at December 31, 2002. As such, our interest rate risk is limited with respect to existing debt. A sizable portion of our revenue
+and capital spending is transacted in U.S. Dollars. However, we do at times enter into these transactions in other currencies, such as the Euro, the Japanese Yen and the Australian Dollar. No hedging transactions were entered into to limit this
+exposure . 
+ Item 8. Financial Statement and Supplementary Data The Independent Auditor s Report, Consolidated Financial Statements and Notes to Consolidated Financial Statements begin on Page F-l.
+ 
+ Item 9. Changes In and Disagreements with Accountants on Accounting and Financial Disclosure None. 
+ 27 
+
+PART III Items 10 13. 
+ The Company s Proxy Statement for its 2003 Annual Meeting of Stockholders, which when filed pursuant to
+ Regulation 14A under the Securities Exchange Act of 1934 will be incorporated by reference in this Annual
+ Report on Form 10-K pursuant to General Instruction G(3) of Form 10-K, provides the information required u
+ nder Items
+ 10, 11, 12, and 13 of Part III. 
+ Item 14. Controls and Procedures Disclosure Controls and Procedures The Company maintains controls and procedures designed to ensure that it is able to collect the information it is required to disclose in the reports it files with the SEC, and to process, summarize
+and disclose this information within the time periods specified in the rules of the SEC. The Company s Chief Executive and Chief Financial Officers are responsible for establishing and maintaining these procedures, and, as required by the rules
+of the SEC, evaluate their effectiveness. Based on their evaluation of the Company s disclosure controls and procedures which took place as of a date within 90 days of the filing date of this report, the Chief Executive and Chief Financial
+Officers believe that these procedures are effective to ensure that the Company is able to collect, process and disclose the information it is required to disclose in the reports it files with the SEC within the required time periods. Internal Controls The Company maintains a system of internal controls designed
+to provide reasonable assurance that: transactions are executed in accordance with management s general or specific authorization; transactions are recorded as necessary (1) to permit preparation of financial statements in conformity with
+generally accepted accounting principles, and (2) to maintain accountability for assets; access to assets is permitted only in accordance with management s general or specific authorization; and the recorded accountability of assets is compared
+with the existing assets at reasonable intervals and appropriate action is taken with respect to any differences. Since the date of the most recent evaluation of the Company s internal controls by the Chief Executive and Chief Financial Officers,
+there have been no significant changes in such controls or in other factors that could have significantly affected those controls, including any corrective actions with regard to significant deficiencies and material weaknesses. 
+ 28 
+
+PART IV 
+ Item 15. Exhibits and Reports on Form 10-K 1. Financial Statements The following consolidated financial statements of Ventana Medical Systems, Inc. and Report of Ernst Young LLP, Independent
+Auditors, are in this Form 10-K. 
+
+Report of Ernst Young LLP, Independent Auditors 
+ 
+ F-l 
+
+Consolidated Balance Sheets as of December 31, 2002 and 2001 
+ 
+ F-2 
+
+Consolidated Statements of Operations for the Years Ended December 31, 2002, 2001 and
+2000 
+ 
+ F-3 
+
+Consolidated Statements of Stockholders Equity for the Years Ended December 31,
+2002, 2001 and 2000 
+ 
+ F-4 
+
+Consolidated Statements of Cash Flows for the Years Ended December 31, 2002, 2001 and
+2000 
+ 
+ F-5 
+
+Notes to Consolidated Financial Statements 
+ 
+ F-6 
+ 2. Financial Statement Schedules for the Years ended December 31, 2002, 2001 and 2000 Schedule II Valuation and Qualifying Accounts has been provided on page 33. All other schedules are omitted because the information
+required to be set forth therein is not applicable or is shown in the consolidated financial statements or notes thereto. 3. Exhibits See Exhibits Index 4. Reports on Form 8-K None. 
+ 29 
+
+SIGNATURE Pursuant to
+the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized, in the City of Tucson, State of Arizona, on this 14th
+day of March 2003. 
+
+VENTANA MEDICAL SYSTEMS, INC. 
+
+By: 
+ 
+ /s/ N ICHOLAS M ALDEN 
+
+Nicholas Malden Vice President, Chief Financial Officer and Secretary 
+
+30 
+
+VENTANA MEDICAL SYSTEMS, INC. CERTIFICATION OF CHIEF EXECUTIVE OFFICER I, Christopher M. Gleeson, certify that: 
+
+1. 
+ 
+ I have reviewed this annual report on Form 10-K of Ventana Medical Systems, Inc.; 
+
+2. 
+ 
+ Based on my knowledge, this annual report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this annual report; 
+
+3. 
+ 
+ Based on my knowledge, the financial statements, and other financial information included in this annual report, fairly present in all material respects the
+financial condition, results of operation and cash flows of the registrant as of, and for, the periods presented in this annual report; 
+
+4. 
+ 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act
+Rules 13a-14 and 15d-14) for the registrant and have: 
+
+a) 
+ 
+ designed such disclosure controls and procedures to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made
+known to us by others within those entities, particularly during the period in which this annual report is being prepared; 
+
+b) 
+ 
+ evaluated the effectiveness of the registrant s disclosure controls and procedures as of a date within 90 days prior to the filing date of this annual report
+(the Evaluation Date and 
+
+c) 
+ 
+ presented in this annual report our conclusions about the effectiveness of the disclosure controls and procedures based on our evaluations as of the Evaluation Date;
+
+5. 
+ 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation, to the registrant s auditors and the audit committee
+of registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+ 
+ all significant deficiencies in the design or operation of internal controls which could adversely affect the registrant s ability to record, process, summarize
+and report financial data and have identified for the registrant s auditors any material weaknesses in internal controls; and 
+
+b) 
+ 
+ any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal controls; and
+
+6. 
+ 
+ The registrant s other certifying officer and I have indicated in this annual report whether there were significant changes in internal controls or in other
+factors that could significantly affect internal controls subsequent to the date of our most recent evaluation, including any corrective actions with regard to significant deficiencies and material weaknesses. 
+
+By: 
+ 
+ /s/ Christopher M. Gleeson 
+ 
+ Name: 
+ 
+ Christopher M. Gleeson 
+ 
+ Title: 
+ 
+ President, Chief Executive Officer and Director 
+ 
+ Date: 
+ 
+ March 14, 2003 
+ 
+ 31 
+
+VENTANA MEDICAL SYSTEMS, INC. CERTIFICATION OF CHIEF FINANCIAL OFFICER I, Nicholas Malden, certify that: 
+
+1. 
+ 
+ I have reviewed this annual report on Form 10-K of Ventana Medical Systems, Inc.; 
+
+2. 
+ 
+ Based on my knowledge, this annual report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this annual report; 
+
+3. 
+ 
+ Based on my knowledge, the financial statements, and other financial information included in this annual report, fairly present in all material respects the
+financial condition, results of operation and cash flows of the registrant as of, and for, the periods presented in this annual report; 
+
+4. 
+ 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act
+Rules 13a-14 and 15d-14) for the registrant and have: 
+
+a) 
+ 
+ designed such disclosure controls and procedures to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made
+known to us by others within those entities, particularly during the period in which this annual report is being prepared; 
+
+b) 
+ 
+ evaluated the effectiveness of the registrant s disclosure controls and procedures as of a date within 90 days prior to the filing date of this annual report
+(the Evaluation Date and 
+
+c) 
+ 
+ presented in this annual report our conclusions about the effectiveness of the disclosure controls and procedures based on our evaluations as of the Evaluation Date;
+
+5. 
+ 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation, to the registrant s auditors and the audit committee
+of registrant s board of directors (or persons performing the equivalent functions): 
+
+d) 
+ 
+ all significant deficiencies in the design or operation of internal controls which could adversely affect the registrant s ability to record, process, summarize
+and report financial data and have identified for the registrant s auditors any material weaknesses in internal controls; and 
+
+e) 
+ 
+ any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal controls; and
+
+6. 
+ 
+ The registrant s other certifying officer and I have indicated in this annual report whether there were significant changes in internal controls or in other
+factors that could significantly affect internal controls subsequent to the date of our most recent evaluation, including any corrective actions with regard to significant deficiencies and material weaknesses. 
+
+By: 
+ 
+ /s/ Nicholas Malden 
+ 
+ Name: 
+ 
+ Nicholas Malden 
+ 
+ Title: 
+ 
+ Vice President, Chief Financial Officer and Secretary 
+ 
+ Date: 
+ 
+ March 14, 2003 
+ 
+ 32 
+
+SCHEDULE II VALUATION AND QUALIFYING ACCOUNTS VENTANA MEDICAL SYSTEMS, INC. 
+
+Additions 
+
+Description 
+ 
+ Balance at Beginning of Period 
+ 
+ Charged to Costs and Expenses 
+
+Charged to Other Accounts 
+
+Deductions 
+
+Balance at End of Period 
+
+(in thousands) 
+ 
+ Year ended December 31, 2002 
+
+Deducted from asset accounts 
+
+Allowance for doubtful accounts 
+
+1,520 
+
+(48) 
+
+100 
+ (1) 
+
+100 
+ (2) 
+
+1,472 
+
+Allowance for inventory obsolescence 
+
+611 
+
+395 
+
+(3) 
+
+1,006 
+
+Year Ended December 31, 2001 
+
+Deducted from asset accounts 
+
+Allowance for doubtful accounts 
+
+2,639 
+
+(1,014) 
+
+147 
+ (1) 
+
+252 
+ (2) 
+
+1,520 
+
+Allowance for inventory obsolescence 
+
+2,357 
+
+1,746 
+ (3) 
+
+611 
+
+Year Ended December 31, 2000 
+
+Deducted from asset accounts: 
+
+Allowance for doubtful accounts 
+
+883 
+
+1,895 
+
+30 
+ (1) 
+
+169 
+ (2) 
+
+2,639 
+
+Allowance for inventory obsolescence 
+
+476 
+
+4,310 
+
+2,429 
+ (3) 
+
+2,537 
+
+(1) 
+ 
+ Charged to revenue 
+
+(2) 
+ 
+ Uncollectible accounts written off, net of recoveries 
+
+(3) 
+ 
+ Inventories written off, net of recoveries 
+ 33 
+
+REPORT OF
+ERNST YOUNG LLP, INDEPENDENT AUDITORS Board of
+Directors Ventana Medical Systems, Inc. We have audited the accompanying consolidated balance sheets of Ventana Medical Systems, Inc., as of December 31, 2002 and 2001 and the
+related consolidated statements of operations, stockholders equity and cash flows for each of the three years in the period ended December 31, 2002. Our audits also included the financial statement schedule listed in item 14(2). These
+financial statements and schedule are the responsibility of the Company s management. Our responsibility is to express an opinion on these financial statements and schedule based on our audits. We conducted our audits in accordance with auditing standards
+generally accepted in the United States. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on a test
+basis, evidence supporting the amounts and disclosures in the financial statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement
+presentation. We believe that our audits provide a reasonable basis for our opinion. In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the consolidated financial position of Ventana Medical Systems, Inc., at December 31,
+2002 and 2001 and the consolidated results of its operations and its cash flows for each of the three years in the period ended December 31, 2002, in conformity with accounting principles generally accepted in the United States. Also, in our
+opinion, the related financial statement schedule, when considered in relation to the basic financial statements taken as a whole, presents fairly in all material respects the information set forth therein. As discussed in Note 1 of the consolidated financial
+statements, in 2002 the Company changed its method of accounting for goodwill. /s/ E RNST Y OUNG LLP Phoenix, Arizona January 24, 2003 except for
+ Note 17 as to which the date is March 12, 2003 
+ F-1 
+
+VENTANA
+MEDICAL SYSTEMS, INC. CONSOLIDATED
+BALANCE SHEETS (in thousands, except per share data) 
+
+December 31, 
+
+2002 
+
+2001 
+
+ASSETS 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+18,708 
+
+12,280 
+
+Trade accounts receivable, net of allowance for doubtful accounts of 1,472 and 1,520,
+respectively 
+
+22,623 
+
+20,448 
+
+Inventories 
+
+13,901 
+
+11,763 
+
+Prepaid expenses 
+
+878 
+
+520 
+
+Deferred tax assets 
+
+2,386 
+
+2,386 
+
+Other current assets 
+
+1,210 
+
+752 
+
+Total current assets 
+
+59,706 
+
+48,149 
+
+Property and equipment, net 
+
+43,777 
+
+41,432 
+
+Goodwill 
+
+2,804 
+
+3,068 
+
+Intangible assets, net 
+
+8,819 
+
+9,124 
+
+Capitalized software development costs, net 
+
+2,257 
+
+1,743 
+
+Deferred tax assets, net of current portion 
+
+6,416 
+
+6,416 
+
+Other assets 
+
+1,358 
+
+1,053 
+
+Total assets 
+
+125,137 
+
+110,985 
+
+LIABILITIES AND STOCKHOLDERS EQUITY 
+
+Current liabilities: 
+
+Accounts payable 
+
+8,446 
+
+4,733 
+
+Other current liabilities 
+
+12,230 
+
+9,578 
+
+Total current liabilities 
+
+20,676 
+
+14,311 
+
+Long-term debt 
+
+2,357 
+
+2,521 
+
+Commitments and Contingencies 
+
+Stockholders equity 
+
+Common stock .001 par value; 50,000 shares authorized, 16,346 and 16,110 shares
+issued and outstanding at December 31, 2002 and 2001, respectively 
+
+16 
+
+16 
+
+Additional paid-in-capital 
+
+144,641 
+
+140,587 
+
+Accumulated deficit 
+
+(41,121) 
+
+(45,194) 
+ 
+ Accumulated other comprehensive loss 
+
+(832) 
+
+(656) 
+ 
+ Treasury stock 40 shares, at cost 
+
+(600) 
+
+(600) 
+
+Total stockholders equity 
+
+102,104 
+
+94,153 
+
+Total liabilities and stockholders equity 
+
+125,137 
+
+110,985 
+
+See
+accompanying notes. 
+ F-2 
+
+VENTANA
+MEDICAL SYSTEMS, INC. CONSOLIDATED
+STATEMENTS OF OPERATIONS (in thousands, except per share data) 
+
+Years ended December 31, 
+
+2002 
+ 
+ 2001 
+ 
+ 2000 
+
+Sales: 
+
+Reagents and other 
+
+80,365 
+
+61,586 
+
+49,682 
+
+Instruments 
+
+25,072 
+
+26,227 
+
+21,467 
+
+105,437 
+
+87,813 
+
+71,149 
+
+Cost of goods sold 
+
+31,244 
+
+27,622 
+
+36,377 
+
+Gross profit 
+
+74,193 
+
+60,191 
+
+34,772 
+
+Operating expenses: 
+
+Research and development 
+
+16,359 
+
+14,929 
+
+11,116 
+
+Selling, general and administrative 
+
+51,828 
+
+42,760 
+
+43,800 
+
+Amortization of intangible assets 
+
+1,646 
+
+1,575 
+
+1,474 
+
+Special charges 
+
+1,151 
+
+4,519 
+
+Income (loss) from operations 
+
+3,209 
+
+927 
+
+(26,137) 
+ 
+ Interest and other income (expense) 
+
+1,392 
+
+826 
+
+1,346 
+
+Income (loss) before taxes and cumulative effect of accounting change. 
+
+4,601 
+
+1,753 
+
+(24,791) 
+ 
+ Provision for income taxes 
+
+528 
+
+311 
+
+350 
+
+Income (loss) before cumulative effect of accounting change 
+
+4,073 
+
+1,442 
+
+(25,141) 
+ 
+ Cumulative effect of accounting change, net of applicable income tax benefit of
+ 1,436 
+
+(2,154) 
+
+Net income (loss) 
+
+4,073 
+
+1,442 
+
+(27,295) 
+
+Basic earnings per common share: 
+
+Before cumulative effect of accounting change 
+
+0.25 
+
+0.09 
+
+(1.70) 
+ 
+ Cumulative effect of accounting change 
+
+(0.15) 
+
+Net income (loss) 
+
+0.25 
+
+0.09 
+
+(1.85) 
+
+Diluted earnings per common share: 
+
+Before cumulative effect of accounting change 
+
+0.25 
+
+0.09 
+
+(1.70) 
+ 
+ Cumulative effect of accounting change 
+
+(0.15) 
+
+Net income (loss) 
+
+0.25 
+
+0.09 
+
+(1.85) 
+
+Pro forma amounts assuming the accounting change is applied
+retroactively: 
+
+Net income (loss) 
+
+(25,141) 
+ 
+ Net income (loss) per common share: 
+
+Basic 
+
+(1.70) 
+ 
+ Diluted 
+
+(1.70) 
+ 
+ Shares used in computing per common share: 
+
+Basic 
+
+16,275 
+
+15,905 
+
+14,770 
+
+Diluted 
+
+16,581 
+
+16,427 
+
+14,770 
+
+See
+accompanying notes. 
+ F-3 
+
+VENTANA
+MEDICAL SYSTEMS, INC. CONSOLIDATED
+STATEMENTS OF STOCKHOLDERS EQUITY (in thousands, except share data) 
+
+Common Stock 
+
+Shares 
+ 
+ Amount 
+ 
+ Additional Paid-In- Capital 
+ 
+ Accumulated Deficit 
+
+Accumulated Other Comprehensive Loss 
+
+Treasury Stock 
+
+Total 
+
+Balance at January 1, 2000 
+ 
+ 13,593,640 
+
+14 
+
+80,542 
+
+(19,341) 
+
+(115) 
+
+(600) 
+
+60,500 
+
+Net loss 
+
+(27,295) 
+
+(27,295) 
+ 
+ Translation adjustment 
+
+(438) 
+
+(438) 
+ 
+ Comprehensive loss 
+
+(27,733) 
+ 
+ Sale of common stock net of issuance costs of 3,154 
+ 
+ 1,250,000 
+
+1 
+
+46,846 
+
+46,847 
+
+Sale of common stock other 
+ 
+ 600,482 
+
+6,052 
+
+6,052 
+
+Tax benefit from stock options 
+
+1,422 
+
+1,422 
+
+Balance at December 31, 2000 
+ 
+ 15,444,122 
+
+15 
+
+134,862 
+
+(46,636) 
+
+(553) 
+
+(600) 
+
+87,088 
+
+Net income 
+
+1,442 
+
+1,442 
+
+Translation adjustment 
+
+(103) 
+
+(103) 
+ 
+ Comprehensive income 
+
+1,339 
+
+Sale of common stock other 
+ 
+ 666,344 
+
+1 
+
+5,725 
+
+5,726 
+
+Balance at December 31, 2001 
+ 
+ 16,110,466 
+
+16 
+
+140,587 
+
+(45,194) 
+
+(656) 
+
+(600) 
+
+94,153 
+
+Net income 
+
+4,073 
+
+4,073 
+
+Translation adjustment 
+
+(176) 
+
+(176) 
+ 
+ Comprehensive income 
+
+3,897 
+
+Sale of common stock other 
+ 
+ 235,122 
+
+4,054 
+
+4,054 
+
+Balance at December 31, 2002 
+ 
+ 16,345,588 
+
+16 
+
+144,641 
+
+(41,121) 
+
+(832) 
+
+(600) 
+
+102,104 
+
+See accompanying notes. 
+ F-4 
+
+VENTANA
+MEDICAL SYSTEMS, INC. CONSOLIDATED
+STATEMENTS OF CASH FLOWS (in thousands) 
+
+Years Ended December 31, 
+
+2002 
+
+2001 
+
+2000 
+
+Operating activities: 
+
+Net income (loss) 
+
+4,073 
+
+1,442 
+
+(27,295) 
+ 
+ Adjustments to reconcile net income (loss) to net cash provided by (used in) operating
+activities: 
+
+Depreciation and amortization 
+
+8,077 
+
+6,806 
+
+5,497 
+
+Cumulative effect of accounting change 
+
+2,154 
+
+Non-cash intangibles and property and equipment charges 
+
+1,151 
+
+7,914 
+
+Writedown of investment in Molecular Diagnostics, Inc. 
+
+338 
+
+Benefit from deferred taxes 
+
+(1,255) 
+ 
+ Changes in operating assets and liabilities: 
+
+Accounts receivable 
+
+(2,175) 
+
+(3,766) 
+
+4,094 
+
+Inventories 
+
+(2,138) 
+
+(3,663) 
+
+5,374 
+
+Other assets 
+
+(3,990) 
+
+(1,339) 
+
+(631) 
+ 
+ Accounts payable 
+
+3,713 
+
+(1,210) 
+
+1,926 
+
+Other current liabilities 
+
+2,633 
+
+(3,565) 
+
+4,389 
+
+Net cash provided by (used in) operating activities 
+
+11,682 
+
+(5,295) 
+
+2,167 
+
+Investing activities: 
+
+Purchase of property and equipment 
+
+(7,121) 
+
+(23,844) 
+
+(15,150) 
+ 
+ Purchase of intangible assets 
+
+(1,337) 
+
+(1,471) 
+
+(1,617) 
+ 
+ Acquisition of Quantitative Diagnostic Laboratories 
+
+(2,500) 
+ 
+ Investment in preferred stock and warrant in Molecular Diagnostics, Inc. 
+
+(358) 
+
+Net cash used in investing activities 
+
+(8,458) 
+
+(25,673) 
+
+(19,267) 
+ 
+ Financing activities: 
+
+Net proceeds from private placement 
+
+46,847 
+
+Issuance of common stock 
+
+4,054 
+
+5,726 
+
+6,052 
+
+Proceeds from debt 
+
+354 
+
+2,250 
+
+Repayments of debt 
+
+(1,028) 
+
+(887) 
+
+(886) 
+
+Net cash provided by financing activities 
+
+3,380 
+
+4,839 
+
+54,263 
+
+Effect of exchange rate changes on cash 
+
+(176) 
+
+(103) 
+
+(438) 
+
+Net increase (decrease) in cash and cash equivalents 
+
+6,428 
+
+(26,232) 
+
+36,725 
+
+Cash and cash equivalents, beginning of year 
+
+12,280 
+
+38,512 
+
+1,787 
+
+Cash and cash equivalents, end of year 
+
+18,708 
+
+12,280 
+
+38,512 
+
+Supplemental cash flow information: 
+
+Income taxes paid 
+
+528 
+
+311 
+
+350 
+
+Interest paid 
+
+209 
+
+330 
+
+278 
+ 
+ See
+accompanying notes. 
+ F-5 
+
+VENTANA
+MEDICAL SYSTEMS, INC. NOTES TO
+CONSOLIDATED FINANCIAL STATEMENTS (in thousands, except per share data) 1. Organization and Significant Accounting Policies
+ Basis of
+Presentation: Ventana Medical Systems, Inc. (the Company develops, manufactures and markets proprietary instruments and reagents that automate diagnostic procedures used for molecular analysis of cells. The
+consolidated financial statements include the accounts of the Company and its wholly owned subsidiaries, Ventana Medical Systems, S.A., Ventana Medical Systems GmbH, Ventana Medical Systems Japan K.K., Ventana Medical Systems Australia Pty. Ltd.,
+BioTek Solutions, Inc. (BioTek) and BioTechnology Tools, Inc. (BTTI). All significant intercompany balances and transactions have been eliminated. The preparation of financial statements in conformity with accounting principles generally accepted in
+the United States requires management to make estimates and assumptions that affect the amounts reported in the consolidated financial statements and accompanying notes. Actual results could differ from those estimates. Certain prior year amounts
+have been reclassified to conform with the current period presentation. Fair Value of Financial Instruments: The Company s cash and cash equivalents, accounts receivable, accounts payable and long-term debt represent financial instruments as defined by
+Statement of Financial Accounting Standards No. 107, Disclosures About Fair Value of Financial Instruments. The carrying value of these financial instruments is a reasonable approximation of fair value, due to their current maturities.
+ Cash and Cash
+Equivalents: Cash and cash equivalents represent cash and short term, highly liquid investments in certificates of deposit, money market funds, and investment grade commercial paper issued by major corporations and
+financial institutions that have remaining maturities of three months or less when acquired. Concentration of Credit Risk: The Company sells its instruments and reagent products primarily to hospitals, medical clinics, reference laboratories and universities and
+to resellers serving such entities. Credit losses have been minimal to date. No single customer accounted for 5 or more of the Company s 2002, 2001 or 2000 net sales. Inventories: Inventories, principally chemical, biological and instrument parts
+and reagents and finished instruments, are stated at the lower of cost (first-in first-out basis) or market. Property and Equipment: Property and equipment are stated at cost. Depreciation is computed using the
+straight-line method over estimated useful lives of three to twenty years. Amortization of leasehold improvements is calculated using a straight-line method over the lesser of the term of the lease or useful life of the asset. Property and equipment
+includes diagnostic instruments used for sales demonstrations or placed with customers under several types of arrangements, including cancelable reagent plans (RAP s), performance evaluation period programs (PEP) and rentals. PEP instruments
+are placed with customers for evaluation periods of up to six months. The customer is required to purchase a minimum amount of reagents and at the end of the evaluation period must purchase, rent or return the instrument. The manufacturing cost of
+demonstration, RAP, PEP and rental instruments is amortized over a period of 3 to 4 years to cost of goods sold (RAP s and rentals) and selling, general and administrative expenses (PEP s and demonstrations). Goodwill: In September 2001, the
+Financial Accounting Standards Board issued Statement of Financial Accounting Standards No. 141 (SFAS No. 141), Business Combinations , and No. 142 (SFAS No. 142), Goodwill and Other Intangible Assets, effective for fiscal years
+beginning after December 15, 2001. Under the new rules, goodwill and intangible assets deemed to have indefinite lives will no longer be amortized, but will be subject to annual impairment tests in accordance with the statements. Other intangible
+assets will continue to be amortized over their useful lives. The Company adopted the standard effective January 1, 2002. In accordance with SFAS No. 142, the Company ceased amortizing goodwill totaling 3,100 as of that date. 
+ F-6 
+
+VENTANA MEDICAL SYSTEMS, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+ 
+ 1. Organization and Significant Accounting Policies (continued) The following table presents the impact of SFAS No. 142 on net income (loss) and net income (loss) per share had the standard been in
+effect for the three years ended December 31, 2002: 
+
+Years ended December 31, 
+
+2002 
+ 
+ 2001 
+ 
+ 2000 
+
+Net income (loss) as reported 
+
+4,073 
+
+1,442 
+
+(27,295) 
+ 
+ Adjustments: 
+
+Amortization of goodwill 
+
+284 
+
+294 
+
+Net income (loss) adjusted 
+
+4,073 
+
+1,726 
+
+(27,001) 
+
+Basic net income (loss) per share as reported 
+
+0.25 
+
+0.09 
+
+(1.85) 
+ 
+ Basic net income (loss) per share adjusted 
+
+0.25 
+
+0.11 
+
+(1.83) 
+ 
+ Diluted net income (loss) per share as reported 
+
+0.25 
+
+0.09 
+
+(1.85) 
+ 
+ Diluted net income (loss) per share adjusted 
+
+0.25 
+
+0.11 
+
+(1.83) 
+ The
+Company is required to perform goodwill impairment tests on an annual basis at a minimum and more frequently under certain circumstances. In 2002, the Company recognized 1,151 in impairment charges, of which 264 related to goodwill, as a result of
+the Company s transaction with Beckman Coulter, Inc., which rendered a supply agreement acquired from a previous transaction obsolete. The 1,151 charge is disclosed in the consolidated statements of operations as a special charge. There can be
+no assurance that future goodwill impairment tests will not result in a charge to earnings. Intangible Assets: Intangible assets consist primarily of developed technology, customer base, supply and license agreements, and patents. Intangible assets are carried at
+cost less accumulated amortization. Amortization is computed over the estimated useful lives of the respective assets, generally four to twelve years. Estimated amortization expense for intangible assets as of December 31, 2002 for each of the five
+succeeding fiscal years is as follows: 2003 and 2004: 1,800, 2005: 1,500, 2006: 1,300, 2007: 800. Impairment of Long-Lived Assets: The Company periodically evaluates its long-lived assets used in operations
+for impairment. Impairment losses would be recorded when events and circumstances indicate that an asset might be impaired and the undiscounted cash flows to be generated by that asset are less than the carrying amounts of the asset. Capitalized Software Development
+Costs: The Company capitalizes certain internal expenses related to developing computer software used in the instruments it sells. Costs incurred prior to the establishment of technological feasibility are charged to
+research and development expense. The Company considers technological feasibility to have been established for a product when all of the following conditions have been met: a) the detail program design has been completed and it has been determined
+that the necessary skills, hardware and software technology are available to produce the product, b) the detail program design has been traced to product specifications and c) all high-risk development issues have been resolved through coding and
+testing. Upon general release to customers of the product in which the software is included, capitalization ceases and such costs are amortized using the straight-line method over an estimated life of 5 years. 
+ F-7 
+
+VENTANA MEDICAL SYSTEMS, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+ 
+ 1. Organization and Significant Accounting Policies (continued) Capitalized software development costs and accumulated costs are as follows at December 31: 
+
+2002 
+ 
+ 2001 
+ 
+ Capitalized costs 
+
+4,021 
+
+2,808 
+ 
+ Less accumulated amortization 
+
+1,764 
+
+1,065 
+
+2,257 
+
+1,743 
+
+Equity Investments: The Company uses the cost method of accounting for equity investments in entities for which it holds less than 20 equity interest. These investments are included in other assets on
+the Company s consolidated balance sheet. Investments are considered to be impaired when a decline in fair value is judged to be other-than-temporary. The Company employs a systematic methodology that considers available evidence in evaluating
+potential impairment of its investments. In the event that the cost of an investment exceeds its fair value, the Company evaluates, among other factors, the duration and extent to which the fair value is less than cost; the financial health of and
+business outlook for the investor, including industry and sector performance and operational and financing cash flow factors; and the Company s intent and ability to hold the investment. Once a decline in fair value is determined to be
+other-than-temporary, an impairment charge is recorded and a new cost basis in the investment is established. In 2002, the Company recognized 338 in impairments of certain investments associated with preferred stock and a common stock warrant in
+Molecular Diagnostics, Inc., a company having operations or technology in areas within or adjacent to the Company s strategic focus, and whose share price declined significantly. Deferred Tax Assets: Deferred tax assets and liabilities are determined based
+on differences between financial reporting and tax bases of assets and liabilities and are measured using enacted tax rates and laws expected to be in effect when the differences are expected to reverse. The Company records a valuation allowance to
+reduce their deferred tax assets to the amount that it believes is more likely than not to be realized. The Company has considered future taxable income in assessing the need for the valuation allowance. In the event the Company determines that it
+would not be able to realize all or part of its net deferred tax assets in the future, an adjustment to the deferred tax assets would be charged to income in the period such determination was made. Likewise, should the Company determine that it
+would be able to realize its deferred tax assets in the future in excess of its net recorded amount, an adjustment to the deferred tax assets would increase income in the period such determination was made. Legal Contingencies: In the
+ordinary course of business, the Company is involved in legal proceedings involving contractual and employment relationships, product liability claims, patent rights, and a variety of other matters. The Company records contingent liabilities
+resulting from claims against it when it is probable that a liability has been incurred and the amount of the loss is reasonably estimable. The Company discloses contingent liabilities when there is a reasonable possibility that the ultimate loss
+will exceed the recorded liability. Estimating probable losses requires analysis of multiple factors, in some cases including judgments about the potential actions of third party claimants and courts. Therefore, actual losses in any future period
+are inherently uncertain. Currently, the Company does not believe that any of its pending legal proceedings or claims will have a material impact on its financial position or results of operations. However, if actual or estimated probable future
+losses exceed the Company s recorded liability for such claims, it would record additional charges as other expense during the period in which the actual loss or change in estimate occurred. Foreign Currency
+Translations: The financial statements of foreign subsidiaries have been translated into U.S. Dollars in accordance with Statement of Financial Accounting Standards No. 52, Foreign Currency Translation. All balance
+sheet accounts have been translated using the exchange rates in effect at the balance sheet date. Income statement amounts have been translated using the average exchange rate for the year. 
+ F-8 
+
+VENTANA MEDICAL SYSTEMS, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+ 
+ 1. Organization and Significant Accounting Policies (continued) The gains and losses resulting from the changes in exchange rates from year to year have been reported in other comprehensive income. The
+effect on the consolidated statements of operations of transaction gains and losses is not material for all years presented. Revenue Recognition: During the year ended December 31, 2000, the Company changed its methods of revenue
+recognition for its products that require installation by the Company at the customer s site in accordance with Staff Accounting Bulletin (SAB) No. 101 Revenue Recognition in Financial Statements. Previously, the Company had recognized
+revenue for products upon shipment to the customer, but prior to installation. Under the new accounting method adopted retroactive to January 1, 2000, revenue from instrument sales made directly to the end user is generally recognized upon
+completion of installation. However, if the end user already has the identical instrument installed at the same location the Company recognizes the revenue from that sale upon shipment. Revenue from reagents is recognized upon shipment. Service
+contract revenue is deferred and recognized ratably over the service period obligations, which are typically one to three years. A portion of the Company s revenue is from sales made to distributors under agreements that require the distributors to assume
+responsibility for product installation without recourse to the Company. Revenue for instruments sold under these agreements is recognized upon shipment to the distributor. There are certain foreign distributors in which revenue is not recognized
+until the instrument is installed and accepted by the end user. The cumulative effect of the accounting change resulted in a charge to operations of 2,154 (net of an income tax benefit of 1,436), which is included in operations for the year ended December 31, 2000. The effect of the change on
+the year-ended 2000 was to decrease income before cumulative effect of accounting change by 539 0.04 per basic and diluted share, respectively). Shipping Costs: Substantially all costs of shipping products to customers are included in costs of sales.
+ Stock-Based Employee
+Compensation : At December 31, 2002, the Company has six stock-based employee compensation plans. The Company accounts for those plans under the recognition and measurement principles of Accounting Principles Board Opinion
+No. 25 (APB 25), Accounting for Stock Issued to Employees, and related Interpretations. No stock-based employee compensation cost is reflected in net income, as all options granted under those plans had an exercise price equal to the market
+value of the underlying common stock on the date of grant. 
+ F-9 
+
+VENTANA MEDICAL SYSTEMS, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+ 
+ 1. Organization and Significant Accounting Policies (continued) The following table illustrates the effect on net income and earnings per share if the company had applied the fair value recognition
+provisions of Statement of Financial Accounting Standards No. 123 (SFAS No. 123), Accounting for Stock-Based Compensation , to stock-based employee compensation: 
+
+Year Ended December 31 
+
+2002 
+
+2001 
+
+2000 
+
+Net income (loss), as reported 
+
+4,073 
+
+1,442 
+
+(27,295) 
+ 
+ Deduct: Total stock-based employee compensation expense determined under fair value
+based method for all awards, net of related tax effects 
+
+(7,272) 
+
+(7,597) 
+
+(7,959) 
+
+Pro forma net income (loss) 
+
+(3,199) 
+
+(6,155) 
+
+(35,254) 
+
+Earnings per share: 
+
+Basic as reported 
+
+0.25 
+
+0.09 
+
+(1.70) 
+
+Basic pro forma 
+
+(0.20) 
+
+(0.39) 
+
+(2.39) 
+
+Diluted as reported 
+
+0.25 
+
+0.09 
+
+(1.70) 
+
+Diluted pro forma 
+
+(0.20) 
+
+(0.39) 
+
+(2.39) 
+
+As
+required, the pro forma disclosures above include options granted sine January 1, 1995. Consequently, the effects of applying SFAS No. 123 for providing pro forma disclosures may not be representative of the effects on reported net income for future
+years until all options outstanding are included in the pro forma disclosures. For purposes of pro forma disclosures, the estimated fair value of stock-based compensation plans and other options is amortized to expense primarily over the vesting
+period. Reclassification: Certain amounts in prior year financial statements have been reclassified to conform with the 2002 financial statement presentation. Recently Issued Accounting
+Standards: In August 2001, the Financial Accounting Standards Board issued Statement of Financial Accounting Standards No. 144 (SFAS No. 144), Accounting for the Impairment or Disposal of Long-Lived Assets , which
+addresses financial accounting and reporting for the impairment or disposal of long-lived assets and supersedes Statement of Financial Accounting Standards No. 121 (SFAS No. 121), Accounting for the Impairment or Disposal of Long-Lived Assets and
+for Long-Lived Assets to be Disposed Of , and the accounting and reporting provisions of APB Opinion No. 30, Reporting the Results of Operations for a disposal of a segment of a business. SFAS No.144 was effective for fiscal years
+beginning after December 15, 2001, with earlier application encouraged. The Company s adoption of SFAS No. 144 had no effect on the Company s financial position or results of operation. In June 2002, the Financial Accounting Standards Board issued
+Statement of Financial Accounting Standards No. 146 (SFAS No. 146), Accounting for Costs Associated with Exit or Disposal Activities . SFAS No. 146 supersedes Emerging Issues Task Force No. 94-3 (EITF 94-3), Liability Recognition for
+Certain Employee Termination Benefits and Other Costs to Exit an Activity (Including Certain Costs Incurred in a Restructuring) . SFAS 146 eliminates the provisions of EITF 94-3 that required a liability to be recognized for certain exit or
+disposal activities at the date an entity committed to an exit plan. SFAS No. 146 requires a liability for costs 
+ 
+ F-10 
+
+VENTANA MEDICAL SYSTEMS, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+ 
+ 1. Organization and Significant Accounting Policies (continued) associated with an exit or disposal activity to be recognized when the liability is incurred. SFAS No. 146 is effective for exit or disposal activities that are initiated after December 31, 2002. The
+Company does not expect the adoption of this statement to have a material impact on its results of operations or financial position. In December 2002, the Financial Accounting Standards Board issued Statement of Financial Accounting Standards No. 148 (SFAS No. 148),
+ Accounting for Stock-Based Compensation Transition and Disclosure . SFAS No. 148 amends SFAS No. 123, Accounting for Stock-Based Compensation , to provide alternative methods of transition to SFAS No. 123 s fair value method of
+accounting for stock-based employee compensation. SFAS No. 148 also amends the disclosure provisions of SFAS No. 123 and APB 28, Interim Financial Reporting , to require disclosure in the summary of significant accounting policies of the
+effects of an entity s accounting policy with respect to stock-based employee compensation on reported net income and earnings per share in annual and interim financial statements. While SFAS No. 148 does not amend SFAS No. 123 to require
+companies to account for employee stock options using the fair value method, the disclosure provisions of SFAS No. 148 are applicable to all companies with stock-based employee compensation, regardless of whether they account for that compensation
+using the fair value method of SFAS No. 123 or the intrinsic value method of APB 25. As allowed by SFAS No. 123, the Company has elected to continue to utilize the accounting method prescribed by APB 25 and has adopted the disclosure requirements of
+SFAS No. 123 as of December 31, 2002. 2. Inventories Inventories consist of the following: 
+
+December 31, 
+
+2002 
+
+2001 
+
+Raw materials and work-in-process 
+
+5,541 
+
+5,611 
+
+Finished goods 
+
+9,366 
+
+6,763 
+
+Allowance for obsolesence 
+
+(1,006) 
+
+(611) 
+
+13,901 
+
+11,763 
+
+3. Property and Equipment Property and equipment consist of the following: 
+
+December 31, 
+
+2002 
+ 
+ 2001 
+ 
+ Land 
+
+6,327 
+
+6,327 
+ 
+ Buildings 
+
+18,872 
+
+18,025 
+ 
+ Diagnostic instruments 
+
+15,015 
+
+10,216 
+ 
+ Machinery and equipment 
+
+9,078 
+
+8,902 
+ 
+ Computers and related equipment 
+
+6,709 
+
+5,894 
+ 
+ Fixed assets under capital lease 
+
+2,250 
+
+2,250 
+ 
+ Furniture and fixtures 
+
+1,460 
+
+1,252 
+ 
+ Leasehold improvements 
+
+309 
+
+294 
+
+60,020 
+
+53,160 
+ 
+ Less accumulated depreciation and amortization 
+
+16,504 
+
+11,728 
+ 
+ Projects in progress 
+
+261 
+
+43,777 
+
+41,432 
+
+F-11 
+
+VENTANA MEDICAL SYSTEMS, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+ 
+ 4. Intangible Assets Intangible assets consist of the following: 
+
+December 31, 
+
+2002 
+ 
+ 2001 
+ 
+ Developed technology 
+
+4,400 
+
+4,062 
+ 
+ Customer base 
+
+2,606 
+
+2,606 
+ 
+ Patents 
+
+2,174 
+
+1,857 
+ 
+ Licenses 
+
+1,769 
+
+240 
+ 
+ Supply contract 
+
+924 
+
+10,949 
+
+9,689 
+ 
+ Less amortization 
+
+2,130 
+
+565 
+
+8,819 
+
+9,124 
+
+5. Other Current Liabilities Other current liabilities consist of the following: 
+
+December 31, 
+
+2002 
+ 
+ 2001 
+ 
+ Employee compensation and benefits 
+
+5,242 
+
+3,942 
+ 
+ Deferred revenue 
+
+3,172 
+
+2,048 
+ 
+ Product warranty 
+
+1,076 
+
+849 
+ 
+ Taxes payable 
+
+904 
+
+343 
+ 
+ Accrued royalties 
+
+581 
+
+302 
+ 
+ Current portion of long-term debt 
+
+340 
+
+850 
+ 
+ Other accrued liabilities 
+
+915 
+
+1,244 
+
+12,230 
+
+9,578 
+
+6. Line of Credit The Company has a 12,000 line of credit arrangement with a bank that is subject to renewal in August 2004. Borrowings under the line are collateralized by the Company s receivables, inventories, and machinery and equipment. The
+line of credit contains certain financial covenants (measured quarterly) with which the Company must comply, prohibits the payment of dividends on the Company s stock and limits the number of treasury shares the Company may purchase. In
+addition, borrowings are limited to 50 of outstanding accounts receivable plus 25 of the value of finished goods of the Company, which as of December 31, 2002 resulted in available borrowing of 12,000, of which, 2,200 has been committed in
+support of various standby letters of credit. At December 31, 2002, the Company was in compliance with all covenants. 
+ F-12 
+
+VENTANA MEDICAL SYSTEMS, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+ (in thousands, except per share data) 
+ 7. Long-term Debt Long-term debt consists of the following: 
+
+December 31, 
+
+2002 
+ 
+ 2001 
+ 
+ Notes payable for European facility, floating interest rates, due June 30,
+2015 
+
+2,230 
+
+2,024 
+ 
+ Note payable to a customer, interest accruing at 7 repaid in 2002 
+
+723 
+ 
+ Capital lease and other obligations, various terms and interest rates 
+
+467 
+
+624 
+
+2,697 
+
+3,371 
+ 
+ Less current portion 
+
+340 
+
+850 
+
+2,357 
+
+2,521 
+
+Future
+payments under the above obligations are as follows at December 31, 2002: 
+
+2003 
+
+340 
+ 
+ 2004 
+
+338 
+ 
+ 2005 
+
+307 
+ 
+ 2006 
+
+186 
+ 
+ 2007 
+
+192 
+ 
+ Thereafter 
+
+1,334 
+
+2,697 
+
+8. Stockholders Equity Under the Company s 1988 Stock Option Plan (the 1988 Plan), up to 1,340 shares of common stock have been reserved for grant to employees and directors. In order to be incentive stock options
+(ISOs), options must be granted at not less than 100 of fair market value of the Company s stock on the date of grant. Options generally vest over a four-year period and expire five to ten years after the date of grant. However, the Board of
+Directors, at its discretion, may decide the period over which options become exercisable and their expiration dates. In April 1996, the Company s Board of Directors authorized the 1996 Stock Option Plan (the 1996 Plan). A total of 2,475 shares of
+common stock have been reserved for issuance under the 1996 Plan. In order to be ISOs, options must be granted at not less than 100 of the fair market value of the Company s stock on the dates of grant. Options generally vest over four years
+(grants made prior to 1998) or five years (1998 and subsequent grants) and expire in ten years. In April 1996, the Board of Directors authorized the 1996 Employee Stock Purchase Plan (the 1996 Purchase Plan). A total of 700 shares of common stock have been reserved for issuance under the 1996
+Purchase Plan. A total of 358 shares of common stock have been issued under the 1996 Purchase Plan at prices ranging from 8.18 to 19.98 per share. The 1996 Purchase Plan permits eligible employees to purchase common stock through payroll
+deductions, subject to certain limitations. The price at which stock may be purchased under the 1996 Purchase Plan is equal to 85 of the lower of the fair market value of the common stock on the participant s entry date into the offering
+period or 85 of the fair market value on the semiannual purchase date. 
+ F-13 
+
+VENTANA MEDICAL SYSTEMS, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+ 
+ 8. Stockholders Equity (continued) In June 1996, the Company adopted the 1996 Director Stock
+Option Plan (the Director Plan) and reserved a total of 250 shares of common stock for issuance thereunder. Commencing with the Company s 1997 annual meeting of stockholders, each non-employee director was to be granted a non-statutory option
+to purchase an amount of shares of the Company s common stock equal to 5 shares multiplied by a fraction, the numerator of which shall be 15.00 per share and the denominator of which shall be the fair market value of one share of the
+Company s common stock on the dates of grant. The exercise price of options granted under the Director Plan is equal to the fair market value of one share of the Company s common stock on the dates of grant. A total of 60 shares were
+issued under the Plan at 10.125 - 26.37 per share. Effective November 1998, the Director Plan was modified such that options are granted on a discretionary basis at fair value on the date of grant. 99 and 91 shares were issued under this version
+of the Plan in 1998 and 2001, respectively, bringing the total shares issued under the prior and current version of the Director Plan to 250. Each option granted under the Director Plan vests on a cumulative monthly basis over a one-year period and
+has a 10-year term. The Director Plan terminated in June 2001 and was replaced by the 2001 Outside Director Stock Option Plan. During 1997, the Company granted options to purchase a total of 300 shares at 12.625 per share, fair market value on the date of the
+grant, to two Directors of the Company for consulting services to be performed through February 2000. All of these options have vested. In September 1998, the Company s Directors approved the repurchase of up to 750 shares of the Company s common stock. A total of
+40 shares were repurchased under this authorization in 1998. On March 9, 1998, the Company s Board of Directors approved the establishment of a rights plan. Pursuant to this plan, the Board of Directors declared a dividend distribution of one Preferred Shares Purchase Right on each
+outstanding share of the Company s Common Stock for shareholders of record on May 8, 1998. Each right entitles stockholders to buy 1 / 1000th of a share of the Company s Series A Participating Preferred Stock at an exercise price of
+eighty-five dollars 85.00) per 1 / 1000th of a share. The Rights become exercisable following the tenth day after a person or group announces an acquisition of 20 or more of the Company s Common Stock or announces commencement of a tender
+offer the consummation of which would result in ownership by the person or group of 20 or more of the Common Stock. The Company is entitled to redeem the Rights at 0.01 per Right at any time on or before the tenth day following acquisition by a
+person or group of 20 or more of the Company s Common Stock. If, prior to redemption of the Rights, a person or group acquires 20 or more of the Company s Common Stock, each Right not owned by a holder of 20 or more of the Common Stock
+will entitle its holder to purchase, at the Right s then current exercise price, that number of shares of Common Stock of the Company (or, in certain circumstances as determined by the Board of Directors, cash, other property or other
+securities) having a market value at that time of twice the Right s exercise price. If, after the tenth day following acquisition by a person or group of 20 or more of the Company s Common Stock, the Company sells more than 50 of its
+assets or earning power or is acquired in a merger or other business combination transaction, the acquiring person must assume the obligation under the Rights and the Right will become exercisable to acquire Common Stock of the acquiring person at
+the discounted price. At any time after an event triggering exercisability of the Rights at a discounted price and prior to the acquisition by the acquiring person of 50 or more of the outstanding Common Stock, the Board of Directors of the Company
+may exchange the Rights (other than those owned by the acquiring person or its affiliates) for Common Stock of the Company at an exchange ratio of one share of Common Stock per Right. In January 1999, the Company s Board of Directors authorized the 1998 Nonstatutory Stock Option Plan
+(the 1998 NSO Plan). Under this plan, a total of 2,000 shares of common stock have been reserved for issuance to employees and consultants of the Company, but under no circumstances to officers or directors. Options 
+ F-14 
+
+VENTANA MEDICAL SYSTEMS, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+ 
+ 8. Stockholders Equity (continued) generally vest over five years and expire ten years after the date of grant,
+however, the Board of Directors, at its discretion, may decide the period over which options become exercisable and their expiration dates. In March 2000, the Company completed a private placement of 1,250 shares of its common stock, raising 50,000 in gross proceeds before
+deducting commissions and expenses of the offering of 3,154. The shares were registered with the SEC in April 2000 through the filing of Registration Statement Form S-3. In 2001, a warrant for the purchase of 465 shares of common stock was exercised at a strike price of 5.82
+per share. The Company received 2,600 in net proceeds from the exercise of this warrant. The Company has no outstanding warrants at December 31, 2002. In May 2001, the stockholders approved the adoption of the 2001 Outside Director Stock Option Plan the 2001 Director Plan and reserved a total of 500 shares of common stock for issuance to directors who are not also active full-time employees of the Company or another company in which Ventana has a 50 or more voting interest. The exercise price of options granted
+under the 2001 Director Plan is equal to the fair market value of one share of the Company s common stock on the dates of grant. A total of 100 and 130 shares were issued under the Plan in 2002 and 2001, respectively, at 23.69 - 24.23. Each
+option granted under the 2001 Director Plan vests on a cumulative monthly basis over a one-year period and has a 10-year term. Pro forma information regarding net income (loss) and earnings per share, as disclosed in Note 1, has been determined as if the Company
+had accounted for its employee stock-based compensation plans and other stock options under the fair value method of SFAS No. 123. The fair value for these options was estimated at the date of grant using a Black-Scholes option pricing model with
+the following weighted average assumptions used for grants under the option plans: 
+
+2002 
+
+2001 
+
+2000 
+
+Weighted average risk-free interest rate 
+ 
+ 3.6 
+
+4.3 
+
+6.0 
+
+Expected life of options (years) 
+ 
+ 5.9 
+
+5.8 
+
+5.0 
+
+Expected stock volatility 
+ 
+ 57.2 
+
+62.6 
+
+83.5 
+
+Expected dividend yield 
+ 
+ 0 
+
+0 
+
+0 
+ 
+ The
+Black-Scholes option valuation model was developed for use in estimating the fair value of traded options that have no vesting restrictions and are fully transferable. In addition, option valuation models require the input of highly subjective
+assumptions including the expected stock price volatility. Because changes in the subjective input assumptions can materially affect the fair value estimate, in management s opinion, the existing models do not necessarily provide a reliable
+single measure of the fair value of its employee stock options. The weig ed average fair values of options granted for the years ended 2002, 2001 and 2000, for which the exercise price was equal to the fair market value of the stock were 11.65,
+ 13.49, and 15.42 per share, respectively. 
+ F-15 
+
+VENTANA MEDICAL SYSTEMS, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+ 
+ 8. Stockholders Equity (continued) A summary of the Company s stock option activity and related information is as follows: 
+
+Outstanding Stock Options 
+
+Shares Available for Options 
+
+Number of Options 
+
+Weighted Average Exercise Price Per Share 
+ 
+ Balance at December 31, 1999 
+ 
+ 1,504 
+
+2,479 
+
+15.47 
+ 
+ Authorized 
+ 
+ 500 
+
+Granted 
+ 
+ (876) 
+ 
+ 876 
+
+23.15 
+ 
+ Exercised 
+
+(377) 
+
+13.07 
+ 
+ Cancel ed 
+ 
+ 475 
+
+(475) 
+
+13.90 
+
+Balance at December 31, 2000 
+ 
+ 1,603 
+
+2,503 
+
+18.14 
+ 
+ Authorized 
+ 
+ 500 
+
+Granted 
+ 
+ (799) 
+ 
+ 799 
+
+22.34 
+ 
+ Exercised 
+
+(117) 
+
+15.84 
+ 
+ Canceled 
+ 
+ 204 
+
+(204) 
+
+21.13 
+
+Balance at December 31, 2001 
+ 
+ 1,508 
+
+2,981 
+
+19.07 
+ 
+ Authorized 
+ 
+ 500 
+
+Granted 
+ 
+ (608) 
+ 
+ 608 
+
+20.69 
+ 
+ Exercised 
+
+(142) 
+
+16.99 
+ 
+ Canceled 
+ 
+ 149 
+
+(149) 
+
+22.58 
+
+Balance at December 31, 2002 
+ 
+ 1,549 
+
+3,298 
+
+19.30 
+
+Stock Options at December 31, 2002 
+
+Options Outstanding 
+ 
+ Options Exercisble 
+ 
+ Range of Exercise Prices 
+ 
+ Number of Options Outstanding 
+ 
+ Weighted Average Exercise Price Outstanding 
+ 
+ Weighted Average Remaining Contractual Life (Years) 
+ 
+ Number Exercisable 
+ 
+ Weighted Average Exercise Price 
+ 
+ 0.84 16.63 
+ 
+ 678 
+
+11.92 
+ 
+ 4.8 
+ 
+ 646 
+
+11.76 
+ 
+ 17.00 20.00 
+ 
+ 689 
+
+18.14 
+ 
+ 6.7 
+ 
+ 432 
+
+18.04 
+ 
+ 20.12 21.25 
+ 
+ 978 
+
+20.60 
+ 
+ 8.1 
+ 
+ 446 
+
+20.75 
+ 
+ 22.06 24.23 
+ 
+ 755 
+
+23.40 
+ 
+ 7.8 
+ 
+ 503 
+
+23.37 
+ 
+ 24.50 29.50 
+ 
+ 198 
+
+26.57 
+ 
+ 7.2 
+ 
+ 111 
+
+26.37 
+
+3,298 
+
+19.30 
+ 
+ 7.0 
+ 
+ 2,138 
+
+18.39 
+
+F-16 
+
+VENTANA MEDICAL SYSTEMS, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+ 
+ 9. Income Taxes Income (loss) before income taxes and cumulative effect of accounting change is comprised as follows: 
+
+Years Ended December 31, 
+
+2002 
+ 
+ 2001 
+
+2000 
+
+Domestic 
+
+1,946 
+
+(840) 
+
+(22,137) 
+ 
+ Foreign 
+
+2,655 
+
+2,593 
+
+(2,654) 
+
+4,601 
+
+1,753 
+
+(24,791) 
+
+The
+components of the provision for income taxes are as follows: 
+
+Years Ended December 31, 
+
+2002 
+ 
+ 2001 
+ 
+ 2000 
+ 
+ Current: 
+
+U.S. Federal 
+
+State 
+
+448 
+
+213 
+
+350 
+ 
+ Foreign 
+
+80 
+
+98 
+
+528 
+
+311 
+
+350 
+ 
+ Deferred: 
+
+U.S. Federal 
+
+State 
+
+Foreign 
+
+528 
+
+311 
+
+350 
+
+A
+reconciliation of the U.S. Federal statutory income tax rate to the effective tax rate follows: 
+
+Years Ended December 31, 
+
+2002 
+
+2001 
+
+2000 
+
+U.S. Federal Statutory Rate 
+ 
+ 35.0 
+
+35.0 
+
+(35.0) 
+ 
+ State taxes net of federal benefit 
+ 
+ 6.3 
+
+7.9 
+
+0.9 
+
+Foreign taxes 
+ 
+ 1.7 
+
+5.6 
+
+Non-deductible expenses 
+ 
+ 6.6 
+
+34.0 
+
+0.5 
+
+Change in valuation allowance 
+ 
+ (38.1) 
+ 
+ (64.8) 
+ 
+ 35.1 
+
+Effective tax rate 
+ 
+ 11.5 
+
+17.7 
+
+1.5 
+
+F-17 
+
+VENTANA MEDICAL SYSTEMS, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+ 
+ 9. Income Taxes (continued) Deferred income taxes reflect the net tax effects of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax
+purposes. The Company s deferred tax assets (liabilities) consist of the following: 
+
+December 31, 
+
+2002 
+
+2001 
+
+Non-current: 
+
+Net operating loss carry forwards 
+
+5,346 
+
+7,025 
+
+Foreign loss carry forwards 
+
+354 
+
+3,100 
+
+General business credit carry forwards 
+
+3,497 
+
+1,912 
+
+Depreciation expense 
+
+2,725 
+
+1,873 
+
+In-process R D write-off 
+
+844 
+
+922 
+
+Capitalized software development costs 
+
+(872) 
+
+(757) 
+ 
+ AMT credit carry forward 
+
+242 
+
+242 
+
+Capitalized research and development 
+
+192 
+
+Other 
+
+1,039 
+
+427 
+
+13,175 
+
+14,936 
+
+Current: 
+
+Deferred revenue 
+
+1,143 
+
+763 
+
+Allowance for doubtful accounts 
+
+577 
+
+608 
+
+Other 
+
+666 
+
+1,015 
+
+2,386 
+
+2,386 
+
+Total deferred tax assets 
+
+15,561 
+
+17,322 
+
+Valuation reserve 
+
+(6,759) 
+
+(8,520) 
+
+Net deferred tax assets 
+
+8,802 
+
+8,802 
+
+The
+deferred tax assets and valuation allowance decreased by 1,761 during 2002 and 486 during 2001. The decrease relates primarily to the utilization of certain deferred tax assets by current period income that were previously reserved, expiring state
+net operating loss carry forwards, and reversal of temporary differences. No additional valuation allowance was considered necessary for the deferred tax assets of 8,802 that are reflected on the consolidated balance sheet at December 31, 2002, as
+management believes that it is more likely than not such assets will be recovered. The deferred tax assets increased 2,677 during 2000 which was directly attributable to the cumulative effect of the accounting change relating to the new revenue recognition policy adopted January 1,
+2000 and the income tax benefit relating to stock option exercises by employees in the first quarter of 2000 reflected in the Company s equity accounts. The Company did not recognize any additional deferred tax assets that arose in 2000
+relative to the increases in the net operating loss carry forwards as it could not be readily determined with certainty to what extent such assets would be recoverable in the future. As a result, the Company s valuation allowance increased by
+ 8,256 during 2000. At December 31, 2002, the
+Company has net operating loss carry forwards for federal and state income tax purposes of approximately 12,862 and 8,920, respectively. These federal and state carry forwards will begin to expire in 2007 and 2003, respectively, if not previously
+utilized. The Company also has research and development tax credit carry forwards of approximately 3,500 that begin to expire in 2005, if not previously 
+ 
+ F-18 
+
+VENTANA MEDICAL SYSTEMS, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+ 
+ 9. Income Taxes (continued) utilized. Utilization of the Company s net operating loss carry forwards will be subject to limitations due to the change in ownership provisions of the Internal Revenue Code of 1996, as amended, as a result of the
+Company s prior issuances of equity securities. These carry forwards, therefore, may expire prior to being fully utilized. Future financings may cause additional changes in ownership and further limitations on the use of federal net operating
+loss carry forwards. In addition, the Company has certain foreign net operating loss carry forwards approximating 1,000. 10. Commitments and Contingencies Lease Commitments: The Company leases an office facility and equipment under certain operating leases. Future minimum lease payments under operating leases
+at December 31, 2002 are as follows: 
+
+2003 
+
+1,074 
+ 
+ 2004 
+
+690 
+ 
+ 2005 
+
+312 
+ 
+ 2006 
+
+205 
+ 
+ 2007 
+
+147 
+
+2,428 
+
+Lease
+expense totaled 1,612, 2,163, and 1,653 for the years ended December 31, 2002, 2001 and 2000, respectively. DAKO Cytomation A/S (DAKO), a European distributor and customer, initiated binding arbitration with the Company in 1997 regarding the
+pricing of the Company's TechMate 250 product. The dispute was settled in 1998 with the Company agreeing to pay DAKO a total of 1,651 beginning January 2000. In September 2002, the Company paid this obligation in full (see Note 7). Litigation: On June 15, 1999, we filed a proof of claim against Oncor,
+Inc. in an action pending in the United States Bankruptcy Court for the District of Delaware titled IN RE ONCOR, INC., No. 9-437 (JJF). Our claims arose out of an Asset Purchase Agreement dated November 23, 1998 and related documents wherein we
+acquired Oncor s unincorporated In Situ Hybridization Technology Division and rights related thereto. In February 2000, we filed an amended proof of claim alleging, inter alia, that Oncor breached the terms of the Asset Purchase Agreement by
+purporting to transfer or assign to us Oncor s rights under a license agreement, which were not transferable or assignable under the circumstances then existing. The amended proof of claim sought damages of no less than approximately 7.3
+million. In September 2002, the parties entered into a settlement agreement that provided for a payout to Ventana of 0.9 million in settlement of all claims which was subsequently approved by the court, and the payment was received by Ventana in
+December 2002. The proceeds are reflected as other income in 2002. On December 9, 1999, we filed an action, VENTANA MEDICAL SYSTEMS, INC. v. CYTOLOGIX CORP., No. CIV99-606 TUC FRZ, alleging patent infringement of U.S. Patent No. 5,355,439 seeking monetary damages and injunctive relief in
+the United States District Court in Tucson. The original complaint was amended March 21, 2000 by the addition of another patent to the litigation, which was subsequently dropped from the litigation. On July 1, 2002, the court entered a final
+judgment approving a Settlement Agreement between the 
+ 
+ F-19 
+
+VENTANA MEDICAL SYSTEMS, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+ 
+ 10. Commitments and Contingencies (continued) parties reflecting their agreement that the sole patent in suit, United States Patent 5,355,439, is valid and enforceable, that the ARTISAN staining system does not infringe the 439 patent, that no further relief including costs or attorneys fees will be granted either party and
+that all existing claims and counterclaims may be dismissed with prejudice. On March 8, 2002, Ventana filed a new patent infringement action against CytoLogix in Arizona Federal District Court, Case No. CIV02-117TUCRCC, alleging infringement of U.S. Patent No. 6,352,861
+(Automated Biological Reaction Apparatus) by the making, using and selling of the ARTISAN automated staining
+system. The suit seeks injunctive relief including a preliminary injunction against the continued making, using and selling of the instrument. On April 19, 2002, the court issued an Order that reflects the agreement of Cytologix to stop marketing
+and selling the ARTISAN automated staining system in its infringing embodiment until the matter is decided at
+the preliminary injunction hearing postponed to December, 2002. In September 2002, DAKO Cytomation announced it had purchased the ARTISAN product line from Cytologix. In December Cytologix filed a motion to dismiss the case. In January 2003, we
+filed a motion opposing that motion, and asking the court to re-schedule the Preliminary Injunction hearing. The hearing has not been scheduled as of this date. We believe our claims are meritorious and that we will prevail, however, results of the
+proceedings are uncertain and there can be no assurance to that effect. CytoLogix Corp. has filed three separate actions against us in various courts. The first action is CYTOLOGIX v. VENTANA, Case No. 00-12231 REK, filed Oct. 27, 2000 in federal district court in Boston. The complaint claims,
+under state-law based unfair competition law, that Ventana misappropriated CytoLogix's trade secrets related to individual slide heating and incorporated such secrets into our DISCOVERY and BENCHMARK instruments. CytoLogix seeks assignment of our patent applications relating to individual slide heating claiming the idea, treble damages (unspecified amount) and an injunction against our further sales of DISCOVERY and BENCHMARK instruments. In February 2002, CytoLogix filed a motion to amend their complaint to add the related claims of attempted monopolization and monopolization under the Sherman Act, and various Lanham Act
+violations which was allowed by the court. Previously this case and the patent infringement dispute, Case No. 01-10178 REK (see below) had been consolidated for discovery; they were bifurcated for trial at the January 28, 2003 status conference.
+This case is not presently scheduled for trial. We believe that we have meritorious defenses to the claims in this action and that resolution of this matter will not have a material adverse effect on our business, financial condition or results of
+operation; however, the results of the proceeding are uncertain and there can be no assurance to that effect. The second is CYTOLOGIX v. VENTANA, Case No. 4 Ni 54/00 (EU) (Nullity suit), filed November 9, 2000 in the German Federal Patent Court,
+Munich, Germany. In a decision at the oral hearing March 20, 2002, the German Federal Patent Court ruled that our German patent no. DE 69117052.5, which covers various aspects of our previous generation GENII automated slide staining system, is invalid. The technology addressed by the German patent is unrelated to the technologies involved in any of the
+other patent litigations, including the individual slide heating technology that is the subject of the Boston-based patent litigation. The decision affects our ability to enforce this patent in Germany subject to an appeal and final decision on
+validity. On May 22, 2002, we filed an appeal to the German Federal Court of Justice seeking that the previous judgment be set aside, and that the complaint be dismissed substituting an amended claim into the patent. We have been advised by German
+patent counsel that the appeal process will take up to two years; therefore, we do not expect a decision until the second or third quarter of 2004. It is management s opinion that there will be no material adverse outcome from this matter.
+ The third action is CYTOLOGIX v. VENTANA, Case
+No. 01-10178 REK, filed January 30, 2001 in the U.S. District Court, Eastern District of Massachusetts. This complaint claims that we infringed on CytoLogix s 
+ 
+ F-20 
+
+VENTANA MEDICAL SYSTEMS, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+ 
+ 10. Commitments and Contingencies (continued) patent No. 6,180,061, entitled Moving Platform Slide Stainer with Heating Elements, and was later amended to add U.S. Patent No. 6,183,693, issued Feb. 7, 2001, entitled Random Access
+Slide Stainer with Independent Slide Heating Regulation, both assigned to CytoLogix. CytoLogix seeks assignment of our patent applications claiming the independent slide heater idea, treble damages (unspecified amount) and an injunction
+against our further sales of DISCOVERY and BENCHMARK instruments. At the Pre-trial Hearing on Feb. 3, 2003, the trial was indefinitely postponed until sometime in the Fall, 2003, however no specific
+trial date has been set. A Pre-trial hearing date of August 13, 2003 is set. We believe that we have meritorious defenses to the claims in this action and that resolution of this matter will not have a material adverse effect on our business,
+financial condition or results of operation; however, the results of the proceeding are uncertain and there can be no assurance to that effect. On November 19, 2001 a patent infringement claim was filed against us titled DIGENE CORPORATION v. VENTANA MEDICAL SYSTEMS, INC., (Case
+No. 01-752) in Delaware Federal District Court. This complaint alleges that we infringed two US patents held by Digene, U.S. 4,849,331 and 4,849,332 by activities relating to our INFORM HPV High-risk and Low-risk probe products. We filed an answer denying the allegations on Feb. 4, 2002. The parties have filed cross-motions for
+summary judgment. In addition, in November 2002 Digene filed a motion to amend its complaint to add numerous causes of action related to our September 2002 acquisition of Beckman Coulter s HPV business. Digene seeks, among other remedies, an
+injunction against the sale of our INFORM products, unspecified monetary damages, cancellation of the Beckman HPV acquisition, and related claims. A hearing was held March 5, 2003 on several pending motions, however the court only ruled on one of
+them, allowing Digene to amend its amended complaint. The other motions are awaiting decision which we have been advised may occur towards the end of March 2003. We believe that we have meritorious defenses to the claims in this action and that
+resolution of this matter will not have a material adverse effect on our business, financial condition or results of operation; however, the results of the proceeding are uncertain and there can be no assurance to that effect. 11. Benefit Plan Effective January 1, 1993, the Company adopted a 401 (k)
+Defined Contribution Benefit Plan (the Plan), which covers substantially all employees of the Company from their date of hire. The Plan permits participants to contribute to the Plan, subject to Internal Revenue Code restrictions and the Plan also
+permits the Company to make discretionary matching contributions. Beginning July 2002, the Company elected to make discretionary matching contributions to the Plan for all non-management employees. The Company contributed 81 in matching
+contributions during 2002. The Company did not make any matching contributions to the Plan in 2001 and 2000. 12. Operating Segment and Enterprise Data The Company has two reportable segments: North America (primarily the United States) and International (primarily France, Germany, Japan
+and Australia). These operating segments are the segments of the Company for which separate financial information is available and for which operating profit/loss amounts are regularly evaluated by the Company s Chief Operating Decision Maker
+(its Chief Executive Officer) in deciding how to allocate resources and in assessing performance. 
+ F-21 
+
+VENTANA MEDICAL SYSTEMS, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+ 
+ 12. Operating Segment and Enterprise Data (continued) The Company s Chief Operating Decision Maker evaluates performance and allocates resources based on profit or loss from operations.
+The accounting policies of the reportable segments are the same as those described in the summary of significant accounting policies. Inventory transfers to foreign subsidiaries are made at standard cost. The North America operations include
+corporate activity (including all interest income) that benefits the Company as a whole. The following summary includes net sales only to unaffiliated customers. Net sales are attributed to segments based on the location from which the shipment to
+the customer was made; reagents and instruments are sold in each segment. 
+
+Year ended December 31, 2002 
+
+North America 
+
+International 
+
+Eliminations 
+
+Totals 
+
+Sales to external customers 
+
+78,279 
+
+27,158 
+
+105,437 
+
+Depreciation and amortization expense 
+
+7,042 
+
+1,035 
+
+8,077 
+
+Segment profit 
+
+1,498 
+
+2,575 
+
+4,073 
+
+Segment assets 
+
+118,906 
+
+26,996 
+
+(20,765) 
+
+125,137 
+
+Expenditures for long-lived assets 
+
+5,278 
+
+1,843 
+
+7,121 
+
+Year ended December 31, 2001 
+
+North America 
+
+International 
+
+Eliminations 
+
+Totals 
+
+Sales to external customers 
+
+63,899 
+
+23,914 
+
+87,813 
+
+Depreciation and amortization expense 
+
+5,765 
+
+1,041 
+
+6,806 
+
+Segment (loss) profit 
+
+(1,053) 
+
+2,495 
+
+1,442 
+
+Segment assets 
+
+106,887 
+
+22,213 
+
+(18,115) 
+
+110,985 
+
+Expenditures for long-lived assets 
+
+23,597 
+
+2,101 
+
+25,698 
+
+Year ended December 31, 2000 
+
+North America 
+
+International 
+
+Eliminations 
+
+Totals 
+
+Sales to external customers 
+
+53,520 
+
+17,629 
+
+71,149 
+
+Impairment charges and other expenses 
+
+4,519 
+
+4,519 
+
+Depreciation and amortization expense 
+
+4,490 
+
+1,007 
+
+5,497 
+
+Segment profit (loss) 
+
+(24,393) 
+
+(2,902) 
+
+(27,295) 
+ 
+ Segment assets 
+
+106,742 
+
+18,278 
+
+(15,438) 
+
+109,582 
+
+Expenditures for long-lived assets 
+
+15,247 
+
+3,611 
+
+18,858 
+ 
+ 13. Transaction with Beckman Coulter, Inc. On September 24, 2002, the Company entered into an agreement with Beckman Coulter, Inc to acquire their HPV business and related assets, which included their HPV intellectual property portfolio and
+related products, for the quantitative and qualitative identification of HPV. The acquisition principally included the intellectual property rights and the related technologies in HPV business applications. This acquisition includes assignment of
+the HPV intellectual property portfolio acquired by Beckman Coulter, Inc. from Institute Pasteur through a 1991 sub-license agreement. The Company paid 1,000 in cash and has contingent payments of 750 subject to annual adjustment based on future performance for products
+related to the HPV business. The Company accounted for this acquisition as an acquisition of an intangible asset given that the intellectual property rights were the principal right acquired in the transaction and will amortize the asset over 5
+years. At the time of the acquisition the Company recorded 529, representing the present value of the contingent payment, as management believes the Company will meet the thresholds established for the full payout. The acquisition has been valued
+at 1,529 and is recorded as a license in Intangible Assets at December 31, 2002. 
+ F-22 
+
+VENTANA MEDICAL SYSTEMS, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+ 
+ 14. Transaction with Molecular Diagnostics, Inc. On November 2, 2001, the Company purchased 175 shares of Series D Convertible Preferred Stock in Molecular Diagnostics, Inc. (MCDG) (convertible at 1.00 per share), received a three-year warrant
+entitling the Company to purchase 1,750 shares of common stock of MCDG at an exercise price of 1.15 per share, and acquired intangible assets relating to additional rights received under an amended license and development agreement originally
+entered into on March 24, 2000, with AccuMed International Inc., which was acquired by MCDG on September 17, 2001. Under the amended agreement, the Company received full access to MCDG s proprietary image analysis software and development tools
+and to certain imaging hardware and any subsequent generation of imaging hardware technology. The Company paid 1,750 for these items and based on the respective fair values allocated the amount as follows: 
+
+Developed Technology 
+
+1,152 
+ 
+ Warrant 
+
+140 
+ 
+ License 
+
+240 
+ 
+ Investment in Series D Convertible Preferred stock 
+
+218 
+
+1,750 
+
+The Company amortizes
+the developed technology and license on a straight-line basis over 5 years. The value assigned to the warrant was based upon an independent valuation. In 2002, the Company considered their warrant and preferred stock investments to be impaired, as
+the decline in the fair value was judged to be other-than-temporary. The decline in fair value resulted in impairment charges of 338 recorded in SG A for the year ended December 31, 2002. 15. Special Charges Fiscal 2002: As a result of the Beckman-Coulter transaction described in
+Note 13, the Company incurred a 1.2 million non-cash charge to write off the value of an existing supply agreement 0.9 million) and associated goodwill 0.3 million) previously acquired through the purchase of certain oncology diagnostic
+technology and assets from Oncor, Inc. in 1998. 
+ F-23 
+
+VENTANA MEDICAL SYSTEMS, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+ 
+ 15. Special Charges (continued) Fiscal 2000: Fiscal 2000 results were negatively impacted by 22,524 in write-offs and accruals relating to several different issues. The following table summarizes details of these charges and provides a roll forward of the related
+reserves through December 31, 2001: 
+
+Initial Charges 
+ 
+ Reserve Balances as of December 31, 2000 
+ 
+ Costs Incurred in 2001 
+ 
+ Revision to Estimates 
+
+Reserve Balances as of December 31, 2001 
+ 
+ Reagent dispenser quality issue 
+
+5,355 
+
+2,510 
+
+867 
+
+(1,643) 
+
+Exit of electron microscopy product line 
+
+4,581 
+
+Impairment of inventory, diagnostic instruments and intangibles 
+
+8,615 
+
+1,310 
+
+1,460 
+
+150 
+
+Cost to close Gaithersburg facility 
+
+2,611 
+
+1,117 
+
+967 
+
+(150) 
+
+Other charges including contracted R D 
+
+1,362 
+
+Total impairment charges and other expenses 
+
+22,524 
+
+4,937 
+
+3,294 
+
+(1,643) 
+
+The
+total charges of 22,524 are included in the Statement of Operations as cost of sales 11,789); research and development 537); selling, general and administrative 5,679); and special charges 4,519). Charges of 5,355 were related to quality problems with the
+Company s dispensers and reagents used with the majority of its staining instruments. As a result, charges were taken to write-off inventory and set up reserves to cover product replacements, returns and warranty matters. A charge of 4,581 was recorded to account for the
+Company s decision to exit its electron microscopy (EM) product line. Charges were taken to write-down all EM inventory and field instruments to their net realizable value. In addition, goodwill recognized in the BTTI acquisition was written
+down 1,445 to reflect the impact of certain product discontinuance. Charges of 8,615 were recorded in recognition of the decreased value of certain instrument inventory, fixed assets and intangible assets given the launch of the Company s new BenchMark advanced staining system in 2000.
+In addition, intangible assets associated with the Company s 1996 acquisition of BioTek Solutions, Inc. was written down 3,074 to reflect the impact of discontinuing certain products. The TechMate IHC staining system product line acquired in
+the BioTek transaction was among those whose value was impacted by the launch of BenchMark. The Company also recognized charges of 2,611 relating to closure of its production facility in Gaithersburg, Maryland. The Gaithersburg facility was acquired in late 1998 with the acquisition of all
+the oncology assets of Oncor, Inc. Other charges
+recognized in 2000 totaled 1,362 that included expenses related to contracted research and development being handled by an outside company. In 2001, the 1,643 revision to the estimate was due to the favorable resolution of outstanding accounts receivable balances related to
+the reagent dispenser quality issue and were reflected in the 2001 financial statements as a reduction in SG A expenses. 
+ F-24 
+
+VENTANA MEDICAL SYSTEMS, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+ 
+ 16. Net Income (Loss) Per Share The following table sets forth the components of the computation of 2002, 2001, and 2000 basic and diluted net income (loss) per share: 
+
+2002 
+ 
+ 2001 
+ 
+ 2000 
+
+Numerator: 
+
+Net income (loss) 
+
+4,073 
+
+1,442 
+
+(27,295) 
+
+Denominator: 
+
+Basic: 
+
+Weighted average shares 
+
+16,275 
+
+15,905 
+
+14,770 
+
+Effect of dilutive securities: 
+
+Employee stock options 
+
+306 
+
+522 
+
+16,581 
+
+16,427 
+
+14,770 
+
+Weighted average common equivalent shares exclude the effect of antidilutive options. As of December 31, 2002 and 2001, the weighted average number of options that were antidilutive was 1,509 and 374, respectively. The loss per share
+in 2000 is computed using the weighted average number of shares of common stock outstanding; common equivalent shares from employee and director stock options of 1,038 are excluded from the computation in 2000 as their effect is antidilutive.
+ 17. Subsequent Event On January 2, 2003, we filed a Complaint in Arizona Federal
+District Court against Vision Systems Ltd., Vision an Australian biomedical company, for infringement of U.S. Patent Nos. 5,355,439 Method and Apparatus for Automated Tissue Assay and 6,352,861 Automated Biological
+Reaction Apparatus ). On March 5, 2003
+Ventana was served with a Summons and Complaint by Vision Biosystems, USA for Declaratory Judgment seeking a declaration of no infringement and invalidity of US patents 5,355,439 and 6,352,861, both owned by Ventana, in the U.S. Federal Court for
+the Eastern District of Massachusetts. The Complaint alleges that Ventana has asserted that Vision s BOND 
+system infringes both of the aforementioned patents, and that Vision has a reasonable apprehension of being sued. In addition to invalidity and non-infringement declarations, Vision also alleges tortuous interference with business advantage under
+Massachusetts law. The Company believes their defenses are meritorious and that they will prevail, however, results of the proceedings are uncertain and there can be no assurance to that effect. 
+ F-25 
+
+EXHIBITS 
+
+Exhibit Number 
+ 
+ Description 
+ 
+ Notes 
+
+3.1 
+ 
+ Restated Certificate of Incorporation or Registrant 
+ 
+ (1) 
+ 
+ 3.2 
+ 
+ Bylaws of Registrant 
+ 
+ (1) 
+ 
+ 4.1 
+ 
+ Specimen Common Stock Certificate 
+ 
+ (1) 
+ 
+ 10.1 
+ 
+ Form of Indemnification Agreement for directors and officers 
+ 
+ (1) 
+ 
+ 10.2 
+ 
+ 1988 Stock Option Plan and forms of agreements thereunder 
+ 
+ (1) 
+ 
+ 10.3 
+ 
+ 1996 Stock Option Plan and forms of agreements thereunder 
+ 
+ (1) 
+ 
+ 10.4 
+ 
+ 1996 Employee Stock Purchase Plan 
+ 
+ (1) 
+ 
+ 10.5 
+ 
+ 1996 Directors Option Plan 
+ 
+ (1) 
+ 
+ 10.6 
+ 
+ 1998 Nonstatutory Stock Option Plan and forms of agreements thereunder 
+ 
+ (2) 
+ 
+ 10.7 
+ 
+ 2001 Outside Director Stock Option Plan 
+ 
+ (3) 
+ 
+ 21.1 
+ 
+ Subsidiaries of Registrant 
+
+23.1 
+ 
+ Consent of Ernst Young LLP, Independent Auditors 
+
+24.1 
+ 
+ Power of Attorney 
+
+99.1 
+ 
+ Certification of Chief Executive Officer 
+
+99.2 
+ 
+ Certification of Chief Financial Officer 
+
+(1) 
+ 
+ Filed with the Registration Statement on Form S-l (Commission File No. 333-4461), declared effective by the Commission July 26, 1996. 
+
+(2) 
+ 
+ Filed with the Registration Statement on Form S-8 (Commission File No. 333-92883), filed with the Commission on December 16, 1999. 
+
+(3) 
+ 
+ Filed with the Registration Statement on Form S-8 (Commission File No. 333-69658), filed with the Commission on September 19, 2001. 
+
+<EX-21.1>
+ 3
+ dex211.htm
+ SUBSIDIARIES OF REGISTRANT
+
+Subsidiaries of Registrant 
+
+EXHIBIT 21.1
+ SUBSIDIARIES OF THE REGISTRANT
+ Ventana Medical Systems, S.A. Ventana Medical Systems, GmbH Ventana Medical Systems, Japan K.K. Ventana Medical Systems, Pty. Ltd. BioTek Solutions, Inc. BioTechnology Tools, Inc. 
+
+</EX-21.1>
+
+<EX-23.1>
+ 4
+ dex231.htm
+ CONSENT OF ERNST & YOUNG LLP
+
+Consent of Ernst Young LLP 
+
+EXHIBIT 23.1
+ CONSENT OF ERNST YOUNG LLP,
+INDEPENDENT AUDITORS We consent to the
+incorporation by reference in the Registration Statement (Form S-8 No. 333-69658) pertaining to the 2001 Outside Director Stock Option Plan; in the Registration Statement (Form S-8 No. 333-92883) pertaining to the 1998 Nonstatutory Stock Option
+Plan; in the Registration Statement (Form S-8 No. 333-16707, No. 333-37758 and No. 333-88636) pertaining to the 1996 Stock Option Plan, 1996 Director Option Plan, 1988 Stock Option Plan and 1996 Employee Stock Purchase Plan; and in the Registration
+Statement (Form S-3 No. 333-34124) of Ventana Medical Systems, Inc. of our report dated January 24, 2003, except for Note 17 as to which the date is March 12, 2003, with respect to the consolidated financial statements and schedule of Ventana
+Medical Systems, Inc. included in its Annual Report (Form 10-K) for the year ended December 31, 2002. /s/ E RNST Y OUNG LLP Phoenix, Arizona March 12, 2003 
+
+</EX-23.1>
+
+<EX-24.1>
+ 5
+ dex241.htm
+ POWER OF ATTORNEY
+
+Power of Attorney 
+
+EXHIBIT 24.1
+ POWER OF ATTORNEY Each person whose signature appears below constitutes and
+appoints Christopher M. Gleeson and Nicholas Malden, and each of them individually, as his attorney-in-fact, with full power of substitution, for him in any and all capacities, to sign any amendments to this Form 10-K, and to file the same, with all
+exhibits thereto and other documents in connection therewith, with the SEC, hereby ratifying and confirming all that said attorney-in-fact, or his substitute, may do or cause to be done by virtue hereof. Pursuant to the requirements of the Securities Exchange Act of
+1934, this report has been signed below by the following Pursuant to the Securities Exchange Act of 1934, the following persons in the capacities and on the date indicated have signed this report below. 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/ C HRISTOPHER M. G LEESON Christopher M. Gleeson 
+ 
+ President, Chief Executive Officer and Director (Principal Executive
+Officer) 
+ 
+ March 14, 2003 
+
+/s/ N ICHOLAS M ALDEN Nicholas
+Malden 
+ 
+ Vice President, Chief Financial Officer and Secretary (Principal Financial and
+Accounting Officer) 
+ 
+ March 14, 2003 
+
+/s/ R EX J. B ATES Rex J.
+Bates 
+ 
+ Director 
+ 
+ March 14, 2003 
+
+/s/ E DWARD M. G ILES Edward M.
+Giles 
+ 
+ Director 
+ 
+ March 14, 2003 
+
+/s/ T HOMAS M. G ROGAN Thomas M.
+Grogan 
+ 
+ Director 
+ 
+ March 14, 2003 
+
+/s/ M ARK C. M ILLER Mark C.
+Miller 
+ 
+ Director 
+ 
+ March 14, 2003 
+
+/s/ J OHN P ATIENCE John
+Patience 
+ 
+ Director 
+ 
+ March 14, 2003 
+
+/s/ J ACK W. S CHULER Jack W.
+Schuler 
+ 
+ Director 
+ 
+ March 14, 2003 
+
+/s/ J AMES R. W EERSING James R.
+Weersing 
+ 
+ Director 
+ 
+ March 14, 2003 
+
+</EX-24.1>
+
+<EX-99.1>
+ 6
+ dex991.htm
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER
+
+Certification of Chief Executive Officer 
+
+EXHIBIT 99.1
+ CERTIFICATION PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 (18 U.S.C. SECTION 1350) In connection with the Annual Report of Ventana Medical Systems, Inc., a Delaware corporation (the Company ), on Form 10-K for the year ending December 31, 2002 as filed with the Securities
+and Exchange Commission (the Report ), I, Christopher M. Gleeson, Chief Executive Officer of the Company, certify, pursuant to 906 of the Sarbanes-Oxley Act of 2002 (18 U.S.C. 1350), that to my knowledge: (1) The Report fully complies with the requirements of section
+13(a) or 15(d) of the Securities Exchange Act of 1934; and (2) The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the Company. 
+
+By: 
+ 
+ /s/ Christopher M. Gleeson 
+ 
+ Name: 
+ 
+ Christopher M. Gleeson 
+ 
+ Title: 
+ 
+ President, Chief Executive Officer and Director 
+
+Date: 
+ 
+ March 14, 2003 
+
+</EX-99.1>
+
+<EX-99.2>
+ 7
+ dex992.htm
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER
+
+Certification of Chief Financial Officer 
+
+EXHIBIT 99.2
+ CERTIFICATION PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 (18 U.S.C. SECTION 1350) In connection with the Annual Report of Ventana Medical Systems, Inc., a Delaware corporation (the Company ), on Form 10-K for the year ending December 31, 2002 as filed with the Securities
+and Exchange Commission (the Report ), I, Nicholas Malden, Chief Financial Officer of the Company, certify, pursuant to 906 of the Sarbanes-Oxley Act of 2002 (18 U.S.C. 1350), that to my knowledge: (1) The Report fully complies with the
+requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and (2) The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the Company. 
+
+By: 
+ 
+ /s/ Nicholas Malden 
+ 
+ Name: 
+ 
+ Nicholas Malden 
+ 
+ Title: 
+ 
+ Vice President, Chief Financial Officer and Secretary 
+
+Date: 
+ 
+ March 14, 2003 
+
+</EX-99.2>
+

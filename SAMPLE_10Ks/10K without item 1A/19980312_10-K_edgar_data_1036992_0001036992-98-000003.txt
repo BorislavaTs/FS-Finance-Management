@@ -1,0 +1,2661 @@
+<Header>
+<FileStats>
+    <FileName>19980312_10-K_edgar_data_1036992_0001036992-98-000003.txt</FileName>
+    <GrossFileSize>164524</GrossFileSize>
+    <NetFileSize>132175</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1252</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001036992-98-000003.hdr.sgml : 19980313
+ACCESSION NUMBER:		0001036992-98-000003
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19971231
+FILED AS OF DATE:		19980312
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PEAPOD INC
+		CENTRAL INDEX KEY:			0001036992
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				364118175
+		STATE OF INCORPORATION:			IL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-22557
+		FILM NUMBER:		98564090
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9933 WOODS DR
+		STREET 2:		STE 375
+		CITY:			SKOKIE
+		STATE:			IL
+		ZIP:			60077
+		BUSINESS PHONE:		8474928900
+
+	MAIL ADDRESS:	
+		STREET 1:		1033 UNIVERSITY PLACEQ
+		STREET 2:		STE 375
+		CITY:			EVANSTON
+		STATE:			IL
+		ZIP:			60201
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NtTFxkCIiPwAsbksFvgjTbLd26aziBQmjJBL+bLhLiQoaM4C37/aFD5lAptah0U3
+ I2EXByS40SY6IVHHjrB+Aw==
+
+ 0001036992-98-000003.txt : 19980313
+
+10-K
+ 1
+ PEAPOD, INC.
+
+SECURITIES AND EXCHANGE COMMISSION
+ Washington, D.C. 20549
+
+ FORM 10-K
+
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+ OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ For the Fiscal Year Ended December 31, 1997 Commission file number 0-22557
+
+ PEAPOD, INC.
+ (Exact name of Registrant as specified in its charter)
+ Delaware 36-4118175
+- ----------------------------------- ------------------------------------
+ (State or other jurisdiction (IRS Employer Identification No.)
+ of Incorporation or Organization)
+
+ 9933 Woods Drive, Skokie, Illinois 60077
+ (Address of principal executive offices) (ZIP Code)
+
+ (847) 583-9400
+ (Registrant's telephone number, including area code)
+
+ Securities registered pursuant to Section 12(b) of the Act: None
+
+ Securities registered pursuant to Section 12(g) of the Act: Common
+ Stock, par value 0.01 per share, including associated Preferred Stock Purchase
+ Rights
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes [ X ] No [ ]
+
+ Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of the Registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [ ]
+
+ The aggregate market value of the registrant's Common Stock held by
+non-affiliates as of March 5, 1998: 63,332,109 based on a closing price of
+ 4.50 of the registrant's Common Stock on the Nasdaq National Market. This
+calculation does not reflect a determination that persons are affiliates for any
+other purpose.
+
+ The number of shares outstanding of the registrant's common stock,
+ 0.01 par value ("Common Stock") as of March 5, 1998 was 16,857,393.
+
+ Documents Incorporated by Reference
+
+ Portions of the Registrant's Proxy Statement for the 1998 Annual
+Meeting of Stockholders (to be filed on or before April 30, 1998) are
+incorporated by reference into Part III, as indicated herein.
+
+PEAPOD, INC.
+ Form 10-K Annual Report -- 1997
+ Table of Contents
+
+PART I
+ Item 1. Business...............................................................................3
+ Item 2. Properties............................................................................11
+ Item 3. Legal Proceedings.....................................................................12
+ Item 4. Submission of Matters to a Vote of Security Holders...................................12
+
+PART II
+ Item 5. Market for the Registrant's Common Equity and Related Stockholder Matters.............13
+ Item 6. Selected Financial Data...............................................................14
+ Item 7. Management's Discussion and Analysis of Financial Condition and Results of
+ Operations............................................................................16
+ Item 8. Financial Statements and Supplementary Data...........................................20
+ Item 9. Changes in and Disagreements with Accountants on Accounting and Financial
+ Disclosure............................................................................37
+
+PART III
+ Item 10. Directors and Executive Officers of the Registrant....................................38
+ Item 11. Executive Compensation................................................................39
+ Item 12. Security Ownership of Certain Beneficial Owners and Management........................39
+ Item 13. Certain Relationships and Related Transactions........................................39
+
+PART IV
+ Item 14. Exhibits, Financial Statement Schedules, and Reports on Form 8-K......................40
+
+Signatures..............................................................................................45
+
+All statements, trend analysis and other information in this report relative to
+markets for the Company's products and trends in the Company's operations or
+financial results, as well as other statements including words such as
+"anticipate," "believe," "plan," "estimate," "expect," "intend" or other similar
+expression, constitute "forward-looking statements" under The Private Securities
+Litigation Reform Act of 1995. Such forward-looking statements are contained in
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations," in other portions of this report and in the Company 1998 annual
+report to shareholders. Such forward-looking statements are subject to known and
+unknown risks, uncertainties and other factors which may cause actual results to
+be materially different from those contemplated by the forward-looking
+statements. Such factors include, among other things: (1) the developing nature
+of the markets for the Company's services and the rapid technological change
+relating thereto; (2) the Company's relationship with its retail partners and
+its interactive marketing services and research customers; (3) the Company's
+ability to execute its growth strategies; (4) the extent to which the Company is
+able to attract and retain key personnel; (5) competition; (6) general economic
+conditions; (7) regulations; and (8) the risk factors or uncertainties listed
+from time to time in the Company's filings with the Securities and Exchange
+Commission.
+
+PART I
+
+Item 1. Business
+
+The Company
+
+ Peapod(R) is the leading interactive, online grocery shopping and delivery
+company and a provider of targeted media and research services. Founded in 1989,
+Peapod provides an integrated, comprehensive service designed to address the
+distinct needs of online consumers, grocery retailers and consumer goods
+companies. Peapod's "Smart Shopping for Busy People(R)" solution provides
+consumers with time savings and convenience through a user-friendly, highly
+functional virtual supermarket, and personalized shopping, delivery and customer
+services. By establishing a relationship with the Company, grocery retailers
+gain access to Peapod's online sales channel. This channel is designed to enable
+the retailer to gain incremental revenues and profits by capturing an increased
+share of the purchases of existing customers and by attracting new loyal
+customers. Peapod provides consumer goods companies with a forum for targeted
+interactive advertising, high-impact electronic couponing and extensive product
+research by linking together members from multiple markets into a national
+online network and collecting substantial data regarding members' purchase
+intentions, purchasing behavior and demographics.
+
+ Peapod's proprietary technology is central to its business model. Peapod's
+sophisticated customer interface enables its members to shop at home or at work
+in a personalized manner with the benefit of more extensive product and price
+information than is otherwise practically available. In addition, Peapod's
+systems efficiently link with its retail partners' systems, providing real-time
+pricing and promotional information to its members. Peapod has designed its
+fulfillment management applications on the basis of many years of picking,
+packing and delivering grocery orders to incorporate operating methods that are
+cost-efficient and ensure high quality. Peapod's database creates extensive
+member profiles by collecting data from multiple sources, including online
+shopping behavior, purchase histories, online attitudinal surveys and
+demographic data that it may purchase from other parties. On the basis of this
+data, Peapod's proprietary targeting engine delivers customized, one-to-one
+advertising and promotions.
+
+ The Company believes that its proprietary technology and operating
+experience provide it several competitive advantages. Peapod's technology
+integrates the complex requirements of online shopping, grocery retailing and
+fulfillment, and interactive marketing, which enables Peapod to derive revenue
+from consumers, grocery retailers and consumer goods companies. The Company's
+technology and operating processes for shopping, packing and delivering
+products, as well as its customer support capabilities, have been refined over
+its years of experience to be efficient and ensure high levels of customer
+service.
+
+ Peapod's success to date is built upon the high-quality and personalized
+service of its "Smart Shopping for Busy People" solution. As of December 31,
+1997, Peapod had 71,500 members and offered its online grocery service in eight
+metropolitan markets: Chicago, IL; San Francisco/San Jose, CA; Columbus, OH;
+Boston, MA; Atlanta, GA; and Houston, Dallas and Austin, TX.
+
+Industry Trends
+
+ Interactive grocery services is an emerging business category that
+represents the convergence of three significant industries: online commerce,
+grocery retailing and interactive marketing services.
+
+ Online Commerce. In recent years, a growing number of users have conducted
+an increasing amount of commerce over new interactive media, including online
+services offered via proprietary networks and the Internet. Market researcher
+Yankee Group Inc. estimates that the number of U.S. households dialing into the
+Web will grow from over 20 million in 1997 to an expected 26 million by the end
+of 1998. Forrester Research estimates that the total value of goods purchased
+over the Web will grow from 2.4 billion in 1997 to as much as 12.1 billion by
+the year 2000. The emergence of these new interactive media is driving the
+development and adoption of content and commerce applications that offer
+convenience and value to consumers, as well as unique, cost-effective marketing
+opportunities to businesses.
+
+ Grocery Retailing. The U.S. retail supermarket business represented
+approximately 323.2 billion in revenues in 1996, according to Progressive
+Grocer's 1998 Marketing Guidebook. Recent sales growth in the industry has only
+slightly exceeded inflation, while competition is intense and margins continue
+to be narrow. At the same time, consumers are increasingly time constrained and
+searching for conveniences to make their daily living easier. A 1997 study
+conducted by the Food Marketing Institute suggested that approximately
+two-thirds of households' primary grocery shoppers would prefer to be doing
+something other than in-store grocery shopping.
+
+ As a result of these factors, supermarket operators are searching for
+innovative ways to differentiate their stores through additional consumer
+services, while at the same time seeking opportunities to enhance their profits.
+Many such operators are implementing or beginning to experiment with online
+shopping and home delivery. A 1997 study conducted by Andersen Consulting on
+behalf of the Consumer Direct Cooperative estimated that this emerging channel
+could result in revenue of 60 to 85 billion by the year 2007, translating into
+an 8 to 12 percent share for the channel of all dollars spent on groceries and
+related products and services. However, many grocery retailers recognize that
+creating an online grocery shopping and delivery service lies outside their
+traditional expertise.
+
+ Marketing Services. The Company believes that national advertising
+expenditures by consumer packaged goods companies in 1996 were approximately 15
+billion. Jupiter Communications estimates that interactive advertising spending
+will grow from 301 million in 1996 to 5.0 billion by the year 2000 as Internet
+usage grows worldwide. The Company believes that services that are able to
+target consumers with personalized advertising, and offer precise feedback on
+the impact of advertising, will have a competitive advantage in the interactive
+advertising market.
+
+ The total market for information and research regarding consumer goods was
+estimated to generate approximately 4.8 billion in revenues in 1996, according
+to The Veronis, Suhler & Associates Communications Industry Forecast. Consumer
+packaged goods manufacturers have historically gathered much of their market
+information regarding consumer purchase behavior from scanner data. Because
+scanner data generally captures only product movement without association with
+particular purchasers, it has limited utility as a tool for measuring consumer
+purchase intent or as a basis for targeted marketing. Many retailers have
+implemented loyalty card programs. However, such programs capture varying
+degrees of information about particular purchasers and products. Because of the
+lack of uniform practices, consumer goods companies generally find it
+impractical to utilize such information for national promotional programs.
+
+Growth Strategies
+
+ Peapod's objective is to substantially expand its online grocery shopping
+channel in the United States and become the preferred venue for online marketing
+programs and research for consumers goods companies. The Company's growth
+strategies include the following:
+
+ Build Peapod Brand Identity and Awareness. The Company intends to build
+brand identity through the functionality, quality, convenience and value of the
+services it offers. Peapod also intends to aggressively market its services,
+through promotions and advertising, as a means to further establish name brand
+recognition. The Internet will be an increasingly important marketing medium for
+building brand awareness and attracting new members.
+
+ Provide Superior Service Quality. The Company is committed to providing its
+members with superior experiences in all aspects of its services. The Company's
+"Smart Shopping for Busy People" solutions include user-friendly,
+highly-functional and cost-effective shopping tools as well as a variety of
+convenient delivery and customer support services. "The Peapod Promise" of
+superior service and customer support designed to ensure member satisfaction.
+The Company will continue to pursue improvements in its service quality that can
+be sustained as membership and orders grow aggressively.
+
+ Optimize the Model for Fulfillment Services. The Company is evolving its
+product distribution and order fulfillment model in order to reduce costs,
+improve quality and enhance volume scalability. The Company is working with its
+retail partners and other industry experts to develop specialized distribution
+centers. Such centers have the potential to lower distribution channel costs for
+both retail partners and Peapod. The Company is also developing warehousing and
+routing technologies designed to increase the efficiency of Peapod's order
+fulfillment. Ultimately, the Company believes that lower costs can support a
+lower consumer price and, in turn, greater membership and order volumes.
+
+ Grow Membership and Order Volume. Peapod plans to continue to increase
+revenues and realize economies of scale by growing its membership base and order
+volumes. The Company will pursue this growth by expanding into new metropolitan
+markets and increasing its penetration in existing markets. The Company believes
+that it can achieve competitive advantages in its various markets as the first
+mover to build a substantial online membership base and operating scale.
+
+ Build Interactive Marketing Services. Leverage Database. Peapod has
+pioneered, in partnership with consumer goods companies, innovative interactive
+marketing services consisting of advertising, promotion and market research
+services. Peapod intends to continue using the combination of its database and
+online shopping channel to create new products and services tailored to its
+interactive marketing clients. As Peapod's membership increases, the Company
+believes that consumer goods companies will increasingly view Peapod's service
+as a powerful advertising venue as well as a valuable research tool.
+
+ Work with Retail Partners to Grow Online Shopping Channel. Peapod has
+developed a range of technical, management and fulfillment services which can be
+adapted to meet a retail partner's needs. Additionally, through the Split Pea
+Software(TM) division, Peapod is licensing its grocery shopping system and
+providing software support services to retailers on an international basis. The
+Company has also initiated efforts to license this technology to retailers in
+U.S. markets. Peapod believes that its systems, including the shopping
+application, remote development framework and database engines, are among the
+most advanced systems available for high-volume, internet shopping transactions.
+Peapod also believes that its extensive experience as the pioneer of online
+grocery shopping and delivery services will continue to be of value to retail
+partners.
+
+Peapod Services
+
+ Consumer Services
+
+ Peapod's "Smart Shopping for Busy People" solution provides consumers with
+time savings and convenience through its user-friendly, highly functional and
+information-rich virtual supermarket and personalized shopping, delivery and
+member services. With Peapod, members are able to recapture a portion of the
+time typically associated with traditional grocery shopping. Rather than driving
+to the store and waiting in check-out lines, members shop at any time of the day
+or night with their personal computers, and schedule delivery or pick-up at a
+convenient time. Peapod makes available, at the member's fingertips, up-to-date
+product information, including product availability, pricing and promotions, and
+keeps a running online tally of the member's bill. Peapod provides further
+service to its members in the form of electronic and telephonic member support
+and technical assistance and honors "The Peapod Promise," a guarantee of
+superior service and satisfaction with each order.
+
+ Peapod is accessible through a proprietary dial-up network or Peapod's
+Internet web site (www.peapod.com). Its shopping system is highly functional,
+offering members a variety of shopping methods and productivity tools to create
+a shopping experience based on each member's personal preferences. Peapod
+members can shop by browsing aisles (moving logically from general product
+category to individual items), using one or more personal lists (containing
+compilations of frequently-purchased goods which can quickly be reviewed and
+considered for purchase), or conducting word searches based on brand or product
+category (which is particularly helpful for coupon redemption or purchasing
+recipe ingredients). Through the use of these tools, members can place desired
+items into a "virtual" shopping cart. In addition, members can provide personal
+shopping instructions on any individual item, such as ripeness of fruit or
+substitution preferences for out-of-stock items, or send comments or questions
+to Peapod, the grocery retailer or a specific consumer goods company.
+
+ The Peapod "Smart Shopping" software also contains information and
+functions which the Company believes improve the quality of the shopping
+experience. Members can sort items in any product category by a wide variety of
+variables, such as pricing information, sale items, kosher and nutritional
+content (e.g., fat, calories, cholesterol and sodium). The Company maintains
+pricing and merchandising links with its retail partners, which enable prices,
+sales and promotions to be updated on a real-time basis to reflect accurate
+information from the member's local fulfillment center. Peapod's user interface
+easily accommodates a variety of media displays, such as electronic coupons and
+information modules, which support cost-savings and "smart shopping." The
+Company believes that its customer interface provides the most functional
+interactive online shopping service currently available.
+
+ Peapod's typical members are females between the ages of 30 and 54,
+households with children, dual income households and other busy people. The
+income levels of Peapod's membership base cover a wide range, with a median
+income exceeding 60,000 per year. The average Peapod order is 110 which the
+Company believes is five to six times the in-store average.
+
+ As of December 31, 1997, Peapod offered its online grocery service in eight
+metropolitan markets, and conducted delivery operations from 52 fulfillment
+centers covering 6,488,000 households, or approximately 6 of U.S. households.
+Peapod's service areas encompassed approximately 1,732,000 households in
+Chicago, 851,000 households in San Francisco/San Jose, 396,000 households in
+Columbus, 1,269,000 households in Boston, 938,000 households in Houston, 748,000
+households in Dallas, 254,000 households in Austin and 300,000 households in
+Atlanta. In early 1998 the Company's retail partner in Atlanta sold its Atlanta
+operations and consequently Peapod is not currently offering its service in
+Atlanta. See "--Grocery Retailer Alliances."
+
+Grocery Retailer Alliances
+
+ For the retailer, Peapod provides its online sales channel, which is
+designed to enable retailers to increase incremental revenues and profits by
+capturing an increased share of the grocery purchases of existing customers and
+by attracting new loyal customers. Peapod believes that its members purchase
+household and other goods from Peapod's retail partners that they historically
+had purchased elsewhere. The Company believes that retailers are also attracted
+to Peapod because of the retailer's prospects for generating revenue growth
+without large investments in real estate. In addition, Peapod's systems and
+employees provide feedback to retailers on out-of-stock inventory and the
+quality of perishable items. Moreover, Peapod's interactive marketing
+capabilities allow the retailer to experiment with creative merchandising and
+promotions and execute local marketing strategies.
+
+ Peapod strives to be the solution of choice for online shopping and
+fulfillment services by offering varying levels of service and support depending
+on the particular grocery retailer's needs. In all cases, Peapod provides its
+online shopping systems, including the application and the system hosting and
+network management services necessary to operate the service. The Company also
+implements its proprietary merchandising link which allows retailers to
+electronically transmit to Peapod, on a real-time basis, product and pricing
+changes. Peapod's database of over 50,000 products, including product
+descriptions and detailed nutritional information, incorporates the retailers'
+branded or regional products. Retailers also benefit from Peapod's marketing
+expertise in acquiring online grocery shopping members, and from the extensive
+services that Peapod provides members such as fulfillment, transaction
+processing and customer support. Peapod believes that it is able to offer
+grocery retailers a superior online shopping channel at a total cost that is
+significantly less than would be required for a retailer attempting to develop
+and manage its own service.
+
+ Peapod's ability to offer online shopping and delivery services to
+consumers depends on its product sourcing, fulfillment and marketing
+arrangements with grocery retail partners. Peapod enters into a contract with a
+single major supermarket chain in each of its metropolitan markets. Peapod
+strives to choose retail partners that have a reputation for high-quality and
+the ability to support aggressive marketing efforts for the service. The
+Company's current retail partners include three of the five largest national
+supermarket chains. Its retail partners are: in Chicago, Jewel/Osco (a division
+of American Stores Company); in San Francisco/San Jose, Safeway, Inc.; in
+Columbus, The Kroger Company; in Boston, The Stop & Shop Supermarket Company;
+and in Houston, Dallas and Austin, Randalls Food & Drug Inc. The Company entered
+the Atlanta market in 1997 through a relationship with Bruno's, Inc. In early
+1998, Bruno's sold its Atlanta stores, ceased operations in Atlanta and filed
+for protection under federal bankruptcy laws. As a result the Company is not
+offering its services in the Atlanta market.
+
+ Under its retail agreements, the Company's retail partners generally pay
+the Company various fixed and transaction-based fees and provide annual
+marketing support to the Company which is used to advertise and promote the
+Peapod service. A number of these agreements are terminable prior to expiration
+by either party with short notice. Jewel/Osco was the Company's original retail
+partner and served as a test fulfillment center in 1990. Peapod's Chicago
+market, serviced through the Company's agreement with Jewel/Osco, accounted for
+approximately two-thirds of the Company's revenues in 1996 and slightly less
+than one-half of its revenues in 1997.
+
+ Peapod has initiated efforts to license its online shopping systems to
+international and domestic retailers. For example, in late 1997 the Company
+signed a five-year agreement with Coles Myer Ltd., a leading Australian
+retailer, to license to Coles Myer its online grocery shopping, fulfillment and
+customer support systems, and to provide certain software and business support
+services. Peapod expects to receive fixed license fees, annual software
+maintenance fees, and variable license fees based on Coles Myer's order volume.
+
+Interactive Marketing Services
+
+ For the consumer goods company, Peapod provides a forum for targeted
+interactive advertising, electronic couponing and extensive product research by
+linking together members from multiple markets into a national online network
+and collecting substantial data regarding members' attitudes, purchasing
+behavior and demographics. In addition, Peapod's growing membership base has an
+attractive demographic profile which is difficult to reach through other
+direct-response media channels. Approximately three-quarters of Peapod's members
+are upper middle class and approximately three-quarters are women.
+
+ Peapod's software is designed to easily accommodate a variety of media and
+promotional events, and is supported by a database containing extensive
+information about the shopping behavior and preferences of its members that the
+Company believes is not readily available from other sources. This has enabled
+Peapod to pioneer, in partnership with consumer goods companies, innovative
+interactive marketing services that consist of advertising, promotion and
+research services. The Company has agreements to provide interactive marketing
+services to a number of national consumer goods and service companies, including
+Anheuser-Busch, Incorporated, Bristol-Myers Squibb Company, Frito-Lay, Inc., The
+Gillette Company (USA) Inc., Helene Curtis, Inc., Kellogg Company, Kraft Foods,
+Inc., Nestle U.S.A., Inc., Novus Services, Inc. (Discover Card), Ore-Ida Foods,
+Inc., Ralston Purina Company, The J.M. Smucker Company and Tropicana Products,
+Inc. Consumer goods companies and other users of interactive marketing services
+are attracted by the appealing demographic profile of Peapod's membership base
+and the capabilities of Peapod's integrated database and medium. Peapod offers a
+medium that can reach this captive audience more directly and that the Company
+believes will increase in value as Peapod's membership base expands.
+
+ Peapod's database and membership profile, in conjunction with its
+proprietary targeting engine, enable it to deliver highly-targeted, one-to-one
+advertising and promotion, such as electronic couponing, as well as conduct
+cost-effective, high-quality marketing research. "See--Technology." Peapod's
+systems provide accountability for every marketing event executed on the Peapod
+system so that exposures, mouse clicks, redemptions and sales are all captured
+for complete reporting of the impact of a marketing program. The accurate and
+comprehensive marketing feedback is a valuable tool for consumer goods companies
+for pre-testing and refining marketing programs for execution in more
+traditional media.
+
+ The Company can also provide consumer goods companies with improved
+research and data products. Peapod believes that the nature of its database,
+which maintains extensive and detailed data tied to individual purchasers,
+enables it to provide improved research and data products without the high cost
+of traditional research. Additionally, Peapod's captive audience allows the
+Company to create and maintain highly-targeted research panels at a cost the
+Company believes to be substantially lower than the consumer panels of current
+research firms.
+
+ To date, substantially all of Peapod's interactive marketing sales have
+been made through sponsorship agreements under which the Company provides a
+variety of bundled interactive marketing products and services. In 1997, the
+Company began offering individual interactive marketing services such as banner
+ads and electronic coupon programs on a shorter-term basis, in a manner more
+similar to typical advertising and promotion programs.
+
+Technology
+
+ Proprietary Consumer Software. Peapod's consumer software is based upon a
+three-tiered architecture, which positions Peapod at the forefront of Internet
+computing. The first tier, the client layer, resides on the member's computer.
+The client layer utilizes instructions from the application server in order to
+create the user's interface, run the application, and return input to the Peapod
+server. The remaining tiers, the application and the database, are centrally
+maintained and manage all of the logic and data associated with the Peapod
+application, including members' personalized shopping lists.
+
+ Peapod believes that there are many advantages of its proprietary "thin
+client" architecture. First, Peapod believes that its overall application
+performance is strong relative to other consumer network applications with
+comparable levels of interactivity. A key factor in the performance of a network
+application is the utilization of the generally narrow bandwidth connection
+between the consumer's computer and the server, whether via the Internet or
+direct dial-up. Peapod makes efficient use of this bandwidth by performing
+certain processing on the member's computer and by exchanging only
+application-relevant information between a member's computer and the Peapod
+server.
+
+ Peapod also believes that its three-tiered architecture offers a high
+degree of scalability. Efficient interaction between the Peapod server and the
+member's computer and client-side processing of certain application activities
+reduce the processing requirements of Peapod's servers. In addition, the
+partitioning of the application and the database enables Peapod to isolate and
+optimize the differing processing requirements of these layers. As the Peapod
+membership base grows and the number of simultaneous users increases, Peapod can
+integrate additional application servers without impacting the rest of the
+application architecture.
+
+ Peapod's "thin client" architecture also provides Peapod with a great deal
+of application functionality and flexibility. Because the application logic and
+data is maintained centrally, Peapod can dynamically change much of the content
+and appearance of the consumer software without having to modify the client
+software on the member's computer. The centralized application logic and data
+also enables Peapod to present interactive marketing events or to customize the
+appearance of the application among individual members. "See--Proprietary
+Targeting Engine."
+
+ The next version of the Peapod software, which is being released in early
+1998, is based on Microsoft's ActiveX technology and is designed to offer an
+even greater level of integration with the Internet. For example, Peapod will be
+able to incorporate Web site content, such as HTML documents or Shockwave
+animated images, into its consumer interface. An interactive marketing client,
+for instance, might choose to directly link its Peapod advertising and promotion
+activity with its other Web presences. Additionally, as new consumer
+technologies emerge and mature, such as television-based browsers or inexpensive
+Internet appliances, Peapod can quickly adapt its consumer software to support
+those platforms.
+
+ Access. The "thin client" portion of the software may be downloaded to the
+member's computer via the Internet or from a Peapod diskette. Members can then
+access the Peapod servers via direct dial-up or the Internet. The Peapod client
+software currently supports both the Microsoft Windows and Macintosh user
+platforms.
+
+ Proprietary Targeting Engine. One key attribute of the Peapod application
+is its ability to target various forms of redeemable content, such as
+advertisements, electronic coupons, online surveys and product samples, to
+various members based on a range of defined criteria. Peapod has developed the
+Universal Event Processor, a flexible, high-performance database application, to
+manage the targeting and redemption of these events. The flexibility of this
+targeting and redemption capability enables Peapod to offer sophisticated
+advertising and market research services to its consumer goods and retailer
+clients. For example, Peapod can target an electronic coupon with varying
+redemption values to different sets of members with similar purchasing
+attributes in order to measure the relative effectiveness of the incentives. See
+"--Peapod Services; Interactive Marketing Services."
+
+ Business Support Applications. Peapod has designed and integrated several
+business support systems with its shopping application in order to facilitate
+the administration of the Peapod services. The Peapod fulfillment management
+applications, installed at each of Peapod's fulfillment centers, enable Peapod
+field operations managers to access and print member orders according to store
+layout, manage delivery time availability and update the store-specific product
+offerings. The Peapod accounting systems provide for the billing, processing and
+collection functions associated with the transactions on the Peapod service,
+including an electronic link of the processing of member credit card payments
+and funds transfer. The member services and technical support systems provide
+Peapod's telephone representatives with real-time access to member information,
+including order and online activity information, allowing for responsive service
+to the various member needs. The next release of the fulfillment management
+applications is being designed to incorporate hand-held scanning technology to
+enhance and streamline the order picking and packing functions and
+electronically integrate the actual member order with the Peapod accounting
+systems.
+
+Marketing and Promotion
+
+ Consumer Marketing. Peapod has promotional plans focused on radio and
+newspaper advertising, direct mailings of starter kit diskettes and a variety of
+other programs. Much of Peapod's advertising is conducted on a cooperative basis
+with the Company's retail partners, with both parties contributing financial and
+management resources to member acquisition programs. In building consumer
+awareness of its service, especially in newer areas, Peapod's advertising
+focuses on co-branding its service with the name recognition of its retail
+partners.
+
+ The Company's marketing objectives include, in addition to member
+acquisition, increases in member usage, grocery order size and member retention.
+The Company believes that over time the extensive database and one-to-one
+marketing capabilities of its online system will provide it with opportunities
+to tailor its services to the unique needs of its members, and thereby improve
+membership satisfaction.
+
+ Retailer Marketing. The Company seeks to identify, and enter into an
+agreement with, a high-quality grocery retailer in each of its metropolitan
+markets. The Company has a separate sales and client service function that
+focuses on securing relationships with grocery retailers. Senior management,
+field management personnel and employees in other functional areas are involved
+in providing ongoing corporate support to its retail partners. Examples of
+support include, in addition to field operations management, production of
+periodic out-of-stock reports indicating stocking problems in specific stores,
+cross-functional planning for new market and fulfillment center openings, and
+general management of Peapod's relationship with its grocery retail partners.
+
+ Interactive Marketing Services. Peapod's interactive marketing services
+personnel provide sales and client service support to consumer goods companies
+and other advertisers. The Company, from time-to-time enters into relationships
+with advertising agencies and other third parties to sell certain media and
+promotional products on Peapod's behalf. In addition, the Company has a
+relationship with The M/A/R/C Group, a national marketing research organization,
+to develop and market custom and syndicated research applications to bring the
+value-added benefits of Peapod to consumer goods companies. Peapod also
+advertises its services in trade publications.
+
+Competition
+
+ The grocery retailing market is extremely competitive. The Company competes
+with a number of providers of grocery products and services, including
+traditional grocery retailers, other interactive or Internet-based grocery
+providers, and providers that fulfill orders obtained via telephone or
+facsimile. The Company also competes with many other companies that seek to
+implement advertising, promotions and research programs for consumer goods
+companies. Many of the Company's competitors are larger and have substantially
+greater resources than the Company. In addition, the Company believes that this
+competition will intensify as more grocery retailers, online marketing services
+and information services companies seek to offer services in competition with
+the Company.
+
+ Companies operating in the electronic (computer, facsimile or phone)
+grocery shopping and delivery business compete on several factors, including the
+ease of use, functionality and reliability of the shopping and ordering system,
+product selection, price, the reliability and professionalism of delivery
+operations and other customer services, and general brand awareness. The Company
+has not experienced significant competition to date from other electronic
+grocery and delivery services in any of its markets, other than Boston where
+several warehouse-based delivery services have recently emerged. In competing
+against such services Peapod emphasizes its user-friendly and functional online
+shopping system and the brand awareness being generated through its cooperative
+marketing efforts with its retail partner.
+
+ The Company believes that most large grocery retailers will initiate online
+shopping and delivery programs over time due to the large potential size of this
+online sales and distribution channel, as well as the retailers' need to defend
+their traditional customer base. Additionally, new retailers are likely to
+emerge with warehouse-based distribution models in an attempt to lead the
+development of the new channel. Although Peapod would like to form alliance
+relationships with many of these grocery retailers, and believes that its
+offerings are superior to those of other existing third party shopping service
+providers, some retailers may choose to develop and operate their own systems.
+Alternatively, retailers may seek to align with other parties that can develop
+online software, manage the technology infrastructure or perform fulfillment
+services. These relationships may, over time, give rise to new and significant
+competitors for the Company. Further competitors may arise from large technology
+companies that, in conjunction with grocery retailers or independently, develop
+online grocery shopping systems. Because of the large capital investments
+required in order to develop online grocery shopping and delivery systems and to
+operate the service, the Company believes that large, well-capitalized retailers
+or technology companies pose the most significant long-term competitive threat.
+
+ With respect to interactive marketing services, the Company competes with
+many other companies that seek to sell and execute advertising, promotions and
+research programs to consumer goods companies. This market is extremely
+competitive and includes advertising and promotional agencies, companies
+implementing free-standing inserts ("FSI") coupon programs and in-store
+promotions, and traditional consumer product research businesses. These
+companies also cover a variety of media, including print, television or online.
+Companies in this market compete on the basis of audience size for media
+exposure, demographics of the audience, effectiveness in generating sales,
+quality of research data and analysis, cost, and other factors. The online
+medium is in the early stages of growth as a forum for advertising, promotion
+and research. The Company believes that this medium, and in particular online
+grocery shopping services, offer opportunities to impact sales of consumer
+products to a greater degree than traditional media and promotions, and to
+perform higher quality and more cost-effective research. See "--Peapod Services;
+Interactive Marketing Services."
+
+Employees
+
+ As of December 31, 1997, the Company had approximately 285 full-time and
+1,135 part-time employees. Substantially all of the part-time employees serve in
+grocery picking, packing, delivery and member support positions. Of the
+Company's full-time employees, approximately 160 are in field operations or
+member support functions, with the remainder in information technology, sales
+and marketing, and general and administrative functions. None of the Company's
+employees is represented by a collective bargaining unit. The Company considers
+its relations with its employees to be good.
+
+Intellectual Property and Other Proprietary Rights
+
+ The Company believes that its success and ability to compete is somewhat
+dependent upon its proprietary systems and technology. The Company relies on a
+combination of copyright, trademark and trade secret laws as well as
+confidentiality agreements and other measures to establish and protect its
+proprietary rights. The Company does not have any patents. The Company has U.S.
+registrations for the "Peapod" service mark and associated logos and for
+Peapod's "Smart Shopping for Busy People" slogan. The Company has registered
+copyrights, or has applied for copyright registration, with respect to certain
+of its proprietary software, its Web site and certain marketing materials. While
+the Company relies on trademark, trade secret and copyright laws to protect its
+proprietary rights, the Company believes that the technical and creative skills
+of its personnel, high-quality service standards, continued development of its
+proprietary systems and technology, and brand name recognition are more
+important to establish and maintain a leadership position and strengthen its
+brand. As part of its confidentiality procedures, the Company generally enters
+into agreements with its employees, retail partners and strategic partners and
+limits access to and distribution of its software, documentation and other
+proprietary information.
+
+Item 2. Properties
+
+ The following are the principal properties of the Company:
+
+Location Function Owned/Leased Usable Space
+- ------------------- ------------------ ------------- ------------
+Skokie, IL Corporate Office Leased 37,974
+Boston, MA Regional Office Leased 1,461
+San Francisco, CA Regional Office Leased 2,553
+Columbus, OH Regional Office Leased 878
+Solana Beach, CA Technology Center Leased 1,000
+
+Item 3. Legal Proceedings
+
+ The Company is not involved in any legal proceedings that management
+believes would have a material adverse effect on the Company's financial
+condition or results of operations.
+
+Item 4. Submission of Matters to a Vote of Security Holders
+
+ None.
+
+PART II
+
+Item 5. Market for the Registrant's Common Equity and Related Stockholder
+ Matters
+
+ The principal market for Peapod's common stock is The Nasdaq National
+Market ("NASDAQ"). On March 5, 1998, there were approximately 166 holders of
+record of Peapod common stock. High and low sales prices of Peapod's common
+stock as reported by NASDAQ for each quarter of 1997 follows:
+
+ Price
+ ------------------------------
+ High Low
+ ------------- ------------
+
+ Calendar Quarter Ended:
+ June 30 ............................. 18.500 11.250
+ September 30.......................... 13.750 7.875
+ December 31........................... 14.000 5.000
+
+The Company has not declared any dividends in 1997. The Company does
+not anticipate paying cash dividends on its Common Stock in the foreseeable
+future. Any payment of cash dividends in the future will depend upon the
+financial condition, capital requirements and earnings of the Company,
+limitations on dividend payments pursuant to the terms of debt agreements and
+such other factors as the Board of Directors may deem relevant.
+
+ The Company conducted an initial public offering on June 10, 1997 at
+ 16.00 per share.
+
+Item 6. Selected Financial Data
+
+ The selected statement of operations and balance sheet data set forth below
+have been derived from the historical financial statements of the Company. The
+historical financial statements as of December 31, 1996 and 1997 and for the
+years ended December 31, 1995, 1996 and 1997 have been audited by KPMG Peat
+Marwick LLP, independent certified public accountants, whose report thereon
+appears elsewhere in this document. The statement of operations and balance
+sheet data set forth below as of December 31, 1993 and 1994, as well as the
+balance sheet data as of December 31, 1995, have been derived from the Company's
+unaudited internal financial statements and reflect all adjustments which
+management considers necessary for a fair and consistent presentation of the
+results of operations for those periods. The selected financial and operating
+data should be read in conjunction with "Management's Discussion and Analysis of
+Financial Condition and Results of Operations" and the financial statements and
+related notes thereto appearing elsewhere in this document.
+
+Years Ended December 31,
+
+ 1993 1994 1995 1996 1997
+ (dollars in thousands, except share and per share data)
+
+Statement of Operations Data:(1)
+ 
+Revenues:(2)
+ Grocery sales, net of returns.... 2,893 6,745 12,731 22,015 43,487
+
+ Interactive marketing services... -- -- 163 1,069 2,222
+
+ Member and retailer services..... 812 1,601 3,049 6,088 13,898
+
+ Total revenues................... 3,705 8,346 15,943 29,172 59,607
+
+Groceries sold, net of returns........ (2,893) (6,745) (12,731) (22,015) (43,487)
+
+Other costs and expenses.............. (2,463) (5,918) (9,796) (17,187) (31,069)
+
+Operating loss........................ (1,651) (4,317) (6,584) (10,030) (14,949)
+
+Net loss.............................. (1,676) (4,347) (6,592) (9,566) (12,979)
+
+Basic and diluted net loss per share(3) (0.38) (0.75) (0.79) (0.82) (0.87)
+
+Shares used to compute basic and
+ diluted net loss per share(3)...... 4,399,342 5,804,055 8,357,585 11,664,956 14,915,734
+- -----------------------------------------------------------------------------------------------------
+
+As of December 31,
+ 1993 1994 1995 1996 1997
+ 
+Operating Data:(1)
+Markets(4)....................... 2 2 2 4 8
+Members(5)....................... 3,000 7,900 12,500 33,300 71,500
+Orders (for the year ended)...... 28,600 70,300 124,100 201,100 396,600
+Households in service area(6).... 1,083,400 1,917,000 2,204,200 3,581,000 6,488,000
+
+Balance Sheet Data:(1)
+Cash and cash equivalents........ 644 2,254 2,466 13,039 54,079
+Working capital.................. 175 902 438 7,356 52,350
+Total assets..................... 1,556 3,465 4,531 16,528 69,110
+Long-term obligations............ 205 47 374 340 701
+Total stockholders' equity....... 559 1,435 1,413 8,403 54,802
+
+(1) Prior to May 31, 1997, represents the financial and operating information of
+ Peapod LP, the predecessor entity to the Company, and the Company.
+(2) Grocery sales, net of returns, represent the actual costs of groceries
+ purchased and charged to members. Interactive marketing services include
+ fees from advertising, promotions and research. Member and retailer services
+ include fees from members and retail partners related to the Company's
+ online services and grocery and delivery operations.
+(3) Basic and diluted net loss per share and the shares used in computing basic
+ and diluted net loss per share have been restated to conform with Statement
+ of Financial Accounting Standards No. 128, Earnings Per Share, and
+ Securities and Exchange Commission Staff Accounting Bulletin No. 98, as
+ discussed in Note 2 of the Notes to Financial Statements.
+(4) Represents the number of metropolitan markets served.
+(5) Represents the number of households and businesses subscribing to the Peapod
+ services.
+(6) Represents the number of households in areas that can be served from
+ Peapod's existing fulfillment centers (i.e., the facilities at which member
+ orders are shopped and packed for delivery or pick-up).
+
+Item 7. Management's Discussion and Analysis of Financial Condition and Results
+ of Operations.
+
+ The following discussion and analysis of the Company's financial
+condition and results of operations should be read in conjunction with the
+Company's financial statements including the notes thereto.
+
+RESULTS OF OPERATIONS
+
+1997 Compared to 1996
+
+ Grocery sales, net of returns. Grocery sales, net of returns, which are
+the actual costs of groceries purchased by members, increased by 98 from
+ 22,015,000 in 1996 to 43,487,000 in 1997, principally due to an increase in
+the number of orders. The total number of orders increased from 201,100 in 1996
+to 396,600 in 1997. Total membership at December 31, 1996 and 1997 was 33,300
+and 71,500, respectively, reflecting an increase of 115 . Increases in the
+Company's membership base resulted largely from the introduction of the Peapod
+service in four new markets in 1997: Houston, Atlanta, Dallas and Austin, as
+well as increased penetration in the Chicago, San Francisco/San Jose, Columbus
+and Boston markets.
+
+ Interactive marketing services. Revenues from interactive marketing
+include fees from consumer goods companies for interactive advertising,
+promotion and research services. Fees from such services increased by 108 from
+ 1,069,000 in 1996 to 2,222,000 in 1997. The increase is primarily due to an
+increasing number of interactive marketing services clients during the year.
+
+ Member and retailer services. Member and retailer services include
+subscription, service and other fees paid by members and retail partners related
+to Peapod's online shopping and delivery operations. Fees from such services
+increased 128 from 6,088,000 in 1996 to 13,898,000 in 1997. This increase is
+primarily attributable to (i) additional fees paid by new and existing
+retailers, (ii) higher grocery volumes and order quantities, (iii) the
+increasing size of the Company's membership base, and (iv) the addition of new
+markets during the year.
+
+ Groceries sold, net of returns. The Company purchases groceries for its
+account on behalf of its members. The actual cost of groceries are subsequently
+charged to members. Groceries sold, net of returns increased from 22,015,000 in
+1996 to 43,487,000 in 1997, commensurate with the increase in Grocery sales,
+net of returns.
+
+ Grocery operations. Grocery operations expenses include (i) the direct
+costs relating to the shopping, packing and delivery of member orders, (ii)
+salaries and overhead expenses of each fulfillment center, (iii) salaries and
+overhead expenses for each metropolitan market and (iv) salaries and overhead
+expenses for certain field support functions such as recruiting, training,
+database merchandising and member support. Grocery operations expenses increased
+115 from 8,141,000 in 1996 to 17,496,000 in 1997. The increase is primarily
+attributable to (i) salaries and overhead expenses of new fulfillment centers,
+(ii) the direct costs of shopping, packing and delivering member orders relating
+to the increased volume of orders, (iii) salaries and overhead expenses for
+member support, (iv) salaries and overhead expenses for four new markets opened
+in 1997, and (v) new training and recruiting functions created to assist in the
+rapid opening and support of new markets and new fulfillment centers.
+
+ At December 31, 1997, Peapod fulfilled member orders from 52
+fulfillment centers across eight metropolitan markets, compared to 27
+fulfillment centers across four metropolitan markets at December 31, 1996. Four
+new metropolitan markets and 25 fulfillment centers were added during 1997
+compared to two new metropolitan markets and 14 fulfillment centers added during
+1996. In January 1998, the Company's retailer partner in Atlanta ceased
+operations and consequently Peapod is not offering its service in Atlanta. See
+"Business, Peapod Services, Grocery Retailer Alliances."
+
+ General and administrative. General and administrative expenses, which
+include corporate staff, accounting and human resource functions, increased 41 
+from 2,920,000 in 1996 to 4,129,000 in 1997. The increase resulted primarily
+from occupancy expenses related to the centralization of field support
+functions, the relocation of the Company's headquarters, and an increase in
+staffing levels to support the Company's growth.
+
+ Marketing and selling. Marketing and selling expenses include the cost
+of member acquisition and retention marketing, such as radio advertising and
+direct mail, as well as certain costs relating to interactive marketing
+services. Marketing and selling expenses increased by 64 from 3,984,000 in
+1996 to 6,514,000 in 1997. The increase is principally due to additional
+marketing staff to support the growth in interactive marketing services and
+other marketing initiatives, along with more aggressive member acquisition
+programs during the year.
+
+ System development and maintenance. System development and maintenance
+expenses, which include new product development as well as the maintenance and
+enhancement of existing systems, increased 14 from 1,492,000 in 1996 to
+ 1,696,000 in 1997. In 1996, Peapod began work on Version 5.0 of its end-user
+software, which it expects to release in early 1998. During 1997, the Company
+capitalized 849,000 of these development costs while 148,000 of these
+development costs were capitalized during 1996.
+
+ Depreciation and amortization. Depreciation and amortization increased
+90 from 651,000 in 1996 to 1,234,000 in 1997. This increase is the result of
+equipment added to support new members, new fulfillment centers and new
+employees, and changes in the depreciable lives of certain capital assets
+already in service.
+
+ Other income (expense). Other income (expense) includes interest paid
+on subordinated debentures and capital leases and interest earned on cash
+balances. Interest expense increased from 72,000 in 1996 to 83,000 in 1997.
+Interest income increased from 537,000 in 1996 to 2,053,000 in 1997, resulting
+from the investment of proceeds from the Company's initial public offering in
+June 1997.
+
+1996 Compared to 1995
+
+ Grocery sales, net of returns. Grocery sales, net of returns increased
+73 from 12,731,000 in 1995 to 22,015,000 in 1996. This increase was
+principally due to a 62 increase in the number of orders and a 7 increase in
+the size of the average grocery order. The total number of orders increased from
+124,100 in 1995 to 201,100 in 1996. Total membership at December 31, 1995 and
+1996 was 12,500 and 33,300, respectively. Increases in the Company's membership
+base resulted largely from increased penetration and geographic coverage in
+Chicago and San Francisco/San Jose and the introduction of the Peapod service in
+two new markets, Columbus and Boston.
+
+ Interactive marketing services. Revenues from interactive marketing
+services, which the Company commenced providing in late 1995, increased from
+ 163,000 in 1995 to 1,069,000 in 1996.
+
+ Member and retailer services. Revenues from member and retailer
+services increased 100 from 3,049,000 in 1995 to 6,088,000 in 1996. This
+increase was primarily due to (i) higher grocery volumes and order quantities,
+(ii) higher contractual fees paid by retail partners, including those related to
+the introduction of the Peapod service in Columbus and Boston, and (iii) the
+increasing size of the Company's membership base.
+
+ Groceries sold, net of returns. Groceries sold, net of returns
+increased from 12,731,000 in 1995 to 22,015,000 in 1996, commensurate with the
+increase in grocery sales, net of returns.
+
+ Grocery operations. Grocery operations expenses increased 58 from
+ 5,168,000 in 1995 to 8,141,000 in 1996, largely from the increase in the
+number of orders and the increased number of fulfillment centers.
+
+ At December 31, 1996, Peapod fulfilled member orders from 27
+fulfillment centers compared to 14 such centers at the end of 1995. In 1996, ten
+fulfillment centers were added in two new markets, Columbus and Boston, and
+three additional centers were added in Peapod's existing markets, Chicago and
+San Francisco/San Jose.
+
+ General and administrative. General and administrative expenses
+increased 66 from 1,762,000 in 1995 to 2,920,000 in 1996. This increase
+reflected (i) the hiring of additional administrative personnel to support
+member, fulfillment center and market growth, (ii) the hiring of personnel in
+the fourth quarter of 1996 to oversee product introductions, and (iii) a
+one-time severance charge of 400,000 in the third quarter of 1996.
+
+ Marketing and selling. Marketing and selling expenses increased by 160 
+from 1,533,000 in 1995 to 3,984,000 in 1996. The increase in marketing and
+selling expenses was attributable to (i) broad-based member acquisition
+marketing programs that were initiated in September 1995, (ii) increased
+marketing spending in the third and fourth quarters to support two new market
+openings and expanded geographic coverage in the Chicago and San Francisco/San
+Jose markets, and (iii) increased staff to support the increase in interactive
+marketing services.
+
+ System development and maintenance. System development and maintenance
+expenses increased 55 from 964,000 in 1995 to 1,492,000 in 1996. This
+increase resulted primarily from higher staffing and associated expenses
+required to support the Company's growth. In 1996, Peapod began work on Version
+5.0 of its end-user software. In 1996, the Company capitalized 148,000 of these
+development expenses.
+
+ Depreciation and amortization. Depreciation and amortization increased
+76 from 370,000 in 1995 to 651,000 in 1996. This increase resulted from
+computer and other equipment added to support the Company's growth.
+
+ Other income (expense). Interest expense increased from 68,000 in 1995
+to 72,000 in 1996. This increase in expense was more than offset by an increase
+in interest income resulting from the investment of proceeds from the issuance
+of equity in 1996. Interest income increased from 61,000 in 1995 to 537,000 in
+1996.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+ Cash used in operating activities increased from 4,503,000 in 1996 to
+ 6,277,000 in 1997. The increase in cash used in operating activities was
+primarily attributable to increased net losses and increases in receivables,
+partially offset by increases in accounts payable. As of December 31, 1997, the
+Company had 54,079,000 in cash and cash equivalents, and 8,798,000 in
+short-term investments. In 1997, the Company sold equity which generated
+aggregate net proceeds of 58,846,000, including 58,120,000 of net proceeds
+from the Company's initial public offering of Common Stock in June 1997 (the
+"IPO"). The Company intends to use the net proceeds from the IPO primarily for
+expansion into new geographic markets and further penetration in existing
+markets. The Company uses its working capital to fund ongoing operations,
+marketing programs and geographic expansion and to further develop its products
+and services.
+
+ The Company anticipates that existing cash and short-term investments
+will be sufficient to fund the Company's operations and capital requirements for
+the foreseeable future. However, no assurance can be given that changing
+business circumstances will not require additional capital for reasons that are
+not currently anticipated or that the necessary capital will then be available
+to the Company on favorable terms, or at all.
+
+ The Company believes that inflation has not had a material effect on
+its operations.
+
+YEAR 2000 DISCLOSURE
+
+ The Company has evaluated the impact of the Year 2000 issue on its
+business and does not expect to incur significant costs associated with Year
+2000 compliance or that Year 2000 issues will have a material impact on the
+Company's business, results of operations or financial condition. The Company's
+software systems and applications are currently Year 2000 compliant. Certain
+operating systems of third party vendors on which certain Company software
+resides are not yet Year 2000 compliant. However, these vendors have indicated
+to the Company that Year 2000 compliant upgrades are available and the Company
+intends to install these upgrades by the end of 1998. With respect to its
+grocery retail partners, to the extent that any of the Company's retail
+partners' computer systems are not Year 2000 compliant, the Company will
+establish alternative procedures for obtaining relevant retailer information at
+a minimal cost to the Company.
+
+RECENTLY ISSUED ACCOUNTING STANDARDS
+
+ On October 27, 1997 the American Institute of Certified Public
+Accountants issued Statement of Position ("SOP") No. 97-2, Software Revenue
+Recognition. This SOP provides guidance on applying generally accepted
+accounting principles in recognizing revenue on software transactions. This SOP
+supersedes SOP No. 91-1, Software Revenue Recognition. This SOP is effective for
+transactions entered into in fiscal years beginning after December 15, 1997. The
+Company is currently evaluating the effect of this SOP on its fiscal 1998
+financial statements.
+
+Item 8. Financial Statements and Supplementary Data
+
+ INDEX TO FINANCIAL STATEMENTS
+
+Independent Auditors' Report............................................ 21
+
+Balance Sheets as of December 31, 1996 and 1997......................... 22
+
+Statements of Operations for the years ended December 31, 1995, 1996
+ and 1997.................. 23
+
+Statements of Stockholders' Equity for the years ended December 31, 1995,
+ 1996 and 1997........ 24
+
+Statements of Cash Flows for the years ended December 31, 1995,
+ 1996 and 1997.................. 25
+
+Notes to Financial Statements........................................... 26
+
+INDEPENDENT AUDITORS' REPORT
+
+The Board of Directors and Stockholders of
+Peapod, Inc.:
+
+ We have audited the accompanying balance sheets of Peapod, Inc. as of
+December 31, 1996 and 1997, and the related statements of operations,
+stockholders' equity and cash flows for each of the years in the three-year
+period ended December 31, 1997. These financial statements are the
+responsibility of the Company's management. Our responsibility is to express an
+opinion on these financial statements based on our audits.
+
+ We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+ In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of Peapod, Inc. as of December
+31, 1996 and 1997, and the results of its operations and its cash flows for each
+of the years in the three-year period ended December 31, 1997, in conformity
+with generally accepted accounting principles.
+
+ KPMG Peat Marwick LLP
+
+Chicago, Illinois
+February 4, 1998
+
+PEAPOD, INC.
+
+ BALANCE SHEETS
+
+ December 31, 1996 and 1997
+
+ December 31,
+ ----------------------------------
+ 1996 1997
+ ---------------- -----------------
+ Assets
+ 
+Current assets:
+ Cash and cash equivalents.......................................... 13,038,680 54,079,002
+ Marketable securities.............................................. -- 8,797,507
+ Receivables, net of bad debt allowance of 41,608 and 351,647 as
+ of December 31, 1996 and 1997, respectively...................... 535,091 1,194,830
+ Prepaid expenses................................................... 449,267 444,333
+ Other current assets............................................... 189,402 228,482
+ ---------------- -----------------
+ Total current assets.......................................... 14,212,440 64,744,154
+Property and equipment:
+ Computer equipment and software.................................... 2,492,507 4,498,975
+ Service equipment and other........................................ 764,418 1,053,333
+ ---------------- -----------------
+Property and equipment, at cost......................................... 3,256,925 5,552,308
+ Accumulated depreciation........................................... (1,247,238) (2,301,133)
+ ---------------- -----------------
+Net property and equipment.............................................. 2,009,687 3,251,175
+Capitalized software development costs.................................. 148,454 997,547
+Goodwill, net of accumulated amortization of 134,864 and 173,821
+ as of December 31, 1996 and 1997, respectively....................... 155,830 116,873
+Other assets ........................................................... 1,947 --
+ ---------------- -----------------
+ Total assets.................................................. 16,528,358 69,109,749
+ ================ =================
+ Liabilities and Stockholders' Equity
+Current liabilities:
+ Accounts payable................................................... 3,370,423 7,514,561
+ Accrued compensation............................................... 1,078,705 1,257,998
+ Other accrued liabilities.......................................... 875,396 925,961
+ Current deferred service fees...................................... 1,199,827 1,968,742
+ Current obligations under capital lease............................ 332,490 726,939
+ ---------------- -----------------
+ Total current liabilities..................................... 6,856,841 12,394,201
+Deferred service fees................................................... 929,445 1,212,467
+Obligations under capital lease, less current obligations............... 339,529 700,990
+ ---------------- -----------------
+ Total liabilities............................................. 8,125,815 14,307,658
+Stockholders' equity:
+ Preferred stock, .01 par value, authorized 5,000,000
+ shares, none issued and outstanding............................. -- --
+ Common stock, .01 par value, 50,000,000 shares authorized,
+ 12,526,812 and 16,852,557 shares issued and outstanding at
+ December 31, 1996 and 1997, respectively...................... 125,268 168,526
+ Additional paid-in capital......................................... 8,278,275 63,148,021
+ Accumulated deficit................................................ (1,000) (8,495,456)
+ Treasury stock, 2,000 shares at December 31, 1997.................. -- (19,000)
+ ---------------- -----------------
+ Total stockholders' equity.................................... 8,402,543 54,802,091
+ ================ =================
+ Total liabilities and stockholders' equity.................... 16,528,358 69,109,749
+ ================ =================
+
+See accompanying notes to financial statements.
+
+PEAPOD, INC.
+
+ STATEMENTS OF OPERATIONS
+
+ Years ended December 31, 1995, 1996 and 1997
+
+ Years ended December 31,
+
+ ---------------------------------------------------------------
+ --------------- ---------------- ----------------
+ 1995 1996 1997
+ --------------- ---------------- ----------------
+ 
+Revenues:
+ Grocery sales, net of returns........ 12,730,673 22,015,468 43,487,348
+ Interactive marketing services....... 162,699 1,069,335 2,221,829
+ Member and retailer services......... 3,049,279 6,087,742 13,897,557
+ --------------- ---------------- ----------------
+ Total revenues.................. 15,942,651 29,172,545 59,606,734
+Costs and expenses:
+ Groceries sold, net of returns....... 12,730,673 22,015,468 43,487,348
+ Grocery operations................... 5,167,847 8,141,184 17,496,047
+ General and administrative........... 1,761,590 2,919,876 4,128,529
+ Marketing and selling................ 1,532,983 3,984,166 6,513,703
+ System development and
+ maintenance....................... 964,496 1,492,126 1,696,287
+ Depreciation and amortization........ 369,527 650,954 1,233,768
+ --------------- ---------------- ----------------
+ Total costs and expenses........ 22,527,116 39,203,774 74,555,682
+ --------------- ---------------- ----------------
+Operating loss............................. (6,584,465) (10,031,229) (14,948,948)
+Other income (expense):
+ Interest expense..................... (68,472) (72,388) (83,255)
+ Interest income...................... 61,016 537,110 2,052,578
+ =============== ================ ================
+Net loss.................................. (6,591,921) (9,566,507) (12,979,625)
+ =============== ================ ================
+
+Net loss per share:
+ Basic................................ (0.79) (0.82) (0.87)
+ Diluted.............................. (0.79) (0.82) (0.87)
+
+Shares used to compute net loss per share:
+ Basic................................ 8,357,585 11,664,956 14,915,734
+ Diluted.............................. 8,357,585 11,664,956 14,915,734
+
+See accompanying notes to financial statements.
+
+PEAPOD, INC.
+
+ STATEMENTS OF STOCKHOLDERS' EQUITY
+
+ Years ended December 31, 1995, 1996 and 1997
+
+ Common Stock Treasury Stock
+ ---------------------- -----------------
+ Additional Accumulated
+ Shares Amount Shares Amount Paid-in Deficit Total
+ Capital
+ ------------ -------- ------- -------- ----------- ------------ ------------
+ 
+Balance at January 1, 1995........................ 7,548,302 75,483 -- -- 1,359,766 -- 1,435,249
+
+Issuance of stock, net of offering costs.......... 2,007,722 20,077 -- -- 6,433,964 -- 6,454,041
+Repurchase and cancellation of stock.............. (13,453) (134) -- -- (43,588) -- (43,722)
+Issuance of stock upon exercise of warrants....... 1,250 12 -- -- 2,776 -- 2,788
+Issuance of options for services rendered......... -- -- -- -- 99,658 -- 99,658
+Issuance of stock for services rendered........... 20,550 206 -- -- 56,261 -- 56,467
+Net loss.......................................... -- -- -- -- (6,591,921) -- (6,591,921)
+ ------------ -------- ------- -------- ----------- ------------ ------------
+Balance at December 31, 1995...................... 9,564,371 95,644 -- -- 1,316,916 -- 1,412,560
+Issuance of stock, net of offering costs.......... 2,876,000 28,760 -- -- 16,202,988 -- 16,231,748
+Issuance of stock for services rendered........... 100 1 -- -- 999 -- 1,000
+Issuance of stock for services rendered and at a 86,341 863 -- -- 322,879 -- 323,742
+ discount.......................................
+Net loss.......................................... -- -- -- -- (9,565,507) (1,000) (9,566,507)
+ ------------ -------- ------- -------- ----------- ------------ ------------
+Balance at December 31, 1996...................... 12,526,812 125,268 -- -- 8,278,275 (1,000) 8,402,543
+Issuance of stock prior to May 31, 1997 for
+ services rendered at a discount................ 89,080 891 -- -- 577,377 -- 578,268
+Issuance of stock for services rendered........... 15,000 150 -- -- 104,850 -- 105,000
+Issuance of stock upon exercise of warrants...... 8,125 81 -- -- 18,038 -- 18,119
+Issuance of stock upon exercise of options....... 213,540 2,136 -- -- 574,610 -- 576,746
+Treasury stock.................................... -- -- (2,000) (19,000) -- -- (19,000)
+Initial public offering of stock, net of offering 4,000,000 40,000 -- -- 58,080,040 -- 58,120,040
+ costs............................................
+Net loss - from January 1, 1997 through May 31, 1997 -- -- -- -- (4,485,169) -- (4,485,169)
+Net loss - subsequent to May 31, 1997............... -- -- -- -- -- (8,494,456) (8,494,456)
+ ========== ======== ======= ======== =========== ============ ============
+Balance at December 31, 1997 ....................... 16,852,557 168,526 (2,000) (19,000) 63,148,021 (8,495,456) 54,802,091
+ ========== ======== ======= ======== =========== ============ ============
+
+See accompanying notes to financial statements.
+
+PEAPOD, INC.
+
+ STATEMENTS OF CASH FLOWS
+ Years ended December 31, 1995, 1996 and 1997
+
+Years ended December 31,
+ ------------------------------------------------
+ 1995 1996 1997
+ -------------- ------------- -------------
+ 
+Cash flows from operating activities:
+ Net loss......................................... (6,591,921) (9,566,507) (12,979,625)
+ Adjustments to reconcile net loss to net cash used
+ in operating activities:
+ Depreciation and amortization................ 369,527 650,954 1,233,768
+ Stock and options issued for services rendered 156,125 147,151 533,295
+ Write-off of patent application costs........ 18,653 -- --
+ Loss on disposition of fixed assets.......... 3,084 2,359 204,007
+ Changes in operating assets and liabilities:
+ (Increase) decrease in receivables, net.. (76,444) (349,014) (659,739)
+ (Increase) decrease in prepaid expenses.. (78,045) (309,546) 4,934
+ (Increase) decrease in other current assets (147,316) 54,754 (39,080)
+ Increase (decrease) in accounts payable.. 494,055 1,709,880 4,144,138
+ Increase (decrease) in accrued compensation 184,526 731,556 179,293
+ Increase (decrease) in other accrued 172,059 483,053 50,565
+ liabilities
+ Increase (decrease) in deferred service fees 24,168 1,942,604 1,051,937
+ ----------- ------------- -----------
+ Net cash used in operating activities (5,471,529) (4,502,756) (6,276,507)
+Cash flows from investing activities:
+ Property and equipment purchased................. (629,833) (823,662) (1,515,340)
+ Capitalized software development costs........... -- (148,454) (849,093)
+ Net purchase of short-term investments.......... -- -- (8,797,507)
+ Proceeds from sale of property and equipment..... 700 -- 21,178
+ ----------- ------------- -------------
+ Net cash used in investing activities (629,133) (972,116) (11,140,762)
+Cash flows from financing activities:
+ Proceeds from issuance of stock, net of offering 6,454,041 16,409,339 58,270,013
+ costs
+ Proceeds from issuance of stock upon exercise of 2,788 -- 18,119
+ warrants
+ Proceeds from issuance of stock upon exercise of -- -- 557,746
+ options
+ Repurchase of and cancellation of stock.......... (43,722) -- --
+ Repayment of subordinated debentures............. -- (125,000) --
+ Proceeds from issuance of notes payable.......... 1,025,000 -- --
+ Payments on notes payable........................ (1,025,000) -- --
+ Payments on capital lease obligations............ (100,255) (236,978) (388,287)
+ ----------- ------------- -------------
+ Net cash provided by financing activities 6,312,852 16,047,361 58,457,591
+ ----------- ------------- -------------
+Net increase in cash................................. 212,190 10,572,489 41,040,322
+Cash and cash equivalents at beginning of period..... 2,254,001 2,466,191 13,038,680
+ =========== ============= =============
+Cash and cash equivalents at end of period........... 2,466,191 13,038,680 54,079,002
+ =========== ============= =============
+
+Supplemental disclosure of cash flows
+ information--interest paid 67,506 71,571 67,054
+Supplemental disclosures of noncash investing and
+ financing activity:...............................
+ Equipment on capital leases..................... 314,655 502,172 1,144,197
+ Options exercised by sale of stock to the Company -- -- 19,000
+ =========== ============= ============
+
+ See accompanying notes to financial statements.
+
+PEAPOD, INC.
+
+ NOTES TO FINANCIAL STATEMENTS
+
+(1) Description of the Company and Basis of Presentation
+
+ Peapod, Inc. ("the Company") is a Delaware corporation and was incorporated
+on December 5, 1996, and is the successor to a business originally founded in
+1989 as a Delaware corporation and operated since 1992 through an Illinois
+limited partnership ("Peapod LP").
+
+ In a conversion (the "Conversion") that was effected on May 31, 1997 (i)
+all of the equity interests in Peapod LP were transferred to the Company in
+exchange for 12,656,417 shares of Common Stock, (ii) Peapod LP was dissolved,
+(iii) all of the assets and liabilities of Peapod LP were transferred to the
+Company, and (iv) outstanding options and warrants for equity interests in
+Peapod LP were exchanged for warrants and options for shares of Common Stock.
+The transfer of the assets and liabilities of Peapod LP to the Company have been
+recorded by the Company at the historical carrying values of Peapod LP. The
+financial statements are presented as if the Company were in existence
+throughout all periods. Net losses incurred by Peapod LP through May 31, 1997
+have been reflected in additional paid-in capital since such losses were
+allocated to the partners of Peapod LP (and do not represent a component of the
+Company's accumulated deficit).
+
+ On June 10, 1997, the Company completed its initial public offering and
+issued 4,000,000 shares of common stock, resulting in net proceeds (after
+deducting offering costs) of 58,120,040.
+
+ The Company is an interactive online grocery shopping and delivery service,
+which as of December 31, 1997 operated in the Chicago, Illinois; San
+Francisco/San Jose, California; Columbus, Ohio; Boston, Massachusetts; Atlanta,
+Georgia; and Dallas, Houston and Austin, Texas metropolitan markets.
+
+(2) Summary of Significant Accounting Policies
+
+ Revenue Recognition
+
+ Grocery sales are recognized when the grocery order is delivered to the
+customer. Interactive marketing services are recognized over the life of the
+contract as services are provided. Member and retailer services consist of
+grocery retailer fees and fees from consumers. Grocery retailer fees include
+contractual fees and performance-based fees. Contractual fees are recognized on
+a straight-line basis over the life of the contract and performance-based fees
+are recognized when the performance criteria are met. Fees from consumers are
+recognized as services are provided.
+
+Member Acquisition Costs
+
+ Member acquisition costs are expensed as incurred.
+
+Cash and Cash Equivalents
+
+ Cash and cash equivalents are comprised of highly liquid investments with
+original maturities of less than three months.
+
+PEAPOD, INC.
+
+ NOTES TO FINANCIAL STATEMENTS--(Continued)
+
+ Property and Equipment
+
+ Property and equipment is recorded at cost and depreciated on a
+straight-line basis over the estimated useful lives of the related assets,
+generally three to five years. Leasehold improvements are amortized over the
+shorter of the lease term or the estimated useful lives of the assets.
+
+ Capitalized Software Development Costs
+
+ Software development costs are capitalized in accordance with Statement of
+Financial Accounting Standards ("SFAS") No. 86, which requires capitalization of
+certain costs incurred subsequent to the determination of technological
+feasibility. The Company has determined that technological feasibility occurs in
+its product development cycle when a working model exists. Capitalization ceases
+and product amortization commences upon the general release of the product.
+Amortization is computed on a product-by-product basis, using the lesser of the
+product's estimated useful life or a period based on anticipated revenues. The
+Company capitalized 148,454 and 849,093 in development costs in 1996 and 1997,
+respectively. There was no amortization in 1995, 1996 and 1997.
+
+ Goodwill
+
+ Goodwill is being amortized on a straight-line basis over its estimated
+useful life of eight years.
+
+ Income Taxes
+
+ Effective with the Conversion, the Company accounts for income taxes in
+accordance with SFAS No. 109, Accounting for Income Taxes. Under the asset and
+liability method of SFAS No. 109, deferred tax assets and liabilities are
+recognized for the future tax consequences attributable to the differences
+between the financial statement carrying amounts of existing assets and
+liabilities and their respective tax bases and operating loss and tax credit
+carryforwards. Deferred tax assets and liabilities are measured using enacted
+tax rates expected to apply to taxable income in the years in which those
+temporary differences are expected to be recovered or settled. Under SFAS No.
+109, the effect on deferred tax assets and liabilities of a change in tax rates
+is recognized in income in the period that includes the enactment date.
+
+ Prior to the Conversion, Peapod LP operated in the form of a partnership
+and was not subject to taxation directly as its net losses were allocated to and
+included in the income tax returns of its partners.
+
+ Stock Option Plans
+
+ Prior to January 1, 1996, the Company accounted for its option plans in
+accordance with the provisions of Accounting Principles Board ("APB") Opinion
+No. 25, Accounting for Stock Issued to Employees, and related interpretations.
+As such, compensation expense would be recorded on the date of grant only if the
+fair market value of the underlying stock exceeded the exercise price. On
+January 1, 1996, the Company adopted SFAS No. 123, Accounting for Stock-Based
+Compensation, which permits entities to recognize as expense over the vesting
+period the fair value of all equity-based awards on the date of grant.
+Alternatively, SFAS No. 123 allows entities to continue to apply the provisions
+of APB Opinion No. 25 and provide pro forma disclosures for employee stock
+option grants made in 1995 and future years as if the fair-value based method
+defined in SFAS No. 123 had been applied. The Company has elected to continue to
+apply the provisions of APB Opinion No. 25 and apply the pro forma disclosure
+provisions of SFAS No. 123.
+
+PEAPOD, INC.
+
+ NOTES TO FINANCIAL STATEMENTS--(Continued)
+
+Financial Instruments
+
+ The fair values of the Company's financial instruments do not materially
+vary from the carrying values of such instruments.
+
+ Long-Lived Assets
+
+ Long-lived assets to be held and used are reviewed for impairment whenever
+events or changes in circumstances indicate that the carrying amount be
+evaluated. Impairment is measured by comparing the carrying value to the
+estimated net future cash flows expected to result from the use of the assets
+and their eventual disposition. The Company has determined that as of December
+31, 1997, there has been no impairment in the carrying values of long-lived
+assets.
+
+ Use of Estimates
+
+ Management of the Company has made a number of estimates and assumptions
+relating to the reported amounts of assets and liabilities and the disclosure of
+contingent assets and liabilities at the date of the financial statements and
+the reported amounts of revenues and expenses during the reporting period.
+Actual results could differ from those estimates.
+
+ Reclassifications
+
+ Certain prior year balances have been reclassified to conform with the
+current year presentation.
+
+ Quarterly Results
+
+ The accompanying unaudited quarterly results (see Note 12) reflect all
+adjustments which, in the opinion of management, are necessary for the fair
+presentation of the results of the interim periods presented. All such
+adjustments are of a normal recurring nature.
+
+ Earnings per Share
+
+ The Company applies SFAS No. 128, Earnings Per Share, and Securities and
+Exchange Commission Staff Accounting Bulletin No. 98 ("SAB 98") in computing
+earnings per share. Basic net loss per share is computed using the weighted
+average number of common shares outstanding. Diluted net loss per share is
+computed using the weighted average number of common shares outstanding and
+equivalent shares based on the assumed exercise of stock options and warrants
+(using the treasury stock method). Prior periods' net loss per share has been
+restated to conform to the requirements of SFAS No. 128 and SAB 98.
+
+(3) Reliance on Certain Relationships
+
+ The business of the Company is dependent upon contracts with a grocery
+retailer in each metropolitan market where the Company is doing business. The
+continuation and the favorable renegotiation of each of its existing contracts
+with grocery retailers and the negotiation of acceptable contracts with
+retailers in new markets are material to the Company's operations. A number of
+these agreements are terminable prior to expiration by either party with short
+notice.
+
+PEAPOD, INC.
+
+ NOTES TO FINANCIAL STATEMENTS--(Continued)
+
+ The Company's Chicago market, serviced through an agreement with
+Jewel/Osco, accounted for approximately 66 , 67 , and 44 of the Company's
+revenues for the years ended 1995, 1996 and 1997, respectively.
+
+ The Company entered the Atlanta market in fiscal year 1997 through a
+relationship with Bruno's, Inc. In early 1998, Bruno's Atlanta stores were sold
+and certain operations ceased. As a result, the Company ceased offering its
+services in the Atlanta market and is currently evaluating other opportunities
+with respect to that market.
+
+(4) Marketable Securities
+
+ During 1997, the Company began investing in securities with an initial
+maturity of greater than three months. At December 31, 1997, the Company's
+marketable securities, at cost, consisted of:
+
+ Securities held to maturity:
+ Commercial paper................................ 7,604,135
+
+ Securities available for sale:
+ Commercial paper................................ 786,950
+ Corporate debt securities....................... 406,422
+
+ ==================
+ Total marketable securities.......................... 8,797,507
+ ==================
+
+ All securities mature during 1998. No unrealized holding gain or loss has
+been recorded as of December 31, 1997 as the difference between the cost and
+fair value of the securities is immaterial.
+
+ The fair value of marketable securities is based on the quoted market price
+of each individual security on December 31, 1997.
+
+(5) Commitments and Contingencies
+
+ Capital Leases
+
+ Peapod, Inc. has capitalized certain computer equipment and furniture
+acquired through capital leases. The future minimum lease payments as of
+December 31, 1997 are as follows:
+
+ 1998 ...................................... 851,433
+ 1999....................................... 541,316
+ 2000....................................... 198,346
+ 2001....................................... 20,946
+ ---------------
+ 1,612,041
+ Less amount representing interest.......... 184,112
+ ---------------
+ 1,427,929
+ Less current obligations................... 726,939
+ ===============
+ 700,990
+ ===============
+
+PEAPOD, INC.
+
+ NOTES TO FINANCIAL STATEMENTS--(Continued)
+
+ Costs and related accumulated amortization for equipment under capital
+leases totaled 999,065 and 298,424, respectively, as of December 31, 1996; and
+ 2,143,262 and 839,935, respectively, as of December 31, 1997. Amortization
+expense totaled 94,217, 184,490 and 541,511 for the years ended December 31,
+1995, 1996 and 1997, respectively.
+
+ Operating Leases
+
+ The Company leases its office facilities under non-cancelable operating
+leases. Rent expense on operating leases totaled 155,730, 237,797 and 461,799
+for the years ended December 31, 1995, 1996 and 1997, respectively. Total future
+minimum lease payments under operating leases as of December 31, 1997 are as
+follows:
+
+1998............................ 703,073
+
+ 1999............................ 751,111
+
+ 2000............................ 706,339
+
+ 2001............................ 691,632
+
+ 2002 and beyond................. 2,182,862
+ ====================
+ 5,035,017
+
+ ====================
+
+ The Company maintains an unsecured letter of credit in support of the
+minimum future lease payments under a lease for office space amounting to
+ 1,350,000 as of December 31, 1997, declining annually during the lease term.
+The letter of credit expires on November 21, 1998; however, it is expected to be
+renewed annually over the life of the lease.
+
+ Contingencies
+
+ The Company is involved in lawsuits and claims which arise in the ordinary
+course of business. There are no such matters pending that the Company believes
+to be material in relation to its business, financial condition, or results of
+operations.
+
+(6) Partnership Agreement
+
+ Peapod LP, in accordance with the partnership agreement, was required to
+pay a management fee to the general partner. For the years ended December 31,
+1995, 1996 and 1997, the amount charged to general and administrative expenses
+totaled 150,000, 175,000 and 72,917 respectively. The partnership agreement
+was terminated upon the Conversion.
+
+(7) Peapod LP Equity Programs
+
+ The Company had a program where certain executives and advisors were able
+to receive stock in lieu of compensation. The program allowed these executives
+and advisors to receive stock at 85 of the estimated fair market value. Expense
+was recognized based on the estimated fair market value of the stock at the date
+of issuance. This program was terminated in 1997 prior to the Conversion.
+
+PEAPOD, INC.
+
+ NOTES TO FINANCIAL STATEMENTS--(Continued)
+
+The Company also had a director purchase plan whereby each director of the
+Company was eligible to purchase stock at 85 of the estimated fair market
+value, up to 50,000 annually. Expense was recognized based on the discount from
+estimated fair market value of the stock at the date of issuance. This program
+was terminated in 1997 prior to the Conversion.
+
+ During the year ended December 31, 1995, 20,550 shares were issued and
+ 38,538 of expense was reflected in the financial statements. In addition,
+70,656 shares were issued on January 1, 1996 for compensation of 1995 services
+and under the director purchase plan. Expense of 102,038 was reflected in the
+financial statements for the year ended December 31, 1995.
+
+ During the year ended December 31, 1996, 86,341 shares were issued and
+ 44,115 of expense was reflected in the financial statements. In addition,
+45,292 shares were issued on January 1, 1997 for compensation of 1996 services
+and under the director purchase plan. Expense of 221,757 was reflected in the
+financial statements for the year ended December 31, 1996.
+
+ During the first quarter of 1997, and prior to the Conversion, 89,080
+shares were issued and 428,295 of expense was reflected in the financial
+statements.
+
+(8) Options for Stock
+
+ Peapod, Inc. has an option plan providing for the issuance of options to
+eligible employees, directors, advisors and consultants. This plan permits the
+Company to issue options on terms that the Company determines appropriate,
+subject to a maximum term of 10 years. Such terms include exercise price, number
+of shares, vesting dates and other terms. Peapod LP had two option plans which
+were terminated upon the Conversion. All outstanding options issued by Peapod LP
+were exchanged for options for stock of the Company on terms substantially the
+same as in the original option grants.
+
+ The Company applies APB Opinion No. 25 and related interpretations in
+accounting for its plans. Had compensation cost for the Company's option plans
+been determined consistent with SFAS No. 123, the net loss would have been
+increased to the pro forma amounts indicated below:
+
+ 1995 1996 1997
+
+ Net loss
+ As reported............... (6,591,921) (9,566,507) (12,979,625)
+ Pro forma................. (6,750,362) (9,828,192) (15,836,804)
+ Net loss per share
+ As reported--basic and diluted. (0.79) (0.82) (0.87)
+
+ Pro forma--basic and diluted... (0.81) (0.84) (1.06)
+
+ Under the option plans, the exercise price of each option equals the
+estimated fair market value of the stock on the date of grant. For purposes of
+calculating the compensation costs consistent with SFAS No. 123, the fair value
+of each grant is estimated on the date of grant using the Black-Scholes
+option-pricing model with the following weighted-average assumptions used for
+grants in fiscal 1995, 1996 and 1997, respectively: no expected dividend yield;
+expected volatility of 20, 20 and 50 percent; risk free interest rates of 6.4 ,
+6.5 and 6.5 , and expected lives of seven years.
+
+ PEAPOD, INC.
+
+ NOTES TO FINANCIAL STATEMENTS--(Continued)
+
+Another plan provided for the issuance of options to eligible employees,
+advisors and consultants in lieu of compensation. This plan was terminated
+effective December 31, 1995. During the year ended December 31, 1995, expense
+was recorded of 99,658.
+
+ Additional information on stock options is as follows:
+
+1995 1996 1997
+ -------------------- -------------------- --------------------
+
+ Weighted Weighted Weighted
+ average average average
+ exercise exercise exercise
+ price Options price Options price
+ Options
+ 
+ Outstanding at beginning of year...... 861,849 1.63 1,448,446 2.20 1,630,946 2.77
+ Granted............................... 590,097 3.03 285,000 6.00 1,179,200 13.70
+ Forfeited............................. (3,500) 2.36 (102,500) 3.78 (46,650) 12.65
+ Exercised............................. -- -- (213,540) 2.70
+ Outstanding at end of year............ 1,448,446 2.20 1,630,946 2.77 2,549,956 7.65
+ Options exercisable at year end....... 858,336 1.79 1,116,172 2.11 1,126,138 2.45
+
+The following table summarizes information about stock options outstanding
+at December 31, 1997:
+
+Weighted
+ average Weighted Weighted
+ remaining average average
+ Range of Options contractual exercise Options exercise
+ exercise outstanding life price exercisable price
+ prices
+- -------------- ----------- ------------ ---------- ----------- ----------
+
+1.33-- 2.00 762,344 5.20 years 1.61 751,677 1.60
+ 2.23-- 3.25 390,662 6.43 2.87 228,538 2.77
+ 6.00-- 9.50 552,000 7.02 6.85 145,923 6.35
+ 11.38--17.60 844,950 7.12 15.82 -- --
+ ----------- -----------
+ 2,549,956 6.42 years 7.65 1,126,138 2.45
+ =========== ============= ========== ============ ===========
+
+(9) Warrants
+
+ Contractually, all warrants issued by Peapod LP were converted into
+warrants for shares of the Company on a one for one basis. Company stock warrant
+activity for the years ended December 31, 1995, 1996 and 1997 is summarized
+below:
+
+PEAPOD, INC.
+
+ NOTES TO FINANCIAL STATEMENTS--(Continued)
+
+Weighted
+ average
+ exercise Exercise
+ Warrants price price
+ ------------ --------- -------------
+
+Outstanding on January 1, 1995........... 54,376 1.92 1.33--2.25
+ Granted 11,500 3.25 3.25
+ Exercised................................ (1,250) 2.23 2.23
+ ------------
+ Outstanding on December 31, 1995......... 64,626 2.15 1.33--3.25
+ Granted 3,215 7.00 7.00
+ ------------
+ Outstanding on December 31, 1996......... 67,841 2.38 1.33--7.00
+ Exercised................................ (8,125) 2.23 2.23
+ ============
+ Outstanding and exercisable on
+ December 31, 1997....................... 59,716 2.40 1.33--7.00
+ ============ =========
+
+(10) Income Taxes
+
+ No provision for income taxes was recorded prior to the Conversion, as such
+liability was the responsibility of the partners of Peapod LP, rather than of
+the Company. Upon the Conversion of Peapod LP into Peapod, Inc., the Company
+recorded an initial net deferred tax asset of 838,898 which was offset in its
+entirety by a valuation allowance. The remaining change in deferred income taxes
+for the year ended December 31, 1997 relates to the period subsequent to the
+Conversion.
+
+ There is no provision for income taxes for the year ended December 31, 1997
+due to the Company's loss before income taxes.
+
+ Deferred tax assets:
+ Bad debts................................ 140,659
+ Compensation accruals.................... 229,021
+ Deferred revenues........................ 786,541
+ Other accrued liabilities................ 134,837
+ Net operating loss....................... 3,397,526
+ ---------------
+ Gross deferred tax assets........... 4,688,584
+ Less valuation allowance............ (4,211,531)
+ ---------------
+ Net deferred tax assets....... 477,053
+ ---------------
+ Deferred tax liabilities:
+ Fixed assets............................. (78,034)
+ Capitalized software..................... (399,019)
+ ---------------
+ Gross deferred tax liabilities (477,053)
+ ===============
+ Deferred income taxes......................... --
+ ===============
+
+ The provision for income taxes for the year ended December 31, 1997 is
+based on the loss before income taxes for the period subsequent to the
+Conversion of 8,494,456. The effective tax rate on this loss differs from the
+U.S. statutory rate. The following table reconciles the provision for income
+taxes using the U.S. statutory rate with the provision at the effective rate:
+
+PEAPOD, INC.
+
+ NOTES TO FINANCIAL STATEMENTS--(Continued)
+
+Tax benefit at U.S. Federal income tax rate of 34 ... (2,888,115)
+ Increase (reduction) in taxes resulting from:
+ State income tax benefit, net of Federal effect. (505,895)
+ Tax effect of non-deductible expenses........... 21,377
+ Increase in valuation allowance................. 3,372,633
+ ----------------
+ ================
+ Income tax provision................................. --
+ ================
+
+(11) Employee Benefit Plans
+
+ Effective September 1, 1995, the Company implemented a 401(k) savings plan
+("Savings Plan"). Qualified employees may participate in the Savings Plan by
+contributing up to 15 of their gross wages. The Company may elect to make
+matching contributions at the discretion of the Board of Directors of the
+Company. The Company has made no contributions through December 31, 1997.
+
+ In 1997, the Company implemented an employee stock purchase plan ("Purchase
+Plan"). The Company's Purchase Plan provides that eligible employees may
+contribute up to 6,250 of their base earnings per quarter towards the quarterly
+purchase of the Company's Common Stock. The employee's purchase price is 85 of
+the lesser of the fair market value of the stock on the first business day or
+the last business day of the quarterly offering period. During 1997, no
+compensation expense was recorded in connection with the Purchase Plan. The
+total number of shares issuable under the Purchase Plan is 150,000. In January
+1998, 4,246 shares were issued related to 1997 purchases at a price per share to
+the employee of 5.525.
+
+PEAPOD, INC.
+
+ NOTES TO FINANCIAL STATEMENTS--(Continued)
+
+(12) Quarterly Results (Unaudited)
+
+1997
+ (in thousands, except share and per share data)
+ ----------------------------------------------------------------
+ 1st Quarter 2nd Quarter 3rd Quarter 4th Quarter
+ -------------- -------------- -------------- --------------
+ 
+Revenues:
+ Grocery sales, net of returns......... 9,216 10,177 10,208 13,886
+ Interactive marketing services........ 425 565 614 618
+ Member and retailer services.......... 3,063 3,909 3,393 3,533
+ -------------- -------------- -------------- --------------
+ Total revenues................... 12,704 14,651 14,215 18,037
+Costs and expenses:
+ Groceries sold, net of returns........ 9,216 10,177 10,208 13,886
+ Grocery operations.................... 3,903 4,324 4,105 5,164
+ General and administrative............ 827 1,663 1,154 485
+ Marketing and selling................. 1,237 1,008 1,679 2,590
+ System development and maintenance.... 376 303 378 639
+ Depreciation and amortization......... 212 378 366 278
+ -------------- -------------- -------------- --------------
+ Total costs and expenses......... 15,771 17,853 17,890 23,042
+ -------------- -------------- -------------- --------------
+Operating loss............................. (3,067) (3,202) (3,675) (5,005)
+Other income (expense):
+ Interest expense...................... (15) (30) (13) (25)
+ Interest income....................... 135 201 874 842
+ -------------- -------------- -------------- --------------
+Net loss................................... (2,947) (3,031) (2,814) (4,188)
+ -------------- -------------- -------------- --------------
+
+Basic and diluted net loss per share....... (0.23) (0.22) (0.17) (0.25)
+ ============== ============== ============== ==============
+
+Shares used to compute basic and diluted
+net loss per share......................... 12,599,133 13,522,753 16,672,852 16,802,695
+ ============== ============== ============== ==============
+
+PEAPOD, INC.
+
+ NOTES TO FINANCIAL STATEMENTS--(Continued)
+
+1996
+ (in thousands, except share and per share data)
+ ----------------------------------------------------------------
+ 1st Quarter 2nd Quarter 3rd Quarter 4th Quarter
+ -------------- -------------- -------------- --------------
+ 
+Revenues:
+ Grocery sales, net of returns......... 4,984 5,025 4,818 7,188
+ Interactive marketing services........ 194 207 284 384
+ Member and retailer services.......... 1,156 1,190 1,803 1,939
+ -------------- -------------- -------------- --------------
+ Total revenues................... 6,334 6,422 6,905 9,511
+Costs and expenses:
+ Groceries sold, net of returns........ 4,984 5,025 4,818 7,188
+ Grocery operations.................... 1,554 1,660 2,038 2,889
+ General and administrative............ 488 574 1,071 787
+ Marketing and selling................. 611 923 809 1,641
+ System development and
+ maintenance........................ 355 334 455 348
+ Depreciation and amortization......... 118 150 174 209
+ -------------- -------------- -------------- --------------
+ Total costs and expenses......... 8,110 8,666 9,365 13,062
+ -------------- -------------- -------------- --------------
+Operating loss............................. (1,776) (2,244) (2,460) (3,551)
+Other income (expense):
+ Interest expense...................... (19) (16) (19) (18)
+ Interest income....................... 18 149 195 175
+ ============== ============== =============----==============
+Net loss................................... (1,777) (2,111) (2,284) (3,394)
+ ============== ============== ============== ==============
+
+Basic and diluted net loss per share....... (0.18) (0.18) (0.18) (0.27)
+ ============== ============== ============== ==============
+
+Shares used to compute basic and diluted
+net loss per share......................... 9,645,170 11,952,148 12,520,830 12,522,841
+ ============== ============== ============== ==============
+
+Item 9. Changes in and Disagreements with Accountants on Accounting
+ and Financial Disclosure
+
+ None.
+
+PART III
+
+Item 10. Directors and Executive Officers of the Registrant
+
+ This information contained under the headings "Election of Directors"
+and "Executive Officers" in the Proxy Statement (which Proxy Statement will be
+filed with the Securities and Exchange Commission on or before April 30, 1998)
+is incorporated herein by reference.
+
+(a) Information about directors and nominees required by this item is
+ incorporated by reference to the information under the caption "Election of
+ Directors" in the Registrant's definitive proxy statement to be filed on or
+ before April 30, 1998 in connection with its 1998 Annual Meeting of
+ Stockholders.
+
+(b) Information regarding compliance with Section 16(a) reporting requirements,
+ to the extent required to be disclosed, is incorporated by reference to the
+ information under the caption "Section 16(a) Beneficial Ownership Reporting
+ Compliance" in the Registrant's definitive proxy statement to be filed on
+ or before April 30, 1998 in connection with its 1998 Annual Meeting of
+ Stockholders.
+
+(c) The following table sets forth certain information concerning each of the
+ Company's executive officers.
+
+ Mr. Andrew B. Parkinson has been the Company's President and Chief
+Executive Officer and a director since its founding in 1989. Prior to the
+founding of the Company, Mr. Parkinson held various brand and product management
+positions with Kraft Foods, Inc. and Procter & Gamble Co. Mr. Parkinson holds a
+BA in Economics from Wesleyan University.
+
+ Mr. John C. Walden has served as the Company's Chief Operating Officer
+since 1997. He is responsible for the general development and execution of the
+Company's operating strategies and plans. He joined the Company in 1996 as
+Executive Vice President-Finance and Business Development. Prior to joining
+Peapod, Mr. Walden was Director, Media Ventures for Ameritech Corporation where
+he effected and managed investments in interactive media companies. Mr. Walden
+served as a director of Peapod in 1995 as Ameritech Corporation's designee. From
+1990 to 1994, he held a variety of executive management positions with Storage
+Technology Corporation, a computer storage system manufacturer, and a
+predecessor, XL/Datacomp, Inc., a computer distribution company, including Vice
+President and General Manager, Vice President-Corporate Development and
+Strategy, and General Counsel. Mr. Walden holds a Masters in Management from
+Kellogg Graduate School of Management, Northwestern University; a JD from
+Illinois Institute of Technology, Chicago-Kent College of Law; and a BS in
+Finance from the University of Illinois.
+
+ Mr. Thomas L. Parkinson has been the Company's Executive Vice President-
+Chief Technology Officer and a director since its founding in 1989. He has had
+primary responsibility for directing consumer product development and technology
+research and development since the Company's founding and he is the principal
+architect of Peapod's software. Prior to founding the Company in 1989, Mr.
+Parkinson held various field sales and sales management positions with Procter &
+Gamble Co. Mr. Parkinson holds a Masters in Industrial Design from Pratt
+Institute and a BA in Design from Wesleyan University.
+
+ Mr. Timothy M. Dorgan joined the Company in 1994 in his current role. As
+Executive Vice President-Interactive Marketing Services, Mr. Dorgan is
+responsible for the overall development and management of the Company's
+interactive marketing and research services. Prior to joining Peapod, from 1992
+to 1994, Mr. Dorgan served as President of Ketchum Advertising-Chicago, a
+multi-national advertising agency. From 1987 to 1992, Mr. Dorgan was President
+and Chief Operating Officer of Noble & Associates, an advertising and marketing
+services firm specializing in food products. Mr. Dorgan holds a BS in
+Communications from the University of Illinois.
+
+ Mr. John P. Miller joined the Company in 1997 in his current role. As
+Senior Vice President-Chief Financial and Administrative Officer, Mr. Miller is
+responsible for the Company's accounting, finance and human resource functions.
+Prior to joining Peapod, from 1993 to 1997 he served as Controller for The
+Interlake Corporation and from 1989 to 1993 he served as Vice President-Finance
+of the Material Handling Division of the Interlake Corporation. Mr. Miller holds
+an MBA from the University of Michigan, a BA in Economics from DePauw
+University, and is a Certified Public Accountant.
+
+ Mr. John A. Furton joined the Company in 1990. Since 1996, he has served in
+the role of Senior Vice President-Field Support and Retailer Services in which
+he has responsibility for retailer sales and client services and centralized
+customer support. Prior to his current position, Mr. Furton was responsible for
+the Company's fulfillment services as Vice President of Operations. Prior to
+joining Peapod, from 1986 to 1990, Mr. Furton held various positions in
+information systems consulting with Kraft Foods, Inc. and Michigan Bell
+Telephone Company. Mr. Furton holds a BS in Computer Science and Software
+Engineering from Michigan Technological University.
+
+ Mr. Carl E. Alguire currently serves as Senior Vice President-Fulfillment
+Operations. He joined the Company in 1994 as Regional Vice President and served
+in that capacity until 1997. Prior to joining Peapod, Mr. Alguire was Vice
+President of Expressline/Quicksilver, Inc. where he was responsible for all
+daily operations of Cleveland's largest rush delivery company. He also founded
+and ran a 3.5 million general and grocery delivery business, and held the
+position of grocery store manager for Fisher Foods, Inc. He holds an AS from
+Ohio State University.
+
+Item 11. Executive Compensation
+
+ Except for information referred to in Item 402(a)(8) of Regulation S-K, the
+information contained under the headings "Election of Directors" and "Executive
+Compensation and Other Information" in the Proxy Statement (which Proxy
+Statement will be filed with the Securities and Exchange Commission on or before
+April 30, 1998) is incorporated herein by reference.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+
+ The information contained under the heading "Security Ownership of Certain
+Beneficial Owners and Management" in the Proxy Statement (which Proxy Statement
+will be filed with the Securities and Exchange Commission on or before April 30,
+1998) is incorporated herein by reference.
+
+Item 13. Certain Relationships and Related Transactions
+
+ The information contained under the heading "Certain Relationships and
+Related Transactions" in the Proxy Statement (which Proxy Statement will be
+filed with the Securities and Exchange Commission on or before April 30, 1998)
+is incorporated herein by reference.
+
+PART IV
+
+Item 14. Exhibits, Financial Statement Schedules, and Reports on Form 8-K
+
+(a)(1) Financial Statements
+
+ The following financial statements are filed as part of this report:
+
+ Report of Independent Public Accountants.
+
+ Balance Sheets of the Company as of December 31, 1996 and 1997.
+
+ Statements of Operations of the Company for the years ended December
+ 31, 1995, 1996 and 1997.
+
+ Statements of Stockholders' Equity of the Company for the years ended
+ December 31, 1995, 1996 and 1997.
+
+ Statements of Cash Flows of the Company for the years ended December
+ 31, 1995, 1996 and 1997.
+
+ Notes to Financial Statements.
+
+(a)(2) Financial Statement Schedule
+
+ Report of Independent Public Accountants on Financial Statement
+ Schedule. Page 43
+
+ Schedule II -- Valuation and Qualifying Accounts. Page 44
+
+ All other schedules are omitted because of the absence of conditions
+ under which they would have been required or because the required
+ information is disclosed in the financial statements or notes thereto.
+
+(a)(3) Exhibits
+
+ The following exhibits are filed herewith or are incorporated herein:
+
+ Exhibit
+ No. Description
+
+ 2-- Conversion Agreement and Plan of
+ Reorganization (incorporated by reference to
+ Exhibit 10.1 to the Registrant's Registration
+ Statement on Form S-1, as amended (Registration
+ No. 333-24341) (the "Registration Statement"))
+
+ 3.1-- Restated Certificate of Incorporation of the
+ Company (incorporated by reference to Exhibit 3.1
+ of the Registration Statement)
+
+ 3.2-- Restated By-Laws of the Company (incorporated by
+ reference to Exhibit 3.2 of the Registration
+ Statement)
+
+ 4.1-- Stockholders Rights Plan (incorporated by
+ reference to Exhibit 4.1 of the Registration
+ Statement)
+
+ 4.2-- Certificate of Designation of Series A Junior
+ Participating Preferred Stock (incorporated by
+ reference to Exhibit 4.2 of the
+ Registration Statement)
+
+ 10.1-- Lease of the Company's principal offices located
+ in Skokie, Illinois (incorporated by reference
+ to Exhibit 10.1 of the Registration Statement)
+
+ 10.2-- Employment Agreement between the Company and
+ Andrew B. Parkinson, dated June 9, 1997
+ (incorporated by reference to Exhibit
+ 10.4 of the Registration Statement)
+
+ 10.3-- Employment Agreement between the Company and
+ Thomas L. Parkinson, dated June 9, 1997
+ (incorporated by reference to Exhibit
+ 10.5 of the Registration Statement)
+
+ 10.4-- Employment Agreement between the Company and
+ John C. Walden, dated June 9, 1997 (incorporated
+ by reference to Exhibit 10.6 of
+ the Registration Statement)
+
+ 10.5-- Employment Agreement between the Company and
+ Timothy M. Dorgan, dated June 9, 1997
+ (incorporated by reference to Exhibit 10.7
+ of the Registration Statement)
+
+ 10.6-- Employment Agreement between the Company and
+ John A. Furton, dated June 9, 1997 (incorporated
+ by reference to Exhibit 10.8 of
+ the Registration Statement)
+
+ ^10.7-- Employment Agreement between the Company and
+ John P. Miller
+
+ 10.8-- Form of Severance Agreement between the Company
+ and each of Andrew B. Parkinson, Thomas L.
+ Parkinson, John C. Walden, Timothy M. Dorgan
+ and John A. Furton, dated June 9, 1997
+ (incorporated by reference to Exhibit 10.9 of the
+ Registration Statement)
+
+ 10.9-- Amended and Restated Investors Agreement, dated
+ April 1, 1997, among the Company and certain
+ investors (incorporated by reference to Exhibit
+ 10.10 of the Registration Statement)
+
+ 10.10-- Unitholders Agreement among Peapod LP, the
+ General Partners and certain investors, as
+ amended (incorporated by reference to Exhibit
+ 10.11 of the Registration Statement)
+
+ 10.11-- Parkinson Registration Rights Agreement among
+ the Company, Andrew B. Parkinson and Thomas L.
+ Parkinson, dated May 30, 1997 (incorporated by
+ reference to Exhibit 10.12 of the Registration
+ Statement)
+
+10.12-- Tasso H. Coin Registration Rights Agreement
+ between the Company and Tasso H. Coin, dated May
+ 31, 1997 (incorporated by reference to Exhibit
+ 10.13 of the Registration Statement)
+
+ 10.13-- 1997 Long-Term Incentive Plan (incorporated by
+ reference to Exhibit 10 of the Registration
+ Statement on Form S-8 dated September 11, 1997)
+
+ 10.14-- Employee Stock Purchase Plan (incorporated by
+ reference to Exhibit 10 of the Registration
+ Statement on Form S-8 dated September 11, 1997)
+
+ 10.15-- Form of Indemnification Agreement between the
+ Company and each of its directors and executive
+ officers, dated June 9, 1997 (incorporated by
+ reference to Exhibit 10.16 of the Registration
+ Statement)
+
+ ^23-- Independent Auditors' Consent
+
+ ^24-- Powers of Attorney (included on signature page)
+
+ ^27-- Financial Data Schedule
+
+ ^ Filed herewith
+ Represents management contract or compensatory plan
+
+(b) Reports on Form 8-K
+
+ The Registrant did not file any Current Reports on Form 8-K during the
+year ended December 31, 1997.
+
+INDEPENDENT AUDITORS' REPORT
+
+The Board of Directors and Stockholders of
+Peapod, Inc.:
+
+ We have audited the accompanying balance sheets of Peapod, Inc. as of
+December 31, 1996 and 1997, and the related statements of operations,
+stockholders' equity and cash flows for each of the years in the three-year
+period ended December 31, 1997. In connection with our audits of the
+aforementioned financial statements, we have also audited the related financial
+statement schedule. This financial statement schedule is the responsibility of
+the Company's management. Our responsibility is to express an opinion on the
+financial statement schedule based on our audits.
+
+ In our opinion, such financial statement schedule, when considered in
+relation to the basic financial statements taken as a whole, presents fairly in
+all material respects, the information set forth therein.
+
+ KPMG Peat Marwick LLP
+
+Chicago, Illinois
+February 4, 1998
+
+PEAPOD, INC.
+
+ SCHEDULE II -- VALUATION AND QUALIFYING ACCOUNTS
+
+Represents bad debt allowance and the related bad debt expense.
+
+Column A Column B Column C Column D Column E
+ ------------------------------------- -------------- --------------- -------------- ---------------
+ Balance at Charged to
+ beginning of costs and Balance at
+ Description Year expenses Deductions end of year
+ ------------------------------------- -------------- --------------- -------------- ---------------
+ 
+ Year ended December 31, 1995 35,200 28,088 (36,023) 27,265
+
+ Year ended December 31, 1996 27,265 23,626 (9,283) 41,608
+
+ Year ended December 31, 1997 41,608 481,342 (171,303) 351,647
+
+SIGNATURES
+
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned thereunto duly authorized.
+
+PEAPOD, INC.
+
+March 10, 1998
+ Andrew B. Parkinson
+ Chairman, President and Chief
+ Executive Officer
+
+ We the undersigned officers and directors of Peapod, Inc., hereby
+severally constitute and appoint Andrew B. Parkinson and John C. Walden, and
+each of them singly, our true and lawful attorneys, with full power to them and
+each of them singly, to sign for us in our names in the capacities indicated
+below, all amendments to this Annual Report on Form 10-K, and generally to do
+all things in our names and on our behalf in such capacities to enable Peapod,
+Inc. to comply with the provisions of the Securities Act of 1934, as amended,
+and all requirements of the Securities and Exchange Commission. Pursuant to the
+requirements of the Securities Exchange Act of 1934, the Registrant has duly
+caused this report to be signed on its behalf by the undersigned thereunto duly
+authorized.
+
+ Signature Title
+- ---------------------------------- ----------------------------
+
+ |
+ Chairman, President, Chief |
+/s/ Andrew B. Parkinson Executive Officer and |
+- ---------------------------------- Director |
+Andrew B. Parkinson |
+ |
+ |
+ Executive Vice President -- |
+/s/ Thomas L. Parkinson Chief Technology Officer, |
+- ---------------------------------- and Director |
+Thomas L. Parkinson |
+ |
+ |
+ Senior Vice President, Chief |
+/s/ John P. Miller Financial and Administrative |
+- ---------------------------------- Officer |
+John P. Miller |} March 10, 1998
+ |
+ |
+/s/ Earl W. Rachowicz Vice President and Controller|
+- ---------------------------------(principal accounting officer)|
+Earl W. Rachowicz |
+ |
+ |
+/s/ Tasso H. Coin |
+- ---------------------------------- Director |
+Tasso H. Coin |
+ |
+ |
+/s/ Trygve E. Myhren |
+- ---------------------------------- Director |
+Trygve E. Myhren |
+ |
+/s/ Seth L. Pierrepont |
+- ---------------------------------- Director |
+Seth L. Pierrepont |
+
+<EX-10.7>
+ 2
+ EMPLOYEMENT AGREEMENT
+
+THIS EMPLOYMENT AGREEMENT ("Agreement"), is entered into and
+effective as of November 1, 1997, by and between Peapod, Inc., a Delaware
+corporation (the "Company"), and John P. Miller ("Employee").
+
+ WHEREAS, effective as of the date hereof, the Company wishes
+to employ Employee and Employee wishes to accept employment with the Company.
+
+ NOW, THEREFORE, for and in consideration of the promises and
+the mutual covenants and agreements herein contained, the Company and the
+Employee hereby agree as follows:
+
+ 1. Employment-At-Will Employee and the Company acknowledge and
+agree that Employee is an "employee-at-will" and that Employee and the Company
+each shall have the right to terminate Employee's employment with the Company at
+any time and for any reason, subject to Section 3 herein.
+
+ 2. Confidentiality, Nonsolicitation and Noncompete Agreement.
+As a condition to Employee's employment by the Company, Employee agrees to enter
+into, effective as of the effective date of this Agreement, an "Employee
+Nonsolicitation and Noncompete Agreement" (hereinafter "Employee Confidentiality
+Agreement") in substantially the form attached hereto as Exhibit A, as it may be
+modified from time to time, and Employee agrees to comply fully with all of the
+terms and provisions of such Employee Confidentiality Agreement as if such terms
+and provisions were fully set forth in this Agreement. The covenants contained
+in the Employee Confidentiality Agreement and its subsequent modifications shall
+survive the expiration of this Agreement and the termination of Employee's
+employment with the Company, regardless of when or the reason for such
+termination, as set forth therein.
+
+3. Severance Benefits. (a) If Employee is terminated by the Company for "Cause"
+(as hereinafter defined), Employee shall receive Employee's then current annual
+base salary through the date of termination (subject to any applicable payroll
+or other taxes required to be withheld). Employee shall not be eligible to
+receive any additional benefits or payments, pro rata or otherwise, under any
+other Company compensation plans, including bonus, commission, or stock
+compensation. "Cause" as used herein shall mean: if, in the Company's reasonable
+determination: Employee "grossly neglects" (as hereinafter defined) his or her
+duties; Employee engages in "misconduct" (as hereinafter defined); or Employee
+refuses to sign or violates any confidentiality, non-competition,
+non-solicitation, or intellectual property agreement. "Gross neglect" means the
+failure in any material respect to perform the essential functions of Employee's
+job or the failure to carry out the Company's reasonable directions with respect
+to material duties. "Misconduct" means: embezzlement or misappropriation of
+corporate or other funds, theft from any grocer or other supplier or vendor of
+the Company, or other acts of fraud, dishonesty, theft, or self-dealing, whether
+directed at the Company or otherwise; willful refusal to perform assigned
+duties; material violation of significant Company policy(ies) or practice(s);
+significant violation of any statutory, regulatory, or common law duty of
+loyalty to the Company; drug usage (not administered under and in accordance
+with medical supervision) or habitual intoxication; or indictment for a felony.
+
+ (b) If Employee terminates Employee's employment with the
+Company for any reason, Employee shall provide the Company with 2 weeks (14
+calendar days) written notice thereof ("Notice Period"). Upon receipt of such
+written notice, the Company may accelerate the date of Employee's termination.
+In the event that the Company accelerates Employee's date of termination,
+Employee shall receive his or her then current annual base salary payments for
+the balance of the two-week Notice Period (subject to any applicable payroll or
+other taxes required to be withheld). Employee shall not be eligible to receive
+any additional payments or benefits, pro rata or otherwise, under any other
+Company compensation plans, including bonus, commission, or stock compensation.
+
+ (c) If Employee is terminated by the Company for any reason
+other than for "Cause" (as defined above), Employee shall be entitled to (i)
+payments equivalent to 12 months of his or her then current annual base salary
+(subject to any applicable payroll or other taxes required to be withheld) and
+(ii) pro rata participation (as defined below) in the Company's bonus
+compensation plans for which Employee was eligible immediately prior to such
+termination. Such amount(s) shall be paid at such interval(s) as they would
+otherwise be paid. Any requirement of the Company that the Employee be based
+anywhere other than Evanston, Illinois, Skokie, Illinois, or outside a 30-mile
+radius of such locations, without "Cause" existing at such time, shall be deemed
+a termination of Employee other than for "Cause."
+
+ (d) Employee's employment shall terminate automatically upon
+Employee's death. Employee or his or her estate shall receive Employee's then
+current base salary payments through the date of termination and pro rata
+participation in the Company's bonus compensation plans for which Employee was
+eligible immediately prior to such termination. Such amount(s) shall be paid at
+such interval(s) as they would otherwise be paid.
+
+ (e) Upon Employee's Incapacity (as defined herein), the
+Company may terminate Employee's employment with thirty days notice. Incapacity
+shall mean such physical or mental condition, or combination of conditions, of
+the Employee which exists for at least 26 weeks, either continuously or over a
+52-week period and which, in the reasonable opinion of the Company, renders
+Employee incapable of performing the essential functions of his or her position
+with or without reasonable accommodation. Employee agrees to submit to any
+reasonable medical examination(s) as may be directed by the Company for the
+purpose of determining the existence of the Incapacity. During the 26 weeks and
+through the date of termination, Employee shall receive (i) base salary payments
+reduced by amounts Employee receives pursuant to any Company plan or policy
+because of the physical or mental condition, or combination of conditions,
+underlying the Incapacity and (ii) pro rata participation in the Company's
+compensation plans, including bonus, commission, or stock compensation for which
+Employee was eligible immediately prior to such termination. Such amount(s)
+shall be paid at such interval(s) as they would otherwise be paid. The Company
+also reserves the right to terminate Employee's employment under other
+provisions of this Section 3 as may be applicable during the period of
+Incapacity, except that the Incapacity shall not be the basis of a termination
+for gross neglect under Section 3(a).
+
+ (f) As used in this Agreement, "pro rata participation" in any
+Company compensation plan shall mean the percentage share derived by dividing
+Employee's duration of employment within the compensation period, as determined
+by the particular compensation plan, in which Employee's employment terminates
+by that total compensation period.
+
+ (g) The severance benefits provided hereunder shall be the
+total severance benefits to which Employee is entitled and shall be in lieu of,
+and not in addition to, any other severance plan, policy, or arrangement of the
+Company or previously agreed to by Employee and the Company.
+
+ 4. Notices. Any notice or request required or permitted to be
+given hereunder must be, and shall be sufficient if, in writing and delivered
+personally or if sent by registered or certified mail, return receipt requested,
+as follows: if to the Employee, to the address of Employee as set forth in the
+records of the Company, and if to the Company, to 9933 Woods Drive, Skokie,
+Illinois 60077, Attention: President, or to any other address designated by
+either party by notice similarly given. Such notice shall be deemed to have been
+given upon the personal delivery or such mailing thereof, as the case may be.
+
+ 5. Authority; No Conflict. Employee expressly represents and
+warrants to the Company that Employee has full and sole right and authority to
+execute and deliver this Agreement and to comply with the terms and provisions
+hereof and that the execution and delivery of this Agreement and compliance with
+the terms and provisions hereof by Employee will not conflict with or result in
+a breach of the terms, conditions, or provisions of any other agreement,
+restriction, or obligation by which the Employee is bound or will become bound.
+
+ 6. Assignment and Succession. This Agreement shall be binding
+upon and shall operate for the benefit of the parties hereto and their
+respective legal representatives, legatees, distributees, heirs, and successors
+and assigns. Employee acknowledges that the services Employee renders pursuant
+to this Agreement are unique and personal. Accordingly, Employee may not assign
+any of Employee's rights contained in this Agreement or delegate any of
+Employee's job duties or any duties under this Agreement. The Company may assign
+its rights, duties, or obligations under this Agreement to a purchaser or
+transferee of all, or substantially all, of the Company's assets.
+
+ 7. Applicable Law. This Agreement, and any claim or
+controversy arising out of or relating to this Agreement, shall at all times be
+construed, interpreted, and enforced in accordance with, and be governed by, the
+internal laws (as opposed to conflict of laws provisions) of the State of
+Illinois.
+
+ 8. Severability. Whenever possible, each provision of this
+Agreement will be construed and interpreted in such manner as to be effective
+and valid under applicable law. In the event that any provision or any part of a
+provision of this Agreement shall be held to be void or unenforceable, the
+remaining provisions of this Agreement shall continue in full force and effect.
+
+ 9. Waiver, Etc. The waiver of a breach of any provision of
+this Agreement shall not operate or be construed to be a waiver of any other or
+a subsequent breach. No delay or omission in the exercise of any power, remedy,
+or right herein provided or otherwise available to any party, shall impair or
+affect the right of such party thereafter to exercise the same. Any extension of
+time or other indulgence granted to a party hereunder or to any other person
+shall not otherwise alter or affect any power, remedy, or right of any other
+party, or obligations of the party to whom such extension or indulgence is
+granted except as specifically waived.
+
+ 10. Dispute Resolution. Any controversy or claim arising out
+of or relating to this Agreement, or the breach thereof, shall be settled by
+arbitration administered by the American Arbitration Association ("AAA") in
+accordance with its National Rules for the Resolution of Employment Disputes, to
+the extent not inconsistent with this provision or the provision designating the
+internal laws of Illinois as the law governing any controversies, claims, or
+breaches of this Agreement. Judgment upon the award rendered by the arbitrator
+may be entered in any court having jurisdiction thereof. Such arbitration shall
+be conducted in Chicago, Illinois before a single arbitrator. The parties shall
+select an arbitrator by mutual agreement from a panel of arbitrators experienced
+in arbitrating employment disputes proposed by AAA. If the parties are unable to
+agree on an arbitrator, AAA shall select an arbitrator in accordance with its
+procedures. Nothing herein shall preclude the Company from seeking and/or
+obtaining injunctive relief from a court of competent jurisdiction and/or in
+arbitration pursuant to the Employee Confidentiality Agreement required
+hereunder to be executed by the Employee.
+
+ 11. Entire Agreement. This Agreement, together with the
+Employee Confidentiality Agreement and its later modifications, contain the
+entire agreement of the parties relating to the subject matter hereof including,
+but not limited to, any previous written agreements concerning Employee's
+employment with the Company. This agreement may not be modified or discharged
+orally, but only by an agreement in writing signed by the party against whom
+enforcement of any change, modification, waiver, extension, or discharge is
+sought.
+
+ 12. Termination. This Agreement shall terminate on the third
+anniversary of its effective date ("Agreement Termination Date") and shall
+thereafter be of no further force or effect; provided, however, that if upon the
+Agreement Termination Date, the Company does not have a severance pay policy in
+effect under which Employee would be eligible to receive severance benefits in
+the event of Employee's termination without cause, then Employee shall be
+entitled to receive severance benefits consistent with paragraph 3(c) of this
+Agreement if terminated without cause.
+
+THE PARTIES HERETO AGREE TO THE TERMS HEREOF AND AGREE TO BE BOUND BY THEM AND
+TO ADHERE TO THEM IN GOOD FAITH.
+
+EMPLOYEE NEW PEAPOD, INC.
+
+/s/ John P. Miller By: /s/ John C. Walden
+Name: John P. Miller Name: John C. Walden
+ Title: Chief Operating Officer
+
+</EX-10.7>
+
+<EX-23>
+ 3
+ INDEPENDENT AUDITORS' CONSENT
+
+Exhibit 23
+ INDEPENDENT AUDITORS' CONSENT
+
+The Board of Directors and Stockholders of
+Peapod, Inc.:
+
+ We consent to incorporation by reference in the registration statements
+(No. 333-35405 and No. 333-35445) on Forms S-8 of Peapod, Inc. of our reports
+dated February 4, 1998, related to the balance sheets of Peapod, Inc. as of
+December 31, 1996 and 1997, and the related statements of operations,
+stockholders' equity and cash flows for each of the years in the three-year
+period ended December 31, 1997, and related financial statement schedule, which
+reports appear in the December 31, 1997 annual report on Form 10-K of Peapod,
+Inc.
+
+KPMG Peat Marwick LLP
+
+Chicago, Illinois
+March 5, 1998
+
+</EX-23>
+
+<EX-27>
+ 4
+ FINANCIAL DATA SCHEDULE
+
+5
+ 1,000
+
+YEAR
+ DEC-31-1997
+ JAN-1-1997
+ DEC-31-1997
+ 54,079
+ 8,797
+ 1,547
+ 352
+ 0
+ 64,744
+ 5,552
+ 2,301
+ 69,110
+ 12,394
+ 0
+ 0
+ 0
+ 168
+ 54,634
+ 69,110
+ 43,487
+ 59,607
+ 0
+ 0
+ 74,556
+ 0
+ (83)
+ (12,979)
+ 0
+ (12,979)
+ 0
+ 0
+ 0
+ (12,979)
+ (0.87)
+ (0.87)
+
+</EX-27>
+

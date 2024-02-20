@@ -1,0 +1,3529 @@
+<Header>
+<FileStats>
+    <FileName>20140212_10-K_edgar_data_1450708_0001157523-14-000568.txt</FileName>
+    <GrossFileSize>4746973</GrossFileSize>
+    <NetFileSize>138900</NetFileSize>
+    <NonText_DocumentType_Chars>1416051</NonText_DocumentType_Chars>
+    <HTML_Chars>1513095</HTML_Chars>
+    <XBRL_Chars>982529</XBRL_Chars>
+    <XML_Chars>577298</XML_Chars>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001157523-14-000568.hdr.sgml : 20140212
+<ACCEPTANCE-DATETIME>20140212060509
+ACCESSION NUMBER:		0001157523-14-000568
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20131031
+FILED AS OF DATE:		20140212
+DATE AS OF CHANGE:		20140212
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Aurum, Inc.
+		CENTRAL INDEX KEY:			0001450708
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				271728996
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-53861
+		FILM NUMBER:		14596481
+
+	BUSINESS ADDRESS:	
+		STREET 1:		LEVEL 8 580 ST KILDA ROAD
+		STREET 2:		SUITE 1200
+		CITY:			MELBOURNE VICTORIA
+		STATE:			C3
+		ZIP:			94104
+		BUSINESS PHONE:		415-296-8510
+
+	MAIL ADDRESS:	
+		STREET 1:		LEVEL 8 580 ST KILDA ROAD
+		STREET 2:		SUITE 1200
+		CITY:			MELBOURNE VICTORIA
+		STATE:			C3
+		ZIP:			94104
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Liquid Financial Engines, Inc.
+		DATE OF NAME CHANGE:	20081125
+
+</SEC-Header>
+</Header>
+
+ 0001157523-14-000568.txt : 20140212
+
+10-K
+ 1
+ a50791567.htm
+ AURUM, INC. 10-K
+
+a50791567.htm 
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 10-K 
+
+x 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE 
+
+ACT OF 1934 
+
+For the fiscal year ended: October 31, 2013 
+
+or 
+
+o 
+ 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE 
+
+ACT OF 1934 
+
+For the transition period from: _____________ to _____________ 
+
+Commission File Number: 000-53861 
+
+AURUM, INC. 
+
+(Exact name of Registrant as specified in its charter) 
+
+Delaware 
+
+27-1728996 
+
+(State or Other Jurisdiction 
+
+(I.R.S. Employer 
+
+of Incorporation or Organization) 
+
+Identification No.) 
+
+Level 8, 580 St Kilda Road Melbourne, Victoria, 3004, Australia 
+
+(Address of principal executive offices) (Zip Code) 
+
+011 (613) 8532 2800 
+
+(Registrant s telephone number, including area code) 
+
+N/A 
+
+(Former name or former address, if changed since last report) 
+
+Securities registered pursuant to Section 12(b) of the Act: None 
+
+Securities registered pursuant to Section 12(g) of the Act: 
+
+Title of each class 
+
+Common Stock, par value .0001 per share 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+o 
+ 
+ Yes 
+
+x 
+
+No 
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+
+o 
+ 
+ Yes 
+
+x 
+
+No 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+
+x 
+
+Yes 
+
+o 
+ 
+ No 
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate website, if any, every Interactive Data file required to be submitted and posted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for any such shorter period that the registrant was required to submit and post such file). 
+
+x 
+
+Yes 
+
+o 
+ 
+ No 
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K 229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. 
+
+o 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. 
+
+Large accelerated filer 
+
+o 
+
+Accelerated filer 
+
+o 
+
+Non-accelerated filer 
+
+o 
+
+Smaller reporting company 
+
+x 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). 
+
+o 
+ 
+ Yes 
+
+x 
+
+No 
+
+State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant s most recently completed second fiscal quarter. 
+
+The aggregate market value based on the average bid and asked price on the over-the-counter market of the Registrant s common stock Common Stock held by non-affiliates of the Company was US 1,320,000 as at April 30, 2013. 
+
+There were 105,600,000 outstanding shares of Common Stock as of January 28, 2014. 
+
+APPLICABLE ONLY TO REGISTRANTS INVOLVED IN BANKRUPTCY 
+
+PROCEEDINGS DURING THE PRECEDING FIVE YEARS: 
+
+Indicate by check mark whether the registrant has filed all documents and reports required to be filed by Section 12, 13 or 15(d) of the Securities Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court. 
+
+o 
+ 
+ Yes 
+
+o 
+ 
+ No 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+
+Not Applicable 
+
+_____________________ 
+
+INDEX 
+
+PART I 
+
+Item 1. 
+
+Business 
+
+1 
+
+Item 1A. 
+
+Risk Factors 
+
+7 
+
+Item 1B. 
+
+Unresolved Staff Comments 
+
+12 
+
+Item 2. 
+
+Properties 
+
+12 
+
+Item 3. 
+
+Legal Proceedings 
+
+13 
+
+Item 4. 
+
+Mine Safety Disclosures 
+
+13 
+
+PART II 
+
+Item 5. 
+
+Market for Common Equity and Related Stockholder Matters 
+
+14 
+
+Item 6. 
+
+Selected Financial Data 
+
+15 
+
+Item 7. 
+
+Management s Discussion and Analysis of Financial Condition and Plan of Operation 
+
+16 
+
+Item 7A. 
+
+Quantitative and Qualitative Disclosures About Market Risk 
+
+19 
+
+Item 8. 
+
+Financial Statements 
+
+19 
+
+Item 9. 
+
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+
+20 
+
+Item 9A. 
+
+Controls and Procedures 
+
+20 
+
+Item 9B. 
+
+Other Information 
+
+20 
+
+PART III 
+
+Item 10. 
+
+Directors, Executive Officers and Corporate Governance 
+
+21 
+
+Item 11. 
+
+Executive Compensation 
+
+24 
+
+Item 12. 
+
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+
+26 
+
+Item 13. 
+
+Certain Relationships and Related Transactions, and Director Independence 
+
+27 
+
+Item 14. 
+
+Principal Accounting Fees and Services 
+
+28 
+
+PART IV 
+
+Item 15. 
+
+Exhibits, Financial Statement Schedules 
+
+30 
+
+SIGNATURES 
+
+31 
+
+i 
+
+PART I 
+
+Information Regarding Forward Looking Statements 
+
+This report and other reports, as well as other written and oral statements made or released by us, may contain forward looking statements. Forward looking statements are statements that describe, or that are based on, our current expectations, estimates, projections and beliefs. Forward looking statements are based on assumptions made by us, and on information currently available to us. Forward-looking statements describe our expectations today of what we believe is most likely to occur or may be reasonably achievable in the future, but such statements do not predict or assure any future occurrence and may turn out to be wrong. You can identify forward-looking statements by the fact that they do not relate strictly to historical or current facts. The words "believe," "anticipate," "intend," "expect," "estimate," "project", "predict", "hope", "should", "may", and "will", other words and expressions that have similar meanings, and variations of such words and expressions, among others, usually are intended to help identify forward-looking statements. 
+
+Forward-looking statements are subject to both known and unknown risks and uncertainties and can be affected by inaccurate assumptions we might make. Risks, uncertainties and inaccurate assumptions could cause actual results to differ materially from historical results or those currently anticipated. Consequently, no forward-looking statement can be guaranteed. The potential risks and uncertainties that could affect forward looking statements include, but are not limited to: 
+
+the risks of mineral exploration stage projects, 
+
+political risks in foreign countries, 
+
+risks associated with environmental and other regulatory matters, 
+
+exploration risks and competitors, 
+
+the volatility of gold and other mineral prices, 
+
+availability of financing, 
+
+movements in foreign exchange rates, 
+
+increased competition, governmental regulation, 
+
+performance of information systems, 
+
+ability of the Company to hire, train and retain qualified employees, 
+
+the availability of sufficient transportation, power and water resources, and 
+
+our ability to enter into key exploration and supply agreements and the performance of contract counterparties. 
+
+In addition, other risks, uncertainties, assumptions, and factors that could affect the Company's results and prospects are described in this report, including under the heading Risk Factors and elsewhere and may further be described in the Company's prior and future filings with the Securities and Exchange Commission and other written and oral statements made or released by the Company. 
+
+We caution you not to place undue reliance on any forward-looking statements, which speak only as of the date of this document. The information contained in this report is current only as of its date, and we assume no obligation to update any forward-looking statements. 
+
+Item 1 Business 
+
+General 
+
+Our name is Aurum, Inc. and we sometimes refer to ourselves in this Annual Report as Aurum , the Company or as we, our, or us. 
+
+1 
+
+We were incorporated in the State of Florida on September 29, 2008 under the name Liquid Financial Engines, Inc. Liquid and we changed our name to Aurum, Inc. Aurum and our State of domicile to the State of Delaware, effective as of January 20, 2010. 
+
+Description of Business 
+
+Background 
+
+Aurum, Inc. is an exploration stage company and was incorporated in Florida to initially develop and market financial software systems for banks, brokerage firms, pension funds, family offices, and hedge funds. 
+
+In July 2009, Golden Target Pty Ltd, an Australian corporation ("Golden") acquired a 96 interest in Aurum from Daniel McKelvey and certain other stockholders. Mr. McKelvey resigned as Sole Director and Officer of Aurum, Joseph Gutnick was appointed President, Chief Executive Officer and a Director and Peter Lee was appointed Chief Financial Officer and Secretary. In March 2011, the Company appointed Simon Lee as Chief Financial Officer. Peter Lee resigned as Chief Financial Officer but agreed to remain as Secretary. In June, 2011, the Company appointed Craig Michael as Chief Executive Officer and accepted his resignation in April 2012. 
+
+Commencing August 2009, the Company decided to focus on mineral exploration for gold and copper in the Lao Peoples Democratic Republic. The Company s planned operations have not commenced and are considered to be in the exploration stage. 
+
+On January 20, 2010, the Company re-incorporated in the State of Delaware (the Reincorporation through a merger involving Liquid Financial Engines, Inc. Liquid and Aurum, Inc., a Delaware Corporation that was a wholly owned subsidiary of Liquid. The Reincorporation was effected by merging Liquid with Aurum, with Aurum being the surviving entity. For purposes of the Company s reporting status with the Securities and Exchange Commission, Aurum is deemed a successor to Liquid. 
+
+Strategy 
+
+Aurum is primarily engaged in mineral exploration for gold and copper in the Lao Peoples Democratic Republic (Lao P.D.R or Laos). 
+
+Based upon publicly available information and the experience of Company personnel, the Company believes that Laos has significant potential for gold and copper discoveries and is a highly under explored nation with respect to all mineral commodities. Laos has a long history of artisanal mining for gold and copper and numerous occurrences of these commodities have been recorded throughout the country. Only recently has Laos initiated a unified national geological and mineral resource knowledge database. The Laos government now sees the development of this knowledge combined with foreign investment into mineral exploration and development as integral to the future economy of Laos. 
+
+Current successful foreign owned mining operations in Laos, which are not affiliated with the Company, are the Sepon Copper Gold Mine in lower central Laos which produces approximately 65,000 tonnes of copper cathode and 100,000 ounces of gold per year and the Phu Kham mine in central northern Laos which is currently producing 60,000 tonnes of copper in concentrate and approximately 60,000 ounces of gold and 400,000 ounces of silver. Other smaller operations also exist throughout Laos as joint ventures between Laos and Vietnam or China. 
+
+Aurum considers Laos to be one of the few remaining countries in the world that has favourable geology in under explored areas containing high potential for world class undiscovered gold and copper ore bodies. Utilising this knowledge, in conjunction with management s prior experience in operating exploration logistics within Laos, has led the Company to pursue the many opportunities available in this country. Aurum has built significant relationships with the Lao government and local Lao contractors and is actively developing partnerships with these stakeholders. Relationships with these key stakeholders are considered integral for any successful mineral exploration venture in Laos. 
+
+2 
+
+Aurum has a registered representative office and an experienced mineral exploration team based in the capital city Vientiane. Exploration activities officially began in September 2009 and the Company has quickly rationalised target mineralisation styles for project generation and defined appropriate regions in which to stake mineral claims. The current exploration strategy is to target gold deposits which are ideally greater than 1 million ounces of gold, and copper deposits greater than 800,000 tonnes of contained copper. The following mineralisation styles have been targeted as the most prospective in Laos: 
+
+Sediment Hosted gold, Carlin Style gold, i.e. Sepon Mine, Laos. 
+
+Epithermal gold, i.e. Chatree Mine, Thailand. 
+
+Granite Related, Hydrothermal/Mesothermal gold, i.e. Lak Sao area, Laos. 
+
+Skarn copper/gold, i.e. Phu Kham Mine, Laos. 
+
+Supergene Exotic copper, i.e. Sepon Mine, Laos. 
+
+Porphyry gold/copper/molybdenum, i.e. Sepon Mine, Laos. 
+
+Recognition of the potential size of the resource endowment contained in the Loei-Luang Prabang belt (See Figure 1) is growing due to the recent history of major discoveries and mining developments by companies that Aurum is not affiliated with. On the Thailand side of the belt several prominent and highly profitable mining operations and feasibility stage projects are currently underway, including Kingsgate Consolidated's Ltd expanding Chatree gold mine and PanAust Ltd s Puthep Cu-Au deposit (See Figure 1). On the Laos side, PanAust Ltd has two active mining operations, Phu Kham Cu-Au mine and Ban Houayxai Au mine, and an impressive portfolio of advanced stage exploration/resource projects. In addition to these major projects, there are numerous mineral occurrences with small scale mining operations all along the Loei-Luang Prabang belt. This list of significant resource and mine developments coupled with the highly underexplored nature of Laos highlights the exciting mineral potential of this region. 
+
+Corporate Developments 
+
+In December 2010, the Company executed a Management and Shareholders Agreement with Argonaut Overseas Investments Ltd AOI ), an indirectly wholly owned subsidiary of Argonaut Resources N.L., in respect to Argonaut s 70 held, 55,105 acre Century Concession in Laos. 
+
+The agreement appoints Aurum as the manager of the Century Thrust Joint Venture Agreement, which currently exists between Argonaut and two other parties, and gives the Company the right to earn 72.86 of AOI s interest in the Joint Venture which is equivalent to a 51 beneficial interest in the Century Concession. In order to acquire this interest, Aurum may be required to spend US 6.5 million on exploration within five years. 
+
+On February 10, 2011, the Company entered into a Deed of Agreement with the shareholders of the Lao Inter Mining Options Ltd LIMO which grants Aurum an option to purchase LIMO s 20 interest in the Joint Venture. This Agreement, in conjunction with the Management and Shareholders Agreement with AOI enables Aurum to acquire, at its option, a 71 beneficial interest in the Century Concession. In August 2011, the Company made the last option payment of 135,000. The Company had 60 days from the date of the last option payment to exercise the option to purchase 20 of the Joint Venture for 1.35 million, inclusive of the previously paid option fees of 405,000. On October 24, 2011, the Company executed a Deed of Variation of Call Option extending the exercise date of the Option to April 24, 2012, for consideration of 55,000 for each month extended. The Company did not exercise the option due to delays in acquiring assay results and the time required to adequately assess the program. 
+
+3 
+
+Project Developments 
+
+The Century project is currently Aurum s flagship project and has been the focus of Aurum s exploration work this year. Aurum continues to generate other regional prospects in Laos and hopes to obtain exploration rights for these projects in the near future. 
+
+Century is located approximately 150 km north west of the capital city Vientiane on the highly prospective Loei-Luang Prabang fold belt, a prominent, regionally mineralized belt, which stretches from Thailand in the south, to Laos in the north (See Figure 1). 
+
+The permit for the Century Concession expired during the course of the 2013 fiscal year and the Company and AOI are currently going through the renewal process with Laos government. 
+
+4 
+
+At the time that Aurum entered into the Management and Shareholders Agreement with AOI in December 2010 Century was an advanced stage exploration project with four priority areas drill-ready for early resource definition drilling. Numerous extremely encouraging high grade gold intersections, which had been reported by previous explorer Argonaut Resources NL, were ready for immediate follow up. A valuable, high quality geological database had been collected from multiple previous exploration programs involving soil sampling, pan concentrate sampling, stream sediment sampling, rock-chip sampling, topographic surveying, geological mapping, trenching, and drilling. 
+
+5 
+
+Aurum prioritised this year s exploration efforts on the Century prospect areas of Nam Hone followed by Khohke, Ang Noi and Houay Khouay (See Figure 2). At Nam Hone an extensive 1,300 hole soil auger program is complete. This program has completed infill sampling across the full extent of the known gold in soil anomaly previously identified by Argonaut Resources NL and had been extended to the north with a total of 2,107 assay results collected. During 2011 an initial 8 hole diamond core drilling program, for a total of 2,435 metres, was completed at Nam Hone and a small 2 hole program, for a total of 330 metres was completed at Khohke. During 2012, geological logging, cutting, sampling and assaying of core was completed with 3,099 samples assayed by fire assay at the ALS facility in Vientiane. Four trenches for a total of 1,354 metres were completed, mapped and sampled at Nam Hone and have been incorporated into the detailed geochemistry at Nam Hone. All new and previous results are being incorporated into a preliminary estimate of mineralized material at Nam Hone. During 2013, interpretation and assessment of all results has enabled planning of further exploration programs for the 2013/14 dry season. This program is proposed to consist of drilling of the priority targets at the Nam Hone main zone. The aim of the drilling is to test the current structural model that is believed to be controlling the known gold mineralisation. 
+
+Figure 2. Gold soil geochemistry and prospect location. 
+
+6 
+
+Employees 
+
+Mr. Chris Gerteisen is the Managing Director of the Laos operations which will manage all the activities of Aurum in Laos. Mr. Gerteisen has over 15 years experience working as an international geology professional and entrepreneur, managing a variety of challenging resource projects across South-East Asia, Australia, and North America, and focused on a wide range of commodities, including gold and copper. Through his technical contributions and management skills, Mr. Gerteisen played a significant role in the successful start-up, operations, and exploration which resulted in further mine-life extending discoveries at several prominent projects in the Australasian region, including Oxiana s Sepon and PanAust s Phu Kham in Laos. He has been based in Laos for almost 10 years giving him an intimate knowledge of the local language, culture, and business environment. 
+
+Dr. Peter Jones is the Exploration Manager for Aurum in Laos. Dr. Jones is an internationally recognised professional geologist with over 30 years of experience in international gold and base metal projects. Dr. Jones is currently managing a small team of exploration geologists based in Laos capital city Vientiane and is conducting reconnaissance style regional exploration programs to gather data to inform the exploration process. 
+
+We use temporary employees for some of our activities. The services of our President, Chairman, Chief Executive Officer and Director, Joseph Gutnick, Director, Craig Michael, our Chief Financial Officer, Simon Lee and Secretary, Peter Lee, as well as clerical employees are provided to us on a part-time as needed basis pursuant to a Service Agreement (the Service Agreement between us and AXIS Consultants Pty Limited AXIS effective from August 2009. AXIS also provides us with office facilities, equipment, administration and clerical services in Melbourne, Australia pursuant to the Service Agreement. The Service Agreement may be terminated by written notice by either party. 
+
+Other than this, we rely primarily upon consultants to accomplish our activities. We are not subject to a union labor contract or collective bargaining agreement. 
+
+SEC Reports 
+
+We file annual, quarterly, current and other reports and information with the SEC. These filings can be viewed and downloaded from the Internet at the SEC s website at www.sec.gov. In addition, these SEC filings are available at no cost as soon as reasonably practicable after the filing thereof on our website at auruminc.net. These reports are also available to be read and copied at the SEC s public reference room located at Judiciary Plaza, 100 F Street, N.E., Washington, D.C. 20549. The public may obtain information on the operations of the public reference room by calling the SEC at 1-800-SEC-0330. 
+
+Item 1A Risk Factors 
+
+You should carefully consider each of the following risk factors and all of the other information provided in this Annual Report before purchasing our common stock. An investment in our common stock involves a high degree of risk, and should be considered only by persons who can afford the loss of their entire investment. The risks and uncertainties described below are not the only ones we face. There may be additional risks and uncertainties that are not known to us or that we do not consider to be material at this time. If the events described in these risks occur, our business, financial condition and results of operations would likely suffer. Additionally, this Annual Report contains forward-looking statements that involve risks and uncertainties. Our actual results may differ significantly from the results discussed in the forward-looking statements. This section discusses the risk factors that might cause those differences. 
+
+7 
+
+Risk Factors 
+
+Risks of Our Business 
+
+We Lack an Operating History And Have Losses Which We Expect To Continue Into the Future. 
+
+To date we have no source of revenue. We have no operating history as a mineral exploration or mining company upon which an evaluation of our future success or failure can be made. Our ability to achieve and maintain profitability and positive cash flow is dependent upon: 
+
+- 
+
+exploration and development of any mineral property we identify; 
+
+- 
+
+our ability to locate and obtain property with potential economically viable mineral reserves; 
+
+- 
+
+our ability to raise the capital necessary to conduct exploration and preserve our interest in the mineral claims on identified properties, increase our interest in the mineral claims and continue as an exploration and mining company; and 
+
+- 
+
+our ability to generate revenues and profitably operate a mine on the property covered by our mineral claims. 
+
+The Report Of Our Independent Registered Public Accounting Firm Contains An Emphasis of Matter Paragraph Questioning Our Ability To Continue As A Going Concern. 
+
+The report of our independent registered public accounting firm on our financial statements as of October 31, 2013 and 2012, and for the years ended October 31, 2013 and 2012, and for the cumulative period September 29, 2008 to October 31, 2013, includes an Emphasis of Matter paragraph discussing our ability to continue as a going concern. This paragraph indicates that we have limited assets, limited working capital, have not yet commenced revenue producing operations and have accumulated losses of approximately 10,600,000 which could raise substantial doubt about our ability to continue as a going concern. Our financial statements do not include any adjustment that might result from the outcome of this uncertainty. 
+
+Our Area of Operations is located in Laos and is subject to changes in political conditions and regulations in that country . 
+
+Our area of operations is located in Laos. In the past, Laos has been subject to political and social instability, changes and uncertainties which may cause changes to existing government regulations affecting mineral exploration and mining activities. Civil or political unrest could disrupt our operations at any time. Our mineral exploration and mining activities in Laos may be adversely affected in varying degrees by changing governmental regulations relating to the mining industry or shifts in political conditions that increase the costs related to our activities or maintaining our future properties. Finally, Laos status as a developing country may make it more difficult for us to obtain required financing for our project. 
+
+We Are A Small Operation And Do Not Have Significant Capital. 
+
+Because we will have limited working capital, we must limit our activities. If we are unable to raise the capital required to undertake adequate activities, including locating and obtaining suitable properties and/or finding a suitable business, we may not find commercial minerals even though the identified properties may contain commercial minerals or we may miss opportunities to acquire suitable businesses. If we do not find commercial minerals or cannot find suitable businesses we may be forced to cease operations and you may lose your entire investment. 
+
+8 
+
+We Need Further Financing To Determine If There Is Commercial Minerals, Develop Any Minerals We Identify And To Maintain The Mineral Claims. 
+
+Our success depends on our ability to raise further capital. We require further substantial additional funds to conduct mineral exploration and development activities on all of our tenements. There is no assurance whatsoever that funds will be available from any source or, if available, that they can be obtained on terms acceptable to us to make investments. If funds are not available in the amounts required to achieve our business strategy, we would be unable to reach our objective. This could cause the loss of all or part of your investment. 
+
+World Economic Conditions Could Adversely Affect Our Results of Operations and Financial Condition 
+
+The effects of the recent global financial crisis are difficult to accurately predict. As a result of this crisis, conditions in the credit markets have become uncertain and risk adverse. These adverse conditions may make it harder for the Company to raise additional funds to finance the continued development of its business. Continued adverse economic conditions could adversely affect our liquidity, results of operations and financial condition. 
+
+We Could Encounter Delays Due To Regulatory And Permitting Delays. 
+
+We could face delays in obtaining mining permits and environmental permits. Such delays, could jeopardize financing, if any, in which case we would have to delay or abandon work on the properties. 
+
+Government Concessions May Not Be Granted Or Renewed. 
+
+Our activities in Laos require permits from the Lao PDR government in order to access Concessions. The permit for the Century Concession expired during the course of the 2013 fiscal year and the Company and AOI are current going through the renewal process with Laos government. If we are unable to obtain or renew licences, permits or approvals we may be prohibited from conducting exploration and mining activities. 
+
+If We Define An Economic Ore Reserve And Achieve Production, It Will Decline In The Future. An Ore Reserve Is A Wasting Asset. 
+
+Our future ore reserve and production, if any, will decline as a result of the exhaustion of reserves and possible closure of any mine that might be developed. Eventually, at some unknown time in the future, all of the economically extractable ore will be removed from the properties, and there will be no ore remaining unless this Company is successful in near mine site exploration to extend the life of the mining operation. This is called depletion of reserves. Ultimately, we must acquire or operate other properties in order to continue as an ongoing business. Our success in continuing to develop reserves, if any, will affect the value of your investment. 
+
+There Are Significant Risks Associated With Mining Activities. 
+
+The mining business is generally subject to risks and hazards, including quantity of production, quality of the ore, environmental hazards, industrial accidents, the encountering of unusual or unexpected geological formations, cave-ins, flooding, earthquakes and periodic interruptions due to inclement or hazardous weather conditions. These occurrences could result in damage to, or destruction of, our mineral properties or production facilities, personal injury or death, environmental damage, reduced production and delays in mining, asset write-downs, monetary losses and possible legal liability. We could incur significant costs that could adversely affect our results of operation. Insurance fully covering many environmental risks (including potential liability for pollution or other hazards as a result of disposal of waste products occurring from exploration and production) is not generally available to us or to other companies in the industry. What liability insurance we carry may not be adequate to cover any claim. 
+
+9 
+
+We May Be Subject To Significant Environmental And Other Governmental Regulations That Can Require Substantial Capital Expenditure, And Can Be Time-Consuming. 
+
+We may be required to comply with various laws and regulations pertaining to exploration, development and the discharge of materials into the environment or otherwise relating to the protection of the environment in the countries that we operate, all of which can increase the costs and time required to attain operations. We may have to obtain exploration, development and environmental permits, licenses or approvals that may be required for our operations. There can be no assurance that we will be successful in obtaining, if required, a permit to commence exploration, development and operation, or that such permit can be obtained in a timely basis. If we are unsuccessful in obtaining the required permits it may adversely affect our ability to carry on business and cause you to lose part or all of your investment. 
+
+Mining Accidents Or Other Adverse Events At Our Property Could Reduce Our Production Levels. 
+
+If and when we reach production it may fall below estimated levels as a result of mining accidents, cave-ins or flooding on the properties. In addition, production may be unexpectedly reduced if, during the course of mining, unfavorable ground conditions or seismic activity are encountered, ore grades are lower than expected, or the physical or metallurgical characteristics of the ore are less amenable to mining or processing than expected. The happening of these types of events would reduce our profitably or could cause us to cease operations which would cause you to lose part or all of your investment. 
+
+The acquisition of mineral properties is subject to substantial competition. If we must pursue alternative properties, companies with greater financial resources, larger staffs, more experience, and more equipment for exploration and development may be in a better position than us to compete for properties. We may have to undertake greater risks than more established companies in order to compete which could affect the value of your investment. 
+
+Approximately 96 Of Our Common Stock Is Controlled By Our Chairman, President and Chief Executive Officer Who Has The Ability To Appoint Our Board Of Directors And Determine Other Matters Submitted To Stockholders 
+
+Mr. Joseph Gutnick, our Chairman, President and Chief Executive Officer, beneficially owned 101.6 million shares of our common stock, which represented approximately 96 of our shares outstanding as of January 24, 2014. As a result, Mr. Gutnick has and is expected to continue to have the ability to appoint our Board of Directors and to determine the outcome of all other issues submitted to our stockholders. The interests of Mr. Gutnick may not always coincide with our interests or the interests of other stockholders, and subject to his fiduciary duties as a director, he may act in a manner that advances his best interests and not necessarily those of other stockholders. One consequence to this substantial influence or control is that it may not be possible for investors to remove management of the Company. It could also deter unsolicited takeover, including transactions in which stockholders might otherwise receive a premium for their shares over then current market prices. 
+
+We are substantially dependent upon AXIS To Carry Out Our Activities 
+
+We are substantially dependent upon AXIS for our senior management, financial and accounting, corporate legal and other corporate headquarters functions. For example, each of our officers is employed by AXIS and, as such, is required by AXIS to devote substantial amounts of time to the business and affairs of the other shareholders of AXIS. 
+
+10 
+
+Pursuant to a services agreement, AXIS provides us with office facilities, and some administrative personnel and services, management and geological staff and services. No fixed fee is set in the agreement and we are required to reimburse AXIS for any direct costs incurred by AXIS for us. In addition, we pay a proportion of AXIS indirect costs based on a measure of our utilization of the facilities and activities of AXIS plus a service fee of not more than 15 of the direct and indirect costs. AXIS has not charged a service fee for 2013. This service agreement may be terminated by us or AXIS on 60 days notice. See Certain Relationships and Related Party Transactions. AXIS billed Aurum, Inc, as per the services agreement, for 2013 a total of 225,336 (2012: 268,329). 
+
+We are one of nine companies that AXIS provides services to. Each of the companies has some common Directors, officers and shareholders. In addition, each of the companies is substantially dependent upon AXIS for its senior management and certain mining and exploration staff. A number of arrangements and transactions have been entered into from time to time between such companies. Currently, there are no material arrangements or planned transactions between the Company and any of the other affiliated companies other than AXIS. However, it is possible we may enter into such transactions in the future which could present conflicts of interest. In addition, there may be conflicts among the Company and the other companies that AXIS provides services to with respect to access to executive and administrative personnel and other resources. 
+
+Historically, AXIS has allocated corporate opportunities to each of the companies engaged in the exploration and mining industry after considering the location of each of the companies operations and the type of commodity for which each company explores within its geographic region. At present, there are no conflicts among the Company and the other companies with respect to the principal geographic areas in which they operate and/or the principal commodities that they are searching for. 
+
+The Company has received advances from AXIS in connection with the ongoing business relationship between the two parties, which have been disclosed in the Company s SEC reports, but which are not specifically provided for in the AXIS Services Agreement. Historically, the shortfall in our cash receipts has been covered by cash advances from AXIS. The purpose of such advances is to assist us in meeting our ongoing cash flow requirements. The parties are in discussions in relation to the Company providing security to AXIS for the amount outstanding and such discussions are anticipated to be concluded by the end of the second fiscal quarter of 2014, however no agreement has been reached to-date. Our director (Mr. Gutnick) is also a director of AXIS and Mr. Peter Lee is Chief Financial Officer Company Secretary of AXIS and owe fiduciary obligations to both parties. It is the intention of the Boards of Directors of AXIS and the Company that this issue be resolved in a manner that is fair to all parties and equitable to the shareholders of each, but there are no agreements or understandings addressing the priority or dispensation of fiduciary duties with respect to the discussions to resolve the amount outstanding owed to AXIS or any other conflict of interest with AXIS or other affiliates. See Item 13 Certain Relationships and Related Transactions, and Director Independence. 
+
+Future Sales of Common Stock Could Depress The Price Of Our Common Stock 
+
+Future sales of substantial amounts of common stock pursuant to Rule 144 under the Securities Act of 1933 or otherwise by certain stockholders could have a material adverse impact on the market price for the common stock at the time. As at January 24, 2014, there were 101,600,000 outstanding shares of common stock which are deemed restricted securities as defined by Rule 144 under the Securities Act or control securities. Under certain circumstances, these shares may be sold without registration pursuant to the provisions of Rule 144 following the expiration of one year after the Company ceases to be a shell company. In general, under rule 144, a person (or persons whose shares are aggregated) who has satisfied a six-month holding period and who is not an affiliate of the Company may sell restricted securities without limitation as long as the Company is current in its SEC reports. A person who is an affiliate of the Company may sell within any three-month period a number of restricted securities and/or control securities which does not exceed the greater of one (1 percent of the shares outstanding or the average weekly trading volume during the four calendar weeks preceding the notice of sale required by Rule 144. In addition, Rule 144 permits, under certain circumstances, the sale of restricted securities by a non-affiliate without any limitations after a one-year holding period. Any sales of shares by stockholders pursuant to Rule 144 may have a depressive effect on the price of our Common stock. 
+
+11 
+
+Our Common Stock Is Traded Over the Counter, Which May Deprive Stockholders Of The Full Value Of Their Shares 
+
+Our common stock is quoted via the Over The Counter Bulletin Board (OTCBB). As such, our common stock may have fewer market makers, lower trading volumes and larger spreads between bid and asked prices than securities listed on an exchange such as the New York Stock Exchange or the NASDAQ Stock Market. These factors may result in higher price volatility and less market liquidity for the common stock. 
+
+A Low Market Price May Severely Limit The Potential Market For Our Common Stock 
+
+Our common stock is currently trading at a price substantially below 5.00 per share, subjecting trading in the stock to certain SEC rules requiring additional disclosures by broker-dealers. These rules generally apply to any equity security that has a market price of less than 5.00 per share, subject to certain exceptions (a penny stock ). Such rules require the delivery, prior to any penny stock transaction, of a disclosure schedule explaining the penny stock market and the risks associated therewith and impose various sales practice requirements on broker-dealers who sell penny stocks to persons other than established customers and institutional or wealthy investors. For these types of transactions, the broker-dealer must make a special suitability determination for the purchaser and have received the purchaser s written consent to the transaction prior to the sale. The broker-dealer also must disclose the commissions payable to the broker-dealer, current bid and offer quotations for the penny stock and, if the broker-dealer is the sole market maker, the broker-dealer must disclose this fact and the broker-dealer s presumed control over the market. Such information must be provided to the customer orally or in writing before or with the written confirmation of trade sent to the customer. Monthly statements must be sent disclosing recent price information for the penny stock held in the account and information on the limited market in penny stock. The additional burdens imposed upon broker-dealers by such requirements could discourage broker-dealers from effecting transactions in our common stock. 
+
+The Market Price Of Your Shares Will Be Volatile. 
+
+The stock market price of mineral exploration companies like us has been volatile. Securities markets may experience price and volume volatility. The market price of our stock may experience wide fluctuations that could be unrelated to our financial and operating results. Such volatility or fluctuations could adversely affect your ability to sell your shares and the value you might receive for those shares. 
+
+Item 1B Unresolved Staff Comments 
+
+As of October 31, 2013, we do not have any Securities and Exchange Commission staff comments that have been unresolved for more than 180 days. 
+
+Item 2 Properties 
+
+The Company occupies certain executive and office facilities in Melbourne, Victoria, Australia which are provided to it pursuant to the Service Agreement with AXIS. See Item 1 - Business- Employees and Item 13 - Certain Relationships and Related Transactions . The Company also occupies certain office facilities in Laos to support field operations. The Company believes that its administrative space is adequate for its current needs. 
+
+12 
+
+Item 3 Legal Proceedings 
+
+There are no pending legal proceedings to which the Company is a party, or to which any of its property is the subject, which the Company considers material. 
+
+Item 4 Mine Safety Disclosures 
+
+Not Applicable 
+
+13 
+
+PART II 
+
+Item 5 
+
+Market for Common Equity and Related Stockholder Matters 
+
+Market Information 
+
+Our common stock is traded in the over-the-counter market and quoted on the OTCBB under the symbol AURM . 
+
+The following table sets out the high and low bid information for the Common Stock as reported by the National Quotation Service Bureau for each period/quarter indicated in US : 
+
+Calendar Period 
+
+High Bid (1) 
+
+Low Bid (1) 
+
+2012 
+
+First Quarter 
+
+1.21 
+
+1.15 
+
+Second Quarter 
+
+1.15 
+
+1.00 
+
+Third Quarter 
+
+1.00 
+
+0.25 
+
+Fourth Quarter 
+
+0.50 
+
+0.11 
+
+2013 
+
+First Quarter 
+
+0.51 
+
+0.50 
+
+Second Quarter 
+
+0.51 
+
+0.25 
+
+Third Quarter 
+
+0.55 
+
+0.33 
+
+Fourth Quarter 
+
+0.55 
+
+0.45 
+
+(1) The quotations set out herein reflect inter-dealer prices without retail mark-up, markdown or commission and may not necessarily reflect actual transactions. 
+
+As of October 31, 2013 and as at January 24, 2014, there were 105,600,000 shares of common stock issued and outstanding. 
+
+Dividends 
+
+To date we have not paid any cash dividends on our common stock and we do not expect to declare or pay any cash dividends on our common stock in the foreseeable future. Payment of any dividends will depend upon our future earnings, if any, our financial condition, and other factors deemed relevant by the Board of Directors. 
+
+On September 29, 2009, the Company s Board of Directors declared an 8-for-1 stock split in the form of a stock dividend that was payable in October, 2009 to stockholders of record as of October 23, 2009. An aggregate of 92,400,000 shares of common stock were issued in connection with this dividend. 
+
+Shareholders 
+
+As of October 31, 2013 the Company had approximately 39 shareholders of record. Within the holders of record of the Company's Common Stock are depositories such as Cede Co., a nominee for The Depository Trust Company (or DTC), that hold shares of stock for brokerage firms which, in turn, hold shares of stock for one or more beneficial owners. Accordingly, the Company believes there are many more beneficial owners of its Common Stock whose shares are held in "street name", not in the name of the individual shareholder. 
+
+Transfer Agent 
+
+Our United States Transfer Agent and Registrar is Continental Stock Transfer Trust Company. 
+
+14 
+
+Item 6 
+
+Selected Financial Data 
+
+Our selected financial data presented below for each of the years in the two-year period ended October 31, 2013 and the balance sheet data at October 31, 2013 and 2012 have been derived from financial statements, which have been audited by PKF O Connor Davies, A Division of O Connor Davies LLP PKF ). The selected financial data should be read in conjunction with our financial statements for each of the years in the two-year period ended October 31, 2013, and Notes thereto, which are included elsewhere in this Annual Report . 
+
+Statement of Operations Data 
+
+2013 
+
+US 
+
+2012 
+
+US 
+
+Revenues 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Costs and expenses 
+
+1,888,171 
+
+3,618,455 
+
+(Loss) from operations 
+
+(1,888,171) 
+
+(3,618,455) 
+
+Foreign currency exchange gain 
+
+598,482 
+
+86,672 
+
+Other income - interest 
+
+- 
+
+(3) 
+
+Provision for income taxes 
+
+- 
+
+- 
+
+Net (loss) 
+
+(1,289,689) 
+
+(3,531,780) 
+
+Net (loss) per share 
+
+(0.01) 
+
+(0.03) 
+
+Weighted average number 
+
+of shares outstanding (000 s) 
+
+105,600 
+
+105,600 
+
+Balance Sheet Data 
+
+Total assets 
+
+41,660 
+
+86,620 
+
+Total liabilities 
+
+(7,961,058) 
+
+(6,792,867) 
+
+Stockholders equity (deficit) 
+
+(7,919,398) 
+
+(6,706,247) 
+
+15 
+
+Item 7. 
+
+Management s Discussion and Analysis of Financial Condition or Plan of Operation 
+
+General 
+
+The following discussion and analysis of our financial condition and plan of operation should be read in conjunction with the Financial Statements and accompanying notes and the other financial information appearing elsewhere in this report. This report contains numerous forward-looking statements relating to our business. Such forward-looking statements are identified by the use of words such as believes, intends, expects, hopes, may, should, plan, projected, contemplates, anticipates or similar words. Actual operating schedules, results of operations, ore grades and mineral deposit estimates and other projections and estimates could differ materially from those projected in the forward-looking statements. 
+
+Foreign Currency Translation 
+
+The Company has operations in Laos and administrative functions based in Australia. The Laos operations functional currency is USD but also uses Laos LAK (Lao Kip LAK and Thai BHT (Thai Baht BHT ). Australian administrative operations are in AUD A ). The income and expenses of its foreign operations are translated into US dollars at the average exchange rate prevailing during the period. Assets and liabilities of the foreign operations are translated into US dollars at the period-end exchange rate. The following table shows the period-end rates of exchange of the Australian dollar, Lao Kip and Thai Baht compared with the US dollar during the periods indicated. 
+
+Year ended 
+
+October 31 
+
+2012 
+
+US 1.00 
+
+= 
+
+A 0.9655 
+
+US 1.00 
+
+= 
+
+LAK 8,001.23 
+
+US 1.00 
+
+= 
+
+BHT 30.7208 
+
+2013 
+
+US 1.00 
+
+= 
+
+A 1.0540 
+
+US 1.00 
+
+= 
+
+LAK 7,901.61 
+
+US 1.00 
+
+= 
+
+BHT 31.0673 
+
+Overview 
+
+Aurum, Inc. ("Aurum or the Company") was incorporated in the State of Florida in September 2008. The principal stockholder of Aurum is Golden Target Pty Ltd., an Australian corporation Golden ), which owned 96.21 of Aurum as of October 31, 2013. On January 20, 2010, the Company re-incorporated in the state of Delaware (the Reincorporation through a merger involving Liquid Financial Engines Inc. and Aurum, Inc., a Delaware Corporation that was a wholly owned subsidiary of Liquid. The Reincorporation was effected by merging Liquid with Aurum, with Aurum being the surviving entity. For purposes of the Company s financial reporting status, Aurum is deemed a successor to Liquid. 
+
+In July 2009, Golden acquired an approximate 96 interest in Aurum from certain stockholders. In connection therewith, the Company appointed a new President/Chief Executive Officer/Director and Chief Financial Officer/Secretary. The sole director and stockholder of Golden is also the President of the Company. 
+
+Commencing August 2009, the Company decided to focus on mineral exploration for gold and copper in the Lao Peoples Democratic Republic. The Company s planned operations have not commenced and are considered to be in the exploration stage. 
+
+16 
+
+In August 2009, the Company entered into an agreement with AXIS Consultants Pty Ltd AXIS to provide geological, management and administration services to the Company. AXIS has some common management and is incorporated in Australia. AXIS is paid by each company it manages for the costs incurred by it in carrying out the administration function for each such company. Pursuant to the Service Agreement, AXIS performs such functions as payroll, maintaining employee records required by law and by usual accounting procedures, providing insurance, legal, human resources, company secretarial, land management, certain exploration and mining support, financial, accounting advice and services. AXIS procures items of equipment necessary in the conduct of the business of the Company. AXIS also provides for the Company various services, including but not limited to the making available of office supplies, office facilities and any other services as may be required from time to time by the Company as and when requested by the Company. We are required to reimburse AXIS for any direct costs incurred by AXIS for the Company. In addition, we are required to pay a proportion of AXIS s overhead cost based on AXIS s management estimate of our utilization of the facilities and activities of AXIS plus a service fee of not more than 15 of the direct and overhead costs. Amounts invoiced by AXIS are required to be paid by us. Under the agreement, we are not permitted to obtain from sources other than AXIS, and we are not permitted to perform or provide ourselves, the services contemplated by the Service Agreement, unless we first requests AXIS to provide the service and AXIS fails to provide the service within one month. As our arrangements with AXIS have evolved, the arrangements have changed, which have verbally been agreed to by AXIS, as a result of the requirements of certain suppliers to be able to deal directly with us. In these cases, AXIS does not charge us a management or service fee in respect to these arrangements with suppliers who deal with us directly. The types of services that are provided directly to us include audit and tax services, legal services, stock transfer services, drilling services, leases of some offices, finance leases, financing facilities in our name, Delaware franchise tax. 
+
+Results of Operations 
+
+Year ended October 31, 2013 versus Year ended October 31, 2012 
+
+We are an exploration stage company and have not generated any revenues since inception. As set out in Management s Discussion and Analysis of Financial Condition and Results of Operation Overview, the Company is managed by AXIS. Certain costs and expenses are incurred by the Company and certain costs and expenses are incurred by AXIS on behalf of the Company and billed to the Company by AXIS. The total amount of expenses billed to the Company by AXIS in fiscal 2013 was 225,336 (2012: 268,329). The discussion in the next paragraphs relates to costs and expenses of the Company, incurred by both the Company; and by AXIS that are billed to the Company. 
+
+Total costs and expenses have decreased from 3,618,455 for the year ended October 31, 2012, to 1,888,171 for the year ended October 31, 2013. The decrease in the total costs and expenses was a result of: 
+
+i) 
+
+An increase in legal, accounting and professional costs from 39,521 in fiscal 2012 to 80,803 in fiscal 2013, primarily as a result of (i) an increase in audit fees from 28,380 to 67,849 due to costs relating to the 2012 fiscal year being incurred in the fiscal year of 2013; (ii) an increase in corporate secretarial costs from 8,896 to 9,930; and (iii) an increase in accounting fees from 2,243 to 3,024. 
+
+ii) 
+
+An decrease in administrative costs from 314,888 in fiscal 2012 to 253,622 in fiscal 2013 is primarily due to a decrease in direct costs charged to the Company by AXIS from 268,329 to 225,336 primarily as a result of travel costs decreasing from 63,889 for fiscal 2012 to 3,046 for fiscal 2013. The total administrative costs include AXIS billings of 221,455 for 2013 (2012: 242,964). 
+
+17 
+
+iii) 
+
+A decrease in stock based compensation expense from 646,953 in fiscal 2012 to 76,538 in fiscal 2013. The decrease is due to options being fully vested in the fiscal year of 2013. See Note 12 to the Company s Financial Statements which are included elsewhere in this Annual Report. 
+
+iv) 
+
+A decrease in the exploration expense from 2,617,093 in fiscal 2012 to 1,475,593 in fiscal 2013. The exploration costs include salaries for both our staff and contract field staff, accommodation, Laos office costs, field work expenditure and reviewing data on exploration targets in Laos. Work continued on our Century Thrust Joint Venture in addition to sourcing other potential exploration targets during fiscal 2013. The total exploration expenses include AXIS billings of 2,291 for 2013 (2012: 25,365). 
+
+As a result of the foregoing, the loss from operations decreased from 3,618,455 for the year ended October 31, 2012 to 1,888,171 for the year ended October 31, 2013. 
+
+The Company recorded a foreign currency exchange gain of 598,482 for the year ended October 31, 2013 compared to a foreign currency exchange gain of 86,672 for the year ended October 31, 2012, primarily due to revaluation of amounts payable to affiliates. 
+
+The Company recorded a decrease in interest income from 3 for the year ended October 31, 2012 to nil for the year ended October 31, 2013. 
+
+The net loss was 1,289,689 for the year ended October 31, 2013 compared to a net loss of 3,531,780 for the year ended October 31, 2012. 
+
+Liquidity and Capital Resources 
+
+For the year ended October 31, 2013, net cash used in operating activities was 1,532,529 consisting primarily of the net loss from operations of 1,289,689, which was offset by a non-cash cost charges relating to: employee options issued for stock based compensation of 76,538, foreign currency gain of 598,482 and depreciation charges of 28,418 in addition to a decrease in prepayments of 15,554, an increase in receivables of 4,936 and an increase in accounts payable and accrued expenses of 240,068. Net cash provided by financing activities was 1,530,897 being advances from affiliates. 
+
+As of October 31, 2013 the Company has short term obligations of 402,738 comprising accounts payable and accruals. 
+
+The Company has 12,797 in cash at October 31, 2013. 
+
+The Company may be required to fund up to 6.5 million in exploration expenditure by December 2015, of which 4.37 million has already been funded, in order to acquire a 51 beneficial interest in the Century Thrust Joint Venture Joint Venture ). The Company entered into a Deed of Agreement which granted the Company an option to purchase 20 of LIMO s interest in the Joint Venture. The Company made the final option fee payment of 135,000 in August 2011 after LIMO completed certain conditions detailed in the agreement. The Company had 60 days from the date of the last option payment to exercise the option to purchase 20 of the Joint Venture for 1.35 million, inclusive of the previously paid option fees of 405,000. On October 24, 2011, the Company executed a Deed of Variation of Call Option extending the exercise date of the option to April 24, 2012, for a consideration of 55,000 for each month extended .The Company did not exercise the option due to delays in acquiring assay results and the time required to adequately assess the program. 
+
+The Company has funded operations since inception through advances from affiliated entities. The Company s ability to continue operations through fiscal 2014 is dependent upon future funding from affiliated entities, capital raisings, or its ability to commence revenue producing operations and positive cash flows, of which there can be no assurance. AXIS has advised it does not currently intend to require repayment of these advances prior to October 31, 2014, accordingly the Company has decided to classify the amounts payable as non-current in the accompanying balance sheets. 
+
+18 
+
+The Company continues to search for additional sources of capital, including capital raisings from share issuances, however no agreements or arrangements have been made as of this date and there can be no assurance funding will be successfully obtained. Even if it is obtained, there is no assurance that it will not be secured on terms that are highly dilutive to existing shareholders. 
+
+The accompanying financial statements have been prepared in conformity with accounting principles generally accepted in the United States of America, which contemplates continuation of Aurum as a going concern. However, Aurum has limited assets, limited working capital, has not yet commenced revenue producing operations and has sustained recurring losses since inception. 
+
+Impact of Australian Tax Law 
+
+In July, 2009 the management and control of Aurum was effectively transferred to Australia making the company an Australian resident corporation for tax purposes under Australian law. Australian resident corporations are subject to Australian income tax on their non-exempt worldwide assessable income (which includes capital gains), less allowable deductions, at the rate of 30 . Foreign tax credits are allowed where tax has been paid on foreign source income, provided the tax credit does not exceed 30 of the foreign source income. 
+
+Under the U.S. Australia tax treaty, a U.S. corporation such as us is subject to Australian income tax on net profits attributable to the carrying on of a business in Australia through a permanent establishment in Australia. A permanent establishment is a fixed place of business through which the business of an enterprise is carried on. The treaty limits the Australian tax on interest and royalties paid by an Australian business to a U.S. resident to 10 of the gross interest or royalty income unless it relates to a permanent establishment. Although we consider that we do not have a permanent establishment in Australia, the Company may be deemed to have such an establishment due to the location of its administrative offices in Melbourne. In addition we may receive interest or dividends from time to time. 
+
+Impact of Australian Governmental, Economic, Monetary or Fiscal Policies 
+
+Although Australian taxpayers are subject to substantial regulation, we believe that our operations are not materially impacted by such regulations nor is it subject to any broader regulations or governmental policies than most Australian taxpayers. 
+
+Impact of Recent Accounting Pronouncements 
+
+For a discussion of the impact of recent accounting pronouncements on the Company s financial statements, see Note 3 to the Company s Financial Statements which are included elsewhere in this Annual Report. 
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk 
+
+At October 31, 2013, the Company had no outstanding borrowings under Loan Facilities. 
+
+Item 8. Financial Statements 
+
+See F Pages 
+
+19 
+
+Item 9. 
+
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+
+There have been no changes in accountants or any disagreements with accountants on any matter of accounting principles or practices or financial statement disclosures during the two years ended October 31, 2013. 
+
+Item 9A Controls and Procedures 
+
+(a) 
+
+Evaluation of disclosure controls and procedures 
+
+Our principal executive officer and our principal financial officer evaluated the effectiveness of our disclosure controls and procedures (as defined in Rule 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934 as amended) as of the end of the period covered by this report. Based on that evaluation, such principal executive officer and principal financial officer concluded that the Company s disclosure controls and procedures were effective as of the end of the period covered by this report at the reasonable level of assurance. 
+
+(b) 
+
+Management s Report on Internal Control over Financial Reporting 
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange act Rules 13a-15(f) under the Securities Exchange Act of 1934, as amended. Under the supervision of management and with the participation of our management, including our principal executive officer and principal financial officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting based on the framework in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on our evaluation of internal control over financial reporting, our management concluded that our internal controls over financial reporting was effective as of October 31, 2013. 
+
+(c) 
+
+Attestation report of the Registered Public Accounting Firm 
+
+This Annual Report on Form 10-K does not include an attestation report of the Company s independent registered public accounting firm regarding internal control over financial reporting. Management s report was not subject to attestation by the Company s independent registered public accounting firm pursuant to an exemption for smaller reporting companies under Section 989G of the Dodd-Frank Wall Street Reform and Consumer Protection Act. 
+
+(d) 
+
+Change in Internal Control over Financial Reporting 
+
+There were no changes in the Company s internal control over financial reporting identified in connection with the evaluation of such internal control that occurred during the Company s last fiscal quarter that have materially affected, or are reasonably likely to materially affect the Company s internal control over financial reporting. 
+
+(e) 
+
+Other 
+
+We believe that a controls system, no matter how well designed and operated, cannot provide absolute assurance that the objectives of the controls system are met, and no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within a company have been detected. Therefore, a control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Our disclosure controls and procedures are designed to provide such reasonable assurances of achieving our desired control objectives, and our principal executive officer and principal financial officer have concluded, as of October 31, 2013, that our disclosure controls and procedures were effective in achieving that level of reasonable assurance. 
+
+Item 9B Other Information 
+
+None. 
+
+20 
+
+PART III 
+
+Item 10. Directors and Executive Officers and Corporate Governance 
+
+The following table sets forth our directors and officers, their ages and all offices and positions with our company. Officers and other employees serve at the will of the Board of Directors. 
+
+Name 
+
+Age 
+
+Position(s) Held 
+
+Joseph Gutnick 
+
+61 
+
+Chairman of the Board, President, Chief Executive Officer and Director 
+
+Simon Lee 
+
+43 
+
+Chief Financial Officer and Principal 
+
+Accounting Officer 
+
+Peter Lee 
+
+56 
+
+Secretary 
+
+Director Qualifications 
+
+The following paragraphs provide information as of the date of this report about each director as well as about each executive officer. The information presented includes information each director has given us about his age, all positions he holds, his principal occupation and business experience for the past five years, and the names of other publicly-held companies of which he currently serves as a director or has served as a director during the past five years. In addition to the information presented below regarding each director s specific experience, qualifications, attributes and skills that led our Board to the conclusion that he should serve as a director, we also believe that all of our directors have demonstrated an ability to exercise sound judgment, as well as a commitment of service to Aurum and our Board. Finally, we value their significant experience in the mining industry and other public and board committees. 
+
+Joseph Gutnick 
+
+Mr. Gutnick is a leading mining industry entrepreneur and has been President and a Director since July 2009, and has been the Chief Executive Officer since April 2012. In addition, Mr. Gutnick was Chief Executive Officer from July 2009 until June 2011. He has been a Director of numerous public listed companies in Australia and the USA specialising in the mining sector since 1980. He is currently President, Director and CEO of Legend International Holdings Inc. (since 2004), Golden River Resources Corporation (for more than 10 years), Consolidated Gems, Inc. (since 2008), which are US corporations listed on the OTC market in the USA, President and CEO of Northern Capital Resources Corp, Great Central Resources Corporation, US corporations, and Executive Chairman and Managing Director of Merlin Diamonds Limited, Top End Minerals Limited and Quantum Resources Limited and Non-Executive Chairman of Blackham Resources Limited, all listed on the Australian Securities Exchange. Mr. Gutnick was previously a Director of the World Gold Council. He has previously been a Director of Acadian Mining Corporation and Royal Roads Corporation in the last five years. He is a Fellow of the Australasian Institute of Mining Metallurgy and the Australian Institute of Management and a Member of the Australian Institute of Company Directors. 
+
+Mr. Gutnick s extensive experience in leading teams in building and operating major mining operations in Australia as well as his experience in founding and serving as the chief executive officer and chairman of a number of public companies will provide our Board with valuable executive leadership and management experience. 
+
+21 
+
+Simon Lee 
+
+Mr. Simon Lee has been Chief Financial Officer and Principal Accounting Officer since March 31, 2011. Mr. Lee has over 20 years experience in business and finance. Mr. Lee was previously a Partner in the Chartered Accounting firm Romanis Cant for five years, and was a Senior Manager for the preceding two years, where he gained extensive experience in a number of industries and disciplines. Mr. Lee is a Member of CPA Australia, a Certificated Member of Chartered Secretaries Australia Ltd., a Member of the Australian Institute of Company Directors, a Registered Tax Agent with the Australian Taxation Office and holds a Bachelor of Business (Accounting) from Deakin University. Mr. Lee is currently the General Manager Finance for Legend International Holdings, Inc., Golden River Resources Corporation, Consolidated Gems, Inc., which are US corporations listed on the OTC market in the USA; Northern Capital Resources Corporation and Great Central Resources Corporation, US Corporations; and Merlin Diamonds Limited, Top End Minerals Limited and Quantum Resources Limited, all listed on the Australian Securities Exchange. 
+
+Peter Lee 
+
+Mr. Peter Lee has been Secretary since July 2009 and was previously Chief Financial Officer and Principal Accounting Officer from July 2009 to March 2011. Mr. Lee is a Member of the Institute of Chartered Accountants in Australia, a Fellow of Chartered Secretaries Australia Ltd., a Member of the Australian Institute of Company Directors and holds a Bachelor of Business (Accounting) from Royal Melbourne Institute of Technology. He has over 30 years commercial experience and is currently CFO and Secretary of Legend International Holdings Inc, (since 2005) Director, CFO and Secretary of Golden River Resources Corporation (for more than 10 years), and CFO and Secretary of Consolidated Gems, Inc. (since 2009), which are US corporations listed on the OTC market in the USA; CFO and Secretary of Northern Capital Resources Corp and Great Central Resources Corporation, US Corporations; and CFO and Secretary of Merlin Diamonds Limited, Director, CFO and Secretary of Top End Minerals Limited and Quantum Resources Limited, all listed on the Australian Securities Exchange. He was a Director of Acadian Mining Corporation from February 2010 to October 2013. 
+
+The Company s Directors have been appointed for a one-year term which expires in June 2014. 
+
+The Directors and Senior Executives devote sufficient amounts of their business time to the affairs of the Company to advance its activities. 
+
+Directors need not be stockholders of the Company or residents of the State of Delaware. Directors are elected for an annual term and generally hold office until the next Directors have been duly elected and qualified. Directors may receive compensation for their services as determined by the Board of Directors. A vacancy on the Board may be filled by the remaining Directors even though less than a quorum remains. A Director appointed to fill a vacancy remains a Director until his successor is elected by the Stockholders at the next annual meeting of Shareholder or until a special meeting is called to elect Directors. 
+
+Mr. Craig Michael, who was a director of the Company during fiscal 2013, resigned as a director effective as of November 26, 2013. 
+
+Involvement on Certain Material Legal Proceedings During the Last Ten Years 
+
+No director, officer, significant employee or consultant has been convicted in a criminal proceeding, exclusive of traffic violations. No director, officer, significant employee or consultant has been permanently or temporarily enjoined, barred, suspended or otherwise limited from involvement in any type of business, securities or banking activities. No director, officer or significant employee has been convicted of violating a federal or state securities or commodities law. 
+
+22 
+
+Mr. Gutnick was formerly the Chairman of the Board and Mr. Peter Lee was formerly Company Secretary of Centaur Mining Exploration Ltd., an Australian corporation, which commenced an insolvency proceeding in Australia in March 2001. 
+
+Board, Audit Committee and Remuneration Committee Meetings 
+
+Our Board of Directors currently consists of one director, but consisted of two directors during fiscal 2013. During fiscal 2013, our Board of Directors did not meet. The Board of Directors also use resolutions in writing to deal with certain matters, and during fiscal 2013, one resolution in writing was signed by all Directors. 
+
+We do not have a nominating committee. Historically our entire Board has selected nominees for election as directors. The Board believes this process has worked well thus far particularly since it has been the Board's practice to require unanimity of Board members with respect to the selection of director nominees. In determining whether to elect a director or to nominate any person for election by our stockholders, the Board assesses the appropriate size of the Board of Directors, consistent with our bylaws, and whether any vacancies on the Board are expected due to retirement or otherwise. If vacancies are anticipated, or otherwise arise, the Board will consider various potential candidates to fill each vacancy. Candidates may come to the attention of the Board through a variety of sources, including from current members of the Board, stockholders, or other persons. The Board of Directors has not yet had the occasion to, but will, consider properly submitted proposed nominations by stockholders who are not directors, officers, or employees of Aurum, Inc. on the same basis as candidates proposed by any other person. We do not have a policy with respect to the use of diversity as a criteria for Board membership and do not consider diversity in the selection of our Directors. 
+
+Audit Committee 
+
+At October 31, 2013, the Company had not formed an audit committee or adopted an audit committee charter. In lieu of an audit committee, the Company's Board of Directors assumes the responsibilities that would normally be those of an audit committee. Given the limited scope of the Company s operations to date, the Board of Directors does not at present have a director that would qualify as an audit committee financial expert under the applicable federal securities law regulations. 
+
+Remuneration Committee 
+
+At October 31, 2013, the Company had not formed a remuneration committee or adopted a remuneration committee charter. In lieu of a remuneration committee, the Company's board of directors assumes the responsibilities that would normally be those of a remuneration committee. 
+
+Code of Ethics 
+
+We have adopted a Code of Conduct and Ethics and it applies to all Directors, Officers and employees. A copy of the Code of Conduct and Ethics is on our website at auruminc.net. We will provide a copy of the Code of Conduct and Ethics any person without charge. If you require a copy, contact us by facsimile or email and we will send you a copy. 
+
+Stockholder Communications with the Board 
+
+Stockholders who wish to communicate with the Board of Directors should send their communications to the Chairman of the Board at the address listed below. The Chairman of the Board is responsible for forwarding communications to the appropriate Board members. 
+
+23 
+
+Mr. Joseph Gutnick 
+
+Aurum, Inc. 
+
+PO Box 6315 St. Kilda Road 
+
+Central Melbourne, Victoria 8008 Australia 
+
+Section 16(a) Beneficial Ownership Reporting Compliance 
+
+Pursuant to Section 16(a) of the Securities Exchange Act of 1934, our Directors, executive officers and beneficial owners of more than 10 of the outstanding Common Stock are required to file reports with the Securities and Exchange Commission concerning their ownership of and transactions in our Common Stock and are also required to provide to us copies of such reports. Based solely on such reports and related information furnished to us, we believe that in fiscal 2013 all such filing requirements were complied with in a timely manner by all Directors, executive officers and greater than 10 stockholders. 
+
+Item 11. Executive Compensation. 
+
+The following table sets forth the annual salary, bonuses and all other compensation awards and pay outs on account of our Executive Chairman and Chief Executive Officer for services rendered to us during the fiscal years ended October 31, 2013 and October 31, 2012. No other executive officer received more than US 100,000 per annum during this period. The amounts listed below were paid by us to AXIS, which provides the services of Messrs. Gutnick and Michael. 
+
+Summary Compensation Table 
+
+Name and 
+
+Principal 
+
+Position 
+
+Year 
+
+Salary 
+
+Bonus 
+
+Stock 
+
+Awards 
+
+Option 
+
+Awards 
+
+Non-Equity 
+
+Incentive 
+
+Plan 
+
+Compensation 
+
+Change in 
+
+Pension 
+
+Value and 
+
+Nonqualified 
+
+Deferred 
+
+Compensation 
+
+Earnings 
+
+All Other 
+
+Compensation 
+
+Total 
+
+Joseph 
+
+Gutnick, 
+
+Chairman 
+
+of the 
+
+Board, 
+
+President 
+
+and CEO (1) 
+
+2013 
+
+2012 
+
+6,208 
+
+10,637 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+6,208 
+
+10,637 
+
+Craig 
+
+Michael, 
+
+Director 
+
+and CEO (2) 
+
+2013 
+
+2012 
+
+- 
+
+10,639 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+10,639 
+
+1. 
+
+Joseph Gutnick appointed July 23, 2009, resigned as CEO on June 6, 2011 and reappointed on April 30, 2012. 
+
+2. 
+
+Craig Michael was appointed on June 6, 2011 and resigned as CEO on April 30, 2012. 
+
+We have a policy that we will not enter into any transaction with an officer, Director or affiliate of the Company or any member of their families unless the terms of the transaction are no less favourable to us than the terms available from non-affiliated third parties or are otherwise deemed to be fair to the Company at the time authorised. 
+
+Outstanding Equity Awards at Fiscal Year-End 
+
+None. 
+
+Principal Officers Contracts 
+
+The principal officers do not have any employment contracts. 
+
+24 
+
+2010 Stock Option Plan 
+
+The 2010 Plan provides for the granting of options. The maximum number of shares available for awards is 10 of the issued and outstanding shares of common stock on issue at any time (on a fully diluted basis). If an option expires or is cancelled without having been fully exercised or vested, the remaining shares will generally be available for grants of other awards. 
+
+The 2010 Plan is administered by the Board of Directors. 
+
+Any employee, director, officer, consultant of or to the Company or an affiliated entity (including a company that becomes an affiliated entity after the adoption of the 2010 Plan) is eligible to participate in the 2010 Plan if the Board, in its sole discretion, determines that such person has contributed significantly or can be expected to contribute significantly to the success of the Company or an affiliated entity. During any one year period, no participant is eligible to be granted options to purchase more than 5 of our issued and outstanding shares of common stock or if they provide investor relations activities, or are a consultant to the Company, 2 of the issued and outstanding shares of common stock in any 12 month period. 
+
+Options granted under the 2010 Plan are to purchase Aurum common stock. The term of each option will be fixed by the Board, but no option will be exercisable more than 10 years after the date of grant. The option exercise price is fixed by the Board at the time the option is granted. The exercise price must be paid in cash. Options granted to participants vest and have a term of 10 years, unless otherwise decided by the Board at the time of issue. 
+
+No award is transferable, or assignable by the participant except upon his or her death. 
+
+The Board may amend the 2010 Plan, except that no amendment may adversely affect the rights of a participant without the participant s consent or be made without stockholder approval if such approval is necessary to qualify for or comply with any applicable law, rule or regulation the Board deems necessary or desirable to qualify for or comply with. 
+
+Subject to earlier termination by the Board, the 2010 Plan has an indefinite term except that no Incentive Stock Options ISO may be granted following the tenth anniversary of the date the 2010 Plan is approved by stockholders. 
+
+There are no current plans or arrangements to grant any options under the 2010 Plan other than those already issued. 
+
+Compensation Pursuant to Plans 
+
+The Company does not have any pension or profit sharing plans. 
+
+Compensation of Directors 
+
+The Company s directors did not receive any compensation during fiscal 2013. 
+
+It is our policy to reimburse Directors for reasonable travel and lodging expenses incurred in attending Board of Directors meetings. 
+
+25 
+
+Securities authorized for issuance under equity compensation plans 
+
+The following table sets forth, as of October 31, 2013, information regarding options under our 2010 stock option plan, our only active plan. The 2010 Plan has not been approved by our stockholders. Outstanding options under this plan that are forfeited or cancelled will be available for future grants. All of the options are for the purchase of our common stock. 
+
+Plan Category 
+
+Number of securities to 
+
+be issued upon exercise 
+
+of outstanding options 
+
+(a) 
+
+Weighted average 
+
+Exercise price of 
+
+outstanding options 
+
+(b) 
+
+Number of securities 
+
+remaining available for 
+
+future issuances under 
+
+equity compensation plans 
+
+(excluding securities 
+
+reflected in column (a)) 
+
+(c) 
+
+Equity compensation 
+
+plans approved by 
+
+security holders 
+
+- 
+
+- 
+
+- 
+
+Equity compensation 
+
+plans not approved 
+
+by security holders 
+
+3,250,000 
+
+1.00 
+
+7,635,000 
+
+Total 
+
+3,250,000 
+ (1) 
+
+7,635,000 
+ (1) 
+
+(1) 
+
+The maximum number of shares available for issuance under the 2010 stock option plan is equal to 10 of the issued and outstanding shares (on a fully diluted basis) of common stock, at any time. 
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+
+The following table sets forth certain information regarding the beneficial ownership of our common stock by each person or entity known by us to be the beneficial owner of more than 5 of the outstanding shares of common stock, each of our directors and named executive officers, and all of our directors and executive officers as a group as of January 24, 2014. 
+
+Title of 
+
+Class 
+
+Name and Address 
+
+of Beneficial Owner 
+
+Amount and nature of 
+
+Beneficial Owner 
+
+Percentage 
+
+of class (1) 
+
+Shares of common stock 
+
+Shares of common stock 
+
+Shares of common stock 
+
+Joseph Gutnick 
+
+Simon Lee 
+
+Peter Lee 
+
+101,600,000 
+
+-
+
+-
+
+(2) 
+
+96.21 
+
+- 
+
+- 
+
+All officers and Directors 
+
+as a group 
+
+101,600,000 
+
+96.21 
+
+Unless otherwise indicated, the address of each person is c/o Aurum, Inc., Level 8, 580 St. Kilda Road, Melbourne, Victoria 3004 Australia 
+
+Notes: 
+
+(1) 
+
+Based on 105,600,000 shares outstanding as of January 24, 2014. Gives effect to an 8 for 1 stock split in the form of a dividend that was effected as of October 23, 2009. 
+
+(2) 
+
+Includes 101,600,000 shares owned by Golden Target Pty Ltd, of which Mr. Joseph Gutnick is the sole Director and stockholder. 
+
+26 
+
+Item 13. Certain Relationships and Related Transactions and Director Independence 
+
+In August 2009, the Company entered into an agreement with AXIS Consultants Pty Ltd AXIS to provide geological, management and administration services to the Company. AXIS has some common management and is incorporated in Australia. One of the Company s directors (Mr. Joseph Gutnick) is also a director of AXIS and Mr. Peter Lee is Chief Financial Officer and Company Secretary of AXIS and owe fiduciary duties to both parties. AXIS principal business is to provide geological, management and administration services to companies. We are one of nine companies that AXIS provides services to, namely, Legend International Holdings, Inc., Quantum Resources Limited, Merlin Diamonds Limited, Top End Minerals Limited, Northern Capital Resources Corp, Golden River Resources Corporation, Great Central Resources Corp, Aurum Inc., and Consolidated Gems Inc. 
+
+Each of the companies has some common Directors, officers and shareholders. In addition, each of the companies is substantially dependent upon AXIS for its senior management and certain mining and exploration staff. A number of arrangements and transactions have been entered into from time to time between such companies. It has been the intention of the companies and respective Boards of Directors that each of such arrangements or transactions should accommodate the respective interest of the relevant companies in a manner which is fair to all parties and equitable to the shareholders of each. Currently, there are no material arrangements or planned transactions between the Company and any of the other companies other than AXIS. 
+
+AXIS is paid by each company for the costs incurred by it in carrying out the administration function for each such company. Pursuant to the Service Agreement, AXIS performs such functions as payroll, maintaining employee records required by law and by usual accounting procedures, providing insurance, human resources, company secretarial, land management, certain exploration and mining support including provision of exploration managers and geologists, financial, accounting advice and services. AXIS also provides for the Company various services, including but not limited to the making available of office supplies, office facilities and any other services as may be required from time to time by the Company as and when requested by the Company. 
+
+We are required to reimburse AXIS for any direct costs incurred by AXIS for the Company. In addition, we are required to pay a proportion of AXIS s overhead cost based on AXIS s management estimate of our utilisation of the facilities and activities of AXIS plus a service fee of not more than 15 of the direct and overhead costs. Amounts invoiced by AXIS are required to be paid by us. We are also not permitted to obtain from sources other than AXIS, and we are not permitted to perform or provide ourselves, the services contemplated by the Service Agreement, unless we first request AXIS to provide the service and AXIS fails to provide the service within one month. 
+
+The Service Agreement may be terminated by AXIS or ourselves upon 60 days prior notice. If the Service Agreement is terminated by AXIS, we would be required to independently provide, or to seek an alternative source of providing, the services currently provided by AXIS. There can be no assurance that we could independently provide or find a third party to provide these services on a cost-effective basis or that any transition from receiving services under the Service Agreement will not have a material adverse effect on us. Our inability to provide such services or to find a third party to provide such services may have a material adverse effect on our operations. 
+
+The arrangement with AXIS has changed since it was originally entered into as the relationship has evolved as a result of the requirements of certain suppliers to be able to deal directly with us. In these cases, AXIS does not charge us a management or service fee in respect to these arrangements with suppliers who deal with us directly. The types of services that are provided directly to us include audit and tax services, legal services, stock transfer services, drilling services, assay laboratory services, leases of some offices, finance leases and Delaware franchise tax. 
+
+In accordance with the Service Agreement, AXIS provides the Company with the services of our Chief Executive Officer, Chief Financial Officer and clerical employees, as well as office facilities, equipment, administrative and clerical services. We pay AXIS for the actual costs of such facilities plus a maximum service fee of 15 . AXIS billed Aurum 225,336 (2012: 268,329) as per the services agreement for 2013. 
+
+27 
+
+During the year ended October 31, 2013, AXIS provided services in accordance with the services agreement and incurred direct costs on behalf of the Company of 225,336 (2012: 268,329), and advanced the Company 714,138 (2012: 2,029,099). At October 31, 2013, the Company owed AXIS 7,325,820 (2012: 6,456,697). The Company has received advances from AXIS in connection with the ongoing business relationship between the two parties, which have been disclosed in the Company s SEC reports, but which are not specifically provided for in the AXIS Services Agreement. Historically, the shortfall in our cash receipts has been covered by cash advances from AXIS. The purpose of such advances is to assist us in meeting our ongoing cash flow requirements. The parties are in discussions in relation to the Company providing security to AXIS for the amount outstanding and such discussions are anticipated to be concluded by the end of the second fiscal quarter of 2014, however no agreement has been reached to-date. Our director (Mr. Gutnick) is also a director of AXIS and Mr. Peter Lee is Chief Financial Officer Company Secretary of AXIS and owe fiduciary obligations to both parties. It is the intention of the Boards of Directors of AXIS and the Company that this issue be resolved in a manner that is fair to all parties and equitable to the shareholders of each, but there are no agreements or understandings addressing the priority or dispensation of fiduciary duties with respect to the discussions to resolve the amount outstanding owed to AXIS or any other conflict of interest with AXIS or other affiliates. During the year ended October 31, 2013 the Manager of the Laos operations advanced the Company 59,000 (2012: 173,500). At October 31, 2013, the Company owed the Manager 232,500 (2012: 173,500). The Company intends to repay these amounts with funds raised either via additional debt or equity offerings. AXIS and the Manager have advised it does not currently intend to require repayment of these advances prior to October 31, 2014, accordingly, the Company has decided to classify the amounts payable as non-current in the accompanying balance sheets. 
+
+Transactions with Management 
+
+We have a written policy that we will not enter into any transaction with an Officer, Director or affiliate of us or any member of their families unless the transaction is approved by a majority of our disinterested non-employee Directors and the disinterested majority determines that the terms of the transaction are no less favourable to us than the terms available from non-affiliated third parties or are otherwise deemed to be fair to us at the time authorised. 
+
+Item 14. Principal Accounting Fees and Services 
+
+The following table shows the audit fees that were billed or are expected to be billed by PKF for fiscal 2013 and 2012. 
+
+2013 
+
+2012 
+
+Audit fees 
+
+35,925 
+
+35,000 
+
+Audit related fees 
+
+- 
+
+- 
+
+Tax fees 
+
+8,724 
+
+6,000 
+
+Total 
+
+44,649 
+
+41,000 
+
+Audit fees were for the audit of our annual financial statements, review of financial statements included in our 10-Q quarterly reports, and services that are normally provided by independent auditors in connection with our other filings with the SEC. This category also includes advice on accounting matters that arose during, or as a result of, the audit or review of our interim financial statements. 
+
+28 
+
+As part of its duties, our Board pre-approves audit and non-audit services performed by our independent auditors in order to assure that the provision of such services does not impair the auditors independence. Our Board does not delegate to management its responsibilities to pre-approve services performed by our independent auditors. 
+
+29 
+
+PART IV 
+
+Item 15. Exhibits, Financial Statement Schedules 
+
+(a) 
+
+Financial Statements and Notes thereto. 
+
+The Financial Statements and Notes thereto listed on the Index at page 35 of this Annual Report on Form 10-K are filed as a part of this Annual Report. 
+
+(b) 
+
+Exhibits 
+
+The Exhibits to this Annual Report on Form 10-K are listed in the Exhibit Index at page 34 of this Annual Report. 
+
+30 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has caused this Annual Report to be signed on its behalf by the undersigned, thereunto duly authorised. 
+
+AURUM, INC. 
+
+(Registrant) 
+
+By: 
+
+/s/ Simon Lee 
+
+Simon Lee 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+Dated: February 12, 2014 
+
+31 
+
+FORM 10-K Signature Page 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this Report has been signed below by the following persons in the capacities and on the dates indicated. 
+
+Signature 
+
+Title 
+
+Date 
+
+1. /s/ Joseph Gutnick 
+
+Chairman, President and 
+
+Joseph Gutnick 
+
+Chief Executive Officer. 
+
+February 12, 2014 
+
+2. /s/ Simon Lee 
+
+Chief Financial Officer 
+
+Simon Lee 
+
+(Principal Financial Officer). 
+
+February 12, 2014 
+
+/s/ Simon Lee 
+
+32 
+
+EXHIBIT INDEX 
+
+Incorporated by 
+
+Reference to: 
+
+Exhibit 
+
+No 
+
+Exhibit 
+
+(1) 
+
+Exhibit 3.1 
+
+3.1 
+
+Articles of Incorporation of Aurum, Inc. 
+
+(1) 
+
+Exhibit 3.2 
+
+3.2 
+
+Bylaws of Aurum, Inc. 
+
+(1) 
+
+Exhibit 3.3 
+
+3.3 
+
+Agreement and Plan of Merger between Liquid Financial Engines, Inc. and Aurum, Inc. 
+
+(2) 
+
+Exhibit 10.1 
+
+10.1 
+
+2010 Equity Incentive Plan. 
+
+(3) 
+
+Exhibit 10.4 
+
+10.4 
+
+Service Agreement dated August 31, 2009, by and between the Registrant and AXIS Consultants Pty Ltd. 
+
+(4) 
+
+Exhibit 99.3 
+
+10.5 
+
+Century Thrust Management and Shareholders Agreement. 
+
+(5) 
+
+Exhibit 99.2 
+
+10.6 
+
+Lao Inter Mining Options Limited Agreement. 
+
+21.1 
+
+Subsidiaries of the Registrant. 
+
+31.1 
+
+Certification pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 by Joseph Gutnick. 
+
+31.2 
+
+Certification pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 by Simon Lee. 
+
+32.1 
+
+Certification pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 by Joseph Gutnick. 
+
+32.2 
+
+Certification pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 by Simon Lee. 
+
+101 
+
+The following materials from the Aurum Inc. Annual Report on Form 10-K for year ended October 31, 2013 formatted in Extensible Business Reporting Language (XBRL): (i) the Balance Sheets, (ii) the Statements of Operations , (iii) the Statements of Stockholders Equity (Deficit), (iv) the Statements of Cash Flows and (v) related notes. 
+
+Filed herewith 
+
+Footnotes: 
+
+(1) 
+
+Incorporated by reference to the Registrant s Information Statement on Schedule 14C filed on December 21, 2009. 
+
+(2) 
+
+Incorporated by reference to the Company s 10-Q filed on March 16, 2011. 
+
+(3) 
+
+Incorporated by reference to the Company s 10-K filed on January 27, 2011. 
+
+(4) 
+
+Incorporated by reference to the Company s 8-K filed on February 25, 2011. 
+
+(5) 
+
+Incorporated by reference to the Company s 8-K filed on April 6, 2011. 
+
+33 
+
+Financial Statements as of October 31, 2013 and 2012 and for the years ended October 31, 2013 and 2012. 
+
+Aurum, Inc. 
+
+Audited Financial Statements for the Company as of October 31, 2013 and 2012 and for the years ended October 31, 2013 and 2012. 
+
+34 
+
+AURUM, INC. 
+
+Financial Statements 
+
+October 31, 2013 and 2012 
+
+(with Report of Independent Registered Public Accounting Firm) 
+
+CONTENTS 
+
+Page 
+
+Report of Independent Registered Public Accounting Firm 
+
+F-3 
+
+Balance Sheet 
+
+F-4 
+
+Statements of Operations 
+
+F-5 
+
+Statements of Stockholders Equity (Deficit) 
+
+F-6 
+
+Statements of Cash Flows 
+
+F-7 
+
+Notes to Financial Statements 
+
+F-8 F-16 
+
+F-2 
+
+Report of Independent Registered Public Accounting Firm 
+
+To the Board of Directors and Stockholders of Aurum, Inc. 
+
+We have audited the accompanying balance sheet of Aurum, Inc. (An Exploration Stage Company) as of October 31, 2013 and 2012, and the related statements of operations, stockholders equity (deficit) and cash flows for the years ended October 31, 2013 and 2012 and for the cumulative period September 29, 2008 to October 31, 2013. These financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on these financial statements based on our audits. 
+
+We conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. We were not engaged to perform an audit of the Company s internal control over financial reporting. Our audits include consideration of internal control over financial reporting as a basis for designing audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. An audit also includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements, assessing the accounting principles used and significant estimates made by management, and evaluating the overall financial statement presentation. We believe that our audits provide a reasonable basis for our opinion. 
+
+In our opinion, the financial statements referred to above present fairly, in all material respects, the financial position of Aurum, Inc. at October 31, 2013 and 2012, and the results of its operations and its cash flows for the years ended October 31, 2013 and 2012 and for the cumulative period September 29, 2008 to October 31, 2013, in conformity with accounting principles generally accepted in the United States of America. 
+
+The accompanying financial statements have been prepared assuming the Company will continue as a going concern. As described in note 1, at October 31, 2013, the Company has limited assets, a working capital deficit, has not yet commenced revenue producing operations and has accumulated losses of approximately 10,600,000. These conditions raise substantial doubt about the Company s ability to continue as a going concern. The financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+
+/s/ PKF O Connor Davies 
+
+A Division of O Connor Davies, LLP 
+
+New York, NY 
+
+February 12, 2014 
+
+F-3 
+
+AURUM, INC. 
+
+(An Exploration Stage Company) 
+
+Balance Sheets 
+
+October 31, 2013 and 2012 
+
+2013 
+
+US 
+
+2012 
+
+US 
+
+ASSETS 
+
+Current Assets: 
+
+Cash 
+
+12,797 
+
+18,721 
+
+Receivables - Affiliates 
+
+19,696 
+
+14,760 
+
+Prepayments 
+
+8,744 
+
+24,298 
+
+Total Current Assets 
+
+41,237 
+
+57,779 
+
+Non-Current Assets: 
+
+Property and Equipment, net of accumulated depreciation of 106,032 and 77,614 
+
+423 
+
+28,841 
+
+Total Non-Current Assets 
+
+423 
+
+28,841 
+
+Total Assets 
+
+41,660 
+
+86,620 
+
+LIABILITIES AND STOCKHOLDERS EQUITY (DEFICIT) 
+
+Current Liabilities: 
+
+Accounts Payable and Accrued Expenses 
+
+402,738 
+
+162,670 
+
+Total Current Liabilities 
+
+402,738 
+
+162,670 
+
+Non-Current Liabilities: 
+
+Payable to affiliates 
+
+7,558,320 
+
+6,630,197 
+
+Total Non-Current Liabilities 
+
+7,558,320 
+
+6,630,197 
+
+Total Liabilities 
+
+7,961,058 
+
+6,792,867 
+
+Stockholders Equity (Deficit): 
+
+Common stock: .0001 par value 
+
+500,000,000 shares authorised, 
+
+and 105,600,000 shares issued and outstanding at October 31, 2013 and at October 31, 2012. 
+
+10,560 
+
+10,560 
+
+Additional Paid-in-Capital 
+
+2,740,207 
+
+2,663,669 
+
+Accumulated (Deficit) during exploration stage 
+
+(10,580,156) 
+
+(9,290,467) 
+
+Accumulated (Deficit) prior to exploration activities 
+
+(90,009) 
+
+(90,009) 
+
+Total Stockholders Equity (Deficit) 
+
+(7,919,398) 
+
+(6,706,247) 
+
+Total Liabilities and Stockholders Equity (Deficit) 
+
+41,660 
+
+86,620 
+
+See Notes to Financial Statements 
+
+F-4 
+
+AURUM, INC. 
+
+(An Exploration Stage Company) 
+
+Statements of Operations 
+
+Year 
+
+Ended 
+
+October 31, 2013 
+
+US 
+
+Year 
+
+Ended 
+
+October 31, 2012 
+
+US 
+
+For the period 
+
+from inception 
+
+September 29, 2008 to 
+
+October 31, 2013 
+
+US 
+
+Revenues 
+
+- 
+
+- 
+
+- 
+
+Cost and expenses 
+
+Legal, accounting professional 
+
+80,803 
+
+39,521 
+
+305,004 
+
+Administration expenses 
+
+253,622 
+
+314,888 
+
+1,020,122 
+
+Consultation salaries - stock based compensation 
+
+76,538 
+
+646,953 
+
+2,729,167 
+
+Exploration expenses 
+
+1,475,593 
+
+2,617,093 
+
+6,912,507 
+
+Donations 
+
+- 
+
+- 
+
+100,000 
+
+Interest expense, net 
+
+1,615 
+
+- 
+
+1,629 
+
+Total costs and expenses 
+
+1,888,171 
+
+3,618,455 
+
+11,068,429 
+
+(Loss) from operations 
+
+(1,888,171) 
+
+(3,618,455) 
+
+(11,068,429) 
+
+Foreign currency exchange gain 
+
+598,482 
+
+86,672 
+
+398,730 
+
+Other income: 
+
+Interest other 
+
+- 
+
+3 
+
+134 
+
+(Loss) before income tax 
+
+(1,289,689) 
+
+(3,531,780) 
+
+(10,669,565) 
+
+Provision for income tax 
+
+- 
+
+- 
+
+- 
+
+Net (loss) 
+
+(1,289,689) 
+
+(3,531,780) 
+
+(10,669,565) 
+
+Basic and diluted net (loss) per common equivalent shares 
+
+(0.01) 
+
+(0.03) 
+
+(0.10) 
+
+Weighted average number of common equivalent 
+
+shares outstanding (000 s) 
+
+105,600 
+
+105,600 
+
+104,681 
+
+See Notes to Financial Statements 
+
+F-5 
+
+AURUM, INC. 
+
+(An Exploration Stage Company) 
+
+Statements of Stockholders Equity (Deficit) 
+
+Shares 
+
+Common 
+
+Stock 
+
+Amount 
+
+Additional 
+
+Paid-in 
+
+Capital 
+
+Accumulated 
+
+(Deficit) during 
+
+exploration 
+
+stage 
+
+Accumulated 
+
+(Deficit) prior 
+
+to exploration 
+
+activities 
+
+Total 
+
+US 
+
+US 
+
+US 
+
+US 
+
+US 
+
+Inception, September 29, 2008 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Issuance of shares 
+
+96,000,000 
+
+9,600 
+
+- 
+
+- 
+
+(600) 
+
+9,000 
+
+Net (loss) 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(12) 
+
+(12) 
+
+Balance, October 31, 2008 
+
+96,000,000 
+
+9,600 
+
+- 
+
+- 
+
+(612) 
+
+8,988 
+
+Issuance of shares 
+
+9,600,000 
+
+960 
+
+11,040 
+
+- 
+
+- 
+
+12,000 
+
+Net (loss) 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(89,397) 
+
+(89,397) 
+
+Balance, October 31, 2009 
+
+105,600,000 
+
+10,560 
+
+11,040 
+
+- 
+
+(90,009) 
+
+(68,409) 
+
+Net (loss) 
+
+- 
+
+- 
+
+- 
+
+(981,396) 
+
+- 
+
+(981,396) 
+
+Balance, October 31, 2010 
+
+105,600,000 
+
+10,560 
+
+11,040 
+
+(981,396) 
+
+(90,009) 
+
+(1,049,805) 
+
+Amortisation of 3,250,000 options under 2010 equity incentive plan 
+
+- 
+
+- 
+
+2,005,676 
+
+- 
+
+- 
+
+2,005,676 
+
+Net (loss) 
+
+- 
+
+- 
+
+- 
+
+(4,777,291) 
+
+- 
+
+(4,777,291) 
+
+Balance, October 31, 2011 
+
+105,600,000 
+
+10,560 
+
+2,016,716 
+
+(5,758,687) 
+
+(90,009) 
+
+(3,821,420) 
+
+Amortisation of 3,250,000 options under 2010 equity incentive plan 
+
+- 
+
+- 
+
+646,953 
+
+- 
+
+- 
+
+646,953 
+
+Net (loss) 
+
+- 
+
+- 
+
+- 
+
+(3,531,780) 
+
+- 
+
+(3,531,780) 
+
+Balance, October 31, 2012 
+
+105,600,000 
+
+10,560 
+
+2,663,669 
+
+(9,290,467) 
+
+(90,009) 
+
+(6,706,247) 
+
+Amortisation of 3,250,000 options under 2010 equity incentive plan 
+
+- 
+
+- 
+
+76,538 
+
+- 
+
+- 
+
+76,538 
+
+Net (loss) 
+
+- 
+
+- 
+
+- 
+
+(1,289,689) 
+
+- 
+
+(1,289,689) 
+
+Balance, October 31, 2013 
+
+105,600,000 
+
+10,560 
+
+2,740,207 
+
+(10,580,156) 
+
+(90,009) 
+
+(7,919,398) 
+
+See Notes to Financial Statements 
+
+F-6 
+
+AURUM, INC. 
+
+(An Exploration Stage Company) 
+
+Statements of Cash Flows 
+
+Year 
+
+Ended 
+
+October 
+
+31, 2013 
+
+Year 
+
+Ended 
+
+October 
+
+31, 2012 
+
+For the period 
+
+from inception 
+
+September 29, 2008 to 
+
+October 31, 2013 
+
+US 
+
+US 
+
+US 
+
+CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Net (Loss) 
+
+(1,289,689) 
+
+(3,531,780) 
+
+(10,669,565) 
+
+Adjustments to reconcile net (loss) to net cash (used) in operating activities: 
+
+Employee options issued for stock based compensation 
+
+76,538 
+
+646,953 
+
+2,729,167 
+
+Foreign Currency Exchange (Gain) 
+
+(598,482) 
+
+(86,672) 
+
+(400,746) 
+
+Depreciation 
+
+28,418 
+
+40,044 
+
+106,032 
+
+Changes in operating assets and liabilities: 
+
+Prepayments 
+
+15,554 
+
+430,619 
+
+(8,744) 
+
+Receivables 
+
+(4,936) 
+
+(13,398) 
+
+(19,696) 
+
+Accounts Payable and Accrued Expenses 
+
+240,068 
+
+(19,743) 
+
+402,738 
+
+Net Cash used in Operating Activities 
+
+(1,532,529) 
+
+(2,533,977) 
+
+(7,860,814) 
+
+CASH FLOWS (USED) BY INVESTING ACTIVITIES 
+
+Property, plant equipment 
+
+- 
+
+- 
+
+(106,455) 
+
+Options fees prepaid 
+
+- 
+
+- 
+
+- 
+
+Net Cash (used) by Investing Activities 
+
+- 
+
+- 
+
+(106,455) 
+
+CASH FLOWS PROVIDED BY FINANCING ACTIVITIES 
+
+Issuance of shares 
+
+- 
+
+- 
+
+21,000 
+
+Advances Payable Affiliates 
+
+1,530,897 
+
+2,522,687 
+
+7,946,248 
+
+Net Cash Provided by Financing Activities 
+
+1,530,897 
+
+2,522,687 
+
+7,967,248 
+
+Effect of exchange rate changes on cash 
+
+(4,292) 
+
+19,878 
+
+12,818 
+
+Net Increase (Decrease) in Cash 
+
+(5,924) 
+
+8,588 
+
+12,797 
+
+Cash at Beginning of Period 
+
+18,721 
+
+10,133 
+
+- 
+
+Cash at End of Period 
+
+12,797 
+
+18,721 
+
+12,797 
+
+See Notes to Financial Statements 
+
+F-7 
+
+AURUM, INC. 
+
+(An Exploration Stage Company) 
+
+Notes to Financial Statements 
+
+October 31, 2013 and 2012 
+
+(1) ORGANIZATION AND BUSINESS 
+
+Aurum, Inc. ("Aurum or the Company") was incorporated in the State of Florida in September 2008. The principal stockholder of Aurum is Golden Target Pty Ltd., an Australian corporation Golden ), which owned 96.21 of Aurum as of October 31, 2013. 
+
+On January 20, 2010, the Company re-incorporated in the state of Delaware (the Reincorporation through a merger involving Liquid Financial Engines Inc. and Aurum, Inc., a Delaware Corporation that was a wholly owned subsidiary of Liquid. The Reincorporation was effected by merging Liquid with Aurum, with Aurum being the surviving entity. For purposes of the Company s financial reporting status, Aurum is deemed a successor to Liquid. 
+
+In July 2009, Golden acquired a 96 interest in Aurum from certain stockholders. In connection therewith, the Company appointed a new President/Chief Executive Officer/Director and Chief Financial Officer/Secretary. The sole director and stockholder of Golden is also the President of the Company. 
+
+Commencing August 2009, the Company decided to focus on mineral exploration for gold and copper in the Lao Peoples Democratic Republic. The Company s planned operations have not commenced and are considered to be in the exploration stage. 
+
+In December 2010, the Company executed a Management and Shareholders Agreement with Argonaut Overseas Investments Ltd AOI ), an indirectly wholly owned Subsidiary of Argonaut Resources N.L., in respect to Argonaut s 70 held Century Concession in Laos. 
+
+The agreement appoints Aurum as the manager of the Century Thrust Joint Venture Agreement Joint Venture and the Company has the right to earn 72.86 of AOI s interest in the Joint Venture which is equivalent to a 51 beneficial interest in the Century Concession. In order to acquire this interest, Aurum may be required to spend US 6.5 million on exploration within the five year period, ending December 2015. 
+
+On February 10, 2011, the Company entered into a Deed of Agreement with the shareholders of the Lao Inter Mining Options Ltd LIMO which granted Aurum an option to purchase LIMO s 20 interest in the Joint Venture Option ). This Agreement, in conjunction with the Management and Shareholders Agreement with AOI would have enabled Aurum to acquire, at its option, a 71 beneficial interest in the Century Concession. On October 24, 2011, the Company executed a Deed of Variation of Call Option extending the exercise date of the Option to April 24, 2012, for a consideration of 55,000 for each month extended. (see note 14). The Company decided not to exercise the option to purchase 20 of the Joint Venture. 
+
+The Company has funded operations since inception through advances from affiliated entities. The accompanying financial statements have been prepared in conformity with accounting principles generally accepted in the United States of America, which contemplates continuation of Aurum as a going concern. However, Aurum has limited assets, limited working capital, has not yet commenced revenue producing operations and has sustained recurring losses since inception. 
+
+The Company s ability to continue operations through fiscal 2014 is dependent upon future funding from affiliated entities, capital raisings, or its ability to commence revenue producing operations and positive cash flows. 
+
+F-8 
+
+(2) ACCOUNTING POLICIES 
+
+The Company is an exploration stage company and the following is a summary of the significant accounting policies followed in connection with the preparation of the financial statements. 
+
+(a) 
+
+Basis of presentation and use of estimates 
+
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure on contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates. 
+
+The functional and reporting currency of the Company is the US dollar. 
+
+(b) 
+
+Principles of Consolidation 
+
+The financial statements include the assets and liabilities of the Company and the entities it controlled at the end of the financial period and the results of the Company and the entities it controlled during the year. Where entities are not controlled throughout the entire financial year, the consolidated results include the results of those entities for that part of the period during which control exists. The effect of all transactions between entities in the group and the inter-entity balances are eliminated in full in preparing the consolidated financial statements. The Company has only one controlled entity. 
+
+(c) 
+
+Cash Equivalents 
+
+Aurum considers all highly liquid investments with an original maturity of three months or less at the time of purchase to be cash equivalents. For the periods presented there were no cash equivalents. 
+
+(d) 
+
+Federal Income Tax 
+
+The Company accounts for income taxes pursuant to ASC Topic 740, "Accounting for Income Taxes", which requires an asset and liability approach to calculating deferred income taxes. The asset and liability approach requires the recognition of deferred tax liabilities and assets for the expected future tax consequences of temporary differences between the carrying amounts and the tax basis of assets and liabilities. For the period presented, there was no taxable income. There are no deferred income taxes resulting from temporary differences in reporting certain income and expense items for income tax and financial accounting purposes. Aurum at this time is not aware of any net operating losses which are expected to be realised. 
+
+(e) 
+
+Australian Tax Law 
+
+The Company is an Australian resident corporation under Australian law and accordingly is subject to Australian income tax on its non-exempt worldwide assessable income (which includes capital gains), less allowable deductions, at the rate of 30 . Foreign tax credits are allowed where tax has been paid on foreign source income, provided the tax credit does not exceed 30 of the foreign source income. 
+
+Under the U.S. Australia tax treaty, a U.S. resident corporation such as Aurum is subject to Australian income tax on net profits attributable to the carrying on of a business in Australia through a permanent establishment in Australia. A permanent establishment is a fixed place of business through which the business of an enterprise is carried on. The treaty limits the Australian tax on interest and royalties paid by an Australian business to a U.S. resident to 10 of the gross interest or royalty income unless it relates to a permanent establishment. Although we consider that we do not have a permanent establishment in Australia, the Company may be deemed to have such an establishment due to the location of its administrative offices in Melbourne. In addition we may receive interest or dividends from time to time. 
+
+F-9 
+
+(f) 
+
+Loss per Share 
+
+The Company calculates loss per share in accordance with ASC Topic 260, Earnings per Share . 
+
+Basic income (loss) per share is computed by dividing net profit (loss) available to common stockholders by the weighted average number of common shares outstanding during the period. Diluted loss per share has not been presented as all the common stock equivalents are anti-dilutive (see Note 10). 
+
+(g) 
+
+Fair value of Financial Instruments 
+
+FASB ASC Topic 825, Financial Instruments , requires the Company to disclose, when reasonably attainable, the fair values of its assets and liabilities which are deemed to be financial instruments. 
+
+(h) 
+
+Property and Equipment 
+
+Property and equipment are recorded at cost. Depreciation is provided for using the straight-line method over the estimated useful life of the assets: 
+
+Depreciable Life 
+
+(in years) 
+
+Office equipment 
+
+1-2 
+
+Computer equipment 
+
+1-3 
+
+Furniture 
+
+1-2 
+
+(i) 
+
+Comparative Figures 
+
+Where necessary, comparative figures have been restated to be consistent with current year presentation. 
+
+(j) 
+
+Mineral Property Acquisition, Exploration Costs and Amortization of Mineral Rights 
+
+Mineral property acquisition, exploration and development costs are expensed as incurred until such time as economic reserves are quantified. To date, the Company has not established any proven or probable reserves on its mineral properties. When it is determined that a mining deposit can be economically and legally extracted or produced based on established proven and probable reserves, further exploration costs and development costs incurred after such determination will be capitalized. The establishment of proven and probable reserves is based on results of final feasibility studies which indicate whether a property is economically feasible. Upon commencement of commercial production, capitalized costs will be transferred to the appropriate asset category and amortized over their estimated useful lives. Capitalized costs, net of salvage values, relating to a deposit which is abandoned or considered uneconomic for the foreseeable future, will be written off. 
+
+F-10 
+
+(3) RECENT ACCOUNTING PRONOUNCEMENTS 
+
+The Company has implemented all new accounting pronouncements that are in effect. These pronouncements did not have any material impact on the financial statements unless otherwise disclosed, and the Company does not believe that there are any other new accounting pronouncements that have been issued that might have a material impact on its financial position or results of operations. 
+
+(4) PROPERTY AND EQUIPMENT 
+
+Property and equipment is stated at cost. The Company records depreciation and amortization, when appropriate, using the straight-line method over the estimated useful lives of the assets. Expenditures for maintenance and repairs are charged to expense as incurred. Additions, major renewals and replacements that increase the property s useful life are capitalized. Property sold or retired, together with the related accumulated depreciation is removed from the appropriate accounts and the resultant gain or loss is included in net income (loss). 
+
+At October 31, 2013 
+
+At October 31, 2012 
+
+Depreciable 
+
+Life 
+
+(in years) 
+
+Cost 
+
+Accumulated 
+
+Depreciation 
+
+Net 
+
+Book 
+
+Value 
+
+Cost 
+
+Accumulated 
+
+Depreciation 
+
+Net 
+
+Book 
+
+Value 
+
+Office Equipment 
+
+1-2 
+
+3,830 
+
+(3,830) 
+
+- 
+
+3,830 
+
+(3,830) 
+
+- 
+
+Computer Equipment 
+
+1-3 
+
+101,975 
+
+(101,552) 
+
+423 
+
+101,975 
+
+(73,303) 
+
+28,672 
+
+Furniture 
+
+1-2 
+
+650 
+
+(650) 
+
+- 
+
+650 
+
+(481) 
+
+169 
+
+106,455 
+
+(106,032) 
+
+423 
+
+106,455 
+
+(77,614) 
+
+28,841 
+
+The depreciation expense for fiscal 2013 amounted to 28,418 and for fiscal 2012 amounted to 40,044. 
+
+(5) AFFILIATE TRANSACTIONS 
+
+In August 2009, the Company entered into an agreement with AXIS Consultants Pty Ltd AXIS to provide geological, management and administration services to the Company, (the Service Agreement ). AXIS has some common management and is incorporated in Australia. One of the Company s directors (Mr. Joseph Gutnick) is also a director of AXIS and Mr. Peter Lee is Chief Financial Officer and Company Secretary of AXIS and owe fiduciary duties to both parties. AXIS s principal business is to provide geological, management and administration services to companies. We are one of nine companies that AXIS provides services to, namely, Legend International Holdings, Inc., Quantum Resources Limited, Merlin Diamonds Limited, Top End Minerals Limited, Northern Capital Resources Corp, Golden River Resources Corporation, Great Central Resources Corp, Aurum Inc., and Consolidated Gems Inc. 
+
+Each of the companies has some common Directors, officers and shareholders. In addition, each of the companies is substantially dependent upon AXIS for its senior management and certain mining and exploration staff. A number of arrangements and transactions have been entered into from time to time between such companies. It has been the intention of the companies and respective Boards of Directors that each of such arrangements or transactions should accommodate the respective interest of the relevant companies in a manner which is fair to all parties and equitable to the shareholders of each. Currently, there are no material arrangements or planned transactions between the Company and any of the other companies other than AXIS. 
+
+F-11 
+
+AXIS is paid by each company for the costs incurred by it in carrying out the administration function for each such company. Pursuant to the Service Agreement, AXIS performs such functions as payroll, maintaining employee records required by law and by usual accounting procedures, providing insurance, human resources, company secretarial, land management, certain exploration and mining support including provision of exploration managers and geologists, financial, accounting advice and services. AXIS also provides for the Company various services, including but not limited to the making available of office supplies, office facilities and any other services as may be required from time to time by the Company as and when requested by the Company. 
+
+We are required to reimburse AXIS for any direct costs incurred by AXIS for the Company. In addition, we are required to pay a proportion of AXIS s overhead cost based on AXIS s management estimate of our utilisation of the facilities and activities of AXIS plus a service fee of not more than 15 of the direct and overhead costs. Amounts invoiced by AXIS are required to be paid by us. We are also not permitted to obtain from sources other than AXIS, and we are not permitted to perform or provide ourselves, the services contemplated by the Service Agreement, unless we first request AXIS to provide the service and AXIS fails to provide the service within one month. 
+
+The Service Agreement may be terminated by AXIS or ourselves upon 60 days prior notice. If the Service Agreement is terminated by AXIS, we would be required to independently provide, or to seek an alternative source of providing, the services currently provided by AXIS. There can be no assurance that we could independently provide or find a third party to provide these services on a cost-effective basis or that any transition from receiving services under the Service Agreement will not have a material adverse effect on us. Our inability to provide such services or to find a third party to provide such services may have a material adverse effect on our operations. 
+
+In accordance with the Service Agreement, AXIS provides the Company with the services of our Chief Executive Officer, Chief Financial Officer and clerical employees, as well as office facilities, equipment, administrative and clerical services. We pay AXIS for the actual costs of such facilities plus a maximum service fee of 15 . AXIS billed Aurum, Inc as per the services agreement for 2013 of 225,336 (2012: 268,329). 
+
+During the year ended October 31, 2013, AXIS provided services in accordance with the services agreement and incurred direct costs on behalf of the Company of 225,336 (2012: 268,329), and advanced the Company 714,138 (2012: 2,029,099). At October 31, 2013, the Company owed AXIS 7,325,820 (2012: 6,456,697). During the year ended October 31, 2013 the Manager of the Laos operations advanced the Company 59,000 (2012: 173,500). At October 31, 2013, the Company owed the Manager 232,500 (2012: 173,500). The Company intends to repay these amounts with funds raised either via additional debt or equity offerings. AXIS and the Manager have advised it does not currently intend to require repayment of these advances prior to October 31, 2014, accordingly, the Company has decided to classify the amounts payable as non-current in the accompanying balance sheets 
+
+(6) INCOME TAXES 
+
+The Company recognises deferred tax assets or liabilities for the expected future consequences attributable to differences between the financial statement carrying amount of existing assets and liabilities and their respective tax basis. Deferred tax assets and liabilities are measured using the enacted tax rates in effect for the year in which those temporary differences are expected to be recovered or settled. 
+
+The Company is subject to taxation in the USA. 
+
+At October 31, 2013 and 2012, deferred taxes consisted of the following: 
+
+F-12 
+
+USA 
+
+2013 
+
+Total 
+
+2013 
+
+Deferred tax assets 
+
+Net operating loss carry-forward 
+
+1,938,947 
+
+1,938,947 
+
+Exploration expenditure 
+
+- 
+
+- 
+
+Less valuation allowance 
+
+(1,938,947) 
+
+(1,938,947) 
+
+Net deferred taxes 
+
+- 
+
+- 
+
+USA 
+
+2012 
+
+Total 
+
+2012 
+
+s 
+
+Deferred tax assets 
+
+Net operating loss carry-forward 
+
+1,405,146 
+
+1,405,146 
+
+Exploration expenditure 
+
+- 
+
+- 
+
+Less valuation allowance 
+
+(1,405,146) 
+
+(1,405,146) 
+
+Net deferred taxes 
+
+- 
+
+- 
+
+Under ASC 740, tax benefits are recognised only for tax positions that are more likely than not to be sustained upon examination by tax authorities, based on the technical merits of the position. The valuation allowance offsets the net deferred tax asset for which there is no assurance of recovery. The valuation allowance will be evaluated at the end of each year, considering positive and negative evidence about whether the deferred tax asset will be realized. 
+
+At that time, the allowance will either be increased or reduced; reduction could result in the complete elimination of the allowance if positive evidence indicates that the value of the deferred tax assets is no longer impaired and the allowance is no longer required. 
+
+The Company s tax returns for all years since fiscal 2010 remain open to examination by the respective tax authorities. There are currently no tax examinations in progress. 
+
+(7) FAIR VALUE OF FINANCIAL INSTRUMENTS 
+
+The Company s financial instruments consist of cash, accounts receivables, accounts payable and accrued expenses, and advances from affiliate. The carrying amounts of cash and accounts receivables approximate their respective fair values because of the short maturities of those instruments. Financial liabilities for which carrying values approximate fair value include accounts payable and accrued expenses. The fair value of advances from affiliate is not readily determinable as no similar market exists for these instruments and it doesn t have a specified date of repayment. 
+
+(8) EXPLORATION STAGE COMPANY 
+
+The Company is considered an exploration stage company and accordingly reports operations, stockholders deficit and cash flows since inception through the date that revenues are generated from management s intended operations. Since inception, the Company has incurred an operating loss of approximately 10,600,000. The Company s working capital has been primarily generated from advances from an affiliated entity as well as through the sales of common stock. 
+
+(9) CASH 
+
+The Company maintains cash deposits with financial institutions in Australia and in Laos. Cash deposits maintained in Australian dollars are translated into US dollars at the period end exchange rate with the related adjustment recognised in operations. 
+
+F-13 
+
+(10) NET LOSS PER SHARE 
+
+Basic income (loss) per share is computed by dividing net profit (loss) available to common stockholders by the weighted average number of common shares outstanding during the period. Diluted earnings per share is similarly calculated using the treasury stock method except that the denominator is increased to reflect the potential dilution that would occur if dilutive securities at the end of the applicable period were exercised. Options to acquire 3,250,000 shares of common stock were not included in the diluted weighted average shares outstanding as such effects would be anti-dilutive. 
+
+(11) STOCKHOLDERS EQUITY 
+
+In September 2008, 96,000,000 shares of common stock were issued to the Company s founder raising 9,000. 
+
+In March 2009, the Company raised 12,000 in a registered public offering of 9,600,000 shares of common stock share pursuant to a prospectus dated January 30, 2009. 
+
+On September 29, 2009 the Company s Board of Directors declared an 8-for-1 stock split in the form of a stock dividend that was payable in October 2009 to stockholders of record as of October 23, 2009. 
+
+The Company has accounted for this bonus issue as a stock split and accordingly, all share and per share data has been retroactively restated. 
+
+(12) ISSUE OF OPTIONS UNDER EQUITY INCENTIVE PLAN 
+
+(i) 
+
+Effective December 13, 2010, the Company issued 2,500,000 options over shares of Common Stock to employees under the 2010 Equity Incentive Plan that has been adopted by the Directors of the Company. The options vested 1/3 on December 13, 2010, 1/3 vested on November 17, 2011 and the balance vested on November 17, 2012. The exercise price of the options is US 1.00 and the latest exercise date for the options is November 17, 2020. 
+
+The Company has accounted for all options issued based upon their fair market value using the Binomial pricing model. 
+
+An external consultant has calculated the fair value of the 2,500,000 options using the Binomial valuation method using the following inputs: 
+
+Grant date 
+
+Dec 13, 2010 
+
+Dec 13, 2010 
+
+Dec 13, 2010 
+
+Grant date share price 
+
+US 1.10 
+
+US 1.10 
+
+US 1.10 
+
+Vesting date 
+
+Dec 13, 2010 
+
+Nov 17, 2011 
+
+Nov 17, 2012 
+
+Expected life in years 
+
+4.5 
+
+5.0 
+
+5.5 
+
+Risk-free rate 
+
+1.91 
+
+1.91 
+
+1.91 
+
+Volatility 
+
+95 
+
+95 
+
+95 
+
+Exercise price 
+
+US 1.00 
+
+US 1.00 
+
+US 1.00 
+
+Call option value 
+
+US 0.78 
+
+US 0.81 
+
+US 0.83 
+
+Options 
+
+Option Price 
+
+Per Share 
+
+US 
+
+Weighted 
+
+Average 
+
+Exercise Price 
+
+US 
+
+Outstanding at October 31, 2011 
+
+2,500,000 
+
+1.00 
+
+1.00 
+
+Granted 
+
+- 
+
+- 
+
+- 
+
+Forfeited 
+
+- 
+
+- 
+
+- 
+
+Outstanding at October 31, 2012 
+
+2,500,000 
+
+1.00 
+
+1.00 
+
+Granted 
+
+- 
+
+- 
+
+- 
+
+Forfeited 
+
+- 
+
+- 
+
+- 
+
+Outstanding at October 31, 2013 
+
+2,500,000 
+
+1.00 
+
+1.00 
+
+F-14 
+
+The exercise price is US 1.00 per option. The weighted average per option fair value of options granted during fiscal 2011 was US 0.81 and the weighted average remaining contractual life of those options is 8 years. There are 2,500,000 options currently exercisable. 
+
+For fiscal 2013, the amortization amounted to 40,686. 
+
+(ii) 
+
+In May 2011, the Company issued 750,000 options over shares of Common Stock to employees under the 2010 Equity Incentive Plan that has been adopted by the Directors of the Company. The options vested 1/3 upon grant date, 1/3 vested on February 1, 2012 and the balance vested on February 1, 2013. The exercise price of the options is US 1.00 and the latest exercise date for the options is February 1, 2018. 
+
+The Company has accounted for all options issued based upon their fair market value using the Binomial pricing model. 
+
+An external consultant has calculated the fair value of the 750,000 options using the Binomial valuation method using the following inputs: 
+
+Grant date 
+
+May 1, 2011 
+
+May 1, 2011 
+
+May 1, 2011 
+
+Grant date share price 
+
+US 1.30 
+
+US 1.30 
+
+US 1.30 
+
+Vesting date 
+
+May 1, 2011 
+
+Feb 1, 2012 
+
+Feb 1, 2013 
+
+Expected life in years 
+
+3.5 
+
+4.0 
+
+4.5 
+
+Risk-free rate 
+
+1.04 
+
+2.02 
+
+2.02 
+
+Volatility 
+
+100 
+
+100 
+
+100 
+
+Exercise price 
+
+US 1.00 
+
+US 1.00 
+
+US 1.00 
+
+Call option value 
+
+US 0.91 
+
+US 0.95 
+
+US 0.99 
+
+Options 
+
+Option Price 
+
+Per Share 
+
+US 
+
+Weighted 
+
+Average 
+
+Exercise Price 
+
+US 
+
+Outstanding at October 31, 2011 
+
+750,000 
+
+1.00 
+
+1.00 
+
+Granted 
+
+- 
+
+- 
+
+- 
+
+Forfeited 
+
+- 
+
+- 
+
+- 
+
+Outstanding at October 31, 2012 
+
+750,000 
+
+1.00 
+
+1.00 
+
+Granted 
+
+- 
+
+- 
+
+- 
+
+Forfeited 
+
+- 
+
+- 
+
+- 
+
+Outstanding at October 31, 2013 
+
+750,000 
+
+1.00 
+
+1.00 
+
+The exercise price is US 1.00 per option. The weighted average per option fair value of options granted during fiscal 2011 was US 0.95 and the weighted average remaining contractual life of those options is 5-1/4 years. There are 750,000 options currently exercisable. 
+
+For fiscal 2013, the amortization amounted to 35,852. 
+
+(13) COMMITMENTS 
+
+Pursuant to the Century Thrust Joint Venture Agreement (Joint Venture), the Company may be required to fund up to 6.5 million in exploration expenditure, of which 4.37 million has already been funded, in order to acquire a 51 beneficial interest in the Joint Venture. Should Aurum wish to execute its rights under the agreement, it may be required to expend up to a further 2.13 million on the Century Thrust Concession by December 2015, (see note 1). All such exploration costs are being expensed as incurred. 
+
+F-15 
+
+(14) OPTION AGREEMENT 
+
+Pursuant to the LIMO Deed, as amended, the Company has paid Option Fees of 405,000, along with associated costs of 20,000. 
+
+The Company had 60 days from the date of the last option payment to exercise the option to purchase 20 of the Joint Venture for 1.35 million, inclusive of the option fees of 405,000. On October 24, 2011, the Company executed a Deed of Variation of Call Option extending the exercise date of Option to April 24, 2012, for a consideration of 55,000 for each month extended. The Company did not exercise the option to purchase 20 of the Joint Venture on April 24, 2012 and accordingly 425,000 prepaid option fees have been expensed (see note 1). 
+
+(15) SUBSEQUENT EVENTS 
+
+The Company has evaluated the existence of significant events subsequent to the balance sheet date through the date the financial statements were issued and has determined that there were no subsequent events or transactions which would require recognition or disclosure in the financial statements, other than noted herein. 
+
+F-16
+
+<EX-21.1>
+ 2
+ a50791567_ex21-1.htm
+ EXHIBIT 21.1
+
+a50791567_ex21-1.htm 
+
+Exhibit 21.1 
+
+List of Subsidiaries as at October 31, 2013 
+
+Each of the following subsidiaries is wholly-owned by the Registrant. 
+
+Aurum Resources Pty Ltd 
+
+</EX-21.1>
+
+<EX-31.1>
+ 3
+ a50791567_ex31-1.htm
+ EXHIBIT 31.1
+
+a50791567_ex31-1.htm 
+
+Exhibit 31.1 
+
+CERTIFICATION PURSUANT TO 
+
+18 U.S.C. SECTION 1350 
+
+AS ADOPTED PURSUANT TO 
+
+SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Joseph Gutnick, certify that: 
+
+1. 
+
+I have reviewed this annual report on Form 10-K of Aurum, Inc. (the registrant 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+
+The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13(a)-15(e) and 15(d)-15(e)) and internal controls over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+
+designed such disclosure controls and procedures or caused such disclosure controls and procedures to be designed under our supervision to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+
+designed such internal controls over financial reporting, or caused such internal controls over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+
+evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this annual report our conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+
+disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+
+The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of registrant's board of directors (or persons performing the equivalent functions): 
+
+a) 
+
+all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+
+any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date: February 12, 2014 
+
+/s/ Joseph Gutnick 
+
+Name: Joseph I Gutnick 
+
+Title: Chairman, President and Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ a50791567_ex31-2.htm
+ EXHIBIT 31.2
+
+a50791567_ex31-2.htm 
+
+Exhibit 31.2 
+
+CERTIFICATION PURSUANT TO 
+
+18 U.S.C. SECTION 1350 
+
+AS ADOPTED PURSUANT TO 
+
+SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Simon Lee, certify that: 
+
+1. 
+
+I have reviewed this annual report on Form 10-K of Aurum, Inc. (the registrant 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+
+The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13(a)-15(e) and 15(d)-15(e)) and internal controls over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+
+designed such disclosure controls and procedures or caused such disclosure controls and procedures to be designed under our supervision to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+
+designed such internal controls over financial reporting, or caused such internal controls over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+
+evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this annual report based on such evaluation; and 
+
+d) 
+
+disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+
+The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of registrant's board of directors (or persons performing the equivalent functions): 
+
+a) 
+
+all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+
+any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date: February 12, 2014 
+
+/s/ Simon Lee 
+
+Name: Simon Lee 
+
+Title: Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ a50791567_ex32-1.htm
+ EXHIBIT 32.1
+
+a50791567_ex32-1.htm 
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+
+18 U.S.C. SECTION 1350 
+
+AS ADOPTED PURSUANT TO 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the report on Form 10-K of Aurum, Inc. (the Company for the fiscal year ended October 31, 2013 as filed with the Securities and Exchange Commission on the date hereof (the report ), the undersigned, Joseph Gutnick, Chief Executive Officer of the Company, certifies pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 that: 
+
+(1) The report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The information contained in the report fairly presents, in all material respects, the financial condition and result of operations of the Company. 
+
+Date: February 12, 2014 
+
+/s/ Joseph Gutnick 
+
+Name: Joseph I Gutnick 
+
+Title: Chairman, President and Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ a50791567_ex32-2.htm
+ EXHIBIT 32.2
+
+a50791567_ex32-2.htm 
+
+Exhibit 32.2 
+
+CERTIFICATION PURSUANT TO 
+
+18 U.S.C. SECTION 1350 
+
+AS ADOPTED PURSUANT TO 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the report on Form 10-K of Aurum, Inc. (the Company for the fiscal year ended October 31, 2013 as filed with the Securities and Exchange Commission on the date hereof (the report ), the undersigned, Simon Lee, Chief Financial Officer of the Company, certifies pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 that: 
+
+(1) The report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The information contained in the report fairly presents, in all material respects, the financial condition and result of operations of the Company. 
+
+Date: February 12, 2014 
+
+/s/ Simon Lee 
+
+Name: Simon Lee 
+
+Title: Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 9
+ aurm-20131031.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 10
+ aurm-20131031.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 11
+ aurm-20131031_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.LAB>
+ 12
+ aurm-20131031_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 13
+ aurm-20131031_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+
+<EX-101.DEF>
+ 14
+ aurm-20131031_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+

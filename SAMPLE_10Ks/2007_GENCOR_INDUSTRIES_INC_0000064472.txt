@@ -1,0 +1,3504 @@
+<Header>
+<FileStats>
+    <FileName>20071219_10-K_edgar_data_64472_0001193125-07-267732.txt</FileName>
+    <GrossFileSize>842168</GrossFileSize>
+    <NetFileSize>178652</NetFileSize>
+    <NonText_DocumentType_Chars>188288</NonText_DocumentType_Chars>
+    <HTML_Chars>414747</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001193125-07-267732.hdr.sgml : 20071219
+<ACCEPTANCE-DATETIME>20071219092459
+ACCESSION NUMBER:		0001193125-07-267732
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		9
+CONFORMED PERIOD OF REPORT:	20070930
+FILED AS OF DATE:		20071219
+DATE AS OF CHANGE:		20071219
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GENCOR INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000064472
+		STANDARD INDUSTRIAL CLASSIFICATION:	CONSTRUCTION MACHINERY & EQUIP [3531]
+		IRS NUMBER:				590933147
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11703
+		FILM NUMBER:		071315071
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5201 N ORANGE BLOSSOM TRAIL
+		CITY:			ORLANDO
+		STATE:			FL
+		ZIP:			32810
+		BUSINESS PHONE:		4072906000
+
+	MAIL ADDRESS:	
+		STREET 1:		5201 N ORANGE BLOSSOM
+		CITY:			ORANLANDO
+		STATE:			FL
+		ZIP:			32810
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MECHTRON INTERNATIONAL CORP
+		DATE OF NAME CHANGE:	19880128
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MECHTRON GENCO CORP
+		DATE OF NAME CHANGE:	19720411
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MECHTRON CORP
+		DATE OF NAME CHANGE:	19690909
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PCWWLBDeK1e5V/eQXgwTl/bi16ewJOdWc1tTpmOlVk1GZ/R7QaMlkwufqKNJBmVC
+ 0U/I1s3cSjxiX/BPKomgKA==
+
+ 0001193125-07-267732.txt : 20071219
+
+10-K
+ 1
+ d10k.htm
+ FORM 10-K
+
+Form 10-K 
+
+Table of Contents 
+
+ UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 10 K 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the Fiscal Year Ended September 30, 2007 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 Commission File No. 0-3821 GENCOR INDUSTRIES, INC. 
+
+Incorporated in the State of Delaware 
+ 
+ I.R.S. Employer Identification No. 59-0933147 
+ 5201 North Orange Blossom Trail Orlando, Florida 32810 Registrant s Telephone Number, Including Area
+Code: (407) 290-6000 SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT: None. SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT:
+ Common Stock .10 Par Value) Indicate by check mark if the registrant is a well-known seasonal issuer, as defined in Rule 405 of the Securities
+Act Yes No Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15 (d) of the
+Act Yes No Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to filing requirements for the past 90 days. Yes No Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of
+registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, or a non-accelerated filer. See definition of accelerated filer and large accelerated filer in Rule 12b-2 of the Exchange Act (check one): Large Accelerated Filer Accelerated Filer 
+ Non-Accelerated Filer Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No The aggregate market value of the common equity held by non-affiliates computed by reference to the price at which the common equity was last sold as of the last business day of the most recently completed second
+fiscal quarter was 62,034,060. Indicate the number of shares outstanding of each of the Registrant s classes of Common Stock, as of the latest
+practicable date: 7,967,372 shares of Common Stock .10 par value) and 1,642,998 shares of Class B Stock .10 par value) as of November 27, 2007. 
+
+Table of Contents 
+
+ DOCUMENTS INCORPORATED BY REFERENCE Part III of this Form 10-K is incorporated by reference from the Registrant s 2008 Proxy Statement for the Annual Meeting of the Stockholders.
+ Introductory Note Caution Concerning Forward-Looking Statements This Report on Form 10-K and our other communications and statements may contain forward-looking statements, including statements about our beliefs, plans, objectives, goals, expectations, estimates,
+projections and intentions. These statements are subject to significant risks and uncertainties and are subject to change based on various factors, many of which are beyond our control. The words may, could, 
+ should, would, believe, anticipate, estimate, expect, intend, plan, target, goal, and similar expressions are intended to
+identify forward-looking statements. All forward-looking statements, by their nature, are subject to risks and uncertainties. Our actual future results may differ materially from those set forth in our forward-looking statements. For information
+concerning these factors and related matters, see Risk Factors in Part I, Item 1A in this Report, and Management s Discussion and Analysis of Financial Condition and Results of Operations in Part II, Item 7 in
+this Report. However, other factors besides those referenced could adversely affect our results, and you should not consider any such list of factors to be a complete set of all potential risks or uncertainties. Any forward-looking statements made
+by us herein speak as of the date of this Report. We do not undertake to update any forward-looking statement, except as required by law. PART I 
+
+ITEM 1. 
+ BUSINESS General Gencor Industries, Inc. and its subsidiaries (the Company is a leading manufacturer of heavy machinery used in the production of highway construction
+materials, synthetic fuels, and environmental control equipment. The Company s products are manufactured in two facilities in the United States and one facility located in the United Kingdom. The Company s products are sold through a
+combination of Company sales representatives and independent dealers and agents located throughout the world. The Company designs and manufactures
+machinery and related equipment used primarily for the production of asphalt and highway construction materials. The Company s principal core products include asphalt plants, combustion systems and fluid heat transfer systems. The
+Company s technical and design capabilities, environmentally friendly process technology, and wide range of products have enabled it to become a leading producer of equipment worldwide. The Company believes it has the largest installed base of
+asphalt production plants in the United States. Because the Company s products are sold primarily to the highway construction industry, the business
+is seasonal in nature. The majority of orders for the Company s products are received between October and February, with a significant volume of shipments occurring prior to May. The principal factors driving demand for the Company s
+products are the level of government funding for domestic highway construction and repair, infrastructure development in emerging economies, the need for spare parts, and a trend towards larger plants resulting from industry consolidation.
+ In 1968, the foundation of the Company was formed by the merger of Mechtron Corporation with General Combustion, Inc. and Genco Manufacturing, Inc. The
+new entity reincorporated in Delaware in 1969 and adopted the name Mechtron International Corporation in 1970. In 1985, the Company began a series of acquisitions into related fields starting with the Beverley Group Ltd. in the United Kingdom.
+Hy-Way Heat Company, Inc. and the Bituma Group were acquired in 1986. In 1987, the Company changed its name to Gencor Industries, Inc. and acquired the Davis Line Inc. and its subsidiaries in 1988. 
+ 2 
+
+Table of Contents 
+
+ In January 1998, the Company finalized agreements with Carbontronics, LLC CLLC pursuant to which the
+Company sold, designed, manufactured, and installed four synthetic fuel production plants. These plants were subsequently sold by CLLC to a limited partnership LP ), Carbontronics Synfuels Investors, L.P., which is now the owner of the
+plants. The Company was paid in full for these plants in 1998. In addition to payment for the plants, per agreement, the Company received a member interest of 45 in CLLC. Future revenue to CLLC is based upon the production of these plants
+continuing to qualify for tax credits under Section 29 of the Internal Revenue Code, and the ability to economically produce and successfully market synthetic fuel produced by the plants. If the LP is successful in producing fuel which
+qualifies for tax credits, sells the synthetic fuel, sells the tax credits to investors, and has sufficient cash flow to cover all operating expenses, then the LP remits cash to CLLC as additional purchase price for the sale of the plants. CLLC
+generally distributes any cash receipts to its investors. Also, the Company received a 25 partnership position in the General Partner GP of
+the LP and in Carbontronics II, LLC C2LLC ). C2LLC receives royalty payments from the LP only if the LP is successful in producing fuel which qualifies for tax credits, sells the synthetic fuel, sells the tax credits to investors, and
+has sufficient cash flow to cover all other operating expenses. The remaining interests in the GP, CLLC, and C2LLC are owned by other, unrelated entities. An administrative member of the GP, not the Company, is responsible for administration of the
+day-to-day affairs of the GP and LP. The Company is entitled to appoint only one of the three members of the GP Management Committee and has 1/3 of the voting rights thereof. As a part of the member positions in CLLC, C2LLC, and the GP, the Company
+has the potential for income subject to the performance of the LP. Future benefits realizable by the Company on the synthetic fuel production plants depend on whether the production from these plants will continue to qualify for tax credits under
+Section 29 of the Internal Revenue Code and the ability to economically produce and successfully market synthetic fuel produced by the plants. 
+
+3 
+
+Table of Contents 
+
+ On August 8, 2003, the Company was notified by its investee General Partner that the income tax returns for its
+synthetic fuel producing partnership were being audited. As previously reported the Limited Partners may declare a Tax Event and suspend further distributions indefinitely. The Company was informed that the Limited Partners had declared
+a Tax Event and therefore future distributions had ceased. On December 12, 2003, the Company was notified by the General Partner that the
+IRS had issued rulings dated December 10, 2003 to the producing partnership concluding that, if the partnership adheres to the specified production methods and chemistry, the partnership would be entitled to the section 29 credit for the
+production of qualified fuel that is sold to unrelated persons. Although the IRS advised us that it is satisfied with the chemical testing procedures, it
+nevertheless proceeded with a general IRS audit. Therefore the previously imposed Tax Event continued and the Limited Partners were not allowing revenue to be distributed to the Company until satisfactory conclusion of the audit. On January 5, 2005, the Company was informed that the IRS had concluded its examination of the investees with no material adverse findings. As a result,
+distributions suspended since August 2003 resumed. The Company received 44.2 million during the fiscal year 2005. The Company recognized income of 14.5 million in 2006, for the distribution received less an accrual of 1 million for certain
+expenses associated with efforts by the Company as plaintiff in a matter against its synthetic fuels partners. The Company received 19.9 million of distributions in fiscal 2007. These distributions are subject to state and Federal income taxes.
+ Future distributions from these entities depend upon the production of these operations continuing to qualify for tax credits under Section 29 of the
+Internal Revenue Code and the ability to economically produce and market synthetic fuel produced by the plants. One of the contingencies related to future benefits from these entities is based on the average price of crude oil. Per a provision of
+Section 29, if the average price of crude oil reaches a certain level, the tax credits will terminate. The recent escalation in oil prices raises serious doubt on the continued availability of tax credits under Section 29 for the future.
+If oil prices remain at the current levels or increase, the tax credits could phase-out or terminate. Any one of the above eventualities may interrupt, reduce, or terminate further distributions. On May 15, 2006, the Company received notification from the administrative partner of these investments that the limited partners gave notice that the plants should
+be idled until further notice. They indicated the operations will be curtailed until the earlier of: 1) a legislative change adjusting the determination of the phase-out price, or 2) a downward movement in oil prices signaling some
+improved expectation that the credit phase-out will still provide sufficient capital to support the continuation of operations. On October 6, 2006, the Company received notification that the synthetic fuel plants had resumed operation and on
+October 18, 2006, the Company received a cash distribution of 3.1 million. The existing tax credit legislation is expiring at the end of calendar
+year 2007. Consequently, the four synthetic fuel plants are being decommissioned. The plants are in process of being sold or transferred to site owners in exchange for a release of all contracted liabilities related to the removal of plants from the
+sites. The administrative partner has informed the Company that there will be no operations in calendar 2008 and almost all of the partnership affairs will be finalized in early 2008. It is not possible to predict the amount, if any, of final
+distributions from the partnerships upon the final disposition and winding-up of operations. Products Asphalt Plants . The Company manufactures and produces hot-mix asphalt plants used in the production of asphalt paving materials. The Company also manufactures
+related asphalt plant equipment including hot mix storage silos, fabric filtration systems, cold feed bins and other plant components. The Company s H B (Hetherington and Berner) product line is the world s oldest asphalt plant line,
+first manufactured in 1894. The Company s subsidiaries, Bituma Corporation, formerly known as Boeing Construction Company, developed the continuous process for asphalt production, which has been adopted as the United States industry s
+standard technology, as well as patented the counterflow technology, several adaptations of which have become the industry standard, which recaptures and burns emissions and vapors, resulting in a cleaner and more efficient process. The Company
+manufactures a very comprehensive range of fully mobile batch plants, as well as mobile shredders and trommel screens. 
+ 4 
+
+Table of Contents 
+
+ Combustion Systems and Industrial Incinerators . The Company manufactures combustion systems, which are large
+burners that can transform most solid, liquid or gaseous fuels into usable energy, or burn multiple fuels, alternately or simultaneously. Through its subsidiary General Combustion, the Company has been a significant source of combustion systems for
+the asphalt and aggregate drying industries since the 1950 s. The Company also manufactures soil decontamination machinery, as well as combustion systems for rotary dryers, kilns, fume and liquid incinerators, boilers and tank heaters. The
+Company believes maintenance and fuel costs are lower for its burners because of their superior design. Fluid Heat Transfer Systems . The
+Company s General Combustion subsidiaries in the USA and U.K. manufacture the Hy-Way heat and Beverley lines of thermal fluid heat transfer systems and specialty storage tanks for a wide array of industry uses. Thermal fluid heat transfer
+systems are similar to boilers, but use high temperature oil instead of water. Thermal fluid heaters have been replacing steam pressure boilers as the best method of heat transfer for storage, heating and pumping viscous materials (i.e., asphalt,
+chemicals, heavy oils, etc.) in many industrial and petrochemical applications worldwide. The Company believes the high efficiency design of its thermal fluid heaters can outperform competitive units in many types of process applications. Heaters
+are available for vertical, horizontal and underground tanks in steel, stainless steel, and other materials designed to meet large or small specific job requirements. Product Engineering and Development The Company is engaged in product engineering and development efforts to
+expand its product lines and to further develop more energy efficient and environmentally compatible systems. Significant developments include the use of
+cost effective, non-fossil fuels, biomass (bagasse, municipal solid waste, sludge and wood waste), refuse-derived fuel, coal and coal mixtures, the economical recycling of old asphalt and new designs of environmentally compatible asphalt plants.
+Product engineering and development activities are directed toward more efficient methods of producing asphalt and lower cost fluid heat transfer systems. In addition, efforts are also focused on developing combustion systems that operate at higher
+temperatures and offer a higher level of environmental compatibility. The Company continues to evaluate opportunities in the energy field. Sources
+of Supply and Manufacturing Substantially all products sold by the Company and its subsidiaries are manufactured or assembled by the Company,
+except for procured raw materials and hardware. The Company purchases a large quantity of steel, raw materials and hardware used to manufacture its products from hundreds of suppliers and is not dependent on any single supplier. Periodically, the
+Company reviews the cost effectiveness of internal manufacturing versus outsourcing its product lines to independent third parties and currently believes it has the internal capability to produce the highest quality product at the lowest cost. This,
+however, may change from time to time. 
+ 5 
+
+Table of Contents 
+
+ Seasonality The Company is concentrated in the asphalt-related business and subject to a seasonal slow-down during the third and fourth quarters of the calendar year. Traditionally, the Company s customers do not purchase new equipment for
+shipment during the summer and fall months to avoid disrupting their peak season for highway construction and repair work. This slow-down often results in lower reported sales and earnings and/or losses during the first and fourth quarters of the
+Company s fiscal year. Competition The
+markets for the Company s products are highly competitive. Within a given product line, the industry remains fairly concentrated, with typically a small number of companies competing for the majority of a product line s industry sales. The
+principal competitive factors include technology and overall product design, dependability and reliability of performance, brand recognition, pricing and after-the-sale customer support. Management believes its ability to compete depends upon its
+continual efforts to improve product performance and dependability, competitively price its products, and provide the best customer support and service in the industry. Sales and Marketing The Company s products and services have been marketed internationally through a
+combination of Company-employed sales representatives and independent dealers and agents. Sales Backlog The Company s manufacturing processes allow for a relatively short turnaround from the order date to shipment date of usually less than ninety (90) days.
+Therefore, the size of the Company s backlog should not be viewed as an indicator of the Company s annualized revenues or future financial results. The Company s backlog was approximately 29 million and 28 million as of
+December 1, 2007 and December 1, 2006, respectively. Financial Information about Geographic Areas The Company has operations outside of the United States in the United Kingdom. For a geographic breakdown of revenues see the table captioned Reporting Segments in Note 1
+in our consolidated financial statements in Item 8 below. Licenses, Patents and Trademarks The Company holds numerous patents covering technology and applications related to various products, equipment and systems, and numerous trademarks and trade names
+registered with the U.S. Patent and Trademark Office and in various foreign countries. In general, the Company depends upon technological capabilities, manufacturing quality control and application know-how, rather than patents or other proprietary
+rights in the conduct of its business. The Company believes the expiration of any one of these patents, or a group of related patents, would not have a material adverse effect on the overall operations of the Company. 
+ 6 
+
+Table of Contents 
+
+ Government Regulations The Company believes its design and manufacturing processes meet all industry and governmental agency standards that may apply to its entire line of products, including all domestic and foreign environmental, structural, electrical and
+safety codes. The Company s products are designed and manufactured to comply with Environmental Protection Agency regulations. Certain state and local regulatory authorities have strong environmental impact regulations. While the Company
+believes that such regulations have helped, rather than restricted its marketing efforts and sales results, there is no assurance that changes to federal, state, local, or foreign laws and regulations will not have a material adverse effect on the
+Company s products and earnings in the future. Environmental Matters The Company is subject to various federal, state, local and foreign laws and regulations relating to the protection of the environment. The Company believes it is in material compliance with all applicable
+environmental laws and regulations. The Company does not expect any material impact on future operating costs as a result of compliance with currently enacted environmental regulations. The Company has conducted environmental assessments consistent with recognized standards of due diligence on properties and businesses which it acquired. These assessments had not identified contamination resulting
+from acquired properties that would be reasonably likely to result in a material adverse effect on the Company s business, results of operations, or financial condition. Employees As of September 30, 2007, the Company employed a total of 434 employees; there were 421
+employees in the domestic U.S. operations and 13 employees in the U.K. operations. The Company has collective bargaining agreements covering production and maintenance employees at its Marquette, Iowa facilities. The remaining domestic employees are
+not represented by a labor union or collective bargaining agreement. The Company believes that its relationship with its employees is good. 
+
+ITEM 1A. 
+ RISK FACTORS The following risk factors and other
+information included in this Annual Report on Form 10-K should be carefully considered. The risks and uncertainties described below are not the only ones we face. Additional risks and uncertainties not presently known to us or that we presently deem
+less significant may also impair our business operations. If any of the following risks actually occur, our business operating results and financial condition could be materially adversely affected. Our business is affected by the cyclical nature of the markets served by us. The demand for our products and service is dependent on general economic conditions
+and more specifically, the commercial construction industry. Adverse economic conditions may cause customers to forego or delay new purchases and rely more on repairing existing equipment thus negatively impacting our sales and profits. Rising gas
+and oil prices, increasing steel prices, and shortage of qualified workers can have adverse effects on us. Our business is affected by the level of
+government funding for highway construction . In 2005, the Federal Government passed the SAFETEA-LU bill. This bill appropriated a multi-year guaranteed funding for federal highway, transit and safety programs. Many of our customers depend on
+funding by Federal and state agencies. Future legislation may increase or decrease government spending, which if decreased, could have a negative affect on our financial condition or results of operations. Income from our investment in synthetic fuel partnerships is affected by the level of oil prices . The tax credits provided for the synthetic fuel industry under
+Section 29 of the Internal Revenue Code could phase-out or terminate if oil prices exceed certain levels. Other contingencies affecting the income from these investments include the ability to economically produce and successfully market
+synthetic fuel produced by these partnerships. 
+ 7 
+
+Table of Contents 
+
+ We face risks associated with our international business . We operate manufacturing and sales offices
+principally located in the United States and the United Kingdom. As a result, we are subject to business risks inherent in non-U.S. activities, including difficulty in staffing and managing foreign subsidiary operations, difficulty in managing
+distributors and dealers, adverse tax consequences, political and economic uncertainty and difficulty in accounts receivable collection. We are subject to the risks associated with the imposition of protective legislation and regulations, including
+those relating to import or export or otherwise resulting from trade or foreign policy. We cannot predict whether quotas, duties, taxes or other charges or restrictions will be implemented by the U.S. or any other country upon the import or export
+of our products. There can be no assurance that any of these factors, or the adoption of restrictive policies, will not have a material adverse effect on our business, financial condition and results of operations. In addition, we face market risk
+related to changes in interest rates and foreign currency exchange rates. Our principal currency exposure against the U.S. dollar is the British pound. Our foreign currency exposures generally are not hedged and there can be no assurance that our
+future results of operations and investments will not be adversely affected by currency fluctuations. Periodically, we use derivative financial instruments consisting primarily of interest rate hedge agreements to manage exposures to interest rate
+changes. If we have not adequately managed our exposure to fluctuating interest rates, our earnings and cash flow could be adversely affected. We may
+encounter difficulties with future acquisitions . As part of our growth strategy, we intend to evaluate the acquisitions of other companies, assets or product lines that would complement or expand our existing businesses or broaden our
+customer relationships. Although we conduct due diligence reviews of potential acquisition candidates, we may not be able to identify all material liabilities or risks related to potential acquisition candidates. There can be no assurance that we
+will be able to locate and acquire any business, retain key personnel and customers of an acquired business or integrate any acquired business successfully. Additionally, there can be no assurance that financing for any acquisition, if necessary,
+will be available on acceptable terms, if at all, or that we will be able to accomplish our strategic objectives in connection with any acquisition. Although we periodically consider possible acquisitions, no specific acquisitions are probable as of
+the date of this Report on Form 10-K. We could be harmed if we violate financial covenants contained in our credit facility . Our Revolving
+Credit and Security Agreement with PNC Bank, N.A., dated August 1, 2003, and amended July 31, 2006, imposes certain financial and operating covenants upon us, including, among others, restrictions on our ability to incur debt, or take
+certain other corporate actions. In addition, the credit facility requires that we maintain certain financial ratios and provides for limitations on capital expenditures. The foregoing covenants may restrict our ability to obtain additional funds,
+dispose of assets, or otherwise pursue our business strategies, and may impair our ability to obtain additional financing to fund future working capital requirements, capital expenditures, acquisitions and other general corporate purposes. Changes
+in economic or business conditions, results of operations or other factors could in the future cause a violation of one or more covenants in the credit facility, which could have a negative impact on our financial condition or results of operations.
+ Demand for our products is cyclical in nature . Orders for our products slow down during the summer and fall months since our customers
+generally do not purchase new equipment for shipment in their peak season for highway construction and repair work. In addition, demand for our products depends in part upon the level of capital and maintenance expenditures by the highway
+construction industry. The highway construction industry historically has been cyclical in nature and vulnerable to general downturns in the economy. Decreases in industry spending could have a material adverse effect upon demand for our products
+and negatively impact our business, financial condition and results of operations. Our Marketable Securities are comprised of stocks and bonds invested
+through a professional investment advisor and are subject to various risks such as interest rates, markets, and credit . Due to the level of risk associated with certain investment securities and the level of uncertainty related to changes in the
+value of securities, changes in these risk factors could have a material adverse impact on our results of operations. 
+ 8 
+
+Table of Contents 
+
+ There are and will continue to be quarterly fluctuations of our operating results . Our operating results
+historically have fluctuated from quarter to quarter as a result of a number of factors, including the value, timing and shipment of individual orders and the mix of products sold. Revenues from certain large contracts are recognized using the
+percentage of completion method of accounting. We recognize product revenues upon shipment for the rest of our products. Our asphalt production equipment operations are subject to seasonal fluctuation, which may lower sales and result in possible
+losses in the first and fourth fiscal quarters of each year. Traditionally, asphalt producers do not purchase new equipment for shipment during the summer and fall months to avoid disruption of their activities during peak periods of highway
+construction. If we are unable to attract and retain key personnel, our business could be adversely affected . The success of our business
+will continue to depend substantially upon the efforts, abilities and services of our management team and certain other key employees. The loss of one or more key employees could adversely affect our operations. Our ability to attract and retain
+qualified personnel, either through direct hiring, or acquisition of other businesses employing such persons, will also be an important factor in determining our future success. We may be required to defend our intellectual property against infringement or against infringement claims of others . We hold numerous patents covering technology and applications related to various
+products, equipment and systems, and numerous trademarks and trade names registered with the U.S. Patent and Trademark Office and in various foreign countries. There can be no assurance as to the breadth or degree of protection that existing or
+future patents or trademarks may afford us, or that any pending patent or trademark applications will result in issued patents or trademarks, or that our patents, registered trademarks or patent applications, if any, will be upheld if challenged, or
+that competitors will not develop similar or superior methods or products outside the protection of any patents issued, licensed or sublicensed to us. Although we believe that none of our patents, technologies, products or trademarks infringe upon
+the patents, technologies, products or trademarks of others, it is possible that our existing patent, trademark or other rights may not be valid or that infringement of existing or future patents, trademarks or proprietary rights may occur. In the
+event that our products are deemed to infringe upon the patent or proprietary rights of others, we could be required to modify the design of our products, change the name of our products or obtain a license for the use of certain technologies
+incorporated into our products. There can be no assurance that we would be able to do any of the foregoing in a timely manner, upon acceptable terms and conditions, or at all, and the failure to do so could have a material adverse effect on us. In
+addition, there can be no assurance that we will have the financial or other resources necessary to enforce or defend a patent, registered trademark or other proprietary right, and, if our products are deemed to infringe upon the patents, trademarks
+or other proprietary rights of others, we could become liable for damages, which could also have a material adverse effect on us. We may be subject to
+substantial liability for the products we produce . We are engaged in a business that could expose us to possible liability claims for personal injury or property damage due to alleged design or manufacturing defects in our products. We
+believe that we meet existing professional specification standards recognized or required in the industries in which we operate, and we have had no material product liability claims brought against us as of the date hereof. Although we currently
+maintain product liability coverage which we believe is adequate for the continued operation of our business, such insurance may prove inadequate or become difficult to obtain or unobtainable in the future on terms acceptable to us. We are subject to extensive environmental laws and regulations, and our costs related to compliance with, or our failure to comply with, existing or future laws and
+regulations, could adversely affect our business and results of operations . Our operations are subject to federal, state, local and foreign laws and regulations relating to the protection of the environment. Sanctions for noncompliance
+may include revocation of permits, corrective action orders, administrative or civil penalties and criminal prosecution. Our business involves environmental management and issues typically associated with historical manufacturing operations. To
+date, our cost of complying with environmental laws and regulations has not been material, but the fact that such laws or regulations are changed frequently makes predicting the cost or impact of such laws and regulations on our future operations
+uncertain. 
+ 9 
+
+Table of Contents 
+
+ The loss of one or more of our raw materials supplies could cause production delays, a reduction of revenues or an
+increase in costs. The principal raw materials we use are steel and related products. We have no long-term supply agreements with any of our major suppliers. However, we have generally been able to obtain sufficient supplies of raw materials for
+our operations, and changes in prices of such materials historically have not had a significant affect on our operations. Although we believe that such raw materials are readily available from alternate sources, an interruption in our supply of
+steel and related products or a substantial increase in the price of any of these raw materials could have a material adverse effect on our business, financial condition and results of operations. We are subject to significant government regulations . We are subject to a variety of governmental regulations relating to the manufacturing of our
+products. Any failure by us to comply with present or future regulations could subject us to future liabilities, or the suspension of production that could have a material adverse effect on our results of operations. Such regulations could also
+restrict our ability to expand our facilities, or could require us to acquire costly equipment or to incur other expenses to comply with such regulations. Although we believe we have the design and manufacturing capability to meet all industry or
+governmental agency standards that may apply to our product lines, including all domestic and foreign environmental, structural, electrical and safety codes, there can be no assurance that governmental laws and regulations will not become more
+stringent over time, imposing greater compliance costs and increasing risks and penalties associated with a violation. The cost to us of such compliance to date has not materially affected our business, financial condition or results of operations.
+There can be no assurance, however, that violations will not occur in the future as a result of human error, equipment failure or other causes. Our customers are also subject to extensive regulations, including those related to the workplace. We
+cannot predict the nature, scope or effect of governmental legislation, or regulatory requirements that could be imposed or how existing or future laws or regulations will be administered, or interpreted. Compliance with more stringent laws or
+regulations, as well as more vigorous enforcement policies of regulatory agencies, could require substantial expenditures by us and could adversely affect our business, financial condition and results of operations. Our management has effective voting control . Our officers and directors beneficially own an aggregate of approximately 88.2 of the outstanding shares of
+our .10 par value Class B stock. The Class B stock is entitled to elect 75 (calculated to the nearest whole number, rounding five-tenths to next highest whole number) of the members of our board of directors. Further, approval of a majority of the
+Class B stock is generally required to effect a sale of us and certain other corporate transactions. As a result, these stockholders can elect more than a majority of the board of directors and exercise significant influence over most matters
+requiring approval by our stockholders. This concentration of control may also have the effect of delaying or preventing a change in control. The
+issuance of preferred stock may impede a change of control or may be dilutive to existing stockholders . Our Certificate of Incorporation, as amended, authorizes our Board of Director, without stockholder vote, to issue up to 300,000
+shares of preferred stock in one or more series and to determine for any series the dividend, liquidation, conversion, voting or other preferences, rights and terms that are senior, and not available, to the holders of our common stock. Thus,
+issuances of series of preferred stock could adversely affect the relative voting power, distributions and other rights of the common stock. The issuance of preferred stock could deter or impede a merger, tender offer or other transaction that some,
+or a majority, of our common stockholders might believe to be in their best interest or in which our common stockholders might receive a premium for their shares over the then current market price of such shares. We may be required to indemnify our directors and executive officers . We have authority under Section 145 of the Delaware General Corporation Law to
+indemnify our directors and officers to the extent provided in that statute. Our Certificate of Incorporation, as amended, provides that a director shall not be personally liable to us for breach of fiduciary duty as a director, except to the extent
+such exemption from liability or limitation thereof is not permitted under the Delaware General Corporation Law. Our Bylaws provide in part that we indemnify each of our directors and officers against liabilities imposed upon them (including
+reasonable amounts paid in settlement) and expenses incurred by them in connection with any claim made against them or any action, suit or proceeding to which they may be a party by reason of their being or having been a director or officer. We
+maintain officer s and director s liability insurance coverage. There can be no assurance that such insurance will 
+ 
+ 10 
+
+Table of Contents 
+
+be available in the future, or that if available, it will be available on terms that are acceptable to us. Furthermore, there can be no assurance that the
+insurance coverage provided will be sufficient to cover the amount of any judgment awarded against an officer or director (either individually or in the aggregate). Consequently, if such judgment exceeds the coverage under the policy, we may be
+forced to pay such difference. We enter into indemnification agreements with each of our executive officers and directors containing provisions that may
+require us, among other things, to indemnify them against certain liabilities that may arise by reason of their status or service as officers or directors (other than liabilities arising from willful misconduct of a culpable nature) and to advance
+their expenses incurred as a result of any proceeding against them as to which they could be indemnified. Management believes that such indemnification provisions and agreements are necessary to attract and retain qualified persons as directors and
+executive officers. We do not expect to pay dividends for the foreseeable future . For the foreseeable future, we intend to retain any
+earnings to finance our business requirements, and we do not anticipate paying any cash dividends on our common stock or Class B stock. Any future determination to pay dividends will be at the discretion of our Board of Directors and will be
+dependent upon then existing conditions, including our financial condition and results of operations, capital requirements, contractual restrictions, business prospects, and other factors that the Board of Directors considers relevant. 
+
+ITEM 1B. 
+ UNRESOLVED STAFF COMMENTS None. 
+
+ITEM 2. 
+ PROPERTIES The following table lists the properties owned or leased by
+the Company as of September 30, 2007: 
+
+Location 
+ 
+ Owned Acreage 
+ 
+ Building Square Footage 
+ 
+ Principal Function 
+ 
+ Billingshurst, West Sussex England 
+ 
+ 1.2 
+ 
+ 5,000 
+ 
+ Offices 
+ 
+ Marquette, Iowa (1 
+ 
+ 72.0 
+ 
+ 137,000 
+ 
+ Offices and manufacturing 
+ 
+ Orlando, Florida (1) 
+ 
+ 27.0 
+ 
+ 171,000 
+ 
+ Corporate offices and manufacturing 
+
+(1) 
+ These properties are owned and pledged as security under the Company s credit agreement. See Note 3 to our consolidated financial statements in Item 8 below for more information about our properties. 
+
+ITEM 3. 
+ LEGAL PROCEEDINGS The Company has various litigation and claims pending
+as of the date of this Form 10-K which have occurred in the ordinary course of business, and which may be covered in whole or in part by insurance. Management has reviewed all litigation matters arising in the ordinary course of business and, upon
+advice of counsel, has made provisions, not deemed material, for any estimable losses and expenses of litigation. 
+ 11 
+
+Table of Contents 
+
+ITEM 4. 
+ SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS There were no
+matters submitted during the fourth quarter of this fiscal year to a vote of security holders. 
+ 12 
+
+Table of Contents 
+
+ PART II 
+
+ITEM 5. 
+ MARKET FOR THE REGISTRANT S COMMON EQUITY AND RELATED SHAREHOLDER MATTERS The Company s stock is traded over the counter on the Pink Sheets and the OTC Electronic Bulletin Board under the symbol GNCI.OB . Following are the high and low per share bid prices for our common
+stock for the periods indicated: 
+
+HIGH 
+ 
+ LOW 
+ 
+ 2007 
+
+First Quarter 
+
+12.85 
+
+9.20 
+
+Second Quarter 
+
+12.25 
+
+9.00 
+
+Third Quarter 
+
+11.00 
+
+9.00 
+
+Fourth Quarter 
+
+10.25 
+
+9.00 
+
+2006 
+
+First Quarter 
+
+8.25 
+
+6.20 
+
+Second Quarter 
+
+10.00 
+
+7.30 
+
+Third Quarter 
+
+9.95 
+
+9.05 
+
+Fourth Quarter 
+
+9.50 
+
+9.10 
+ As of November 27, 2007, there were 325 holders of Common Stock of record and seven holders of Class B Stock
+of record. Dividend Policy The Company has not paid any
+dividends during the last two fiscal years and there is no intention to pay cash dividends in the foreseeable future. 
+ 13 
+
+Table of Contents 
+
+ EQUITY COMPENSATION PLAN In the following table is information about our common stock that may be issued upon exercise of options, warrants and rights under all of our existing equity compensation plans and arrangements as of September 30, 2007, including the
+1997 Stock Option Plan. 
+
+Plan Category 
+ 
+ Number of Securities to be issued
+upon exercise of outstanding options, warrants and rights 
+ 
+ Weighted- average exercise price of outstanding options, warrants and rights 
+ 
+ Number of Securities remaining available for future issuance under equity compensation plans (excluding
+securities reflected in second column) 
+ 
+ Equity compensation plans approved by security holders 
+ 
+ 30,000 
+
+9.32 
+ 
+ 0 
+ 
+ Equity compensation plans not approved by security holders 
+ 
+ 0 
+
+0 
+ 
+ 0 
+
+Total 
+ 
+ 30,000 
+
+9.32 
+ 
+ 0 
+
+The following graph sets forth the cumulative total stockholder return (assuming reinvestment of
+dividends) to the Company s stockholders during the five-year period ended September 30, 2007, as well as the Wilshire Small Capitalization Index and the Dow Jones Heavy Construction Index. The stock performance assumes 100 was invested
+on October 1, 2002. 
+
+14 
+
+Table of Contents 
+
+ Comparison of Cumulative Total Return Among Gencor Industries, Inc., the Wilshire Small Capitalization Index and the Dow Jones Heavy Construction Index 
+
+With Base Year of 2002: 
+ 
+ 9/30/02 
+ 
+ 9/30/03 
+ 
+ 9/30/04 
+ 
+ 9/30/05 
+ 
+ 9/30/06 
+ 
+ 9/30/07 
+ 
+ Gencor Industries, Inc. 
+ 
+ 100.00 
+ 
+ 142.42 
+ 
+ 530.30 
+ 
+ 493.94 
+ 
+ 560.61 
+ 
+ 600.00 
+
+DJ Heavy Construction Index 
+ 
+ 100.00 
+ 
+ 140.32 
+ 
+ 153.16 
+ 
+ 243.91 
+ 
+ 289.83 
+ 
+ 584.36 
+
+Wilshire Small Cap Index 
+ 
+ 100.00 
+ 
+ 139.22 
+ 
+ 160.48 
+ 
+ 192.20 
+ 
+ 196.94 
+ 
+ 208.66 
+ Subsequent to June 1, 2000, the Company s stock has traded on the pink sheets under the
+stock symbol GRCX until 2003 when the stock symbol was changed to GNCI . In January 2005, quotation on the Company s stock commenced reporting on the OTC Electronic Bulletin Board under the symbol GNCI.OB .
+ On December 20, 2007, the Company s stock will be available for trading on NASDAQ under the symbol GENC . 
+ 15 
+
+Table of Contents 
+
+ITEM 6. 
+ SELECTED FINANCIAL DATA 
+
+Years Ended September 30 
+
+2007 
+ 
+ 2006 
+ 
+ 2005 
+
+2004 
+ 
+ 2003 
+
+(in thousands, except per share data) 
+
+Net revenue 
+
+75,286 
+
+67,107 
+
+48,140 
+
+54,070 
+
+55,898 
+
+Operating income (loss) 
+
+6,333 
+
+1,359 
+
+(1,258) 
+
+4,171 
+
+(1,173) 
+
+Net Income 
+
+18,495 
+
+11,587 
+
+31,307 
+
+2,604 
+
+7,260 
+
+Per share data: 
+
+Basic: 
+
+Net Income 
+
+1.91 
+
+1.17 
+
+3.50 
+
+0.30 
+
+0.84 
+
+Diluted: 
+
+Net Income 
+
+1.91 
+
+1.17 
+
+3.29 
+
+0.27 
+
+0.82 
+
+Cash dividends declared per common share 
+
+Selected balance sheet data: 
+
+September 30, 
+
+2007 
+ 
+ 2006 
+ 
+ 2005 
+
+2004 
+ 
+ 2003 
+
+Current assets 
+
+96,392 
+
+67,634 
+
+63,745 
+
+22,195 
+
+19,331 
+
+Current liabilities 
+
+14,048 
+
+11,888 
+
+10,361 
+
+18,437 
+
+16,518 
+
+Total assets 
+
+104,227 
+
+80,974 
+
+78,010 
+
+42,812 
+
+40,634 
+
+Long-term debt, less current maturities 
+
+5,701 
+
+5,321 
+
+Shareholders equity 
+
+83,781 
+
+63,043 
+
+51,435 
+
+15,294 
+
+12,609 
+
+16 
+
+Table of Contents 
+
+ITEM 7. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS Forward-Looking Information This Form 10-K contains certain forward-looking
+statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ), which represent our expectations and beliefs, including, but not limited to, statements concerning gross
+margins, sales of our products and future financing plans, income from investees and litigation. These statements by their nature involve substantial risks and uncertainties, certain of which are beyond our control. Actual results may differ
+materially depending on a variety of important factors, including the financial condition of our customers, changes in the economic and competitive environments, whether or not the Company receives income from its investees, the performance of our
+investment portfolio and the demand for our products. For information concerning these factors and related matters, see Risk Factors in Part
+I, Item 1A in this Report. However, other factors besides those referenced could adversely affect our results, and you should not consider any such list of factors to be a complete set of all potential risks or uncertainties. Any
+forward-looking statements made by us herein speak as of the date of this Report. We do not undertake to update any forward-looking statement, except as required by law. Results of Operations Year ended September 30, 2007 compared with the year ended September 30, 2006
+ Net sales for the years ended September 30, 2007 and 2006 were 75.3 million and 67.1million, respectively. Domestic sales during this period for
+2007 and 2006 were 72.4 million and 63.1 million, respectively. Domestic sales were higher than the prior year due to the general improvement in the road-building industry, partially due to the passage of the Federal highway bill in the summer of
+2005. Foreign sales decreased by 1.1 million due to one large order in 2006. Backlog was 24.5 million at September 30, 2007, compared to a backlog of only 5 million at September 30, 2006. Gross margin for fiscal 2007 was 3.1 million higher than fiscal 2006 and as a percent of net sales was 26.4 in 2007 and 25.0 of sales for 2006. The increased volume
+in our manufacturing plants improved overhead absorption and improved margins. Domestic margins were negatively affected by .7 million in 2007 and 2006 due to an increase in the LIFO reserve. Product engineering and development costs increased .5 million due to hiring of additional engineers. Selling and administrative expenses decreased 2.4 million during
+2007 due to lower legal costs offset by .7 million due to higher commissions and payroll costs resulting from the higher sales volume. Operating income
+was 6.3 million in 2007 compared to 1.4 million in 2006. Operating income increased as a result of increased domestic business, higher gross margins in 2007, and reduced selling and administrative expenses. During fiscal 2007, we sold land and buildings for 5,481 resulting in a loss of 1,633 after an adjustment of 1,905 for the cumulative translation adjustment related
+to the assets sold. The increase in value of marketable securities is a result of additional net cash invested in marketable securities 10 million) and
+the increase in the market value 5.8 million) of the securities held in the portfolio. We recognized income from investees of 19,937 in 2007 and
+ 14,547 of income from investees in 2006. The operations of Carbontronics LLC consist of the receipt of contingent payments from the sales of the plants and the distribution thereof to its members. Carbontronics LLC has no other significant
+operations or assets. The operations of Carbontronics II, LLC consist of the receipt of royalty payments from the plants and the distribution thereof to its members. Carbontronics II, LLC has no other significant operations or assets. Any income
+arising from these investments is dependent upon tax credits (adjusted for operating losses at the fuel 
+ 
+ 17 
+
+Table of Contents 
+
+plants) being generated as a result of synthetic fuel production, which will be recorded as received. These distributions are subject to state and Federal
+income taxes. Future distributions from these entities depend upon the production of these operations continuing to qualify for tax credits under Section 29 of the Internal Revenue Code and the ability to economically produce and market
+synthetic fuel produced by the plants. One of the contingencies related to future benefits from these entities is based on the average price of crude oil. Per a provision of Section 29, if the average price of crude oil reaches a certain level,
+the tax credits will terminate. The recent escalation in oil prices raises serious doubt on the continued availability of tax credits under Section 29 for the future. If oil prices remain at the current levels or increase, the tax credits could
+phase-out or terminate. Any one of the above eventualities may interrupt, reduce, or terminate further distributions. The existing tax credit legislation
+is expiring at the end of calendar year 2007. Consequently, the four synthetic fuel plants are being decommissioned. The plants are in process of being sold or transferred to site owners in exchange for a release of all contracted liabilities
+related to the removal of plants from the sites. The administrative partner has informed the Company that there will be no operations in calendar 2008 and almost all of the partnership affairs will be finalized in early 2008. It is not possible to
+predict the amount, if any, of final distributions from the partnerships upon the final disposition and winding-up of operations. Income taxes were 39.5 
+of pre-tax income for 2007 and 37 for 2006. The effective tax rate is higher than the Federal rate of 35 due to state income taxes and losses for foreign operations for which no tax benefit has been recognized. Year ended September 30, 2006 compared with the year ended September 30, 2005 Net sales for the years ended September 30, 2006 and 2005 were 67.1 million and 48.1million, respectively. Domestic sales during this period for 2006 and 2005 were 63.1 million and 46.9 million, respectively.
+Domestic sales were higher than the prior year due to the improved economy and the passage of the Federal highway bill in the summer of 2005. Foreign sales increased by 2.7 million due to one large order. Backlog was only 5 million at
+September 30, 2006, however, it had increased to over 28 million as of December 1, 2006. This compares to a backlog of 24 million as of December 1, 2005. Gross margin for fiscal 2006 was 5.8 million higher than fiscal 2005 and as a percent of net sales was 25.0 in 2006 and 22.7 of sales for 2005. The increased volume in our manufacturing plants improved overhead
+absorption and improved margins. Domestic margins were negatively affected by .7 million in 2006 and .5 million in 2005 due to an increase in the LIFO reserve. Product engineering and development costs remained at comparable levels with 2005. Selling and administrative expenses increased 1.6 million during 2006 due to higher legal costs and .5 million due to higher commissions and payroll costs
+resulting from the higher sales volume. Operating income was 1.4 million in 2006 compared to a loss of 1.3 million) in 2005. Operating income increased
+as a result of increased domestic and foreign business, higher gross margins in 2006, partially offset by the higher selling and administrative expenses. The increase in value of marketable securities is a result of the net cash invested in marketable securities since the second quarter of fiscal 2005 and the increase in the market value of the securities held in the portfolio. 
+ The Company recognized income from investees of 14,457 in 2006, for the distribution received less an accrual of 1 million for certain expenses associated with our
+efforts as plaintiff in a matter against its synthetic fuels partners. We received 44,238, during the fiscal year 2005. We received no distributions in fiscal 2004. The operations of Carbontronics LLC consist of the receipt of contingent payments
+from the sales of the plants and the distribution thereof to its members. Carbontronics LLC has no other significant operations or assets. The operations of Carbontronics II, LLC consist of the receipt of royalty payments from the plants and the
+distribution thereof to its members. Carbontronics II, LLC has no other significant operations or assets. Any income arising from these investments is dependent upon tax credits (adjusted for operating losses at the fuel 
+ 
+ 18 
+
+Table of Contents 
+
+plants) being generated as a result of synthetic fuel production, which will be recorded as received. These distributions are subject to state and Federal
+income taxes. Future distributions from these entities depend upon the production of these operations continuing to qualify for tax credits under Section 29 of the Internal Revenue Code and the ability to economically produce and market
+synthetic fuel produced by the plants. One of the contingencies related to future benefits from these entities is based on the average price of crude oil. Per a provision of Section 29, if the average price of crude oil reaches a certain level,
+the tax credits will terminate. The recent escalation in oil prices raises serious doubt on the continued availability of tax credits under Section 29 for the future. If oil prices remain at the current levels or increase, the tax credits could
+phase-out or terminate. The existing tax credit legislation is scheduled to expire at the end of calendar year 2007. Any one of the above eventualities may interrupt, reduce, or terminate further distributions. Income taxes were 37 of pre-tax income for 2006 and 31 for 2005. The tax provision in 2005 includes a reduction of 2.5 million (5.5 in the tax contingency
+reserve as a result of resolution of prior year tax filings and expiration of the statute of limitations. Liquidity and Capital Resources
+ We entered into a Revolving Credit and Security Agreement with PNC Bank, N.A. The Agreement established a three year revolving 20 million credit
+facility and was renewed through July 31, 2009. The facility provides for advances based on accounts receivable, inventory and real estate. The facility includes a 2 million limit on letters of credit. At September 30, 2007, we had .7
+million of letters of credit outstanding. The interest rate at September 30, 2007, is at LIBOR plus 2.00 and subject to change based upon the Fixed Charge Coverage Ratio. We are required to maintain a Fixed Charge Coverage Ratio of 1.1:1.
+There are no required repayments as long as there are no defaults and there is adequate eligible collateral. Substantially all of our assets are pledged as security under the Agreement. We had no long term debt outstanding at September 30, 2007
+or 2006. As of September 30, 2007, we had 3.7 million in cash and cash equivalents, and 51.8 million in marketable securities. The marketable
+securities are invested in stocks and bonds through a professional investment advisor. The securities may be liquidated at any time into cash and cash equivalents. Inventories have increased from 23.0 million at September 30, 2006, to 34.7 million at September 30, 2007, as we have built inventory to meet the high demands for plant deliveries in early calendar 2008. This demand is reflected
+in the large backlog of 24.5 million at September 30, 2007, versus only 4.6 million in backlog at September 30, 2006. Critical Accounting
+Policies, Estimates and Assumptions We believe the following discussion addresses our most critical accounting policies, which are those that are most
+important to the portrayal of our financial condition and results of operations and require management s most difficult, subjective, or complex judgments, often as a result of the need to make estimates about the effect of matters that are
+inherently uncertain. Accounting policies, in addition to the critical accounting policies referenced below, are presented in Note 1 to our consolidated financial statements, Accounting Policies. Estimates and Assumptions In preparing the consolidated financial
+statements, we use certain estimates and assumptions that may affect reported amounts and disclosures. Estimates and assumptions are used, among other places, when accounting for certain revenue (e.g. contract accounting), expense, and asset and
+liability valuations. We believe that the estimates and assumptions made in preparing the consolidated financial statements are reasonable, but are inherently uncertain and unpredictable. Assumptions may be incomplete or inaccurate and unanticipated
+events may occur. We are subject to risks and uncertainties that may cause actual results to differ from estimated results. 
+ 19 
+
+Table of Contents 
+
+ Revenues Revenues
+from contracts for the design and manufacture of certain custom equipment are recognized under the percentage-of-completion method. Revenues from all other sales are recorded as the products are shipped or service is performed. The percentage-of-completion method of accounting for long term contracts recognizes revenue in proportion to actual labor costs incurred as compared with total
+estimated labor costs expected to be incurred during the entire contract. All selling, general and administrative expenses are charged to operations as incurred. Provision is made for any anticipated contract losses in the period that the loss
+becomes evident. Investment in Unconsolidated Investees As of September 30, 2007, 2006, and 2005, we own a 45 interest in Carbontronics LLC and a 25 interest in Carbontronics Fuels LLC and Carbontronics II LLC. These interests were obtained as part of contracts to build four synthetic
+fuel production plants during 1998. We have no basis in these equity investments or requirement to provide future funding. Any income arising from these investments is dependent upon tax credits (adjusted for operating losses at the fuel plants)
+being generated as a result of synthetic fuel production, which will be recorded as received. Inflation The overall effects of inflation on our business during the periods discussed have not been significant. We monitor the prices we charge for our products and services on
+an ongoing basis and believe that we will be able to adjust those prices to take into account future changes in the rate of inflation. Contractual
+Obligations The following table summarizes our outstanding borrowings and long-term contractual obligations at September 30, 2007: 
+
+Less than 
+
+3 - 5 
+ 
+ More than 
+
+Total 
+ 
+ 1 Year 
+ 
+ 1-3 Years 
+ 
+ Years 
+ 
+ 5 Years 
+ 
+ Long-term debt 
+
+Operating leases 
+
+142 
+
+67 
+
+75 
+
+Total 
+
+142 
+
+67 
+
+75 
+
+The long-term debt facility matures in 2009. We also have .7 million of letters of credit outstanding. The
+letters of credit are for one year and have been renewed annually. Off-Balance Sheet Arrangements None 
+
+ITEM 7A. 
+ QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK The
+Company operates manufacturing facilities and sales offices principally located in the United States and the United Kingdom. The Company is subject to business risks inherent in non-U.S. activities, including political and economic uncertainty,
+import and export limitations, and market risk related to changes in interest rates and foreign currency exchange rates. The Company s principal currency exposure against the U.S. dollar is the British pound. Periodically, the Company will use
+derivative financial instruments consisting primarily of interest rate hedge agreements to manage exposures to interest rate changes. The Company s objective in managing its exposure to changes in interest rates on its variable rate debt is to
+limit their impact on earnings and cash flow and reduce its overall borrowing costs. 
+ 20 
+
+Table of Contents 
+
+ At September 30, 2007 and 2006, the Company had no debt outstanding. Under the Revolving Credit and Security
+Agreement, substantially all of the Company s borrowings will bear interest at variable rates based upon the prime rate or LIBOR. The Company s
+marketable securities are invested in stocks and bonds through a professional investment advisor. Investment securities are exposed to various risks such as interest rate, market and credit. Due to the level of risk associated with certain
+investment securities and the level of uncertainty related to changes in the value of securities, it is possible that changes in these risk factors could have an adverse material impact on the Company s results of operations or equity.
+ The Company s sensitivity analysis for interest rate risk excludes accounts receivable, accounts payable and accrued liabilities because of the
+short-term maturity of such instruments. The analysis does not consider the effect on other variables such as changes in sales volumes or management s actions with respect to levels of capital expenditures, future acquisitions or planned
+divestures, all of which could be significantly influenced by changes in interest rates. 
+ 21 
+
+Table of Contents 
+
+ITEM 8. 
+ FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA INDEX TO FINANCIAL STATEMENTS AND FINANCIAL STATEMENT SCHEDULES 
+ G ENCOR I NDUSTRIES , I NC . 
+
+Page 
+
+Report of Independent Registered Public Accounting Firm 
+ 
+ 23 
+
+Consolidated Balance Sheets as of September 30, 2007 and 2006 
+ 
+ 24 
+
+Consolidated Statements of Income for the years ended September 30, 2007, 2006 and 2005 
+ 
+ 25 
+
+Consolidated Statements of Shareholders Equity for the years ended September 30, 2007, 2006 and 2005 
+ 
+ 26 
+
+Consolidated Statements of Cash Flows for the years ended September 30, 2007, 2006 and 2005 
+ 
+ 27 
+
+Notes to Consolidated Financial Statements 
+ 
+ 28 
+
+Quarterly Financial Information (Unaudited) 
+ 
+ 39 
+
+Financial Statement Schedule: 
+
+Schedule II. Valuation and Qualifying Accounts 
+ 
+ 40 
+ All other schedules are omitted because they are not applicable or the required information is shown in the
+consolidated financial statements or notes thereto. 
+ 22 
+
+Table of Contents 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM Board of Directors Gencor Industries, Inc. Orlando, Florida We have audited the accompanying consolidated balance sheets of Gencor Industries, Inc. and subsidiaries as of September 30, 2007 and 2006, and the related
+consolidated statements of income, shareholders equity and cash flows for the years ended September 30, 2007, 2006 and 2005. Our audits also included the financial statement schedule listed in the accompanying index. These financial
+statements and financial statement schedule are the responsibility of the Company s management. Our responsibility is to express an opinion on these financial statements and financial statement schedule based on our audits. We conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board (United States of America). Those standards require that we
+plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation. We believe that our audits provide a reasonable basis for
+our opinion. In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of
+Gencor Industries, Inc. and subsidiaries as of September 30, 2007 and 2006, and the results of their operations and their cash flows for the years ended September 30, 2007, 2006 and 2005, in conformity with accounting principles generally
+accepted in the United States of America. Also, in our opinion, the financial statement schedule referred to above, when considered in relation to the basic consolidated financial statements taken as a whole, presents fairly in all material respects
+the information set forth therein. M OORE S TEPHENS L OVELACE , P.A. Certified Public Accountants Orlando, Florida December 13, 2007 
+ 23 
+
+Table of Contents 
+
+ Part I. Financial Information 
+ GENCOR INDUSTRIES, INC. Consolidated Balance Sheets (In thousands, except per share data) 
+
+September 30 2007 
+
+September 30 2006 
+
+ASSETS 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+3,707 
+
+1,110 
+
+Marketable securities at market value (Cost 42,000 at September 30, 2007 and 32,000 at September 30, 2006) 
+
+51,780 
+
+35,949 
+
+Account receivable, less allowance for doubtful accounts of 1,685 1,440 at September 30, 2006) 
+
+4,570 
+
+5,372 
+
+Other receivables 
+
+288 
+
+366 
+
+Inventories, net 
+
+34,694 
+
+22,960 
+
+Deferred income taxes 
+
+587 
+
+Prepaid expenses 
+
+1,353 
+
+1,290 
+
+Total current assets 
+
+96,392 
+
+67,634 
+
+Property and equipment, net 
+
+7,660 
+
+12,949 
+
+Other assets 
+
+175 
+
+391 
+
+Total assets 
+
+104,227 
+
+80,974 
+
+LIABILITIES AND SHAREHOLDERS EQUITY 
+
+Current Liabilities: 
+
+Account payable 
+
+4,132 
+
+5,622 
+
+Customer deposits 
+
+1,414 
+
+837 
+
+Income and other taxes payable 
+
+2,164 
+
+600 
+
+Accrued expenses 
+
+6,338 
+
+4,829 
+
+Total current liabilities 
+
+14,048 
+
+11,888 
+
+Long-term debt 
+
+Deferred income taxes 
+
+6,398 
+
+6,043 
+
+Total liabilities 
+
+20,446 
+
+17,931 
+
+Commitments and contingencies 
+
+Shareholder s equity: 
+
+Preferred stock, par value .10 share; authorized 300,000 shares; none issued 
+
+Common stock, par value .10 per share; 15,000,000 shares authorized; 7,967,372 shares and 8,302,130 shares issued at September 30, 2007
+and 2006, respectively 
+
+797 
+
+830 
+
+Class B Stock, par value .10 per share; 6,000,000 shares authorized; 1,642,998 shares issued at September 30,2007 and
+2006 
+
+164 
+
+164 
+
+Unearned compensation 
+
+(135) 
+
+(270) 
+ 
+ Capital in excess of par value 
+
+10,520 
+
+10,273 
+
+Retained earnings 
+
+72,136 
+
+53,641 
+
+Accumulated other comprehensive income (loss) 
+
+299 
+
+(1,595) 
+
+Total shareholder s equity 
+
+83,781 
+
+63,043 
+
+104,227 
+
+80,974 
+
+See accompanying notes to consolidated financial statements 
+ 24 
+
+Table of Contents 
+
+GENCOR INDUSTRIES, INC. Consolidated Statements of Income (In thousands, except per share data) 
+
+For the Years Ended September 30, 
+
+2007 
+
+2006 
+
+2005 
+
+Net revenue 
+
+75,286 
+
+67,107 
+
+48,140 
+
+Cost and expense: 
+
+Production costs 
+
+55,436 
+
+50,348 
+
+37,218 
+
+Product engineering and development 
+
+2,567 
+
+2,075 
+
+1,911 
+
+Selling, general and administrative 
+
+10,950 
+
+13,325 
+
+10,269 
+
+68,953 
+
+65,748 
+
+49,398 
+
+Operating income (loss) 
+
+6,333 
+
+1,359 
+
+(1,258) 
+
+Other income (expense): 
+
+Interest income 
+
+159 
+
+160 
+
+92 
+
+Interest expense 
+
+(48) 
+
+(85) 
+
+(161) 
+ 
+ Income from investees 
+
+19,937 
+
+14,457 
+
+44,238 
+
+Loss on sale of assets 
+
+(1,633) 
+
+Increase in value of marketable securities 
+
+5,831 
+
+2,162 
+
+1,787 
+
+Miscellaneous 
+
+6 
+
+327 
+
+386 
+
+24,252 
+
+17,021 
+
+46,342 
+
+Income before income taxes 
+
+30,585 
+
+18,380 
+
+45,084 
+
+Income taxes 
+
+12,090 
+
+6,793 
+
+13,777 
+
+Net income 
+
+18,495 
+
+11,587 
+
+31,307 
+
+Basic earnings per common share: 
+
+Net income 
+
+1.91 
+
+1.17 
+
+3.50 
+
+Diluted earnings per common share: 
+
+Net income 
+
+1.91 
+
+1.17 
+
+3.29 
+
+See accompanying notes to consolidated financial statements. 
+ 25 
+
+Table of Contents 
+
+GENCOR INDUSTRIES, INC. Consolidated Statements of Shareholders Equity (In thousands) For the Years Ended
+September 30, 2007, 2006 and 2005 
+
+Common Stock 
+
+Class B Stock 
+
+Unearned Compensation 
+
+Capital in Excess of Par Value 
+
+Retained Earnings (Accumulated Deficit) 
+ 
+ Comprehensive Income (Loss) 
+
+Accumulated Other Comprehensive Income (Loss) 
+
+Subscription Receivable From Officer 
+
+Treasury Stock 
+
+Total Shareholders Equity 
+
+Shares 
+
+Amount 
+
+Shares 
+
+Amount 
+
+Shares 
+
+Cost 
+
+September 30, 2004 
+ 
+ 7,094 
+
+709 
+
+1,878 
+
+188 
+
+11,467 
+
+10,747 
+
+(6,018) 
+
+(95) 
+
+179 
+
+(1,704) 
+
+15,294 
+
+Net income 
+
+31,307 
+
+31,307 
+
+31,307 
+
+Stock options exercised 
+ 
+ 1,103 
+
+111 
+
+192 
+
+303 
+
+Collection of subscription 
+
+95 
+
+95 
+
+Disposal of foreign assets 
+
+4,347 
+
+4,347 
+
+Conversion of Class B Stock 
+ 
+ 143 
+
+14 
+
+(143) 
+
+(14) 
+
+Translation adj. 
+
+89 
+
+89 
+
+89 
+
+Comprehensive income 
+
+31,396 
+
+September 30, 2005 
+ 
+ 8,340 
+
+834 
+
+1,735 
+
+174 
+
+11,659 
+
+42,054 
+
+(1,582) 
+
+179 
+
+(1,704) 
+
+51,435 
+
+Net income 
+
+11,587 
+
+11,587 
+
+11,587 
+
+Stock options granted 
+
+(270) 
+
+270 
+
+Stock options exercised 
+ 
+ 49 
+
+5 
+
+29 
+
+34 
+
+Retirement of treasury stock 
+ 
+ (87) 
+
+(9) 
+ 
+ (92) 
+
+(10) 
+
+(1,685) 
+
+(179) 
+
+1,704 
+
+Translation adj. 
+
+(13) 
+
+(13) 
+
+(13) 
+
+Comprehensive income 
+
+11,574 
+
+September 30, 2006 
+ 
+ 8,302 
+
+830 
+
+1,643 
+
+164 
+
+(270) 
+
+10,273 
+
+53,641 
+
+(1,595) 
+
+63,043 
+
+Net income 
+
+18,495 
+
+18,495 
+
+18,495 
+
+Amortization 
+
+135 
+
+135 
+
+Stock retired 
+ 
+ (335) 
+
+(33) 
+
+247 
+
+214 
+
+Disposal of foreign assets 
+
+1,905 
+
+1,905 
+
+Translation adj. 
+
+(11) 
+
+(11) 
+
+(11) 
+
+Comprehensive income 
+
+18,484 
+
+September 30, 2007 
+ 
+ 7,967 
+
+797 
+
+1,643 
+
+164 
+
+(135) 
+
+10,520 
+
+72,136 
+
+299 
+
+83,781 
+
+See accompanying notes to consolidated financial statements. 
+ 26 
+
+Table of Contents 
+
+GENCOR INDUSTRIES, INC. Consolidated Statements of Cash Flows In Thousands 
+
+For the Years Ended September 30, 
+
+2007 
+
+2006 
+
+2005 
+
+Cash flows from operations: 
+
+Net income 
+
+18,495 
+
+11,587 
+
+31,307 
+
+Adjustments to reconcile net income to cash provided (used) by operations: 
+
+Increase in Marketable securities 
+
+(10,000) 
+
+(1,000) 
+
+(31,000) 
+ 
+ Increase in market value of marketable securities 
+
+(5,831) 
+
+(2,162) 
+
+(1,787) 
+ 
+ Deferred income taxes 
+
+2,714 
+
+(8,837) 
+
+14,824 
+
+Depreciation and amortization 
+
+932 
+
+1,358 
+
+847 
+
+Income from investees 
+
+(19,937) 
+
+(14,547) 
+
+(44,238) 
+ 
+ Provision for doubtful accounts 
+
+360 
+
+470 
+
+328 
+
+Loss on sale of assets 
+
+1,633 
+
+Change in assets and liabilities: 
+
+Accounts receivable 
+
+520 
+
+(2,259) 
+
+(1,757) 
+ 
+ Unearned compensation 
+
+135 
+
+Other receivables 
+
+95 
+
+Inventories 
+
+(11,734) 
+
+(3,724) 
+
+(2,292) 
+ 
+ Prepaid expenses 
+
+(63) 
+
+356 
+
+(68) 
+ 
+ Account payable 
+
+(1,490) 
+
+1,131 
+
+1,014 
+
+Customer deposits 
+
+577 
+
+(1,265) 
+
+1,003 
+
+Income and other taxes payable 
+
+(208) 
+
+457 
+
+(1,340) 
+ 
+ Accrued expenses 
+
+1,509 
+
+1,184 
+
+(1,007) 
+
+Total adjustments 
+
+(40,883) 
+
+(28,838) 
+
+(65,378) 
+
+Cash provided by (used for operations 
+
+(22,388) 
+
+(17,251) 
+
+(34,071) 
+
+Cash flows from (used for investing activities: 
+
+Distributions from unconsolidated investees 
+
+19,937 
+
+14,547 
+
+44,238 
+
+Capital expenditures 
+
+(637) 
+
+(413) 
+
+(1,202) 
+ 
+ Proceeds from assets held for sale 
+
+5,481 
+
+Cash from (used for) investing activities 
+
+24,781 
+
+14,134 
+
+43,036 
+
+Cash flows used for financing activities: 
+
+Stock transactions 
+
+214 
+
+34 
+
+303 
+
+Net repayment of debt 
+
+(5,701) 
+ 
+ Net borrowings 
+
+Cash provided (used) for financing activities 
+
+214 
+
+34 
+
+(5,398) 
+ 
+ Effect of exchange rate changes on cash 
+
+(10) 
+
+(13) 
+
+89 
+
+Net increase (decrease) in cash 
+
+2,597 
+
+(3,096) 
+
+3,656 
+
+Cash and cash equivalents at: 
+
+Beginning of period 
+
+1,110 
+
+4,206 
+
+550 
+
+End of period 
+
+3,707 
+
+1,110 
+
+4,206 
+
+See accompanying notes to consolidated financial statements. 
+ 27 
+
+Table of Contents 
+
+GENCOR INDUSTRIES, INC Notes to Consolidated Financial Statements All amounts in thousands, except per share amounts NOTE 1 NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES Gencor Industries, Inc. and its subsidiaries
+(collectively the Company is a diversified heavy machinery manufacturer for the production of highway construction materials, synthetic fuels and environmental control machinery and equipment. These consolidated financial statements include the accounts of the Company and its subsidiaries. All significant intercompany accounts and transactions have been
+eliminated in consolidation. Use of Estimates The
+preparation of the consolidated financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of
+contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates. Net Income Per Share The financial statements include basic and
+diluted per share information. Basic earnings per share is based on the weighted average number of shares outstanding. Diluted earnings per share is based on the sum of the weighted average number of shares outstanding plus common share equivalents.
+ The following presents the calculation of the basic and diluted income per share from continuing operations for the years ended September 30, 2007,
+2006 and 2005: 
+
+2007 
+ 
+ 2006 
+ 
+ 2005 
+
+Income 
+ 
+ Shares 
+ 
+ Per Share Amount 
+ 
+ Income 
+ 
+ Shares 
+ 
+ Per Share Amount 
+ 
+ Income 
+ 
+ Shares 
+ 
+ Per Share Amount 
+ 
+ Basic ESP 
+
+18,495 
+ 
+ 9,708,008 
+
+1.91 
+
+11,587 
+ 
+ 9,918,803 
+
+1.17 
+
+31,307 
+ 
+ 8,953,537 
+
+3.50 
+ 
+ Diluted ESP 
+
+18,495 
+ 
+ 9,710,000 
+
+1.91 
+
+11,587 
+ 
+ 9,936,329 
+
+1.17 
+
+31,307 
+ 
+ 9,515,128 
+
+3.29 
+ Cash Equivalents Cash equivalents, which consist of short-term certificates of deposit and deposits in money market accounts with original maturities of three months or less, are carried at cost, which approximates their market value. Marketable Securities Marketable securities are categorized as
+trading securities and stated at market value. Market value is determined using the quoted closing or latest bid prices. Realized gains and losses on investment transactions are determined by specific identification and are recognized as incurred in
+the statement of income. Net unrealized gains and losses are reported in the statement of income and represent the change in 
+ 
+ 28 
+
+Table of Contents 
+
+the market value of investment holdings during the period. At September 30, 2007, Marketable securities consisted of 33,483 in municipal bonds and
+ 18,297 in equity stocks. At September 30, 2006 Marketable securities consist of 6,531 in municipal bonds and 29,418 in equity stocks. Fair
+Value of Financial Instruments The carrying amounts of cash and cash equivalents, accounts receivable and accounts payable approximate fair value
+because of the short-term nature of these items. The carrying amount of substantially all of the Company s long-term debt approximates fair value due to the variable nature of the interest rates on the debt. Foreign Currency Translation Assets and liabilities of the
+Company s foreign subsidiaries are translated into U.S. dollars at the applicable rate of exchange in effect at the end of the fiscal year. Revenue and expense accounts are translated at the average rate of exchange during the period and equity
+accounts are translated at the rate in effect when the transactions giving rise to the balances took place. Gains and losses resulting from translation are included in Accumulated Other Comprehensive Income (Loss). Gains and losses
+resulting from foreign currency transactions are included in income. Risk Management Financial instruments that potentially subject the Company to concentrations of credit risk consist primarily of cash and cash equivalents, marketable securities, and accounts receivable. The Company maintains its
+cash accounts in various domestic and foreign financial institutions. Domestic funds are swept daily into interest-bearing overnight repurchase agreements invested in U.S. government securities. The marketable securities are invested in stocks and
+bonds through a professional investment advisor. Investment securities are exposed to various risks such as interest rate, market and credit. The Company s customers are not concentrated in any specific geographic region, but are concentrated
+in the road and highway construction industry. The Company extends limited credit to its customers based upon their creditworthiness and generally requires a significant up-front deposit before beginning construction and full payment subject to
+hold-back provisions, prior to shipment on asphalt plant orders. The Company establishes an allowance for doubtful accounts based upon the credit risk of specific customers, historical trends and other pertinent information. Inventories Inventories are stated at the lower of cost or market.
+The Company uses the last-in, first-out (LIFO) method of determining cost for substantially all inventories in the United States. All other inventories are accounted for using the first-in, first-out (FIFO) method. Used equipment, acquired by the Company by trade in from customers acquiring new equipment, is valued at estimated net realizable value at the time of trade in.
+ 
+ 29 
+
+Table of Contents 
+
+NOTE 1 NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ (Continued) 
+ Property and Equipment Property and equipment are stated at cost. Depreciation of property and equipment, including depreciation on assets acquired under capital leases, is computed using straight-line and accelerated methods over the estimated useful lives of
+the related assets. Depreciation of property and equipment, including depreciation on assets acquired under capital leases, is computed using
+straight-line and accelerated methods over the estimated useful lives of the related assets as follows: 
+
+Years 
+ 
+ Land improvements 
+ 
+ 5 
+ 
+ Buildings and improvements 
+ 
+ 6-40 
+ 
+ Equipment 
+ 
+ 2-10 
+ 
+ 30 
+
+Table of Contents 
+
+NOTE 1 NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ (Continued) 
+ Impairments If
+the carrying value of an asset, including associated intangibles and goodwill, exceeds the sum of estimated undiscounted future cash flows, an impairment loss is recognized for the difference between estimated fair value and carrying value.
+ Investment in Unconsolidated Investees The Company
+owns a 45 interest in Carbontronics LLC and a 25 interest in Carbontronics Fuels LLC and Carbontronics II, LLC. These interests were earned as part of value of risk on contracts to build four synthetic fuel production plants during 1998. The
+Company has no basis in these equity investments or requirement to provide future funding. The operations of Carbontronics LLC consist of the receipt of contingent payments from the sales of the plants and the distribution thereof to its members.
+Carbontronics LLC has no other significant operations or assets. The operations of Carbontronics II, LLC consist of the receipt of royalty payments from the plants and the distribution thereof to its members. Carbontronics II, LLC has no other
+significant operations or assets. Any income arising from these investments is dependent upon tax credits (adjusted for operating losses at the fuel plants) being generated as a result of synthetic fuel production, which will be recorded as
+received. The Company received 19,937 of distributions in fiscal 2007. The Company recognized income of 14,547 in 2006, for the distribution received less an accrual of 1,000 for certain expenses associated with efforts by the Company as
+plaintiff in a matter against its synthetic fuels partners. The Company received 44,238, during the fiscal year 2005. These distributions are subject to state and Federal income taxes. Future distributions from these entities depend upon the production of these operations continuing to qualify for tax credits under Section 29 of the Internal Revenue Code and the ability to economically produce
+and market synthetic fuel produced by the plants. One of the contingencies related to future benefits from these entities is based on the average price of crude oil. Per a provision of Section 29, if the average price of crude oil reaches a
+certain level, the tax credits will terminate. The recent escalation in oil prices raises serious doubt on the continued availability of tax credits under Section 29 for the future. If oil prices remain at the current levels or increase, the
+tax credits could phase-out or terminate. On May 15, 2006, the Company received notification from the administrative partner of these investments
+that the limited partners gave notice that the plants should be idled until further notice. They indicated the operations will be curtailed until the earlier of: 1) a legislative change adjusting the determination of the phase-out price,
+or 2) a downward movement in oil prices signaling some improved expectation that the credit phase-out will still provide sufficient capital to support the continuation of operations. On October 6, 2006, the Company received notification that
+the synthetic fuel plants had resumed operation and on October 18, 2006, the Company received a cash distribution of 3.1 million. Any one of the above eventualities may interrupt, reduce, or terminate further distributions. The existing tax credit legislation is expiring at the end of calendar year 2007. Consequently, the four synthetic fuel plants are being decommissioned. The plants are
+in process of being sold or transferred to site owners in exchange for a release of all contracted liabilities related to the removal of plants from the sites. The administrative partner has informed the Company that there will be no operations in
+calendar 2008 and almost all of the partnership affairs will be finalized in early 2008. It is not possible to predict the amount, if any, of final distributions from the partnerships upon the final disposition and winding-up of operations.
+ Revenues Revenues from contracts for the design and
+manufacture of certain custom equipment are recognized under the percentage-of-completion method. Revenues from all other sales are recorded as the products are shipped or service is performed. 
+ 31 
+
+Table of Contents 
+
+NOTE 1 NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ (Continued) 
+ The percentage-of-completion method of accounting for long term contracts recognizes revenue in proportion to actual
+labor costs incurred as compared with total estimated labor costs expected to be incurred during the entire contract. All selling, general and administrative expenses are charged to operations as incurred. Provision is made for any anticipated
+contract losses in the period that the loss becomes evident. The estimated costs of product warranties are charged to production costs as revenue is
+recognized. Shipping and Handling Costs Shipping and
+handling costs are included in production costs in the statements of income. Income Taxes The Company recognizes deferred tax liabilities and assets for the expected future tax consequences of events that have been included in the financial statements or tax
+returns using current tax rates. The Company and its domestic subsidiaries file a consolidated federal income tax return. The foreign subsidiaries provide income taxes based on the tax regulations of the countries in which they operate.
+Undistributed earnings of the Company s foreign subsidiaries are intended to be indefinitely reinvested. No deferred taxes have been provided on these earnings. Deferred tax assets and liabilities are measured using the rates expected to apply to taxable income in the years in which the temporary differences are expected to reverse and the credits are expected to be used. The
+effect on deferred tax assets and liabilities of the change in tax rates is recognized in income in the period that includes the enactment date. An assessment is made as to whether or not a valuation allowance is required to offset deferred tax
+assets. In June 2006, the FASB issued FASB Interpretation 48 Accounting for Uncertainty in Income Taxes-an interpretation of FASB Statement
+No. 109 . This Interpretation clarifies the accounting for uncertainty in income taxes recognized in an enterprise s financial statements in accordance with FASB No. 109, Accounting for Income Taxes . This
+Interpretation prescribes a recognition threshold and measurement approach for the financial statement recognition and measurement of a tax position taken or expected to be taken in a tax return. The Interpretation is effective for fiscal years
+beginning after December 15, 2006. We believe that this Interpretation will not have a material impact on the Company s financial statements. Accounting for Stock-Based Compensation Prior to fiscal 2006, the Company measured compensation expense for employee and director stock
+options as the aggregate difference between the market price of the common stock and exercise prices of the options on the date that both the number of shares the grantee is entitled to receive and the purchase price were known. No expense was
+recorded as the option prices on grant date were at least equal to market price of the common stock. Effective October 1, 2005, the Company adopted
+the provisions of Financial Accounting Standards Board Statement No. 123R Share-Based Payment (SFAS No. 123R). The Company now records grant-date fair value of stock-based compensation in the statement of operations. The
+Company adopted SFAS 123R using the modified prospective method. Accordingly, the Company has not restated any previous operating results. 
+ 32 
+
+Table of Contents 
+
+NOTE 1 NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ (Continued) 
+ On September 28, 2006, the Company granted 30,000 options at market price to certain officers and directors of
+the Company. The fair value is estimated on grant date using the Black-Scholes options pricing model. Volatility was based on historical activity and the term was estimated based on the life of the option and the vesting period. As a result, 270 of
+unearned compensation was recorded at September 30, 2006 and is being charged to operating expense over the vesting period of two years. Comprehensive Income (Loss) Other Comprehensive Income (Loss) consists of net income and includes all other changes in shareholders 
+equity except those resulting from investments by owners and distributions to them. For all years presented, the Company s comprehensive income (loss), which encompasses net income and foreign currency translation adjustments, is separately
+displayed in the consolidated statement of shareholders equity. Reporting Segments Information concerning principal geographic areas is as follows: 
+
+2007 
+ 
+ 2006 
+ 
+ 2005 
+
+Revenues 
+ 
+ Long-Term Assets 
+ 
+ Revenues 
+ 
+ Long-Term Assets 
+ 
+ Revenues 
+ 
+ Long-Term Assets 
+ 
+ United States 
+
+72,394 
+
+7,471 
+
+63,150 
+
+7,701 
+
+46,867 
+
+7,294 
+ 
+ United Kingdom 
+
+2,892 
+
+364 
+
+3,957 
+
+5,637 
+
+1,273 
+
+6,027 
+
+Total 
+
+75,286 
+
+7,835 
+
+67,107 
+
+13,338 
+
+48,140 
+
+13,321 
+
+Revenues are attributed to geographic areas based on the location of the assets producing the revenues.
+ NOTE 2 INVENTORIES, NET Inventories, net at
+September 30 consist of the following: 
+
+2007 
+ 
+ 2006 
+ 
+ Raw materials 
+
+19,905 
+
+11,731 
+ 
+ Work in process 
+
+6,669 
+
+4,258 
+ 
+ Finished goods 
+
+6,165 
+
+5,918 
+ 
+ Used equipment 
+
+1,955 
+
+1,053 
+
+34,694 
+
+22,960 
+
+At September 30, 2007, accumulated costs of approximately 8,739 on major contracts, net of progress payments
+of approximately 6,693, and estimated earnings of approximately 5,015 amount to approximately 7,061 and are included in inventory. At September 30, 2006, accumulated costs of approximately 3,025 on major contracts, net of progress payments
+of approximately 734 and estimated earnings of approximately 1,567, amount to approximately 3,858 and are included in inventory. 
+ 33 
+
+Table of Contents 
+
+ At September 30, 2007 and 2006, cost is determined by the last-in, first-out (LIFO) method for inventories. The
+estimated current cost of inventories exceeded their LIFO basis by approximately 5,254 and 4,578, respectively. NOTE 3 PROPERTY AND EQUIPMENT
+ Property and equipment at September 30 consist of the following: 
+
+2007 
+
+2006 
+
+Land and improvements 
+
+3,026 
+
+2,977 
+
+Building and improvements 
+
+11,958 
+
+17,144 
+
+Equipment 
+
+8,993 
+
+8,995 
+
+23,977 
+
+29,116 
+
+Less: Accumulated depreciation and amortization 
+
+(16,317) 
+
+(16,167) 
+
+7,660 
+
+12,949 
+
+Property and equipment includes approximately 7,489 and 7,517 of fully depreciated assets, which remain in
+service during fiscal 2007 and 2006. Substantially all of the Company s property and equipment is pledged as collateral for the Company s debt.
+ Depreciation and amortization expense for the years ended September 30, 2007, 2006 and 2005 was approximately 932, 1,358, and 847, respectively.
+There was no interest capitalized during these years. NOTE 4 ACCRUED EXPENSES Accrued expenses consist of the following at September 30: 
+
+2007 
+ 
+ 2006 
+ 
+ Payroll and related accruals 
+
+2,598 
+
+1,958 
+ 
+ Warranty and related accruals 
+
+405 
+
+414 
+ 
+ Professional fees 
+
+2,430 
+
+1,559 
+ 
+ Other 
+
+905 
+
+898 
+
+Total 
+
+6,338 
+
+4,829 
+
+34 
+
+Table of Contents 
+
+ NOTE 5 INCOME TAXES The provision for income taxes consists of: 
+
+2007 
+ 
+ 2006 
+
+2005 
+ 
+ Current: 
+
+Federal 
+
+8,583 
+
+15,430 
+
+437 
+ 
+ State 
+
+746 
+
+1,329 
+
+Foreign 
+
+47 
+
+(65) 
+
+7 
+
+Total current expense 
+
+9,376 
+
+16,694 
+
+444 
+
+Deferred 
+
+2,714 
+
+(9,901) 
+
+13,333 
+
+Provision for income taxes 
+
+12,090 
+
+6,793 
+
+13,777 
+
+The difference between the U.S. federal income tax rate and the Company s effective income tax rate is as
+follows: 
+
+2007 
+
+2006 
+
+2005 
+
+Federal income tax rate 
+ 
+ 35.0 
+
+35.0 
+
+34.0 
+
+State income taxes 
+ 
+ 2.4 
+
+2.3 
+
+2.3 
+
+Reduction in tax contingency reserve as a result of resolution of prior year filings and expiration of the statute of
+limitations. 
+
+-5.5 
+
+Losses for which no tax benefit has been recognized 
+ 
+ 2.3 
+
+0.4 
+
+Other 
+ 
+ -0.2 
+
+-0.3 
+
+-0.6 
+
+39.5 
+
+37.0 
+
+30.6 
+
+Accumulated deficits of non-U.S. subsidiaries included in consolidated retained earnings (deficit) amounted to 382) and 2,582) as of September 30, 2007, and 2006, respectively. The Company follows the policy of indefinitely reinvesting foreign earnings, if any, to expand its international operations. Accordingly, the Company will not provide U.S.
+income taxes on any future earnings. In the event any earnings of non-U.S. subsidiaries are repatriated, the Company will provide U.S. income taxes upon repatriation of such earnings which will be offset by applicable foreign tax credits, subject to
+certain limitations. Total income taxes paid were 5,436, 15,725, and 1,331 in 2007, 2006, and 2005, respectively. 
+ 35 
+
+Table of Contents 
+
+ NOTE 6 RETIREMENT BENEFITS 401(k) Plan The Company has a voluntary 401(k) employee benefit plan which covers all eligible domestic employees.
+The Company makes discretionary matching contributions subject to a maximum level, in accordance with the terms of the plan. The Company charged approximately 114, 104, and 105 to operating expense under the provisions of the plan during the
+fiscal years 2007, 2006 and 2005, respectively. NOTE 7 LONG-TERM DEBT The Company had no long term debt outstanding at September 30, 2007 or 2006. The Company entered into a Revolving
+Credit and Security Agreement with PNC Bank, N.A. The Agreement established a three year revolving 20 million credit facility and was renewed through July 31, 2009. The facility provides for advances based on accounts receivable, inventory and
+real estate. The facility includes a 2 million limit on letters of credit. At September 30, 2007, the Company had .7 million of letters of credit outstanding. The interest rate at September 30, 2007, is at LIBOR plus 2.00 and subject to
+change based upon the Fixed Charge Coverage Ratio. The Company is required to maintain a Fixed Charge Coverage Ratio of 1.1:1. There are no required repayments as long as there are no defaults and there is adequate eligible collateral.
+Substantially, all of Company s assets are pledged as security under the Agreement. 
+ 36 
+
+Table of Contents 
+
+ NOTE 8 COMMITMENTS AND CONTINGENCIES Leases The Company leases certain equipment under non-cancelable operating leases. Future minimum rental commitments
+under these leases at September 30, 2007 consist of 142 due over the next three years. Total rental expense for the fiscal years ended 2007, 2006
+and 2005 was 193, 150 and 147, respectively. Litigation The Company has various pending litigation and other claims. Those claims which are made in the ordinary course of business may be covered in whole or in part by insurance, and if found against the Company, management does not believe these
+matters will have a material effect on the Company s financial position, results of operations or cash flows. NOTE 9 SHAREHOLDERS 
+EQUITY Under the Company s amended Certificate of Incorporation, certain rights of the holders of the Company s Common Stock are modified by
+shares of Class B Stock for as long as such shall remain outstanding. During that period, holders of Common Stock will have the right to elect approximately 25 of the Company s Board of Directors, and conversely, Class B Stock will be entitled
+to elect approximately 75 . During the period when Common Stock and Class B Stock are outstanding, certain matters submitted to a vote of shareholders will also require approval of the holders of Common Stock and Class B Stock, each voting
+separately as a class. Common stock and Class B shareholders have equal rights with respect to dividends, preferences, and rights, including rights in liquidation. NOTE 10 STOCK OPTIONS The Company maintains stock option plans, which provide for the issuance of
+nonqualified or incentive stock options to certain directors, officers and key employees. The 1997 Stock Option Plan (the 1997 Plan provides
+for the issuance of incentive stock options and nonqualified stock options to purchase up to 1,200,000 shares of the Company s Common Stock, 1,200,000 shares of the Company s Class B Stock and up to fifteen percent (15 of the
+authorized Common Stock of any subsidiary. Under the terms of the Plans, option holders may tender previously owned shares with a market value equal to
+the exercise price of the options at exercise date, subject to Compensation Committee approval. Additionally, option holders may, upon Compensation Committee approval, surrender shares of stock to satisfy federal withholding tax requirements.
+ Options become exercisable in a manner and on such dates and times as determined by a committee of the Board of Directors. Options expire not more than
+ten years from the date of grant. The option holders have no shareholder rights until the date of issuance of a stock certificate for such shares. Exercise of the options granted during 2002 and 2001 are limited to 20 per year over the next 5
+years. During 2005, 1,322,000 options were exercised at prices ranging from 1.65- 1.82 per share for a total of 2,331 and was paid to the Company with
+259,000 shares of Company stock at the then current market price of 9.00 per share. The shares received into treasury were immediately retired. An additional 40,000 options were exercised at prices ranging from .87- 2.38 per share. During 2006, 54,000 stock options were exercised at prices ranging from .87 to 1.65 per share. 
+ 37 
+
+Table of Contents 
+
+NOTE 10 STOCK OPTIONS (continued) 
+ During 2006, 30,000 options were granted to certain officers and Directors of the Company at the market value, 9.32) at the date of grant. These options vest over two years and are exercisable through 2016. The fair value of these options is estimated on grant date using the Black-Scholes options pricing model. As a result, 270 of unearned compensation
+was recorded at September 30, 2006 and will be charged to operating expense over the vesting period of two years. As of September 30, 2007, there are no options available for future grants under the plans. The following table summarizes option activity under the plans: 
+
+Number of Shares 
+
+Option Price Per Share 
+ 
+ Outstanding at September 30, 2003 
+ 
+ 1,526,000 
+
+1.71 
+ 
+ Exercised at price of 1.65 and .87 per share 
+ 
+ (110,000) 
+
+1.22 
+
+Outstanding at September 30, 2004 
+ 
+ 1,416,000 
+
+1.74 
+
+Exercised at price of .87 - 2.375 per share 
+ 
+ (1,362,000) 
+
+1.76 
+
+Outstanding at September 30, 2005 
+ 
+ 54,000 
+
+1.36 
+ 
+ Exercised at price of .87 - 1.65 per share 
+ 
+ (54,000) 
+
+1.36 
+ 
+ Granted at price of 9.32 per share 
+ 
+ 30,000 
+
+9.32 
+
+Outstanding at September 30, 2007 and 2006 
+ 
+ 30,000 
+
+9.32 
+
+The following table summarizes information about stock options outstanding at September 30, 2007: 
+
+Range of Exercise Price 
+ 
+ Number of Options Outstanding 
+ 
+ Weighted Average Remaining Contractual Life 
+ 
+ Weighted Average Exercise Price 
+ 
+ 9.32 
+ 
+ 30,000 
+ 
+ 9 
+
+9.32 
+ At September 30, 2007, 15,000 share were exercisable. NOTE 11 RELATED PARTY TRANSACTIONS Marcar Leasing Corporation Marcar is engaged in leasing machinery and vehicles to the public and the Company. Marcar is owned by family members of the Company s Chairman. The terms of the leases are established based on the rates charged by independent
+leasing organizations and are believed to be more favorable than those generally available from independent third parties. Leases between the Company and Marcar generally provide for equal monthly payments over either thirty-six months or
+forty-eight months. During fiscal 2007, 2006 and 2005, the Company made lease payments to Marcar totaling 124, 121 and 131, respectively. 
+ 38 
+
+Table of Contents 
+
+Quarterly Financial Information (Unaudited) 
+
+In thousands, except per share amounts 
+
+Quarters ended 
+
+December 31 
+
+March 31 
+ 
+ June 30 
+ 
+ September 30 
+
+2007 
+
+Net Sales 
+
+12,370 
+
+26,491 
+
+21,187 
+
+15,238 
+
+Production costs 
+
+9,337 
+
+18,763 
+
+15,595 
+
+11,741 
+
+Production engineering and development 
+
+591 
+
+630 
+
+619 
+
+727 
+
+Selling, general and administrative 
+
+2,668 
+
+2,990 
+
+2,589 
+
+2,703 
+
+Income from operations 
+
+(226) 
+
+4,108 
+
+2,384 
+
+66 
+
+Income from investee 
+
+3,285 
+
+11,887 
+
+4,765 
+
+Net income 
+
+1,483 
+
+10,491 
+
+5,663 
+
+858 
+
+Basic earnings per share: 
+
+Net income 
+
+0.15 
+
+1.09 
+
+0.59 
+
+0.09 
+
+Diluted earnings per share: 
+
+Net income 
+
+0.15 
+
+1.08 
+
+0.59 
+
+0.09 
+
+2006 
+
+Net Sales 
+
+11,657 
+
+21,875 
+
+18,919 
+
+14,655 
+
+Production costs 
+
+8,694 
+
+16,146 
+
+13,798 
+
+11,710 
+
+Production engineering and development 
+
+526 
+
+529 
+
+506 
+
+514 
+
+Selling, general and administrative 
+
+2,880 
+
+3,363 
+
+3,130 
+
+3,951 
+
+Income from operations 
+
+(443) 
+
+1,837 
+
+1,485 
+
+(1,520) 
+ 
+ Income from investee 
+
+14,547 
+
+Net income (loss) 
+
+182 
+
+11,561 
+
+120 
+
+(276) 
+
+Basic earnings per share: 
+
+Net income (loss) 
+
+0.02 
+
+1.17 
+
+0.01 
+
+(0.03) 
+ 
+ Diluted earnings per share: 
+
+Net income (loss) 
+
+0.02 
+
+1.16 
+
+0.01 
+
+(0.03) 
+ The earnings per share on a year-to-date calculation may not equal the total of the quarterly calculations due to
+rounding. 
+ 39 
+
+Table of Contents 
+
+SCHEDULE II Valuation and Qualifying Accounts 
+
+Valuation and Qualifying
+Accounts 
+ 
+ Description 
+ 
+ Balance at Beginning of Year 
+ 
+ Charges/Credits to Cost and Expenses 
+
+Additions/ (Deductions) 
+
+Balance at End of Year 
+ 
+ Valuation accounts deducted from assets to which they apply: 
+
+For doubtful accounts receivable: 
+
+September 30, 2007 
+
+1,440 
+
+360 
+
+(115) 
+
+1,685 
+
+September 30, 2006 
+
+1,159 
+
+470 
+
+(189) 
+
+1,440 
+
+September 30, 2005 
+
+1,214 
+
+328 
+
+(383) 
+
+1,159 
+
+For inventory obsolescence: 
+
+September 30, 2007 
+
+3,889 
+
+(44) 
+
+(1,186) 
+
+2,659 
+
+September 30, 2006 
+
+3,874 
+
+15 
+
+3,889 
+
+September 30, 2005 
+
+3,511 
+
+363 
+
+3,874 
+ 
+ 40 
+
+Table of Contents 
+
+ITEM 9. 
+ CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE None. 
+
+ITEM 9A. 
+ CONTROLS AND PROCEDURES Evaluation of Disclosure Controls and Procedures
+ Our principal executive officer and principal financial officer have conducted an evaluation of our disclosure controls and procedures, as such term is
+defined under Rule 13a-14(c) promulgated under the Securities Exchange Act of 1934, as amended (the Exchange Act ), as of the end of the period covered by this report. Based on their evaluation, our principal executive officer and
+principal accounting officer concluded that our disclosure controls and procedures are effective in ensuring that material information required to be disclosed is included in the reports that it files with the Securities and Exchange Commission.
+ Changes in Internal Control over Financial Reporting Our
+principal executive officer and principal financial officer have conducted an evaluation of the Company s internal control over financial reporting as such term is defined under Rule 13a-15(f) promulgated under the Exchange Act.
+Based on their evaluation, there were no significant changes in the Company s internal controls or, to the knowledge of the management of the Company, in other factors that have materially affected, or are reasonably likely to materially
+affect, the Company s internal control over financial reporting during the period covered by the report. The Company is not required to comply with
+the requirements of Section 404 of the Sarbanes-Oxley Act of 2002 until fiscal 2008. 
+
+ITEM 9B. 
+ OTHER INFORMATION None. 
+ 41 
+
+Table of Contents 
+
+ PART III 
+
+ITEM 10. 
+ DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE The
+information required by this Item 10 is incorporated herein by reference to the Company s definitive 2008 Proxy Statement for the Annual meeting of Shareholders. 
+
+ITEM 11. 
+ EXECUTIVE COMPENSATION The information required by this
+Item 11 is incorporated herein by reference to the Company s definitive 2008 Proxy Statement for the Annual meeting of Shareholders. 
+
+ITEM 12. 
+ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS The information required by this Item 12 is incorporated herein by reference to the Company s definitive 2008 Proxy Statement for the Annual meeting of Shareholders. 
+
+ITEM 13. 
+ CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE The information required by this Item 13 is incorporated herein by reference to the Company s definitive 2008 Proxy Statement for the Annual meeting of Shareholders. 
+
+ITEM 14. 
+ PRINCIPAL ACCOUNTING FEES AND SERVICES The information required by this
+Item 14 is incorporated herein by reference to the Company s definitive 2008 Proxy Statement for the Annual meeting of Shareholders. 
+ 42 
+
+Table of Contents 
+
+ PART IV 
+
+ITEM 15. 
+ EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+
+(a) 
+ A listing of financial statements and financial statement schedules filed as part of this report and which financial statements and schedules are incorporated into this report by
+reference, is set forth in the Index to Financial Statements in Item 8 hereof. 
+
+(b) 
+ Exhibit Index 
+
+EXHIBIT NUMBER 
+ 
+ DESCRIPTION 
+ 
+ FILED HEREWITH 
+ 
+ 2.1 
+ 
+ Second Amended Plan of Reorganization of Gencor Industries, Inc., As Modified Dated: July 8, 2001, incorporated by reference to the Company s Annual Report on Form 10-K for the year ended
+September 30, 2000. 
+
+3.1 
+ 
+ Restated Certificate of Incorporation of Company, incorporated by reference to Exhibit 3.1 to Registration No. 33-627 
+
+3.2 
+ 
+ Amended and Restated By-Laws of Gencor Industries, Inc. 
+ 
+ x 
+
+3.3 
+ 
+ Certificate of Amendment, changing name of Mechtron International Corporation to Gencor Industries, Inc. and adding a twelfth article regarding director liability limitation,
+incorporated by reference to the Company s annual report on Form 10-K for the year ended December 31, 1987. 
+
+4.1 
+ 
+ Form of Common Stock certificate, incorporated by reference to Exhibit 4.1 to Registration No. 33-627. 
+
+4.47 
+ 
+ Amended and Restated Senior Secured Credit Agreement, incorporated by reference to the Company s report on Form 10-K filed on December 26, 2002. 
+
+4.48 
+ 
+ Security Agreement dated August 1, 2003, incorporated by reference to the Company s report on Form 8-K filed on August 8, 2003. 
+
+4.49 
+ 
+ First Amendment to Revolving Credit and Security Agreement, incorporated by reference to the Company s Form 8-K filed on August 3, 2006. 
+
+10.5 
+ 
+ Form of Agreement for Nonqualified Stock Options granted in 1986, incorporated by reference to the Annual Report on Form 10-K for the year ended December 31, 1986. 
+
+10.11 
+ 
+ 1997 Stock Option Plan incorporated by reference to Exhibit A to the Company s Proxy Statement on 14A, filed March 3, 1997. 
+
+10.12 
+ 
+ First Amendment to the Stock Option Plan Agreement incorporated by reference to Exhibit 10.12 to the Company s Quarterly Report on Form 10-Q for the quarter ended June 30, 2006. 
+
+10.13 
+ 
+ Limited Liability Company Operating Agreement of Carbontronics, LLC, incorporated by reference to the Company s Form 10-Q for the quarter ended December 31, 2005. 
+
+43 
+
+Table of Contents 
+
+EXHIBIT NUMBER 
+ 
+ DESCRIPTION 
+ 
+ FILED HEREWITH 
+ 
+ 10.14 
+ 
+ Carbontronics, LLC, Amendment to Operating Agreement incorporated by reference to the Company s Form 10-Q for the quarter ended December 31, 2005. 
+
+10.15 
+ 
+ Carbontronics, LLC, Second Amendment to Operating Agreement incorporated by reference to the Company s Form 10-Q for the quarter ended December 31, 2005. 
+
+10.16 
+ 
+ Third Amendment to Limited Liability Company Operating Agreement of Carbontronics, LLC, incorporated by reference to the Company s Form 10-Q for the quarter ended December 31,
+2005. 
+
+10.17 
+ 
+ Purchase and Sale Agreement between Carbontronics Synfuels Investors, L.P. and Carbontronics LLC, incorporated by reference to the Company s Form 10-Q for the quarter ended December 31,
+2005. 
+
+10.18 
+ 
+ Limited Liability Company Operating Agreement of Carbontronics II, LLC, incorporated by reference to the Company s Form 10-Q for the quarter ended December 31, 2005. 
+
+10.19 
+ 
+ Carbontronics II, LLC Unanimous Consent of Members, incorporated by reference to the Company s Form 10-Q for the quarter ended December 31, 2005. 
+
+21.1 
+ 
+ Subsidiaries of the Registrant 
+ 
+ X 
+
+23.1 
+ 
+ Independent Auditors Consent 
+ 
+ X 
+
+31.1 
+ 
+ Certification of Chief Executive Officer Pursuant to Rule 13a 14(a) of the Securities Exchange Act of 1934, as amended 
+ 
+ X 
+
+31.2 
+ 
+ Certification of Chief Financial Officer Pursuant to Rule 13a 14(a) of the Securities Exchange Act of 1934, as amended 
+ 
+ X 
+
+32.1 
+ 
+ Certifications of Chief Executive Officer and Chief Financial Officer Pursuant to 18 U. S. C. Section 1350. 
+ 
+ X 
+ 
+ 44 
+
+Table of Contents 
+
+ SIGNATURES Pursuant to the requirements of Sections 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+Dated: December 19, 2006 
+ 
+ GENCOR INDUSTRIES, INC. 
+
+(Registrant) 
+
+/s/ E.J. Elliott 
+
+E.J. Elliott 
+
+Chairman and Chief Executive Officer 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the
+following persons on behalf of the Registrant and in the capacities and on the dates indicated. The signatures of Directors constitute a majority of Directors. 
+
+/s/ E.J. Elliott 
+
+/s/ Scott W. Runkel 
+ 
+ E.J. Elliott 
+
+Scott W. Runkel 
+ 
+ Chairman and Chief Executive Officer 
+
+Chief Financial Officer 
+ 
+ (Principal Executive Officer) 
+
+(Principal Financial and Accounting Officer) 
+
+/s/ Marc G. Elliott 
+
+/s/ Russell R. Lee, III 
+ 
+ Marc G. Elliott 
+
+Russell R. Lee, III 
+ 
+ President and Director 
+
+Director 
+
+/s/ Randolph H. Fields 
+
+/s/ David A. Air 
+ 
+ Randolph H. Fields 
+
+David A. Air 
+ 
+ Director 
+
+Director 
+
+/s/ Edward A. Moses, Ph.D. 
+
+Edward A. Moses 
+
+Director 
+
+45 
+
+Table of Contents 
+
+ EXHIBITS FILED HEREWITH 
+
+Exhibit No. 
+ 
+ Description 
+ 
+ 3.2 
+ 
+ Amended and Restated By-Laws of Gencor Industries, Inc. 
+
+21.1 
+ 
+ Subsidiaries of the Registrant 
+
+23.1 
+ 
+ Independent Auditor s Consent 
+
+31.1 
+ 
+ Certification of Chief Executive Officer Pursuant to Rule 13a 14(a) of the Securities Exchange Act of 1934, as amended 
+
+31.2 
+ 
+ Certification of Chief Financial Officer Pursuant to Rule 13a 14(a) of the Securities Exchange Act of 1934, as amended 
+
+32.1 
+ 
+ Certifications of Chief Executive Officer and Chief Financial Officer Pursuant to 18 U. S. C. Section 1350. 
+ 
+ 46 
+
+<EX-3.2>
+ 2
+ dex32.htm
+ AMENDED AND RESTATED BY-LAWS
+
+Amended and Restated By-Laws 
+
+EXHIBIT 3.2 AMENDED AND RESTATED BY-LAWS OF GENCOR INDUSTRIES, INC. ARTICLE I Offices Section 1. Registered Office . The registered office of the corporation shall be in the City of Wilmington, County of New Castle, State of
+Delaware. Section 2. Other Offices . The corporation may also have offices at such other places both within and without the
+State of Delaware as the Board of Directors may from time to time determine or the business of the corporation may require. ARTICLE II
+ Meetings of Stockholders Section 1. Place . All meetings of the stockholders for the election of directors shall be held at such place either within or without the State of Delaware as shall be designated from time to time by the Board of Directors and
+stated in the notice of the meeting. Meetings of stockholders for any other purpose may be held at such time and place, within or without the State of Delaware, as shall be stated in the notice or waiver of notice of such meeting. Section 2. Time . Unless otherwise directed by the Board of Directors, the annual meeting of the stockholders for the election of directors of
+the corporation and other meetings of the stockholders shall be held at the principal offices of the corporation in the State of Florida and for the transaction of any other proper business, shall be held at the time and on the day designated by the
+President in May in each year commencing with the year 1979, if not a legal holiday under the laws of the state where such meeting is to be held and if a legal holiday under the laws of such state, then on the next succeeding business day not a
+legal holiday under the laws of such state. 
+ 47 
+
+Section 3. Special Meetings . Special meetings of the stockholders, for any purpose or
+purposes, unless otherwise provided by statute or by the Certificate of Incorporation, may be called by the President and shall be called by the President or Secretary at the request of a majority of the Board of Directors or at the request in
+writing of the holders of a majority of the shares of stock of the corporation issued and outstanding and entitled to vote at any meeting at which the directors of the corporation are elected. Any such request shall state the purpose or purposes of
+the proposed meeting. Section 4. Notice . (a) Written notice of all meetings of stockholders stating the place, date and
+hour of the meeting and the purpose or purposes for which the meeting is called shall be given to each stockholder entitled to vote at such meeting not less than ten (10) or more than fifty (50) days before the date of the meeting. Except
+as otherwise provided by law, the business which may be transacted at any special meeting of stockholders shall consist of and be limited to the purpose or purposes so stated in such notice. (b) Advance Notice Provisions for Business to be Transacted at Annual Meeting. (i) No business may be transacted at an annual meeting of
+stockholders, other than business that is either (A) specified in the notice of meeting (or any supplement thereto) given by or at the direction of the Board of Directors (or any duly authorized committee thereof), (B) otherwise properly
+brought before the annual meeting by or at the direction of the Board of Directors (or any duly authorized committee thereof) or (C) otherwise properly brought before the annual meeting by any stockholder of the corporation who (1) is a
+stockholder of record on both (x) the date of the giving of the notice provided for in this Section 4 and (y) the record date for the determination of stockholders entitled to vote at such annual meeting and (2) complies with the
+notice procedures set forth in this Section 4(b). 
+ 48 
+
+(ii) In addition to any other applicable requirements, for business to be properly brought before an
+annual meeting by a stockholder, such stockholder must have given timely notice thereof in proper written form to the Secretary of the corporation. (A) To be timely, a stockholder s notice shall be delivered to the Secretary
+at the principal executive offices of the corporation not less than ninety (90) days nor more than one hundred twenty (120) days prior to the first anniversary of the preceding year s annual meeting; provided ; however ,
+that in the event that the date of the annual meeting is advanced or delayed by more than thirty (30) days from such anniversary date, notice by the stockholder to be timely must be delivered not earlier than the one hundred twentieth (120 th day prior to such annual meeting and not later than the close of business on the later of the ninetieth (90 th day prior to such annual meeting or the tenth (10 th day following the day
+on which public announcement of the date of such meeting is first made. (B) To be in proper written
+form, a stockholder s notice to the Secretary must set forth as to each matter such stockholder proposes to bring before the annual meeting (1) a brief description of the business desired to be brought before the annual meeting and the
+reasons for conducting such business at the annual meeting, (2) the name and record address of such stockholder, (3) the class or series and number of shares of capital stock of the corporation which are owned beneficially or of record by
+such stockholder, (4) a description of all arrangements or understandings between such stockholder and any other person or persons (including their names) in connection with the proposal of such business by such stockholder and any material
+interest of such stockholder in such business and (5) a representation that such stockholder intends to appear in person or by proxy at the annual meeting to bring such business before the meeting. As used in these by-laws,
+ beneficially owned means all shares which such person is deemed to beneficially own pursuant to Rules 13d-3 and 13d-5 under the Securities Exchange Act of 1934, as amended (the Exchange Act ). (iii) No business shall be conducted at the annual meeting of stockholders except business brought before the annual meeting in accordance with the
+procedures set forth in this Section 4; provided , however , that, once business has been properly brought before the annual meeting 
+ 
+ 49 
+
+in accordance with such procedures, nothing in this Section 4 shall be deemed to preclude discussion by any stockholder of any such business. If the
+chairman of an annual meeting determines that business was not properly brought before the annual meeting in accordance with the foregoing procedures, the chairman shall declare to the meeting that the business was not properly brought before the
+meeting and such business shall not be transacted. (c) Advance Notice Provisions for Election of Directors . (i) In addition to
+any other applicable requirements, for a nomination for election of a director to be made by a stockholder of the corporation at an annual meeting, such stockholder must (A) be a stockholder of record on both (1) the date of the giving of
+the notice provided for in this Section 4 and (2) the record date for the determination of stockholders entitled to vote at such annual meeting and (B) have given timely notice thereof in proper written form to the Secretary of the
+corporation. If a stockholder is entitled to vote only for a specific class or category of directors at a meeting of the stockholders, such stockholder s right to nominate one or more persons for election as a director at the meeting shall be
+limited to such class or category of directors. (ii) To be timely in connection
+with the annual meeting of the stockholders, a stockholder s notice shall be delivered to the Secretary at the principal executive offices of the corporation not less than ninety (90) days nor more than one hundred twenty (120) days
+prior to the first anniversary of the preceding year s annual meeting; provided , however , that in the event that the date of the annual meeting is advanced by more than thirty (30) days or delayed by more than sixty
+(60) days from such anniversary date, notice by the stockholder to be timely must be delivered not earlier than the one hundred twentieth (120 th day prior to such annual meeting and not later than the close of business on the later of the ninetieth (90 th day prior to such
+annual meeting or the tenth (10 th day following the day on which public announcement of the date of such meeting is first made. In the event the
+corporation calls a special meeting of stockholders for the purpose of electing one or more directors to 
+ 
+ 50 
+
+the Board of Directors, any stockholder entitled to vote for the election of such director(s) at such meeting and satisfying the requirements specified in
+Section 4(c)(i) may nominate a person or persons (as the case may be) for election to such position(s) as are specified in the corporation s notice of such meeting, but only if the stockholder notice required by Section 4(c)(iii)
+hereof shall be delivered to the Secretary at the principal executive office of the corporation not later than the close of business on the tenth (10 th day following the first day on which the date of the special meeting and either the names of all nominees proposed by the Board of Directors to be elected at such meeting or the number of directors to be elected shall have been
+publicly announced. (iii) To be in proper written form, a stockholder s notice to the Secretary must be set forth (A) as
+to each person whom the stockholder proposes to nominate for election as a director (1) the name, business address and residence address of the person, (2) the principal occupation or employment of the person, (3) the class or series
+and number of shares of capital stock of the corporation, if any, which are owned beneficially or of record by the person and (4) any other information relating to the person that would be required to be disclosed in a proxy statement or other
+filings required to be made in connection with solicitations of proxies for election of directors pursuant to Section 14 of the Exchange Act, and the rules and regulations promulgated thereunder; and (B) as to the stockholder giving notice
+(1) the name and record address of such stockholder, (2) the class or series and number of shares of capital stock of the corporation which are owned beneficially or of record by such stockholder, (3) a description of all arrangements
+or understandings between such stockholder and each proposed nominee and any other person or persons (including their names) pursuant to which the nomination(s) are to be made by such stockholder, (4) a representation that such stockholder
+intends to appear in person or by proxy at the annual meeting to nominate the person(s) named in its notice and (5) any other information relating to such stockholder that would be required to be disclosed in a proxy statement or other filings
+required to be made in connection with solicitations of proxies for election of 
+ 
+ 51 
+
+directors pursuant to Section 14 of the Exchange Act and the rules and regulations promulgated thereunder. Such notice must be accompanied by a written
+consent of each proposed nominee to being named as a nominee and to serve as a director if elected. (iv) No person shall be eligible for
+nomination as a director by a stockholder at an annual meeting unless nominated in accordance with the procedures set forth in this Section 4(c). If the chairman of an annual meeting determines that a nomination was not made in accordance with
+the foregoing procedures, the chairman shall declare to the meeting that the nomination was defective and such defective nomination shall be disregarded. (v) This Section 4(c) shall not apply to any nomination of a director in an election in which only the holders of (1) Class B Stock, or (2) one or more series of Preferred Stock of the corporation
+designated pursuant to Article Four, Section B of the corporation s Restated Certificate of Incorporation, as amended (the Certificate of Incorporation are entitled to vote for such nominee (unless otherwise provided in the terms
+of such Class B Stock or series of Preferred Stock). (d) Adjournment . In no event shall the adjournment of an annual or special
+meeting of the stockholders, or any announcement thereof, commence a new period for the giving of notice under this Section 4. (e)
+ Definition of Publicly Announced . For purposes of this Section 4, a matter shall be deemed to have been publicly announced if such matter is disclosed in a press release reported by the Dow Jones News Service, the Associated
+Press or a comparable national news service or in a document publicly filed by the corporation with the Securities and Exchange Commission. Section 5. Stockholders List . The officer who has charge of the stock ledger of the corporation shall prepare and make, at least ten (10) days before every meeting of stockholders, a complete list of the stockholders
+entitled to vote at the meeting, arranged in alphabetical order, and 
+ 
+ 52 
+
+showing the address of each stockholder and the number of shares registered in the name of each stockholder. Such list shall be open to the examination of
+any stockholder, for any purpose germane to the meeting, during ordinary business hours, for a period of at least ten (10) days prior to the meeting, either at a place within the city where the meeting is to be held, which place shall be
+specified in the notice of the meeting, or, if not so specified, at the place where the meeting is to be held. The list shall also be produced and kept at the time and place of the meeting during the whole time thereof, and may be inspected by any
+stockholder who is present. Section 6. Quorum . At each meeting of the stockholders, except as otherwise provided by statute or
+by the Certificate of Incorporation, the holders of a majority of the issued and outstanding shares of each class of stock entitled to vote thereat, present in person or represented by proxy, shall be necessary and sufficient to constitute a quorum
+for the transaction of business. If, however, such quorum shall not be present or represented at any meeting of the stockholders, the stockholders entitled to vote thereat, present in person or represented by proxy, shall have power to adjourn the
+meeting from time to time, without notice other than announcement at the meeting, until a quorum shall be present or represented. At any such adjourned meeting at which a quorum shall be present or represented, any business may be transacted which
+might have been transacted at the meeting as originally notified. If the adjournment is for more than thirty (30) days, or if after the adjournment a new record date is fixed for the adjourned meeting, a notice of the adjourned meeting shall be
+given to each stockholder of record entitled to vote at the meeting. Section 7. Voting and Proxies . The holders of the
+outstanding Common Stock and the holders of any outstanding Class B Stock shall be entitled to cast one (1) vote in person or by proxy for each share standing in such holder s name with respect to all matters upon which stockholders are
+entitled to vote or to which stockholders are entitled to give consent except that at such time as Class B Stock shall be outstanding, holders of Class B Stock, voting separately as a class, shall have the right to 
+ 
+ 53 
+
+elect that number of directors so that seventy-five percent (75 (calculated to the nearest whole number rounding a fractional number of five-tenths
+(.5) to the next highest whole number) of the total number of directors of the corporation fixed from time to time by the Board of Directors in accordance with Section 1 of Article III of these By-Laws, and the holders of Common Stock shall
+have the right, voting separately as a class, to elect the other approximately twenty-five percent (25 of such total number of directors. Provided further, that, while any shares of Class B Stock are outstanding, the approval by a majority of
+the votes entitled to be cast by the holders of the Common Stock and the approval by a majority of the votes entitled to be cast by the holders of the Class B Stock, each such class voting separately as a class, shall be required on (i) any
+merger or consolidation of the corporation with or into any other corporation; any sale, lease, exchange or other disposition of all or substantially all of the corporation s assets to or with any other person except, where such merger or
+transaction is with a majority owned subsidiary of the corporation; or any dissolution of the corporation, (ii) any additional issuance of shares of Class B Stock other than in connection with share splitups and share dividends on shares of
+Class B Stock; or the exercise of stock options granted to directors, officers or employees of the corporation or any subsidiary of the corporation; or an exchange for shares of Common Stock upon the initial issuance of Class B Stock; and,
+(iii) any modification, alteration or amendment to the Certificate of Incorporation other than an amendment filed under the provisions of subparagraph 2 of paragraph B of the Fourth Article of the Certificate of Incorporation, to fix, change,
+or designate the terms, other than conversion rights into shares of Class B Stock (for which conversion rights the approval by the majority of shareholders of each class voting separately as a class as provided in this Section 7 shall be
+required), of the Preferred Stock; and, (iv) on any other matters requiring a separate vote by classes provided for under the Delaware General Corporation Law. For purposes of this paragraph a subsidiary is any corporation more than
+fifty percent (50 of the voting securities of which are owned directly or indirectly by the corporation; and a person is any individual, partnership, corporation or entity. Each stockholder entitled to vote at a meeting of
+stockholders or to express 
+ 
+ 54 
+
+consent or dissent to a corporate action in writing may authorize another person or persons to act for him by proxy, but no such proxy shall be voted or
+acted upon after three (3) years from its date, unless the proxy provides for a longer period. Section 8. Written Consent of
+Stockholders . Any action required by the Certificate of Incorporation or the Delaware General Corporation Law to be taken at any annual or special meeting of the stockholders, or any action which may be taken at any annual or special meeting of
+the stockholders, may be taken without a meeting, without prior notice and without a vote, if a consent in writing, setting forth the action so taken, shall be signed by the holders of outstanding stock having not less than the minimum number of
+votes that would be necessary to authorize or take such action at a meeting at which all shares entitled to vote thereon were present and voted. Prompt notice of the taking of the corporate action without a meeting by less than unanimous written
+consent shall be given to those stockholders who have not consented in writing. ARTICLE III Board of Directors Section 1.
+ Number . The Board of Directors shall consist of at least three (3) directors, at least one (1) of whom shall be electable by the holders of the Common Stock voting separately as a class as provided in Section 7 of Article II of
+these By-Laws. The number of directors shall be such as from time to time may be fixed by resolution of the Board of Directors at a duly held regular or special meeting. Section 2. Standing and Term . All directors, whether elected by the holders of the Common Stock or by the holders of the Class B Stock shall have equal standing, serve terms of one (1) year, and have
+equal voting powers. 
+ 55 
+
+Section 3. Vacancies . Vacancies and newly created directorships resulting from any increase
+in the authorized number of directors may be filled by a majority vote of the remaining directors then in office, even though less than a quorum. Section 4. Removal . Directors separately elected or electable (in the case of vacancies or newly created directorships filled by the remaining directors) by the holders of the Common Stock or by the holders of the Class B Stock
+may be removed, with or without cause, only by the vote or consent of a majority of the votes then entitled to be cast by which such directors were elected or electable, voting or consenting separately as a class. Section 5. Designation of Directorships . At the time Class B Stock shall first become outstanding, the Board of Directors shall designate
+seventy-five percent (75 (calculated to the nearest whole number, rounding a fractional number of five-tenths (.5) to the nearest whole number) of the then authorized number of directorships as directorships to be elected by the separate
+class vote of the holders of the Class B Stock at the next meeting of stockholders at which directors are to be elected. The balance of the then authorized number of directorships shall be designated as directorships to be elected by the separate
+class vote of the holders of the Common Stock at the next meeting of stockholders at which directors are to be elected. Any director filling a designated directorship shall hold such office until his successor is elected and qualified or until his
+earlier resignation, death or removal. Section 6. Annual Meetings . After each annual election of directors and on the same
+day, the Board of Directors may meet for the purpose of organization, the election of officers and the transaction of other business at the place where the annual meeting of the stockholders is held. Notice of such meeting need not be given. Such
+meeting may be held at any other time or place which shall be specified in a notice given at least five (5) days before the day on which the meeting is to be held as hereinafter provided for in Article IV. 
+ 56 
+
+Section 7. Regular Meetings . Regular meetings of the Board of Directors may be held at such
+places and at such times as the Board shall by resolution determine, or in the absence of such determination, at such stated time as may be determined by the President. If any day fixed for a regular meeting shall be a legal holiday at the place
+where the meeting is to be held, then the meeting which would otherwise be held on that day shall be held at such place at the same hour and on the next succeeding business day not a legal holiday. Notice of regular meetings shall be given at least
+five (5) days before the day on which the meeting is to be held if said notice is given by mail, or at least forty-eight (48) hours before the day on which the meeting is to be held if said notice is to be given in any other manner as
+provided in Article IV. Section 8. Special Meetings . Special meetings of the Board of Directors shall be held whenever called
+by the President or the Secretary or any two (2) of the directors. Notice of each such meeting shall be given to each director at least five (5) days before the day on which the meeting is to be held if said notice is given by mail, or at
+least forty-eight (48) hours before the day on which the meeting is to be held if said notice is given in any other manner as provided in Article IV. Section 9. Quorum . Except as otherwise provided by statute or by these By-Laws, the presence of a majority of all the directors shall be required to constitute a quorum for the transaction of business at
+any meeting, and the affirmative vote of a majority of the directors present at the meeting shall be necessary for the adoption of any resolution or the taking of any other action. In the absence of a quorum, the director or directors present may
+adjourn any meeting from time to time until quorum be had. Notice of any adjourned meeting need not be given. Section 10.
+ Unanimous Written Consent . Any action required or permitted to be taken at any meeting of the Board of Directors or of any committee thereof may be taken without a meeting if all members of the Board or of such committee, as the case may be,
+consent thereto in writing and such written consent is filed with the minutes or proceedings of the Board or such committee. 
+ 57 
+
+Section 11. Compensation . Directors, as such, shall not receive any stated salary for their
+services, but by resolution of the Board of Directors a fixed sum and expenses of attendance, if any, may be allowed for attendance at each regular and special meeting of the Board or of any committee thereof. Nothing herein contained shall be
+construed so as to preclude any director from serving the corporation in any other capacity, or from serving any of its stockholders, subsidiaries or affiliated corporations in any capacity, and receiving compensation therefor. Section 12. Committees . The Board of Directors may, by resolution passed by a majority of the whole Board, designate one (1) or more
+committees, each committee to consist of two (2) or more of the directors of the corporation. The Board may designate one (1) or more directors as alternate members of any committee, who may replace any absent or disqualified member at any
+meeting of the committee. Any such committee, to the extent provided in the resolution, shall have and may exercise the powers of the Board of Directors in the management of the business and affairs of the corporation, and may authorize the seal of
+the corporation to be affixed to all papers which may require it, provided, however, that in the absence or disqualification of any member of such committee or committees, the member or members thereof present at any meeting and not disqualified
+from voting, whether or not he or they constitute a quorum, may unanimously appoint another member of the Board of Directors to act at the meeting in the place of any such absent or disqualified member. Such committee or committees shall have such
+name or names as may be determined from time to time by resolution adopted by the Board of Directors. Each committee shall keep regular minutes of its meetings and report the same to the Board of Directors when required. 
+ 58 
+
+Section 13. Powers of Board of Directors . The Board of Directors shall have all the powers
+conferred upon it by the Certificate of Incorporation of this corporation subject to the provisions of the laws of the State of Delaware, of the Certificate of Incorporation and of these By-Laws. These powers include but are not limited to the
+following: (i) the power to issue authorized unissued or treasury Preferred Stock and to thereby fix the terms of such Preferred Stock; provided, however, that any amendments to the Certificate of Incorporation pursuant to Section 151 of
+the Delaware Corporation Law shall require the affirmative vote of all members of the Board of Directors who shall have been elected by the holders of Class B Stock whether or not such members are present and voting at any meeting during which such
+amendments are proposed; provided further, however, that prior to the issuance of any Preferred Stock which has conversion rights into Class B Stock the Board of Directors shall first have obtained the approval of a majority of the votes entitled to
+be cast by the holders of the Common Stock and the holders of the Class B Stock, each such class voting separately as a class; and (ii) the power to issue options entitling the holders thereof to purchase from the corporation any shares of its
+capital stock; provided , however , that the options are being issued pursuant to a Stock Option Plan approved by the shareholders or that the Board of Directors has obtained the approval of a majority of votes entitled to be cast by the
+holders of Class B Stock. ARTICLE IV Notices Section 1. Form . Whenever under the provisions of the statutes or of the
+Certificate of Incorporation or of these By-Laws, notice is required to be given to any director or stockholder, it shall not be necessary that personal notice be given, and such notice may be given in writing, by mail, addressed to such director or
+stockholder, at his address as it appears on the records of the corporation or at his residence or usual place of business, with postage thereon prepaid, and such notice shall be deemed to be given at the time when the same shall be deposited in the
+United States mail. Notice to 
+ 
+ 59 
+
+directors may also be given (1) by telegraph, cable or wireless, and such notice shall be deemed to be given when the same shall be filed, or
+(2) in person or by telephone, and such notice shall be deemed to be given when the same shall be delivered. Section 2.
+ Waiver and Validation . Whenever any notice is required to be given under the provisions of the statutes or of the Certificate of Incorporation or of these By-Laws, a waiver thereof in writing, signed by the person or persons entitled to said
+notice, whether before or after the time stated therein, shall be deemed equivalent thereto. Notwithstanding anything to the contrary, notice of any meeting of the Board of Directors need not be given to any director who shall be present at such
+meeting; and any meeting of the Board shall be a legal meeting if two-thirds (2/3) of all the directors then in office shall be present thereat and shall sign a written consent thereto. ARTICLE V Officers Section 1. Number . The principal officers of the corporation shall be a President, one (1) or more Vice Presidents, a Secretary, an
+Assistant Secretary, a Treasurer, an Assistant Treasurer, and, if the Board of Directors shall so determine, such other subordinated officers as may be appointed by the Board. Any two (2) or more offices may be held by the same person.
+ Section 2. Election . The officers shall be elected annually by the Board of Directors by a plurality of the votes cast, and
+except in the case of officers appointed in accordance with the provisions of Section 3 of this Article V, each shall hold office until the next annual election of officers and until his successor shall have been duly elected and qualified, or
+until his death, or until he shall resign or until he shall have been removed in the manner hereinafter provided. Section 3.
+ Additional Officers . In addition to the officers named in Section 1 of this Article V, the corporation may have such other officers and agents as may be deemed necessary by the Board of Directors. Such other officers and agents shall be
+appointed in such manner, have such duties and hold their offices for such terms, as may be determined by resolution of the Board of Directors. 
+ 60 
+
+Section 4. Resignation . Any officer may resign at any time by giving written notice of his
+resignation to the Board of Directors, to the President or to the Secretary of the corporation. Any such resignation shall take effect at the time specified therein; and, unless otherwise specified therein, the acceptance of such resignation shall
+not be necessary to make it effective. Section 5. Removal and Employment Agreements . The President, any Vice President, the
+Secretary, and the Treasurer shall be subject to removal with or without cause, at any time, by the affirmative vote of a majority of the whole Board of Directors, and all other officers and agents of the corporation shall be subject to removal at
+any time, with or without cause, by the affirmative vote of a majority of the directors present at any duly convened meeting of the Board of Directors at which a quorum is present. Notwithstanding the foregoing or anything else in these By-Laws to
+the contrary, while any Class B Stock is outstanding: (i) neither the President nor any Vice President shall be subject to such removal, and (ii) no officer of the corporation, whether elected by the Board of Directors or appointed by a
+committee or officer, shall be employed pursuant to any type of employment agreement or contract; unless, with respect to such removal or such employment agreement or contract, there shall have first been obtained a vote or consent of a majority of
+the holders of Class B Stock. All officers, agents and employees, other than those elected or appointed by the Board of Directors shall hold office at the discretion of the committee or the officer appointing them. Section 6. Vacancy . A vacancy in any office because of death, resignation, removal or any other cause shall be filled for the unexpired
+portion of the term in the manner prescribed in this Article V for election or appointment to such office. 
+ 61 
+
+Section 7. The President . The President shall be the chief executive officer of the
+corporation, subject to the directions of and limitations imposed by the Board of Directors, and shall perform all the duties and have all the power usually pertaining and attributed by law or otherwise to the office of the President of the
+corporation, except as may be expressly limited by the Board of Directors. The President shall coordinate and supervise the activities of all other officers of the corporation. The President shall from time to time call special meetings of the Board
+of Directors when he deems it necessary so to do or whenever the requisite number of members of the Board of Directors shall request him in writing so to do. He shall preside at all meetings of the stockholders, and, unless a chairman of the Board
+of Directors has been elected and is present, shall preside at all meetings of the Board of Directors. The President, unless some other person is thereunto expressly authorized by resolution of the Board of Directors, shall sign all certificates of
+stock, execute all contracts, deeds, notes, mortgages, bonds and other instruments and papers in the name of the corporation and on its behalf, subject, however, to the control, when exercised of the Board of Directors. He shall, at each annual
+meeting, present a report of the business and affairs of the corporation, and shall from time to time, whenever requested, report to the Board all matters within his knowledge which the interest of the corporation may require be brought to the
+notice of the directors. The President shall have the power to employ and terminate the employment of all such subordinate officers, agents, clerks, and other employees not herein provided to be selected by the Board, as he may find necessary to
+transact the business of the corporation, and shall have the right to fix the compensation thereof. Section 8. Vice
+Presidents . The Vice Presidents shall have the powers and perform such duties as may be delegated to them, respectively, by the Board of Directors, or in the absence of such action by the Board, then by the President. In case of the death,
+absence or inability of the President to act, except as may be expressly limited by action of the Board of Directors, and unless and until the Board of Directors has appointed a President Pro Tempore, any Vice President may, and any of them 
+ 
+ 62 
+
+expressly designated by the Board of Directors shall, perform the duties and exercise the powers of the President following such death of the President or
+during the absence or inability of the President to act; and, concurrently with the President, shall at all times have the power to sign all certificates of stock, execute all contracts, deeds, notes, mortgages, bonds and other instruments and
+documents in the name of the corporation on its behalf which the President is authorized to do, but subject to the control and authority at all times of the Board of Directors. Section 9. President Pro Tempore . In case of the death, absence or inability of the President to act, the Board of Directors, in its
+discretion, may appoint a President Pro Tempore who shall exercise the powers and duties of the President until the return of the President or until the President is again able to act, or until a successor to the President has been duly elected.
+ Section 10. Secretary . The Secretary shall keep the minutes of all meetings of the stockholders and the Board of Directors in
+a book or books to be kept for such purposes, and also, when so requested, the minutes of all meetings of committees in a book or books to be kept for such purposes. He shall attend to giving and serving of all notices, and he shall have charge of
+all books and papers of the corporation, except those hereinafter directed to be in charge of the Treasurer, or except as otherwise expressly directed by the Board of Directors. He shall keep the stock certificate book or books. The Secretary shall
+be the custodian of the seal of the corporation. The Secretary shall sign with the President, or with a Vice President, all certificates of stock as the Secretary of this corporation and as such Secretary affix or cause to be affixed thereto the
+seal of the corporation. The Secretary may sign as Secretary of the corporation, with the President, or with a Vice President, in the name of the corporation and on its behalf, all contracts, deeds, mortgages, bonds, notes and other papers,
+instruments and documents, except as otherwise expressly provided by the Board of Directors, and as such Secretary, he shall affix the seal of the corporation thereto. Under the direction of the Board of Directors or the President, the Secretary
+shall perform all the duties usually pertaining to the office of Secretary; and he shall perform such other duties as may be prescribed by the Board of Directors or the President. 
+ 63 
+
+Section 11. Assistant Secretary . The Assistant Secretary shall have such powers and perform
+such duties as may be delegated to him by the Board of Directors or the President; and, in case of the death, absence, or inability of the Secretary to act, whether temporary or not, he may exercise the powers and duties of the Secretary. The
+Assistant Secretary may, together with the President or with a Vice President, sign certificates of stock, contracts, and other instruments and documents involving the carrying on of the business of the corporation which the Secretary is authorized
+to sign, which power shall be concurrent with the power of the Secretary. Section 12. Treasurer . The Treasurer shall have the
+custody of all the funds and securities of the corporation, except as may be otherwise provided by the Board of Directors, and he shall make such disposition of the funds and other assets of the corporation as he may be directed by the Board of
+Directors. He shall keep or cause to be kept a record of all money received and paid out, and all vouchers and receipts given therefor, and all other financial transactions of the corporation. He shall have general charge of all financial books,
+vouchers and papers belonging to the corporation or pertaining to its business. He shall render an account of the corporation s funds at each annual meeting of the Board of Directors and at such other meetings as he may he requested, and he
+shall make an annual statement of the finances of the corporation. If at any time there is a person designated as Comptroller of the corporation, the Treasurer may delegate to such Comptroller such duties and powers as to the Treasurer may seem
+proper. The Treasurer shall perform such other duties as are usually incident by law or otherwise to the office of the Treasurer, and as he may be directed or required by the Board of Directors or the President. 
+ 64 
+
+Section 13. Assistant Treasurer . The Assistant Treasurer shall have such powers and shall
+perform such duties as may be delegated to him by the Board of Directors or the President or the Treasurer; and in case of the death, absence or inability of the Treasurer to act, he may exercise the powers and duties of the Treasurer. 
+ Section 14. Subordinate Officers . In all cases where the duties of subordinate officers and the duties of agents or employees of the
+corporation are not specifically prescribed by the By-Laws or resolution of the Board of Directors, such Officers, agents and employees shall obey the orders and instructions of the President. The President may, with or without the consent of the
+Board of Directors, suspend or remove any subordinate officer, agent or clerk or other servant of the corporation who has not been elected to such office by the Board of Directors. Section 15. Salaries . The salaries of the principal officers of the corporation shall be fixed from time to time by the Board of Directors.
+Nothing contained herein shall preclude any officer from serving the corporation in any other capacity, including that of director, or from serving any of its stockholders, subsidiaries or affiliated corporations in any capacity, and receiving a
+proper compensation therefor. ARTICLE VI Indemnification and Insurance Section 1. Indemnification . (a) The Corporation shall indemnify any person who was or is a party or is threatened to be made a party to any threatened, pending or completed action,
+suit or proceeding, whether civil, criminal, administrative or investigative (other than an action by or in the right of the corporation) by reason of the fact that he is or was a director, officer, employee or agent of the corporation, or is or was
+serving at the request of the corporation as a director, officer, employee or agent of another corporation, partnership, joint venture, trust or other enterprise, against expenses (including attorney s fees), 
+ 
+ 65 
+
+judgments, fines and amounts paid in settlement actually and reasonably incurred by him in connection with such action, suit or proceeding if he acted in
+good faith and in a manner he reasonably believed to be in or not opposed to the best interest of the corporation, and, with respect to any criminal action or proceeding, had no reasonable cause to believe his conduct was unlawful. The termination
+of any action, suit or proceeding by judgment, order, settlement, conviction, or upon a plea of nolo contendere or its equivalent, shall not, of itself, create a presumption that the person did not act in good faith and in a manner which he
+reasonably believed to be in or not opposed to the best interests of the corporation, and with respect to any criminal action or proceeding, had reasonable cause to believe that his conduct was unlawful. (b) The corporation shall indemnify any person who was or is a party or is threatened to be made a party to any threatened, pending or completed action
+or suit by or in the right of the corporation to procure a judgment in its favor by reason of the fact that he is or was a director, officer, employee or agent of the corporation, or is or was serving at the request of the corporation as a director,
+officer, employee or agent of another corporation, partnership, joint venture, trust or other enterprise against expenses (including attorney s fees) actually and reasonably incurred by him in connection with the defense or settlement of such
+action or suit if he acted in good faith and in a manner he reasonably believed to be in or not opposed to the best interests of the corporation and except that no indemnification shall be made in respect of any claim, issue or matter as to which
+such person shall have been adjudged to be liable for negligence or misconduct in the performance of his duty to the corporation unless and only to the extent that the Court of Chancery or the court in which such action or suit was brought shall
+determine upon application that, despite the adjudication of liability but in view of all the circumstances of the case, such person is fairly and reasonably entitled to indemnity for such expenses which the Court of Chancery or such other court
+shall deem proper. 
+ 66 
+
+(c) To the extent that director, officer, employee or agent of a corporation has been successful on the
+merits or otherwise is defense of any action, suit or proceeding referred to in subsections (a) and (b), or in defense of any claim, issue or matter therein, he shall be indemnified against expenses (including attorney s fees) actually and
+reasonably incurred by him in connection therewith. (d) Any indemnification under subsections (a) and (b) (unless ordered by a
+court) shall be made by the corporation only as authorized in the specific case upon a determination that indemnification of the director, officer, employee or agent is proper in the circumstances because he has met the applicable standard of
+conduct set forth in subsections (a) and (b) of this section. Such determination shall be made (1) by the Board of Directors by a majority vote of a quorum consisting of directors who were not parties to such action, suit or
+proceeding, or (2) if such a quorum is not obtainable, or, even if obtainable a quorum of disinterested directors so directs, by independent legal counsel in a written opinion, or, (3) by the stockholders. (e) Expenses incurred by an officer or director defending a civil or criminal action, suit or proceeding may be paid by the corporation in advance of the
+final disposition of such action, suit or proceeding as authorized by the Board of Directors in the specific case upon receipt of an undertaking by or on behalf of such director or officer to repay such amount unless it shall ultimately be
+determined that he is entitled to be indemnified by the corporation as authorized in this section. Such expenses incurred by other employees and agents may be so paid upon such terms and conditions, if any, as the Board of Directors deems
+appropriate. (f) The indemnification provided by this section shall not be deemed exclusive of any other rights to which those seeking
+indemnification may be entitled under any agreement, vote of stockholders or disinterested directors or otherwise, both as to action in his official capacity and as to 
+ 
+ 67 
+
+action in another capacity while holding such office, and shall continue as to a person who has ceased to be a director, officer, employee or agent and shall
+inure to the benefit of the heirs, executors and administrators of such a person. (g) For purposes of this section, references to
+ the corporation shall include, in addition to the resulting corporation, any constituent corporation (including any constituent of a constituent) absorbed in a consolidation or merger which, if its separate existence had continued, would
+have had power and authority to indemnify its directors, officers, and employees or agents, so that any person who is or was a director, officer, employee or agent of such constituent corporation, or is or was serving at the request of such
+constituent corporation, or is or was serving at the request of such constituent corporation as a director, officer, employee or agent of another corporation, partnership, joint venture, trust or other enterprise, shall stand in the same position
+under this section with respect to the resulting or surviving corporation as he would have with respect to such constituent corporation if its separate existence had continued. (h) For Purposes of this section, references to other enterprises shall include employee benefit plans; references to fines shall
+include any excise taxes assessed on a person with respect to any employee benefit plan; and references to serving at the request of the corporation shall include any service as director, officer, employee or agent of the corporation
+which imposes duties on, or involves services by, such director, officer, employee, or agent with respect to an employee benefit plan, its participants, or beneficiaries; and a person who acted in good faith and in a manner he reasonably believed to
+be in the interest of the participants and beneficiaries of an employee benefit plan shall be deemed to have acted in a manner not opposed to the best interests of the corporation as referred to in this section. 
+ 68 
+
+Section 2. Liability Insurance . The corporation may purchase and maintain insurance on behalf
+of any person who is or was a director, officer, employee or designated agent of the corporation, or is or was serving at the request of the corporation as a director, officer, employee or designated agent of another corporation, partnership, joint
+venture, trust or other enterprise against any liability asserted against him and incurred by him in any such capacity, or arising out of his status as such, whether or not the corporation would have the power to indemnify him against such liability
+under the provisions of this Article or of Section 145 of the General Corporation Law of the State of Delaware. ARTICLE VII 
+ Funds of the Corporation Section 1. Checks . All contracts and agreements authorized by the Board of Directors, and all checks, drafts, bills of exchange or other orders for the payment of money, issued in the name of the corporation, shall be signed by
+such person or persons and in such manner as may from time to time be designated by the Board of Directors, which designation may be general or confined to specific instances; and unless so designated by the Board of Directors or in these By-Laws,
+no officer, agent or employee shall have any power or authority to bind the corporation by any contract or engagement or to pledge its credit or to render it liable pecuniarily for any purpose or for any amount. Section 2. Evidence of Indebtedness . No loan shall be contracted on behalf of the corporation, and no evidence of indebtedness shall be
+issued in its name, unless authorized by the Board of Directors. Such authorization may be general or confined to specific instances. Loans so authorized by the Board of Directors may be effected at any time for the corporation from any bank, trust
+company or other institution, or from any firm, corporation or individual. All bonds, debentures, notes and other obligations or evidences of indebtedness of the corporation issued for such loans shall be signed by the President, or by a Vice
+President or the President Pro Tempore, in case such has been appointed, and no such instrument shall be valid or binding without being so signed; and all such instruments may be 
+ 
+ 69 
+
+attested by the Secretary or the Assistant Secretary. When so authorized by the Board of Directors any part of or all the properties, including contract
+rights, assets, business or goodwill of the corporation, whether then owned or thereafter acquired, may be mortgaged, pledged, hypothecated or conveyed or assigned in trust as security for the payment of such bonds, debentures, notes and other
+obligations or evidences of indebtedness of the operation, and of the interest thereon, by instruments executed and delivered in the name of the corporation. Section 3. Deposits . All funds of the corporation not otherwise employed shall be deposited from time to time to the credit of the corporation in such banks, trust companies or other depositaries as the
+Board of Directors may select. The Board of Directors may make such special rules and regulations with respect to such bank accounts, not inconsistent with the provisions of these By-Laws, as it may deem expedient. For the purpose of deposit and for
+the purpose of collection for the account of the corporation, checks, drafts and other orders for the payment of money which are payable to the order of the corporation shall be endorsed, assigned and delivered by such person or persons and in such
+manner as may from time to time be designated by the Board of Directors. Section 4. Power of Attorney . Unless otherwise
+provided by resolution adopted by the Board of Directors, the President or any Vice President may from time to time appoint an attorney or attorneys, or an agent or agents, to exercise in the name and on behalf of the corporation the powers and
+rights which the corporation may have as the holder of stock or other securities in any other corporation to vote or to consent in respect of such stock or other securities; and the President or any Vice President may instruct the person or persons
+so appointed as to the manner of exercising such powers and rights and the President or any Vice President may execute or cause to be executed in the name and on behalf of the corporation and under its corporate seal, or otherwise, all such written
+proxies, powers of attorney or other written instruments as he may deem necessary in order that the corporation may exercise such powers and rights. 
+ 70 
+
+ARTICLE VIII Stock Section 1. Shares . All shares issued by the corporation may be certificated or
+uncertificated, as provided under Delaware law, and shall be entered in the books of the corporation and registered in the shareholder s name as the shares are issued. Section 2. Certificates of Stock . Any certificates of stock shall be numbered and registered in the order in which they are issued. Any
+certificate representing shares of the corporation shall certify the number of shares of stock of the corporation owned by him, signed by, or in the name of the corporation by the President or a Vice President and by the Secretary or an Assistant
+Secretary of the corporation (except that when any such certificate is countersigned by a transfer agent other than the corporation or its employee or by a registrar other than the its employee the signatures of any such officers may be facsimiles).
+If the corporation shall be authorized to issue more than one (1) class of stock or more than one (1) series of any class, and the corporation further determines that such shares shall be certificated, the designations, preferences and
+relative, participating, optional or other special rights of each class of stock or series thereof and the qualifications, limitations, or restrictions of such preferences and/or rights shall be set forth in full or summarized on the face or back of
+the certificate which the corporation may issue to represent such class or series of stock, provided that, except in the case of restriction on transfers of securities which are required to be noted on any certificate, in lieu of the foregoing
+requirements, there may be set forth on the face or back of the certificate which the corporation may issue to represent such class or series of stock, a statement that the corporation will furnish without charge to each stockholder who so requests
+the designations, preferences and relative, participating, optional or other special rights of each class of stock or series thereof and the qualifications, limitations or restrictions of such preferences and/or rights. 
+ 71 
+
+Section 3. Lost Certificates . The Board of Directors may direct the issuance of: (i) a
+new certificate or certificates; or (ii) uncertificated shares to be issued in place of any certificate or certificates theretofore issued by the corporation alleged to have been lost, stolen or destroyed, upon the making of an affidavit or
+affirmation of that fact by the person claiming the certificate of stock to be lost, stolen or destroyed. When authorizing such issue of a new certificate, certificates, or uncertificated shares the Board of Directors may, in its discretion and as a
+condition precedent to the issuance thereof, require the owner of such lost, stolen or destroyed certificate or certificates, or his legal representative, to advertise the same in such manner as it shall require and/or to give the corporation a bond
+in the form and in such sum as it may direct as indemnity against any claim that may be made against the corporation with respect to the certificate alleged to have been lost, stolen or destroyed. Section 4. Transfer . Upon surrender to the corporation or the transfer agent of the corporation of a certificate for shares duly endorsed or
+accompanied by proper evidence of succession, assignment or authority to transfer, it shall be the duty of the corporation to issue a new certificate or uncertificated shares to the person entitled thereto, cancel the old certificate and record the
+transaction upon its books. In the case of uncertificated shares, it shall be the duty of the corporation, upon receipt of proper and duly executed transfer instructions from the registered owner of such uncertificated shares, or by his attorney
+authorized by a power of attorney duly executed and filed with the secretary or with a designated transfer agent or transfer clerk, to issue a new certificate or uncertificated shares to the person entitled thereto and record the transaction upon
+its books. Section 5. Record Date . In order that the corporation may determine the stockholders entitled to notice of or to
+vote at any meeting of stockholders or any adjournment thereof, or to express consent to corporate action in writing without a meeting, or entitled to receive payment of any dividend or other distribution or allotment of any rights, or entitled to
+exercise any rights in respect of any change, conversion or exchange of stock or for the purpose of any other lawful action, the Board of Directors 
+ 
+ 72 
+
+may fix, in advance, a record date, which shall not be more than sixty (60) nor less than ten (10) days before the date of such meeting, nor more
+than sixty (60) days prior to any other action. A determination of stockholders of record entitled to notice of or to vote at a meeting of stockholders shall apply to any adjournment of the meeting; provided , however , that the
+Board of Directors may fix a new record date for the adjourned meeting. Section 6. Ownership . The corporation shall be
+entitled to recognize the exclusive right of a person registered on its books as the owner of shares to receive dividends, and to vote as such owner, and to hold liable for calls and assessments a person registered on its books as the owner of
+shares, and shall not be bound to recognize any equitable or other claim to or interest in such share or shares on the part of any other person, whether or not it shall have express or other notice thereof, except as otherwise provided by the laws
+of Delaware. ARTICLE IX General Provisions Section 1. Fiscal Year . The fiscal year of the corporation shall be fixed by resolution of
+the Board of Directors. Section 2. Corporate Seal . The corporate seal shall be circular and shall have inscribed thereon the
+name of the corporation, the words Corporate Seal, Delaware , and such other words and figures and in such design as may be prescribed by the Board of Directors. The seal may be used by causing it or a facsimile thereof to be impressed or
+affixed or reproduced or otherwise. ARTICLE X Amendments These By-Laws may be altered or repealed at any regular meeting of the stockholders or
+of the Board of Directors or at any special meeting of the stockholders or of the Board of Directors by a majority vote of the 
+ 
+ 73 
+
+stockholders or directors, as the case may be, present and voting at any such meetings; provided , however , that any amendment, authorization or
+repeal of any or all of these By-Laws by: (i) the Board of Directors, whether at a special or a regular meeting, shall require the approval by all members of the Board of Directors who shall have been elected by the holders of Class B Stock
+whether or not such members are present and voting at any meeting during which such amendments are proposed, (ii) the stockholders, whether at a regular or special meeting, shall be made and effective only after receiving the majority vote of
+the Class B stockholders present and voting at any such meetings and the majority vote of the Common stockholders present and voting at any such meetings. 
+ 74 
+
+</EX-3.2>
+
+<EX-21.1>
+ 3
+ dex211.htm
+ SUBSIDIARIES OF THE REGISTRANT
+
+Subsidiaries of the Registrant 
+
+EXHIBIT 21.1 GENCOR INDUSTRIES, INC. AND SUBSIDIARIES SUBSIDIARIES OF THE REGISTRANT All of the operating subsidiaries of Gencor Industries, Inc., a Delaware Corporation, listed below are included in the Consolidated Financial Statements: 
+
+State in Which Incorporated 
+ 
+ Country in Which Incorporated 
+
+General Combustion Corporation 
+ 
+ Florida 
+
+General Combustion Limited 
+
+England 
+
+Bituma-Stor, Inc. 
+ 
+ Iowa 
+
+Bituma Corporation 
+ 
+ Washington 
+
+Equipment Services Group, Inc. 
+ 
+ Florida 
+
+Gencor International Limited 
+
+British Virgin Islands 
+ 
+ 75 
+
+</EX-21.1>
+
+<EX-23.1>
+ 4
+ dex231.htm
+ INDEPENDENT AUDITORS' CONSENT
+
+Independent Auditors' Consent 
+
+EXHIBIT 23.1 CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS We consent to the incorporation by reference in the Post-Effective Amendment
+No. 1 to the Registration Statement of Gencor Industries, Inc. on Form S-8 for the registration of 3,556,000 .10 par value) shares of its common stock issuable pursuant to its 1992 Stock Option Plan, 1996 Stock Option Agreements and 1997
+Stock Option Plan (SEC File Number 333-61769) and in the related prospectus of our report dated December 13, 2007 with respect to the consolidated financial statements of Gencor Industries, Inc. and subsidiaries included in this Annual Report
+on Form 10-K for the year ended September 30, 2007. 
+
+/s/ MOORE STEPHENS LOVELACE, P.A. 
+
+MOORE STEPHENS LOVELACE, P.A. 
+
+CERTIFIED PUBLIC ACCOUNTANTS 
+
+Orlando, Florida 
+
+December 19, 2007 
+ 
+ 76 
+
+</EX-23.1>
+
+<EX-31.1>
+ 5
+ dex311.htm
+ SECTION 302 CEO CERTIFICATION
+
+Section 302 CEO Certification 
+
+EXHIBIT 31.1 CERTIFICATION I, Mr. E.J. Elliott, certify that: 
+
+1. 
+ I have reviewed this annual report on Form on 10-K of Gencor Industries, Inc. 
+
+2. 
+ Based on my knowledge, this annual report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light
+of the circumstances under which such statements were made, not misleading with respect to the period covered by this annual report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this annual report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the registrant as of, and for, the periods presented in this annual report; 
+
+4. 
+ The registrant s other certifying officers and I, are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-14
+and 15d-14) for the registrant and have: 
+
+a) 
+ designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information
+relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this annual report is being prepared; 
+
+b) 
+ [Intentionally omitted] 
+
+c) 
+ evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure
+controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+ disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter that has
+materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting, and; 
+
+5. 
+ The registrant s other certifying officers and I have disclosed, based on our most recent evaluation of internal control over reporting, to the registrant s auditors and
+the audit committee of registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+ all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the
+registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+ any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal controls. 
+
+Date: December 19, 2007 
+
+/s/ E.J. Elliott 
+
+E.J. Elliott 
+
+Chairman and Chief Executive Officer 
+ 
+ 77 
+
+</EX-31.1>
+
+<EX-31.2>
+ 6
+ dex312.htm
+ SECTION 302 CFO CERTIFICATION
+
+Section 302 CFO Certification 
+
+EXHIBIT 31.2 CERTIFICATION I, Mr. Scott W. Runkel, certify that: 
+
+1. 
+ I have reviewed this annual report on Form on 10-K of Gencor Industries, Inc. 
+
+2. 
+ Based on my knowledge, this annual report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light
+of the circumstances under which such statements were made, not misleading with respect to the period covered by this annual report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this annual report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the registrant as of, and for, the periods presented in this annual report; 
+
+4. 
+ The registrant s other certifying officers and I, are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-14
+and 15d-14) for the registrant and have: 
+
+a) 
+ designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information
+relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this annual report is being prepared; 
+
+b) 
+ [Intentionally omitted] 
+
+c) 
+ evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure
+controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+ disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter that has
+materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting, and; 
+
+5. 
+ The registrant s other certifying officers and I have disclosed, based on our most recent evaluation of internal control over reporting, to the registrant s auditors and
+the audit committee of registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+ all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the
+registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+ any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal controls. 
+
+Date: December 19, 2007 
+
+/s/ Scott W. Runkel 
+
+Scott W. Runkel 
+
+Chief Financial Officer 
+ 
+ 78 
+
+</EX-31.2>
+
+<EX-32.1>
+ 7
+ dex321.htm
+ SECTION 906 CEO AND CFO CERTIFICATION
+
+Section 906 CEO and CFO Certification 
+
+EXHIBIT 32.1 CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 In connection with the Annual Report of Gencor Industries, Inc. (the Company on Form 10-K for the fiscal year ending September 30, 2007 as filed with
+the Securities and Exchange Commission on the date hereof (the Report ), each of the undersigned officers of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+ The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+ The information contained in the Report fairly presents, in all materials respects, the financial condition and results of operations of the Company. 
+
+/s/ E.J. Elliott 
+ 
+ E.J. Elliott 
+ 
+ Chairman and Chief Executive Officer 
+ 
+ December 19, 2007 
+
+/s/ Scott W. Runkel 
+ 
+ Scott W. Runkel 
+ 
+ Chief Financial Officer 
+ 
+ December 19, 2007 
+ 
+ 79 
+
+</EX-32.1>
+

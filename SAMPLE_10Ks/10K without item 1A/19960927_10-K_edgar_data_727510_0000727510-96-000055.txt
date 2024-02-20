@@ -1,0 +1,3545 @@
+<Header>
+<FileStats>
+    <FileName>19960927_10-K_edgar_data_727510_0000727510-96-000055.txt</FileName>
+    <GrossFileSize>212455</GrossFileSize>
+    <NetFileSize>172294</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1440</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000727510-96-000055.hdr.sgml : 19960930
+ACCESSION NUMBER:		0000727510-96-000055
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19960630
+FILED AS OF DATE:		19960927
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ENZON INC
+		CENTRAL INDEX KEY:			0000727510
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				222372868
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-12957
+		FILM NUMBER:		96635880
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 KINGSBRIDGE RD
+		CITY:			PISCATAWAY
+		STATE:			NJ
+		ZIP:			08854
+		BUSINESS PHONE:		9089804500
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ROSS & HARDIES
+		STREET 2:		65 EAST 55TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022-3219
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Ej3PsPOsOVroUm4ajvChf5tmuIPxRk0LdO0O/kXHErccgl+GR30HNgzKVcx0Ltvm
+ 3mbZBMxhBDr5aODVamYAmw==
+
+ 0000727510-96-000055.txt : 19960930
+
+10-K
+ 1
+
+UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+ -----------------------
+ FORM 10-K
+
+ Annual Report Pursuant to Section 13 or 15(d) of
+ The Securities Exchange Act of 1934
+ -----------------------
+ Commission
+ For the fiscal year ended JUNE 30, 1996File Number 0-12957
+
+ENZON, INC.
+ (Exact name of registrant as specified in its charter)
+
+ DELAWARE 22-2372868
+ (State or other jurisdiction of(I.R.S. Employer
+ incorporation or organization)Identification No.)
+
+ 20 KINGSBRIDGE ROAD, PISCATAWAY, NEW JERSEY 08854
+ (Address of principal executive offices) (Zip Code)
+
+ Registrant's telephone number, including area code: (908) 980-4500
+
+ Securities registered pursuant to Section 12(b) of the Act: NONE
+
+ Securities registered pursuant to Section 12(g) of the Act:
+
+ COMMON STOCK, .01 PAR VALUE
+ (Title of class)
+
+ Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes X No
+
+ Indicate by check mark if disclosure of delinquent filers pursuant to
+item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. X
+
+ The aggregate market value of the Common Stock, par value .01 per share,
+held by non-affiliates based upon the reported last sale price of the Common
+Stock on September 17, 1996 was approximately 62,227,000. There is no market
+for the Series A Cumulative Convertible Preferred Stock, the only other class
+of voting stock.
+
+ As of September 17, 1996, there were 27,707,643 shares of Common Stock,
+par value .01 per share, outstanding.
+
+ The Index to Exhibits appears on page 26.
+
+ DOCUMENTS INCORPORATED BY REFERENCE
+
+ The registrant's definitive Proxy Statement for the Annual Meeting of
+Stockholders scheduled to be held on December 3, 1996, to be filed with the
+Commission not later than 120 days after the close of the registrant's fiscal
+year, has been incorporated by reference, in whole or in part, into Part III
+Items 10, 11, 12 and 13 of this Annual Report on Form 10-K.
+
+ENZON, INC.
+
+ 1996 Form 10-K Annual Report
+
+ TABLE OF CONTENTS
+ PAGE
+ PART I
+Item 1. Business 3
+Item 2. Properties 19
+Item 3. Legal Proceedings 19
+Item 4. Submission of Matters to a Vote of
+ Security Holders 19
+
+ PART II
+
+Item 5. Market for the Registrant's Common Equity and
+ Related Stockholder Matters 20
+Item 6. Selected Financial Data 21
+Item 7. Management's Discussion and Analysis of Financial
+ Condition and Results of Operations 21
+Item 8. Financial Statements and Supplementary Data 24
+Item 9. Changes in and Disagreements With Accountants
+ on Accounting and Financial Disclosure 24
+
+ PART III
+
+Item 10. Directors and Executive Officers of the Registrant 25
+Item 11. Executive Compensation 25
+Item 12. Security Ownership of Certain Beneficial Owners
+ and Management 25
+Item 13. Certain Relationships and Related Transactions 25
+
+ PART IV
+
+Item 14. Exhibits, Financial Statement Schedules and
+ Reports on Form 8-K 26
+
+The following trademarks and service marks appear in this Annual Report:
+ ADAGEN(registered trademark) and ONCASPAR(registered trademark) are
+ registered trademarks of Enzon, Inc.; SCA(registered trademark) is a
+ registered trademark of Enzon Labs Inc.; Elspar(registered trademark) is
+ a registered trademark of Merck & Co., Inc; Erwinase(registered
+ trademark) is a registered trademark of Porton Products Limited; INTRON
+ A(registered trademark) is a registered trademark of Schering
+ Corporation; BABS(trademark) is a trademark of Creative BioMolecules,
+ Inc.; Taxol(registered trademark) is a registered trademark of Bristol-
+ Myers Squibb Co.; Hycamptin(trademark) is a trademark of SmithKline
+ Beecham plc; Taxotere(registered trademark) is a registered trademark of
+ Rhone-Poulenc Rorer Pharmaceuticals Inc.
+
+2
+ 
+ PART I
+
+ITEM 1. BUSINESS
+
+Overview
+
+ Enzon, Inc. ("Enzon" or the "Company") is a biopharmaceutical company
+that develops, manufactures and markets enhanced therapeutics for
+life-threatening diseases through the application of its proprietary
+technologies, PEG Modification or the PEG Process and Single-Chain
+Antigen-Binding (SCA(registered trademark)) proteins.
+
+ The Company has received marketing approval from the United States Food
+and Drug Administration ("FDA") for two of its products: (i)
+ONCASPAR(registered trademark), approved in February 1994 for the indication of
+acute lymphoblastic leukemia ("ALL") in patients who are hypersensitive to
+native forms of L-asparaginase and (ii) ADAGEN(registered trademark), the first
+successful application of enzyme replacement therapy for an inherited disease,
+approved in March 1990, to treat a rare form of Severe Combined
+Immunodeficiency Disease ("SCID"), commonly known as the "Bubble Boy Disease".
+
+ The Company manufactures both ADAGEN and ONCASPAR in its South
+Plainfield, New Jersey facility and markets ADAGEN on a worldwide basis.
+ONCASPAR is marketed in the U.S. by Rhone-Poulenc Rorer Pharmaceuticals, Inc.
+("RPR"). The Company received 6,000,000 from RPR related to the granting of
+this license and is also entitled to royalties on the sales of ONCASPAR in the
+U.S. by RPR of 23.5 to 43.5 , based on the sales level of ONCASPAR. Royalties
+payable to the Company are being offset against an original credit of
+ 5,970,000, which includes 3,500,000 in advance royalties received in fiscal
+1995. The Company has also granted exclusive licenses to sell ONCASPAR in
+Canada and Mexico to RPR in exchange for royalty payments on future sales and
+is currently pursuing additional licenses for marketing and distribution rights
+outside North America. RPR is currently conducting clinical trials in expanded
+indications for ONCASPAR.
+
+ ONCASPAR is the enzyme L-asparaginase modified by the Company's PEG
+Process and ADAGEN is the enzyme adenosine deaminase modified by the Company's
+PEG Process. The PEG Process involves chemically attaching polyethylene glycol
+("PEG"), a relatively non-reactive and non-toxic polymer, to proteins,
+chemicals and certain other pharmaceuticals for the purpose of enhancing their
+therapeutic value. The attachment of PEG helps to disguise the modified
+compound and reduce the recognition of the compound by the immune system,
+thereby generally lowering potential immunogenicity. Both the increased
+molecular size and lower immunogenicity result in extended circulating blood
+life, in some cases from minutes to days. The PEG Process also significantly
+increases the solubility of the modified compound which enhances the delivery
+of the native compound. The PEG Process was originally covered by a broad
+patent which is due to expire in late 1996. The Company has made significant
+improvements to the original PEG Process and has applied for and received
+numerous patents for such improvements.
+
+ The Company recently has developed technology that gives PEG-modified
+compounds "Pro Drug" attributes. This is accomplished by attaching PEG by
+means of a covalent bond that is designed to deteriorate over time, thereby
+releasing the therapeutic moiety (therapeutic part of the compound) in the
+proximity of the target tissue. These attributes could significantly enhance
+the therapeutic value of new chemicals, as well as drugs already marketed. The
+Company believes that this "Pro Drug/Transport Technology" has broad usefulness
+and that it can be applied to a wide range of drugs, such as cancer
+chemotherapy agents, antibiotics, anti-fungals and immunosuppressants, as well
+as to proteins and peptides, including enzymes and growth factors. The markets
+for these drugs and biologicals have large potential patient populations. The
+Company is currently applying its Pro Drug/Transport Technology to certain
+anticancer agents that are in the early research stage.
+
+ 3
+
+The Company's lead development candidate, PEG-hemoglobin, is a
+hemoglobin-based oxygen carrier, commonly referred to as a red blood cell
+substitute, and is currently being developed by the Company as a
+radiosensitizer for use with radiation treatment of solid hypoxic tumors.
+Preclinical studies conducted at Enzon, the University of Wisconsin School of
+Veterinary Medicine and Dana Farber Cancer Institute, indicate that PEG-
+hemoglobin may be useful in treating solid tumors. These studies suggest that
+PEG-hemoglobin delivers oxygen to solid hypoxic tumors, thereby enhancing the
+ability of radiation therapy to significantly decrease the size of these
+tumors.
+
+ During fiscal 1996, the Company completed a Phase I safety study for PEG-
+hemoglobin in which 34 normal volunteers received a single dose of PEG-
+hemoglobin in amounts up to 45 grams, the equivalent of 1.5 units of whole
+blood. The Company is currently conducting a multi-dose, multi-center clinical
+trial of PEG-hemoglobin in cancer patients receiving radiation treatment.
+Patients entering this new trial receive once-a-week infusions of PEG-
+hemoglobin followed by five days of radiation treatment. The protocol for this
+study calls for this to be repeated weekly for three weeks. The primary
+purpose of this trial is to evaluate safety related to multiple doses of PEG-
+hemoglobin and radiation therapy. It is estimated that approximately 800,000
+cases of solid hypoxic tumors are diagnosed each year in the United States.
+
+ The Company is pursuing a dual strategy for commercializing its
+proprietary technologies. In addition to developing and manufacturing
+products, using the Company's proprietary technology, and marketing such
+products, the Company has established strategic alliances in which Enzon
+licenses its proprietary technologies and products in exchange for milestone
+payments, manufacturing revenues and/or royalties.
+
+ One such license is the Company's agreement with Schering Corporation
+("Schering") to apply the PEG Process to Schering's product, INTRON
+A(registered trademark) (interferon alfa 2b), a genetically-engineered
+anticancer-antiviral drug. Schering indicates that the PEG-modified version of
+INTRON A is currently in clinical trials. Under the agreement, the Company is
+entitled to royalties on worldwide sales of PEG-INTRON A, if any, and payments
+of approximately 5,500,000 subject to the achievement of certain milestones in
+the product's development. Sales by Schering of the unmodified version of
+INTRON A were reported as 433 million for 1995. The Company has the option,
+upon FDA approval, to be Schering's exclusive manufacturer of PEG-INTRON A for
+the U.S. market.
+
+ The Company also has an extensive licensing program for its SCA protein
+technology. SCA proteins are genetically engineered proteins designed to
+overcome the problems hampering the diagnostic and therapeutic use of
+conventional monoclonal antibodies. Pre-clinical studies have shown that SCA
+proteins target and penetrate tumors more readily than conventional monoclonal
+antibodies. In addition to these advantages, because SCA proteins are
+developed at the gene level, they are better suited for targeted delivery of
+gene therapy vectors and fully-human SCA proteins can be isolated directly,
+with no need for costly "humanization" procedures. Also, many gene therapy
+methods require that proteins be produced in active form inside cells. SCA
+proteins can be produced through intracellular expression (inside cells) more
+readily than monoclonal antibodies.
+
+ Currently, there are eight SCA proteins in Phase I clinical trials by
+various institutions, including a product developed by the Company, SCA-CC49.
+Some of the areas being explored are cancer therapy, cardiovascular indications
+and AIDS.
+
+ The Company has granted non-exclusive SCA licenses to more than a dozen
+companies, including Bristol-Myers Squibb, Inc. ("Bristol-Myers"), Baxter
+Healthcare Corporation ("Baxter"), Eli Lilly & Co. ("Eli Lilly") and the
+Gencell division of RPR ("RPR/Gencell"). These licenses generally provide for
+upfront payments, milestone payments and royalties on sales of FDA approved
+products.
+
+ Information contained herein contains "forward-looking statements" which
+can be identified by the use of forward-looking terminology such as "believes,"
+"expects," "may," "will," "should," or "anticipates" or the negative thereof or
+other variations thereon or comparable terminology, or by discussions of
+
+ 4
+ 
+strategy. No assurance can be given that the future results covered by the
+forward-looking statements will be achieved. The matters set forth in Exhibit
+99.0 hereto constitute cautionary statements identifying important factors with
+respect to such forward-looking statements, including certain risks and
+uncertainties, that could cause actual results to vary materially from the
+future results indicated in such forward-looking statements. Other factors
+could also cause actual results to vary materially from the future results
+indicated in such forward-looking statements.
+
+PRODUCTS ON THE MARKET
+
+ The Company currently has two products on the market, ONCASPAR and
+ADAGEN. The Company received marketing approval from the FDA for ONCASPAR in
+February 1994 and for ADAGEN in March 1990.
+
+ONCASPAR
+
+ ONCASPAR, the enzyme L-asparaginase modified by the PEG Process, is used
+in conjunction with other chemotherapeutics to treat patients with ALL who are
+hypersensitive (allergic) to native (unmodified) forms of L-asparaginase.
+
+ L-asparaginase is an enzyme which depletes the amino acid asparagine, a
+non-essential amino acid upon which certain leukemic cells are dependent for
+survival. Accordingly, the depletion of plasma asparagine levels selectively
+starves these leukemic cells. L-asparaginase is a component of standard
+pediatric ALL remission induction therapies. Unmodified L-asparaginase is
+currently marketed in the U.S. as Elspar(registered trademark).
+Erwinase(registered trademark), another form of unmodified L-asparaginase, is
+also available in the United States on a compassionate use basis, but is not
+FDA approved.
+
+ The therapeutic value of unmodified L-asparaginase is limited by two
+inherent features of the enzyme. First, its short half-life in blood (less than
+1.5 days) requires every-other-day injections, causing significant discomfort
+and inconvenience to patients. Secondly, the enzyme's non-human source makes it
+inherently immunogenic, resulting in a high incidence of allergic reactions,
+some of which may be severe, necessitating the discontinuance of the
+L-asparaginase therapy.
+
+ Through PEG Modification, Enzon believes ONCASPAR offers significant
+therapeutic advantages over unmodified L-asparaginase. Namely, ONCASPAR has a
+significantly increased half-life in blood (greater than five days), allowing
+every-other-week administration, making its use more tolerable to patients than
+unmodified L-asparaginase. PEG Modification also disguises the enzyme's foreign
+nature, generally reducing its immunogenicity, and accordingly, the incidence
+of allergic reactions.
+
+ ONCASPAR was launched in the United States by RPR during March 1994. The
+Company has granted RPR an exclusive license (the "Amended RPR License
+Agreement") in the United States to sell ONCASPAR, and any other PEG-
+asparaginase product (the "Product") developed by Enzon or RPR during the term
+of the Amended RPR License Agreement. Under this agreement, Enzon has received
+licensing payments totaling 6,000,000 and was entitled to a base royalty of
+10 for the year ended December 31, 1995 and 23.5 thereafter, until 2008, on
+net sales of ONCASPAR up to agreed upon amounts. Additionally, the Amended RPR
+License Agreement provides for a super royalty of 23.5 for the year ended
+December 31, 1995 and 43.5 thereafter, until 2008, on net sales of ONCASPAR
+which exceed the agreed upon amounts, with the limitation that the total
+royalties earned for any such year shall not exceed 33 of net sales. The
+Amended RPR License Agreement also provides for a payment of 3,500,000 in
+advance royalties, which was received in January 1995.
+
+ The payment of base royalties to Enzon under the Amended RPR License
+Agreement will be offset by an original credit of 5,970,000, which represents
+the royalty advance plus reimbursement of certain amounts due to RPR under the
+original RPR License Agreement and interest expense. Super royalties will be
+paid to the Company when earned. The royalty advance is shown as a long term
+liability, with the corresponding current portion included in accrued expenses
+
+ 5
+
+on the Consolidated Balance Sheet as of June 30, 1996. The royalty advance
+will be reduced as base royalties are recognized under the agreement.
+
+ The Amended RPR License Agreement prohibits RPR from selling a competing
+PEG-asparaginase product anywhere in the world during the term of such
+agreement and for five years thereafter. The Amended RPR License Agreement
+terminates in December 2008, subject to early termination by either party due
+to a default by the other or by RPR at any time on one year's prior notice to
+Enzon. Upon any termination all rights under the Amended RPR License Agreement
+revert to Enzon.
+
+ In addition to pediatric ALL, L-asparaginase is used in Europe to treat
+adult ALL and Non-Hodgkins Lymphoma. RPR is currently conducting clinical
+trials to expand the use of ONCASPAR in ALL treatment beyond the hypersensitive
+label indication, as well as for additional indications. RPR is responsible
+for all future clinical development of ONCASPAR in North America.
+
+ The Company has also granted exclusive licenses to RPR to sell ONCASPAR
+in Canada and Mexico. These agreements provide for RPR to obtain marketing
+approval of ONCASPAR in Canada and Mexico and for the Company to receive
+royalties on sales of ONCASPAR in these countries, if any. A separate supply
+agreement with RPR requires RPR to purchase from Enzon all of RPR's
+requirements for the Product for sales in North America.
+
+ In November 1994, the Company received approval in Germany for
+therapeutic use of ONCASPAR in patients with ALL who are hypersensitive to
+native (unmodifed) forms of L-asparaginase. Currently, the Company is not
+selling ONCASPAR in Germany. The Company is pursuing marketing and
+distribution agreements in countries outside of North America, including
+Germany.
+
+ADAGEN
+
+ ADAGEN, the Company's first FDA approved product, is currently being used
+to treat 44 patients in seven countries. ADAGEN represents the first successful
+application of enzyme replacement therapy for an inherited disease. ADAGEN's
+Orphan Drug designation under the Orphan Drug Act provides the Company with
+marketing exclusivity in the United States through March 1997. The Company
+believes the expiration of ADAGEN's Orphan Drug designation will not have a
+material impact on the sales of ADAGEN.
+
+ ADAGEN, the enzyme adenosine deaminase ("ADA") modified through the PEG
+Process, was developed by the Company for the treatment of ADA deficiency
+associated with SCID. Commonly known as the "Bubble Boy Disease", SCID is a
+congenital disease that results in children being born without fully
+functioning immune systems, leaving them susceptible to a wide range of
+infectious diseases. Injections of unmodified ADA would not be effective
+because of its short circulating life (less than thirty minutes) and the
+potential for immunogenic reactions to a bovine-sourced enzyme. The attachment
+of PEG to ADA allows ADA to achieve its full therapeutic effect by increasing
+its circulating life and masking the ADA to avoid immunogenic reactions.
+
+ ADAGEN is being marketed on a worldwide basis and sold in the United
+States by the Company. Distribution of ADAGEN in Europe is being handled by a
+European firm. Enzon believes many newborns with ADA-deficient SCID go
+undiagnosed, and is therefore focusing its marketing efforts for ADAGEN on new
+patient identification. Its marketing efforts include educational
+presentations and publications designed to encourage early diagnosis and
+subsequent ADAGEN treatment.
+
+ Sales of ADAGEN for the fiscal years ended June 30, 1996, 1995 and 1994
+were 8,696,000, 8,305,000 and 7,601,000, respectively. Sales of ADAGEN are
+expected to continue to be limited due to the small patient population
+worldwide.
+
+ 6
+
+RESEARCH AND DEVELOPMENT
+
+ The Company's primary source of new products is its internal research and
+development activities. Research and development expenses for the fiscal years
+ended June 30, 1996, 1995 and 1994 were approximately 10,124,000, 12,084,000
+and 17,665,000, respectively. During fiscal 1996, research and development
+expenses were divided as follows: 19 for research; 49 for clinical and
+regulatory affairs; and 32 for pre-clinical activities.
+
+ The Company's research and development activities during fiscal 1996
+concentrated primarily on the continued development of PEG-hemoglobin, as well
+as work on several oncology products using the Company's Pro Drug/Transport
+Technology. These activities related principally to Phase I clinical testing,
+scale up and process development and preclinical testing.
+
+TECHNOLOGIES AND CAPABILITIES
+
+ The Company's technologies are focused in the area of drug delivery. The
+Company's PEG Modification technology is able to lower the potential
+immunogenicity, extend the circulating life, as well as enhance solubility of
+the modified compound. The Company believes its SCA and Pro Drug/Transport
+Technologies may be able to achieve targeting of the modified compound to the
+desired site in the body. It is believed that this will result in less
+toxicity to the surrounding tissue and an increase in the therapeutic effect
+due to a high concentration of the compound in the targeted tissue. The
+Company is currently applying its technologies to compounds with known
+therapeutic efficacy that suffer from delivery problems. This encompasses
+undeveloped compounds as well as products already on the market.
+
+PEG MODIFICATION
+
+ Enzon's proprietary technology, PEG Modification or the PEG Process,
+involves chemically attaching PEG to proteins or chemical therapeutic compounds
+that are difficult to deliver. PEG is a relatively non-reactive and non-toxic
+polymer that has been designated as a GRAS (Generally Regarded As Safe)
+compound and is typically used in many food and drug products. Attachment of
+PEG disguises the protein and reduces its recognition by the immune system,
+thereby generally lowering potential immunogenicity and extending its
+circulating life, in some cases from minutes to days. Chemical compounds have
+an added drawback in that they are typically water-insoluble, which makes
+delivery difficult, or in some cases, impossible. The Company believes the
+attachment of PEG to chemical substances not only disguises the chemical,
+thereby lowering potential immunogenicity and extending their circulatory life,
+but also greatly increases the solubility of these compounds. Enzon believes
+that compounds modified by the PEG Process may offer significant advantages
+over their unmodified forms. These advantages include: (i) extended circulating
+life, (ii) reduced incidence of allergic reactions, (iii) reduced dosages with
+corresponding lower toxicity without diminished efficacy, (iv) increased drug
+stability, and (v) enhanced drug solubility. Modification of proteins with the
+PEG Process often causes these proteins to have characteristics which
+significantly improve their therapeutic performance, and in some cases enables
+proteins to be therapeutically effective which, in their unmodified forms, have
+proven to be unacceptably toxic or non-efficacious.
+
+ The Company and its senior scientists have developed proprietary know-how
+which significantly improves the PEG Process over that described in the
+original patent covering this technology. This proprietary know-how enables
+the Company to tailor the PEG Process in order to produce the targeted results
+for the particular substance being modified. This know-how includes, among
+other things, proprietary linkers for the attachment of PEG to compounds, the
+selection of the appropriate attachment sites on the surface of the compound,
+and the amount and type of PEG used. The Company has filed patent applications
+and has received patents for numerous improvements to the PEG Process. See
+"Patents".
+
+ 7
+
+PRO DRUG/TRANSPORT TECHNOLOGY
+
+ The Company recently has developed technology that gives PEG-modified
+compounds "Pro Drug" attributes. This is accomplished by attaching PEG by
+means of a covalent bond that is designed to deteriorate over time, thereby
+releasing the therapeutic moiety in the proximity of the target tissue. These
+attributes could significantly enhance the therapeutic value of new chemicals,
+as well as drugs already marketed. The Company believes that this technology
+has broad usefulness and that it can be applied to a wide range of drugs, such
+as cancer chemotherapy agents, antibiotics, anti-fungals and
+immunosuppressants, as well as to proteins and peptides, including enzymes and
+growth factors. The markets for these drugs and biologicals have large
+potential patient populations.
+
+ The Company is currently applying its Pro Drug/Transport Technology to
+two cancer chemotherapy agents. The Company believes that, by adjusting the
+way PEG is covalently attached to these drugs, PEG attachment can be used to
+inactivate the drugs' toxic mechanisms, while allowing them to circulate in the
+bloodstream for longer periods of time and enhancing their antitumor effects.
+Animal studies conducted by the Company thus far have demonstrated increases
+in the therapeutic index of both drugs. However, there can be no assurance
+that these advantages can be attained or that drugs based on this technology
+will be approved by the FDA.
+
+ The Company has filed several patent applications relating to its Pro
+Drug/Transport Technology (See "Patents").
+
+SINGLE-CHAIN ANTIGEN-BINDING (SCA) PROTEINS
+
+ Enzon's proprietary SCA proteins are genetically engineered proteins
+designed to overcome the problems associated with the therapeutic uses of
+monoclonal antibodies. SCA proteins have the binding specificity and affinity
+of monoclonal antibodies, but Enzon believes that SCA proteins offer at least
+five significant advantages over conventional monoclonal antibodies: (i)
+greater tumor penetration for cancer imaging and therapy, (ii) more specific
+localization to target sites in the body, (iii) a significant decrease in the
+immunogenic problems associated with monoclonals due to the SCA protein's small
+size and rapid clearance from the body, (iv) easier and more cost effective
+scale-up for manufacturing, and (v) enhanced screening capabilities which allow
+for the testing of SCA proteins for desired specificities using simple
+screening methods. In addition to these advantages, because SCA proteins are
+developed at the gene level, they are better suited for targeted delivery of
+gene therapy vectors and fully-human SCA proteins can be isolated directly,
+with no need for costly "humanization" procedures. Also, many gene therapy
+methods require that proteins be produced in active form inside cells. SCA
+proteins can be produced through intracellular expression (inside cells) more
+readily than monoclonal antibodies.
+
+ Enzon's research and development capabilities for engineering SCA
+proteins include: (i) using computer modeling to design linker peptides to
+connect the two protein chains, and (ii) linking the two protein chains that
+make up the antigen-binding region of a natural antibody with such designed
+peptides, producing a single-chain protein that preserves the structural and
+functional integrity of the binding region. The resulting protein chain is
+approximately one-sixth the size of a natural antibody. The SCA protein has a
+binding specificity and affinity nearly identical to that of a single binding
+region of the monoclonal antibody from which the SCA protein was derived.
+
+ The binding specificity of SCA proteins has been demonstrated through the
+preparation and in vitro testing of more than a dozen different SCA proteins by
+Enzon. In addition, the Company, in collaboration with Dr. Jeffrey Schlom of
+the Laboratory of Tumor Immunology and Biology at the National Cancer Institute
+("NCI"), has shown in published pre-clinical studies that SCA proteins localize
+to specific tumors and rapidly penetrate the tumors.
+
+ 8
+
+The Company intends to commercialize its SCA protein technology by
+licensing the technology to other companies. To date, the Company has granted
+SCA licenses to more than a dozen companies, including Bristol-Myers, Baxter,
+Eli Lilly and RPR/Gencell. These licenses generally provide for upfront
+payments, milestone payments and royalties on sales of FDA approved products.
+(See "Strategic Alliances and License Agreements").
+
+ Currently, there are eight SCA proteins in Phase I clinical trials by
+various organizations including licensees and academic institutions. Some of
+the areas being explored are cancer therapy, cardiovascular indications and
+AIDS. The Company believes those organizations that have not licensed this
+technology will have to obtain a license from the Company to commercialize
+these products.
+
+ The Company has received numerous patents for the SCA technology, the
+most recent of which expires in 2013 (See "Patents").
+
+PRODUCTS AND TECHNOLOGIES UNDER DEVELOPMENT
+
+HEMOGLOBIN BASED OXYGEN CARRIER
+
+ Hemoglobin is the protein, encased in red blood cells, which transports
+oxygen throughout the body. Over the last three decades, scientists have been
+attempting to modify the hemoglobin molecule for use as an artificial blood
+substitute, to replace the use of donated whole blood. While the Company's
+hemoglobin-based oxygen carrier, PEG-hemoglobin, has all of the attributes of a
+true red blood cell substitute, the Company has chosen to develop a product
+that does not compete with indications for which donated whole blood is
+utilized for the following reasons:
+
+ RELATIVE SAFETY OF CURRENT BLOOD SUPPLY. The implementation of stringent
+ screening processes, which include not only the testing of collected
+ blood to ensure it is free of all forms of HIV and hepatitis, but also
+ careful screening of blood donors, has resulted in vast improvement in
+ the safety of donor blood. Heat treating technologies that destroy HIV
+ have also been implemented, prompting the FDA to deem the blood supply to
+ be safe.
+
+ CURRENT COST ENVIRONMENT WILL LIMIT REIMBURSEMENT OF AN ARTIFICIAL BLOOD
+ SUBSTITUTE. Given the relative safety of the donated blood supply and
+ the emergence of managed care and cost containment measures instituted in
+ the U.S. health care system, obtaining reimbursement for artificial blood
+ substitute products at a level significantly higher than the cost of
+ donated blood will be difficult or impossible. Management believes that
+ unless the price of blood substitute products under development are in
+ line with the price of donated blood, it will be extremely difficult for
+ blood substitute products to compete effectively with donated blood.
+
+ DONATED BLOOD SUPPLY HAS REMAINED ADEQUATE. In the U.S., there generally
+ has not been a significant shortage of donated blood, due to the
+ sophisticated collection systems in place.
+
+ CLINICAL ENDPOINTS FOR APPROVAL OF A BLOOD SUBSTITUTE HAVE NOT BEEN
+ CLEARLY ESTABLISHED BY THE FDA. In 1994, the FDA published a paper
+ entitled "Points to Consider in the Development of a Hemoglobin-Based
+ Oxygen Carrier" that discusses the problems associated with determining
+ clinical endpoints that will demonstrate efficacy of a hemoglobin-based
+ oxygen carrier. The paper recommends the following indications that will
+ simplify such endpoints: regional perfusion (radiosensitization), acute
+ hemorrhagic shock and perioperative applications. The endpoints used for
+ radiosensitization will be the same as the endpoints established for
+ cytotoxic agents, a reduction in tumor size.
+
+ 9
+ 
+ These factors have resulted in Enzon focusing its development of a
+hemoglobin-based oxygen carrier on indications where donated whole blood is
+unable to deliver oxygen, resulting, if such development efforts are
+successful, in a product which will not have to compete with donated blood.
+Such indications include radiosensitization (regional perfusion), stroke and
+ischemia. In addition, the Company believes PEG-hemoglobin could be used as a
+blood substitute in those countries that do not have the sophisticated blood
+collection systems that exist in the U.S.
+
+ Consistent with the FDA's Points to Consider, Enzon is developing its
+hemoglobin-based oxygen carrier as a radiosensitizer for use in radiation
+treatment of solid hypoxic tumors. Preclinical studies conducted at Enzon,
+the University of Wisconsin School of Veterinary Medicine and Dana Farber
+Cancer Institute, indicate that PEG-hemoglobin may be useful in treating solid
+tumors which are generally hypoxic or under-oxygenated. These studies suggest
+that PEG-hemoglobin delivers oxygen to solid hypoxic tumors, thereby enhancing
+the effects of radiation therapy and significantly decreasing the size of these
+tumors. Preclinical studies at Dana Farber Cancer Institute have suggested
+that PEG-hemoglobin may also sensitize solid hypoxic tumors to chemotherapy.
+
+ During fiscal 1996, the Company completed a Phase I safety study for PEG-
+hemoglobin in which 34 normal volunteers received a single dose of PEG-
+hemoglobin in amounts up to 45 grams, the equivalent of 1.5 units of whole
+blood. This study demonstrated that PEG-hemoglobin, in its active form,
+circulates in the blood for approximately eleven days. The Company is
+currently conducting a multi-dose, multi-center clinical trial of PEG-
+hemoglobin in cancer patients receiving radiation treatment. Patients entering
+this new trial receive once-a-week infusions of PEG-hemoglobin followed by five
+days of radiation treatment. The protocol for this study calls for this to be
+repeated weekly for three weeks. The primary purpose of this trial is to
+evaluate safety related to multiple doses of PEG-hemoglobin and radiation
+therapy. It is estimated that approximately 800,000 cases of solid hypoxic
+tumors, such as head and neck, lung, mammary, colon, prostate, bladder,
+fibrous, histiocytoma, brain mastases and glioma are diagnosed each year in the
+United States.
+
+ Hemoglobin by itself is very toxic and has a short circulation life.
+Many of the undesirable effects historically associated with hemoglobin based
+blood substitutes, such as vasoconstriction, kidney dysfunction and liver
+dysfunction, are a result of these properties. The Company believes that
+hemoglobin, modified through its PEG Process, will overcome the well-documented
+problems of toxicity and short circulating blood life associated with other
+forms of hemoglobin-based oxygen carriers that have been developed. The
+Company believes this is one of the significant advantages that PEG-hemoglobin
+has over other products being developed as red blood substitutes. The extended
+circulation life demonstrated in the Phase I safety study enables PEG-
+hemoglobin to be administered once a week for the radiation treatment protocol.
+Enzon has chosen to develop PEG-hemoglobin utilizing bovine hemoglobin, based
+upon its superior oxygen-carrying properties, relative stability, availability
+and low cost.
+
+ The Company currently obtains its raw hemoglobin from two small colonies
+of animals which are isolated and receive constant veterinary care and testing,
+which should insure that the animals remain disease free. In addition to
+keeping the animals disease free, the Company's manufacturing process provides
+or will provide virus removal, inactivation and filtration steps. Enzon
+believes it can supply the potential market demand for PEG-hemoglobin through a
+relatively small number of animals.
+
+ The Company uses a proprietary process for the separation and
+purification of the bovine hemoglobin and the attachment of PEG to the
+hemoglobin molecule.
+
+ Enzon presently produces PEG-hemoglobin in a pilot plant at its
+facilities in South Plainfield, New Jersey. This plant is expected to supply
+the quantities of PEG-hemoglobin needed for all ongoing research and
+development through Phase II clinical trials. The current production schedule
+for PEG-hemoglobin will fully utilize the pilot facility for the foreseeable
+future, thus precluding the resumption of PEG-glucocerebrosidase production,
+which was suspended in January 1996.
+
+ 10
+
+The Company estimates that development of a PEG-hemoglobin product will
+take several years and require substantial additional funds. There can be no
+assurance that a PEG-hemoglobin product can be successfully developed and
+brought to market. Due to the significant costs associated with the development
+and marketing of this product, the Company is currently exploring potential
+collaborative arrangements with one or more established pharmaceutical
+companies. To date, no such agreements have been concluded and there can be no
+assurance that any such agreements will be consummated. Furthermore, there can
+be no assurance of market acceptability of a hemoglobin-based oxygen carrier
+produced from bovine hemoglobin.
+
+PRO DRUG/TRANSPORT TECHNOLOGY
+
+ The Company is currently applying its Pro Drug/Transport Technology to
+two oncolytic chemical compounds, Paclitaxel (Taxol(registered trademark)) and
+Camptothecin, a plant alkaloid. Both of the projects are in the early research
+stage and neither has been selected as a candidate for full product
+development. Both compounds represent substances with known therapeutic
+efficacy that have delivery problems. Taxol, a Paclitaxel product sold by
+Bristol-Myers, had reported worldwide sales of 580 million in 1995. The
+patent for Taxol expires in the U.S. in 1997. Recently, a Taxol derivative,
+Taxotere(registered trademark), was approved by the FDA and is being marketed
+by RPR. Camptothecin is a substance that for many years has been known to be a
+very effective oncolytic with drug delivery problems. Recently a Camptothecin
+derivative, Hycamptin(trademark), was approved by the FDA and is being
+marketed by SmithKline Beecham. While these two new products improved the
+solubility and effectiveness of these substances, the Company believes that its
+Pro Drug/Transport Technology has additional delivery advantages over these
+products and could significantly increase the therapeutic value of the
+products.
+
+SINGLE-CHAIN ANTIGEN-BINDING (SCA) PROTEINS
+
+ The Company is also working on expanding the use of SCA technology in the
+area of gene therapy. Because SCA proteins are developed at the gene level,
+they are better suited for targeted delivery of gene therapy vectors and fully-
+human SCA proteins can be isolated directly, with no need for costly
+"humanization" procedures. Also, many gene therapy methods require that
+proteins be produced in active form inside cells. SCA proteins can be
+produced through intracellular expression (inside cells) more readily than
+monoclonal antibodies.
+
+ The Company's efforts are designed to expand the technology and enhance
+the Company's patent position for its SCA technology, as opposed to internal
+development of products in this area.
+
+STRATEGIC ALLIANCES AND LICENSE AGREEMENTS
+
+ Enzon develops and manufactures, under joint arrangements with other
+pharmaceutical and biopharmaceutical companies, protein-based products
+utilizing its proprietary PEG and SCA technologies. Enzon believes that its
+technologies can be used to improve products which are already on the market or
+that are under development, thus producing therapeutic products which will
+provide a safer, more effective and more convenient therapy.
+
+ Enzon's agreements with its strategic alliance partners provide, in most
+cases, for Enzon's partners to pay the costs of development, clinical testing,
+obtaining regulatory approval and commercialization of the products. The
+alliance partner receives marketing rights, and in some cases manufacturing
+rights, to the products developed. Enzon receives milestone payments,
+manufacturing revenues and/or royalty payments based on product sales. The
+following is a list of certain of the Company's strategic alliance partners:
+
+ 11
+
+CORPORATE PARTNER AGREEMENT DATE PRODUCT DISEASE OR INDICATION PROGRAM STATUS
+
+ Schering Corporation November 1990/ PEG-INTRON A Various Phase I
+ June 1995 Clinical Trials
+
+ Gencell Division of RPR December 1995 SCA proteins Gene Therapy Research
+
+ Baxter Healthcare November 1992 SCA proteins Cancer Research
+ Corporation
+ Eli Lilly and Co. December 1992 SCA proteins Undetermined Research
+
+ Bristol-Myers Squibb, Inc. September 1993/ SCA proteins All TherapeuticsResearch
+ July 1994
+
+SCHERING AGREEMENT
+
+ In November 1990, Enzon and Schering Corporation ("Schering"), a
+subsidiary of Schering-Plough Corporation, signed an agreement (the "Schering
+Agreement") to apply the PEG Process to Schering's INTRON A (interferon alfa
+2b), a genetically-engineered anticancer and antiviral drug. According to
+published sources, INTRON A, as it is currently formulated, must be
+administered at least three times a week by injection and can produce side
+effects such as fever and occasionally depressed blood count. A PEG form of
+INTRON A would be designed to improve the administration regimen by increasing
+the product's blood circulating life.
+
+ INTRON A is currently approved in the United States for use in chronic
+hepatitis B, chronic hepatitis C, AIDS-related Kaposi's sarcoma, venereal warts
+and hairy cell leukemia. It is approved for use in 65 countries for a total of
+16 disease indications. Schering-Plough Corporation reported 1995 INTRON A
+sales of 433 million worldwide. In August 1992, a Phase I human clinical
+trial began using PEG-INTRON A for the indication of hepatitis. The protocol
+for that trial was completed. Schering and Enzon amended the Schering
+Agreement to develop a PEG-INTRON A formulation having improved performance
+characteristics. Pursuant to the amended agreement, the Company has prepared
+and delivered several PEG-INTRON A formulations for Schering's evaluation for
+additional clinical trials.
+
+ On June 30, 1995, the Company and Schering further amended the Schering
+Agreement pursuant to which Enzon agreed to transfer proprietary know-how and
+manufacturing rights for PEG-INTRON A to Schering for 3,000,000, of which
+ 2,000,000 was paid on June 30, 1995 and 1,000,000 will be paid upon
+completion of the know-how transfer, as defined in such amended agreement. In
+connection with the amendment, the Company also sold to Schering approximately
+847,000 shares of unregistered, newly issued Common Stock for 2,000,000 in
+gross proceeds. Under the current Schering Agreement, Enzon retained an option
+to become Schering's exclusive manufacturer of PEG-INTRON A for the United
+States market upon FDA approval of such product.
+
+ During the year ended June 30, 1992, the Company received the first
+milestone payment of 450,000, under the Schering Agreement, related to the
+filing of an Investigational New Drug Application. Enzon is entitled to
+receive future sequential payments, totaling approximately 5,500,000, subject
+to the achievement of certain milestones in the product's development program,
+as well as payments for the clinical material it produces. The Company will
+also receive royalties on worldwide sales of PEG-INTRON A, if any. Schering
+will be responsible for conducting and funding the clinical studies, obtaining
+regulatory approval and marketing the product worldwide on an exclusive basis.
+
+ The Schering Agreement terminates, on a country-by-country basis, upon
+the expiration of the last to expire of any future patents covering the product
+which may be issued to Enzon, or 15 years after the product is approved for
+commercial sale, whichever shall be the later to occur. This agreement is
+subject to Schering's right of early termination if the product does not meet
+specifications, if Enzon fails to obtain or maintain the requisite product
+liability insurance, or if Schering makes certain payments to Enzon. If
+Schering terminates the agreement because the product does not meet
+specifications, Enzon may be required to refund certain of the milestone
+payments.
+
+ 12
+ 
+RPR/GENCELL AGREEMENT
+
+ In December 1995, Enzon and RPR/Gencell signed an agreement granting
+RPR/Gencell a worldwide, non-exclusive license to use Enzon's SCA protein
+technology for intracellular expression of SCA proteins and for targeted
+vectors in the field of cell and gene therapy. RPR/Gencell, the cell and gene
+therapy division of RPR, is planning to apply this technology to its IN VIVO
+and EX VIVO gene therapy programs in cancer, cardiovascular disease and
+immunology.
+
+ Under the agreement, the Company received approximately 1,000,000 during
+the fiscal year ended June 30, 1996 for signing the license agreement. The
+Company is also entitled to receive additional payments subject to the
+achievement of certain milestones in the development program, as well as a
+royalty on sales, if any, of products developed with this technology.
+
+BRISTOL-MYERS AGREEMENT
+
+ In September 1993, the Company and Bristol-Myers signed a license
+agreement for Enzon's SCA protein technology granting Bristol-Myers a world-
+wide, semi-exclusive license for a particular antigen. Bristol-Myers will
+apply the technology to develop cancer therapies based on antibodies targeting
+certain cancer cells. Under the agreement, Enzon is entitled to receive
+certain upfront payments and sequential payments, subject to the achievement of
+certain milestones in the development program. Bristol-Myers will have the
+right to manufacture and market products which it develops and Enzon will
+receive certain royalties on Bristol-Myers sales, if any. During fiscal 1995,
+Bristol-Myers paid 1,800,000 to Enzon and exercised an option under the
+contract to acquire a world-wide non-exclusive license for SCA protein
+technology. The non-exclusive license is for all therapeutic fields.
+
+BAXTER AGREEMENT
+
+ In November 1992, Enzon and Baxter signed an agreement granting Baxter a
+non-exclusive worldwide license to Enzon's SCA protein technology. It is
+anticipated that Baxter will use the SCA proteins in its cancer research
+programs focusing on human stem cell isolation and gene therapy.
+
+ Under the agreement, Enzon is entitled to receive certain upfront
+payments and sequential payments, subject to the achievement of certain
+milestones in the development programs. Baxter will have the exclusive
+worldwide right to manufacture and market any products which it develops and
+Enzon will receive certain royalties on Baxter's sales, if any.
+
+ELI LILLY (HYBRITECH) AGREEMENT
+
+ In December 1992, Enzon and Hybritech Incorporated ("Hybritech"), a
+subsidiary of Eli Lilly, signed an agreement granting Hybritech a non-exclusive
+worldwide license to Enzon's SCA protein technology. Hybritech subsequently
+assigned this agreement to Eli Lilly. Under the agreement, Enzon received
+upfront payments totaling 1,200,000 and is entitled to receive certain
+royalties on sales of products that may be developed using Enzon's SCA protein
+technology.
+
+MARKETING
+
+ Other than ADAGEN, which the Company markets on a worldwide basis to a
+small patient population, the Company does not engage in the direct commercial
+marketing of any of its products and therefore does not have an established
+sales force. For certain of its products, the Company has provided exclusive
+marketing rights to its corporate partners in return for royalties to be
+received on sales. With respect to ONCASPAR, the Company has granted RPR
+exclusive marketing rights in North America pursuant to the agreements
+described in "Products on the Market - ONCASPAR".
+
+ 13
+
+The Company expects to retain marketing partners to market ONCASPAR in
+other foreign markets and is currently pursuing arrangements in this regard.
+There can be no assurance that the Company will conclude any such arrangements.
+Regarding the marketing of certain of the Company's other future products, the
+Company expects to evaluate whether to create a sales force to market certain
+products in the United States or to continue to enter into license and
+marketing agreements with others for United States and foreign markets. These
+agreements generally provide that all or a significant portion of the marketing
+of these products will be conducted by the Company's licensees or marketing
+partners. In addition, under certain of these agreements, the Company's
+licensee or marketing partner may have all or a significant portion of the
+development and regulatory approval responsibilities.
+
+RAW MATERIALS AND MANUFACTURING
+
+ In the manufacture of its products, the Company couples activated forms
+of PEG to the unmodified proteins. In the case of PEG, the Company does not
+have a long-term supply agreement, but maintains what it believes to be an
+adequate inventory which should provide the Company sufficient time to find an
+alternate supply of PEG, in the event it becomes necessary, without material
+disruption of its business.
+
+ With respect to Enzon's manufacturing facilities, prior to the approval
+of both ADAGEN and ONCASPAR, the Company's manufacturing facility was inspected
+by the FDA for compliance with its guidelines for current good manufacturing
+practices. The manufacturing facility was granted an establishment license by
+the FDA in February 1994.
+
+ The Company currently obtains its raw hemoglobin from two small colonies
+of animals which are isolated and receive constant veterinary care and testing,
+which should insure that the animals remain disease free. In addition to
+keeping the animals disease free, the Company's manufacturing process provides
+or will provide virus removal, inactivation and filtration steps. Enzon
+believes it can supply the potential market demand for PEG-hemoglobin through a
+relatively small number of animals.
+
+ Although the Company is currently producing many of the unmodified
+compounds utilized in products it has under development, including purified
+bovine hemoglobin for use in its PEG-hemoglobin product, it may be required to
+obtain supply contracts with outside suppliers for certain unmodified
+compounds. The Company does not produce the unmodified adenosine deaminase
+used in the manufacture of ADAGEN or the unmodified L-asparaginase used in the
+manufacture of ONCASPAR and has a supply contract with an outside supplier for
+each of these unmodified proteins. The supply contract for unmodified L-
+asparaginase which expires in December 1997, contains minimum purchase
+requirements. Schering is required under the Schering Agreement to provide the
+Company with unmodified INTRON A if the Company exercises its option to
+manufacture PEG-INTRON A for the United States market.
+
+ During the fiscal year ended June 30, 1996, the Company wrote-off
+approximately 351,000 of unmodified L-asparaginase purchased under its supply
+contract. The Company also paid a penalty of 350,000 related to the
+satisfaction of its purchase requirements for the calendar year ended December
+31, 1995. While it is possible that the Company may incur similar losses on
+its remaining purchase commitments under this supply agreement, the Company
+does not consider such losses probable, nor can the amount of any loss which
+may be incurred in the future presently be estimated due to a number of
+factors, including but not limited to potential increased demand for ONCASPAR
+from RPR, expansion into additional markets outside the U.S. and the
+possibility that the Company could renegotiate the level of required purchases.
+If the Company does not achieve increases in sales of ONCASPAR beyond current
+levels or cannot renegotiate its commitment, a loss would be incurred on the
+remaining purchase commitment.
+
+ 14
+
+Delays in obtaining or an inability to obtain any unmodified compound
+which the Company does not produce, including unmodified adenosine deaminase or
+L-asparaginase, could have a material adverse effect on the Company. In the
+event the Company is required to locate an alternate supplier for an unmodified
+compound utilized in a product which is being sold commercially or which is in
+clinical development, the Company will likely be required to do additional
+testing, which could cause delay and additional expense, to demonstrate that
+the alternate supplier's material is biologically and chemically equivalent to
+the unmodified compound previously used. Such evaluations could include one or
+all of the following: chemical, pre-clinical and clinical studies. Requirements
+for such evaluations would be determined by the stage of the product's
+development and the reviewing division of the FDA. If such alternate material
+is not demonstrated to be chemically and biologically equivalent to the
+previously used unmodified compound, the Company will likely be required to
+repeat some or all of the pre-clinical and clinical trials with such compound.
+The marketing of an FDA approved drug could be disrupted while such tests are
+conducted. Even if the alternate material is shown to be chemically and
+biologically equivalent to the previously used compound, the FDA may require
+the Company to conduct additional clinical trials with such alternate material.
+
+GOVERNMENT REGULATION
+
+ The manufacturing and marketing of pharmaceutical products in the United
+States requires the approval of the FDA under the Federal Food, Drug and
+Cosmetic Act. Similar approvals by comparable agencies are required in most
+foreign countries. The FDA has established mandatory procedures and safety
+standards which apply to the clinical testing, manufacture and marketing of
+pharmaceutical products. Obtaining FDA approval for a new therapeutic may take
+several years and involve substantial expenditures. Pharmaceutical
+manufacturing facilities are also regulated by state, local and other
+authorities.
+
+ As an initial step in the FDA regulatory approval process, pre-clinical
+studies are conducted in animal models to assess the drug's efficacy and to
+identify potential safety problems. The results of these studies are submitted
+to the FDA as a part of the Investigational New Drug Application ("IND"), which
+is filed to obtain approval to begin human clinical testing. The human clinical
+testing program may involve up to three phases. Data from human trials are
+submitted to the FDA in a New Drug Application ("NDA") or Product License
+Application ("PLA"). Preparing an NDA or PLA involves considerable data
+collection, verification and analysis.
+
+ ADAGEN was approved by the FDA in March 1990. ONCASPAR was approved by
+the FDA in February 1994 and in Germany in November 1994 for patients with ALL
+who are hypersensitive to native forms of L-asparaginase, and in Russia in
+April 1993 for therapeutic use in a broad range of cancers. Except for these
+approvals, none of the Company's other products have been approved for sale and
+use in humans in the United States or elsewhere. Difficulties or unanticipated
+costs may be encountered by the Company or its licensees or marketing partners
+in their respective efforts to secure necessary governmental approvals, which
+could delay or preclude the Company or its licensees or marketing partners from
+marketing their products.
+
+ With respect to patented products, delays imposed by the government
+approval process may materially reduce the period during which the Company will
+have the exclusive right to exploit them. See "Patents".
+
+COMPETITION
+
+ Many established biotechnology and pharmaceutical companies with greater
+resources than the Company are engaged in activities that are competitive with
+those of Enzon and may develop products or technologies which compete with
+those of the Company. Although Enzon believes that the experience of its
+personnel in biotechnology, the patents which have been licensed by or issued
+to the Company and the proprietary know-how developed by the Company provide it
+with a competitive advantage in its field, there can be no assurance that the
+Company will be able to maintain any competitive advantage, should it exist, in
+view of the greater size and resources of many of the Company's competitors.
+
+ 15
+
+Enzon is aware that other companies are conducting research on chemically
+modified therapeutic proteins and that certain companies are modifying
+pharmaceutical products, including proteins, by attaching PEG. While the
+Company believes that products modified with its PEG Process are superior to
+these other products, there is no assurance that this will prove to be the
+case. Other than the Company's products ONCASPAR and ADAGEN, the Company is
+unaware of any PEG-modified therapeutic proteins which are currently available
+commercially for therapeutic use. Nevertheless, other drugs or treatment
+modalities which are currently available or that may be developed in the
+future, and which treat the same diseases as those which the Company's products
+are designed to treat, may be competitive with the Company's products.
+
+ Prior to the development of ADAGEN, the Company's first FDA approved
+product, the only treatment available to patients afflicted with SCID was a
+bone marrow transplant. Completing a successful transplant depends upon finding
+a matched donor, the probability of which is low. More recently, researchers at
+the NIH have been attempting to treat SCID patients with gene therapy, which if
+successfully developed, would compete with, and could eventually replace ADAGEN
+as a treatment. The theory behind gene therapy is that cultured T-lymphocytes
+that are genetically engineered and injected back into the patient will express
+permanently and at normal levels, adenosine deaminase, the deficient enzyme in
+people afflicted with SCID. To date, gene therapy clinical trials have not
+been conclusive. Those patients currently being treated with gene therapy have
+continued to be treated with ADAGEN.
+
+ Current standard treatment of patients with ALL includes administering
+unmodified L-asparaginase along with the drugs vincristine, prednisone and
+daunomycin. Studies have shown that long-term treatment with L-asparaginase
+increases the disease free survival in high risk patients. ONCASPAR, the
+Company's PEG-modified L-asparaginase product, is used to treat patients with
+ALL who are hypersensitive (allergic) to unmodified forms of L-asparaginase.
+The long-term survival and cure of ALL patients depends upon achieving a
+sustainable first remission. Currently, there are two unmodified forms of
+L-asparaginase available in the United States -- Elspar and Erwinase. The
+Company believes that ONCASPAR has the following two advantages over these
+unmodified forms of L-asparaginase: increased circulating blood life and
+generally reduced immunogenicity.
+
+ Several companies are actively pursuing the development of agents to
+increase the oxygen level in solid tumors and thereby enhance the efficacy of
+radiation and/or chemotherapy that could compete with PEG-hemoglobin. Some of
+these agents are also being tested in clinical trials. In addition, many
+conventional cytotoxic agents are currently used in combination with each other
+and/or with radiation to give additive or synergistic anti-cancer effects.
+
+ Hyperbaric oxygen chambers have been used clinically to increase the
+oxygen content of tumors and thereby improve the effectiveness of radiation
+therapy. However, this method is relatively costly and cumbersome, and is
+therefore not widely practiced. Compounds that decrease the affinity of
+hemoglobin for oxygen and thereby increase the level of free oxygen in the
+blood have been known for some time. At least one such "synthetic allosteric
+modifier" compound is reportedly being studied in clinical trials for its
+ability to increase the level of oxygen in tumors, which could enhance the
+efficacy of radiation therapy and/or chemotherapy. Compounds that inhibit the
+ability of cancer cells to repair radiation damage to their DNA are also known,
+and one such compound is reportedly in clinical trials as an adjunct to
+radiation therapy.
+
+ The Company believes that PEG-hemoglobin, due to its long circulation
+life, will deliver more oxygen to hypoxic tumors than the products currently
+under development and therefore, in combination with radiation, should result
+in greater reduction in tumor size.
+
+ Companies are also actively pursuing the development of hemoglobin-based
+oxygen carriers for use as a blood substitute and certain of these products are
+currently also being tested in clinical trials. Companies developing
+hemoglobin-based products have researched the use of human, bovine, genetically
+engineered and transgenic hemoglobin. Each source of hemoglobin has various
+
+ 16
+ 
+problems associated with it. Currently, the Company believes that none of the
+other companies developing hemoglobin-based oxygen carriers as blood
+substitutes are pursuing a radiosensitization indication.
+
+ Certain of the Company's competitors are attempting to develop oxygen
+carriers using perfluorocarbons ("PFC"). The FDA has allowed PFC trials only
+for very limited applications where benefits may be realized from localized,
+short-term use of very small amounts of the substance. PFCs are currently
+approved by the FDA for limited use in angioplasty patients. Clinical trials of
+PFC-based oxygen carriers for treatment of anemia were halted prior to
+completion.
+
+ There are several technologies which compete with the Company's SCA
+technology, including chimeric antibodies, humanized antibodies, human
+monoclonal antibodies, recombinant antibody FAB fragments, low molecular weight
+peptides and mimetics. These competing technologies can be categorized into
+two areas: (i) those modifying the monoclonal to minimize immunological
+reaction to a foreign protein, which is the strategy employed with chimerics,
+humanized antibodies and human monoclonal antibodies, and (ii) those creating
+smaller portions of the monoclonal which are more specific to the target and
+have fewer side effects, as is the case with FAB fragments and low molecular
+weight peptides. Enzon believes that the smaller size of its SCA proteins
+should permit better penetration into the tumor, result in rapid clearance from
+the blood and cause a significant decrease in the immunogenic problems
+associated with conventional monoclonal antibodies. A number of companies have
+active programs in SCA proteins. The Company believes that its patent position
+on SCA proteins will require these other companies to obtain licenses from
+Enzon in order to commercialize their products, but there can be no assurance
+that this will prove to be the case.
+
+PATENTS
+
+ The Company has licensed, and been issued, a number of patents in the
+United States and other countries and has other patent applications pending to
+protect its proprietary technology. Although the Company believes that its
+patents provide adequate protection for the conduct of its business there can
+be no assurance that such patents will be of substantial protection or
+commercial benefit to the Company, will afford the Company adequate protection
+from competing products, will not be challenged or declared invalid, or that
+additional United States patents or foreign patent equivalents will be issued
+to the Company. The degree of patent protection to be afforded to
+biotechnological inventions is uncertain and the Company's products are subject
+to this uncertainty. The Company is aware of certain issued patents and patent
+applications, and there may be other patents and applications, containing
+subject matter which the Company or its licensees or collaborators may require
+in order to research, develop or commercialize at least some of the Company's
+products. There can be no assurance that licenses under such subject matter
+will be available on acceptable terms. The Company expects that there may be
+significant litigation in the industry regarding patents and other proprietary
+rights and, if Enzon were to become involved in such litigation, it could
+consume a substantial amount of the Company's resources. In addition, the
+Company relies heavily on its proprietary technologies for which pending patent
+applications have been filed and on unpatented know-how developed by the
+Company. Insofar as the Company relies on trade secrets and unpatented
+know-how to maintain its competitive technological position, there can be no
+assurance that others may not independently develop the same or similar
+technologies. Although the Company has taken steps to protect its trade
+secrets and unpatented know-how, third-parties nonetheless may gain access to
+such information.
+
+ The original PEG Process patent which was licensed from Research
+Technologies Corp. is due to expire in December 1996. The Company has made
+significant improvements to the original PEG Process and has applied for and
+received numerous patents for such improvements. The Company believes, based
+on new patents received and applications pending, that this expiration will
+not have a material impact on its business.
+
+ In the field of SCA proteins, the Company has several United States and
+foreign patents and patent applications, including a patent granted in August
+1990 covering the genes needed to encode SCA proteins. Creative BioMolecules,
+Inc. ("Creative") provoked an interference with the patent and on June 28,
+1991, the United States Patent and Trademark Office entered summary judgment
+
+ 17
+ 
+terminating the interference proceeding and upholding the Company's patent.
+Creative subsequently lost its appeal of this decision in the United States
+Court of Appeals. Creative did not file a petition for review of this decision
+by the United States Supreme Court within the required time period.
+
+ In November 1993, Enzon and Creative signed collaborative agreements in
+the field of Enzon's SCA protein technology and Creative's Biosynthetic
+Antibody Binding Site (BABS(trademark)) protein technology. Under the
+agreements, each company is free, under a non-exclusive, worldwide license, to
+develop and sell products utilizing the technology claimed by both companies'
+antibody engineering patents, without paying royalties to the other. Each is
+also free to market products in collaboration with third parties, but the third
+parties will be required to pay royalties on products covered by the patents
+which will be shared by the companies, except in certain instances. Enzon has
+the exclusive right to market licenses under both companies' patents other than
+to Creative's collaborators. In addition, the agreements provide for the
+release and discharge by each company of the other, from any and all claims
+based on past infringement of the technology which is the subject of the
+agreements. The agreement also provides for any future disputes between the
+companies, regarding new patents in the area of engineered monoclonal
+antibodies, to be resolved pursuant to agreed upon procedures.
+
+ Although the Company believes that its patents provide adequate
+protection for the conduct of its business as described herein, there can be no
+assurance that such patents will be of substantial protection from competing
+products, will not be challenged or declared invalid, or that additional United
+States patents or foreign patent equivalents will be issued to the Company.
+
+EMPLOYEES
+
+ As of June 30, 1996, Enzon employed 101 persons, of whom 47 were engaged
+in research and development activities, 33 were engaged in manufacturing, and
+21 were engaged in administration and management. As of June 30, 1996, the
+Company had 20 employees who hold Ph.D. degrees. The Company believes that it
+has been highly successful in attracting skilled and experienced scientific
+personnel; however, competition for such personnel is intensifying. None of
+the Company's employees are covered by a collective bargaining agreement. All
+of the Company's employees are covered by confidentiality agreements. Enzon
+considers relations with its employees to be good.
+
+ 18
+
+ITEM 2. PROPERTIES
+
+ The Company owns no real property. The following are all of the
+facilities that Enzon currently leases:
+
+APPROX. APPROX.
+ PRINCIPAL SQUARE ANNUAL LEASE
+ LOCATION OPERATIONS FOOTAGE RENT EXPIRATION
+
+ 20 Kingsbridge RoadResearch 56,000 496,000(1) June 15, 2007
+ Piscataway, NJ & Development &
+ Administrative
+
+ 40 Cragwood Road Research & 88,000 814,000(2) December 31, 1998
+ S. Plainfield, NJDevelopment, Pilot
+ Scale Manufacturing
+
+ 300 Corporate Ct.Manufacturing 24,000 183,000 November 30, 1998
+ S. Plainfield, NJ
+
+(1) Under the terms of the lease, annual rent increases over the remaining
+ term of the lease from 496,000 to 581,000.
+
+(2) Net of subrental income of 221,000; the sublease is for approximately
+ 27,412 square feet.
+
+ The Company believes that its facilities are well maintained and
+generally adequate for its present and future anticipated needs.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+ There is no material litigation pending to which the Company is a party
+or to which any of its property is subject.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+ None.
+
+ 19
+
+PART II
+
+ITEM 5. MARKET FOR THE REGISTRANT'S COMMON EQUITY AND
+ RELATED STOCKHOLDER MATTERS
+
+ The Company's Common Stock is traded in the over-the-counter market and
+is quoted on the NASDAQ National Market under the trading symbol "ENZN".
+
+ The following table sets forth the high and low sale prices for the
+Common Stock for the years ended June 30, 1996 and 1995, as reported by the
+NASDAQ National Market. The quotations shown represent inter-dealer prices
+without adjustment for retail mark-ups, mark downs or commissions, and may not
+necessarily reflect actual transactions.
+
+ HIGH LOW
+ Year Ended June 30, 1996
+ First Quarter 4 1/8 2 3/16
+ Second Quarter 3 7/8 1 15/16
+ Third Quarter 5 1/2 2 1/8
+ Fourth Quarter 4 5/8 2 3/4
+
+ Year Ended June 30, 1995
+ First Quarter 3 1/4 2 1/8
+ Second Quarter 3 1/8 1 1/2
+ Third Quarter 2 1/2 1 11/16
+ Fourth Quarter 2 7/8 1 3/4
+
+As of September 17, 1996 there were 3,021 holders of record of the Common
+Stock.
+
+ The Company has paid no dividends on its Common Stock since its inception
+and does not plan to pay dividends on its Common Stock in the foreseeable
+future. Except as may be utilized to pay dividends payable on the Company's
+outstanding Series A Cumulative Convertible Preferred Stock ("Series A
+Preferred Shares" or "Series A Preferred Stock"), any earnings which the
+Company may realize will be retained to finance the growth of the Company. In
+addition, no dividends may be paid or set apart for payment on the Common Stock
+unless the Company shall have paid in full, or made appropriate provision for
+the payment in full of, all dividends which have then accumulated on the Series
+A Preferred Shares.
+
+ 20
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+ Set forth below is the selected financial data for the Company for the
+five fiscal years ended June 30, 1996.
+
+CONSOLIDATED STATEMENT OF OPERATIONS DATA:
+
+ YEAR ENDED JUNE 30,
+
+1996 1995 1994 1993 1992
+
+Revenues 12,681,281 15,826,437 14,797,499 8,414,349 5,684,944
+Net Loss (5,175,279) (6,291,491) (16,495,226) (24,601,310) (28,182,829)
+Net Loss 
+per Share (.20) (.26) (.71) (1.15) (1.46)
+
+Dividends on
+ Common Stock None None None None None
+
+CONSOLIDATED BALANCE SHEET DATA:
+
+ JUNE 30,
+
+1996 1995 1994 1993 1992
+
+Total Assets 21,963,856 19,184,042 20,543,252 33,920,859 39,310,862
+Long-Term
+ Obligations 1,728 4,076 115,733 141,772 232,958
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+ CONDITION AND RESULTS OF OPERATIONS
+
+RESULTS OF OPERATIONS
+
+FISCAL YEARS ENDED JUNE 30, 1996, 1995 AND 1994
+
+ REVENUES. Revenues for the year ended June 30, 1996 decreased by 20 to
+ 12,681,000 as compared to 15,826,000 for fiscal 1995. The components of
+revenues are sales, which consist of sales of the Company's products and
+royalties on the sale of such products by others, and contract revenues. Sales
+decreased by 5 to 10,502,000 for the year ended June 30, 1996 as compared to
+ 11,024,000 for the prior year. The decrease was principally due to an absence
+of any shipments of PEG-INTRON A to the Company's collaborative partner,
+Schering, during the year ended June 30, 1996 compared to shipments of
+approximately 1,135,000 recorded during the year ended June 30,1995. In June
+1995, the Company amended its agreement with Schering and agreed to transfer
+the know-how and manufacturing rights for PEG-INTRON A to Schering. It is
+anticipated that Schering will manufacture all future clinical trial material.
+Enzon has the option to manufacture PEG-INTRON A for the U.S. market upon FDA
+approval, should it occur. This decrease was offset in part by increased
+ADAGEN sales of approximately 391,000 and increased revenues from ONCASPAR,
+which is marketed by RPR, of approximately 249,000. The Company expects sales
+of ADAGEN to increase at comparable rates as those achieved during the last two
+years as additional patients are treated. The Company also anticipates
+moderate growth of ONCASPAR sales to RPR and increased royalties on RPR sales
+of ONCASPAR. Currently RPR is conducting clinical trials to expand the use of
+ONCASPAR beyond its current FDA approved indication which could also result in
+additional revenues from this product. The Company is also pursuing licensing
+agreements for the sale of ONCASPAR outside of North America. There can be no
+assurance that any particular sales levels of ONCASPAR or ADAGEN will be
+achieved or maintained. ADAGEN sales for the year ended June 30, 1996 and 1995
+were 8,696,000 and 8,305,000, respectively. Contract revenue for the year
+ended June 30, 1996 decreased by 55 to 2,179,000, as compared to 4,802,000
+for fiscal 1995. The decrease was principally due to a payment of 2,000,000
+recorded during the prior fiscal year from Schering related to the amendment of
+the Company's PEG-Intron A license with Schering. During the years ended June
+30, 1996 and 1995, the Company had export sales of 2,270,000 and 2,105,000,
+respectively. Sales in Europe were 1,858,000 and 1,841,000 for the years
+ended June 30, 1996 and 1995, respectively.
+
+ 21
+
+Revenues for the fiscal year ended June 30, 1995 increased by 7 to
+ 15,826,000 as compared to 14,797,000 for fiscal 1994. Sales increased by 35 
+to 11,024,000 for the year ended June 30, 1995 as compared to 8,182,000 for
+the prior year, due to the shipments of clinical material to Schering of
+approximately 1,135,000, an increase in sales of ADAGEN of 704,000 due to an
+increase in patients receiving the product and increased ONCASPAR revenues from
+RPR of approximately 1,129,000. ADAGEN sales for the years ended June 30,
+1995 and 1994 were 8,305,000 and 7,601,000, respectively. Contract revenue
+for the year ended June 30, 1995 decreased by 27 to 4,802,000, as compared to
+ 6,616,000 for fiscal 1994. The decrease was principally due to a one time
+payment received during fiscal 1994 from RPR related to the FDA approval of
+ONCASPAR. The decrease was offset in part by a payment of 1,800,000 recorded
+in fiscal 1995 from Bristol-Myers related to the exercise of its option under
+an agreement dated September 1993, to acquire a worldwide non-exclusive license
+for all therapeutic indications for the Company's SCA protein technology and
+ 2,000,000 received related to the amendment of the Company's agreement with
+Schering. During the fiscal years ended June 30, 1995 and 1994, the Company
+had export sales of 2,105,000 and 2,085,000, respectively. Sales in Europe
+were 1,841,000 and 1,957,000 for the years ended June 30, 1995 and 1994,
+respectively.
+
+ COST OF SALES. Cost of sales, as a percentage of sales, increased to 34 
+for the year ended June 30, 1996 as compared to 26 for fiscal 1995. The
+increase was due primarily to a payment in lieu of satisfying the minimum
+purchase requirements under the Company's long-term supply agreement for a raw
+material used in the production of ONCASPAR and the write-off of excess
+inventories of this raw material. While it is possible that the Company may
+incur similar losses on its remaining purchase commitments under the supply
+agreement (see Note 5 to the Consolidated Financial Statements), the Company
+does not consider such losses probable, nor can the amount of any loss which
+may be incurred in the future presently be estimated due to a number of
+factors, including but not limited to potential increased demand for ONCASPAR
+from RPR, expansion into additional markets outside the U.S. and the
+possibility that the Company could renegotiate the level of required purchases.
+If the Company does not achieve increases in sales of ONCASPAR beyond current
+levels or cannot renegotiate its commitment, a loss would be incurred on the
+remaining purchase commitment.
+
+ Cost of sales, as a percentage of sales, for fiscal 1995 was 26 as
+compared to 27 in fiscal 1994. An increase in the charge to cost of goods
+sold related to idle capacity at the Company's manufacturing facility was
+offset by a decrease in the write-off of excess raw material (PEG). Prior to
+the approval of ONCASPAR, the Company's first FDA approved drug for a
+potentially large patient population, idle capacity was charged to research and
+development expense.
+
+ RESEARCH AND DEVELOPMENT. Research and development expenses for the year
+ended June 30, 1996 decreased by 16 to 10,124,000 from 12,084,000 for the
+year ended June 30, 1995. This decrease was primarily due to reductions in
+personnel, principally in the clinical and research administration areas, and
+related costs, such as payroll taxes and benefits totaling approximately
+ 1,150,000 and other cost containment measures taken by the Company.
+
+ Research and development expenses in fiscal 1995 decreased by 32 to
+ 12,084,000 as compared to 17,665,000 in fiscal 1994. The decrease was
+principally due to (i) reductions in personnel, principally in the clinical and
+scientific administration areas, and related costs such as payroll taxes and
+benefits totaling approximately 2,124,000, (ii) decreased research facility
+and occupancy costs of 1,150,000, (iii) the charging of 832,000 in idle
+capacity to cost of sales, rather than research and development, as was the
+case in the first nine months of fiscal 1994, and (iv) other cost containment
+measures implemented by the Company. The decreases in research facility and
+occupancy costs related to a one time credit received from one of the Company's
+landlords, the sublease of certain facilities and the termination of one of the
+Company's long-term facility leases and the resulting consolidation of its
+operations.
+
+ 22
+
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES. Selling, general and
+administrative expenses for the year ended June 30, 1996 decreased by 13 to
+ 6,011,000 from 6,916,000 for the year ended June 30, 1995. The decrease was
+due to (i) reductions in personnel and related costs, such as payroll taxes and
+benefits of approximately 510,000, (ii) a reduction in facility and occupancy
+costs of approximately 486,000, and (iii) other cost containment measures
+taken by the Company.
+
+ Selling, general and administrative expenses for fiscal 1995 decreased by
+41 to 6,916,000 from 11,710,000 for fiscal 1994. The decrease was due to
+(i) reductions in personnel and related costs, such as payroll taxes and
+benefits of approximately 2,690,000, (ii) a decrease in marketing and
+advertising costs for ONCASPAR as a result of the Company's license agreement
+with RPR totaling 291,000, and (iii) other cost containment measures taken by
+the Company. Under the Company's exclusive U.S. marketing rights license, RPR
+is responsible for all marketing and advertising costs related to ONCASPAR.
+
+ RESTRUCTURING EXPENSE. During the year ended June 30, 1995, the Company
+recorded a restructuring expense related to a reduction in its workforce and
+the termination of a long-term facility lease.
+
+ OTHER INCOME/EXPENSE. Other income/expense increased by 829,000 to
+ 1,823,000 for the year ended June 30, 1996 as compared to 994,000 last year.
+The increase was due principally to the recognition as other income of
+approximately 1,313,000 representing the unused portion of an advance received
+under a development and license agreement with Sanofi. During October 1995,
+the Company learned that Sanofi intended to cease development of PEG-SOD
+(Dismutec) due to the product's failure to show a statistically significant
+difference between the treatment group and the control group in a pivotal Phase
+III trial. Due, in part, to this product failure, the Company believes it has
+no further obligations under its agreement with Sanofi with respect to the
+ 1,313,000 advance and therefore, the Company has recognized as other income
+the amount due Sanofi previously recorded as a current liability. Other
+income/expense in the prior year principally consisted of a one-time insurance
+payment.
+
+ Other income/expense increased to 994,000 for fiscal 1995 as compared to
+ 250,000 for fiscal 1994. The increase was principally due to an insurance
+settlement of 645,000 received during fiscal 1995 related to ADAGEN that was
+destroyed in shipment.
+
+ The Company will adopt the provisions of Statement of Financial
+Accounting Standards No. 121, "Accounting for the Impairment of Long-Lived
+Assets and for Long-Lived Assets to be Disposed of" as of July 1, 1996. This
+statement is not expected to have a material impact on the Company's
+consolidated financial statements.
+
+ The Company anticipates electing to continue its current accounting
+methodology regarding stock options granted to employees and will add the
+required additional footnote disclosures prescribed by Statement of Financial
+Accounting Standards No. 123, "Accounting for Stock-Based Compensation," in its
+consolidated financial statements for the year ending June 30, 1997.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+ Enzon had 12,666,000 in cash and cash equivalents as of June 30, 1996.
+The Company invests its excess cash in a portfolio of high-grade marketable
+securities and United States government-backed securities.
+
+ The Company's cash reserves as of June 30, 1996 increased by 4,563,000
+from June 30, 1995. The increase in cash reserves reflects approximately
+ 9,444,000 in net proceeds (after payment of related expenses) received from
+the Company's private placement of its Common Stock, Series B Convertible
+Preferred Shares ("Series B Preferred Shares") and warrants to purchase Common
+Stock in January 1996 and the private placement of its Common Stock, Series C
+Convertible Preferred Shares ("Series C Preferred Shares") and warrants to
+purchase Common Stock in March 1996. This increase was offset in part by the
+funding of operations.
+
+ 23
+
+The Company's Amended RPR License Agreement for ONCASPAR provides for a
+payment of 3,500,000 in advance royalties which was received from RPR in
+January 1995. Royalties due under the Amended RPR License Agreement will be
+offset against a credit of 5,970,000, which represents the royalty advance
+plus reimbursement of certain amounts due RPR under the previous agreement and
+interest expense, before cash payments will be made under the agreement. The
+royalty advance is shown as a long term liability with the corresponding
+current portion included in accrued expenses on the consolidated balance sheets
+and will be reduced as royalties are recognized under the agreement. Through
+June 30, 1996, an aggregate of 1,045,000 in royalties payable by RPR has been
+offset against the original credit.
+
+ As of June 30, 1996, 940,808 shares of Series A Cumulative Convertible
+Preferred Shares ("Series A Preferred Shares") had been converted into
+3,093,411 shares of Common Stock. Accrued dividends on the converted Series A
+Preferred Shares in the aggregate of 1,792,000 were settled by the issuance of
+232,383 shares of Common Stock. The Company does not presently intend to pay
+cash dividends on the Series A Preferred Shares. As of June 30, 1996, there
+were 1,367,000 of accrued and unpaid dividends on the Series A Preferred
+Shares. These dividends are payable in cash or Common Stock at the Company's
+option and accrue on the outstanding Series A Preferred Shares at the rate of
+ 218,000 per year. As of June 30, 1996, there had been no conversion of the
+Series B Preferred Shares or Series C Preferred Shares. Neither the Series B
+Preferred Shares nor the Series C Preferred Shares carry stated dividends.
+
+ To date, the Company's sources of cash have been the proceeds from the
+sale of its stock through public and private placements, sales of ADAGEN, sales
+of ONCASPAR, sales of its products for research purposes, contract research and
+development fees, technology transfer and license fees and royalty advances.
+The Company's current sources of liquidity are its cash, cash equivalents and
+interest earned on such cash reserves, sales of ADAGEN, sales of ONCASPAR,
+sales of its products for research purposes and license fees. Management
+believes that its current sources of liquidity will be sufficient to meet its
+anticipated cash requirements, based on current spending levels, for
+approximately the next two years.
+
+ Upon exhaustion of the Company's current cash reserves, the Company's
+continued operations will depend on its ability to realize significant revenues
+from the commercial sale of its products, raise additional funds through equity
+or debt financing, or obtain significant licensing, technology transfer or
+contract research and development fees. There can be no assurance that these
+sales, financings or revenue generating activities will be successful.
+
+ In management's opinion, the effect of inflation on the Company's past
+operations has not been significant.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+ The response to this Item is submitted as a separate section of this
+report commencing on Page F-1.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS
+ ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+ Not applicable.
+
+ 24
+
+PART III
+
+ The information required by Item 10 - Directors and Executive Officers of
+the Registrant; Item 11 - Executive Compensation; Item 12 - Security Ownership
+of Certain Beneficial Owners and Management; and Item 13 - Certain
+Relationships and Related Transactions is incorporated into Part III of this
+Annual Report on Form 10-K by reference to the Company's Proxy Statement for
+the Annual Meeting of Stockholders scheduled to be held on December 3, 1996.
+
+ 25
+
+PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES,
+ AND REPORTS ON FORM 8-K
+
+ (a)(1) and (2). The response to this portion of Item 14 is submitted as
+a separate section of this report commencing on page F-1.
+
+ (a)(3) and (c). Exhibits (numbered in accordance with Item 601 of
+Regulation S-K).
+
+Exhibit Page Number or
+ NUMBER DESCRIPTION Incorporation BY
+ REFERENCE
+ 
+ 3(i) Certificate of Incorporation, as amended ####
+ 3(ii) By-laws, as amended (4.2)
+ 10.0 Employment Agreement dated March 25, 1994 with Peter G. Tombros #(10.17)
+ 10.1 Form of Change of Control Agreements dated as of January 20, 1995
+ entered into with the Company's Executive Officers |(10.2)
+ 10.2 Lease - 300-C Corporate Court, South
+ Plainfield, New Jersey (10.3)
+ 10.3 Modification of Lease - 300-C Corporate Court, South Plainfield
+ New Jersey ++(10.3)
+ 10.4 Lease Termination Agreement dated March 31, 1995 for
+ 20 Kingsbridge Road and 40 Kingsbridge Road, Piscataway, New Jersey |(10.6)
+ 10.5 Option Agreement dated April 1, 1995 regarding 20 Kingsbridge Road,
+ Piscataway, New Jersey |(10.7)
+ 10.6 Form of Lease - 40 Cragwood Road, South
+ Plainfield, New Jersey (10.9)
+ 10.7 Lease 300A-B Corporate Court, South Plainfield, New Jersey +++(10.10)
+ 10.8 Stock Purchase Agreement dated March 5, 1987
+ between the Company and Eastman Kodak Company (10.7)
+ 10.9 Amendment dated June 19, 1989 to Stock Purchase
+ Agreement between the Company and
+ Eastman Kodak Company (10.10)
+ 10.10 Form of Stock Purchase Agreement between the Company
+ and the purchasers of the Series A Cumulative
+ Convertible Preferred Stock +(10.11)
+ 10.11 Amendment to License Agreement and Revised License Agreement
+ between the Company and RCT dated
+ April 25, 1985 ++++(10.5)
+ 10.12 Amendment dated as of May 3, 1989 to Revised License Agreement
+ dated April 25, 1985 between the Company and Research
+ Corporation (10.14)
+ 10.13 License Agreement dated September 7, 1989 between the Company
+ and Research Corporation Technologies, Inc. (10.15)
+ 10.14 Master Lease Agreement and Purchase Leaseback Agreement dated
+ October 28, 1994 between the Company and Comdisco, Inc. ##(10.16)
+ 10.15 Amendment dated as of May 15, 1995 to Employment Agreement with
+ Peter G. Tombros ||(10.17)
+
+ 26
+ 
+ 10.16 Stock Purchase Agreement dated as of June 30, 1995 |||
+ 10.17 Securities Purchase Agreement dated as of January 31, 1996 |||
+ 10.18 Registration Rights Agreements dated as of January 31, 1996 |||
+ 10.19 Warrants dated as of February 7, 1996 and issued pursuant to the
+ Securities |||
+ Purchase Agreement dated as of January 31, 1996
+ 10.20 Securities Purchase Agreement dated as of March 15, 1996 ####
+ 10.21 Registration Rights Agreement dated as of March 15, 1996 ####
+ 10.22 Warrant dated as of March 15, 1996 and issued pursuant to the ####
+ Securities Purchase Agreement dated as of March 15, 1996
+ 21.0 Subsidiaries of Registrant ###
+ 23.0 Consent of KPMG Peat Marwick LLP ###
+ 27.0 Financial Data Schedule ###
+ 99.0 Additional Exhibits ###
+
+### Filed herewith.
+
+ Previously filed as an exhibit to the Company's Registration
+ Statement on Form S-2 (File No. 33-34874) and incorporated herein
+ by reference thereto.
+
+ Previously filed as exhibits to the Company's Annual Report on Form
+ 10-K for the fiscal year ended June 30, 1989 and incorporated
+ herein by reference thereto.
+
+ Previously filed as an exhibit to the Company's Registration
+ Statement on Form S-18 (File No. 2-88240-NY) and incorporated
+ herein by reference thereto.
+
+ Previously filed as exhibits to the Company's Registration
+ Statement on Form S-1 (File No. 2-96279) filed with the Commission
+ and incorporated herein by reference thereto.
+
++ Previously filed as an exhibit to the Company's Registration
+ Statement on Form S-1 (File No. 33-39391) filed with the Commission
+ and incorporated herein by reference thereto.
+
+++ Previously filed as an exhibit to the Company's Annual Report on
+ Form 10-K for the fiscal year ended June 30, 1992 and incorporated
+ herein by reference thereto.
+
++++ Previously filed as an exhibit to the Company's Annual Report on
+ Form 10-K for the fiscal year ended June 30, 1993 and incorporated
+ herein by reference thereto.
+
+++++ Previously filed as an exhibit to the Company's Annual Report on
+ Form 10-K for the fiscal year ended June 30, 1985 and incorporated
+ herein by reference thereto.
+
+# Previously filed as an exhibit to the Company's Current Report on
+ Form 8-K dated April 5, 1994 and incorporated herein by reference
+ thereto.
+
+## Previously filed as an exhibit to the Company's quarterly report on
+ Form 10-Q for the quarter ended December 31, 1994 and incorporated
+ herein by reference thereto.
+
+| Previously filed as an exhibit to the Company's quarterly report on
+ Form 10-Q for the quarter ended March 31, 1995 and incorporated
+ herein by reference thereto.
+
+|| Previously filed as an exhibit to the Company's annual report on
+ Form 10-K for the fiscal year ended June 30, 1995 and incorporated
+ herein by reference thereto.
+
+ 27
+
+||| Previously filed as an exhibit to the Company's quarterly report on
+ Form 10-Q for the quarter ended December 31, 1995 and incorporated
+ herein by reference thereto.
+
+#### Previously filed as an exhibit to the Company's quarterly report on
+ Form 10-Q for the quarter ended March 31, 1996 and incorporated
+ herein by reference thereto.
+
+ (b) Reports on Form 8-K
+
+ On June 25, 1996, the Company filed with the Commission a Current Report
+on Form 8-K dated June 10, 1996 relating to the exercise by the Company of a
+warrant to purchase 150,000 shares of Neoprobe Corporation common stock. (Item
+5).
+
+ On May 29, 1996, the Company filed with the Commission a Current Report
+on Form 8-K dated May 20, 1996 relating to the Company's Phase Ib clinical
+trials. (Item 5).
+
+ On April 30, 1996, the Company filed with the Commission a Current Report
+on Form 8-K dated January 11, 1996 relating to the Company's receipt of two
+additional United States patents for PEG-hemoglobin. (Item 5).
+
+ On April 24, 1996, the Company filed with the Commission a Current Report
+on Form 8-K dated January 11, 1996 relating to changes in the Company's board,
+the formation of a Steering Committee and an inquiry from NASDAQ. (Item 5).
+
+ 28
+
+Signatures
+
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+ ENZON, INC.
+
+Dated: September 27, 1996 /S/ PETER G. TOMBROS
+ By: Peter G. Tombros
+ President and Chief
+ Executive Officer
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+Annual Report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated:
+
+ NAME TITLE DATE
+
+/S/ PETER G. TOMBROS President, Chief Executive September 27, 1996
+Peter G. Tombros Officer and Director
+ (Principal Executive Officer)
+
+/S/ KENNETH J. ZUERBLIS Vice President, Finance September 27, 1996
+Kenneth J. Zuerblis and Chief Financial Officer
+ (Principal Financial and
+ Accounting Officer)
+
+/S/ RANDY H. THURMAN Chairman of the Board September 27, 1996
+Randy H. Thurman
+
+/S/ ROSINA B. DIXON Director September 27, 1996
+Rosina B. Dixon
+
+/S/ ROBERT LEBUHN Director September 27, 1996
+Robert LeBuhn
+
+/S/ A.M. "DON" MACKINNON Director September 27, 1996
+A.M. "Don" MacKinnon
+
+29
+
+ENZON, INC. AND SUBSIDIARIES
+
+Index
+
+ PAGE
+
+Independent Auditors' Report F-2
+
+Consolidated Financial Statements:
+ Consolidated Balance Sheets - June 30, 1996 and 1995 F-3
+ Consolidated Statements of Operations - Years ended
+ June 30, 1996, 1995 and 1994 F-4
+ Consolidated Statements of Stockholders' Equity -
+ Years ended June 30, 1996, 1995 and 1994 F-5
+ Consolidated Statements of Cash Flows - Years ended
+ June 30, 1996, 1995 and 1994 F-7
+ Notes to Consolidated Financial Statements - Years
+ ended June 30, 1996, 1995 and 1994 F-8
+
+F-1
+
+INDEPENDENT AUDITORS' REPORT
+
+The Board of Directors and Stockholders
+Enzon, Inc.:
+
+We have audited the consolidated financial statements of Enzon, Inc. and
+subsidiaries as listed in the accompanying index. These consolidated financial
+statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these consolidated financial
+statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the financial position of Enzon, Inc. and
+subsidiaries as of June 30, 1996 and 1995, and the results of their operations
+and their cash flows for each of the years in the three-year period ended June
+30, 1996, in conformity with generally accepted accounting principles.
+
+/s/KPMG PEAT MARWICK LLP
+ KPMG Peat Marwick LLP
+
+New York, New York
+September 24, 1996
+
+F-2
+
+ENZON, INC. AND SUBSIDIARIES
+ CONSOLIDATED BALANCE SHEETS
+ June 30, 1996 and 1995
+
+ASSETS 1996 1995
+ 
+Current assets:
+ Cash and cash equivalents 12,666,050 8,102,989
+ Accounts receivable 2,123,691 2,362,277
+ Inventories 985,378 792,453
+ Accrued interest receivable 50,587 9,674
+ Prepaid expenses 383,731 175,552
+ Total current assets 16,209,437 11,442,945
+Property and equipment 15,640,823 15,758,058
+ Less accumulated depreciation and amortization 11,617,690 9,968,024
+
+ 4,023,133 5,790,034
+Other assets:
+ Investments 78,293 78,616
+ Deposits and deferred charges 55,945 46,627
+ Patents, net 1,597,048 1,825,820
+ 1,731,286 1,951,063
+
+Total assets 21,963,856 19,184,042
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+ Accounts payable 2,078,924 1,561,968
+ Accrued expenses 4,387,052 4,045,302
+ Other accrued liabilities - due to Sanofi - 1,312,829
+ Total current liabilities 6,465,976 6,920,099
+ Accrued rent 980,908 1,006,508
+ Royalty advance - RPR 1,600,786 2,955,841
+ Other liabilities 1,728 4,076
+
+ 2,583,422 3,966,425
+
+Commitments and contingencies
+
+Stockholders' equity:
+
+ Preferred stock- .01 par value, authorized 3,000,000 shares;
+ issued and outstanding 169,000 shares in 1996 and 109,000 in 1995
+ (liquidation preferences aggregating 8,725,000 in 1996 and
+ 2,725,000 in 1995) 1,690 1,090
+ Common stock- .01 par value, authorized 40,000,000 shares; issued
+ and outstanding 27,706,396 shares in 1996 and 26,328,874 shares in 
+ 1995 277,064 263,289
+ Additional paid-in capital 121,272,024 111,494,180 
+ Accumulated deficit (108,636,320) (103,461,041)
+ 
+Total stockholders' equity 12,914,458 8,297,518
+Total liabilities and stockholders' equity 21,963,856 19,184,042
+ 
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+ F-3
+
+ENZON, INC. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF OPERATIONS
+
+ Years ended June 30, 1996, 1995 and 1994
+
+YEARS ENDED JUNE 30,
+
+1996 1995 1994
+
+Revenues
+ Sales 10,501,985 11,024,432 8,181,999
+ Contract revenue 2,179,296 4,802,005 6,615,500
+
+ Total revenues 12,681,281 15,826,437 14,797,499
+
+Costs and expenses
+ Cost of sales 3,545,341 2,918,737 2,168,398
+ Research and development expenses 10,123,525 12,083,960 17,665,014
+ Selling, general and administrative expenses 6,010,639 6,916,393 11,709,735
+ Restructuring expense - 1,192,971 -
+
+Total costs and expenses 19,679,505 23,112,061 31,543,147
+
+ Operating loss (6,998,224) (7,285,624) (16,745,648)
+
+Other income (expense)
+ Interest and dividend income 449,855 236,848 306,381
+ Interest expense (12,886) (3,988) (19,068)
+ Other 1,385,976 761,273 (36,891)
+ 1,822,945 994,133 250,422
+ Net loss 5,175,279) 6,291,491) 16,495,226)
+
+Net loss per common share 0.20) 0.26) (0.71)
+
+Weighted average number of common
+ shares outstanding during the period 26,823,142 25,184,718 23,646,061
+
+The accompanying notes are an integral part of these consolidated
+financial statements.
+
+F-4
+
+ENZON, INC. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+ Years ended June 30, 1996, 1995 and 1994
+
+PREFERRED STOCK
+
+Amount Number
+ Per Share of Shares Par Value
+ 
+Balance, July 1, 1993 117,000 1,170
+Common stock issued for exercise - - - 
+ of non-qualified stock options
+Common stock issued on conversion of 25.00 (8,000) (80)
+preferred stock
+Dividends issued on preferred stock - - -
+Proceeds from public offering on - - -
+ April 22, 1994
+Compensation expense related to vesting - - -
+of stock options
+Common stock issued for acquisition of - - -
+Enzon Labs Inc.
+Issuance of common stock warrants for - - -
+Enzon Labs Inc.
+Net loss - - -
+Balance, June 30, 1994 109,000 1,090
+Compensation expense related to vesting - - -
+of stock options
+Proceeds from public shelf offering - - -
+Common stock issued for building - - -
+purchase option
+Common stock issued to Schering - - -
+ Corporation
+Common stock issued for acquisition - - -
+ of Enzon Labs Inc.
+Issuance of common stock warrants for - - -
+ Enzon Labs Inc.
+Net loss - - -
+Balance, June 30, 1995 carried forward 109,000 1,090
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+ (continued)
+
+ENZON, INC. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+ Years ended June 30, 1996, 1995 and 1994
+
+COMMON STOCK
+
+Amount Number
+ Per Share of Shares Par Value
+ 
+Balance, July 1, 1993 23,471,537 234,715
+Common stock issued for exercise 4.12 140,850 1,409
+ of non-qualified stock options
+Common stock issued on conversion of 9.10 21,978 220
+preferred stock
+Dividends issued on preferred stock 9.10 7,032 70
+Proceeds from public offering on 2.55 785,358 7,854 
+April 22, 1994
+Compensation expense related to vesting - - -
+of stock options
+Common stock issued for acquisition of 8.88 503 5
+Enzon Labs Inc.
+Issuance of common stock warrants for 2.02 - -
+Enzon Labs Inc.
+Net loss - - -
+Balance, June 30, 1994 24,427,258 244,273
+Compensation expense related to vesting - - -
+of stock options
+Proceeds from public shelf offering 2.06 954,000 9,540
+Common stock issued for building purchase 2.25 100,000 1,000
+option
+Common stock issued to Schering 2.36 847,489 8,475
+ Corporation
+Common stock issued for acquisition 8.88 127 1
+ of Enzon Labs Inc.
+Issuance of common stock warrants for 2.02 - -
+ Enzon Labs Inc.
+Net loss - - -
+Balance, June 30, 1995 carried forward 26,328,874 263,289
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+ (continued)
+
+ENZON, INC. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+ Years ended June 30, 1996, 1995 and 1994
+
+Additional Accumulated Deficit
+ paid-in Capital Total
+ 
+Balance, July 1, 1993 105,068,743 80,610,324) 24,694,304
+Common stock issued for exercise 578,942 - 580,351
+ of non-qualified stock options
+Common stock issued on conversion of (140) - -
+preferred stock
+Dividends issued on preferred stock 63,921 (64,000) (9)
+Proceeds from public offering on 1,624,025 - 1,631,879
+ April 22, 1994
+Compensation expense related to vesting 179,465 - 179,465
+of stock options
+Common stock issued for acquisition of 4,459 - 4,464
+Enzon Labs Inc.
+Issuance of common stock warrants for 835 - 835
+Enzon Labs Inc.
+Net loss - (16,495,226) (16,495,226)
+Balance, June 30, 1994 107,520,250 (97,169,550) 10,596,063
+Compensation expense related to vesting 31,535 - 31,535
+of stock options
+Proceeds from public shelf offering 1,742,524 - 1,752,064
+Common stock issued for building 224,000 - 225,000
+purchase option
+Common stock issued to Schering 1,974,575 - 1,983,050
+ Corporation
+Common stock issued for acquisition 1,126 - 1,127
+ of Enzon Labs Inc.
+Issuance of common stock warrants for 170 - 170
+ Enzon Labs Inc.
+Net loss - (6,291,491) (6,291,491)
+Balance, June 30, 1995 carried forward 111,494,180 103,461,041) 8,297,518
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+ F-5
+
+ENZON, INC. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+ Years ended June 30, 1996, 1995 and 1994
+
+PREFERRED STOCK
+
+Amount Number Par
+ Per Share of Shares Value
+ 
+Balance, June 30, 1995 brought forward 109,000 1,090
+Common stock issued for exercise - - -
+ of non-qualified stock options
+Issuance of common stock warrants - - -
+Proceeds from private placement, 100.00 40,000 400
+January 1996
+Proceeds from private placement, 100.00 20,000 200
+March 1996
+Consulting expense for issuance of - - -
+ stock options
+Donation of common stock - - -
+Net loss - - -
+Balance, June 30, 1996 169,000 1,690
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+ (continued)
+
+ENZON, INC. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+ Years ended June 30, 1996, 1995 and 1994
+
+COMMON STOCK
+
+Amount Number Par
+ Per Share of Shares Value
+ 
+Balance, June 30, 1995 brought forward 26,328,874 263,289
+Common stock issued for exercise 2.54 15,980 160
+ of non-qualified stock options
+Issuance of common stock warrants - - -
+Proceeds from private placement, 2.74 1,094,890 10,949
+January 1996
+Proceeds from private placement, 3.75 266,667 2,666
+March 1996
+Consulting expense for issuance of - - -
+ stock options
+Donation of common stock - (15) -
+Net loss - - -
+Balance, June 30, 1996 27,706,396 277,064
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+ (continued)
+
+ENZON, INC. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+ Years ended June 30, 1996, 1995 and 1994
+
+Additional Accumulated Deficit
+ paid-in Capital Total
+ 
+Balance, June 30, 1995 brought forward 111,494,180 103,461,041) 8,297,518
+Common stock issued for exercise 40,376 - 40,536
+ of non-qualified stock options
+Issuance of common stock warrants 246,000 - 246,000
+Proceeds from private placement, 6,661,006 - 6,672,355
+January 1996
+Proceeds from private placement, 2,768,920 - 2,771,786
+March 1996
+Consulting expense for issuance of 61,542 - 61,542
+ stock options
+Donation of common stock - - -
+Net loss - (5,175,279) (5,175,279)
+Balance, June 30, 1996 121,272,024 108,636,320) 12,914,458
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+F-6
+
+ENZON, INC. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+ Years ended June 30, 1996, 1995 and 1994
+
+YEARS ENDED JUNE 30,
+ 
+ 1996 1995 1994
+Cash flows from operating activities:
+Net loss 5,175,279) 6,291,491) 16,495,226)
+Adjustments to reconcile net loss to net cash used
+ in operating activities:
+ Decrease in liability recognized pursuant to Sanofi Agreement (1,312,829) - -
+ Depreciation and amortization 2,051,735 2,477,671 2,796,654
+ Reserve for shutdown Enzon Labs Inc. - (71,743) (1,203,563)
+ Loss on retirement of assets 69,444 9,003 38,868
+ Non-cash expense for issuance of stock options 61,542 31,535 179,465
+ Non-cash portion of restructuring expense - 1,100,094 -
+ Changes in assets and liabilities:
+ Decrease (increase) in accounts receivable 238,586 (433,824) (313,141)
+ (Increase) decrease in inventories (192,925) 147,370 117,614
+ (Increase) decrease in accrued interest receivable (40,913) (4,489) 151,611
+ (Increase) decrease in prepaid expenses (208,179) (68,222) 222,179
+ Decrease (increase) in cash surrender value of life insurance - 67,871 (66,148)
+ (Increase) decrease in other assets (8,995) 126,448 5,303
+ Increase (decrease) in accounts payable 516,956 (857,603) 407,433
+ Increase (decrease) in accrued expenses 589,833 (349,431) 1,200,481
+ (Decrease) increase in accrued rent (25,600) (854,274) 345,755
+ (Decrease) increase in royalty advance - RPR (1,355,055) 2,955,841 -
+ Decrease in other liabilities (2,348) (110,360) (1,340)
+ Net cash used in operating activities (4,794,027) (2,125,604) (12,614,055)
+
+Cash flows from investing activities: 
+ Capital expenditures (136,789) (387,020) (828,711)
+ Proceeds from sale of equipment 11,283 861,521 41,600 
+ Proceeds from sale of short-term investments - - 4,947,393
+ Proceeds from cash surrender value of officer's life insurance - 305,315 -
+ Net cash (used in) provided by investing activities (125,506) 779,816 4,160,282
+ 
+Cash flows from financing activities: 
+ Proceeds from issuance of common stock, preferred 9,484,677 3,735,114 2,212,221
+ stock and warrants 
+ Principal payments of obligations under capital leases (2,083) (17,798) (22,833)
+ Net cash provided by financing activities 9,482,594 3,717,316 2,189,388
+
+ Net increase (decrease) in cash and cash equivalents 4,563,061 2,371,528 (6,264,385) 
+
+Cash and cash equivalents at beginning of period 8,102,989 5,731,461 11,995,846
+
+Cash and cash equivalents at end of period 12,666,050 8,102,989 5,731,461
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+ F-7
+
+ENZON, INC. AND SUBSIDIARIES
+ Notes to Consolidated Financial Statements
+
+ Years ended June 30, 1996, 1995 and 1994
+
+(1) COMPANY OVERVIEW
+
+ Enzon, Inc. ("Enzon" or "the Company") is a biopharmaceutical
+ company that develops, manufactures and markets enhanced therapeutics for
+ life-threatening diseases through the application of its proprietary
+ technologies. The Company was originally incorporated in 1981. To date,
+ the Company's sources of cash have been the proceeds from the sale of its
+ stock through public offerings and private placements, sales of ADAGEN,
+ sales of ONCASPAR, sales of its products for research purposes, contract
+ research and development fees, technology transfer and license fees and
+ royalty advances. The manufacturing and marketing of pharmaceutical
+ products in the United States is subject to stringent governmental
+ regulation and the sale of any of the Company's products for use in
+ humans in the United States will require the prior approval of the United
+ States Food and Drug Administration ("FDA"). To date, ADAGEN and
+ ONCASPAR are the only products of the Company which have been approved
+ for marketing by the FDA.
+
+(2) SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+ CONSOLIDATED FINANCIAL STATEMENTS
+
+ The consolidated financial statements include the accounts of the
+ Company and its wholly-owned subsidiaries. All intercompany transactions
+ and balances are eliminated in consolidation. The preparation of
+ financial statements in conformity with generally accepted accounting
+ principles requires management to make estimates and assumptions that
+ affect the reported amounts of assets and liabilities and disclosure of
+ contingent assets and liabilities at the date of the financial statements
+ and the reported amounts of revenues and expenses during the reporting
+ period. Actual results could differ from those estimates.
+
+ INVESTMENTS
+
+ Cash equivalents include investments which consist primarily of
+ debt securities and time deposits. The Company invests its excess cash
+ in a portfolio of marketable securities of institutions with strong
+ credit ratings and U.S. Government backed securities.
+
+ The Company adopted the provisions of Statement of Financial
+ Accounting Standards No. 115, "Accounting for Certain Investments in Debt
+ and Equity Securities," (SFAS No. 115) on July 1, 1994. Under SFAS No.
+ 115, the Company classifies its investment securities as held-to-
+ maturity. Held-to-maturity securities are those securities which the
+ Company has the ability and intent to hold to maturity. Held-to-maturity
+ securities are recorded at cost which approximated the fair value of the
+ investments at June 30, 1996.
+
+ INVENTORY COSTING AND IDLE CAPACITY
+
+ Inventories are stated at the lower of cost or market. Cost is
+ determined by the first-in, first-out method and includes the cost of raw
+ materials, labor and overhead.
+
+ Costs associated with idle capacity at the Company's manufacturing
+ facility are charged to cost of sales as incurred. Prior to the fourth
+ quarter of the year ended June 30, 1994 and the approval of ONCASPAR, the
+ Company's first FDA approved drug for a potentially large patient
+ population, costs associated with idle capacity at the Company's
+ manufacturing facility were charged to research and development expenses.
+
+ F-8
+
+ENZON, INC. AND SUBSIDIARIES
+ Notes to Consolidated Financial Statements, Continued
+
+ PATENTS
+
+ The Company has licensed, and been issued, a number of patents in
+ the United States and other countries and has other patent applications
+ pending to protect its proprietary technology. Although the Company
+ believes that its patents provide adequate protection for the conduct of
+ its business, there can be no assurance that such patents will be of
+ substantial protection or commercial benefit to the Company, will afford
+ the Company adequate protection from competing products, will not be
+ challenged or declared invalid, or that additional United States patents
+ or foreign patent equivalents will be issued to the Company. The degree
+ of patent protection to be afforded to biotechnological inventions is
+ uncertain and the Company's products are subject to this uncertainty.
+
+ Patents related to the acquisition of Enzon Labs Inc., formerly
+ Genex Corporation, were recorded at their fair value at the date of
+ acquisition and are being amortized over the estimated useful lives of
+ the patents ranging from 7 to 17 years. Accumulated amortization as of
+ June 30, 1996 and 1995 was 721,000 and 588,000, respectively.
+
+ Costs related to the filing of patent applications related to the
+ Company's products and technology are expensed as incurred.
+
+ PROPERTY AND EQUIPMENT
+
+ Property and equipment are carried at cost. Depreciation is
+ computed using the straight-line method. When assets are retired or
+ otherwise disposed of, the cost and related accumulated depreciation are
+ removed from the accounts, and any resulting gain or loss is recognized
+ in operations for the period. The cost of repairs and maintenance is
+ charged to operations as incurred; significant renewals and betterments
+ are capitalized.
+
+ REVENUE RECOGNITION
+
+ Reimbursement from third party payors for ADAGEN is handled on an
+ individual basis due to the high cost of treatment and limited patient
+ population. Because of the uncertainty of reimbursement and the
+ Company's commitment of supply to the patient regardless of whether or
+ not the Company will be reimbursed, revenues for the sale of ADAGEN are
+ recognized when reimbursement from third party payors becomes likely.
+
+ Revenues from the sale of the Company's other products that are
+ sold are recognized at the time of shipment and provision is made for
+ estimated returns.
+
+ Contract revenues are recorded as the earnings process is
+ completed.
+
+ Royalties under the Company's license agreement with Rhone-Poulenc
+ Rorer Pharmaceuticals, Inc. ("RPR") (See Note 11), related to the sale of
+ ONCASPAR by RPR, are recognized when earned.
+
+F-9
+
+ENZON, INC. AND SUBSIDIARIES
+ Notes to Consolidated Financial Statements, Continued
+
+RESEARCH AND DEVELOPMENT
+
+ Research and development costs are expensed as incurred.
+
+ CASH FLOW INFORMATION
+
+ The Company considers all highly liquid securities with original
+ maturities of three months or less to be cash equivalents.
+
+ Cash payments for interest were approximately 13,000 in 1996,
+ 4,000 in 1995, and 5,000 in 1994. There were no income tax payments
+ made for the years ended June 30, 1996, 1995, and 1994.
+
+ During the year ended June 30, 1995, the Company issued 100,000
+ shares of unregistered Common Stock in order to acquire an option to
+ purchase the facility it currently leases in Piscataway, New Jersey.
+ During the year ended June 30, 1994, 8,000 shares of Series A Cumulative
+ Convertible Preferred Stock ("Series A Preferred Shares") were converted
+ to 22,000 shares of Common Stock. Accrued dividends of 64,000 on the
+ Series A Cumulative Convertible Preferred Stock that was converted were
+ settled by issuing 7,000 shares of Common Stock and cash payments
+ totaling 9 for fractional shares for the year ended June 30, 1994. There
+ were no conversions of the Series A Preferred Shares during the years
+ ended June 30, 1996 or 1995. As part of the commission due to the real
+ estate broker in connection with the termination of the Company's lease
+ at 40 Kingsbridge Road, the Company issued 150,000 five-year warrants to
+ purchase the Company's Common Stock at 2.50 per share during the year
+ ended June 30, 1996 (See Note 3). Also, in connection with the Company's
+ private placements of Common Stock, Series B Convertible Preferred Stock
+ ("Series B Preferred Shares"), and Series C Convertible Preferred Stock
+ ("Series C Preferred Shares"), the Company issued an aggregate of 50,000
+ five-year warrants to purchase the Company's Common Stock, at 4.11 per
+ share as a finder's fee, during the year ended June 30, 1996. These
+ transactions are non-cash financing activities.
+
+ Management believes that its current sources of liquidity will be
+ sufficient to meet anticipated cash requirements, based on current
+ spending levels, for approximately the next two years. Upon exhaustion
+ of the Company's current cash reserves, the Company's continued
+ operations will depend on, among other things, its ability to realize
+ significant revenues from the commercial sale of products, raise
+ additional funds through equity or debt financing or obtain significant
+ licensing, technology transfer or contract research and development fees.
+ There can be no assurance that these sales, financings or revenue
+ generating activities will be successful.
+
+ NET LOSS PER COMMON SHARE
+
+ Net loss per common share is based on net loss for the relevant
+ period, adjusted for cumulative, undeclared Series A Preferred Stock
+ dividends of 218,000, 218,000 and 230,000 for the years ended June 30,
+ 1996, 1995 and 1994, respectively, divided by the weighted average number
+ of shares issued and outstanding during the period. Stock options,
+ warrants and Common Stock issuable upon conversion of the preferred stock
+ are not reflected as their effect would be antidilutive for both primary
+ and fully diluted earnings per share computations.
+
+F-10
+
+ENZON, INC. AND SUBSIDIARIES
+ Notes to Consolidated Financial Statements, Continued
+
+(3) RESTRUCTURING EXPENSE
+
+ During the year ended June 30, 1995, the Company reduced its
+ workforce by approximately 22 employees. As a result of these
+ reductions, the Company was able to move its general and administrative
+ operations into its existing research and development facility at 20
+ Kingsbridge Road in Piscataway, New Jersey.
+
+ On March 31, 1995, the Company terminated its lease for 83,000
+ square feet at 40 Kingsbridge Road in Piscataway, New Jersey, its former
+ general and administrative facility. As part of the termination
+ agreement, the landlord was able to draw down on a 600,000 letter of
+ credit that served as the security deposit for both buildings that the
+ Company occupied on Kingsbridge Road in Piscataway. The termination
+ payment, severance related to staff reductions, write-off of leasehold
+ improvements, moving expenses and the commission due the Company's real
+ estate broker related to the termination of the 40 Kingsbridge lease were
+ recorded as a restructuring charge during the year ended June 30, 1995.
+ Approximately 227,000 of the restructuring expense represents severance
+ related to the staff reduction and the remaining 966,000 represents
+ expenses incurred in conjunction with the lease termination. As part of
+ the commission due the Company's real estate broker, 150,000 five-year
+ warrants to purchase the Company's Common Stock at 2.50 per share were
+ issued in August 1995. All of the restructuring charges recorded have
+ been paid as of June 30, 1996.
+
+(4) RELATED PARTY TRANSACTIONS
+
+ The Company has license agreements with Research Corporation and
+ its successor, Research Corporation Technologies, Inc. ("RCT"), related
+ to the original PEG Process patent. The PEG Process was developed at
+ Rutgers University in New Brunswick, New Jersey by Dr. Frank Davis, one
+ of the Company's original founders, and two other inventors not
+ affiliated with the Company. These agreements granted the Company an
+ exclusive license to make, use and sell specific patented processes and
+ products in countries in which a patent has been granted. The patent
+ license under the agreement expires in December 1996.
+
+ The Company's obligation to pay royalties on sales of ADAGEN under
+ the agreement terminates on the expiration of the patent in December
+ 1996. Royalties for ONCASPAR will be paid until 1999. As of June 30,
+ 1996 and 1995, the Company had approximately 212,000 and 286,000
+ related to such agreements recorded as accrued expenses in the
+ Consolidated Balance Sheets.
+
+ During August 1992, the Company entered into a license agreement
+ with two employees of the Company and an unrelated party to license a
+ protein related technology. The Company paid 20,000 to each of the
+ parties upon signing of the agreement and agreed to pay royalties of
+ between 3 and 6 of net sales. The agreement was terminated in June
+ 1996, and the Company gave up all rights related to the original patents
+ for this technology. The agreement also provided for a yearly
+ maintenance fee of 15,000 commencing on January 30, 1993. The Company
+ paid yearly maintenance fees of 15,000 under this agreement in each of
+ the fiscal years ended June 30, 1996, 1995 and 1994.
+
+F-11
+
+ENZON, INC. AND SUBSIDIARIES
+ Notes to Consolidated Financial Statements, Continued
+
+(5) COMMITMENTS AND CONTINGENCIES
+
+ The Company has a long-term supply agreement for unmodified L-
+ asparaginase, one of the raw materials used in ONCASPAR, under which the
+ Company is required to purchase minimum quantities of this raw material
+ on an annual basis. Under the agreement, which was amended during the
+ fiscal year ended June 30, 1995, the Company is currently required to
+ purchase 2,125,000 in raw material during the term of the contract,
+ which expires on December 31, 1997. During the years ended June 30, 1996
+ and 1995, the Company purchased approximately 850,000 related to this
+ contract. The purchase requirements for the years ending December 31,
+ 1996 and 1997 are 850,000 and 1,275,000, respectively. During the
+ fiscal year ended June 30, 1996, the Company wrote-off approximately
+ 351,000 of unmodified L-asparaginase purchased under this supply
+ contract. The Company also paid a penalty of 350,000 related to the
+ satisfaction of its purchase requirements for the calendar year ended
+ December 31, 1995. While it is possible that the Company may incur
+ similar losses on its remaining purchase commitments under this supply
+ agreement, the Company does not consider such losses probable, nor can
+ the amount of any loss which may be incurred in the future presently be
+ estimated due to a number of factors, including but not limited to
+ potential increased demand for ONCASPAR from RPR, expansion into
+ additional markets outside the U.S. and the possibility that the Company
+ could renegotiate the level of required purchases. If the Company does
+ not achieve increases in sales of ONCASPAR beyond current levels or
+ cannot renegotiate its commitment, a loss would be incurred on the
+ remaining purchase commitment.
+
+ The Company has agreements with certain members of its upper
+ management which provide for payments following a termination of
+ employment occurring after a change in control of the Company.
+
+(6) INVENTORIES
+
+ Inventories consist of the following:
+
+ JUNE 30,
+ 1996 1995
+
+ Raw materials 206,000 398,000
+ Work in process 383,000 134,000
+ Finished goods 396,000 260,000
+ 985,000 792,000
+
+F-12
+
+ENZON, INC. AND SUBSIDIARIES
+ Notes to Consolidated Financial Statements, Continued
+
+(7) PROPERTY AND EQUIPMENT
+
+ Property and equipment consist of the following:
+
+JUNE 30, Estimated
+ 1996 1995 USEFUL LIVES
+
+ Equipment 9,128,000 9,284,000 3-7 years
+ Furniture and fixtures 1,586,000 1,598,000 7 years
+ Vehicles 29,000 29,000 3 years
+ Leasehold improvements 4,898,000 4,847,000 3-15 years
+
+ 15,641,000 15,758,000
+
+ Depreciation and amortization charged to operations, relating to
+ property and equipment, were 1,891,000, 2,317,000 and 2,636,000 for
+ the years ended June 30, 1996, 1995 and 1994, respectively.
+
+(8) STOCKHOLDERS' EQUITY
+
+ On February 1, 1994, an option to purchase 150,000 shares of the
+ Company's Common Stock became exercisable. This option was granted to
+ the Company's former Chairman of the Board in 1989 and became exercisable
+ upon the FDA's approval of ONCASPAR. The approval of ONCASPAR resulted
+ in a non-cash compensation charge representing the difference between the
+ exercise price of the option and the market value of the underlying
+ Common Stock.
+
+ On May 26, 1994, the Company sold 785,000 shares of Common Stock to
+ Susquehanna Brokerage Services, Inc. ("Susquehanna") in a public shelf
+ offering at a weighted average price of 2.55 per share, resulting in net
+ proceeds to the Company of approximately 1,632,000.
+
+ During the year ended June 30, 1995, the Company sold to
+ Susquehanna, in a public shelf offering, an additional 954,000 shares of
+ newly issued Common Stock. The shares were sold at a weighted average
+ price of 2.06 per share, resulting in net proceeds to the Company of
+ approximately 1,752,000.
+
+ On April 1, 1995, the Company issued 100,000 shares of newly
+ issued, unregistered Common Stock, valued at 2.25 per share, in
+ consideration for an option to purchase the facility it currently leases
+ in Piscataway, New Jersey.
+
+ On June 30, 1995, in conjunction with the license of know-how
+ related to PEG-INTRON A, the Company sold 847,000 shares of newly issued,
+ unregistered Common Stock to Schering Corporation, resulting in net
+ proceeds of approximately 1,983,000 (See Note 10).
+
+ In January 1996, the Company completed a private placement of
+ 1,094,890 shares of Common Stock and 40,000 Series B Preferred Shares
+ resulting in gross proceeds of 7,000,000. In March 1996, the Company
+ completed a private placement of 266,667 shares of Common Stock and
+ 20,000 Series C Preferred Shares resulting in gross proceeds of
+ 3,000,000. The two private placements resulted in net cash proceeds of
+ approximately 9,444,000 after payment of related expenses and a finder's
+ fee.
+
+ F-13
+
+ENZON, INC. AND SUBSIDIARIES
+ Notes to Consolidated Financial Statements, Continued
+
+In connection with the January 1996 and March 1996 private
+ placements, the Company issued five-year warrants to purchase 638,686
+ shares of Common Stock at 4.11 per share and 200,000 shares of Common
+ Stock at 5.63 per share, respectively. The Company paid a finder's fee
+ in cash and issued five-year warrants to purchase 50,000 shares of Common
+ Stock at 4.11 per share related to the 1996 private placements.
+
+ PREFERRED STOCK
+
+ The Company's Series A Preferred Shares are convertible into Common
+ Stock at an annually increasing rate per share with a maximum conversion
+ rate of 11 per share. As of June 30, 1996 and 1995, the conversion rate
+ was 11 per share. The value of the Series A Preferred Shares for
+ conversion purposes is 25 per share. Holders of the Series A Preferred
+ Shares are entitled to an annual dividend of 2 per share, payable
+ semiannually, but only when and if declared by the Board of Directors,
+ out of funds legally available. Dividends on the Series A Preferred
+ Shares are cumulative and accrue and accumulate but will not be paid,
+ except in liquidation or upon conversion, until such time as the Board of
+ Directors deems it appropriate in light of the Company's then current
+ financial condition. No dividends are to be paid or set apart for
+ payment on the Company's Common Stock, nor are any shares of Common Stock
+ to be redeemed, retired or otherwise acquired for valuable consideration
+ unless the Company has paid in full or made appropriate provision for the
+ payment in full of all dividends which have then accumulated on the
+ Series A Preferred Shares. Holders of the Series A Preferred Shares are
+ entitled to one vote per share on matters to be voted upon by the
+ stockholders of the Company. As of June 30, 1996 and 1995 undeclared
+ accrued dividends in arrears were 1,367,000 or 12.54 per share and
+ 1,149,000 or 10.54 per share, respectively. All Common Shares are
+ junior in rank to the Series A Preferred Shares, Series B Preferred
+ Shares and Series C Preferred Shares with respect to the preferences as
+ to dividends, distributions and payments upon the liquidation,
+ dissolution or winding up of the Company.
+
+ During the year ended June 30, 1994, 8,000 Series A Preferred
+ Shares were converted into 22,000 shares of Common Stock. There were no
+ conversions of Series A Preferred Shares during the years ended June 30,
+ 1996 or 1995. As of June 30, 1996 and 1995, the Company had 109,000
+ shares of Series A Preferred Shares outstanding with a liquidation
+ preference of 25 per share or 2,725,000.
+
+ The stated value of each Series B Preferred Share and Series C
+ Preferred Share is 100. The Company's Series B Preferred Shares and
+ Series C Preferred Shares are convertible at a conversion price equal to
+ 80 of the average of the closing bid price of the Common Stock for the
+ five consecutive trading days needed ("the Average Market Price") ending
+ one trading day prior to the date of conversion as reported by the
+ National Association of Securities Dealers Automated Quotation National
+ Market. The Series B Preferred Shares and the Series C Preferred Shares
+ will not pay a dividend and do not have voting rights. In connection
+ with the January 1996 and March 1996 private placements, the Company
+ agreed to register and has filed a registration statement for the Common
+ Stock issued, the shares of Common Stock underlying the Series B
+ Preferred Shares, the shares of Common Stock underlying the Series C
+ Preferred Shares, the shares of Common Stock underlying the warrants and
+ certain shares of Common Stock issuable in the event the Company does not
+ comply with certain of its obligations under the registration rights
+ agreements. As of June 30, 1996, the 40,000 Series B Preferred Shares
+ and 20,000 Series C Preferred Shares issued during fiscal 1996 were
+ outstanding. The Series B Preferred Shares and Series C Preferred Shares
+ have a liquidation preference of 100 per share or an aggregate of
+ 6,000,000.
+
+F-14
+
+ENZON, INC. AND SUBSIDIARIES
+ Notes to Consolidated Financial Statements, Continued
+
+ COMMON STOCK
+
+ Holders of shares of Common Stock are entitled to one vote per
+ share on matters to be voted upon by the stockholders of the Company.
+
+ As of June 30, 1996, the Company has reserved its common shares for
+ special purposes as detailed below:
+
+ Shares issuable upon conversion of:
+ Series A Preferred Shares 248,000
+ Series B Preferred Shares 1,581,000
+ Series C Preferred Shares 791,000
+ Shares issuable upon exercise of
+ outstanding warrants 1,039,000
+ Non-Qualified Stock Option Plan 5,661,000
+ Other options 200,000
+
+ 9,520,000
+
+ The Common Stock issuable upon conversion of the Series B Preferred
+ Shares and Series C Preferred Shares is based on an assumed conversion
+ price of 2.53 which would have been the conversion price if the Series B
+ and Series C Preferred Shares were converted on June 30, 1996.
+
+ SERIES A PREFERRED STOCK WARRANTS
+
+ In connection with the private placement of the Series A Preferred
+ Shares, the Company issued warrants to purchase 82,000 Series A Preferred
+ Shares. Prior to the year ended June 30, 1995, 22,000 warrants were
+ exercised. During the year ended June 30, 1995, the remaining warrants
+ expired.
+
+ ENZON LABS WARRANTS
+
+ In connection with the acquisition of Enzon Labs Inc., the Company
+ agreed to issue warrants to purchase 583,000 shares of Common Stock.
+ Prior to the year ended June 30, 1995, 100 warrants were exercised.
+ During the year ended June 30, 1995, the remaining warrants expired.
+
+(9) NON-QUALIFIED STOCK OPTION PLAN
+
+ In November 1987, the Company's Board of Directors adopted a Non-
+ Qualified Stock Option Plan (the "Plan"). On December 5, 1995, the
+ stockholders voted to increase the number of shares reserved for issuance
+ under the Plan from 5,000,000 to 6,200,000. Under the Plan, as amended,
+ 5,661,000 shares of Common Stock as of June 30, 1996 are reserved for
+ issuance pursuant to options which may be granted to employees, non-
+ employee directors or consultants to the Company. The exercise price of
+ the options must be at least 100 of the fair market value of the stock
+ at the time the option is granted and an option may be exercised for a
+ period of up to ten years from the date it is granted. The other terms
+ and conditions of the options generally are to be determined by the Board
+ of Directors, or an option committee appointed by the Board, at their
+ discretion.
+
+F-15
+
+ENZON, INC. AND SUBSIDIARIES
+ Notes to Consolidated Financial Statements, Continued
+
+ A summary of the activity relating to the Plan follows:
+
+ Number of shares
+ UNDER OPTION
+
+ Outstanding at July 1, 1993 2,041,000
+
+ Granted at prices ranging from 2.38 to 6.00 1,292,000
+ Exercised at prices ranging from 3.75 to 4.88 (140,000)
+ Canceled at prices ranging from 4.00 to 14.88 (355,000)
+
+ Outstanding at June 30, 1994 2,838,000
+
+ Granted at prices ranging from 1.88 to 3.13 1,412,000
+ Canceled at prices ranging from 2.09 to 15.25 (645,000)
+
+ Outstanding at June 30, 1995 3,605,000
+
+ Granted at prices ranging from 2.38 to 4.75 768,000
+ Exercised at prices ranging from 2.09 to 2.80 (16,000)
+ Canceled at prices ranging from 2.09 to 11.00 (794,000)
+
+ Outstanding at June 30, 1996 3,563,000
+
+At June 30, 1996, 2,295,000 of the outstanding options were
+ exercisable at prices per share ranging from 2.00 to 14.88.
+
+ On August 24, 1994, the Compensation Committee of the Board of
+ Directors of the Company extended the exercise period of all outstanding
+ five year options to ten years under the Plan. None of the options
+ extended had exercise prices less than the fair market value of the
+ Company's Common Stock on August 24, 1994, and accordingly, no
+ compensation expense was recorded.
+
+(10) INCOME TAXES
+
+ The Company adopted Statement of Financial Accounting Standards No. 109
+ (SFAS No. 109), "Accounting for Income Taxes" as of July 1, 1993. Under
+ the asset and liability method of SFAS No. 109, deferred tax assets and
+ liabilities are recognized for the estimated future tax consequences
+ attributable to differences between financial statement carrying amounts
+ of existing assets and liabilities and their respective tax bases.
+ Deferred tax assets and liabilities are measured using enacted tax rates
+ expected to apply to taxable income in the years in which those temporary
+ differences are expected to be recovered or settled. Under SFAS No. 109,
+ the effect on deferred tax assets and liabilities of a change in tax
+ rates is recognized in income in the period that includes the enactment
+ date. The effects of adopting SFAS No. 109 were not material to the
+ financial statements at July 1, 1993.
+
+F-16
+
+ENZON, INC. AND SUBSIDIARIES
+ Notes to Consolidated Financial Statements, Continued
+
+At June 30, 1996 and 1995, the tax effects of temporary differences
+ that give rise to the deferred tax assets and deferred tax liabilities
+ are as follows:
+ 1996 1995
+
+ Deferred tax assets:
+ Inventories 151,000 57,000
+ Investment valuation reserve 86,000 86,000
+ Contribution carryover 12,000 10,000
+ Compensated absences 98,000 103,000
+ Excess of financial statement over tax 
+ depreciation 368,000 146,000
+ Royalty advance - RPR 1,153,000 1,340,000
+ Sanofi liability - 524,000
+ Non-deductible expenses 343,000 457,000
+ Federal and state net operating loss 
+ carryforwards 38,495,000 35,816,000
+ Research and development and investment
+ tax credit carryforwards 6,407,000 5,770,000
+
+ Total gross deferred tax assets 47,113,000 44,309,000
+
+ Less valuation allowance (46,407,000)(43,597,000)
+
+ Net deferred tax assets 706,000 712,000
+
+ Deferred tax liabilities:
+ Step up in basis of assets related to 
+ acquisition of Enzon Labs Inc. (706,000) (712,000)
+
+ Total gross deferred tax liabilities (706,000) (712,000)
+
+ Net deferred tax 0 0
+
+A valuation allowance is provided when it is more likely than not
+ that some portion or all of the deferred tax assets will not be realized.
+ The net change in the total valuation allowance for the years ended June
+ 30, 1996 and 1995 were increases of 2,810,000 and 2,187,000,
+ respectively. Subsequently recognized tax benefits for the years ended
+ June 30, 1996 and 1995 of 954,000 and 940,000 relating to the valuation
+ allowance for deferred tax assets will be allocated to additional paid-in
+ capital.
+
+ At June 30, 1996, the Company had federal net operating loss
+ carryforwards of approximately 97,565,000 for tax reporting purposes,
+ which expire in the years 1997 to 2011. The Company also has investment
+ tax credit carryforwards of approximately 30,000 and research and
+ development tax credit carryforwards of approximately 6,377,000 for tax
+ reporting purposes which expire in the years 1998 to 2011.
+
+ As part of the Company's acquisition of Enzon Labs Inc., the
+ Company acquired the net operating loss carryforwards of Enzon Labs Inc..
+ As of June 30, 1996, the Company had a total of 67,754,000 of acquired
+ Enzon Labs net operating loss carryforwards, which expire between October
+ 31, 1996 and October 31, 2006. As a result of the change in ownership
+ the utilization of these carryforwards is limited to 613,000 per year.
+
+ F-17
+
+ENZON, INC. AND SUBSIDIARIES
+ Notes to Consolidated Financial Statements, Continued
+
+(11) SIGNIFICANT AGREEMENTS
+
+ RHONE-POULENC RORER AGREEMENT
+
+ The Company has granted RPR an exclusive license ("the License
+ Agreement") in the United States to sell ONCASPAR, and any other PEG-
+ asparaginase product (the "Product") developed by Enzon or RPR during the
+ term of the License Agreement. Under this agreement, Enzon was entitled
+ to licensing payments totaling 6,000,000, of which 500,000 and
+ 5,500,000 were paid during the fiscal years ended June 30, 1995 and
+ 1994, respectively.
+
+ During January 1995, the Company amended its exclusive U.S.
+ marketing rights license with RPR for ONCASPAR. Under the amended
+ agreement, Enzon earned a base royalty of 10 for the year ended December
+ 31, 1995 and will earn 23.5 thereafter, until 2008, on net sales of
+ ONCASPAR up to agreed upon amounts, as opposed to 50 of net profits
+ provided for under the original agreement. Additionally, the License
+ Agreement provides for a super royalty of 23.5 for the year ended
+ December 31, 1995 and 43.5 thereafter, until 2008 on net sales of
+ ONCASPAR which exceed the agreed upon amounts, with the limitation that
+ the total royalties earned for any such year shall not exceed 33 of net
+ sales. The amended agreement also provides for a payment of 3,500,000
+ in advance royalties, which was received in January 1995.
+
+ Base royalties due under the amended agreement will be offset
+ against a credit of 5,970,000 (which represents the royalty advance plus
+ reimbursement of certain amounts due to RPR under the previous agreement
+ and interest expense) before cash payments for base royalties will be
+ made. Super royalties will be paid to the Company when earned. The
+ royalty advance is shown as a long term liability, with the corresponding
+ current portion included in accrued expenses on the Consolidated Balance
+ Sheet as of June 30, 1996. The royalty advance will be reduced as base
+ royalties are recognized under the agreement.
+
+ The agreement prohibits RPR from selling a competing PEG-
+ asparaginase product anywhere in the world during the term of the License
+ Agreement and for five years thereafter. The revised License Agreement
+ terminates in December 2008, subject to early termination by either party
+ due to a default by the other or by RPR at any time on one year's prior
+ notice to Enzon. Upon any termination all rights under the License
+ Agreement revert to Enzon.
+
+ The Company has also granted exclusive licenses to sell ONCASPAR in
+ Canada and Mexico to RPR. These agreements provide for RPR to obtain
+ marketing approval of ONCASPAR in Canada and Mexico and for the Company
+ to receive royalties on sales of ONCASPAR in these countries, if any.
+ The Company is currently pursuing other licenses for marketing and
+ distribution rights for ONCASPAR outside North America. A separate
+ supply agreement with RPR requires RPR to purchase from Enzon all of
+ RPR's requirements for the Product for sales in North America.
+
+SCHERING AGREEMENT
+
+ In November 1990, Enzon and Schering Corporation ("Schering")
+ signed an agreement (the "Schering Agreement") to apply the PEG Process
+ to Schering's INTRON A (interferon alfa 2b), a genetically-engineered
+ anticancer and antiviral drug.
+
+ F-18
+
+ENZON, INC. AND SUBSIDIARIES
+ Notes to Consolidated Financial Statements, Continued
+
+ On June 30, 1995, the Company and Schering amended the Schering
+ Agreement pursuant to which Enzon agreed to transfer proprietary know-how
+ and manufacturing rights for PEG-INTRON A to Schering for 3,000,000, of
+ which 2,000,000 was paid on June 30, 1995 and 1,000,000 will be paid
+ upon completion of the know-how transfer, as defined in such amended
+ agreements. In connection with the amendment, the Company also sold to
+ Schering 847,000 shares of unregistered, newly issued Common Stock for
+ 2,000,000 in gross proceeds. Under the current Schering Agreement,
+ Enzon retained an option to become Schering's exclusive manufacturer of
+ PEG-INTRON A for the United States market upon FDA approval of such
+ product.
+
+ Under the Schering Agreement, Enzon is entitled to receive
+ sequential payments, totaling approximately 5,500,000, subject to the
+ achievement of certain milestones in the product's development program,
+ as well as payments for the clinical material it produces. The Company
+ will also receive royalties on worldwide sales of PEG-INTRON A, if any.
+ Schering will be responsible for conducting and funding the clinical
+ studies, obtaining regulatory approval and marketing the product
+ worldwide on an exclusive basis.
+
+ The Schering Agreement terminates, on a country-by-country basis,
+ upon the expiration of the last to expire of any future patents covering
+ the product which may be issued to Enzon, or 15 years after the product
+ is approved for commercial sale, whichever shall be the later to occur.
+ This agreement is subject to Schering's right of early termination if the
+ product does not meet specifications, or if Enzon fails to obtain or
+ maintain the requisite product liability insurance, or if Schering makes
+ certain payments to Enzon. If Schering terminates the agreement because
+ the product does not meet specifications, Enzon may be required to refund
+ certain of the milestone payments.
+
+ RPR/GENCELL AGREEMENT
+
+ In December 1995, Enzon and the Gencell Division of RPR
+ ("RPR/Gencell") signed an agreement granting RPR/Gencell a worldwide,
+ non-exclusive license to use Enzon's Single-Chain Antigen-Binding (SCA)
+ protein technology for intracellular expression of SCA proteins and for
+ targeted vectors in the field of cell and gene therapy. RPR/Gencell, the
+ cell and gene therapy division of RPR, is planning to apply this
+ technology to its in vivo and ex vivo gene therapy programs in cancer,
+ cardiovascular disease and immunology.
+
+ Under the agreement, the Company received approximately 1,000,000
+ during the fiscal year ended June 30, 1996 for signing the license
+ agreement. The Company is also entitled to receive additional payments
+ subject to the achievement of certain milestones in the development
+ program, as well as a royalty on sales, if any, of products developed
+ with this technology.
+
+ BAXTER AGREEMENT
+
+ In November 1992, Enzon and Baxter Healthcare Corporation
+ ("Baxter") signed an agreement granting Baxter a non-exclusive worldwide
+ license to Enzon's SCA protein technology. It is anticipated that
+ Baxter's biotech group will use the SCA proteins in its cancer research
+ programs focusing on human stem cell isolation and gene therapy.
+
+F-19
+
+ENZON, INC. AND SUBSIDIARIES
+ Notes to Consolidated Financial Statements, Continued
+
+ Under the agreement, the Company is entitled to sequential
+ payments, subject to the achievement of certain milestones in the
+ products' development of 500,000 for each product developed, up to a
+ maximum of 2,500,000. Baxter will have the exclusive worldwide rights
+ to manufacture and market any products which it develops and Enzon will
+ receive certain royalties on Baxter's sales, if any.
+
+ ELI LILLY (HYBRITECH) AGREEMENT
+
+ In December 1992, Enzon and Hybritech Incorporated ("Hybritech"), a
+ subsidiary of Eli Lilly & Co., signed an agreement granting Hybritech a
+ non-exclusive worldwide license to Enzon's SCA protein technology. Under
+ the agreement, Enzon received upfront payments totaling 1,200,000, of
+ which 700,000 was received during the year ended June 30, 1994, and will
+ receive certain royalties on Hybritech sales of products, if any, that
+ may be developed using Enzon's SCA protein technology.
+
+ BRISTOL-MYERS SQUIBB
+
+ In September 1993, the Company and Bristol-Myers Squibb ("Bristol-
+ Myers") signed a license agreement for Enzon's SCA protein technology
+ granting Bristol-Myers a worldwide, semi-exclusive license for a
+ particular antigen. Under the agreement, Enzon is entitled to receive
+ certain upfront payments and sequential payments, subject to the
+ achievement of certain milestones in the development program. Bristol-
+ Myers will have the right to manufacture and market products which it
+ develops and Enzon will receive certain royalties on Bristol-Myers sales,
+ if any. Enzon also granted Bristol-Myers options to take non-exclusive
+ licenses under patent rights for other applications/fields for certain
+ additional payments. During the year ended June 30, 1994, Enzon received
+ 200,000 under this agreement. In July 1994, Bristol-Myers
+ paid 1,800,000 to Enzon and exercised its option to acquire a worldwide
+ non-exclusive license for SCA protein technology. The non-exclusive
+ license is for all areas of drug development.
+
+(12) LEASES
+
+ The Company has several leases for office, warehouse, production
+ and research facilities and equipment.
+
+ Future minimum lease payments, net of subleases, for noncancellable
+ operating leases (with initial or remaining lease terms in excess of one
+ year) and the present value of future minimum capital lease payments as
+ of June 30, 1996 are:
+
+ Year ending Capital Operating
+ JUNE 30, LEASES LEASES
+
+ 1997 2,000 1,682,000
+ 1998 2,000 1,706,000
+ 1999 - 1,130,000
+ 2000 - 496,000
+ 2001 - 496,000
+ Later years, through 2007 - 3,382,000
+ Total minimum lease payments 4,000 8,892,000
+
+Rent expense amounted to 1,469,000, 1,642,000 and 2,181,000 for
+ the years ended June 30, 1996, 1995 and 1994, respectively.
+
+F-20
+
+ENZON, INC. AND SUBSIDIARIES
+ Notes to Consolidated Financial Statements, Continued
+
+ The Company currently subleases a portion of its facilities. For
+ the years ended June 30, 1996, 1995 and 1994, rent expense is net of
+ subrental income of 249,000, 353,000 and 101,000, respectively.
+
+(13) CASH SURRENDER VALUE OF LIFE INSURANCE
+
+ As of June 30, 1996, the Company owned a split-dollar life
+ insurance policy for its former Chairman of the Board with a face value
+ of 3,000,000. Under the split-dollar agreement, in the event of death,
+ the Company will receive the greater of the cash accumulation value or
+ the premiums paid. The remainder of the death benefit, as defined, paid
+ by the insurance company, will be paid to the named beneficiaries of the
+ insured. The Company is currently in the process of canceling this
+ policy. The Company also maintains a key man life insurance policy with
+ a face value of 1,000,000 on its President and Chief Executive Officer.
+
+ In July 1992, the Company took a loan against the split dollar life
+ insurance policy for 674,000. At June 30, 1996 and 1995, the cash
+ surrender value of 914,000 and 847,000, respectively, less the
+ outstanding loan balance and accrued interest of 914,000 and 847,000,
+ respectively, is recorded in other assets in the Consolidated Balance
+ Sheets.
+
+ During the year ended June 30, 1995, the Company canceled a
+ separate single premium key man life insurance policy on its former
+ Chairman of the Board and received the cash surrender value of 305,000.
+
+(14) RETIREMENT PLANS
+
+ The Company maintains a defined contribution, 401(k), pension plan
+ for substantially all its employees. For the years ended June 30, 1996,
+ 1995 and 1994, the Company matched 25 of the employee's contribution of
+ up to 6 of compensation, as defined. Effective, January 1, 1995, the
+ Company's match is invested solely in a fund which purchases the
+ Company's Common Stock in the open market. Effective August 9, 1996, the
+ Company increased its match to 50 of the employee's contribution of up
+ to 6 of compensation, as defined. Total Company contributions for the
+ years ended June 30, 1996, 1995 and 1994 were 63,000, 80,000 and
+ 94,000, respectively.
+
+(15) ACCRUED EXPENSES
+
+ Accrued expenses consist of:
+ JUNE 30,
+ 1996 1995
+
+ Accrued wages and vacation 466,000 398,000
+ Reserve for product returns - 298,000
+ Accrued employee medical claims 239,000 278,000
+ Accrued Medicaid rebates 996,000 813,000
+ Accrued restructuring costs - 758,000
+ Current portion of royalty
+ advance - RPR 1,287,000 400,000
+ Other 1,399,000 1,100,000
+ 4,387,000 4,045,000
+
+F-21
+
+ENZON, INC. AND SUBSIDIARIES
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, CONTINUED
+
+(16) FOURTH QUARTER INFORMATION
+
+ During the fourth quarter of the year ended June 30, 1994, the
+ Company recorded a charge to operations for excess raw material (PEG) of
+ 618,000.
+
+(17) SALES INFORMATION
+
+ During the years ended June 30, 1996, 1995 and 1994, the Company
+ had export sales of 2,270,000, 2,105,000 and 2,085,000, respectively.
+ Sales to Europe represented 1,858,000, 1,841,000 and 1,957,000 during
+ the years ended June 30, 1996, 1995 and 1994, respectively.
+
+ ADAGEN sales represent approximately 83 of the Company's total net
+ sales for the year ended June 30, 1996. ADAGEN's Orphan Drug designation
+ under the Orphan Drug Act provides the Company with marketing exclusivity
+ in the United States through March 1997. The Company believes the
+ expiration of ADAGEN's Orphan Drug designation will not have a material
+ impact on the sales of ADAGEN. Approximately 46 , 42 and 28 of the
+ Company's ADAGEN sales for the years ended June 30, 1996, 1995 and 1994,
+ respectively, were made to Medicaid patients.
+
+(18) OTHER INCOME
+
+ During the year ended June 30, 1996, the Company recognized as
+ other income approximately 1,313,000, representing the unused portion of
+ an advance received under a development and license agreement with Sanofi
+ Winthrop, Inc. ("Sanofi"). Under the agreement with Sanofi, Enzon
+ transferred all responsibility for the development and regulatory
+ approval in the United States for PEG-superoxide dismutase ("PEG-SOD") in
+ return for 40 of the net profits from sales of PEG-SOD in the United
+ States. During October 1995, the Company learned that Sanofi intended to
+ cease development of PEG-SOD (Dismutec(trademark)) due to the product's
+ failure to show a statistically significant difference between the
+ treatment group and the control group in a pivotal Phase III trial. Due,
+ in part, to this product failure, the Company believes it has no further
+ obligations under its agreement with Sanofi with respect to the
+ 1,313,000 advance and therefore, the Company has recognized as other
+ income the amount due Sanofi previously recorded as a current liability.
+
+ During the year ended June 30, 1995, the Company received
+ approximately 645,000 for an insurance settlement related to ADAGEN that
+ was destroyed in shipment.
+
+F-22
+
+EXHIBIT INDEX
+
+Exhibit Page
+NUMBERS DESCRIPTION NUMBER
+
+ 21.0 Subsidiaries of Registrant E1
+ 23.0 Consent of KPMG Peat Marwick LLP E2
+ 27.0 Financial Data Schedule E3
+ 99.0 Additional Exhibits E4
+
+<EX-21>
+ 2
+
+EXHIBIT 21.0
+
+SUBSIDIARIES OF REGISTRANT
+
+Symvex Inc. is a wholly-owned subsidiary of the Registrant incorporated in the
+State of Delaware. Symvex Inc. did business under its own name.
+
+Enzon Labs Inc., is a wholly-owned subsidiary of the Registrant incorporated in
+the State of Delaware. Enzon Labs Inc. does business under its own name.
+
+Enzon Pharm. B.V. is a wholly-owned subsidiary of the Registrant incorporated
+in the Netherlands.
+
+Enzon GmbH is a wholly-owned subsidiary of the Registrant incorporated in
+Germany.
+
+E1
+
+</EX-21>
+
+<EX-23>
+ 3
+
+EXHIBIT 23.0
+
+INDEPENDENT AUDITORS' CONSENT
+
+The Board of Directors
+Enzon Inc.:
+
+We consent to incorporation by reference in the Registration Statement No. 33-
+50904 on Form S-8 and Registration Statement No. 333-1535 on Form S-3 of Enzon,
+Inc. of our report dated September 24, 1996, relating to the consolidated
+balance sheets of Enzon, Inc. and subsidiaries as of June 30, 1996 and 1995,
+and the related consolidated statements of operations, stockholders' equity,
+and cash flows for each of the years in the three-year period ended June 30,
+1996, which report appears in the June 30, 1996 annual report on Form 10-K of
+Enzon, Inc.
+
+/s/KPMG PEAT MARWICK LLP
+ KPMG Peat Marwick LLP
+
+New York, New York
+September 27, 1996
+
+E2
+
+</EX-23>
+
+<EX-27>
+ 4
+
+5
+ 
+This schedule contains summary financial information extracted from the Enzon,
+Inc. and Subsidiaries Consolidated Balance Sheet as of June 30, 1996 and the
+Consolidated Statement of Operations for the year ended June 30, 1996 and is
+qualified in its entirety by reference to such financial statements.
+
+12-MOS
+ JUN-30-1996
+ JUN-30-1996
+ 12,666,050
+ 0
+ 2,123,691
+ 0
+ 985,378
+ 16,209,437
+ 15,640,823
+ 11,617,690
+ 21,963,856
+ 6,465,976
+ 0
+ 0
+ 1,690
+ 277,064
+ 12,635,704
+ 21,963,856
+ 10,501,985
+ 12,681,281
+ 3,545,341
+ 19,679,505
+ 0
+ 0
+ 12,886
+ (5,175,279)
+ 0
+ (5,175,279)
+ 0
+ 0
+ 0
+ (5,175,279)
+ (0.20)
+ 0
+
+</EX-27>
+
+<EX-99>
+ 5
+
+EXHIBIT 99.0
+
+CERTAIN FACTORS TO CONSIDER IN CONNECTION
+ WITH FORWARD LOOKING STATEMENTS
+
+ACCUMULATED DEFICIT AND UNCERTAINTY OF FUTURE PROFITABILITY. Enzon, Inc.
+(the "Company" or "Enzon") was originally incorporated in 1981. To date, the
+Company's sources of cash have been the proceeds from the sale of its stock
+through public offerings and private placements, sales of ADAGEN(registered
+trademark), sales of ONCASPAR(registered trademark), sales of its products for
+research purposes, contract research and development fees, technology transfer
+and license fees and royalty advances. At June 30, 1996 the Company had an
+accumulated deficit of approximately 108,636,000. To date, ADAGEN and
+ONCASPAR are the only products of the Company which have been approved for
+marketing by the Food and Drug Administration (the "FDA"), having been approved
+in March 1990 and February 1994, respectively. In 1993, the Company granted
+exclusive U.S. marketing rights for ONCASPAR to Rhone-Poulenc Rorer
+Pharmaceuticals, Inc. ("RPR") in consideration for which the Company has
+received an aggregate of 6,000,000 of license fees. Under this license
+agreement (the "Amended License Agreement"), the Company is entitled to a base
+royalty of 10 for the year ended December 31, 1995 and of 23.5 thereafter,
+until 2008. During 1995, RPR paid the Company 3,500,000 in advance royalties.
+Payments of base royalties under the RPR agreement will be offset against a
+credit in the original amount of 5,970,000, which represents the royalty
+advance plus reimbursement of certain amounts due RPR under the original
+agreement and interest expense. Through June 30, 1996, an aggregate of
+ 1,045,000 in royalties payable by RPR had been offset against the original
+credit. The Company anticipates moderate growth of ONCASPAR sales to RPR and
+increased royalties on RPR sales of ONCASPAR; however, there can be no
+assurance that any particular sales level of ONCASPAR will be achieved or
+maintained. The Company intends to pursue future licensing, marketing and
+development arrangements that may result in additional fees to the Company
+prior to its receiving revenues from commercial sales of its products which are
+sufficient for the Company to earn a profit. There can be no assurance,
+however, that the Company will be able to successfully consummate any such
+arrangements or receive such fees in the future. Although the Company has been
+receiving reimbursement from most third-party payors for ADAGEN, there can be
+no assurance that reimbursement at these levels will continue. Lifetime limits
+on benefits which are included in most private health insurance policies could
+permit insurers to cease reimbursement for ADAGEN. Potential investors should
+be aware of the difficulties a biopharmaceutical enterprise such as the Company
+encounters, especially in view of the intense competition in the pharmaceutical
+industry in which the Company competes. There can be no assurance that the
+Company's plans will either materialize or prove successful, that its products
+under development will be successfully developed or that its products will
+generate revenues sufficient to enable the Company to earn a profit.
+
+ NEED FOR FINANCING. The Company's current sources of liquidity are its
+cash reserves, and interest earned on such cash reserves, sales of ADAGEN,
+sales of ONCASPAR, sales of its products for research purposes, and license
+fees. There can be no assurance as to the level of sales of the Company's FDA
+approved products, ADAGEN and ONCASPAR, or the amount of royalties realized
+from the commercial sale of ONCASPAR pursuant to the Company's license with
+RPR. Total cash reserves, including short term investments, as of June 30,
+1996 were approximately 12,666,000. Management believes that the foregoing
+sources of liquidity, will be sufficient to meet the Company's anticipated cash
+requirements, based on current spending levels, for approximately the next two
+years. The Company's continued operations thereafter will depend upon its
+ability to realize revenues from the commercial sale of its products which are
+sufficient to cover its operating and capital expense requirements, raise funds
+through equity or debt financing, or obtain significant contract research and
+development fees or license fees. To the extent the Company is unable to obtain
+funds, it may be required to curtail its activities or sell additional
+securities. There can be no assurance that any of the foregoing fund raising
+activities will successfully meet the Company's anticipated cash needs.
+
+E4-1
+ 
+ RAW MATERIALS AND DEPENDENCE UPON SUPPLIERS. The Company is currently
+producing many of the unmodified compounds utilized in products it has under
+development, including purified bovine hemoglobin for use in its PEG-hemoglobin
+product. There can be no assurance that the purified bovine hemoglobin used in
+the manufacture of PEG-hemoglobin can be produced in the amounts necessary to
+expand the current clinical trials. The Company may be required to obtain
+supply contracts with outside suppliers for certain unmodified compounds. The
+Company does not produce the unmodified adenosine deaminase used in the
+manufacture of ADAGEN or the unmodified L-asparaginase used in the manufacture
+of ONCASPAR and has a supply contract with an outside supplier for each of
+these unmodified proteins. Delays in obtaining or an inability to obtain any
+unmodified compound which the Company does not produce, including unmodified
+adenosine deaminase, unmodified L-asparaginase or unmodified bovine blood could
+have a material adverse effect on the Company. In the event the Company is
+required to locate an alternate supplier for an unmodified compound utilized in
+a product which is being sold commercially or which is in clinical development,
+the Company will likely be required to do additional testing, which could cause
+delays and additional expenses, to demonstrate that the alternate supplier's
+material is biologically and chemically equivalent to the unmodified compound
+previously used. Such evaluations could include chemical, pre-clinical and
+clinical studies and could delay development of a product which is in clinical
+trials, limit commercial sales of an FDA approved product and cause the Company
+to incur significant additional expense. Requirements for such evaluations
+would be determined by the stage of the product's development and the reviewing
+division of the FDA. If such alternate material is not demonstrated to be
+chemically and biologically equivalent to the previously used unmodified
+compound, the Company will likely be required to repeat some or all of the
+pre-clinical and clinical trials conducted for such compound. The marketing of
+an FDA approved drug could be disrupted while such tests are conducted. Even
+if the alternate material is shown to be chemically and biologically equivalent
+to the previously used compound, the FDA may require the Company to conduct
+additional clinical trials with such alternate material.
+
+ PATENTS AND PROPRIETARY TECHNOLOGY. The Company has licensed, and been
+issued, a number of patents in the United States and other countries and has
+other patent applications pending to protect its proprietary technology.
+Although the Company believes that its patents provide adequate protection for
+the conduct of its business, there can be no assurance that such patents will
+be of substantial protection or commercial benefit to the Company, will afford
+the Company adequate protection from competing products, will not be challenged
+or declared invalid, or that additional United States patents or foreign patent
+equivalents will be issued to the Company. The degree of patent protection to
+be afforded to biotechnological inventions is uncertain and the Company's
+products are subject to this uncertainty. The Company is aware of certain
+issued patents and patent applications, and there may be other patents and
+applications, containing subject matter which the Company or its licensees or
+collaborators may require in order to research, develop or commercialize at
+least some of the Company's products. There can be no assurance that licenses
+under such subject matter will be available on acceptable terms. The Company
+expects that there may be significant litigation in the industry regarding
+patents and other proprietary rights and, if Enzon were to become involved in
+such litigation, it could consume a substantial amount of the Company's
+resources. In addition, the Company relies heavily on its proprietary
+technologies for which pending patent applications have been filed and on
+unpatented know-how developed by the Company. Insofar as the Company relies on
+trade secrets and unpatented know-how to maintain its competitive technological
+position, there can be no assurance that others may not independently develop
+the same or similar technologies. Although the Company has taken steps to
+protect its trade secrets and unpatented know-how, third-parties nonetheless
+may gain access to such information.
+
+ Research Corporation Technologies, Inc. ("Research Corporation") holds
+the original patent upon which the PEG Process is based. Research
+Corporation's patent in the United States expires in December 1996 and its
+patents in certain foreign countries have expired. Although the Company has
+obtained numerous improvement patents in connection with the PEG Process which
+it believes represent state of the art technology, there can be no assurance
+that any of these patents will enable the Company to prevent infringement or
+that competitors will not develop competitive products outside the protection
+that may be afforded by these patents. The Company is aware that others have
+also filed patent applications and have been granted patents in the United
+States and other countries with respect to the application of PEG to proteins.
+Upon the expiration of the Research Corporation patent, other parties will be
+permitted to make, use, or sell products covered by the claims of the Research
+Corporation patent, subject to other patents, including those held by the
+Company. The Company does not believe that the expiration of the Research
+Corporation patent will have a material adverse effect on the Company, but
+there can be no assurance that this will be the case.
+ 
+ E4-2
+
+MARKETING UNCERTAINTIES AND DEPENDENCE ON MARKETING PARTNERS. Other than
+ADAGEN, which the Company markets on a worldwide basis to a small patient
+population, the Company does not engage in the direct commercial marketing of
+any of its products and therefore does not have an established sales force.
+For certain of its products, the Company has provided exclusive marketing
+rights to its corporate partners in return for royalties to be received on
+sales. With respect to ONCASPAR, the Company has granted RPR exclusive
+marketing rights in North America. The Company expects to retain marketing
+partners to market ONCASPAR in other foreign markets and is currently pursuing
+arrangements in this regard. There can be no assurance that such discussions
+will result in the Company concluding such arrangements. Regarding the
+marketing of certain of the Company's other future products, the Company
+expects to evaluate whether to create a sales force to market certain products
+in the United States or to continue to enter into license and marketing
+agreements with others for United States and foreign markets. These agreements
+generally provide that all or a significant portion of the marketing of these
+products will be conducted by the Company's licensees or marketing partners.
+In addition, under certain of these agreements, the Company's licensee or
+marketing partner may have all or a significant portion of the development and
+regulatory approval responsibilities. Should the licensee or marketing partner
+fail to develop a marketable product (to the extent it is responsible for
+product development) or fail to market a product successfully, if it is
+developed, the Company's business may be adversely affected. There can be no
+assurance that the Company's marketing strategy will be successful. Under the
+Company's marketing and license agreements, the Company's marketing partners
+and licensees may have the right to terminate the agreement and abandon the
+product at any time for any reason without significant payments. The Company
+is aware that certain of its marketing partners are pursuing parallel
+development of products on their own and with other collaborative partners
+which may compete with the licensed products and there can be no assurance that
+the Company's other current or future marketing partners will not also pursue
+such parallel courses.
+
+ REIMBURSEMENT FROM THIRD-PARTY PAYORS. Sales of the Company's products
+will be dependent in part on the availability of reimbursement from third-party
+payors, such as governmental health administration authorities, private health
+insurers and other organizations. There can be no assurance that such
+reimbursement will be available or will permit the Company to sell its products
+at price levels sufficient for it to realize an appropriate return on its
+investment in product development. Since patients who receive ADAGEN will be
+required to do so for their entire lives (unless a cure or another treatment is
+developed), lifetime limits on benefits which are included in most private
+health insurance policies could permit insurers to cease reimbursement for
+ADAGEN.
+
+ GOVERNMENT REGULATION. The manufacturing and marketing of pharmaceutical
+products in the United States is subject to stringent governmental regulation
+and the sale of any of the Company's products for use in humans in the United
+States will require the prior approval of the FDA. Similar approvals by
+comparable agencies are required in most foreign countries. The FDA has
+established mandatory procedures and safety standards which apply to the
+clinical testing, manufacture and marketing of pharmaceutical products.
+Pharmaceutical manufacturing facilities are also regulated by state, local and
+other authorities. Obtaining FDA approval for a new therapeutic may take
+several years and involve substantial expenditures. ADAGEN was approved by the
+FDA in March 1990. ONCASPAR was approved by the FDA in February 1994 and in
+Germany in November 1994 for patients with acute lymphoblastic leukemia who are
+hypersensitive to native forms of L-asparaginase, and in Russia in April 1993
+for therapeutic use in a broad range of cancers. Except for these approvals,
+none of the Company's other products have been approved for sale and use in
+humans in the United States or elsewhere. There can be no assurance that the
+Company will be able to obtain FDA approval for any of its other products.
+Failure to obtain requisite governmental approvals or failure to obtain
+approvals of the scope requested, will delay or preclude the Company or its
+licensees or marketing partners from marketing their products, or limit the
+commercial use of the products, and thereby may have a material adverse affect
+on the Company's liquidity and financial condition.
+
+ E4-3
+
+INTENSE COMPETITION AND RISK OF TECHNOLOGICAL OBSOLESCENCE. Many
+established biotechnology and pharmaceutical companies with resources greater
+than those of the Company are engaged in activities that are competitive with
+Enzon's and may develop products or technologies which compete with those of
+the Company's. Although Enzon is not aware of any competitor which has achieved
+the same level as the Company in utilizing PEG technology in developing drug
+products, it is aware of other companies which are engaged in this field and
+there can be no assurance that competitors will not successfully develop such
+products in the future. Although there are other companies engaged in the
+development of Single-Chain Antigen-Binding (SCA(registered trademark))
+proteins, Enzon believes that these companies will be required to obtain a
+license under Enzon's SCA patents in order to commercialize any such product.
+There can be no assurance, however, that this will prove to be the case. Rapid
+technological development by others may result in the Company's products
+becoming obsolete before the Company recovers a significant portion of the
+research, development and commercialization expenses incurred with respect to
+those products. Enzon believes that the experience of certain of its personnel
+in research and development, and its patents and proprietary know-how may
+provide it with a competitive advantage in its field; however, there can be no
+assurance that the Company will be able to maintain such a competitive
+advantage, should it exist, in view of the greater size and resources of many
+of its competitors. Other drugs or treatment modalities which are currently
+available or that may be developed in the future, and which treat the same
+diseases as those which the Company's products are designed to treat, may be
+competitive with the Company's products.
+
+ POTENTIAL PRODUCT LIABILITY. The use of the Company's products during
+testing or after regulatory approval entails an inherent risk of adverse
+effects which could expose the Company to product liability claims. The
+Company maintains product liability insurance coverage in the total amount of
+ 10,000,000 for claims arising from the use of its products in clinical trials
+prior to FDA approval and for claims arising from the use of its products after
+FDA approval. There can be no assurance that the Company will be able to
+maintain its existing insurance coverage or obtain coverage for the use of its
+other products in the future. Management believes that the Company maintains
+adequate insurance coverage for the operation of its business at this time;
+however, there can be no assurance that such insurance coverage and the
+resources of the Company would be sufficient to satisfy any liability resulting
+from product liability claims.
+
+ DIVIDEND POLICY AND RESTRICTIONS. The Company has paid no dividends on
+its common stock, .01 par value (the "Common Stock") since its inception and
+does not plan to pay dividends on its Common Stock in the foreseeable future.
+Except as may be utilized to pay the dividends payable on the Company's Series
+A Cumulative Convertible Preferred Stock (the "Series A Preferred Stock"), any
+earnings which the Company may realize will be retained to finance the growth
+of the Company. In addition, the terms of the Series A Preferred Stock
+restrict the payment of dividends on other classes and series of stock. The
+holders of the Series B Convertible Preferred Shares and Series C Convertible
+Preferred Shares are not entitled to dividends.
+
+ POSSIBLE VOLATILITY OF STOCK PRICE. Since the Company's initial public
+offering, the market price of the Company's Common Stock has fluctuated over a
+wide range and it is likely that the price of the Common Stock will fluctuate
+in the future. Announcements regarding technical innovations, the development
+of new products, the status of corporate collaborations and supply
+arrangements, regulatory approvals, patent or proprietary rights or other
+developments by the Company or its competitors could have a significant impact
+on the market price of the Common Stock.
+
+ E4-4
+
+</EX-99>
+

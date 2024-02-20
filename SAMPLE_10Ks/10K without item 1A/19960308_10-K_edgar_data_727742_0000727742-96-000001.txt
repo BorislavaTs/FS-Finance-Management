@@ -1,0 +1,3053 @@
+<Header>
+<FileStats>
+    <FileName>19960308_10-K_edgar_data_727742_0000727742-96-000001.txt</FileName>
+    <GrossFileSize>166660</GrossFileSize>
+    <NetFileSize>130345</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1575</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>2</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000727742-96-000001.hdr.sgml : 19970922
+ACCESSION NUMBER:		0000727742-96-000001
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19951231
+FILED AS OF DATE:		19960308
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			JSCE INC
+		CENTRAL INDEX KEY:			0000727742
+		STANDARD INDUSTRIAL CLASSIFICATION:	2631
+		IRS NUMBER:				362931273
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-11951
+		FILM NUMBER:		96532559
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8182 MARYLAND AVE
+		CITY:			ST LOUIS
+		STATE:			MO
+		ZIP:			63105
+		BUSINESS PHONE:		3147461100
+
+	MAIL ADDRESS:	
+		STREET 1:		8182 MARYLAND AVENUE
+		CITY:			ST. LOUIS
+		STATE:			MO
+		ZIP:			63105
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	JEFFERSON SMURFIT CORP
+		DATE OF NAME CHANGE:	19920703
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ P7sLv1iz/6eN6laHjdEhYRRnxtgV4A2XRQOpCpzvFWeo1o+I9OpJlWJ2gOzU8i4b
+ 3YcCGjlw67KWTTce6/1Wsg==
+
+ 0000727742-96-000001.txt : 19970922
+
+10-K
+ 1
+ 10-K DOCUMENT
+
+Securities and Exchange Commission
+ Washington, D.C. 20549
+
+ Form 10-K
+
+(X) Annual Report Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+For the fiscal year ended December 31, 1995
+or ) Transition Report Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+For the transition period from ____________ to ____________
+Commission file number 0-11951
+
+ JSCE, Inc.
+ (Exact name of registrant as specified in its charter)
+ Delaware 37-1337160
+(State of incorporation or organization) (I.R.S. Employer 
+ Identification) 
+ 
+ Jefferson Smurfit Centre
+ 8182 Maryland Avenue
+ St. Louis, Missouri 63105
+(Address of principal executive offices) (Zip Code)
+ 
+ Registrant's Telephone Number: (314) 746-1100
+
+Securities registered pursuant to Section 12(b) of the Act: NONE
+
+Securities registered pursuant to Section 12(g) of the Act: NONE
+ 
+Indicate by check mark whether registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such
+shorter period that the registrant was required to file such
+reports), and (2) has been subject to such filing requirements for
+the past 90 days. Yes X No 
+
+Indicate by check mark if disclosure of delinquent filers pursuant
+to Item 405 of Regulation S-K is not contained herein, and will not
+be contained, to the best of the registrant's knowledge, in
+definitive proxy or information statements incorporated by
+reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [X]
+
+As of January 31, 1996, none of the registrant's voting stock was
+held by non-affiliates.
+
+The number of shares outstanding of the registrant's common stock
+as of January 31, 1996: 1,000
+
+DOCUMENTS INCORPORATED BY REFERENCE: 
+ Part of Form 10-K
+ into Which
+ Document is
+ Document Incorporated 
+
+Sections of JSC's Proxy Statement for the Annual Meeting III
+of Stockholders to be held on May 9, 1996
+ 
+ JSCE, Inc.
+
+ Annual Report on Form 10-K
+
+ December 31, 1995
+
+TABLE OF CONTENTS
+ 
+ PART I
+ Page
+
+Item 1. Business . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+
+Item 2. Properties . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+Item 3. Legal Proceedings. . . . . . . . . . . . . . . . . . . . . . 7
+
+Item 4. Submission of Matters to a Vote of Security Holders. . . . .11
+
+PART II
+
+Item 5. Market for Registrant's Common Equity and
+ Related Stockholder Matters. . . . . . . . . . . . . . . . .11
+
+Item 6. Selected Financial Data. . . . . . . . . . . . . . . . . . .12
+
+Item 7. Management's Discussion and Analysis of Financial
+ Condition and Results of Operations . . . . . . . . . . . .14
+
+Item 8. Financial Statements and Supplementary Data. . . . . . . . .22
+
+Item 9. Changes in and Disagreements with Accountants
+ on Accounting and Financial Disclosure . . . . . . . . . . .46
+
+PART III
+
+Item 10. Directors and Executive Officers of the Registrant . . . . .46
+
+Item 11. Executive Compensation . . . . . . . . . . . . . . . . . . .50
+
+Item 12. Security Ownership of Certain Beneficial Owners and
+ Management . . . . . . . . . . . . . . . . . . . . . . . . .50
+
+Item 13. Certain Relationships and Related Transactions . . . . . . .50
+
+PART IV
+
+Item 14. Exhibits, Financial Statement Schedules and Reports 
+ on Form 8-K. . . . . . . . . . . . . . . . . . . . . . . . .51
+ 
+ PART I
+
+ITEM 1. BUSINESS
+
+GENERAL
+JSCE, Inc. is a wholly-owned subsidiary of Jefferson Smurfit
+Corporation ("JSC"). JSCE, Inc. and where appropriate, its
+consolidated subsidiaries, are hereinafter collectively referred to
+as "JSCE" or the "Company". JSC has no operations other than its
+investment in the Company. The Company owns a 100 equity interest
+in Jefferson Smurfit Corporation (U.S.) ("JSC(U.S.)"). JSC (U.S.)
+has extensive operations throughout the United States. 
+
+The Company operates in two business segments, Paperboard/Packaging
+Products and Newsprint. The Company believes it is one of the
+nation's largest producers of paperboard and packaging products and
+is the largest producer of recycled paperboard and recycled
+packaging products and the largest processor of wastepaper. In
+addition, the Company believes it is one of the nation's largest
+producers of recycled newsprint. 
+
+The Company's Paperboard/Packaging Products segment includes a
+system of paperboard mills that, in 1995, produced 1,905,000 tons
+of virgin and recycled containerboard, 773,000 tons of coated and
+uncoated recycled boxboard and solid bleached sulfate ("SBS") and
+192,000 tons of recycled cylinderboard, which were sold to the
+Company's own converting operations and to third parties. The
+Company's converting operations consist of 51 corrugated container
+plants, 18 folding carton plants, and 22 industrial packaging
+plants located across the country, with three plants located
+outside the U.S. In 1995, the Company's container plants converted
+1,925,000 tons of containerboard, an amount equal to approximately
+101.1 of the amount it produced, its folding carton plants
+converted 529,000 tons of SBS, recycled boxboard and coated natural
+kraft, an amount equal to approximately 68.3 of the amount it
+produced, and its industrial packaging plants converted 148,000
+tons of recycled cylinderboard, an amount equal to approximately
+77.2 of the amount it produced. The paperboard/packaging products
+operations also include 14 consumer packaging plants. The
+Company's Paperboard/Packaging Products segment contributed 90.5 
+of the Company's net sales in 1995.
+
+The Company's paperboard operations are supported by its
+reclamation division, which processed or brokered 4.3 million tons
+of wastepaper in 1995, and by its timber division which manages
+approximately one million acres of owned or leased timberland
+located in close proximity to its virgin fiber mills. 
+
+The Company's Newsprint segment includes two newsprint mills in
+Oregon, which produced 620,000 tons of recycled newsprint in 1995,
+and two facilities that produce Cladwood, a construction material
+produced from newsprint and wood by-products. The Company's
+newsprint mills are also supported by the Company's reclamation
+division.
+
+Except for the historical information contained in this Annual
+Report on Form 10-K, certain matters discussed herein, including
+(without limitation) in particular under Part I, Item 3, "Legal
+Proceedings" and under Part II, Item 7, "Management's Discussion
+and Analysis of Financial Condition and Results of Operations," are
+forward looking statements. The matters referred to in such
+statements could be affected by the risks and uncertainties
+involved in the Company's business, including (without limitation)
+the effect of economic and market conditions, the level and
+volatility of interest rates and currency values, wastepaper
+prices, costs related to environmental matters, and the impact of
+current or pending legislation and regulation.
+ 
+PRODUCTS
+
+PAPERBOARD/PACKAGING PRODUCTS SEGMENT
+
+CONTAINERBOARD AND CORRUGATED SHIPPING CONTAINERS
+The Company's containerboard operations are highly integrated. 
+Tons of containerboard produced and converted for the last three
+years were:
+
+ 1993 1994 1995
+ (Tons in thousands) 
+ Containerboard
+ Production 1,840 1,932 1,905
+ Consumption 1,942 2,018 1,925
+
+The Company's mills produce a full line of containerboard,
+including unbleached kraft linerboard, mottled white linerboard and
+recycled medium. Unbleached kraft linerboard is produced at the
+Company's mills located in Fernandina Beach and Jacksonville,
+Florida and mottled white linerboard is produced at its Brewton,
+Alabama mill. Recycled medium is produced at the Company's mills
+located in Alton, Illinois, Carthage, Indiana, Circleville, Ohio
+and Los Angeles, California. In 1995, the Company produced
+1,057,000, 316,000 and 532,000 tons of unbleached kraft linerboard,
+mottled white linerboard and recycled medium, respectively. The
+Company's sales of containerboard in 1995 were 1,054 million
+(including 559 million of intracompany sales). Sales of
+containerboard to the Company's container plants are at market
+prices. 
+
+Corrugated shipping containers, manufactured from containerboard in
+converting plants, are used to ship such diverse products as home
+appliances, electric motors, small machinery, grocery products,
+produce, books, tobacco and furniture, and for many other
+applications, including point of purchase displays. The Company
+stresses the value added aspects of its corrugated containers, such
+as labeling and multi-color graphics, to differentiate its products
+and respond to customer requirements. The Company's 51 container
+plants serve local customers and large national accounts and are
+located nationwide, generally in or near large metropolitan areas. 
+The Company's total sales of corrugated shipping containers in 1995
+were 1,570 million (including 109 million of intracompany sales). 
+Total corrugated shipping container sales volumes for 1993, 1994
+and 1995 were 29,394, 30,822 and 29,382 million square feet,
+respectively.
+
+RECYCLED BOXBOARD, SBS AND FOLDING CARTONS
+The Company's recycled boxboard, SBS and folding carton operations
+are also integrated. Tons of recycled boxboard and SBS produced
+and converted for the last three years were:
+
+ 1993 1994 1995
+ (Tons in thousands) 
+ Recycled Boxboard and SBS 
+ Production 744 767 773
+ Consumption 542 543 529
+ 
+The Company's mills produce recycled coated and uncoated boxboard
+and SBS. Coated recycled boxboard is produced at the Company's
+mills located in Middletown, Ohio, Philadelphia, Pennsylvania,
+Santa Clara, California and Wabash, Indiana. The Company produces
+uncoated recycled boxboard at its Los Angeles, California mill and
+SBS at its Brewton, Alabama mill. The table above excludes
+production of approximately 85,000 tons in 1993 from the Lockland,
+Ohio boxboard mill that was closed in January 1994. In 1995, the
+Company produced 595,000 and 178,000 tons of recycled boxboard and
+SBS respectively. The Company's total sales of recycled boxboard
+and SBS in 1995 were 461 million (including 231 million of
+intracompany sales).
+
+The Company's folding carton plants offer a broad range of
+converting capabilities, including web and sheet litho, rotogravure
+and flexo printing and a full line of structural and design
+graphics services. The Company's 18 facilities convert recycled
+boxboard and SBS into folding cartons. Folding cartons are used
+primarily to protect customers' products while providing point of
+purchase advertising. The Company makes folding cartons for a wide
+variety of applications, including food and fast foods, detergents,
+paper products, beverages, health and beauty aids and other
+consumer products. Customers range from small local accounts to
+large national and multinational accounts. The Company's folding
+carton plants are located nationwide, generally in or near large
+metropolitan areas. The Company's sales of folding cartons in 1995
+were 686 million (none of which were intracompany sales). Folding
+carton sales volumes for 1993, 1994 and 1995 were 475,000, 486,000
+and 469,000 tons, respectively.
+
+The Company has focused its capital expenditures in these
+operations and its marketing activities to support a strategy of
+enhancing product quality as it relates to packaging graphics,
+increasing flexibility while reducing customer lead time and
+assisting customers in innovative package designs.
+
+The Company provides marketing consultation and research activities
+through its Design and Market Research (DMR) center. It provides
+customers with graphic and product design tailored to the specific
+technical requirements of lithographic, rotogravure and
+flexographic printing, as well as photography for packaging, sales
+promotion concepts, and point of purchase displays.
+
+RECYCLED CYLINDERBOARD AND INDUSTRIAL PACKAGING
+The Company's recycled cylinderboard and industrial packaging
+operations are also integrated. Tons of recycled cylinderboard
+produced and converted for the last three years were:
+
+ 1993 1994 1995
+ (Tons in thousands) 
+ Recycled Cylinderboard
+ Production 157 166 164
+ Consumption 123 128 148
+
+The Company's recycled cylinderboard mills are located in Tacoma,
+Washington, Monroe, Michigan, Lafayette, Indiana, and Cedartown,
+Georgia. The table above excludes production of approximately
+49,000, 43,000 and 28,000 tons in 1993, 1994 and 1995 from a
+cylinderboard mill located in Monroe, Michigan that was closed in
+September 1995. In 1995, total sales of recycled cylinderboard
+were 80 million (including 34 million of intracompany sales). 
+ 
+The Company's 22 industrial packaging plants convert recycled
+cylinderboard, including a portion of the recycled cylinderboard
+produced by the Company, into papertubes and cores. Papertubes and
+cores are used primarily for paper, film and foil, yarn carriers
+and other textile products and furniture components. The Company
+also produces solid fiber partitions for the pharmaceutical,
+electronics, glass, cosmetics and plastics industries. In
+addition, the Company produces a patented self-locking partition
+especially suited for automated packaging and product protection. 
+Also, the Company manufactures corrugated pallets that are made
+entirely from corrugated components and are lightweight yet
+extremely strong and are fully recyclable. The Company's
+industrial packaging sales in 1995 were 114 million (including 5
+million in intracompany sales).
+
+CONSUMER PACKAGING
+The Company manufactures a wide variety of products at its 14
+consumer products facilities. These products include flexible
+packaging, paper and metallized paper labels and labels that are
+heat transferred to plastic containers for a wide range of
+industrial and consumer product applications. The contract
+packaging plants provide a wide variety of custom contract
+packaging services including cartoning, bagging, liquid- or powder-
+filling and high-speed overwrapping. Fragranced advertising
+products and related specialty items are produced by the scented
+products facility. The Company produces high-quality rotogravure
+cylinders and has a full-service organization experienced in the
+production of color separations and lithographic film for the
+commercial printing, advertising and packaging industries. Total
+sales of consumer packaging products and services in 1995 were 191
+million (including 15 million of intracompany sales).
+
+RECLAMATION OPERATIONS; FIBER RESOURCES AND TIMBER PRODUCTS
+The raw materials essential to the Company's business are reclaimed
+fiber and virgin wood fiber. The Brewton, Circleville,
+Jacksonville and Fernandina mills use primarily wood fibers, while
+the other paperboard mills use reclaimed fiber exclusively. The
+newsprint mills use approximately 47 wood fiber and 53 reclaimed
+fiber.
+
+The use of recycled products in the Company's operations begins
+with its reclamation division which operates 27 facilities that
+collect, sort, grade and bale wastepaper, as well as collect
+aluminum and glass. The reclamation division also operates a
+nationwide brokerage system whereby it purchases and resells
+wastepaper (including wastepaper for use in its recycled fiber
+mills) on a regional and national contract basis. Such contracts
+provide bulk purchasing, resulting in lower prices and cleaner
+wastepaper. The reclamation division provides valuable fiber
+resources to both the paperboard and newsprint segments of the
+Company as well as to other producers. Many of the reclamation
+facilities are located in close proximity to the Company's recycled
+paperboard and newsprint mills, assuring availability of supply,
+when needed, with minimal shipping costs. Total sales of recycled
+materials in 1995 were 736 million (including 292 million of
+intracompany sales). 
+ 
+In 1995, the Company processed 4.3 million tons of wastepaper. The
+amount of wastepaper collected and the proportions sold internally
+and externally by the Company's reclamation division for the last
+three years were:
+
+ 1993 1994 1995
+ (Tons in thousands)
+
+ Wastepaper collected by Reclamation Division 3,907 4,134 4,293
+ Percent sold internally 48.8 45.5 43.1 
+ Percent sold to third parties 51.2 54.5 56.9 
+
+While there has been unprecedented demand for reclaimed fiber
+during 1994 and 1995, the Company does not, however, anticipate any
+significant problems satisfying its need for this material in the
+foreseeable future. During 1995, the wastepaper which was
+reclaimed by the Company's reclamation plants and brokerage
+operations satisfied all of the Company's mill requirements for
+reclaimed fiber.
+
+The Company's timber division manages approximately one million
+acres of owned and leased timberland. In 1995, approximately 59 
+of the timber harvested by the Company was used in its
+Jacksonville, Fernandina and Brewton Mills. The Company harvested
+893,000 cords of timber which would satisfy approximately 35 of
+the Company's requirements for wood fibers. The Company's wood
+fiber requirements not satisfied internally are purchased on the
+open market or under long-term contracts. In the past, the Company
+has not experienced difficulty obtaining an adequate supply of wood
+through its own operations or open market purchases. The Company
+is not aware of any circumstances that would adversely affect its
+ability to satisfy its wood requirements in the foreseeable future. 
+In recent years, a shortage of wood fiber in the spotted owl
+regions in the Northwest has resulted in increases in the cost of
+virgin wood fiber. In 1995, the Company's total sales of timber
+products were 260 million (including 201 million of intracompany
+sales).
+
+NEWSPRINT SEGMENT
+
+NEWSPRINT MILLS
+The Company's newsprint mills are located in Newberg and Oregon
+City, Oregon. During 1993, 1994 and 1995, the Company produced
+615,000, 615,000 and 620,000 tons of newsprint, respectively. In
+1995, total sales of newsprint were 361 million (none of which
+were intracompany sales).
+
+For the past three years, an average of approximately 55 of the
+Company's newsprint production has been sold to The Times Mirror
+Company ("Times Mirror") pursuant to a long-term newsprint
+agreement (the "Newsprint Agreement") entered into in connection
+with the Company's acquisition of Smurfit Newsprint Corporation
+("SNC") stock in February 1986. Under the terms of the Newsprint
+Agreement, the Company supplies newsprint to Times Mirror generally
+at prevailing West Coast market prices. Sales of newsprint to
+Times Mirror in 1995 amounted to 189 million.
+
+CLADWOOD
+Cladwood is a wood composite panel used by the housing industry,
+manufactured from sawmill shavings and other wood residuals 
+and overlaid with recycled newsprint. The Company has two
+Cladwood plants located in Oregon. Total sales for Cladwood in
+1995 were 26 million (none of which were intracompany sales).
+ 
+MARKETING
+
+The marketing strategy for the Company's mills is to maximize sales
+of products to manufacturers located within an economical shipping
+area. The strategy in the converting plants focuses on both
+specialty products tailored to fit customers' needs and high volume
+sales of commodity products. The Company also seeks to broaden the
+customer base for each of its segments rather than to concentrate
+on only a few accounts for each plant. These objectives have led
+to decentralization of marketing efforts, such that each plant has
+its own sales force, and many have product design engineers, who
+are in close contact with customers to respond to their specific
+needs. National sales offices are also maintained for customers
+who purchase through a centralized purchasing office. National
+account business may be allocated to more than one plant because of
+production capacity and equipment requirements.
+
+COMPETITION
+
+The paperboard and packaging products markets as well as the
+newsprint markets are highly competitive and are comprised of many
+participants. Although no single company is dominant, the Company
+does face significant competitors in each of its businesses. The
+Company's competitors include large vertically integrated companies
+as well as numerous smaller companies. The industries in which the
+Company competes are particularly sensitive to price fluctuations
+as well as other competitive factors including design, quality and
+service, with varying emphasis on these factors depending on
+product line.
+
+BACKLOG
+
+Demand for the Company's major product lines is relatively constant
+throughout the year and seasonal fluctuations in marketing,
+production, shipments and inventories are not significant. The
+Company does not have a significant backlog of orders, as most
+orders are placed for delivery within 30 days.
+
+RESEARCH AND DEVELOPMENT
+
+The Company's research and development center uses state-of-the-art
+technology to assist all levels of the manufacturing and sales
+process from raw materials supply through finished packaging
+performance. Research programs have provided improvements in
+coatings and barriers, stiffeners, inks and printing. The
+technical staff conducts basic, applied and diagnostic research,
+develops processes and products and provides a wide range of other
+technical services.
+
+The Company actively pursues applications for patents on new
+inventions and designs and attempts to protect its patents against
+infringement. Nevertheless, the Company believes that its success
+and growth are dependent on the quality of its products and its
+relationships with its customers, rather than on the extent of its
+patent protection. The Company holds or is licensed to use certain
+patents, but does not consider that the successful continuation of
+any important phase of its business is dependent upon such patents.
+ 
+EMPLOYEES
+
+The Company had approximately 16,200 employees at December 31,
+1995, of which approximately 10,900 employees (67 ), are
+represented by collective bargaining units. The expiration date of
+union contracts for the Company's major facilities are as follows: 
+ the Oregon City mill, expiring March 1997; the Brewton mill,
+expiring October 1997; the Fernandina mill, expiring June 1998; a
+group of 11 properties, including 4 paper mills and 7 corrugated
+container plants, expiring June 1998; the Jacksonville mill,
+expiring June 1999; the Alton mill, expiring June 2000 and the
+Newberg mill, expiring March 2002. The Company believes that its
+employee relations are generally good and is currently in the
+process of bargaining with unions representing production employees
+at a number of its other operations.
+
+ITEM 2. PROPERTIES
+
+The Company's properties at December 31, 1995 are summarized in the
+table below. Approximately 58 of the Company's investment in
+property, plant and equipment is represented by its paperboard and
+newsprint mills.
+ 
+ Number
+ of State
+ Facilities Locations
+
+Paperboard mills:
+ Containerboard mills 7 6
+ Boxboard mills 4 4
+ Cylinderboard mills 4 4
+Newsprint mills 2 1
+Reclamation plants 27 12
+Converting facilities:
+ Corrugated container plants 51 21
+ Folding carton plants 18 10
+ Industrial packaging plants 22 14
+Consumer packaging plants 14 8
+Cladwood plants 2 1
+Wood product plants 1 1
+ Total 152 28
+ 
+In addition to its manufacturing facilities, the Company owns and
+leases approximately 758,000 acres and 226,000 acres of timberland,
+respectively, and also operates wood harvesting facilities.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+Litigation 
+In June 1993, the Company filed suit against Otis B. Ingram, as
+executor of the estate of Naomi M. Ingram, and Ingram-LeGrand
+Lumber Company in the United States District Court, Middle District
+of Georgia, seeking declaratory and injunctive relief and damages
+in excess of 3 million arising out of the defendants' alleged
+breach and anticipatory repudiation of certain timber purchase
+agreements and timber management agreements between the Company and
+such parties dated November 22, 1967 pertaining to approximately
+30,000 acres of property in Georgia (the "Agreements"). The
+defendants filed an answer and counterclaim seeking damages in
+excess of 14 million based on allegations that the Company
+breached the Agreements and failed to pay for timber allegedly
+stolen or otherwise removed from the property by the Company or
+third parties. A jury trial commenced in October 1995 and the case
+was subsequently settled before completion of the trial.
+ 
+The Company is a defendant in a number of other lawsuits which have
+arisen in the normal course of business. While any litigation has
+an element of uncertainty, the management of the Company believes
+that the outcome of such suits will not have a material adverse
+effect on its financial condition or results of operations.
+
+Environmental Matters
+
+Federal, state and local environmental requirements, particularly
+relating to air and water quality, are a significant factor in the
+Company's business. The Company employs processes in the
+manufacture of pulp, paperboard and other products, resulting in
+various discharges and emissions that are subject to numerous
+federal, state and local environmental control statutes,
+regulations and ordinances. The Company operates and expects to
+operate under permits and similar authorizations from various
+governmental authorities that regulate such discharges and
+emissions.
+
+Occasional violations of permit terms have occurred from time to
+time at the Company's facilities, resulting in administrative
+actions, legal proceedings or consent decrees and similar
+arrangements. Pending proceedings include the following:
+
+ Sweet Home, Oregon
+ On May 11, 1995, the United States Environmental Protection Agency
+ ("EPA") executed a search warrant at the Sweet Home, Oregon
+ manufacturing facility of SNC, at which Cladwood, a wood composite
+ panel manufactured from sawmill shavings, is produced. According
+ to the search warrant, the U.S. Attorney's office for the District
+ of Oregon and the EPA are investigating whether this facility
+ violated the Clean Water Act or other federal laws in connection
+ with its waste water discharges. The Company has been advised
+ that the government has presented, or intends to present, evidence
+ to a grand jury in connection with the investigation. SNC and
+ certain of its employees could be charged, and SNC could be
+ assessed significant fines and penalties if an indictment and
+ conviction follows as a result of the grand jury proceeding.
+
+ Duval County, Florida
+ In March 1992, the Company entered into an administrative consent
+ order with the Florida Department of Environmental Regulation to
+ carry out any necessary assessment and remediation of Company-
+ owned property in Duval County, Florida that was formerly the site
+ of a sawmill that dipped lumber into a chemical solution. 
+ Assessment data with respect to this site indicates soil and
+ groundwater contamination that will likely require nonroutine
+ remediation. Management believes that the probable costs of this
+ site, taken alone or with potential costs at other Company-owned
+ properties where some contamination has been found, will not have
+ a material adverse effect on its financial condition or results
+ of operations.
+ 
+ Jacksonville, Florida
+ In October 1994, the Company voluntarily reported possible
+ noncompliance with certain provisions of its
+ construction/operation permit at its D-Graphics labels plant
+ located in Jacksonville, Florida to state and local environmental
+ authorities, and subsequently entered into a settlement agreement
+ with such authorities to resolve all civil and administrative
+ issues regarding this matter. The Company has recently been
+ advised by the United States Department of Justice that it will
+ not pursue any criminal action against the Company in connection
+ with this matter.
+
+The Company also faces potential liability as a result of releases,
+or threatened releases, of hazardous substances into the
+environment from various sites owned and operated by third parties
+at which Company-generated wastes have allegedly been deposited. 
+Generators of hazardous substances sent to off-site disposal
+locations at which environmental problems exist, as well as the
+owners of those sites and certain other classes of persons
+(generally referred to as "potentially responsible parties" or
+"PRPs"), are, in most instances, subject to joint and several
+liability for response costs for the investigation and remediation
+of such sites under the Comprehensive Environmental Response,
+Compensation and Liability Act ("CERCLA") and analogous state laws,
+regardless of fault or the legality of original disposal. The
+Company has received notice that it is or may be a PRP at a number
+of federal and/or state sites where remedial action may be
+required, and as a result may have joint and several liability for
+cleanup costs at such sites. However, liability of CERCLA sites is
+typically shared with the other PRPs and costs are commonly
+allocated according to relative amounts of waste deposited. 
+Because the Company's relative percentage of waste deposited at a
+majority of these sites is quite small, management of the Company
+believes that its probable liability under CERCLA, taken on a case
+by case basis or in the aggregate, will not have a material adverse
+effect on its financial condition or operations. Pending CERCLA
+proceedings include the following:
+
+ Miami County, Ohio Site
+ In 1995, pursuant to a consent decree previously entered into with
+ the United States, the Company paid 3.1 million in satisfaction
+ of its alleged and/or potential liability for past and future
+ response costs under CERCLA in connection with a site in Miami
+ County, Ohio and, pursuant to a second consent decree with the
+ United States, paid 1.2 million in settlement of a cause of
+ action previously commenced by the government against the Company
+ for alleged failures to properly respond to document and
+ information requests by the EPA with respect to such site. A
+ criminal inquiry was commenced in 1993 relating to the Company's
+ responses to the EPA's document and information requests, and it
+ is uncertain whether any criminal action will be forthcoming.
+
+ Monterey Park, California Site
+ The Company has paid approximately 768,000 pursuant to two
+ partial consent decrees entered into in 1990 and 1991 with respect
+ to cleanup obligations at the Operating Industries site in
+ Monterey Park, California. It is anticipated that there will be
+ further remedial measures beyond those covered by these partial
+ settlements.
+
+ Baltimore, Maryland Site
+ The Company entered into a consent decree and settlement agreement
+ in full settlement of its obligations in connection with a
+ superfund site in Baltimore, Maryland. The Company paid
+ approximately 171,000 in 1995 as part of this settlement, and may
+ be required to pay an additional amount up to approximately
+ 80,000 for future cleanup costs.
+ 
+In addition to other Federal and State laws regarding hazardous
+substance contamination at sites owned or operated by the Company,
+the New Jersey Industrial Site Recovery Act ("ISRA") requires that
+a "Negative Declaration" or a "Cleanup Plan" be filed and approved
+by the New Jersey Department of Environmental Protection and Energy
+("DEPE") as a precondition to the "transfer" of an "industrial
+establishment". The ISRA regulations provide that a transferor may
+close a transaction prior to the DEPE's approval of a negative
+declaration if the transferor enters into an administrative consent
+order with the DEPE. The Company is currently a signatory to
+administrative consent orders with respect to two formerly leased
+or owned industrial establishments and to a facility that was sold
+in 1995 and received a negative declaration with respect thereto. 
+Management believes that any requirements that may be imposed by
+the DEPE with respect to these sites will not have a materially
+adverse effect on the financial condition or results of operations
+of the Company.
+
+The Company's paperboard and newsprint mills are large consumers of
+energy, using either natural gas or coal. Approximately 68 of the
+Company's total paperboard tonnage is produced by mills which have
+coal-fired boilers. The cost of energy is dependent, in part, on
+environmental regulations concerning sulfur dioxide and particulate
+emissions.
+
+Because various pollution control standards are subject to change,
+it is not possible at this time to predict the amount of capital
+expenditures that will ultimately be required to comply with future
+standards. In particular, the EPA has proposed a comprehensive
+rule governing the pulp, paper and paperboard industry, which could
+require substantial expenditures to achieve compliance on the part
+of the Company. For the past three years, the Company has spent an
+average of approximately 10 million annually on capital
+expenditures for environmental purposes. Further sums may be
+required in the future, although, in the opinion of management,
+such expenditures will not have a material effect on its financial
+condition or results of operations. The anticipated spending for
+such capital projects for fiscal 1996 is approximately 30 million. 
+Since the Company's competitors are, or will be, subject to
+comparable pollution control standards, including the proposed rule
+discussed above, if implemented, management is of the opinion that compliance
+with future pollution standards will not adversely affect the Company's
+competitive position. 
+ 
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+No matters were submitted to a vote of security holders of the
+registrant during the fourth quarter of 1995.
+
+PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND
+ RELATED STOCKHOLDER MATTERS
+
+MARKET INFORMATION
+The Company is a wholly-owned subsidiary of JSC, and therefore, all
+of the outstanding common stock of the Company ("JSCE Common
+Stock") is owned by JSC. As a result, there is no established
+public market for the JSCE Common Stock.
+
+DIVIDENDS
+The Company has not paid cash dividends on its common stock. The
+ability of the Company to pay dividends in the future is restricted
+by certain provisions contained in the 1994 Credit Agreement (as
+defined) and the indentures relating to the outstanding
+indebtedness of JSC (U.S.) which the Company guarantees.
+ 
+ITEM 6. SELECTED FINANCIAL DATA
+ 
+(In millions, except statistical data) 
+ 1995 1994 1993 1992 1991 
+ 
+Summary of Operations
+Net sales 4,093 3,233 2,947 2,998 2,940 
+Cost of goods sold 3,222 2,719 2,567 2,495 2,407 
+Gross profit 871 514 380 503 533 
+Selling and administrative expenses 241 223 239 231 225 
+Restructuring charge 96 
+Environmental and other charges 54 
+Income (loss) from operations 630 291 (9) 272 308 
+Interest expense (234) (269) (254) (300) (335)
+Other, net 7 6 5 4 (40)
+Income (loss) before income taxes, 
+ extraordinary item and cumulative
+ effect of accounting changes 403 28 (258) (24) (67)
+Provision for (benefit from) 
+ income taxes 156 16 (83) 10 10 
+Income (loss) before 
+ extraordinary item and cumulative
+ effect of accounting changes 247 12 (175) (34) (77)
+Extraordinary item
+ Loss from early extinguishment 
+ of debt, net of income tax benefit (4) (55) (38) (50)
+Cumulative effect of accounting
+ changes (16) 
+
+Net income (loss) 243 (43) (229) (84) (77)
+
+Other Financial Data
+Net cash provided by operating 
+ activities 411 149 78 146 133 
+Depreciation, depletion and 
+ amortization 139 131 131 135 130 
+Capital investments and acquisitions 188 166 117 104 129 
+Working capital 47 11 40 106 77 
+Property, plant, equipment and
+ timberland, net 1,714 1,686 1,636 1,497 1,526 
+Total assets 2,783 2,759 2,597 2,436 2,460 
+Long-term debt, less current
+ maturities 2,111 2,392 2,619 2,503 2,650 
+Deferred income tax liability 328 208 232 160 158 
+Stockholder's deficit (487) (730) (1,058) (829) (977)
+
+Statistical Data (tons in thousands)
+Containerboard production (tons) 1,905 1,932 1,840 1,918 1,830
+Boxboard and SBS production (tons) 774 767 744 745 726
+Newsprint production (tons) 620 615 615 615 614
+Corrugated shipments (billion sq. ft.) 29.4 30.8 29.4 28.1 26.4
+Folding carton shipments (tons) 469 486 475 487 482
+Fiber reclaimed and brokered (tons) 4,293 4,134 3,907 3,846 3,666
+Timberland owned or leased
+ (thousand acres) 984 985 984 978 978
+Number of employees 16,200 16,600 17,300 17,800 18,100
+
+Other, net in 1991 includes after-tax charges of 29 million
+ and 7 million for the write-off of the Company's equity
+ investments in Temboard and Company Limited Partnership, Inc.
+ and PCL Industries Limited, respectively. 
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL 
+ CONDITION AND RESULTS OF OPERATIONS
+
+General
+Market conditions and demand for containerboard, corrugated
+shipping containers and newsprint, three of the Company's most
+important products, are generally subject to cyclical changes in
+the economy and changes in industry capacity, both of which can
+significantly impact selling prices and the Company's
+profitability. 
+Containerboard markets, which were depressed in the early 1990's,
+began to recover in late 1993 and the strong growth in the U.S.
+economy in the second half of 1994 and the first half of 1995
+propelled containerboard prices through a series of rapid
+increases. Linerboard prices in 1993 were at a low of 280/ton
+prior to the recovery and, by April of 1995, had reached a record
+high of 535/ton. Market conditions were strong until the third
+quarter of 1995, when the economy began to weaken, causing excess
+inventories in the industry. Many paper companies, including the
+Company, took downtime at paper mills during the fourth quarter of
+1995 in response to the slowdown in the economy. Linerboard prices
+softened by the end of 1995 to 490/ton, but were still high
+compared to historical levels. 
+
+Newsprint markets were also depressed in the early 1990's. Demand
+for newsprint began to improve in the second half of 1994 and
+prices steadily increased during the second half of 1994 and 1995.
+
+Increases in demand for recycled paperboard products and recycled
+newsprint during 1994 and 1995 created unprecedented demand for
+reclaimed fiber, causing shortages of this material and prices
+escalated at a dramatic rate. While the effect of the reclaimed
+fiber price increases is favorable to the Company's reclamation
+products division, it is unfavorable to the Company overall because
+reclaimed fiber is a key raw material for certain of its paper
+mills. The demand for and price of reclaimed fiber dropped
+dramatically in the fourth quarter of 1995 as a result of the
+significant downtime taken by containerboard mills throughout the
+country. Although reclaimed fiber prices are currently low in
+comparison to the record highs reached earlier in 1995, the Company
+believes it is likely that the cost of reclaimed fiber will
+increase again in 1996. The Company does not, however, anticipate
+any significant problems satisfying its need for this material in
+the foreseeable future.
+ 
+Results of Operations
+
+Segment data
+(In millions) 1995 1994 1993 
+ Income Income
+ Income (loss) (loss)
+ Net from Net from Net from
+ sales operations sales operations sales operations 
+ 
+Paperboard/
+ Packaging 
+ Products 3,706 604 2,974 308 2,699 13 
+Newsprint 387 26 259 (17) 248 (22)
+
+Total 4,093 630 3,233 291 2,947 (9)
+
+1995 Compared to 1994
+Price recovery coupled with productivity gains and cost reduction
+programs implemented in recent years provided record sales and
+earnings for the Company in 1995. Net sales were 4.1 billion, an
+increase of 26.6 over 1994 and income from operations was 630
+million, more than double the 1994 amount. Increases (decreases)
+in sales for each of the Company's segments are discussed below.
+ 
+(In millions) 1995 Compared to 1994 
+ Paperboard/
+ Packaging
+ Products Newsprint Total 
+ 
+Increase (decrease) due to:
+ Sales prices and product mix 749 130 879 
+ Sales volume (22) (2) (24)
+ Acquisitions and new facilities 9 9 
+ Sold or closed facilities (4) (4)
+Total net sales increase 732 128 860 
+ 
+Paperboard/Packaging Products Segment Sales
+Net sales of the Paperboard/Packaging Products segment increased
+24.6 compared to 1994, to 3.71 billion, primarily as a result of
+sales prices and product mix. 
+ 
+Net sales of containerboard and corrugated shipping containers
+increased 25.9 compared to 1994, to 1.96 billion. Corrugated
+shipping container prices increased 28.0 on average compared to
+1994. In view of the reduced demand in the second half of 1995,
+several of the Company's containerboard mills took downtime in
+order to reduce inventories. As a result of this downtime,
+shipments of containerboard in 1995 were down 2.0 compared to
+1994. Shipments of corrugated shipping containers were down 4.2 
+compared to 1994.
+
+Net sales of recycled boxboard, SBS and folding cartons increased
+9.6 compared to 1994, to 916 million. Recycled boxboard prices
+were increased during the first half of 1995 to cover higher
+reclaimed fiber cost, but declined later in the year in response to
+lower reclaimed fiber cost. On average, prices of recycled
+boxboard and SBS rose 19.4 and 18.9 , respectively, compared to
+1994. Folding carton prices increased 9.4 on average compared to
+1994. Shipments of recycled boxboard and SBS decreased 2.1 and
+shipments of folding cartons decreased by 2.8 compared to 1994.
+
+Net sales for the reclamation and timber products operations
+increased 74.7 compared to 1994, to 503 million, due primarily to
+escalating prices of reclaimed fiber. Reclaimed fiber prices were
+higher by 62.0 on average compared to 1994 and shipments increased
+4.1 compared to 1994.
+
+Net sales of recycled cylinderboard and industrial packaging
+increased 18.3 compared to 1994, to 155 million, due primarily to
+higher prices. Net sales of consumer packaging increased 6.0 
+compared to 1994, to 176 million.
+
+Newsprint Segment Sales
+Net sales of the Newsprint segment increased 49.4 compared to
+1994, to 387 million, primarily as a result of sales prices and
+product mix. 
+
+Costs and Expenses
+Cost of goods sold as a percent of net sales declined from 82.5 in
+1994 to 77.6 in 1995 in the Paperboard/Packaging Products segment
+and declined from 102.2 in 1994 to 89.5 in 1995 in the Newsprint
+segment. Selling and administrative expenses as a percent of net
+sales declined for both segments from 6.9 in 1994 to 5.9 in 1995. 
+The sales price increases implemented during 1995 were the primary
+reason for the improvements in each of cost of goods sold and
+selling and administrative expenses as a percent of net sales. 
+
+In 1993, the Company recorded a pretax charge of 96 million for a
+restructuring program (the "Restructuring Program") to improve its
+long-term competitive position. The Restructuring Program provided
+for plant closures, asset write-downs, reductions in workforce,
+relocation of employees and consolidation of certain plant
+operations, expected to be completed over an approximate three year
+period. Major activities relating to the Restructuring Program in
+1995 included the sale of a corrugated shipping container plant in
+August and the shutdown in September of the East mill in Monroe,
+Michigan, which produced approximately 50,000 tons per year of
+recycled cylinderboard. Since 1993, the Company has written down
+the assets of closed facilities and other nonproductive assets
+totalling 35 million and made cash expenditures of 33 million
+relating to the Restructuring Program. Proceeds of 5 million from
+sale of fixed assets and asset transfers to other plants of 2
+million were used to offset additional expenses and anticipated
+expenses related to shutdowns. The remaining balance of the
+restructuring liability, the majority of which is for anticipated
+cash expenditures in 1996, will continue to be funded through
+operations. Based on expenditures to date and those anticipated by
+the original plan, no significant adjustment to the reserve balance
+is expected at this time.
+
+The Company decreased its weighted average discount rate in
+measuring its pension obligations from 8.5 to 7.25 and its rate
+of increase in compensation levels from 5.0 to 4.0 at December
+31, 1995. The net effect of changing these assumptions was the
+primary reason for the increase in projected benefit obligations. 
+In addition, the Company changed its expected long-term rate of
+return on assets from 10.0 to 9.5 at December 31, 1995. The net
+effect of these changes is expected to increase pension cost in
+1996 by approximately 14 million.
+
+In the fourth quarter of 1995, the Company recorded a pretax charge
+totalling 25 million related to product quality matters and
+failure to follow proper manufacturing and internal procedures in
+an immaterial non-core product line. The Company is continuing to
+further evaluate this issue and expects to conclude its review
+during the second fiscal quarter. Based upon the information
+currently available to management, the Company believes the reserve
+is adequate but intends to reevaluate the adequacy of the reserve
+at the conclusion of its review.
+ 
+Interest expense for 1995 declined 35 million compared to 1994 due
+primarily to lower average debt levels outstanding and lower
+effective interest rates. The lower average interest rate in 1995
+resulted primarily from the retirement in 
+December 1994 of the
+Company's high yield subordinated debt in conjunction with the
+Company's 1994 Recapitalization as defined in
+the JSC 1994 Annual Report on Form 10-K (the "1994
+Recapitalization").
+
+The Company will adopt Statement of Financial Accounting Standards
+("SFAS") No. 121, "Accounting for the Impairment of Long-Lived
+Assets and for Long-Lived Assets to be Disposed Of", in the first
+quarter of 1996. Based on current circumstances, the Company does
+not believe the effect of such adoption will be material.
+
+The provision for income taxes in 1995 was 156 million compared to
+ 16 million in 1994. The Company's effective tax rate of 38.7 in
+1995 was substantially lower than the 1994 effective tax rate of
+57.1 , primarily due to the effect of permanent differences from
+applying purchase accounting. The Company has net operating loss
+carryforwards for federal income tax purposes of approximately 98
+million (expiring in the year 2009), none of which are available
+for utilization against alternative minimum taxes. Federal income
+tax returns for 1989 through 1991 are currently under examination. 
+While the ultimate results of such examination cannot be predicted
+with certainty, the Company's management believes that the
+examination will not have a material adverse effect on its
+consolidated financial condition or results of operations.
+
+1994 Compared to 1993
+Results for 1994 reflected increased demand for the Company's
+products. Net sales of 3.2 billion for 1994 were up 9.7 compared
+to 1993. Increases (decreases) in sales for each of the Company's
+segments are discussed below.
+
+(In millions) 1994 Compared to 1993 
+ Paperboard/
+ Packaging
+ Products Newsprint Total 
+ 
+Increase (decrease) due to:
+ Sales price and product mix 185 11 196 
+ Sales volume 199 199 
+ Acquisitions and new facilities 5 5 
+ Closed facilities (114) (114)
+Total net sales increase 275 11 286 
+
+Paperboard/Packaging Products Segment Sales
+Net sales in the Paperboard/Packaging Products segment for 1994
+increased 10.2 compared to 1993, to 2.97 billion. The increase
+was due to higher sales prices and increased sales volume. Sales
+growth for this segment was mitigated by the shutdown of several
+operating facilities in late 1993 and early 1994, including a
+coated recycled boxboard mill, five converting plants and two
+reclamation products facilities in connection with the Company's
+Restructuring Program.
+
+Net sales of containerboard and corrugated shipping containers
+increased 12.5 compared to 1993, to 1.55 billion. Containerboard
+prices increased from approximately 300/ton at the end of 1993 to
+ 435/ton in October 1994. Corrugated shipping container prices
+increased 4.7 on average compared to 1993. 
+Shipments of containerboard and corrugated shipping containers were
+higher in 1994 compared to 1993 by 3.9 and 4.7 , respectively.
+ 
+Net sales of recycled boxboard, SBS and folding cartons decreased
+2.6 compared to 1993, to 836 million. On average, recycled
+boxboard prices were comparable to 1993, but SBS prices, although
+rising in the second half of 1994, were 4.8 lower on average
+compared to 1993. Folding carton prices were lower on average by
+2.2 in 1994 compared to 1993. Shipments of folding cartons
+increased by 1.8 compared to 1993, but shipments of recycled
+boxboard decreased 10.0 , due primarily to the recycled boxboard
+mill shutdown referred to above. Shipments of SBS increased 6.8 
+compared to 1993.
+
+Net sales for the reclamation and timber products operations
+increased 74.5 compared to 1993, to 288 million, due primarily to
+higher prices for reclaimed fiber. Reclaimed fiber prices in 1994
+were higher by 62.9 on average compared to 1993 and shipments
+increased 5.8 compared to 1993.
+
+Net sales of recycled cylinderboard and industrial packaging
+increased .8 compared to 1993, to 131 million and net sales of
+consumer packaging increased .6 compared to 1993 to 166 million.
+
+Newsprint Segment Sales
+Net sales in the Newsprint segment for 1994 increased 11 million,
+up 4.4 compared to 1993, to 259 million. The increase was due
+primarily to higher sales prices in the second half of 1994.
+
+Costs and Expenses
+Costs and expenses in both segments in 1994 were favorably impacted
+by cost reduction initiatives and by the Restructuring Program. 
+Cost of goods sold as a percent of net sales in the
+Paperboard/Packaging Products segment declined from 85.6 in 1993
+to 82.5 in 1994, primarily as a result of higher sales prices and
+improved capacity utilization. Cost of goods sold as a percent of
+net sales in the Newsprint segment improved modestly from 102.8 in
+1993 to 102.2 in 1994, primarily as a result of higher sales
+prices. Selling and administrative expenses as a percent of net
+sales declined from 8.1 in 1993 to 6.9 in 1994 as a result of
+higher sales prices.
+
+The Company increased its weighted average discount rate in
+measuring its pension obligations from 7.6 to 8.5 and its rate of
+increase in compensation levels from 4.0 to 5.0 at December 31,
+1994. The net effect of changing these assumptions was the primary
+reason for the decrease in projected benefit obligations and the
+changes decreased pension cost in 1995 by approximately 5 million.
+
+Average debt levels outstanding decreased in 1994 as a result of
+the 1994 Recapitalization, however, interest expense of 269
+million for 1994 increased 5.9 compared to 1993 due to the impact
+of higher effective interest rates in 1994.
+
+The tax provision for 1994 was 16 million compared to a tax
+benefit for 1993 of 83 million. The Company's effective tax rate
+for 1994 was higher than the U.S. Federal statutory tax rate due to
+several factors, the most significant of which was the effect of
+permanent differences between book and tax accounting.
+ 
+The Company recorded an extraordinary loss from the early
+extinguishment of debt (net of income tax benefits) amounting to
+ 55 million in 1994 and 38 million in 1993. The Company adopted
+SFAS No. 112 "Employers' Accounting for Postemployment Benefits" in
+1994, the effect of which was not material.
+
+Liquidity and Capital Resources
+Net cash provided by operating activities was significantly higher
+in 1995 compared to 1994 due primarily to the higher earnings
+level. Net cash provided by operating activities of 411 million
+and excess cash at the end of 1994 was used primarily to fund
+capital investments and acquisitions of 188 million and to reduce
+debt by 264 million. 
+
+The ratio of current assets to current liabilities was 1.1 at
+December 31, 1995 compared to 1.0 at December 31, 1994. Accounts
+receivable were higher at December 31, 1995, primarily as a result
+of significantly higher product pricing. Accounts payable were
+lower at December 31, 1995, primarily as a result of lower fiber
+cost at the end of 1995 compared to 1994.
+
+In February 1995, JSC (U.S.) entered into a 315 million accounts
+receivable securitization program (the "1995 Securitization")
+consisting of a 300 million trade receivables-backed commercial
+paper program and a 15 million term loan, which matures in
+December 1999. Proceeds of the 1995 Securitization were used to
+extinguish JSC (U.S.)'s borrowings under its previous accounts
+receivable securitization program and for general corporate
+purposes. Interest rates on borrowings under the 1995
+Securitization are at a variable rate (5.78 at December 31, 1995).
+
+In conjunction with the Company's 1994 Recapitalization, the
+Company entered into a new bank credit facility (the "1994 Credit
+Agreement") consisting of a 450 million revolving credit facility,
+a 900 million Tranche A Term Loan and a 300 million Tranche B
+Term Loan. In October 1995, the 1994 Credit Agreement was amended
+to reduce the interest rates payable on the revolving credit
+facility and the Tranche A Term Loan. Net debt reduction for 1995
+included 64 million of mandatory and 192 million of optional
+payments in respect of the Tranche A and Tranche B Term Loans. 
+The Company recorded an extraordinary loss from the early
+extinguishment of debt (net of income tax benefits) amounting to 4
+million .04 per share) in 1995. In January 1996, the 1994 Credit
+Agreement was amended to give greater flexibility to the Company in
+applying optional prepayments toward installments due within the
+next twelve months.
+
+The 1994 Credit Agreement contains various business and financial
+covenants including, among other things, (i) limitations on
+dividends, redemptions and repurchases of capital stock, (ii)
+limitations on the incurrence of indebtedness, liens, leases and
+sale-leaseback transactions, (iii) limitations on capital
+expenditures, (iv) maintenance of minimum levels of consolidated
+earnings before depreciation, interest, taxes and amortization and
+(v) maintenance of minimum interest coverage ratios. Such
+restrictions, together with the highly leveraged position of the
+Company, could restrict corporate activities, including the
+Company's ability to respond to market conditions, to provide for
+unanticipated capital expenditures or to take advantage of business
+opportunities.
+ 
+The 1994 Credit Agreement imposes an annual limit on future capital
+expenditures of 150 million. The capital spending limit is
+subject to increase in any year by an amount equal to the 
+Company's portion of excess cash flow and
+an amount up to 75 million if the prior year's spending was less
+than the maximum amount allowed. The Company has a carryover of
+approximately 66 million for 1996. Because the Company has
+invested heavily in its core businesses in prior years, management
+believes the annual limitation for capital expenditures does not
+impair its plans for maintenance, expansion and continued
+modernization of its facilities.
+
+Capital investments and acquisitions in 1995 include 154 million
+of property and timberland additions and 34 million of investments
+in affiliates and acquisitions. The investments in affiliates
+primarily include (i) the purchase of the 20 minority interest of
+Smurfit Newsprint Corporation previously owned by Times Mirror, the
+primary assets of which are two mills located near Portland, Oregon
+producing approximately 620,000 tons of newsprint annually, and
+(ii) a joint venture, the primary asset of which is a linerboard
+mill near Shanghai, China. 
+
+The Company expects internally generated cash flows and existing
+financing resources will be sufficient for the next several years
+to meet its needs to pay interest, amortize term loans and fund
+capital expenditures. Scheduled payments due in 1996 and 1997
+under the 1994 Credit Agreement are 62 million and 133 million,
+with increasing amounts thereafter. Capital expenditures for 1996
+are estimated to be comparable to 1995. The Company expects to use
+any excess cash provided by operations to make further debt
+reductions. At December 31, 1995, the Company had 301 million of
+unused borrowing capacity under its 1994 Credit Agreement and 95
+million of unused borrowing capacity under the 1995 Securitization
+subject to JSC (U.S.)'s level of eligible accounts receivable.
+
+The Company's earnings are significantly affected by the amount of
+interest on its indebtedness. The Company enters into interest
+rate swap, cap and option agreements to manage interest rate
+exposure on its indebtedness. Management's objective is to protect
+the Company from interest rate volatility and reduce or cap
+interest expense within acceptable levels of risk. Periodic
+amounts to be paid or received under interest rate swap and cap
+agreements are accrued and recognized as adjustments to interest
+expense. Premiums paid on cap agreements are included in interest
+payable and amortized to interest expense over the life of the
+agreements. The Company amends existing agreements or enters into
+agreements with offsetting effects when necessary to change its net
+position. In 1995, interest rate swap agreements with a notional
+value of 925 million expired and a cap agreement with a notional
+amount of 100 million was terminated. Also in 1995, the Company
+entered into an interest rate swap agreement with a notional amount
+of 100 million. The table below shows interest rate swap
+agreements outstanding at December 31, 1995, the related maturities
+for the years thereafter and the contracted pay and receive rates
+for such agreements.
+
+Interest rate
+ swaps at Interest rate
+ December 31, swap maturities 
+ (In millions) 1995 1996 1997 
+
+Pay fixed interest rate swaps 483 (150) (333)
+ Pay rate 6.519 6.519 6.645 
+ Receive rate 5.797 
+
+The Company has a cap agreement with a notional amount of 100
+million, which matures in 1996, on variable rate debt which limits
+the Company's interest payments to a range of 5.5-7.0 on the
+notional amount.
+
+Environmental Matters
+
+In 1993, the Company recorded a provision of 54 million, of which
+ 39 million relates to environmental matters, representing asbestos
+and PCB removal, solid waste cleanup at existing and former
+operating sites, and expenses for response costs at various sites
+where the Company has received notice that it is a potentially
+responsible party ("PRP"). The Company made payments of 9 million
+and 4 million related to PRP sites and other environmental cleanup
+in 1995 and 1994, respectively. The Company, as well as other
+companies in the industry, faces potential environmental liability
+related to various sites at which wastes have allegedly been
+deposited. The Company has received notice that it is or may be a
+PRP at a number of federal and state sites (the "Sites") where
+remedial action may be required. Because the laws that govern the
+cleanup of waste disposal sites have been construed to authorize
+joint and several liability, government agencies or other parties
+could seek to recover all response costs for any Site from any one
+of the PRPs for such Site, including the Company, despite the
+involvement of other PRPs. Although the Company is unable to
+estimate the aggregate response costs in connection with the
+remediation of all Sites, if the Company were held jointly and
+severally liable for all response costs at some or all of the
+Sites, it would have a material adverse effect on the financial
+condition and results of operations of the Company. However, joint
+and several liability generally has not in the past been imposed on
+PRPs, and, based on such past practice, the Company's past
+experience and the financial conditions of other PRPs with respect
+to the Sites, the Company does not expect to be held jointly and
+severally liable for all response costs at any Site. Liability at
+waste disposal sites is typically shared with other PRPs and costs
+generally are allocated according to relative volumes of waste
+deposited. At most Sites, the waste attributed to the Company is
+a very small portion of the total waste deposited at the Site
+(generally significantly less than 1 ). There are approximately
+ten Sites where final settlement has not been reached and where the
+Company's potential liability is expected to exceed de minimis
+levels. Accordingly, the Company believes that its estimated total
+probable liability for response costs at the Sites was adequately
+reserved at December 31, 1995. Further, the estimate takes into
+consideration the number of other PRPs at each site, the identity,
+and financial position of such parties, in light of the joint and
+several nature of the liability, but does not take into account
+possible insurance coverage or other similar reimbursement.
+
+Effects of Inflation
+
+With the exception of recycled fiber, the moderate level of
+inflation during the past few years has not had a material impact
+on the Company's financial position or operating results. The
+Company uses the last-in, first-out method of accounting for
+approximately 80 of its inventories. Under this method, the cost
+of products sold reported in the financial statements approximates
+current cost and thus reduces the distortion in reported income due
+to increasing costs.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA Page No.
+
+The following consolidated financial statements of JSCE, Inc. are
+included in this report:
+ 
+ Consolidated balance sheets - December 31, 1995 and 1994. . . . . . 25
+ For the years ended December 31, 1995, 1994 and 1993:
+ Consolidated statements of operations. . . . . . . . . . . . . . 26
+ Consolidated statements of stockholder's deficit . . . . . . . . 27
+ Consolidated statements of cash flows. . . . . . . . . . . . . . 28
+ Notes to consolidated financial statements. . . . . . . . . . . . . 29
+
+The following consolidated financial statement schedule of JSCE,
+Inc. is included in Item 14 (a):
+
+ II: Valuation and Qualifying Accounts . . . . . . . . . . . . . 55
+
+All other schedules specified under Regulation S-X for JSCE, Inc.
+have been omitted because they are either not applicable, not
+required or because the information required is included in the
+financial statements or notes thereto.
+
+MANAGEMENT'S RESPONSIBILITY FOR FINANCIAL STATEMENTS 
+
+The management of the Company is responsible for the information
+contained in the consolidated financial statements and in other
+parts of this report. The consolidated financial statements have
+been prepared by the Company in accordance with generally accepted
+accounting principles appropriate in the circumstances, and
+necessarily include certain amounts based on management's best
+estimate and judgment.
+
+The Company maintains a system of internal accounting control,
+which it believes is sufficient to provide reasonable assurance
+that in all material respects transactions are properly authorized
+and recorded, financial reporting responsibilities are met and
+accountability for assets is maintained. In establishing and
+maintaining any system of internal control, judgment is required to
+assess and balance the relative costs and expected benefits. 
+Management believes that through the careful selection of
+employees, the division of responsibilities and the application of
+formal policies and procedures, the Company has an effective and
+responsive system of internal accounting controls. The system is
+monitored by the Company's staff of internal auditors, who evaluate
+and report to management on the effectiveness of the system.
+
+The Audit Committee of the Board of Directors is composed of three
+directors who meet with the independent auditors, internal auditors
+and management to discuss specific accounting, reporting and
+internal control matters. Both the independent auditors and
+internal auditors have full and free access to the Audit Committee.
+
+James E. Terrill
+President, Chief Executive Officer
+
+John R. Funke
+Vice President and Chief Financial Officer
+(Principal Accounting Officer)
+
+REPORT OF INDEPENDENT AUDITORS
+
+Board of Directors
+JSCE, Inc.
+
+We have audited the accompanying consolidated balance sheets of
+JSCE, Inc. as of December 31, 1995 and 1994, and the related
+consolidated statements of operations, stockholder's deficit and
+cash flows for each of the three years in the period ended December
+31, 1995. These financial statements are the responsibility of the
+Company's management. Our responsibility is to express an opinion
+on these financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted
+auditing standards. Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement. An audit
+includes examining, on a test basis, evidence supporting the
+amounts and disclosures in the financial statements. An audit also
+includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits
+provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present
+fairly, in all material respects, the consolidated financial
+position of JSCE, Inc. at December 31, 1995 and 1994, and the
+consolidated results of its operations and its cash flows for each
+of the three years in the period ended December 31, 1995 in
+conformity with generally accepted accounting principles.
+
+As discussed in Note 5 and Note 6 to the financial statements, in
+1993, the Company changed its method of accounting for income taxes
+and postretirement benefits.
+
+Ernst & Young LLP
+
+St. Louis, Missouri
+January 24, 1996
+
+JSCE, Inc.
+ CONSOLIDATED BALANCE SHEETS
+ (In millions, except share data)
+
+December 31, 1995 1994
+
+ ASSETS
+ 
+Current assets
+ Cash and cash equivalents 27 62
+ Receivables, less allowances of 
+ 9 in 1995 and 1994 339 316
+ Inventories
+ Work-in-process and finished goods 85 87Materials
+and supplies 139 137
+ 224 224
+ Deferred income taxes 45 38
+ Prepaid expenses and other current assets 9 7
+ Total current assets 644 647
+
+Net property, plant and equipment 1,456 1,427
+
+Timberland, less timber depletion 258 259
+
+Goodwill, less accumulated amortization of
+ 42 in 1995 and 35 in 1994 253 257
+Other assets 172 169
+ 2,783 2,759
+
+LIABILITIES AND STOCKHOLDER'S DEFICIT 
+Current liabilities
+ Current maturities of long-term debt 81 50
+ Accounts payable 290 349
+ Accrued compensation and payroll taxes 101 114
+ Interest payable 37 48
+ Other accrued liabilities 88 75
+ Total current liabilities 597 636
+
+Long-term debt, less current maturities 2,111 2,392
+
+Other long-term liabilities 234 253
+
+Deferred income taxes 328 208
+
+Stockholder's deficit
+ Common stock, par value .01 per share;
+ 1,000 shares authorized and outstanding
+ Additional paid-in capital 1,102 1,102
+ Retained earnings (deficit) (1,589) (1,832)
+ Total stockholder's deficit (487) (730)
+ 2,783 2,759
+ 
+See notes to consolidated financial statements.
+
+JSCE, Inc.
+ CONSOLIDATED STATEMENTS OF OPERATIONS
+ (In millions)
+
+Year Ended December 31, 1995 1994 1993 
+
+Net sales 4,093 3,233 2,947
+Costs and expenses 
+ Cost of goods sold 3,222 2,719 2,567
+ Selling and administrative expenses 241 223 239
+ Restructuring charge 96
+ Environmental and other charges 54
+ 
+ Income (loss) from operations 630 291 (9)
+ 
+Other income (expense) 
+ Interest expense (234) (269) (254)
+ Other, net 7 6 5
+ 
+ Income (loss) before income taxes, 
+ extraordinary item and cumulative 
+ effect of accounting changes 403 28 (258)
+ 
+Provision for (benefit from) income taxes 156 16 (83)
+ 
+ Income (loss) before extraordinary item and 
+ cumulative effect of accounting changes 247 12 (175)
+ 
+Extraordinary item 
+ Loss from early extinguishment of debt, 
+ net of income tax benefit of 2 in 1995, 
+ 34 in 1994, and 22 in 1993 (4) (55) (38)
+ 
+Cumulative effect of accounting changes 
+ Postretirement benefits, net of income tax 
+ benefit of 22 (37)
+ Income taxes 21
+ 
+ Net income (loss) 243 (43) (229)
+
+See notes to consolidated financial statements.
+
+JSCE, Inc.
+ CONSOLIDATED STATEMENTS OF STOCKHOLDER'S DEFICIT
+ (In millions, except share data)
+
+Common Stock 
+ Par Number Additional Retained
+ Value of Paid-In Earnings
+ .01 Shares Capital (Deficit)
+
+Balance at January 1, 1993 1,000 732 (1,560) 
+
+Net loss (229) 
+
+Balance at December 31, 1993 1,000 732 (1,789)
+
+Net loss (43)
+
+Capital contribution, 
+ net of related expenses 370
+
+Balance at December 31, 1994 1,000 1,102 (1,832)
+
+Net income 243
+
+Balance at December 31, 1995 1,000 1,102 (1,589)
+
+See notes to consolidated financial statements.
+
+JSCE, Inc.
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+ (In millions)
+
+Year Ended December 31, 1995 1994 1993 
+
+Cash flows from operating activities
+ Net income (loss) 243 (43) (229)
+ Adjustments to reconcile net income (loss) to net 
+ cash provided by operating activities 
+ Extraordinary loss from early 
+ extinguishment of debt 7 89 60
+ Cumulative effect of accounting changes
+ Postretirement benefits 59
+ Income taxes (21)
+ Restructuring charge 96
+ Environmental and other charges 54
+ Depreciation, depletion and amortization 139 131 131
+ Amortization of deferred debt issuance costs 14 10 8
+ Deferred income taxes 113 (21) (157)
+ Non-cash interest 19 18
+ Non-cash employee benefit expense (7) (9) (13)
+ Change in current assets and liabilities, 
+ net of effects from acquisitions 
+ Receivables (22) (73) 1
+ Inventories (4) 10 14
+ Prepaid expenses and other current assets (1) (1) 5
+ Accounts payable and accrued liabilities (61) 42 26
+ Interest payable (7) (7) 5
+ Income taxes (1) 1 16
+ Other, net (2) 1 5
+ Net cash provided by operating activities 411 149 78
+ 
+Cash flows from investing activities 
+ Property additions (130) (144) (97)
+ Timberland additions (24) (19) (20)
+ Investments in affiliates and acquisitions (34) (3) 
+ Proceeds from property and timberland 
+ disposals and sale of businesses 10 4 24
+ Net cash used for investing activities (178) (162) (93)
+ 
+Cash flows from financing activities 
+ Capital contribution, net of related expenses 370 
+ Borrowings under bank credit facilities 1,372 
+ Borrowings under senior notes 400 500
+ Net borrowings under accounts 
+ receivable securitization programs 35 6
+ Other increases in long-term debt 20 4 12
+ Payments of long-term debt and related premiums (284) (2,073) (479)
+ Deferred debt issuance costs (4) (77) (25)
+ Net cash provided by (used for) financing activities (268) 31 14
+ 
+Increase (decrease) in cash and cash equivalents (35) 18 (1)
+Cash and cash equivalents 
+ Beginning of year 62 44 45
+ End of year 27 62 44
+
+See notes to consolidated financial statements.
+ 
+ JSCE, Inc.
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ (Tabular amounts in millions)
+
+1. -- Basis of Presentation
+
+JSCE, Inc. hereafter referred to as the "Company" is a wholly-owned
+subsidiary of Jefferson Smurfit Corporation ("JSC"). JSC has no
+operations other than its investment in JSCE, Inc. On December 31, 1994
+Jefferson Smurfit Corporation (U.S.), a wholly-owned subsidiary of the
+Company, merged into its wholly-owned subsidiary, Container Corporation
+of America ("CCA"), with CCA surviving and changing its name to
+Jefferson Smurfit Corporation (U.S.) ("JSC (U.S.)"). The Company has no
+operations other than its investment in JSC (U.S.). In 1994, JSC
+contributed 100 of the common stock of JSC (U.S.) to the Company. This
+transaction has been accounted for in a manner similar to a pooling of
+interests, and accordingly, the consolidated financial statements for
+all periods presented include the accounts of JSC (U.S.). Prior to May
+4, 1994, JSC had been named "SIBV/MS Holdings" and JSC (U.S.) had been
+named "Jefferson Smurfit Corporation". Prior to May 4, 1994, 50 of the
+voting stock of JSC was owned by Smurfit Packaging Corporation ("SPC")
+and Smurfit Holdings B.V. ("SHBV"), indirect wholly-owned subsidiaries
+of Jefferson Smurfit Group plc ("JS Group"), a public corporation
+organized under the laws of the Republic of Ireland. The remaining 50 
+was owned by The Morgan Stanley Leveraged Equity Fund II, L.P. ("MSLEF
+II") and certain other investors. 
+
+In 1994, JSC completed a recapitalization plan (the "Recapitalization")
+to repay and refinance a substantial portion of its indebtedness. In
+connection with the Recapitalization, (i) JSC issued and sold 19,250,000
+shares of common stock pursuant to a registered public offering at an
+initial public offering price of 13.00 per share, (ii) JS Group,
+through its wholly-owned subsidiary Smurfit International B.V. ("SIBV"),
+purchased an additional 11,538,462 shares of common stock for 150
+million, and (iii) JSC (U.S.) issued and sold 300 million aggregate
+principal amount of unsecured 11.25 Series A Senior Notes due 2004 and
+ 100 million aggregate principal amount of unsecured 10.75 Series B
+Senior Notes due 2002 (the "1994 Senior Notes") pursuant to a registered
+public offering.
+
+The deficit in stockholder's equity is primarily due to JSC's 1989
+purchase of JSC (U.S.)'s common equity owned by JS Group and the
+acquisition by JSC (U.S.) of its common equity owned by MSLEF I, which
+were accounted for as purchases of treasury stock. 
+
+2. -- Significant Accounting Policies
+
+Nature of Operations: The Company's major operations are in paper
+products, newsprint production, recycling, and consumer packaging. 
+Paper product operations procure virgin or recycled fiber and produce
+paperboard for conversion into corrugated containers at the Company's
+own facilities and third party converting operations. Paper product
+customers represent a diverse range of industries including paperboard
+and paperboard packaging, wholesale trade, retailing and agri-business. 
+The Company's newsprint operations produce newsprint from virgin or
+recycled fiber primarily for the newspaper industry. Recycling collects
+wastepaper which is then resold to paper product operations of the
+Company and third parties for conversion into boxboard, corrugated
+containers, and other paper products. Consumer packaging produces
+labels and flexible packaging for use in industrial, medical, and
+consumer product applications. Customers and operations are principally
+located in the United States. Credit is extended to customers based on
+an evaluation of their financial condition.
+ 
+2. -- Significant Accounting Policies (cont)
+
+Principles of Consolidation: The consolidated financial statements
+include the accounts of the Company and its majority-owned subsidiaries. 
+Significant intercompany accounts and transactions are eliminated in
+consolidation.
+
+Cash Equivalents: The Company considers all highly liquid investments
+with an original maturity of three months or less to be cash
+equivalents. At December 31, 1995, cash and cash equivalents of 27
+million are pledged as collateral for obligations associated with the
+accounts receivable securitization program (See Note 4).
+
+Revenue Recognition: Revenue is recognized at the time products are
+shipped.
+
+Inventories: Inventories are valued at the lower of cost or market,
+principally under the last-in, first-out ("LIFO") method except for 54
+million in 1995 and 55 million in 1994 which are valued at the lower of
+average cost or market. First-in, first-out costs (which approximate
+replacement costs) exceed the LIFO value by 84 million and 58 million
+at December 31, 1995 and 1994, respectively.
+
+Property, Plant and Equipment: Property, plant and equipment are
+carried at cost. Provisions for depreciation and amortization are made
+using straight-line rates over the estimated useful lives of the related
+assets and the terms of the applicable leases for leasehold
+improvements.
+
+Timberland: The portion of the costs of timberland attributed to
+standing timber is charged against income as timber is cut, at rates
+determined annually, based on the relationship of unamortized timber
+costs to the estimated volume of recoverable timber. The costs of
+seedlings and reforestation of timberland are capitalized.
+
+Deferred Debt Issuance Costs: Deferred debt issuance costs are
+amortized over the terms of the respective debt obligations using the
+interest method.
+
+Goodwill: The excess of cost over the fair value assigned to the net
+assets acquired is recorded as goodwill and is being amortized using the
+straight-line method over 40 years.
+
+Use of Estimates: The preparation of financial statements in conformity
+with generally accepted accounting principles requires management to
+make estimates and assumptions that affect the reported amounts of
+assets and liabilities and disclosure of contingent assets and
+liabilities at the date of the financial statements and the reported
+amounts of revenues and expenses during the reporting period. Actual
+results could differ from those estimates.
+ 
+2. -- Significant Accounting Policies (cont)
+
+Interest Rate Swap and Cap Agreements: The Company enters into interest
+rate swap and cap agreements to reduce the impact of interest rate
+fluctuations. Swap agreements involve the exchange of fixed and floating
+rate interest payments without the exchange of the underlying principal
+amount. Cap agreements provide that the Company will receive a certain
+amount when short-term interest rates exceed a threshold rate. Periodic
+amounts to be paid or received under interest rate swap and cap
+agreements are accrued and recognized as adjustments to interest
+expense. Premiums paid on cap agreements are included in interest
+payable and amortized to interest expense over the life of the
+agreements. Gains and losses realized upon settlement of these
+agreements are deferred and amortized to interest expense over a period
+relevant to the agreement if the underlying hedged instrument remains
+outstanding, or immediately if the underlying hedged instrument is
+settled. 
+
+Recently Issued Accounting Standards: In March 1995, the Financial
+Accounting Standards Board issued Statement of Financial Accounting
+Standards ("SFAS") No. 121, "Accounting for the Impairment of Long-Lived
+Assets and for Long-Lived Assets to be Disposed Of", which requires
+impairment losses to be recorded on long-lived assets used in operations
+when indicators of impairment are present and the undiscounted cash
+flows estimated to be generated by those assets are less than the
+assets' carrying amount. SFAS No. 121 also addresses the accounting for
+long-lived assets that are disposed of. The Company will adopt SFAS No.
+121 in the first quarter of 1996 and, based on current circumstances,
+does not believe the effect of adoption will be material.
+
+Reclassifications: Certain reclassifications of prior year
+presentations have been made to conform to the 1995 presentation.
+
+3. -- Property, Plant and Equipment
+ 
+Property, plant and equipment at December 31 consists of:
+
+ 1995 1994 
+ 
+Land 60 60
+Buildings and leasehold improvements 268 254
+Machinery, fixtures and equipment 1,815 1,696
+ 2,143 2,010
+Less accumulated depreciation and amortization 753 657
+ 1,390 1,353
+Construction in progress 66 74
+
+ Net property, plant and equipment 1,456 1,427
+
+4. -- Long-Term Debt
+ 
+Long-term debt at December 31 consists of:
+
+ 1995 1994 
+ 
+Tranche A term loan 708 900
+Tranche B term loan 236 300
+Revolving loans 55 43
+Accounts receivable securitization 
+ program loans 217 217
+1994 series A senior notes 300 300
+1994 series B senior notes 100 100
+1993 senior notes 500 500
+Other 76 82
+ 2,192 2,442
+Less current portion 81 50
+ 2,111 2,392
+ 
+Aggregate annual maturities of long-term debt at December 31, 1995, for
+the next five years are 81 million in 1996, 142 million in 1997, 146
+million in 1998, 154 million in 1999, and 397 million in 2000.
+
+1994 Credit Agreement
+In connection with the Recapitalization, JSC (U.S.) entered into a bank
+credit facility (the "1994 Credit Agreement") which consists of a 450
+million revolving credit facility (the "Revolving Credit Facility") of
+which up to 150 million may consist of letters of credit, a 900
+million Tranche A Term Loan and a 300 million Tranche B Term Loan. The
+Revolving Credit Facility matures in 2001. The Tranche A Term Loan
+matures in various installments through 2001. The Tranche B Term Loan
+matures in various installments through 2002.
+
+Outstanding loans under the Tranche A Term Loan and the Revolving Credit
+Facility bear interest at rates selected at the option of JSC (U.S.)
+equal to the alternate base rate ("ABR") plus .75 per annum or the
+adjusted LIBOR Rate plus 1.75 per annum (7.82 at December 31, 1995). 
+Interest on outstanding loans under the Tranche B Term Loan is payable
+at a rate per annum selected at the option of JSC (U.S.), equal to the
+prime rate plus 2 per annum or the adjusted LIBOR Rate plus 3 per
+annum (8.91 at December 31, 1995). ABR is defined as the highest of
+Chemical Bank's prime lending rate, 1/2 of 1 in excess of the Federal
+Funds Rate or 1 in excess of the base certificate of deposit rate. The
+Tranche A and Tranche B Term Loans and the Revolving Credit Facility may
+be prepaid at any time, in whole or in part, at the option of JSC
+(U.S.).
+
+A commitment fee of .375 per annum is assessed on the unused portion of
+the Revolving Credit Facility. At December 31, 1995, the unused portion
+of this facility, after giving consideration to outstanding letters of
+credit, was 301 million.
+ 
+4. -- Long-Term Debt (cont)
+
+The obligations under the 1994 Credit Agreement are unconditionally
+guaranteed by JSC, the Company and its subsidiaries and are secured by
+a security interest in substantially all of the assets of JSC (U.S.) and
+its material subsidiaries, with the exception of cash, cash equivalents
+and trade receivables. The 1994 Credit Agreement is also secured by a
+pledge of all the capital stock of each material subsidiary of JSC and
+by certain intercompany notes.
+
+The 1994 Credit Agreement contains various business and financial
+covenants including, among other things, (i) limitations on dividends,
+redemptions and repurchases of capital stock, (ii) limitations on the
+incurrence of indebtedness, liens, leases and sale-leaseback
+transactions, (iii) limitations on capital expenditures, (iv)
+maintenance of minimum levels of consolidated earnings before
+depreciation, interest, taxes and amortization and (v) maintenance of
+minimum interest coverage ratios. The 1994 Credit Agreement also
+requires prepayments if JSC (U.S.) has excess cash flows, as defined, or
+receives proceeds from: certain asset sales, insurance, issuance of
+equity securities, or incurrence of certain indebtedness.
+
+Accounts Receivable Securitization Program Loans
+During 1995, JSC (U.S.) entered into a 315 million accounts receivable
+securitization program (the "1995 Securitization"). The proceeds of the
+1995 Securitization were used to extinguish JSC (U.S.)'s borrowings of
+ 230 million under the 1991 Securitization Program. The 1995
+Securitization provides for the sale of certain of the Company's trade
+receivables to a wholly-owned, bankruptcy remote, limited purpose
+subsidiary, Jefferson Smurfit Finance Corporation ("JS Finance"), which
+finances its purchases of eligible JSC (U.S.) receivables through the
+issuance of commercial paper or the proceeds of borrowings under a
+revolving liquidity facility and a term loan. JS Finance borrowed 15
+million under the term loan, and may issue up to 300 million trade
+receivables-backed commercial paper or borrow up to 300 million under
+a revolving liquidity facility. 
+
+Under the 1995 Securitization, JS Finance has granted a security
+interest in all its assets, principally cash and cash equivalents of 27
+million and trade accounts receivable of 217 million, at December 31,
+1995. Interest rates on borrowings under the 1995 Securitization are at
+a variable rate on the remainder (5.78 at December 31, 1995). At
+December 31, 1995, 95 million was available for additional borrowing,
+subject to JSC (U.S.)'s level of eligible accounts receivable. 
+Borrowings under the Securitization Program, which expires December
+1999, have been classified as long-term debt because of the Company's
+intent to refinance this debt on a long-term basis and the availability
+of such financing under the terms of the program.
+
+1994 Senior Notes
+In connection with the Recapitalization, JSC (U.S.) issued and sold 300
+million aggregate principal amount of unsecured 11.25 Series A Senior
+Notes due 2004 and 100 million aggregate principal amount of unsecured
+10.75 Series B Senior Notes due 2002. The Series A Senior Notes are
+redeemable in whole or in part at the option of JSC (U.S.), at any time
+on or after May 1, 1999 with premiums of 5.625 and 2.813 of the
+principal amount if redeemed during the 12-month periods commencing May
+1, 1999 and 2000, respectively. In addition, up to 100 million
+aggregate principal amount of Series A Senior Notes are redeemable at
+110 of the principal amount prior to May 1, 1997 in connection with
+certain stock issuances. The Series B Senior Notes are not redeemable
+prior to maturity.
+ 
+4. -- Long-Term Debt (cont)
+
+The 1994 Senior Notes, which are unconditionally guaranteed on a senior
+basis by JSCE, Inc., rank pari passu with the 1994 Credit Agreement and
+the 1993 Senior Notes. The 1994 Senior Notes agreement contains
+business and financial covenants which are less restrictive than those
+contained in the 1994 Credit Agreement.
+
+Holders of the 1994 Senior Notes have the right, subject to certain
+limitations, to require JSC (U.S.) to repurchase their securities at
+101 of the principal amount plus accrued and unpaid interest, upon the
+occurrence of a change of control or in certain events from proceeds of
+major asset sales, as defined.
+
+1993 Senior Notes
+In April 1993, JSC (U.S.) issued 500 million of unsecured 9.75 Senior
+Notes (the "1993 Senior Notes") due 2003 which are not redeemable prior
+to maturity. The 1993 Senior Notes, which are unconditionally
+guaranteed on a senior basis by JSCE, Inc., rank pari passu with the
+1994 Credit Agreement and the 1994 Senior Notes. The 1993 Senior Notes
+agreement contains business and financial covenants which are
+substantially less restrictive than those contained in the 1994 Credit
+Agreement and substantially similar to those contained in the 1994
+Senior Notes agreement.
+
+Holders of the 1993 Senior Notes have the right, subject to certain
+limitations, to require JSC (U.S.) to repurchase their securities at
+101 of the principal amount plus accrued and unpaid interest, upon the
+occurrence of a change in control or in certain events, from proceeds of
+major asset sales, as defined.
+
+Other Debt
+Other long-term debt at December 31, 1995, is payable in varying
+installments through the year 2029. Interest rates on these obligations
+averaged approximately 8.81 at December 31, 1995.
+
+Interest Rate Swap and Cap Agreements 
+The Company utilizes interest rate swap and cap agreements to manage its
+interest rate exposure on long-term debt. At December 31, 1995, the
+Company has interest rate swap agreements with a notional amount of 483
+million which effectively fix (for remaining periods up to 2 years) the
+interest rate on variable rate borrowings. The Company is currently
+paying a weighted average fixed interest rate of 6.52 and receiving a
+weighted average variable interest rate of 5.80 , calculated on the
+notional amount. In addition, the Company has a cap agreement with a
+notional amount of 100 million (through 1996) on variable rate debt
+which limits the Company's interest payments to a range of 5.5-7.0 on
+the notional amount. 
+
+The Company is exposed to credit loss in the event of non-performance by
+the other parties to the interest rate swap agreements. However, the
+Company does not anticipate non-performance by the counterparties.
+
+Other
+Interest costs capitalized on construction projects in 1995, 1994, and
+1993 totalled 4 million, 4 million, and 3 million, respectively. 
+Interest payments on all debt instruments for 1995, 1994, and 1993 were
+ 228 million, 247 million, and 226 million, respectively.
+ 
+5. -- Income Taxes
+
+At December 31, 1995, the Company has net operating loss carryforwards
+for federal income tax purposes of approximately 98 million (expiring
+in the year 2009), none of which are available for utilization against
+alternative minimum taxes.
+ 
+Significant components of the Company's deferred tax assets and
+liabilities at December 31 are as follows:
+ 1995 1994
+ 
+Deferred tax liabilities:
+ 
+ Depreciation and depletion 372 365
+ Prepaid pension costs 34 31
+ Other 118 107
+ Total deferred tax liabilities 524 503
+ 
+Deferred tax assets:
+
+ Employee benefit plans 127 120
+ Restructuring and other charges 11 32
+ Net operating loss and tax credit carryforwards 71 163
+ Other 43 43
+ Total deferred tax assets 252 358
+ Valuation allowance for deferred tax assets (11) (25)
+ Net deferred tax assets 241 333
+ Net deferred tax liabilities 283 170
+ 
+Provision for (benefit from) income taxes before extraordinary item and 
+cumulative effect of accounting changes were as follows:
+ 
+ Year Ended December 31, 
+ 1995 1994 1993
+ 
+Current
+ Federal 38 1 28
+ State and local 4 2 2
+ 42 3 30
+Deferred
+ Federal (12) 39 (54)
+ State and local 2 4 6
+ Net operating loss carryforwards 124 (30) (71) 
+ 114 13 (119)
+Adjustment of deferred tax assets and 
+ liabilities for enacted tax rate change 6
+ 156 16 (83)
+ 
+The Company increased its deferred tax assets and liabilities in 1993 as
+a result of legislation enacted during 1993 increasing the corporate
+federal statutory tax rate from 34 to 35 effective January 1, 1993.
+ 
+5. -- Income Taxes (cont)
+
+The federal income tax returns for 1989 through 1991 are currently under
+examination. While the ultimate results of such examination cannot be
+predicted with certainty, the Company's management believes that the
+examination will not have a material adverse effect on its consolidated
+financial condition or results of operations.
+
+A reconciliation of the difference between the statutory federal income
+tax rate and the effective income tax rate as a percentage of income
+(loss) before income taxes, extraordinary item, and cumulative effect of
+accounting changes is as follows:
+ 
+ Year Ended December 31, 
+ 1995 1994 1993 
+ 
+U.S. Federal statutory rate 35.0 35.0 (35.0 Adjustment of deferred tax assets 
+ and liabilities for enacted 
+ tax rate change 2.2 
+State and local taxes, net of 
+ federal tax benefit 3.9 (4.8) (2.0) 
+Permanent differences from applying 
+ purchase accounting 3.2 23.7 3.5 
+Effect of valuation allowances on 
+ deferred tax assets, net of 
+ federal benefit (3.4) 1.1 1.2 
+Other, net 2.1 (2.1) 
+ 38.7 57.1 (32.2 
+The Company made income tax payments of 41 million, 3 million, and 33
+million, in 1995, 1994, and 1993, respectively. 
+
+Effective January 1, 1993, the Company changed its method of accounting
+for income taxes from the deferred method to the liability method
+required by SFAS No. 109, "Accounting for Income Taxes". 
+
+The cumulative effect of adopting SFAS No. 109 as of January 1, 1993 was
+to increase net income by 21 million. For 1993, application of SFAS
+No. 109 increased the pretax loss by 14 million because of increased
+depreciation expense as a result of the requirement to report assets
+acquired in prior business combinations at pretax amounts.
+
+6. -- Employee Benefit Plans
+
+Pension Plans
+The Company sponsors noncontributory defined benefit pension plans
+covering substantially all employees not covered by multi-employer
+plans. Plans that cover salaried and management employees provide
+pension benefits that are based on the employee's five highest
+consecutive calendar years' compensation during the last ten years of
+service. Plans covering non-salaried employees generally provide
+benefits of stated amounts for each year of service. These plans
+provide reduced benefits for early retirement. The Company's funding
+policy is to make minimum annual contributions required by applicable
+regulations. The Company also participates in several multi-employer
+pension plans, which provide defined benefits to certain union
+employees.
+ 
+6. -- Employee Benefit Plans (cont)
+
+Assumptions used in the accounting for the defined benefit plans were:
+ 
+ 1995 1994 1993
+ 
+Weighted average discount rate 7.25 8.5 7.6 
+Rate of increase in compensation levels 4.0 5.0 4.0 
+Expected long-term rate of return on assets 9.5 10.0 10.0 
+ 
+The components of net pension income for the defined benefit plans and
+the total contributions charged to pension expense for the multi-
+employer plans follow:
+ 
+ Year Ended December 31, 
+ 1995 1994 1993
+ 
+Defined benefit plans:
+ Service cost - benefits earned during the period 13 14 13
+ Interest cost on projected benefit obligations 59 54 54
+ Actual return on plan assets (155) (8) (91)
+ Net amortization and deferral 75 (71) 9
+Multi-employer plans 2 2 2
+ Net pension income (6) (9) (13)
+ 
+The following table sets forth the funded status and amounts recognized
+in the consolidated balance sheets at December 31 for the Company's and
+its subsidiaries' defined benefit pension plans:
+ 
+ 1995 1994
+ 
+Actuarial present value of benefit obligations: 
+ Vested benefit obligations 781 632
+
+ Accumulated benefit obligations 820 670
+
+Projected benefit obligations 857 700
+Plan assets at fair value 845 740
+Plan assets (less than) in excess of projected 
+ benefit obligations (12) 40
+Unrecognized net loss 119 63
+Unrecognized net asset at December 31,
+ being recognized over 14 to 15 years (21) (25)
+Net pension asset 86 78
+ 
+Approximately 41 of plan assets at December 31, 1995 are invested in
+cash equivalents or debt securities and 59 are invested in equity
+securities, including common stock of JS Group having a market value of
+ 78 million. 
+
+Savings Plans
+The Company sponsors voluntary savings plans covering substantially all
+salaried and certain hourly employees. The Company match, which is paid
+in JSC stock, is 50 of each participant's contributions up to an annual
+maximum. The Company's expense for the savings plans totalled 6
+million, 5 million, and 5 million in 1995, 1994, and 1993,
+respectively.
+ 
+6. -- Employee Benefit Plans (cont)
+
+Postretirement Health Care and Life Insurance Benefits
+The Company provides certain health care and life insurance benefits for
+all salaried and certain hourly employees. The Company has various
+plans under which the cost may be borne either by the Company, the
+employee or partially by each party. The Company does not currently
+fund these plans. These benefits are discretionary and are not a
+commitment to long-term benefit payments. The plans were amended
+effective January 1, 1993 to allow employees who retire on or after
+January 1, 1994 to become eligible for these benefits only if they
+retire after age 60 while working for the Company.
+
+Effective January 1, 1993, the Company adopted SFAS No. 106, "Employers'
+Accounting for Postretirement Benefits Other Than Pensions", which
+requires companies to accrue the expected cost of retiree benefit
+payments, other than pensions, during employees' active service period. 
+The Company elected to immediately recognize the accumulated liability,
+measured as of January 1, 1993. The cumulative effect of this change in
+accounting principle resulted in a charge of 37 million (net of income
+tax benefits of 22 million). The Company had previously recorded an
+obligation of 36 million in connection with prior business
+combinations. 
+
+The following table sets forth the accumulated postretirement benefit
+obligation ("APBO") with respect to these benefits as of December 31:
+ 
+ 1995 1994
+ 
+Retirees 56 52
+Active employees 38 34
+Total accumulated postretirement benefit obligation 94 86
+Unrecognized net gain 6 13
+Accrued postretirement benefit cost 100 99
+ 
+Net periodic postretirement benefit cost included the following components:
+ 
+ 1995 1994
+ 
+Service cost - benefits earned during the period 1 2
+Interest cost on accumulated postretirement
+ benefit obligation 7 7
+Net amortization (1) (1)
+Net periodic postretirement benefit cost 7 8
+
+A weighted-average discount rate of 7.25 and 8.5 was used in
+determining the APBO at December 31, 1995 and 1994, respectively. The
+weighted-average annual assumed rate of increase in the per capita cost
+of covered benefits ("health care cost trend rate") was 9.5 , with an
+annual decline of 1 until the rate reaches 4.25 in the year 2001. The
+effect of a 1 increase in the assumed health care cost trend rate would
+increase the APBO as of December 31, 1995 by 2 million and have no
+effect on the annual net periodic postretirement benefit cost for 1995.
+ 
+7. -- Related Party Transactions
+
+Transactions with JS Group
+Transactions with JS Group, its subsidiaries and affiliated companies
+were as follows:
+ 
+ Year Ended December 31,
+ 1995 1994 1993
+
+Product sales 44 36 18
+Product and raw material purchases 108 71 49
+Management services income 4 4 6
+Charges from JS Group for services provided 1 1 
+Charges from JS Group for letter of credit, 
+ commitment fees and related expenses 3 3
+Charges to JS Group for costs pertaining to
+ the Fernandina No. 2 paperboard machine 57 54 62
+Receivables at December 31 3 4 2
+Payables at December 31 13 11 12
+ 
+Product sales to and purchases from JS Group, its subsidiaries, and
+affiliates are consummated on terms generally similar to those
+prevailing with unrelated parties.
+
+The Company provides certain subsidiaries and affiliates of JS Group
+with general management and elective management services under separate
+Management Services Agreements. In consideration for general management
+services, the Company is paid a fee up to 2 of the subsidiaries' or
+affiliates' gross sales. In consideration for elective services, the
+Company is reimbursed for its direct cost of providing such services.
+
+An affiliate of JS Group owns the No. 2 paperboard machine that is
+located in the Company's Fernandina Beach, Florida paperboard mill (the
+"Fernandina Mill"). Pursuant to an operating agreement between the
+Company and the affiliate, the Company operates and manages the No. 2
+paperboard machine and is compensated for its direct production and
+manufacturing costs and indirect manufacturing, selling and
+administrative costs incurred by the Company for the entire Fernandina
+Mill. The compensation is determined by applying various formulas and
+agreed upon amounts to the subject costs. The amounts reimbursed to the
+Company are reflected as reductions of cost of goods sold and selling
+and administrative expenses in the accompanying consolidated statements
+of operations.
+
+Transactions with Times Mirror
+In July 1995, under the terms of a shareholder agreement, JSC (U.S.)
+acquired the remaining 20 minority interest of Smurfit Newsprint
+Corporation ("SNC") from The Times Mirror Company ("Times Mirror"). SNC
+supplies newsprint to Times Mirror at amounts which approximate
+prevailing market prices under the terms of a long-term agreement. The
+obligations of the Company and Times Mirror to supply and purchase
+newsprint are wholly or partially terminable upon the occurrence of
+certain defined events. Sales to Times Mirror for 1995, 1994, and 1993
+were 189 million, 113 million, and 115 million, respectively.
+
+Transactions with Morgan Stanley & Co.
+In connection with the Recapitalization, Morgan Stanley & Co., in its
+capacity as underwriter of public equity and debt securities, received
+fees from the Company of 16 million in 1994.
+ 
+8. -- Leases
+
+The Company leases certain facilities and equipment for production,
+selling and administrative purposes under operating leases. Future
+minimum lease payments at December 31, 1995, required under operating
+leases that have initial or remaining noncancelable lease terms in
+excess of one year are 29 million in 1996, 22 million in 1997, 15
+million in 1998, 11 million in 1999, 9 million in 2000 and 20 million
+thereafter.
+
+Net rental expense was 48 million, 46 million, and 45 million for
+1995, 1994, and 1993, respectively.
+
+9. -- Fair Value of Financial Instruments
+
+The estimated fair values of the Company's financial instruments are as
+follows:
+ 
+ December 31, 
+ 1995 1994 
+ Carrying Fair Carrying Fair 
+ Amount Value Amount Value 
+ 
+Assets
+ Cash and cash equivalents 27 27 62 62
+ Unrealized gain on interest 
+ rate swap agreements 4
+
+Liabilities
+ Long-term debt, including 
+ current maturities 2,192 2,184 2,442 2,402
+ Unrealized loss on interest 
+ rate swap agreements 5 8
+ Realized loss on interest 
+ rate swap agreements 
+ marked to market 4 4
+
+The carrying amount of cash equivalents approximates fair value because
+of the short maturity of those instruments. The fair value of the
+Company's long-term debt is estimated based on the quoted market prices
+for the same or similar issues or on the current rates offered to the
+Company for debt of the same remaining maturities. The fair value of
+the interest rate swap agreements is the estimated amount the Company
+would pay or receive, net of accrued interest expense, to terminate the
+agreements at December 31, 1995 and 1994, taking into account current
+interest rates and the current creditworthiness of the swap
+counterparties.
+
+10. -- Restructuring Charge
+
+During 1993, the Company recorded a pretax charge of 96 million to
+recognize the effects of a restructuring program designed to improve the
+Company's long-term competitive position. Since 1993, the Company has
+written down the assets of closed facilities and other nonproductive
+assets totalling 35 million, and made cash expenditures of 33 million
+relating to direct expenses associated with plant closures, reductions
+in workforce, realignment and consolidation of various manufacturing
+operations. The remaining balance of the restructuring liability at
+December 31, 1995 was 28 million, the majority of which is expected to
+be paid in 1996. The restructuring program is proceeding as originally
+planned, and no significant adjustment to the reserve is anticipated at
+this time.
+
+11. -- Contingencies
+
+The Company's past and present operations include activities which are
+subject to federal, state and local environmental requirements,
+particularly relating to air and water quality. The Company faces
+potential environmental liability as a result of violations of permit
+terms and similar authorizations that have occurred from time to time at
+its facilities. The Company faces potential liability for response
+costs at various sites with respect to which the Company has received
+notice that it may be a potentially responsible party ("PRP") as well as
+contamination of certain Company-owned properties, under the
+Comprehensive Environmental Response, Compensation and Liability Act
+concerning hazardous substance contamination. In estimating its
+reserves for environmental remediation and future costs, the Company's
+estimated liability reflects only the Company's expected share. In
+determining the liability, the estimate takes into consideration the
+number of other PRP's at each site, the identity and financial condition
+of such parties and experience regarding similar matters. No amounts
+have been recorded for potential recoveries from insurance carriers.
+
+During 1993, the Company recorded a pretax charge of 54 million of
+which 39 million represents asbestos and PCB removal, solid waste
+cleanup at existing and former operating sites and expenses for response
+costs at various sites where the Company has received notice that it is
+a potentially responsible party. The Company made payments of 9
+million and 4 million related to PRP sites and other environmental
+cleanup in 1995 and 1994, respectively.
+
+The Company is a defendant in a number of lawsuits and claims arising
+out of the conduct of its business, including those related to
+environmental matters. While the
+ultimate results of such suits or other proceedings against the Company
+cannot be predicted with certainty, the management of the Company
+believes that the resolution of these matters will not have a material
+adverse effect on its consolidated financial condition or results of
+operation.
+
+In the fourth quarter of 1995, the Company recorded a pretax charge
+totalling 25 million related to product quality matters and failure to
+follow proper manufacturing and internal procedures in an immaterial
+non-core product line. The Company is continuing to further evaluate
+this issue and expects to conclude its review during the second fiscal
+quarter. Based upon the information currently available to management,
+the Company believes the reserve is adequate but intends to reevaluate
+the adequacy of the reserve at the conclusion of its review.
+ 
+12. -- Business Segment Information
+
+The Company's principal lines of business are paperboard/packaging
+products and newsprint. The paperboard/packaging products segment
+includes the manufacture and distribution of containerboard, boxboard
+and cylinderboard, corrugated containers, folding cartons, fiber
+partitions, spiral cores and tubes, labels and flexible packaging. The
+newsprint segment includes the manufacture and distribution of
+newsprint. A summary by business segment of net sales, income (loss)
+from operations, identifiable assets, capital expenditures and
+depreciation, depletion and amortization follows:
+ 
+ Year Ended December 31, 
+ 1995 1994 1993 
+ 
+Net sales
+ Paperboard/packaging products 3,706 2,974 2,699
+ Newsprint 387 259 248
+ 4,093 3,233 2,947
+Income (loss) from operations
+ Paperboard/packaging products 604 308 13
+ Newsprint 26 (17) (22)
+ Total income (loss) from operations 630 291 (9)
+Interest expense (234) (269) (254)
+Other, net 7 6 5
+Income (loss) before income taxes, 
+ extraordinary item and cumulative 
+ effect of accounting changes 403 28 (258)
+
+Identifiable assets
+ Paperboard/packaging products 2,294 2,256 2,153
+ Newsprint 248 231 225
+ Corporate assets 241 272 219
+ 2,783 2,759 2,597
+
+Capital expenditures
+ Paperboard/packaging products 137 146 107
+ Newsprint 17 17 10
+ 154 163 117
+
+Depreciation, depletion and amortization
+ Paperboard/packaging products 122 115 115
+ Newsprint 17 16 16
+ 139 131 131
+ 
+Sales and transfers between segments are not material. Export sales are
+less than 10 of total sales. Corporate assets consist principally of
+cash and cash equivalents, deferred income taxes, deferred debt issuance
+costs and other assets which are not specific to a segment.
+ 
+13. -- Summarized Financial Information JSC (U.S.)
+
+The following summarized financial information is presented for JSC
+(U.S.), a wholly-owned subsidiary of JSCE, Inc. No separate financial
+statements are presented for JSC (U.S.) because the financial statements
+of JSC (U.S.) are identical to those of JSCE, Inc. JSC (U.S.) is the
+borrower under the 1994 Credit Agreement, the issuer of the 1994 Senior
+Notes and the 1993 Senior Notes. These securities are guaranteed by
+JSCE, Inc.
+ 
+Condensed Consolidated Balance Sheets
+
+ December 31, 
+ 1995 1994
+
+Current assets 644 647
+Property, plant and equipment and timberlands, net 1,714 1,686
+Goodwill 253 257
+Other assets 172 169
+ Total assets 2,783 2,759
+
+Current liabilities 597 636
+Long-term debt 2,111 2,392
+Other liabilities 562 461
+Stockholder's deficit 
+ Common stock 
+ Additional paid-in capital 1,102 1,102
+ Retained earnings (deficit) (1,589) (1,832)
+ Total stockholder's deficit (487) (730)
+ Total liabilities and stockholder's deficit 2,783 2,759
+
+13. -- Summarized Financial Information JSC (U.S.) (cont)
+ 
+Condensed Consolidated Statements of Operations
+
+ Year Ended December 31, 
+ 1995 1994 1993 
+ 
+Net sales 4,093 3,233 2,947
+Cost and expenses 3,463 2,942 2,956
+Interest expense 234 269 254
+Other income (expense), net 7 6 5
+Income (loss) before income taxes,
+ extraordinary item and cumulative
+ effect of accounting changes 403 28 (258)
+Provision for (benefit from) income 
+ taxes 156 16 (83)
+Extraordinary item
+ Loss from early extinguishment of 
+ debt, net of income tax benefits (4) (55) (38)
+
+Cumulative effect of accounting changes
+ Postretirement benefits, net of
+ income tax benefit (37)
+ Income taxes 21
+
+Net income (loss) 243 (43) (229)
+
+14. -- Quarterly Results (Unaudited)
+
+The following is a summary of the unaudited quarterly results of
+operations:
+ 
+ First Second Third Fourth
+ Quarter Quarter Quarter Quarter
+
+1995
+ Net sales 986 1,083 1,051 973
+ Gross profit 187 228 245 211
+ Income from operations 126 165 185 154
+ Income before extraordinary item 39 66 77 65
+ Loss from early extinguishment
+ of debt (3) (1)
+ Net Income 39 66 74 64
+
+1994
+ Net sales 728 766 858 881
+ Gross profit 98 111 136 169
+ Income from operations 47 56 80 108
+ Income (loss) before 
+ extraordinary item (12) (9) 6 27
+ Loss from early extinguishment
+ of debt (51) (4)
+ Net income (loss) (12) (60) 6 23
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+ ACCOUNTING AND FINANCIAL DISCLOSURE
+
+None
+
+ PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+Directors
+
+The following table sets forth the names and ages of the directors
+of the Company.
+
+ Name Age
+ Michael W.J. Smurfit 59
+ Howard E. Kilroy 60
+ James E. Terrill 62
+ James R. Thompson 59
+ Donald P. Brennan 55
+ Alan E. Goldberg 41
+ David R. Ramsay 32
+ G. Thompson Hutton 40
+
+The Board of Directors currently consists of eight directors. The
+directors are classified into three groups: three directors having
+terms expiring in 1996 (Messrs. Kilroy, Goldberg and Thompson), two
+directors having terms expiring in 1997 (Messrs. Smurfit and
+Brennan) and three directors having terms expiring in 1998 (Messrs.
+Terrill, Ramsay and Hutton).
+
+Executive Officers
+
+The following table sets forth the names, ages and positions of the
+executive officers of the Company.
+ 
+ Name Age Position 
+ 
+Michael W.J. Smurfit 59 Chairman of the Board and Director
+James E. Terrill 62 President, Chief Executive Officer and Director
+Richard W. Graham 61 Senior Vice President 
+James P. Davis 40 Vice President and General Manager - Consumer
+ Packaging Division
+Raymond G. Duffy 54 Vice President - Planning
+John R. Funke 54 Vice President and Chief Financial Officer
+Richard J. Golden 53 Vice President - Purchasing
+Michael F. Harrington 55 Vice President - Personnel and Human Resources
+Charles A. Hinrichs 42 Vice President and Treasurer
+F. Scott Macfarlane 50 Vice President and General Manager - Folding
+ Carton and Boxboard Mill Division
+Edward F. McCallum 61 Vice President and General Manager - Container
+ Division
+Lyle L. Meyer 59 Vice President
+Patrick J. Moore 41 Vice President and General Manager - Industrial
+ Packaging Division
+David C. Stevens 61 Vice President and General Manager -
+ Reclamation Division
+Truman L. Sturdevant 61 Vice President and General Manager of SNC
+Michael E. Tierney 47 Vice President, General Counsel and Secretary
+Richard K. Volland 57 Vice President - Physical Distribution
+William N. Wandmacher 53 Vice President and General Manager -
+ Containerboard Mill Division
+Gary L. West 53 Vice President - Sales and Marketing 
+ 
+Biographies
+
+Donald P. Brennan has been a Director of the Company since 1989. 
+Mr. Brennan is an Advisory Director of Morgan Stanley & Co. Inc.
+("MS&Co."). He was Managing Director of MS&Co. from 1984 to
+February 1996, responsible for MS&Co.'s Merchant Banking Division. 
+He is Chairman and President of Morgan Stanley Leveraged Equity
+Fund II, Inc. ("MSLEF II, Inc.") and Morgan Stanley Capital
+Partners III, Inc. ("MSCP III, Inc."). Mr. Brennan serves as
+Director of Fort Howard Corporation, PSF Finance Holdings, Inc. and
+SITA Telecommunications Holdings N.V.
+
+James P. Davis was appointed Vice President and General Manager -
+Consumer Packaging Division in November 1995. He served as
+Division Director of Operations from August 1995 to November 1995. 
+Prior to that time, he held various management positions in the
+Container Division since joining the Company in 1977.
+
+Raymond G. Duffy has been Vice President - Planning since July 1983
+and served as Director of Corporate Planning from 1980 to 1983.
+
+John R. Funke has been Vice President and Chief Financial Officer
+since April 1989 and was Corporate Controller and Secretary from
+1982 to April 1989.
+
+Alan E. Goldberg has been a Director of the Company since 1989. 
+Mr. Goldberg joined MS&Co. in 1979 and has been a member of
+MS&Co.'s Merchant Banking Division since its formation in 1985 and
+a Managing Director of MS&Co. since 1988. Mr. Goldberg is a
+Director and a Vice Chairman of MSCP III, Inc. and MSLEF II, Inc. 
+Mr. Goldberg also serves as Director of Amerin Guaranty
+Corporation, CIMIC Holdings Limited, Centre Cat Limited, Hamilton
+Services Limited and Risk Management Solutions, Inc.
+
+Richard J. Golden has been Vice President - Purchasing since
+January 1985 and was Director of Corporate Purchasing from October
+1981 to January 1985. In January 1994, he was assigned
+responsibility for world-wide purchasing for Jefferson Smurfit
+Group plc ("JS Group"), a public company organized under the laws
+of the Republic of Ireland.
+
+Richard W. Graham was appointed Senior Vice President in February
+1994. He served as Vice President and General Manager - Folding
+Carton and Boxboard Mill Division from February 1991 to January
+1994. Mr. Graham was Vice President and General Manager - Folding
+Carton Division from October 1986 to February 1991. 
+
+Michael F. Harrington was appointed Vice President - Personnel and
+Human Resources in January 1992. Prior to joining the Company, he
+was Corporate Director of Labor Relations/Safety and Health with
+Boise Cascade Corporation for more than 5 years.
+Charles A. Hinrichs was appointed Vice President and Treasurer in
+April 1995. Prior to joining the Company, he was employed by The
+Boatmen's National Bank of St. Louis for 13 years where most
+recently he was Senior Vice President and Chief Credit Officer.
+ 
+G. Thompson Hutton was elected to the Board of Directors in
+December 1994. Mr. Hutton has been President and Chief Executive
+Officer of Risk Management Solutions, Inc., an information services
+company based in Menlo Park, California, since 1991. Prior to that
+he was a management consultant with McKinsey & Company, Inc. from
+1986 to 1991. He also serves as a Trustee of Colorado Outward
+Bound School.
+
+Howard E. Kilroy has been a Director of the Company since 1989. 
+Mr. Kilroy was Chief Operations Director of JS Group from 1978
+until March 1995 and President of JS Group from October 1986 until
+March 1995. He was a member of the Supervisory Board of Smurfit
+International B.V. ("SIBV") from January 1978 to January 1992. He
+was Senior Vice President of the Company for over 5 years. He
+retired from his executive positions with JS Group and the Company
+at the end of March 1995, but remains a Director of JS Group and
+the Company. In addition, he is Governor (Chairman) of Bank of
+Ireland and a Director of CRH plc.
+
+F. Scott Macfarlane was appointed Vice President and General
+Manager - Folding Carton and Boxboard Mill Division in November
+1995. He served as Vice President and General Manager of the
+Folding Carton Division from December 1993 to November 1995. Since
+joining the Company in 1971, he has held increasingly responsible
+positions within the Folding Carton Division.
+
+Edward F. McCallum has been Vice President and General Manager -
+Container Division since October 1992. He served as Vice President
+and General Manager of the Industrial Packaging Division from
+January 1991 to October 1992. Prior to that time, he served in
+various positions in the Container Division since joining the
+Company in 1971.
+
+Lyle L. Meyer has been Vice President since April 1989. He served
+as President of Smurfit Pension and Insurance Services Company
+("SPISCO") from 1982 until 1992, when SPISCO was merged into the
+Company.
+
+Patrick J. Moore has been Vice President and General Manager -
+Industrial Packaging Division since December 1994. He served as
+Vice President and Treasurer from February 1993 to December 1994
+and was Treasurer from October 1990 to February 1993. Prior to
+joining the Company in 1987 as Assistant Treasurer, Mr. Moore was
+with Continental Bank in Chicago where he served in various
+corporate lending, international banking and administrative
+capacities.
+
+David R. Ramsay has been a Director of the Company since 1989. Mr.
+Ramsay joined MS&Co. in 1989 and is a Vice President of MS&Co.'s
+Merchant Banking Division. Mr. Ramsay also serves as a Director
+of ARM Financial Group Inc., Integrity Life Insurance Company,
+National Integrity Life Insurance Company, Consolidated Hydro,
+Inc., Hamilton Services Limited, Risk Management Solutions, Inc.
+and PSF Finance Holdings, Inc.
+ 
+Michael W.J. Smurfit has been Chairman and Chief Executive Officer
+of JS Group since 1977. Dr. Smurfit has been Chairman of the Board
+of the Company since 1989. He was Chief Executive Officer of the
+Company prior to July 1990.
+
+David C. Stevens has been Vice President and General Manager -
+Reclamation Division since January 1993. He joined the Company in
+1987 as General Sales Manager and was named Vice President later
+that year. He held various management positions with International
+Paper and was President of Mead Container Division prior to joining
+the Company.
+
+Truman L. Sturdevant has been Vice President and General Manager of
+SNC since August 1990. Mr. Sturdevant joined the Company in 1984
+as Vice President and General Manager of the Oregon City newsprint
+mill.
+
+James E. Terrill was named a Director and President and Chief
+Executive Officer in February 1994. He served as Executive Vice
+President - Operations from August 1990 to February 1994. He also
+served as Executive Vice President of SNC from February 1993 to
+February 1994 and was President of SNC from February 1986 to
+February 1993. 
+
+James R. Thompson was elected to the Board of Directors in July
+1994. He is Chairman of Winston & Strawn, a law firm that
+regularly represents the Company on numerous matters. He served as
+Governor of the State of Illinois from 1977 to 1991. Mr. Thompson
+also serves as a Director of FMC Corporation, the Chicago Board of
+Trade, International Advisory Council of the Bank of Montreal,
+Prime Retail, Inc., Pechiney International, Wackenhut Corrections
+Corporation, Hollinger International, Inc. and Union Pacific
+Resources, Inc.
+
+Michael E. Tierney has been Vice President, General Counsel and
+Secretary since January 1993. He served previously as Senior
+Counsel and Assistant Secretary since joining the Company in 1987.
+
+Richard K. Volland has been Vice President - Physical Distribution
+since 1978.
+
+William N. Wandmacher has been Vice President and General Manager -
+ Containerboard Mill Division since January 1993. He served as 
+Division Vice President - Medium Mills from October 1986 to January
+1993. Since joining the Company in 1966, he has held increasingly
+responsible positions in production, plant management and planning,
+both domestic and foreign.
+
+Gary L. West has been Vice President - Sales and Marketing since
+December 1994. He was Vice President and General Manager -
+Industrial Packaging Division from October 1992 to December 1994. 
+He served as Vice President - Converting and Marketing for the
+Industrial Packaging Division from January 1991 to October 1992. 
+Prior to that time, he held various management positions in the
+Container and Consumer Packaging divisions since joining the
+Company in 1980.
+ 
+ITEM 11. EXECUTIVE COMPENSATION
+
+The information required in response to this item is set forth
+under the captions "Executive Compensation", "Report of the
+Compensation Committee on Executive Compensation" and "Appointment
+Committee Interlocks and Insider Participation" in JSC's Proxy
+Statement in connection with the Annual Meeting of Stockholders to
+be held on May 9, 1996, which will be filed with the Securities and
+Exchange Commission on or before April 30, 1996 (the "Proxy
+Statement"), and is incorporated herein by reference.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+MANAGEMENT
+
+All of the outstanding JSC (U.S.) Common Stock is owned by JSCE,
+and all of the outstanding JSCE Common Stock is owned by JSC. 
+
+Additional information required in response to this item is set
+forth under the caption "Principal Stockholders" in JSC's Proxy
+Statement and is incorporated herein by reference.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+The information required in response to this item is set forth
+under the caption "Certain Transactions" in JSC's Proxy Statement
+and is incorporated herein by reference.
+
+PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON
+FORM 8-K.
+
+(a) (1) and (2) The list of Financial Statements and Financial
+ Statement Schedules required by this item are included in
+ Item 8 on page 22.
+ (3) Exhibits. 
+ 3.1 Certificate of Incorporation of the Company (incorporated
+ by reference to Exhibit 3.1 to JSCE's Annual Report on
+ Form 10-K for the fiscal year ended December 31, 1994).
+ 3.2 By-laws of the Company (incorporated by reference to
+ Exhibit 3.2 to JSCE's Annual Report on Form 10-K for the
+ fiscal year ended December 31, 1994). 
+ 4.1 Indenture for the Series A 1994 Senior Notes
+ (incorporated by reference to Exhibit 4.1 to JSC's
+ quarterly report on Form 10-Q for the quarter ended March
+ 31, 1994). 
+ 4.2 Indenture for the Series B 1994 Senior Notes
+ (incorporated by reference to Exhibit 4.2 to JSC's
+ quarterly report on Form 10-Q for the quarter ended March
+ 31, 1994).
+ 4.3 Indenture for the 1993 Senior Notes (incorporated by
+ reference to Exhibit 4.4 to JSC's Registration Statement
+ on Form S-1 (File No. 33-75520)).
+ 4.4 First Supplemental Indenture to the 1993 Senior Note
+ Indenture (incorporated by reference to Exhibit 4.5 to
+ JSC's Registration Statement on Form S-1 (File No. 33-
+ 75520)).
+10.1 Second Amended and Restated Organization Agreement, as of
+ August 26, 1992, among JSC (U.S.), Container Corporation
+ of America ("CCA"), MSLEF II, Inc., SIBV, JSC and The
+ Morgan Stanley Leveraged Equity Fund II, L.P. ("MSLEF
+ II") (incorporated by reference to Exhibit 10.1(d) to JSC
+ (U.S.)'s quarterly report on Form 10-Q for the quarter
+ ended September 30, 1992).
+10.2 Stockholders Agreement among JSC, SIBV, MSLEF II and
+ certain related entities (incorporated by reference to
+ Exhibit 10.2 to JSC's quarterly report on Form 10-Q for
+ the quarter ended March 31, 1994).
+10.3 Registration Rights Agreement among JSC, MSLEF II and
+ SIBV (incorporated by reference to Exhibit 10.3 to JSC's
+ quarterly report on Form 10-Q for the quarter ended March
+ 31, 1994).
+10.4 Subscription Agreement among JSC, JSC (U.S.), CCA and
+ SIBV (incorporated by reference to Exhibit 10.4 to JSC's
+ quarterly report on Form 10-Q for the quarter ended March
+ 31, 1994).
+10.5(a) Restated Newsprint Agreement, dated January 1, 1990, by
+ and between SNC and The Times Mirror Company
+ (incorporated by reference to Exhibit 10.39 to JSC
+ (U.S.)'s Annual Report on Form 10-K for the fiscal year
+ ended December 31, 1990). Portions of this exhibit have
+ been excluded pursuant to Rule 24b-2 of the Securities
+ Exchange Act of 1934, as amended.
+10.5(b) Amendment No. 1 to the Restated Newsprint Agreement
+ (incorporated by reference to Exhibit 10.6(b) to JSC's
+ Registration Statement on Form S-1 (File No. 33-75520)).
+10.6 Operating Agreement, dated as of April 30, 1992, by and
+ between CCA and Smurfit Paperboard, Inc. (incorporated by
+ reference to Exhibit 10.42 to JSC (U.S.)'s quarterly
+ report on Form 10-Q for the quarter ended March 31,
+ 1992).
+10.7 Deferred Compensation Agreement, dated January 1, 1979,
+ between JSC (U.S.) and James B. Malloy, as amended and
+ effective November 10, 1983 (incorporated by reference to
+ Exhibit 10(m) to JSC (U.S.)'s Registration Statement on
+ Form S-1 (File No. 2-86554)).
+10.8(a) JSC (U.S.) Deferred Compensation Capital Enhancement Plan
+ (incorporated by reference to Exhibit 10(r) to JSC
+ (U.S.)'s quarterly report on Form 10-Q for the quarter
+ ended September 30, 1985).
+10.8(b) Amendment No. 1 to the Deferred Compensation Capital
+ Enhancement Plan (incorporated by reference to Exhibit
+ 10.37 to JSC (U.S.)/CCA's Annual Report on Form 10-K for
+ the fiscal year ended December 31, 1989).
+10.9(a) JSC (U.S.) Deferred Director's Fee Plan (incorporated by
+ reference to Exhibit 10.33 to JSC (U.S.)/CCA's Annual
+ Report on Form 10-K for the fiscal year ended December
+ 31, 1989).
+10.9(b) Amendment No. 1 to JSC (U.S.) Deferred Director's Fee
+ Plan (incorporated by reference to Exhibit 10.34 to JSC
+ (U.S.)/CCA's Annual Report on Form 10-K for the fiscal
+ year ended December 31, 1989).
+10.10 Jefferson Smurfit Corporation (U.S.) Management Incentive
+ Plan. (incorporated by reference to Exhibit 10.10 to
+ JSC's Annual Report on Form 10-K for the fiscal year
+ ended December 31, 1995).
+10.11 Jefferson Smurfit Corporation (U.S.) 1994 Long-Term
+ Incentive Plan (incorporated by reference to Exhibit
+ 10.13 to JSC's Registration Statement on Form S-1 (File
+ No. 33-75520)).
+10.12 Rights Agreement, dated as of April 30, 1992, among CCA,
+ Smurfit Paperboard, Inc. and Bankers Trust Company, as
+ collateral trustee (incorporated by reference to Exhibit
+ 10.43 to JSC (U.S.)'s quarterly report on Form 10-Q for
+ the quarter ended March 31, 1992).
+10.13(a) 1992 SIBV/MS Holdings, Inc. Stock Option Plan
+ (incorporated by reference to Exhibit 10.48 to JSC
+ (U.S.)'s quarterly report on Form 10-Q for the quarter
+ ended September 30, 1992).
+10.13(b) Amendment No. 1 to 1992 SIBV/MS Holdings, Inc. Stock
+ Option Plan (incorporated by reference to Exhibit
+ 10.16(b) to JSC's Registration Statement on Form S-1
+ (File No. 33-75520)).
+10.14 Credit Agreement, among JSCE, JSC (U.S.) and the banks
+ parties thereto (incorporated by reference to Exhibit
+ 10.1 to JSC's quarterly report on Form 10-Q for the
+ quarter ended March 31, 1994).
+10.14(a) Consent and Amendment No. 1 dated as of February 23, 1995
+ to the Credit Agreement among JSCE, JSC (U.S.) and the
+ banks parties thereto (incorporated by reference to
+ Exhibit 10.14(a) to JSC's Annual Report on Form 10-K for
+ the fiscal year ended December 31, 1995).
+10.14(b) Waiver and Amendment No. 2 dated as of June 9, 1995 to
+ the Credit Agreement among JSCE, JSC (U.S.) and the banks
+ parties thereto (incorporated by reference to Exhibit
+ 10.14(b) to JSC's Annual Report on Form 10-K for the
+ fiscal year ended December 31, 1995).
+10.14(c) Waiver and Amendment No. 3 dated as of July 14, 1995 to
+ the Credit Agreement among JSCE, JSC (U.S.) and the banks
+ parties thereto (incorporated by reference to Exhibit
+ 10.14(c) to JSC's Annual Report on Form 10-K for the
+ fiscal year ended December 31, 1995).
+10.14(d) Amendment No. 4 dated as of October 16, 1995 to the
+ Credit Agreement among JSCE, JSC (U.S.) and the banks
+ parties thereto (incorporated by reference to Exhibit
+ 10.14(d) to JSC's Annual Report on Form 10-K for the
+ fiscal year ended December 31, 1995).
+10.14(e) Amendment No. 5 dated as of January 31, 1996 to the
+ Credit Agreement among JSCE, JSC (U.S.) and the banks
+ parties thereto (incorporated by reference to Exhibit
+ 10.14(e) to JSC's Annual Report on Form 10-K for the
+ fiscal year ended December 31, 1995).
+18.1 Letter regarding change in accounting for pension plans
+ (incorporated by reference to Exhibit 18.1 to JSC
+ (U.S.)'s quarterly report on Form 10-Q for the quarter
+ ended September 30, 1993).
+21.1 Subsidiaries of the Company.
+ 
+24.1 Powers of Attorney (incorporated by reference to Exhibit
+ 24.1 to JSC's Annual Report on Form 10-K for the fiscal
+ year ended December 31, 1995).
+25.1 Statement on Form T-1 of the eligibility of NationsBank
+ of Georgia, National Association, as Trustee under the
+ 1993 Senior Note Indenture (incorporated by reference to
+ Exhibit 25.1 to JSC (U.S.)/CCA's Registration Statement
+ on Form S-2 (File No. 33-58348)).
+27.1 Financial Data Schedule.
+
+(b) Report on Form 8-K.
+ The Company did not file any reports on Form 8-K during the
+ three months ended December 31, 1995
+ 
+ SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the
+Securities Exchange Act of 1934, the registrant has duly caused
+this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+
+DATE March 8, 1996 JSCE, Inc. 
+ (Registrant)
+
+ BY /s/ John R. Funke 
+ John R. Funke
+ Vice-President and Chief Financial Officer
+ 
+Pursuant to the requirements of the Securities Exchange Act of
+1934, this report has been signed below by the following persons on
+behalf of the registrant in the capacities and on the date
+indicated.
+ 
+ SIGNATURE TITLE DATE
+
+Chairman of the Board 
+ Michael W. J. Smurfit and Director
+
+ President, Chief Executive 
+ James E. Terrill Officer and Director (Principal 
+ Executive Officer)
+
+/s/ John R. Funke Vice-President and Chief March 8, 1996
+ John R. Funke Financial Officer (Principal 
+ Accounting Officer)
+
+ Director
+ Howard E. Kilroy
+
+Director
+ Donald P. Brennan
+
+Director
+ Alan E. Goldberg
+
+Director
+ David R. Ramsay 
+
+Director
+ James R. Thompson
+
+Director
+ G. Thompson Hutton
+
+By /s/ John R. Funke , pursuant to Powers of Attorney
+ John R. Funke filed as a part of the Form 10-K.
+ As Attorney in Fact 
+
+JSCE, Inc.
+ SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+ (In Millions)
+
+Column A Column B Column C Column D Column E
+ Balance at
+ Beginning of Charged
+ Period, as Charged to to Other Deductions Balance
+ Previously Costs and Accounts Describe at End
+ Description Reported Expenses Describe of Period 
+
+Year ended December 31, 1995
+ Allowance for doubtful accounts 9 1 1 9
+
+ Year ended December 31, 1994
+ Allowance for doubtful accounts 9 1 1 9
+
+ Year ended December 31, 1993
+ Allowance for doubtful accounts 8 4 3 9
+
+Uncollectible accounts written off, net of recoveries.
+
+<EX-21>
+ 2
+ EXHIBIT 21.1
+
+EXHIBIT 21.1
+
+SUBSIDIARIES OF THE COMPANY
+
+Jurisdiction of
+ Incorporation or
+ Organization Owned
+
+(1) Jefferson Smurfit Corporation (U.S.) Delaware 100 
+(2) Smurfit Newsprint Corporation Delaware 100 
+(3) Packaging Unlimited, Inc. Delaware 100 
+(4) JSC International Sales, Inc. Barbados 100 
+(5) CCA de Baja California, S.A. de C.V. Mexico D.F. 100 
+(6) Jefferson Smurfit Finance Corporation Delaware 100 
+(7) Groveton Paper Board, Inc. New Hampshire 62.94 
+(8) Michigan Can & Tube, Inc. Michigan 100 
+
+</EX-21>
+
+<EX-27>
+ 3
+ EXHIBIT 27.1
+
+5
+ 0000727742
+ JSCE, Inc.
+ 1000
+
+12-MOS
+ DEC-31-1995
+ JAN-01-1995
+ DEC-31-1995
+ 27000
+ 0
+ 348000
+ 9000
+ 224000
+ 644000
+ 2209000
+ 753000
+ 2783000
+ 597000
+ 2111000
+ 0
+ 0
+ 0
+ (487000)
+ 2783000
+ 4093000
+ 4093000
+ 3222000
+ 3222000
+ 241000
+ 0
+ 234000
+ 403000
+ 156000
+ 247000
+ 0
+ (4000)
+ 0
+ 243000
+ .00
+ .00
+
+</EX-27>
+

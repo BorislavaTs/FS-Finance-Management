@@ -1,0 +1,3107 @@
+<Header>
+<FileStats>
+    <FileName>20050415_10-K_edgar_data_723574_0001144204-05-011831.txt</FileName>
+    <GrossFileSize>187107</GrossFileSize>
+    <NetFileSize>140815</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1324</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001144204-05-011831.hdr.sgml : 20050415
+<ACCEPTANCE-DATETIME>20050415170745
+ACCESSION NUMBER:		0001144204-05-011831
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20041231
+FILED AS OF DATE:		20050415
+DATE AS OF CHANGE:		20050415
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			IMAGE SOFTWARE INC
+		CENTRAL INDEX KEY:			0000723574
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				840866294
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-12535
+		FILM NUMBER:		05754418
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6025 S QUEBEC STREET
+		STREET 2:		SUITE 300
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80111
+		BUSINESS PHONE:		(303) 694-9180
+
+	MAIL ADDRESS:	
+		STREET 1:		6025 S QUEBEC STREET
+		STREET 2:		SUITE 300
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80111
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INFORMATION SOLUTIONS INC
+		DATE OF NAME CHANGE:	19920703
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PbxmXQFxasbXW/6XnLizCj+pO7a913BXG2UVaY9fgQ2iA0071Lm3umUKLCyo1/z3
+ MANmCCinKHz2S3N/Hkhc7w==
+
+ 0001144204-05-011831.txt : 20050415
+
+10-K
+ 1
+ v016420.txt
+
+FORM 10-K
+ SECURITIES AND EXCHANGE COMMISSION
+ Washington, D.C. 20549
+
+|X| ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE
+ ACT OF 1934. For the fiscal year ended 12/31/2004
+
+ OR
+
+|_| TRANSITION REPORT PURSUANT TO SECTION 13 OF 15(D) OF THE SECURITIES
+ EXCHANGE ACT OF 1934. For the transition period from___ to___ .
+
+ 1mage Software, Inc.
+ ------------------------------------------------------
+ (Exact name of Registrant as specified in its charter)
+
+ 0-12535
+ ------------------------
+ (Commission File Number)
+
+Colorado 84-0866294
+ (State of Incorporation) (IRS Employer Identification Number)
+6025 S. Quebec St. #300 - Englewood CO 80111 (303) 773-1424
+- -------------------------------------------- ---------------------------------------------------
+ (Address of principal executive offices) (Registrant's telephone number, including area code)
+
+Securities Registered Pursuant to Section 12(b) of the Act:
+
+NONE NONE
+ (Title of Class) (Name of Exchange)
+Securities Registered Pursuant to Section 12(g) of the Act:
+
+Common Stock - .004 par value
+ ------------------------------
+ (Title of Class)
+
+Indicate by check mark whether the Registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the Registrant was
+required to file such reports) and, (2) has been subject to such filing
+requirements for the past 90 days. Yes |X| No |_|
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of Registrant's knowledge, in definitive proxy statements or any amendment
+of this Form10-K.
+
+Indicate by check mark whether the Registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Act). Yes|_| No |X|
+
+State the aggregate market value of the voting and nonvoting common equity held
+by non-affiliates computed by reference to the price at which the common equity
+was last sold, or the average bid and asked price of such common equity, as of
+March 11, 2005: 362,467.
+
+As of March 31, 2005, there were 3,302,597 shares of the Registrant's Common
+Stock outstanding.
+
+ Exhibit Index begins on Page 40
+
+TABLE OF CONTENTS
+
+PART I
+
+1. Business..........................................................................................3
+
+2. Properties........................................................................................9
+
+3. Legal Proceedings.................................................................................9
+
+4. Submission of Matters to a Vote of Security Holders ..............................................10
+
+PART II
+
+5. Market for Registrant's Common Equity and Related Stockholders Matters............................11
+
+6. Selected Financial Data...........................................................................12
+
+7. Management's Discussion and Analysis of Financial Condition and Results of Operations.............13
+
+8. Financial Statements and Supplementary Data.......................................................16
+
+9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure ............39
+
+9A. Controls and Procedures...........................................................................39
+
+9B. Other Information.................................................................................39
+
+PART III
+
+10. Directors and Executive Officers of the Registrant............................................... 40
+
+11. Executive Compensation............................................................................40
+
+12. Security Ownership of Certain Beneficial Owners and Management....................................40
+
+13. Certain Relationships and Related Transactions....................................................40
+
+14. Principal Accounting Fees and Services............................................................40
+
+PART IV
+
+15. Exhibits, Financial Statement Schedules and Reports on Form 8-K...................................40
+
+2
+
+PART I
+
+ITEM 1. BUSINESS
+
+Introduction
+
+1mage Software, Inc., (the "Company") develops and markets computer-based
+document management systems that capture, store and display electronic files and
+paper documents as graphical images. Document management systems like 1MAGE(R)
+(pronounced "one image") offer organizations of every size the ability to
+deliver the information embedded in their documents to employees, customers, and
+authorized persons across their existing computing infrastructure. In addition,
+the Company provides the tools to efficiently manage the proliferation of
+digital documents for eBusiness deployment. The modular 1MAGE system captures
+entire documents from a variety of sources. Memos, letters, source documents,
+contracts, purchase orders, word processing files, e-mail, computer reports,
+faxes, industry and market studies, spreadsheets, databases, multimedia, maps
+and regulatory forms are examples of documents that are automatically captured
+into secure, permanent digital images that are indexed for instantaneous
+retrieval. Using an open, client/server architecture design, 1MAGE provides a
+comprehensive solution for scanning, indexing, storing and retrieving document
+images so that they may be viewed, printed, faxed, e-mailed or made available
+for eBusiness or eCommerce applications. The 1MAGE system is designed to
+integrate easily with existing IT infrastructure, using an extensive library of
+multi-platform APIs (Application Programming Interfaces), rather than forcing
+expensive investments in re-engineered or new computing hardware and software.
+
+Today's workplace is dramatically changing with the advent of eBusiness,
+eCommerce, and affordable electronic document management. During 2004, the
+Company concentrated its efforts on selling document imaging software to its
+niche markets. These markets include users that prefer a choice of (1) operating
+platforms, such as RedHat Linux, Windows, and UNIX, or (2) application software
+developers that wish to offer a document imaging solution as part of their
+portfolio. The Company also changed its sales strategy in 2004. Instead of
+selling its products primarily through a direct sales organization, the Company
+made a concerted effort to establish a broad-based independent sales network for
+its imaging software. In addition to Value Added Resellers ("VARs") , the
+Company seeks to partner with Value Added Dealers ("VAD") such as software
+developers, consultants, and other businesses which provide software to their
+targeted markets in specific geographical territories. While the Company
+recognizes that its increased efforts to utilize an outside sales network had a
+detrimental effect on its sales during 2004, the Company believes this is a
+short term issue and that the Company's best long-term strategy is to fully
+develop that independent sales network.
+
+Imaging Software Market
+
+ Historically, the Company marketed its products through its direct sales
+force but, as noted above, has recently changed that strategy, to place a
+greater emphasis on its distribution channel partners. The Company now focuses
+its sales and marketing efforts on VARs, VADs, systems integrators, developers,
+consultants, and other companies that market complementary software, services,
+or other products. The Company's decision to build this outside sales network
+was based, in part, on its recognition that 1MAGE software has an established
+presence in a multitude of industries, including retail, distribution,
+education, state and local government, healthcare, manufacturing, energy,
+automotive, public safety, transportation and utilities, that should support
+such a "partnering' approach.
+
+ The Company offers a comprehensive channel partner program, which
+provides, in the context of a cooperative marketing effort, a broad range of
+sales, marketing, and technical support. The program includes technical training
+and assistance, marketing communications, sales training and assistance,
+excellent support and training, lead referral services, customized product
+literature, and a discounted demonstration/development system.
+
+ 3
+
+Products
+
+ As noted above, the Company's flagship product is 1MAGE(R), its
+proprietary document management software package. The Company is continually
+enhancing this product portfolio in order to improve its performance and expand
+its possible uses.
+
+ 1MAGE(R) Document Management - 1MAGE is a powerful electronic document
+management system created to operate the same on Linux, Windows(TM) and
+Unix-based computer systems. It provides a comprehensive solution for the
+scanning, indexing, storage and retrieval of images and is designed to file,
+route, track, archive, and manage an organization's incoming and outgoing
+documents and electronic files.
+
+Additional products include the following:
+
+ o 1API for image-enabling an application using a toolkit
+ o 1SCAN for scanning, pre-indexing, and bar code reading
+ o 1FAX for inbound and outbound fax or e-mail and cover sheet
+ management
+ o 1COLD/ERM for storing computer-generated formatted data
+ o 1FORM for business form template administration
+ o 1RENDITION for merging spooled data with supporting images for
+ billing or other needs
+ o 1WORKFLOW for electronically moving a document from one task to
+ another
+ o 1OCR/OMR for automatic indexing and data capture via optical and
+ mark character recognition
+ o 1SUITE for bringing images to Windows-based PC clients
+ o 1SERVER for accessing documents via the Internet
+ o 1VIEW for using standard browsers to access images over the Intranet
+ and Internet
+ o 1ACCESS for bringing images to desktop computers that support JAVA
+ programming languages
+ o 1SEARCH for full text/keyword retrieval of documents
+ o 1PUBLISH for selecting and recording images on output media such as
+ CD or DVD
+ o 1BRIDGE - JAVA API tools for accessing foreign databases for data
+ verification and retrieval
+ o 1GATEWAY - JAVA API tools for managing workflows associated with
+ business process management requirements
+ o 1MAGEwf - for managing business process workflows utilizing "open
+ source" technologies
+
+A key element of the Company's product line is its open systems technology,
+namely:
+
+ o Open Systems compliant with Linux, Unix, and Windows Operating
+ Systems
+ o Supports file formats in most common formats such as; TIFF, JPEG,
+ PCX, PCL, WAV, PDF, HTML or HPGL
+ o The server software (1MAGE) operates the same on Linux, Unix, and
+ Windows servers
+ o Supporting clients include Microsoft Windows, Linux, X-Windows,
+ ASCII, JAVA and browser clients
+ o Device connectivity via Ethernet or token ring networks using TCP/IP
+ communication protocol
+ o Compatibility with IBM AIX, HP-UX, Sun Solaris, RedHat Linux and
+ Windows
+ o Recognition technology and scanning tasks run on Microsoft Windows
+ o UniVerse and UniData ("U2") Relational Database software from IBM
+ o Support for J2EE technologies including JBoss(R), MaxDB(R) (MySQL),
+ WfmOpen(R), Combined to form 1mage's open source workflow
+ applications: 1MAGEwf
+
+ 4
+
+1MAGE includes several distinguishing features: the ability to use many
+different types of workstations, the ability to quickly and easily integrate
+with the existing business application software using application programming
+interfaces ("APIs"), and the scalability to handle the needs of companies of all
+sizes economically. Through the use of the Linux, UNIX, and Windows operating
+systems and open systems technology, the Company seeks to offer its customers an
+imaging solution at a reasonable cost. Because 1MAGE is a server-based product,
+the Linux operating system ("O/S") has become very popular with end users of the
+Company's software.
+
+ 1MAGE utilizes the Linux, UNIX, and Windows operating systems and IBM's U2
+database software. The Company's open systems technology makes its software
+transportable to numerous hardware products from varying manufacturers. Because
+of the number of hardware manufacturers using the Linux, UNIX, and Windows
+operating systems, the Company's software customers are rarely restricted in
+their choice of hardware manufacturers.
+
+ During 2004, sales of 1MAGE software licenses (excluding annual license
+fees) accounted for 412,000 (30 of total revenue); in 2003, revenue from sales
+of software licenses accounted for 815,000 (39 of total revenue).
+
+Services and Annual Fees
+
+ The Company licenses its 1MAGE software to its customers and charges an
+annual license and maintenance fee, which must be paid to continue receiving
+support, updates and add-on products for the software. During 2004 and 2003,
+annual license fees accounted for 703,000 (50 and 786,000 (37 ),
+respectively, of the Company's net sales. The Company believes recurring annual
+license fees from new and existing customers are important to the stability of
+the Company. The Company also provides professional services to its customers
+and business partners. These services include preparation of image management
+plans ("IMP"), installation, training, image enabling existing software, and
+consulting services for customers. The Company believes that its new workflow
+product 1MAGEwf will increase the need by its customers for additional
+professional services as they automate business processes associated with
+document management. For the years ended December 31, 2004 and 2003, the
+revenues from these services accounted for 244,000 (17 ), and 299,000 (14 ),
+of the Company's net sales.
+
+Hardware Sales
+
+ The Company also recommends hardware and related products, but typically
+only sells specialized peripheral products, such as high-end scanners, at the
+customer's request. Computer hardware and peripheral products are purchased only
+upon request to fill specific customer orders, no inventory is maintained.
+Hardware is generally shipped directly from the manufacturer to the customer.
+During 2004, hardware sales accounted for 37,000 (3 of total revenue); in
+2003, revenue from sales of hardware accounted for 205,000 (10 of total
+revenue).
+
+Marketing and Distribution
+
+ In 2004, the Company radically changed its sales strategy from one
+primarily focused on direct sales to end-users through its employee sales
+organization to a distribution channels approach, where sales of the Company's
+products will be primarily through business partners. By that change, the cost
+associated with maintaining a dedicated employee based end-user sales force was
+eliminated. To date, the Company has signed partnering agreements for 1MAGE with
+a variety of resellers (VARs), dealers (VADs), and marketing alliance partners
+(MAPs) specializing in a number of different industries, including retail,
+healthcare, construction, human resources, and distribution/manufacturing. In
+addition, the Company licenses its software and certain other products and
+services through agreements with Application Service Providers (ASP) in the
+healthcare industry. In 2004, the Company also began to license its products to
+
+ 5
+
+end-users through twelve independent sales representatives. The Company's
+overall marketing and sales objective is to support the current business
+partners and to continue to enroll new software integrators, independent sales
+representatives, and consultants in the program. The Company provides training
+aids, an Internet demonstration site, user instruction manuals and other
+documentation, and a newsletter to keep its partners, as well as prospective
+resellers and customers, informed of new product applications and developments.
+In 2004 the Company established a consulting certification program to train and
+educate outside consultants on the support of the Company's products. As a
+result of this program the Company expects to outsource some of its technical
+service and support projects when needed.
+
+ The general strategy is to assist its partners to (1) help customers
+define the goals for their system, (2) provide the means of achieving those
+goals through document management software, workflow processes, and
+appropriately configured computer systems, and (3) help assure the ongoing
+success of this collaborative process by providing continuing support, including
+on-site training and educational programs, and ongoing maintenance. The Company
+also markets its products and services over the Internet on its website at
+www.1mage.com.
+
+Customers
+
+ The Company sells its 1MAGE software primarily through its distribution
+channels to businesses in a wide variety of industries and markets.
+
+Sources of Supply
+
+ The Company has a Value Add Reseller (VAR) Software Agreement with IBM
+Corp. to sublicense their UniVerse and UniData database programs. The agreement
+authorizes the Company to include certain IBM database programs as part of their
+imaging solution. This agreement currently runs until September 28, 2005 and it
+may be automatically renewed for additional one (1) year terms. The Company has
+designed its product such that, through the use of its Application Program
+Interfaces ("API"s), third party software can be easily integrated into the core
+products with minimal difficulty and effort.
+
+Possible Fluctuations in Operating Results
+
+ The Company's sales cycle, which generally commences at the time a
+prospective distribution partner or customer demonstrates a serious interest in
+purchasing a system or software license, and ends upon execution of a sales
+contract, is lengthy and not predictable with any degree of certainty. Prior
+sales and implementation cycles are not necessarily an indication of future
+cycles. Operating results could vary from period to period as a result of the
+length of the sales cycle, the timing of individual system sales, business
+partners' performance and conditions in the target markets and the economy in
+general.
+
+ Despite the negative short-term results during the transition period in
+2004, it is the Company's expectation that its recent decision to focus on
+offering its proprietary imaging software to a broader range of business
+partners and customers, through its distribution channel could lessen the
+historical quarterly fluctuations in the Company's operating results. In any
+event, however, large volume sales, special product packaging, or groups of
+sales of software licenses may still cause significant variances in quarterly
+results that may be difficult to predict.
+
+Trade Secret and Copyright Laws
+
+ The Company regards its software as proprietary and relies for protection
+upon trade secret and copyright laws and non-disclosure agreements with its
+employees as well as restrictions on disclosure and transferability contained in
+its software license agreements with its customers. Despite these restrictions,
+it may be possible for competitors or customers to copy, or reverse compile,
+aspects of the Company's products or obtain information that the Company regards
+as proprietary. Furthermore, there can be no assurance that others will not
+independently develop software products similar to those developed or planned by
+the Company.
+
+ 6
+
+Although the Company believes its software does not infringe on the
+proprietary rights of others and has not received any notice of claimed
+infringement, it is possible that portions of the software marketed by the
+Company could be claimed to infringe on existing proprietary rights. In the
+unlikely event that any such infringements are found to exist, there can be no
+assurance that any necessary licenses or rights could be obtained, or could be
+obtained on terms satisfactory to the Company. Further, in such event, the
+Company could be required to modify the infringing software. There can be no
+assurance that the Company would be able to do so in a timely manner, upon
+acceptable terms and conditions, or at all; even though the failure to do so
+could have a material adverse effect on the Company.
+
+Backlog
+
+ As a practical matter, the Company's business has evolved to the point
+where the Company has minimal backlog at any given point in time. With respect
+to software license sales, because there is no significant time delay between
+receipt of an order and shipment of the software, electronically or otherwise,
+there is effectively no backlog. For hardware, because of direct delivery of the
+hardware by the manufacturer, hardware sales have such short lead times that
+unfilled firm orders seldom, if ever, build up to significant levels.
+
+ The Company normally receives a deposit of between 25 and 50 of the
+hardware and software price when an order is placed. This deposit may or may not
+be returned upon cancellation, depending on the circumstances of the
+cancellation.
+
+Competition
+
+ The Company experiences intense competition in its business from
+competitors who target one or more of the same markets or market segments as the
+Company. Software and systems that perform many of the same functions as the
+Company's systems and software are also available from a number of competitors
+of the Company. Some of these competitors are larger and have longer operating
+histories, significantly greater financial, technical, marketing and other
+resources, significantly greater name recognition and a larger installed base
+than we do. As a result, these competitors may be able to respond more quickly
+to emerging technologies and changes in customer requirements, or to devote
+greater resources to the development, promotion and sale of their products than
+we can.
+
+ The Company believes that usage of the Linux and Windows operating systems
+and the IBM U2 databases has strengthened the Company's competitive position by
+making the Company's software compatible with more types of hardware and with
+the IBM U2 application software offered by other software developers and system
+integrators. The Company further believes that its principal advantage over its
+competitors is the Company's ability to give its customers and partners a choice
+in selecting a Linux, UNIX, or Windows-based open systems architecture and the
+IBM U2 database that can be offered at lower prices.
+
+Limited Markets
+
+ The Company's channels program targets complementary markets and allows
+the Company to draw from a variety of industries with respect to its imaging
+software products. As noted above, the Company's strategy is to expand the
+domestic and international markets for its imaging software by placing more
+emphasis on its distribution channel network of partners.
+
+ 7
+
+The Company's experience has been that economic downturns or increased
+competitive pressures in its niche markets sometimes result in reduction or
+deferral of capital expenditures or large purchases, like software licenses, by
+potential customers. On the other hand, certain adverse conditions can sometimes
+lead to opportunities as potential customers downsize to smaller, more
+cost-efficient computer systems or replace custom designed systems that require
+higher levels of support and maintenance.
+
+Product Development
+
+ The software and services market in which the Company competes is
+characterized by (1) rapid technological change, (2) frequent introduction of
+new products and enhancements, and (3) changing customer needs. Accordingly, the
+Company's future success depends on its ability to support existing products and
+develop new products.
+
+ During 2004, the Company developed a new release of 1MAGE(C) which employs
+new technologies, including workflow and business process management (1MAGEwf)
+requirements and significant development on creating JAVA and J2EE integration
+and application integration tools. In addition, improvements were made to the
+hardware/software compatibility offerings available for Linux and Windows users.
+During 2004 and 2003, the Company spent 267,000 and 261,000, respectively, for
+computer software development. The Company capitalizes its software development
+costs once technological feasibility is established.
+
+Employees
+
+ As of March 11, 2005, the Company employed sixteen persons, thirteen of
+whom serve on a full-time basis and three on a part-time basis. Responsibilities
+are divided as follows: four persons in channel sales and marketing, eight in
+technical support and programming functions, and four in administrative
+positions. In addition, the Company established a certification program in 2004
+for outside technical contractors and independent sales representatives. This
+program is expected to facilitate outsourcing of some of the Company's technical
+service and support requirements when necessary and to decrease the dependency
+on employing additional personnel to do such work.
+
+ The Company provides incentive compensation packages to many of its
+employees, including its executive officers. The Company's chief executive
+officer, David R. DeYoung, receives a quarterly bonus equal to 5 of the
+Company's pretax profits. Sales and Consulting personnel receive a commission
+based upon sales. The Company has a policy of encouraging the effort and loyalty
+of all of its employees by making all employees eligible for the grant of stock
+options under its Equity Incentive Plan, subject to vesting schedules. The
+Company believes that these incentive programs are important in attracting and
+retaining skilled personnel. The future success of the Company will depend in
+large part upon the quality of its employees and the efforts they expend on
+behalf of the Company.
+
+ None of the Company's employees are represented by a labor union, and the
+Company has experienced no work stoppage. The Company believes that its employee
+relations are good.
+
+ITEM 2. PROPERTIES
+
+ The Company's executive offices consist of approximately 5,464 square feet
+at Plaza Quebec, 6025 South Quebec Street, Suite 300, Englewood, Colorado, 80111
+and are occupied pursuant to a lease agreement between the Company and Trammel
+Crow, Inc. with monthly rental payments of 7,058, currently, and scaling to
+ 7,741 by the end of the lease term. The term of the lease commenced May 1, 2003
+and will terminate on August 31, 2008. The landlord is responsible for property
+taxes, utilities, janitorial services, repairs, and maintenance. The Company
+believes that its facilities and equipment are in good condition and are
+satisfactory for their present uses. As a condition of renewing the lease, the
+Company requested and received two months free rent in 2004 at 6,830 per month
+and two months free rent in 2005 at 7,058 per month. Rent is expensed under the
+straight-line method over the term of the lease at 6,822 per month. Deferred
+rent at 12/31/04 is 12,636.
+
+ 8
+
+ITEM 3. LEGAL PROCEEDINGS
+
+ In May 1994, the Company signed a software license agreement (the "1994
+Agreement") with Reynolds and Reynolds, Inc. ("Reynolds")for the exclusive right
+to sublicense certain modules of 1MAGE (without payment of further license fees
+to the Company) to businesses primarily engaged in retail sales of new or used
+automobiles, trucks, or tractors (the "Licensed Software"). In 1996, the Company
+signed a subscription and maintenance agreement with Reynolds (the "1996
+Agreement") under which annual subscription fees are to be paid to the Company.
+
+ On January 18, 2002, Reynolds notified the Company of its intent to
+terminate the 1996 Agreement effective April 22, 2002. Reynolds had installed
+the 1MAGE document management software in approximately 1,000 of its customer
+sites in the United States and Canada. As a result of various disputes arising
+out of the termination of the 1996 agreement, including Reynolds' decision to
+continue sublicensing the Company's software notwithstanding such termination,
+the Company and Reynolds became involved in litigation.
+
+ On June 21, 2002, the Company filed a civil action seeking monies owed by
+Reynolds under its 1996 Agreement with the Company in the District Court for the
+City and County of Denver, Colorado, 1mage Software, Inc. v. The Reynolds and
+Reynolds Co. Case No.: 02-CV-4701 ("the "Collection Action"). In its complaint
+in the Collection Action, the Company demanded immediate payment of 193,611
+currently due under that contract plus interest and costs. Reynolds deposited
+the 193,611 with the court clerk, pending order of the court as to its
+disposition and has filed an answer denying liability. The Company filed a
+Motion for Summary Judgment to which Reynolds responded, denying liability and
+stating that in all events, the amount due was only 166,741. The Court then
+referred the matter to arbitration before the American Arbitration Association.
+
+ A lawsuit was filed by the Company in the United States District Court for
+the District of Colorado, 1mage Software, Inc. v. The Reynolds and Reynolds Co.,
+et al., No. 02-K-1688 (OES), (the "Infringement Action"), in which the Company
+sought damages for copyright infringement resulting from continuing use of the
+Company's software without any license or authority by Reynolds and
+approximately 1,000 automobile dealers throughout the United States. The
+Infringement Action was also referred to arbitration.
+
+ In the Arbitration, besides the claims raised by the Company in the
+Collection Action and the Infringement Action, Reynolds asserted a counterclaim
+for 580,000, alleging that the Company, without justification or privilege,
+advised customers and/or prospects of Reynolds that Reynolds no longer had a
+license to distribute the Company software. The Company denied that it
+improperly informed Reynolds' dealers.
+
+ On June 17, 2004, the Company received notification from the American
+Arbitration Association that all of the Company's claims against Reynolds had
+been dismissed and a second hearing would be held, as previously scheduled, on
+October 11, 2004, for consideration of Reynolds' counterclaims against the
+Company. In this first phase of the arbitration, the Arbitrator determined that
+Reynolds has a perpetual license under the 1994 Agreement to all software listed
+therein and to all software related to updates, upgrades and enhancements
+
+ 9
+
+provided under the 1996 Agreement, with one exception, the Flex LM software in
+use at Reynolds' facilities. The Flex LM software provides the Company with a
+means by which it could control the software's features, user count and time
+periods within which its licensees would be enabled to operate their copies of
+the Company's Licensed Software and shut down that software unless additional
+fees for future periods were paid. The Arbitrator found that the Flex LM
+software provides no benefit to Reynolds and was either surplusage or provided
+an actual impediment, inconsistent with the 1994 Agreement, to Reynolds' use of
+the Licensed Software. He also found that there was no basis for the Company's
+claim that Reynolds either breached any agreement or infringed any of its
+copyright rights. Since the 1994 Agreement prohibits the Arbitrator from
+awarding costs or attorneys' fees, he did not address those issues and no award
+was made. The Arbitrator also noted that the 1994 Agreement did not appear to
+speak to the allocation or award of arbitration fees paid to the American
+Arbitration Association but whether any such award would be made would be
+reserved for the second phase of the arbitration.
+
+ A second hearing was held on October 11 and 12, 2004, for consideration of
+Reynolds' counterclaims seeking 836,643 in damages from the Company. Among the
+counterclaims considered by the arbitrator were those based upon Reynolds'
+claimed damages from having to replace 39 copies of the Company's DocVantage
+software product that expired after only a 1 year license with Reynolds' new
+choice of software, EDM. It was the Company's contention that all but
+approximately 40,000 of Reynolds' damage claims were barred by a limitation of
+remedies clause contained in the 1996 agreement. Reynolds claimed that the 1996
+agreement did not apply to the counterclaims but admitted that the Company is
+entitled to the 193,611 in accounts receivable previously deposited by Reynolds
+with the court in a related case. The Company also argued that 597,000 in
+hardware costs claimed by Reynolds was unproven because the hardware in question
+was returned to Reynolds and reused for other purposes by Reynolds. The November
+12, 2004 decision of the arbitrator concerning Reynolds' counterclaims was
+issued on November 17, 2004. The arbitrator ruled in favor of Reynolds on
+substantially all of its counterclaims, finding that the Company breached both
+the 1994 and 1996 agreements with Reynolds by delivering only 1 year DocVantage
+licenses to 39 Reynolds customers after Reynolds terminated its agreement with
+the Company. The arbitrator refused to uphold the limitation of remedies clause
+in the 1996 agreement on the grounds that it was unconscionable as applied to
+the Company's decision to provide Reynolds with only 1 year DocVantage licenses.
+While admitting that it was "not simple" to devise a fair method of assessing
+damages for the breach beyond the undisputed 40,131 attributable to the 39
+software licenses, the arbitrator nevertheless allowed 36,205 for installation,
+ 40,725 for training, and 275,000 of the total 577,273 Reynolds was found to
+have spent for new equipment, for a total of 392,061 in damages to be paid by
+the Company.
+
+ Reynolds subsequently obtained a judgment on the arbitrator's award
+against the Company on the counterclaims and denial of the Company's claims in
+the United States District Court for the District of Colorado, which had
+retained jurisdiction of the dispute pending resolution of the arbitration.
+Since the parties no longer disputed the Company's entitlement to the 193,611
+deposited with the court, the net result of the judgment was that Reynolds took
+the 193,611 deposited with the court and applied that deposit to the judgment,
+so that the Company still owed the balance of 198,450 to Reynolds.
+
+Instead of satisfying the balance of the judgment, the Company filed an
+appeal from the court's judgment to the United States Court of Appeals for the
+Tenth Circuit and in April, 2005 filed a cash bond in the amount of the
+remaining judgment pending appeal. The Company obtained the money needed to post
+that bond by borrowing approximately 180,000 in additional funds from the
+private line of credit extended to the Company by DEMALE, LLC. DEMALE is owned
+and controlled by members of the Company's Board of Directors. In connection
+with DEMALE's loan of the additional 180,000 to the Company, which increased
+the total amount loaned under that private line of credit to 468,000 plus
+interest, the Company and DEMALE agreed to change the price for DEMALE's
+conversion right for the principal amount of, and unpaid interest on, the line
+of credit. The conversion price was previously equal to 80 of the fair market
+value on the date that DEMALE's written notice of such conversion to the
+Company's Common Stock is received by the Company. The amendment changed the
+conversion price to 0.14 per share, or 80 of the fair market value on the date
+of the written notice, whichever is lower. As a result of the increase in the
+amount owed to DEMALE under the line of credit to 500,000 and the fixing of the
+maximum conversion price at 0.14 per share, DEMALE is now the beneficial owner
+of at least 3,571,429 shares, or 52.0 of the Company's outstanding shares of
+common stock, as calculated under Securities Exchange Act Rule 13d-3(a). In
+connection with the amendment of the line of credit agreement, DEMALE also
+agreed to extend the expiration date of the line of credit from June 30, 2005 to
+June 30, 2007
+
+10
+
+The Company intends to vigorously pursue its appeal of the adverse
+judgment of the district court confirming (a) the arbitrator's award against the
+Company and (b) the arbitrator's denial of all of the Company's claims against
+Reynolds. There can be no assurance that the Company will succeed in all or any
+portion of its appeal.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+ The Company did not submit any matters to a vote of security holders
+through the solicitation of proxies or otherwise during the fourth quarter of
+the Company's calendar year ended December 31, 2004.
+
+ PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+Market Information
+
+ The Company's Common Stock is quoted in the OTC Bulletin Board under the
+symbol ISOL. The following table sets forth, for the fiscal quarters indicated,
+the high and low bid prices per share for the Common Stock as reported on the
+OTC Bulletin Board.
+
+ 2004
+ ----------------------- --- ---------- ------- --- ----------
+ High Low
+ ----------------------- --- ---------- ------- --- ----------
+ First Quarter 0.97 0. 31
+ ----------------------- --- ---------- ------- --- ----------
+ Second Quarter 0.90 0.51
+ ----------------------- --- ---------- ------- --- ----------
+ Third Quarter 0.52 0.15
+ ----------------------- --- ---------- ------- --- ----------
+ Fourth Quarter 0.23 0.15
+ ----------------------- --- ---------- ------- --- ----------
+
+2003
+ ----------------------- --- ---------- ------- --- ----------
+ High Low
+ ----------------------- --- ---------- ------- --- ----------
+ First Quarter 0.51 0.23
+ ----------------------- --- ---------- ------- --- ----------
+ Second Quarter 0.56 0.21
+ ----------------------- --- ---------- ------- --- ----------
+ Third Quarter 0.40 0.21
+ ----------------------- --- ---------- ------- --- ----------
+ Fourth Quarter 0.55 0.25
+ ----------------------- --- ---------- ------- --- ----------
+
+ These quotations reflect interdealer prices, without retail mark-up, mark
+down or commission and may not necessarily represent actual transactions.
+
+ 11
+
+On March 25, 2005, the closing bid price per share for the Common Stock
+was 0.17 as reported on the OTC Bulleting Board. On that same date, there were
+approximately 131 holders of record of the Common Stock.
+
+Dividends
+
+ The Company has never declared or paid cash dividends on its Common Stock
+and has no present intention to do so. For the foreseeable futurethe Company's
+earnings, if any, will be utilized to pay down its bank and private lines of
+credit and, if additional funds are available, will be retained to finance the
+development and expansion of the Company's business. The declaration and payment
+of future dividends will be determined by the Company's Board of Directors in
+light of conditions then existing, including the Company's earnings, financial
+condition and capital requirements.
+
+Issuer Repurchases of Registered Equity Securities
+
+ There were no shares repurchased during the fourth quarter of 2004.
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+ The following table sets forth, for the periods indicated, selected
+financial data of the Company. This table should be read in conjunction with the
+financial statements and notes included in Item 8 of this Form 10-K and the
+section entitled "Management's Discussion and Analysis of Results of Operations
+and Financial Condition" following this section.
+
+Statements of Operations Years Ended December 31,
+- ---------------------------------------------------------------- ----------- ------------ ----------- ----------- ------------
+In thousands, except for per share data: 2004 2003 2002 2001 2000
+
+- ---------------------------------------------------------------- ----------- ------------ ----------- ----------- ------------
+ 
+Net Sales 1,396 2,104 2,242 2,776 2,163
+Cost of Sales 770 915 1,153 1,109 934
+Gross Profit 626 1,189 1,089 1,667 1,229
+Gross Profit (as a of Net Sales) 45 57 49 60 57 
+Selling, General & Administrative expenses 1,605 1,215 1,365 1,500 1,211
+Income (Loss) before Income Taxes (1,064) 86 (282) 161 11
+Net Income (Loss) (1,124) 96 (282) 211 8
+Net Income (Loss) Per Share (.34) .03 (.09) .07 .00
+Weighted Average Number of Outstanding Shares 3,298 3,237 3,146 3,146 3,056
+- ---------------------------------------------------------------- ----------- ------------ ----------- ----------- ------------
+
+Balance Sheets Years Ended December 31,
+- ---------------------------------------------------------------- ----------- ------------ ----------- ----------- ------------
+In thousands: 2004 2003 2002 2001 2000
+
+- ---------------------------------------------------------------- ----------- ------------ ----------- ----------- ------------
+ 
+Working Capital/ (Deficit) (776) 175 28 140 (93)
+Total Assets 871 1,674 1,562 1,496 1,428
+Long Term Obligations 216 201 207 1 3
+Total Stockholders Equity(Deficit) (261) 789 643 925 714
+- ---------------------------------------------------------------- ----------- ------------ ----------- ----------- ------------
+
+12
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+ OF OPERATIONS
+
+ OVERVIEW
+
+ Management believes that operating performance of the Company during 2004
+was negatively affected by the short-term impact of the Company's change in
+sales strategy from internal direct sales by Company employees, to a partnering
+or indirect sales strategy through a network of VARs, VADs, and other
+independent sales representatives. In addition, a significant portion of the
+losses in 2004 are the result of the 392,000 award against the Company on the
+counterclaims brought against it by Reynolds & Reynolds in the arbitration
+brought by the Company against Reynolds. Besides the general economic slowdown
+in the technology sector, the extent to which the Company's limited resources
+were dedicated to the Reynolds litigation probably contributed to the poor sales
+performance. Thus, identifying specific trends based on the Company's
+performance in 2004 is particularly difficult.
+
+ While interest in the Company's products remains positive, there can be no
+assurance that the Company's revenue for 2005 will expand beyond current levels.
+As such, the Company has implemented stringent cost cutting measures. There is
+no certainty that the Company will in fact be profitable in 2005 but the Company
+believes that its recurring annual license fee revenue, tight expense controls,
+and the maturation of its re-directed sales strategy will help return the
+Company to profitability by the end of the year.
+
+ Results of Operations
+ Year Ended December 31, 2004 Compared to Year Ended December 31, 2003
+
+ The Company's total revenue was 1.4 million for the year ended December
+31, 2004, compared to 2.1 million for the year ended December 31, 2003,
+representing a decrease of 709,000 (34 ). Mid-year 2004, the Company changed
+its sales strategy from selling through a direct sales force to selling through
+business partnerships in various markets. Unfortunately, establishing these
+relationships takes time both in signing up new partners and then securing
+business through those relationships. As a result, the Company's revenue from
+new business dropped 56 in 2004 as compared to 2003, primarily due to a decline
+in new software licenses caused by the transition to an outside sales network.
+
+ The Company's 2004 and 2003 revenue was derived from four sources:
+software licenses, annual maintenance/license fees, consulting services, and
+hardware sales.
+
+ In 2004, software license revenue decreased 49 , or 403,000 from 2003
+levels, primarily due to the drop in new business. Annual license fees decreased
+11 , or 83,000 due to a few customers going out of business or electing not to
+renew maintenance. The professional service group's revenue decreased by 55,000
+(18 for the year primarily due to decreased services typically generated from
+new installations. Hardware sales decreased 82 , or 168,000, from 2003 levels,
+as the Company has changed its distribution strategy from a direct sales force
+to that of a business partner network, where most partners sell their own
+hardware solutions.
+
+ Gross profit on revenue for the year ended 2004 was 45 , as compared to
+57 for 2003, primarily due to the decrease in high profit margin software
+sales. In 2004, selling, general and administrative expenses increased 390,000
+(32 due to a 112,000 increase in legal fees plus a litigation judgment of
+ 392,000 offset by tight expense controls across all departments and the
+elimination of its direct sales force. For the year ended December 31, 2004, the
+Company reported a net loss of 1.1 million, or (.34) per share, a decrease of
+ 1.21 million over net income of 96,000 or .03 per share for the previous
+year.
+
+ 13
+
+The more pressing challenge faced by the Company today, however, is that
+of liquidity. Because the Company has limited capital resources, namely an
+undrawn balance of around 32,000 on its private convertible line of credit from
+DEMALE, LLC, it cannot sustain future losses without an adverse effect on its
+liquidity and operations. In addition, the Company's potential inability to
+satisfy the bank's request for a gradual pay down on its credit line could have
+severe consequences for the Company.
+
+ Year Ended December 31, 2003 Compared to Year Ended December 31, 2002.
+
+ The Company's total revenue was 2.1 million for the year ended December
+31, 2003, compared to 2.2 million for the year ended December 31, 2002,
+representing a decrease of 138,000 (6 ). The Company's revenue decreased
+ 428,000 as a result of the loss of the Company's largest customer, Reynolds and
+Reynolds, during the year as total revenue from Reynolds declined from 441,000
+to 13,000. The Company does not anticipate any significant revenue from
+Reynolds in 2004.
+
+ The Company's revenue for 2003 and 2002 was derived from four sources:
+software licenses, annual maintenance/license fees, consulting services, and
+hardware sales.
+
+ In 2003, software license revenue increased 6 , or 49,000 from 2002
+levels, of which a decrease of 121,000 was attributable to the loss of this
+single customer. Without the loss of this large customer, software license
+revenue would have increased 170,000. Annual license fees decreased 20 , or
+ 192,000 of which a decrease of 307,000 was attributable to the loss of
+business from this large customer. Without the loss of this large customer,
+annual license fees would have increased 115,000. The professional service
+group's revenue decreased by 20,000 (6 for the year primarily due to
+decreased consulting services provided due to the timing of year-end contracts.
+Hardware sales of 205,000 increased 24,000 (13 over 181,000 for 2002.
+
+ Gross profit on revenue for the year ended 2003 was 57 , as compared to
+49 for 2002, primarily due to the increase in software sales. In 2003, selling,
+general and administrative expenses decreased 151,000 (11 due to tight
+expense controls across all departments of the Company. In addition, during
+2003, the Company settled a payable of 138,000 that was due to a vendor in
+connection with a software purchase for an earlier period. For the year ended
+December 31, 2003, the Company reported net income of 96,000 or .03 per share,
+an improvement of 378,000 over a net loss of 282,000 or (.09) per share for
+the previous year.
+
+- ---------------------------------------- --- ----------------- -- ----------------- --- -------------- -------------
+ Year Ended Year Ended Increase/ Increase/
+ 12/31/03 12/31/02 (Decrease) (Decrease)
+ 
+- ---------------------------------------- --- ----------------- -- ----------------- --- -------------- -------------
+ 
+Revenue, as reported 2,104,367 2,242,089 (137,722) (6 - ---------------------------------------- --- ----------------- -- ----------------- --- -------------- -------------
+Less: Reynolds Revenue 13,318 441,152 (427,834) (97 - ---------------------------------------- --- ----------------- -- ----------------- --- -------------- -------------
+Revenue excluding Reynolds 2,091,049 1,800,937 290,112 16 
+- ---------------------------------------- --- ----------------- -- ----------------- --- -------------- -------------
+
+14
+
+Liquidity and Capital Resources
+
+ The Company's cash and cash equivalents decreased approximately 93,000
+during the twelve months ended December 31, 2004 as compared to December 31,
+2003. During 2004, the Company used cash of 267,000 for deferred development
+expenses. The Company had deficit working capital of 776,000 as of December 31,
+2004. Included in current liabilities is 310,000 for Deferred Revenue, which
+will be earned throughout 2005 from its annual license and maintenance
+contracts. The Company had drawn 172,000 on its bank line of credit at December
+31, 2004, as compared to 139,000 drawn at December 31, 2003. The line is
+collateralized by all accounts receivable, assets, and general intangibles of
+the Company. The Company's line of credit agreement with its bank expired
+February 24, 2005 and will not be renewed. On March 31, 2005 the bank line was
+advanced 162,000. The Company is currently in negotiations with the bank to
+implement a payment plan that will amortize the debt over a 48-month period,
+with a new maturity date of April 15, 2006. The bank has granted the Company an
+extension of time to repay the promissory note underlying the line of credit,
+which was due in full on March 31, 2005, until April 15, 2005. There can be no
+assurance that the bank will agree to any additional extension or to any plan to
+retire the debt over time or to any other resolution that is acceptable to the
+Company.
+
+ In April, 2003, the Company established an additional line of credit with
+DEMALE, LLC, a limited liability corporation owned and controlled by the
+principal shareholders and members of the Board of Directors of the Company. The
+initial line provided for borrowings of up to 300,000 and is secured by
+substantially all of the Company's assets and is expressly subordinated to the
+bank's line of credit. Under the terms of the agreement with DEMALE, the
+outstanding balance, including unpaid principal and accrued but unpaid interest
+can be converted by DEMAL:E to equity at any time. The conversion price is the
+lower of .14 or 80 of the fair market value, of the Company's stock at the
+time of conversion. At December 31, 2004, DEMALE had advanced 223,600, as
+compared to 54,600 at December 31, 2003. On March 31, 2005, DEMALE agreed to
+increase the line to 500,000 in order to fund the Company's appeal bond in the
+litigation challenging the results of the Reynolds & Reynolds arbitration
+proceeding. As of March 31, 2005, the Company had advanced 468,000 on the line
+of credit. DEMALE also agreed to extend the expiration date of the line of
+credit from June 30, 2005 to June 30, 2007.
+
+ As noted above in "Results of Operations", the termination by Reynolds and
+Reynolds ("Reynolds") of its 1996 Agreement and the resulting judgement had a
+significantly adverse impact on the Company's 2004 financial results.
+
+ The Company has developed a new, lower cost, strategy for the distribution
+of its products and services. The downturn in revenue associated with this
+change in strategy, however, has required the Company to bring its cost
+structure in line with its available revenue. As a result, the Company
+implemented new stringent cost cutting measures throughout 2004 and into 2005
+that are expected to help improve its results of operations in 2005.
+
+ The Company receives its revenues from software licenses, recurring annual
+maintenance/license fees, consulting services and minimal hardware sales.
+Notwithstanding the burdens imposed by the Reynolds' judgement, the Company
+believes that its continued relationship with DEMALE, and the cash flows
+generated from current operations, may be sufficient to meet its immediate needs
+for working capital.
+
+ The Company has no material commitments for capital expenditures for 2005.
+
+ Contractual obligations at December 31, 2004 are as follows:
+
+ 15
+
+- --------------------- -------------------- ---------------------- --------------------- -------------------
+
+ Lines of Credit (1) Capital Lease (2) Operating Lease Total
+- --------------------- -------------------- ---------------------- --------------------- -------------------
+Year
+- --------------------- -------------------- ---------------------- --------------------- -------------------
+ 
+2005 172,300 5,668 71,487 249,455
+- --------------------- -------------------- ---------------------- --------------------- -------------------
+2006 - 5,250 88,335 93,585
+- --------------------- -------------------- ---------------------- --------------------- -------------------
+2007 223,600 658 91,067 315,325
+- --------------------- -------------------- ---------------------- --------------------- -------------------
+2008 - 55 61,925 61,980
+- --------------------- -------------------- ---------------------- --------------------- -------------------
+2009 - - - -
+- --------------------- -------------------- ---------------------- --------------------- -------------------
+Thereafter - - - -
+ ------- ------- --------- --------
+- --------------------- -------------------- ---------------------- --------------------- -------------------
+ 395,900 11,631 ,312,814 720,345
+ ======= ======= ========= ========
+- --------------------- -------------------- ---------------------- --------------------- -------------------
+
+(1) Lines of credit, consist of two revolving line of credit agreements, one
+ with the bank that expired on February 24, 2005 and one with related
+ parties that will expire on June 30, 2007. The Company is negotiating with
+ the bank to pursue the option of making monthly payments over the next 48
+ months. DEMALE is entitled to monthly interest payments and the
+ outstanding principal balance is due at maturity. DEMALE, at their option,
+ can elect to convert the debt to equity.
+
+(2) Amounts shown under capital lease arise under leases for office equipment
+ expiring in 2006 and 2008 with monthly lease payments of approximately
+ 418 and 55.
+
+Risks to Future Financial Performance
+
+Severely Limited Capital Resources. As a result of the Company's operating
+losses in 2004 and the 392,000 award against it in the Reynolds arbitration,
+the Company's capital resources have been stretched to unprecedented lengths.
+The Company cannot bear any significant operating or other losses in 2005 if it
+is to survive. While preliminary indications are that the Company has not
+incurred such a significant loss in the first quarter of 2005, the Company still
+requires the continuing forbearance of its bank, which has already declined to
+renew the 162,000 owed on its line of credit, and the continued support of
+DEMALE, LLC, which the Company owes 468,000 as of March 31, 2005. There is no
+assurance that such forbearance or support will continue or that the Company
+will not incur additional operating losses. Accordingly, unless the Company can
+obtain additional capital to cover future losses, if the Company incurs
+additional losses or otherwise experiences negative cash flow, there is a
+substantial risk that the Company will not be able to continue as a going
+concern.
+
+Variable operating results. Our future operating results may vary significantly
+and are difficult to predict due to a number of factors, of which many are
+beyond our control. These factors include:
+
+ o Demand for our products;
+ o Productivity of our business partners;
+ o The level of product and price competition;
+ o The length of our sales cycle;
+ o The size and timing of individual license transactions;
+ o The delay or deferral of customer implementations;
+ o Our success in expanding our customer support organization, direct
+ sales force and indirect distribution channels;
+ o The timing of new product introductions and product enhancements;
+ o Changes in our pricing policy;
+ o The mix of products and services sold;
+ o Our ability to develop and market new products and control costs;
+ and
+ o Current economic and political conditions
+
+ 16
+
+Current Economic and Political Conditions May Affect Results. Due to the
+discretionary nature of our customers' budget and purchase cycles and the
+absence of long-term customer purchase commitments, it is expected to remain
+difficult for the Company to avoid significant fluctuations in quarterly
+operating results. On the other hand, if the overall economy continues to
+improve, of which there can be no certainty, the Company believes that such
+improvement will assist it in its return to profitability.
+
+ CRITICAL ACCOUNTING POLICIES
+
+ In preparing financial statements, management must make estimates and
+judgments that affect the carrying values of the Company's assets and
+liabilities as well as recognition of revenue and expenses. Management's
+estimates and judgments are based on the Company's historical experience and
+management's knowledge and understanding of current facts and circumstances. The
+policy discussed below is considered by management to be critical to an
+understanding of the Company's financial statements. The application of this
+policy places significant demands on management's judgment, with financial
+reporting results relying on estimations about the effect of the matter that is
+inherently uncertain. For this policy, management cautions that future events
+rarely develop as a forecast, and estimates routinely require adjustment and may
+require material adjustment. There have been no significant changes in critical
+accounting policies in the past year.
+
+ Software Development Costs are capitalized when technological feasibility
+is established. Such costs are stated at the lower of unamortized cost or net
+realizable value. Amortization is computed using either the straight-line method
+based on estimated economic lives of the products (five years) or the ratio that
+current product revenues bear to the total of current and anticipated future
+product revenues, whichever is greater. It is reasonably possible that those
+estimates of anticipated future gross revenues, the remaining estimated economic
+life of the products, or both will be reduced significantly in the near term due
+to competitive pressure. As a result, the carrying amount of the capitalized
+software costs may be reduced materially in the near term. The net realizable
+value of such capitalized costs is reviewed by management on a periodic basis,
+and costs in excess of net realizable value, if any, are charged to operations.
+
+ Revenue Recognition - Revenue from the sale of software licenses, computer
+equipment, and existing application software packages is recognized when the
+software and computer equipment are shipped to the customer, remaining vendor
+obligations are insignificant, there are no significant uncertainties about
+customer acceptance and collectibility is probable. Revenue from related
+services, including installation and software modifications, is recognized upon
+performance of services. Maintenance revenue is recognized ratably over the
+maintenance period.
+
+Forward Looking Statements
+
+Some of the statements made in this Form 10-K are not historical facts and may
+be considered "forward looking statements." All forward-looking statements are,
+of course, subject to varying levels of uncertainty. In particular, statements
+which suggest or predict future events or state the Company's expectations or
+assumptions as to future events may prove to be partially or entirely
+inaccurate, depending on any of a variety of factors, such as the availability
+of additional capital, the actions of the Company's creditor, including but not
+limited to the Company's bank and DEMALE, LLC, the success of its recently
+implemented cost cutting, the results of the Reynolds appeal, economic
+conditions generally, new technological developments, competitive developments,
+results of pending litigation, competitive pressures, changes in the management,
+personnel, financial condition or business objectives of one or more of the
+Company's customers, increased governmental regulation or other actions
+affecting the Company or its customers as well as other factors.
+
+17
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+1mage Software, Inc.
+- --------------------
+INDEX TO FINANCIAL STATEMENTS PAGE
+- --------------------------------------------------------------------------------
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM....................19
+
+BALANCE SHEETS - December 31, 2004 and 2003................................20
+
+STATEMENTS OF OPERATIONS - For the Years Ended
+ December 31, 2004, 2003, and 2002 ......................................21
+
+STATEMENTS OF SHAREHOLDERS' EQUITY (DEFICIT) - For the Years Ended
+ December 31, 2004, 2003, and 2002.......................................22
+
+STATEMENTS OF CASH FLOWS - For the Years Ended
+ December 31, 2004, 2003, and 2002.......................................23
+
+NOTES TO FINANCIAL STATEMENTS..............................................25
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM ON
+FINANCIAL STATEMENT SCHEDULE............................... ...............38
+
+SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS..........................39
+
+18
+
+Report of Independent Registered Public Accounting Firm
+
+Audit Committee, Board of Directors and Stockholders
+1mage Software, Inc.
+Englewood, Colorado
+
+We have audited the accompanying balance sheets of 1mage Software, Inc. as of
+December 31, 2004 and 2003, and the related statements of operations,
+shareholders' equity (deficit), and cash flows for each of the three years in
+the period ended December 31, 2004. These financial statements are the
+responsibility of the Company's management. Our responsibility is to express an
+opinion on these financial statements based on our audits.
+
+We conducted our audits in accordance with the standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of 1mage Software, Inc. as of
+December 31, 2004 and 2003, and the results of its operations and its cash flows
+for each of the three years in the period ended December 31, 2004, in conformity
+with accounting principles generally accepted in the United States of America.
+
+The accompanying financial statements have been prepared assuming the Company
+will continue as a going concern. As discussed in Note 11, the Company has
+suffered recurring losses from operations and has a net capital deficiency that
+raises substantial doubt about its ability to continue as a going concern.
+Management's plans in regard to these matters are also described in Note 11. The
+financial statements do not include any adjustments that might result from the
+outcome of this uncertainty.
+
+ BKD, LLP
+
+Denver, Colorado
+February 25, 2005, except for Note 4 as to which the date is April 6, 2005
+
+19
+
+1mage Software, Inc.
+BALANCE SHEETS
+DECEMBER 31, 2004 AND 2003
+
+- ----------------------------------------------------------------------------------------------
+
+ 2004 2003
+- ----------------------------------------------------------------------------------------------
+ 
+ASSETS
+CURRENT ASSETS:
+ Cash and cash equivalents 50,503 143,505
+ Receivables:
+ Trade(less allowance: 2004, 3,750; 2003, 20,000) 81,851 609,216
+ Inventory 5,756 11,517
+ Prepaid expenses and other current assets 2,033 55,457
+ Employee advances 393 19,631
+ Deferred tax asset -- 20,000
+ ----------- -----------
+ Total current assets 140,536 859,326
+
+PROPERTY AND EQUIPMENT, at cost, net 33,816 43,465
+
+OTHER ASSETS:
+ Software development costs, net 680,613 694,262
+ Loan costs, net 8,649 25,929
+ Deferred tax asset -- 40,000
+ Rent/Security deposit 7,841 7,841
+ Inventory -- 2,958
+ ----------- -----------
+TOTAL ASSETS 871,455 1,673,781
+ =========== ===========
+LIABILITIES AND SHAREHOLDERS' EQUITY (DEFICIT)
+CURRENT LIABILITIES:
+ Current portion of capital lease obligations 4,124 3,663
+ Deferred revenue 310,403 287,000
+ Line of credit - Bank 172,300 --
+ Accounts payable 60,002 162,255
+ Accrued liabilities 370,040 230,958
+ ----------- -----------
+ Total current liabilities 916,869 683,876
+ ----------- -----------
+LONG-TERM OBLIGATIONS:
+ Capital lease obligations 5,311 7,105
+ Deferred rent 12,636 --
+ Line of credit - Bank -- 139,314
+ Line of credit - Related Parties, net of discount 197,772 54,600
+ ----------- -----------
+ 215,719 201,019
+ ----------- -----------
+SHAREHOLDERS' EQUITY(DEFICIT):
+ Common Stock, .004 par value - 10,000,000 shares authorized;
+ shares outstanding: 2004 and 2003- 3,302,597 and 3,287,597 13,210 13,150
+ Additional paid-in capital 7,361,988 7,288,455
+ Accumulated deficit (7,636,331) (6,512,719)
+ ----------- -----------
+ Total shareholders' equity(deficit) (261,133) 788,886
+ ----------- -----------
+TOTAL LIABILITIES & SHAREHOLDERS' EQUITY(DEFICIT) 871,455 1,673,781
+ =========== ===========
+
+See notes to financial statements.
+
+ 20
+
+1mage Software, Inc.
+STATEMENTS OF OPERATIONS
+FOR THE YEARS ENDED DECEMBER 31, 2004, 2003, AND 2002
+
+- --------------------------------------------------------------------------------
+ 2004 2003 2002
+- --------------------------------------------------------------------------------
+ 
+REVENUE:
+ System sales and software licenses 448,994 1,019,708 946,071
+ Services and annual fees 946,595 1,084,659 1,296,018
+ ----------- ----------- -----------
+ Total revenue 1,395,589 2,104,367 2,242,089
+ ----------- ----------- -----------
+COST OF REVENUE:
+ System sales and software licenses 366,001 537,623 623,242
+ Services and annual fees 403,571 377,380 529,791
+ ----------- ----------- -----------
+ Total cost of revenue 769,572 915,003 1,153,033
+ ----------- ----------- -----------
+GROSS PROFIT 626,017 1,189,364 1,089,056
+
+OPERATING EXPENSES:
+ Selling, general & administrative 1,605,201 1,214,577 1,365,214
+ ----------- ----------- -----------
+LOSS FROM OPERATIONS (979,184) (25,213) (276,158)
+ ----------- ----------- -----------
+OTHER INCOME/(EXPENSE):
+ Interest income 395 1,701 3,396
+ Interest expense (85,016) (29,467) (9,595)
+ Other Income 193 138,519 --
+ ----------- ----------- -----------
+ Total other income (expense) (84,428) 110,753 (6,199)
+ ----------- ----------- -----------
+INCOME/(LOSS) BEFORE INCOME TAXES (1,063,612) 85,540 (282,357)
+
+PROVISION/(CREDIT) FOR INCOME TAXES 60,000 (10,000) --
+ ----------- ----------- -----------
+NET INCOME/(LOSS) (1,123,612) 95,540 (282,357)
+ =========== =========== ===========
+
+BASIC AND DILUTED INCOME
+(LOSS) PER COMMON SHARE (0.34) .03 (.09)
+ =========== =========== ===========
+
+WEIGHTED AVERAGE NUMBER OF
+COMMON SHARES OUTSTANDING 3,298,241 3,236,610 3,146,554
+ =========== =========== ===========
+
+See notes to financial statements.
+
+21
+
+1mage Software, Inc.
+STATEMENTS OF SHAREHOLDERS' EQUITY (DEFICIT)
+FOR THE YEARS ENDED DECEMBER 31, 2004, 2003, AND 2002
+- --------------------------------------------------------------------------------
+
+Common Stock Additional
+ ------------------------ Paid-In Accumulated
+ Shares Amount Capital Deficit Total
+ ---------------------------------------------------------------------
+ 
+Balances, January 1, 2002 3,146,554 12,586 7,238,658 (6,325,902) 925,342
+
+ Net loss -- -- -- (282,357) (282,357)
+
+Balances, December 31, 2002 3,146,554 12,586 7,238,658 (6,608,259) 642,985
+
+ Issuance of stock for services 38,043 152 6,848 7,000
+
+ Issuance of stock for loan origination fee 90,000 360 20,340 20,700
+
+ Issuance of warrants for loan origination fee 0 0 18,189 18,189
+
+ Issuance of stock for exercise of stock options 13,000 52 4,420 4,472
+
+ Net income 95,540 95,540
+
+Balances, December 31, 2003 3,287,597 13,150 7,288,455 (6,512,719) 788,886
+
+ Issuance of stock for exercise of stock options 15,000 60 6,383 6,443
+
+ Discount recorded on DEMALE line of credit -- -- 67,150
+
+ Net loss (1,123,612) (1,123,612)
+ ---------------------------------------------------------------------
+Balances, December 31, 2004 3,302,597 13,210 7,361,988 (7,636,331) (261,133)
+ =====================================================================
+
+See notes to financial statements.
+
+22
+
+1mage Software, Inc.
+STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED DECEMBER 31, 2004, 2003, AND 2002
+
+- -----------------------------------------------------------------------------------------------------------------------
+
+ 2004 2003 2002
+- -----------------------------------------------------------------------------------------------------------------------
+ 
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net earnings/(loss) (1,123,612) 95,540 (282,357)
+Adjustments to reconcile earnings/(loss) to net cash provided by operating
+activities:
+ Depreciation and amortization 297,226 306,292 323,096
+ Amortization of deferred loan costs 17,280 12,960 --
+ Amortization of debt discount 41,322 -- --
+ Deferred rent 12,636 -- --
+ Settlement of payable -- (138,375) --
+ Deferred revenue 23,403 6,000 48,000
+ Deferred tax asset 60,000 (10,000) --
+ Issuance of stock options for services -- 7,000 --
+ Changes in assets and liabilities:
+ Receivables 527,365 (59,761) (127,478)
+ Inventory 8,719 4,983 (7,430)
+ Prepaid expenses and other assets 72,662 (59,426) (7,806)
+ Accounts payable (102,253) 22,456 90,296
+ Accrued liabilities 139,082 82,698 1,750
+ ----------- ----------- -----------
+ Net cash provided by (used for) operating activities (26,170) 270,367 38,071
+ ----------- ----------- -----------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchase of property and equipment (4,584) (13,180) (6,103)
+Additions to capitalized software (267,351) (261,346) (292,015)
+ ----------- ----------- -----------
+ Net cash used for investing activities (271,935) (274,526) (298,118)
+ ----------- ----------- -----------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+
+Net borrowings on line of credit - related parties 169,000 54,600 --
+Net borrowings (repayments) on line of credit - bank 32,986 (60,686) 200,000
+Repayment of long-term obligations (3,326) (460) (2,636)
+Proceeds from exercise of Common Stock options 6,443 4,472 --
+ ----------- ----------- -----------
+ Net cash provided by (used for) financing activities 205,103 (2,074) 197,364
+ ----------- ----------- -----------
+INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS
+ (93,002) (6,233) (62,683)
+CASH AND CASH EQUIVALENTS, beginning of year 143,505 149,738 212,421
+ ----------- ----------- -----------
+
+CASH AND CASH EQUIVALENTS, end of year 50,503 143,505 149,738
+ ----------- ----------- -----------
+SUPPLEMENTAL CASH FLOWS INFORMATION
+ Issuance of stock and stock purchase warrants
+ for deferred loan origination fees related to the
+
+ DEMALE, LLC line of credit -- 38,889 --
+
+ Beneficial conversion option associated with DEMALE
+ line of credit 67,150 -- --
+
+See notes to financial statements
+
+23
+
+1mage Software, Inc.
+STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED DECEMBER 31, 2004, 2003, AND 2002
+
+|---------------------------------------------------------------------------------------------------------------------------------
+
+ 2004 2003 2002
+- ---------------------------------------------------------------------------------------------------------------------------------
+ 
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+
+ Cash paid for interest 15,160 14,774 9,595
+ ============= ============= =============
+
+ Income taxes paid 2,500 2,500 2,500
+ ============= ============= =============
+
+SUPPLEMENTAL SCHEDULE OF NON-CASH ACTIVITIES:
+
+ Acquisition of property and equipment by assuming capital
+
+ lease obligations 1,993 -- 10,987
+ ============= ============= =============
+
+24
+
+1mage Software, Inc.
+NOTES TO FINANCIAL STATEMENTS
+DECEMBER 31, 2004, 2003, AND 2002
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES AND ORGANIZATION
+
+ Organization and Nature of Business - 1mage Software, Inc. (the "Company")
+ was incorporated in Colorado in December 1981.
+
+ The Company develops and markets a Linux, UNIX, and Windows-based
+ electronic document image management and retrieval system. The Company
+ earns the majority of its revenues in the United States.
+
+ Cash Equivalents - The Company considers all highly liquid debt
+ instruments purchased with an original maturity of three months or less to
+ be cash equivalents.
+
+ Inventories consist of third party software and are stated at the lower of
+ cost (specific identification method) or market (net realizable value).
+ This software is ultimately integrated into the Company's products.
+
+ Property and Equipment is stated at cost. Depreciation and amortization
+ are computed using the straight-line method over the estimated useful
+ lives (generally five years) of the assets or the lease term, if shorter.
+ The Company capitalizes all expenditures for property and equipment in
+ excess of 500. For the years ended December 31, 2004, 2003, and 2002,
+ depreciation expense totaled 16,226, 18,292, and 21,896, respectively.
+
+ Advertising Costs are expensed as incurred. Advertising expenses totaled
+ 40,522, 63,552, and 118,373, in 2004, 2003 and 2002, respectively.
+
+ Software Development Costs are capitalized when technological feasibility
+ is established. Such costs are stated at the lower of unamortized cost or
+ net realizable value. Amortization is computed using either the
+ straight-line method based on estimated economic lives of the products
+ (five years) or the ratio that current product revenues bear to the total
+ of current and anticipated future product revenues, whichever is greater.
+
+ It is reasonably possible that those estimates of anticipated future gross
+ revenues, the remaining estimated economic life of the products, or both
+ will be reduced significantly in the near term due to competitive
+ pressure. As a result, the carrying amount of the capitalized software
+ costs may be reduced materially in the near term. The amounts capitalized
+ for the years ended December 31, 2004, 2003, and 2002 were 267,351,
+ 261,346, and 296,510, respectively. Amortization of these costs totaled
+ 281,000, 288,000, and 301,200, respectively. The net realizable value
+ of such capitalized costs is reviewed by management on a periodic basis,
+ and costs in excess of net realizable value, if any, are charged to
+ operations.
+
+ Loan Costs are amortized using the effective interest method over the term
+ of the debt agreement.
+
+ Revenue Recognition - Revenue from the sale of software licenses, computer
+ equipment, and existing application software packages is recognized when
+ the software and computer equipment are shipped to the customer, remaining
+ vendor obligations are insignificant, there are no significant
+ uncertainties about customer acceptance and collectibility is probable.
+ Revenue from related services, including installation and software
+ modifications, is recognized upon performance of services. Maintenance
+ revenue is recognized ratably over the maintenance period.
+
+25
+
+A single customer, Reynolds and Reynolds, accounted for 0 , 0.1 , and 20 
+ of revenues in 2004, 2003, and 2002, respectively. No other customer
+ accounted for more than 10 of revenue for 2004, 2003, or 2002.
+
+ Debt Discount - is amortized using the effective interest method over the
+ term of the debt agreement.
+
+ Accounts Receivable - Accounts receivable are stated at the amount billed
+ to customers. The Company provides an allowance for doubtful accounts,
+ which is based upon a review of outstanding accounts receivable,
+ historical collection information and existing economic conditions. The
+ Company performs credit evaluations of its customers' financial condition
+ and generally does not require collateral. The Company retains a security
+ interest in the equipment and software sold until they are paid in full.
+ Accounts receivable are ordinarily due 30 days after the issuance of the
+ invoice, with those customers not meeting those requirements being subject
+ to stricter credit policies. Delinquent receivables are written off based
+ on individual credit evaluation and specific circumstances of the
+ customer.
+
+ Three customers accounted for 41 , 13 and 11 of accounts receivable at
+ December 31, 2004. One customer accounted for 31 of accounts receivable
+ at December 31, 2003. Three different customers accounted for 32 , 12 and
+ 11 of accounts receivable at December 31, 2002.
+
+ Earnings (Loss) per Share is computed by dividing net income (loss) by the
+ weighted average number of common and equivalent shares outstanding during
+ the year. Fully diluted earnings per share are either anti-dilutive or not
+ materially different from basic earnings per share.
+
+ Income Taxes The Company follows the liability method of accounting for
+ income taxes in accordance with Statement of Financial Accounting
+ Standards (SFAS) No. 109. Under this method, deferred income taxes are
+ recorded based upon differences between the financial reporting and tax
+ bases of assets and liabilities and are measured using enacted tax rates
+ and laws that will be in effect when the underlying assets or liabilities
+ are received or settled.
+
+ The Company has recorded a valuation allowance against the deferred tax
+ assets due to the uncertainty of ultimate realizability.
+
+ Stock-based Compensation At December 31, 2004, the Company has three
+ stock-based employee compensation plans, which are described more fully in
+ Note 5. The Company accounts for these plans under the recognition and
+ measurement principles of APB Opinion No. 25, Accounting for Stock Issued
+ to Employees, and related Interpretations. No stock-based employee
+ compensation cost is reflected in net income, as all options granted under
+ those plans had an exercise price equal to the market value of the
+ underlying common stock on the grant date. The following table illustrates
+ the effect on net income and earnings per share if the company had applied
+ the fair value provisions of FASB Statement No. 123, Accounting for
+ Stock-Based Compensation, to stock-based employee compensation.
+
+26
+
+Year Ended December 31
+ -----------------------------------------
+ 2004 2003 2002
+ ----------- ----------- -----------
+ 
+Net income (loss), as reported (1,123,612) 95,540 (282,357)
+Less: Total stock-based employee compensation cost
+ determined under the fair value based method,
+ net of income taxes (28,415) (105,885) (97,166)
+ ----------- ----------- -----------
+Pro forma net income (loss) (1,152,027) 10,345 (379,523)
+ =========== =========== ===========
+Earnings per share:
+Basic and Diluted - as reported (0.34) 0.03 (0.09)
+ =========== =========== ===========
+Basic and Diluted - pro forma (0.35) -- (0.12)
+ ----------- =========== ===========
+
+Estimates -The preparation of financial statements in conformity with
+ accounting principles generally accepted in the United States of America
+ requires management to make estimates and assumptions that affect the
+ reported amounts of assets and liabilities and disclosures of contingent
+ assets and liabilities at the date of the financial statements and the
+ reported amounts of income and expenses during the reporting periods.
+ Actual results could differ from those estimates.
+
+2. PROPERTY AND EQUIPMENT
+
+ Property and equipment at December 31 consists of the following:
+
+ 2004 2003
+ --------- ---------
+Equipment 340,425 666,277
+Furniture 57,035 57,088
+Leasehold improvements 10,903 10,903
+ --------- ---------
+ 408,363 734,268
+Less: accumulated depreciation (374,547) (690,803)
+ --------- ---------
+ 33,816 43,465
+ ========= =========
+
+3. ACCRUED LIABILITIES
+
+ Accrued liabilities at December 31 consist of the following:
+
+ 2004 2003
+ -------- --------
+Sales tax payable 52,475 73,770
+Accounting and audit fees 6,500 9,521
+Accrued compensation 16,140 80,873
+Litigation 198,389 0
+Deferred rent 12,636 0
+Other 96,536 66,794
+ -------- --------
+ 382,676 230,958
+Less: Deferred rent - long-term 12,636 0
+ -------- --------
+ 370,040 230,958
+ ======== ========
+
+4. LINES OF CREDIT
+
+ Bank
+
+ On February 24, 2004, the Company entered into a 200,000 annual revolving
+ bank line of credit that expired on February 24, 2005 and had borne
+ interest at prime plus 1.75 (total rate of 7.0 at December 31, 2004) not
+ to exceed 18 , and was collateralized by all accounts receivable, assets,
+ and general intangibles of the Company. The proceeds from this bank line
+ of credit were used to payoff the bank line of credit that existed at
+ December 31, 2003. Total borrowings outstanding under the line of credit
+ were 172,300 at December 31, 2004. The bank has informed the Company that
+ the line will not be renewed. On March 25, 2005, the bank line of credit
+ was amended to extend the due date until April 15, 2005 and reduce the
+ line to 162,300. The Company is currently in negotiations with the bank
+ to implement a payment plan that will amortize the debt over a 48-month
+ period, with a new maturity date of April 15, 2006.
+
+ The Company had a 200,000 annual revolving bank line of credit which
+ expired on February 24, 2004 and had borne interest at the greater of 7 
+ or prime plus 1.5 , not to exceed 18 , and was collateralized by all
+ accounts receivable and general intangibles of the Company. Total
+ borrowings outstanding under the line of credit were 139,314 at December
+ 31, 2003.
+
+Related Parties
+
+ On April 1, 2003, the Company entered into a 300,000 convertible
+ revolving line-of-credit agreement (the Agreement) with DEMALE, LLC, an
+ entity owned by certain stockholders of the Company. The lender may elect
+ to convert all or any portion of the unpaid principal and interest owed
+ under the line at the termination of the Agreement into shares of the
+ Company's common stock at a conversion price equal to 80 of the fair
+ market value on that date. The estimated fair value of the beneficial
+ conversion terms related to this convertible line of credit amounted to
+ 67,150 and was recorded as a discount on the line of credit with an
+ offsetting credit to additional paid-in capital. In connection with the
+ Agreement, the Company issued 90,000 shares of restricted common stock and
+ stock purchase warrants to purchase an additional 90,000 shares of
+ restricted common stock as payment for loan origination costs. The line
+ expires on June 30, 2005 and requires the Company, among other things, to
+ maintain certain financial conditions. At December 31, 2004 and 2003,
+ there was 223,600 and 54,600, respectively, borrowed against this line.
+ The line is secured by substantially all of the Company's assets and is
+ subordinated to the bank line of credit. Interest is accrued and payable
+ quarterly at the greater of 7 or prime plus 1.5 (total interest rate of
+ 7.0 at December 31, 2004). At December 31, 2004 and 2003, accrued and
+ unpaid interest was 12,560 and 1,733, respectively, and is included in
+ the balance under the heading "Accrued liabilities." On February 7, 2005,
+ the Board of Directors voted to amend the line and, effective March 31,
+ 2005, the line was amended to increase the line to 500,000 and extend the
+ due date until June 30, 2007 or such earlier date as is mutually agreed
+ upon by the Company and DEMALE. Additionally, in connection with the
+ amendment, DEMALE right to convert any or all of the unpaid principal and
+ interest into shares of the Company's common stock was set at the lesser
+ of 0.14 per share, that price being equal to 80 of the fair market value
+ as of the date of the amendment, or 80 of the fair market value as of the
+ date of the actual conversion.
+
+5. SHAREHOLDERS' EQUITY
+
+ Stock Compensation Plans
+
+ At December 31, 2004, the Company has three stock-based compensation
+ plans, which are described below. The Company applies Accounting
+ Principles Board (APB) Opinion 25 and related interpretations in
+ accounting for its plans. Accordingly, no compensation cost has been
+ recognized. Had compensation cost for the Company's three stock-based
+ compensation plans been determined based on the fair value at the dates of
+ awards under those plans consistent with the method of FASB Statement 123,
+ the Company's net income (loss) and earnings (loss) per share would have
+ been as indicated below:
+
+28
+
+2004 2003 2002
+ ------------ ----------- -------------
+ 
+ Net Income (Loss):
+ As Reported (1,123,612) 95,540 (282,357)
+ Pro Forma (1,152,027) (10,345) (379,523)
+
+ Earnings (Loss) Per Common Share:
+ As Reported (0.34) 0.03 (0.09)
+ Pro Forma (0.35) -- (0.12)
+
+The fair value of each option grant is estimated on the date of grant
+ using the Black-Scholes option-pricing model with the following
+ weighted-average assumptions for grants in 2004, 2003, and 2002:
+
+ 2004 2003 2002
+ ------------ ----------- -------------
+
+ Dividend Yield 0 0 0 
+ Expected Volatility 134 1328 128 
+ Risk-Free Interest Rate 5.00 4.25 4.25 
+ Expected Lives 5.0 years 9.0 years 8.8 years
+
+The Black-Scholes option-pricing model was developed for use in estimating
+ the fair value of traded options, which have no vesting restrictions and
+ are freely transferable. In addition, option valuation models require the
+ input of highly subjective assumptions, including the expected stock price
+ volatility. Because the Company's employee stock options have
+ characteristics significantly different from those of traded options, and
+ because changes in the subjective input assumptions can materially affect
+ the fair value estimate, in management's opinion, the existing models do
+ not necessarily provide a reliable single measure of the fair value of its
+ employee stock options.
+
+ 1996 Equity Incentive Plan
+
+ In September 1996, the Board of Directors authorized 1,000,000 shares of
+ Common Stock for issuance under its 1996 Equity Incentive Plan ("1996
+ Plan") as incentive stock options ("ISOs") or non-qualified stock options
+ ("NQSOs"). On June 7, 2004, the Board of Directors voted to amend the 1996
+ Plan to increase the number of authorized shares of Common Stock available
+ for issuance from 1,000,000 shares to 1,200,000 shares. The Company grants
+ ISOs only to employees. The Company grants NQSOs and restricted stock to
+ persons who are employees of the Company and to non-employee directors
+ under the 1996 Plan.
+
+ The options are granted to purchase Common Stock at the fair market value
+ on the grant date or at other prices as determined by the Board of
+ Directors. The option-vesting period is determined at the time of each
+ grant, and all options expire five to ten years from the grant date.
+
+29
+
+A summary of the 1996 Plan stock option activity follows:
+
+-----------------------------------------------------------------------------------------------------
+
+ Outstanding Exercise Weighted Avg.
+ Shares Price Exercise Price
+ -----------------------------------------------------------------------------------------------------
+ 
+ Balances, January 1, 2002 770,000 .59
+ Granted 8,000 .51 .51
+ Canceled (13,500) .56 - .70 (.66)
+ -----------------
+
+ Balances, December 31, 2002 764,500 .59
+ Granted 112,000 .31 - .39 .34
+ Canceled (74,500) .51 - 1.43 (.67)
+ -----------------
+
+ Balances, December 31, 2003 802,000 .55
+ Granted 63,151 .15 - .59 .32
+ Exercised (9,000) .31 - .63 (.48)
+ Canceled (65,000) .31 - 1.29 (.60)
+ -----------------
+
+ Balances, December 31, 2004 791,151 .53
+ =================
+
+The following table summarizes information about stock options under the
+ plan at December 31, 2004:
+
+Outstanding Exercisable
+ -------------------------------------------------- ---------------------------
+ Weighted
+ Average Weighted Weighted
+ Range of Remaining Average Average
+ Exercise Number Contractual Exercise Number Exercise
+ Prices Outstanding Life Price Exercisable Price
+ ------------ -------------- -------------- --------------- ----------- -----------
+ 
+ 0.15 to 0.44 387,151 4.5 years 0.39 342,041 0.41
+ 0.51 to 0.84 396,000 5.5 years 0.64 383,665 0.64
+ 1.29 to 1.44 8,000 5.0 years 1.36 8,000 1.36
+
+At December 31, 2004, options for 733,706 shares were exercisable under
+ the 1996 Plan. There were 201,849 shares available for future grant.
+
+ The weighted-average grant-date fair value of options granted during 2004,
+ 2003, and 2002 were 0.32, 0.34, and 0.51, respectively.
+
+ 1994 Stock Option and Grant Plan
+
+ In April 1994, the Company authorized 700,000 shares of Common Stock for
+ issuance under its 1994 Stock Option and Grant Plan ("1994 Plan") to
+ employees, consultants and contractors of the Company. The Plan was
+ amended in 2002 to permit grants to employees who were also members of the
+ board of directors.
+
+ The options are granted to purchase Common Stock at the fair market value
+ on the date of grant or at other prices as determined by the Board of
+ Directors ("the Board"). Options issued under the 1994 Plan become
+ exercisable in one or more installments during its term and the right to
+ exercise may be cumulative, as determined by the Board. Options expire as
+ determined by the Board, but not more than 10 years after the date of
+ grant.
+
+30
+
+Details of activity under the 1994 Plan are as follows:
+
+-----------------------------------------------------------------------------------------------------------
+
+ Weighted Average
+ Stock Options Outstanding Exercise Price Exercise Price
+ -----------------------------------------------------------------------------------------------------------
+ 
+ Balances, January 1, 2002 320,750 .52
+ Granted 34,000 .35 .35
+ Canceled (96,500) .63 (.63)
+ --------------------
+
+ Balances, December 31, 2002 258,250 .46
+ Granted 78,849 .31 - .35 .34
+ Exercised (13,000) .34 (.34)
+ Canceled (34,250) .34 - .66 (.51)
+ --------------------
+
+ Balances, December 31, 2003 289,849 .43
+ Granted 14,849 .15 .15
+ Exercised (6,000) .34 - .35 .35
+ Canceled (14,849) .31 - .63 .37
+ --------------------
+
+ Balances, December 31, 2004 283,849 .42
+ ====================
+
+-----------------------------------------------------------------------------------------------------------
+
+ Weighted Average
+ Stock Grants Grant Price Exercise Price
+ -----------------------------------------------------------------------------------------------------------
+ 
+ Balances, January 1, 2002 83,166 .84 - 1.13 1.66
+ Granted/Canceled -- -- --
+ --------------------
+
+ Balances, December 31, 2002 83,166 1.66
+ Granted/Canceled -- -- --
+ --------------------
+
+ Balances, December 31, 2003 83,166 1.66
+ Granted/Canceled -- -- --
+ --------------------
+
+ Balances, December 31, 2004 83,166 1.66
+ ====================
+
+The following table summarizes information about stock options under the
+ 1994 Plan at December 31, 2004:
+
+Outstanding Exercisable
+ -------------------------------------------------- ---------------------------
+ Weighted
+ Average Weighted Weighted
+ Range of Remaining Average Average
+ Exercise Number Contractual Exercise Number Exercise
+ Prices Outstanding Life Price Exercisable Price
+ ------------ -------------- -------------- --------------- ----------- -----------
+ 
+ 0.15 to 0.35 207,349 4.6 years 0.33 178,783 0.35
+ 0.56 to 0.66 76,500 3.3 years 0.65 75,875 0.65
+
+The weighted-average grant-date fair value of options granted during 2004,
+ 2003, and 2002 were .15, .34, and .35, respectively.
+
+ At December 31, 2004, options to purchase 254,658 shares of Common Stock
+ were exercisable and no shares were available for future grant under the
+ 1994 Plan.
+
+ 1993 Stock Option Plan
+
+ In May 1994, the Company authorized 235,000 shares of Common Stock for
+ issuance under its 1993 Stock Option Plan ("1993 Plan") as incentive or
+ non-qualified stock options. The Company grants nonqualified stock options
+ to officers, directors and employees and incentive stock options may be
+ granted to employees under the 1993 Plan.
+
+31
+
+The options are granted to purchase Common Stock at the fair market value
+ on the grant date or at other prices as determined by the Board of
+ Directors. The option-vesting period is determined at the time of each
+ grant, and all options expire two to ten years from the grant date.
+
+ A summary of the 1993 Plan stock option activity follows:
+
+-------------------------------------------------------------------------------------------------------
+
+ Outstanding Weighted Avg.
+ Shares Exercise Price Exercise Price
+ -------------------------------------------------------------------------------------------------------
+ 
+ Balances, January 1, 2002 79,800 .47
+ Granted/Canceled/Exercised 0 - --
+ -----------------
+
+ Balances, December 31, 2002 79,800 .47
+ Granted 11,675 .31 .31
+ Canceled (11,675) .44 - 2.06 (.52)
+ -----------------
+
+ Balances, December 31, 2003 79,800 .44
+ Canceled (13,500) .31 - .34 .32
+ -----------------
+
+ Balances, December 31, 2004 66,300 .46
+ =================
+
+32
+
+The following table summarizes information about stock options under the plan at
+December 31, 2004.
+
+Outstanding Exercisable
+ -------------------------------------------------- ---------------------------
+ Weighted
+ Average Weighted Weighted
+ Range of Remaining Average Average
+ Exercise Number Contractual Exercise Number Exercise
+ Prices Outstanding Life Price Exercisable Price
+ ------------ -------------- -------------- --------------- ----------- -----------
+ 
+ 0.31 to 0.44 61,300 2.0 years 0.43 60,463 0.44
+ 0.56 to 0.75 4,500 2.6 years 0.73 4,500 0.73
+ 1.38 to 2.06 500 1.0 years 1.72 500 1.72
+
+There were no options granted during 2004. At December 31, 2004, options
+ for 64,683 shares were exercisable under the 1993 Plan. There were no
+ shares available for future grant under the 1993 Plan.
+
+ Common Stock Warrants
+
+ On April 1, 2003, in connection with obtaining the line of credit -
+ related parties, the Company issued warrants to the owners of the lender
+ to purchase 90,000 shares of Common Stock at an exercise price of 0.18
+ per share, that price being equal to 80 of the fair market value of the
+ Common Stock on March 31, 2003.
+
+ Common Stock Reserved
+
+ Common Stock reserved at December 31, 2004 was as follows:
+
+ 1996 Equity Incentive Plan 993,000
+ 1994 Stock Option and Grant Plan 283,849
+ 1993 Stock Option Plan 65,800
+ ---------
+ 1,342,649
+ =========
+
+6. INCOME TAXES
+
+ The provisions (credit) for income taxes for the years ended December 31,
+ consists of:
+
+ 2004 2003 2002
+ ------------ ------------ ------------
+
+ Current:
+ Federal -- -- --
+ State -- -- --
+ ------------ ------------ ------------
+ Total current -- -- --
+ ------------ ------------ ------------
+
+ Deferred:
+ Federal 60,000 (10,000) --
+ State -- -- --
+ ------------ ------------ ------------
+ Total deferred 60,000 (10,000) --
+ ------------ ------------ ------------
+ 60,000 (10,000) --
+ ============ ============ ============
+
+33
+
+The following is a reconciliation of statutory federal income taxes to the
+ actual provision (credit) for income taxes:
+
+2004 2003 2002
+ --------- --------- ---------
+ 
+ Federal income taxes at statutory rate (362,000) 29,000 (96,000)
+ Non-deductible expenses 7,000 7,000 7,000
+ Increase (decrease) in taxes resulting
+ from state income taxes (33,000) 3,000 (9,000)
+ Increase (decrease) in deferred tax
+ asset valuation allowance 465,000 (52,000) 101,000
+ Other, net (17,000) 3,000 (3,000)
+ --------- --------- ---------
+ Provision/(credit) for income taxes 60,000 (10,000) --
+ ========= ========= =========
+
+The components of the net deferred tax (liability) asset recognized in the
+ accompanying balance sheets are as follows:
+
+ 2004 2003
+ ----------- -----------
+ Deferred tax liability (4,000) (12,000)
+ Deferred tax asset 2,554,000 2,156,000
+ Valuation allowance (2,550,000) (2,084,000)
+ ----------- -----------
+ 0 60,000
+ =========== ===========
+
+ The types of temporary differences between the tax bases of assets and
+ liabilities and their financial reporting amounts that give rise to a
+ significant portion of the deferred tax asset and their approximate tax
+ effects are as follows:
+
+ 2004 2003
+ ----------- -----------
+ Future income
+ (deductions):
+ Net operating loss 2,553,000 2,147,000
+ Allowance for
+ doubtful accounts 1,000 8,000
+ Depreciation 0 1,000
+ Other, net (4,000) (12,000)
+ ----------- -----------
+ 2,550,000 2,144,000
+ =========== ===========
+
+ The Company has net operating loss carry forwards for federal income tax
+ purposes of approximately 6,584,000. These carry forwards expire on
+ varying dates through 2024.
+
+7. EMPLOYEE BENEFIT PLAN
+
+ The Company has a Cash or Deferred Profit Sharing Plan ("the 401(k)
+ Plan"). The 401(k) Plan is designed to qualify under Section 401(k) of the
+ Internal Revenue Code and allows the Company to make discretionary
+ contributions as determined by the Company's Board of Directors. For the
+ years ended December 31, 2004, 2003, and 2002, the Company contributed
+ 2,954, 3,225, and 4,923 to the 401(k) Plan.
+
+34
+
+8. COMMITMENTS AND CONTINGENCIES
+
+ At December 31, 2004 and 2003, equipment with a net book value of 2,254
+ and 7,436, net of accumulated amortization of 8,863 and 19,827,
+ respectively, has been leased under capital leases.
+
+ The Company leases its executive offices under a noncancelable-operating
+ lease, which expires in August 2008. Total rent expense for the years
+ ended December 31, 2004, 2003 and 2002 was 81,847, 76,352, and 89,306
+ respectively.
+
+ Future minimum payments for lease obligations are as follows:
+
+ Capital Operating
+ --------- ---------
+ 2005 5,668 71,487
+ 2006 5,250 88,335
+ 2007 658 91,067
+ 2008 55 61,925
+ --------- ---------
+ Total minimum lease payments 11,631 312,814
+ =========
+ Amount representing interest (2,196)
+ ---------
+ Present value of min. lease payments 9,435
+ Current portion (4,124)
+ ---------
+ Long-term portion 5,311
+ =========
+
+ The Company has bonus agreements with two officers that provide for
+ quarterly bonuses of 5 and 4 , respectively, of the Company's pre-tax
+ profits. The Company expensed bonuses of 0, 9,449, and 0, under these
+ agreements for the years ended December 31, 2004, 2003, and 2002,
+ respectively.
+
+9. FINANCIAL INSTRUMENTS
+
+ All financial instruments are held for purposes other than trading. The
+ following methods and assumptions were used to estimate the fair value of
+ each financial instrument for which it is practicable to estimate that
+ value:
+
+ Cash and Cash Equivalents
+
+ The carrying amount approximates fair value because of the short maturity
+ of those instruments.
+
+ Debt
+
+ The fair value of the Company's debt is estimated based on borrowing rates
+ currently available to the Company for bank loans with similar terms and
+ maturities.
+
+35
+
+The estimated fair values of the Company's financial instruments at
+ December 31, 2004 are as follows:
+
+ Carrying
+ Amount Fair Value
+ ----------- -----------
+ Assets:
+ Cash and cash equivalents 50,503 50,503
+ Receivables 82,244 82,244
+
+ Liabilities:
+ Accounts Payable 60,002 60,002
+ Line of Credit-bank 172,300 172,300
+ Line of Credit-related parties 197,772 223,600
+
+ The estimated fair values of the Company's financial instruments at
+ December 31, 2003 are as follows:
+
+ Carrying
+ Amount Fair Value
+ ----------- -----------
+ Assets:
+ Cash and cash equivalents 143,505 143,505
+ Receivables 628,848 628,848
+
+ Liabilities:
+ Accounts Payable 162,255 162,255
+ Line of Credit-bank 139,314 139,314
+ Line of Credit-related parties 54,600 54,600
+
+10. SEGMENT INFORMATION
+
+ The Company operates in one industry segment consisting of the development
+ and marketing of electronic document image management and retrieval
+ systems. The Company's technologies are managed as one segment because it
+ offers similar products in similar markets and the factors determining
+ strategic decisions are comparable for all products and markets.
+
+ Sales to foreign markets totaled 35,471, 35,556, and 38,197 for the
+ years ending December 31, 2004, 2003, and 2002, respectively.
+
+36
+
+11. LIQUIDITY
+
+ The Company's cash and cash equivalents decreased 93,002 during the year
+ ended December 31, 2004 to approximately 51,000 at December 31, 2004.
+ During 2004, the Company incurred cash expenditures for deferred
+ development costs of approximately 267,000. As of December 31, 2004, the
+ Company had deficit working capital of approximately 789,000. At December
+ 31, 2004, current liabilities included deferred revenue of approximately
+ 310,000, which will be earned throughout calendar year 2004 and does not
+ require additional direct cash flow needs to be earned.
+
+ At December 31, 2004, the Company's line of credit with a bank had a
+ balance of 172,300 and the Company's line of credit with a related party
+ had a balance of 223,600. Subsequent to December 31, 2004, the bank
+ notified the Company that it would not be renewing the line of credit in
+ February, 2005. The line is collateralized by accounts receivable and
+ general intangibles of the Company and bears interest at prime plus 1.75 
+ not to exceed 18 . During March 2005, the bank line of credit was amended
+ to extend the due date until April 15, 2005 and reduce the line to
+ 162,300. Currently, the Company is in negotiations with the bank to
+ implement a payment plan that will amortize the debt over a 48-month
+ period, with a new maturity date of April 15, 2006.
+
+ Additionally, during March 2005, the related party line of credit was
+ amended to extend the due date until June 30, 2007, or an earlier date as
+ mutually agreed upon by the Company and DEMALE, and increase the line to
+ 500,000. The line is collateralized by all accounts receivable and
+ general intangibles of the Company. As of December 31, 2004, the Company
+ had no material commitments for capital expenditures to be made during
+ calendar 2005.
+
+ As a result of the Company's operating losses in 2004 and the 392,000
+ award against it in the Reynolds arbitration, the Company's capital
+ resources have been stretched to unprecedented lengths. The Company cannot
+ bear any significant operating or other losses in 2005 if it is to
+ survive. While preliminary indications are that the Company has not
+ incurred such a significant loss in the first quarter of 2005, the Company
+ still requires the continuing forbearance of its bank, which has already
+ declined to renew the 162,000 owed on its line of credit, and the
+ continued support of DEMALE, LLC, which the Company owes 468,000 as of
+ March 31, 2005. There is no assurance that such forbearance or support
+ will continue or that the Company will not incur additional operating
+ losses. Accordingly, unless the Company can obtain additional capital to
+ cover future losses, if the Company incurs additional losses or otherwise
+ experiences negative cash flow, there is a substantial risk that the
+ Company will not be able to continue as a going concern.
+
+37
+
+Report of Independent Registered Public Accounting Firm on
+ Financial Statement Schedule
+
+Audit Committee, Board of Directors and Shareholders
+1mage Software, Inc.
+Englewood, Colorado
+
+In connection with our audit of the financial statements of 1mage Software, Inc.
+for each of the three years in the period ended December 31, 2004, we have also
+audited the following financial statement schedule. This financial statement
+schedule is the responsibility of the Company's management. Our responsibility
+is to express an opinion on this financial statement schedule based on our
+audits of the basic financial statements. The schedule is presented for purposes
+of complying with the Securities and Exchange Commission's rules and regulations
+and is not a required part of the financial statements.
+
+In our opinion, the financial statement schedule referred to above, when
+considered in relation to the basic financial statements taken as a whole,
+presents fairly, in all material respects, the information required to be
+included herein.
+
+BKD, LLP
+
+Denver, Colorado
+February 25, 2005
+
+38
+
+1mage Software, Inc.
+
+SCHEDULE VIII
+VALUATION AND QUALIFYING ACCOUNTS
+- --------------------------------------------------------------------------------
+
+Deductions
+ Additions Accounts
+ Balance at charged to: charged to:
+ beginning of Costs and Balance at end
+ period expenses Allowance of period
+ -------------- -------------- ---------------- --------------
+ 
+For the Year Ended December 31, 2004:
+ Allowance for Doubtful Accounts 20,000 45,956 62,206 3,750
+
+For the Year Ended December 31, 2003:
+ Allowance for Doubtful Accounts 10,000 43,450 33,450 20,000
+
+For the Year Ended December 31, 2002:
+ Allowance for Doubtful Accounts 10,000 34,850 34,850 10,000
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+ FINANCIAL DISCLOSURE
+
+ There were no disagreements with accountants on accounting and
+ financial disclosure.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+ As of the end of the period reported on in this report, the Company
+ has undertaken an evaluation under the supervision and with the
+ participation of management, including the Company's Chief Executive
+ Officer and Chief Financial Officer, of the effectiveness of the design
+ and operation of the Company's disclosure controls and procedures pursuant
+ to Rule 13a-15 of the Securities Exchange Act of 1934. Based upon that
+ evaluation, the Chief Executive Officer and Chief Financial Officer
+ concluded that the Company's disclosure controls and procedures were
+ effective, in all material respects, with respect to the recording,
+ processing, summarizing and reporting, within the time periods specified
+ in the SEC's rules and forms, of information required to be disclosed by
+ the Company in the reports that it files or submits under the Exchange
+ Act.
+
+ There have been no significant changes in the Company's internal
+ controls during the quarter ended December 31, 2004, or in other factors
+ that could significantly affect internal controls subsequent to the date
+ of the evaluation described above.
+
+39
+
+ITEM 9B. OTHER INFORMATION
+
+ None.
+
+ PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+ The following table sets forth information concerning the Company,
+Executive Officers and Directors:
+
+ Period Served as All Positions and
+ Director of the Offices Held
+Name Age Company With the Company
+- --------------------------------------------------------------------------------
+
+David R. DeYoung 60 Since 1981 President, Chief Executive
+ Officer and Director
+
+Mary Anne DeYoung 51 Since 1994 Treasurer, Chief Financial
+ Officer, Asst. Secretary
+ and Director
+
+Robert Wiegand II 58 Since 1992 Secretary and Director
+
+John G. Mazza 59 Since 2003 Director
+
+Spencer D. Lehman 69 Since 2004 Director
+
+David R. DeYoung - Chairman, President, Chief Executive Officer and Director
+
+ Mr. DeYoung has been President, Chief Executive Officer and a Director of
+the Company since its formation in 1981. He served in similar capacities with
+the Company's predecessor corporation from 1979 to 1981. He holds a Bachelor of
+Science Degree in Business Administration and Computer Science from California
+State Polytechnic University. Mr. DeYoung is the spouse of Mary Anne DeYoung.
+Mr. DeYoung owns a one fourth membership interest in DEMALE, LLC, which has
+extended a 500,000 convertible line of credit to the Company, under which the
+Company owed DEMALE 468,000 plus interest as of March 31, 2005.
+
+Mary Anne DeYoung - Treasurer, Chief Financial Officer, Assistant Secretary and
+Director
+
+ Ms. DeYoung was elected to the Board of Directors in April 1996. Ms.
+DeYoung was appointed Treasurer, Chief Financial Officer and Assistant Secretary
+of the Company on December 15, 1994. Ms. DeYoung has served as Vice President,
+Finance and Administration since July 1986. Ms. DeYoung joined the Company as
+Controller in April 1981. From 1975 to 1981, Ms. DeYoung was a systems analyst
+with Arthur Andersen LLP, a financial analyst, and an independent financial
+consultant. Ms. DeYoung holds a Bachelor of Science Degree in Accounting from
+the University of Santa Clara. Ms. DeYoung is the spouse of David R. DeYoung.
+
+Robert Wiegand II - Secretary and Director
+
+ Mr. Wiegand was elected to the Board of Directors in July 1992. Mr.
+Wiegand was appointed to the office of Secretary of the Company on March 1,
+1994. Mr. Wiegand is presently a lawyer in private practice. From January 15,
+1992 to December 26, 1992, he was Vice-President of Administration for Rose
+Manufacturing Co., a privately held manufacturer of safety equipment based in
+Englewood, Colorado. Mr. Wiegand has practiced law for 23 years, and prior to
+joining Rose Manufacturing, was special counsel with Pendleton & Sabian, P.C., a
+law firm in Denver. Mr. Wiegand graduated Phi Beta Kappa from the Tulane
+University of Louisiana in 1970 and went on to receive a law degree and was
+admitted to practice in Louisiana in 1972 and Colorado in 1977. Since 1976, Mr.
+Wiegand's practice has been limited to securities offerings, estate planning,
+business organizations and tax law. In addition to membership in six bar
+Associations, Mr. Wiegand has been admitted to practice before the U.S. Supreme
+Court, the U.S. District Court (Colorado and ED-Louisiana) and before the U.S.
+Court of Appeals (5th Circuit). Mr. Wiegand is a minority interest holder in
+Gold King Investments LLC, who owns a one fourth membership interest in DEMALE,
+LLC.
+
+40
+
+John G. Mazza - Director
+
+ Mr. Mazza was elected to the Board of Directors in March 2003. Mr. Mazza
+is currently the President of Drake Holding Corp. and Drake Energy Corp., both
+Nevada corporations and brokerage firms, located in Malibu, California, and has
+served in that capacity since 1984 and 1990, respectively. From 1999 to 2001,
+Mr. Mazza was a founder, Secretary and director of Aoptix Technologies Inc., a
+manufacturer of free space optical laser data and telecommunication transmission
+systems. From 1969 to 1984 Mr. Mazza held various senior management positions
+with William O'Neil and Co. Incorporated, a New York Stock Exchange member firm
+and O'Neil Data Systems, Inc., a brokerage company. In total, Mr. Mazza has been
+associated with the securities industry for over 30 years. Mr. Mazza holds a
+Bachelor of Science degree from Claremont McKenna College and a Masters of
+Business Administration from the University of Southern California. Mr. Mazza
+owns a one fourth membership interest in DEMALE, LLC.
+
+Spencer D. Lehman - Director
+
+ Mr. Lehman was elected to the Board of Directors in February 2004. Mr.
+Lehman has been a securities broker with the Shemano Group in Los Angeles,
+California since 2002. From 1987 until 2002, Mr. Lehman held various positions
+with Drake Capital, another brokerage firm. From 1962 to 1987, Mr. Lehman held
+positions at PaineWebber, Dean Witter and Shearson. From 1958 to 1960, Mr.
+Lehman served as an officer in the United States Navy. Mr. Lehman holds a degree
+in Geology from the University of California- Los Angeles (U.C.L.A.). Mr. Lehman
+owns a one fourth membership interest in DEMALE, LLC.
+
+ There is no arrangement or understanding between any of the executive
+officers and any other persons pursuant to which he or she was or is to be
+selected as an executive officer.
+
+ Audit Committee Expert
+
+ The Company does not have a "financial expert", as defined by the SEC's
+rules under Sarbanes-Oxley, serving on the Committee because the Board of
+Directors believes that all of the members of the Board, including but not
+limited to those serving on the Audit Committee, have sufficient financial
+knowledge, experience and sophistication to comprehend and critically analyze
+the Company's financial statements and the audit thereof. Accordingly, the Board
+has determined that adding a "financial expert" to the Board and the Audit
+Committee at this time is not a necessary or productive expenditure of the
+Company's limited resources.
+
+ Codes of Ethics
+
+ The Company has not yet adopted a code of ethics for its principal
+executive officer and principal financial officer since they are the Company's
+only two executive officers. The Board of Directors will continue to evaluate,
+from time to time, whether a code of ethics should be developed and adopted. If
+the Company does adopt a code of ethics in the future, in light of the Company's
+modest size, it is likely to apply to all employees rather than only executive
+officers.
+
+ Section 16(a) Beneficial Ownership Reporting Compliance
+
+ Section 16(a) of the Exchange Act requires the Company's executive
+officers and directors, and persons who own more than ten percent of the Common
+Stock of the Company, to file reports of ownership and changes in ownership with
+the Securities and Exchange Commission and the exchange on which the Common
+Stock is listed for trading. Those persons are required by regulations
+promulgated under the Exchange Act to furnish the Company with copies of all
+reports filed pursuant to Section 16(a). The Company believes that all Section
+16(a) Securities and Exchange Commission filing requirements applicable to the
+Company's executive officers and directors for calendar 2004 were timely met.
+
+41
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+ Summary Compensation Table
+
+ The following sets forth in summary form the compensation received during
+each of the Company's last three completed fiscal years by the Chief Executive
+Officer of the Company. There were no other Executive Officers serving at the
+end of the last fiscal year whose compensation was greater than 100,000.
+
+- ----------------------------------------------------------------------------------------------------------
+ Long Term All Other
+ Annual Compensation Compensation Compensation 
+ ----------------------- ------------- --------------
+ Salary Bonus Awards
+ ------- ------- -------------
+ Securities
+ Underlying
+Name and Principal Position Year ) ) Options (#) )
+- ----------------------------------------------------------------------------------------------------------
+ 
+David R. DeYoung 2004 132,687 0 0 3,792
+President, CEO 2003 132,408 5,250 0 1,767
+ 2002 145,578 0 0 3,068
+- ----------------------------------------------------------------------------------------------------------
+
+Mr. DeYoung did not receive additional compensation other than noted above,
+the aggregate amount of which was the lesser of either 50,000 or 10 of his
+annual salary and bonus.
+
+ Includes insurance premiums paid by the Company for term life and disability
+insurance, as well as premiums paid for a key-man life insurance policy which
+has the death benefit assigned to the Company and the cash value of the policy
+intended to accrue for the benefit of Mr. DeYoung.
+
+ Option Grants for Fiscal Year Ended December 31, 2004
+
+ The following table sets forth the information concerning individual
+grants of stock options during the last fiscal year to the named Executive
+Officers:
+
+- ----------------------------------------------------------------------------------------------------------------------------
+ Individual Grants
+- ----------------------------------------------------------------------------------------------------------------------------
+ Number of
+ Securities
+ Underlying Percent of Total Exercise
+ Options Options Granted or Base
+ Granted to Employees in Price Grant Date
+ Name (#)(1) Fiscal Year /Share) Expiration Date Present Value(2)
+- ----------------------------------------------------------------------------------------------------------------------------
+ 
+David R. DeYoung 0 0 .00 N/A N/A
+- ----------------------------------------------------------------------------------------------------------------------------
+
+(1) There were no option grants to Messr. DeYoung during the fiscal year ended
+ December 31, 2004.
+
+42
+
+Aggregated Option Exercises For Fiscal Year Ended December 31, 2004
+ and Year-End Option Values
+
+ The following table sets forth information concerning each exercise of
+stock options during the last fiscal year by the named Executive Officer and the
+fiscal year-end value of unexercised options:
+
+- ----------------------------------------------------------------------------------------------------------------------------
+ Number of securities underlying Value of unexercised
+ Shares acquired Value unexercised options at fiscal in-the-money options at
+Name on exercise (#) Realized ) year-end (#) fiscal year-end ) 
+- ----------------------------------------------------------------------------------------------------------------------------
+ Exercisable/unexercisable Exercisable/unexercisable
+- ----------------------------------------------------------------------------------------------------------------------------
+ 
+D.R. DeYoung 0 0 393,000/0 0/ 0
+- ----------------------------------------------------------------------------------------------------------------------------
+
+For all the unexercised options held as of December 31, 2004, the aggregate
+dollar value is the excess of the market value of the stock underlying those
+options over the exercise price of those unexercised options. The price used to
+calculate these figures is the closing price as of December 31, 2004 as reported
+on the OTCBB, which was .15 per share.
+
+ Equity Compensation Plan Information as of Year End December 31, 2004
+
+Equity Compensation Plan Information
+- ------------------------------------------------------------------------------------------------------------------------------------
+ (a) (b) (c)
+- ------------------------------------------------------------------------------------------------------------------------------------
+ Plan Category Number of securities
+ Number of securities to be Weighted average exercise remaining available for future
+ issued upon exercise of price of outstanding issuance under equity compensation
+ outstanding options, warrants options, warrants and plans (excluding securities
+ and rights rights reflected in column (a) - ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ Equity compensation plans
+approved by security holders 1,059,300 .63 201,849
+- ------------------------------------------------------------------------------------------------------------------------------------
+ Equity compensation plans
+ not approved by security
+ holders (1) 283,849 .37 0
+- ------------------------------------------------------------------------------------------------------------------------------------
+ Total 1,343,149 .51 0
+- ------------------------------------------------------------------------------------------------------------------------------------
+
+(1) The 1994 Stock Option and Grant Plan, which was adopted by the Company but
+not approved by the Company's securities holders, was intended to provide
+incentives for selected persons to promote the financial success and progress of
+the Company by granting such persons options to purchase shares of Common Stock
+of the Company, or through the award of shares of the Company's Common Stock.
+The maximum aggregate number of shares of Common Stock subject to the Plan is
+700,000. The Plan is administered by the Board of Directors of the Company. The
+Plan was amended in 2002 to permit grants to employees who were also members of
+the Board. In addition, options for 20,000 shares were granted outside of the
+1996 Equity Incentive Plan (which was approved by the shareholders) by the Board
+of Directors on December 31, 2003. Those options are treated in all respects as
+to terms and conditions as if they were granted under the 1996 Plan.
+
+43
+
+Employment Contracts
+
+ Mr. DeYoung, the Company's President and Chief Executive Officer, is
+employed pursuant to a three-year employment contract between the Company and
+Mr. DeYoung, which has been extended and will expire on October 31, 2005. Since
+November 1, 1999, the compensation of Mr. DeYoung has been established under the
+terms of this employment contract. The contract calls for an annual base salary,
+in an amount determined annually by the Board of Directors, payable
+semi-monthly, plus expenses and normal fringe benefits. Mr. DeYoung earns a
+bonus of 5 of the Company's pretax earnings, calculated on a quarterly basis.
+An annual bonus may be paid to Mr. DeYoung based on the performance of the
+Company and at the discretion of the Board of Directors. Mr. DeYoung's
+employment contract provides that should his employment be terminated for any
+reason other than for cause, he is entitled to a cash severance package equal to
+one year's cash compensation. In addition, Mr. DeYoung is entitled to receive a
+grant of a sufficient number of ten-year options as are necessary to permit him
+to retain the same percentage of beneficial ownership interest in the Company as
+he held on December 16, 1996. These grants would be made from the Company's
+Equity Incentive Plan at the fair market value of the Common Stock on the date
+of grant.
+
+ Ms. DeYoung, the Company's Vice President of Finance and Chief Financial
+Officer, is employed pursuant to three-year employment contract between the
+Company and Ms. DeYoung which has been extended and will expire on October 31,
+2005. Her compensation is established under the terms of this employment
+contract. The contract calls for an annual base salary, expenses, normal fringe
+benefits, as well as a bonus equal to 4 of the Company's pretax earnings,
+calculated on a quarterly basis. In addition, Ms. DeYoung's employment contract
+provides that should her employment be terminated for any reason other than for
+cause, she is entitled to a cash severance package equal to one year's cash
+compensation.
+
+ DIRECTORS' REMUNERATION
+
+ The Company currently pays non-employee Directors 1,500 per quarter plus
+specific hourly fees for special meetings or additional participation as a
+director. Any director who serves on the Compensation Committee automatically
+receives 4,000 options on the last trading day in June pursuant to the Company's
+1996 Equity Incentive Option Plan. Accordingly, on June 30, 2004, Messrs.
+Wiegand & Lehman, as members of the Compensation Committee, received fully
+vested ten year options to purchase 4,000 shares of Common Stock at an exercise
+price of 0.59 per share, the closing price on the date of grant.
+
+44
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+ .STOCK OWNERSHIP OF PRINCIPAL SHAREHOLDERS AND MANAGEMENT
+
+ The following table sets forth, as far as is known to the Board of
+Directors or the management of the Company, the only persons owning on April 1,
+2005 more than five percent of the outstanding shares of the Company's Common
+Stock. For purposes of this disclosure, the amount of the Company's Common Stock
+beneficially owned by each person or entity is the aggregate number of shares of
+the Common Stock outstanding on such date plus an amount equal to the aggregate
+amount of Common Stock which could be issued upon the exercise of stock options
+and warrants within 60 days of such date.
+
+- ----------------------------------------------------------------------------------------------------------------
+ Beneficial
+Name and Address of Beneficial Owner Ownership(1) Percent of Class
+- ------------------------------------ ------------ ----------------
+ 
+David R. DeYoung 1,882,283 (2),(3) 40.3 
+6025 So. Quebec Street #300, Englewood, Colorado 80111
+
+Mary Anne DeYoung 402,501 (4) 11.1 
+6025 So. Quebec Street #300, Englewood, Colorado 80111
+
+Robert Wiegand II 260,214 (5) 7.3 
+5261 So. Quebec Street, Greenwood Village, Colorado 80111
+
+John G. Mazza 1,315,004 (6) 30.7 
+6613 Zumirez Drive, Malibu, California 90265
+
+Spencer D. Lehman 1,313,705 (7) 30.7 
+26671 Latigo Shores Drive, Malibu, California 90265
+
+DEMALE, LLC 3,740,057 53.1 
+26671 Latigo Shores Drive, Malibu, California 90265
+
+Gold King Investments LLC 732,143 (8) 18.1 
+5261 So. Quebec Street, Greenwood Village, Colorado 80111
+
+All Executive Officers and Directors as a Group - 5 persons 5,905,849 (9) 74.4 
+- ----------------------------------------------------------------------------------------------------------------
+
+(1) Beneficial owners are believed to have sole voting and investment power
+ with respect to the shares shown unless otherwise indicated.
+
+(2) Includes: 387,625 options and 30,000 warrants to purchase Common Stock.
+ Also includes 25.4 membership interest in DEMALE, LLC or 949,067 shares.
+ See EXECUTIVE COMPENSATION - Employment Contract
+
+(3) Excludes: any shares attributable to Mr. DeYoung's right under his
+ employment contract to maintain his proportional ownership of the Company
+ under certain circumstances. See EXECUTIVE COMPENSATION - Employment
+ Contract.
+
+(4) Includes 332,000 options to purchase Common Stock
+
+(5) Includes 79,500 options to purchase Common Stock. Also includes 4.3 
+ membership interest in DEMALE, LLC or 160,713 shares.
+
+(6) Includes 3,000 options and 30,000 warrants to purchase Common Stock. Also
+ includes 25.4 membership interest in DEMALE, LLC or 949,067 shares.
+
+(7) Includes 4,000 options and 30,000 warrants to purchase Common Stock. Also
+ includes 25.4 membership interest in DEMALE, LLC or 949,067 shares.
+
+45
+
+(8) Includes 19.5 membership interest in DEMALE, LLC or 732,143 shares.
+
+(9) Includes 806,125 options and 90,000 warrants to purchase Common Stock.
+ Also includes 100 membership of DEMALE, LLC or 3,740,057 shares.
+
+ Change of Control
+
+ As a result of transaction described in the following Item 13. Certain
+Relationships and Related Transactions, and in the Company's Form 8-K filed on
+April 7, 2005, describing the Amendment to the Company's Revolving Credit
+Agreement with DEMALE, LLC, the private lender controlled by affiliates of the
+Company, to increase the line of credit by 200,000 to 500,000 and the fixing
+of the maximum conversion price at 0.14 per share, DEMALE is now the beneficial
+owner of at least 3,571,429 shares, or 52.0 of the outstanding shares as
+calculated under Rule 13d-3(a).
+
+46
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+ On April 30, 2003, the Company closed on a Revolving Credit Loan Agreement
+dated effective April 1, 2003 (the "Agreement") with DEMALE, LLC, a Colorado
+limited liability company ("DEMALE"), under which DEMALE agreed to provide the
+Company with a line of credit up to 300,000. At that time, DEMALE had three
+members, David R. DeYoung, the Company's President and Chief Executive Officer,
+and John G. Mazza and Spencer D. Lehman, both Directors and more than 10 
+shareholders. At closing, each of Messrs. DeYoung, Mazza and Lehman received
+30,000 shares of Common Stock based on the closing bid price of 0.23 on April
+1, 2003, and a warrant to purchase up to an additional 30,000 shares of Common
+Stock at 0.18 per share, which price was set by reference to 80 of the closing
+bid price on April 1, 2003. In addition, the amount of any outstanding and
+unpaid principal and interest on the line of credit could be converted, at
+DEMALE's option, into shares of the Company's common stock at a conversion price
+equal to 80 of the fair market value of the Company's stock on the date of
+conversion. At December 31, 2004, the Company had been advanced 223,600 under
+the DEMALE line of credit. On March 31, 2005 Gold King Investments LLC became an
+equal member of DEMALE. Mr. Robert Wiegand II, a member of the Company's Board
+of Directors, holds a minority interest in Gold King Investments LLC. On March
+31, 2005, DEMALE agreed to raise the line to 500,000 and extend the due date to
+June 30, 2007. In addition, the conversion price of the debt has been changed to
+the lesser of .14 or 80 of the fair market value. Conversion of the debt into
+equity is at the option of DEMALE.
+
+ As a result of the amendment of the DEMALE line of credit agreement and
+the increase of the amount drawn by the Company under that line of credit to
+ 468,000 plus interest as of March 31, 2005, DEMALE is now the beneficial owner
+of at least 3,571,429 shares, or 52.0 of the outstanding shares as calculated
+under Rule 13d-3(a).
+
+ Management of the Company is of the opinion that the terms and conditions
+of the foregoing transactions were no less favorable for the Company than could
+be obtained from unaffiliated third parties.
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES
+
+Fees paid to BKD, LLP
+
+ For the calendar years ended December 31, 2004 and December 31, 2003, BKD,
+LLP provided services in the following categories and amounts:
+
+ Calendar Year Calendar Year
+ Ended Ended
+ 12/31/04 12/31/03
+ -------- --------
+ Audit Fees(1) 28,050 24,300
+ All Other Fees 0 0
+
+(1) Represents the aggregate fees billed for professional services rendered
+ for the audit and/or reviews of the Company's financial statements and in
+ connection with the Company's statutory and regulatory filings or
+ engagements.
+
+ There were not any non-audit services rendered to the Company by BKD, LLP
+in calendar 2004 and 2003. While the Audit Committee has not established formal
+policies and procedures concerning pre-approval of audit or non-audit services,
+the Company's officers have been informed that all audit and non-audit services
+must be approved in advance by the Audit Committee. The establishment of any
+such formal policies or procedures in the future is subject to the approval of
+the Audit Committee.
+
+47
+
+PART IV
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+
+ (a) 1. Financial Statements
+
+ See Financial Statement Index on Page 13
+
+ 2. Financial Statement Schedules
+
+ See Financial Statement Index on Page 13
+
+ 3. List of Exhibits
+
+Exhibit Number Description and Incorporation by Reference
+- -------------- ------------------------------------------
+
+3.1 - Restated Articles of Incorporation of the Company, as
+ amended.
+3.2 - Bylaws of the Company, as amended.
+3.3 - Articles of Amendment to the Articles of Incorporation of
+ the Company dated April 18, 1991
+3.4 - Articles of Amendment to the Articles of Incorporation
+ dated May 21, 1993.
+3.4 - Articles of Amendment to the Articles of Incorporation
+ dated June 28, 1994.
+10.5 - UniVerse(TM) Distributor Agreement between INFORMIX
+ SOFTWARE, INC. and the Company dated May 15, 1991
+10.14 - President Employment Agreement between David R. DeYoung
+ and the Company dated November 1, 1999.
+10.15 - Chief Financial Officer Employment Agreement between Mary
+ Anne DeYoung and the Company dated September 1, 1999.
+10.21 - Software License Agreement between Reynolds+Reynolds and
+ the Company. The grant of confidential treatment for this
+ exhibit filed separately with the Securities and Exchange
+ Commission has been agreed to.
+10.22 - 1994 Stock Option and Grant Plan.
+10.23 - 1993 Stock Option Plan.
+10.24 - Equity Incentive Plan
+10.25 - Revolving Credit Loan Agreement and Revolving Credit
+ Master Note dated April 1, 2003 with DEMALE, LLC
+10.26 - Revolving Credit Agreement, Revolving Credit Note and
+ Business Security and Corporate Resolution for Borrowing
+ with U.S. Bank, N.A. dated February 24, 2003
+23 - Consent of BKD, LLP
+31.1 - Certificate of Chief Executive Officer pursuant to Section
+ 302 of the Sarbanes-Oxley Act of 2002
+31.2 - Certificate of Chief Financial Officer pursuant to Section
+ 302 of the Sarbanes-Oxley Act of 2002
+32 - Certificate of CEO and CFO pursuant to Section 906 of the
+ Sarbanes-Oxley Act of 2002
+
+ See Index to Financial Statements on Page 13
+
+48
+
+Filed as an Exhibit to Form S-1 Registration Statement No.
+ 33-44717, on December 23, 1991.
+
+ Filed as an Exhibit to Form S-8 Registration Statement No.
+ 33-86760, on November 29, 1994
+
+ Filed as an Exhibit to Form S-8 Registration Statement No.
+ 33-78096, on April 22, 1994.
+
+ Filed as an Exhibit to Form 10-K for the period ended
+ December 31, 1994.
+
+ Filed as an Exhibit to Form S-3 Registration Statement No.
+ 333-35265, on September 10, 1997.
+
+ Filed as an Exhibit to Form 10-K for the period ended
+ December 31, 2001
+
+ Filed as an Exhibit to Form 8-K dated April 30, 2003
+
+ Filed as an Exhibit to Form 10-K for the period ended
+ December 31, 2003.
+
+49
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+1MAGE SOFTWARE, INC.
+
+By: /s/ David R. DeYoung Date: April 15, 2005
+ -------------------- --------------
+ David R. DeYoung
+ President
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the Registrant and
+in the capacities and on the date indicated.
+
+By: /s/ David R. DeYoung Date: April 15, 2005
+ -------------------- --------------
+ David R. DeYoung, President
+ and Principal Chief Executive Officer
+
+By: /s/ Mary Anne DeYoung Date: April 15, 2005
+ --------------------- --------------
+ Mary Anne DeYoung
+ Vice President, Finance
+ Principal and Accounting Officer
+
+By: /s/ Robert Wiegand, II Date: April 15, 2005
+ ---------------------- --------------
+ Robert Wiegand, II
+ Director and Secretary
+
+By: /s/ John G. Mazza Date: April 15, 2005
+ ----------------- --------------
+ John G. Mazza
+ Director
+
+By: /s/ Spencer D. Lehman Date: April 15, 2005
+ --------------------- --------------
+ Spencer D. Lehman
+ Director
+
+50
+
+<EX-23>
+ 2
+ v016420_ex23.txt
+ 
+ Exhibit 23
+
+Consent of Independent Registered Public Accounting Firm
+
+1mage Software, Inc.
+Englewood, Colorado
+
+We consent to the incorporation by reference in Form S-3 (SEC File No.
+333-35265) and Form S-8 (SEC File Nos. 33-78096, 33-86760 and 333-30787) of our
+report dated February 25, 2005, except for the amendments to the lines of credit
+as to which the date is April 6, 2005, as discussed in Note 4 of the Company's
+financial statements, relating to the balance sheets of 1mage Software, Inc. as
+of December 31, 2004 and 2003, and the related statements of operations,
+shareholders' equity (deficit) and cash flows for each of the three years in the
+period ended December 31, 2004, as included in this Form 10-K.
+
+ /s/ BKD, LLP
+
+Denver, Colorado.
+April 14, 2005
+
+ 54
+
+</EX-23>
+
+<EX-31.1>
+ 3
+ v016420_ex31-1.txt
+ 
+ EXHIBIT 31.1
+
+ CERTIFICATIONS
+
+I, David R. DeYoung, certify that:
+
+1. I have reviewed this annual report on Form 10-K of 1mage Software, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer(s) and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+ a) Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared;
+
+ b) Evaluated the effectiveness of the registrant's disclosure controls
+and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluation; and
+
+ c) Disclosed in this report any change in the registrant's internal
+control over financial reporting that occurred during the registrant's most
+recent fiscal quarter that has materially affected, or is reasonably likely to
+materially affect, the registrant's internal control over financial reporting;
+and
+
+5. The registrant's other certifying officer(s) and I have disclosed, based on
+our most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions):
+
+ a) All significant deficiencies and material weaknesses in the design
+or operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+ b) Any fraud, whether or not material, that involves management or
+other employees who have a significant role in the registrant's internal control
+over financial reporting.
+
+Date: April 15, 2005
+
+/s/ David R. DeYoung
+- ------------------------------------------------
+David R. DeYoung
+President, Principal and Chief Executive Officer
+
+51
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ v016420_ex31-2.txt
+ 
+ EXHIBIT 31.2
+
+ CERTIFICATIONS
+
+I, Mary Anne DeYoung, certify that:
+
+1. I have reviewed this annual report on Form 10-K of 1mage Software, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer(s) and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+ a) Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared;
+
+ b) Evaluated the effectiveness of the registrant's disclosure controls
+and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluation; and
+
+ c) Disclosed in this report any change in the registrant's internal
+control over financial reporting that occurred during the registrant's most
+recent fiscal quarter that has materially affected, or is reasonably likely to
+materially affect, the registrant's internal control over financial reporting;
+and
+
+5. The registrant's other certifying officer(s) and I have disclosed, based on
+our most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions):
+
+ a) All significant deficiencies and material weaknesses in the design
+or operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+ b) Any fraud, whether or not material, that involves management or
+other employees who have a significant role in the registrant's internal control
+over financial reporting.
+
+Date: April 15, 2005
+
+/s/ Mary Anne DeYoung
+- --------------------------------------------------------
+Mary Anne DeYoung
+Vice President, Finance and Principal Financial Officer
+
+52
+
+</EX-31.2>
+
+<EX-32>
+ 5
+ v016420_ex32.txt
+
+EXHIBIT 32
+
+CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Annual Report of 1mage Software, Inc. (the
+"Company") on Form 10-K for the year ended December 31, 2004, as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), each of
+the undersigned hereby certifies, pursuant to 18 U.S.C. ss.1350, as adopted
+pursuant to ss. 906 of the Sarbanes-Oxley Act of 2002, that: 1. The Report fully
+complies with the requirements of section 13(a) or 15(d) of the Securities
+Exchange Act of 1934; and 2. The information contained in the Report fairly
+presents, in all material respects, the financial condition and result of
+ operations of the Company.
+
+/s/ David R. DeYoung
+- ------------------------------------------------
+David R. DeYoung
+President, Principal and Chief Executive Officer
+
+April 15, 2005
+
+/s/ Mary Anne DeYoung
+- -------------------------------------------------------
+Mary Anne DeYoung
+Vice President, Finance and Principal Financial Officer
+
+April 15, 2005
+
+53
+
+</EX-32>
+

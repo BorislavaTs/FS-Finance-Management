@@ -1,0 +1,923 @@
+<Header>
+<FileStats>
+    <FileName>20060829_10-K_edgar_data_1364638_0000930413-06-006317.txt</FileName>
+    <GrossFileSize>52707</GrossFileSize>
+    <NetFileSize>46382</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>289</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000930413-06-006317.hdr.sgml : 20060829
+<ACCEPTANCE-DATETIME>20060829120900
+ACCESSION NUMBER:		0000930413-06-006317
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20060615
+FILED AS OF DATE:		20060829
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hartford Life Global Funding Trust 2006-064
+		CENTRAL INDEX KEY:			0001364638
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0615
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-130089-26
+		FILM NUMBER:		061061157
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O WILMINGTON TRUST COMPANY
+		STREET 2:		1100 NORTH MARKET STREET
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19890
+		BUSINESS PHONE:		860-843-9263
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 2999
+		CITY:			HARTFORD
+		STATE:			CT
+		ZIP:			06104-2999
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Paikn2WSj17UZquQ5SAmbNwAumvrA2EpVbUNen7fqR0+H0/4tCsRkUO7/cjTwk+v
+ +LziI1Sbp4ILLF4rRpsMsw==
+
+ 0000930413-06-006317.txt : 20060829
+
+10-K
+ 1
+ c43783_10k.txt
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+ UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+ ______________________
+
+ FORM 10-K
+
+(Mark One)
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+ SECURITIES EXCHANGE ACT OF 1934
+ For the fiscal year ended June 15, 2006
+
+ OR
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+ SECURITIES EXCHANGE ACT OF 1934
+ For the transition period from ______ to _______
+
+ Commission file number 333-130089-26
+ HARTFORD LIFE GLOBAL FUNDING TRUST 2006-064
+ (BY HARTFORD LIFE INSURANCE COMPANY AS SPONSOR AND DEPOSITOR)
+ (Exact name of registrant as specified in its charter)
+
+ DELAWARE NONE
+ (State or other jurisdiction of (I.R.S. Employer
+ incorporation or organization) Identification Number)
+
+ HARTFORD LIFE GLOBAL FUNDING TRUST 2006-064
+ 200 HOPMEADOW STREET, SIMSBURY, CONNECTICUT 06089
+ (Address of principal executive offices)
+
+ (860) 547-5000
+ (Registrant's telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act: NONE
+
+Securities registered pursuant to Section 12(g) of the Act: NONE
+
+Indicate by check mark if the registrant is a well-known seasoned issuer,
+as defined in Rule 405 of the Securities Act. Yes [ ] No [X]
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. Yes [X] No [ ]
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [ ] No [X]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to
+this Form 10-K. Yes [X] No [ ]
+
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, or a non-accelerated filer. See definition of "accelerated
+filer and large accelerated filer" in Rule 12b-2 of the Exchange Act.
+
+(Check one):
+
+Large accelerated filer [ ] Accelerated filer [ ] Non-accelerated filer [X]
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act). Yes [ ] No [X]
+
+State the aggregate market value of the voting and non-voting common equity
+held by non-affiliates computed by reference to the price at which the common
+equity was last sold, or the average bid and asked price of such common equity,
+as of the last business day of the registrant's most recently completed second
+fiscal quarter. NONE.
+
+ (APPLICABLE ONLY TO CORPORATE REGISTRANTS)
+
+Indicate the number of shares outstanding of each of the registrant's classes
+of common stock, as of the latest practicable date. NOT APPLICABLE.
+
+ DOCUMENTS INCORPORATED BY REFERENCE
+None.
+
+ INFORMATION PROVIDED PURSUANT TO GENERAL INSTRUCTION J(2) TO FORM 10-K
+
+Information required under Item 1112(b) "Significant Obligor Financial
+Information" and Item 1119 of Regulation AB "Affiliations and Certain
+Relationships and Related Transactions".
+
+Hartford Life Insurance Company ("HLIC"), the depositor under the program, is
+the sole obligor under the funding agreement securing the notes issued by the
+Trust identified on the cover of this Form 10-K (the "Funding Agreement") and,
+as such, the originator of the Funding Agreement. For information relating to
+HLIC, please see HLIC's (Commission file number 001-32293) periodic reports,
+including annual reports on Form 10-K, quarterly reports on Form 10-Q and
+current reports on Form 8-K, and other information on file with the Securities
+and Exchange Commission (the "SEC"). You can read and copy these reports and
+other information at the public reference facilities maintained by the SEC at
+100 F Street, NE, Washington, D.C. 20549. You may obtain copies of this
+material for a fee by writing to the SEC's Public Reference Section of the SEC
+at 100 F Street, NE, Washington, D.C. 20549. You may obtain information about
+the operation of the Public Reference Room by calling the SEC at
+1-800-SEC-0330. You can also access some of this information electronically by
+means of the SEC's website on the Internet at http://www.sec.gov, which
+contains reports and other information that HLIC has filed electronically with
+the SEC.
+
+Information required under Item 1114(b)(2) "Credit Enhancement and Other
+Support, Except for Certain Derivatives Instruments" and Item 1115(b) of
+Regulation AB "Significant Enhancement Provider Financial Information".
+
+None.
+
+Information required under Item 1117 of Regulation AB "Legal Proceedings".
+
+None.
+
+Information required under Item 1122 of Regulation AB "Compliance With
+Applicable Servicing Criteria" and Item 1123 of Regulation AB "Servicer
+Compliance Statement".
+
+See Exhibits 33.1, 34.1 and 35.1 to this Form 10-K.
+
+2
+
+PART II
+
+ITEM 9B. OTHER INFORMATION.
+
+None.
+
+ PART IV
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES.
+
+Exhibit 1.1 Standard Distribution Agreement Terms (incorporated by reference
+ to Exhibit 1.1 to Hartford Life Insurance Company's Registration
+ Statement on Form S-3, as amended, (SEC Registration File No.
+ 333-130089)).
+
+Exhibit 1.2 Distribution Agreement relating to the notes issued by the trust
+ identified on the cover page of this Exchange Act report
+ (included in Section C to Exhibit 4.5 hereto).
+
+Exhibit 3.1 Schedule identifying the differences between the certificate of
+ trust for the trust identified on the cover page of this
+ Exchange Act report and Exhibit 3.1 to Hartford Life Global
+ Funding Trust 2006-001's Report on Form 8-K filed on July 26,
+ 2006 (incorporated by reference to Exhibit 99.1 to Hartford
+ Life Global Funding Trust 2006-001's Report on Form 8-K filed on
+ July 26, 2006).
+
+Exhibit 3.2 Standard Trust Agreement Terms (incorporated by reference to
+ Exhibit 4.7 to Hartford Life Insurance Company's Registration
+ Statement on Form S-3, as amended, (SEC Registration No.
+ 333-130089)).
+
+Exhibit 3.3 Trust Agreement relating to the trust identified on the cover
+ page of this Exchange Act report (included in Section A to
+ Exhibit 4.5 hereto).
+
+Exhibit 4.1 Standard Indenture Terms (incorporated by reference to Exhibit
+ 4.1 to Hartford Life Insurance Company's Registration Statement
+ on Form S-3, as amended, (SEC Registration File No.
+ 333-130089)).
+
+Exhibit 4.2 Indenture relating to the notes issued by the trust identified
+ on the cover page of this Exchange Act report (included in
+ Section B to Exhibit 4.5 hereto).
+
+Exhibit 4.3 Schedule identifying the differences between the note issued by
+ the trust identified on the cover page of this Exchange Act
+ report and Exhibit 4.2 to Hartford Life Global Funding Trust
+ 2006-001's Report on Form 8-K filed on July 26, 2006
+ (incorporated by reference to Exhibit 99.2 to Hartford Life
+ Global Funding Trust 2006-001's Report on Form 8-K filed on
+ July 26, 2006).
+
+Exhibit 4.4 Schedule identifying the differences between the funding
+ agreement issued by Hartford Life Insurance Company to the trust
+ identified on the cover page of this Exchange Act report and
+ Exhibit 4.3 to Hartford Life Global Funding Trust 2006-001's
+ Report on Form 8-K filed on July 26, 2006 (incorporated by
+ reference to Exhibit 99.3 to Hartford Life Global Funding Trust
+ 2006-001's Report on Form 8-K filed on July 26, 2006).
+
+3
+
+Exhibit 4.5 Schedule identifying the differences between the omnibus
+ instrument relating to the notes issued by the trust identified
+ on the cover page of this Exchange Act report and Exhibit 4.4 to
+ Hartford Life Global Funding Trust 2006-001's Report on Form 8-K
+ filed on July 26, 2006 (incorporated by reference to Exhibit
+ 99.4 to Hartford Life Global Funding Trust 2006-001's Report on
+ Form 8-K filed on July 26, 2006).
+
+Exhibit 10.1 Administrative Services Agreement (incorporated by reference to
+ Exhibit 4.9 to Hartford Life Insurance Company's Registration
+ Statement on Form S-3, as amended, (SEC Registration File No.
+ 333-130089)).
+
+Exhibit 10.2 Expense and Indemnity Agreement between Hartford Life Insurance
+ Company and Wilmington Trust Company (incorporated by reference
+ to Exhibit 10.1 to Hartford Life Insurance Company's
+ Registration Statement on Form S-3, as amended, (SEC
+ Registration File No. 333-130089)).
+
+Exhibit 10.3 Expense and Indemnity Agreement between Hartford Life Insurance
+ Company and JPMorgan Chase Bank, N.A. (incorporated by reference
+ to Exhibit 10.2 to Hartford Life Insurance Company's
+ Registration Statement on Form S-3, as amended, (SEC
+ Registration No. 333-130089)).
+
+Exhibit 10.4 Expense and Indemnity Agreement between Hartford Life Insurance
+ Company and Amacar Pacific Corporation (incorporated by
+ reference to Exhibit 10.3 to Hartford Life Insurance Company's
+ Registration Statement on Form S-3, as amended, (SEC
+ Registration No. 333-130089)).
+
+Exhibit 31.1 Section 302 Certification.
+
+Exhibit 33.1 Report on assessment of compliance with servicing criteria.
+
+Exhibit 34.1 Attestation Report on assessment of compliance with servicing
+ criteria.
+
+Exhibit 35.1 Servicer compliance statement.
+
+- -------------------------------------------------------------------------------
+
+ SIGNATURES
+
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+ Hartford Life Global Funding Trust 2006-064
+ (by Hartford Life Insurance Company as depositor)
+
+DATE: August 29, 2006 By: /s/ Kenneth A. McCullum
+ Name: Kenneth A. McCullum
+ Title: Senior Vice President
+
+4
+
+SUPPLEMENTAL INFORMATION TO BE FURNISHED WITH REPORTS FILED PURSUANT TO SECTION
+15(d) OF THE ACT BY REGISTRANTS WHICH HAVE NOT REGISTERED SECURITIES PURSUANT
+ TO SECTION 12 OF THE ACT
+
+ No annual report or proxy materials have been sent to security holders and
+no such report or proxy materials are to be furnished to security holders
+subsequent to the filing of this Form 10-K.
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+EXHIBIT INDEX
+
+EXHIBIT DESCRIPTION
+
+- -------------------------------------------------------------------------------
+Exhibit 1.1 Standard Distribution Agreement Terms (incorporated by reference
+ to Exhibit 1.1 to Hartford Life Insurance Company's Registration
+ Statement on Form S-3, as amended, (SEC Registration File No.
+ 333-130089)).
+
+Exhibit 1.2 Distribution Agreement relating to the notes issued by the trust
+ identified on the cover page of this Exchange Act report
+ (included in Section C to Exhibit 4.5 hereto).
+
+Exhibit 3.1 Schedule identifying the differences between the certificate of
+ trust for the trust identified on the cover page of this
+ Exchange Act report and Exhibit 3.1 to Hartford Life Global
+ Funding Trust 2006-001's Report on Form 8-K filed on July 26,
+ 2006 (incorporated by reference to Exhibit 99.1 to Hartford
+ Life Global Funding Trust 2006-001's Report on Form 8-K filed on
+ July 26, 2006).
+
+Exhibit 3.2 Standard Trust Agreement Terms (incorporated by reference to
+ Exhibit 4.7 to Hartford Life Insurance Company's Registration
+ Statement on Form S-3, as amended, (SEC Registration No.
+ 333-130089)).
+
+Exhibit 3.3 Trust Agreement relating to the trust identified on the cover
+ page of this Exchange Act report (included in Section A to
+ Exhibit 4.5 hereto).
+
+Exhibit 4.1 Standard Indenture Terms (incorporated by reference to Exhibit
+ 4.1 to Hartford Life Insurance Company's Registration Statement
+ on Form S-3, as amended, (SEC Registration File No.
+ 333-130089)).
+
+Exhibit 4.2 Indenture relating to the notes issued by the trust identified
+ on the cover page of this Exchange Act report (included in
+ Section B to Exhibit 4.5 hereto).
+
+Exhibit 4.3 Schedule identifying the differences between the note issued by
+ the trust identified on the cover page of this Exchange Act
+ report and Exhibit 4.2 to Hartford Life Global Funding Trust
+ 2006-001's Report on Form 8-K filed on July 26, 2006
+ (incorporated by reference to Exhibit 99.2 to Hartford Life
+ Global Funding Trust 2006-001's Report on Form 8-K filed on
+ July 26, 2006).
+
+5
+
+Exhibit 4.4 Schedule identifying the differences between the funding
+ agreement issued by Hartford Life Insurance Company to the trust
+ identified on the cover page of this Exchange Act report and
+ Exhibit 4.3 to Hartford Life Global Funding Trust 2006-001's
+ Report on Form 8-K filed on July 26, 2006 (incorporated by
+ reference to Exhibit 99.3 to Hartford Life Global Funding Trust
+ 2006-001's Report on Form 8-K filed on July 26, 2006).
+
+Exhibit 4.5 Schedule identifying the differences between the omnibus
+ instrument relating to the notes issued by the trust identified
+ on the cover page of this Exchange Act report and Exhibit 4.4 to
+ Hartford Life Global Funding Trust 2006-001's Report on Form 8-K
+ filed on July 26, 2006 (incorporated by reference to Exhibit
+ 99.4 to Hartford Life Global Funding Trust 2006-001's Report on
+ Form 8-K filed on July 26, 2006).
+
+Exhibit 10.1 Administrative Services Agreement (incorporated by reference to
+ Exhibit 4.9 to Hartford Life Insurance Company's Registration
+ Statement on Form S-3, as amended, (SEC Registration File No.
+ 333-130089)).
+
+Exhibit 10.2 Expense and Indemnity Agreement between Hartford Life Insurance
+ Company and Wilmington Trust Company (incorporated by reference
+ to Exhibit 10.1 to Hartford Life Insurance Company's
+ Registration Statement on Form S-3, as amended, (SEC
+ Registration File No. 333-130089)).
+
+Exhibit 10.3 Expense and Indemnity Agreement between Hartford Life Insurance
+ Company and JPMorgan Chase Bank, N.A. (incorporated by reference
+ to Exhibit 10.2 to Hartford Life Insurance Company's
+ Registration Statement on Form S-3, as amended, (SEC
+ Registration No. 333-130089)).
+
+Exhibit 10.4 Expense and Indemnity Agreement between Hartford Life Insurance
+ Company and Amacar Pacific Corporation (incorporated by
+ reference to Exhibit 10.3 to Hartford Life Insurance Company's
+ Registration Statement on Form S-3, as amended, (SEC
+ Registration No. 333-130089)).
+
+Exhibit 31.1 Section 302 Certification.
+
+Exhibit 33.1 Report on assessment of compliance with servicing criteria.
+
+Exhibit 34.1 Attestation Report on assessment of compliance with servicing
+ criteria.
+
+Exhibit 35.1 Servicer compliance statement.
+
+- --------------------------------------------------------------------------------
+
+6
+
+<EX-31.1>
+ 2
+ c43783_ex31-1.txt
+
+EXHIBIT 31.1 - SECTION 302 CERTIFICATION
+
+ CERTIFICATION
+
+I, Kenneth A. McCullum, certify that:
+
+1. I have reviewed this report on Form 10-K and all reports on Form
+ 10-D required to be filed in respect of the period covered by this
+ report on Form 10-K of Hartford Life Global Funding Trust 2006-064
+ (the "Exchange Act periodic reports");
+
+2. Based on my knowledge, the Exchange Act periodic reports, taken as a
+ whole, do not contain any untrue statement of a material fact or omit
+ to state a material fact necessary in order to make the statements
+ made, in light of the circumstances under which such statements were
+ made, not misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, all of the distribution, servicing and other
+ information required to be provided under Form 10-D for the period
+ covered by this report is included in the Exchange Act periodic
+ reports;
+
+4. Based on my knowledge and the servicer compliance statement required
+ in this report under Item 1123 of Regulation AB, and except as
+ disclosed in the Exchange Act periodic reports, the servicer has
+ fulfilled its obligations under the servicing agreement in all material
+ respects;
+
+5. All of the reports on assessment of compliance with servicing criteria
+ for asset-backed securities and their related attestation reports on
+ assessment of compliance with servicing criteria for asset-backed
+ securities required to be included in this report in accordance with
+ Item 1122 of Regulation AB and Exchange Act Rule 13a-18 and 15d-18 have
+ been included as an exhibit to this report, except as otherwise
+ disclosed in this report. Any material instances of noncompliance
+ described in such reports have been disclosed in this report on Form
+ 10-K.
+
+In giving the certification above, I have reasonably relied on information
+provided to me by the following unaffiliated parties:
+
+ JP Morgan Chase Bank, N.A. and its officers and agents
+
+Date: August 29, 2006
+
+/s/ Kenneth A. McCullum
+
+Kenneth A. McCullum
+Senior Vice President & Actuary
+Hartford Life Insurance Company, as depositor
+
+</EX-31.1>
+
+<EX-33.1>
+ 3
+ ex_33-1.txt
+ 
+ EXHIBIT 33.1
+
+ MANAGEMENT'S ASSERTION ON
+ COMPLIANCE WITH REGULATION AB CRITERIA
+
+ JPMorgan Chase Bank, National Association (the "Asserting Party") is
+responsible for assessing compliance as of June 15, 2006 and for the period from
+June 16, 2005 through June 15, 2006 (the "Reporting Period") with the servicing
+criteria set forth in Section 229.1122(d) of the Code of Federal Regulations
+(the "CFR"), except for criteria 229.1122(d) 1(ii)-(iv); 2(iii),(vi); 4(x)-(xv);
+in the CFR, which we have concluded are not applicable to the servicing of our
+funding trust transactions backed by life insurance receivables and serviced by
+the Asserting Party (the "Applicable Servicing Criteria").
+
+ The Asserting Party has assessed its compliance with the Applicable
+Servicing Criteria for the Reporting Period and has concluded that the Asserting
+Party has complied, in all material respects, with the Applicable Servicing
+Criteria for the funding trust transactions backed by life insurance receivables
+serviced by the Asserting Party.
+
+ PricewaterhouseCoopers LLP, an independent registered public accounting
+firm, has issued an attestation report on the assessment of compliance with the
+Applicable Servicing Criteria for the Reporting Period as set forth in this
+assertion.
+
+JPMorgan Chase Bank, N.A., as Indenture Trustee
+
+/s/ Joseph Giordano
+Joseph Giordano, Sr. Vice President
+Date: August 15, 2006
+
+</EX-33.1>
+
+<EX-34.1>
+ 4
+ ex_34-1.txt
+ 
+ EXHIBIT 34.1
+
+ [PRICEWATERHOUSECOOPERS LLP LETTERHEAD]
+
+ REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Board of Directors:
+JPMorgan Chase Bank, National Association
+
+We have examined management's assertion, included in the accompanying
+Management's Assertion on Compliance with Regulation AB Criteria, that JPMorgan
+Chase Bank, National Association (the "Bank") complied with the servicing
+criteria set forth in Section 229.1122(d) of the Code of Federal Regulations
+(the "CFR") for the funding trust transactions backed by life insurance
+receivables listed in Appendix A. The Bank acted as servicer for these
+transactions as of June 15, 2006 and for the period from June 16, 2005 through
+June 15, 2006 (the "Reporting Period"). The servicing criteria (d)(1)(ii) -
+(iv), 2(iii), 2(vi) and 4(x) - (xv) described in Section 229.1122(d) of the CFR
+are not applicable to the servicing of the funding trust transactions backed by
+life insurance receivables for the period. The CFR criteria that apply to the
+applicable transactions are considered the "Applicable Servicing Criteria". Our
+responsibility is to express an opinion on management's assertion about the
+Bank's compliance with the Applicable Servicing Criteria based on our
+examination.
+
+Our examination was conducted in accordance with the standards of the Public
+Company Accounting Oversight Board (United States) and, accordingly, included
+examining, on a test basis, evidence about the Bank's compliance with the
+Applicable Servicing Criteria and performing such other procedures as we
+considered necessary in the circumstances. We believe that our examination
+provides a reasonable basis for our opinion. Our examination does not provide a
+legal determination on the Bank's compliance with the Applicable Servicing
+Criteria.
+
+In our opinion, management's assertion that the Bank complied with the
+Applicable Servicing Criteria as of June 15, 2006 and for the period from June
+16, 2005 through June 15, 2006 is fairly stated, in all material respects.
+
+/s/ PricewaterhouseCoopers LLP
+
+August 15, 2006
+
+APPENDIX A
+
+ NAME OF TRUST APPLICABLE FUNDING AGREEMENT
+- --------------------------------------------------------------------------------
+
+Hartford Life Global Funding Trust 2004-001 Funding Agreement FA-404001
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-072 Funding Agreement FA-405072
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-073 Funding Agreement FA-405073
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-074 Funding Agreement FA-405074
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-075 Funding Agreement FA-405075
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-076 Funding Agreement FA-405076
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-077 Funding Agreement FA-405077
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-078 Funding Agreement FA-405078
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-079 Funding Agreement FA-405079
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-080 Funding Agreement FA-405080
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-081 Funding Agreement FA-405081
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-082 Funding Agreement FA-405082
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-083 Funding Agreement FA-405083
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-084 Funding Agreement FA-405084
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-085 Funding Agreement FA-405085
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-086 Funding Agreement FA-405086
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-087 Funding Agreement FA-405087
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-088 Funding Agreement FA-405088
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-089 Funding Agreement FA-405089
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-090 Funding Agreement FA-405090
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-091 Funding Agreement FA-405091
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-092 Funding Agreement FA-405092
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-093 Funding Agreement FA-405093
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-094 Funding Agreement FA-405094
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-095 Funding Agreement FA-405095
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-096 Funding Agreement FA-405096
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-097 Funding Agreement FA-405097
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-098 Funding Agreement FA-405098
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-099 Funding Agreement FA-405099
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-100 Funding Agreement FA-405100
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-101 Funding Agreement FA-405101
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-102 Funding Agreement FA-405102
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-103 Funding Agreement FA-405103
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-104 Funding Agreement FA-405104
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-105 Funding Agreement FA-405105
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-106 Funding Agreement FA-405106
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-107 Funding Agreement FA-405107
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-108 Funding Agreement FA-405108
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-109 Funding Agreement FA-405109
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-110 Funding Agreement FA-405110
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-111 Funding Agreement FA-405111
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-112 Funding Agreement FA-405112
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-113 Funding Agreement FA-405113
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-114 Funding Agreement FA-405114
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-115 Funding Agreement FA-405115
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-116 Funding Agreement FA-405116
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-117 Funding Agreement FA-405117
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-118 Funding Agreement FA-405118
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-119 Funding Agreement FA-405119
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-120 Funding Agreement FA-405120
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-121 Funding Agreement FA-405121
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-122 Funding Agreement FA-405122
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-123 Funding Agreement FA-405123
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-124 Funding Agreement FA-405124
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-125 Funding Agreement FA-405125
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-126 Funding Agreement FA-405126
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-127 Funding Agreement FA-405127
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-128 Funding Agreement FA-405128
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-129 Funding Agreement FA-405129
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-130 Funding Agreement FA-405130
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-131 Funding Agreement FA-405131
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-132 Funding Agreement FA-405132
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-133 Funding Agreement FA-405133
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-134 Funding Agreement FA-405134
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-135 Funding Agreement FA-405135
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-136 Funding Agreement FA-405136
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-137 Funding Agreement FA-405137
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-138 Funding Agreement FA-405138
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-139 Funding Agreement FA-405139
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-140 Funding Agreement FA-405140
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-141 Funding Agreement FA-405141
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-142 Funding Agreement FA-405142
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-143 Funding Agreement FA-405143
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-144 Funding Agreement FA-405144
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-145 Funding Agreement FA-405145
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-146 Funding Agreement FA-405146
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-147 Funding Agreement FA-405147
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-148 Funding Agreement FA-405148
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-149 Funding Agreement FA-405149
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-150 Funding Agreement FA-405150
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-151 Funding Agreement FA-405151
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-152 Funding Agreement FA-405152
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-153 Funding Agreement FA-405153
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-154 Funding Agreement FA-405154
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2005-155 Funding Agreement FA-405155
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-001 Funding Agreement FA-406001
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-002 Funding Agreement FA-406002
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-003 Funding Agreement FA-406003
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-004 Funding Agreement FA-406004
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-005 Funding Agreement FA-406005
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-006 Funding Agreement FA-406006
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-007 Funding Agreement FA-406007
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-008 Funding Agreement FA-406008
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-009 Funding Agreement FA-406009
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-010 Funding Agreement FA-406010
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-011 Funding Agreement FA-406011
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-012 Funding Agreement FA-406012
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-013 Funding Agreement FA-406013
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-014 Funding Agreement FA-406014
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-015 Funding Agreement FA-406015
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-016 Funding Agreement FA-406016
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-017 Funding Agreement FA-406017
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-018 Funding Agreement FA-406018
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-019 Funding Agreement FA-406019
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-020 Funding Agreement FA-406020
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-021 Funding Agreement FA-406021
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-022 Funding Agreement FA-406022
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-023 Funding Agreement FA-406023
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-024 Funding Agreement FA-406024
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-025 Funding Agreement FA-406025
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-026 Funding Agreement FA-406026
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-027 Funding Agreement FA-406027
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-028 Funding Agreement FA-406028
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-029 Funding Agreement FA-406029
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-030 Funding Agreement FA-406030
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-031 Funding Agreement FA-406031
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-032 Funding Agreement FA-406032
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-033 Funding Agreement FA-406033
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-034 Funding Agreement FA-406034
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-035 Funding Agreement FA-406035
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-036 Funding Agreement FA-406036
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-037 Funding Agreement FA-406037
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-038 Funding Agreement FA-406038
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-039 Funding Agreement FA-406039
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-040 Funding Agreement FA-406040
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-041 Funding Agreement FA-406041
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-042 Funding Agreement FA-406042
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-043 Funding Agreement FA-406043
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-044 Funding Agreement FA-406044
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-045 Funding Agreement FA-406045
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-046 Funding Agreement FA-406046
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-047 Funding Agreement FA-406047
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-048 Funding Agreement FA-406048
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-049 Funding Agreement FA-406049
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-050 Funding Agreement FA-406050
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-051 Funding Agreement FA-406051
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-052 Funding Agreement FA-406052
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-053 Funding Agreement FA-406053
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-054 Funding Agreement FA-406054
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-055 Funding Agreement FA-406055
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-056 Funding Agreement FA-406056
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-057 Funding Agreement FA-406057
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-058 Funding Agreement FA-406058
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-059 Funding Agreement FA-406059
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-060 Funding Agreement FA-406060
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-061 Funding Agreement FA-406061
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-062 Funding Agreement FA-406062
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-063 Funding Agreement FA-406063
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-064 Funding Agreement FA-406064
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-065 Funding Agreement FA-406065
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-066 Funding Agreement FA-406066
+- --------------------------------------------------------------------------------
+Hartford Life Global Funding Trust 2006-067 Funding Agreement FA-406067
+- --------------------------------------------------------------------------------
+ Genworth Global Funding Trust 2006-A Funding Agreement FA-I6001
+- --------------------------------------------------------------------------------
+ Genworth Global Funding Trust 2006-B Funding Agreement FA-I6002
+- --------------------------------------------------------------------------------
+ Genworth Global Funding Trust 2006-C Funding Agreement FA-I6003
+- --------------------------------------------------------------------------------
+
+</EX-34.1>
+
+<EX-35.1>
+ 5
+ ex_35-1.txt
+ 
+ EXHIBIT 35.1
+
+ SERVICER COMPLIANCE STATEMENT
+ WITH RESPECT TO THE INDENTURE ("THE INDENTURE") FOR THE
+ HARTFORD LIFE GLOBAL FUNDING TRUST
+ [2004-001], [2005-072 - 2005-155], [2006-001 - 2006-067]
+ FOR THE PERIOD ENDING JUNE 15, 2006 (THE "REPORTING PERIOD")
+
+I, Joseph Giordano, being a duly appointed officer of JPMorgan Chase
+Bank, N.A., either as the Indenture Trustee (the "Indenture Trustee") or as
+Paying Agent and Registrar under the Indenture delivered with respect to the
+Global Funding Trust described above, do hereby certify, on behalf of the
+Indenture Trustee or Paying Agent and Registrar with respect to its activities
+as servicer under the Indenture (the "Servicer"), that:
+
+ 1. A review of the Servicer's activities during the Reporting Period
+and of its performance under the Indenture has been made under my supervision.
+
+ 2. To the best of my knowledge, based on such review, the Servicer has
+fulfilled all of its obligations under the Indenture in all material respects
+throughout the Reporting Period.
+
+Dated: August 15, 2006
+
+JPMORGAN CHASE BANK, N.A.,
+ as Servicer under the Indenture
+
+By: /s/ Joseph Giordano
+ Joseph Giordano
+ Sr. Vice President
+
+</EX-35.1>
+

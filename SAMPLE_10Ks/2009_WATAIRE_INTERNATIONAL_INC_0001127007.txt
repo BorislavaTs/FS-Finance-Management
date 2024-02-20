@@ -1,0 +1,3747 @@
+<Header>
+<FileStats>
+    <FileName>20090724_10-K_edgar_data_1127007_0001127007-09-000010.txt</FileName>
+    <GrossFileSize>599433</GrossFileSize>
+    <NetFileSize>148685</NetFileSize>
+    <NonText_DocumentType_Chars>443886</NonText_DocumentType_Chars>
+    <HTML_Chars>156</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>0</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001127007-09-000010.hdr.sgml : 20090724
+<ACCEPTANCE-DATETIME>20090724150608
+ACCESSION NUMBER:		0001127007-09-000010
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20090331
+FILED AS OF DATE:		20090724
+DATE AS OF CHANGE:		20090724
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WATAIRE INTERNATIONAL, INC.
+		CENTRAL INDEX KEY:			0001127007
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-FOOD STORES [5400]
+		IRS NUMBER:				912060082
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-49955
+		FILM NUMBER:		09962120
+
+	BUSINESS ADDRESS:	
+		STREET 1:		SUITE 300, WARNER CENTER
+		STREET 2:		21550 OXNARD STREET
+		CITY:			WOODLAND HILLS
+		STATE:			CA
+		ZIP:			91367
+		BUSINESS PHONE:		877-602-8985
+
+	MAIL ADDRESS:	
+		STREET 1:		SUITE 300, WARNER CENTER
+		STREET 2:		21550 OXNARD STREET
+		CITY:			WOODLAND HILLS
+		STATE:			CA
+		ZIP:			91367
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CIMBIX CORP
+		DATE OF NAME CHANGE:	20030827
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CORPORATE DEVELOPMENT & INOVATION INC
+		DATE OF NAME CHANGE:	20001025
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ FXsvGQMukj4UX7JjM8wWqT3r8sRBspQPJbOTLDBDmvxxAYRh0xuFabQ4mt1aTYhe
+ rPeLvDUJZs4YmIn4O7dYBQ==
+
+ 0001127007-09-000010.txt : 20090724
+
+10-K
+ 1
+ wtarform10kmar09.txt
+
+WATAIRE INTERNATIONAL, INC.
+
+FORM 10-K
+(Annual Report)
+
+Filed 07/24/09 for the Period Ending 03/31/09
+
+Address		3rd Floor, 21900 Burbank Blvd.
+			Woodland Hills, CA 91367
+ Telephone		877-602-8985
+ CIK		0001127007
+ Symbol		WTAR
+ SIC Code		4941 - Water Supply
+ Industry		Conglomerates
+ Sector		Conglomerates
+ Fiscal Year	03/31
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM 10-K
+
+(X) ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ ACT OF 1934 For the fiscal year ended March 31, 2009
+
+OR
+ TRANSITION REPORT UNDER SECTION 13 OR 15 (d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934 For the transition period from _____ to _____
+
+Commission File Number : 000 - 49955
+
+WATAIRE INTERNATIONAL, INC.
+ Exact name of registrant as specified in its charter 
+ Washington 91-2060082
+- ----------------------------------- -----------------------
+ State or other jurisdiction of I.R.S. Empl. Ident. No. incorporation or organization 
+3rd Floor, 21900 Burbank Blvd, Woodland Hills, California 91367
+- -------------------------------------------------------------------- Address of principal executive offices ( Zip Code 
+ 877-602-8985
+- ------------------------------------------------------------------ Issuer's telephone number 
+Securities registered under Section 12(b) of the Exchange Act : None
+Securities registered under Section 12(g) of the Exchange Act :-
+ 		Common Stock, 0.0001 par value
+
+Check whether the issuer (1) filed all reports required to be filed by
+Section 13 or 15 (d) of the Exchange Act during the past 12 months (or
+for such shorter period that the registrant was required to file such
+reports), and (2) has been subject to such filing requirements for the
+past 90 days. YES X NO 
+Indicate by check mark whether the registrant has submitted electronically
+and posted on its corporate Web site, if any, every Interactive Data File
+required to be submitted and posted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter during the preceding 12 months (or for such
+shorter period that the registrant was requiredto submit and post such
+files). Yes No 
+Check if there is no disclosure of delinquent filers in response to
+Item 405 of Regulation S-K contained in this form, and no disclosure
+will be contained, to the best of registrant's knowledge, in definitive
+proxy or information statement incorporated by reference in
+Part III of this Form 10-K or any amendment to this Form 10-K X 
+
+Indicate by check mark whether the registrant is a large accelerated filer,
+an accelerated filer, or a non-accelerated filer, or a small reporting
+company. See definitions of "large accelerated filer," "accelerated filer,"
+and "small reporting company" in Rule 12B-2 of the Exchange Act.
+(Check one) :
+
+ Large accelerated filer Accelerated filer 
+ Non-accelerated filer Smaller reporting company X 
+Indicate by check mark whether the registrant is a shell company (as
+defined inRule 12b-2 of the Exchange Act). Yes X No
+
+The aggregate market value of the voting and non-voting common equity
+held by non-affiliates as of the last business day of the registrant's
+most recently completed second fiscal quarter was 1,686,354 based
+upon the closing sales price of the Registrant's Common Stock as
+reported on the Over the Counter Bulletin Board of 0.03.
+
+At July 14, 2009 the Registrant had outstanding 91,110,123 shares of
+Common Stock, 0.0001 par value per share.
+
+WATAIRE INTERNATIONAL, INC.
+FORM 10-K
+For the Fiscal Year Ended March 31, 2009
+TABLE OF CONTENTS
+
+PART I								Page
+Item 1		Business					1-8
+Item 1A		Risk Factors					8-15
+Item 1B		Unresolved Staff Comments			15
+Item 2		Properties					15
+Item 3		Legal Proceedings				15-16
+Item 4		Submission of Matters to a Vote of
+		Security Holders				16
+
+PART II
+Item 5		Market for Registrant's Common Equity,
+		Related Stockholder Matters and Issuer
+		Purchases of Equity Securities			17-24
+Item 6		Selected Financial Data				24
+Item 7		Management's Discussion and Analysis of
+		Financial Condition and Results of Operations	24-31
+Item 7A		Quantitative and Qualitative Disclosures About
+		Market Risk					31-32
+Item 8		Financial Statements and Supplementary Data	32
+Item 9		Changes in and Disagreements with Accountants
+		on Accounting and Financial Disclosure		32
+Item 9A		Controls and Procedures				32-33
+Item 9B		Other Information				33
+
+PART III
+Item 10		Directors, Executive Officers and Corporate
+		Governance					33-37
+Item 11		Executive Compensation				37-39
+Item 12 	Security Ownership of Certain Beneficial Owners
+		and Management and Related Stockholder Matters	39-40
+Item 13		Certain Relationships and Related Transactions,
+		and Director Independence			40-42
+Item 14		Principal Accounting Fees and Services		42
+
+PART IV
+Item 15		Exhibits, Financial Statement Schedules		43-70
+		Signatures
+
+PART I
+
+ This Annual Report on Form 10-K contains forward-looking
+statements that have been made pursuant to the provisions of
+Section 27A of the Securities Act of 1933, Section 21E of the
+Securities Exchange Act of 1934, and the Private Securities
+Litigation Reform Act of 1995 and concern matters that involve
+risks and uncertainties that could cause actual results to
+differ materially from historical results or from those
+projected in the forward-looking statements. Discussions
+containing forward-looking statements may be found in the
+material set forth under "Business," "Management's Discussion
+and Analysis of Financial Condition and Results of Operations"
+and in other sections of this Form 10-K. Words such as "may,"
+"will," "should," "could," "expect," "plan," "anticipate,"
+"believe," "estimate," "predict," "potential," "continue" or
+similar words are intended to identify forward-looking
+statements, although not all forward-looking statements contain
+these words. Although we believe that our opinions and
+expectations reflected in the forward-looking statements are
+reasonable as of the date of this Report, we cannot guarantee
+future results, levels of activity, performance or
+achievements, and our actual results may differ substantially
+from the views and expectations set forth in this Annual Report
+on Form 10-K. We expressly disclaim any intent or obligation to
+update any forward-looking statements after the date hereof to
+conform such statements to actual results or to changes in our
+opinions or expectations.
+
+ Readers should carefully review and consider the various
+disclosures made by us in this Report, set forth in detail in
+Part I, under the heading "Risk Factors," as well as those
+additional risks described in other documents we file from time
+to time with the Securities and Exchange Commission, which
+attempt to advise interested parties of the risks,
+uncertainties, and other factors that affect our business. We
+undertake no obligation to publicly release the results of any
+revisions to any forward-looking statements to reflect
+anticipated or unanticipated events or circumstances occurring
+after the date of such statements.
+
+1
+
+Item 1. Business.
+
+General
+
+Wataire International, Inc. ("Wataire," the "Company," "us," or
+"we") was incorporated under the laws of the State of
+Washington on August 17, 2000 and has been a reporting issuer
+with the United States Securities and Exchange Commission (the
+"SEC") since November 2000.
+
+On October 3, 2006, the Company changed its name to Wataire
+International, Inc. Previously, on August 26, 2003, the Company
+had changed its name from Corporate Development and Innovation,
+Inc. to Cimbix Corporation. The Company's common stock traded
+in the Over-the-Counter Bulletin Board Market under the ticker
+symbol "WTAR".
+
+The Company's business is still in its early developmental and
+promotional stages and to date, the Company's primary
+activities have involved significant re-structuring and re-
+organization. After involvement in Petsmobility and MBG
+businesses, in 2006 the Company entered into license agreement
+ with Ecosafe Innotech Inc., (formerly Wataire Ecosafe
+Technologies Inc., formerly Wataire Industries Inc.)("Ecosafe")
+to market and distribute their commercial water generation
+machines. On April 25, 2007, we entered into an agreement with
+Ecosafe, Canadian Dew Technologies Inc. ("CanDew"), Terrence
+Nylander and Roland Wahlgren to acquire all of the intellectual
+property ("IP") relating to a water treatment process and
+devices for water-from-air machines. The agreements previously
+executed between the Company and Ecosafe have been terminated
+and cancelled and forms part of the current agreement. Mr.
+Nylander was, at the time, an officer and director of the
+Company.
+
+Consideration for the purchase of the IP was 469,485 (CAD
+ 500,000), which was paid at March 31, 2007, the issuance of
+4,800,000 shares of common stock of the Company, the agreement
+by the Company to pay a royalty equal to 5 of the gross
+profits from the sales of all apparatus or products relating to
+the IP for a period of 30 years from April 25, 2007 and a
+royalty equal to 5 of gross licensing revenues on the IP.
+ This consideration is in addition to the 11,000,000 shares of
+common stock previously issued for the license rights. The IP
+acquisition was completed in July 2007.
+
+2
+
+The IP acquired by the Company includes all copyrights, patent
+rights, trade secret rights, trade names, trademark rights,
+process information, technical information, contract rights and
+obligations, designs, drawings, inventions and all other
+intellectual and industrial property rights of any sort related
+to or associated with the water treatment process and devices
+for water-from-air machines invention.
+
+LIQUIDITY AND FINANCIAL RESOURCES
+
+Through March 31, 2009, the Company had not carried on any
+significant operations and had not generated significant
+revenues. The Company has incurred losses since inception
+aggregating 10,451,707. The accompanying financial statements
+have been prepared assuming that the Company will continue as a
+going concern. These conditions raise substantial doubt about
+the Company's ability to continue as a going concern. The
+financial statements do not include any adjustments that might
+result from the outcome of this uncertainty.
+
+We currently have minimal cash reserves. To date, the Company
+has covered operating deficits primarily through its financing
+activities. Accordingly, our ability to pursue our plan of
+operations is contingent on our being able to obtain funding
+for the development, marketing and commercialization of our
+products and services. As a result of its lack of operating
+success, the Company may not be able to raise additional
+financing to cover operating deficits.
+
+BUSINESS
+
+Our business plan is to fully exploit our products and
+technology by marketing and distributing our commercial and
+home/office water generation machines as well as their under-
+the-counter/over-the-counter units, and the water-producing
+greenhouse.
+
+The atmospheric water generator produces purified water from
+the atmosphere by using a condensing surface and a special
+filtration system that removes dust, airborne particles and
+bacteria to generate clean drinking water and simultaneously
+cleaning the air. This method of extracting water vapor has
+been in use for many years. Some similar applications include
+air conditioners and dehumidifiers. The actual water production
+and cost per gallon varies with the humidity and temperature of
+the atmosphere at the specific site in which the unit is
+employed.
+
+			3
+
+The Wataire water generation equipment is a water-from-air
+technology system developed by a team of specialized
+technicians incorporating patent pending technologies that
+control bacterial contamination. The Company currently sells
+two types of atmospheric units: (i) small-scale home/office
+units, which include a full-sized upright model and a
+countertop model and which can produce between four to seven
+gallons of water per day depending on humidity and temperature
+levels of the location of the unit, and (ii)
+commercial/industrial units capable of producing more than
+5,000 liters (1320 gallons) of safe drinking water each day
+depending upon ambient conditions.
+
+The home/office units are designed to replace bottled water and
+purified water dispensers, eliminating the need for
+replenishment and storage of plastic bottles. These units are
+intended for usage in residences, schools, offices, hospitals
+and restaurants. They can also serve as a personal disaster
+relief unit for consumers in circumstances such as hurricane
+Katrina where residents in the affected area had no drinking
+water.
+
+The industrial units are intended for use in military camps,
+industrial applications such as factories, commercial
+applications such as hotels, humanitarian and disaster relief
+applications where fresh drinking water is scarce.
+
+The water generation equipment is a water-from-air technology
+system developed by a team of specialized technicians
+incorporating patent pending technologies that control
+bacterial contamination. The water generating units are
+equipped with an electronic control system that turns the
+machine on and off when full and can circulate the water to
+maintain clean drinking water 24 hours a day, 365 days a year.
+ It has a dynamic display to allow for monitoring the machine's
+operation, showing when a new filter is required.
+
+4
+
+The system provides an independent, sustainable, safe water
+source for a wide variety of possible circumstances such as
+mining and petroleum exploration camps, bottled water and
+beverage manufacturers, food manufacturers, military camps,
+non-government organizations, humanitarian assistance
+organizations, emergency and disaster relief situations.
+ According to field trials recently held in Belize and
+Thailand, the system performed well in a tropical environment
+producing the design projected volume of water and achieving
+the desired water quality standards. While we believe the unit
+is also economically viable in temperate climates, the Wataire
+units work best in the tropics due to the high humidity levels,
+which will produce the highest rate of water production at the
+lowest cost per gallon.
+
+The patent pending water treatment system is comprised of a
+three-stage water treatment design that cleans water to meet
+World Health Organization guidelines. The unit consists of a
+filtration system, a food-grade dehumidifier water producing
+module, and a water treatment module. The water treatment
+process is proprietary and may be subject of various patent
+applications already filed.
+
+The process basically involves taking filtered moist air from
+the atmosphere and dehumidifying it for treatment by the water
+treatment module. This produced water is then processed
+through sediment filters, ultra-fine filters, activated
+charcoal filters and ultraviolet light treatment that eliminate
+virtually all biological contaminants including bacteria,
+viruses, and pollutants that are in the air. Atmospheric water
+vapor is an abundant resource that can be used with virtually
+no negative environmental impacts. The machine should be
+situated in a space that can provide fresh flowing air to the
+machine intake as it dehumidifies the space. The water-from-
+air technology has received broad acceptance around the world
+as a new and sustainable source of potable water.
+
+COMPETITION
+
+Water purification and bottled water industries are highly
+competitive. According to past internal research, there were
+possibly nine entities experimenting with the technology of
+water generation, of which two or three were direct active
+competitors. Some of those companies have limited or no
+business activities while others have entered into strategic
+alliances with one another. The relatively high energy cost
+associated with changing water from its vapor phase in the air
+to the liquid phase appears to be an obstacle to making sales
+for a number of these competitors. Control of bacteria and
+viruses in the field of atmospheric water generation creates a
+technological challenge that our patent pending water treatment
+module has resolved. The atmospheric water generator and
+filtration system industry is new, rapidly evolving and can
+compete with more traditional water treatment systems that rely
+on surface and ground water supplies. In the future, our
+competitors can and may duplicate or surpass in efficacy many
+of the products or services offered by us.
+
+			5
+
+REGULATORY ENVIRONMENT
+
+The manufacturing, processing, testing, packaging, labeling and
+advertising of the products that we sell may be subject to
+regulation by one or more U.S. federal agencies, including the
+Food and Drug Administration, the Federal Trade Commission, the
+CSA and UL in North America, the United States Department of
+Agriculture, the Environmental Protection Agency, the standards
+provided by the United States Public Health authority and the
+World Health Organization for Drinking Water. These activities
+may also be regulated by various agencies of the states,
+localities and foreign countries in which consumers reside.
+
+CERTIFICATION AND TESTING
+
+All the products that we sell and plan to sell will go through
+stringent testing that will have the appropriate UL, CE or CSA
+certifications on the products. The CSA Mark is an
+internationally recognized mark that appears on over one
+billion products worldwide. CSA International is a leader in
+standards development, certification and testing, and quality
+management registration. The CSA International marks are
+accepted by many electrical inspectors, gas inspectors,
+building inspectors and other governmental authorities that
+approve projects and products that are sold in Canada, the
+United States and all over the world. The Company uses the
+services of CSA International because they test, certify and
+ensure that products comply with applicable safety and/or
+performance standards applicable to the products for the sale
+in that country. These standards include UL, CSA, ANSI
+(American National Standards Institute), ASTM, NSF, OSHA
+(Occupational Safety and Health Administration under the US
+Department of Labor), NVLAP (National Voluntary Laboratory
+Accreditation Program), SCC (Standards Council of Canada), IAS
+(International Accreditation Service Inc.) and others.
+
+At this time, the products carry the markings of CE and we are
+currently seeking CSA markings for Canada and UL markings the
+United States. These markings on the products indicate to
+governmental officials and consumers that the products may be
+legally placed on the market in the country for sale. It also
+indicates that the products met all safety requirements and
+tests, and such products are in conformity with the applicable
+standards.
+
+			6
+
+RESEARCH AND DEVELOPMENTS
+
+The Company does not have its own research and development
+department and will rely on Canadian Dew Technologies Inc. to
+furnish the Company with new technology and improvements on its
+existing applications, efficiency and theories of the
+underlying atmospheric water generators and filtration systems.
+
+MARKET ANALYSIS AND STRATEGY
+
+We believe a market opportunity exists for our atmospheric
+water generators and filtration systems. Our technology
+provides an alternative solution to the world's shortage of
+fresh water and can provide clean, safe drinking water in
+various geographical settings. Today, governments and health
+professionals are increasingly conscious of the negative health
+effects of pollution, chemicals used to disinfect water
+supplies, and residual salt in desalinated water, and how they
+affect human health.
+
+Our target markets for the water-from-air systems are
+businesses, governments, and people who are situated in the
+humid tropics. To date, our products have been sold in over 30
+different countries and have received positive response from
+system users. Our systems, units and/or applications target
+various markets including military applications, oil and mining
+operations, new and existing tourist resorts, beverage bottling
+plants, new condominium developments and humanitarian missions.
+
+The development of our marketing plan is still in its early
+stages; however, we anticipate having an outline of our
+marketing strategy in the fall of 2008. Management plans, as
+soon as finances permit, to hire additional management and
+staff for its US-based operations especially in
+
+the areas of finance, sales, marketing, and investor/public
+relations. The Company may also choose to outsource some of
+its marketing requirements by utilizing a series of independent
+contractors based on the projected size of the market and the
+compensation necessary to retain qualified employees.
+
+7
+
+In December 2006, the Company retained Cucoloris Films Inc.
+("Cucoloris"), a Los Angeles based multimedia and marketing
+company to help us with our marketing needs. The term of the
+engagement is for one year, and the Company has paid the
+marketing firm 250,000 and issued 1,000,000 shares of common
+stock that has been registered on Form S-8 for their services.
+The marketing agreements expired and the Company has not
+commenced its branding and marketing efforts and therefore the
+shares were not released by the Company and have been returned
+to treasury. The Company is currently re-negotiating the terms
+of its agreements with the marketing firm.
+
+EMPLOYEES
+
+The Company currently has no employees but has contract staff.
+ The Company anticipates entering into an employment contract
+with Robert Rosner, our Chief Executive Officer, but can
+provide no assurance that we will come to terms for such
+employment agreement. The Company looks to its directors and
+officers for their combined entrepreneurial skills and talents,
+and to outside subcontracted consultants. Management plans to
+use consultants, attorneys and accountants as necessary until
+the Company has sufficient funds to execute strategies for the
+Company. The Company's performance and success is dependent on
+management's ability to raise the necessary funds required to
+develop and promote the sale of its products.
+
+PATENTS AND TRADEMAKS
+
+The patent pending and/or trademarks and copyrights from
+Ecosafe, Terry Nylander, Roland Wahlgren and CanDew has now
+been transferred to our name. The Company has also filed other
+patents, trademarks and copyrights in other countries.
+
+PATENTS AND TRADEMAKS
+
+The patent pending and/or trademarks and copyrights from
+Ecosafe, Terry Nylander, Roland Wahlgren and CanDew has now
+been transferred to our name. The Company has also filed other
+patents, trademarks and copyrights in other countries.
+
+Item 1A. Risk Factors.
+
+We have sought to identify what we believe to be the most
+significant risks to our business. However, we cannot predict
+whether, or to what extent, any of such risks may be realized
+nor can we guarantee that we have identified all possible risks
+that might arise.
+
+8
+
+We are dependent on external financing.
+
+It is imperative that we raise additional capital to complete
+our operational plan to promote and commercialize our newly
+acquired business combinations and activities. We will also
+require funds to sustain our business operations if we are not
+successful in earning revenues from our product sales and sub-
+licensing. We estimate that we would require additional funding
+of 8,000,000 to pursue our business strategy. If we are unable
+to obtain equity financing upon terms that our management deems
+sufficiently favorable, or at all, it would have a material
+adverse impact upon our ability to expand our current
+operational plan. Any sale of share capital will result in
+dilution to existing shareholders.
+
+To date, we have generated some revenues from sales but not
+enough to sustain our business operations. The success of our
+business depends on us receiving inventory and advertising
+materials from our suppliers and manufacturers. The exact
+amount of our current and future capital requirements will
+depend on numerous factors, some of which are not within our
+control, including the progress of our development efforts, the
+costs of testing, supply of our products, demand of our
+products and changes in governmental regulation. Our ability
+to raise additional financing depends on many factors beyond
+our control, including the state of capital markets, the market
+price of our common stock and the development or prospects for
+development of competitive technology by others. The necessary
+additional financing may not be available to us or may be
+available only on terms that would result in further dilution
+to the current owners of our Common Stock. If we are unable to
+raise additional funds when we need them, we may have to
+curtail or discontinue our operations, in which case you could
+lose the entire amount of your investment in the Company.
+
+We are in our early stages of development and face a risk of
+business failure.
+
+9
+
+We are in our early stages of development. We have no way to
+evaluate the likelihood that we will be able to operate our
+business successfully. The likelihood of success must be
+considered in light of the problems, expenses, difficulties,
+complications and delays encountered in connection with the
+technology and sales industries. We recognize that if we are
+unable to generate significant revenues from our sales, we will
+not be able to earn profits or continue operations. There is
+only a limited history upon which to base any assumption as to
+the likelihood that we will prove successful, and we can
+provide investors with no assurance that we will generate any
+additional operating revenues or ever achieve profitable
+operations from our current business initiatives. If we are
+unsuccessful in addressing these risks, our business will most
+likely fail.
+
+We are competing against larger and better-financed companies.
+
+We operate in a highly competitive market with financial
+rewards pending on market performance. Some of our competitors
+are multi-million dollar enterprises with more resources for
+marketing, distribution and development. We may be in a
+disadvantage if any of our competitors focused on similar
+products we sell. Because we don't have the infrastructure and
+personnel in place to adequately implement our business plans
+and operations, our business may fail.
+
+Our business and the success of our products could be harmed if
+we are unable to maintain our brand image.
+Our success is heavily dependent upon the market acceptance of
+our Wataire branded lines of atmospheric water generators. If
+we are unable to timely and appropriately respond to changing
+consumer demand, the brand Wataire distributes may be impaired.
+Even if we react appropriately to changes in consumer
+preferences, consumers may consider those brand images to be
+outdated. Lack of acceptance of our brands will have a
+material impact on the performance of the Company.
+
+Dependence on our suppliers
+
+Our success is highly dependent upon the continued support and
+services of suppliers. We are solely dependent on their
+support to provide enough inventory to meet our purchase
+orders. If our suppliers are not able to manufacture enough
+products to meet the demands of our purchase orders, our
+business will most likely fail.
+Demand for our products and services may fail to materialize
+
+10
+
+Our growth and success will depend on our success in
+introducing and selling our products. The market for the
+products and services we plan to offer is relatively new and
+there is little hard data to validate market demand or predict
+how this demand will be segmented. There could be much lower
+demand than believed, or interest in our products and services
+could decline or die out, which could adversely affect our
+ability to sustain our operations.
+
+There is substantial doubt as to our ability to continue as a
+going concern
+
+Our financial results for the fiscal year ending March 31, 2009
+show substantial losses. The accompanying financial statements
+have been prepared in conformity with the generally accepted
+accounting principles in the United States of American which
+contemplates the Company as a going concern. The Company has
+sought out additional investment to raise additional funds.
+However, there are no assurances that the Company will continue
+as a going concern without the successful completion of
+additional funding. The accompanying consolidated financial
+statements do not include any adjustments that might be
+necessary if the Company is unable to continue as a going
+concern.
+
+Our independent auditors, Gruber & Company LLC, have expressed
+substantial doubt about our ability to continue as a going
+concern given our recurring losses from operations and net
+stockholder's deficit. This opinion could materially limit our
+ability to raise additional funds by issuing new debt or equity
+securities or otherwise.
+
+Dependence on key management and personnel
+
+Our success is highly dependent upon the continued services of
+Robert Rosner, our Chief Executive Officer. If he were to
+leave us this could have a materially adverse effect upon our
+business and operations. We anticipate entering into employment
+contract with Mr. Rosner but can provide no assurance that we
+will come to terms for such employment agreement.
+
+Our business also requires additional staff in all areas to
+successfully bring our products to market. Our success depends
+on our ability to attract and retain technical and management
+personnel with expertise and experience in the technology
+field. If we are unable to attract and retain qualified
+technical and management personnel, we will suffer diminished
+chances of future success.
+
+11
+
+We may be subject to product liability or breach of contract
+claim if our products do not work as promised from our
+Inventor(s) and predecessor
+
+The atmospheric water generators are designed to facilitate
+potable safe drinking water. If the technology fails to work as
+manufactured by our inventor(s) and predecessor, customers may
+bring claims against us. Despite limitations on such claims,
+such claims can be costly and time consuming which could have a
+material adverse effect on our operations, even if we are found
+not to have been at fault. We currently do not have liability
+insurance and anticipate that we will seek some coverage in the
+future if such coverage is available at a reasonable cost.
+
+Significant repair and/or replacement with respect to product
+warranty claims or product recalls could have a material
+adverse impact on the results of operations.
+
+We provide a limited warranty for our products for a period of
+one year. Significant warranty claims could have a material
+adverse effect on our results of operations.
+
+Government Regulation
+
+Regulation by government authorities in the United States,
+Canada and foreign countries may be a factor in the
+development, manufacture and marketing of our products and in
+our research and product development activities. The process of
+obtaining these approvals and the subsequent compliance may
+require time and financial resources.
+
+Limited experience to market our products
+
+Even if we are able to develop our products and obtain the
+necessary regulatory approvals, we have limited experience or
+capabilities in marketing or commercializing our products. We
+currently have some sales and just engaged a marketing agency.
+ We do not have a distribution infrastructure in place.
+Accordingly, we are dependent on our ability to find
+collaborative marketing partners or contract sales companies
+for commercial sale of any of our products. Even if we find a
+potential marketing partner, we may not be able to negotiate an
+advertising and/or licensing contract on favorable terms to
+justify our investment or achieve adequate revenues.
+
+12
+
+Our business is subject to risks associated with offshore
+manufacturing.
+
+We import some of our products into the United States and
+Canada from foreign countries for resale. All of our import
+operations are subject to tariffs and quotas set by the U.S.
+and other countries' governments through mutual agreements or
+bilateral actions. Adverse changes in these import costs and
+restrictions, or our suppliers' failure to comply with customs
+regulations or similar laws, could harm our business.
+Our operations are also subject to the effects of international
+trade agreements and regulations such as the North American
+Free Trade Agreement, the Caribbean Basin Initiative and the
+European Economic Area Agreement, and the activities and
+regulations of the World Trade Organization. Trade agreements
+can also impose requirements that adversely affect our
+business, such as setting quotas on products that may be
+imported from a particular country into our key market, the
+United States. In fact, some trade agreements can provide our
+competitors with an advantage over us, or increase our costs,
+either of which could have an adverse effect on our business
+and financial condition.
+
+In addition, the recent elimination of quotas on World Trade
+Organization member countries by 2005 could result in increased
+competition from developing countries which historically have
+lower labor costs, including China. This increased competition,
+including from competitors who can quickly create cost and
+sourcing advantages from these changes in trade arrangements,
+could have an adverse effect on our business and financial
+condition.
+
+Our ability to import products in a timely and cost-effective
+manner may also be affected by problems at ports or issues that
+otherwise affect transportation and warehousing providers, such
+as labor disputes or increased U.S. homeland security
+requirements. These issues could delay importation of products
+or require us to locate alternative ports or warehousing
+providers to avoid disruption to our customers. These
+alternatives may not be available on short notice or could
+result in higher transit costs, which could have an adverse
+impact on our business and financial condition.
+
+13
+
+Our international operations expose us to political, economic
+and currency risks.
+All of our products came from sources outside of the United
+States. As a result, we are subject to the risks of doing
+business abroad, including:
+
+currency fluctuations;
+
+changes in tariffs and taxes;
+
+political and economic instability; and
+
+disruptions or delays in shipments.
+
+Changes in currency exchange rates may affect the relative
+prices at which we are able to manufacture products and may
+affect the cost of certain items required in our operation,
+thus possibly adversely affecting our profitability.
+
+There are inherent risks of conducting business
+internationally. Language barriers, foreign laws and customs
+and duties issues all have a potential negative effect on our
+ability to transact business in the United States. We may be
+subject to the jurisdiction of the government and/or private
+litigants in foreign countries where we transact business, and
+we may be forced to expend funds to contest legal matters in
+those countries in disputes with those governments or with
+customers or suppliers.
+We may suffer from infringements or piracy of our trademarks,
+designs, brands or products.
+We may suffer from infringements or piracy of our trademarks,
+designs, brands or products in the U.S. or globally. Some
+jurisdictions may not honor our claims to our intellectual
+properties. In addition, we may not have sufficient legal
+resources to police or enforce our rights in such
+circumstances.
+
+Unfair trade practices or government subsidization may impact
+our ability to compete profitably.
+In an effort to penetrate markets in which the Company
+competes, some competitors may sell products at very low
+margins, or below cost, for sustained periods of time in order
+to gain market share and sales. Additionally, some competitors
+may enjoy certain governmental subsidies that allow them to
+compete at substantially lower prices. These events could
+substantially impact our ability to sell our product at
+profitable prices.
+
+14
+
+If we market and sell our products in international markets, we
+will be subject to additional regulations relating to export
+requirements, environmental and safety matters, and marketing
+of the products and distributorships, and we will be subject to
+the effects of currency fluctuations in those markets, all of
+which could increase the cost of selling products and
+substantially impair the ability to achieve profitability in
+foreign markets.
+
+As a part of our marketing strategy, we plan to market and sell
+our products internationally. In addition to regulation by the
+U.S. government, those products will be subject to
+environmental and safety regulations in each country in which
+we market and sell. Regulations will vary from country to
+country and will vary from those of the United States. The
+difference in regulations under U.S. law and the laws of
+foreign countries may be significant and, in order to comply
+with the laws of these foreign countries, we may have to
+implement manufacturing changes or alter product design or
+marketing efforts. Any changes in our business practices or
+products will require response to the laws of foreign countries
+and will result in additional expense to the Company.
+
+Additionally, we may be required to obtain certifications or
+approvals by foreign governments to market and sell the
+products in foreign countries. We may also be required to
+obtain approval from the U.S. government to export the
+products. If we are delayed in receiving, or are unable to
+obtain import or export clearances, or if we are unable to
+comply with foreign regulatory requirements, we will be unable
+to execute our complete marketing strategy.
+
+Item 1B. Unresolved Staff Comments.
+
+Not applicable.
+
+Item 2. Properties.
+
+Our principal executive offices are located at 3rd Floor, 21900
+Burbank Blvd., Woodland Hills, California 91367. The Company's
+phone number is 877-602-8985.
+
+Item 3. Legal Proceedings.
+
+We are a defendant in a case brought in October 2006 in the
+Supreme Court of British Columbia, Canada entitled Atkinson et
+al. v. Cimbix Corporation et al. The action relates to
+
+15
+
+allegations by plaintiffs that 94,000 was deposited into a law
+firm's trust account for investment in On4 Communications Inc.,
+formerly PetsMobility Network (Canada) Inc. ("On4"). The
+plaintiffs allege that the law firm deducted legal fees from
+the amount held in trust and transferred the balance of the
+funds to On4. Both the law firm and On4 are also defendants in
+the case. The Company believes the claims against it are
+without merit and unlikely to succeed. The Company has filed a
+statement of defense denying the allegations against it and has
+filed a counter claim for defamation. The investors have been
+repaid all of the funds by On4. The Company has not paid any
+amount to the plaintiffs. The Company takes the position that
+it has done nothing wrong and, in any event, the plaintiffs
+have recovered the entirety of their loss from On4. The court
+has ordered a severance of the action, and has required the
+plaintiffs to prove their damages, before proceeding to trial
+on issues of liability. The claim and counterclaim have been
+dismissed without costs.
+
+On March 25, 2008, we received a subpoena from the Securities
+and Exchange Commission ("SEC") issued in an investigation
+initiated by the SEC with respect to a number of companies
+traded on the "pink sheets" market (Our Company is not one of
+the companies that are the subject of the investigation). The
+subpoena, inter alia, requested documents relating to: contacts
+with personnel of and sales of our products to the U.S. Navy,
+sales of our products generally, the Company's license
+agreement with Airborn Water Company, and display of the
+Company's products at a music festival in Florida. Our Chief
+Executive Officer, Robert Rosner, has provided testimony to the
+SEC in this matter.
+
+The Company received an alleged claim in January 2009 from one
+of its former distributors for failing to deliver merchandise
+ordered and paid for by the Plaintiff. The Company has
+subsequently filed a motion to dismiss the claim and is
+considering separate legal recourse.
+
+On July 20, 2009, the Company filed a cross-complaint for breach of
+contract, intentional interference with contractual relationship,
+intentional interference with prospective economic relationship
+and accounting
+
+16
+
+Item 4. Submission of Matters to a Vote of Security Holders.
+
+ Not Applicable.
+
+PART II
+
+Item 5. Market for Common Equity, Related Stockholder Matters
+and Issuer Purchases of Equity Securities.
+
+ The Company's common stock is traded in the Over-the-Counter Bulletin
+Board Market and on the "Pink Sheets" market under the ticker symbol "WTAR".
+
+ The following table sets forth for each period indicated
+the high and the low bid prices per share for the Company's
+Common Stock.
+
+Bid Prices
+
+Quarter Ended High Low
+
+March 31, 2009		0.025	0.007
+
+December 31, 2008 	0.045	0.005
+
+September 30, 2008 	0.095	0.030
+
+June 30, 2008 		0.220	0.050
+
+March 31, 2008		0.240	0.060
+
+December 31, 2007 	0.220	0.090
+
+September 30, 2007 	0.300	0.130
+
+June 30, 2007 		0.730	0.220
+
+There were approximately 109 holders of record of the common
+stock as of July 14, 2009. The Company believes that an
+undefined number of shares of its common stock are held in
+either nominee name or street name brokerage accounts.
+Consequently, the Company is unable to determine the exact
+number of beneficial owners of its common stock.
+
+The Company has never paid a cash dividend on its Common Stock
+and does not anticipate paying dividends in the foreseeable
+future. It is the present policy of the Company's Board of
+Directors to retain earnings, if any, to finance the expansion
+of the Company's business. The payment of dividends in the
+future will depend on the results of operations, financial
+condition, capital expenditure plans and other cash obligations
+of the Company and will be at the sole discretion of the Board
+of Directors
+
+17
+
+Section 15(g) of the Securities Exchange Act of 1934:
+The Company's shares are covered by Section 15(g) of the
+Securities Exchange Act of 1934, as amended that imposes
+additional sales practice requirements on broker/dealers who
+sell such securities to persons other than established
+customers and accredited investors (generally institutions with
+assets in excess of 5,000,000 or individuals with net worth in
+excess of 1,000,000 or annual income exceeding 200,000 or
+ 300,000 jointly with their spouses). For transactions covered
+by this Section 15(g), the broker/dealer must make a special
+suitability determination for the purchase and have received
+the purchaser's written agreement to the transaction prior to
+the sale. Consequently, Section 15(g) may affect the ability of
+broker/dealers to sell the Company's securities and also may
+affect your ability to sell your shares in the secondary
+market.
+
+Section 15(g) also imposes additional sales practice
+requirements on broker/dealers who sell penny securities. These
+rules require a one page summary of certain essential items.
+The items include the risk of investing in penny stocks in both
+public offerings and secondary marketing; terms important to an
+understanding of the function of the penny stock market, such
+as "bid" and "offer" quotes, a dealers "spread" and
+broker/dealer compensation; the broker/dealer compensation, the
+broker/dealers duties to its customers, including the
+disclosures required by any other penny stock disclosure rules;
+the customers rights and remedies in causes of fraud in penny
+stock transactions; and, the NASD's toll free telephone number
+and the central number of the North American Administrators
+Association, for information on the disciplinary history of
+broker/dealers and their associated persons.
+
+RECENT SALES OF UNREGISTERED SECURITIES
+
+In July 2006, the Company issued to Ecosafe 10,000,000
+restricted shares of its common stock, 0.0001 par value per
+share which were not registered under the Act in consideration
+for the exclusive world wide license agreement with Ecosafe
+relating to commercial units valued at approximately 620,000.
+ The Company claims an exemption from registration of these
+securities pursuant to Section 4(2) of the Act.
+
+18
+
+In August 2006, the Company issued to an accredited investor
+440,000 restricted shares of its common stock, .0001 par value
+per share, which were not registered under the Act in
+consideration for 110,000 pursuant to a private placement.
+ The Company claims an exemption from registration of these
+securities pursuant to Section 4(2) of the Act.
+
+In September 2006, the Company issued to Ecosafe 1,000,000
+restricted shares of its common stock, 0.0001 par value per
+share, which were not registered under the Act in consideration
+for the exclusive worldwide license agreement with Ecosafe
+relating to home/office units valued at approximately 560,000.
+ The Company claims an exemption from registration of these
+securities pursuant to Section 4(2) of the Act.
+
+In October 2006, the Company's Board of Directors adopted the
+2006 Stock Option Plan (the "2006 Plan"), reserving 8,000,000
+shares for issuance under the 2006 Plan, and granted a total of
+1,475,000 non-qualified stock options to the following
+individuals: Terrance Nylander (250,000 options), Roland
+Walgreen (175,000 options), Nand Shankar (250,000 options),
+Bruce H. Haglund (100,000 options), Maribel Jordan (150,000
+options), Philip Fraser (300,000 options), Nicole Fraser
+(75,000 options), and Russ Lombardo (175,000 options). These
+non-qualified stock options are exercisable at .50 per share,
+expire on September 30, 2013, and are fully vested. The Company
+claims an exemption from registration of these securities
+pursuant to Section 4(2) of the Act.
+
+In October 2006, the Company agreed to issue to P204
+Enterprises Ltd. 2,083,333 restricted shares of its Common
+Stock, 0.0001 par value per share, in consideration for
+ 1,000,000. In connection with the sale of the Shares, the
+Company issued to P204 Enterprises Ltd. a warrant to purchase
+2,083,333 shares of common stock of the Company. On the
+condition that the Warrant is exercised on or before April 30,
+2007, the exercise price of the warrants is 0.85 per share; on
+the condition that the warrant is exercised on or before
+October 31, 2007, the exercise price of the warrant is 1.00
+per share; and on the condition that the warrant is exercised
+on or before April 30, 2008, the exercise price of the Warrant
+is 1.15 per share. The Warrant expires on April 30, 2008.
+This transaction closed in January 2007. The Company claims an
+exemption from registration of these securities pursuant to
+Section 4(2) of the Act.
+
+19
+
+In November 2006, the Company granted a total of 4,925,000 non-
+qualified stock options under the 2006 Plan to the following
+individuals: Robert Rosner (2,000,000 options), William
+Robertson (1,500,000 options), Philip Fraser (1,200,000
+options), and Russ Lombardo (225,000 options). These non-
+qualified stock options are exercisable at .62 per share,
+expire on September 30, 2013, and are fully vested. The Company
+claims an exemption from registration of these securities
+pursuant to Section 4(2) of the Act.
+
+In December 2006, the Company agreed to pay 1,000,000 and
+issue 1,000,000 shares of its common stock to Cucoloris Films,
+Inc. ("Cucoloris") pursuant to a Form S-8 registration
+statement as partial consideration for the services of
+Cucoloris to the Company. The agreement provided for the
+registration of the shares prior to December 31, 2006, but the
+parties have agreed to the filing of the registration statement
+as soon as practicable. The Company issued 1,000,000 shares
+and has paid 250,000. The 1,000,000 shares issued were not
+released to the marketing company as it has not commenced its
+branding and marketing efforts and the contract has expired.
+The Company is currently re-negotiating the terms of the
+remaining 750,000. The common shares have been returned back
+to treasury.
+
+In January 2007, the Company agreed to issue to James Marsden
+133,333 units, each unit consisting of a share of common stock
+and a warrant to purchase a share of common stock, for a
+consideration of 100,000 .75 per unit). The warrants stock
+expire in January 2009 and are exercisable at .85 per share if
+the warrant is exercised on or before June 30, 2007, at 1.00
+if the warrant is exercised on or before December 31, 2007, and
+at 1.15 if the warrant is exercised on or before December 31,
+2008. The subscription was not completed.
+
+In January 2007, the Company agreed to issue to Robert Rosner,
+our Chief Executive Officer, up to 200,000 units, each unit
+consisting of a share of common stock and a warrant to purchase
+a share of common stock, in consideration for the forgiveness
+of up to 150,000 of indebtedness of the Company to Mr. Rosner .75 per unit). The warrants stock expire in January 2009 and
+are exercisable at .85 per share if the warrant is exercised
+on or before June 30, 2007, at 1.00 if the warrant is
+exercised on or before December 31, 2007, and at 1.15 if the
+warrant is exercised on or before December 31, 2008. The
+Company issued 195,334 units to Robert Rosner. The Company
+claims an exemption from registration of these securities
+pursuant to Section 4(2) of the Act.
+
+20
+
+In January 2007, the Company agreed to issue to Donald Walker,
+a former officer and director of the Company, up to 80,000
+units, each unit consisting of a share of common stock and a
+warrant to purchase a share of common stock, in consideration
+for the forgiveness of up to 60,000 of
+indebtedness of the Company to Mr. Walker .75 per unit). The
+warrants stock expire in January 2009 and are exercisable at
+ .85 per share if the warrant is exercised on or before June
+30, 2007, at 1.00 if the warrant is exercised on or before
+December 31, 2007, and at 1.15 if the warrant is exercised on
+or before December 31, 2008. The Company issued 77,202 units to
+Donald Walker. The Company claims an exemption from
+registration of these securities pursuant to Section 4(2) of
+the Act.
+
+In January 2007, the Board of Directors approved an amendment
+to the 2006 Stock Option Plan to increase the number of shares
+issuable upon exercise of options to 11,000,000 shares and
+approved the grant of 875,000 non-qualified stock options under
+the 2006 Plan to the following individuals: James Marsden
+(750,000 options), Adriana Mihalos (75,000 options), and Gary
+Tacon (50,000 options). These non-qualified stock options are
+exercisable at 1.10 per share, expire on September 30, 2013,
+and are fully vested. The Company claims an exemption from
+registration of these securities pursuant to Section 4(2) of
+the Act.
+
+In January 2007, the Board of Directors approved the grant of
+2,000,000 non-qualified stock options outside of the plan to
+two consultants (1,000,000 options each) with whom the Company
+is presently negotiating consulting agreements. Neither the
+consulting agreements nor the stock option agreements have been
+executed as of the date of this Annual Report. The Company was
+unable to reach amicable terms with the two consultants for
+services. These non-qualified stock options were cancelled.
+
+In April 2007, the Board of Directors approved the grant of
+1,700,000 non-qualified stock options under the 2006 Amended
+Stock Option Plan to Robert Rosner (1,500,000 options) and
+Richard Jordan (200,000 options). These non-qualified stock
+options are exercisable at 0.57 per share, expire on September
+30, 2013, and are fully vested. The Company claims an
+exemption from registration of these securities pursuant to
+Section 4(2) of the Act.
+
+21
+
+In May 2007, the Board of Directors approved the grant of
+1,295,000 non-qualified stock options under the 2006 Amended
+Stock Option Plan to the following individuals: Connect
+Corporate Communications (300,000 options), Connect Capital
+(700,000 options), Gary Tacon (20,000 options), Adriana Mihalos
+(25,000 options) and James Marsden (250,000 options). These
+non-qualified stock options are exercisable at 0.65 per share,
+expire on September 30, 2013, and are fully vested. The
+Company claims an exemption from registration of these
+securities pursuant to Section 4(2) of the Act.
+
+In October 2007, the Company agreed to issue to Robert Rosner,
+our Chief Executive Officer, 696,494 units, each unit
+consisting of a share of common stock and a warrant to purchase
+a share of common stock, in consideration for the forgiveness
+of up to 118,404 of indebtedness of the Company to Mr. Rosner .17 per unit). The warrants stock will expire on September
+30, 2010 and are exercisable at 0.17 per share. The Company
+claims an exemption from registration of these securities
+pursuant to Section 4(2) of the Act.
+
+In October 2007, the Company agreed to issue to an accredited
+investor, 1,362,329 units, each unit consisting of a share of
+common stock and a warrant to purchase a share of common stock,
+in consideration for the forgiveness of up to 231,596 of
+indebtedness of the Company to the accredited investor .17
+per unit). The warrants stock will expire on September 30,
+2010 and are exercisable at 0.17 per share. The Company claims
+an exemption from registration of these securities pursuant to
+Section 4(2) of the Act.
+
+In December 2007, the Company entered into a private placement
+with an accredited investor of 100,000 for 588,235 common
+shares of the Company at 0.17 per share. The Company claims
+an exemption from registration of these securities pursuant to
+Section 4(2) of the Act.
+
+In March 2008, the Company agreed to issue to Robert Rosner,
+our Chief Executive Officer, 4,400,000 units, each unit
+consisting of a share of common stock and one half of a warrant
+whereby each whole warrant entitles the holder to purchase a
+share of common stock, in consideration for the forgiveness of
+ 220,000 of indebtedness of the Company to Mr. Rosner 0.05
+per unit). The warrants stock will expire on March 18, 2011
+and are exercisable at 0.05 per share. As of the date of this
+annual report, the shares have not been issued. The Company
+claims an exemption from registration of these securities
+pursuant to Section 4(2) of the Act.
+
+22
+
+In March 2008, the Company agreed to issue to Robert Rosner,
+our Chief Executive Officer, 25,000 shares of Preferred stock,
+in consideration for the forgiveness of 5,000 of indebtedness
+of the Company to Mr. Rosner 0.20 per share). As of the date
+of this annual report, the shares have not been issued. The
+Company claims an exemption from registration of these
+securities pursuant to Section 4(2) of the Act.
+
+In April 2008, the Company entered into a private placement
+with an accredited investor of 80,000 for 1,600,000 units,
+each unit consisting of a share of common stock and one half of
+a warrant whereby each whole warrant entitles the holder to
+purchase a share of common stock of the Company. The warrants
+stock will expire on April 7, 2011 and are exercisable at 0.05
+per share. As of the date of this annual report, the shares
+have not been issued. The Company claims an exemption from
+registration of these securities pursuant to Section 4(2) of
+the Act.
+
+In May 2008, the Company entered into private placements with
+accredited investors of 100,000 for 1,111,112 common shares of
+the Company at 0.09 per share. As of the date of this annual
+report, the shares have not been issued. The Company claims an
+exemption from registration of these securities pursuant to
+Section 4(2) of the Act.
+
+In June 2008, the Company agreed to issue to Robert Rosner, our
+Chief Executive Officer, 1,000,000 units, each unit consisting
+of a share of common stock and a warrant to purchase a share of
+common stock, in consideration for the forgiveness of 60,000
+of indebtedness of the Company to Mr. Rosner 0.06 per unit).
+ The warrants stock will expire June 16, 2008 and exercisable
+at 0.06 per share. As of the date of this annual report, the
+shares have not been issued. The Company claims an exemption
+from registration of these securities pursuant to Section 4(2)
+of the Act.
+
+In July 8, 2008, the Company agreed to issue to Robert Rosner,
+our Chief Executive Officer, 1,000,000 units, each unit
+consisting of a share of common stock and a warrant to purchase
+a share of common stock, in consideration for the forgiveness
+of 50,000 of indebtedness of the Company to Mr. Rosner 0.05
+per unit). The warrants stock will expire July 7, 2011 and
+exercisable at 0.05 per share. As of the date of this annual
+report, the shares have not been issued. The Company claims an
+exemption from registration of these securities pursuant to
+Section 4(2) of the Act.
+
+23
+
+In January 9, 2009, the Company agreed to issue to Robert
+Rosner, our Chief Executive Officer, 8,000,000 units, each unit
+consisting of a share of common stock in consideration for the
+forgiveness of 40,000 of indebtedness of the Company to Mr.
+Rosner 0.005 per unit).
+
+On February 26, 2009, the Company have signed agreement with
+existing warrant options holders to cancel all existing warrant
+options available to the Company.
+
+Item 6. Selected Financial Data.
+
+The following selected financial data has been derived from our
+audited financial statements and should be read in conjunction
+with such financial statements included herein.
+
+For the year ended March 31,
+
+					2009 		2008
+Statement of operations data:
+
+Operating revenues 			174,540 	195,792
+Gross profit 				 24,816 	 55,921
+Gain (loss) from continuing operations (714,182) (2,091,482)
+Gain (loss) from continuing
+operations per share			(0.01)		(0.03)
+
+Balance sheet data:
+
+Total assets 				3,088,061 	3,305,466
+Long-term debt 				 -		 -
+
+Item 7. Management's Discussion and Analysis of Financial
+Condition and Results of Operations.
+
+The following discussion of our financial condition and results
+of operations should be read in conjunction with the financial
+statements and notes thereto and the other financial
+information included elsewhere in this report. Certain
+statements contained in this report, including, without
+limitation, statements containing the words "believes,"
+"anticipates," "expects" and words of similar import,
+constitute "forward looking statements" within the meaning of
+the Private Securities Litigation Reform Act of 1995. Such
+forward-looking statements involve known and unknown risks and
+uncertainties. Our actual results may differ materially from
+those anticipated in these forward-looking statements as a
+result of certain factors, including our ability to create,
+sustain, manage or forecast our growth; our ability to attract
+and retain key personnel; changes in our business strategy or
+development plans; competition; business disruptions; adverse
+publicity; and international, national and local general
+economic and market conditions.
+
+			24
+
+Overview
+
+Wataire is a Washington corporation incorporated on August 17,
+2000. Wataire is currently in the development stage and has
+completed its acquisition of all of the intellectual property
+relating a water treatment process and devices for water-from-
+air machines. The agreements previously executed between the
+Company and Ecosafe have been terminated and cancelled and
+forms part of the current agreement. To this end, the
+Company's future results of operation will be highly dependent
+upon the success of its efforts to sell and market its products
+and technologies. The Company plans to sell its products to
+distributors and also through multiple indirect channels, such
+as resellers. The marketing and sales of these products are
+highly dependent
+
+Results of Operations for the Years ended March 31, 2009
+
+The audited operating results and cash flows are presented for
+the year ended March 31, 2009 and March 31, 2008 and for the
+period of inception to March 31, 2009.
+
+Revenues. For the year ended March 31, 2009, we had total
+revenue of 174,540 compared to 195,792 for the year
+ended March 31, 2008.
+
+Operating Expenses. For the year ended March 31, 2009, we
+had total operating expenses of 714,182 as compared to
+ 2,147,403 for the year ended March 31, 2008. The decrease
+was predominately due to the stock based compensation of
+ 1,617,300.
+
+Management Fees. For the year ended March 31, 2009, we
+had management fees of 180,000 as compared to 137,360
+for the year ended March 31, 2008, an increased of 42,640
+in management fees.
+
+			25
+
+Professional Fees. For the year ended March 31, 2009, we
+had professional fees of 54,126 as compared to 81,482, a
+decrease of 27,356.
+
+Net Loss. The net loss for the year ended March 31, 2009
+was 714,182 as compared to 2,091,482 for the year ended
+March 31, 2008, a decrease of 1,373,300. The decrease was
+generally due to the stock based compensation of
+ 1,617,300.
+
+Plan of Operation
+
+We currently have minimal cash reserves and a significant
+working capital deficit. Accordingly, our ability to pursue
+our plan of operations is contingent on our being able to
+obtain funding for the development, marketing and
+commercialization of our products and services.
+Management plans, as soon as finances permit, to hire
+additional management and staff for its US-based operations
+especially in the areas of finance, sales, marketing, and
+investor/public relations. The Company may also choose to
+outsource some of its marketing requirements by utilizing a
+series of independent contractors based on the projected size
+of the market and the compensation necessary to retain
+qualified employees. The Company engaged a marketing firm to
+handle the Company's branding, marketing, advertising, media
+and public relations for the planned upcoming 2008 North
+American launch of its consumer product line of atmospheric
+water generators. The term of the engagement is for one year,
+and the Company has paid the marketing firm 250,000 and issued
+1,000,000 shares of common stock that has been registered on
+Form S-8 for their services. The marketing agreements expired
+and the Company has not commenced its branding and marketing
+efforts and therefore the shares were not released by the
+Company. The Company is currently re-negotiating the terms of
+its agreements with the marketing firm.
+
+To achieve our new operational plan, we will need to raise
+substantial additional capital for our operations through
+licensing fees and product sales, sale of equity securities
+and/or debt financing. We have no cash to fund our operations
+at this time, so we plan to sell licenses and products, offer
+common stock in private placements as well as seeking debt
+financing during the next 12 months to raise up to 8,000,000.
+ We believe the proceeds from such efforts will enable us to
+expand our operations, buy inventory and start our marketing
+campaign.
+
+26
+
+Due to the "start up" nature of the Company's business, the
+Company expects to incur losses as the Company conducts its
+ongoing research, product and systems development programs. We
+will require additional funding to continue our operations, for
+marketing expenses, to pursue regulatory approvals for our
+products, for any possible acquisitions or new technologies,
+and we may require additional funding to establish
+manufacturing capabilities in the future. We may seek to
+access the public or private equity markets whenever conditions
+are favorable. We may also seek additional funding through
+strategic alliances or collaborate with others. We cannot
+assure you that adequate funding will be available on terms
+acceptable to us, if at all. Because we are presently in the
+early stages of development and promotional stages of our
+business, we can provide no assurance that we will be
+successful with our efforts to establish any revenue. In order
+to pursue our existing operational plan, we are dependent upon
+the continuing sales and financial support of creditors and
+stockholders until such time when we are successful in raising
+debt/equity capital to finance the operations and capital
+requirements of the Company or until such time that we can
+generate sufficient revenue from our various divisions.
+
+Liquidity and Financial Resources
+
+The Company remains in the development stage since inception.
+ Operations were financed through proceeds from sales and the
+issuance of equity and loans from directors. The directors
+have also advanced funds into the Company to cover cash flow
+deficiencies . The advances have no stated repayment terms.
+ These funds were used to pay inventory, services, legal and
+accounting expenses along with several other miscellaneous
+operational infrastructure costs.
+
+The Company's financial statements are presented on a going
+concern basis, which contemplates the realization of assets and
+the satisfaction of liabilities in the normal course of
+business. At March 31, 2009, we have been unsuccessful in our
+efforts to raise additional capital to meet our plan of
+operations. Our cash position as of March 31, 2009 was 35.
+Since inception, we have recognized no significant revenue. We
+have accumulated operating losses of 10,299,365. At the
+present time, and over the next twelve months, our primary
+focus will be to develop our marketing plan, new initiatives
+and operational plan to establish sales and to explore various
+methods for raising additional funds.
+
+27
+
+Critical Accounting Policies
+
+The Company's discussion and analysis of its financial
+condition and results of operations are based upon the
+Company's financial statements, which have been prepared in
+accordance with accounting principles generally accepted in the
+United States of America. The preparation of the financial
+statements requires the Company to make estimates and judgments
+that affect the reported amount of assets, liabilities, and
+expenses, and related disclosures of contingent assets and
+liabilities. On an on-going basis, the Company evaluates its
+estimates, including those related to intangible assets, income
+taxes and contingencies and litigation. The Company bases its
+estimates on historical experience and on various assumptions
+that are believed to be reasonable under the circumstances, the
+results of which form the basis for making judgments about
+carrying values of assets and liabilities that are not readily
+apparent from other sources. Actual results may differ from
+these estimates under different assumptions or conditions.
+
+NEW ACCOUNTING PRONOUNCEMENTS
+
+In July 2001, the Financial Accounting Standards Board issued
+Statement of Financial Accounting Standards No. 141, Business
+Combinations, and Statement of Financial Accounting Standards
+No. 142, Goodwill and Other Intangible Assets. They also issued
+Statement of Financial Accounting Standards No. 143, Accounting
+for Obligations Associated with the Retirement of Long-Lived
+Assets, and Statement of Financial Accounting Standards No.
+144, Accounting for the Impairment or Disposal of Long-Lived
+Assets, in August and October 2001, respectively.
+
+SFAS 141 requires all business combinations initiated after
+June 30, 2001 to be accounted for under the purchase method.
+SFAS 141 supersedes APB Opinion No. 16, Business Combinations,
+and Statement of Financial Accounting Standards No. 38,
+Accounting for Pre-acquisition Contingencies of Purchased
+Enterprises, and is effective for all business combinations
+initiated after June 30, 2001.
+
+28
+
+SFAS No. 142 addresses the financial accounting and reporting
+for acquired goodwill and other intangible assets. Under the
+new rules, the Company is no longer required to amortize
+goodwill and other intangible assets with indefinite lives, but
+will be subject to periodic testing for impairment. SFAS 142
+supersedes APB Opinion No. 17, Intangible Assets. The Company's
+operational policy for the assessment and measurement of any
+impairment in the value of goodwill and intangible assets,
+which primarily relates to contract-based intangibles such as
+license agreements and extensions, is to evaluate annually, the
+recoverability and remaining life of its intangible assets to
+determine the fair value of these assets. The methodologies to
+be used to estimate fair value include the use of estimates and
+assumptions, including projected revenues, earnings and cash
+flows. If the fair value of any of these assets is determined
+to be less than its carrying value, the Company will reflect
+the impairment of any such asset over its appraised value.
+
+SFAS No. 143 establishes accounting standards for the
+recognition and measurement of an asset retirement obligation
+and its associated asset retirement cost. It also provides
+accounting guidance for legal obligations associated with the
+retirement of tangible long-lived assets. SFAS 143 is effective
+in fiscal years beginning after June 15, 2002, with early
+adoption permitted. The adoption of SFAS No. 143 is not
+expected to have a material impact on the Company's financial
+statements.
+
+SFAS 144 establishes a single accounting model for the
+impairment or disposal of long-lived assets, including
+discontinued operations. SFAS 144 superseded Statement of
+Financial Accounting Standards No. 121, Accounting for the
+Impairment of Long-Lived Assets and for Long-Lived Assets to Be
+Disposed Of (SFAS 121), and APB Opinion No. 30, Reporting the
+Results of Operations--Reporting the Effects of Disposal of a
+Segment of a Business, and Extraordinary, Unusual and
+Infrequently Occurring Events and Transactions. The provisions
+of SFAS 144 are effective in fiscal years beginning after
+December 15, 2001, with early adoption permitted, and in
+general are to be applied prospectively. The Company records
+impairment losses on long lived assets used in operations when
+indicators of impairment are present and the undiscounted cash
+flows estimated to be generated by those assets are less than
+the asset's carrying amount. In such cases, the amount of the
+impairment is determined on the relative values of the impaired
+assets.
+
+			29
+
+Financial Accounting Standards Board Interpretation No. 46,
+Consolidation of Variable Interest Entities, an interpretation
+of Accounting Research Bulletin No. 51, Financial Statements,
+addresses consolidation by business enterprises of variable
+interest entities. It is effective immediately for variable
+interest entities created after January 31, 2003. It applies in
+the first fiscal year or interim period beginning after June
+15, 2003, to variable interest entities acquired before
+February 1, 2003. The implementation of Interpretation No. 46
+did not have a material effect on the Company's financial
+statements.
+
+SFAS No. 149, Amendment of Statement 133 on Derivative
+Instruments and Hedging Activities, amends and clarifies
+accounting for derivative instruments under SFAS No. 133. It is
+effective for contracts entered into after June 30, 2003. The
+impact of adoption of this statement is not expected to be
+significant.
+
+SFAS No. 150, Accounting for Certain Financial Instruments with
+Characteristics of both Liabilities and Equity, establishes
+standards for how an issuer classifies and measures certain
+financial instruments with characteristics of both liability
+and equity. It requires that an issuer classify a financial
+instrument that is within its scope as a liability (or an asset
+in some circumstances). This statement is effective for
+financial instruments entered into or modified after May 31,
+2003, and otherwise is effective at the beginning of the first
+interim period beginning after June 15, 2003. The impact of
+adoption of this statement is not expected to be significant.
+
+In December 2004, the FASB issued SFAS 153, Exchanges of Non-
+monetary Assets, an amendment of APB No. 29, Accounting for
+Non-monetary Transactions. SFAS 153 requires exchanges of
+productive assets to be accounted for at fair value, rather
+than at carryover basis, unless (1) neither the asset received
+nor the asset surrendered has a fair value that is determinable
+within reasonable limits or (2) the transactions lack
+commercial substance. SFAS 153 is effective for non-monetary
+asset exchanges occurring in fiscal periods beginning after
+June 15, 2005. The Company does not expect the adoption of this
+standard to have a material effect on its financial position,
+results of operations or cash flows.
+
+In December 2004, the FASB issued Statement 123 (revised 2004)
+which is a revision of FASB Statement No. 123, Accounting for
+Stock-Based Compensation. This Statement supersedes APB
+Opinion No. 25, Accounting for Stock Issued to Employees, and
+its related implementation guidance. This Statement establishes
+standards for the accounting for transactions in which an
+entity exchanges its equity instruments for goods or services.
+It also addresses transactions in which an entity incurs
+liabilities in exchange for goods or services that are based on
+the fair value of the entity's equity instruments or that may
+be settled by the issuance of those equity instruments. This
+Statement focuses primarily on accounting for transactions in
+which an entity obtains services in share-based payment
+transactions. This Statement requires a public entity to
+measure the cost of services received in exchange for an award
+of equity instruments based on the grant-date fair value of the
+award (with limited exceptions). That cost will be recognized
+over the period during which an employee is required to provide
+service in exchange for the award the requisite service period
+(usually the vesting period).
+
+30
+
+Item 7A. Quantitative and Qualitative Disclosures About Market
+Risk.
+
+We are primarily exposed to foreign currency risk, interest
+rate risk and credit risk.
+
+Foreign Currency Risk - We import products from foreign
+countries into the United States and market our products in
+North America. As a result, our financial results could be
+affected by factors such as changes in foreign currency
+exchange rates or, if we initiate our planned international
+operations, weak economic conditions in foreign markets.
+Because our revenues are currently denominated in U.S. dollars,
+a strengthening of the dollar could make our products less
+competitive in foreign markets that we plan to enter. We have
+not hedged foreign currency exposures related to transactions
+denominated in currencies other than U.S. dollars. We do not
+engage in financial transactions for trading or speculative
+purposes.
+
+Interest Rate Risk - Interest rate risk refers to fluctuations
+in the value of a security resulting from changes in the
+general level of interest rates. Investments that are
+classified as cash and cash equivalents have original
+maturities of three months or less. Our interest income is
+sensitive to changes in the general level of U.S. interest
+rates. We do not have significant short-term investments, and
+due to the short-term nature of our investments, we believe
+that there is not a material risk exposure.
+
+31
+
+Credit Risk - Our accounts receivables are subject, in the
+normal course of business, to collection risks. We regularly
+assess these risks and have established policies and business
+practices to protect against the adverse effects of collection
+risks. As a result we do not anticipate any material losses in
+this area.
+
+Item 8. Financial Statements and Supplementary Data.
+
+The financial statements and supplementary data are located at
+the end of this report.
+
+Item 9. Changes in and Disagreements with Accountants on
+Accounting and Financial Disclosure.
+
+ Not applicable
+
+Item 9A (T). Controls and Procedures.
+
+As supervised by our board of directors and our principal
+executive and principal financial officers, management has
+established a system of disclosure controls and procedures and
+has evaluated the effectiveness of that system. The system and
+its evaluation are reported on in the below Management's Annual
+Report on Internal Control over Financial Reporting. Our
+principal executive and financial officer has concluded that
+our disclosure controls and procedures (as defined in the 1934
+Securities Exchange Act Rule 13a-15(e)) as of March 31, 2009,
+are effective, based on the evaluation of these controls and
+procedures required by paragraph (b) of Rule 13a-15.
+
+Management's Annual Report on Internal Control over Financial
+Reporting
+
+Management is responsible for establishing and maintaining
+adequate internal control over financial reporting, as such
+term is defined in Rule 13a-15(f) of the Securities Exchange
+Act of 1934 (the "Exchange Act"). Internal control over
+financial reporting is a process designed to provide reasonable
+assurance regarding the reliability of financial reporting and
+the preparation of financial statements for external purposes
+in accordance with U.S. generally accepted accounting
+principles.
+
+			32
+
+Management assessed the effectiveness of internal control over
+financial reporting as of March 31, 2009. We carried out this
+assessment using the criteria of the Committee of Sponsoring
+Organizations of the Treadway Commission (COSO) in Internal
+Control-Integrated Framework.
+
+This annual report does not include an attestation report of
+our registered public accounting firm regarding internal
+control over financial reporting. Management's report was not
+subject to attestation by our registered public accounting
+firm, pursuant to temporary rules of the Securities and
+Exchange Commission that permit us to provide only management's
+report in this annual report. Management concluded in this
+assessment that as of March 31, 2009, our internal control over
+financial reporting is effective.
+
+There have been no significant changes in our internal control
+over financial reporting (as defined in Rules 13a-15(f) and
+15d-15(f) under the Exchange Act) during the fourth quarter of
+our 2009 fiscal year that have materially affected, or are
+reasonably likely to materially affect, our internal control
+over financial reporting.
+
+Item 9B. Other Information.
+
+None.
+
+PART III
+
+Item 10. Directors, Executive Officers, Promoters, Control
+Persons and Corporate Governance.
+
+			33
+
+Directors and Executive Officers
+
+The following sets forth-certain information with respect to
+the directors and executive officers of Wataire:
+
+Name 			Age		Position
+ 				 		Office Held
+
+Robert Rosner (1) 		44 		CEO, Secretary,
+						Director, Chairman of
+						the Board
+
+Thomas M. Braid (2) 		47 		Treasurer, CFO,
+						Director
+
+Notes:
+(1)
+ Mr. Rosner was appointed a Director and Corporate
+Secretary on August , 2003; he resigned as Corporate Secretary
+on August 19, 2005 and was appointed Chief Executive Officer,
+Chairman of the Board and President. Mr. Rosner was appointed
+Corporate Secretary on March 13, 2007 and resigned as President
+on April 23, 2007.
+(2)
+ Mr. Jordan was appointed a Director, Corporate Secretary,
+Treasurer and Chief Financial Officer on August 19, 2005; he
+resigned as Corporate Secretary on September 27, 2006.
+
+On January 16, 2008, the Company accepted the resignation of
+Terrence Nylander as officer and director.
+
+On March 13, 2007, the Company accepted the resignations of Max
+Weissengruber and Nand Shankar.
+
+On September 27, 2006, Nand Shankar was elected as Director and
+Corporate Secretary.
+
+On July 27, 2006, Max Weissengruber, Mark Miziolek and Ron
+Moodie were elected as Directors of the Company pursuant to the
+license agreement with Wataire Industries Inc. On December 20,
+2006, the Board of Directors received and accepted the
+resignation of Mark Miziolek. On January 5, 2007, the Board of
+Directors received and accepted the resignation of Ron Moodie.
+
+As at September 27, 2006, Nand Shankar was elected as Director
+pursuant to the license agreement with Wataire Industries Inc.
+ Mr. Shankar was then elected as Corporate Secretary on
+September 27, 2006 when Richard Jordan resigned as Secretary.
+
+			34
+
+On August 19, 2005, Donald Walker resigned as officer and
+director of the Company. Mr. Rosner replaced Mr. Walker as
+President, Chief Executive Officer and Chairman of the Board,
+and Mr. Jordan filled the vacant director position and was
+appointed Corporate Secretary, Treasurer and Chief Financial
+Officer of the Company.
+
+On June 12, 2009, Mr. Richard Jordan resigned as Director,
+Chief Financial Officer and Treasurer of the Company. The
+Board of Directors have appointed Mr. Thomas M Braid as
+Director, Chief Financial Officer and Treasurer of the
+Company on June 12, 2009.
+
+Set forth below is a brief description of the background and
+business experience of each of our executive officers and
+directors for the past five years.
+
+Mr. Robert Rosner - President, Chief Executive Officer,
+Director and Chairman of the Board
+
+Mr. Rosner has served as the Company's Chairman and Chief
+Executive Officer since August 2005. He was the Vice President
+of Regulatory Affairs and Compliance and Corporate Secretary
+from August 2003 until August 2005. He was President from
+August 2005 to April 2007. Mr. Rosner was appointed Corporate
+Secretary in March 2007. He has been a member of the Company's
+board of directors since August 2003. Mr. Rosner was the
+president and director of Fortuna Silver Mines Inc., a company
+listed on the Canadian Venture Exchange, from June 1996 to
+January 2005.
+
+Mr. Thomas M Braid - Treasurer, Chief Financial Officer and
+Director
+
+Mr. Braid was appointed as Director, Chief Financial Officer
+and Treasurer on June 12, 2009. Mr. Braid had over 30 years
+of experience in the newspaper industry. He is a widely
+respected and multi-award winning photojournalist, photo
+department manager, college instructor, workshop leader and
+community volunteer. In October of 2002, Thomas was awarded
+the Queen's Golden Jubilee Medal by the Governor General of
+Canada and the Canadian Government. In 2007, Thomas was
+awarded the Edmonton Sun's highest award by being honored
+with the Douglas Creighton Award.
+
+35
+
+TERM OF OFFICE
+
+Our directors are elected for a one-year term to hold office
+until the next annual general meeting of our shareholders
+ or until removed from office in accordance with our bylaws.
+ Our officers are appointed by our board of directors and
+ hold office until removed by the board.
+
+ADVISORY BOARD MEMBERS
+
+The Company's advisory board members were appointed by the
+Board of Directors to help oversee and provide support relating
+to the Company's business affairs. The advisory board members
+meet in person or via telephone conferencing with the Board of
+Directors.
+
+In May 2007, the Company initiated its Advisory Board
+consisting of Professor James Marsden, PhD and Mr. Brian Baker,
+BA. Mr. Brian Baker passed away recently. Dr. James Marsden, a
+distinguished scientist and food safety and security expert, is
+the Company's Chairman of the Scientific Advisory Board. Dr.
+Marsden currently serves as Regent's Distinguished Professor
+and Associate Director of the Biosecurity Institute at Kansas
+State University ("KSU"). KSU has placed a major emphasis on
+food safety and security. The research and educational
+activities at KSU address issues that directly impact human
+health, agricultural security and the economy. The university
+is the site of the Biosecurity Research Institute and the
+National Agricultural Biosecurity Center. Dr. Marsden will
+advise us on issues relating to the production of water for
+consumer products; products sized for large commercial
+applications; government and military systems; remote systems
+designed to produce drinking water and sanitation in developing
+countries.
+
+			36
+
+Committees
+
+We do not have an audit committee, although we intend to
+establish such a committee, with an independent "audit
+committee financial expert" member as defined in the rules of
+the SEC.
+
+Corporate Code of Conduct
+
+We are reviewing a proposed corporate code of conduct, which
+would provide for internal procedures concerning the reporting
+and disclosure of corporate matters that are material to our
+business and to our stockholders. The corporate code of conduct
+ would include a code of ethics for our officers and
+ employees as to workplace conduct, dealings with customers,
+ compliance with laws, improper payments, conflicts of
+ interest, insider trading, company confidential
+information, and behavior with honesty and integrity.
+
+Section 16(A) Beneficial Ownership Reporting Compliance
+- -------------------------------------------------------
+
+Section 16(a) of the Securities Act of 1934 requires the
+Company's officers and directors, and greater than 10 
+stockholders, to file reports of ownership and changes in
+ownership of its securities with the SEC. Copies of the
+reports are required by SEC regulation to be furnished to the
+Company.
+
+Based solely upon a review of the Forms 3, 4, and 5 furnished
+to us for the fiscal year ended March 31, 2009, we have
+determined that our directors, officers, and greater than 10 
+beneficial owners complied with all applicable Section 16
+filing requirements.
+
+Item 11. Executive Compensation.
+
+The following table sets forth information for the years ended
+March 31, 2009, 2008 and 2007 concerning the compensation paid
+or awarded to the Chief Executive Officer and President of
+PPMC.
+
+			37
+
+FILL IN FOR LAST THREE FISCAL YEARS
+
+SUMMARY COMPENSATION TABLE
+
+EXECUTIVE COMPENSATION POLICIES
+
+Other	Restricted Securities		All
+Name and 			annual stock underlying	LTIP	other
+principal Year	Salary	Bonus	compen- awards Options/	payouts	compen-
+position			sation	 	 SARs		sation
+
+		 ) ) ) )	 (#) ) )
+
+ (a)	 (b) (c) (d) (e) (f) (g) (h) (i)
+
+Robert 	 2009 180,000 nil	 nil	 nil nil	 nil	 nil
+Rosner	 2008 75,000
+	 2007 120,000				 3,500,000
+CEO,
+Secretary
+& Director
+
+Richard 2009 nil nil nil nil nil nil nil
+Jordan 2008 nil 200,000
+	 2007 nil
+Treasurer,
+CFO &
+Director
+
+Terrence 2008 nil nil nil nil nil nil nil
+Nylander 2007 2,360 250,000
+
+Former
+President
+&
+Former
+Director
+
+Nand 2007 4,275 nil nil nil nil nil nil
+Shankar
+
+Former
+Secretary
+& Former
+Director
+2007
+
+38
+
+The Company anticipates entering into an employment contract
+with Robert Rosner, our Chief Executive Officer, but can
+provide no assurance that we will come to terms for such
+employment agreement.
+Item 12. Security Ownership of Certain Beneficial Owners and
+Management and Related Stockholder Matters.
+
+The following table sets forth certain information
+regarding the beneficial ownership of the Company's common
+stock as of June 30, 2009, by (a) each person known by the
+Company to own beneficially more than 5 of the Company's
+common stock, (b) each director of the Company who beneficially
+owns common stock, and (c) all officers and directors of the
+Company as a group. Each named beneficial owner has sole voting
+and investment power with respect to the shares owned.
+
+As of June 30, 2009, there were 91,110,123 shares of common
+stock outstanding.
+
+Name and Address 		Amount and
+of Beneficial 	 Position	nature of	 of
+Owner 				beneficial	Common Stock
+				ownership
+
+Robert Rosner	CEO,
+21550 Oxnard	Secretary	21,498,328	23.60 
+Street, 	Director	shares
+Suite 300			(2)
+Woodland Hills
+CA 91367
+
+Wataire 	Shareholder	13,400,000	14.71 
+Ecosafe				shares
+Technologies			930
+Inc.
+3033 King
+George Hwy
+Suite 24,
+Surrey, BC
+Canada
+
+All Directors 			21,498,328	23.60 
+and Officers
+as a group (1
+person)
+
+Beneficial ownership of common stock has been determined for
+purposes of the above table in accordance with Rule 13d-3 under
+the Exchange Act, under which a person is deemed to be the
+beneficial owner of securities if such person has or shares
+voting power or investment power with respect to such
+securities, has the right to acquire beneficial ownership
+within 60 days or acquires such securities with the purpose or
+effect of changing or influencing the control of the Company..
+A person is deemed to be the beneficial owner of securities
+that can be acquired by such person within 60 days from the
+date of this information statement upon the exercise of
+warrants or options. Each beneficial owner's percentage
+ownership is determined by assuming that options and warrants
+that are held by such person (but not those held by any other
+person) and that are exercisable within 60 days from the date
+of this Annual Report have been exercised. For purposes of
+calculating beneficial ownership, assumes 91,110,123 shares of
+common stock of the Company as issued and outstanding as of the
+date of this Annual Report. The amount issued is 91,110,123
+common shares.
+
+			39
+
+Voting and dispositive power over the shares held of
+record by Ecosafe Innotech Inc., (formerly, Wataire Ecosafe
+Technologies Inc., formerly Wataire Industries Inc.) is
+exercised by its board of directors.
+
+Item 13. Certain Relationships and Related Transactions, and
+Director Independence.
+
+In January 2007, the Company agreed to issue to Robert Rosner,
+our Chief Executive Officer, up to 200,000 units, each unit
+consisting of a share of common stock and a warrant to purchase
+a share of common stock, in consideration for the forgiveness
+of up to 150,000 of indebtedness of the Company to Mr. Rosner .75 per unit). The warrants stock expire December 31, 2008
+and are exercisable at .85 per share if the warrant is
+exercised on or before June 30, 2007, at 1.00 if the warrant
+is exercised on or before December 31, 2007, and at 1.15 if
+the warrant is exercised on or before December 31, 2008.
+195,334 units were issued to Mr. Rosner.
+
+In October 2007, the Company agreed to issue to Robert Rosner,
+our Chief Executive Officer, 696,494 units, each unit
+consisting of a share of common stock and a warrant to purchase
+a share of common stock, in consideration for the forgiveness
+of up to 118,404 of indebtedness of the Company to Mr. Rosner .17 per unit). The warrants stock will expire on September
+30, 2010 and are exercisable at 0.17 per share.
+
+40
+
+In March 2008, the Company agreed to issue to Robert Rosner,
+our Chief Executive Officer, 4,400,000 units, each unit
+consisting of a share of common stock and one half of a warrant
+whereby each whole warrant entitles the holder to purchase a
+share of common stock, in consideration for the forgiveness of
+ 220,000 of indebtedness of the Company to Mr. Rosner 0.05
+per unit). The warrants stock will expire on March 18, 2011
+and are exercisable at 0.05 per share. As of the date of this
+annual report, the shares have not been issued.
+
+In March 2008, the Company agreed to issue to Robert Rosner,
+our Chief Executive Officer, 25,000 shares of Preferred stock,
+in consideration for the forgiveness of 5,000 of indebtedness
+of the Company to Mr. Rosner 0.20 per share). As of the date
+of this annual report, the shares have not been issued.
+
+In June 2008, the Company agreed to issue to Robert Rosner, our
+Chief Executive Officer, 1,000,000 units, each unit consisting
+of a share of common stock and a warrant to purchase a share of
+common stock, in consideration for the forgiveness of 60,000
+of indebtedness of the Company to Mr. Rosner 0.06 per unit).
+ The warrants stock will expire June 16, 2011 and exercisable
+at 0.06 per share. As of the date of this annual report, the
+shares have not been issued.
+
+In July 2008, the Company agreed to issue to Robert Rosner, our
+Chief Executive Officer, 1,000,000 units, each unit consisting
+of a share of common stock and a warrant to purchase a share of
+common stock, in consideration for the forgiveness of 50,000
+of indebtedness of the Company to Mr. Rosner 0.05 per unit).
+ The warrants stock will expire July 7, 2011 and exercisable at
+ 0.05 per share. As of the date of this annual report, the
+shares have not been issued.
+
+In January 9, 2009, the Company agreed to issue to Robert
+Rosner, our Chief Executive Officer, 8,000,000 common shares at
+ 0.005 per share, in consideration for the forgiveness of
+ 40,000 of indebtedness of the Company to Mr. Rosner.
+
+In February 26, 2009, the Company have signed agreement with
+existing warrant options holders to cancel all existing warrant
+options available to the Company.
+Our management is involved in other business activities and
+may, in the future become involved in other business
+opportunities. If a specific business opportunity becomes
+available, such persons may face a conflict in selecting
+between our business and their other business interests. In the
+event that a conflict of interest arises at a meeting of our
+directors, a director who has such a conflict will disclose his
+interest in a proposed transaction and will abstain from voting
+for or against the approval of such transaction.
+
+			41
+
+Item 14. Principal Accountant Fees and Services.
+
+Audit Fees . Audit fees expected to be billed to us by
+ for the audit of financial statements included in our Annual
+Reports on Form 10-K for the years ended March 31, 2009 and
+2008 are approximately 20,000 and 20,000, respectively. These
+fees include auditing fees and review of quarterly financial
+statements for the fiscal years ended March 31, 2009 and 2008
+respectively.
+
+ Tax Fees . We have been billed an aggregate of Nil for
+the fiscal years ended March 31, 2009 and March 31, 2008,
+respectively, for tax services.
+
+ All Other Fees . We have been billed an aggregate of Nil
+for the fiscal years ended March 31, 2009 and 2008
+respectively, for permitted non-audit services.
+
+ Other Matters . N.A.
+
+ To our knowledge, there have been no persons, other than
+Gruber & Company's full time, permanent employees who have
+worked on the audit or review of our financial statements.
+
+42
+
+Item 15. Exhibits and Financial Statement Schedules.
+
+(3) Exhibits.
+
+Exhibit
+ Number
+Description of Exhibit
+- --------- -------------------------------------------------
+ 3.3 Amendment of Articles of Incorporation (1)
+ 10.1
+License Agreement between the Company and Wataire Industries
+Inc. dated July 10, 2006 (2)
+ 10.2
+License Agreement between the Company and Wataire industries
+Inc. dated September 12, 2006 (5)
+ 10.3
+Amended License Agreement between the Company and Wataire
+Industries Inc. dated October 19, 2006 (6)
+ 10.4
+Amended License Agreement between the Company and Wataire
+Industries Inc. dated October 19, 2006 (6)
+ 10.5
+2006 Stock Option Plan (9)
+ 10.6
+Form of Stock Option Agreement at 0.50 (9)
+ 10.7
+ Form of Stock Option Agreement at 0.62 (10)
+ 10.8
+Amended 2006 Stock Option Plan (8)
+ 10.9
+Consulting Agreement between Cucoloris Films Inc. and the
+Company dated December 11, 2006 (7)
+10.10
+Consulting Agreement between Cucoloris Films Inc. and the
+Company dated December 11, 2006 (7)
+10.12
+Warrant issued to P204 Enterprises Ltd. on October 17, 2006
+(11)
+10.13 License Agreement between Airborn Water Company and the
+Company dated January 25, 2007 (12)
+10.14 IP Transfer Agreement between the Company, Wataire Industries
+Inc., Canadian Dew
+ Technologies Inc., Terrence Nylander and Roland Wahlgren (13)
+10.15
+Form of Stock Option Agreement at 0.57 (14)
+
+43
+
+10.16
+Form of Stock Option Agreement at 0.65 (15)
+10.17 Compensation Agreement between Cucoloris Films Inc. and the
+Company dated May 23, 2007
+10.18
+Amendment to Agreement between Airborn Water Company and the
+Company dated June 20, 2007 (17)
+
+10.19 Agreement between Access Energy Technologies and the Company
+dated June 14, 2007
+10.20
+Amendment to Agreement between Access Technologies and the
+Company dated June 20, 2007 (16)
+10.21
+Amendment to Agreement between Aquaduct and the Company dated
+June 20, 2007 (17)
+10.22 Exclusive Marketing Agency Agreement, dated June 13, 2007,
+between the Company and Access Energy Technologies Ltd. (16)
+
+31.1 Certification of the Chief Executive Officer pursuant to
+Section 302 of the
+ Sarbanes-Oxley Act of 2002, filed herewith.
+
+31.2 Certification of the Chief Financial Officer pursuant to
+Section 302 of the
+ Sarbanes-Oxley Act of 2002, filed herewith.
+
+32.1 Certification of the Chief Executive Officer pursuant to
+Section 906 of the
+ Sarbanes-Oxley Act of 2002, filed herewith.
+
+32.1 Certification of the Chief Financial Officer pursuant to
+Section 906 of the
+ Sarbanes-Oxley Act of 2002, filed herewith.
+
+99.1 License Agreement between the Company and On4
+Communications Inc., formerly
+ Petsmobility Network (Canada) Inc. (4)
+99.2 Asset Purchase Agreement between the Company, Petsmobility
+Inc. and On4
+ Communications, Inc. (3)
+99.3 Rescission Agreement between the Company and On4
+Communications, Inc. (3)
+99.4 Articles of Correction (3)
+Notes:
+
+			44
+
+(1)
+ Previously filed with the Securities and Exchange
+Commission as an exhibit to the Form 8-K dated June 14, 2004
+and October 17, 2006.
+(2)
+ Previously filed with the Securities and Exchange
+Commission as an exhibit to the Form 8-K dated July 14, 2006.
+(3)
+ Previously filed with the Securities and Exchange
+Commission as an exhibit to the Form 8-K dated February 6,
+2006.
+(4)
+ Previously filed with the Securities and Exchange
+Commission as an exhibit to the Form 8-K dated June 17, 2005.
+(5)
+Previously filed with the Securities and Exchange Commission as
+an exhibit to the Form 8-K dated September 15, 2006
+(6)
+Previously filed with the Securities and Exchange Commission as
+an exhibit to the Form 8-K dated October 23, 2006.
+(7)
+Previously filed with the Securities and Exchange Commission as
+an exhibit to the Form 8-K dated December 15, 2006.
+(8)
+ Filed with this report.
+(9)
+Previously filed with the Securities and Exchange Commission as
+an exhibit to the Form 8-K dated October 10, 2006.
+
+(10)
+Previously filed with the Securities and Exchange Commission as
+an exhibit to the Form 8-K dated November 13, 2006.
+(11)
+Previously filed with the Securities and Exchange Commission as
+an exhibit to the Form 8-K dated October 20, 2006.
+
+(12)
+Previously filed with the Securities and Exchange Commission as
+an exhibit to the Form 8-K dated January 31, 2007
+(13) Previously filed with the Securities and Exchange
+Commission as an exhibit to the Form 8-K dated April 30, 2007.
+(14)
+Previously filed with the Securities and Exchange Commission as
+an exhibit to the Form 8-K dated April 10, 2007.
+
+45
+
+(15)
+Previously filed with the Securities and Exchange Commission as
+an exhibit to the Form 8-K dated May 9, 2007.
+(16)
+Previously filed with the Securities and Exchange Commission as
+an exhibit to the Form 8-K dated June 18, 2007.
+(17)
+Previously filed with the Securities and Exchange Commission as
+an exhibit to the Form 8-K dated June 20, 2007.
+
+(18)
+Previously filed with the Securities and Exchange Commission as
+an exhibit to the Form 8-K dated October 10, 2007.
+
+(19)
+Previously filed with the Securities and Exchange Commission as
+an exhibit to the Form 8-K dated December 11, 2007.
+
+(20)
+Previously filed with the Securities and Exchange Commission as
+an exhibit to the Form 8-K dated January 23, 2008.
+
+(21)
+Previously filed with the Securities and Exchange Commission as
+an exhibit to the Form 8-K dated January 23, 2008.
+
+(22)
+Previously filed with the Securities and Exchange Commission as
+an exhibit to the Form 8-K dated March 26, 2008.
+
+(23)
+Previously filed with the Securities and Exchange Commission as
+an exhibit to the Form 8-K dated April 1, 2008.
+
+(24)
+Previously filed with the Securities and Exchange Commission as
+an exhibit to the Form 8-K dated June 20, 2008.
+
+(25)
+Previously filed with the Securities and Exchange Commission as
+an exhibit to the Form 8-K dated January 15, 2009.
+
+(26)
+Previously filed with the Securities and Exchange Commission as
+an exhibit to the Form 8-K dated June 18, 2009.
+
+			46
+
+SIGNATURES
+
+In accordance with the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on
+behalf of the registrant and in the capacities and on the dates
+indicated.
+
+Dated: July 23, 2009
+
+WATAIRE INTERNATIONAL, INC.
+
+By:_ /s/ Robert Rosner
+Robert Rosner
+Chief Executive Officer,
+Director
+
+July 23, 2009
+
+By: /S/ Thomas M. Braid
+Thomas M. Braid
+Chief Financial Officer,
+Director
+
+47
+
+Item 8 Financial Statements.
+
+WATAIRE INTERNATIONAL, INC.
+(A Development Stage Company)
+CONSOLIDATED FINANCIAL STATEMENTS
+March 31, 2009
+(Stated in US Dollars)
+
+48
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+THE BOARD OF WATAIRE INTERNATIONAL, INC.
+
+We have audited the accompanying consolidated balance sheets of
+Wataire International, Inc. (a Developmental Stage Company) as
+of March 31, 2009 and 2008, and the related statement of operations,
+stockholders equity and cash flows for the periods then ended.
+These financial statements are the responsibility of the Company's
+management. Our responsibility is to express an opinion on these
+financial statements based on our audit.
+
+We conducted our audit in accordance with the standards of the
+Public Company Accounting Oversight Board (United States). Those
+standards require that we plan and perform our audit to obtain
+reasonable assurance about whether the financial statements are
+free of material misstatement. The Company is not required to have,
+nor were we engaged to perform, an audit of its internal control
+over financial reporting. Our audit included consideration of
+internal control over financial reporting as a basis for designing
+audit procedures that are appropriate in the circumstances, but not
+for the purpose of expressing an opinion on the effectiveness of the
+Company's internal control over financial reporting. Accordingly,
+we express no such opinion. An audit includes examining on a test
+basis, evidence supporting the amounts and disclosures in the
+financial statements. An audit also includes assessing the
+accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement
+presentation. We believe that our audit provides a reasonable basis
+for our opinion.
+
+In our opinion, the consolidated financial statements referred to
+above present fairly, in all material respects, the financial position
+of Wataire International, Inc. (a Developmental Stage Company) as of
+March 31, 2009 and 2008, the results of its operations and its
+stockholders equity and cash flows for the periods then ended in
+conformity with accounting principles generally accepted in the
+United States of America.
+
+The accompanying consolidated financial statements have been prepared
+assuming that the Company will continue as a going concern. The
+Company's viability is dependent upon its ability to obtain future
+financing and the success of its future operations. These factors
+raise substantial doubt as to the Company's ability to continue as
+a going concern. Management's plan in regard to these matters is
+described in Note 1. The financial statements do not include any
+adjustments that might result from the outcome of this uncertainty.
+
+Gruber & Company, LLC Saint Louis, Missouri
+
+July 22, 2009
+
+49
+
+WATAIRE INTERNATIONAL, INC.
+(Formerly Cimbix Corporation)
+(A Development Stage Company)
+CONSOLIDATED BALANCE SHEETS
+as at March 31, 2009 and 2008
+(Stated in US Dollars)
+(Audited)
+
+March 31	March 31
+						 2009		 2008
+
+Assets
+ Current Assets
+ Cash						 35	 -
+ Accounts receivable				 - 	 2,800
+ Prepaid expenses & retainer			 9,766	 2,280
+ Advance on marketing agreeents		 250,000	 250,000
+ Advance on inventory				 - 	 174,635
+ Inventory				 	 250,456	 308,328
+						---------	---------
+Total Current Assets				 510,257	 738,043
+ Capital assets, net				 308	 615
+ Patents, Trademarks				 31,434	 20,746
+ Acquisitions of intangibles			2,546,062	2,546,062
+						---------	---------
+Total Assets					3,088,061	3,305,466
+						---------	---------
+
+Liabilities
+ Current Liabilities
+ Accounts payable				 353,854	 219,719
+ Bank indebtedness				 - 	 5,885
+ Shareholder loan and interest			 106,589	 101,589
+ Due to related parties			 1,280	 2,280
+ Deferred reveneu				 189,067	 154,540
+						---------	---------
+Total Liabilities				 650,790	 484,013
+
+Stockholders' Equity
+ Capital stock
+ Authorized:
+ 100,000,000 common shares with a par
+ value of 0.0001
+ 20,000,000 preferred shares with a par
+ value of 0.0001,
+ redeemable at 0.005
+ Issued and outstanding:
+ 87,110,123 common shares
+ (March 31, 2008: 74,399,011)			 8,711	 7,440
+ 27,501 preferred shares
+ (March 31, 2008: 27,501)			 3 3
+ Additional paid-in capital 		 12,880,264 12,551,535
+ Deficit accumulated during the
+ development stage			 (10,451,707) (9,737,525)
+ 					 ----------	---------
+ Total Equity				 2,437,271	2,821,453
+					 ----------	---------
+Total Liabilities and Stockholders' Equity 3,088,061 3,305,466
+					 ----------	---------
+
+The accompanying notes are an integral part of the financial statements
+
+50
+
+WATAIRE INTERNATIONAL, INC.
+(Formerly Cimbix Corporation)
+(A Development Stage Company)
+CONSOLIDATED STATEMENTS OF OPERATIONS
+for the years ended March 31, 2009 and 2008 and
+for the period August 17, 2000 (Inception) to March 31, 2009
+(Stated in US Dollars)
+(Audited)
+
+									August 17
+									 2000
+					 Year ended			(inception)
+					 March 31			to March 31,
+					 2009		2008	 	 2009
+
+Sales					174,540		195,792		488,102
+Cost of sales			 (149,724) (139,871) (376,292)
+
+Gross margin			 	 24,816		 55,921		111,810
+Other income				 - - 		 9,500
+					-------		-------		-------
+					 24,816		 55,921		121,310
+
+Expenses
+ Advances written off			149,542 	 -		234,542
+ Amortization				 307		 19,975		 70,743
+ Bad debt written off			 2,800		 -		 2,800
+ Consulting fees			119,005		 37,436		430,370
+ Donated services			 - - 		 11,250
+ Foreign exchange (gain)/loss		 21,399		(49,118)	(42,356)
+ General and administrative		 54,979		 81,438		236,435
+ Incorporation costs			 - -		 2,005
+ Management fees			180,000		137,360		646,883
+ Marketing and promotion		 30,692		 55,211		164,601
+ Professional fees			 54,126		 81,482		363,855
+ Research & Development			105,000		 97,143		202,143
+ Rent					 11,341		 29,906		 49,009
+ Settlement of accounts payable		 - -		 (3,250)
+ Stock-based compensation		 - 1,617,300	 8,010,050
+ Travel					 9,807		 39,270		 70,246
+ Website development costs		 - -		 8,700
+					-------		-------		-------
+Total expenses			 	738,998	 2,147,403 10,458,026
+
+Loss from continuing operations	 (714,182) (2,091,482) (10,336,716)
+Loss from discontinued operations	 - -	 (114,991)
+
+Net loss for the period		 (714,182) (2,091,482) (10,451,707)
+
+Basis and diluted los per share		 (0.01)	 (0.03)
+
+Weighted average number of
+ shares outstanding		 80,863,905	 70,725,144
+
+The accompanying notes are an integral part of the financial statements
+
+51
+
+WATAIRE INTERNATIONAL, INC.
+(Formerly Cimbix Corporation)
+(A Development Stage Company)
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY (DEFICIENCY)
+for the period August 17, 2000 (Inception) to March 31, 2009
+(Stated in US Dollars)
+(Audited)
+
+Shares					 Total
+			 Subscrip		 Additional	 Stock-
+	 Common -tions Preferred	 Paid-in	 Accum. holders'
+	 Shares Amount Received Shares Amount Capital Deficit Equity
+
+Common
+shares
+issued	 200	 -			-	 - 10		 10
+
+Shares
+subscrip
+- -tion 			 150,280					 150,280
+
+Net loss
+for the
+period							 (216,896) (216,896)
+- ---------------------------------------------------------------------
+Bal,Sep
+30, 2001 200 - 150,280	-	-	 10 (216,896) (66,608)
+
+Shares
+subscrip
+- -tion	 76,105					 76,105
+
+Net loss
+for the
+year								(29,313) (29,313)
+- ----------------------------------------------------------------------
+Bal,Sep
+30, 2002 200 - 226,385	-	-	 10 (246,209) (19,814)
+
+Shares
+subscrip
+- -tion 5,000					 5,000
+
+Common
+shares
+issued 80,160 8 (231,385)		 232,542	 	 1,165
+
+Adj to
+number
+of shares
+out-
+standing
+as a
+result
+of the
+acqui-
+sition
+of Millen
+- -nium
+Business
+Gp. USA
+Inc. (80,160) (8) (232,542) 232,560
+
+Cimbix
+Corp. 170,240 17 232,543 (232,560)
+
+Fair
+value
+of
+shares
+issued
+in conn-
+ection
+with
+the
+acqui-
+sition
+of Millen
+- -nium
+Business
+Gp. USA
+Inc. 80,360 8 2,501 1 (9)
+
+Net
+asset
+deficiency
+of legal
+parent
+at date
+of reverse
+take-over
+transaction				 	 (20,167) (20,167)
+
+Common
+shares
+issued 2,772 - 13,810	 13,810
+
+Common
+shares
+issued 1,000 - 7,500 7,500
+
+Donated
+services 2,250 2,250
+
+Net loss
+for the
+year							 (98,849) (98,849)
+- ---------------------------------------------------------------------
+Bal,Sep
+30, 2003 254,372 25 2,501 1 256,094 (365,225) (109,105)
+
+The accompanying notes are an integral part of the financial statements
+
+52
+
+WATAIRE INTERNATIONAL, INC.
+(Formerly Cimbix Corporation)
+(A Development Stage Company)
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY (DEFICIENCY)
+for the period August 17, 2000 (Inception) to March 31, 2009
+(Stated in US Dollars)
+(Audited)
+							 Total
+			 	 Additional	 stock-
+	 Common	 Preferred 	 Paid-in Accum. holders'
+	 shares Amount shares Amount Capital Deficit Equity
+
+Bal,sep 254,372 25 2,501 1 256,094 (365,225) (109,105)
+30,2003
+- -----------------------------------------------------------------
+Common
+shares
+issued 5,000	 1			49,999		 50,000
+
+Common
+shares
+issued	 600,000	60			29,940		 30,000
+
+Net loss
+for the
+year							(227,180) (227,180)
+- -----------------------------------------------------------------
+Bal,sep
+30,2004	 859,372 	86 2,501 1 336,033	(592,405) (256,285)
+
+Common
+shares
+issued 160,000	16			 484			 500
+
+Common
+shares
+issued 36,000,000 3,600			86,400		 90,000
+
+Common
+shares
+issued 8,960,000 896			94,304		 95,200
+
+Common
+shares
+issued 2,440,000 244		 121,756		 122,000
+
+Common
+shares
+issued 250,000	25			11,225		 11,250
+
+Disposal
+of MBG					 (140,949)		 (140,949)
+
+Net loss
+for the
+year							 (79,243) (79,243)
+- ----------------------------------------------------------------
+Bal,Sep
+30,2005 48,669,372 4,867 2,501 1 509,253 (671,648) (157,527)
+
+Common
+shares
+issued 336,000 34			15,086		 15,120
+
+Common
+shares
+issued 10,000,000 1,000		 619,000		 620,000
+
+Common
+shares
+issued 440,000 44		 109,956		 110,000
+
+Common
+shares
+issued 1,000,000 100		 559,900		 560,000
+
+Inventory
+donated					 9,945		 9,945
+
+Net loss
+for the
+year							 (297,661) (297,661)
+- ----------------------------------------------------------------
+Bal,Sep
+30,2006 60,445,372 6,045 2,501 1 1,823,140 (969,309) 859,877
+
+Common
+shares
+issued 272,536 27 		 204,375		 204,402
+
+Common
+shares
+issued 1,834,045 183 880,157 880,340
+
+Common
+shares
+issued 1,000,000 100 409,900		 410,000
+
+Common
+shares
+issued 4,800,000 480 959,520 960,000
+
+Stock-
+based
+compen-
+sation					 8,010,050 8,010,050
+
+Net loss
+for the
+year						 (8,430,656) (8,430,656)
+- ----------------------------------------------------------------
+Bal,Sep
+30,2007 68,351,953 6,835 2,501 1 12,287,142 (9,399,965) 2,894,013
+
+Common
+shares
+issued 2,058,823 205 349,795 350,000
+
+Common
+shares
+issued 588,235 60 99,940 100,000
+
+Common
+shares
+issued 4,400,000 440 219,560 220,000
+
+Cancel-
+lation of
+shares (1,000,000) (100) (409,900) (410,000)
+
+Preferred
+shares
+issued 25,000 2 4,998 5,000
+
+Net loss
+for the
+period							 (337,560) (337,560)
+- ----------------------------------------------------------------
+Bal,Mar
+31,2008 74,399,011 7,440 27,501 3 12,551,535 (9,737,525) 2,821,453
+
+Common
+shares
+issued 1,600,000 160 79,840 81,000
+
+Common
+shares
+issued 1,111,112 111 99,889 100,000
+
+Common
+shares
+issued 1,000,000 100 59,900 60,000
+
+Common
+shares
+issued 1,000,000 100 49,900 50,000
+
+Common
+shares
+issued 8,000,000 800 39,200 40,000
+
+Net loss
+for the
+year (714,182) (714,182)
+- ----------------------------------------------------------------
+Bal,Mar
+31,2009 87,110,123 8,711 27,501 3 12,880,264(10,451,707) 2,437,271
+
+53
+
+WATAIRE INTERNATIONAL, INC.
+(Formerly Cimbix Corporation)
+(A Development Stage Company)
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+for the year ended March 31, 2009 and 2008 and
+for the period August 17, 2000 (Inception) to March 31, 2009
+(Stated in US Dollars)
+(Audited)
+
+August 17
+								 2000
+					Year ended		(inception)
+					 March 31		to March 31
+
+ 					2009	 2008	 2009
+- ----------------------------------------------------------------
+Operating Activities
+ Loss from continuing operations (714,182) (2,091,322)	(10,451,707)
+Adjustments to reconcile loss to
+ cash used in operating activities:
+ Amortization				 307 19,975 70,743
+ Donated services			 - - 11,250
+ Website development costs w/o - - 8,700
+ shares issued for service - - 122,070
+ Advances w/o 149,542 - 199,542
+Change in non-cash woring capital item:
+ Accounts receivable 2,800 4,100 -
+ Prepaid expenses and retainers (7,486) (6,418) (9,766)
+ Deferred reveneu			34,527 154,540 189,067
+ Advance on marketing agreements - - (250,000)
+ Stock-based compensation - 1,617,300 8,010,050
+ Advance on inventory 25,093 123,734 (149,541)
+ Inventory 57,872 (305,403) (246,361)
+ Accounts payable 32,546 140,062 353,854
+- -----------------------------------------------------------------
+ (418,981) (343,432) (2,142,099)
+- -----------------------------------------------------------------
+Investing Activities
+ License payment advanced - - (50,000)
+ Capital assets - (922) (922)
+ Advance to subsidiaries - - (115,091)
+ Acquisition of intangibles-net (10,688) (1,023,886) (1,467,624)
+ Website development costs - - (8,700)
+ Proceeds from disposition of
+ subsidiaries - - 100
+- -----------------------------------------------------------------
+				 (10,688) (1,024,808) (1,642,237)
+- -----------------------------------------------------------------
+Financing Activities
+ Bank indebtedness (5,885) 5,885 -
+ Promissory notes payable - (36,000) -
+ Shareholder loan & interest 106,589 - 106,589
+ Due to related parties (1,000) (159,495) 1,280
+ Shares issued for cash 180,000 985,341 1,792,102
+ Shares issued fo intangibles - 79,658 960,000
+ Shares issued for Debt 150,000 409,313 559,313
+ Shares issued for Promissory notes - 69,247 365,087
+- -----------------------------------------------------------------
+ 429,704 1,353,949 3,784,371
+- -----------------------------------------------------------------
+Increase/(Decrease) in Cash 35 (14,291) 35
+
+Cash, beginning - 14,291 -
+
+Cash, ending 35 - 35
+
+The accompanying notes are an integral part of the financial statements
+
+54
+
+WATAIRE INTERNATIONAL, INC.
+(Formerly Cimbix Corporation)
+(A Development Stage Company)
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+March 31, 2009
+(Stated in US Dollars)
+(Audited)
+
+Note 1. General Organization And Business
+
+The Company was incorporated on August 17, 2000 in the State of
+Washington, USAand the Company's common shares are publicly traded
+on the OTC Bulletin Board. On September 26, 2006, the Company
+approved a name change from Cimbix Corporation to Wataire
+International, Inc.
+
+The Company markets and distributes atmospheric water generator
+machines. It also owns all of the intellectual property relating
+to a water treatment process and devices for water-from-air
+machines. Management plans to further evaluate, develop and manage
+the commercialization, sub-license and/or commercial sale of these
+products.
+
+These consolidated financial statements have been prepared in
+accordance with generally accepted accounting principles applicable
+to a going concern, which assumes that the Company will be able to
+meet its obligations and continue its operations for its operations
+for its next fiscal year. Realization values may be substantially
+different from carrying values as shown and these financial statements
+do not give effect to adjustments that would be necessary to the
+carrying values and classification of assets and liabilities should
+the Company be unable to continue as a going concern. At March 31, 2009,
+the Company had not yet achieved profitable operations, has accumulated
+losses of 10,451,707 since its inception and expects to incur further
+losses in the development of its business, all of which cast substantial
+doubt about the Company's ability to continue as a going concern. The
+Company's ability to continue as a going concern is dependent upon
+future profitable operations and/or the necessary financing to meet
+its obligations and repay its liabilities arising from normal business
+operations when they come due. Management has obtained additional funds
+by related party advances, however there is no assurance that this
+additional funding is adequate and further funding may be necessary.
+
+Note 2. Significant Accounting Policies
+
+These consolidated financial statements have been prepared in
+accordance with generally accepted accounting principles in the
+United States of America and are stated in US dollars. Because a
+precise determination of many assets and liabilities is dependent
+upon future events, the preparation of financial statements for a
+period necessarily involves the use of estimates which have been
+made using careful judgment. Actual results may differ from these
+estimates.
+
+The financial statements have, in management's opinion,
+been properly prepared within the framework of the significant
+accounting policies summarized below :
+
+55
+
+WATAIRE INTERNATIONAL, INC.
+(Formerly Cimbix Corporation)
+(A Development Stage Company)
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+March 31, 2009
+(Stated in US Dollars)
+(Audited)
+
+(a) Development Stage Company
+
+The Company is a development stage company as defined in the
+Statements of Financial Accounting Standards ("SFAS") No. 7. The
+Company is devoting substantially all of its present efforts to
+establish a new business and none of its planned principal
+operations have commenced. All losses accumulated since inception
+has been considered as part of the Company's development stage
+activities.
+
+(b) Consolidation
+
+These consolidated financial statements include the accounts of the
+Company and its wholly owned subsidiaries, Petsmo Inc. and Aqua
+Technologies, Inc. All inter-company transactions and balances have
+been eliminated.
+
+(c) Financial Instruments
+
+The carrying values of cash, accounts receivable, accounts payable,
+promissory notes payable and due to related parties approximate fair
+value because of the short-term nature of these instruments. Management
+is of the opinion that the Company is not exposed to significant interest,
+currency or credit risks arising from these financial instruments.
+
+(d) Inventory
+
+Inventory, which consists of finished goods, is valued at the lower of
+cost net realizable value using the first in first out (FIFO) method.
+
+(e) Website Development Costs
+
+Under the provisions of Statement of Position No. 98-1 "Accounting for
+the Costs of Computer Software Development or Obtained for Internal Use,"
+the Company previously capitalized costs of design, configuration, coding,
+installation and testing of the Company's website up to its initial
+implementation. Costs are amortized to expense over an estimated useful
+life of three years using the straight-line method. Ongoing website post-
+implementation cost of operations, including training and application,
+are expensed as incurred. The Company evaluates the recoverability of
+website development costs in accordance with Financial Accounting
+Standards No. 121 " Accounting of the Impairment of Long Lived Assets."
+
+(f) Intangible Assets and Amortization
+
+The Company has adopted SFAS No. 142 "Goodwill and Other Intangible
+Assets", which requires that goodwill not be amortized, but that goodwill
+and other intangible assets be tested annually for impairment. Intangible
+assets with a finite life will be amortized over the estimated useful life
+of the asset. The Company's operational policy for the assessment and
+measurement of any impairment in the intangible assets, which primarily
+relates to contract-based intangibles such as license agreements and
+extensions, is to evaluate annually, the recoverability and remaining
+life of its intangible assets to determine the fair value of these assets.
+
+56
+
+WATAIRE INTERNATIONAL, INC.
+(Formerly Cimbix Corporation)
+(A Development Stage Company)
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+March 31, 2009
+(Stated in US Dollars)
+(Audited)
+
+(g) Revenue Recognition
+
+The Company receives revenues from the sale of water generator machines.
+The Company recognizes revenues when persuasive evidence of an arrangement
+exists, the product is delivered and collection is reasonably assured.
+A one-year warranty is provided by the Company on all its products.
+
+(h) Income Taxes
+
+The Company follows SFAS No. 109, "Accounting for Income Taxes" which
+requires the use of the asset and liability method of accounting for
+income taxes. Under the asset and liability method of SFAS 109, deferred
+tax assets and liabilities are recognized for future tax consequences
+attributable to temporary differences between the financial statements
+carrying amounts of existing assets and liabilities and loss carry forwards
+and their respective tax bases. Deferred tax assets and liabilities are
+measured using enacted tax rates expected to apply to taxable income in
+the year in which those temporary differences are expected to be
+recovered or settled.
+
+(i) Basic and Diluted Loss Per Share
+
+The Company computes net loss per share in accordance with SFAS No. 128.
+"Earnings Per Share". SFAS 128 requires presentation of both basic and
+diluted earnings per share("ESP") on the face of the income statement.
+Basic loss per share is computed by dividing the net loss available to
+common shareholders by the weighted average number of common shares
+outstanding during the year. Diluted EPS gives effect to all dilative
+potential common shares outstanding during the year including stock
+options, using the treasury stock method, and convertible preferred stock,
+using the if-converted method. In computing diluted EPS, the average stock
+price for the year is used in determining the number of shares assumed to
+be purchased from the exercise of stock options or warrants. Diluted EPS
+excludes all dilative potential common shares if their effect is
+anti dilative.
+
+(j) Stock-based Compensation
+
+In December 2004, the Financial Accounting Standards Board issued FAS 123R
+"Share-Based Payment", a revision to FAS 123. FAS 123R replaces existing
+requirements under FAS 123 and APB 25, and requires public companies to
+recognize the cost of employee services received in exchange for equity
+instruments, based on the grant-date fair value of those instruments, with
+limited exceptions. FAS 123R also affects the pattern in which compensation
+cost is recognized, the accounting for employee share purchase plans, and
+the accounting for income tax effects of share-based payment transactions.
+For small business filers, FAS 123R is effective for interim or annual
+periods beginning after December 15, 2005. The Company adopted FAS 123R
+on October 1, 2006.
+
+57
+
+WATAIRE INTERNATIONAL, INC.
+(Formerly Cimbix Corporation)
+(A Development Stage Company)
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+March 31, 2009
+(Stated in US Dollars)
+(Audited)
+
+(k) Foreign Currency Translation
+
+The Company translates foreign currency transactions and balances to its
+reporting currency, United States dollars, in accordance with SFAS No. 52,
+"Foreign Currency Translation". Monetary assets and liabilities are
+translated into the functional currency at the exchange rate in effect
+at the end of the year. Non-monetary assets and liabilities are translated
+at the exchange rate prevailing when the assets were acquired or the
+liabilities assumed. Revenues and expenses are translated at the rate
+approximating the rate of exchange on the transaction date. All exchange
+gains and losses are included in the determinination of net income (loss)
+for the year.
+
+(l) Reclassifications
+
+Certain items in the prior year financial statements have been reclassified
+for comparative purposes to conform to the presentation in the current
+period's presentation. These reclassifications have no effect to the
+previously reported income (loss).
+
+(m) Change in Reporting Year
+
+The Company adopted March 31 as its fiscal year end from September 30
+in 2008.
+
+(n) Recently Issued Accounting Pronouncements
+
+In May 2008, the Financial Accounting Standards Board (FASB) issued
+Statement of Financial Accounting Standards (SFAS) No. 162, The
+Hierarchy of Generally Accepted Accounting Principles. SFAS No. 162
+identifies the sources of accounting principles and the framework for
+selecting the principles that are presented in conformity with generally
+accepted accounting principles in the United States. SFAS No. 162 is
+effective 60 days following the Securities and Exchange Commission
+approval of the Public Company Accounting Oversight Board amendments
+to AU Section 411, The Meaning of Present Fairly in Conformity With
+Generally Accepted Accounting Principles. The Company does not believe
+SFAS No. 162 will have a material impact on its financial statements.
+
+In March 2008, the FASB issued SFAS No. 161, Disclosure about Derivative
+Instruments and Hedging Activities, an amendment of FASB Statement No. 133.
+SFAS No. 161 changes the disclosure requirements for derivative instruments
+and hedging activities. Entities are required to provide enhanced
+disclosures about (a) how and why an entity uses derivative instruments,
+(b) how derivative instruments and related hedged items are accounted for
+under Statement No. 133 and its related interpretations and (c) how
+derivative instruments and related hedged items affect an entity financial
+position, financial performance and cash flows. SFAS No. 161 is effective
+for financial statements issued for fiscal years and interim periods
+beginning after November 15, 2008, with early application encouraged.
+The Company does not believe SFAS No. 161 will have a material impact on
+its financial statements.
+
+				58
+
+In December 2007, the FASB issued SFAS No. 141(R), Business Combinations.
+SFAS No. 141(R) retains the fundamental requirements in SFAS No. 141,
+Business Combinations, that the acquisition method of accounting be
+used for all business combinations and for an acquirer to be identified
+for each business combination. SFAS No. 141(R) requires an acquirer to
+recognize the assets acquired, the liabilities assumed, and any
+noncontrolling interest in the acquiree at the acquisition date,
+measured at their fair values as of that date, with limited exceptions
+specified in SFAS No. 141(R). In addition, SFAS No. 141(R) requires
+acquisition costs and restructuring costs that the acquirer expected but
+was not obligated to incur to be recognized separately from the business
+combination, therefore, expensed instead of part of the purchase price
+allocation. SFAS No. 141(R) will be applied prospectively to business
+combinations for which the acquisition date is on or after the beginning
+of the first annual reporting period beginning on or after December 15,
+2008. Early adoption is prohibited. The Company expects to adopt SFAS
+No. 141(R) to any business combinations with an acquisition date on or
+after January 1, 2009. The Company does not believe SFAS No. 141(R) will
+have a material impact on its financial statements.
+
+In December 2007, the FASB issued SFAS No. 160, Noncontrolling Interests
+in Consolidated Financial Statements, an amendment to ARB No. 51. SFAS
+No. 160 changes the accounting and reporting for minority interests,
+which will be recharacterized as noncontrolling interests and classified
+as a component of equity. SFAS No. 160 is effective for fiscal years, and
+interim periods within those fiscal years, beginning on or after December
+15, 2008. Early adoption is prohibited. The Company does not believe SFAS
+No. 160 will have a material impact on its financial statements.
+
+In February 2007, the FASB issued SFAS No. 159, The Fair Value Option for
+Financial Assets and Financial Liabilities. SFAS No. 159 permits an
+entity to irrevocably elect fair value on a contract-by-contract basis
+as the initial and subsequent measurement attribute for many financial
+assets and liabilities and certain other items including insurance
+contracts. Entities electing the fair value option would be required to
+recognize changes in fair value in earnings and to expense upfront cost
+and fees associated with the item for which the fair value option is
+elected. SFAS No. 159 is effective for fiscal years beginning after
+November 15, 2007. Early adoption is permitted as of the beginning of
+a fiscal year that begins on or before November 15, 2007, provided the
+entity also elects to apply the provisions of SFAS No. 157, Fair Value
+Measurements. The Company does not expect the adoption of SFAS No. 159
+to have a material impact on its financial condition or results of
+operations.
+
+Note 3. Related Party Transactions
+
+During the year ended March 31, 2009, directors of the company
+charged the following expenses to the Company:
+
+Management fees 	 180,000
+
+Loan interest 		 5,000
+
+59
+
+Note 4. Common Stock
+
+For the Year Ended March 31, 2008
+
+Share Subscriptions
+
+The Company entered into a private placement agreement to issue
+588,235 common stock at 0.17 per share for proceeds of 100,000 on
+December 5, 2007 to an accredited investor.
+
+Share For Debt Settlements
+
+On October 5, 2007, the Company approved the issuance of 2,058,823
+units at 0.17 per unit to settle amounts due to a director of the
+Company and a shareholder of the Company totaling 350,000. Each unit
+contained one common share and one share purchase warrant exercisable
+at 0.17 per share on or before September 30, 2010.
+
+On March 19, 2008 the Company approved the issuance of 4,400,000 units
+at 0.05 per unit to settle amounts due to a director of the Company
+totaling 220,000. Each unit contained one common share and one half
+share purchase warrant exercisable at 0.05 per share on or before
+March 18, 2011.
+
+On March 19, 2008 the Company approved the issuance of 25,000
+preferred shares at 0.20 per share to settle amounts due to a
+director of the Company totaling 5,000.
+
+For the Year Ended March 31, 2009
+
+Share Subscriptions
+
+On April 8, 2008, the Company entered into an agreement to issued
+1,600,000 units at 0.05 per unit with Darfield Financial Corp. for
+an aggregate amount of 80,000. Each unit consists of one common share
+and one half warrant exercisable at 0.05 per share on or before
+April 7, 2011.
+
+On May 30, 2008 the Company entered into a private placement agreement
+to issued 1,111,112 common stock at 0.09 per share for proceeds of
+ 100,000 to two accredited investors and to issued 555,556 common stock
+to each investor.
+
+Share For Debt Settlements
+
+On June 17, 2008, the Company approved the issuance of 1,000,000 units
+at 0.06 per share to settle amounts due to a director of the Company
+totaling 60,000. Each unit contain one common share and one share
+warrant exercisable at 0.06 per share on or before June 16, 2011.
+
+On July 8, 2008, the Company approved the issuance of 1,000,000 units
+at 0.05 per share to settle amounts due to a director of the Company
+totaling 50,000. Each unit contain one common share and one share
+warrant exercisable at 0.05 per share on or before July 7, 2011.
+
+On January 9, 2009, the Company approved the issuance of 8,000,000
+common shares at 0.005 per share to settle amounts due to a director
+of the Company totaling 40,000.
+
+On February 26, 2009, the Company have signed agreement with existing
+warrant options holders to cancel all existing warrant options
+available to the Company.
+
+60
+
+WATAIRE INTERNATIONAL, INC.
+(Formerly Cimbix Corporation)
+(A Development Stage Company)
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+March 31, 2009
+(Stated in US Dollars)
+(Audited)
+
+Note 5. Warrants
+
+During February 2009, the Company received signed consent agreements
+with all existing warrant holders that cancel the entire balance of
+7,058,823 outstanding warrants.
+
+Note 6. Stock Options and Stock Based Compensation
+
+During 2006, the Company authorized a share option plan under which
+employees were granted options to purchase shares of authorized but
+unissued, common shares. During the years ended March 31, 2009 and
+2008, all options issued in this plan were either forfeited as options
+went unexercised due to employee terminations or cancelled via signed
+consent agreements with all remaining option holders.
+
+SFAS No. 123R also required the Company to change its classification,
+in the consolidated statement of cash flows, of any tax benefits
+realized upon the exercise of stock options in excess of that which is
+associated with the expense recognized for financial reporting purposes.
+No significant tax benefits were recognized for the periods ended
+March 31, 2009 or 2008.
+
+The Black-Scholes valuation model was utilized in estimating the
+calculated value, with the following weighted average assumptions:
+
+					2009	2008
+
+Expected Dividend Yield			0.00 	0.00 
+Risk Free Interest Rate			3.00 	4.58 
+Expected Volatility			150 	153 
+Expected Option Life (in years average) 0.00	5.53
+
+A summary of the status of the Company's share option plan for the
+periods ended as of March 31, 2009 and 2008, is as follows:
+
+						Weighted Average
+				Number of	 Exercise
+				 Options	 Price
+
+Outstanding March 31, 2007	 -			-
+Granted				12,270,000	 	0.71
+Forfeited/Cancelled		(7,075,000)		0.75
+Exercised			 -			-
+				-----------------------------
+Outstanding March 31, 2008	 5,195,000	 	0.67
+Granted				 -			-
+Forfeited/Cancelled		(5,195,000)		-
+Exercised			 -			-
+				-----------------------------
+Outstanding March 31, 2009	 - -
+
+There was no compensation charge associated with stock options included
+in the statement of operations for the years ended March 31, 2009 and 2008.
+
+61
+
+WATAIRE INTERNATIONAL, INC.
+(Formerly Cimbix Corporation)
+(A Development Stage Company)
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+March 31, 2009
+(Stated in US Dollars)
+(Audited)
+
+Note 7. Contingencies
+
+Agreement
+
+On December 11, 2006 and December 12, 2006, the Company entered into
+two marketing agreements in which the Company would pay 1,000,000
+and issue 1,000,000 common shares. During the year ended March 31,
+2008, the Company paid 250,000 in respect to the cash portion of
+the agreements and had issued 1,000,000 common shares of the Company.
+The 1,000,000 shares issued were not released to the marketing
+company as it has not commenced its branding and marketing efforts
+and the contract has expired. The 1,000,000 shares have been returned
+back to treasury. The 250,000 is classified as an Advance on
+Marketing Agreements on the balance sheet. The Company is currently
+re-negotiating new terms on this agreement
+
+Legal
+
+On October 11, 2006, the Company was named as a co-defendant in a
+lawsuit whereby the plaintiffs were claiming general damages, with
+respect to funds totaling approximately 94,000 which were allegedly
+misappropriated, interest, costs and such further and other relief as
+the court may deem just. Management of the Company believed the claim
+was without merit and was unlikely to succeed. The Company filed a
+statement of defense denying the allegations and a counterclaim for
+defamation. The court ordered a severance of the action, and required
+the plaintiffs to prove their damages, before proceeding to trial
+on issues of liability. The lawsuit by the plaintiffs was dismissed on
+October 6, 2008.
+
+Aquaduct International. LLC v. Wataire International, Inc. et. ai,
+Los Angeles County Superior Court Case No. LC083752. This litigation
+was commenced on December 11, 2008 by the Company's former distributor
+over the alleged purchase of certain atmospheric water machines. On
+July 20, 2009, the Company answered the lawsuit and filed a
+cross-complaint against the plaintiff. Both parties are interested in
+resolving this dispute informally rather than proceeding further into
+litigation. To that end, mediation has been scheduled for August 20,
+2009 in Los Angeles County with a private mediator. We cannot provide
+a reasonable evaluation of the likelihood of an unfavorable outcome at
+this time since no discovery has commenced on the Company's
+cross-complaint and only very basic discovery has been performed in
+connection with the complaint. No loss provision has been recorded as
+of March 31, 2009.
+
+Note 8. Inventory
+
+At March 31, 2009 and 2008, inventories are comprised of finished
+water-from-air machines totaling 250,456, and 308,328, respectively.
+
+62
+
+WATAIRE INTERNATIONAL, INC.
+(Formerly Cimbix Corporation)
+(A Development Stage Company)
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+March 31, 2009
+(Stated in US Dollars)
+(Audited)
+
+Note 9. Intangibles
+
+On April 25, 2007, the Company entered into an agreement to acquire
+all of the intellectual property ("IP") relating to a water treatment
+process and related devices for water-from-air machines from Wataire
+Industries Inc., Canadian Dew Technologies Inc., Terrence Nylander and
+Roland Wahlgren. Mr. Nylander was at the time of signing the agreement
+and currently, the President of the Company. Consideration for the
+purchase of the IP was 476,190 (CAD 500,000), which was paid on March
+31, 2007, the issuance of 4,800,000 shares of common stock of the Company,
+the agreement by the Company to pay a royalty equal to 5 of the gross
+profits from the sales of all apparatus or products relating to the IP
+for a period of 30 years from April 25, 2007 and a royalty equal to 5 
+of gross licensing revenues on the IP. This consideration is in addition
+to the 11,000,000 shares of common stock previously issued for the
+license rights as disclosed in the Company's annual September 30, 2006
+audited consolidated financial statements. The IP acquisition was
+completed in July 2007.
+
+The IP acquired by the Company includes all copyrights, patent rights,
+trade secret rights, trade names, trademark rights, process information,
+technical information, contract rights and obligations, designs, drawings,
+inventions and all other intellectual and industrial property rights of
+any sort related to or associated with the invention.
+
+The intangibles consist of patents and trademark applications of
+ 31,434 and the costof the acquisition of IP Technology of 2,546,062
+as described above.
+
+Patents, Trademark applications 		 31,435
+
+4,800,000 shares issued to Wataire Ecosafe and
+ Canadian Dew Technologies				 960,000
+Cash consideration					 476,190
+Remaining license rights including 11,000,000 shares
+ issued to Wataire Ecosafe			 1,109,872
+ -----------
+						 2,546,062
+
+Note 10. Deferred Revenue
+
+As of March 31, 2009 and 2008, deferred revenue totaled 189,067
+and 154,540, respectively, consisting of cash payments made by
+customers in advance of product shipment. Revenue will be
+recognized when finished goods are shipped to the customer.
+
+Note 11. Shareholder Loan
+
+During the period ended March 31, 2008, the Company's CEO loaned
+the Company 100,000. This loan is payable on demand with interest
+accruing at 5 per annum. Accrued interest at March 31, 2009 and 2008,
+totaled 6,589 and 1,589, respectively, and is included in the loan
+balance.
+
+63
+
+WATAIRE INTERNATIONAL, INC.
+(Formerly Cimbix Corporation)
+(A Development Stage Company)
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+March 31, 2009
+(Stated in US Dollars)
+(Audited)
+
+Note 12. Subsequent Events
+
+Subsequent to March 31, 2009:
+
+The Company approved the issuance of 4,000,000 common shares at
+ 0.005 per share totaling 20,000 to an individual for
+indebtedness to the Company.
+
+Effective June 12, 2009, the Company's Chief Financial Officer and
+Treasurer resigned and a new Director holding the same title
+was appointed.
+
+On July 16, 2009, the Company approved consulting agreements with
+3 individuals. The Company intends to pay for these services by
+issuing common shares to the consultants in lieu of consulting fees
+and registering these shares by filing an S-8 registration statement
+under the Securities Act of 1933. The total number of shares to
+be issued totals 6,900,000 common shares.
+
+Note 13. Income Taxes
+
+The Company has losses for tax purposes totaling 10,451,707 which
+may be applied against future taxable income. These losses begin to
+expire in 2027. The potential taxbenefit arising from these losses
+has not been recorded in the consolidated financial statements. The
+Company evaluates its valuation allowance requirements on an annual
+basis based on projected future operations. When circumstances change
+and this causes a change in management's judgement about the
+realizability of deferred tax assets, the impact of the change on
+the valuation allowance is reflected in current operations.
+
+64
+
+Exhibit 31.01
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO
+RULE 13A-14(A) OF THE SECURITIES EXCHANGE ACT AND
+SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Robert Rosner, Director and Chief Executive Officer of Wataire
+International, Inc. certify that :
+
+1. I have reviewed this Annual Report on Form 10-K of Wataire International,
+Inc. ;
+
+2. Based on my knowledge, this report does not contain any untrue statement
+of a material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects
+the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined
+in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over
+financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f))
+for the registrant and have :
+
+a. Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared;
+
+b. Designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of
+financial reporting and the preparation of financial statements for external
+purpose in accordance with general accepted accounting principles;
+
+c. Evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of
+the period covered by this report based on such evaluation; and
+
+d. Disclosed in this report any change in the registrant's internal control
+over financial reporting that occurred during the registrant's most recent
+fiscal quarter (the registrant's fourth fiscal quarter in the case of an
+annual report) that has materially affected, or is reasonably likely to
+materially affect, the registrant's internal control over financial
+reporting.
+
+65
+
+5. The registrant's other certifying officer and I have disclosed,
+based on our most recent evaluation of internal control over financial
+reporting, to the registrant's auditors and the audit committee of the
+registrant's board of directors (or persons performing the equivalent
+functions ):
+
+a. All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarized and report financial information; and
+
+b. Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control
+over financial reporting.
+
+Dated : July 23, 2009 Signature : /s/ Robert Rosner
+ --------------------------
+ Robert Rosner
+ Director and Chief Executive Officer
+
+66
+
+Exhibit 31.02
+
+CERTIFICATION OF CHIEF FINANCIAL OFFICER PURSUANT TO
+RULE 13A-14(A) OF THE SECURITIES EXCHANGE ACT AND
+SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Thomas M. Braid, Director and Chief Financial Officer of Wataire
+International, Inc. certify that :
+
+1. I have reviewed this Annual Report on Form 10-K of Wataire
+International, Inc. ;
+
+2. Based on my knowledge, this report does not contain any untrue statement
+of a material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects
+the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined
+in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over
+financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f))
+for the registrant and have :
+
+a. Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared;
+
+b. Designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial
+reporting and the preparation of financial statements for external purpose in
+accordance with general accepted accounting principles;
+
+c. Evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness
+of thedisclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and
+
+d. Disclosed in this report any change in the registrant's internal control
+over financial reporting that occurred during the registrant's most recent
+fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to materially
+affect, the registrant's internal control over financial reporting.
+
+				67
+
+5. The registrant's other certifying officer and I have disclosed, based
+on our most recent evaluation of internal control over financial reporting,
+to the registrant's auditors and the audit committee of the registrant's board
+of directors (or persons performing the equivalent functions ):
+
+a. All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarized and report financial information; and
+
+b. Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control
+over financial reporting.
+
+Dated : July 23, 2009 Signature : /s/ Thomas M. Braid
+ -------------------------
+ Thomas M. Braid
+ ector and Chief Financial Officer
+
+68
+
+EXHIBIT 32 .01
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350 AS ADOPTED
+PURSUANT TO SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Annual Report of Wataire International, Inc.
+(the "Company") on Form 10-K for the year ended March 31, 2009 as
+filed with the Securities and Exchange Commission on the date hereof
+(the "Report"),
+
+I, Robert Rosner, Chief Executive Officer of the Company, certify,
+pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002, that to the best of my knowledge:
+
+ (1) The Report fully complies with the requirements of section 13(a)
+or 15(d) of the Securities Exchange Act of 1934; and
+
+ (2) The information contained in the Report fairly presents,
+in all material respects, the financial condition and result of
+operations of the Company.
+
+/s/ Robert Rosner
+ ----------------------
+ Robert Rosner
+ Chief Executive Officer
+
+July 23, 2009
+
+69
+
+EXHIBIT 32 .02
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350 AS ADOPTED
+PURSUANT TO SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Annual Report of Wataire International, Inc.
+(the "Company") on Form 10-K for the year ended March 31, 2009 as
+filed with the Securities and Exchange Commission on the date hereof
+(the "Report"),
+
+I, Thomas M. Braid, Chief Financial Officer of the Company, certify,
+pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002, that to the best of my knowledge:
+
+ (1) The Report fully complies with the requirements of section 13(a)
+or 15(d) of the Securities Exchange Act of 1934; and
+
+ (2) The information contained in the Report fairly presents, in
+all material respects, the financial condition and result of
+operations of the Company.
+
+/s/ Thomas M. Braid
+ ----------------------
+ Thomas M. Braid
+ Chief Financial Officer
+
+July 22, 2009
+
+70
+
+10-K
+ 2
+ wtarform10kmar09.pdf
+

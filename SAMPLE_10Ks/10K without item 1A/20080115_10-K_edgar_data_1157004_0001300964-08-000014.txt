@@ -1,0 +1,6973 @@
+<Header>
+<FileStats>
+    <FileName>20080115_10-K_edgar_data_1157004_0001300964-08-000014.txt</FileName>
+    <GrossFileSize>1264600</GrossFileSize>
+    <NetFileSize>175749</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>832324</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001300964-08-000014.hdr.sgml : 20080115
+<ACCEPTANCE-DATETIME>20080115145845
+ACCESSION NUMBER:		0001300964-08-000014
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20080111
+FILED AS OF DATE:		20080115
+DATE AS OF CHANGE:		20080115
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BETTER BIODIESEL, INC
+		CENTRAL INDEX KEY:			0001157004
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL ORGANIC CHEMICALS [2860]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-67174
+		FILM NUMBER:		08530980
+
+	BUSINESS ADDRESS:	
+		STREET 1:		355 SOUTH 1550 WEST
+		CITY:			SPANISH FORK
+		STATE:			UT
+		ZIP:			84660
+		BUSINESS PHONE:		801-798-7576
+
+	MAIL ADDRESS:	
+		STREET 1:		355 SOUTH 1550 WEST
+		CITY:			SPANISH FORK
+		STATE:			UT
+		ZIP:			84660
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MOUNTAIN STATES HOLDINGS INC
+		DATE OF NAME CHANGE:	20021121
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MOUNTAIN STATES LENDING INC
+		DATE OF NAME CHANGE:	20010808
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HV7mUf25v6fwbJc15gMxzpZhxMkS+PagUxBcbOZ/9ZlRxScMK5BggAcExwZGj3H2
+ RQnUxCYYbRgpWs1JmtucAw==
+
+ 0001300964-08-000014.txt : 20080115
+
+10-K
+ 1
+ form10-k.htm
+ FORM 10-KSB
+
+form10-k.htm 
+
+UNITED
+ STATES 
+
+ SECURITIES
+ AND EXCHANGE COMMISSION 
+
+ Washington,
+ D.C. 20549 
+
+Form
+ 10-KSB 
+
+[X]
+ ANNUAL REPORT UNDER SECTION 13 OR 15(D) OF THE SECURITIES 
+
+ EXCHANGE
+ ACT OF 1934 
+
+ For
+ Fiscal Year Ended 
+
+ September
+ 30, 2007 
+
+Commission
+ File # 333-67174 
+
+BETTER
+ BIODIESEL, INC. 
+
+ (A
+ Development Stage Company) 
+
+ (Exact
+ name of registrant as specified in its charter) 
+
+Colorado 
+
+ (State
+ or
+ other jurisdiction of incorporation or organization) 
+
+84-1153946 
+
+(IRS
+ Employer Identification Number) 
+
+355
+ South
+ 1550 West 
+
+ Spanish
+ Fork, UT 84660 
+
+ (Address
+ of principal executive offices)(Zip Code) 
+
+(801) 798-7576 
+
+ (Registrant's
+ telephone no., including area code) 
+
+Securities
+ registered pursuant to Section 12(b) of the
+ Act: None 
+
+ Securities
+ registered pursuant to Section 12(g) of the Act: Common Stock, no
+ par
+ value 
+
+Indicate
+ by check mark whether the registrant (1) has filed all reports required to
+ be
+ filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+ the
+ preceding 12 months (or for such shorter period that the registrant was required
+ to file such reports), and (2) has been subject to such filing requirements
+ for
+ the past 90 days. 
+
+ Yes
+ x 
+ No o 
+
+Check
+ if
+ there is no disclosure of delinquent filers in response to Item 405 of
+ Regulation S-B not contained in this form, and no disclosure will be contained,
+ to the best of the registrant's knowledge, in definitive proxy or information
+ statements incorporated by reference in Part III of this Form 10-KSB or any
+ amendment to this Form 10-KSB. x 
+
+Indicate
+ by check mark whether the registrant is a shell company (as defined in Rule
+ 12b-2 of the Exchange Act) 
+
+ Yes
+ o 
+ No x 
+
+Registrant s
+ revenues for the twelve months ended September 30, 2007 were
+ 11,925. 
+
+Aggregate
+ market value of the voting common stock held by non-affiliates of the registrant
+ as of September 30, 2007 was 9,183,752 
+
+Number
+ of
+ shares of the registrant's common stock outstanding as of January 10, 2008
+ was
+ 15,195,001. 
+
+1 
+
+TABLE
+ OF CONTENTS 
+
+ PART
+ I 
+
+ITEM
+ 1. DESCRIPTION OF
+ BUSINESS 3 
+
+ ITEM
+ 2. PROPERTY ...13 
+
+ ITEM
+ 3. LEGAL PROCEEDINGS ..14 
+
+ ITEM
+ 4. SUBMISSION OF MATTERS TO A VOTE BY SECURITY
+ HOLDERS .14 
+
+PART
+ II 
+
+ITEM
+ 5. MARKET FOR COMMON EQUITY, RELATED STOCKHOLDER
+ MATTERS, 
+
+COMPANY
+ PURCHASES OF EQUITY AND SECURITIES ..14 
+
+ ITEM
+ 6. MANAGEMENT S DISCUSSION AND ANALYSIS OF
+ FINANCIAL 
+
+ CONDITION
+ AND
+ RESULTS OF OPERATIONS 16 
+
+ ITEM
+ 7. FINANCIAL
+ STATEMENTS ....21 
+
+ ITEM
+ 8A. CONTROLS AND
+ PROCEDURES .21 
+
+ ITEM
+ 8B. OTHER INFORMATION 22 
+
+PART
+ III 
+
+ITEM
+ 9. DIRECTORS AND EXECUTIVE
+ OFFICERS 23 
+
+ ITEM
+ 10. EXECUTIVE
+ COMPENSATION ..26 
+
+ Stock
+ Options Granted in Fiscal 2006 26 
+
+ ITEM
+ 11. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+ AND 
+
+ MANAGEMENT
+ AND
+ RELATED STOCKHOLDER MATTERS ..28 
+
+ ITEM
+ 12. CERTAIN RELATIONSHIPS AND RELATED
+ TRANSACTIONS 29 
+
+ ITEM
+ 13. EXHIBITS LIST AND REPORTS ON FORM
+ 8-K .29 
+
+ ITEM
+ 14. PRINCIPAL ACCOUNTANT FEES AND
+ SERVICES ..29 
+
+2 
+
+DISCLOSURE
+ REGARDING FORWARD-LOOKING
+ STATEMENTS 
+
+This
+ Form
+ 10-KSB release contains forward-looking statements. In some cases, you can
+ identify forward-looking statements by terminology such as may, will, 
+ should, could, expects, plans, intends, anticipates, believes, 
+ estimates, predicts, potential or continue or the negative of such terms
+ and other comparable terminology. These forward-looking statements include,
+ without limitation, statements about our market opportunity, our strategies,
+ competition, expected activities and expenditures as we pursue our business
+ plan, and the adequacy of our available cash resources. Although we believe
+ that
+ the expectations reflected in the forward-looking statements are reasonable,
+ we
+ cannot guarantee future results, levels of activity, performance or
+ achievements. Actual results may differ materially from the predictions
+ discussed in these forward-looking statements. The economic environment within
+ which we operate could materially affect our actual results. Additional factors
+ that could materially affect these forward-looking statements include, among
+ other things, the company s ability to, (i) obtain and/or produce and market and
+ distribute biodiesel fuel; (ii) the Company s ability to obtain contracts with
+ fuel producers and suppliers of raw materials (for the Company s production of
+ biodiesel fuel) and distributors of the Company s biodiesel fuel product; (iii)
+ the risks inherent in the mutual performance of such supplier and distributor
+ contracts (including the Company s performance); (iv) the Company s ability to
+ develop, protect and defend its proprietary technology; (v) the Company s
+ ability to secure and retain management capable of managing growth; (vi) the
+ Company s ability to raise necessary financing to execute the Company's business
+ plan; and (vii) the Company's ability to comply with all applicable federal,
+ state and local government and international rules and regulations; and other
+ factors discussed in Better Biodiesel s filings with the Securities and Exchange
+ Commission. 
+
+Our
+ management has included projections and estimates in this Form 10-KSB, which
+ are
+ based primarily on management s experience in the industry, assessments of our
+ results of operations, discussions and negotiations with third parties and
+ a
+ review of information filed by our competitors with the Securities and Exchange
+ Commission or otherwise publicly available. We caution readers not to
+ place undue reliance on any such forward-looking statements, which speak only
+ as
+ of the date made. We disclaim any obligation subsequently to revise
+ any forward-looking statements to reflect events or circumstances after the
+ date
+ of such statements or to reflect the occurrence of anticipated or unanticipated
+ events. 
+
+PART
+ I 
+
+ITEM
+ 1. DESCRIPTION OF
+ BUSINESS 
+
+Better
+ Biodiesel Inc., a Colorado corporation Better Biodiesel or the Company ),
+ whose headquarters is located at 355 South 1550 West, Spanish Fork, Utah, 84660,
+ is a development stage company engaged in the commercial development
+ of (i) proprietary biodiesel fuel technology (ii) the supply of biodiesel raw
+ materials and (iii) marketing and distribution of biodiesel fuel
+ products. 
+
+We
+ were
+ previously known as Mountain States Holdings, Inc. Mountain
+ States ). Mountain States was incorporated in November 1990 as a
+ Colorado corporation under the name Slam Dunk Enterprises, Inc. The
+ corporation was inactive until May 1998 when it started engaging in the business
+ of providing first and second mortgage financing under the name of Mountain
+ States Lending, Inc. During January 2001, the Company filed articles
+ of amendment with the Colorado Secretary of State changing the corporation's
+ name to Mountain States Lending, Inc., and during September 2002 the Company
+ changed the name to Mountain States Holdings, Inc. In September 2002,
+ the Company formed a wholly-owned subsidiary named Mountain States Lending,
+ Inc.
+ Mountain States Lending ), and on December 31, 2002, the Company transferred
+ all of its assets and liabilities related to the mortgage lending business
+ to
+ this new subsidiary. In August 2006, all of the Company's assets and
+ liabilities resided in two wholly-owned subsidiaries that were spun-off to
+ two
+ stockholders, one of whom was the former CEO of the Company, in exchange for
+ 325,000 pre-split (162,500 post-split) shares of the Company's common
+ stock. 
+
+In
+ September 2006, the Company entered into a share exchange agreement with
+ Domestic Energy Partners, LLC, a Utah limited liability company DEP ),
+ pursuant to which it acquired all of the equity interests in DEP (the Share
+ Exchange ). On September 20, 2006, prior to the closing of its
+ Exchange Agreement with DEP, a majority of the shareholders of the Company
+ at a
+ special meeting of the shareholders approved amendments to the Company s
+ Articles of Incorporation to change the Company s name to Better Biodiesel,
+ Inc., and to reverse split its shares of common stock on the basis of one share
+ for each two shares issued and outstanding, with all fractional shares rounded
+ up to the nearest whole share. The foregoing amendments were effective September
+ 21, 2006. 
+
+3 
+
+DEP
+ was
+ organized as a limited liability corporation on May 18, 2005, having
+ previously commenced operations in November 2004, to develop alternative fuel
+ sources, particularly the manufacture and distribution of biodiesel
+ products. The Exchange Agreement between the Company and DEP is
+ accounted for as a reverse merger, which is equivalent to a recapitalization
+ of
+ the Company. Thus, the September 30, 2006 Financial Statements for
+ the Company s Form 10-KSB (for the fiscal year ended September 2006), presents
+ the Company as being in the development stage with the assets and liabilities
+ in
+ the consolidated balance sheets representing the book values of DEP s assets and
+ liabilities and the operations in the consolidated statement of operations
+ representing the operations of DEP at that time. The Financial
+ Statements for the Fiscal Year ended 2007, which are the Financial Statements
+ included in this 10-KSB, continue this methodology. 
+
+Until
+ recently the Company focused almost exclusively on the development of
+ proprietary technology to enable the production of biodiesel fuel from all
+ types
+ of animal fats as well as virgin oils derived from vegetative sources such
+ soybeans, rapeseed, palm and switch grass, for example. Better
+ Biodiesel s production process focused on eliminating the use of the caustic
+ chemical catalyst and thereby limiting the washing process in favor of a
+ streamlined, continuous flow production method. Eliminating the
+ washing process also eliminated the need for outdoor evaporation ponds which
+ require several acres of land devoted to the removal of caustic chemical through
+ the evaporation of the water used in the washing process. 
+
+The
+ Company and its advisors continued to develop and evaluate the proprietary
+ technology during, and subsequent to, the fiscal year ended
+ 2007. Based on its evaluation, on December 20, 2007, the Company
+ entered into and closed an Asset Purchase, Settlement and Mutual Release
+ Agreement with Ron Crafts, Chairman and Chief Executive Officer of the Company,
+ John Crawford, President, Chief Technology Officer and a Director of the
+ Company, Lynn Dean Crawford, Chief Operations Officer of the Company, James
+ Crawford, Mary Crafts, and Culinary Crafts, LLC, under which Ron Crafts, John
+ Crawford, Lynn Dean Crawford and James Crawford exchanged a total of
+ 15,750,000 shares
+ of common stock of the Company in exchange for all of the rights, title and
+ interest held in the invention identified in the patent application assigned
+ to
+ the Company, along with certain other assets (a detailed description of the
+ agreement is provided in Item 8B of this annual report, the Asset Sale
+ Agreement ). 
+
+Seven
+ shareholders of the Company beneficially owning a total of 24,751,000 shares
+ of
+ the Company s 30,945,001 total issued and outstanding shares of common stock
+ consented to the Asset Sale Agreement, in accordance with Section 7-107-104
+ and
+ Section 7-112-102 of the Colorado Revised Statutes. Excluding
+ shareholders with a direct interest in the assets sold in the Asset Sale
+ Agreement, three shareholders beneficially owning a total of 9,001,000 shares
+ consented out of the remaining 15,154,001 total shares that are considered
+ disinterested in the assets of the transaction. 
+
+On
+ December 20, 2007, the Company accepted the resignations of Ron Crafts from
+ his
+ positions as Chairman of the Board of Directors and Chief Executive Officer,
+ John Crawford, from his positions as Director and as President and Chief
+ Technology Officer, and Lynn Dean Crawford from his position as Chief Operations
+ Officer. The resignations were the result of the Board of Director s
+ and management s decision to broaden its business plan, as described in the
+ following paragraph, and the resulting Asset Sale Agreement, in response to
+ management s belief that the proprietary technology included in the Asset Sale
+ Agreement would not be ready for large-scale commercial use in the near term,
+ requiring the Company to modify its business plan and to identify new revenue
+ opportunities in the biodiesel industry. 
+
+The
+ remaining management of the Company continues to focus on the Company s
+ operations in the biodiesel industry, while shifting its business plan, from
+ a
+ singular focus on biodiesel production through proprietary technology, to a
+ broader business plan including, in addition to research and development of
+ biodiesel fuel technology, the supply of biodiesel raw materials vertically
+ integrated with the marketing and distribution of biodiesel fuel
+ products. The Company intends to appoint additional management
+ and directors during the first half of 2008. 
+
+4 
+
+Biodiesel,
+ unlike ethanol-- which requires modifications to both engines and fuel
+ infrastructure and distribution systems-- can be used in any conventional diesel
+ engine, without requiring any modifications to existing diesel engines and
+ distribution infrastructure, while providing substantially similar energy
+ output. Biodiesel is fully biodegradable, pollutes less than
+ petroleum diesel and can be distributed by the existing petroleum distribution
+ system without further downstream infrastructure investments. 
+
+In
+ the
+ United States, a primary driver of biodiesel fuel demand stems from the Energy
+ Policy Act of 2005, which mandates the increased use of all renewable fuel
+ from
+ 2.5 billion to 7.5 billion gallons by 2010. Moreover, The Energy
+ Independence and Security Act of 2007 sets a mandatory Renewable Fuel Standard
+ (RFS) requiring fuel producers to use a minimum of 36 billion gallons of biofuel
+ in 2022, nearly five-fold increase over current levels. Additional drivers
+ are
+ the Energy Policy Act of 1994, which mandates the use of renewable fuel by
+ federal, state and utility fleets. The U.S. Navy mandates the use of
+ 20 biodiesel in non-tactical vehicles. Additionally, many states
+ including, by way of example, California, Washington and Minnesota have issued
+ their own mandates of 2 (B2) blended biodiesel or higher. Currently,
+ the domestic availability of biodiesel fuel falls below the mandated demand
+ by
+ more than 1 billion gallons per year. The U.S. Government pays a
+ Blenders Tax Credit of 0.50 to 1.00 per gallon produced in addition to 0.10
+ per gallon for the first 15 million gallons produced at any single
+ location. 
+
+Biodiesel
+ Fuel - Market
+ Overview 
+
+Biodiesel
+ fuel is fully interchangeable with petroleum diesel. The domestic
+ market for diesel fuel in 2005 was 70 billion gallons and at least 200 billion
+ gallons for the rest of the world. In 2005, the combined worldwide
+ biodiesel refining capacity was less than 800 million gallons. 
+
+Better
+ Biodiesel believes that most prospective end users of biodiesel will be
+ individuals and entities requiring the lowest possible pollution levels in
+ their
+ vehicle and machinery emissions. These include trucking companies
+ operating in states with biodiesel initiatives (see chart below), inner city
+ transport companies that are required to reduce their fleet pollution levels
+ and
+ other users who also require the advantages of less polluting fuel. 
+
+Biodiesel
+ blends such as B5 and B20 (5 biodiesel blended with 95 petrol diesel, and
+ 20 
+ biodiesel blended with 80 petrol diesel respectively) are currently the most
+ common way that biodiesel reaches end users. When used as a blended
+ fuel, biodiesel becomes an additive to petroleum diesel that substantially
+ lowers toxic emissions like carbon based gases while improving the performance
+ and longevity of the engine. 
+
+The
+ domestic and international petroleum based diesel fuel market is a mature
+ industry. In Europe, over 60 of the cars, buses, trucks, ships and
+ trains are powered by diesel fuels. In the U.S., the total petroleum
+ diesel fuel consumption was approximately 70 billion gallons in
+ 2005. Based on the interchangeability of petroleum diesel and
+ biodiesel fuel and current shortfall of supply as compared to demand in the
+ U.S.
+ biodiesel industry, without considering a potential increase in the percentage
+ of diesel to gasoline fuel consumption, unmet demand for biodiesel fuel seems
+ likely to require at least 10 years to resolve. 
+
+Biodiesel
+ can be used in 100 pure form (B100) or as an additive to petroleum
+ diesel. It requires no additional investment or alterations by fuel
+ distributors for piping, pumps or transportation equipment. And all
+ conventional diesel engines are can sun on biodiesel so no investments are
+ required by existing diesel car, bus, truck, ship or train
+ owners. The efficient logistics of biodiesel fuel, therefore, create
+ a significant competitive advantage. 
+
+The
+ 2005
+ U.S. petroleum diesel market was approximately 70 billion gallons and is
+ expected to grow 10 per year over the next several years. The
+ Federally mandated B2 blends (98 petroleum diesel plus 2 biodiesel) demand
+ translates into a 1.4 billion gallon U.S. market. In 2005, the total
+ U.S. biodiesel production was only 70 million gallons. Even
+ considering the 400+ million GPY of announced production under construction
+ at
+ this time, management believes that biodiesel fuel supply will lag behind the
+ increasing demand for many years. 
+
+5 
+
+Competitive
+ Conditions 
+
+The
+ European market for biodiesel fuel is significantly more mature than the
+ domestic biodiesel market. The existing European technology employs
+ customary production methods (also described above), producing over 700 million
+ gallons of biodiesel fuel per year. The major biodiesel fuel
+ producers in the current market are Archer Daniels Midland, Altra Biofuels,
+ Australian Renewable Fuels, D-1 Oils and Renewable Energy
+ Group. Several oil companies including Chevron and Exxon Mobil have
+ announced construction of 100 million GPY plants using the European industry
+ technology to come online by 2008. 
+
+Raw
+ Materials 
+
+Under
+ management s current plan to vertically integrate its biofuels business to
+ incorporate raw material (feed stock) procurement into its production, supply
+ and distribution chain, Better Biodiesel has commenced negotiating with land
+ cooperatives and agricultural concerns with the goal of securing land and
+ interests devoted to the cultivation and procurement of renewable crops and
+ diverse feedstock suitable for conversion to biodiesel fuel. The
+ choice of feedstock crops in a particular region would be based on the unique
+ weather patterns, soil conditions, native vegetation and other resources found
+ of that particular region of the U.S. as well a internationally, but may include
+ a combination of any or all of rapeseed, switchgrass, soybeans, cottonseed,
+ canola, palm, coconut, fats from animal processing plants and other organic
+ debris. 
+
+ Management
+ believes the value of long term supply chain commitments adds significant value
+ to the enterprise valuation. 
+
+Licenses 
+
+All
+ necessary
+ applications have been filed with the EPA (Environmental Protection Agency)
+ and
+ the IRS (Federal Internal Revenue Service). All necessary
+ state and county business licenses have been issued to Better
+ Biodiesel. Better Biodiesel adheres to all state and federal
+ requirements for the health and safety of its employees. 
+
+Research
+ and
+ Development 
+
+During
+ the twelve months ended September 30, 2007 and the nine months ended September
+ 30, 2006 the Company spent 43,502 and 26,544 on Research and Development,
+ respectively. 
+
+Employees 
+
+As
+ of
+ September 30, 2007, the Company employed six full time employees. 
+
+Domestic
+ Biodiesel Production
+ Capacity and Demand 
+
+Current
+ demand for all diesel fuel (bio- and petrol-) is estimated at approximately
+ 65
+ billion gallons, while current domestic production of biodiesel is a mere 300
+ million gallons. 
+
+Three
+ important trends define the biodiesel fuel market: 
+
+1) 
+
+Declining
+ petroleum diesel supply 
+
+2) 
+
+Increasing
+ petroleum diesel prices 
+
+3) 
+
+Mandated
+ demand for lower polluting, renewable, and locally produced
+ fuels. 
+
+In
+ spite
+ of favorable market forecasts for biodiesel, increasing costs of biodiesel
+ feedstock, resulting from increasing demand, and possible innovations of other
+ alternative fuels (ethanol, for example) may reduce any future biodiesel pricing
+ advantages that the company expects from increasing demand for petroleum
+ diesel. Currently, biodiesel market prices are 10 - 15 higher than
+ petroleum diesel. Biodiesel fuel contains approximately 90 of the
+ energy of petroleum diesel. 
+
+6 
+
+Marketing
+ Strategy 
+Positioning 
+
+Better
+ Biodiesel s marketing efforts will emphasize the inherent benefits of biodiesel
+ fuel and cost savings of the Company s proprietary technology and equipment
+ design: 
+
+1 .
+ Biodiesel
+ reduces emissions
+ significantly. The use of biodiesel in a conventional diesel
+ engine results in substantial reduction of unburned hydrocarbons, carbon
+ monoxide, and particulate matter as compared with petroleum
+ diesel. Biodiesel provides a decrease in the solid carbon fraction of
+ particulate matter (since the oxygen in biodiesel enables more complete
+ combustion to CO2) and eliminates the sulfate fraction (as there is no sulfur
+ in
+ the fuel), while the soluble, or hydrocarbon, fraction stays the same or is
+ increased. Emissions of nitrogen oxides indicate mixed results as emissions
+ test
+ of nitrogen oxides have shown either slightly reduced or slightly increased
+ depending on the duty cycle and testing methods. 
+
+Biodiesel
+ works well with new technologies such as catalysts, particulate traps, and
+ exhaust gas recirculation. Soy biodiesel reduces carbon dioxide by 78 on a
+ life
+ cycle basis. 
+
+2. Biodiesel
+ exhaust is less
+ offensive. The use of biodiesel and biodiesel blends results in a
+ noticeably less offensive exhaust odor than petroleum diesel. Users
+ also report absence of eye irritation when compare with petroleum
+ diesel. Furthermore, since biodiesel is oxygenated, diesel engines
+ have more complete combustion with biodiesel than with petroleum
+ diesel. 
+
+3. Biodiesel
+ is safer to
+ use than petroleum diesel. The flash point (the point at which fuel
+ ignites) for biodiesel in its pure form is a minimum of 260 degrees versus
+ about
+ 125 degrees Fahrenheit for regular No. 2 diesel, making biodiesel a
+ significantly safer fuel to use, handle and store. 
+
+Better
+ Biodiesel believes the rapidly expanding market of building biodiesel fuel
+ refineries will enter a period of consolidation by 2010. During this
+ expected consolidation, undercapitalized and unqualified entrants may become
+ targets of acquisition by larger, better-capitalized oil
+ incumbents. Better Biodiesel intends to exploit its competitive
+ advantages to pursue strategic relationships or business combination with
+ multiple, incumbent energy or agricultural companies to enhance the Company s
+ market position. 
+
+Marketing
+ and
+ Sales 
+
+Our
+ marketing efforts intend to target fuel blenders and distributors nationally.
+ These activities will employ: 
+
+1. 
+
+Press
+ and Advertising: We will concentrate our marketing message on the
+ unique
+ advantages of biofuels compared with conventional petroleum
+ diesel. We will
+ leverage: 
+
+a. 
+
+Advertisements
+ in local and national newspapers and
+ periodicals; 
+
+b. 
+
+Advertising
+ in industry trade journals and targeted environmental publications;
+ and 
+
+c. 
+
+Coverage
+ in alternative fuel websites and web
+ blogs. 
+
+2. 
+
+Attending
+ and speaking at conferences and
+ seminars. 
+
+3. 
+
+Attending
+ and exhibiting at energy events and industry trade
+ shows. 
+
+Risk
+ Factors 
+
+You
+ should carefully read and
+ consider the risks and uncertainties below and the other information contained
+ in this report. The risks and uncertainties described below are not
+ the only ones we may face. The following risks, together with the
+ additional risks and uncertainties not currently known to us or that we
+ currently deem immaterial could impair our financial condition and results
+ of
+ operation. 
+
+7 
+
+Risks
+ Related to Our Business and
+ Industry 
+
+Our
+ current operations have a
+ limited operating history, which make us a speculative
+ investment. 
+
+Since
+ the
+ inception of business operations, we have been engaged in organizational
+ activities, including developing a strategic operating plan, entering into
+ contracts, hiring personnel, developing and refining, altering and supplementing
+ our processing technology, raising private equity capital and seeking
+ acquisitions. Accordingly, we have limited relevant operating history
+ upon which an evaluation of our performance and prospects can be
+ made. We are subject to all of the business risks associated with a
+ new enterprise, including, but not limited to, risks of unforeseen capital
+ requirements, failure to obtain market acceptance, failure to establish business
+ relationships and assorted competitive disadvantages against larger and more
+ established companies. 
+
+We
+ have had a history of net losses
+ and our biodiesel technologies are unproven on a large-scale commercial basis
+ and could fail to perform in a commercial production environment, which could
+ have a detrimental effect on the long-term capital appreciation of our
+ stock. 
+
+During
+ the period from November 1, 2004 (date of inception) through September 30,
+ 2007,
+ we have incurred a net loss of 2,840,482, and may incur additional losses
+ thereafter, depending upon our ability to generate material revenues or achieve
+ profitable operations from biodiesel production, supply and
+ distribution. While production of biodiesel fuel is a mature
+ technology, other technologies for production may still be in
+ development. The biodiesel technologies that we pursue have never
+ been utilized on a large-scale commercial basis. All of the tests
+ conducted to date by us with respect to our biodiesel technologies have been
+ performed on limited quantities of feedstocks, and we cannot assure that the
+ same or similar results could be obtained at competitive costs on a large-scale
+ commercial basis. 
+
+We
+ have
+ never utilized these biodiesel technologies under the conditions or in the
+ volumes that will be required to be profitable and cannot predict all of the
+ difficulties that may arise. It is possible that the technologies,
+ when used, may require further research, development, design and testing prior
+ to larger-scale commercialization. Accordingly, we cannot assure you
+ that these technologies will perform successfully on a large-scale commercial
+ basis or that they will be profitable to us. 
+
+Failure
+ to make accretive
+ acquisitions and to successfully integrate them could adversely affect our
+ future financial results. 
+
+As
+ part
+ of our growth strategy, we will seek to acquire or invest in complementary
+ (including competitive) businesses, facilities or technologies and enter into
+ co-location joint ventures. Our goal is to make such acquisitions,
+ integrate these acquired assets into our operations and reduce operating
+ expenses. The process of integrating these acquired assets into our
+ operations may result in unforeseen operating difficulties and expenditures
+ and
+ may absorb significant management attention that would otherwise be available
+ for the ongoing development of our current business. We cannot assure
+ you that the anticipated benefits of any acquisitions will be realized, nor
+ of
+ the long term survival of our business in the absence of such
+ acquisitions. In addition, future acquisitions by us could result in
+ potentially dilutive issuances of equity securities, the incurrence of debt
+ and
+ contingent liabilities and amortization expenses related to goodwill and other
+ intangible assets, any of which can materially and adversely affect our
+ operating results and financial position. 
+
+Our
+ business employs proprietary
+ technology and information which may be difficult to protect and may infringe
+ on
+ the intellectual property rights of third parties. 
+
+Our
+ success depends, in part, on our ability to obtain patents, maintain trade
+ secrecy and operate without infringing on the proprietary rights of third
+ parties. We cannot assure you that the patents of others will not
+ have an adverse effect on our ability to conduct our business, that we will
+ develop additional proprietary technology that is patentable, that any such
+ applications will be approved, or that any patents issued to us will provide
+ us
+ with any competitive advantages or will not be challenged by third
+ parties. Further, we cannot assure you that others will not
+ independently develop similar or superior technologies, duplicate elements
+ of
+ our technology or design around it. 
+
+8 
+
+It
+ is
+ possible that we may need to acquire licenses to, or to contest the validity
+ of,
+ issued or pending patents or claims of third parties. We cannot
+ assure you that any license acquired under such patents would be made available
+ to us on acceptable terms, if at all, or that we would prevail in any such
+ contest. In addition, we could incur substantial costs in defending
+ ourselves in suits brought against us for alleged infringement of another
+ party s patents or in defending the validity or enforceability of our patents,
+ or in bringing patent infringement suits against other parties based on our
+ patents. 
+
+In
+ addition to patent protection, we also rely on trade secrets, proprietary
+ know-how and technology that we seek to protect, in part or in whole, by
+ confidentiality agreements with prospective joint venture partners, employees
+ and consultants. We cannot assure you that these agreements will not
+ be breached, or that we will have adequate remedies for any breach, or that
+ our
+ trade secrets and proprietary know-how will not otherwise become known or be
+ independently discovered by others. 
+
+We
+ will have a need for financing in
+ order to sustain our operations and in order to expand, which may not be
+ available when needed. If we cannot obtain needed funding to sustain
+ our operations we may have to curtail our operations, sell some of our assets
+ or
+ take actions that may dilute the financial interests of our shareholders and
+ creditors. 
+
+We
+ have
+ financed our operations to date primarily through capital contributions by
+ Company stockholders, Company founders, and through the issuance of debt. Based on our current
+ financial position, cash forecast and plan of operation, we believe, but can
+ not
+ be certain, that we do not have adequate cash resources to sustain our
+ operations through the next fiscal year unless we are able to raise additional
+ capital. 
+
+Additionally,
+ future capital requirements could vary significantly and will depend on certain
+ factors, many of which are not within our control. These include the
+ nature of ongoing development and testing of our proprietary biodiesel
+ technologies, the nature and timing of necessary plant acquisitions and
+ improvements, permitting, and the availability of financing. The
+ development of our business will require us to commit significant capital
+ resources in amounts substantially in excess of our current financial
+ resources. 
+
+We
+ are dependent
+ upon management,
+ whom we need to succeed. 
+
+We
+ believe that our continued success will depend to a significant extent upon
+ our
+ ability to retain management capable of facilitating capital financing and
+ of
+ executing our business plan, but have a limited management team at this
+ time. We are currently seeking strategic management for these
+ purposes. See Management. 
+
+We
+ are smaller and have fewer
+ financial resources than many larger biodiesel producers; therefore, we may
+ not
+ be able to successfully compete in the biodiesel
+ industry. 
+
+There
+ is
+ significant pricing competition among biodiesel producers. Our
+ business faces competition from larger plants, from plants that can produce
+ a
+ wider range of products than we produce, and from similar biodiesel
+ participants. Many of our competitors have greater resources than we
+ currently have. Large biodiesel producers are capable of producing a
+ significantly greater amount of biodiesel than we can and expect to produce,
+ and
+ to draw upon economies of scale that are not yet available to us. 
+
+Competition
+ from large producers of
+ petroleum-based diesel fuels and other competitive products may impact our
+ profitability. 
+
+We
+ will
+ also compete with producers of other petroleum-based diesel fuels having similar
+ performance and tail-pipe emissions characteristics as biodiesel, if not the
+ life-cycle emissions advantage that we foresee arising from vegetative based
+ biodiesel. The major oil companies have significantly greater
+ resources than we have to develop alternative products and to influence
+ legislation and public perception of biodiesel. These other companies
+ also have significant resources to begin production of biodiesel should they
+ choose to participate. 
+
+9 
+
+Our
+ profits are impacted by
+ feedstock oil prices, which could impact the value of your
+ investment. 
+
+Our
+ biodiesel production is dependant on feedstock oils, which are derived from
+ agricultural commodities such as soybeans, and animal fats. A
+ significant reduction in the harvest of these commodities due to adverse weather
+ conditions, farmer planting decisions, domestic and foreign government farm
+ programs and policies, global demand and supply, or other factors could result
+ in increased feedstock oil costs, which would thus increase our cost to produce
+ biodiesel. The significance and relative impact of these factors on
+ the price of these feedstock oil commodities is difficult to predict, but such
+ pricing pressure due to commodity prices has already negatively impacted both
+ corn based ethanol and biodiesel. Any events that tend to negatively
+ impact the supply of feedstock oil commodities will tend to increase prices
+ and
+ harm our business. 
+
+Rising
+ feedstock prices produce lower profit margins for the production of biodiesel
+ and, therefore, represent unfavorable market conditions. This is
+ especially true when market conditions do not allow us to pass along increased
+ feedstock costs to our customers, which is generally the case where petroleum
+ biodiesel is priced more favorably or at a similar level. 
+
+The
+ price
+ of soybeans and other feedstock commodities has fluctuated significantly in
+ the
+ past and may fluctuate significantly in the future. We cannot assure
+ you that we will be able to offset any increase in the price of feedstock by
+ increasing the price of our product. If we cannot offset increases in
+ the price of feedstock oil, our financial performance may be materially and
+ adversely affected. 
+
+If
+ petroleum diesel prices drop
+ significantly, we will also be forced to reduce our prices, which potentially
+ may lead to further losses. 
+
+Prices
+ for biodiesel products can vary significantly over time and decreases in price
+ levels could adversely affect our profitability and viability. The
+ price of biodiesel has some relation to the price of petroleum diesel as well
+ as
+ gasoline. The price of biodiesel tends to decrease as the price of
+ petroleum diesel decreases, in order to remain competitive. Any
+ lowering of petroleum prices will likely lead to lower prices for biodiesel
+ and
+ adversely affect our operating results. We cannot assure you that we
+ will be able to sell our biodiesel profitably, or at all. 
+
+Increased
+ biodiesel production in
+ the United States could increase the demand for feedstocks and the resulting
+ price of feedstocks, reducing our profitability. 
+
+Increased
+ biodiesel production without a similar (or greater) increase in feed stock
+ supply would likely lead to an increase in feedstock prices, resulting in higher
+ production costs and lower profits. We believe that our plan to
+ pursue greater vertical integration in production and supply, including
+ participation in feedstock investment and development, will help reduce these
+ risks. 
+
+Price
+ increases or interruptions in
+ needed energy supplies could cause loss of customers and impair our
+ profitability. 
+
+Biodiesel
+ production requires a constant and consistent supply of energy. If
+ there is any interruption in our supply of energy for whatever reason, such
+ as
+ availability, delivery or mechanical problems, we may be required to halt
+ production. If we halt production for any extended period of time, it
+ will have a material adverse effect on our business. Natural gas and
+ electricity prices have historically fluctuated significantly. We
+ purchase significant amounts of these resources as part of our biodiesel
+ production. Increases in the price of natural gas or electricity
+ would harm our business and financial results by increasing our energy
+ costs. 
+
+10 
+
+Risks
+ Related to Government
+ Regulation and Subsidization 
+
+Federal
+ regulations concerning tax
+ incentives could expire or change, which could cause an erosion of the current
+ competitive strength of the biodiesel industry. 
+
+Congress
+ currently provides certain federal tax credits for biodiesel producers and
+ marketers. The biodiesel industry and our business will depend on
+ continuation of these credits until significant increases in raw material supply
+ and production efficiencies are attained. The credits have supported
+ a market for biodiesel that might disappear without the credits. 
+
+These
+ credits may not continue beyond their scheduled expiration date or, if they
+ continue, the incentives may not be at the same level. The revocation
+ or amendment of any one or more of these tax incentives could adversely affect
+ the future use of biodiesel in a material way, and we cannot assure investors
+ that any of these tax incentives will be continued. The elimination
+ or reduction of federal tax incentives to the biodiesel industry could have
+ a
+ material adverse impact on our business by making it more costly or difficult
+ for it to produce and sell biodiesel. If the federal biodiesel tax
+ incentives are eliminated or sharply curtailed, we believe that a decreased
+ demand for biodiesel could result. 
+
+Lax
+ enforcement of environmental and
+ energy policy regulations may adversely affect demand for
+ biodiesel. 
+
+Our
+ success will depend in part on effective enforcement of existing environmental
+ and energy policy regulations. Many of our potential customers are
+ unlikely to switch from the use of conventional fuels unless compliance with
+ applicable regulatory requirements leads, directly or indirectly, to the use
+ of
+ biodiesel. Both additional regulation and enforcement of such
+ regulatory provisions are likely to be vigorously opposed by the entities
+ affected by such requirements. If existing emissions-reducing
+ standards are weakened, or if governments are not active and effective in
+ enforcing such standards, our business and results of operations could be
+ adversely affected. 
+
+Even
+ if
+ the current trend toward more stringent emissions standards continues, we will
+ depend on the ability of biodiesel to satisfy these emissions standards more
+ efficiently than other alternative technologies. Certain standards
+ imposed by regulatory programs may limit or preclude the use of our products
+ to
+ comply with environmental or energy requirements. Any decrease in the
+ emission standards or the failure to enforce existing emission standards and
+ other regulations could result in a reduced demand for biodiesel. A
+ significant decrease in the demand for biodiesel will reduce the price of
+ biodiesel, adversely affect our profitability and decrease the value of your
+ stock. 
+
+Costs
+ of compliance with burdensome
+ or changing environmental and operational safety regulations could cause our
+ focus to be diverted away from our business and our results of operations to
+ suffer. 
+
+Biodiesel
+ production involves the emission of various airborne pollutants, including
+ particulate matter, carbon monoxide, carbon dioxide, nitrous oxide, volatile
+ organic compounds and sulfur dioxide. As a result, we are subject to
+ complicated environmental regulations of the U.S. Environmental Protection
+ Agency and regulations and permitting requirements of state
+ governments. These regulations are subject to change and such changes
+ may require additional capital expenditures or increased operating
+ costs. Consequently, considerable resources may be required to comply
+ with future environmental regulations. In addition, biodiesel plants
+ could be subject to environmental nuisance or related claims by employees,
+ property owners or residents near the biodiesel plants arising from air or
+ water
+ discharges. Environmental and public nuisance claims, or tort claims
+ based on emissions, or increased environmental compliance costs could
+ significantly increase our operating costs. 
+
+Biodiesel
+ plants will also be subject to federal and state laws regarding occupational
+ safety. Risks of substantial compliance costs and liabilities are
+ inherent in biodiesel production. We may be subject to costs and
+ liabilities related to worker safety and job related injuries, some of which
+ may
+ be significant. Possible future developments, including stricter
+ safety laws for workers and other individuals, regulations and enforcement
+ policies and claims for personal or property damages resulting from operation
+ of
+ the biodiesel plants could reduce the amount of cash that would otherwise be
+ available to further enhance our business. 
+
+11 
+
+Risks
+ Related to Our Common
+ Stock 
+
+Our
+ common stock price may fluctuate
+ considerably and stockholders may not be able to resell their shares at or
+ above
+ the price at which such shares were purchased. 
+
+The
+ market price of our common stock may fluctuate significantly in response to
+ factors, some of which are beyond our control, including the
+ following: 
+
+Inability
+ to commercially manufacture or market and distribute biodiesel
+ fuel; 
+
+Inability
+ to manufacture biodiesel fuel as efficiently as we expect due to
+ factors
+ related to costs and supply of feedstock oil and
+ energy; 
+
+Factors
+ affecting demand for biodiesel such as price, competition and general
+ economic conditions; 
+
+Discontinuation
+ or limitations on state and federal biodiesel
+ subsidies; 
+
+Negative
+ public sentiment toward biodiesel production and use;
+ and 
+
+Environmental
+ restrictions increasing the costs and liabilities of biodiesel
+ production. 
+
+The
+ stock
+ market in general has experienced extreme price and volume
+ fluctuations. The market prices of securities of fuel-related
+ companies have experienced fluctuations that often have been unrelated or
+ disproportionate to the operating results of these
+ companies. Continued market fluctuations could result in extreme
+ volatility in the price of our common stock, which could cause a decline in
+ the
+ value of our common stock. Price volatility might be worse if the
+ trading volume of our common stock is low. 
+
+Because
+ we became public by means of
+ a reverse merger, we may not be able to attract the attention of major brokerage
+ firms for research and support. 
+
+Additional
+ risks may exist since we became public through a reverse
+ merger. Securities analysts of major brokerage firms may not provide
+ us with coverage since there is no incentive to brokerage firms to recommend
+ the
+ purchase of our common stock. We cannot assure you that brokerage
+ firms will want to conduct any secondary offerings on our behalf in the
+ future. 
+
+Our
+ common stock may be considered
+ a penny stock and may be difficult for you to sell. 
+
+The
+ SEC
+ has adopted regulations which generally define penny stock to be an equity
+ security that has a market price of less than 5.00 per share or an exercise
+ price of less than 5.00 per share, subject to specific
+ exemptions. The market price of our common stock has been for much of
+ its trading history since February 2005 and may continue to be less than 5.00
+ per share, and therefore may be designated as a penny stock according to SEC
+ rules. This designation requires any broker or dealer selling these
+ securities to disclose certain information concerning the transaction, obtain
+ a
+ written agreement from the purchaser and determine that the purchaser is
+ reasonably suitable to purchase the securities. These rules may
+ restrict the ability of brokers or dealers to sell our common stock and may
+ affect the ability of investors to sell their shares. In addition,
+ since our common stock is currently traded on the NASD s OTC Bulletin Board,
+ investors may find it difficult to obtain accurate quotations of our common
+ stock and may experience a lack of buyers to purchase such stock or a lack
+ of
+ market makers to support the stock price. 
+
+12 
+
+Failure
+ to achieve and maintain
+ effective internal controls in accordance with Section 404 of the Sarbanes-Oxley
+ Act of 2002 could have a material adverse effect on our business and operating
+ results. In addition, current and potential stockholders could lose
+ confidence in our financial reporting, which could have an adverse effect on
+ our
+ stock price. 
+
+Effective
+ internal controls are necessary for us to provide reliable financial reports
+ and
+ effectively prevent fraud. If we cannot provide reliable financial
+ reports or prevent fraud, our operating results could be harmed. 
+
+In
+ accordance with 1933 Act Release No. 8760, commencing with our fiscal year
+ ending September 30, 2008, we will become subject to the requirement to include
+ in our annual report management s assessment of internal controls over financial
+ reporting. This assessment will require us to document and test our
+ internal control procedures in accordance with Section 404 of the Sarbanes-Oxley
+ Act of 2002. Our independent registered public accountants will be required
+ to
+ attest to our assessment of internal controls for our fiscal year ending
+ September 30, 2009. 
+
+During
+ the course of our testing, we may identify deficiencies which we may not be
+ able
+ to remediate in time to meet the deadline imposed by the Sarbanes-Oxley Act
+ for
+ compliance with the requirements of Section 404. In addition, if we
+ fail to maintain the adequacy of our internal accounting controls, as such
+ standards are modified, supplemented or amended from time to time, we may not
+ be
+ able to ensure that we can conclude on an ongoing basis that we have effective
+ internal controls over financial reporting in accordance with Section
+ 404. Failure to achieve and maintain an effective internal control
+ environment could cause us to face regulatory action and also cause investors
+ to
+ lose confidence in our reported financial information, either of which could
+ have an adverse effect on our stock price. 
+
+Our
+ principal stockholders have
+ significant voting power and may take actions that may not be in the best
+ interest of all other stockholders. 
+
+Our
+ officers, directors and principal stockholders control approximately 84 of
+ our
+ currently outstanding shares of common stock. If these stockholders
+ act together, they may be able to exert significant control over our management
+ and affairs requiring stockholder approval, including approval of significant
+ corporate transactions. This concentration of ownership may have the
+ effect of delaying or preventing a change in control and might adversely affect
+ the market price of our common stock. This concentration of ownership
+ may not be in the best interests of all our stockholders. 
+
+Investors
+ should not anticipate
+ receiving cash dividends on our common stock. 
+
+We
+ have
+ never declared or paid any cash dividends or distributions on our capital
+ stock. We currently intend to retain our future earnings to support
+ operations and to finance expansion and therefore we do not anticipate paying
+ any cash dividends on our common stock in the foreseeable future. 
+
+We
+ could issue blank check 
+preferred stock without stockholder approval with the effect of diluting then
+ current stockholder interests and impairing their voting rights, and provisions
+ in our charter documents and under Delaware law could inhibit a takeover at
+ a
+ premium price. 
+
+Our
+ certificate of incorporation authorizes the issuance of up to 5,000,000 shares
+ of blank check preferred stock with designations, rights and preferences as
+ may be determined from time to time by our board of
+ directors. Accordingly, our board of directors is empowered, without
+ stockholder approval, to issue a series of preferred stock with dividend,
+ liquidation, conversion, voting or other rights which could dilute the interest
+ of, or impair the voting power of, our common stockholders. The
+ issuance of a series of preferred stock could be used as a method of
+ discouraging, delaying or preventing a change in control. 
+
+ITEM
+ 2. DESCRIPTION OF
+ PROPERTY 
+
+The
+ Company does not own any real property. Better Biodiesel s production
+ facilities are located on an operational rail spur in Spanish Fork, Utah, just
+ off Interstate Highway 15. As of the date of this filing,
+ however, the Company is actively seeking to relocate its
+ facilities. 
+
+13 
+
+ITEM
+ 3. LEGAL PROCEEDINGS 
+
+The
+ Company is not currently subject to any legal proceedings. From time to time,
+ the Company may become subjected to litigation or proceedings in connection
+ with
+ its business, as either a plaintiff or defendant. The Company is
+ currently not aware of any pending legal proceedings to which the Company may
+ become a party that is likely to have a material adverse effect on the Company s
+ business, financial condition or results of operations. 
+
+ITEM
+ 4. SUBMISSION OF MATTERS TO A
+ VOTE OF SECURITY HOLDERS 
+
+None
+ during the fiscal year ended September 30, 2007. 
+
+PART
+ II 
+
+ITEM
+ 5. MARKET FOR COMMON EQUITY AND
+ RELATED STOCKHOLDER MATTERS 
+
+The
+ Company s common stock is traded in
+ the Over-the-Counter market and is quoted on the Electronic Bulletin Board
+ OTC
+ Bulletin Board under the symbol Better Biodiesel. The following
+ table represents the range of the high and the low closing prices, as quoted
+ on
+ the OTC Bulletin Board, for each fiscal quarter for the fiscal year ended
+ September 30, 2007 for the transition period ended September 30,
+ 2006. These quotations represent prices between dealers, and may not
+ include retail mark-ups, markdowns or commissions, and may not necessarily
+ represent actual transactions. On September 20, 2006, the Company s
+ amended its Articles of Incorporation to change the Company s name to Better
+ Biodiesel, Inc., and to reverse split its shares of common stock on the basis
+ of
+ one share for each two shares issued and outstanding with all fractional shares
+ rounded up to the nearest whole share. The foregoing amendments were effective
+ September 21, 2006. On September 29, 2006, the Company announced the closing
+ of
+ its acquisition of Domestic Energy Partners, LLC by way of a Share Exchange
+ Agreement . 
+
+FISCAL
+ QUARTER ENDING 
+
+HIGH 
+
+LOW 
+
+September
+ 30, 2007 
+
+2.40 
+
+1.50 
+
+June
+ 30, 2007 
+
+2.70 
+
+2.40 
+
+March
+ 31, 2007 
+
+7.00 
+
+3.70 
+
+December
+ 31, 2006 
+
+9.70 
+
+7.95 
+
+September
+ 30, 2006 
+ 
+ 2.50 
+
+1.30 
+
+June
+ 30, 2006 
+ 
+ 6.00 
+
+1.30 
+
+March
+ 31, 2006 
+ 
+ 6.00 
+
+3.10 
+
+December
+ 31, 2005 
+ 
+ 10.00 
+
+4.00 
+
+As
+ of
+ January 10, 2008, the Company had 15,195,001 shares of common stock issued
+ and
+ outstanding and had approximately 82 stockholders of record. 
+
+We
+ have
+ never declared or paid cash dividends to our stockholders. We currently intend
+ to retain all available funds and any future earnings for use in the operation
+ of our business and we do not anticipate declaring or paying cash dividends
+ for
+ the foreseeable future. 
+
+Equity
+ Compensation
+ Plans 
+
+In
+ August
+ 2002 the Company established an equity compensation plan, the 2002 Equity
+ Incentive Plan (the Equity Incentive Plan ), authorizing 2,500,000 shares of
+ common stock of the Company, which pursuant to the terms of the Equity Incentive
+ Plan was adjusted downward, as a result of the September 2006 reverse stock
+ split of the Company s common stock to 1,250,000 shares, for the grant of
+ incentive stock options and non-qualified stock options, as well as restricted
+ stock awards or bonuses. Currently, no options are issued and
+ outstanding and no options or stock grants have been issued Equity Incentive
+ Plan, nor has the Company s Board of Directors has not allocated any shares to
+ the Equity Incentive Plan. 
+
+14 
+
+Pursuant
+ to Section 4.3 of the Equity Incentive Plan the number of shares authorized,
+ issued and outstanding or stock awards or options granted under the Equity
+ Incentive Plan are adjusted in like manner with any increase, decrease in the
+ issued and outstanding shares by payment of stock dividend or other distribution
+ payable in stock, or through stock split, subdivision, consolidation,
+ combination or recapitalization. 
+
+Equity
+ Compensation Plan
+ Information 
+
+Plan
+ Category 
+
+Number
+ of securities to 
+
+Weighted-average 
+
+Number
+ of securities 
+
+be
+ issued upon exercise 
+
+exercise
+ price of 
+
+remaining
+ available for 
+
+of
+ outstanding options, 
+
+outstanding
+ options, 
+
+future
+ issuance under 
+
+warrants
+ and rights (a) 
+
+warrants
+ and rights (b) 
+
+equity
+ compensation 
+
+plans
+ (excluding 
+
+securities
+ reflected in 
+
+column
+ (a)) 
+
+Equity
+ compensation 
+
+N/A 
+
+N/A 
+
+N/A 
+
+plans
+ approved by 
+
+security
+ holders 
+
+Equity
+ compensation 
+
+N/A 
+
+Price
+ as listed on the 
+
+N/A 
+
+plans
+ not approved by 
+
+OTCBB
+ at the time of 
+
+security
+ holders 
+
+issuance. 
+
+Recent
+ Sales of Unregistered
+ Securities 
+
+During
+ the fiscal year ended September 30, 2007 and for the nine month transition
+ period ended September 30, 2006, the Company sold the following securities
+ that
+ were not registered under the Securities Act of 1933 (the Act and not
+ reported on any other form: 
+
+During
+ May and June 2007 the Company sold 377,500 units of securities of the Company,
+ pursuant to an exemption under Rule 506 of the Securities Act to accredited
+ investors, as defined in Rule 501 of the Securities Act in a private placement
+ (the Private Placement ). The units consist of 377,500 shares of
+ common stock and warrants to purchase 377,500 share of common stock at 2.65
+ per
+ share. The units were sold at 2.00 per unit. Gross
+ proceeds totaled 755,000. The Company s Chief Executive Officer and
+ Chief Financial Officer purchased 41,000 and 25,000 units,
+ respectively. The common shares have piggy back registration rights
+ and demand registration rights after 90 days, subject to limitations for
+ additional financing being sought and limitations under current SEC
+ regulations. 
+
+The
+ warrants vest immediately, expire in five years and may be exercised for cash
+ or
+ on a cashless basis. Analysis utilizing the Black-Scholes model
+ utilizing volatility of 184 , a dividend yield of 0 and a risk free interest
+ rate of 5.1 resulted in an allocation of proceeds of 385,050 to common stock
+ (51 and 369,950 to the warrants as additional paid in capital
+ (49 ). The Company accrued 75,500 as a placement fee that is payable
+ at a larger round of financing or as a result of terminating the underlying
+ agreement and allocated the costs as 51 to common stock and 49 to additional
+ paid in capital. The Company also issued to Thomas Lloyd Capital, LLC
+ 28,491 warrants as a placement fee with an exercise price of 2.65, expiring
+ in
+ five years that can be exercised as cash or cashless. The warrants
+ were valued utilizing the Black- Scholes model utilizing a volatility of 179 ,
+ a
+ dividend yield of 0 and a risk free rate of 4.9 . The 65,523 value
+ was recorded as a reduction to common stock proceeds. 
+
+In
+ June
+ 2007 the Company issued 67,500 units of securities of the Company, pursuant
+ to a
+ private placement exemption under Section 4(2) of the Securities Act to
+ accredited investors, consisting of 67,500 shares of common stock and warrants
+ to purchase 67,500 shares of common stock valued at 2.00 per
+ unit. The terms and conditions of the securities are the same as the
+ Private Placement described above, excluding placement fees. In
+ exchange the Company received 11,107 of inventory, 35,721 of assets and
+ 88,172 of operating expenses. The 135,000 was allocated 51 to
+ common stock and 49 to additional paid in capital. 
+
+15 
+
+In
+ Connection with the share exchange between the Company and DEP, which closed
+ on
+ September 29, 2006 the Company, authorized the issuance of 28,500,000 shares
+ of
+ its unregistered common stock, pursuant to the private offering exemption under
+ Section 4(2) of the Securities Act of 1933. The issuance was as
+ follows: 
+
+In
+ exchange for services provided, the Company authorized the issuance of 4,500,000
+ shares of common stock to Capital Group Communications, Inc. and 1,500,000
+ shares of its common stock to Joseph Martin, LLC. 
+
+At
+ the
+ election of Sausalito Capital Partners I, LLC, pursuant to the terms of a
+ convertible promissory note issued to SCP by the Company, SCP converted the
+ promissory note into 1,500,000 shares of the Company s common
+ stock. 
+
+Additionally,
+ in connection with the terms the Company s share exchange agreement with
+ Domestic Energy Partners, LLC ,
+ under an exemption provided by Section 4(2) of the Securities Act of 1933,
+ the
+ Company issued, in exchange for all of the and outstanding equity and voting
+ interests of Domestic Energy Partners, LLC, 5,250,000 shares of common stock
+ to
+ Ron Crafts, 5,250,000 shares to John Crawford, 3,755,500 shares to Lynn Dean
+ Crawford, 2,625,000 shares to Peter Kristensen, 2,625,000 shares to Briton
+ McConkie and 1,494,500 shares of common stock to James
+ Crawford. 
+
+ITEM
+ 6. MANAGEMENT S DISCUSSION AND ANALYSIS OR
+ PLAN OF OPERATIONS 
+
+FORWARD
+ LOOKING STATEMENTS CAUTIONARY 
+
+This
+ Item
+ 6 and the report on Form 10-KSB for the twelve month period ended September
+ 30,
+ 2007 may contain forward-looking statements. In some cases, you can identify
+ forward-looking statements by terminology such as may, will, should, 
+ could, expects, plans, intends, anticipates, believes, estimates, 
+ predicts, potential or continue or the negative of such terms and other
+ comparable terminology. These forward-looking statements include, without
+ limitation, statements about our market opportunity, our strategies,
+ competition, expected activities and expenditures as we pursue our business
+ plan, and the adequacy of our available cash resources. Although we believe
+ that
+ the expectations reflected in any forward-looking statements are reasonable,
+ we
+ cannot guarantee future results, levels of activity, performance or
+ achievements. Actual results may differ materially from the predictions
+ discussed in these forward-looking statements. Changes in the circumstances
+ upon
+ which we base our predictions and/or forward-looking statements could materially
+ affect our actual results. Additional factors that could materially affect
+ these
+ forward-looking statements and/or predictions include, among other things:
+ (1)
+ our limited operating history; (2) our ability to pay down existing debt; (3)
+ the Company s ability to obtain contracts with suppliers of raw materials (for
+ the Company s production of biodiesel fuel) and distributors of the Company s
+ biodiesel fuel product; (4) the risks inherent in the mutual performance of
+ such
+ supplier and distributor contracts (including the Company s production
+ performance); (5) the Company s ability to protect and defend the Company s
+ proprietary technology; (6) the Company s ability to secure and retain
+ management capable of managing growth; (7) the Company s ability to raise
+ necessary financing to execute the Company s business plan; (8) potential
+ litigation with our shareholders, creditors and/or former or current investors;
+ (9) the Company s ability to comply with all applicable federal, state and local
+ government and international rules and regulations; and (10) other factors
+ over
+ which we have little or no control. 
+
+Organization
+ and
+ Business - Better Biodiesel, Inc. (f/k/a Mountain States Holdings, Inc.
+ Mountain States )) was incorporated as a Colorado corporation in November 1990
+ under the name Slam Dunk Enterprises, Inc, was inactive until May 1998 when
+ it
+ started engaging in the business of providing first and second mortgage
+ financing under the name of Mountain States Lending, Inc. During January
+ 2001, the corporation filed articles of amendment with the Colorado Secretary
+ of
+ State, changing the corporation s name to Mountain States Lending, Inc., and
+ during September 2002 changed the name again, to Mountain States Holdings,
+ Inc. During September 2002, the corporation formed a wholly-owned
+ subsidiary named Mountain States Lending, Inc. Mountain States Lending and
+ on December 31, 2002, it transferred all of its assets and liabilities related
+ to the mortgage lending business to this new subsidiary. In August 2006,
+ all of the Company s assets and liabilities resided in two wholly-owned
+ subsidiaries that were spun-off to two stockholders, one of whom was the former
+ CEO of the Company, in exchange for 325,000 pre-split (162,500 post-split)
+ shares of the Company s common stock. In September 2006, the Company
+ entered into a the Exchange Agreement with Domestic Energy Partners, LLC, a
+ Utah
+ limited liability company DEP ), pursuant to which it acquired all of the
+ equity interests in DEP. On September 20, 2006 prior to the closing of its
+ Exchange Agreement with DEP, a majority of the shareholders of the Company
+ at a
+ special meeting of the shareholders approved amendments to the Company s
+ Articles of Incorporation to change the Company s name to Better Biodiesel,
+ Inc., and to reverse split its shares of common stock on the basis of one share
+ for each two shares issued and outstanding with all fractional shares rounded
+ up
+ to the nearest whole share. The foregoing amendments were effective September
+ 21, 2006. 
+
+16 
+
+The share exchange of the Company and DEP has been accounted for as a reverse
+ merger, which is equivalent to a recapitalization of the Company. Thus, in
+ the September 30, 2007 Financial Statements of the Company included in this
+ Form
+ 10-KSB, which present the Company as being in the development stage, the assets
+ and liabilities in the consolidated balance sheets are the book values of DEP s
+ assets and liabilities and the operations in the consolidated statement of
+ operations are the operations of DEP. Further, unless obvious from the
+ context that they refer to Mountain States, operational and financial data
+ presented elsewhere in this Form 10-KSB refer to DEP, as the Company s sole and
+ wholly-owned subsidiary. 
+
+PLAN
+ OF OPERATION 
+
+During
+ the next 12-month period the Company intends to focus on (1) the commercial
+ development of (i) proprietary biodiesel fuel technology (ii) the procurement
+ and supply of biodiesel raw materials and (iii) marketing and distribution
+ of
+ biodiesel fuel products (2) the vertical integration of these strategies, and
+ (3) raising additional capital through debt or equity financing. 
+
+Management
+ believes that the key to profitability in the biodiesel industry is to control
+ raw material and production costs. Rising commodity prices have
+ caused many biodiesel producers to close operations while concurrently leading
+ to a tightening of available investment capital. To control costs, the Company
+ is expanding its focus to establish long-term contracts with low cost,
+ diversified feedstock providers, and investing in technologies to that will
+ enable the processing of a wider range of feedstocks. From the point
+ of acquisition of low cost feedstock, the Company s goal will be to produce high
+ quality American Society for Testing and Materials ASTM fuel using existing
+ proven technologies. Additionally, the Company intends to acquire
+ established biodiesel plants to produce biodiesel fuel for resale and is
+ investigating a potential acquisition of an established petrodiesel distributor
+ capable of distributing biodiesel fuel. 
+
+We
+ had a
+ net loss of 2,367,682 for the twelve months ended September 30, 2007 and a
+ net
+ loss of 420,853 for the transitional period (nine months) ended September
+ 30,
+ 2006, an increase in net loss of 1,946,829. The increase in net loss
+ is due to an increase of 664,099 in costs associated with warrant and option
+ related expenses for consulting, director fees and other expenses, a 104,787
+ increase in interest expense, a 119,546 increase in depreciation expense as
+ well as increase in other operating expenses associated with being a public
+ company for a full twelve months. The loss from inception (November 1,
+ 2004) through September 30, 2007 amounted to 2,840,482. 
+
+We
+ have
+ financed our operations through various related party advances, private equity
+ and debt transactions. 
+
+Going
+ concern
+ presentation - The accompanying consolidated financial statements have
+ been prepared in conformity with generally accepted accounting principles,
+ which
+ contemplate continuation of the Company as a going concern. The Company has
+ incurred recurring losses from operations and has a net working capital
+ deficiency and net capital deficiency that raises substantial doubt about its
+ ability to continue as a going concern. The Report of Independent Registered
+ Public Accounting Firm included in this Annual Report on Form 10-KSB stated
+ that
+ these conditions, among others, raise substantial doubt about the Company s
+ ability to continue as a going concern. Company management intends to raise
+ additional debt and equity financing to fund future operations and to provide
+ additional working capital. However, there is no assurance that such financing
+ will be obtained in sufficient amounts necessary to meet the Company s needs.
+ The accompanying consolidated financial statements do not include any
+ adjustments to reflect the possible future effects on the recoverability and
+ classification of assets or the amounts and classifications of liabilities
+ that
+ may result from the outcome of this uncertainty. 
+
+17 
+
+Critical
+ Accounting Policies
+ and Estimates - The preparation of financial statements included in this
+ Annual Report on Form 10-KSB requires management to make estimates and
+ assumptions that affect the reported amounts of assets and liabilities at the
+ date of the financial statements and the reported amounts of revenues and
+ expenses during the reporting period. On an on-going basis, management
+ evaluates its estimates and judgments. Management bases its estimates and
+ judgments on historical experiences and on various other factors that are
+ believed to be reasonable under the circumstances, the results of which form
+ the
+ basis for making judgments about the carrying value of assets and liabilities
+ that are not readily apparent from other sources. Actual results may
+ differ from these estimates under different assumptions or conditions. The
+ more significant accounting estimates inherent in the preparation of the
+ Company s financial statements include estimates as to the valuation of equity
+ related instruments issued, and valuation allowance for deferred income tax
+ assets. Our accounting policies are described in the notes to financial
+ statements included in this Annual Report on Form 10-KSB. The more critical
+ accounting policies are as described below. 
+
+Revenue
+ recognition - The
+ Company recognizes revenue when the product has been delivered or the services
+ have been provided to the customer, the sales price is fixed or determinable,
+ and collectability is reasonably assured. 
+
+Income
+ taxes - The Company
+ utilizes SFAS No. 109, Accounting for Income Taxes, which requires recognition
+ of deferred tax assets and liabilities for the expected future tax consequences
+ of events that have been included in the financial statements or tax returns.
+ Under this method, deferred income taxes are recognized for the tax consequences
+ in future years of differences between the tax bases of assets and liabilities
+ and their financial reporting amounts at each period end based on enacted tax
+ laws and statutory tax rates applicable to the periods in which the differences
+ are expected to affect taxable income. Valuation allowances are established,
+ when necessary, to reduce deferred tax assets to amounts expected to be
+ realized. The provision for income taxes represents the tax payable for the
+ period and change during the period in net deferred tax assets and
+ liabilities. 
+
+Share-based
+ compensation -
+ The Company did not issue options or warrants to employees prior to 2005.
+ Effective January 1, 2006, the Company accounts for all options and warrant
+ grants to employees and consultants in accordance with SFAS 123R, which requires
+ recording an expense over the requisite service period for the fair value of
+ all
+ options or warrants granted employees and consultants. As of September 30,
+ 2007, there were 684,816 warrants outstanding, of which 200,000 were for
+ consulting services and there were 100,000 options outstanding to an independent
+ director. 
+
+18 
+
+Results
+ of Operations 
+ - 
+
+For
+ the Twelve Months Ended
+ 9/30/07 
+
+For
+ the Nine Month Transition
+ Period Ended 9/30/06 
+
+Difference 
+
+Sales 
+
+11,925 
+
+-- 
+
+11,925 
+
+Cost
+ of Sales 
+
+33,271 
+
+-- 
+
+33,271 
+
+Gross
+ Profit 
+
+(21,346) 
+
+-- 
+
+(21,346) 
+
+Operating
+ Expenses 
+
+Depreciation 
+
+136,129 
+
+16,583 
+
+119,546 
+
+Marketing 
+
+83,300 
+
+106,778 
+
+(23,478) 
+
+Research
+ development 
+
+43,502 
+
+26,544 
+
+16,958 
+
+General
+ administrative 
+
+1,921,585 
+
+264,281 
+
+1,657,304 
+
+Total
+ operating expenses 
+
+2,184,516 
+
+414,186 
+
+1,770,330 
+
+Loss
+ from operations 
+
+(2,205,862) 
+
+(414,186) 
+
+(1,791,676) 
+
+Interest
+ expense 
+
+(111,454) 
+
+(6,667) 
+
+(104,787) 
+
+Net
+ Loss Before Extraordinary Item 
+
+(2,317,316) 
+
+(420,853) 
+
+(1,896,463) 
+
+Extraordinary
+ Loss From Fire 
+
+(50,366) 
+
+-- 
+
+(50,366) 
+
+Net
+ Loss 
+
+(2,367,682) 
+
+(420,853) 
+
+(1,946,829) 
+
+Sales 
+ amounted to 11,925 for
+ the twelve months ended September 30, 2007 (2007) compared to no sales for
+ the
+ nine month transition ended September 30, 2006 (2006). The sales in
+ 2007 came from the delivery of 4,500 gallons of fuel in March of 2007 to a
+ potential customer to be used by the buyer for testing in their laboratory
+ and
+ in actual use. There have been no sales since that time. 
+
+Cost
+ of Sales amounted to
+ 33,271 for 2007 compared to 0 in 2006. The cost of sales recorded
+ in 2007 were inventory adjustments to reduce the carrying value to net
+ realizable value. The write-down consisted of 16,532 for out of
+ specification and unsalvageable fuel in process and 16,739 to adjust other
+ additional work in process to net realizable value. There were no
+ cost of sales associated with the sales, since that fuel was produced from
+ feedstock that been expensed for research and development purposes. 
+
+Depreciation 
+ expense
+ increased 119,546 from 16,583 in 2006 to 136,129 in 2007. The
+ increase is a result of additional capital expenditures. 
+
+Marketing 
+ decreased from
+ 106,778 in 2006 to 83,300 in 2007, a decline of 23,478. The
+ decease was primarily the result of canceling a sponsorship arrangement in
+ December of 2006. 
+
+Research
+ and development rose
+ from 26,544 in 2006 to 43,502, an increase of 16,958. The Company
+ conducted additional research in the first half of 2007. 
+
+19 
+
+General
+ and administrative 
+ expenses amounted to 1,921,585 in 2007 compared to 264,281 in
+ 2007. 664,099 of the 1,657,304 increase was from non-cash expenses
+ recognized for consulting, directors and other operating expenses associated
+ with issuance of warrants and options. There was an increase of
+ 390,915 in salary expense associated with developing the Company s
+ administrative capabilities. The remainder of the increases are
+ primarily associated with a full year of expense and the costs associated with
+ being a public company. 
+
+Interest
+ expense increased
+ 104,787 to 111,454 in 2007 when compared to interest expense of 6,667 in
+ 2006. The increase is associated with advances received and debt
+ placed in 2007 and includes 70,913 in debt discount amortization. 
+
+Extraordinary
+ loss in 2007 of
+ 50,366 was due to a fire sustained by the Company in its fuel
+ processor. The amount reflects the write-off of damaged equipment net
+ of accumulated depreciation of 1,291. There was no insurance
+ available to cover the loss. After reviewing the expenditures
+ required to bring the processor back to full production and the economic
+ benefit, the Company determined that its financial interests were best served
+ by
+ making basic repairs and to use the processor for limited production and for
+ testing and demonstration purposes. It is expected the City of
+ Spanish Fork will require certain improvements to be made in the building and
+ containment equipment before it allows full production to resume. 
+
+Liquidity
+ and Capital
+ Resources - Historically, our cash needs have been satisfied
+ primarily through proceeds from private placements of our equity securities
+ and
+ debt instruments including debt instruments convertible into our equity
+ securities and related party advances. We expect to continue to be
+ required to raise capital in the future, but cannot guarantee that such
+ financing activities will be sufficient to fund our current and future projects
+ and our ability to meet our cash and working capital needs. 
+
+The
+ Company s working capital was a deficit of 1,055,311 at September 30, 2007
+ compared to positive net working capital of 54,666 at September 30,
+ 2006. 
+
+Net
+ cash
+ used in operating activities amounted to 854,662 in 2007 compared to 283,953
+ net cash used in operating activities for 2006. 
+
+Cash
+ used
+ in investing activities for 2007 amounted to 333,215 in 2007 compared to
+ 144,158 in 2006. 
+
+Cash
+ was
+ provided from financing activities in the amount of 1,112,485 compared to
+ 601,927 during the transitional period ended September 30, 2006. 
+
+Off-Balance
+ Sheet
+ Arrangements - We do not have any off-balance sheet arrangements that
+ have or are likely to have a material current or future effect on the Company s
+ financial condition, or changes in financial condition, liquidity or capital
+ resources or expenditures. 
+
+Recent
+ accounting
+ pronouncements In accordance with Release No. 8760 of the Securities Act
+ of 1933, commencing with the Company s fiscal year ending September 30, 2008,
+ the Company will become subject to the requirement to include in its annual
+ report management s assessment of internal controls over financial
+ reporting. This assessment will require the Company to document and
+ test its internal control procedures in accordance with Section 404 of the
+ Sarbanes-Oxley Act of 2002. The Company s independent registered
+ public accountants will be required to attest to the Company s assessment of
+ internal controls for its fiscal year ending September 30, 2009. 
+
+In
+ September 2006, the FASB issued
+ Statement of Financial Accounting Standards No. 157, Fair Value Measurements 
+ SFAS
+ 157 ). SFAS 157 is effective for financial statements issued for
+ fiscal years beginning after November 15, 2007, and interim periods within
+ those
+ fiscal years. The Company has not yet determined the effect of
+ applying SFAS 157. 
+
+In
+ February 2007, the FASB issued Statement of Financial Accounting Standards
+ No.
+ 159, The Fair
+ Value Option for
+ Financial Assets and Financial Liabilities , SFAS 159 ). SFAS
+ 159 is effective for fiscal years beginning after November 15,
+ 2007. The Company does not believe that FAS 159 will have any
+ material effect on its financial statements. 
+
+20 
+
+In
+ June 2007, the Emerging Issues Task
+ Force of the FASB issued EITF Issue no. 07-3, Accounting for Nonrefundable
+ Advance Payments for
+ Goods or Services to be Used in Future Research and Development Activities , EITF 07-3 which is effective for fiscal years beginning after December 15,
+ 2007. EITF 07-3 requires that nonrefundable advance payments for
+ future research and development activities be deferred and
+ capitalized. Such amounts will be recognized as an expense as the
+ goods are delivered or the related services are performed. The
+ Company does not expect the adoption of EITF 07-3 to have a material impact
+ on
+ the financial results of the Company. 
+
+In
+ December 2007, the FASB issued SFAS No. 141(R), Business Combinations SFAS
+ No. 141(R) ), which requires the Company to record fair value estimates of
+ contingent consideration and certain other potential liabilities during the
+ original purchase price allocation, expense acquisition costs as incurred and
+ does not permit certain restructuring activities previously allowed under
+ Emerging Issues Task Force Issue No. 95-3 to be recorded as a component of
+ purchase accounting. The Company will adopt this standard at the
+ beginning of The Company s fiscal year ending September 30, 2010 for all
+ prospective business acquisitions. The Company has not determined the
+ effect that the adoption of SFAS No. 141(R) will have on its consolidated
+ financial statements, but the impact will be limited to any future acquisitions
+ beginning in fiscal 2010. 
+
+In
+ December 2007, the FASB issued SFAS No. 160, Noncontrolling Interests
+ in
+ Consolidated Financial Statements an amendment of ARB No. 51 , SFAS No.
+ 160 ), which causes noncontrolling interests in subsidiaries to be included in
+ the equity section of the balance sheet. The Company will adopt this
+ standard at the beginning of the Company s fiscal year ending September 30,
+ 2010. The Company has not determined the effect that the adoption of
+ SFAS No. 160 will have on its consolidated financial statements. 
+
+ITEM
+ 7. FINANCIAL
+ STATEMENTS 
+
+The
+ financial statements are set forth following the Exhibit Index. 
+
+ITEM
+ 8. CHANGES IN AND DISAGREEMENTS
+ WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+None 
+
+ITEM
+ 8A. CONTROLS AND PROCEDURES 
+
+The
+ Company maintains disclosure controls and procedures that are designed to ensure
+ that information required to be disclosed in the Company s Exchange Act reports
+ is recorded, processed, summarized and reported within the time periods
+ specified in the SEC s rules and forms, and that such information is accumulated
+ and communicated to the Company s management, including its Chief Executive
+ Officer and Chief Financial Officer, as appropriate, to allow timely decisions
+ in accordance with the required disclosure controls and procedures as
+ defined in Rule 13a-15(e). The Company s disclosure and control procedures
+ are designed to provide reasonable assurance of achieving their objectives,
+ and
+ the principal executive officer and principal financial officer of the Company
+ concluded that the Company s disclosure controls and procedures were effective
+ at the reasonable assurance level. 
+
+At
+ the
+ end of the period covered by this Annual Report, the Company carried out an
+ evaluation, under the supervision and with the participation of the Company s
+ management, including the Company s principal executive officer and principal
+ financial officer, of the effectiveness of the design and operation of the
+ Company s disclosure controls and procedures. Based of the foregoing, the
+ principal executive officer and principal financial officer of the Company
+ concluded that the Company s disclosure controls and procedures were effective
+ to ensure that the information required to be disclosed in the Company s
+ Exchange Act reports is recorded, processed, summarized and reported within
+ the
+ time periods specified in the SEC s rules and forms, and that such information
+ is accumulated and communicated to the Company s management including the
+ Company s principal executive officer and principal financial officer to allow
+ timely decisions regarding required disclosure. 
+
+There
+ were no changes in the Company s internal control over financial reporting that
+ occurred during the Company s last fiscal quarter that has materially affected,
+ or is reasonably likely to materially affect, the Company s internal control
+ over financial reporting. 
+
+21 
+
+ITEM
+ 8B. OTHER
+ INFORMATION 
+
+On
+ October 31, 2007, the Company
+ accepted the resignations of Steve Nordaker and John Robinson from the Board
+ of
+ Directors of the Company, as reported on the Company s Form 8-K, filed November
+ 6, 2007. Mr. Nordaker and Mr. Robinson had served on the Board of
+ Directors since June 19, 2007. Their resignations did not arise from
+ the Board of Directors did not arise from any disagreement on any matter
+ relating to the Company s operations, policies or practices, or regarding the
+ general direction of the Company. 
+
+On
+ December 20, 2007, the Company entered into and closed an Asset Purchase,
+ Settlement and Mutual Release Agreement with Ron Crafts, Chairman and Chief
+ Executive Officer of the Company, John Crawford, President, Chief Technology
+ Officer and a Director of the Company, Lynn Dean Crawford, Chief Operations
+ Officer of the Company, James Crawford, Mary Crafts, and Culinary Crafts, LLC.
+ (the Disengaging Parties ), under which Ron Crafts, John Crawford, Lynn Dean
+ Crawford and James Crawford exchanged a total of 15,750,000 shares of common stock
+ of the Company in exchange for: (i) 100 of the membership interests in Domestic
+ Energy Partners, LLC., the Company s wholly-owned subsidiary DEP (ii)
+ certain contracts, certain biodiesel processing equipment related to the
+ Company s proprietary production technology, office furnishings, transferable
+ tax rebate certificates, documents and copyrights owned by the Company and/or
+ DEP; (iii) all of the rights, title and interest held in the invention
+ identified in the patent application assigned to the Company; and (iv) the
+ Company s Twin Cessna airplane (the Asset Sale Agreement ). 
+
+Additionally,
+ under the Asset Sale Agreement, DEP assumed all liabilities in connection with,
+ or obligations owed to, Ron Crafts, John Crawford, James Crawford, Lynn Dean
+ Crawford and Culinary Crafts, including certain wages and loans payable (the
+ liabilities have a stated, total of approximately 321,784). 
+
+The
+ Asset
+ Sale Agreement also stipulated that Ron Crafts, John Crawford and Lynn Dean
+ Crawford resign from their respective positions with the Company, upon
+ closing. 
+
+Seven
+ shareholders of the Company beneficially owning a total of 24,751,000 shares
+ of
+ the Company s 30,945,001 total issued and outstanding shares of common stock
+ consented to the Asset Sale Agreement, in accordance with Section 7-107-104
+ and
+ Section 7-112-102 of the Colorado Revised Statutes. Excluding
+ shareholders with a direct interest in the assets sold in the Asset Sale
+ Agreement, three shareholders beneficially owning a total of 9,001,000 shares
+ consented out of the remaining 15,154,001 total shares that are considered
+ disinterested in the assets of the transaction. 
+
+On
+ December 20, 2007, the Company accepted the resignations of Ron Crafts from
+ his
+ positions as Chairman of the Board of Directors and Chief Executive Officer,
+ John Crawford, from his positions as Director and as President and Chief
+ Technology Officer, and Lynn Dean Crawford from his position as Chief Operations
+ Officer. 
+
+The
+ resignations, as reported on the Company s Form 8-K, filed December 21, 2007,
+ were the result of the Board of Director s and management s decision to broaden
+ its business plan, as described in the following paragraph, and the resulting
+ Asset Sale Agreement, in response to management s belief that the proprietary
+ technology included in the Asset Sale Agreement would not be ready for
+ large-scale commercial use in the near term. 
+
+The
+ remaining management of the Company continues to focus on the Company s
+ operations in the biodiesel industry, while shifting its business plan, from
+ a
+ singular focus on biodiesel production through proprietary technology, to a
+ broader business plan including, in addition to research and development of
+ biodiesel fuel technology, the supply of biodiesel raw materials vertically
+ integrated with the marketing and distribution of biodiesel fuel
+ products. The Company intends to appoint additional management
+ and directors during the first half of 2008. 
+
+22 
+
+PART
+ III 
+
+ITEM
+ 9. DIRECTORS AND EXECUTIVE
+ OFFICERS, AND CONTROL PERSONS; COMPLIANCE WITH SECTION 16(a) OF THE EXCHANGE
+ ACT 
+
+Directors
+ and Executive
+ Officers 
+
+NAME 
+
+AGE 
+
+POSITION 
+
+Ron
+ Crafts(1) 
+
+50 
+
+Chief
+ Executive Officer, Chairman and Director 
+
+John
+ Crawford(1) 
+
+42 
+
+President,
+ Chief Technology Officer and Director 
+
+Lynn
+ Dean Crawford(1) 
+
+63 
+
+Chief
+ Operations Officer 
+
+Peter
+ Kristensen(2) 
+
+46 
+
+Vice
+ President of Corporate Development and Director 
+
+F.
+ Briton McConkie(2) 
+ 
+ 61 
+
+Vice
+ President of Business Development and Director 
+
+Gary
+ Crook 
+
+55 
+
+Chief
+ Financial Officer 
+
+Steve
+ Nordaker(3) 
+
+60 
+
+Director 
+
+John
+ Robinson(3) 
+
+66 
+
+Director 
+
+David
+ M. Otto 
+
+49 
+
+Director
+ and General Securities Counsel 
+
+(1)
+ On
+ December 20, 2007, the Company Ron Crafts resigned from his positions as
+ Chairman of the Board of Directors and Chief Executive Officer; John Crawford
+ resigned from his positions as Director and as President and Chief Technology
+ Officer; Lynn Dean Crawford from his position as Chief Operations
+ Officer. 
+
+(2)
+ In
+ July of 2007 the Company accepted the resignations of Briton McConkie as Vice
+ President of Business Development and Peter Kristensen as Vice President of
+ Corporate Development. Mr. McConkie and Mr. Kristensen had previously
+ served on the Board of Directors from September 29, 2007, through June 19,
+ 2007,
+ resigning their positions concurrent with the appointment of Steve Nordaker
+ and
+ John Robinson to the Board of Directors on June 19, 2007. 
+
+(3)
+ On
+ October 31, 2007, Steve Nordaker and John Robinson resigned from the Board
+ of
+ Directors of the Company. 
+
+23 
+
+The
+ above
+ table states the individuals who served as officers and/or directors at any
+ time
+ during the fiscal year ended September 30, 2007. As described above,
+ several of these individuals resigned both during the fiscal year ended
+ September 30, 2007 and during the first quarter of the fiscal year 2008,
+ subsequent to the period covered in this annual report. Therefore the
+ descriptions of the backgrounds of the individuals, below, represent historic
+ disclosures regarding these individuals as of September 30, 2007. 
+
+Ron
+ Crafts 
+
+ Chairman,
+ Chief Executive Officer and Chief Financial Officer 
+
+Mr.
+ Crafts, age 50, is an entrepreneur with 23 years of experience in business
+ management and operations. Mr. Crafts was a Utah Best of State 
+winner of the Entrepreneur of the Year award in 2005 for his successful
+ catering company. Mr. Crafts attended college at Brigham Young University
+ and has a background in accounting. 
+
+John
+ Crawford 
+
+ President,
+ Chief Technology Officer and Director 
+
+Mr.
+ Crawford, age 41, is the inventor of the Company s improved refining technology,
+ and is in charge of all scientific development and advisory. Mr.
+ Crawford is a chemical engineer who has co-authored numerous scientific papers
+ and holds several patents in the area chemical science and engineering. Mr.
+ Crawford s career began in environmental chemistry at Brigham Young
+ University. Since that time he has had 16 years of experience
+ developing chemical reaction measuring devices and equipment. 
+
+Lynn
+ Dean
+ Crawford 
+
+ Chief
+ Operations Officer 
+
+Mr.
+ Crawford, age 62,
+ has extensive experience in all aspects of technical engineering management,
+ research and development, large-scale maintenance and logistics support for
+ operations, government compliance oversight, mechanical design, computer systems
+ and software implementation, and employee supervision. Mr. Crawford
+ has over 25 years of experience in technical management positions of small
+ and
+ large companies, with 11 of those positions at the corporate
+ level. Since 2002, Mr. Crawford has also been an independent
+ consultant, providing guidance on project management, product design, patent
+ development and regulatory support to start-up companies. Mr.
+ Crawford received a B.S.E. in Mechanical Engineering and a Masters in Mechanical
+ Engineering from Brigham Young University in 1971. 
+
+Gary
+ Crook 
+
+ Chief
+ Financial Officer 
+
+Mr.
+ Crook
+ is a Partner in the Salt Lake City practice off Tatum, LLC, whose twenty-five
+ year career includes serving as the Chief Financial and Controller in public,
+ foreign and privately held companies in the business services, healthcare and
+ retailing segments. His professional accomplishments include
+ coordinating the 4 million acquisition of a radio station and helping take
+ public SOS Staffing Services, a temporary staffing and consulting
+ firm. Mr. Crook has led two follow-on equity offerings and a private
+ debt placement, raising over 100 million. He was also a director and
+ chairman of the audit committee for Q Comm International, Inc., an electronic
+ prepaid transaction processor headquartered in Utah (QMMI.PK) prior of the
+ merger of Q Comm into another firm in May 2007. Mr. Crook holds both
+ a B.S. in Business Economics and Masters in Business Administration from the
+ University of Utah. 
+
+Peter
+ Kristensen 
+
+ Vice
+ President of Corporate Development 
+
+Mr.
+ Kristensen, age 45, is Vice President of Corporate Development and a Director
+ of
+ the Company. He is responsible for contract procurement of feedstock
+ as well as forming key business alliances worldwide. Since 1998,
+ Mr. Kristensen has also been a business consultant, facilitating and arranging
+ capital formations, evaluating business opportunities and deal structuring,
+ and
+ advising on mergers and acquisitions and corporate governance
+ issues. Mr. Kristensen received a B.S. in Geophysical Engineering
+ from the University of Utah in 1985. 
+
+24 
+
+F.
+ Briton
+ McConkie 
+
+ Vice
+ President of Business Development 
+
+Mr.
+ McConkie, age 60, is Vice President of Business Development and a Director
+ of
+ the Company. His responsibilities include structuring biodiesel joint
+ ventures, strategic alliances and distribution transactions all over the
+ world. Since 1994, Mr. McConkie has consulted on private/public
+ mergers and acquisitions in Salt Lake City, where he has worked with investors
+ and institutions on deal structuring and capital formation involving limited
+ partnerships, as well as consulting for public companies. Mr.
+ McConkie has worked to provide financing for NASDAQ companies. Mr.
+ McConkie received a Bachelor of Science from the University of Utah in
+ 1971. 
+
+John
+ K.
+ Robinson 
+
+ Director, 
+
+John
+ Robinson, Ph. D, served as chief executive officer of Houston, Texas-based
+ ChemConnect, Inc. ChemConnect ), which he joined in
+ 2000. ChemConnect is an electronic marketplace for buying and selling
+ chemical feedstocks, commodity and specialty chemicals and
+ polymers. Between 1983 through 2000, Mr. Robinson was employed with
+ BP, p.l.c. (British Petroleum, BP as Group VP and member of the BP Chemicals
+ Executive Committee. Mr. Robinson earned his Ph.D. in chemistry from
+ Rice University, and an MBA in Finance from the University of
+ Houston. 
+
+Steve
+ A.
+ Nordaker 
+
+ Director 
+
+Steve
+ Nordaker is Senior Vice President of Finance for The Energy Capital Group
+ ECG ), a Houston-based development company dedicated to building, owning, and
+ operating gasification units for the refining, petrochemical, and fertilizer
+ industries. Prior to joining ECG, Mr. Nordaker was employed with JP
+ Morgan Chase and its predecessor entities between 1982 and 2001, where he served
+ as a Managing Director in the Energy Group, specializing in downstream energy
+ and petrochemical, oil refining, pipeline, mining, and commodity/specialty/basic
+ chemical companies. He received an MBA from University of Houston and
+ a BS in Chemical Engineering from South Dakota School of Mines and
+ Technology. 
+
+David
+ M.
+ Otto 
+
+ Director
+ and General Securities Counsel 
+
+Mr.
+ Otto,
+ age 48, is a Seattle-based attorney and the President of The Otto Law Group,
+ PLLC. Mr. Otto s practice is focused on corporate finance, securities, mergers
+ acquisitions, corporate law and governance. Mr. Otto began his practice on
+ Wall Street in New York City in 1987 with the Hughes, Hubbard and Reed law
+ firm,
+ where he concentrated on significant corporate leveraged buyout and takeover
+ transactions and equity and debt offerings for investment banks, venture capital
+ firms and Fortune 1000 companies. In 1991, Mr. Otto moved to Seattle in order
+ to
+ dedicate his extensive experience to entrepreneurs, technology innovators,
+ start-up and emerging growth businesses. In July 1999, Mr. Otto founded the
+ Otto
+ Law Group, PLLC in Seattle. Mr. Otto is a Director of Vocalscape Networks,
+ Inc.,
+ SinoFresh Healthcare, Inc., TechAlt, Inc., Avisere, Inc. and Saratoga Capital
+ Partners, Inc. He is a member of the American Bar Association Committee on
+ the
+ Federal Regulation of Securities, Subcommittee on the 1933 Act and Chairman
+ of
+ the Legislation Subcommittee of the ABA s Venture Capital and Private Equity
+ Committee. Mr. Otto is admitted to practice law in New York and Washington.
+ Mr.
+ Otto earned an AB from Harvard University and a JD from Fordham University
+ School of Law. 
+
+Compliance
+ with Section 16(a) of the
+ Exchange Act 
+
+Section
+ 16(a) of the Exchange Act requires the Company s officers, directors and persons
+ who beneficially own more than 10 of the Company s common stock to file reports
+ of ownership and changes in ownership with the SEC. These reporting persons
+ also
+ are required to furnish the Company with copies of all Section 16(a) forms
+ they
+ file. None of the officers or directors of the Company have provided to the
+ Company any filed reports upon their acquisition or disposition of securities
+ of
+ the Company. With the exception of the aforementioned, to the Company s
+ knowledge, no officers, directors and persons who beneficially own more than
+ 10 
+ of the Company s common stock have failed to file the reports required pursuant
+ to Section 16(a). 
+
+25 
+
+ITEM
+ 10. EXECUTIVE
+ COMPENSATION 
+
+The
+ following tables set forth certain information regarding the Company s former
+ CEO and CFO and each of our most highly compensated executive officers whose
+ total annual salary and bonus for the period ended September 30, 2007 and
+ transitional period ended September 30, 2006 exceeded
+ 100,000. No former or current officer received compensation in
+ excess of 100,000 for the fiscal year ended September 30, 2007 or for the
+ transitional period ended September 30, 2006: 
+
+SUMMARY
+ COMPENSATION TABLE 
+
+Name
+ and Principal Position 
+
+Year 
+
+Salary 
+
+Bonus 
+
+Stock
+ Awards 
+
+Option
+ Awards 
+
+Non-Equity
+ Incentive Plan Compensation 
+
+Change
+ in Pension Value and Nonqualified Deferred Compensation
+ Earnings 
+
+All
+ Other Compensation 
+
+Total 
+
+CEO 
+
+ Ron
+ Crafts 
+
+ Appointed
+ October 2006 
+
+2007 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+2006 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+OPTION
+ GRANTS IN LAST FISCAL YEAR. 
+
+In
+ connection with the Independent Directors Services Agreement between the Company
+ and Steve Nordaker, dated June 19, 2007, the Company awarded Mr. Nordaker
+ 100,000 stock options. Mr. Nordaker subsequently resigned on October
+ 31, 2007. 33,334 options vested immediately upon his
+ appointment. The remaining 66,666 did not vest prior to his
+ resignation, and therefore are cancelled. The Company has not issued
+ the 33,334 vested options to Mr. Nordaker as of the date of this filing, but
+ believes that the obligation to issues these options to Mr. Nordaker
+ remains. 
+
+26 
+
+OUTSTANDING
+ EQUITY AWARDS AT FISCAL YEAR-END 
+
+Name 
+
+Option
+ Awards 
+
+Stock
+ Awards 
+
+Number
+ of Securities Underlying Unexercised Options 
+
+Number
+ of Securities Underlying Unexercised Options 
+
+Equity
+ Incentive Plan Awards: Number of Securities Underlying Unearned
+ Options 
+
+Option
+ Exercise Price 
+
+Option
+ Expiration Date 
+
+Number
+ of Shares or Units of Stock That Have Not Vested 
+
+Market
+ Value of Shares or Units of Stock That Have Not Vested 
+
+Equity
+ Incentive Plan Awards: Number of Unearned Shares, Units or Other
+ Rights
+ That Have Not Vested 
+
+Equity
+ Incentive Plan Awards: Market or Payout Value of Unearned Shares,
+ Units or
+ Other Rights That Have Not Vested 
+
+CEO 
+
+ Ron
+ Crafts 
+
+0 
+
+0 
+
+0 
+
+0 
+
+N/A 
+
+0 
+
+0 
+
+0 
+
+0 
+
+DIRECTOR 
+
+ Steve
+ Nordaker 
+
+33,334 
+
+0 
+
+0 
+
+2.65 
+
+6/18/2017 
+
+0 
+
+0 
+
+0 
+
+0 
+
+(1) 
+
+Mr.
+ Nordaker was awarded stock options in the Company at the time of
+ his
+ acceptance of a position on the Board of Directors, on June 19, 2007,
+ from
+ which Mr. Nordaker resigned on October 31, 2007. 33,334 options
+ vested immediately upon his appointment. The Company has not
+ issued these options to Mr. Nordaker, but believes that the obligation
+ to
+ issues these options to Mr. Nordaker remains, despite of Mr. Nordaker s
+ resignation. 
+
+OPTION
+ EXERCISES AND STOCK VESTED TABLE 
+
+Name 
+
+Option
+ Awards 
+
+Stock
+ Awards 
+
+Number
+ of Shares Acquired on Exercise 
+
+Value
+ Realized on Exercise 
+
+Number
+ of Shares Acquired on Vesting 
+
+Value
+ Realized on Vesting 
+
+CEO 
+
+ Ron
+ Crafts 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+DIRECTOR 
+
+ Steve
+ Nordaker 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+27 
+
+PENSION
+ BENEFITS TABLE 
+
+The
+ Company did not offer a pension plan during fiscal year 2007. 
+
+NONQUALIFIED
+ DEFERRED COMPENSATION TABLE 
+
+The
+ Company did not offer any non-qualified deferred compensation plans during
+ fiscal year 2007. 
+
+DIRECTOR
+ COMPENSATION DISCLOSURE 
+
+In
+ connection with the Independent Directors Services Agreement between the Company
+ and Steve Nordaker, the Company awarded Mr. Nordaker 100,000 stock options
+ in
+ the Company at the time of his acceptance of a position on the Board of
+ Directors, on June 19, 2007. Mr. Nordaker subsequently resigned on
+ October 31, 2007. 33,334 options vested immediately upon his
+ appointment. The Company has not issued these options to Mr.
+ Nordaker, but believes that the obligation to issues these options to Mr.
+ Nordaker remains, despite Mr. Nordaker s resignation. 
+
+ITEM
+ 11. SECURITY OWNERSHIP OF
+ CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER
+ MATTERS. 
+
+The
+ following table sets forth certain information regarding the beneficial
+ ownership of our common stock as of September 30, 2007, out of a total of
+ 30,945,001 shares of common stock of the Company issued and
+ outstanding: 
+
+Title
+ of Class 
+
+Name
+ and Address of Beneficial Owner 
+
+Amount
+ and Nature of Beneficial Ownership 
+
+Percent
+ of Class 
+
+Common,
+ no par value 
+
+Ron
+ Crafts 
+
+ 690
+ West 350 North 
+
+ Spanish
+ Fork, UT 84660 
+
+5,291,000 
+
+17.10 
+
+Common,
+ no par value 
+
+John
+ Crawford 
+
+ 3820
+ S. Elm 
+
+ Tempe,
+ AZ 85282 
+
+5,250,000 
+
+16.96 
+
+Common,
+ no par value 
+
+Lynn
+ Dean Crawford 
+
+ 5121
+ Yearling Ave 
+
+ Irvine,
+ CA 92064 
+
+3,755,500 
+
+12.14 
+
+Common,
+ no par value 
+
+Peter
+ Kristensen 
+
+ 7668
+ Quicksilver Dr. 
+
+ Salt
+ Lake City, UT 84121 
+
+2,625,000 
+
+8.48 
+
+Common,
+ no par value 
+
+F.
+ Briton McConkie 
+
+ 4014
+ Splendor Way 
+
+ Salt
+ Lake City, UT 84124 
+
+2,625,000 
+
+8.48 
+
+Common,
+ no par value 
+
+David
+ M. Otto 
+
+ 601
+ Union Street, Suite 4500 
+
+ Seattle,
+ WA 98164 
+
+1,500,000 
+
+4.85 [1] 
+
+Common,
+ no par value 
+ Gary
+ Crook 
+ 355
+ South 1550 West 
+
+ Spanish
+ Fork, UT 84660 
+
+25,000 
+
+28 
+
+ITEM
+ 12. CERTAIN RELATIONSHIPS AND
+ RELATED TRANSACTIONS 
+
+Lynn
+ Dean
+ Crawford is the uncle of John Crawford. 
+
+ITEM
+ 13. EXHIBITS 
+
+See
+ Exhibit Index immediately following the signature page below. 
+
+ITEM
+ 14. PRINCIPAL ACCOUNTANT FEES
+ AND SERVICES 
+
+Fee
+ Category 
+
+Fiscal
+ 2007 
+
+Fiscal
+ 2006 
+
+Audit
+ Fees 
+
+125,049 
+
+5,000 
+
+Audit-Related
+ Fees 
+
+8,390 
+
+-- 
+
+Tax
+ Fees 
+
+5,160 
+
+-- 
+
+All
+ Other Fees 
+
+-- 
+
+-- 
+
+Total 
+
+138,599 
+
+5,000 
+
+The
+ audit
+ fees stated above consisted of fees for the Company's annual financial
+ statements for the year ended September 30, 2007, and for September 30, 2006
+ and
+ the review of quarterly financial statements for the three periods ended
+ December 31, 2006, March 31, 2007 and the six months ended June 30, 2007, as
+ well as for services normally provided in connection with statutory and
+ regulatory filings or engagements, consents and assistance with review of
+ Company documents filed with the SEC. 
+
+Tax
+ fees
+ consisted primarily of fees for the filing of the Company s tax return and for
+ tax compliance, tax advice and tax planning services. 
+
+Policy
+ for Pre-Approval of Audit and
+ Non-Audit Services 
+
+The
+ Board s policy is to pre-approve all audit, audit-related and non-audit services
+ to be provided by the independent auditors and adopt and implement policies
+ for
+ such pre-approval. Independent auditors shall not be engaged to perform specific
+ non-audit services proscribed by law or regulation. 
+
+All
+ engagements of the independent auditor to perform any audit services and
+ non-audit services have been pre-approved by the Board in accordance with the
+ pre-approval policy. The policy has not been waived in any
+ instance. 
+
+29 
+
+SIGNATURES 
+
+Pursuant
+ to the requirements of Section 13 or 15(d) of the Securities Exchange Act of
+ 1934, the registrant has duly caused this report to be signed on its behalf
+ by
+ the undersigned; thereunto duly authorized, in the City of Orem, Utah on January
+ 14, 2008. 
+
+Registrant 
+
+Better
+ Biodiesel, Inc. 
+
+By: 
+
+/s/
+ Gary Crook 
+
+Gary
+ Crook 
+
+Chief
+ Financial Officer 
+
+Pursuant
+ to the requirements of the Securities Exchange Act of 1934, this report has
+ been
+ signed below by the following persons on behalf of Registrant and in the
+ capacities indicated on December 29, 2006. 
+
+/s/
+ Gary
+ Crook _______________ 
+
+ Gary
+ Crook 
+
+ Chief
+ Financial
+ Officer 
+
+/s/
+ David M.
+ Otto ____________ 
+
+ David
+ M. Otto 
+
+ Director,
+ General Securities Counsel,
+ Authorized Officer 
+
+30 
+
+EXHIBIT
+ INDEX 
+
+Exhibit
+ No. 
+
+Description 
+
+Location 
+
+3(i) 
+
+Articles
+ of Incorporation of Slam Dunk Enterprises, Inc. 
+
+Incorporated
+ by reference to Exhibit 3 of the Company s Form SB-2 filed August 9,
+ 2001 
+
+3(ii) 
+
+Bylaws 
+
+Incorporated
+ by reference to Exhibit 3 of the Company's Form SB-2 filed August
+ 9,
+ 2001 
+
+3.1 
+
+Articles
+ of Amendment to the Articles of Incorporation of Slam Dunk Enterprises,
+ Inc. changing name to Mountain States Lending, Inc. 
+
+Incorporated
+ by reference to Exhibit 3.1 of the Company's Form SB-2 filed August
+ 9,
+ 2001 
+
+3.2 
+
+Articles
+ of Incorporation of Mountain Eagle Homes, Inc. 
+
+Incorporated
+ by reference to Exhibit 3.2 of the Company s Form SB-2 filed August 9,
+ 2001 
+
+3.3 
+
+Articles
+ of Amendment to the Articles of Incorporation of Mountain States
+ Lending,
+ Inc., including a name change to Mountain States Holdings,
+ Inc. 
+
+Incorporated
+ by reference to Exhibit 3.3 of the Company s Form 10-KSB filed March 31,
+ 2003 
+
+3.4 
+
+Articles
+ of Amendment to the Articles of Incorporation of Mountain
+ States Holdings, Inc. 
+
+Incorporated
+ by reference to Exhibit 3.4 of the Company s Form 10-KSB filed April 17,
+ 2004 
+
+4.1 
+
+Promissory
+ Note issued to Sausalito Capital Partners I, LLC 
+
+Incorporated
+ by reference the Company s Form 10-KSB filed January 2,
+ 2007 
+
+4.2 
+
+Security
+ Agreement issued to Sausalito Capital Partners I, LLC 
+
+Incorporated
+ by reference the Company s Form 10-KSB filed January 2,
+ 2007 
+
+4.3 
+
+Form
+ of Subscription Agreement for Common Stock 
+
+Incorporated
+ by reference to Exhibit 10.1 of the Company s Form 8-K filed September 5,
+ 2006 
+
+4.4 
+
+Loan
+ Agreement, Promissory Note and Warrant with Sausalito Capital Partners
+ I,
+ LLC 
+
+Incorporated
+ by reference to Exhibit 4.4 of the Company s Form 8-K filed February
+ 20,2007 
+
+4.5 
+
+Subscription
+ Agreement from National Real Estate Solutions Group Inc. 
+
+Incorporated
+ by reference to Exhibit 4.5 of the Company s Form 8-K filed February
+ 20,2007 
+
+4.6 
+
+Subscription
+ Agreement 
+
+Incorporated
+ by reference to Exhibit 4.6 of the Company s Form 8-K filed May
+ 8,2007 
+
+10.1 
+
+Share
+ Exchange Agreement by and among Mountain States Holdings, Inc.
+ and
+ Domestic Energy Partners, LLC and the security holders of Domestic
+ Energy
+ Partners, LLC 
+
+Incorporated
+ by reference to Exhibit 10.1 of the Company s Form 8-K filed September 5,
+ 2006 
+
+10.2 
+
+REDD
+ Engineering Engagement 
+
+Incorporated
+ by reference the Company s Form 10-KSB filed January 2,
+ 2007 
+
+10.3 
+
+Assignment
+ of Intellectual Property 
+
+Incorporated
+ by reference to Exhibit 10.3 of the Company s Form 10-KSB filed January 2,
+ 2007 
+
+10.5 
+
+Agreement
+ with TSG-LLC 
+
+Incorporated
+ by reference to Exhibit 10.5 of the Company s Form 10-QSB filed
+ February 22, 2007, 2006 
+
+16.1 
+
+Letter
+ re change in certifying accountant 
+
+Incorporated
+ by reference to Exhibit 16.1 of the Company s Form 8-K/A filed October 30,
+ 2006 
+
+21.1 
+
+Subsidiaries
+ of Better Biodiesel 
+
+Attached 
+
+31.1 
+ 
+ Certification
+ of CEO pursuant to Section 302 of the Sarbanes-Oxley Act. 
+ 
+ Attached 
+
+31.2 
+ 
+ Certification
+ of CFO pursuant to Section 302 of the Sarbanes-Oxley Act. 
+ 
+ Attached 
+
+32 
+ 
+ Certifications
+ Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (18 U.S.C.
+ Section 1350) 
+ 
+ Attached 
+
+99.1 
+
+Financial
+ Statements 
+
+Incorporated
+ by reference to Exhibit 99.1 of the Company s Form 8-K filed December 18,
+ 2006 
+
+99.2 
+
+Press
+ Release Issued May 8, 2007 
+
+Incorporated
+ by reference to Exhibit 99.2 of the Company s Form 8-K filed May 8,
+ 2007 
+
+99.3 
+
+Press
+ Release Issued June 20, 2007 
+
+Incorporated
+ by reference to Exhibit 99.3 of the Company s Form 8-K filed June 20,
+ 2007 
+
+99.4 
+
+Press
+ Release Issued June 20, 2007 
+
+Incorporated
+ by reference to Exhibit 99.4 of the Company s Form 8-K filed June 20,
+ 2007 
+
+99.5 
+
+Press
+ Release Issued July 31, 2007 
+
+Incorporated
+ by reference to Exhibit 99.5 of the Company s Form 8-K filed July 31,
+ 2007 
+
+Better
+ BioDiesel,
+ Inc. 
+
+ Consolidated
+ Financial Statements 
+
+Contents 
+
+Page 
+
+Report
+ of Independent
+ Registered Public Accounting Firm 
+
+F1 
+
+Consolidated
+ Balance
+ Sheet 
+
+F2 
+
+Consolidated
+ Statements of
+ Operations 
+
+F3 
+
+Consolidated
+ Statement of
+ Stockholders Equity 
+
+F4 
+
+Consolidated
+ Statements of Cash
+ Flows 
+
+F5 
+
+Notes
+ to Consolidated Financial
+ Statements 
+
+F6 
+
+REPORT
+ OF INDEPENDENT
+ REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+ the
+ Board of Directors 
+
+ Better
+ Biodiesel, Inc. 
+
+ Spanish
+ Fork, Utah 
+
+We
+ have
+ audited the accompanying consolidated balance sheet of Better Biodiesel,
+ Inc.,
+ and Subsidiary (a development stage company) ("the Company"), as of
+ September 30, 2007, and the related consolidated statements of operations,
+ stockholders' equity (deficit), and cash flows for the year ended
+ September 30, 2007, the nine months ended September 30, 2006, and the
+ period from November 1, 2004, (date of inception) through
+ September 30, 2007. These consolidated financial statements are
+ the responsibility of the Company's management. Our responsibility is
+ to express an opinion on these consolidated financial statements based on
+ our
+ audits. 
+
+We
+ conducted our audits in accordance with the standards of the Public Company
+ Accounting Oversight Board (United States). Those standards require
+ that we plan and perform the audit to obtain reasonable assurance about whether
+ the financial statements are free of material misstatement. The
+ Company has determined that it is not required to have, nor were we engaged
+ to
+ perform, an audit of its internal control over financial
+ reporting. Our audit included consideration of internal control over
+ financial reporting as a basis for designing audit procedures that are
+ appropriate in the circumstances, but not for the purpose of expressing an
+ opinion on the effectiveness of the Company's internal control over financial
+ reporting. Accordingly, we express no such opinion. An
+ audit includes examining, on a test basis, evidence supporting the amounts
+ and
+ disclosures in the financial statements. An audit also includes
+ assessing the accounting principles used and significant estimates made by
+ management, as well as evaluating the overall financial statement
+ presentation. We believe that our audits provide a reasonable basis
+ for our opinion. 
+
+In
+ our
+ opinion, the consolidated financial statements referred to above present
+ fairly,
+ in all material respects, the financial position of Better Biodiesel, Inc.
+ and
+ Subsidiary (a development stage company) as of September 30, 2007, and the
+ results of their operations and their cash flows for the year ended
+ September 30, 2007, the nine months ended September 30, 2006, and the
+ period from November 1, 2004 (date of inception) through September 30,
+ 2007, in conformity with accounting principles generally accepted in the
+ United
+ States. 
+ 
+ The
+ accompanying consolidated financial statements have been prepared assuming
+ the
+ Company will continue as a going concern. As discussed in Note 2
+ to the financial statements, the Company has experienced recurring losses
+ from
+ operations since inception and has relied on advances and loans from owners,
+ debt, and sales of shares of its equity for operating capital. These
+ conditions raise substantial doubt about the Company's ability to continue
+ as a
+ going concern. Management's plans regarding these matters are also
+ discussed in Note 2 and Note 16. The consolidated financial
+ statements do not include any adjustments that might result from the outcome
+ of
+ this uncertainty. 
+
+/s/
+ PETERSON SULLIVAN
+ PLLC 
+
+January
+ 11, 2008 
+
+ Seattle,
+ Washington 
+
+F1 
+
+BETTER
+ BIODIESEL,
+ INC. 
+
+(A
+ Development Stage Company) 
+
+CONSOLIDATED
+ BALANCE SHEET 
+
+September
+ 30, 2007 
+
+ASSETS 
+
+September
+ 30, 2007 
+
+Current
+ Assets 
+
+Cash
+ and cash equivalents 
+
+98,424 
+
+Accounts
+ receivable, net of 500 reserve 
+
+4,000 
+
+Inventory 
+
+57,333 
+
+Prepaid
+ expenses 
+
+20,459 
+
+Employee
+ advances 
+
+8,000 
+
+Total
+ current assets 
+
+188,216 
+
+Property
+ and equipment, net 
+
+439,166 
+
+Deposits 
+
+25,500 
+
+Total
+ assets 
+
+652,882 
+
+LIABILITIES
+ AND STOCKHOLDERS' EQUITY (DEFICIT) 
+
+Current
+ Liabilities 
+
+Accounts
+ payable and accrued expenses 
+
+856,828 
+
+Notes
+ payable, net of discount 
+
+311,699 
+
+Advances
+ payable, related party 
+
+75,000 
+
+Total
+ current liabilities 
+
+1,243,527 
+
+Stockholders'
+ Equity (Deficit) 
+
+Preferred
+ stock, no par value, 5,000,000 shares authorized, none
+ issued 
+
+- 
+
+Common
+ stock, no par value, 200,000,000 shares authorized, 
+
+30,945,001,
+ issued and outstanding 
+
+1,147,585 
+
+Additional
+ paid in capital 
+
+1,102,252 
+
+Deficit
+ accumulated during the development stage 
+
+(2,840,482) 
+
+Total
+ stockholders' (deficit) 
+
+(590,645) 
+
+Total
+ liabilities and stockholders' (deficit) 
+
+652,882 
+
+See
+ Notes to Consolidated Financial Statements 
+
+F2 
+
+BETTER
+ BIODIESEL,
+ INC. 
+
+(A
+ Development Stage Company) 
+
+CONSOLIDATED
+ STATEMENTS OF OPERATIONS 
+
+For
+ the Twelve Month Period Ended September 30, 2007 and For the Nine
+ Month
+ Period Ended September 30, 2006 and 
+
+For
+ the Period from Inception (November 1, 2004) through September 30,
+ 2007 
+
+For
+ the Twelve Months Ended September 30, 2007 
+
+For
+ the Nine Months Ended September 30, 2006 
+
+From
+ Inception on November 1, 2004 Through September 30, 2007 
+
+Sales 
+
+11,925 
+
+- 
+
+11,925 
+
+Cost
+ of Sales 
+
+33,271 
+
+33,271 
+
+Gross
+ Profit 
+
+(21,346) 
+
+- 
+
+(21,346) 
+
+Operating
+ Expenses 
+
+Depreciation 
+
+136,129 
+
+16,583 
+
+154,365 
+
+Marketing 
+
+83,300 
+
+106,778 
+
+193,053 
+
+Research
+ and development 
+
+43,502 
+
+26,544 
+
+72,341 
+
+General
+ and administrative 
+
+1,921,585 
+
+264,281 
+
+2,230,890 
+
+Total
+ operating expenses 
+
+2,184,516 
+
+414,186 
+
+2,650,649 
+
+Loss
+ from operations 
+
+(2,205,862) 
+
+(414,186) 
+
+(2,671,995) 
+
+Interest
+ (expense) 
+
+(111,454) 
+
+(6,667) 
+
+(118,121) 
+
+Net
+ Loss Before Extraordinary
+ Item 
+
+(2,317,316) 
+
+(420,853) 
+
+(2,790,116) 
+
+Extraordinary
+ Loss - Loss of
+ Assets From Fire 
+
+(50,366) 
+
+- 
+
+(50,366) 
+
+Net
+ Loss 
+
+(2,367,682) 
+
+(420,853) 
+
+(2,840,482) 
+
+Basic
+ and diluted net loss per common share before extraordinary
+ item 
+
+(0.08) 
+
+(0.18) 
+
+Basic
+ and diluted net loss per common share for extraordinary
+ item 
+
+(0.00) 
+
+- 
+
+Basic
+ and diluted net loss per common share 
+
+(0.08) 
+
+(0.18) 
+
+Weighted
+ average basic and diluted shares 
+
+outstanding 
+
+30,668,638 
+
+2,342,491 
+
+See
+ Notes to Consolidated Financial Statements 
+
+F3 
+
+BETTER
+ BIODIESEL,
+ INC. 
+
+(A
+ Development Stage Company) 
+
+CONSOLIDATED
+ STATEMENTS OF STOCKHOLDERS' EQUITY (DEFICIT) 
+
+For
+ the Period from Inception (November 1, 2004) through September
+ 30,
+ 2007 
+
+Preferred
+ Stock 
+
+Common
+ Stock 
+
+Additional
+ Paid in Capital 
+
+Shares 
+
+Amount 
+
+Shares 
+
+Amount 
+
+Subscription
+ Receivable 
+
+Shares 
+
+Amount 
+
+Accumulated
+ Deficit 
+
+Total 
+
+At
+ inception November 1, 2004 
+
+- 
+
+- 
+
+2,000,000 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+December
+ 2004 - Sale of common 
+
+shares
+ at 0.50per pre-split share 
+
+- 
+
+- 
+
+75,000 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Net
+ loss for the two months ended December 31, 2004 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(1,300) 
+
+(1,300) 
+
+Balance
+ at December 31, 2004 
+
+- 
+
+- 
+
+2,075,000 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(1,300) 
+
+(1,300) 
+
+May
+ 2005 - Sale of common 
+
+shares
+ at 0.50per pre-split share 
+
+- 
+
+- 
+
+25,000 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+December
+ 2005 - Sale of common shares at 0.50 
+
+shares
+ at 0.50per pre-split share 
+
+- 
+
+- 
+
+50,000 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Net
+ loss for the year ended 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(50,647) 
+
+(50,647) 
+
+31-Dec-05 
+
+Balance
+ at December 31, 2005 
+
+- 
+
+- 
+
+2,150,000 
+
+- 
+
+- 
+
+- 
+
+(51,947) 
+
+(51,947) 
+
+August
+ 2006 - Sale of common shares at 0.50 
+
+per
+ pre-split share 
+
+- 
+
+- 
+
+12,500 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+August
+ 2006 - Common shares returned and cancelled in exchange 
+
+for
+ two former subsidiaries 
+
+- 
+
+- 
+
+(162,500) 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+September
+ 2006 - Share arising in reverse stock split 
+
+- 
+
+- 
+
+1 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+September
+ 2006 - Common shares issued upon conversion of 
+
+note
+ payable at merger 
+
+- 
+
+- 
+
+1,500,000 
+
+506,667 
+
+- 
+
+- 
+
+- 
+
+- 
+
+506,667 
+
+September
+ 2006 - Common shares issued to former LLC Member 
+
+of
+ Domestic exchange for cash and property 
+
+Energy
+ Partners, LLC in 
+
+contributions
+ to DEP 
+
+- 
+
+- 
+
+5,250,000 
+
+291,046 
+
+- 
+
+- 
+
+- 
+
+- 
+
+291,046 
+
+September
+ 2006 - Other common 
+
+shares
+ issued in merger 
+
+- 
+
+- 
+
+21,750,000 
+
+- 
+
+- 
+
+- 
+
+# 
+
+- 
+
+- 
+
+- 
+
+Net
+ loss for the nine month period 
+
+ended
+ September 30, 2006 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# 
+
+- 
+
+(420,853) 
+
+(420,853) 
+
+Balance
+ at September 30, 2006 
+
+- 
+
+- 
+
+30,500,001 
+
+797,713 
+
+- 
+
+- 
+
+(472,800) 
+
+324,913 
+
+February
+ 2007 - 11,325 warrant issues 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+45,764 
+
+- 
+
+45,764 
+
+February
+ 2007 - Discount for beneficial 
+
+conversion
+ feature 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+13,860 
+
+- 
+
+13,860 
+
+May
+ through June 2007 - Sale of units in private placement,
+ each 
+
+unit
+ consisting of one common share and one warrant, 2.00 
+
+per
+ unit, net of fees of 75,500 
+
+- 
+
+- 
+
+377,500 
+
+346,545 
+
+(82,000) 
+
+- 
+
+332,955 
+
+- 
+
+597,500 
+
+June
+ 2007 - 28,491 warrants issued as fee in private placement 
+
+- 
+
+- 
+
+- 
+
+(65,523) 
+
+- 
+
+- 
+
+65,523 
+
+- 
+
+- 
+
+June
+ 2007 - repricing of 11, 325 warrants issued in February
+ 2007 
+
+per
+ warrant agreement 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+2,073 
+
+- 
+
+2,073 
+
+June
+ 2007 - 67,500 units in exchange for goods and services,
+ each 
+
+unit
+ consisting of one common share and one warrant, 2.00 
+
+per
+ unit 
+
+- 
+
+- 
+
+67,500 
+
+68,850 
+
+- 
+
+- 
+
+66,150 
+
+- 
+
+135,000 
+
+June
+ 2007 - 200,000 warrants issued 
+
+for
+ financial consulting services 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+482,215 
+
+- 
+
+482,215 
+
+July
+ 2007 - Receipt of subscription receivable 
+
+- 
+
+- 
+
+- 
+
+- 
+
+82,000 
+
+- 
+
+- 
+
+- 
+
+82,000 
+
+June
+ through September 2007 - 100,000 options as director's
+ compensation 
+
+93,712 
+
+93,712 
+
+Net
+ loss for the year ended September 30, 2007 
+
+- 
+
+- 
+
+- 
+
+(2,367,682) 
+
+(2,367,682) 
+
+Balance
+ at September 30, 2007 
+
+- 
+
+- 
+
+30,945,001 
+
+1,147,585 
+
+- 
+
+- 
+
+1,102,252 
+
+(2,840,482) 
+
+(590,645) 
+
+See
+ Notes to Consolidated Financial Statements 
+
+F4 
+
+BETTER
+ BIODIESEL,
+ INC. 
+
+(A
+ Development Stage Company) 
+
+CONSOLIDATED
+ STATEMENTS OF CASH FLOWS 
+
+For
+ the Twelve Month Period Ended September 30, 2007 and For the Nine
+ Month
+ Period Ended September 30, 2006 and 
+
+For
+ the Period from Inception (November 1, 2004) through September
+ 30,
+ 2007 
+
+For
+ the Twelve Months Ended September 30, 2007 
+
+For
+ the Nine Months Ended September 30, 2006 
+
+From
+ Inception on November 1, 2004 through September 30, 2007 
+
+Cash
+ Flows From Operating Activities 
+
+Net
+ loss 
+
+(2,367,682) 
+
+(420,853) 
+
+(2,840,482) 
+
+Adjustments
+ to reconcile net loss to 
+
+net
+ cash used in operating activities 
+
+Depreciation,
+ including 8,022 capitalized to inventory as of September 30,
+ 2007 
+
+144,151 
+
+16,583 
+
+162,387 
+
+Amortization
+ of debt discount 
+
+70,913 
+
+- 
+
+70,913 
+
+Non-cash
+ expense for consulting, director fees and other expenses 
+
+664,099 
+
+- 
+
+664,099 
+
+Non-cash
+ expense for bad reserve 500) and carrying value of inventory
+ 33,269) 
+
+33,769 
+
+- 
+
+33,769 
+
+Non-cash
+ expense for extraordinary item - write down of assets lost in
+ fire 
+
+50,366 
+
+- 
+
+50,366 
+
+Changes
+ in operating assets and liabilities 
+
+Change
+ in accounts receivable 
+
+(4,500) 
+
+- 
+
+(4,500) 
+
+Change
+ in inventory 
+
+(79,497) 
+
+- 
+
+(79,497) 
+
+Change
+ in prepaid expenses 
+
+(2,082) 
+
+(18,377) 
+
+(20,459) 
+
+Change
+ in employee advances 
+
+(8,000) 
+
+- 
+
+(8,000) 
+
+Change
+ in deposits 
+
+(20,000) 
+
+(5,500) 
+
+(25,500) 
+
+Change
+ in accounts payable and 
+
+accrued
+ expenses 
+
+663,801 
+
+144,194 
+
+807,995 
+
+Net
+ cash used in operating activities 
+
+(854,662) 
+
+(283,953) 
+
+(1,188,909) 
+
+Cash
+ Flows From Investing Activities 
+
+Purchases
+ of property and equipment 
+
+(333,215) 
+
+(144,158) 
+
+(477,373) 
+
+Cash
+ Flows From Financing Activities 
+
+Proceeds
+ from related party for company 
+
+expenses,
+ net 
+
+75,000 
+
+101,927 
+
+227,221 
+
+Proceeds
+ from notes payable 
+
+282,485 
+
+- 
+
+282,485 
+
+Proceeds
+ from sale of 377,500 units, consisting of 377,500 shares 
+
+and
+ warrants to purchase 377,500 shares valued at 2.00 per
+ unit, 
+
+excluding
+ 75,500 in accrued financing fees 
+
+755,000 
+
+- 
+
+755,000 
+
+Proceeds
+ from related party notes payable 
+
+- 
+
+500,000 
+
+500,000 
+
+Net
+ cash provided by financing 
+
+activities 
+
+1,112,485 
+
+601,927 
+
+1,764,706 
+
+Net
+ Change In Cash and Cash Equivalents 
+
+(75,392) 
+
+173,816 
+
+98,424 
+
+Cash
+ and Cash Equivalents, beginning of period 
+
+173,816 
+
+- 
+
+- 
+
+Cash
+ and Cash Equivalents, end of period 
+
+98,424 
+
+173,816 
+
+98,424 
+
+Supplemental
+ Cash Flow Information 
+
+Non-Cash
+ Investing and Financing Activities 
+
+Contribution
+ of airplane and other assets by related party 
+
+- 
+
+- 
+
+138,825 
+
+Conversion
+ of related party note payable and accrued 
+
+interest
+ to common stock 
+
+- 
+
+506,667 
+
+506,667 
+
+Conversion
+ of contributions of cash and airplane 
+
+by
+ related party to common stock 
+
+- 
+
+291,046 
+
+291,046 
+
+Accrued
+ financing fees for private placement of 377,500 units
+ consisting 
+
+of 377,500 shares and warrants to purchase 377,500 share valued
+ at 
+
+2..00
+ per unit 
+
+(75,500) 
+
+- 
+
+(75,500) 
+
+Issuance
+ of
+ 28,491 warrants as financing fee on 377,500 units
+ private 
+
+ placement 
+
+(65,523 
+
+- 
+
+(65,523) 
+
+Contribution
+ of inventory and assets in exchange
+ for 
+
+units consiting of shares and warrants valued at 2.00 per 
+
+unit 
+
+46,828 
+
+- 
+
+46,828 
+
+See
+ Notes
+ to Consolidated Financial Statements. 
+
+F5 
+
+NOTES
+ TO CONSOLIDATED FINANCIAL
+ STATEMENT S 
+
+Note
+ 1. Organization and
+ Description of Business 
+
+Better
+ Biodiesel, Inc., the Company is a Colorado corporation and is a C 
+corporation for federal income tax purposes. The Company was known as
+ Mountain State Holdings, Inc., MSH until September 20, 2006, when it
+ was renamed in anticipation of a merger on September 29, 2006, when it acquired
+ all of the LLC Member Units of Domestic Energy Partners, LLC, DEP ), a Utah
+ limited liability corporation. The previous assets and liabilities of MSH
+ were spun off to two stockholders in August 2006 in exchange for the return
+ of
+ common shares. At the time of the acquisition of DEP, the Company had zero
+ assets and zero liabilities. It had 2,000,001 shares of common stock
+ issued and outstanding carried at zero value. 
+
+The
+ merger of the Company and DEP has been accounted for as a reverse merger,
+ which
+ is equivalent to a recapitalization of the Company. The assets and
+ liabilities of DEP are presented in the consolidated balance sheets at book
+ value. The historical operations presented in the Company s Consolidated
+ Statements of Operations are those of DEP. 
+
+DEP
+ was
+ organized as a limited liability corporation on May 18, 2005, although it
+ had commenced operations in November 2004. Therefore, November 1,
+ 2004, is considered to be its effective date of inception. DEP was
+ organized to develop alternative fuel sources, particularly the manufacture
+ and
+ distribution of bio-diesel products. DEP has had 11,925 of revenues to
+ date and has been considered a development stage company since its inception
+ (see Note 7). DEP comprises the Company s sole subsidiary and operations
+ and the management of DEP and the Company are the same. The Company s
+ headquarters is in Spanish Fork, Utah. 
+
+The
+ consolidated financial statements include the accounts of the Company and
+ its
+ wholly-owned subsidiary and all intercompany balances and transactions have
+ been
+ eliminated. 
+
+On
+ December 20, 2007 the Company transfered certain
+ assets in exchange for the return of 15,750,000 shares of stock, see Note
+ 16. 
+
+F6 
+
+Note
+ 2. Going
+ Concern 
+
+The
+ Company s consolidated financial statements are prepared consistent with
+ accounting principles generally accepted in the United States applicable
+ to a
+ going concern, which contemplate the realization of assets and liquidation
+ of
+ liabilities in the normal course of business. However, as shown in the
+ accompanying consolidated financial statements, the Company has sustained
+ losses
+ and has relied on advances and loans from owners, debt and sales of shares
+ of
+ its equity for operating capital. To support the Company s operations for
+ the next year, management has plans to raise between 7 and 8 million in
+ capital by a combination of stockholder loans and private placements. 
+There is no assurance, however, that these sources of capital will be timely
+ obtained on acceptable terms. 
+
+The
+ consolidated financial statements do not include any adjustments relating
+ to the
+ recoverability and classification of recorded asset amounts and classification
+ of liabilities that might be necessary should the Company be unable to continue
+ in existence. 
+
+Note
+ 3. Significant Accounting
+ Policies 
+
+This
+ summary of significant accounting policies of the Company is presented to
+ assist
+ in understanding the Company s consolidated financial statements. The
+ financial statements and notes are representations of the Company s management
+ who are responsible for their integrity and objectivity. These accounting
+ policies conform to accounting principles generally accepted in the United
+ States and have been consistently applied in the preparation of the financial
+ statements. The following policies are considered to be
+ significant. 
+
+Use
+ of
+ Estimates 
+
+The
+ preparation of financial statements in conformity with generally accepted
+ accounting principles requires management to make estimates and assumptions
+ that
+ affect the reported amounts of assets and liabilities and disclosure of
+ contingent assets and liabilities at the date of the financial statements
+ and
+ reported amounts of revenues and expenses during the reporting period. 
+Actual results could differ from those estimates. 
+
+F7 
+
+Cash
+ and Cash
+ Equivalents 
+
+Cash
+ equivalents are generally comprised of certain liquid investments with original
+ maturities of less than three months. On occasion, the Company has cash
+ balances in excess of federal insurance limits. No cash has ever been paid
+ for interest expense or income tax. 
+
+Accounts
+ Receivable 
+
+Accounts
+ receivable consist of 4,500 due from the sale of fuel in March of 2007 and
+ are
+ associated with the tax rebate to be collected by the buyer and passed back
+ to
+ the Company. The Company has taken a 500 reserve to cover the
+ potential cost to the buyer for amending its tax return, since the Company
+ did
+ not have its Federal tax rebate certificate until after the buyer s taxes were
+ filed. 
+
+Inventory 
+
+Inventory
+ consists of raw material for fuel production and fuel production in process
+ and
+ is carried at the lower of average cost or market. At September 30,
+ 2007 inventory consisted of 32,584 of raw material and 24,749 of fuel
+ production in process, net of a write-down of 33,271 (this amount is included
+ in the cost of sales). The write-down consisted of 16,532 for out of
+ specification and unsalvageable fuel in process and 16,739 to adjust other
+ additional work in process to net realizable value. 
+
+Prepaid
+ Expenses 
+
+The
+ Company has recognized pre-payments for its insurance premiums as a prepaid
+ expense. 
+
+F8 
+
+Financial
+ Instruments 
+
+The
+ Company s financial instruments consist of cash and cash equivalents, accounts
+ receivable, accounts payable, accrued expenses, notes payable and related
+ party
+ advances. The fair value of all financial instruments approximates the
+ recorded value based on the short-term nature of these financial
+ instruments. 
+
+Property
+ and
+ Equipment 
+
+Property
+ and equipment are stated at cost and depreciated using the straight-line
+ method
+ over their estimated useful lives. Lease-hold improvements are being
+ depreciated over the term of the lease, excluding option periods. When
+ assets are disposed of, the cost and accumulated depreciation (net book value
+ of
+ the assets) are eliminated and any resultant gain or loss reflected
+ accordingly. In July of 2007 the Company suffered a fire in its pilot
+ processor, which resulted in the loss of the part of the
+ equipment. As a result the Company wrote off 50,366 of equipment,
+ net of 1,291 of accumulated depreciation as an extraordinary loss, see Note
+ 14. Betterments and improvements are capitalized over their estimated
+ useful lives whereas repairs and maintenance expenditures on the assets are
+ charged to expense as incurred. Property and equipment consisted of the
+ following: 
+
+Asset Class 
+
+Life 
+
+September 30, 
+
+ 2007 
+
+Airplane 
+
+7
+ years 
+
+138,825 
+
+Furniture 
+
+5
+ years 
+
+5,694 
+
+Office
+ Equipment 
+
+3
+ years 
+
+6,830 
+
+Leasehold
+ Improvements 
+
+Term 
+
+125,035 
+
+Processing
+ Equipment 
+
+5
+ years 
+
+265,966 
+
+Tanks 
+
+10
+ years 
+
+42,887 
+
+Misc.
+ Production Equipment 
+
+5
+ years 
+
+15,025 
+
+Less
+ Accumulated Depreciation 
+
+(161,096 
+
+Net
+ Property and Equipment 
+
+439,166 
+
+F9 
+
+On
+ December 20, 2007 the airplane and other assets were transferred in exchange
+ for
+ the return of 15,750,000 shares, see Note 16. 
+
+Depreciation
+ expense for the twelve months ended September 30, 2007, the nine months ended
+ September 30, 2006 and from inception (November 1, 2004) through September
+ 30, 2007 was 136,129, 16,583 and 154,365, respectively. In
+ addition, 8,022 of depreciation was capitalized to inventory for the twelve
+ months ended September 30, 2007 for the time the Company was producing
+ fuel. 
+
+Deposits 
+
+The
+ Company has 25,500 of long-term deposits. 20,000 of the deposit is
+ to an engineering firm as a retainer for work that was to be performed, 5,000
+ is a deposit on the Company s property lease and there is 500 in miscellaneous
+ deposit. 
+
+Impairment
+ of Long-Lived
+ Assets 
+
+In
+ accordance with Statement of Financial Standards (SFAS) No. 144, Accounting for the Impairment
+ or
+ Disposal of Long-Lived Assets , the Company reviews long-lived assets for
+ impairment whenever events or changes in circumstances indicate that the
+ carrying amount of an asset may not be recoverable. Recoverability of
+ assets to be held and used is measured by a comparison of the carrying amount
+ of
+ an asset to future net cash flows expected to be generated by the asset. 
+If such assets are considered to be impaired, the impairment to be recognized
+ is
+ measured by the amount by which the carrying amount of the assets exceeds
+ the
+ fair value of the assets. Assets to be disposed of are reported at the
+ lower of the carrying amount or fair value less cost to sell. The
+ Company recognized 50,366 (net of accumulated depreciation of 1,291) as
+ an
+ extraordinary loss from the write-down of equipment damaged by a fire in
+ July of
+ 2007 in the Company s pilot processor, see Note 14. The Company s
+ management does not believe that any other of the Company s long-lived assets
+ were impaired as of September 30, 2007. 
+
+F10 
+
+Revenue
+ Recognition 
+
+The
+ Company has had 11,925 of revenues to date from a demonstration test in
+ March
+ of 2007. Sales of its product are recognized when delivered to
+ customers. 
+
+Advertising 
+
+Advertising
+ costs, which are included in marketing expense, are expensed as they are
+ incurred. For the twelve months ended September 30, 2007 and the nine months
+ ended September 30, 2006, advertising expense amounted to 50,171 and 6,488
+ respectively. 
+
+Research
+ and
+ Development 
+
+Research
+ and development costs are expensed as incurred. 
+
+Income
+ Taxes 
+
+The
+ Company follows the liability method of accounting for income taxes. Under
+ this method, deferred tax assets and liabilities are determined based on
+ differences between the financial reporting and tax basis of assets and
+ liabilities and on the expected future tax benefits to be derived from net
+ operating loss carryforwards measured using current tax rates. A valuation
+ allowance is established if it is more likely than not that some portion
+ or all
+ of the deferred tax assets will not be realized. 
+
+F11 
+
+Loss
+ Per
+ Share 
+
+Potential
+ common shares are those issuable upon the conversion or exercise of other
+ potentially dilutive securities such as preferred stock, convertible debt,
+ options, and warrants. In these financial statements there were no
+ potential common equivalent shares used in the calculation of weighted average
+ common shares outstanding as the effect would be anti-dilutive because of
+ the
+ net loss. 
+
+The
+ calculation of weighted average basic shares outstanding reflects a two-for-one
+ reverse stock split in September 2006. The accompanying financial
+ statements are presented on a post-split basis. Basic loss per share is
+ computed by dividing net loss by the weighted average number of common shares
+ outstanding during the reporting period. 
+
+Common
+ Shares and
+ Equivalents 
+
+12
+ Months Ended September 30,
+ 2007 
+
+9
+ Months Ended September 30,
+ 2006 
+
+Weighted
+ average shares used to compute basic and diluted net loss per
+ share 
+
+30,668,638 
+
+2,342,491 
+
+Potentially
+ dilutive securities excluded from loss per share
+ computation: 
+
+Warrants
+ related to issuance of notes payable 
+
+11,325 
+
+-- 
+
+Warrants
+ related to private equity placement 
+
+473,491 
+
+-- 
+
+Warrants
+ related to consulting expense 
+
+200,000 
+
+-- 
+
+Options
+ granted to independent director(1) 
+
+100,000 
+
+-- 
+
+Securities
+ convertible into common shares(2) 
+
+44,000 
+
+-- 
+
+(1) 
+
+On
+ October 31, 2007 the holder of the options, Steve Nordaker, resigned
+ from
+ the Company s board of directors. At the time of the
+ resignation two-thirds of the options had not vested, resulting
+ in a
+ forfeiture of 66,667 options. See Note
+ 16. 
+
+(2) 
+
+The
+ Company had discussions with the convertible note holder regarding
+ changing the terms, but has been unable to reach an
+ agreement. During November 2007 the Company forwarded the
+ 44,000 shares of common stock. See Note
+ 16. 
+
+F12 
+
+Share-Based
+ Payments 
+
+Grants
+ of stock options and stock purchase warrants
+ to employees and non-employees are accounted for in accordance with the
+ Financial Accounting Standards Board's State of Financial Accounting Standards
+ No. 123 (revised 2004), Share-Based Pa yment ("SFAS
+ 123R") and with the Financial Accounting Standard Board's Emerging Issue
+ Tast
+ Force Abstract, EITF 96-18, Accounting for Equity
+ Instruments
+ that are Issued to Other Than Employees for Acquiring, or in Conjunction
+ with
+ Selling, Goods and Services ("EITF 96-18"). To calculate the value
+ of share-based payments, the Company used the Black-Scholes fair vale
+ option-pricing model. 
+
+Recent
+ Accounting
+ Developments 
+
+In
+ accordance with Release No. 8760 of the Securities Act of 1933, commencing
+ with
+ the Company s fiscal year ending September 30, 2008, the Company will become
+ subject to the requirement to include in its annual report management s
+ assessment of internal controls over financial reporting. This
+ assessment will require the Company to document and test its internal control
+ procedures in accordance with Section 404 of the Sarbanes-Oxley Act of
+ 2002. The Company s independent registered public accountants will be
+ required to attest to the Company s assessment of internal controls for its
+ fiscal year ending September 30, 2009. 
+
+In
+ September 2006, the FASB issued Statement of Financial Accounting Standards
+ No.
+ 157, Fair Value Measurements 
+ SFAS
+ 157 ). SFAS 157 is effective for financial statements issued for
+ fiscal years beginning after November 15, 2007, and interim periods within
+ those
+ fiscal years. The Company has not yet determined the effect of
+ applying SFAS 157. 
+
+In
+ February 2007, the FASB issued Statement of Financial Accounting Standards
+ No.
+ 159, The Fair
+ Value Option for
+ Financial Assets and Financial Liabilities , SFAS 159 ). SFAS
+ 159 is effective for fiscal years beginning after November 15,
+ 2007. The Company does not believe that FAS 159 will have any
+ material effect on its financial statements. 
+
+F13 
+
+In
+ June
+ 2007, the Emerging Issues Task Force of the FASB issued EITF Issue no. 07-3,
+ Accounting for Nonrefundable
+ Advance Payments for
+ Goods or Services to be Used in Future Research and Development Activities , EITF 07-3 which is effective for fiscal years beginning after December 15,
+ 2007. EITF 07-3 requires that nonrefundable advance payments for
+ future research and development activities be deferred and
+ capitalized. Such amounts will be recognized as an expense as the
+ goods are delivered or the related services are performed. The
+ Company does not expect the adoption of EITF 07-3 to have a material impact
+ on
+ the financial results of the Company. 
+
+In
+ December 2007, the FASB issued SFAS No. 141(R), Business Combinations SFAS
+ No. 141(R) ), which requires the Company to record fair value estimates of
+ contingent consideration and certain other potential liabilities during the
+ original purchase price allocation, expense acquisition costs as incurred
+ and
+ does not permit certain restructuring activities previously allowed under
+ Emerging Issues Task Force Issue No. 95-3 to be recorded as a component of
+ purchase accounting. The Company will adopt this standard at the
+ beginning of The Company s fiscal year ending September 30, 2010 for all
+ prospective business acquisitions. The Company has not determined the
+ effect that the adoption of SFAS No. 141(R) will have on its consolidated
+ financial statements, but the impact will be limited to any future acquisitions
+ beginning in fiscal 2010. 
+
+In
+ December 2007, the FASB issued SFAS No. 160, Noncontrolling Interests
+ in
+ Consolidated Financial Statements an amendment of ARB No. 51 , SFAS No.
+ 160 ), which causes noncontrolling interests in subsidiaries to be included in
+ the equity section of the balance sheet. The Company will adopt this
+ standard at the beginning of the Company s fiscal year ending September 30,
+ 2010. The Company has not determined the effect that the adoption of
+ SFAS No. 160 will have on its consolidated financial statements. 
+
+F14 
+
+Note
+ 4. Related Party
+ Transactions 
+
+During
+ 2007 Gary Crook, the Company s CFO, (who remains a partner in Tatum, LLC)
+ engaged Tatum, LLC to assist in completing the filing of the Company s 10-QSB s
+ for the periods ending December 31, 2006 and March 31, 2007 and to
+ assist in the documentation of accounting controls for production during
+ the
+ three months ending June 30, 2007. The cost of the engagements to the
+ Company has totaled 13,800. 
+
+During
+ the twelve months ended September 30, 2007 Ron Crafts, the Company s Chief
+ Executive Officer, advanced the Company 75,000. Interest is being
+ accrued at 8 per annum. Subsequent to September 30, 2007 the
+ advance, along with accrued interest was transferred to Domestic Energy
+ Partners, LLC (see Note 16). 
+
+Ron
+ Crafts, the Company s Chief Executive Officer, purchased 41,000 units of the
+ Company s Private Placement in May 2007, described in Note 11, for consideration
+ of 82,000. Gary Crook, the Company s Chief Financial Officer,
+ purchased 25,000 units for consideration of 50,000 in the same Private
+ Placement. The terms of the transaction for Mr. Crafts and Mr. Crook
+ were the same as that of the other investors. 
+
+David
+ M.
+ Otto is general securities counsel and a director of the Company and a principal
+ at The Otto Law Group, PLLC. The Company has expensed and accrued 100,620
+ in legal fees to The Otto Law Group, PLLC, as of and for the twelve months
+ ended
+ September 30, 2007. 
+
+Prior
+ to
+ the merger of the Company and DEP, the Company s Chief Executive Officer, who
+ was an LLC member of DEP, contributed net cash of 152,221 to fund the
+ operations of DEP and contributed an airplane valued at 138,825 to DEP. 
+He received common stock of the Company in the merger in exchange for these
+ contributions. 
+
+Another
+ party who became a stockholder of the Company in the merger loaned money
+ to DEP
+ under a convertible note. The note and the accrued interest thereon
+ totaling 506,667 were converted to common stock of the Company at the
+ merger. 
+
+Two
+ DEP
+ LLC members who became stockholders of the Company were paid 40,000 for
+ consulting services prior to the merger. 
+
+F15 
+
+Note
+ 5. Nonmonetary
+ Transactions Prior to Merger 
+
+Prior
+ to
+ the merger of the Company and DEP, two persons contributed future services
+ and
+ two persons contributed future services and processing development rights
+ to DEP
+ in the Form of an assignment (also signed by the Company s CEO) of an
+ application for a patent on the Company s core technology in exchange for LLC
+ member units. The Company determined that the value of these contributions
+ was insignificant because of the highly speculative nature of the DEP
+ development process at that time. All of these persons became stockholders
+ of the Company in the merger. The first two persons contributing future
+ services referred to above are the two DEP LLC members paid 40,000 referred
+ to
+ in Note 4. 
+
+Note
+ 6. The Merger and
+ Stockholders Equity 
+
+On
+ September 29, 2006, the Company acquired all the operations of DEP in exchange
+ for 28,500,000 shares of the Company s no par value common stock, as
+ follows: 
+
+5,250,000 shares issued to the Company s CEO in exchange for cash
+ and property contributed to DEP; 
+
+1,500,000 shares issued upon conversion of note payable
+ by DEP;
+ and 
+
+21,750,000 shares issued to other parties, including LLC
+ members of
+ DEP 
+
+As
+ a
+ result of this merger, the Company became the sole LLC member of
+ DEP. 
+
+F16 
+
+As
+ of the
+ effective date of inception of DEP s development stage (November 1, 2004),
+ the Company, then operating as MSH, had 4,000,000 shares of its common stock
+ issued and outstanding. In August 2006, two former stockholders of
+ MSH exchanged a total of 325,000 common shares for two former subsidiaries
+ of
+ MSH, which comprised all of the assets and liabilities of MSH. The
+ remaining common stock shares of MSH were then subject to a two-for-one reverse
+ split, resulting in 2,000,001 shares of its common stock issued and outstanding
+ at the time of merger. These stockholders, combined with the new shares
+ issued in the merger, comprise the 30,500,001 shares of the Company s common
+ stock issued and outstanding at September 30, 2006. During May
+ and June of 2007 the Company issued 377,500 shares and 377,500 warrants in
+ exchange for 755,000 in cash consideration and 67,500 shares and 67,500
+ warrants in exchange for 135,000 of goods and services, see Note
+ 11. Total shares outstanding as of September 30, 2007 were
+ 30,945,001. The Company has also issued 11,325 warrants associated
+ with the issuance of debt, 28,491 warrants as a private placement fee for
+ the
+ Private Placement of equity in 2007 and 200,000 warrants as a consulting
+ fee,
+ see Note 11. There is a convertible debenture outstanding that is
+ convertible into 44,000 shares of common stock. The shares were
+ issued in November 2007, see Note 16. The Company is authorized to issue
+ a total
+ of 200,000,000 shares of common stock. 
+
+The
+ Company also has 5,000,000 shares of no par value preferred stock authorized
+ but
+ none is issued. This class of stock is a blank check class in that the
+ rights of such stock would be established at the time of its
+ issuance. 
+
+The
+ Company left in place an incentive stock option plan established by MSH in
+ 2002
+ but there are no stock grants issued or outstanding under the plan and the
+ Company s Board of Directors has not allocated any stock to the
+ plan. The Company has issued options to purchase 100,000 shares of
+ common stock to an independent director as part of his board services agreement,
+ see Notes 12 and 16. 
+
+F17 
+
+A
+ summary
+ of the accounting for the merger of the Company and DEP follows (in
+ thousands): 
+
+BBD (formerly MSH) 
+
+DEP 
+
+As of 
+
+ 9/29/06 
+
+ before 
+
+ merger 
+
+Merger 
+
+ adj. 
+
+As of 
+
+ 9/29/06 
+
+ after 
+
+ merger 
+
+As of 
+
+ 9/29/06 
+
+ before 
+
+ merger 
+
+Merger 
+
+ adj. 
+
+As of 
+
+ 9/29/06 
+
+ after 
+
+ merger 
+
+Consol. 
+
+ Adj. 
+
+BBD - 
+
+ Consol. 
+
+ Post- 
+
+ Merger 
+
+ASSETS: 
+
+Current
+ assets 
+
+0 
+
+0 
+
+0 
+
+192 
+
+0 
+
+192 
+
+0 
+
+192 
+
+PPE
+ other assets 
+
+0 
+
+0 
+
+0 
+
+270 
+
+0 
+
+270 
+
+0 
+
+270 
+
+Due
+ from subsidiary 
+
+0 
+
+507 
+
+(1) 
+
+507 
+
+(507 
+
+)(3) 
+
+0 
+
+Investment
+ in subsidiary 
+
+0 
+
+(182 
+
+)(2) 
+
+(182 
+
+182 
+
+(4) 
+
+0 
+
+TOTAL
+ ASSETS 
+
+0 
+
+325 
+
+325 
+
+462 
+
+0 
+
+462 
+
+(325 
+
+462 
+
+LIABILITIES
+ 
+ EQUITY: 
+
+LIABILITIES: 
+
+Current
+ liabilities 
+
+0 
+
+0 
+
+0 
+
+138 
+
+0 
+
+138 
+
+0 
+
+138 
+
+Conv.
+ note payable to related party 
+
+507 
+
+(507 
+
+)(1) 
+
+0 
+
+0 
+
+0 
+
+Advances
+ from parent 
+
+0 
+
+507 
+
+(1) 
+
+507 
+
+(507 
+
+)(3) 
+
+0 
+
+TOTAL
+ LIABILITIES 
+
+0 
+
+0 
+
+0 
+
+644 
+
+0 
+
+644 
+
+(507 
+
+138 
+
+EQUITY: 
+
+BBD
+ Stockholders Equity: 
+
+BBD
+ Preferred Stock 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+BBD
+ Common Stock 
+
+0 
+
+507 
+
+(1) 
+
+798 
+
+0 
+
+798 
+
+291 
+
+(2) 
+
+BBD
+ Retained Earnings (Deficit) 
+
+0 
+
+(473 
+
+)(2) 
+
+(473 
+
+0 
+
+(473 
+
+DEP
+ Members Capital: 
+
+DEP
+ Contrib. by LLC member 
+
+291 
+
+0 
+
+(5) 
+
+291 
+
+(291 
+
+)(4) 
+
+0 
+
+DEP
+ Accumulated Deficit 
+
+(473 
+
+0 
+
+(473 
+
+473 
+
+(4) 
+
+0 
+
+TOTAL
+ EQUITY 
+
+0 
+
+325 
+
+325 
+
+(182 
+
+0 
+
+(182 
+
+182 
+
+325 
+
+TOTAL
+ LIAB. 
+ EQUITY 
+
+0 
+
+325 
+
+325 
+
+462 
+
+0 
+
+462 
+
+(325 
+
+462 
+
+Notes: 
+
+1. 
+
+Record
+ the conversion of the DEP convertible note payable and accrued
+ interest
+ payable to 1,500,000 BBD common shares. 
+
+2. 
+
+Record
+ the net book value of the net assets of DEP on the books of
+ BBD. 
+
+3. 
+
+Eliminate
+ intercompany advances. 
+
+4. 
+
+Eliminate
+ BBD s investment in DEP. 
+
+5. 
+
+Contributions
+ by LLC Member: 
+
+Cash
+ - per consolidated statement of Cash Flows 
+
+152 
+
+Contribution
+ of airplane to DEP 
+
+139 
+
+Total 
+
+291 
+
+F18 
+
+Note
+ 7. Development Stage
+ Operations 
+
+By
+ virtue
+ of its merger with DEP, which became its sole operations, the Company is
+ considered to be in the development stage in accordance with the Financial
+ Accounting Standards Board SFAS No. 7, Accounting and Reporting
+ by
+ Development Stage Enterprises . Since its inception, DEP has
+ devoted substantially all of its time to raising capital, obtaining financing,
+ and research and development activities. Furthermore, DEP has had a total
+ of 11,925 of revenues and has had recurring losses since its
+ inception. 
+
+Total
+ stockholders equity on the balance sheet includes the deficit accumulated
+ during the development stage of 2,840,482 through September 30,
+ 2007. 
+
+Note
+ 8. Notes
+ Payable 
+
+In
+ November of 2006 the Company received an advance of 100,000 from Sausalito
+ Capital Partners (a shareholder of the Company) in anticipation of negotiating
+ and executing a promissory note. In February of 2007 a note payable
+ was executed in exchange for the advance. The interest rate on the
+ note is 6 per annum. Principal and accrued interest are due at the
+ earlier of February of 2008 or within two days of the Company completing
+ a
+ private placement of at least 3.0 million. Warrants to purchase
+ 5,000 shares of the Company s common stock were issued to the investor in
+ conjunction with the execution of the note. The warrants were
+ granted with an initial exercise price of 5.00 per share and expire in
+ February of 2009. The exercise price of the warrant may be adjusted
+ downward if the Company issues common stock or securities convertible or
+ exchangeable into common stock at a lower price. The warrants were
+ valued utilizing the Black-Scholes model with volatility of 192 , a risk
+ free
+ interest rate of 4.8 , an expected life of two years, and a dividend yield
+ of 0 resulting in a value of 4.17 per warrant. The valuation has
+ been taken as a 17,253 discount on the note payable which is being expensed
+ over the life of the note. The discount was determined based on the
+ relative fair value of the warrants and the note. During May and June 2007
+ the
+ Company issued shares and warrants that triggered a revaluation lowering
+ the
+ exercise price to 2.00 per warrant resulting in an increase in valuation
+ of
+ 1,243. All of the change was expensed as interest. As of
+ September 30, 2007 the debt discount amounted to 8,301 and accrued interest
+ was
+ 5,339. 
+
+F19 
+
+In
+ December of 2006 the Company received an advance of 200,000 from National
+ Real
+ Estate Solutions Group in anticipation of negotiating and executing a debt
+ agreement. In February of 2007, pursuant to a subscription agreement
+ between National Real Estate and the Company, a convertible debenture
+ was executed in exchange for the advance. The debenture matured at
+ March 31, 2007 and had accrued interest of 20,000. Both the
+ subscription agreement and the debenture provides that, at maturity, the
+ Company
+ has the option to convert the debenture and accrued interest into shares
+ of the
+ Company s common stock at a share price which is the greater of either 5.00 or
+ 75 of the most current 10-day trailing average bid price. The
+ Company has valued the beneficial conversion feature at 13,860 and taken
+ that
+ amount as a discount on the debenture. Warrants to purchase 3,125
+ shares of the Company s common stock with an initial exercise price of
+ 8.00 and an exercise period of 3 years were issued to the debenture
+ holder. The exercise price of the warrant may be adjusted downward if the
+ Company issues common stock or securities convertible or exchangeable into
+ common stock at a lower price. The warrants were valued utilizing the
+ Black-Scholes model with volatility of 192 , a risk free interest rate of
+ 4.7 ,
+ an expected life of three years and a dividend yield of 0 resulting in a
+ value of 4.44 per warrant. The valuation has been taken as a 12,962
+ discount on the debenture. The discount was determined based on the
+ relative fair value of the warrants and note. Placement fees of 17,515
+ were paid to an outside party for securing the financing. In
+ addition, warrants were issued to that party to purchase 3,200 shares of
+ the
+ Company s common stock with an initial exercise price of 5.00 with an
+ exercise period of 5 years for placement services rendered. The exercise
+ price
+ of the warrant may be adjusted downward if the Company issues common stock
+ or
+ securities convertible or exchangeable into common stock at a lower price.
+ The
+ warrants were valued utilizing the Black-Scholes model with volatility of
+ 192 ,
+ a risk free interest rate of 4.7 an expected life of five years, and a dividend
+ yield of 0 resulting in a value of 4.86 per warrant. The valuation
+ of 15,549 and the placement fee of 17,515 were taken as a as an additional
+ discount on the debenture. The discount was determined based on
+ the relative fair value of the warrants and note. As of March 31, 2007, the
+ maturity date, the debt discount of 59,786 was fully amortized to
+ interest and 20,000 of accrued interest at that date was
+ transferred from accrued interest to principal. Since March 31, 2007,
+ interest has been accruing at 10 per annum resulting in accrued
+ interest of 11,000 at September 30, 2007. During May and June 2007
+ the Company issued shares and warrants that triggered a revaluation lowering
+ the
+ exercise price to 2.00 per warrant associated with the debenture resulting
+ in
+ an increase in valuation of 830. All of the change was expensed as
+ interest. The Company provided notice to National Real Estate
+ Solutions Group to convert its subordinated convertible debenture, but national
+ Real Estate Solutions Group requested certain amendments to the agreement
+ in
+ lieu of conversion of the debenture. The Company has been in
+ discussions with the debenture holder. In November of 2007 the
+ Company issued the note holder, National Real Estate Solutions Group, 44,000
+ shares of common stock, per the note agreement. Despite the stated
+ terms of the above referenced subscription agreement and the convertible
+ debenture, National Real Estate Solutions Group takes the position that the
+ Company is obligated to repay the convertible debenture, in cash. In
+ reliance on these documents, the Company disputes National Real Estate Solutions
+ Group s position, but remains committed to reaching an agreement acceptable to
+ both parties. Because the 44,000 shares were issued to National Real
+ Estate Solutions Group, but National Real Estate Solutions Group maintains
+ its
+ position that it remains a debt-creditor of the Company, the Company will
+ state
+ National Real Estate Solutions Group as a both a shareholder and debt-creditor
+ until a definitive agreement is reached, see Note 16. 
+
+F20 
+
+Note
+ 9. Related Party
+ Advances 
+
+As
+ of
+ September 30, 2007 Ron Crafts, the Company s Chief Executive Officer, had
+ advanced the Company 75,000. Interest is being accrued at 8 per
+ annum. Accrued interest at September 30, 2007 amounted to
+ 3,785. 
+
+Note
+ 10. Commitments and
+ Contingencies 
+
+The
+ Company leases its property, consisting of building and property for 5,000
+ per
+ month. Rent expense for the twelve months end September 30, 2007 and
+ the nine months end September 30, 2006 was 60,000 and 15,000
+ respectively. The lease expires in July of 2008, with four, two-year
+ renewal option periods. The exercise of the renewal option allows the
+ lease payment to be adjusted by 75 of the change in the Consumer Price
+ Index in
+ the preceding two year period. 
+
+Future
+ minimum lease payments are as follows for the year ending September
+ 30: 
+
+2008 
+
+50,000 
+
+On
+ January 29, 2007, the Company's board of directors resolved to issue 16,000
+ shares of the Company's common stock to two separate parties for services
+ rendered. The value of these services were deemed to be 120,000
+ (based on the closing price of shares on the grant date). As of
+ September 30, 2007, the shares have not been issued, but a liability has
+ been
+ recorded and is included in accounts payable and accrued expenses. An
+ additional 20,000 of expense has been recorded under the terms of an agreement
+ with one of the parties, resulting in a total liability of
+ 140,000. 
+
+During
+ 2007 the board of directors resolved to issue Gary Crook, the Company s Chief
+ Financial Officer, 305,000 options. On October 12, 2007, the board of
+ directors adjusted the still unissued option grant to 500,000 options. The
+ options have not been issued as of yet and no terms or conditions have
+ been
+ determined. 
+
+The
+ Company has an engagement letter with Thomas Lloyd (a financial advisor
+ to the
+ Company) to issue an additional 300,000 warrants at the completion of a
+ 10
+ million, or higher, financing or upon termination of the underlying
+ engagement. In addition, the Company has a 75,500 accrual for the
+ placement associated with the Company s private placement from May and June of
+ 2007. The fee is due at the completion of a 10 million, or higher
+ financing, or upon termination of the underlying agreement, see Note
+ 11. 
+
+F21 
+
+Note
+ 11. Common Stock and
+ Warrants 
+
+During
+ May and June 2007 the Company sold 377,500 units in a private
+ placement. The units consist of 377,500 shares of common stock and
+ warrants to purchase 377,500 share of common stock at 2.65 per
+ share. The units were sold at 2.00 per unit. Gross
+ proceeds totaled 755,000. The Company s Chief Executive Office and
+ Chief Financial Officer purchased 41,000 units and 25,000 units,
+ respectively. The common shares have piggy back registration rights
+ and demand registration rights after 90 days, subject to limitations for
+ additional financing being sought and limitations under current SEC
+ regulations. The warrants vest immediately, expire in five years and
+ may be exercised for cash or on a cashless basis. Analysis utilizing
+ the Black-Scholes model utilizing volatility of 184 , an interest rate
+ of 5.1 ,
+ an expected life of five years, and a dividend yield of 0 resulted in an
+ allocation of proceeds of 385,050 to common stock (51 and 369,950 to
+ the
+ warrants as additional paid in capital (49 ). The Company accrued
+ 75,500 as a placement fee that is payable at a larger round of financing
+ or as
+ a result of terminating the underlying agreement. The Company also
+ issued 28,491 warrants as a placement fee with an exercise price of 2.65,
+ expiring in five years that can be exercised as cash or cashless. The
+ warrants were valued utilizing the Black- Scholes model utilizing a volatility
+ of 184 , a risk free rate of 5.1 , an expected life of five years, and
+ a
+ dividend yield of 0 . The 65,523 value was recorded as a reduction
+ to common stock proceeds. 
+
+In
+ June
+ 2007 the Company issued 67,500 units consisting of 67,500 shares of common
+ stock
+ and warrants to purchase 67,500 shares of common stock valued at 2.00
+ per
+ unit. The terms and conditions are the same as the private placement,
+ excluding placement fees. In exchange the Company received 11,107 of
+ inventory, 35,721 of property, plant, and equipment and 88,172
+ of services and other expenses. The 135,000 was allocated
+ 51 to common stock and 49 to additional paid in capital. 
+
+In
+ June
+ 2007 the Company issued 200,000 warrants with an exercise of 2.65 per
+ warrant
+ and a five year expiration to a company in exchange for services. The
+ warrants were valued utilizing the Black-Scholes model utilizing 184 
+ volatility, a risk free rate of 5.1 , an expected life of five
+ years and a dividend yield of 0 resulting in a value of 482,215 which was
+ immediately expensed. 
+
+F22 
+
+Note
+ 12. Options 
+
+The
+ Company has granted options to a director of the Company. The Company
+ has adopted the provisions of SFAS No. 123R using the modified-prospective
+ transition method and the disclosures that follow are based on applying
+ SFAS No.
+ 123R. During June 2007 100,000 options were issued to a director with
+ an exercise price of 2.65, which expire in June 2017. One-third of
+ the options vest upon execution of the agreement with the director, another
+ one-third vesting on the last day of the first year of the execution of
+ the
+ agreement and the remaining one-third on the last day of the second year
+ of the
+ execution of the agreement. The options were valued utilizing the
+ Black-Scholes model with volatility of 181 , a risk-free rate of 5.1 ,
+ an
+ expected life of five years and a dividend yield of 0 resulting in a fair
+ value of 2.19 per option. Compensation expense is amortized over the
+ vesting period of the option on a straight-line basis resulting in 93,712
+ in
+ compensation expense for the twelve months ended September 30,
+ 2007. On October 31, 2007 the option holder, Steve Nordaker, resigned
+ his board seat. At the time of the resignation 33,333 options were
+ vested and 66,667 options were not vested. The 93,712 compensation
+ expense at September 30, 2007 consisted of 73,110 expense on vested options
+ and
+ 20,602 in accrued compensation amortized toward the next vesting period,
+ see
+ Note 16. 
+
+Note
+ 13. Sales 
+
+In
+ March
+ of 2007 the Company sold 4,500 gallons of biodiesel fuel to a potential
+ customer
+ as part of negotiating a letter of intent for Better Biodiesel to deliver
+ fuel
+ in the future. The purpose of the delivery was for the potential
+ customer to run tests of the fuel in actual driving conditions and in the
+ laboratory. The Company received 11,925 in revenue for delivering
+ the fuel. 
+
+During
+ June of 2007 the Company began continuous production of biodiesel fuel,
+ primarily to optimize the design of a new 10 million gallon per year
+ processor. The Company was still in the process of modifying its
+ process as of July 25, 2007 when a fire in the fuel processor halted production,
+ see Note 14. The Company has made basic repairs to the processor and
+ has only used the processor for limited production testing since
+ then. No fuel has been sold since March of 2007. 
+
+F23 
+
+Note
+ 14. Extraordinary
+ Loss 
+
+On
+ July
+ 25, 2007 the Company sustained a fire to its fuel processor which caused
+ the
+ Company to temporarily suspend fuel production at its production
+ facility. As a result of the fire damage the Company wrote off
+ 50,366 worth of equipment, net of 1,291 of accumulated depreciation and
+ no
+ expected salvage value, as an extraordinary loss. There was no
+ insurance available to cover the loss. 
+
+After
+ reviewing the expenditures required to bring the processor back to full
+ production and the economic benefit, the Company determined that its financial
+ interests were best served by making basic repairs and to use the processor
+ for
+ limited production and for testing and demonstration purposes. 
+
+Note
+ 15. Income
+ Taxes 
+
+Significant
+ components of the Company's deferred tax assets and liabilities and related
+ valuation allowances are as follows as of September 30: 
+
+2007 
+
+Deferred
+ tax assets: 
+
+Net
+ operating loss carryforwards 
+
+557,252 
+
+Option
+ / warrant compensation 
+
+244,434 
+
+Other 
+
+10,219 
+
+Total
+ net deferred tax assets 
+
+811,905 
+
+Valuation
+ allowance 
+
+(811,905 
+
+Deferred
+ tax assets, net of valuation allowance 
+
+-- 
+
+The
+ Company has established a valuation allowance to fully offset the 811,905
+ deferred tax asset as of September 30, 2007, due to the uncertainty of
+ future realization of the net deferred tax assets. The ability to
+ realize any deferred tax asset is dependent on generating future taxable
+ income. 
+
+During
+ the twelve months ended September 30, 2007 and the nine months ended
+ September
+ 30, 2006, the valuation allowance increased by 771,042 and 40,863,
+ respectively. 
+
+The
+ difference between the tax at the statutory federal tax rate and no tax
+ provision recorded by the Company for the twelve months ended September
+ 30,
+ 2007, and the nine months ended September 30, 2006, is primarily due
+ to the
+ Company's full valuation allowance against its deferred tax
+ assets. 
+
+At Setember 30, 2007 the Company had net operating
+ loss
+ carryforwards for the Federal income tax purposes of approximately 1.6
+ million to offset future income that expire beginning in 2021. 
+Utilization of the carryforwards is dependent on generating future taxable
+ income. 
+
+F24 
+
+Note
+ 16. Subsequent
+ Events 
+
+In
+ November of 2007 the Company issued 44,000 shares of common stock to National
+ Real Estate Solutions Group National Real Estate per the terms of the
+ subscription agreement and subordinated convertible debenture (the Securities
+ Agreement after National Real Estate and the Company failed to reach an
+ agreement on an amendment to the Securities Agreement. Despite the
+ written terms of the Security Agreement, National Real Estate takes the
+ position
+ that the Company remains obligated to repay the convertible debenture in
+ cash. The Company continues to rely on the written terms of the
+ Security Agreement to support its right to convert the debentures and issue
+ the
+ shares, but remains committed to reaching an agreement acceptable to both
+ parties. Because the 44,000 shares were issued to National Real
+ Estate, but National Real Estate Solutions Group maintains its position
+ that it
+ remains a debt-creditor of the Company, the Company will state National
+ Real
+ Estate Solutions Group as a both a shareholder and debt-creditor until
+ a
+ definitive agreement is reached, 
+
+On
+ October 31, 2007, the Board of Directors (the Board of Better Biodiesel, Inc.
+ (the Company accepted the resignations of Steve Nordaker and John Robinson
+ from the Board. Mr. Nordaker and Mr. Robinson had served on the Board
+ since June 19, 2007. The resignations of Mr. Nordaker and Mr.
+ Robinson from the Board do not arise from any disagreement on any matter
+ relating to the Company s operations, policies or practices, or regarding the
+ general direction of the Company. The Company is currently
+ interviewing potential Board candidates who can facilitate strategic
+ relationships for the Company within the biodiesel industry. 
+
+On
+ November 6, 2007, the Company executed a letter of intent with Green Energy
+ Technology, Inc. GET to enter into a share exchange, whereby, upon the
+ development, execution and closing of a definitive agreement by November
+ 30,
+ 2007, 15,750,000 shares of the Company s common stock and the Company s best
+ efforts commitment to facilitate capital financing shall be exchanged for
+ 100 
+ of the common stock of GET, and GET will become a wholly owned subsidiary
+ of the
+ Company. GET plans to realign the focus of the Company s business
+ from a technology-based producer of biodiesel fuel to a vertically integrated
+ business comprised of: i) the procurement of low cost and diversified feedstock;
+ ii) biodiesel fuel production using proven, established technologies; iii)
+ the
+ distribution of internally produced petro-biodiesel blended fuel; and iv)
+ the
+ research and development of future renewable, cost-beneficial feedstocks. 
+As of January 2008, the parties were unable to reach a definitive agreement
+ and
+ have terminated further discussions. 
+
+Also,
+ on
+ November 6, 2007, the Company executed a letter of intent with Ron Crafts,
+ the
+ Company s Chairman and Chief Executive Officer, John Crawford, President, Chief
+ Technology Officer and a Director of the Company, Lynn Dean Crawford, Chief
+ Operations Officer of the Company, James Crawford, Mary Crafts, and Culinary
+ Crafts, LLC., whereby common stock of the Company owned by Ron Crafts,
+ John,
+ James and Lynn Dean Crawford will be returned to the Company in exchange
+ for: i)
+ 100 of the membership interests in Domestic Energy Partners, LLC., the
+ Company s wholly owned subsidiary DEP ii) all accounts, contracts,
+ equipment, furnishings, miscellaneous personal property, fixtures, general
+ intangibles, transferable tax rebate certificates, documents and copyrights
+ owned by the Company and/or DEP; iii) all of the rights, title and interest
+ held
+ in the invention identified in the patent application assigned to the Company;
+ iv) the Company s Twin Cessna airplane; and v) all liabilities in connection
+ with, or obligations owed to, Mr. Crafts, John, James and Lynn Dean Crawford
+ and/or Culinary Crafts. Under this letter of intent, Ron Crafts, John
+ Crawford and Lynn Dean Crawford will resign from their respective positions
+ with
+ the Company. 
+
+F25 
+
+The
+ Company filed an 8-K on the board member resignations and the letters of
+ intent
+ on November 6, 2007. 
+
+On
+ December 20, 2007, the Company entered into and closed an Asset Purchase,
+ Settlement and Mutual Release Agreement with Ron Crafts, Chairman and Chief
+ Executive Officer of the Company, John Crawford, President, Chief Technology
+ Officer and a Director of the Company, Lynn Dean Crawford, Chief Operations
+ Officer of the Company, James Crawford, Mary Crafts, and Culinary Crafts,
+ LLC.,
+ under which Ron Crafts, John Crawford, Lynn Dean Crawford and James Crawford
+ exchanged a total of 15,750,000 shares of common
+ stock
+ of the Company in exchange for: (i) 100 of the membership interests in
+ Domestic
+ Energy Partners, LLC., the Company s wholly-owned subsidiary DEP (ii)
+ certain contracts, certain biodiesel processing equipment related to the
+ Company s proprietary production technology, office furnishings, transferable
+ tax rebate certificates, documents and copyrights owned by the Company
+ and/or
+ DEP; (iii) all of the rights, title and interest held in the invention
+ identified in the patent application assigned to the Company; and (iv)
+ the
+ Company s Twin Cessna airplane (the Asset Sale Agreement ). 
+
+Additionally,
+ under the Asset Sale Agreement, DEP assumed all liabilities in connection
+ with,
+ or obligations owed to, Ron Crafts, John Crawford, James Crawford, Lynn
+ Dean
+ Crawford and Culinary Crafts, including certain wages and loans
+ payable. The Asset Sale Agreement also stipulated that Ron Crafts,
+ John Crawford and Lynn Dean Crawford resign from their respective positions
+ with
+ the Company, upon closing. 
+
+Seven
+ shareholders of the Company beneficially owning a total of 24,751,000 shares
+ of
+ the Company s 30,945,001 total issued and outstanding shares of common stock
+ consented to the Asset Sale Agreement, in accordance with Section 7-107-104
+ and
+ Section 7-112-102 of the Colorado Revised Statutes. Excluding
+ shareholders with a direct interest in the assets sold in the Asset Sale
+ Agreement, three shareholders beneficially owning a total of 9,001,000
+ shares
+ consented out of the remaining 15,154,001 total shares that are considered
+ disinterested in the assets of the transaction. 
+
+On
+ December 17, 2007, the Company executed a letter
+ of intent with GeoAlgae Technology, Inc., a Wyoming corporation GAT ), to
+ enter into an acquisition agreement (the Exchange whereby Better Biodiesel
+ will acquire 100 of GAT, which will become a wholly-owned subsidiary of
+ the
+ Company, in exchange for (i) 3,300,000 shares of common stock of Better
+ Biodiesel and (ii) Better Biodiesel s commitment to make 6,700,000
+ shares available as additional compensation, issuable to GAT subject to
+ following performance based criteria, to be definitively determined in
+ the
+ Exchange. GAT is both (i) a development stage biodiesel supply and
+ distribution company and (ii) currently developing proprietary technology
+ that
+ its management believes will enable the production of biodiesel fuel on
+ a
+ commercial scale using green algae as feed stock. 
+
+F26 
+
+<EX-21.1>
+ 2
+ exhibit21-1.htm
+ SUBSIDIARIES OF BETTER BIODIESEL
+
+exhibit21-1.htm 
+
+Exhibit
+ 21.1 
+
+Subsidiaries
+ of Better Biodiesel 
+
+Domestic
+ Energy Partners, LLC, a Utah limited liability company, is a wholly-owned
+ subsidiary of Better Biodiesel, Inc. 
+
+</EX-21.1>
+
+<EX-31.1>
+ 3
+ exhibit31-1.htm
+ CERTIFICATION OF CEO PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT.
+
+exhibit31-1.htm 
+
+Exhibit
+ 31.1 
+
+I,
+ David
+ M. Otto, certify that: 
+
+1.
+ I have
+ reviewed this annual report on Form 10-KSB of Better Biodiesel,
+ Inc.; 
+
+2.
+ Based
+ on my knowledge, this report does not contain any untrue statement of a material
+ fact or omit to state a material fact necessary to make the statements made,
+ in
+ light of the circumstances under which such statements were made, not misleading
+ with respect to the period covered by this annual report; 
+
+3.
+ Based
+ on my knowledge, the financial statements, and other financial information
+ included in this report, fairly present in all material respects the financial
+ condition, results of operations and cash flows of the registrant as of, and
+ for, the periods presented in this annual report; 
+
+4.
+ The
+ small business issuer s other certifying officer(s) and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as defined
+ in
+ Exchange Act Rules 13a-15 and 15d-15(e)) and internal control over financial
+ reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+ small business issuer and have: 
+
+a)
+ designed such disclosure controls and procedures, or caused such controls and
+ procedures to be designed under our supervision, to ensure that material
+ information relating to the small business issuer, including its consolidated
+ subsidiaries, is made known to us by others within those entities, particularly
+ during the period in which this annual report is being prepared; 
+
+b)
+ designed such internal control over financial reporting, or caused such internal
+ control over financial reporting to be designed under our supervision, to
+ provide reasonable assurance regarding the reliability of financial reporting
+ and the preparation of financial statements for external purposes in accordance
+ with generally accepted accounting principles; 
+
+c)
+ evaluated the effectiveness of the small business issuer s disclosure controls
+ and procedures and presented in this report our conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the end of the
+ period covered by this report based on such evaluation; and 
+
+d)
+ disclosed in this report any change in the small business issuer s internal
+ control over financial reporting that occurred during the small business
+ issuer s most recent fiscal quarter that has materially affected, or is
+ reasonably likely to affect, the small business issuer s internal control over
+ financial reporting; and 
+
+5.
+ The
+ small business issuer s other certifying officer(s) and I have disclosed, based
+ on our most recent evaluation of internal control over financial reporting,
+ to
+ the small business issuer s auditors and the audit committee of small business
+ issuer s board of directors (or persons performing the equivalent
+ functions): 
+
+a)
+ all
+ significant deficiencies and material weaknesses in the design or operation
+ of
+ internal control over financial reporting which are reasonably likely to
+ adversely affect the small business issuer s ability to record, process,
+ summarize and report financial information; and 
+
+b)
+ any
+ fraud, whether or not material, that involves management or other employees
+ who
+ have a significant role in the small business issuer s internal control over
+ financial reporting. 
+
+Date: January
+ 14, 2007 
+
+By: 
+
+/s/
+ David M. Otto 
+
+David
+ M. Otto 
+
+Its:
+ Authorized Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ exhibit31-2.htm
+ CERTIFICATION OF CFO PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT.
+
+exhibit31-2.htm 
+
+Exhibit
+ 31.2 
+
+I,
+ Gary
+ Crook, certify that: 
+
+1.
+ I have
+ reviewed this report on Form 10-KSB of Better Biodiesel, Inc.; 
+
+2.
+ Based
+ on my knowledge, this report does not contain any untrue statement of a material
+ fact or omit to state a material fact necessary to make the statements made,
+ in
+ light of the circumstances under which such statements were made, not misleading
+ with respect to the period covered by this annual report; 
+
+3.
+ Based
+ on my knowledge, the financial statements, and other financial information
+ included in this report, fairly present in all material respects the financial
+ condition, results of operations and cash flows of the registrant as of, and
+ for, the periods presented in this annual report; 
+
+4.
+ The
+ small business issuer s other certifying officer(s) and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as defined
+ in
+ Exchange Act Rules 13a-15 and 15d-15(e)) and internal control over financial
+ reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+ small business issuer and have: 
+
+a)
+ designed such disclosure controls and procedures, or caused such controls and
+ procedures to be designed under our supervision, to ensure that material
+ information relating to the small business issuer, including its consolidated
+ subsidiaries, is made known to us by others within those entities, particularly
+ during the period in which this annual report is being prepared; 
+
+b)
+ designed such internal control over financial reporting, or caused such internal
+ control over financial reporting to be designed under our supervision, to
+ provide reasonable assurance regarding the reliability of financial reporting
+ and the preparation of financial statements for external purposes in accordance
+ with generally accepted accounting principles; 
+
+c)
+ evaluated the effectiveness of the small business issuer s disclosure controls
+ and procedures and presented in this report our conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the end of the
+ period covered by this report based on such evaluation; and 
+
+d)
+ Disclosed in this report any change in the small business issuer s internal
+ control over financial reporting that occurred during the small business
+ issuer s most recent fiscal quarter that has materially affected, or is
+ reasonably likely to affect, the small business issuer s internal control over
+ financial reporting; and 
+
+5.
+ The
+ small business issuer s other certifying officer(s) and I have disclosed, based
+ on our most recent evaluation of internal control over financial reporting,
+ to
+ the small business issuer s auditors and the audit committee of small business
+ issuer s board of directors (or persons performing the equivalent
+ functions): 
+
+a)
+ all
+ significant deficiencies and material weaknesses in the design or operation
+ of
+ internal control over financial reporting which are reasonably likely to
+ adversely affect the small business issuer s ability to record, process,
+ summarize and report financial information; and 
+
+b)
+ any
+ fraud, whether or not material, that involves management or other employees
+ who
+ have a significant role in the small business issuer s internal control over
+ financial reporting. 
+
+Date: January
+ 14, 2007 
+
+By: 
+
+/s/
+ Gary Crook 
+
+Gary
+ Crook 
+
+Its:
+ Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32>
+ 5
+ exhibit32.htm
+ CERTIFICATIONS PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 (18 U.S.C. SECTION 1350)
+
+exhibit32.htm 
+
+Exhibit
+ 32 
+
+CERTIFICATIONS
+ PURSUANT TO 
+
+ SECTION
+ 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+ (18
+ U.S.C. SECTION 1350) 
+
+In
+ connection with the Annual Report of Better Biodiesel, Inc., a Colorado
+ corporation (the "Company"), on Form 10-KSB for the period ended September
+ 30,
+ 2007, as filed with the Securities and Exchange Commission (the "Report"),
+ Ron
+ Crafts, Chief Executive Officer and Principal Financial Officer of the Company,
+ does hereby certify, pursuant to 906 of the Sarbanes-Oxley Act of 2002 (18
+ U.S.C. 1350), that to his knowledge: 
+
+(1)
+ The
+ Report fully complies with the requirements of section 13(a) or 15(d) of the
+ Securities Exchange Act of 1934; and 
+
+(2)
+ The
+ information contained in the Report fairly presents, in all material respects,
+ the financial condition and result of operations of the Company. 
+
+/s/
+ David M.
+ Otto 
+
+ By:
+ David
+ M. Otto 
+
+ Its:
+ Authorized Officer 
+
+/s/
+ Gary
+ Crook 
+
+ By:Gary
+ Crook 
+
+ Its:
+ Chief Financial Officer, Chairman 
+
+January
+ 14, 2007 
+
+[A
+ signed
+ original of this written statement required by Section 906 has been provided
+ to
+ Better Biodiesel, Inc. and will be retained by it and furnished to the
+ Securities and Exchange Commission or its staff upon request.] 
+
+</EX-32>
+

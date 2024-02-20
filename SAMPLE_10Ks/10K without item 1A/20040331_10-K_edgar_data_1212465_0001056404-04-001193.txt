@@ -1,0 +1,1663 @@
+<Header>
+<FileStats>
+    <FileName>20040331_10-K_edgar_data_1212465_0001056404-04-001193.txt</FileName>
+    <GrossFileSize>61841</GrossFileSize>
+    <NetFileSize>55728</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>279</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>0</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001056404-04-001193.hdr.sgml : 20040331
+<ACCEPTANCE-DATETIME>20040330195650
+ACCESSION NUMBER:		0001056404-04-001193
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20031231
+FILED AS OF DATE:		20040331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STRUCTURED ASSET MORT INV INC BEAR STEARNS ARM TRUST 2002-11
+		CENTRAL INDEX KEY:			0001212465
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-56240-10
+		FILM NUMBER:		04703479
+
+	BUSINESS ADDRESS:	
+		STREET 1:		383 MADISON AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10179
+		BUSINESS PHONE:		2122722000
+
+	MAIL ADDRESS:	
+		STREET 1:		383 MADISON AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10179
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Tu4q0JMHOWa+/ALU69HjLe5zwe8I/YhLnfAaFVD/w3m6F1IyG9k/krGU70Got7wR
+ eHtP261lBiBL0TuUk4DwPw==
+
+ 0001056404-04-001193.txt : 20040331
+
+10-K
+ 1
+ bst02011_form10k.txt
+ FORM 10-K
+
+UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+
+FORM 10-K
+
+(Mark one)
+
+ /X/ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934
+ For the fiscal year ended December 31, 2003
+
+ OR
+
+/ / TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934
+
+Commission File Number: 333-56240-10
+
+Bear Stearns ARM Trust
+ Mortgage Pass-Through Certificates
+ Series 2002-11
+
+ (Exact name of registrant as specified in its charter)
+
+New York 55-0817543
+ 55-0817546
+ 55-0817549
+ (State or other jurisdiction of (I.R.S. Employer
+ incorporation or organization) Identification No.)
+
+ c/o Wells Fargo Bank, N.A.
+ 9062 Old Annapolis Road
+ Columbia, MD 21045
+ (Address of principal executive offices) (Zip Code)
+
+Registrant's telephone number, including area code: (410) 884-2000
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ NONE.
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+ NONE.
+
+Indicate by check mark whether the registrant (1) has filed all reports
+ required to be filed by Section 13 or 15(d) of the Securities Exchange
+ Act of 1934 during the preceding 12 months (or for such shorter period
+ that the registrant was required to file such reports), and (2) has been
+ subject to such filing requirements for the past 90 days.
+
+ Yes X No ___
+
+Indicate by check mark if disclosure of delinquent filers pursuant to
+ Item 405 of Regulation S-K 229.405 of this chapter) is not contained
+ herein, and will not be contained, to the best of registrant's knowledge,
+ in definitive proxy or information statements incorporated by reference
+ in Part III of this Form 10-K or any amendment to this Form 10-K.
+
+ Not applicable.
+
+ Indicate by check mark whether the registrant is an accelerated filer
+ (as defined in Exchange Act Rule 12b-2).
+ Yes___ No X
+
+State the aggregate market value of the voting and non-voting common
+ equity held by non-affiliates computed by reference to the price at which
+ the common equity was last sold, or the average bid and asked price of
+ such common equity, as of the last business day of the registrant's most
+ recently completed second fiscal quarter.
+
+ Not applicable.
+
+Indicate the number of shares outstanding of each of the registrant's
+ classes of common stock, as of the latest practicable date.
+
+ Not applicable.
+
+List hereunder the following documents if incorporated by reference and
+ the Part of the Form 10-K (e.g. Part I, Part II, etc.) into which the
+ document is incorporated: (1)Any annual report to security holders; (2)
+ Any proxy or information statement; and (3)Any prospectus filed pursuant
+ to Rule 424(b) or (c) under the Securities Act of 1933. The listed
+ documents should be clearly described for identification purposes (e.g.
+ annual report to security holders for fiscal year ended December 24, 1980).
+
+ Not applicable.
+
+PART I
+
+ Item 1. Business.
+
+ Omitted.
+
+ Item 2. Properties.
+
+ See Item 15(a), Exhibits 99.1, 99.2, and 99.3, for information
+ provided in lieu of information required by Item 102 of
+ Regulation S-K.
+
+Item 3. Legal Proceedings.
+
+ The registrant knows of no material pending legal proceedings
+ involving the trust created under the Pooling and Servicing
+ Agreement (the Trust), the Trustee, the Servicer or the
+ registrant with respect to the Trust other than routine
+ litigation incidental to the duties of the respective parties.
+
+Item 4. Submission of Matters to a Vote of Security Holders.
+
+None.
+
+ PART II
+
+Item 5. Market for Registrant's Common Equity and Related Stockholder
+ Matters.
+
+No established public trading market for the Certificates exists.
+
+ Records provided to the Trust by the DTC and the Trustee
+ indicate that as of December 31, 2003, the number of holders of
+ record for each class of Certificate were as follows:
+
+Class I-A-1 17
+ Class 1-A-2 17
+ Class 1-A-3 3
+ Class 1-A-4 3
+ Class I-B-1 3
+ Class I-B-2 3
+ Class I-B-3 3
+ Class I-B-4 1
+ Class I-B-5 1
+ Class I-B-6 1
+ Class II-A-1 3
+ Class II-A-2 6
+ Class II-B-1 3
+ Class II-B-2 3
+ Class II-B-3 3
+ Class II-B-4 1
+ Class II-B-5 1
+ Class II-B-6 1
+ Class I-M-1 3
+ Class R-I 1
+ Class R-II 1
+ Class R-III 1
+
+ Total: 79
+
+Item 6. Selected Financial Data.
+
+ Omitted.
+
+Item 7. Management's Discussion and Analysis of Financial Condition and
+ Results of Operation.
+
+ Omitted.
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk.
+
+ Not applicable.
+
+ Item 8. Financial Statements and Supplementary Data.
+
+ See Item 15(a), Exhibits 99.1, 99.2, 99.3, for information
+ provided in lieu of information required by Item 302 of
+ Regulation S-K.
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and
+ Financial Disclosure.
+
+ None.
+
+ Item 9A. Controls and Procedures.
+
+ Not applicable.
+
+PART III
+
+Item 10. Directors and Executive Officers of the Registrant.
+
+ Not applicable.
+
+Item 11. Executive Compensation.
+
+ Not applicable.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management.
+
+ Not applicable.
+
+Item 13. Certain Relationships and Related Transactions.
+
+ Not applicable.
+
+ Item 14. Principal Accounting Fees and Services.
+
+ Not applicable.
+
+ PART IV
+
+Item 15. Exhibits, Financial Statement Schedules, and Reports on Form 8-K.
+
+ (a) Exhibits
+
+ (31.1) Rule 13a-14(a)/15d-14(a) Certification
+
+ (99.1) Annual Independent Accountants' Servicing Reports concerning
+ servicing activities for the year ended December 31, 2003.
+
+a) EverHome Mortgage F/K/A Alliance Mtg Co, as Servicer 
+ b) Cendant Mortgage Corp, as Servicer 
+ c) Chevy Chase FSB, as Servicer 
+ d) Countrywide Home Loans Inc., as Servicer 
+ e) GMAC Mortgage Corp, as Servicer 
+ f) Morgan Stanley Dean Witter, as Servicer 
+ g) Wells Fargo Home Mortgage, Inc, as Servicer 
+
+(99.2) Report of Management as to Compliance with Minimum Servicing
+ Standards for the year ended December 31, 2003.
+
+a) EverHome Mortgage F/K/A Alliance Mtg Co, as Servicer 
+ b) Cendant Mortgage Corp, as Servicer 
+ c) Chevy Chase FSB, as Servicer 
+ d) Countrywide Home Loans Inc., as Servicer 
+ e) GMAC Mortgage Corp, as Servicer 
+ f) Morgan Stanley Dean Witter, as Servicer 
+ g) Wells Fargo Home Mortgage, Inc, as Servicer 
+
+(99.3) Annual Statements of Compliance under the Pooling and Servicing
+ Agreements for the year ended December 31, 2003.
+
+a) EverHome Mortgage F/K/A Alliance Mtg Co, as Servicer 
+ b) Cendant Mortgage Corp, as Servicer 
+ c) Chevy Chase FSB, as Servicer 
+ d) Countrywide Home Loans Inc., as Servicer 
+ e) GMAC Mortgage Corp, as Servicer 
+ f) Morgan Stanley Dean Witter, as Servicer 
+ g) Wells Fargo Home Mortgage, Inc, as Servicer 
+
+(99.4) Aggregate Statement of Principal and Interest Distributions to
+ Certificate Holders.
+
+(b) On November 04, 2003, December 01, 2003, and January 06, 2004
+ reports on Form 8-K were filed by the Company in order to provide
+ the statements for the monthly distributions to holders of the
+ Certificates. No other reports on Form 8-K have been filed during
+ the last quarter of the period covered by this report.
+
+(c) Not applicable.
+
+(d) Omitted.
+
+ (99.5) Reliance Certifications Mandated under the Pooling and Servicing
+ Agreement for the year ended December 31, 2003.
+
+ a) EverHome Mortgage F/K/A Alliance Mtg Co, as Servicer 
+ b) Cendant Mortgage Corp, as Servicer 
+ c) Chevy Chase FSB, as Servicer 
+ d) Countrywide Home Loans Inc., as Servicer 
+ e) GMAC Mortgage Corp, as Servicer 
+ f) Morgan Stanley Dean Witter, as Servicer 
+ g) Wells Fargo Home Mortgage, Inc, as Servicer 
+
+Filed herewith.
+ Certification received.
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities
+ Exchange Act of 1934, the registrant has duly caused this report to be
+ signed on its behalf by the undersigned, thereunto duly authorized:
+
+Bear Stearns ARM Trust
+ Mortgage Pass-Through Certificates
+ Series 2002-11
+ (Registrant)
+
+Signed: Wells Fargo Bank, N.A. as Master Servicer
+
+By: Brett Handelman, Vice President
+
+ By: /s/ Brett Handelman, Vice President
+
+ Dated: March 30, 2004
+
+SUPPLEMENTAL INFORMATION TO BE FURNISHED WITH REPORTS FILED PURSUANT TO
+ SECTION 15(d) OF THE ACT BY REGISTRANTS WHICH HAVE NOT REGISTERED
+ SECURITIES PURSUANT TO SECTION 12 OF THE ACT.
+
+(a)(i) No annual report is provided to the Certificateholders other than
+ with respect to aggregate principal and interest distributions.
+
+(a)(ii) No proxy statement, form of proxy or other proxy soliciting
+ material has been sent to any Certificateholder with respect to any
+ annual or other meeting of Certificateholders.
+
+ Exhibit Index
+
+ Exhibit No.
+
+ Ex-(31.1) Rule 13a-14(a)/15d-14(a) Certification
+
+ I, Brett Handelman, certify that:
+
+ 1. I have reviewed this annual report on Form 10-K, and all reports on
+ Form 8-K containing distribution or servicing reports filed in
+ respect of periods included in the year covered by this annual report,
+ of Bear Stearns ARM Trust Mortgage Pass-Through Certificates,
+ Series 2002-11 Trust;
+
+ 2. Based on my knowledge, the information in these reports, taken as a
+ whole, does not contain any untrue statement of a material fact or
+ omit to state a material fact necessary to make the statements made,
+ in light of the circumstances under which such statements were made,
+ not misleading as of the last day of the period covered by this
+ annual report;
+
+ 3. Based on my knowledge, the distribution or servicing information
+ required to be provided to the Trustee by the Servicer under the
+ Pooling and Servicing or similar, agreement, for inclusion in these
+ reports is included in these reports;
+
+ 4. I am responsible for reviewing the activities performed by the master
+ servicer under the pooling and servicing, or similar, agreement, and
+ based on upon my knowledge and the annual compliance review required
+ under that agreement, and except as disclosed in the reports, the
+ master servicer has fulfilled its obligations under that agreement;
+ and
+
+ 5. The reports disclose all significant deficiencies relating to the
+ servicer's compliance with the minimum servicing standards based upon
+ the report provided by an independent public accountant, after
+ conducting a review in compliance with the Uniform Single Attestation
+ Program for Mortgage Bankers or similar procedure, as set forth in
+ the pooling and servicing, or similar, agreement, that is included in
+ these reports.
+
+ In giving the certifications above, I have reasonably relied on
+ information provided to me by the following unaffiliated parties:
+ EverHome Mortgage F/K/A Alliance Mtg Co as Servicer, Cendant Mortgage
+ Corp as Servicer, Chevy Chase FSB as Servicer, Countrywide Home Loans
+ Inc. as Servicer, GMACMortgage Corp as Servicer, Morgan Stanley Dean
+ Witter as Servicer.
+
+Date: March 30, 2004
+
+ /s/ Brett Handelman
+ Signature
+
+ Vice President
+ Title
+
+ Ex-99.1 (a)
+
+(Logo) Deloitte
+
+Deloitte & Touche LLP
+Suite 2801
+One Independent Drive
+Jacksonville, FL 32202-5034
+USA
+
+Tel: +1 9046651400
+Fax: +1 9046651600
+
+www.deloitte.com
+
+INDEPENDENT ACCOUNTANTS' REPORT ON
+MANAGEMENT'S ASSERTION ABOUT COMPLIANCE WITH UNIFORM SINGLE ATTESTATION PROGRAM
+REQUIREMENTS
+
+To the Board of Directors EverHome Mortgage Company:
+
+We have examined management's assertion about EverHome Mortgage Company's (the
+"Company") (formerly Alliance Mortgage Company) compliance with the minimum
+servicing standards identified in the Mortgage Bankers Association of America's
+Uniform Single Attestation Program for Mortgage Bankers (USAP) as of and for the
+year ended December 31, 2003 included in the accompanying management assertion.
+Management is responsible for the Company's compliance with those minimum
+servicing standards. Our responsibility is to express an opinion on management's
+assertion about the entity's compliance based on our examination.
+
+Our examination was made in accordance with standards established by the
+American Institute of Certified Public Accountants and, accordingly, included
+examining, on a test basis, evidence about the Company's compliance with the
+minimum servicing standards and performing such other procedures as we
+considered necessary in the circumstances. We believe that our examination
+provides a reasonable basis for our opinion. Our examination does not provide a
+legal determination on the Company's compliance with the minimum servicing
+standards.
+
+In our opinion, management's assertion that the Company complied with the
+aforementioned minimum servicing standards as of and for the year ended December
+31, 2003 is fairly stated, in all material respects.
+
+/s/ Deloitte & Touche LLP
+February 25, 2004
+
+Member of
+Deloitte Touche Tohmatsu
+
+ Ex-99.1 (b)
+
+Deloitte (logo)
+
+Deloitte & Touche LLP
+Third Floor
+750 College Road East
+Princeton, NJ 08540
+USA
+
+Tel: +1 609 514 3600
+Fax: +1 609 514 3603
+www.deloitte.com
+
+INDEPENDENT ACCOUNTANTS' REPORT
+
+To Cendant Mortgage Corporation:
+
+We have examined management's assertion that Cendant Mortgage Corporation (the
+Company) has complied as of and for the year ended December 31, 2003, with its
+established minimum servicing standards described in the accompanying Management
+Assertion Report. Management is responsible for the Company's compliance with
+those minimum servicing standards. Our responsibility is to express an opinion
+on management's assertion about the Company's compliance based on our
+examination.
+
+Our examination was conducted in accordance with attestation standards
+established by the American Institute of Certified Public Accountants and,
+accordingly, included examining, on a test basis, evidence about the Company's
+compliance with its minimum servicing standards and performing such other
+procedures as we considered necessary in the circumstances. We believe that our
+examination provides a reasonable basis for our opinion. Our examination does
+not provide a legal determination on the Company's compliance with its minimum
+servicing standards.
+
+In our opinion, management's assertion that the Company complied with the
+aforementioned minimum servicing standards as of and for the year ended December
+31, 2003, is fairly stated, in all material respects based on the criteria set
+forth in Appendix I.
+
+/s/ Deloitte & Touche
+
+February 23, 2004
+Memeber of Deloitte Touche Tohmatsu
+
+APPENDIX I
+
+MINIMUM SERVICING STANDARDS AS SET FORTH IN THE MORTGAGE BANKERS ASSOCIATION OF
+AMERICA'S UNIFORM SINGLE ATTESTATION PROGRAM FOR MORTGAGE BANKERS
+
+I. CUSTODIAL BANK ACCOUNTS
+
+ 1. Reconciliations shall be prepared on a monthly basis for all custodial
+ bank accounts and related bank clearing accounts. These reconciliations
+ shall:
+
+ be mathematically accurate;
+ be prepared within forty-five (45) calendar days after the cutoff date;
+ be reviewed and approved by someone other than the person who prepared
+ the reconciliation; and
+ document explanations for reconciling items. These reconciling items
+ shall be resolved within ninety (90) calendar days of their original
+ identification.
+
+ 2. Funds of the servicing entity shall be advanced in cases where there is an
+ overdraft in an investor's or a mortgagor's account.
+
+ 3. Each custodial account shall be maintained at a federally insured
+ depository institution in trust for the applicable investor.
+
+ 4. Escrow funds held in trust for a mortgagor shall be returned to the
+ mortgagor within thirty (30) calendar days of payoff of the mortgage loan.
+
+II. MORTGAGE PAYMENTS
+
+ 1. Mortgage payments shall be deposited into the custodial bank accounts and
+ related bank clearing accounts within two business days of receipt.
+
+ 2. Mortgage payments made in accordance with the mortgagor's loan documents
+ shall be posted to the applicable mortgagor records within two business
+ days of receipt.
+
+ 3. Mortgage payments shall be allocated to principal, interest, insurance,
+ taxes or other escrow items in accordance with the mortgagor's loan
+ documents.
+
+ 4. Mortgage payment identified as loan payoffs shall be allocated in
+ accordance with the mortgagor's loan documents.
+
+III. DISBURSEMENTS
+
+ 1. Disbursements made via wire transfer on behalf of mortgagor or investor
+ shall be made only by authorized personnel.
+
+ 2. Disbursements made on behalf of a mortgagor or investor shall be posted
+ within two business days to the mortgagor's or investor's records
+ maintained by the servicing entity.
+
+ 3. Tax and insurance payments shall be made on or before the penalty or
+ insurance policy expiration dates, as indicated on tax bills and
+ insurance premium notices, respectively, provided that such support has
+ been received by the servicing entity at least thirty (30) calendar days
+ prior to these dates.
+
+ 4. Any late payment penalties paid in conjunction with the payment of any
+ tax bill or insurance premium notice shall be paid from the servicing
+ entity's funds and not charged to the mortgagor, unless the late payment
+ was due to the mortgagor's error or omission.
+
+ 5. Amounts remitted to investors per the servicer's investor reports shall
+ agree with cancelled checks, or other form of payment, or custodial bank
+ statements.
+
+ 6. Unused checks shall be safeguarded so as to prevent unauthorized access.
+
+IV. INVESTOR ACCOUNTING AND REPORTING
+
+ 1. The servicing entity's investor reports shall agree with, or reconcile
+ to, investors' records on a monthly basis as to the total unpaid
+ principal balance and number of loans serviced by the servicing entity.
+
+V. MORTGAGOR LOAN ACCOUNTING
+
+ 1. The servicing entity's mortgage loan records shall agree with or reconcile
+ to, the records of mortgagors with respect to the unpaid principal balance
+ on a monthly basis.
+
+ 2. Adjustments on ARM loans shall be computed based on the related mortgage
+ note and any ARM rider.
+
+ 3. Escrow accounts shall be analyzed, in accordance with the mortgagor's loan
+ documents, on at least an annual basis.
+
+ 4. Interest on escrow accounts shall be paid, or credited, to mortgagors in
+ accordance with the applicable state laws.
+
+VI. Delinquencies
+
+ 1. Records documenting collection efforts shall be maintained during the
+ period a loan is in default and shall be updated at least monthly. Such
+ records shall describe the entity's activities in monitoring delinquent
+ loans including, for example, phone calls, letters and mortgage payment
+ rescheduling plans in cases where the delinquency is deemed temporary
+ (e.g., illness or unemployment).
+
+VII. INSURANCE POLICIES
+
+ 1. A fidelity bond and errors and omissions policy shall be in effect on the
+ servicing entity throughout the reporting period in the amount of
+ coverage represented to investors in management's assertion.
+
+ Ex-99.1 (c)
+
+Report on Management's Assertion on Compliance
+with Minimum Servicing Standards Set Forth in the
+Uniform Single Attestation Program for Mortgage Bankers
+
+Report of Independent Accountants
+
+Audit Committee
+Chevy Chase Bank, F.S.B.
+
+We have examined management's assertion, included in the accompanying report
+titled Report of Management, that Chevy Chase Bank, F.S.B (the "Bank") complied
+with the minimum servicing standards set forth in the Mortgage Bankers
+Association of America's Uniform Single Attestation Program for Mortgage Bankers
+(USAP) during the year ended September 30, 2003. Management is responsible for
+the Bank's compliance with those requirements. Our responsibility is to express
+an opinion on management's assertions about the Bank's compliance based on our
+examination.
+
+Our examination was made in accordance with attestation standards established by
+the American Institute of Certified Public Accountants and, accordingly,
+included examining, on a test basis, evidence about the Bank's compliance with
+those requirements and performing such other procedures as we considered
+necessary in the circumstances. We believe that our examination provides a
+reasonable basis for our opinion. Our examination does not provide a legal
+determination on the Bank's compliance with specified requirements.
+
+In our opinion, management's assertion, that the Bank complied with the
+aforementioned requirements during the year ended September 30, 2003, is fairly
+stated, in all material respects.
+
+/s/ Ernst & Young
+
+McLean Virginia
+October 31, 2003
+
+ Ex-99.1 (d)
+
+Grant Thornton (logo)
+
+Accountants and Management Consultants
+
+REPORT OF INDEPENDENT ACCOUNTANTS ON MANAGEMENT'S
+ASSERTION ON COMPLIANCE WITH MINIMUM SERVICING STANDARDS
+SET FORTH IN THE UNIFORM SINGLE ATTESTATION PROGRAM FOR
+MORTGAGE BANKERS
+
+Board of Directors
+Countrywide Financial Corporation
+
+We have examined management's assertion about Countrywide Financial Corporation
+and Subsidiaries' (including its wholly-owned subsidiary, Countrywide Home
+Loans, Inc. ("CHL") and Countrywide Home Loans Servicing, L.P., a wholly-owned
+subsidiary of CHL) ("the Company") compliance with the minimum servicing
+standards identified in the Mortgage Bankers Association of America's Uniform
+Single Attestation Program for Mortgage Bankers (USAP) as of and for the year
+ended December 31, 2003 included in the accompanying management assertion.
+Management is responsible for the Company's compliance with those minimum
+servicing standards. Our responsibility is to express an opinion on management's
+assertion about the entity's compliance based on our examination.
+
+Our examination was made in accordance with standards established by the
+American Institute of Certified Public Accountants and, accordingly, included
+examining, on a test basis, evidence about the Company's compliance with the
+minimum servicing standards and performing such other procedures as we
+considered necessary in the circumstances. We believe that our examination
+provides a reasonable basis for our opinion. Our examination does not provide a
+legal determination on the Company's compliance With the minimum servicing
+standards.
+
+In our opinion, management's assertion that Countrywide Financial Corporation
+and Subsidiaries (including its wholly-owned subsidiary, Countrywide Home Loans,
+Inc., and Countrywide Home Loans Servicing, L.P., a wholly-owned subsidiary of
+CHL) complied with the aforementioned minimum servicing standards as of and for
+the year ended December 31,2003 is fairly stated, in all material respects,
+except as disclosed in the attached Schedule of Findings.
+
+/s/ Grant Thorton LLP
+
+Los Angeles, California
+February 27, 2004
+
+Suite 300
+1000 Wilshire Blvd.
+Los Angeles, CA 90017 2464
+
+T 213 627-1717
+F 213 624-6793
+
+W www.grantthornton.com
+
+Grant Thornton LLP
+US Member of Grant Thornton International
+
+ Ex-99.1 (e)
+
+(logo) PRICEWATERHOUSECOOPERS
+
+PricewaterhouseCoopers LLP
+125 High Street
+Boston MA 02110
+Telephone (617) 530 5000
+facsimile (617) 530-5001
+
+Report of Independent Auditors
+
+To the Board of Directors and Stockholder
+of GMAC Mortgage Corporation:
+
+We have examined management's assertion about GMAC Mortgage Corporation and its
+subsidiaries' (the "Company") compliance with the minimum servicing standards
+("standards") identified in the Mortgage Bankers Association of America's
+Uniform Single Attestation Program for Mortgage Bankers ("USAP") as of and for
+the year ended December 31, 2003 included in the accompanying management
+assertion (see Exhibit I). Management is responsible for the Company's
+compliance with those minimum servicing standards. Our responsibility is to
+express an opinion on management's assertion about the entity's compliance based
+on our examination.
+
+Our examination was made in accordance with standards established by the
+American Institute of Certified Public Accountants and, accordingly, included
+examining, on a test basis, evidence about the Company's compliance with the
+standards and performing such other procedures as we considered necessary in the
+circumstances. We believe that our examination provides a reasonable basis for
+our opinion. Our examination does not provide a legal determination on the
+Company's compliance with the standards.
+
+In our opinion, management's assertion that the Company complied with the
+aforementioned standards as of and for the year ended December 31, 2003 is
+fairly stated, in all material respects.
+
+/s/ PricewaterhouseCoopers LLP
+PricewaterhouseCoopers LLP
+
+March 24, 2004
+
+ Ex-99.1 (f)
+Deloitte (logo)
+
+Deloitte & Touche LLP
+180 N Stetson Avenue
+Chicago, IL 60601-6779
+USA
+
+Tel +1 312 946 3000
+Fax +1 312 946 2600
+www.deloitte.com
+
+INDEPENDENT ACCOUNTANTS' REPORT
+
+Morgan Stanley Dean Witter Credit Corporation
+Riverwoods, Illinois
+
+We have examined management's assertion that Morgan Stanley Dean Witter Credit
+Corporation (the Company) has complied as of and for the year ended December 31,
+2003, with its established minimum servicing standards described in the
+accompanying management's assertion dated February 23, 2004. Management is
+responsible for the Company's compliance with those minimum servicing standards.
+Our responsibility is to express an opinion on management's assertion about the
+Company's compliance based on our examination
+
+Our examination was conducted in accordance with attestation standards
+established by the American Institute of Certified Public Accountants and,
+accordingly, included examining, on a test basis, evidence about the Company's
+compliance with its minimum servicing standards and performing such other
+procedures as we considered necessary in the circumstances. We believe that our
+examination provides a reasonable basis for our opinion. Our examination does
+not provide a legal determination on the Company's compliance with its minimum
+servicing standards.
+
+In our opinion, management's assertion that the Company complied with the
+aforementioned minimum servicing standards as of and for the year ended December
+31, 2003, is fairly stated, in all material respects based on the criteria set
+forth in Appendix I.
+
+/s/ Deloitte & Touche LLP
+
+February 23, 2004
+
+Member of Deloitte Touche Tohmatsu
+
+Ex-99.1 (g)
+
+KPMG (logo)
+
+KPMG LLP
+2500 Ruan Center
+666 Grand Avenue
+Des Moines, IA 50309
+
+Independent Accountants' Report
+
+The Board of Directors
+Wells Fargo Home Mortgage, Inc.:
+
+We have examined management's assertion dated February 25, 2004 that Wells Fargo
+Home Mortgage, Inc. (the Company) complied with the minimum servicing standards
+set forth in the Mortgage Bankers Association of America's Uniform Single
+Attestation Program for Mortgage Bankers (USAP) as of and for the year ended
+December 31, 2003. Management is responsible for the Company's compliance with
+those minimum servicing standards. Our responsibility is to express an opinion
+on management's assertion about the Company's compliance based on our
+examination.
+
+Our examination was conducted in accordance with attestation standards
+established by the American Institute of Certified Public Accountants and,
+accordingly, included examining, on a test basis, evidence about the Company's
+compliance with the minimum servicing standards specified above and perfonning
+such other procedures as we consideccd necessary in the circumstances. We
+believe that our examination provides a reasonable basis for our opinion. Our
+examination does not provide a legal determination on the Company's compliance
+with the minimum servicing standards.
+
+In our opinion, management's assertion that the Company complied with the
+aforementioned minimum servicing standards as of and for the year ended December
+31, 2003, is fairly stated, in a11 material respects.
+
+/s/ KPMG LLP
+
+February 25, 2004
+
+KPMG LLP a US limited liability partnership, is the US
+member of KPMG international a Swiss corporation
+
+ Ex-99.2 (a)
+
+(logo) EverHome
+MORTGAGE COMPANY
+
+As of and for the year ended December 31, 2003, EverHome Mortgage Company
+(formerly Alliance Mortgage Company) has complied in all material respects with
+the minimum servicing standards set forth in the Mortgage Bankers Association of
+America's Uniform Single Attestation Program for Mortgage Bankers. As of and for
+this same period, EverHome Mortgage Company had in effect a fidelity bond and an
+errors and omissions policy in the amount of 17 million, respectively.
+
+/s/ Gary A. Meeks
+Gary A. Meeks
+President & COO
+2/25/04
+
+/s/ W. Blake Wilson
+W. Blake Wilson
+Executive Vice President & CPO
+2/25/04
+
+ Ex-99.2(b)
+
+ Cendant Mortgage
+3000 Leadhenhall Rd.
+Mt. Laurel, NJ 08054
+
+CENDANT (logo)
+Mortgage
+
+As of and for the year ended December 31, 2003, Cendant Mortgage Corporation
+(the Company) has complied in all material respects with the minimum servicing
+standards set forth in the Mortgage Bankers Association of America's Uniform
+Single Attestation Program for Mortgage Bankers. As of and for this same period,
+the Company had in effect a fidelity bond and errors and omissions policy in the
+amount of 140 million and 20 million, respectively.
+
+Cendant Mortgage Corporation
+
+/s/ Terence W. Edwards
+Terence W. Edwards
+President and Chief Executive Officer
+
+/s/ Mark Danahy
+Mark Danahy
+Senior Vice President & Chief Financial Officer
+
+/s/ Martin L. Foster
+Martin L. Foster
+Senior Vice President-Loan Servicing
+
+ Ex-99.2 (c)
+
+CHEVY CHASE BANK
+
+Chevy Chase Bank
+7501 Wisconsin Avenue
+Bethesda, Maryland 20814
+
+Report of Management on Compliance with the Minimum Servicing
+Standards Set Forth in the Uniform Single Attestation Program for
+Mortgage Bankers
+
+We, as members of management of Chevy Chase Bank, F.S.B., are responsible for
+complying with the minimum servicing standards as set forth in the Mortgage
+Bankers Association of America's Uniform Single Attestarion Program for Mortgage
+Bankers ("USAP"). We are also responsible for establishing and maintaining
+effective internal control over compliance with these standards.
+
+We have performed an evaluation of the Bank's compliance with the minimum
+servicing standards as set forth in the USAP as of September 30, 2003 and for
+the year then ended. Based on this evaluation, we assert that during the year
+ended September 30, 2003, the Bank complied, in all material respects, with the
+minimum servicing standards set forth in the USAP.
+
+As of and for the same period, the Bank had in effect a fidelity bond in the
+amount of 40,000,000 and an errors and omissions policy in the amount of
+ 15,000,000.
+
+Very truly yours,
+
+/s/ Alexander R.M. Boyle
+Alexander R.M. Boyle
+Vice Chairman of the Board
+
+/s/ Stephen R. Halpin, Jr.
+Stephen R. Halpin, Jr.
+Executive Vice Preident and Chief
+Financial Officer
+
+/s/ Vicki L. Parry
+Vicki L. Parry
+Group Vice President
+
+October 31, 2003
+
+ Ex-99.2 (d)
+
+(logo) Countrywide
+
+4500 Park Granada
+Calabasas, California 91302
+(818) 225-3000
+
+February 27, 2004
+
+Grant Thornton LLP
+1000 Wilshire Boulevard
+Suite 300
+Los Angeles, CA 900 17
+
+Gentlemen:
+
+As of and for the year ended December 31. 2003, Countrywide Financial
+Corporation and Subsidiaries (which includes its wholly-owned subsidiary,
+Countrywide Home Loans, Inc. ("CHI."), and Countrywide Home Loans Servicing,
+L.P., a wholly owned subsidiary of CHL) ("the Company") has complied in all
+material respects with the minimum servicing standards set forth in the Mortgage
+Bankers Association of America's Uniform Single Attestation for Mortgage
+Bankers, except as disclosed in the attached Schedule of Findings to the report.
+As of and for this same period the Company had in effect a fidelity bond and
+errors and omissions policy in the amount of 215 million and 240 million
+respectively.
+
+The Company investigated the matters noted in lhe Schedule of Findings and noted
+that due to significant increases in volume of activity and staff turn-over,
+these accounts were being handled by inexperienced staff members. The Company
+has since increased the number and quality of staff in this area through
+additional hiring and training. As a result, manngemcnt is not aware of any
+cuuent USAP violations related to these accounts.
+
+Sincerely.
+
+/s/ Thomas K. McLaughlin
+Thomas K. McLaughlin
+Senior Managing Director and
+Chief Financial Officer
+
+/s/ Kevin Meyers
+Kevin Meyers
+Managing Director Finance
+Loan Administration
+
+COUNTRYWIDE FINANCIAL CORPORATION
+SCHEDULE OF FINDINGS - USAP
+DECEMBER 31, 2003
+
+Statement of Condition:
+
+During our testing of the Custodial Cash bank reconciliations, we noted that 1
+reconciliation out of 30 reconciliations was not prepared within 45 days of the
+cutoff date. Additionally, there were 2 reconciliations out of 30
+reconciliations that had items outstanding greater than 90 days that could have
+been cleared earlier. Each of these exceptions did not meet the minimum
+servicing standards set forth in the Mortgage Banker's Association's Uniform
+Single Attestation Program for Mortgage Bankers (the USAP).
+
+Criteria:
+
+The Uniform Single Attestation Program for Mortgage Bankers, Section I.1.
+requirement that reconciliations are mathematically accurate and are prepared
+within forty-five (45) calendar days after the cutoff date. Reconciling items
+shall also be resolved within ninety (90) calendar days of their original
+identification.
+
+Recommendation:
+
+We recommend that the Company prepare Custodial Cash bank reconciliations and
+clear reconciling items within the minimum time periods specified by the USAP.
+
+Corrective Action Plan:
+
+Due to significant increases in volume of activity and staff turn-over, these
+accounts were being handled by inexperienced staff members. The Company has
+since increased the number and quality of staff in this area through additional
+hiring and training. As a result, the Company is not aware of any current USAP
+violations related to these accounts.
+
+ Ex-99.2 (e)
+
+(logo) GMAC Mortgage
+
+Exhibit 1
+
+Managements Assertion Concerning Compliance
+with USAP Minimum Servicing Standards
+
+March 19,2004
+
+As of and for the year ended December 31, 2003, GMAC Mortgage Corporation and
+its subsidiaries (the "Company") have complied in all material respects with the
+minimum servicing standards (the "Standards") set forth in the Mortgage Bankers
+Association of America's Uniform Single Attestation Program for Mortgage Bankers
+("USAP").
+
+As of and for this same period the Company had in effect fidelity bond and
+errors and omissions policies in the amounts of 125,000,000 and 100,000,000,
+respectively.
+
+/s/ David Applegate
+David Applegate
+Chief Executive Officer
+GMAC Residential Holding Corp
+
+/s/ Ralph Hall
+Ralph Hall
+Chief Operating Officer
+GMAC Residential Holding Corp
+
+ Ex-99.2 (f)
+
+MORGAN STANLEY DEAN WITTER
+CREDIT CORPORATION
+
+Michael J. Gillespie
+Accounting Direcotr
+
+February 23, 2004
+
+MANAGEMENT'S ASSERTION
+
+As of and for the year ended December 31, 2003, Morgan Stanley Dean Witter
+Credit Corporation (the "Company") has complied, in all material respects, with
+the Company's established minimum servicing standards as set forth in
+Appendix I (the "Standards"). The Standards are based on the Mortgage Banker's
+Association of America's Uniform Single Attestation Program for Mortgage
+Bankers. As of and for this same period, Morgan Stanley Dean Witter & Co. had in
+effect a fidelity bond in the amount of 20 million and errors and omissions
+policy in the amount of 5 million under which the Company was covered.
+
+/s/ Thomas F. White
+Thomas F. White
+President and Chief Executive Officer
+& Director of Mortgage Lending
+
+/s/ Martin W. Slusarz
+Martin W. Slusarz
+SVP, Controller
+
+2500 Lake Cook Road, Riverwoods, Illinois 60015 Tel (224) 405-1903
+
+APPENDIX I
+
+MINIMUM SERVICING STANDARDS AS SET FORTH IN THE MORTGAGE BANKERS
+ASSOCIATION OF AMERICA'S UNIFORM SINGLE ATTESTATION PROGRAM FOR
+MORTGAGE BANKERS
+
+I. CUSTODIAL BANK ACCOUNTS
+
+1. Reconciliations shall be prepared on a monthly basis for all custodial bank
+ accounts and related bank clearing accounts. These reconciliations shall:
+
+ be mathematically accurate;
+ be prepared within forty-five (45) calendar days after the cutoff date;
+ be reviewed and approved by someone other than the person who prepared
+ the reconciliation; and
+ document explanations for reconciling items. These reconciling items shall
+ be resolved within ninety (90) calendar days of their original
+ identification.
+
+2. Funds of the servicing entity shall be advanced in cases where there is an
+ overdraft in an investor's or a mortgagor's account.
+
+3. Each custodial account shall be maintained at a federally insured depository
+ institution in trust for the applicable investor.
+
+4. Escrow funds held in trust for a mortgagor shall be returned to the mortgagor
+ within thirty (30) calendar days of payoff of the mortgage loan. (Not
+ Applicable)
+
+II. MORTGAGE PAYMENTS
+
+1. Mortgage payments shall be deposited into the custodial bank accounts and
+ related bank clearing accounts within two business days of receipt.
+
+2. Mortgage payments made in accordance with the mortgagor's loan documents
+ shall be posted to the applicable mortgagor records within two business days
+ of receipt.
+
+3. Mortgage payments shall be allocated to principal, interest, insurance,
+ taxes or other escrow items in accordance with the mortgagor's loan
+ documents.
+
+4. Mortgage payments identified as loan payoffs shall be allocated in accordance
+ with the mortgagor's loan documents.
+
+III. DISBURSEMENTS
+
+1. Disbursements made via wire transfer on behalf of a mortgagor or investor
+ shall be made only by authorized personnel.
+
+2. Disbursements made on behalf of a mortgagor or investor shall be posted
+ within two business days to the mortgagor's or investor's records maintained
+ by the servicing entity.
+
+3. Tax and insurance payments shall be made on or before the penalty or
+ insurance policy expiration dates, as indicated on tax bills and insurance
+ premium notices, respectively, provided that such support has been received
+ by the servicing entity at least thirty (30) calendar days prior to these
+ dates. (Not Applicable)
+
+4. Any late payment penalties paid in conjunction with the payment of any tax
+ bill or insurance premium notice shall be paid from the servicing entity's
+ funds and not charged to the mortgagor, unless the late payment was due to
+ the mortgagor's error or omission. (Not Applicable)
+
+5. Amounts remitted to investors per the servicer's investor reports shall
+ agree with cancelled checks, or other form of payment, or custodial bank
+ statements.
+
+6. Unused checks shall be safeguarded so as to prevent unauthorized access.
+
+IV. INVESTOR ACCOUNTING AND REPORTING
+
+1. The servicing entity's investor reports shall agree with, or reconcile to,
+ investors' records on a monthly basis as to the total unpaid principal
+ balance and number of loans serviced by the servicing entity.
+
+V. MORTGAGOR LOAN ACCOUNTING
+
+1. The servicing entity's mortgage loan records shall agree with, or reconcile
+ to, the records of mortgagors with respect to the unpaid principal balance on
+ a monthly basis.
+
+2. Adjustments on ARM loans shall be computed based on the related mortgage note
+ and any ARM rider.
+
+3. Escrow accounts shall be analyzed, in accordance with the mortgagor's loan
+ documents, on at least an annual basis. (Not Applicable)
+
+4. Interest on escrow accounts shall be paid, or credited, to mortgagors in
+ accordance with the applicable state laws. (Not Applicable)
+
+VI. DELINQUENCIES
+
+1. Records documenting collection efforts shall be maintained during the period
+ a loan is in default and shall be updated at least monthly. Such records
+ shall describe the entity's activities in monitoring delinquent loans
+ including, for example, phone calls, letters and mortgage payment
+ rescheduling plans in cases where the delinquency is deemed temporary (e.g.,
+ illness or unemployment).
+
+VII. INSURANCE POLICIES
+
+1. A fidelity bond and errors and omissions policy shall be in effect on the
+ servicing entity throughout the reporting period in the amount of coverage
+ represented to investors in management's assertion.
+
+Ex-99.2 (g)
+
+(Logo) WELLS FARGO HOME MORTGAGE
+
+Management Assertion
+
+As of and for the year ended December 31, 2003, Wells Fargo Home Mortgage, Inc,
+has complied in all material respects with the minimum servicing standards set
+forth in the Mortgage Bankers of America's Uniform Single Attestation Program
+for Mortgage Bankers. As of and for this same period, Wel1s Fargo Home Mortgage,
+Inc. had in effect a fidelity bond along with an errors and omissions policy in
+the amounts of lOO million and 20 million, respectively.
+
+/s/ Pete Wissinger
+February 25, 2004
+Pete Wissinger
+Chief Executive Officer
+
+/s/ Michael J. Heid
+February 25, 2004
+Michael J. Heid
+Executive Vice President
+
+/s/ Michael Lepore
+February 25, 2004
+Michael Lepore
+Executive Vice President
+Loan Servicing
+
+/s/ Robert Caruso
+February 25, 2004
+Robert Caruso
+Executive Vice President
+Servicing Operations
+
+ Ex-99.3 (a)
+Exhibit "A"
+Wells Fargo Bank Minnesota, N.A.
+9062 Old Annapolis Rd.
+Columbia, MD 21045
+Attention: Master Servicing
+
+RE: Officer's Certificate
+
+Dear Master Servicer:
+The undersigned Officer certifies the following for the 2003 fiscal year:
+
+(A) I have reviewed the activities and performance of the Servicer during the
+preceding fiscal year under the tenants
+of the Servicing Agreement, Trust Agreement, Pooling and Servicing Agreement
+and/or Seller/Servicer Guide and to the best of these Officers' knowledge, the
+Servicer has fulfilled all of its duties, responsibilities or obligations under
+these Agreements throughout such year, or if there has been a default or failure
+of the servicer to perform any of such duties, responsibilities or obligations,
+a description of each default or failure and the nature and status thereof has
+been reported to Wells Fargo Bank Minnesota, N.A.;
+
+(B) I have confirmed that the Servicer is currently an approved FNMA or FHLMC
+servicer in good standing;
+
+(C) I have confirmed that the Fidelity Bond, the Errors and Omissions Insurance
+Policy and any other bonds required under the tenets of the Servicing Agreement,
+Trust Agreement, Pooling and Servicing Agreement and/or Seller/Servicer Guide
+are in full force and effect;
+
+(D) All premiums for each Hazard Insurance Policy, Flood Insurance Policy (if
+applicable) and Primary Mortgage Insurance Policy (if applicable), with respect
+to each Mortgaged Property, have been paid and that all such insurance policies
+are in full force and effect;
+
+(E) All real estate taxes, governmental assessments and any other expenses
+accrued and due, that if not paid could result in a lien or encumbrance on any
+Mortgaged Property, have been paid, or if any such costs or expenses have not
+been paid with respect to any Mortgaged Property, the reason for the non-payment
+has been reported to Wells Fargo Bank Minnesota, N.A.;
+
+(F) All Custodial Accounts have been reconciled and are properly funded; and
+
+(G) All annual reports of Foreclosure and Abandonment of Mortgage Property
+required per section 6050H, 6050J and 6050P of the Internal Revenue Code,
+respectively, have been prepared and filed.
+
+By: /s/ Pam E Rothenberg
+Name: Pam E Rothenberg
+Title: Sr. Vice President
+Date: February 6, 2004
+
+Ex-99.3(b)
+
+Cendant Mortgage
+4001 Leadenhall Rd
+Mt. Laurel, NJ 08054
+
+(logo) Cendant Mortgage
+
+March 11, 2004
+
+Wells Fargo Bank, N.A.
+11000 Broken Land Parkway
+Columbia, MD 21044
+
+Attention: Mervin E. Horst
+
+RE: Officer's Certificate - Annual Certification
+
+Dear Master Servicer:
+
+The undersigned Officer certifies the following for Cendant Mortgage Corp. for
+the 2003 calendar year. To the best of our knowledge.
+
+(a) The activities and performances of the Servicer during the
+preceding fiscal year under the terms of the Servicing Agreement, Trust
+Agreement, Pooling and Servicing Agreement and/or Servicer Guide and to
+the best of my knowledge, the Servicer has fulfilled all of its
+duties, responsibilities or obligations under these Agreements throughout such
+year, or if there has been a default or failure of the Servicer to perform any
+such duties, responsibilities or obligations, a description of each default
+or failure and the nature and status thereof has been reported to Bank of NY:
+
+(b) The Servicer is currently an approved FNMA or FHLMC Servicer in good
+standing;
+
+(c) The Fidelity Bond, the Errors and Omissions Insurance
+Policy and any other bonds required under the terms of the Servicing Agreement,
+Trust Agreement, Pooling and Servicing Agreement and/or Servicer Guide are in
+full force and effect;
+
+(d) All premiums for each Hazard Insurance Policy, Flood Insurance Policy (if
+applicable) and Primary Mortgage Insurance Policy (if applicable), with respect
+to each Mortgaged Property, have been paid and that such insurance policies are
+in full force and effect;
+
+(d) All premiums for each Hazard Insurance Policy, Flood Insurance Policy (if
+applicable) and Primary Mortgage Insurance Policy (if applicable), with respect
+to each Mortgaged Property, have been paid and that such insurance policies are
+in full force and effect;
+
+(e) All real estate taxes, governmental assessments and any other expenses
+accrued and due, that if not paid could result in a lien or encumbrance on any
+Mortgaged Property, have been paid, or if any such costs or expenses have been
+paid with respect to any Mortgaged Property, the reason for the non-payment
+has been reported to Bank of NY:
+
+(f) All Custodial Accounts have been reconciled and are properly funded; and
+
+(g) All annual reports of Foreclosure and Abandonment of Mortgaged Property
+required per section 6050J and 6050P of the Internal Revenue Code,
+respectively, have been prepared and filed.
+
+Certified By:
+
+/s/ Marc. J. Hinkle
+Marc J. Hinkle
+Officer
+
+Vice President - Servicing
+Title
+
+March 11, 2004
+Date
+
+ Ex-99.3 (c)
+
+CHEVY CHASE BANK (Logo)
+Chevy Chase Bank
+6151 Chevy Chase Drive
+Laurel, Maryland 20707
+
+December 15, 2003
+
+Wells Fargo Bank MPF
+9062 Old Annapolis Rd, Mac-N2702-011
+Columbia, MD 21045-1951
+Dionne Waldron-Dixon
+
+Subject: Annual Audited Financial Statements Uniform Single Audit Letter and
+Statement of Compliance Certification (F. Y. Ending 09/30/03)
+
+In compliance with the servicing guidelines and requirements outlined in the
+Servicing Agreement between your company and Chevy Chase Bank, F.S.B., I hereby
+submit the above information and reports for your review as follows:
+
+(A) Enclosed is our 2003 Audited Financial Statement prepared by our independent
+accounting firm of Ernst & Young, by Mr. Robert G. Arnall, Audit Partner, at
+8484 Westpark Drive, McLean, Virginia 22102, (703) 747- 0833, ill # 34-6565596.
+This information is confidential and by accepting it, you agree to maintain its
+confidentiality. This precludes all photo-copying, as well as distribution,
+other than for internal review purposes.
+
+(B) Enclosed is a copy of the Uniform Single Audit Letter issued by Ernst and
+Young.
+
+(C) Evidence of our current Fidelity Bond (sent November 2003) and Errors and
+Omissions Insurance Policy Certificates showing coverage, limits of liability
+and deductibility was forwarded in March 2003 by our company under separate
+cover by our Insurance Agent: Chevy Chase Insurance Company, 7501 Wisconsin
+Avenue, Bethesda, Maryland 20814.
+
+(D) As Loan Servicing Manager and an Officer of Chevy Chase Bank, and having
+authorization to issue this officers certification statement, I hereby submit
+the following:
+
+1. All information pertaining to real estate transactions has been reported as
+required by the Internal Revenue Service.
+
+2. All insurance premiums for each Hazard Insurance Policy, Flood Insurance
+Policy (if any), Primary Mortgage Insurance Policy (if any),
+
+Annual Compliance --~ ~ Page 2
+
+and FHA Certification of Mortgage Insurance (if any), all taxes, ground rents
+and other charges have been paid when due or within applicable grace periods.
+
+3. Analysis has been made to ensure sufficient moneys are being collected in
+escrow for the current year.
+
+4. The status of each mortgage has been reported to the major credit
+repositories each month.
+
+5. All required interest rate and/or monthly payment adjustments for the ARMS
+and OP ARMS were made in accordance with the mortgage documents.
+
+The officer signing this certificate has reviewed the activities and performance
+of the Servicer during the preceding fiscal year under the Servicing Agreement
+and, to the best of the officer's knowledge, the Servicer has fulfilled all of
+its duties, responsibilities and obligations under the Servicing Agreement
+throughout such year.
+
+Sincerely,
+/s/ Vicki L. Parry
+Vicki L. Parry
+Group Vice President
+Mortgage Loan Servicing Division
+VLP:eay
+Enclosures
+
+Annual Compliance Page 3
+
+Below is an updated list of key personnel in our Mortgage Banking Division with
+corresponding titles and areas of responsibility:
+
+NAME/RESPONSIBILITY
+Robert D. Broeksmit, President B.F. Saul Mortgage Company (240) 497-8300 Robert
+B. Buffalo, Group V .P .Mortgage Operations (240) 497-8030 Vicki L. Parry, Group
+V.P .Loan Servicing Manager (301) 939-4076 Joseph P. Eger, V.P. Assistant
+Servicing Manager (301) 939-4075 Customer Service/Collections/Cash
+Payoffs/Releases Carol Thomas, V .P .Accounting Servicing Manager (240) 497-7069
+Investor Reporting Debbie Adams, S.M.O. Special Loans Manager (301) 939-4115
+ARMS/Conversions/Balloons/Resets Doris Raffo, A. V .P .Escrow Manager (301)
+939-4095 Jeffrey Huston, V.P. Loss Mitigation Manager (301) 939-4057
+Bankruptcy/Foreclosure/REOS
+
+ Ex-99.3 (d)
+
+(Logo) Countrywide
+HOME LOANS
+
+400 Countrywide Way, SV-44
+Simi Valley, California 93065-6298
+
+(805) 520-5100
+
+March 18, 2004
+
+Norwest Bank Minn., N.A.
+11000 Brokenland Parkway
+Columbia, MD 21004
+
+ARM: Karen Chapple
+
+OFFICER'S CERTIFICATE
+
+I, Joseph Candelario, hereby certify that I am the First Vice President, Loan
+Administration of Countrywide Home Loans, Inc., fka Countrywide Funding
+Corporation. I further certify, with respect to the Servicing Agreements for
+Countrywide Mortgage Obligations, Inc., the following:
+
+I have reviewed the activities and performance of the Servicer during the fiscal
+year ended December 31, 2003 under the Agreements and, to the best of my
+knowledge, based on my review, the Servicer has fulfilled all of its duties,
+responsibilities or obligations under the Agreements throughout the fiscal year.
+
+/s/ Joseph Candelario
+Joseph Candelario
+First Vice President
+Compliance Officer
+Loan Administrator
+
+3/18/04
+Date
+
+Re: Investor Number 5
+
+ Ex-99.3 (e)
+
+(logo) GMAC Mortgage
+
+March 15, 2004
+
+Wells Fargo Bank, NA
+Attn: Kim Wiggins
+9062 Old Annapolis Road
+Columbia, MD 21045-1951
+
+Re: Officers Statement of Compliance
+Year Ending 2003
+Wells Fargo Master Serviced Deals
+
+We hereby certify to the best of our knowledge and belief, that for the calendar
+year 2003:
+
+1. A review of the activities of the Seller / Servicer and of performance
+according to the Seller / Servicer contract has been made with the undersigned
+Officer's knowledge.
+
+2. To the best of the undersigned Officer's knowledge, and based on such review,
+the Seller/ Servicer has fulfilled all its obligations under the Guides for such
+year.
+
+3. If applicable, GMACM has filed the information returns with respect to the
+receipt of mortgage interest pursuant to Sections 6050H, 6050J and 6050P of the
+Code, received in a trade or business, reports of foreclosures and abandonment's
+of any Mortgaged Property and the information returns relating to cancellation
+of indebtedness income with respect to any Mortgaged Property.
+
+4. All hazard, flood, FHA mortgage insurance and primary mortgage insurance
+premiums, taxes, ground rents, assessments and other lienable items have been
+paid in connection with the mortgaged properties.
+
+5. All property inspections have been completed as required.
+
+6. Compliance relative to Adjustable Rate Mortgages has been met.
+
+7. Fidelity Bond and Errors and Omissions Insurance coverage is current, in full
+force and effect.
+
+Servicer: GMAC Mortgage Corporation
+
+By: /s/ Michael Kacergis
+
+Name: Michael Kacergis
+
+Title: Manager, Operations Risk Management
+
+GMAC Mortgage Corporation
+500 Enterprise Road
+Horsham, PA 19044
+
+ Ex-99.3 (f)
+
+MORGAN STANLEY DEAN WITTER CREDIT CORPORATION
+
+Michael J. Gillespie
+Accounting Director
+
+Officer's Certificate
+
+Pursuant to the Servicing Agreement between Morgan Stanley Dean Witter Credit
+Corporation, formerly known as NOVUS Financial Corporation, as seller and
+servicer (referred to herein in such capacity as the "Servicer" , and Thornburg
+Mortgage Home Loans, Inc., as Owner, the undersigned, hereby states that:
+
+(1) A review of the activities of the Servicer and of its performing under the
+Servicing Agreement during the calendar year ended December 31, 2003 has been
+made under my supervision; and
+
+(2) To the best of my knowledge, based on such review, the Servicer has
+fulfilled all its obligations under the Agreement throughout such period.
+
+MORGAN STANLEY DEAN WITTER CREDIT CORPORATION
+
+By
+
+/s/ Douglas J. Bush
+Douglas J. Bush
+Title Director
+
+Dated as of December 31, 2003
+
+By
+
+David Bianucci
+
+Title Vice President
+
+Dated as of December 31, 2003
+
+2500 Lake Cook Road
+1 East
+Riverwoods, Illinois 60015
+Tel (224)-405-1903
+
+ Ex-99.3 (g)
+
+Wells Fargo Home Mortgage (logo)
+
+One Home Campus
+Des Moines, IA 50328-0001
+515-213-5469
+515-213-7121 Fax
+
+January 30, 2004
+
+Re: 2003 Annual Certification
+
+We hereby certify to the best of our knowledge and belief that for the calendar
+year of 2003:
+
+1. All real estate taxes, bonds assessments and other lienable items have been
+paid.
+
+2. All FHA mortgage insurance, private mortgage insurance premiums, and flood
+insurance have been paid (if applicable).
+
+3. Hazard insurance policies held by us meet the requirements as specified in
+the servicing agreement, or those of a normal prudent lender if not specified,
+and those premiums due have been paid.
+
+4. We have made all property inspections as required.
+
+5. Fidelity bond and Errors and Omissions insurance coverage currently exists.
+
+6. That the Officer signing this certificate has reviewed the activities and
+performance of the Servicer during the preceding fiscal year under the terms of
+the Servicing Agreement, Trust Agreement, Pooling and Servicing Agreement and/or
+Seller/Servicer Guide or similar agreements and to the best of this officer's
+knowledge, the Servicer has fulfilled all of its duties, responsibilities or
+obligations of such agreement throughout the year, or if there has been a
+default or failure of the servicer to perform any of such duties, responsibility
+or obligations, a description of each default or failure and the nature and
+status thereof has been reported.
+
+Sincerely,
+
+/s/ John B. Brown
+John B. Brown
+Vice President
+Wells Fargo Home Mortgage Inc.
+
+Ex-99.4
+ Schedule of Year-To-Date Principal and Interest Distributions to
+ Certificateholders
+
+Class Interest Principal Losses Ending Balance
+ 
+ I-A-1 11,528,071.77 175,872,958.59 0.00 99,162,541.41
+ 1-A-2 15,092,828.65 191,604,551.96 0.00 163,162,648.04
+ 1-A-3 1,145,552.13 16,081,214.56 0.00 11,146,085.44
+ 1-A-4 1,342,109.03 19,289,890.17 0.00 14,996,509.84
+ I-B-1 491,720.36 277,699.05 0.00 8,739,500.95
+ I-B-2 327,815.40 185,133.72 0.00 5,826,366.27
+ I-B-3 225,378.19 127,282.34 0.00 4,005,717.67
+ I-B-4 81,949.75 46,281.14 0.00 1,456,518.88
+ I-B-5 81,949.75 46,281.14 0.00 1,456,518.88
+ I-B-6 81,963.69 46,289.54 0.00 1,456,766.02
+ II-A-1 3,663,974.89 55,441,226.06 0.00 33,429,273.96
+ II-A-2 5,877,583.58 107,455,955.02 0.00 39,824,644.98
+ II-B-1 155,896.95 257,584.27 0.00 2,298,715.74
+ II-B-2 118,769.04 196,238.87 0.00 1,751,261.16
+ II-B-3 81,659.44 134,923.64 0.00 1,204,076.35
+ II-B-4 29,699.88 49,072.33 0.00 437,927.69
+ II-B-5 14,843.85 24,526.09 0.00 218,873.92
+ II-B-6 44,550.74 73,610.67 0.00 656,905.02
+ I-M-1 1,987,363.39 1,122,363.43 0.00 35,322,036.58
+ R-I 0.22 50.00 0.00 0.00
+ R-II 0.00 50.00 0.00 0.00
+ R-III 0.24 50.00 0.00 0.00
+

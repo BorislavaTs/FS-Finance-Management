@@ -1,0 +1,3904 @@
+<Header>
+<FileStats>
+    <FileName>20151214_10-K_edgar_data_1021917_0001065949-15-000294.txt</FileName>
+    <GrossFileSize>3186452</GrossFileSize>
+    <NetFileSize>118530</NetFileSize>
+    <NonText_DocumentType_Chars>153157</NonText_DocumentType_Chars>
+    <HTML_Chars>1366629</HTML_Chars>
+    <XBRL_Chars>1000441</XBRL_Chars>
+    <XML_Chars>457428</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001065949-15-000294.hdr.sgml : 20151214
+<ACCEPTANCE-DATETIME>20151214130500
+ACCESSION NUMBER:		0001065949-15-000294
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		43
+CONFORMED PERIOD OF REPORT:	20150630
+FILED AS OF DATE:		20151214
+DATE AS OF CHANGE:		20151214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			JV GROUP, INC.
+		CENTRAL INDEX KEY:			0001021917
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPERATORS OF NONRESIDENTIAL BUILDINGS [6512]
+		IRS NUMBER:				521945748
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-21477
+		FILM NUMBER:		151285296
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7609 RALSTON ROAD
+		CITY:			ARVADA
+		STATE:			CO
+		ZIP:			80002
+		BUSINESS PHONE:		303-422-8127
+
+	MAIL ADDRESS:	
+		STREET 1:		7609 RALSTON ROAD
+		CITY:			ARVADA
+		STATE:			CO
+		ZIP:			80002
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ASPI, INC.
+		DATE OF NAME CHANGE:	20091015
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ASPEON INC
+		DATE OF NAME CHANGE:	20000214
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	JAVELIN SYSTEMS INC
+		DATE OF NAME CHANGE:	19960829
+
+</SEC-Header>
+</Header>
+
+ 0001065949-15-000294.txt : 20151214
+
+10-K
+ 1
+ jvgroup10kjune2015.htm
+
+UNITED STATES 
+
+SECURITIES AND
+EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549 
+
+_____________ 
+
+FORM 10-K 
+
+[X] ANNUAL
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+FOR THE FISCAL
+YEAR ENDED JUNE 30, 2015 
+
+[ ] TRANSITION REPORT UNDER SECTION 13 OR
+15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+COMMISSION FILE NO.
+000-21477 
+
+JV GROUP, INC. 
+
+(EXACT NAME OF REGISTRANT
+SPECIFIED IN ITS CHARTER) 
+
+DELAWARE 
+
+27-0514566 
+
+(STATE OR
+ OTHER JURISDICTION 
+
+(I.R.S.
+ EMPLOYER 
+
+OF
+ INCORPORATION OR ORGANIZATION) 
+
+IDENTIFICATION
+ NUMBER) 
+
+7609 RALSTON
+ ROAD 
+
+ARVADA,
+ COLORADO 
+
+80002 
+
+(ADDRESS OF
+ PRINCIPAL EXECUTIVE OFFICES) 
+
+(ZIP CODE) 
+
+(303) 422-8127 
+
+(REGISTRANT'S
+TELEPHONE NUMBER, INCLUDING AREA CODE) 
+
+Securities registered pursuant to Section 12(b)
+of the Act: NONE
+
+Securities
+to be registered pursuant to Section 12(g) of the Act: COMMON STOCK, 0.01 PAR VALUE 
+
+Indicate by check mark if the registrant
+is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+Yes 
+
+[_] 
+
+No 
+
+[x] 
+
+Indicate by check mark if the registrant
+is not required to file reports pursuant to Section 13 or Section 15(d) of the
+Act. 
+
+Yes 
+
+[x] 
+
+No 
+
+[_] 
+
+Indicate by check mark whether the
+registrant (1) has filed all reports required to be filed by Section 13 or 15(d)
+of the Securities Exchange Act of 1934 during the preceding 12 months (or for
+such shorter period that the registrant was required to file such reports), and
+(2) has been subject to such filing requirements for the past 90 days. 
+
+Yes 
+
+[_] 
+
+No 
+
+[x] 
+
+Indicate by check mark if disclosure of
+delinquent filers pursuant to Item 405 of Regulation S-K is not contained
+herein, and will not be contained, to the best of registrant's knowledge, in
+definitive proxy or information statements incorporated by reference in Part
+III of this Form 10-K or any amendment to this Form
+10-K. 
+
+Indicate by check mark
+whether the registrant is a large accelerated filer, an accelerated filer, a
+non-accelerated filer, or a smaller reporting company. See definitions of
+ large accelerated filer, accelerated filer and smaller reporting company 
+in Rule 12b-2 of the Exchange Act. (Check One). 
+
+Large accelerated filer 
+
+[___] 
+
+Accelerated filer 
+
+[___] 
+
+Non-accelerated filer 
+ 
+ (Do not check if a smaller
+ reporting company) 
+
+[___] 
+
+Smaller reporting company 
+
+[_X_] 
+
+Indicate by check mark whether the
+registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+
+Yes 
+
+[x] 
+
+No 
+
+[_] 
+
+The
+aggregate market value of the voting common stock held by non-affiliates of the
+Registrant on November 3, 2015 was approximately 40,741 based upon the
+reported closing sale price of such shares on the Over the Counter Bulletin
+Board for that date. 
+
+As
+of November 3, 2015, there were 98,879,655 shares
+outstanding of which 582,013 shares
+were held by non-affiliates. 
+
+TABLE OF CONTENTS 
+
+ITEM 
+
+DESCRIPTION 
+
+PAGE 
+
+Part I 
+
+Item 1. 
+
+Business 
+
+3 
+
+Item 1A. 
+
+Risk Factors 
+
+9 
+
+Item 1B. 
+
+Unresolved Staff Comments 
+
+14 
+
+Item 2. 
+
+Description of Properties 
+
+14 
+
+Item 3. 
+
+Legal Proceedings 
+
+14 
+
+Item 4. 
+
+Mine Safety Disclosures 
+
+15 
+
+Part II 
+
+Item 5. 
+
+Market
+ for Registrant's Common Equity, Related Stockholder Matters, and Issuer
+ Purchases of Equity Securities 
+
+15 
+
+Item 6. 
+
+Selected Financial Data 
+
+16 
+
+Item 7. 
+
+Management's Discussion and Analysis
+ of Financial Condition and Results of Operations 
+
+16 
+
+Item 7A. 
+
+Quantitative and Qualitative
+ Disclosures About Market Risk 
+
+18 
+
+Item 8. 
+
+Financial Statements and
+ Supplementary Data 
+
+18 
+
+Item 9. 
+
+Changes in and Disagreements with
+ Accountants on Accounting and Financial Disclosure 
+
+34 
+
+Item 9A. 
+
+Controls and Procedures 
+
+34 
+
+Item 9B. 
+
+Other Information 
+
+35 
+
+Part III 
+
+Item 10. 
+
+Directors, Executive Officers and
+ Corporate Governance 
+
+36 
+
+Item11. 
+
+Executive Compensation 
+
+38 
+
+Item 12. 
+
+Security Ownership of Certain
+ Beneficial Owners and Management and Related Stockholder Matters 
+
+39 
+
+Item 13. 
+
+Certain Relationships and Related
+ Transactions and Director Independence 
+
+40 
+
+Item 14. 
+
+Principal Accountant Fees and Services
+
+41 
+
+Part IV 
+
+Item 15. 
+
+Exhibits and Financial Statement
+ Schedules 
+
+42 
+
+Signatures 
+
+43 
+
+FORWARD-LOOKING STATEMENTS 
+
+In
+addition to historical information, some of the information presented in this
+Annual Report on Form 10-K contains forward-looking statements within the
+meaning of the Private Securities Litigation Reform Act of 1995 (the Reform
+Act ). Although JV Group, Inc. JV Group or the Company , which may also be
+referred to as we , us or our believes that its expectations are based on
+reasonable assumptions within the bounds of its knowledge of its business and
+operations: there can be no assurance that actual results will not differ
+materially from our expectations. Such forward-looking statements are subject
+to risks and uncertainties that could cause actual results to differ materially
+from those anticipated. Cautionary statements regarding the risks,
+uncertainties and other factors associated with these forward-looking
+statements are discussed under Risk Factors in this Form 10-K. You
+are urged to carefully consider these factors, as well as other information
+contained in this Form 10-K and in our other periodic reports and documents
+filed with the SEC . 
+
+PART
+I 
+
+ITEM 1. BUSINESS 
+
+Company
+History and Overview 
+
+ASPI,
+Inc. APSI was formed in Delaware in September 29, 2008. On April 25, 2012,
+ASPI
+amended its Articles of Incorporation with the State of Delaware to change its
+name from ASPI, Inc. to JV Group, Inc. JV Group and to increase
+its authorized capital from One Hundred Million (100,000,000) common shares to
+One Billion (1,000,000,000) common shares. 
+
+We
+have two wholly-owned subsidiaries, Mega Action Limited Mega ), a British
+Virgin Island Corporation, and Prestige Prime Office, Limited Prestige ), a Hong
+Kong Special Administrative Region Corporation (JV Group and its subsidiaries are collectively
+referred to as the Company , we , our , or us .) 
+
+In 2014-2015, JV Group operated primarily as an office service provider, in
+Hong Kong, through its wholly-owned subsidiary, Prestige. Prestige provides
+office space that is fully furnished, equipped and staffed, located at premier
+addresses in central business districts with convenient access to airports and
+public transportation. Services include advanced communications system, network
+access, updated IT and administrative support, as well as a full menu of
+business services and facilities, such as meeting rooms and video conferencing. 
+
+Prestige Prime Office,
+Ltd. Acquisition 
+
+ In June 30, 2010, ASPI acquired
+Prestige Prime Office, Ltd. Under the Acquisition Agreement for Prestige Prime
+Office, Ltd., ASPI acquired all of the issued and outstanding common stock of
+Prestige Prime Office, LTD. Prestige ), a Hong Kong Special
+Administrative Region Corporation. As a result of the acquisition, Prestige
+became a wholly-owned subsidiary of ASPI. This was accounted for as a reverse
+merger at the time. 
+
+ Prestige had one sole
+shareholder, Mr. Yeung Cheuk Hung. As a result of the acquisition, Mr.
+Yeung became the majority shareholder of the Company holding approximately
+81.21 of the issued and outstanding common stock of the Company at the time of
+the acquisition. 
+
+ -3- 
+
+Mega Action Limited 
+
+In fiscal year 2010, we
+incorporated a new subsidiary, Mega Action Limited, a BVI corporation (the
+ Subsidiary ). Two of the Company's directors, Yuen Ling Look and Siu
+Lun Tong, act as directors of Mega Action Limited. 
+
+In consideration of 1.00,
+Mega Action Limited issued the Company one share of Mega Action Limited Mega ). There is only one share of Mega share issued and outstanding. Mega is
+a wholly owned Subsidiary of the Company. Mega operates as a management
+division of office suites of the Company. Mega's operational activities are
+both minimal and solely administrative in nature for the office suites which
+were offered, but such activity has now ceased due to the discontinued
+operations of office suites. Mega does not expect to recognize revenues from
+its minimal administrative activities. 
+
+Leasehold
+Acquisition 
+
+On September 8, 2011,
+Prestige entered into an Agreement with Huge Earn Investments Limited Huge
+Earn to purchase a leasehold, as described below, in exchange for 25,000,000
+shares of the Company's restricted common stock and a 450,000 promissory note with
+anticipated due date of six months from issuance. The promissory note was due
+on March 1, 2012. The promissory note does not accrue interest. Despite
+Prestige's default on the promissory note Huge Earn has not entered into any
+extension of the promissory note or indicated a willingness to repossess the
+leases. Huge Earn is owned by a principal shareholder and deferred any action
+on the note. 
+
+On October 1, 2011, the existing
+leases with the tenants were transferred to Prestige, as specified in the Agreement.
+
+The leasehold is
+approximately 4,419 square feet and includes 24 offices and 2 conference rooms. 
+The Agreement further provided for all furniture, equipment and fixtures to be
+included in the transfer. At the time of the exchange approximately 15 offices
+were leased out and Huge Earn held approximately 57,725 in deposits from these
+leases. 
+
+As part of the transaction
+and as specified in the Agreement, Prestige entered into a new 3 year lease
+agreement for the space, from October 1, 2011 through September 30, 2014. In
+addition, as part of the acquisition, Prestige took over the existing leases
+(15 offices) between Huge Earn and its then existing tenants. 
+
+The lease agreement for this
+acquired center was not renewed after the expiry date of September 30, 2014. 
+The premises of the 10(F) center were handed over to the Landlord on September
+30, 2014. The 12 th floor premises lease expires October 30, 2015. 
+
+BUSINESS 
+
+JV Group's goal in fiscal
+year 2014-2015 was to be a serviced office provider through its wholly-owned
+subsidiary, Prestige Prime Office Ltd. in Hong Kong. Due to the non-renewal
+lease with one of the former Landlords in September 30, 2014 and the inability
+to lease offices profitability due to the glut of office space, the Board determined
+it was in the Company's best interest to terminate its operations and seek
+other opportunities. Accordingly, there are no continued operations at this
+time. 
+
+The Company's discontinued
+operations were wholly unprofitable resulting in zero occupancy at year end and
+an accrual of 528, 415 in 2015 and 346,620
+in 2014. Assets were
+reduced to 3,522 after liquidation of the discontinued operations assets,
+furniture and fixtures. 
+
+ -4- 
+
+GENERAL BUSINESS PLAN 
+
+We intend to seek,
+investigate and, if such investigation warrants, acquire an interest in
+business opportunities presented to us by persons or firms which desire to seek
+the advantages of an issuer who has complied with the Securities Act of 1934
+(the 1934 Act ). We will not restrict our search to any specific business,
+industry or geographical location, and we may participate in business ventures
+of virtually any nature. This discussion of our proposed business is purposefully
+general and is not meant to be restrictive of our virtually unlimited discretion
+to search for and enter into potential business opportunities. We anticipate
+that we may be able to participate in only one potential business venture
+because of our lack of financial resources. 
+
+We may seek a business
+opportunity with entities which have recently commenced operations, or that
+desire to utilize the public marketplace in order to raise additional capital
+in order to expand into new products or markets, to develop a new product or
+service, or for other corporate purposes. We may acquire assets and establish
+wholly owned subsidiaries in various businesses or acquire existing businesses
+as subsidiaries. 
+
+We expect that the selection
+of a business opportunity will be complex and risky. Due to general economic
+conditions, rapid technological advances being made in some industries and
+shortages of available capital, we believe that there are numerous firms
+seeking the benefits of an issuer who has complied with the 1934 Act. Such
+benefits may include facilitating or improving the terms on which additional
+equity financing may be sought, providing liquidity for incentive stock options
+or similar benefits to key employees, providing liquidity (subject to
+restrictions of applicable statutes) for all stockholders and other factors.
+Potentially, available business opportunities may occur in many different
+industries and at various stages of development, all of which will make the
+task of comparative investigation and analysis of such business opportunities
+extremely difficult and complex. We have, and will continue to have,
+essentially no assets to provide the owners of business opportunities. However,
+we will be able to offer owners of acquisition candidates the opportunity to
+acquire a controlling ownership interest in an issuer who has complied with the
+1934 Act without incurring the cost and time required to conduct an initial
+public offering. 
+
+The analysis of new business
+opportunities will be undertaken by, or under the supervision of, our board of
+directors. We intend to concentrate on identifying preliminary prospective
+business opportunities which may be brought to our attention through present
+associations of our director, professional advisors or by our stockholders. In
+analyzing prospective business opportunities, we will consider such matters as
+(i) available technical, financial and managerial resources; (ii) working
+capital and other financial requirements; (iii) history of operations, if any,
+and prospects for the future; (iv) nature of present and expected competition;
+(v) quality, experience and depth of management services; (vi) potential for
+further research, development or exploration; (vii) specific risk factors not
+now foreseeable but that may be anticipated to impact the proposed activities
+of the company; (viii) potential for growth or expansion; (ix) potential for
+profit; (x) public recognition and acceptance of products, services or trades;
+(xi) name identification; and (xii) other factors that we consider relevant. As
+part of our investigation of the business opportunity, we expect to meet
+personally with management and key personnel. To the extent possible, we intend
+to utilize written reports and personal investigation to evaluate the above
+factors. 
+
+We will not acquire or merge
+with any company for which audited financial statements cannot be obtained
+within a reasonable period of time after closing of the proposed transaction. 
+ -5- 
+
+ACQUISITION OPPORTUNITIES 
+
+In implementing a structure
+for a particular business acquisition, we may become a party to a merger,
+consolidation, reorganization, joint venture, or licensing agreement with
+another company or entity. We may also acquire stock or assets of an existing
+business. Upon consummation of a transaction, it is probable that our present
+management and stockholders will no longer be in control of us. In addition,
+our sole director may, as part of the terms of the acquisition transaction,
+resign and be replaced by new directors without a vote of our stockholders, or
+sell his stock in us. Any such sale will only be made in compliance with the
+securities laws of the United States and any applicable state. 
+
+It is anticipated that any
+securities issued in any such reorganization would be issued in reliance upon
+exemption from registration under application federal and state securities
+laws. In some circumstances, as a negotiated element of the transaction, we may
+agree to register all or a part of such securities immediately after the
+transaction is consummated or at specified times thereafter. If such
+registration occurs, it will be undertaken by the surviving entity after it has
+successfully consummated a merger or acquisition and is no longer considered an
+inactive company. The issuance of substantial additional securities and their
+potential sale into any trading market which may develop in our securities may
+have a depressive effect on the value of our securities in the future. There is
+no assurance that such a trading market will develop. 
+
+While the actual terms of a
+transaction cannot be predicted, it is expected that the parties to any business
+transaction will find it desirable to avoid the creation of a taxable event and
+thereby structure the business transaction in a so-called tax-free 
+reorganization under Sections 368(a)(1) or 351 of the Internal Revenue Code
+(the Code ). In order to obtain tax-free treatment under the Code,
+it may be necessary for the owner of the acquired business to own 80 or more
+of the voting stock of the surviving entity. In such event, our stockholders
+would retain less than 20 of the issued and outstanding shares of the
+surviving entity. This would result in significant dilution in the equity of stockholders. 
+
+As part of our investigation,
+we expect to meet personally with management and key personnel, visit and
+inspect material facilities, obtain independent analysis of verification of
+certain information provided, check references of management and key personnel,
+and take other reasonable investigative measures, to the extent of our limited
+financial resources and management expertise. The manner in which we
+participate in an opportunity will depend on the nature of the opportunity, the
+respective needs and desires of both parties, and the management of the
+opportunity. 
+
+With respect to any merger or
+acquisition, and depending upon, among other things, the target company's
+assets and liabilities, our stockholders will in all likelihood hold a
+substantially lesser percentage ownership interest in us following any merger
+or acquisition. The percentage ownership may be subject to significant
+reduction in the event we acquire a target company with assets and expectations
+of growth. Any merger or acquisition can be expected to have a significant
+dilutive effect on the percentage of shares held by our stockholders. 
+
+We will participate in a
+business opportunity only after the negotiation and execution of appropriate
+written business agreements. Although the terms of such agreements cannot be
+predicted, generally we anticipate that such agreements will (i) require
+specific representations and warranties by all of the parties; (ii) specify
+certain events of default; (iii) detail the terms of closing and the conditions
+which must be satisfied by each of the parties prior to and after such closing;
+(iv) outline the manner of bearing costs, including costs associated with the
+Company's attorneys and accountants; (v) set forth remedies on defaults; and
+(vi) include miscellaneous other terms. 
+
+ -6- 
+
+As stated above, we will not
+acquire or merge with any entity which cannot provide independent audited
+financial statements within a reasonable period of time after closing of the
+proposed transaction. We are subject to all of the reporting requirements
+included in the 1934 Act. Included in these requirements as part of a Current
+Report on Form 8-K, required to be filed with the SEC upon consummation of a
+merger or acquisition, as well as audited financial statements included in an
+Annual Report on Form 10-K. If such audited financial statements are not
+available at closing, or within time parameters necessary to insure our
+compliance within the requirements of the 1934 Act, or if the audited financial
+statements provided do not conform to the representations made by that business
+to be acquired, the definitive closing documents will provide that the proposed
+transaction will be voidable, at the discretion of our present management. If
+such transaction is voided, the definitive closing documents will also contain
+a provision providing for reimbursement for our costs associated with the
+proposed transaction. 
+
+COMPETITION 
+
+We believe we are an
+insignificant participant among the firms which engage in the acquisition of
+business opportunities. There are many established venture capital and
+financial concerns that have significantly greater financial and personnel
+resources and technical expertise than we have. In view of our limited financial
+resources and limited management availability, we will continue to be at a
+significant competitive disadvantage compared to our competitors. 
+
+Investment Company Act 1940 
+
+Although we will be subject
+to regulation under the Securities Act of 1933, as amended, and the 1934 Act,
+we believe we will not be subject to regulation under the Investment Company
+Act of 1940 (the 1940 Act insofar as we will not be engaged in the
+business of investing or trading in securities. In the event we engage in
+business combinations that result in us holding passive investment interests in
+a number of entities, we could be subject to regulation under the 1940 Act. In
+such event, we would be required to register as an investment company and incur
+significant registration and compliance costs. We have obtained no formal
+determination from the SEC as to our status under the 1940 Act and,
+consequently, any violation of the 1940 Act would subject us to material
+adverse consequences. We believe that, currently, we are exempt under Regulation
+3a-2 of the 1940 Act. 
+
+FACTORS AFFECTING FUTURE
+PERFORMANCE 
+
+The factors affecting our
+future performance changed dramatically as a result of our decision to
+discontinue the last of our operating businesses in June 2015. Rather than an
+operating business, our business is to reach satisfactory negotiated
+settlements with our outstanding creditors, obtain debt and, or, equity finance
+to fund negotiated settlements with our creditors and to meet our ongoing
+operating expenses and attempt to merge with another entity with experienced
+management and opportunities for growth in return for shares of our common
+stock to create value for our shareholders. Although there is no assurance that
+this series of events will be successfully completed, we believe we can
+successfully complete an acquisition or merger which will enable us to continue
+as a going concern. Any acquisition or merger will most likely be dilutive to
+our existing stockholders. 
+
+The factors affecting our
+future performance are listed and explained below under the section Risk
+Factors in Management's Discussion and Analysis of Financial Condition
+and Results of Operations. 
+
+ -7- 
+
+OUR BUSINESS TO FISCAL
+YEAR END 
+
+Office Leasing (until June
+30, 2015) We have terminated all leasing operations at June 30, 2015. 
+
+The first center (12F) is composed
+of Units 1211-1212, 12/F, Tower 2at Silvercord, No.30 Canton Road, Tsimshatsui,
+which is a premier commercial building in Hong Kong. The center is on one floor
+and occupies approximately 5,000 square feet. With the experience of operating
+the first center, Prestige acquired a second center (10F) in the same building
+from Huge Earn on September 8, 2011. The second center is of approximately
+5,000 square feet and consist of Units 1006-1007, 10/F, Tower 2, Silvercord No.
+30 Canton Road, Tsimshatsui, Hong Kong. 
+
+The lease for 10(F) center
+was not renewed after the expiration on September 30, 2014. There was only
+lease space available at 12(F) center only during the year ended June 30,
+2015. The Company has decided to terminate the operations for both centers and
+seek other opportunities after the year ended June 30, 2015. 
+
+The table below provides the
+specifics of each center at the years ended June 30, 2015 and 2014. 
+
+June 30, 2015 
+
+June 30, 2014 
+
+10(F) 
+
+12(F) 
+
+10(F) 
+
+12(F) 
+
+Total available space 
+
+0 
+
+3,716 sq ft 
+
+3,975 sq ft 
+
+3,716 sq ft 
+
+Total leased space 
+
+0 
+
+0 
+
+2,608 sq ft 
+
+2,771 sq ft 
+
+Number of Tenants 
+
+0 
+
+0 
+
+14 
+
+9 
+
+Average rental rate
+ 
+ per square foot 
+
+0 
+
+0 
+
+HK 81 
+
+HK 71 
+
+Leases expiring in 1 year 
+
+0 
+
+0 
+
+14 
+
+9 
+
+All tenant leases have been
+terminated. 
+
+Leases with tenants provided
+for monthly rental payments. Rent included the use of the property and
+services offered. Prestige was able to terminate the lease at its discretion
+and without giving prior notice if the tenant has failed to pay its rent; all
+other terminations required Prestige giving 30 day notice to the tenant. If
+the tenant should give notice of early termination, the tenant was required to
+still pay all rents due under the remaining term of the lease. 
+
+INTELLECTUAL PROPERTY 
+
+We do not hold any patents or
+patent applications. 
+
+ EMPLOYEES 
+
+As of June 30, 2015, we had no
+employees. The Company's officers do not have employment agreements at this
+time. We feel that the relations with our employees are in good standing. 
+ -8- 
+
+ITEM 1A. RISK FACTORS 
+
+You should be aware that there are various risks
+associated with our business, including the ones discussed below. You should
+carefully consider these risk factors, as well as the other information
+contained in this Form 10-K, in evaluating us and our business. 
+
+Our business intends to attempt to merge with another
+entity with experienced management and opportunities for growth in return for
+shares of our common stock to create value for our shareholders. There is no
+assurance that this series of events will be successfully completed. Although
+there is no assurance, we believe we can successfully complete an acquisition
+or merger, which will enable us to continue as a going concern. Any acquisition
+or merger will most likely be dilutive to our existing stockholders. 
+
+WE HAVE A SUBSTANTIAL BALANCE OF OUTSTANDING
+LIABILITIES 
+
+At June 30, 2015, we had outstanding liabilities of
+approximately 2,105,425 due to creditors. We have no assets, no operating
+business or our source of income from which to pay these creditors. Accordingly
+we must attempt to negotiate acceptable settlements with these outstanding
+creditors and then attempt to raise debt and, or, equity funding to finance the
+payment of the agreed settlements. There can be no assurance that we shall be
+able to negotiate acceptable settlements with our outstanding creditors or that
+we shall be able to raise the necessary debt and, or, equity finance to fund
+any such agreed settlements. If we are unable to settle these liabilities it is
+unlikely that we will be able to merge with another entity with experienced
+management and opportunities for growth in return for shares of our common
+stock to create value for our shareholders 
+
+WE HAVE INCURRED SIGNIFICANT LOSSES AND ANTICIPATE
+FUTURE LOSSES 
+
+At June 30, 2015, we had an accumulated deficit of 3,096,380
+and a stockholders' deficit of approximately 2,101,903. Future losses are
+likely to occur as we have no sources of income to meet our operating expenses.
+As a result of these, among other factors, we received a report on our
+consolidated financial statements for the years ended June 30, 2015 and 2014
+from our independent accountants that include an explanatory paragraph stating
+that there is substantial doubt about our ability to continue as a going
+concern. Consistent with our business plan, we plan on reaching satisfactory
+negotiated settlements with our outstanding creditors, raising additional debt
+and/or, equity to fund settlements with our creditors and to meet our ongoing
+operating expenses and attempting to merge with another entity with experienced
+management and opportunities for growth in return for shares of our common
+stock to create value for our shareholders. There can be no assurance that this
+series of events will be successfully completed. No assurances can be given
+that we will be successful in acquiring operations, generating revenues or
+reaching or maintaining profitable operations. 
+
+OUR EXISTING FINANCIAL RESOURCES ARE INSUFFICIENT TO
+MEET OUR ONGOING OPERATING EXPENSES 
+
+We have no sources of income at this time and no
+existing cash balances that are adequate to meet our ongoing operating
+expenses. In the short term, unless we are able to raise additional debt and/or,
+equity we shall be unable to meet our ongoing operating expenses. On a longer
+term basis, we plan to acquire an entity with experienced management and the
+opportunities for growth in exchange for shares of our common stock and are
+dependent on achieving a successful merger with a profitable company. No
+assurances can be given that we will be successful in acquiring operations,
+generating revenues or reaching or maintaining profitable operations. 
+ -9- 
+
+WE INTEND TO PURSUE THE ACQUISITION OF AN OPERATING
+BUSINESS 
+
+Our sole strategy is to acquire an operating business.
+Successful implementation of this strategy depends on our ability to identify a
+suitable acquisition candidate, acquire such company on acceptable terms and
+integrate its operations. In pursuing acquisition opportunities, we compete
+with other companies with similar strategies. Competition for acquisition
+targets may result in increased prices of acquisition targets and a diminished
+pool of companies available for acquisition. Acquisitions involve a number of
+other risks, including risks of acquiring undisclosed or undesired liabilities,
+acquired in-process technology, stock compensation expense, diversion of management
+attention, potential disputes with the seller of one or more acquired entities and
+possible failure to retain key acquired personnel. Any acquired entity or
+assets may not perform relative to our expectations. Our ability to meet these
+challenges has not been established. 
+
+SCARCITY OF, AND COMPETITION FOR, BUSINESS
+OPPORTUNITIES AND COMBINATIONS 
+
+We believe we are an insignificant participant among
+the firms which engage in the acquisition of business opportunities. There are
+many established venture capital and financial concerns that have significantly
+greater financial and personnel resources and technical expertise than we have.
+Nearly all such entities have significantly greater financial resources,
+technical expertise and managerial capabilities than us and, consequently, we
+will be at a competitive disadvantage in identifying possible business
+opportunities and successfully completing a business combination. Moreover, we
+will also compete in seeking merger or acquisition candidates with numerous
+other small public companies. In view of our limited financial resources and
+limited management availability, we will continue to be at a significant
+competitive disadvantage compared to our competitors. 
+
+WE HAVE NOT EXECUTED ANY FORMAL AGREEMENT FOR A
+BUSINESS COMBINATION OR OTHER TRANSACTION AND HAVE ESTABLISHED NO STANDARDS FOR
+BUSINESS COMBINATIONS 
+
+We have not executed any formal arrangement, agreement
+or understanding with respect to engaging in a merger with, joint venture with
+or acquisition of a private or public entity. There can be no assurance that we
+will be successful in identifying and evaluating suitable business
+opportunities or in concluding a business combination. We have not identified
+any particular industry or specific business within an industry for evaluation.
+There is no assurance we will be able to negotiate a business combination on
+terms favorable, if at all. We have not established a specific length of
+operating history or specified level of earnings, assets, net worth or other
+criteria which we will require a target business opportunity to have achieved,
+and without which we would not consider a business combination. Accordingly, we
+may enter into a business combination with a business opportunity having no
+significant operating history, losses, limited or no potential for earnings,
+limited assets, negative net worth or other negative characteristics. 
+
+REDUCTION OF PERCENTAGE SHARE OWNERSHIP FOLLOWING
+BUSINESS COMBINATION AND DILUTION TO STOCKHOLDERS 
+
+Our primary plan of operation is based upon a business
+combination with a private concern which, in all likelihood, would result in us
+issuing securities to stockholders of such private company. The issuance of
+previously authorized and unissued shares of our common stock would result in
+reduction in percentage of shares owned by present and prospective stockholders
+and may result in a change in control or management. In addition, any merger or
+acquisition can be expected to have a significant dilutive effect on the
+percentage of the shares held our stockholders. 
+
+ -10- 
+
+BECAUSE INSIDERS CONTROL OUR ACTIVITIES, THAT MAY
+CAUSE US TO ACT IN A MANNER THAT IS MOST BENEFICIAL TO THEM AND NOT TO OUTSIDE
+SHAREHOLDERS WHICH COULD CAUSE US NOT TO TAKE ACTIONS THAT OUTSIDE INVESTORS
+MIGHT VIEW FAVORABLY 
+
+Our executive officers, directors, and holders of 5 
+or more of our outstanding common stock beneficially own approximately 98 of
+our outstanding common stock. As a result, they effectively control all matters
+requiring director and stockholder approval, including the election of
+directors, the approval of significant corporate transactions, such as mergers
+and related party transaction. These insiders also have the ability to delay or
+perhaps even block, by their ownership of our stock, an unsolicited tender
+offer. This concentration of ownership could have the effect of delaying,
+deterring or preventing a change in control of our company that you might view
+favorably. 
+
+OUR DIRECTORS MAY HAVE CONFLICTS OF INTEREST WHICH MAY
+NOT BE RESOLVED FAVORABLY TO US. 
+
+Certain conflicts of interest may exist between our
+directors and us. Our Directors have other business interests to which they
+devote their attention, and may be expected to continue to do so although
+management time should be devoted to our business. As a result, conflicts of
+interest may arise that can be resolved only through exercise of such judgment
+as is consistent with fiduciary duties to us. 
+
+LOSS OF CONTROL BY OUR PRESENT MANAGEMENT AND
+STOCKHOLDERS MAY OCCUR UPON ISSUANCE OF ADDITIONAL SHARES. 
+
+We may issue further shares as consideration for the
+cash or assets or services out of our authorized but unissued common stock that
+would, upon issuance, represent a majority of our voting power and equity. The
+result of such an issuance would be those new stockholders and management would
+control us, and persons unknown could replace our management at this time. Such
+an occurrence would result in a greatly reduced percentage of ownership of us
+by our current stockholders. 
+
+WE MAY DEPEND UPON OUTSIDE ADVISORS, WHO MAY NOT BE
+AVAILABLE ON REASONABLE TERMS AND AS NEEDED . 
+
+To supplement the business experience of our officers
+and directors, we may be required to employ accountants, technical experts,
+appraisers, attorneys, or other consultants or advisors. Our Board without any
+input from stockholders will make the selection of any such advisors.
+Furthermore, it is anticipated that such persons may be engaged on an as
+needed basis without a continuing fiduciary or other obligation to us. In
+the event we consider it necessary to hire outside advisors, we may elect to
+hire persons who are affiliates, if they are able to provide the required
+services. 
+
+WE HAVE LIMITED WORKING
+CAPITAL AND LIMITED CASH FUNDS. 
+
+ At
+June 30, 2015, we have total current assets of 3,522, of which 195 is cash on
+hand and 3,327 are current assets held for sale, consisting of 256 of cash
+and 3,071 of prepaid expenses. At June 30, 2015, we have total current
+liabilities of 2,105,425 out of which 1,902,277 are current liabilities held
+for sale. We have a working capital deficit of 2,101,903 at June 30, 2015. During
+the year ended June 30, 2015, we recognized revenues of 0 and a net loss of 528,415
+out of which 444,267 is attributable to loss from discontinued operations with
+corresponding revenue from discontinued operations of 78,713. 
+
+We have limited funds, and
+such funds may not be adequate to carry out the business plan. Our cash
+inflows from our operating activities are not enough to cover the costs
+incurred by our operational activities. The ultimate success of our business
+may depend upon our ability to raise additional capital. We have investigated
+the availability, source, or terms that might 
+
+ -11- 
+
+govern the acquisition of
+additional capital. If additional capital is needed, there is no assurance that
+funds will be available from any source or, if available, that they can be
+obtained on terms acceptable to us. If not available, our operations will be
+limited to those that can be financed with its modest capital. 
+
+FLUCTUATION
+IN THE VALUE OF THE HONG KONG DOLLAR MAY HAVE A MATERIAL ADVERSE EFFECT ON OUR
+FINANCIAL STATEMENTS. 
+
+Our operations have been located
+in Hong Kong and as such our financial activities are done in Hong Kong Dollars. 
+In accordance with United States Generally Accepted Accounting Procedures (US
+GAAP) our financial statements are reported in U.S. Dollars. The value of the
+Hong Kong Dollar against the U.S. dollar may fluctuate and is affected by,
+among other things, changes in political and economic conditions. An
+appreciation of the Hong Kong dollar against the U.S. dollar could result in
+foreign currency translation losses for financial reporting purposes when we
+translate our Hong
+ Kong denominated
+liabilities into U.S. Dollars, as the U.S. Dollar would likely be our reporting
+currency. 
+
+ JV GROUP IS A HOLDING
+COMPANY AND THERE ARE LIMITATIONS ON OUR ABILITY TO RECEIVE DISTRIBUTIONS FROM
+OUR SUBSIDIARIES. 
+
+We conduct all of our
+operations through our wholly-owned subsidiaries and are dependent upon
+dividends or other intercompany transfers of funds from our subsidiaries to
+meet our obligations. Moreover, our subsidiaries are currently limited in their
+ability to pay dividends or make distributions to us. We cannot make any
+assurances that we will be able to fund the operations of the parent company in
+such manner. 
+
+ OUR SUCCESS DEPENDS SUBSTANTIALLY
+ON THE CONTINUED RETENTION OF CERTAIN KEY PERSONNEL AND OUR ABILITY TO HIRE AND
+RETAIN QUALIFIED PERSONNEL IN THE FUTURE TO SUPPORT OUR GROWTH. 
+
+If one or more of our senior
+executives or other key personnel are unable or unwilling to continue in their
+present positions, we may not be able to replace them easily or at all. As a
+result, our business may be disrupted and our financial condition and results
+of operations may be materially and adversely affected. While we depend on the
+abilities and participation of our current management team generally, we have a
+particular reliance upon Ms. Look, our Chief Executive Officer and Chief
+Financial Officer. The loss of the services of Ms. Look for any reason could
+significantly impact our business and results of operations. 
+
+ BECAUSE INSIDERS CONTROL OUR ACTIVITIES, THAT MAY CAUSE US TO ACT IN A MANNER THAT IS MOST BENEFICIAL TO THEM AND NOT TO OUTSIDE SHAREHOLDERS WHICH COULD CAUSE US NOT TO TAKE ACTIONS THAT OUTSIDE INVESTORS MIGHT VIEW FAVORABLY. 
+
+Mr. Yeung Cheuk Hung, an
+affiliate of the Company, owns approximately 61 of our issued and outstanding
+common stock. As a result, Mr. Yeung effectively controls all matters requiring
+stockholder approval, including the election of directors, the approval of significant
+corporate transactions, such as mergers and related party transactions. These
+insiders also have the ability to delay or perhaps even block, by their
+ownership of our stock, an unsolicited tender offer. This concentration of
+ownership could have the effect of delaying, deterring or preventing a change
+in control of our company that you might view favorably.
+ 
+ -12- 
+
+LOSS OF CONTROL BY OUR STOCKHOLDERS MAY OCCUR UPON ISSUANCE OF ADDITIONAL SHARES. 
+
+ We may issue additional shares, in the future, as consideration for cash, assets, or services out of our authorized but unissued common stock that would, upon issuance, represent a majority of our voting power and equity. The result of such an issuance would be those new stockholders and management would control us, and persons unknown could replace our management at this time. Such an occurrence would result in a greatly reduced percentage of ownership of us by our current stockholders. 
+
+THE REGULATION OF PENNY
+STOCKS BY SEC AND FINRA MAY HAVE AN EFFECT ON THE TRADABILITY OF OUR
+SECURITIES. 
+
+ Our securities are currently
+listed on the Over the Counter Bulletin Board and the Pink Sheets. Our shares
+are subject to a Securities and Exchange Commission rule that imposes special
+sales practice requirements upon broker-dealers who sell such securities to
+persons other than established customers or accredited investors. For purposes
+of the rule, the phrase accredited investors means, in general
+terms, institutions with assets in excess of 5,000,000, or individuals having
+a net worth in excess of 1,000,000 or having an annual income that exceeds
+ 200,000 (or that, when combined with a spouse's income, exceeds 300,000). 
+For transactions covered by the rule, the broker-dealer must make a special
+suitability determination for the purchaser and receive the purchaser's written
+agreement to the transaction prior to the sale. Consequently, the rule may
+affect the ability of broker-dealers to sell our securities and also may affect
+the ability of purchasers in this offering to sell their securities in any
+market that might develop therefore. 
+
+In addition, the Securities and Exchange Commission has adopted a number of rules to regulate penny stocks. Such rules include Rules 3a51-1, 15g-1, 15g-2, 15g-3, 15g-4, 15g-5, 15g-6, 15g-7, and 15g-9 under the Securities and Exchange Act of 1934, as amended. Because our securities constitute penny stocks within the meaning of the rules, the rules would apply to us and to our securities. The rules may further affect the ability of owners of Shares to sell our securities in any market that might develop for them. 
+ Shareholders should be aware that, according to the Securities and Exchange Commission, the market for penny stocks has suffered in recent years from patterns of fraud and abuse. Such patterns include (i) control of the market for the security by one or a few broker-dealers that are often related to the promoter or issuer; (ii) manipulation of prices through prearranged matching of purchases and sales and false and misleading press releases; (iii) boiler room practices involving high-pressure sales tactics and unrealistic price projections by inexperienced sales persons; (iv) excessive and undisclosed bid-ask differentials and markups by selling broker-dealers; and (v) the wholesale dumping of the same securities by promoters and broker-dealers after prices have been manipulated to a desired consequent investor losses. Our management is aware of the abuses that have occurred historically in the penny stock market. Although we do not expect to be in a position to dictate the behavior of the market or of broker-dealers who participate in the market, management will strive within the confines of practical limitations to prevent the described patterns from being established with respect to our securities. 
+
+ OUR STOCK IS THINLY TRADED
+AND AS A RESULT YOU MAY BE UNABLE TO SELL AT OR NEAR ASK PRICES OR AT ALL IF
+YOU NEED TO LIQUIDATE YOUR SHARES. 
+
+ The shares of our
+common stock are thinly-traded on the OTC Markets Pink, meaning that the number
+of persons interested in purchasing our shares of common stock at or near ask
+prices at any given time may be relatively small or non-existent. This situation
+is attributable to a number of factors, including the fact that we are a small
+company which is relatively unknown to stock analysts, stock brokers,
+institutional investors and others in the investment community that generate or
+influence sales volume, and that even if we came to the attention of such
+persons, they tend to be risk-averse and would be reluctant to follow an
+unproven, early stage company such as ours or purchase or recommend the purchase
+of our 
+ -13- 
+
+shares of common stock
+until such time as we became more seasoned and viable. As a consequence,
+there are periods of several days or more when trading activity in our shares of
+common stock is minimal or non-existent, as compared to a seasoned issuer which
+has a large and steady volume of trading activity that will generally support
+continuous sales without an adverse effect on Securities price. We cannot
+give you any assurance that a broader or more active public trading market for
+our shares of Common Stock will develop or be sustained, or that any trading
+levels will be sustained. Due to these conditions, we can give investors no
+assurance that they will be able to sell their shares of common stock at or near
+ask prices or at all if you need money or otherwise desire to liquidate your
+shares of common stock of our Company. 
+
+ RULE 144 SALES IN THE FUTURE MAY HAVE A DEPRESSIVE EFFECT ON OUR STOCK PRICE. 
+ All of the outstanding shares of common stock held by our present officers, directors, and affiliate stockholders are restricted securities within the meaning of Rule 144 under the Securities Act of 1933, as amended. As restricted shares, these shares may be resold only pursuant to an effective registration statement or under the requirements of Rule 144 or other applicable exemptions from registration under the Act and as required under applicable state securities laws. Rule 144 provides in essence that a person who has held restricted securities for six months may, under certain conditions, sell every three months, in brokerage transactions, a number of shares that does not exceed the greater of 1.0 of a company's outstanding common stock or the average weekly trading volume during the four calendar weeks prior to the sale. There is no limit on the amount of restricted securities that may be sold by a nonaffiliated entity after the owner has held the restricted securities for a period of six months. A sale under Rule 144 or under any other exemption from the Act, may have a depressive effect upon the price of the common stock in any market that may develop. 
+ WE DO NOT ANTICIPATE PAYING CASH DIVIDENDS ON OUR COMMON STOCK 
+ We do not anticipate paying any cash dividends on our common stock in the foreseeable future, due to our illiquidity and inability to support our operations without funding from our officers, directors and shareholders. Future cash dividends will be determined by our board of directors based upon our earnings, financial condition, capital requirements and other relevant factors. We cannot provide any assurances or guarantees that any agreement for financing will not provide for restrictions on any future dividend payments, though our existing promissory notes do not have any such provisions. 
+
+ ITEM 1B. UNRESOLVED STAFF COMMENTS 
+
+None 
+
+ ITEM 2. DESCRIPTION OF PROPERTIES
+
+Our
+United States mailing address is 7609 Ralston Road, Arvada, Colorado, 80002. 
+We do not hold this property nor do we have operations at this address. The
+Company does not hold any real property. 
+
+ ITEM 3. LEGAL PROCEEDINGS To the best of our knowledge and belief, there is no pending legal action against the Company. 
+ 
+ -14- 
+
+ITEM 4. MINE SAFETY DISCLOSURE. Not Applicable. PART II ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS 
+
+The
+following table sets forth the range of high and low sales prices for the
+Company's common stock for each of the fiscal quarters for the past two years
+as reported on the OTC Bulletin Board.
+These prices represent inter-dealer prices without adjustments for mark-up,
+mark-down, or commission and do not necessarily reflect actual transactions. 
+
+Our common stock's trading symbol is ASZP . 
+
+High 
+
+Low 
+
+Year
+ Ended June 30, 2015 
+
+September
+ 30, 2014 
+
+0.05 
+
+0.05 
+
+December
+ 31, 2014 
+
+0.05 
+
+0.05 
+
+March
+ 31, 2015 
+
+0.08 
+
+0.08 
+
+June
+ 30, 2015 
+
+0.07 
+
+0.07 
+
+High 
+
+Low 
+
+Year
+ Ended June 30, 2014 
+
+September
+ 30, 2013 
+
+0.03 
+
+0.01 
+
+December
+ 31, 2013 
+
+0.02 
+
+0.01 
+
+March
+ 31, 2014 
+
+0.03 
+
+0.01 
+
+June
+ 30, 2014 
+
+0.02 
+
+0.02 
+
+Holders . As of June 30, 2015, there were approximately 130 holders of record of the common stock. We believe that we have approximately 2,000 beneficial owners of our common stock. In many instances, a registered stockholder is a broker or other entity holding shares in street name for one or more customers who beneficially own the shares. 
+ Our transfer agent is Mountain Share Transfer, Inc., P.O. Box 191767, Atlanta, GA, 31119. Mountain Share Transfer's telephone number is (303) 460-1149. 
+ Dividends. We have not paid or declared cash distributions or dividends on our common stock and do not intend to pay cash dividends in the foreseeable future due to our illiquidity and inability to support operations to support our operations without funding from our officers, directors and shareholders. Future cash dividends will be determined by our board of directors based upon our earnings, financial condition, capital requirements and other relevant factors. We cannot provide any assurances or guarantees that any agreement for financing will not provide for restrictions on any future dividend payments, though our existing promissory notes do not have any such provisions. 
+
+Recent Sales of
+Unregistered Securities 
+
+We made the following
+unregistered sales of our securities from July 1, 2012 through June 30, 2015: 
+
+None. 
+
+ -15- 
+
+ITEM 6. SELECTED
+FINANCIAL AND OPERATING DATA 
+
+ As a smaller reporting
+company as defined by Item 10 of Regulation S-K, we are not required to
+provide information required by this Item. 
+
+ ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ The following discussion should be read in conjunction with our audited financial statements and notes thereto included herein. In connection with, and because we desire to take advantage of, the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, we caution readers regarding certain forward looking statements in the following discussion and elsewhere in this report and in any other statement made by, or on our behalf, whether or not in future filings with the Securities and Exchange Commission. Forward-looking statements are statements not based on historical information and which relate to future operations, strategies, financial results or other developments. Forward looking statements are necessarily based upon estimates and assumptions that are inherently subject to significant business, economic and competitive uncertainties and contingencies, many of which are beyond our control and many of which, with respect to future business decisions, are subject to change. These uncertainties and contingencies can affect actual results and could cause actual results to differ materially from those expressed in any forward looking statements made by, or on our behalf. We disclaim any obligation to update forward-looking statements. 
+ The independent registered public accounting firm's report on the Company's consolidated financial statements as of June 30, 2015, and for each of the years in the two-year period then ended, includes a going concern explanatory paragraph, that describes substantial doubt about the Company's ability to continue as a going concern. 
+ PLAN OF OPERATIONS 
+
+JV Group's strategy is to seek
+out a partner for a merger or an operating company seeking the benefits of a
+publicly traded company. Because the subsidiaries have ceased their activity it
+will cause the Company to be classified as a shell corporation. 
+
+The Company will need
+substantial additional capital to support its budget. The Company has had
+minimal revenues. The Company has no committed source for any funds as of date
+hereof. In the event funds cannot be raised when needed, the Company may not be
+able to carry out its business plan, may never achieve sales or royalty income,
+and could fail in business as a result of these uncertainties. 
+
+The Company may borrow money
+to finance its future operations, although it does not currently contemplate
+doing so. Any such borrowing will increase the risk of loss to the investor in
+the event the Company is unsuccessful in repaying such loans. 
+
+The independent registered public accounting firm's
+report on the Company's financial statements as of June 30, 2015, and for each
+of the years in the two-year period then ended, includes a going concern 
+explanatory paragraph, that describes substantial doubt about the Company's
+ability to continue as a going concern. 
+ -16- 
+
+For the Year Ended June
+30, 2015 Compared to the Year Ended June 30, 2014 
+
+ During the year ended June
+30, 2015 and 2014, we recognized revenues of 0 and 0 respectively from
+operations. Revenues from discontinued operations amounted to 78,713 and
+ 612,441 for the years ended June 30, 2015 and 2014 with corresponding cost of
+revenues of 47,908 and 82,618 respectively. 
+
+During the year ended June
+30, 2015 we incurred operational expenses of 84,148. During the year ended
+June 30, 2014 we incurred operational expenses of 61,735. The increase of
+ 22,413 is composed of an increase of 18,306 in accounting and legal costs.
+During the years ended June 30, 2015 and 2014, we incurred operational expenses
+of 475,072 and 816,413 respectively in relation to the discontinued
+operations. 
+
+Losses attributable to
+continuing operations were 84,148 for the year ended June 30, 2015 and 61,735
+for the year ended June 30, 2014. Losses attributable to the discontinued
+operations were 444,267 for the year ended June 30 2015 and 284,885 for the
+year ended June 30, 2014. 
+
+LIQUIDITY 
+
+At June 30, 2015, we had
+total current assets of 3,522 consisting of cash and cash equivalents of 195
+and current assets held for sale of 3,327 consisting of 256 in cash and
+ 3,071 in prepaid expenses. At June 30, 2015, we had total liabilities of 2,105,425,
+all current. Total liabilities included 153,511 in accounts payable and
+accrued liabilities, 49,637 in advances from related parties and 1,902,277 of
+current liabilities held for sale, consisting of 4,087 in accounts payable and
+accrued liabilities, 12,987 in prepayments, 452,790 in notes payable to
+related party and 1,432,413 in advances from related parties. 
+
+During the year ended June
+30, 2015, we used funds of 46,642 in our operational activities. During the year
+ended June 30, 2015, we recognized a net loss from continuing operations of
+ 84,148.The operational loss due to discontinued operations was 444,267.
+During the year ended June 30, 2014, we used funds of 37,765 in our
+operational activities. The discontinued operations used 349,035 and 52,526
+in operating funds during the years ended June 30, 2015 and June 30, 2014
+respectively. During the year ended June 30, 2014, we incurred a net loss from
+continuing operations of 61,735. The corresponding loss attributable to
+discontinued operations was 284,885. 
+
+During the year ended June
+30, 2015, we used 0 to acquire computer equipment. During the year ended June
+30, 2014, the discontinued operations used 11,562 to acquire computer
+equipment. 
+
+During the year ended June
+30, 2015, we received 15,816 from our financing activities. During the year
+ended June 30, 2015 the discontinued operations provided 380,025 from
+financing activities. During the year ended June 30, 2014, we received a net of
+ 27,950 from our financing activities. During this same period we received
+ 72,898 from financing activities from the discontinued operations. 
+
+During the year ended June
+30, 2015 and 2014, the discontinued operations received 380,025 and 72,898 to
+support operations and the total liabilities for these advances are 1,432,413
+and 1,052,388, respectively. 
+
+ Off-Balance Sheet
+Arrangements 
+
+We have no material
+off-balance sheet arrangements. We do have two subsidiaries that are not
+presented in a consolidated financial statement due to their operations having
+been discontinued. 
+
+ -17- 
+
+Short Term 
+
+Since we have ceased
+operations there is no revenue coming in to the Company however, there will be
+limited ongoing expenses that will need to be covered. For short term needs we
+will be dependent on receipt, if any, of offering proceeds and/or loans from
+officers/stockholders. 
+
+Capital Resources 
+
+We have only common stock as
+our capital resource. 
+
+We have no material
+commitments for capital expenditures within the next year, substantial capital
+will be needed to pay for working capital. 
+
+Need for Additional
+Financing 
+
+We do not have capital
+sufficient to meet our cash needs. We will have to seek loans or equity
+placements to cover such cash needs. 
+
+No commitments to provide
+additional funds have been made by our management or other stockholders. 
+Accordingly, there can be no assurance that any additional funds will be
+available to us to allow it to cover our expenses as they may be incurred. 
+
+ ITEM 7A. QUANTATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. 
+
+ As a smaller reporting
+company as defined by Item 10 of Regulation S-K, we are not required to
+provide information required by this Item. 
+
+ ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+ Our financial statements and supplementary data are included herein commencing on page 19. 
+
+-18- 
+
+JV GROUP, INC. 
+
+FINANCIAL STATEMENTS 
+
+For the years ended June 30, 2015 and 2014 
+
+REPORT
+ OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+20 
+
+CONSOLIDATED
+ BALANCE SHEETS 
+
+21 
+
+CONSOLIDATED
+ STATEMENTS OF OPERATIONS 
+
+22 
+
+CONSOLIDATED
+ STATEMENT OF STOCKHOLDERS' DEFICIT 
+
+23 
+
+CONSOLIDATED
+ STATEMENTS OF CASH FLOWS 
+
+24 
+
+NOTES
+ TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+25 
+
+-19- 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ 
+ To the Board of Directors and Stockholders of 
+ 
+ JV Group, Inc. 
+ 
+ Arvada, Co. 
+ We have audited
+the accompanying consolidated balance sheets of JV Group, Inc. and subsidiaries
+(the Company) as of June 30, 2015 and 2014, and the related statements of
+operations, stockholders' deficit, and cash flows for each of the years in the
+two year period ended June 30, 2015. JV Group, Inc's management is responsible
+for these financial statements. 
+ Our
+responsibility is to express an opinion on these financial statements based on
+our audits. 
+ We conducted our
+audits in accordance with the standards of the Public Company Accounting
+Oversight Board (United States). Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. The company is not required to
+have, nor were we engaged to perform, an audit of its internal control over
+financial reporting. Our audit included consideration of internal control over
+financial reporting as a basis for designing audit procedures that are
+appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the company's internal control over financial
+reporting. Accordingly, we express no such opinion. An audit also includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements, assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion. 
+ In our opinion,
+the financial statements referred to above present fairly, in all material
+respects, the financial position of JV Group, Inc. and subsidiaries as of June
+30, 2015 and 2014, and the results of its operations and its cash flows for each
+of the years in the two year period ended June 30, 2015, in conformity with
+accounting principles generally accepted in the United States of America. 
+ The accompanying
+consolidated financial statements have been prepared assuming the Company will
+continue as a going concern. As discussed in Note 4 to the consolidated
+financial statements, the Company has suffered losses from operations, which
+raise substantial doubt about its ability to continue as a going concern. 
+ Management's
+plans in regard to these matters are also described in Note 4. The financial
+statements do not include any adjustments that might result from the outcome of
+this uncertainty. 
+ 
+ RBSM, LLP 
+ 
+ December 9, 2015. 
+ 
+ Henderson, Nevada 
+
+-20- 
+
+JV GROUP, INC. AND SUBSIDIARIES 
+
+CONSOLIDATED BALANCE SHEETS 
+
+(Amounts in US Dollars) 
+
+(Audited) 
+
+June 30, 
+
+June 30, 
+
+2015 
+
+2014 
+
+ASSETS 
+
+Current assets 
+
+Cash and cash equivalents 
+
+195
+
+255
+
+Current assets held for sale 
+
+3,327 
+
+262,571 
+
+Total current assets 
+
+3,522 
+
+262,826 
+
+Total assets 
+
+3,522 
+
+262,826 
+
+LIABILITIES STOCKHOLDERS' DEFICIT 
+
+Current liabilities 
+
+Accounts payable and accrued liabilities 
+
+153,511
+
+116,005 
+
+Advances, related parties 
+
+49,637
+
+33,821 
+
+Current liabilities -discontinued operations 
+
+1,902,277
+
+1,686,264 
+
+Total current liabilities 
+
+2,105,425
+
+1,836,090 
+
+Total liabilities 
+
+2,105,425 
+
+1,836,090 
+
+Stockholders' deficit 
+
+Preferred stock, 0.01 par value: 25,000,000 shares authorized, no shares 
+
+-
+
+-
+
+issued and outstanding. 
+
+Common stock, 0.01 par value: 1,000,000,000 shares authorized 
+
+988,797 
+
+988,797 
+
+98,879,655 shares issued and outstanding at 
+
+June 30, 2015 and June 30, 2014 respectively 
+
+Other comprehensive income 
+
+5,680 
+
+5,904
+
+Accumulated deficit 
+
+(3,096,380) 
+
+(2,567,965) 
+
+Total stockholders' deficit 
+
+(2,101,903) 
+
+(1,573,264) 
+
+Total liabilities and stockholders' deficit 
+
+3,522 
+
+262,826 
+
+The accompanying notes are an integral part of these financial statements 
+
+-21- 
+
+JV GROUP, INC. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS 
+
+FOR THE YEARS ENDED JUNE 30, 2015 AND 2014 
+
+(Amounts in US Dollars) 
+
+(Audited) 
+
+June 30, 
+
+2015 
+
+2014 
+
+Revenue 
+
+-
+
+-
+
+Operating expenses 
+
+General and administrative 
+
+84,148 
+
+61,735 
+
+Loss from continuing operations 
+
+(84,148) 
+
+(61,735) 
+
+Loss from discontinued operations, net of tax 
+
+(444,267) 
+
+(284,885) 
+
+Total loss from discontinued operations 
+
+(444,267) 
+
+(284,885) 
+
+Net loss 
+
+(528,415) 
+
+(346,620) 
+
+Other comprehensive income 
+
+Foreign currency translation adjustment 
+
+(224) 
+
+112 
+
+Total comprehensive loss 
+
+(528,639) 
+
+(346,508) 
+
+Basic and diluted loss per weighted average common share 
+
+Continuing operations 
+
+(0.00) 
+
+(0.00) 
+
+Discontinued operations 
+
+(0.00) 
+
+(0.00) 
+
+Total loss per weighted average common share 
+
+(0.00) 
+
+(0.00) 
+
+Weighted average common shares outstanding: 
+
+Basic and diluted 
+
+98,879,655 
+
+98,879,655 
+
+The accompanying notes are an integral part of these financial statements 
+
+-22- 
+
+JV GROUP, INC. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENT OF STOCKHOLDERS' DEFICIT 
+
+(Amounts in US Dollars) 
+
+(Audited) 
+
+Accumulated 
+
+Preferred Stock 
+ 
+ Common Stock 
+
+Accumulated 
+
+Comprehensive 
+
+Shares 
+
+Amount 
+ 
+ Shares 
+
+Amount 
+
+Deficit 
+
+Profit / (Loss) 
+
+Total 
+
+Balance, June 30, 2013 
+
+- 
+
+- 
+
+98,879,655 
+
+988,797 
+
+(2,221,345) 
+
+5,792
+
+(1,226,756) 
+
+Foreign currency translation 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+112
+
+112
+
+Net loss 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(346,620) 
+
+- 
+
+(346,620) 
+
+Balance, June 30, 2014 
+
+- 
+
+- 
+
+98,879,655 
+
+988,797 
+
+(2,567,965) 
+
+5,904 
+
+(1,573,264) 
+
+Foreign currency translation 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(224) 
+
+(224) 
+
+Net loss 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(528,415) 
+
+- 
+
+(528,415) 
+
+Balance, June 30, 2015 
+
+- 
+
+- 
+
+98,879,655 
+
+988,797 
+
+(3,096,380) 
+
+5,680 
+
+(2,101,903) 
+
+The accompanying notes are an integral part of these financial statements 
+
+-23- 
+
+JV GROUP, INC. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+FOR THE YEARS ENDED JUNE 30, 2015 AND 2014 
+
+(Amounts in US Dollars) 
+
+(Audited) 
+
+2015 
+
+2014 
+
+CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Net loss 
+
+(84,148) 
+
+(61,735) 
+
+Adjustments to reconcile net loss to net cash 
+
+used in operating activities: 
+
+-
+
+Changes in operating assets and liabilities: 
+
+Accounts payable and accrued liabilities 
+
+37,506 
+
+23,970 
+
+Total cash flow used in operating activities 
+
+(46,642) 
+
+(37,765) 
+
+CASH FLOW FROM FINANCING ACTIVITIES 
+
+Advances from related parties 
+
+15,816 
+
+27,950 
+
+Cash provided by financing activities 
+
+15,816 
+
+27,950 
+
+CASH FLOW PROVIDED BY (USED IN) DISCONTINUED OPERATIONS 
+
+Net cash provided by operating activities 
+
+(349,035) 
+
+(52,526) 
+
+Net cash provided by investing activities 
+
+-
+
+(11,562) 
+
+Net cash provided by financing activities 
+
+380,025 
+
+72,898 
+
+Net cash provided by (used by) discontinued operations 
+
+30,990 
+
+8,810
+
+Effect of exchange rate changes on cash 
+
+(224) 
+
+945
+
+NET CHANGE IN CASH 
+
+(60) 
+
+(60) 
+
+CASH AT BEGINNING OF PERIOD 
+
+255
+
+315
+
+CASH AT END OF PERIOD 
+
+195
+
+255
+
+SUPPLEMENTAL SCHEDULE OF CASH FLOW INFORMATION 
+
+Cash paid for interest 
+
+-
+
+-
+
+Cash paid for income tax 
+
+-
+
+-
+
+Disposal of fixed and intangible assets held for sale 
+
+199,074 
+
+-
+
+The accompanying notes are an integral part of these financial statements 
+
+-24- 
+
+JV GROUP, INC. AND SUBSIDIARIES 
+ 
+ Notes to the Consolidated Financial Statements 
+ 
+ (Amounts in USD) 
+ 
+ (Audited) 
+
+ NOTE 1 - BUSINESS AND
+BASIS OF PRESENTATION 
+
+ Company
+History 
+
+ASPI,
+Inc. APSI was formed in Delaware in September 29, 2008. On April 25, 2012,
+ASPI filed an amendment to its Certificate of Incorporation to change its name
+from ASPI, Inc. to JV Group, Inc. JV Group. or the Company )) In addition,
+at that time, JV Group increased the number of authorized common shares from
+One Hundred Million (100,000,000) shares to One Billion (1,000,000,000) shares. 
+
+ Business 
+
+JV Group has made a strategic shift by discontinuing
+its office space leasing operations effective October 2015, and is looking to merge with or acquire an
+existing company or acquire the technology to begin new operations. 
+
+The
+Company's business is to pursue a business combination through acquisition, or
+merger with, an existing company. As of the date of the financial statements,
+the Company is not conducting negotiations with any target business. No
+assurances can be given that the Company will be successful in locating or
+negotiating with any target company. 
+
+Historically, JV Group 
+operated primarily as an office service provider through its wholly-owned
+subsidiary, Prestige Prime Office, Limited Prestige ). As of the date of
+theses financial statement Prestige had ceased all operating activities due to
+a strategic shift and the Company is now classified as a shell corporation. 
+
+The Company also has a second
+wholly owned subsidiary, Mega Action Ltd., a British Virgin Island corporation
+which has no business activities. 
+
+ As of June 30, 2015, the
+Company is seeking to divest itself of these subsidiaries. 
+
+Basis of Presentation 
+
+ The accompanying consolidated
+financial statements include the accounts of JV Group, Inc., a Delaware
+corporation, its wholly-owned subsidiaries, Mega Action Limited Mega ), a
+British Virgin Island Corporation, and Prestige, a Hong Kong Special
+Administrative Region Corporation (JV Group and its subsidiaries are collectively
+referred to as the Company ). All significant intercompany accounts and
+transactions have been eliminated in consolidation. 
+
+NOTE 2 - DISCONTINUED
+OPERATIONS 
+
+As of June 30, 2015 the
+business activities of Prestige Prime Office, Limited have been discontinued.
+There are no revenues and only lease obligations to be considered in the
+future. The lease obligations terminate in November of 2015. Because Mega
+Action Limited was formed to be the management arm of Prestige Prime Office,
+Limited there was no further reason to keep it as a separate entity. On this
+basis the current reporting includes both Prestige Prime Office, Limited and
+Mega Action Limited as discontinued operations. All references to discontinued
+operations contain the net result of combining these two entities. There are
+nominal assets and significant liabilities in the subsidiaries and management
+has deemed that the only appropriate action is to abandon these subsidiaries
+effective as of June 30, 2015.
+ 
+ -25- 
+
+JV GROUP, INC. AND SUBSIDIARIES 
+ 
+ Notes to the Consolidated Financial Statements 
+ 
+ (Amounts in USD) 
+ 
+ (Audited) 
+
+Results of Discontinued Operations 
+
+Summary results
+of operations for our discontinued operations for the years 
+
+June 30 
+
+June 30, 
+
+Discontinued
+ operations: 
+
+2015 
+
+2014 
+
+Revenue 
+
+78,712 
+
+612,441 
+
+Loss from
+ discontinued operations 
+
+444,267 
+
+284,885 
+
+Income tax expense
+ (benefit) 
+
+- 
+
+- 
+
+Loss from discontinued
+ operations 
+
+444,267 
+
+284,885 
+
+Assets and
+Liabilities of Discontinued Operations 
+
+The assets and liabilities of
+the discontinued operations are set forth as follows: 
+
+Schedule of discontinued operations 
+
+F Y E June 30, 2014 
+
+F Y E June 30, 2015 
+
+Prestige 
+
+Mega 
+
+Total 
+
+Prestige 
+
+Mega 
+
+Total 
+
+Cash 
+
+14,935
+
+76
+
+15,011
+
+160
+
+96
+
+256
+
+Prepaid 
+
+48,486
+
+- 
+
+48,486
+
+3,071
+
+3,071
+
+P P E 
+
+190,523
+
+- 
+
+190,523
+
+- 
+
+- 
+
+- 
+
+Intangibles 
+
+8,551
+
+- 
+
+8,551
+
+- 
+
+- 
+
+- 
+
+Total discontinued assets 
+
+262,495
+
+76
+
+262,571
+
+3,231
+
+96 
+
+3,327
+
+Accts Payable Accrued Expenses 
+
+180,183 
+
+903
+
+181,086
+
+16,171
+
+904
+
+17,075
+
+Notes Payable 
+
+452,790
+
+452,790
+
+452,790
+
+- 
+
+452,790
+
+Related party payable 
+
+917,555
+
+134,833 
+
+1,052,388 
+
+1,265,460 
+
+166,952 
+
+1,432,412 
+
+Total
+ discontinued liabilities 
+
+1,550,528 
+
+135,736 
+
+1,686,264 
+
+1,734,421 
+
+167,856 
+
+1,902,277 
+
+-26- 
+
+JV GROUP, INC. AND SUBSIDIARIES 
+ 
+ Notes to the Consolidated Financial Statements 
+ 
+ (Amounts in USD) 
+ 
+ (Audited) 
+
+ NOTE 3 - SIGNIFICANT
+ACCOUNTING POLICIES 
+
+Use of Estimates 
+
+The preparation of the
+financial statements in conformity with accounting principles generally
+accepted in the United States of America requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting periods. Actual results could differ from those estimates. 
+
+Judgments and estimates of
+uncertainties are required in applying the Company's accounting policies in
+certain areas. The following are some of the areas requiring significant
+judgments and estimates: a) Going concern; and b) Depreciable life for
+property, plant and equipment and intangible assets. The relevant amounts could
+be adjusted in the near term if experience differs from current estimates. 
+
+Cash and Cash Equivalents 
+
+The Company considers all
+liquid investments purchased with an initial maturity of three months or less
+to be cash equivalents. Cash and cash equivalents include demand deposits and
+money market funds carried at cost which approximates fair value. The Company
+maintains its cash in institutions outside of the U.S. without FDIC insurance. 
+HK deposits may have some limited HK deposit insurance. The Company carries
+minimal cash balances. 
+
+Foreign Currency
+Translation 
+
+ The financial statements of JV
+Group's wholly-owned subsidiaries, Prestige and Mega are measured using the
+local currency (the Hong Kong Dollar (HK is the functional currency). Assets
+and liabilities of Prestige and Mega are translated at exchange rates as of the
+balance sheet date. Revenues and expenses are translated at average rates of
+exchange in effect during the period. The resulting cumulative translation
+adjustments have been recorded as a component of comprehensive income (loss),
+included as a separate item in the statement of operations. 
+
+ The Company is exposed to
+movements in foreign currency exchange rates. In addition, the Company is
+subject to risks including adverse developments in the foreign political and
+economic environment, trade barriers, managing foreign operations, and
+potentially adverse tax consequences. There can be no assurance that any of
+these factors will not have a material negative impact on the Company's
+financial condition or results of operations in the future. 
+
+Fair Value of Financial Instruments 
+
+Fair value is defined as the
+price that would be received upon sale of an asset or paid upon transfer of a
+liability in an orderly transaction between market participants at the
+measurement date and in the principal or most advantageous market for that
+asset or liability. The fair value should be calculated based on assumptions
+that market participants would use in pricing the asset or liability, not on
+assumptions specific to the entity. In addition, the fair value of liabilities
+should include consideration of non-performance risk including our own credit
+risk. 
+
+ In addition to defining
+fair value, the standard expands the disclosure requirements around fair value
+and establishes a fair value hierarchy for valuation inputs. The hierarchy
+prioritizes the inputs into three levels based on the extent to which inputs
+used in measuring fair value are observable in the market. Each fair value
+measurement is reported in one of the three 
+
+ -27- 
+
+JV GROUP, INC. AND SUBSIDIARIES 
+ 
+ Notes to the Consolidated Financial Statements 
+ 
+ (Amounts in USD) 
+ 
+ (Audited) 
+
+levels which are
+determined by the lowest level input that is significant to the fair value
+measurement in its entirety. These levels are: 
+
+Level
+1 - inputs are based upon unadjusted quoted prices for identical instruments
+traded in active markets. 
+
+Level
+2 - inputs are based upon significant observable inputs other than quoted
+prices included in Level 1, such as quoted prices for identical or similar
+instruments in markets that are not active, and model-based valuation
+techniques for which all significant assumptions are observable in the market
+or can be corroborated by observable market data for substantially the full
+term of the assets or liabilities. 
+
+Level
+3 - inputs are generally unobservable and typically reflect management's
+estimates of assumptions that market participants would use in pricing the
+asset or liability. The fair values are therefore determined using model-based
+techniques that include option pricing models, discounted cash flow models, and
+similar techniques. 
+
+The carrying value of the
+Company's financial assets and liabilities which consist of cash, prepaid
+expenses and other current assets, accounts payable, accrued liabilities,
+prepayments and advances from related parties in management's opinion
+approximate their fair value due to the short maturity of such instruments.
+These financial assets and liabilities are valued using Level 3 inputs, except
+for cash which is at Level 1. Unless otherwise noted, it is management's
+opinion that the Company is not exposed to significant interest, exchange, or
+credit risks arising from these financial instruments. 
+
+ Property and Equipment 
+
+Property and equipment are
+stated at cost less accumulated depreciation. Depreciation is computed
+principally on the straight-line method over the estimated useful life of each
+type of asset which ranges from three to five years. Major improvements are
+capitalized, while expenditures for repairs and maintenance are expensed when
+incurred. Upon retirement or disposition, the related costs and accumulated
+depreciation are removed from the accounts, and any resulting gains or losses
+are credited or charged to income. 
+
+ Revenue Recognition 
+
+The Company recognizes
+revenue when it is earned and expenses are recognized when they occur in accordance with FASB
+ASC 605 Revenue Recognition ASC 605 . Since the Company has no ongoing operations
+there is no revenue to be recognized either in the parent Company or its
+subsidiaries. 
+
+Advertising The Company does no active advertising. 
+
+Net Loss per
+Common Share 
+
+Net income
+(loss) per common share is computed pursuant to section 2660-10-45 of the FASB
+Accounting Standards Codification. Basic net income (loss) per common share is
+computed by dividing net income (loss) by the weighted average number of shares
+of common stock outstanding during the period. Diluted net income (loss) per
+common share is computed by 
+
+ -28- 
+
+JV GROUP, INC. AND SUBSIDIARIES 
+ 
+ Notes to the Consolidated Financial Statements 
+ 
+ (Amounts in USD) 
+ 
+ (Audited) 
+
+dividing net income (loss) by the weighted
+average number of shares of common stock and potentially outstanding shares of
+common stock during the period. There were no potentially dilutive shares issued
+or outstanding during the years ended June 30, 2015 and June 30, 2014. 
+
+Impairment
+of Long Lived Assets 
+
+The Company has adopted paragraph
+360-10-35-17 of the FASB Accounting Standards Codification for its long-lived
+assets. The Company's long-lived assets, which include office equipment, are
+reviewed for impairment whenever events or changes in circumstances indicate
+that the carrying amount of an asset may not be recoverable. 
+
+The Company assesses the recoverability of
+its long-lived assets by comparing the projected undiscounted net cash flows
+associated with the related long-lived asset or group of long-lived assets over
+their remaining estimated useful lives against their respective carrying
+amounts. Impairment, if any, is based on the excess of the carrying amount over
+the fair value of those assets. Fair value is generally determined using the
+asset's expected future discounted cash flows or market value, if readily
+determinable. If long-lived assets are determined to be recoverable, but the
+newly determined remaining estimated useful lives are shorter than originally
+estimated, the net book values of the long-lived assets are depreciated over
+the newly determined remaining estimated useful lives. 
+
+The Company considers the following to be
+some examples of important indicators that may trigger an impairment review:
+(i) significant under-performance or losses of assets relative to expected
+historical or projected future operating results; (ii) significant changes in
+the manner or use of assets or in the Company's overall business strategy;
+(iii) significant negative industry or economic trends; (iv) increased
+competitive pressures; (v) a significant decline in the Company's stock price
+for a sustained period of time; and (vi) regulatory changes. The Company
+evaluates acquired assets for potential impairment indicators at least annually
+and more frequently upon the occurrence of such events. 
+
+The impairment charges, if any, are
+included in operating expense in the accompanying statements of income and
+comprehensive income (loss). 
+
+Stock-Based Compensation 
+
+ The Company accounts for
+stock-based compensation using an estimate of value on the grant date in
+accordance with the fair value method. Under the fair value recognition
+provisions of this statement, stock-based compensation cost is measured at the
+grant date based on the fair value of the award and is recognized as expense on
+a straight-line basis over the requisite service period, which generally is the
+vesting period. The Company elected the modified-prospective method, under
+which prior periods are not revised for comparative purposes. The valuation
+method applies to new grants and to grants that were outstanding as of the
+effective date and are subsequently modified. 
+
+ Other
+Comprehensive Income (Loss) 
+
+The Company has no elements of
+Comprehensive Income or (Loss).
+ 
+ -29- 
+
+JV GROUP, INC. AND SUBSIDIARIES 
+ 
+ Notes to the Consolidated Financial Statements 
+ 
+ (Amounts in USD) 
+ 
+ (Audited) 
+
+Income
+Taxes 
+
+Provisions for income taxes
+represents actual or estimated amounts payable on tax return filings each year.
+Deferred tax assets and liabilities are recorded for the estimated future tax
+effects of temporary differences between the tax basis of assets and
+liabilities and amounts reported in the accompanying balance sheets, and for
+operating loss and tax credit carry forwards. The change in deferred tax assets
+and liabilities for the period measures the deferred tax provision or benefit
+for the period. Effects of changes in enacted tax laws on deferred tax assets
+and liabilities are reflected as adjustments to the tax provision or benefit in
+the period of enactment. 
+
+FASB ASC 740, Income Taxes ASC 740 addresses the determination of whether tax benefits claimed or
+expected to be claimed on a tax return should be recorded in the financial
+statements. Under ASC 740, the Company may recognize the tax benefit from an
+uncertain tax position only if it is more likely than not that the tax position
+will be sustained on examination by the taxing authorities, based on the
+technical merits of the position. The tax benefits recognized in the financial
+statements from such a position would be measured based on the largest benefit
+that has a greater than 50 likelihood of being realized upon ultimate
+settlement. ASC 740 also provides guidance on de-recognition of income tax
+assets and liabilities, classification of current and deferred tax assets and
+liabilities, and accounting for interest and penalties associated with tax
+positions. As of June 30, 2015 and 2014, the Company does not have a liability
+for any uncertain tax positions. 
+
+The income tax laws of
+various jurisdictions in which the Company operates are summarized as follows: 
+
+United States 
+
+JV
+Group is subject to United States tax at 35 . No provision for income tax in
+the United States has been made as the Company had no U.S. taxable income for
+the years ended June 30, 2015 and 2014. 
+
+BVI 
+
+Mega
+is incorporated in BVI and is governed by the income tax laws of BVI. According
+to current BVI income tax law, the applicable income tax rate for the Company
+is 0 . 
+
+Hong
+Kong 
+
+Prestige
+is incorporated in Hong Kong. Pursuant to the income tax laws of Hong Kong, the
+Company is subject to the tax rate 16.5 . However, due to the Company
+sustaining losses, the Company's effective tax rate is zero. 
+
+Upon
+successful divestiture of the subsidiaries Management is of the opinion that
+there will be no remaining tax liability or benefit from either subsidiary. 
+
+Recent Accounting
+Pronouncements 
+
+ There were various other
+accounting standards and interpretations issued in 2015 and 2014, none of which
+are expected to have a material impact on the Company's financial position,
+operations, or cash flows.
+ 
+ -30- 
+
+JV GROUP, INC. AND SUBSIDIARIES 
+ 
+ Notes to the Consolidated Financial Statements 
+ 
+ (Amounts in USD) 
+ 
+ (Audited) 
+
+NOTE 4 - GOING CONCERN 
+
+The Company's financial
+statements for the years ended June 30, 2015 and 2014 have been prepared on a
+going concern basis, which contemplates the realization of assets and the
+settlement of liabilities and commitments in the normal course of business. The
+Company reported a loss from continuing operations of 84,148 for the year
+ended June 30, 2015. The Company reported a net loss due to discontinued
+operations of 444,267 and an accumulated deficit of 3,096,380 for the same
+period. At June 30, 2015, the Company had total assets of 3,522 and total liabilities
+of 2,105,425 for a working capital deficit of 2,101,903. Out of these,
+current assets held for sale were 3,327 and the current liabilities held for
+sale were 1,902,277. 
+
+ The Company's ability to
+continue as a going concern may be dependent on the success of management's
+plan discussed below. The financial statements do not include any adjustments
+relating to the recoverability and classification of assets or the amounts and
+classification of liabilities that might be necessary should the Company be
+unable to continue as a going concern. 
+
+To the extent the
+Company's operations are not sufficient to fund the Company's capital
+requirements, the Company may attempt to enter into a revolving loan agreement
+with financial institutions or attempt to raise capital through the sale of
+additional capital stock or through the issuance of debt. At the present time,
+the Company does not have a revolving loan agreement with any financial
+institution nor can the Company provide any assurance that it will be able to
+enter into any such agreement in the future or be able to raise funds through
+the further issuance of debt or equity in the Company. 
+
+ As of June 30, 2015 the
+Company has effectively ceased all of its operations which has resulted in the
+Company being classified as a shell corporation.0The Company is investigating
+other opportunities that may have plausible viable ability to promote future
+business for the Company. There are no assurances whatsoever that any of these
+opportunities will prove to have merit. 
+
+ NOTE 5 - PROPERTY AND
+EQUIPMENT 
+
+This footnote relates solely
+to the discontinued operations. 
+
+At June 30, 2015 and June 30,
+2014, Property and Equipment consisted of: 
+
+June 30, 
+ 
+ 2015 
+
+June 30, 
+ 
+ 2014 
+
+Furniture and Fixtures 
+
+0 
+
+598,782 
+
+Office Equipment 
+
+0 
+
+138,410 
+
+Computer Equipment 
+
+0 
+
+24,701 
+
+0 
+
+761,894 
+
+Accumulated Depreciation 
+
+0 
+
+(571,371) 
+
+Total 
+
+0 
+
+190,523 
+
+Property and equipment
+held by Prestige have an original cost basis valued in Hong Kong Dollars. During
+the year ended June 30, 2015, furniture and fixture values decreased by 268,320
+and related accumulated depreciation was reduced by 156,692 due to the
+disposition of furniture and fixtures that were surrendered in relation to the
+non-renewal of the lease on 10/F and disposal of office equipment. The
+difference of 111,628 is accounted for as a loss on disposal of assets on the
+income statement. Due to the cessation of operations management concluded the
+necessity of showing impairment on the value of the remaining assets. To
+accomplish this impairment the value of Furniture and Fixtures has been reduced 
+
+ -31- 
+
+JV GROUP, INC. AND SUBSIDIARIES 
+ 
+ Notes to the Consolidated Financial Statements 
+ 
+ (Amounts in USD) 
+ 
+ (Audited) 
+
+by 330,463 and Office
+and Computer Equipment has been reduced by 160,015. The related depreciation
+accounts have been reduced by 461,609. The loss on this impairment of 28,868
+has been reported on the income statement as an Impairment loss. Other changes
+in value are a result of foreign currency exchange differences. During the years
+ended June 30, 2015 and 2014 depreciation expense was 50,026 and 138,170. 
+
+ NOTE 6 - ADVANCES, RELATED
+PARTIES 
+
+During the year ended June
+30, 2015 and, 2014, Ms. Look, an officer and director of the Company and
+manager of Mega, advanced additional funds of 15,816 and 27,950 respectively
+to the Company. She is owed 49,637 and 33,821 as of June 30, 2015 and June
+30, 2014, respectively. Such funds are unsecured, bear no interest, and are due
+on demand. 
+
+During the year ended June
+30, 2015 and 2014 Mega, a BVI company which Ms. Look manages, advanced 30,465
+and 9,755 respectively. The Company owed Mega 161,760 and 130,995 at the
+respective year ends. 
+
+On October 1, 2011 the
+Company issued 25,000,000 shares of its common stock valued at 250,000 to Huge
+Earnings Inc. This stock issuance was done on behalf of Prestige and is carried
+on the books as loan to Prestige. This amount is netted against the liabilities
+to Ms. Look and Mega. 
+
+NOTE 7 - STOCKHOLDERS' DEFICIT 
+
+The authorized capital stock
+of the Company is 1,000,000,000 shares of common stock with a 0.01 par value
+and 25,000,000 shares of preferred stock with a par value of 0.01 per share.
+At June 30, 2015 and 2014, the Company had 98,879,655 shares of its common
+stock issued and outstanding and no shares of preferred stock issued and
+outstanding. 
+
+During the years ended June
+30, 2015 and June 30, 2014, the Company did not issue any shares of its common
+stock. 
+
+NOTE 8 - TAXES 
+
+Deferred income taxes are determined using
+the liability method for the temporary differences between the financial
+reporting basis and income tax basis of the Company's assets and liabilities.
+Deferred income taxes are measured based on the tax rates expected to be in
+effect when the temporary differences are included in the Company's tax return.
+Deferred tax assets and liabilities are recognized based on anticipated future
+tax consequences attributable to differences between financial statement
+carrying amounts of assets and liabilities and their respective tax bases. 
+
+The Company is subject to US
+and foreign income taxes. Historically, the Company has had no net taxable income,
+and therefore has paid no income tax. 
+
+As of June 30, 2015 and 2014,
+the Company had a net operating loss (NOL) carryforward of approximately
+ 416,814 and 332,666 related to the Company's continuing entity JV Group, Inc.
+The NOL carryforward begins to expire in various years through 2030. Because
+management is unable to determine that it is more likely than not that the
+Company will realize the tax benefit related to the NOL carryforward, by having
+future taxable income, a full valuation allowance has been established at June
+30, 2015 to reduce the tax benefit asset value to zero. 
+ -32- 
+
+JV GROUP, INC. AND SUBSIDIARIES 
+ 
+ Notes to the Consolidated Financial Statements 
+ 
+ (Amounts in USD) 
+ 
+ (Audited) 
+
+Components of net deferred tax assets, including a valuation allowance, are as
+follows at June 30th: 
+
+2015 
+
+2014 
+
+Deferred tax assets: 
+
+Federal deferred tax
+ assets 
+
+145,885 
+
+116,433 
+
+Valuation allowance 
+
+(145,885) 
+
+(116,433) 
+
+Total deferred tax
+ assets 
+
+- 
+
+- 
+
+The valuation allowance for
+deferred tax assets as of June 30, 2015 and 2014 was 145,885 and 116,433,
+respectively. In assessing the recovery of the deferred tax assets, management
+considers whether it is more likely than not that some or all of the deferred
+tax assets will not be realized. The ultimate realization of deferred tax
+assets is dependent upon the generation of future taxable income in the periods
+in which those temporary differences become deductible. Management considers
+the scheduled reversals of future deferred tax liabilities, projected future
+taxable income, and tax planning strategies in making this assessment. As a
+result, management determined it was more likely than not the deferred tax
+assets would not be realized as of June 30, 2015 and 2014, and recorded a full
+valuation allowance. 
+
+Corporate tax returns for the
+United States for the years 2011 and forward remain open for examination by the
+Internal Revenue Service. 
+
+NOTE 9 - SUBSEQUENT EVENTS 
+
+The Company has evaluated it
+activities subsequent to the year ended June 30, 2015 through October 27, 2015
+and has determined that it is in the Company's best interests to terminate its
+operations. With this decision the rental agreement was renewed only through
+November 2015. 
+
+The Company is currently
+evaluating possibilities for new ventures or possibly merging with another
+company however nothing definitive is in process. 
+
+ -33- 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+On July 23, 2015, De Joya
+Griffith, LLC notified the Company that one or more of its principals joined
+the accounting firm of RBSM, LLP. As a result of the transaction, on July 28,
+2015, De Joya resigned as the Company's independent registered public
+accounting firm and the Company engaged RBSM, LLP as the Company's independent
+registered public accounting firm. The engagement of RBSM was approved by the
+Company's Board of Directors. 
+
+ITEM 9A. CONTROLS AND PROCEDURES 
+
+ EVALUATION OF DISCLOSURE CONTROLS AND PROCEDURES 
+ We maintain a system of disclosure controls and procedures (as defined in Securities Exchange Act Rules 13a-15(e) and 15d-15(e)) that is designed to provide reasonable assurance that information that is required to be disclosed is accumulated and communicated to management timely. 
+
+As required by SEC Rule
+15d-15(b), our Chief Executive Officer and our Chief Financial Officer carried
+out an evaluation under the supervision and with the participation of our
+management, of the effectiveness of the design and operation of our disclosure
+controls and procedures pursuant to Exchange Act Rule 15d-14 as of the end of
+the period covered by this report. 
+
+ Based on that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures are not effective in timely alerting them to material information required to be disclosed in the our periodic filings with the SEC. The determination the disclosure controls and procedures are note effective, was based upon the factors disclosed below that have lead management to determine that its internal control over financial reporting are not effective. 
+
+Management's Annual Report On Internal Control Over
+Financial Reporting 
+
+Our management, including the Chief
+Executive Officer and Chief Financial Officer is responsible for establishing
+and maintaining adequate internal control over financial reporting. Internal
+control over financial reporting, as defined in Exchange Act Rule 13a-15(f), is
+a process designed by, or under the supervision of, our principal executive and
+principal financial officers and effected by our Board of Directors, management
+and other personnel, to provide reasonable assurance regarding the reliability
+of financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles and
+includes those policies and procedures that: 
+
+Pertain to the maintenance of records that in
+ reasonable detail accurately and fairly reflect the transactions and
+ dispositions of our assets; 
+
+Provide reasonable assurance that transactions are
+ recorded as necessary to permit preparation of financial statements in
+ accordance with generally accepted accounting principles, and that our
+ receipts and expenditures are being made only in accordance with
+ authorizations of our management and directors; and 
+
+Provide reasonable assurance regarding prevention or
+ timely detection of unauthorized acquisition, use of disposition of our
+ assets that could have a material effect on the financial statements. 
+
+Because of its inherent limitations,
+internal control over financial reporting may not prevent or detect
+misstatements. Projections of any evaluation of effectiveness to future periods
+are subject to the risk that controls may become inadequate because of changes
+in conditions, or that the degree of compliance with the policies or procedures
+may deteriorate. All internal 
+
+-34- 
+
+control systems, no matter how well
+designed, have inherent limitations. Therefore, even those systems determined to
+be effective can provide only reasonable assurance with respect to financial
+statement preparation and presentation. 
+
+Our management assessed the effectiveness
+of our internal control over financial reporting as of June 30, 2015. Based on
+this assessment, management believes that as of June 30, 2015, our internal
+control over financial reporting is not effective based on those criteria.
+
+Specifically, management's
+evaluation identified the following material weaknesses, which existed as of
+June 30, 2015: 
+
+(1) Financial Reporting Systems: We did not maintain a
+fully integrated financial consolidation and reporting system throughout the
+period and as a result, extensive manual analysis, reconciliation and
+adjustments were required in order to produce financial statements for external
+reporting purposes. 
+
+(2) Segregation of Duties: We do not currently have a
+sufficient complement of technical accounting and external reporting personal
+commensurate to support standalone external financial reporting under public
+company or SEC requirements. Specifically, the Company did not effectively
+segregate certain accounting duties due to the small size of its accounting
+staff, and maintain a sufficient number of adequately trained personnel
+necessary to anticipate and identify risks critical to financial reporting and
+the closing process. In addition, there were inadequate reviews and approvals
+by the Company's personnel of certain reconciliations and other processes in
+day-to-day operations due to the lack of a full complement of accounting staff.
+
+We believe that our
+weaknesses in internal control over financial reporting and our disclosure
+controls relate in part to the fact that we are a small reporting business with
+limited personnel. Management and the Board of Directors believe that the
+Company would need to allocate additional human and financial resources to
+address these matters, which at this time the Company does not have the
+financial capability to remediate. Management can give no assurances that it
+will ever be able to remediate such material weaknesses. 
+
+This annual report does not include an
+attestation report of the Company's registered public accounting firm regarding
+internal control over financial reporting. Management's report was not subject
+to attestation by the Company's registered public accounting firm pursuant to
+temporary rules of the SEC to provide only management's report in this annual
+report. 
+
+Changes in Internal Control Over Financial
+Reporting 
+
+During our most recent fiscal quarter,
+there has been no change in our internal control over financial reporting (as
+defined in Rule 13a-15(f) or 15d-15(f) under the Securities Exchange Act) that
+has materially affected, or is reasonably likely to materially affect, our
+internal control over financial reporting. 
+
+ITEM 9B. OTHER INFORMATION 
+
+None.
+
+-35- 
+
+PART
+III 
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+
+DIRECTORS
+AND EXECUTIVE OFFICERS 
+
+As
+of June 30, 2015, our directors and officers were: 
+
+NAME 
+
+AGE 
+
+POSITION 
+
+Yuen Ling Look 
+
+48 
+
+President, Chief Executive Officer, Chief
+ Financial Officer and Director 
+
+Siu Fong Kelly Yeung 
+
+46 
+
+Director 
+
+Siu Lun Tong 
+
+53 
+
+Director 
+
+YUEN LING LOOK 
+
+Ms. Look was appointed the Chief
+Executive Officer, President, Chief Financial Officer and director of the
+Company on November 9, 2009. Ms. Look is also a manager of both Mega and
+Prestige. 
+
+Ms. Look has been employed by
+La Jacques Fashion Limited for over ten years. Currently, she is the Chief
+Administrator, responsible for the accounting and administrative work. La
+Jacques Fashion Limited is a garment trading company. 
+
+She was educated in Hong Kong
+and earned a diploma in Business Administration in 1991 from Hong Kong Shue Yan University
+(formerly called Shue Yan College). She also completed the Certificate Stage of
+Association of Chartered Certified Accountants in 1999. 
+
+Ms. Look was appointed to the
+Board of Directors not only for her business management experience, but also
+due to her accounting background. 
+
+SIU FONG KELLY YEUNG 
+
+Ms. Yeung was appointed a
+director of the Company on November 9, 2009. 
+
+Ms. Yeung graduated from the
+Primary school in Hong Kong. She then went to United
+ Kingdom for further studies. In 1988,
+she finished at Level O. After graduation, she immediately joined and
+participated in the operations of restaurants. She has almost twenty years
+experience in the beverage industry. She has been running her own restaurant
+for over ten years. 
+
+Ms. Yeung brings to the Board
+of Directors both her business experience, but also her experience and skills
+in business management. 
+
+SIU LUN TONG 
+
+Mr. Tong was appointed a
+director of the Company on November 9, 2009. 
+
+Mr. Tong has been employed by
+Asian Alliance Garment Limited for more than 15 years. Currently, he is the
+production manager of Asian Alliance Garment Limited. At Asian Alliance Garment
+Limited, he specializes in management and control of factories and quality.
+Sportswear and jeans are the main lines of the company's business. 
+ -36- 
+
+Mr. Tong brings to the Board
+of Directors both his business experience, but also his experience and skills
+in business management. 
+
+ COMMITTEES OF THE BOARD OF DIRECTORS 
+
+In
+the ordinary course of business, the board of directors maintains a
+compensation committee and an audit committee. At this time, the Company's
+board of directors as a whole serves as its compensation committee and audit
+committee. The Company's board of directors has determined that none of the
+directors sitting on the audit committee qualify as a financial expert. 
+
+The
+primary function of the compensation committee is to review and make
+recommendations to the board of directors with respect to the compensation, including
+bonuses, of our officers. 
+
+The
+functions of the audit committee are to review the scope of the audit
+procedures employed by our independent auditors, to review with the independent
+auditors our accounting practices and policies and recommend to whom reports
+should be submitted, to review with the independent auditors their final audit
+reports, to review with our internal and independent auditors our overall
+accounting and financial controls, to be available to the independent auditors
+during the year for consultation, to approve the audit fee charged by the
+independent auditors, to report to the board of directors with respect to such
+matters, and to recommend the selection of the independent auditors. 
+
+ In the absence of a separate audit committee our Board of Directors functions as the audit committee and performs some of the same functions of an audit committee, such as recommending a firm of independent certified public accountants to audit the annual financial statements; reviewing the independent auditors independence, the financial statements and their audit report; and reviewing management's administration of the system of internal accounting controls. 
+ CONFLICTS OF INTEREST - GENERAL . 
+ Our directors and officers are, or may become, in their individual capacities, officers, directors, controlling shareholder and/or partners of other entities engaged in a variety of businesses. Thus, there exist potential conflicts of interest including, among other things, time, efforts, and corporate opportunity involved in participation with such other business entities. While each officer and director of our business is engaged in business activities outside of our business, they devote to our business such time as they believe to be necessary. CONFLICTS OF INTEREST - CORPORATE OPPORTUNITIES 
+
+ Presently no requirement
+contained in our Articles of Incorporation, Bylaws, or minutes which requires
+officers and directors of our business to disclose to us business opportunities
+which come to their attention. Our officers and directors do, however, have a
+fiduciary duty of loyalty to us to disclose to us any business opportunities
+which come to their attention, in their capacity as an officer and/or director
+or otherwise. Excluded from this duty would be opportunities which the person
+learns about through his involvement as an officer and director of another
+company. We have no intention of merging with or acquiring an affiliate,
+associate person or business opportunity from any affiliate or any client of
+any such person. 
+ -37- 
+
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING
+COMPLIANCE 
+
+Section 16(a) of the
+Securities Exchange Act requires our Officers and Directors, and persons who
+own more than 10 of a registered class of our equity securities, to file
+reports of ownership and changes in ownership with the SEC. Officers, directors,
+and greater than 10 shareholders are required by SEC regulation to furnish us
+with copies of all Section 16(a) forms they file. Based solely on our review of
+copies of such reports received, and representations from certain reporting
+persons, we believe that, during the fiscal year ended June 30, 2015, all
+Section 16(a) filing requirements applicable to our officers, directors and
+greater than 10 beneficial owners had not been filed in compliance with all
+applicable requirements. Further the Company is aware that greater than 10 
+beneficial owners Top Growth Holdings Group, Inc., Mr. Yeung Cheuk Hung and Mr.
+Po Shu Michael Choy had also not complied with the
+Section 16(a) filing requirements. 
+
+CODE OF ETHICS 
+
+Due to the limited scope of our current operations, we have not adopted a corporate code of ethics that applies to our principal executive officer, principal accounting officer, or persons performing similar function. ITEM 11. EXECUTIVE COMPENSATION 
+
+The following table sets
+forth certain information concerning compensation paid by the Company to its
+sole officer for the fiscal years ended June 30, 2015, 2014 and 2013 (the
+ Named Executive Officers ): 
+
+SUMMARY COMPENSATION TABLE 
+
+Name Position 
+
+Year 
+
+Salary 
+ 
+ ) 
+
+Bonus 
+ 
+ ) 
+
+Stock awards 
+ 
+ ) 
+
+Option awards 
+ 
+ ) 
+
+Non-equity incentive plan compensation 
+ 
+ ) 
+
+Non-qualified deferred compensation earnings 
+ 
+ ) 
+
+All other compensation 
+ 
+ ) 
+
+Total 
+ 
+ ) 
+
+Yuen Ling Look 
+
+2015 
+ 
+ 2014 
+ 
+ 2013 
+
+-0- 
+ 
+ -0- 
+ 
+ -0- 
+
+-0- 
+ 
+ -0- 
+ 
+ -0- 
+
+-0- 
+ 
+ -0- 
+ 
+ -0- 
+
+-0- 
+ 
+ -0- 
+ 
+ -0- 
+
+-0- 
+ 
+ -0- 
+ 
+ -0- 
+
+-0- 
+ 
+ -0- 
+ 
+ -0- 
+
+-0- 
+ 
+ -0- 
+ 
+ -0- 
+
+-0- 
+ 
+ -0- 
+ 
+ -0- 
+
+Ms. Look does not have a
+compensation agreement with the Company at this time. 
+
+EMPLOYMENT AND CONSULTING AGREEMENTS
+
+There
+were no employment contracts or consulting agreements with our directors or officers
+during the fiscal year ended June 30, 2015. 
+
+-38- 
+
+DIRECTOR COMPENSATION 
+
+The following table sets
+forth certain information concerning compensation paid to the Company's
+directors during the years ended June 30, 2015 and 2014: 
+
+Name 
+
+Year 
+
+Fees earned or paid
+ in cash 
+ 
+ ) 
+
+Stock awards ) 
+
+Option awards ) 
+
+Non-equity
+ incentive plan compensation ) 
+
+Nonqualified
+ deferred compensation earnings 
+ 
+ ) 
+
+All other
+ compensation ) 
+
+Total 
+ 
+ ) 
+
+Yuen Ling Look 
+
+2015 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+2014 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+Siu Fong Kelly Yeung 
+
+2015 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+2014 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+Siu Lun Tong 
+
+2015 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+2014 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+ITEM 12. SECURITY
+OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED SHAREHOLDER
+MATTERS 
+
+The
+following tables set forth certain information regarding beneficial ownership
+of our common stock, as of June 30, 2015, by: 
+
+each person who is known by JV
+Group to own beneficially more than 5 of the Company's outstanding common
+stock, 
+
+each of the Company's named
+executive officers and directors, and 
+
+all executive officers and
+directors as a group. 
+
+Shares
+of common stock not outstanding but deemed beneficially owned by virtue of the
+right of an individual to acquire the shares of common stock within 60 days are
+treated as outstanding only when determining the amount and percentage of
+common stock owned by such individual. Except as noted below the table, each
+person has sole voting and investment power with respect to the shares of common
+stock shown. 
+
+ -39- 
+
+NAME
+ AND ADDRESS OF BENEFICIAL OWNER (1) 
+
+NUMBER
+ OF 
+ SHARES 
+
+PERCENT
+ OF 
+ OUTSTANDING(4) 
+
+Yuen Ling Look (2) 
+ 
+ President and Director 
+
+13,108,000 
+
+13.25 
+
+Top Growth Holdings Group, Inc. (2) 
+
+13,108,000 
+
+13.25 
+
+Siu Fong Kelly Yeung 
+ 
+ Director 
+
+0 
+
+0 
+
+Siu Lun Tong 
+ 
+ Director 
+
+0 
+
+0 
+
+Yeung Cheuk Hung (3) 
+
+60,000,000 
+
+60.67 
+
+Po Shu Michael Choy 
+
+25,000,000 
+
+25.28 
+
+All executive officers and directors
+ as a group, 3 people. 
+
+13,108,000 
+
+13.25 
+
+(1) 
+The above officers and directors'
+address is c/o JV Group, Inc. 7609 Ralston Road, Arvada, Colorado, 80002. 
+
+ (2) 
+Ms. Look is the beneficial owner
+of Top Growth Holdings Group, Inc., which holds 13,108,000 shares of the
+Company's common stock. 
+
+ (3) 
+Mr. Hung is a manager of Prestige,
+the Company's wholly-owned subsidiary. 
+
+ (4) 
+Based on 98,879,655 shares of the
+Company's common stock issued and outstanding at June 30, 2015. 
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED
+TRANSACTIONS AND DIRECTOR INDEPENDENCE 
+
+During the years ended June
+30, 2015 and 2014, Mr. Yeung Cheuk Hung, the manager of Prestige and the
+majority shareholder of the Company, has advanced funds of 347,904 and 90,171,
+respectively, to support the operations of Prestige. During the year ended June
+30, 2015, the Company paid Mr. Hung, 0 on the funds owed. The Company owes
+him 1,265,461 and 917,556 as of June 30, 2015 and 2014, respectively. Such
+funds are unsecured, bear no interest, and are due on demand. 
+
+During the years ended June
+30, 2015 and 2014, Ms. Look, an officer and director of the Company and the
+manager of Mega, advanced funds of 47,935 and 37,831, respectively to Mega to
+support operations. Ms. Look is owed 216,589 and 168,653 as of June 30, 2015
+and 2014, respectively. Such funds are unsecured, bear no interest, and are due
+on demand. 
+
+ During the years ended June
+30, 2015 and 2014, Top Growth Holdings Group, Inc., an affiliate and entity of
+which Ms. Look, an officer and director of the Company, advanced 0 and 0,
+respectively to the Company. At
+June 30, 2015, Top Growth Holdings Group, Inc. is owed 0. 
+
+ On September 8, 2011,
+Prestige entered into an Agreement with Huge Earn Investments Limited Huge
+Earn to purchase certain leaseholds in exchange for 25,000,000 of shares of
+the Company's restricted common stock and a 450,000 promissory note with
+anticipated due date of six months from issuance. At the direction of Huge
+Earn, the promissory note and the
+ 
+ -40- 
+
+shares were issued to Po Shu Michael Choy,
+making him an affiliate of the Company. The promissory note was due on March
+1, 2012, but Mr. Choy has deferred any default call, due to his position as a
+significant shareholder. At the time of this filing, the promissory note is
+still outstanding. The promissory note does not accrue interest. 
+
+ Director Independence 
+
+Our board of directors
+undertook its annual review of the independence of the directors and considered
+whether any director had a material relationship with us or our management that
+could compromise his ability to exercise independent judgment in carrying out
+his responsibilities. As a result of this review, the board of directors
+affirmatively determined that Ms. Yeung and Mr. Tong are each independent as
+such term is used under the rules and regulations of the Securities and Exchange
+Commission. Ms. Ling, as Chief Executive Officer and Chief Financial Officer of
+the Company, is not considered to be independent. 
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND
+SERVICES 
+
+ GENERAL. RBSM, LLC RBSM is the Company's independent registered public accounting firm. The Company's
+Board of Directors has considered whether the provisions of audit services are
+compatible with maintaining RBSM's independence. The engagement of our
+independent registered public accounting firm was approved by our board of
+directors functioning as our audit committee prior to the start of the audit of
+our consolidated financial statements for the year ended June 30, 2015. 
+
+The following table
+represents aggregate fees billed to the Company for the years ended June 30, 2015
+and 2014. 
+
+Year Ended June 30, 
+
+2015 
+
+2014 
+
+Audit Fees 
+
+38,188 
+
+27,250 
+
+Audit-related Fees
+
+0 
+
+0 
+
+Tax Fees 
+
+0 
+
+0 
+
+All Other Fees 
+
+0 
+
+0 
+
+Total Fees 
+
+38,188 
+
+27,250 
+
+All audit work was performed
+by the auditors' full time employees. 
+ -41- 
+
+PART
+IV 
+
+ ITEM 15. EXHIBITS AND FINANCIAL STATEMENTS 
+
+The following is a complete list of exhibits filed as part of this
+Form 10 K. Exhibit numbers correspond to the numbers in the Exhibit
+Table of Item 601 of Regulation S K. 
+
+EXHIBIT 
+ 
+ NUMBER 
+
+DESCRIPTION 
+
+2.1 
+
+Agreement and Plan of Merger and Reorganization Into
+ Holding Company 
+
+2.2 
+
+Acquisition Agreement By and Among ASPI, Inc. and
+ Prestige Prime Office, Ltd. and Its Shareholders 
+
+10.1 
+
+Agreement
+ by and between Prestige Prime Office, Ltd. and Huge Earn Investments Limited,
+ dated September 8, 2011 
+
+21.1 
+
+Subsidiaries
+ of the Registrant 
+
+31.1 
+
+Certification
+ of Chief Executive and Chief Financial Officer pursuant to Section 302 of the
+ Sarbanes-Oxley Act 
+
+32.1 
+
+Certification
+ of Principal Executive and Financial Officer pursuant to Section 906 of the
+ Sarbanes-Oxley Act 
+
+101.INS 
+
+XBRL
+ Instance Document (1) 
+
+101.SCH 
+
+XBRL
+ Taxonomy Extension Schema Document (1) 
+
+101.CAL 
+
+XBRL
+ Taxonomy Extension Calculation Linkbase Document (1) 
+
+101.DEF 
+
+XBRL
+ Taxonomy Extension Definition Linkbase Document (1) 
+
+101.LAB 
+
+XBRL
+ Taxonomy Extension Label Linkbase Document (1) 
+
+101.PRE 
+
+XBRL
+ Taxonomy Extension Presentation Linkbase Document (1) 
+
+(1) 
+ Pursuant to Rule 406T of Regulation S-T, this interactive data file is
+ deemed not filed or part of a registration statement or prospectus for
+ purposes of Sections 11 or 12 of the Securities Act of 1933, is deemed not
+ filed for purposes of Section 18 of the Securities Exchange Act of 1934, and
+ otherwise is not subject to liability under these sections. 
+
+Filed herewith. 
+
+Filed as an Exhibit to the Current
+Report on Form 8K filed with the SEC on July 2, 2009. 
+
+Filed as an Exhibit to the Current
+Report on Form 8K filed with the SEC on September 10, 2010. 
+
+Filed as an Exhibit to the Current
+Report on Form 8K filed with the SEC on October 18, 2011. 
+
+ -42- 
+
+SIGNATURES 
+
+In accordance with Section 13 or 15(d) of
+the Securities Exchange Act of 1934, the Registrant duly caused this report to
+be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+JV GROUP, INC. 
+
+Date: December 14, 2015 
+
+By:
+/s/ Yuen Ling Look 
+
+Yuen Ling Look, President, 
+ Chief Executive Officer (Principal Executive Officer and 
+ Chief Financial Officer (Principal Accounting Officer) 
+
+In accordance with the Securities Exchange Act of 1934,
+this report has been signed by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated. 
+
+Dated:
+ December 14, 2015 
+
+JV
+ GROUP, INC. 
+
+/s/ Yuen Ling Look 
+
+Yuen
+ Ling Look, Director 
+
+/s/ Siu Fong Kelly Yueng 
+
+Siu
+ Fong Kelly Yeung, Director 
+
+/s/ Siu Lun Tong 
+
+Siu Lun Tong, Director 
+
+-43-
+
+<EX-31>
+ 2
+ ex31.1.htm
+
+EXHIBIT 31.1 
+
+SECTION 302 CERTIFICATION 
+
+EXHIBIT 31.1 
+
+CERTIFICATION OF PERIODIC REPORT 
+
+I, Yuen Ling
+Look, certify that: 
+
+1. I have
+reviewed this annual report on Form 10-K of JV Group, Inc.; 
+
+2. Based on
+my knowledge, this report does not contain any untrue statement of a material
+fact or omit to state a material fact necessary to make the statements made, in
+light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report; 
+
+3. Based on
+my knowledge, the financial statements, and other financial information
+included in this report, fairly present in all material respects the financial
+condition, results of operations and cash flows of the registrant as of, and
+for, the periods presented in this report; 
+
+4. The
+registrant's other certifying officer and I are responsible for establishing
+and maintaining disclosure controls and procedures (as defined in Exchange Act
+Rules 13a-15(e) and 15d-15(e))and internal control over financial reporting (as
+defined in Exchange Act Rules 13a-15(f)) for the registrant and have: 
+
+a.
+Designed such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared; 
+
+b.
+Designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial
+reporting and the preparation of financial statements for external purposes in
+accordance with generally accepted accounting principles; 
+
+c.
+Evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and 
+
+d.
+Disclosed in this report any change in the registrant's internal control over
+financial reporting that occurred during the registrant's most recent fiscal
+quarter (the registrant's 4th quarter in the case of an annual report) that has
+materially affected, or is reasonably likely to materially affect, the
+registrant's internal control over financial reporting. 
+
+5. The
+registrant's other certifying officer and I have disclosed, based on our most
+recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions): 
+
+a.
+All significant deficiencies and material weaknesses in the design or operation
+of internal control over financial reporting which are reasonably likely to
+adversely affect the registrant's ability to record, process, summarize and
+report financial information; and 
+
+b.
+Any fraud, whether or not material, that involves management or other employees
+who have a significant role in the registrant's internal control over financial
+reporting. 
+
+Date: December
+14, 2015 
+
+/s/ Yuen Ling Look 
+
+Yuen Ling
+Look, 
+
+Chief
+Executive, Principal Executive Officer 
+
+Principal Accounting Officer 
+
+</EX-31>
+
+<EX-32>
+ 3
+ ex32.1.htm
+
+EXHIBIT 32.1 
+
+SECTION 906 CERTIFICATION 
+
+Exhibit 32.1 
+
+CERTIFICATION OF DISCLOSURE PURSUANT TO 
+
+18 U.S.C. SECTION 1350, 
+
+AS ADOPTED PURSUANT TO 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Annual Report of JV Group, Inc. (the Company on Form 10-K for the period ending June 30, 2015 as filed with the Securities
+and Exchange Commission on the date hereof (the Report I, Yuen
+Ling Look, Chief Executive Officer, Principal Executive Officer and Principal
+Accounting Officer of the Company, certify, pursuant to 18 USC section 1350, as
+adopted pursuant to section 906 of the Sarbanes-Oxley Act of 2002, that to the
+best of my knowledge and belief: 
+
+(1)
+The Report fully complies with the requirements of Section 13(a) or 15(d) of
+the Securities Exchange Act of 1934; and 
+
+(2)
+The information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company. 
+
+Dated: December
+14, 2015 
+
+/s/ Yuen Ling Look 
+
+Yuen Ling
+Look, 
+
+Chief
+Executive Officer, Principal Executive Officer 
+
+and
+Principal Accounting Officer 
+
+This
+certification accompanies the Report pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002 and shall not, except to the extent required by the
+Sarbanes-Oxley Act of 2002, be deemed filed by the Company for purposes of
+Section 18 of the Securities Exchange Act of 1934, as amended. 
+
+</EX-32>
+
+<EX-101.INS>
+ 4
+ aszp-20150630.xml
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 5
+ aszp-20150630.xsd
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ aszp-20150630_cal.xml
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ aszp-20150630_def.xml
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ aszp-20150630_lab.xml
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ aszp-20150630_pre.xml
+
+</EX-101.PRE>
+

@@ -1,0 +1,2524 @@
+<Header>
+<FileStats>
+    <FileName>20060330_10-K_edgar_data_796489_0000796489-06-000001.txt</FileName>
+    <GrossFileSize>129425</GrossFileSize>
+    <NetFileSize>99237</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>293</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>0</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000796489-06-000001.hdr.sgml : 20060330
+<ACCEPTANCE-DATETIME>20060330133242
+ACCESSION NUMBER:		0000796489-06-000001
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060330
+DATE AS OF CHANGE:		20060330
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SOUTHWEST ROYALTIES INC INCOME FUND VI
+		CENTRAL INDEX KEY:			0000796489
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				752127812
+		STATE OF INCORPORATION:			TN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-15411
+		FILM NUMBER:		06722092
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6 DESTA DRIVE, SUITE 1100
+		CITY:			MIDLAND
+		STATE:			TX
+		ZIP:			79705
+		BUSINESS PHONE:		4326826324
+
+	MAIL ADDRESS:	
+		STREET 1:		6 DESTA DRIVE, SUITE 1100
+		CITY:			MIDLAND
+		STATE:			TX
+		ZIP:			79705
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KaG4GjFcRFOTioQBoeTIwlj1VtnR3Jk8YP09hENivX8lFNdnWAZf62gyEUTbmWJX
+ wZybunIPujKwgUzzr37CHg==
+
+ 0000796489-06-000001.txt : 20060330
+
+10-K
+ 1
+ a120510k8.txt
+
+FORM 10-K
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+(Mark One)
+
+[x] Annual report pursuant to Section 13 or 15(d) of the Securities
+ Exchange Act of 1934
+
+For the fiscal year ended December 31, 2005
+
+ OR
+
+[ ] Transition report pursuant to Section 13 or 15(d) of the Securities
+ Exchange Act of 1934
+
+For the transition period from to
+
+Commission File Number 0-15411
+
+ Southwest Royalties, Inc. Income Fund VI
+ (Exact name of registrant as specified in
+ its limited partnership agreement)
+
+Tennessee 75-2127812
+(State or other jurisdiction (I.R.S. Employer
+of incorporation or organization) Identification No.)
+
+6 Desta Drive, Suite 6500, Midland, Texas 79705
+(Address of principal executive office) (Zip Code)
+
+Registrant's telephone number, including area (432) 682-6324
+
+ Securities registered pursuant to Section 12(b) of the Act:
+
+ None
+
+ Securities registered pursuant to Section 12(g) of the Act:
+
+ limited partnership interests
+
+Indicate by check mark if the registrant is a well-known seasoned issuer,
+as defined in Rule 405 of the Securities Act. Yes No X
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. Yes No X
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days. Yes X No
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [x]
+
+Indicate by check mark whether the registrant is a large accelerated filer,
+an accelerated filer, or a non-accelerated filer. See definition of
+"accelerated filer and large accelerated filer" in Rule 12b-2 of the
+Exchange Act.
+
+ Large accelerated filer [ ] Accelerated filer [ ] Non-
+ accelerated filer [X]
+
+The registrant's outstanding securities consist of Units of limited
+partnership interests for which there exists no established public market
+from which to base a calculation of aggregate market value.
+
+Table of Contents
+
+Item Page
+
+ Glossary of Oil and Gas Terms 3
+
+ Part I
+
+ 1. Business 5
+
+1B. Unresolved Staff Comments 8
+
+ 2. Properties 8
+
+ 3. Legal Proceedings 9
+
+ 4. Submission of Matters to a Vote of Security Holders 9
+
+ Part II
+
+ 5. Market for Registrant's Common Equity, Related
+ Stockholder Matters and Issuer Purchases of Equity Securities 10
+
+ 6. Selected Financial Data 11
+
+ 7. Management's Discussion and Analysis of
+ Financial Condition and Results of Operations 12
+
+7A. Quantitative and Qualitative Disclosures About Market Risk 15
+
+ 8. Financial Statements and Supplementary Data 16
+
+ 9. Changes in and Disagreements with Accountants
+ on Accounting and Financial Disclosure 31
+
+9A. Controls and Procedures 31
+
+9B. Other Information 31
+
+ Part III
+
+10. Directors and Executive Officers of the Registrant 32
+
+11. Executive Compensation 32
+
+12. Security Ownership of Certain Beneficial Owners and Management 33
+
+13. Certain Relationships and Related Transactions 33
+
+14. Principal Accountant Fees and Services 33
+
+ Part IV
+
+15. Exhibits and Financial Statement Schedules 34
+
+ Signatures 38
+
+Glossary of Oil and Gas Terms
+The following are abbreviations and definitions of terms commonly used in
+the oil and gas industry that are used in this filing. All volumes of
+natural gas referred to herein are stated at the legal pressure base to the
+state or area where the reserves exit and at 60 degrees Fahrenheit and in
+most instances are rounded to the nearest major multiple.
+
+ Bbl. One stock tank barrel, or 42 United States gallons liquid volume.
+
+ BOE. Equivalent barrels of oil, with natural gas converted to oil
+equivalents based on a ratio of six Mcf of natural gas to one Bbl of oil.
+
+ Developmental well. A well drilled within the proved area of an oil or
+natural gas reservoir to the depth of a stratigraphic horizon known to be
+productive.
+
+ Exploratory well. A well drilled to find and produce oil or gas in an
+unproved area to find a new reservoir in a field previously found to be
+productive of oil or natural gas in another reservoir or to extend a known
+reservoir.
+
+ Farm-out arrangement. An agreement whereby the owner of a leasehold or
+working interest agrees to assign his interest in certain specific acreage
+to an assignee, retaining some interest, such as an overriding royalty
+interest, subject to the drilling of one (1) or more wells or other
+specified performance by the assignee.
+
+ Field. An area consisting of a single reservoir or multiple reservoirs
+all grouped on or related to the same individual geological structural
+feature and/or stratigraphic condition.
+
+ Mcf. One thousand cubic feet.
+
+ Net Profits Interest. An agreement whereby the owner receives a
+specified percentage of the defined net profits from a producing property
+in exchange for consideration paid. The net profits interest owner will
+not otherwise participate in additional costs and expenses of the property.
+
+ Oil. Crude oil, condensate and natural gas liquids.
+
+ Overriding royalty interest. Interests that are carved out of a
+working interest, and their duration is limited by the term of the lease
+under which they are created.
+
+ Standardized measure of discounted future net cash flows. Present
+value of proved reserves, as adjusted to give effect to estimated future
+abandonment costs, net of the estimated salvage value of related equipment.
+
+Production costs. Costs incurred to operate and maintain wells and
+related equipment and facilities, including depreciation and applicable
+operating costs of support equipment and facilities and other costs of
+operating and maintaining those wells and related equipment and facilities.
+
+ Proved Area. The part of a property to which proved reserves have been
+specifically attributed.
+
+ Proved developed oil and gas reserves. Proved oil and gas reserves
+that can be expected to be recovered from existing wells with existing
+equipment and operating methods.
+
+ Proved properties. Properties with proved reserves.
+
+ Proved oil and gas reserves. The estimated quantities of crude oil,
+natural gas, and natural gas liquids with geological and engineering data
+that demonstrate with reasonable certainty to be recoverable in future
+years from known reservoirs under existing economic and operating
+conditions, i.e., prices and costs as of the date the estimate is made.
+
+ Proved undeveloped reserves. Proved oil & gas reserves that are
+expected to be recovered from new wells on undrilled acreage, or from
+existing wells where a relatively major expenditure is required for
+recompletion.
+
+ Reservoir. A porous and permeable underground formation containing a
+natural accumulation of producible oil or gas that is confined by
+impermeable rock or water barriers and is individual and separate from
+other reservoirs.
+
+ Royalty interest. An interest in an oil and natural gas property
+entitling the owner to a share of oil or natural gas production free of
+costs of production.
+
+ Working interest. The operating interest that gives the owner the
+right to drill, produce and conduct operating activities on the property
+and a share of production.
+
+ Workover. Operations on a producing well to restore or increase
+production.
+
+Part I
+
+Item 1. Business
+
+General
+Southwest Royalties, Inc. Income Fund VI (the "Partnership" or
+"Registrant") was organized as a Tennessee limited partnership on December
+4, 1986. The offering of limited partnership interests began August 25,
+1986, reached minimum capital requirements on October 3, 1986 and concluded
+January 29, 1987. The Partnership has no subsidiaries. The Managing
+General Partner of the Partnership is Southwest Royalties, Inc. (the
+"Managing General Partner"), a Delaware corporation.
+
+The Partnership has expended its capital and acquired interests in
+producing oil and gas properties. After such acquisitions, the Partnership
+has produced and marketed the crude oil and natural gas produced from such
+properties. In most cases, the Partnership purchased royalty or overriding
+royalty interests and working interests in oil and gas properties that were
+converted into net profits interests or other nonoperating interests. The
+Partnership purchased either all or part of the rights and obligations
+under various oil and gas leases.
+
+During 2004, the Managing General Partner was acquired by Clayton Williams
+Energy, Inc. ("CWEI"), a Delaware corporation, and is now a wholly owned
+subsidiary of CWEI. CWEI is an oil and gas company based in Midland,
+Texas, and its common stock is traded on the Nasdaq Stock Market's National
+Market under the symbol "CWEI". All of the directors and executive
+officers of the Managing General Partner are employees of CWEI. CWEI
+maintains an internet website at www.claytonwilliams.com from which public
+information about CWEI may be obtained.
+
+The principal executive offices of the Partnership are located at 6 Desta
+Drive, Suite 6500, Midland, Texas, 79705. The Managing General Partner and
+its staff, together with certain independent consultants used on an "as
+needed" basis, perform various services on behalf of the Partnership,
+including the selection of oil and gas properties and the marketing of
+production from such properties. The Partnership has no employees.
+
+Operations
+
+The business objective of the Partnership is to maximize the production and
+related net cash flow from the properties it currently owns without
+engaging in the drilling of any development or exploratory wells except
+through farm-out arrangements. If additional drilling is necessary to
+fully develop a Partnership property, the Partnership will enter into a
+farmout agreement with the Managing General Partner to assign a portion of
+the Partnership's interest in the property to the Managing General Partner
+in exchange for retaining an interest in the one or more new wells at no
+cost to the Partnership. The Managing General Partner obtains a fairness
+opinion from an unaffiliated petroleum engineer with respect to the terms
+of each farmout agreement with the Partnership.
+
+During 2005, the Partnership entered into farmout agreements with the
+Managing General Partner through which the Managing General Partner drilled
+seven wells and performed workovers on three wells. The partnership paid
+none of the cost to drill and complete or workover these wells. The wells
+involved and interest retained are as follows:
+
+Drill Barnett 10 
+ Amacker #4
+Drill JS Lane #6 10 
+Drill Middleton 124 12.5
+ C #9 
+Drill Elizabeth 10 
+ Windham #6
+Drill RS Windham #4 10 
+Drill RS Windham B 10 
+ #2
+Drill RS Windham B 10 
+ #3
+Workov Mary Shirk #1 30 
+er
+Workov Mary Shirk #2 20 
+er
+Workov RS Windham #1 10 
+er
+
+Principal Products and Markets
+The Partnership has acquired and holds royalty interests and net profit
+interests in oil and gas properties located in Texas and Oklahoma. All
+activities of the Partnership are confined to the continental United
+States. During 2005, 38 of the Partnership's revenues were derived from
+the sale of oil production and 62 were derived from gas production. All
+oil and gas produced from these properties is sold to unrelated third
+parties in the oil and gas business. The Partnership believes that the
+loss of any of its purchasers would not have a material adverse affect on
+its results of operations due to the availability of other purchasers.
+
+The revenues generated from the Partnership's oil and gas activities are
+dependent upon the current market for oil and gas. The prices received by
+the Partnership for its oil and gas production depend upon numerous factors
+beyond the Partnership's control, including competition, economic,
+political and regulatory developments and competitive energy sources. The
+Partnership is unable to accurately predict future prices of oil and
+natural gas.
+
+Competition
+Because the Partnership has utilized all of its funds available for the
+acquisition of net profits or royalty interests in producing oil and gas
+properties, it is not subject to competition from other oil and gas
+property purchasers. See Item 2, Properties.
+
+Factors that may adversely affect the Partnership include delays in
+completing arrangements for the sale of production, availability of a
+market for production, rising operating costs of producing oil and gas and
+complying with applicable water and air pollution control statutes,
+increasing costs and difficulties of transportation, and marketing of
+competitive fuels. Moreover, domestic oil and gas must compete with
+imported oil and gas and with coal, atomic energy, hydroelectric power and
+other forms of energy.
+
+Regulation
+
+The Partnership's oil and gas production and related operations are subject
+to extensive rules and regulations promulgated by federal, state and local
+agencies. Failure to comply with such rules and regulations can result in
+substantial penalties. The regulatory burden on the oil and gas industry
+increases the Partnership's cost of doing business and affects the
+Partnership's profitability. Because such rules and regulations are
+frequently amended or reinterpreted, the Partnership is unable to predict
+the future cost or impact of complying with such laws.
+
+All of the states in which the Partnership conducts business generally
+require permits for drilling operations, drilling bonds and reports
+concerning operations and impose other requirements relating to the
+exploration and production of oil and gas. Such states also have statutes
+or regulations addressing conservation matters, including provisions for
+the unitization or pooling of oil and gas properties, the establishment of
+maximum rates of production from oil and gas wells and the spacing,
+plugging and abandonment of such wells. The statutes and regulations of
+certain states also limit the rate at which oil and gas can be produced
+from the Partnership's properties.
+
+The Federal Energy Regulatory Commission ("FERC") regulates interstate
+natural gas transportation rates and service conditions, which affect the
+marketing of gas produced by the Partnership, as well as the revenues the
+Partnership receives for sales of such production. Since the mid-1980s,
+the FERC has issued various orders that have significantly altered the
+marketing and transportation of gas. These orders resulted in a
+fundamental restructuring of interstate pipeline sales and transportation
+services, including the unbundling by interstate pipelines of the sales,
+transportation, storage and other components of the city-gate sales
+services such pipelines previously performed. These FERC actions were
+designed to increase competition within all phases of the gas industry.
+The interstate regulatory framework may enhance the Partnership's ability
+to market and transport its gas, although this framework may also subject
+the Partnership to competition and to the more restrictive pipeline
+imbalance tolerances and greater associated penalties for violation of such
+tolerances.
+
+The Partnership's sales of oil production are not presently regulated and
+are made at market prices. The price the Partnership receives from the
+sale of those products is affected by the cost of transporting the products
+to market. The FERC has implemented regulations establishing an indexing
+system for transportation rates for oil pipelines, which, generally, would
+index such rates to inflation, subject to certain conditions and
+limitations. The Partnership is not able to predict with any certainty
+what effect, if any, these regulations will have on the Partnership, but,
+other factors being equal, the regulations may, over time, tend to increase
+transportation costs which may have the effect of reducing wellhead prices
+for oil and natural gas liquids.
+
+Environmental Matters
+
+The Partnership's operations pertaining to oil and gas production and
+related activities are subject to numerous and constantly changing federal,
+state and local laws governing the discharge of materials into the
+environment or otherwise relating to environmental protection. These laws
+and regulations may require the acquisition of certain permits prior to or
+in connection with drilling activities, restrict or prohibit the types,
+quantities and concentration of substances that can be released into the
+environment in connection with drilling and production, restrict or
+prohibit drilling activities that could impact wetlands, endangered or
+threatened species or other protected areas or natural resources, require
+some degree of remedial action to mitigate pollution from former
+operations, such as pit cleanups and plugging abandoned wells, and impose
+substantial liabilities for pollution resulting from the Partnership's
+operations. Such laws and regulations may substantially increase the cost
+of developing, producing or processing oil and gas and may prevent or delay
+the commencement or continuation of a given project and thus generally
+could have a material adverse effect upon the Partnership's cash flow and
+earnings. The Partnership believes that it is in substantial compliance
+with current applicable environmental laws and regulations, and the cost of
+compliance with such laws and regulations has not been material and is not
+expected to be material during 2006. Nevertheless, changes in existing
+environmental laws and regulations or in the interpretations thereof could
+have a significant impact on the Partnership's operations, as well as the
+oil and gas industry in general. For instance, legislation has been
+proposed in Congress from time to time that would reclassify certain oil
+and gas production wastes as "hazardous wastes," which reclassification
+would make exploration and production wastes subject to much more stringent
+handling, disposal and clean-up requirements. State initiatives to further
+regulate the disposal of oil and gas wastes and naturally occurring
+radioactive materials, if adopted, could have a similar impact on the
+Partnership.
+
+The United States Oil Pollution Act of 1990 ("OPA `90"), and similar
+legislation enacted in Texas, Louisiana and other coastal states, addresses
+oil spill prevention and control and significantly expands liability
+exposure across all segments of the oil and gas industry. OPA `90 and such
+similar legislation and related regulations impose on us a variety of
+obligations related to the prevention of oil spills and liability for
+damages resulting from such spills. OPA `90 imposes strict and, with
+limited exceptions, joint and several liabilities upon each responsible
+party for oil removal costs and a variety of public and private damages.
+
+The Comprehensive Environmental Response, Compensation, and Liability Act
+("CERCLA"), also known as the "Superfund" law, imposes liability, without
+regard to fault or the legality of the original conduct, on certain classes
+of persons that are considered to have contributed to the release of a
+"hazardous substance" into the environment. These persons include the
+owner or operator of the disposal site or the site where the release
+occurred and companies that disposed or arranged for the disposal of the
+hazardous substances at the site where the release occurred. Under CERCLA,
+such persons may be subject to joint and several liability for the costs of
+cleaning up the hazardous substances that have been released into the
+environment and for damages to natural resources, and it is not uncommon
+for neighboring landowners and other third parties to file claims for
+personal injury and property damage allegedly caused by the hazardous
+substances released into the environment. The failure of an operator of a
+property owned by the Partnership to comply with applicable environmental
+regulations may, in certain circumstances, be attributed to the
+Partnership. The Partnership does not believe that it will be required to
+incur any material expenditures to comply with existing environmental
+requirements.
+
+The Resource Conservation and Recovery Act ("RCRA"), and analogous state
+laws govern the handling and disposal of hazardous and solid wastes. Wastes
+that are classified as hazardous under RCRA are subject to stringent
+handling, recordkeeping, disposal and reporting requirements. RCRA
+specifically excludes from the definition of hazardous waste "drilling
+fluids, produced waters, and other wastes associated with the exploration,
+development, or production of crude oil, natural gas or geothermal energy."
+However, these wastes may be regulated by the EPA or state agencies as
+solid waste. Moreover, many ordinary industrial wastes, such as paint
+wastes, waste solvents, laboratory wastes and waste compressor oils, are
+regulated as hazardous wastes. Although the costs of managing hazardous
+waste may be significant, the Partnership does not expect to experience
+more burdensome costs than similarly situated companies
+
+State water discharge regulations and federal waste discharge permitting
+requirements adopted pursuant to the Federal Water Pollution Control Act
+prohibit or are expected in the future to prohibit the discharge of
+produced water and sand and some other substances related to the oil and
+gas industry, into coastal waters. Although the costs to comply with such
+mandates under state or federal law may be significant, the entire industry
+will experience similar costs, and the Partnership does not believe that
+these costs will have a material adverse impact on its financial condition
+and operations.
+
+The Partnership maintains insurance against "sudden and accidental"
+occurrences, which may cover some, but not all, of the environmental risks
+described above. Most significantly, the insurance we maintain will not
+cover the risks described above which occur over a sustained period of
+time. Further, there can be no assurance that such insurance will continue
+to be available to cover all such costs or that such insurance will be
+available at premium levels that justify its purchase. The occurrence of a
+significant event not fully insured or indemnified against could have a
+material adverse effect on our financial condition and operations.
+
+Limited partners should be aware that the assessment of liability
+associated with environmental liabilities is not always correlated to the
+value of a particular project. Accordingly, liability associated with the
+environment under local, state, or federal regulations, particularly clean
+ups under CERCLA, can exceed the value of the Partnership's investment in
+the associated site.
+Partnership Employees
+The Partnership has no employees; however the Managing General Partner and
+CWEI have a staff of geologists, engineers, accountants, landmen and
+clerical staff who engage in Partnership activities and operations and
+perform additional services for the Partnership as needed. In addition,
+the Partnership engages independent consultants such as petroleum engineers
+and geologists as needed.
+
+Item 1B. Unresolved Staff Comments
+
+ Not applicable.
+
+Item 2. Properties
+
+As of December 31, 2005, the Partnership possessed an interest in oil and
+gas properties located in Garvin, Leflore, McClain and Noble Counties of
+Oklahoma; Brazos, Burleson, Fayette, Lee, Nolan, Pecos, Upton, Ward and
+Winkler Counties of Texas. These properties consist of various interests
+in approximately 171 wells and units.
+
+Reserves
+
+The following table sets forth certain information as of December 31, 2005
+with respect to the Partnership's estimated proved oil and gas reserves
+pursuant to SEC guidelines and standardized measure of discounted future
+net cash flows.
+
+ Proved Developed Proved Total
+ ------------------- ------- -------
+ ------------------- ------- ----
+ --------- ----
+ Produci Nonprod Undevel Proved
+ ng ucing oped
+ ------- ------- ------- -------
+ ------- ------- ------- ----
+ ----- ---- ----
+Oil (Bbls) 149,000 95,000 23,000 267,000
+Gas (Mcf) 3,881,00 325,000 915,000 5,121,00
+ 0 0
+Total (BOE) 796,000 149,000 176,000 1,121,00
+ 0
+
+Standardized measure
+of discounted
+ future net cash 20,599
+flows ,000
+
+The following table sets forth certain information as of December 31, 2005
+regarding the Partnership's proved oil and gas reserves for certain
+significant fields.
+
+ Proved Reserves
+ ------------------------
+ ------------------------
+ --------
+ Total Percen
+ Oil t of
+ Oil Gas Equiva Total
+ lent Oil
+ (Bbls (Mcf) (BOE) Equiva) lent
+ ----- ------ ------ ------
+ ----- ----- ------ ------
+ --- --- ---
+ 76,00 4,551, 834,00 74.4 
+Amacker/Wilsh 0 000 0
+ire
+ Rhoda Walker 154,0 471,00 233,00 20.8 
+ 00 0 0
+ Other 37,00 99,000 54,000 4.8 
+ 0
+ ----- ------ ------ ------
+ ----- ------ ------ ------
+ -- -- --
+ Total 267,0 5,121, 1,121, 100.0 
+ 00 000 000
+ ===== ====== ====== ======
+ == = == ==
+
+The estimates of proved reserves at December 31, 2005 and the standardized
+measure of discounted future net cash flows were derived from a report
+prepared by Ryder Scott Company, L.P., petroleum consultants. These
+calculations were prepared using standard geological and engineering
+methods generally accepted by the petroleum industry and in accordance with
+SEC financial accounting and reporting standards.
+
+In accordance with applicable financial accounting and reporting standards
+of the SEC, the estimates of the Partnership's proved reserves and the
+standardized measure of discounted future net cash flows set forth herein
+are made using oil and gas sales prices estimated to be in effect as of the
+date of such reserve estimates and are held constant throughout the life of
+the properties. Estimated quantities of proved reserves and their present
+value are affected by changes in oil and gas prices. The average prices
+utilized for the purposes of estimating the Partnership's proved reserves
+and the standardized measure of discounted future net cash flows as of
+December 31, 2005 were 59.69 per Bbl of oil and natural gas liquids and
+ 10.43 per Mcf of gas, as compared to 42.02 per Bbl of oil and 5.36 per
+Mcf of gas as of December 31, 2004.
+
+The reserve information shown is estimated. The accuracy of any reserve
+estimate is a function of the quality of available geological, geophysical,
+engineering and economic data, the precision of the engineering and
+geological interpretation and judgment. The estimates of reserves, future
+cash flows and standardized measure are based on various assumptions,
+including those prescribed by the SEC, and are inherently imprecise.
+Although the Partnership believes these estimates are reasonable, actual
+future production, cash flows, taxes, development expenditures, operating
+expenses and quantities of recoverable oil and natural gas reserves may
+vary substantially from these estimates. Also, the use of a 10 discount
+factor for reporting purposes may not necessarily represent the most
+appropriate discount factor, given actual interest rates and risks to which
+our business or the oil and natural gas industry in general are subject.
+
+Unanticipated depletion, if it occurs, will result in lower reserves than
+previously estimated; thus an ultimately lower return for the Partnership.
+Basic changes in past reserve estimates occur annually. As new data is
+gathered during the subsequent year, the engineer must revise his earlier
+estimates. A year of new information, which is pertinent to the estimation
+of future recoverable volumes, is available during the subsequent year
+evaluation. In applying industry standards and procedures, the new data
+may cause the previous estimates to be revised. This revision may increase
+or decrease the earlier estimated volumes. Pertinent information gathered
+during the year may include actual production and decline rates, production
+from offset wells drilled to the same geologic formation, increased or
+decreased water production, workovers, and changes in lifting costs, among
+others. Accordingly, reserve estimates are often different from the
+quantities of oil and gas that are ultimately recovered.
+
+Item 3. Legal Proceedings
+
+There are no material pending legal proceedings to which the Partnership is
+a party.
+
+Item 4. Submission of Matters to a Vote of Security Holders
+
+No matter was submitted to a vote of security holders during the fourth
+quarter of 2005 through the solicitation of proxies or otherwise.
+
+Part II
+
+Item 5. Market for Registrant's Common Equity, Related Stockholder
+ Matters and Issuer Purchases of Equity Securities
+
+Market Information
+Limited partnership interests, or units, in the Partnership were initially
+offered and sold for a price of 500. Limited partner units are not traded
+on any exchange and there is no public or organized trading market for
+them.
+
+Number of Limited Partner Interest Holders
+As of December 31, 2005 there were 559 holders of limited partner units in
+the Partnership.
+
+Distributions
+Pursuant to Article IV, Section 4.01 of the Partnership's Certificate and
+Agreement of Limited Partnership "Net Cash Flow" is distributed to the
+partners on a quarterly basis. "Net Cash Flow" is defined as "the cash
+generated by the Partnership's investments in producing oil and gas
+properties, less (i) General and Administrative Costs, (ii) Operating
+Costs, and (iii) any reserves necessary to meet current and anticipated
+needs of the Partnership, as determined at the sole discretion of the
+Managing General Partner." During 2005, distributions were made totaling
+ 2,000,000, with 1,800,000 90.00 per unit) distributed to the limited
+partners and 200,000 to the general partner.
+
+Issuer Purchases of Equity Securities
+After completion of the Partnership's first full fiscal year of operations
+and each year thereafter, the Managing General Partner has offered and will
+continue to offer to purchase each limited partner's interest in the
+Partnership in accordance with the obligations set forth in the partnership
+agreement. The pricing mechanism used to calculate the repurchase is based
+on tangible assets of the Partnership, plus the present value of the future
+net revenues of proved oil and gas properties, minus liabilities with a
+risk factor discount of up to one-third which may be implemented at the
+sole discretion of the Managing General Partner. However, the Managing
+General Partner's obligation to purchase limited partner units under the
+partnership agreement is limited to an annual expenditure of an amount not
+in excess of 10 of the total limited partner units initially subscribed
+for by limited partners. The following table sets forth certain
+information regarding purchases of limited partnership units by the
+Managing General Partner during the year of 2005.
+
+ Total
+ Number
+ of Units Average
+ Price
+ Period Purchase Paid Per
+ d Unit
+- ------------- -------- --------
+- ------------- -------- --------
+ -- - --
+January 2005 20 460.54
+February 2005 - -
+ March 2005 - -
+ April 2005 - -
+ May 2005 - -
+ June 2005 - -
+ July 2005 826.50 528.15
+ August 2005 - -
+ September - -
+ 2005
+October 2005 -
+November 2005 - -
+December 2005 - -
+ -------- -------
+ - ---
+ TOTALS 846.5 526.55
+ ===== ======
+
+Item 6. Selected Financial Data
+
+The following selected financial data for the years ended December 31,
+2005, 2004, 2003, 2002 and 2001 should be read in conjunction with the
+financial statements included in Item 8:
+
+ Years ended December 31,
+ 2005 2004 2003 2002 2001
+ ------ ------ ------ ------ ------
+Revenues 2,310,70 1,375,0 1,237,7 104,701 964,152
+ 0 40 19
+
+Net income (loss)
+before
+ cumulative effect
+of
+ accounting change 2,033,48 1,082,1 904,659 (171,77 571,669
+ 9 68 5)
+
+Net income 2,033,48 1,082,1 1,021,2 358,225 571,669
+ 9 68 96
+
+Partners' share
+ of net income:
+
+General partners 203,349 108,217 102,130 35,822 57,167
+
+Limited partners 1,830,14 973,951 919,166 322,403 514,502
+ 0
+
+Limited partners'
+ net income (loss)
+per unit
+ before cumulative
+effect
+ of accounting 91.51 48.70 40.71 (7.73) 25.73
+change
+
+Limited partners'
+ net income per 91.51 48.70 45.96 16.12 25.73
+unit
+
+Limited partners'
+ cash
+distributions
+ per unit 90.00 50.63 33.75 - 50.74
+
+Total assets 2,816,45 2,773,7 2,828,4 2,047,1 1,688,4
+ 4 92 12 63 19
+
+Item 7. Management's Discussion and Analysis of Financial Condition and
+ Results of Operations
+
+General
+The Partnership was formed to acquire non-operating interests in producing
+oil and gas properties, to produce and market crude oil and natural gas
+produced from such properties and to distribute any net proceeds from
+operations to the general and limited partners. Net revenues from
+producing oil and gas properties are not reinvested in other revenue
+producing assets except to the extent that producing facilities and wells
+are reworked or where methods are employed to improve or enable more
+efficient recovery of oil and gas reserves. The economic life of the
+Partnership thus depends on the period over which the Partnership's oil and
+gas reserves are economically recoverable.
+
+Increases or decreases in Partnership revenues and, therefore,
+distributions to partners will depend primarily on changes in the prices
+received for production, changes in volumes of production sold, lease
+operating expenses, enhanced recovery projects, offset drilling activities
+pursuant to farm-out arrangements and on the depletion of wells. Since
+wells deplete over time, production can generally be expected to decline
+from year to year.
+
+Well operating costs and general and administrative costs usually decrease
+with production declines; however, these costs may not decrease
+proportionately. Net income available for distribution to the limited
+partners has fluctuated over the past few years and is expected to decline
+in later years based on these factors.
+
+Critical Accounting Policies
+The Partnership follows the full cost method of accounting for its oil and
+gas properties. The full cost method subjects companies to quarterly
+calculations of a "ceiling", or limitation on the amount of properties that
+can be capitalized on the balance sheet. If the Partnership's capitalized
+costs are in excess of the calculated ceiling, the excess must be written
+off as an expense.
+
+The Partnership's discounted present value of its proved oil and natural
+gas reserves is a major component of the ceiling calculation, and
+represents the component that requires the most subjective judgments.
+Estimates of reserves are forecasts based on engineering data, projected
+future rates of production and the timing of future expenditures. The
+process of estimating oil and natural gas reserves requires substantial
+judgment, resulting in imprecise determinations, particularly for new
+discoveries. Different reserve engineers may make different estimates of
+reserve quantities based on the same data. The Partnership's reserve
+estimates are prepared by outside consultants.
+
+The passage of time provides more qualitative information regarding
+estimates of reserves, and revisions are made to prior estimates to reflect
+updated information. However, there can be no assurance that more
+significant revisions will not be necessary in the future. If future
+significant revisions are necessary that reduce previously estimated
+reserve quantities, it could result in a full cost property writedown. In
+addition to the impact of these estimates of proved reserves on calculation
+of the ceiling, estimates of proved reserves are also a significant
+component of the calculation of depletion, depreciation, and amortization
+("DD&A").
+
+While the quantities of proved reserves require substantial judgment, the
+associated prices of oil and natural gas reserves that are included in the
+discounted present value of the reserves do not require judgment. The
+ceiling calculation dictates that prices and costs in effect as of the last
+day of the period are generally held constant indefinitely. Because the
+ceiling calculation dictates that prices in effect as of the last day of
+the applicable quarter are held constant indefinitely, the resulting value
+is not indicative of the true fair value of the reserves. Oil and natural
+gas prices have historically been cyclical and, on any particular day at
+the end of a quarter, can be either substantially higher or lower than the
+Partnership's long-term price forecast that is a barometer for true fair
+value.
+
+Supplemental Information
+The following unaudited information is intended to supplement the financial
+statements included in this Form 10-K with data that is not readily
+available from those statements.
+
+ Year Ended December 31,
+ 2005 2004 2003
+ ------ ------ --------
+ -----
+Oil production in 21,708 19,991 21,800
+barrels
+Gas production in mcf 262,245 245,548 275,100
+Total (BOE) 65,416 60,916 67,650
+Average price per barrel 56.14 39.43
+of oil 29.69
+Average price per mcf of 7.62 5.90
+gas 4.84
+Partnership 2,000,00 1,125,04 750,091
+distributions 0 1
+Limited partner 1,800,00 1,012,53 675,082
+distributions 0 2
+Per unit distribution to 90.00 50.63
+limited partners 33.75
+Number of limited 20,000 20,000 20,000
+partner units
+
+Operating Results
+The following discussion compares our results for the year ended December
+31, 2005 to the two previous years. All references to 2005, 2004 and 2003
+within this section refer to the respective annual periods.
+
+Income from net profits
+Oil and gas prices continued to climb to record levels compared to the
+previous two years. Comparing 2005 to 2004, oil and gas sales increased
+ 981,100, of which price variances accounted for a 814,900 increase and
+production variances accounted for a 166,200 increase. Comparing 2004 to
+2003, oil and gas sales increased 256,200, of which price variances
+accounted for a 453,100 increase and production variances accounted for a
+ 196,900 decrease.
+
+Production in 2005 (on a BOE basis) was 7 higher than 2004 and 3 lower
+than 2003. We increased our oil and gas production in 2005 due primarily
+to production from new wells.
+
+In 2005, our realized oil price was 42 higher than 2004 and 89 higher
+than 2003, while our realized gas price was 29 higher than 2004 and 57 
+higher than 2003. Historically, the markets for oil and gas have been
+volatile, and they are likely to continue to be volatile. We have very
+little control over the prices we receive for our production at the
+wellhead since most of our physical marketing arrangements are market-
+sensitive.
+
+Oil and gas production costs on a BOE basis decreased from 14.18 per BOE
+in 2004 and increased from 11.12 per BOE in 2003 to 13.95 per BOE in
+2005. Oil and gas production costs per BOE decreased primarily due to
+increased production from new wells. Oil and gas production costs
+increased in 2005 over 2004 primarily due to an increase in production tax
+costs due to higher product prices. It is likely that these factors will
+continue to contribute to higher production costs in future periods.
+
+Expenses
+Depletion on a BOE basis decreased 13 from 2004 and 25 from 2003.
+Comparing 2005 to 2004, depletion expense decreased 7,200, of which rate
+variances accounted for a 14,700 decrease and production variances
+accounted for a 7,500 increase. Comparing 2004 to 2003, depletion expense
+decreased 28,300, of which rate variances accounted for a 15,400 decrease
+and production variances accounted for a 12,900 decrease. Depletion rates
+are a function of net capitalized costs and estimated reserve quantities.
+The rates for 2006 are expected to be similar to the 2005 rates.
+
+General and administrative ("G&A") expenses were 6 lower than 2004 and 5 
+lower than 2003 due primarily to lower engineering fees and lower annual
+report printing costs.
+
+Liquidity and Capital Resources
+Partnership distributions during the year ended December 31, 2005 were
+ 2,000,000, of which 1,800,000 was distributed to the limited partners and
+ 200,000 to the general partners. Cumulative cash distributions of
+ 21,328,986 have been made to the general and limited partners as of
+December 31, 2005. As of December 31, 2005, 19,211,791 or 960.59 per
+limited partner unit has been distributed to the limited partners,
+representing 192 of contributed capital.
+
+Our primary source of cash from operating activities is our oil and gas
+sales, net of production costs. Cash flow provided by operating activities
+for 2005 was 110 higher than 2004 due to the combined effects of several
+drivers. The positive benefits of a 44 increase in oil and gas sales,
+driven primarily by higher oil and gas prices, were offset in part by
+increases in production costs. Our only use in financing activities is the
+distribution to partners which was 78 higher than 2004.
+
+As of December 31, 2005, the Partnership had approximately 624,400 in
+working capital. The Managing General Partner knows of no unusual
+contractual commitments. Although the Partnership held many long-lived
+properties at inception, because of the restrictions on property
+development imposed by the partnership agreement, the Partnership cannot
+develop its non-producing properties, if any. Without continued
+development, the producing reserves continue to deplete. Accordingly, as
+the Partnership's properties have matured and depleted, the net cash flows
+from operations for the Partnership has steadily declined, except in
+periods of substantially increased commodity pricing. Maintenance of
+properties and administrative expenses for the Partnership are increasing
+relative to production. As the properties continue to deplete, maintenance
+of properties and administrative costs as a percentage of production are
+expected to continue to increase.
+
+Recent Accounting Pronouncements
+In December 2004, the Financial Accounting Standards Board ("FASB") issued
+Statement of Financial Accounting Standards No. 153 "Exchanges of
+Nonmonetary Assets, an amendment of APB Opinion No. 29" ("SFAS 153").
+SFAS 153 specifies the criteria required to record a nonmonetary asset
+exchange using carryover basis. SFAS 153 is effective for nonmonetary
+asset exchanges occurring after July 1, 2005. The Partnership adopted this
+statement in the third quarter of 2005, and it did not have an effect on
+the financial statements.
+
+In September 2004, the Securities and Exchange Commission issued Staff
+Accounting Bulletin No. 106 ("SAB 106"). SAB 106 expresses the SEC staff's
+views regarding SFAS No. 143 and its impact on both the full-cost ceiling
+test and the calculation of depletion expense. In accordance with SAB 106,
+beginning in the first quarter of 2005, undiscounted abandonment costs for
+wells to be drilled in the future to develop proved reserves are included
+in the unamortized cost of oil and gas properties, net of related salvage
+value, for purposes of computing depreciation, depletion and amortization
+("DD&A"). The implementation of SAB 106 did not have a material impact on
+our financial statements.
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+The Partnership is not a party to any derivative or embedded derivative
+instruments.
+
+Item 8. Financial Statements and Supplementary Data
+
+ Index to Financial Statements
+
+ Page
+
+Report of Independent Registered Public Accounting Firm 17
+
+Balance Sheets 18
+
+Statements of Operations 19
+
+Statement of Changes in Partners' Equity 20
+
+Statements of Cash Flows 21
+
+Notes to Financial Statements 23
+
+REPORT OF INDEPENDENT REGISTERED
+ PUBLIC ACCOUNTING FIRM
+
+The Partners
+Southwest Royalties, Inc. Income Fund VI
+(A Tennessee Limited Partnership)
+
+We have audited the accompanying balance sheets of Southwest Royalties,
+Inc. Income Fund VI (the "Partnership") as of December 31, 2005 and 2004,
+and the related statements of operations, partners' equity, and cash flows
+for each of the years in the three-year period ended December 31, 2005.
+These financial statements are the responsibility of the Partnership's
+management. Our responsibility is to express an opinion on these financial
+statements based on our audits.
+
+We conducted our audits in accordance with the standards of the Public
+Company Accounting Oversight Board (United States). Those standards
+require that we plan and perform the audit to obtain reasonable assurance
+about whether the financial statements are free of material misstatement.
+An audit includes examining, on a test basis, evidence supporting the
+amounts and disclosures in the financial statements. An audit also
+includes assessing the accounting principles used and significant estimates
+made by management, as well as evaluating the overall financial statement
+presentation. We believe that our audits provide a reasonable basis for
+our opinion.
+
+In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of Southwest Royalties,
+Inc. Income Fund VI as of December 31, 2005 and 2004, and the results of
+its operations and its cash flows for each of the years in the three-year
+period ended December 31, 2005, in conformity with U.S. generally accepted
+accounting principles.
+
+As discussed in Note 3 to the financial statements, the Partnership changed
+its method of accounting for asset retirement obligations as of January 1,
+2003.
+
+KPMG LLP
+Dallas, Texas
+March 30, 2006
+
+Southwest Royalties, Inc. Income Fund VI
+ (a Tennessee limited partnership)
+ Balance Sheets
+ December 31, 2005 and 2004
+
+2005 2004
+ ------ ------
+Assets
+- ---------
+Current assets:
+ Cash and cash equivalents 271,508 128,990
+ Receivable from Managing General 352,550 342,286
+Partner
+ Other 522 313
+ -------- --------
+ ------ ------
+ Total current assets 624,580 471,589
+ -------- --------
+ ------ ------
+Oil and gas properties - using the
+full-
+ cost method of accounting 8,531,46 8,547,31
+ 7 7
+ Less accumulated depreciation,
+ depletion and amortization 6,339,59 6,245,11
+ 3 4
+ -------- --------
+ ------ ------
+ Net oil and gas properties 2,191,87 2,302,20
+ 4 3
+ -------- --------
+ ------ ------
+ 2,816,45 2,773,79
+ 4 2
+ ======== ========
+Liabilities and Partners' Equity
+- -------------------------------------
+- ---
+
+Current liability - distribution 180 -
+payable
+ -------- --------
+ ------ ------
+
+Asset retirement obligation 510,646 501,653
+ -------- --------
+ ------ ------
+Partners' equity (deficit):
+ General partner (623,772 (627,121) Limited partners 2,929,40 2,899,26
+ 0 0
+ -------- --------
+ ------ ------
+ Total partners' equity 2,305,62 2,272,13
+ 8 9
+ -------- --------
+ ------ ------
+ 2,816,45 2,773,79
+ 4 2
+ ======== ========
+
+The accompanying notes are an integral
+ part of these financial statements.
+ 
+ Southwest Royalties, Inc. Income Fund VI
+ (a Tennessee limited partnership)
+ Statements of Operations
+ Years ended December 31, 2005, 2004 and 2003
+
+ 2005 2004 2003
+ ------ ------ ------
+Revenues
+- -------------
+ Income from net profits 2,304,45 1,372,32 1,227,58
+interests 6 3 9
+ Interest income 5,399 1,972 1,178
+ Other 845 745 8,952
+ -------- -------- --------
+ ------ ----- -----
+ 2,310,70 1,375,04 1,237,71
+ 0 0 9
+ -------- -------- --------
+ ------ ----- -----
+Expenses
+- -------------
+ Depreciation, depletion and 94,479 101,654 130,000
+amortization
+ Accretion expense 27,488 26,642 39,008
+ General and administrative 155,244 164,576 164,052
+ -------- -------- --------
+ ------ ----- -----
+ 277,211 292,872 333,060
+ -------- -------- --------
+ ------ ----- -----
+Net income before cumulative
+effect
+ of accounting change 2,033,48 1,082,16 904,659
+ 9 8
+
+Cumulative effect of change in
+accounting
+ principle - SFAS No. 143 - See - - 116,637
+Note 3
+ -------- -------- --------
+ ------ ----- -----
+Net income 2,033,48 1,082,16 1,021,29
+ 9 8 6
+ ======== ======= =======
+Net income allocated to:
+
+ Managing General Partner 203,349 108,217 102,130
+ ======== ======= =======
+ Limited partners 1,830,14 973,951 919,166
+ 0
+ ======== ======= =======
+ Per limited partner unit 91.51 48.70
+before cumulative effect 40.71
+ Cumulative effects per - -
+limited partner unit 5.25
+ -------- -------- --------
+ ------ ----- -----
+ Per limited partner unit 91.51 48.70
+ 45.96
+ ======== ======= =======
+
+The accompanying notes are an integral
+ part of these financial statements.
+ 
+ Southwest Royalties, Inc. Income Fund VI
+ (a Tennessee limited partnership)
+ Statement of Changes in Partners' Equity
+ Years ended December 31, 2005, 2004 and 2003
+
+General Limited
+ Partner Partners Total
+ -------- -------- --------
+ --- -----
+Balance at December (649,950 2,693,75 2,043,80
+31, 2002 7 7
+
+ Net income 102,130 919,166 1,021,29
+ 6
+
+ Distributions (75,009) (675,082 (750,091) -------- -------- --------
+ ------ ------ ------
+Balance at December (622,829 2,937,84 2,315,01
+31, 2003 1 2
+
+ Net income 108,217 973,951 1,082,16
+ 8
+
+ Distributions (112,509 (1,012,5 (1,125,0) 32) 41)
+ -------- -------- --------
+ ------ ------ ------
+Balance at December (627,121 2,899,26 2,272,13
+31, 2004 0 9
+
+ Net income 203,349 1,830,14 2,033,48
+ 0 9
+
+ Distributions (200,000 (1,800,0 (2,000,0) 00) 00)
+ -------- -------- --------
+ ------ ------ ------
+Balance at December (623,772 2,929,40 2,305,62
+31, 2005 0 8
+ ======== ======== ========
+
+The accompanying notes are an integral
+ part of these financial statements.
+ 
+ Southwest Royalties, Inc. Income Fund VI
+ (a Tennessee limited partnership)
+ Statements of Cash Flows
+ Years ended December 31, 2005, 2004 and 2003
+
+ 2005 2004 2003
+ ------ ------ ------
+Cash flows from operating
+activities:
+
+ Cash received from net profits 2,291,33 1,180,93 1,124,00
+interests 8 6 2
+ Cash paid for administrative
+fees and general
+ and administrative overhead (155,244 (164,576 (164,052) Interest received 5,399 1,972 1,178
+ Other 845 745 8,952
+ -------- -------- --------
+ ------ ------ ------
+ Net cash provided by 2,142,33 1,019,07 970,080
+operating activities 8 7
+ -------- -------- --------
+ ------ ------ ------
+Cash flows from investing
+activities:
+
+ Sale of oil and gas properties - - 306
+ -------- -------- --------
+ ------ ------ ------
+Cash flows from financing
+activities:
+
+ Distributions to partners (2,000,0 (1,125,0 (750,091
+ 00) 41) Increase (decrease) in 180 - (3,356)
+distributions payable
+ -------- -------- --------
+ ------ ------ ------
+ Net cash used in financing (1,999,8 (1,125,0 (753,447
+activities 20) 41) -------- -------- --------
+ ------ ------ ------
+ Net increase (decrease) in 142,518 (105,964 216,939
+cash and cash equivalents 
+ Beginning of year 128,990 234,954 18,015
+ -------- -------- --------
+ ------ ------ ------
+ End of year 271,508 128,990 234,954
+ ======== ======== ========
+ (continu
+ ed)
+ Southwest Royalties, Inc. Income Fund VI
+ (a Tennessee limited partnership)
+ Statements of Cash Flows
+ Years ended December 31, 2005, 2004 and 2003
+
+ 2005 2004 2003
+ ------ ------ ------
+Reconciliation of net income to
+net
+ cash provided by operating
+activities:
+Net income 2,033,48 1,082,16 1,021,29
+ 9 8 6
+
+Adjustments to reconcile net
+income to
+ net cash provided by operating
+activities:
+
+ Depreciation, depletion and 94,479 101,654 130,000
+amortization
+ Accretion expense 27,488 26,642 39,008
+ Settlement of ARO for P&A (2,645) (38,389) -
+wells
+ Cumulative effect of change in - - (116,637
+accounting principle Increase in receivables (10,473) (152,998 (103,587) -------- -------- --------
+ ------ ------ ------
+Net cash provided by operating 2,142,33 1,019,07 970,080
+activities 8 7
+ ======== ======== ========
+Noncash investing and financing
+activities:
+ Increase in oil and properties
+- - Adoption
+ of SFAS No. 143 - - 616,464
+ ======== ======== ========
+ (Decrease) increase in oil and
+gas properties -
+ SFAS No. 143 (15,850) - 422
+ ======== ======== ========
+
+The accompanying notes are an integral
+ part of these financial statements.
+ 
+ Southwest Royalties, Inc. Income Fund VI
+ (a Tennessee limited partnership)
+
+ Notes to Financial Statements
+
+1. Organization
+ Southwest Royalties, Inc. Income Fund VI was organized under the
+ laws of the state of Tennessee on December 4, 1986, for the purpose of
+ acquiring producing oil and gas properties and to produce and market
+ crude oil and natural gas produced from such properties for a term of
+ 50 years, unless terminated at an earlier date as provided for in the
+ Partnership Agreement. The Partnership sells its oil and gas
+ production to a variety of purchasers with the prices it receives being
+ dependent upon the oil and gas economy. Southwest Royalties, Inc., a
+ wholly owned subsidiary of Clayton Williams Energy, Inc., serves as the
+ Managing General Partner.
+
+ Revenues, costs and expenses are allocated as follows:
+
+ Limite General
+ d
+ Partne Partner
+ rs s
+ ------ -------
+ ----- -----
+ Interest income on capital 100 -
+ contributions
+ Oil and gas sales 90 10 
+ All other revenues 90 10 
+ Organization and offering costs (1) 100 -
+ Amortization of organization costs 100 -
+ Property acquisition costs 100 -
+ Gain/loss on property disposition 90 10 
+ Operating and administrative costs 90 10 
+ (2)
+ Depreciation, depletion and
+ amortization
+ of oil and gas properties 90 10 
+ All other costs 90 10 
+
+ (1)All organization costs in excess of 3 of initial capital
+ contributions will be paid by the Managing General Partner and
+ will be treated as a capital contribution. The Partnership paid
+ the Managing General Partner an amount equal to 3 of initial
+ capital contributions for such organization costs.
+
+ (2)Administrative costs in any year, which exceed 2 of capital
+ contributions shall be paid by the Managing General Partner and
+ will be treated as a capital contribution.
+
+2. Summary of Significant Accounting Policies
+
+ Oil and Gas Properties
+ Oil and gas properties are accounted for at cost under the full-cost
+ method. Under this method, all productive and nonproductive costs
+ incurred in connection with the acquisition, exploration and
+ development of oil and gas reserves are capitalized. Gain or loss on
+ the sale of oil and gas properties is not recognized unless significant
+ oil and gas reserves are involved.
+
+ Should the net capitalized costs exceed the estimated present value of
+ oil and gas reserves, discounted at 10 , such excess costs would be
+ charged to current expense. As of December 31, 2005, 2004 and 2003,
+ the net capitalized costs did not exceed the estimated present value of
+ oil and gas reserves.
+
+ The Partnership's interest in oil and gas properties consists of net
+ profits interests in proved properties located within the continental
+ United States. A net profits interest is created when the owner of a
+ working interest in a property enters into an arrangement providing
+ that the net profits interest owner will receive a stated percentage of
+ the net profit from the property. The net profits interest owner will
+ not otherwise participate in additional costs and expenses of the
+ property.
+
+Southwest Royalties, Inc. Income Fund VI
+ (a Tennessee limited partnership)
+
+ Notes to Financial Statements
+
+2. Summary of Significant Accounting Policies - continued
+
+ Oil and Gas Properties - continued
+ The Partnership recognizes income from its net profits interest in oil
+ and gas property on an accrual basis, while the quarterly cash
+ distributions of the net profits interest are based on a calculation of
+ actual cash received from oil and gas sales, net of expenses incurred
+ during that quarterly period. If the net profits interest calculation
+ results in expenses incurred exceeding the oil and gas income received
+ during a quarter, no cash distribution is due to the Partnership's net
+ profits interest until the deficit is recovered from future net
+ profits. The Partnership accrues a quarterly loss on its net profits
+ interest provided there is a cumulative net amount due for accrued
+ revenue as of the balance sheet date. As of December 31, 2005, there
+ were no timing differences which resulted in a deficit net profit
+ interest.
+
+ Estimates and Uncertainties
+ The preparation of financial statements in conformity with generally
+ accepted accounting principles requires management to make estimates
+ and assumptions that affect the reported amounts of assets and
+ liabilities and disclosure of contingent assets and liabilities at the
+ date of the financial statements and the reported amounts of revenues
+ and expenses during the reporting period. The Partnership's depletion
+ calculation and full cost ceiling test for oil and gas properties uses
+ oil and gas reserve estimates, which are inherently imprecise. Actual
+ results could differ from those estimates.
+
+ Syndication Costs
+ Syndication costs are accounted for as a reduction of partnership
+ equity.
+
+ Environmental Costs
+ The Partnership is subject to extensive federal, state and local
+ environmental laws and regulations. These laws, which are constantly
+ changing, regulate the discharge of materials into the environment and
+ may require the Partnership to remove or mitigate the environmental
+ effects of the disposal or release of petroleum or chemical substances
+ at various sites. Environmental expenditures are expensed or
+ capitalized depending on their future economic benefit. Costs, which
+ improve a property as compared with the condition of the property when
+ originally constructed or acquired and costs, which prevent future
+ environmental contamination are capitalized. Expenditures that relate
+ to an existing condition caused by past operations and that have no
+ future economic benefits are expensed. Liabilities for expenditures of
+ a non-capital nature are recorded when environmental assessment and/or
+ remediation is probable, and the costs can be reasonably estimated.
+
+ Revenue Recognition
+ The Partnership recognizes oil and gas sales when delivery to the
+ purchaser has occurred and title has transferred. This occurs when
+ production has been delivered to a pipeline or transport vehicle.
+
+ Gas Balancing
+ The Partnership utilizes the sales method of accounting for gas-
+ balancing arrangements. Under this method the Partnership recognizes
+ sales revenue on all gas sold. As of December 31, 2005 and 2004, the
+ Partnership was under produced by 5,312 and 5,306 mcf of gas,
+ respectively.
+
+ Income Taxes
+ No provision for income taxes is reflected in these financial
+ statements, since the tax effects of the Partnership's income or loss
+ are passed through to the individual partners.
+
+ In accordance with the requirements of Statement of Financial
+ Accounting Standards No. 109, "Accounting for Income Taxes" the
+ Partnership's tax basis in its net oil and gas properties at December
+ 31, 2005 and 2004 is 1,880,677 and 1,932,696, respectively, less than
+ that shown on the accompanying Balance Sheets in accordance with
+ generally accepted accounting principles.
+
+Southwest Royalties, Inc. Income Fund VI
+ (a Tennessee limited partnership)
+
+ Notes to Financial Statements
+
+2. Summary of Significant Accounting Policies - continued
+
+ Cash and Cash Equivalents
+ For purposes of the statements of cash flows, the Partnership considers
+ all highly liquid debt instruments purchased with a maturity of three
+ months or less to be cash equivalents. The Partnership maintains its
+ cash at one financial institution.
+
+ Number of Limited Partner Units
+ As of December 31, 2005, 2004 and 2003, there were 20,000 limited
+ partner units outstanding held by 559, 602 and 667 partners.
+
+ Concentrations of Credit Risk
+ The Partnership is subject to credit risk through trade receivables.
+ Although a substantial portion of its debtors' ability to pay is
+ dependent upon the oil and gas industry, credit risk is minimized due
+ to a large customer base. All partnership revenues are received by the
+ Managing General Partner and subsequently remitted to the partnership
+ and all expenses are paid by the Managing General Partner and
+ subsequently reimbursed by the Partnership.
+
+ Fair Value of Financial Instruments
+ The carrying amount of cash and accounts receivable approximates fair
+ value due to the short maturity of these instruments.
+
+ Net Income per limited partnership unit
+ The net income per limited partnership unit is calculated by using the
+ number of outstanding limited partnership units.
+
+ Recent Accounting Pronouncements
+ In December 2004, the Financial Accounting Standards Board ("FASB")
+ issued Statement of Financial Accounting Standards No. 153 "Exchanges
+ of Nonmonetary Assets, an amendment of APB Opinion No. 29"
+ ("SFAS 153"). SFAS 153 specifies the criteria required to record a
+ nonmonetary asset exchange using carryover basis. SFAS 153 is
+ effective for nonmonetary asset exchanges occurring after July 1, 2005.
+ The Partnership adopted this statement in the third quarter of 2005,
+ and it did not have an effect on the financial statements.
+
+ In September 2004, the Securities and Exchange Commission issued Staff
+ Accounting Bulletin No. 106 ("SAB 106"). SAB 106 expresses the SEC
+ staff's views regarding SFAS No. 143 and its impact on both the full-
+ cost ceiling test and the calculation of depletion expense. In
+ accordance with SAB 106, beginning in the first quarter of 2005,
+ undiscounted abandonment costs for wells to be drilled in the future to
+ develop proved reserves are included in the unamortized cost of oil and
+ gas properties, net of related salvage value, for purposes of computing
+ depreciation, depletion and amortization ("DD&A"). The implementation
+ of SAB 106 did not have a material impact on our financial statements.
+
+3. Asset Retirement Obligations
+ On January 1, 2003, the Partnership adopted Statement of Financial
+ Accounting Standards No. 143, Accounting for Asset Retirement
+ Obligations ("SFAS No. 143"). The standard requires the Partnership to
+ recognize a liability for the present value of all legal obligations
+ associated with the retirement of tangible long-lived assets and to
+ capitalize an equal amount as a cost of the asset and depreciate the
+ additional cost over the estimated useful life of the asset. On
+ January 1, 2003, the Partnership recorded additional costs, net of
+ accumulated depreciation, of 616,464, a long term liability of
+ 499,827 and a gain of 116,637 for the cumulative effect on
+ depreciation of the additional costs and accretion expense on the
+ liability related to expected abandonment costs of its oil and natural
+ gas producing properties.
+
+Southwest Royalties, Inc. Income Fund VI
+ (a Tennessee limited partnership)
+
+ Notes to Financial Statements
+
+3. Asset Retirement Obligation - continued
+
+ Changes in abandonment obligations for 2005 and 2004 are as follows:
+
+ 2005 2004
+ ------- -------
+Beginning of year 501,653 513,400
+Additional abandonment obligations 3,934 -
+from new wells
+Reduction of obligations due to (32,811 -
+farmouts Reduction of obligations due to (2,645) (38,389
+wells plugged and abandoned Accretion expense 27,488 26,642
+Revisions of previous estimates 13,027 -
+ ------- -------
+ ------- -----
+End of year 510,646 501,653
+ ======= =======
+ =
+
+4. Commitments and Contingent Liabilities
+ After completion of the Partnership's first full fiscal year of
+ operations and each year thereafter, the Managing General Partner has
+ offered and will continue to offer to purchase each limited partner's
+ interest in the Partnership. The pricing mechanism used to calculate
+ the repurchase is based on tangible assets of the Partnership, plus the
+ present value of the future net revenues of proved oil and gas
+ properties, minus liabilities with a risk factor discount of up to one-
+ third which may be implemented at the sole discretion of the Managing
+ General Partner. However, the Managing General Partner's obligation to
+ purchase limited partner units is limited to an annual expenditure of
+ an amount not in excess of 10 of the total limited partner units
+ initially subscribed for by limited partners.
+
+ The Partnership is subject to various federal, state and local
+ environmental laws and regulations, which establish standards and
+ requirements for protection of the environment. The Partnership cannot
+ predict the future impact of such standards and requirements, which are
+ subject to change and can have retroactive effectiveness. The
+ Partnership continues to monitor the status of these laws and
+ regulations.
+
+ As of December 31, 2005, the Partnership has not been fined, cited or
+ notified of any environmental violations and management is not aware of
+ any unasserted violations, which would have a material adverse effect
+ upon capital expenditures, earnings or the competitive position in the
+ oil and gas industry. However, the Managing General Partner does
+ recognize by the very nature of its business, material costs could be
+ incurred in the near term to bring the Partnership into total
+ compliance. The amount of such future expenditures is not determinable
+ due to several factors, including the unknown magnitude of possible
+ contaminations, the unknown timing and extent of the corrective actions
+ which may be required, the determination of the Partnership's liability
+ in proportion to other responsible parties and the extent to which such
+ expenditures are recoverable from insurance or indemnifications from
+ prior owners of the Partnership's properties.
+
+5. Related Party Transactions
+ A significant portion of the oil and gas properties in which the
+ Partnership has an interest are purchased from and operated by the
+ Managing General Partner. As provided for in the operating agreement
+ for each respective oil and gas property in which the Partnership has
+ an interest, the operator is paid an amount for administrative overhead
+ attributable to operating such properties, with such amounts to
+ Southwest Royalties, Inc. as operator approximating 92,700, 85,700
+ and 83,000, for the years ended December 31, 2005, 2004 and 2003,
+ respectively. The amounts for administrative overhead attributable to
+ operating the partnerships properties has been deducted from gross oil
+ and gas revenues in the determination of net profit interest. In
+ addition, the Managing General Partner and certain officers and
+ employees may have an interest in some of the properties in which the
+ Partnership also participates.
+
+ Southwest Royalties, Inc., the Managing General Partner, was paid
+ 144,000 during 2005, 2004 and 2003, as an administrative fee for
+ indirect general and administrative overhead expenses. The
+ administrative fees are included in general and administrative expense
+ on the statement of operations.
+
+Southwest Royalties, Inc. Income Fund VI
+ (a Tennessee limited partnership)
+
+ Notes to Financial Statements
+
+5. Related Party Transactions - continued
+ Receivables from Southwest Royalties, Inc., the Managing General
+ Partner, of approximately 352,600 and 342,300 are from oil and gas
+ production, net of lease operating costs and production taxes, as of
+ December 31, 2005 and 2004, respectively.
+
+6. Oil and Gas Reserves Information (unaudited)
+ The estimates of proved oil and gas reserves utilized in the
+ preparation of the financial statements were prepared by independent
+ petroleum engineers. Such estimates are in accordance with guidelines
+ established by the Securities and Exchange Commission and the Financial
+ Accounting Standards Board, which require that reserve reports be
+ prepared under economic and operating conditions existing at the
+ registrant's year end with no provision for price and cost escalations
+ except by contractual arrangements. Future cash inflows were computed
+ by applying year-end prices to the year-end quantities of proved
+ reserves. Future development, abandonment and production costs were
+ computed by estimating the expenditures to be incurred in developing,
+ producing, and abandoning proved oil and gas reserves at the end of the
+ year, based on year-end costs. All of the Partnership's reserves are
+ located in the United States. For information about the Partnership's
+ results of operations from oil and gas producing activities, see the
+ accompanying statements of operations.
+
+ The Partnership's interest in proved oil and gas reserves is as
+ follows:
+
+ Oil Gas
+ (bbls) (mcf)
+ -------- --------
+ ---- -----
+Total Proved -
+
+January 1, 2003 198,000 4,408,00
+ 0
+
+ Sales of reserves in (3,000) (13,000)
+place
+ Revisions of previous 12,000 1,129,00
+estimates 0
+ Production (22,000) (275,000)
+ -------- --------
+ ---- ------
+December 31, 2003 185,000 5,249,00
+ 0
+
+ New discoveries and 83,000 678,000
+extensions
+ Revisions of previous 23,000 200,000
+estimates
+ Production (20,000) (246,000)
+ -------- --------
+ ---- ------
+December 31, 2004 271,000 5,881,00
+ 0
+
+ New discoveries and 2,000 15,000
+extensions
+ Revisions of previous 16,000 (513,000
+estimates Production (22,000) (262,000)
+ -------- --------
+ ---- ------
+December 31, 2005 267,000 5,121,00
+ 0
+ ======= ========
+Proved developed reserves -
+December 31, 2003 138,000 4,018,00
+ 0
+ ======= ========
+December 31, 2004 227,000 4,326,00
+ 0
+ ======= ========
+December 31, 2005 243,000 4,206,00
+ 0
+ ======= ========
+
+ Net revisions of 70,000 BOE in 2005 consisted of approximately 44,000
+ BOE of upward revisions attributable to the effects of higher product
+ prices on the estimated quantities of proved reserves, net of downward
+ revisions of approximately 114,000 BOE attributable to well performance
+ primarily from properties in the Amacker/Wilshire field of West Texas.
+
+Southwest Royalties, Inc. Income Fund VI
+ (a Tennessee limited partnership)
+
+ Notes to Financial Statements
+
+6. Oil and Gas Reserves Information (unaudited) - continued
+ Oil price adjustments were made in the individual evaluations to
+ reflect oil quality, gathering and transportation costs. The
+ standardized measure as of December 31, 2005, 2004 and 2003 reflects an
+ average oil price of 59.69, 42.02 and 31.26 per barrel.
+
+ Gas price adjustments were made in the individual evaluations to
+ reflect BTU content, gathering and transportation costs and gas
+ processing and shrinkage. The standardized measure as of December 31,
+ 2005, 2004 and 2003 reflects an average natural gas price of 10.43,
+ 5.36 and 5.31 per Mcf.
+
+ The evaluation of oil and gas properties is not an exact science and
+ inevitably involves a significant degree of uncertainty, particularly
+ with respect to the quantity of oil or gas that any given property is
+ capable of producing. Estimates of oil and gas reserves are based on
+ available geological and engineering data, the extent and quality of
+ which may vary in each case and, in certain instances, may prove to be
+ inaccurate. Consequently, properties may be depleted more rapidly than
+ the geological and engineering data have indicated.
+
+ Unanticipated depletion, if it occurs, will result in lower reserves
+ than previously estimated; thus an ultimately lower return for the
+ Partnership. Basic changes in past reserve estimates occur annually.
+ As new data is gathered during the subsequent year, the engineer must
+ revise his earlier estimates. A year of new information, which is
+ pertinent to the estimation of future recoverable volumes, is available
+ during the subsequent year evaluation. In applying industry standards
+ and procedures, the new data may cause the previous estimates to be
+ revised. This revision may increase or decrease the earlier estimated
+ volumes.
+
+ The Partnership has reserves, which are classified as proved developed
+ and proved undeveloped. All of the proved reserves are included in the
+ engineering reports, which evaluate the Partnership's present reserves.
+
+ Because the Partnership does not engage in drilling activities, the
+ development of proved undeveloped reserves is conducted pursuant to
+ farm-out arrangements with the Managing General Partner or unrelated
+ third parties. Generally, the Partnership retains a carried interest
+ such as an overriding royalty interest under the terms of a farm-out.
+
+Southwest Royalties, Inc. Income Fund VI
+ (a Tennessee limited partnership)
+
+ Notes to Financial Statements
+
+6. Oil and Gas Reserves Information (unaudited) - continued
+ The standardized measure of discounted future net cash flows relating
+ to proved oil and gas reserves at December 31, 2005, 2004 and 2003 is
+ presented below:
+
+ 2005 2004 2003
+ ------ ------ ------
+Future cash inflows 69,358,0 42,902,0 33,658,0
+ 00 00 00
+Production,
+development
+ and abandonment 18,482,0 12,108,0 8,608,00
+costs 00 00 0
+ -------- -------- --------
+ ------ ------ ------
+Future net cash flows 50,876,0 30,794,0 25,050,0
+ 00 00 00
+10 annual discount
+for
+ estimated timing of 30,277,0 16,769,0 13,629,0
+cash flows 00 00 00
+ -------- -------- --------
+ ------ ----- ------
+Standardized measure
+of
+ discounted future
+net cash
+ flows 20,599,0 14,025,0 11,421,0
+ 00 00 00
+ ======== ======== ========
+
+ Changes in the standardized measure of discounted future net cash
+ flows relating to proved reserves for the years ended December 31,
+ 2005, 2004 and 2003 are as follows:
+
+ 2005 2004 2003
+ ---- ---- ----
+Sales of oil and gas
+produced,
+ net of production (2,304,0 (1,372,0 (1,228,0
+costs 00) 00) 00)
+Extensions and 118,000 2,799,00 -
+discoveries 0
+Changes in prices and
+production
+ costs 10,253,0 185,000 1,679,00
+ 00 0
+Changes of production
+rates
+ (timing) and others (1,618,0 (766,000 (151,000
+ 00) Sales of minerals in - - (18,000)
+place
+Revisions of previous
+ quantities estimates (1,278,0 616,000 2,148,00
+ 00) 0
+Accretion of discount 1,403,00 1,142,00 817,000
+ 0 0
+Discounted future net
+cash flows -
+ Beginning of year 14,025,0 11,421,0 8,174,00
+ 00 00 0
+ -------- -------- --------
+ ------ ------ ------
+ End of year 20,599,0 14,025,0 11,421,0
+ 00 00 00
+ ======== ======== ========
+
+Southwest Royalties, Inc. Income Fund VI
+ (a Tennessee limited partnership)
+
+ Notes to Financial Statements
+
+7. Selected Quarterly Financial Results - (unaudited)
+
+ Quarter
+ --------------------------------------
+ --------------------------------------
+ -
+ First Second Third Fourth
+ ------ -------- ------- --------
+ --- -
+2005:
+ Total revenues 567,129 533,681 655,046 554,844
+ Total expenses 71,773 72,428 63,457 69,553
+ -------- -------- -------- --------
+ ---- ---- ---- ----
+ Net income 495,356 461,253 591,589 485,291
+ ======= ======= ======= =======
+
+ Net income per limited 22.29
+partner unit 20.76 26.62 21.84
+ ======= ======= ======= =======
+
+Quarter
+ --------------------------------------
+ --------------------------------------
+ -
+ First Second Third Fourth
+ ------ -------- ------- --------
+ --- -
+2004:
+ Total revenues 381,937 315,017 289,185 388,901
+ Total expenses 77,552 82,870 76,278 56,172
+ -------- -------- -------- --------
+ ---- ---- ---- ----
+ Net income 304,385 232,147 212,907 332,729
+ ======= ======= ======= =======
+
+ Net income per limited 13.70
+partner unit 10.45 9.58 14.97
+ ======= ======= ======= =======
+
+Item 9. Changes in and Disagreements With
+ Accountants on Accounting and Financial Disclosure
+
+None
+
+Item 9A. Controls and Procedures
+
+The Managing General Partner has established disclosure controls and
+procedures that are adequate to provide reasonable assurance that
+management will be able to collect, process and disclose both financial and
+non-financial information, on a timely basis, in the Partnership's reports
+to the SEC. Disclosure controls and procedures include all processes
+necessary to ensure that material information is recorded, processed,
+summarized and reported within the time periods specified in the SEC's
+rules and forms, and is accumulated and communicated to management,
+including our chief executive and chief financial officers, to allow timely
+decisions regarding required disclosures.
+
+ With respect to these disclosure controls and procedures:
+
+ management has evaluated the effectiveness of the disclosure
+ controls and procedures as of the end of the period covered by
+ this report;
+
+ this evaluation was conducted under the supervision and with the
+ participation of management, including the chief executive and
+ chief financial officers of the Managing General Partner; and
+
+ it is the conclusion of chief executive and chief financial
+ officers of the Managing General Partner that these disclosure
+ controls and procedures are effective in ensuring that
+ information that is required to be disclosed by the Partnership
+ in reports filed or submitted with the SEC is recorded,
+ processed, summarized and reported within the time periods
+ specified in the rules and forms established by the SEC.
+
+Internal Control Over Financial Reporting
+There has not been any change in the Partnership's internal control over
+financial reporting that occurred during the quarter ended December 31,
+2005 that has materially affected, or is reasonably likely to materially
+affect, its internal control over financial reporting.
+
+Item 9B. Other Information
+
+None.
+
+Part III
+
+Item 10. Directors and Executive Officers of the Registrant
+
+Management of the Partnership is provided by Southwest Royalties, Inc., as
+Managing General Partner. Since the Managing General Partner is a wholly
+owned subsidiary of CWEI, the directors of the Managing General Partner are
+elected by management of CWEI. Each director the Managing General Partner
+serves for a term of one year. Following is certain information concerning
+each of the directors and executive officers of the Managing General
+Partner.
+
+CLAYTON W. WILLIAMS, age 74, is Chairman of the Board and a director of the
+Managing General Partner, having served in this capacity since May 2004.
+Mr. Williams also serves as Chairman of the Board, President, Chief
+Executive Officer and a director of CWEI.
+
+L. PAUL LATHAM, age 54, is President, Chief Executive Officer and a
+director of the Managing General Partner, having served in this capacity
+since May 2004. Mr. Latham also serves as Executive Vice President, Chief
+Operating Officer and a director of CWEI.
+
+MEL G. RIGGS, age 51, is Vice President, Chief Financial Officer, Treasurer
+and a director of the Managing General Partner, having served in this
+capacity since May 2004. Mr. Riggs also serves as Senior Vice President
+and Chief Financial Officer of CWEI.
+
+RANDY HOWARD, age 50, is Vice President - of the Managing General Partner,
+having served in this capacity since March 2006.
+
+ROBERT C. LYON, age 69, is Vice President - Gas Gathering and Marketing of
+the Managing General Partner, having served in this capacity since May
+2004. Mr. Lyon also serves as Vice President - Gas Gathering and Marketing
+of CWEI.
+
+T. MARK TISDALE, age 49, is Vice President and Secretary of the Managing
+General Partner, having served in this capacity since May 2004. Mr.
+Tisdale also serves as Vice President and General Counsel of CWEI.
+
+Code of Ethics
+
+As a wholly owned subsidiary of CWEI, the Managing General Partner is
+subject to a Code of Conduct and Ethics ("Code") that applies to all
+directors, executive officers and employees of CWEI and the Managing
+General Partner. This Code assists employees in complying with the law, in
+resolving ethical issues that may arise, and in complying with policies
+established by CWEI. This Code is also designed to promote, among other
+things, ethical handling of actual or apparent conflicts of interest; full,
+fair, accurate and timely disclosure in filings with the SEC; compliance
+with law; and prompt internal reporting of violations of the Code. This
+Code is available on the website of CWEI at www.claytonwilliams.com under
+"Investor Relations/Documents".
+
+Item 11. Executive Compensation
+
+The Partnership does not employ any directors, executive officers or
+employees. The Managing General Partner receives an administrative fee for
+the management of the Partnership. The Managing General Partner received
+ 144,000 during 2005, 2004 and 2003 as an annual administrative fee. The
+executive officers of the Managing General Partner do not receive any form
+of compensation, from the Partnership; instead, their compensation is paid
+solely by Southwest. The executive officers, however, may occasionally
+perform administrative duties for the Partnership but receive no additional
+compensation for this work.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+
+There are no limited partners who own of record, or are known by the
+Managing General Partner to beneficially own, more than five percent of the
+Partnership's limited partnership interests, other than the Managing
+General Partner.
+
+Through repurchase offers to the limited partners, the Managing General
+Partner owns 9,118.4 limited partner units, a 41.0 limited partner
+interest. The Managing General Partner's total percentage interest
+ownership in the Partnership is 51.0 .
+
+No officer or director of the Managing General Partner directly owns units
+in the Partnership. CWEI is considered to be a beneficial owner of the
+limited partner units acquired by the Managing General Partner by virtue of
+its ownership of the Managing General Partner. Beneficial ownership is
+determined in accordance with the rules of the Securities and Exchange
+Commission and includes voting or investment power with respect to the
+limited partner units.
+
+Item 13. Certain Relationships and Related Transactions
+
+In 2005, the Managing General Partner received 144,000 as an
+administrative fee. This amount is part of the general and administrative
+expenses incurred by the Partnership.
+
+In some instances, the Managing General Partner and its affiliates may be
+working interest owners in an oil and gas property in which the Partnership
+also has a net profits interest. Certain properties in which the
+Partnership has an interest are operated by the Managing General Partner,
+who was paid approximately 92,700 for administrative overhead attributable
+to operating such properties during 2005.
+
+The terms of the above transactions are similar to ones, which would have
+been obtained through arm's length negotiations with unaffiliated third
+parties.
+
+Item 14. Principal Accountant Fees and Services
+
+The following table presents fees for professional audit services rendered
+by KPMG LLP for the audit of the Partnership's annual financial statements
+for the years ended December 31, 2005 and 2004 and fees billed for other
+services rendered by KPMG during those periods.
+
+For the Year Ended December 2005 2004
+31,
+ ------ ------
+Audit Fees 13,303 
+ 12,865
+Audit Related Fees - -
+Tax Fees -
+ -
+All Other Fees -
+ -
+ ------ ------
+ --- --
+ TOTAL 13,303 
+ 12,865
+ =====
+ =====
+
+The Audit Committee of CWEI reviewed and approved, in advance, all audit
+and non-audit services provided by KPMG LLP.
+
+Part IV
+
+Item 15. Exhibits and Financial Statement Schedules
+
+ (a)(1) Financial Statements:
+
+ Included in Part II of this report --
+
+ Report of Independent Registered Public Accounting Firm
+ Balance Sheets
+ Statements of Operations
+ Statement of Changes in Partners' Equity
+ Statements of Cash Flows
+ Notes to Financial Statements
+
+ (2) Schedules required by Article 12 of Regulation S-
+ X are either omitted because they are not applicable or
+ because the required information is shown in the
+ financial statements or the notes thereto.
+
+ (3) Exhibits:
+
+ 4 (a) Certificate and
+ Agreement of Limited Partnership of Southwest
+ Royalties, Inc. Income Fund VI, dated December 4,
+ 1986. (Incorporated by reference from
+ Partnership's Form 10-K for the fiscal year ended
+ December 31, 1986.)
+
+ (b) First Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated January 16,1987. (Incorporated by
+ reference from Partnership's Form 10-K for the
+ fiscal year ended December 31, 1987.)
+
+ (c) Corrected Second
+ Amendment to Certificate and Agreement of Limited
+ Partnership of Southwest Royalties, Inc. Income
+ Fund VI, dated May 6, 1987. (Incorporated by
+ reference from Partnership's Form 10-K for the
+ fiscal year ended December 31, 1987.)
+
+ (d) Third Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated February 3, 1988 (Incorporated by reference
+ from Partnership's Form 10-K for the fiscal year
+ ended December 31, 1988.)
+
+ (e) Fourth Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated June 30, 1988 (Incorporated by reference
+ from Partnership's Form 10-K for the fiscal year
+ ended December 31, 1988.)
+
+ (f) Fifth Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated December 30, 1988 (Incorporated by
+ reference from the Partnership's Form 10-K for
+ the fiscal year ended December 31, 1988.)
+
+ (g) Sixth Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated as of March 19, 1990. (Incorporated by
+ reference from the Partnership's Form 10-K for
+ the fiscal year ended December 31, 1990.)
+
+ (h) Seventh Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated as of December 31, 1990. (Incorporated by
+ reference from the Partnership's Form 10-K for
+ the fiscal year ended December 31, 1990.)
+ 
+ (i) Eighth Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated as of September 30, 1991. (Incorporated by
+ reference from the Partnership's Form 10-K for
+ the fiscal year ended December 31, 1991.)
+
+ (j) Ninth Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated as of December 31, 1991. (Incorporated by
+ reference from the Partnership's Form 10-K for
+ the fiscal year ended December 31, 1992.)
+
+ (k) Tenth Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated as of March 31, 1992. (Incorporated by
+ reference from the Partnership's Form 10-K for
+ the fiscal year ended December 31, 1992.)
+
+ (l) Eleventh Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated as of June 30, 1992. (Incorporated by
+ reference from the Partnership's Form 10-K for
+ the fiscal year ended December 31, 1992.)
+
+ (m) Twelfth Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated as of November 23, 1992. (Incorporated by
+ reference from the Partnership's Form 10-K for
+ the fiscal year ended December 31, 1992.)
+
+ (n) Thirteenth Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated as of April 22, 1993. (Incorporated by
+ reference from the Partnership's Form 10-K for
+ the fiscal year ended December 31, 1993.)
+
+ (o) Fourteenth Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated as of September 30, 1993. (Incorporated by
+ reference from the Partnership's Form 10-K for
+ the fiscal year ended December 31, 1993.)
+
+ (p) Fifteenth Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated as of December 31, 1993. (Incorporated by
+ reference from the Partnership's Form 10-K for
+ the fiscal year ended December 31, 1993.)
+
+ (q) Sixteenth Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated as of July 26, 1994. (Incorporated by
+ reference from the Partnership's Form 10-K for
+ the fiscal year ended December 31, 1994.)
+
+ (r) Seventeenth Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated as of January 18, 1995. (Incorporated by
+ reference from the Partnership's Form 10-K for
+ the fiscal year ended December 31, 1994.)
+
+ (s) Eighteenth Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated as of July 26, 1995.
+
+ (t) Nineteenth Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated as of January 29, 1996.
+
+ (u) Twentieth Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated as of April 30, 1996.
+
+ (v) Twenty First Amendment
+ to Certificate and Agreement of Limited
+ Partnership of Southwest Royalties, Inc. Income
+ Fund VI, dated as of September 30, 1996.
+
+(w) Twenty Second Amendment
+ to Certificate and Agreement of Limited
+ Partnership of Southwest Royalties, Inc. Income
+ Fund VI, dated as of January 15, 1997.
+
+ (x) Twenty Third Amendment
+ to Certificate and Agreement of Limited
+ Partnership of Southwest Royalties, Inc. Income
+ Fund VI, dated as of May 10, 1997.
+
+ (y) Twenty Fourth Amendment to Certificate and
+ Agreement of Limited Partnership of Southwest
+ Royalties, Inc. Income Fund VI, dated as of
+ January 30, 1998.
+
+ (z) Twenty Fifth Amendment to Certificate and
+ Agreement of
+ Limited Partnership of Southwest Royalties, Inc.
+ Income Fund VI, dated as of July 27, 1998.
+
+ (aa) Twenty Sixth Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated as of December 22, 1998.
+
+ (bb) Twenty Seventh Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated as of February 25, 1999.
+
+ (cc) Twenty Eighth Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated as of July 27, 1999.
+
+ (dd) Twenty Ninth Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated as of February 10, 2000.
+
+ (ee) Thirtieth Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated as of April 26, 2000.
+
+ (ff) Thirty First Amendment
+ to Certificate and Agreement of Limited
+ Partnership of Southwest Royalties, Inc. Income
+ Fund VI, dated as of September 13, 2000.
+
+ (gg) Thirty Second Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated as of February 20, 2001.
+
+ (hh) Thirty Third Amendment to
+ Certificate and Agreement of Limited Partnership
+ of Southwest Royalties, Inc. Income Fund VI,
+ dated as of July 16, 2001.
+
+(ii) Thirty Fourth Amendment
+ to Certificate and Agreement of Limited
+ Partnership of Southwest Royalties, Inc. Income
+ Fund VI, dated as of January 11, 2002.
+
+ (jj) Thirty Fifth Amendment
+ to Certificate and Agreement of Limited
+ Partnership of Southwest Royalties, Inc. Income
+ Fund VI, dated as of June 3, 2002.
+
+ (kk) Thirty Sixth Amendment
+ to Certificate and Agreement of Limited
+ Partnership of Southwest Royalties, Inc. Income
+ Fund VI, dated as of July 30, 2002.
+
+ (ll) Thirty Seventh Amendment
+ to Certificate and Agreement of Limited
+ Partnership of Southwest Royalties, Inc. Income
+ Fund VI, dated as of February 20, 2003.
+
+ 31.1 Rule 13a-14(a)/15d-14(a) Certification
+ 31.2 Rule 13a-14(a)/15d-14(a) Certification
+ 32.1 Certification of Chief Executive Officer and
+Chief Financial Officer
+ Pursuant to 18 U.S.C. Section 1350, as adopted
+ Pursuant to Section
+ 906 of the Sarbanes-Oxley Act of 2002
+ 
+ Signatures
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Partnership has duly caused this report to be
+signed on its behalf by the undersigned, thereunto duly authorized.
+
+Southwest Royalties, Inc. Income Fund VI, a
+ Tennessee limited partnership
+
+By: Southwest Royalties, Inc., Managing
+ General Partner
+
+By: /s/ L. Paul Latham
+ L. Paul Latham
+ President and Chief Executive Officer
+
+ Date: March 30, 2006
+
+In accordance with the Exchange Act, this report has been signed below by
+the following persons on behalf of the Registrant and in the capacities and
+on the dates indicated.
+
+/s/ Clayton W Williams /s/ L. Paul Latham
+Clayton W. Williams, L. Paul Latham,
+Chairman of the Board President and a Director
+and a Director
+
+Date: March 30, 2006 Date: March 30, 2006
+
+/s/ Mel G. Riggs
+Mel G. Riggs, Vice
+President - Finance,
+Treasurer and a Director
+
+Date: March 30, 2006
+
+SECTION 302 CERTIFICATION Exhibit 31.1
+
+I, L. Paul Latham, certify that:
+
+1. I have reviewed this annual report on Form 10-K of Southwest
+Royalties, Inc. Income Fund VI
+
+2.Based on my knowledge, this report does not contain any untrue statement
+ of a material fact or omit to state a material fact necessary to make
+ the statements made, in light of the circumstances under which such
+ statements were made, not misleading with respect to the period covered
+ by this report;
+
+3.Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows
+ of the registrant as of, and for, the periods presented in this report;
+
+4.The registrant's other certifying officer(s) and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the
+ registrant and have:
+
+ a)Designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known to
+ us by others within those entities, particularly during the period in
+ which this report is being prepared;
+
+ b)Evaluated the effectiveness of the registrant's disclosure controls
+ and procedures and presented in this report our conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the end
+ of the period covered by this report based on such evaluation; and
+
+ c)Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the registrant's
+ most recent fiscal quarter (the registrant's fourth fiscal quarter in
+ the case of an annual report) that has materially affected, or is
+ reasonably likely to materially affect, the registrant's internal
+ control over financial reporting; and
+
+5.The registrant's other certifying officer(s) and I have disclosed, based
+ on our most recent evaluation of internal control over financial
+ reporting, to the registrant's auditors and the audit committee of
+ registrant's board of directors (or persons performing the equivalent
+ functions):
+
+ a)All significant deficiencies and material weaknesses in the design or
+ operation of internal control over financial reporting which
+ reasonably likely to adversely affect the registrant's ability to
+ record, process, summarize and report financial information; and
+
+ b)Any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal
+ control over financial reporting.
+
+Date: March 30, 2006 /s/ L. Paul Latham
+ L. Paul Latham
+ President and Chief Executive Officer
+ of Southwest Royalties, Inc., the
+ Managing General Partner of
+ Southwest Royalties, Inc. Income Fund VI
+
+SECTION 302 CERTIFICATION Exhibit 31.2
+
+I, Mel G. Riggs, certify that:
+
+1. I have reviewed this annual report on Form 10-K of Southwest
+Royalties, Inc. Income Fund VI
+
+2.Based on my knowledge, this report does not contain any untrue statement
+ of a material fact or omit to state a material fact necessary to make
+ the statements made, in light of the circumstances under which such
+ statements were made, not misleading with respect to the period covered
+ by this report;
+
+3.Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows
+ of the registrant as of, and for, the periods presented in this report;
+
+4.The registrant's other certifying officer(s) and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the
+ registrant and have:
+
+ a)Designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known to
+ us by others within those entities, particularly during the period in
+ which this report is being prepared;
+
+ b)Evaluated the effectiveness of the registrant's disclosure controls
+ and procedures and presented in this report our conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the end
+ of the period covered by this report based on such evaluation; and
+
+ c)Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the registrant's
+ most recent fiscal quarter (the registrant's fourth fiscal quarter in
+ the case of an annual report) that has materially affected, or is
+ reasonably likely to materially affect, the registrant's internal
+ control over financial reporting; and
+
+5.The registrant's other certifying officer(s) and I have disclosed, based
+ on our most recent evaluation of internal control over financial
+ reporting, to the registrant's auditors and the audit committee of
+ registrant's board of directors (or persons performing the equivalent
+ functions):
+
+ a)All significant deficiencies and material weaknesses in the design or
+ operation of internal control over financial reporting which
+ reasonably likely to adversely affect the registrant's ability to
+ record, process, summarize and report financial information; and
+
+ b)Any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal
+ control over financial reporting.
+
+Date: March 30, 2006 /s/ Mel G. Riggs
+ Mel G. Riggs
+ Vice President and Chief Financial
+Officer of
+ Southwest Royalties, Inc., the
+ Managing General Partner of
+ Southwest Royalties, Inc. Income Fund VI
+
+Exhibit 32.1
+
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER AND
+ CHIEF FINANCIAL OFFICER
+
+Pursuant to 18 U.S.C. 1350 and in connection with the accompanying report
+on Form 10-K for the period ended December 31, 2005 that is being filed
+concurrently with the Securities and Exchange Commission on the date hereof
+(the "Report"), each of the undersigned officers of Southwest Royalties,
+Inc. Income Fund VI (the "Company"), hereby certifies that:
+
+ 1. The Report fully complies with the requirements of section 13(a)
+ or 15(d) of the Securities Exchange Act of 1934; and
+
+ 2. The information contained in the Report fairly presents, in all
+ material respects, the financial condition and results of
+ operation of the Company.
+
+/s/ L. Paul Latham
+ L. Paul Latham
+ President and Chief Executive Officer
+ of Southwest Royalties, Inc., the
+ Managing General Partner of
+ Southwest Royalties, Inc. Income
+ Fund VI
+
+ March 30, 2006
+
+/s/ Mel G. Riggs
+ Mel G. Riggs
+ Vice President and Chief Financial
+ Officer of
+ Southwest Royalties, Inc., the
+ Managing General Partner of
+ Southwest Royalties, Inc. Income
+ Fund VI
+
+ March 30, 2006
+

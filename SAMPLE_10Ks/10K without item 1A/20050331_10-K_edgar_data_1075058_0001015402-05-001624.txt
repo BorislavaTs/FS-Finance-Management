@@ -1,0 +1,3256 @@
+<Header>
+<FileStats>
+    <FileName>20050331_10-K_edgar_data_1075058_0001015402-05-001624.txt</FileName>
+    <GrossFileSize>190312</GrossFileSize>
+    <NetFileSize>150580</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1470</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001015402-05-001624.hdr.sgml : 20050331
+<ACCEPTANCE-DATETIME>20050331122054
+ACCESSION NUMBER:		0001015402-05-001624
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20041231
+FILED AS OF DATE:		20050331
+DATE AS OF CHANGE:		20050331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MLM INDEX FUND
+		CENTRAL INDEX KEY:			0001075058
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [6221]
+		IRS NUMBER:				222897229
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-49767
+		FILM NUMBER:		05717848
+
+	BUSINESS ADDRESS:	
+		STREET 1:		47 HULFISH STREET
+		STREET 2:		SUITE 510
+		CITY:			PRINCETON
+		STATE:			NJ
+		ZIP:			08542
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Pi6U/5GY3SlD0y4JYX2Mxarf3eFH2H8QNEJrEM6Jdt+ojMs+7jepQ5E2quGrmHBc
+ taR+ac7wowCf8xH5yJwrEQ==
+
+ 0001015402-05-001624.txt : 20050331
+
+10-K
+ 1
+ body.txt
+ MOUNT LUCAS 10-K 12-31-2004
+ 
+ SECURITIES AND EXCHANGE COMMISSION
+ Washington, D.C. 20549
+ Form 10-K
+
+(Mark One)
+[x] Annual report pursuant to Section 13 or 15 (d) of the Securities Exchange
+ Act of 1934 for the fiscal year ended December 31, 2004
+
+[_] Transition report pursuant to Section 13 or 15 (d) of the Securities
+ Exchange Act of 1934
+
+ For the transition period from __________________ to ___________________
+
+ Commission file number 0-49767
+
+MLM INDEX(TM) FUND
+ (Exact name of registrant as specified in its charter)
+
+Delaware Unleveraged Series: 22-2897229
+ Leveraged Series: 22-372268322
+(State of Incorporation) (I.R.S. Employer Identification No.)
+
+47 Hulfish Street
+ Suite 510
+ Princeton, New Jersey 08542
+(Adress of principal executive offices) (Zip Code)
+
+Registrant's telephone number, including area code: (609) 924-8868
+
+Securities registered pursuant to Section 12 (b) of the Act:
+
+Title of Each Class Name of Exchange on Which Registered
+ None None
+
+Securities registered pursuant to Section 12 (g) of the Act:
+
+ Business Trust Interests - Unleveraged Series
+ Business Trust Interests - Leveraged Series
+
+ Indicate by check mark whether the registrant (1) has filed all reports
+
+1
+ 
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports) and (2) has been subject to such
+filing requirements for the past 90 days. Yes [x] No[ ].
+
+ Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [x]
+
+ Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Exchange Act Rule 12b-2). Yes [ ] No [x].
+
+ As of February 25, 2005 the aggregate market value of the business trust
+units of the Unleveraged Series of the registrant held by non-affiliates of the
+registrant was approximately 175,250,000 and the aggregate market value of the
+business trust units of the Leveraged Series of the registrant held by
+non-affiliates of the registrant was approximately 188,563,000.
+
+2
+
+TABLE OF CONTENTS
+
+ Page
+ ----
+ 
+PART I. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+ Item 1. Business. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+ Item 2. Properties. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+ Item 3. Legal Proceedings. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+ Item 4. Submission of Matters to a Vote of Security Holders. . . . . . . . . . . . 21
+
+PART II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+
+ Item 5. Market Price of and Dividends on the Registrant's Common Equity and
+ Related Stockholder Matters . . . . . . . . . . . . . . . . . . . . . . . . 22
+
+ Item 6. Selected Financial Data . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+
+ Item 7. Management's Discussion and Analysis of Financial Condition and Results of
+ Operations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+
+ Item 7A Quantitative and Qualitative Disclosures About Market Risk. . . . . . . . . 29
+
+ Item 8. Financial Statements and Supplementary Data . . . . . . . . . . . . . . . . 31
+
+ Item 9. Changes in and Disagreements with Accountants on Accounting and
+ Financial Disclosure. . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+
+ Item 9A. Controls and Procedures. . . . . . . . . . . . . . . . . . . . . . . . . . 31
+
+PART III. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+
+ Item 10. Directors and Executive Officers. . . . . . . . . . . . . . . . . . . . . . 32
+
+ Item 11. Executive Compensation. . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+
+ Item 12. Security Ownership of Certain Beneficial Owners and Management. . . . . . . 34
+
+ Item 13. Certain Relationships and Related Transactions. . . . . . . . . . . . . . . 34
+
+ Item 14. Principal Accountant Fees and Services. . . . . . . . . . . . . . . . . . . 34
+
+PART IV . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+
+ Item 15. Exhibits, Financial Statement Schedules, and Reports on Form 8-K. . . . . . 36
+
+3
+ 
+ PART I
+
+Item 1. Business.
+
+General
+
+ The MLM Index(TM) Fund (the "Trust") is a business trust organized under
+the laws of Delaware. The Trust engages primarily in the speculative trading of
+a diversified portfolio of futures contracts using the MLM Index(TM) Trading
+Program (the "Trading Program"). Futures contracts are standardized contracts
+made on or through a commodity exchange and provide for future delivery of
+commodities, precious metals, foreign currencies or financial instruments and,
+in the case of certain contracts such as stock index futures contracts and
+Eurodollar futures contracts, provide for cash settlement. The Trust's objective
+is the appreciation of its assets through speculative trading. The Trust began
+trading on January 4, 1999.
+
+ Mount Lucas Management Corporation (the "Manager"), a Delaware corporation,
+acts as the manager and trading advisor of the Trust. The Manager was formed in
+1986 to act as an investment manager. As part of a planned merger in October
+1999, the Manager combined operations with Mount Lucas Index Management
+Corporation (the former manager of the Trust), CA Partners, Inc. and Little
+Brook Corporation of New Jersey. The purpose of the merger was to streamline and
+consolidate the operations of the affiliated entities. As of December 31, 2004,
+the Manager had approximately 1.553 billion of assets under advisement. The
+Manager is a registered investment adviser under the Investment Advisers Act of
+1940 and is a registered commodity trading advisor and commodity pool operator
+with the Commodity Futures Trading Commission (the "CFTC") and a member of the
+National Futures Association (the "NFA"). The Manager may from time to time
+operate other investment vehicles.
+
+ The Trust and the Manager maintain their principal business office at 47
+Hulfish Street, Suite 510, Princeton, New Jersey 08542 and their telephone
+number is (609) 924-8868.
+
+ Wilmington Trust Company, a Delaware banking corporation, acts as trustee
+for the Trust. The Trustee's office is located at Rodney Square North, 1100
+North Market Street, Wilmington, Delaware 19890. The Trustee is unaffiliated
+with the Manager. The Trustees duties and liabilities are limited to its express
+obligations under the Amended and Restated Declaration of Trust and Trust
+Agreement, dated as of August 31, 1998, among the Trustee, the Manager and the
+Interest Holders from time to time thereunder, as amended (the "Trust
+Agreement").
+
+ Refco, LLC currently acts as clearing broker for the Trust. A clearing
+broker accepts orders to trade futures on behalf of another party and accepts
+money to support such orders. The clearing broker is a futures commission
+merchant registered with the CFTC and is a member of the NFA.
+
+Trading Program
+
+ The Trust trades speculatively in a wide range of futures contracts traded
+on U.S. and foreign exchanges using the Trading Program, which is based upon the
+MLM Index(TM). The
+
+4
+ 
+MLM Index(TM) and the Trading Program are both proprietary products of the
+Manager. The Trading Program attempts to replicate the MLM Index(TM), before
+fees and expenses. Currently the Trust has two series of interests; the
+Unleveraged Series and the Leveraged Series. The Unleveraged Series attempts to
+replicate the MLM Index(TM) without any leverage, while the Leveraged Series
+trades the Trading Program at three times leverage. The Leveraged Series was
+previously named the Enhanced Series. Leverage is the ability to control large
+dollar amounts of a commodity with a comparatively small amount of capital. The
+Leveraged Series purchases or sells 3 market value of contracts for every 1
+invested in the Series.
+
+ In attempting to replicate the MLM Index(TM), the Manager will invest in
+the same markets as the MLM Index(TM); use the same algorithm to determine long
+versus short positions; make the same allocations to each market; and generally
+execute positions at almost the same time. The Manager may also use swaps in
+attempting to replicate the MLM Index(TM). These swaps would be agreements with
+dealers to provide the returns which are the same as holding a specific number
+of futures contracts in a specific market, without holding the actual contracts.
+The economic effect on the Trust would be substantially identical to holding
+futures contracts. However, since the holder of swaps assumes additional
+counterparty risk, swaps are only held infrequently. As of this time, the Trust
+holds no swap positions.
+
+The MLM Index(TM)
+
+ In 1988, the Manager created the MLM Index(TM) as a benchmark of the
+returns to speculation in futures markets. Broadly speaking, the futures markets
+have two classes of participants, hedgers and speculators. Hedgers are the
+commercial businesses that use the futures markets to transfer unwanted or
+excessive price risk to those more willing to absorb that risk. Speculators are
+position holders who absorb this price risk. In essence, they provide
+"insurance" to the commercial interest so that the commercial interests can
+focus on their basic business while being protected from unforeseen changes in
+commodity prices, interest rates or foreign exchange rates. Basic finance theory
+argues that the reduction in risk experienced by the hedgers exacts a cost, or
+risk premium, that is earned by those holding the risk. The intent of the MLM
+Index(TM) is to measure this risk premium. In this general sense it is analogous
+to an index of stocks that measures the premium to holding equity risk.
+
+ Price risk in futures markets exists when markets rise and when they fall.
+For example, an operator of a wheat storage facility is damaged by a fall in the
+price of wheat in that the value of the inventory in their facility falls. On
+the other hand, a consumer of wheat, like a baker, incurs financial risk if the
+price of wheat rises, as the cost of future operations increases. In both cases,
+steady prices are favorable. Thus, an index designed to capture the risk premium
+earned must capture returns as markets move up and move down, yet suffer when
+markets are stable. The MLM Index(TM) is designed to measure this effect by
+taking long and short positions in the constituent markets. The existence of the
+long and short positions in the construction of the MLM Index(TM) is a
+significant innovation and important difference from other risk premium
+measurements.
+
+ The MLM Index(TM) currently invests in futures contracts on the following:
+Chicago corn, Chicago soybeans, New York sugar, Chicago wheat, Canadian
+Government Bonds, Euro Bunds,
+
+5
+ 
+Japanese Government Bonds, Long Gilts, 10-year Treasury Notes, crude oil,
+heating oil, natural gas, unleaded gasoline, live cattle, New York gold, New
+York copper, Australian Dollar, British Pound, Canadian Dollar, Swiss Franc,
+Japanese Yen, and Euro Currency. The selection of the markets in the MLM
+Index(TM) is made by the Manager. The selection is based on a variety of
+factors, including liquidity of the underlying futures contract, the
+relationship with the other markets in the MLM Index(TM), and the reasonableness
+of including the market in the MLM Index(TM). The choice of markets for a
+calendar year is made in the December preceding the start of the year, and,
+except in unusual circumstances, markets are not normally added to or deleted
+from the MLM Index(TM) during a year. An extraordinary event that may lead to
+the removal of a contract during the year might be the permanent suspension of
+normal trading or an abrupt permanent change in the liquidity of the contract.
+For example, the Chicago Mercantile Exchange suspended floor trading of the
+Deutsche Mark contract in August of 2000, ahead of the announced schedule. If a
+commodity is traded on more than one futures exchange, only the one with the
+largest open interest is included in the MLM Index(TM). The open interest is the
+number of all long or short futures contracts in one delivery month for one
+market that have been entered into and not yet liquidated by an offsetting
+transaction or fulfilled by delivery. For example, Chicago Board of Trade wheat
+has larger open interest than Kansas City Board of Trade wheat; consequently,
+Chicago Board of Trade wheat is included in the MLM Index(TM) but Kansas City
+Board of Trade wheat is not.
+
+ In addition to the markets in the MLM Index(TM), the Manager determines
+which delivery months will be traded for each market in the MLM Index(TM).
+Generally, for each market, four deliveries are chosen that are both liquid and
+spaced throughout the calendar year. For example, for the Wheat market, the
+deliveries traded are March, May, July and December. The choice of deliveries is
+set for each calendar year, but can change due to similar extraordinary
+circumstances as with the market selection.
+
+ The calculation of the MLM Index(TM) is explained below.
+
+Calculation of the MLM Index(TM)
+
+1. Determination of long or short futures position for each market.
+
+ The rate of return of an individual market depends on whether the market
+position is long or short. Since a futures contract eventually expires, the MLM
+Index(TM) is based on the unit asset value of a market, rather than on the
+actual futures price. This month's unit asset value of a futures market is
+determined by multiplying last month's value by 1 plus the percentage change in
+this month's nearby futures price. The market position is long during the
+current month if the market's closing value on the next-to-last trading day of
+the prior month is greater than or equal to the market's 252 business day moving
+average of closing values; otherwise, the market position is short.
+
+6
+ 
+2. Calculation of the monthly rate of return for each market.
+
+ If the market position is long, then the market monthly rate of return
+equals the percentage change in the market price during the month, i.e., the
+market monthly rate of return ) equals the closing price of the current month
+divided by the closing price of the prior month, minus 1, times 100. If the
+market position is short, then the market monthly rate of return ) equals -1
+(minus one) times the percentage change in the market price during the month,
+i.e., the market monthly rate of return equals the closing price of the current
+month divided by the closing price of the prior month, minus 1, times -100
+(minus 100).
+
+3. Calculation of the monthly rate of return for the MLM Index(TM).
+
+ The monthly rate of return of the MLM Index(TM) equals the weighted average
+of the individual market monthly rates of return plus the Treasury Bill rate of
+return.
+
+4. Determination of the MLM Index(TM) value.
+
+ The value of the MLM Index(TM) is computed by compounding the MLM Index(TM)
+monthly rates of return. The beginning value of the MLM Index(TM) is defined to
+be 1000 in January 1961. Each month thereafter, the MLM Index(TM) is changed by
+the monthly rate of return. That is, each month's MLM Index(TM) value is
+determined by multiplying the prior month's value by 1 plus the current
+percentage monthly rate of return.
+
+The annual performance of the MLM Index(TM) for each of the past ten years is
+set forth below.
+
+ Year Annual Return
+ 1995 11.16
+ 1996 10.93
+ 1997 7.50
+ 1998 16.74
+ 1999 0.39
+ 2000 16.20
+ 2001 3.67
+ 2002 -1.63
+ 2003 3.92
+ 2004 3.52
+
+ The MLM Index(TM) is published daily on the Bloomberg system and is
+available from the Manager. Since the development of the MLM Index(TM), other
+firms have computed similar indices, including the CMI of AssetSight Corporation
+and an index computed by SAIS in Switzerland. Both indices are variations on the
+construction of the MLM Index(TM), either in the derivation of the long and
+short positions or the relative weights of the markets. In addition, there are
+many "commodity" indexes, such as the GSCI from Goldman Sachs and AIG Commodity
+Index. These indexes are long only, and do not include currencies or financial
+instruments.
+
+7
+ 
+Fees and Expenses
+
+Set forth below is a summary of the basic fees that the each of the Series and
+Classes is subject to.
+
+Brokerage Fee
+
+Each Series of the Trust pays the Manager a brokerage fee at the annual rates
+set forth below.
+
+ Classes A and B Unleveraged Series 0.85 of net asset value
+ Classes C and D Unleveraged Series 0.40 of net asset value
+
+ Classes A and B Leveraged Series 1.75 of net asset value
+ Classes C and D Leveraged Series 0.90 of net asset value
+
+ The brokerage fee is based on net asset value as of the first day of each
+month. The net asset value of the Trust equals the sum of all cash, the market
+value (or cost of liquidation) of all futures positions and the fair value of
+all other assets of the Trust, less all liabilities of the Trust (including
+accrued liabilities), in each case determined per Series by the Manager in
+accordance with U.S. generally accepted accounting principles. For purposes of
+determining the brokerage fee, there is no reduction for:
+
+ (1) the accrued brokerage or management fees,
+ (2) any allocation or reallocation of assets effective as of the day the
+ brokerage fee is being calculated, or
+ (3) any distributions or redemptions as of the day the brokerage fee is
+ being calculated.
+
+ No assurance can be given that the brokerage fee will be competitive with
+the charges of other brokerage firms.
+
+ The Manager is responsible for paying all of the Trust's costs of executing
+and clearing futures trades, including floor brokerage expenses and give-up
+charges, as well as the NFA, exchange and clearing fees incurred in connection
+with the Trust's futures trading activities. The Manager may also pay from the
+brokerage fees, custody fees or amounts necessary for certain administrative and
+marketing assistance provided by broker/dealers who are also authorized selling
+agents. NFA fees equal 0.04 per round-turn trade of a futures contract.
+
+Management Fee
+
+ Each Series is divided into Class A Interests, Class B Interests, Class C
+Interests and Class D interests. Class A and C Interests are generally sold
+through registered broker-dealers and Class B and D Interests are generally
+offered through fee-only advisors. The Trust pays the Manager a monthly
+management fee at the annual rates set forth below.
+
+8
+ 
+ Unleveraged Series
+ Class A 1.50 of net asset value
+ Class B 0.50 of net asset value
+ Class C 1.00 of net asset value
+ Class D 0.50 of net asset value
+
+ Leveraged Series
+ Class A 2.80 of net asset value
+ Class B 1.30 of net asset value
+ Class C 2.05 of net asset value
+ Class D 1.30 of net asset value
+
+ The management fee is determined and paid as of the first day of each
+calendar month. For purposes of determining the management fee, there is no
+reduction for:
+
+ (1) accrued management fees,
+ (2) any allocation or reallocation of assets effective as of the day the
+ management fee is being calculated, or
+ (3) any distributions or redemptions as of the day the management fee is
+ being calculated.
+
+ The Manager pays from the management fee an annual fee for interests sold
+by authorized selling agents appointed by the Manager for the Class A Series, in
+the amount of 100 basis points for the Unleveraged Series and 150 basis points
+for the Leveraged Series of the Trust's net asset value for each respective
+series; and for the Class C Series, in the amount of 50 basis points for the
+Unleveraged Series and 75 basis points for the Leveraged Series of the Trust's
+net asset value for each respective series.
+
+Organizational Fee
+
+ Investors in Classes A and B of both Series will pay an organizational fee
+of 0.50 of their initial and any subsequent investment(s) (excluding exchanges)
+to the Manager to cover expenses associated with the organization of the Trust
+and the offering of interests. This fee will be deducted from each investment in
+determining the number of interests purchased. An organizational fee will be
+charged until an investor's interest is greater than or equal to 1,000,000. If
+the organizational expenses exceed the organizational fees collected by the
+Manager, the Manager will pay any costs above the collected fees. If the
+organizational fees paid to the Manager exceed actual organizational expenses,
+any excess will be retained by the Manager and may be shared with consultants
+that the Manager may engage from time to time. Specifically, consultants who
+assist the Trust in distributing the interests may be paid a share of the
+organizational fees. Excess fees are not returned to the Trust, but the Manager
+absorbs costs in excess of the fees.
+
+9
+ 
+Operating and Administrative Expenses
+
+ The Trust pays the Manager an annual fee of 0.35 of the net asset value as
+reimbursement for its legal, accounting and other routine administrative
+expenses and fees, including fees to the Trustee. The Trustee is paid an annual
+fee and reimbursed for out-of-pocket expenses. Each Series pays its own cash
+manager fees, banking fees, and the New Jersey partnership tax. The relevant
+series generally pays any extraordinary expenses, including legal claims and
+liabilities and litigation costs and any indemnification related thereto. To the
+extent the extraordinary expenses arise as a result of the gross negligence or
+willful misconduct of the Manager, the Manager may be deemed responsible to pay
+the extraordinary expenses to that extent.
+
+Selling Commission
+
+ Investors who subscribe for Class A Interests and Class C Interests will be
+charged a sales commission of 0 to 4 of the subscription amount, payable to
+the selling agent from the investor's investment. The amount of the sales
+commission is determined by the selling agent. Investors who subscribe for Class
+B Interests and Class D Interests will generally not be charged a sales
+commission.
+
+Futures Trading
+
+Futures Contracts
+
+ Futures contracts are contracts made on or through a commodity exchange and
+provide for future delivery of agricultural and industrial commodities, precious
+metals, foreign currencies or financial instruments and, in the case of certain
+contracts such as stock index futures contracts and Eurodollar futures
+contracts, provide for cash settlement. Futures contracts are uniform for each
+commodity on each exchange and vary only with respect to price and delivery
+time. A contract to buy or sell may be satisfied either by taking or making
+delivery of the commodity and payment or acceptance of the entire purchase price
+thereof, or by offsetting the obligation with a contract containing a matching
+contractual obligation on the same (or a linked) exchange prior to delivery.
+United States commodity exchanges individually or, in certain limited
+situations, in conjunction with certain foreign exchanges, provide a clearing
+mechanism to facilitate the matching of offsetting trades. Once trades made
+between members of an exchange have been confirmed, the clearinghouse becomes
+substituted for the clearing member acting on behalf of each buyer and each
+seller of contracts traded on the exchange and in effect becomes the other party
+to the trade. Thereafter, each clearing member firm party to the trade looks
+only to the clearinghouse for performance. Clearinghouses do not deal with
+customers, but only with member firms, and the guarantee of performance under
+open positions provided by the clearinghouse does not run to customers. If a
+customer's commodity broker becomes bankrupt or insolvent, or otherwise defaults
+on such broker's obligations to such customer, the customer in question may not
+receive all amounts owed to such customer in respect of his trading, despite the
+clearinghouse fully discharging all of its obligations.
+
+10
+ 
+Hedgers and Speculators
+
+ Two broad classifications of persons who trade in commodity futures are (1)
+hedgers and (2) speculators. Commercial interests, including banks and other
+financial institutions, and farmers, who market or process commodities, use the
+futures markets for hedging. Hedging is a protective procedure designed to
+minimize losses which may occur because of price fluctuations. The commodity
+markets enable the hedger to shift the risk of price fluctuations to the
+speculator. The usual objective of the hedger is to protect the expected profit
+from financial or other commercial operations, rather than to profit strictly
+from futures trading.
+
+ The speculator, such as the Trust, risks its capital with the expectation
+of making profits from the price fluctuations in futures contracts. The hedger
+seeks to offset any potential loss (measured as the difference between the price
+at which he had expected to buy or sell and the price at which he is eventually
+able to buy or sell) in the purchase or sale of the commodity hedged. Likewise,
+losses in futures trading might be offset by unexpected gains on transactions in
+the actual commodity. The speculator assumes the risks which the hedger seeks to
+avoid.
+
+ Speculators rarely expect to take or make delivery of the cash or actual
+physical commodity in the futures market. Rather, they generally close out their
+futures positions by entering into offsetting purchases or sales of futures
+contracts. Because the speculator may take either a long or short position in
+the futures markets, it is possible for the speculator to earn profits or incur
+losses regardless of the direction of price trends.
+
+Trading Approaches
+
+ Commodity traders generally may be classified as either systematic or
+discretionary. A systematic trader will rely primarily on trading programs or
+models to generate trading signals. A systematic trader will also rely, to some
+degree, on judgmental decisions concerning, for example, what markets to follow
+and commodities to trade, when to liquidate a position in a contract month which
+is about to expire and how large a position to take in a particular commodity.
+The systems utilized to generate trading signals are changed from time to time,
+but the trading instructions generated by the then-current systems are generally
+followed without significant additional analysis or interpretation.
+
+ In contrast, discretionary traders, while sometimes utilizing a variety of
+price charts and computer programs to assist them in making trading decisions,
+make these decisions on the basis of their own judgment. It is possible to
+describe a discretionary trader's experience, the type of information which he
+consults, the number of commodities he follows or trades and the degree to which
+he leverages his accounts. However, in assessing the potential for future
+profitability in the case of a discretionary trader, the talents and abilities
+of the individual, rather than the profitability of any particular system or
+identifiable method, must be evaluated.
+
+Margins
+
+ Margins are good faith deposits which must be made with a commodity broker
+in order to initiate or maintain an open position in a futures contract. When
+futures contracts are traded in
+
+11
+ 
+the United States and on most exchanges abroad, both buyer and seller are
+required to post margins with the broker handling their trades as security for
+the performance of their buying and selling undertakings, and to offset losses
+on their trades due to daily fluctuations in the markets. Minimum margins
+usually are set by the exchanges.
+
+ A customer's margin deposit is treated as equity in his account. A change
+in the market price of the futures contract will increase or decrease the
+equity. If this equity decreases below the maintenance margin amount (generally
+75 of the initial margin requirement), the broker will issue a margin call
+requiring the customer to increase the account's equity to the initial margin.
+Failure to honor such a margin call generally will result in the closing out of
+the open position. If, at the time such open position is closed, the account
+equity is negative, then the equity in the customer's remaining open positions,
+if any, in excess of the required margins, as well as the customer's cash
+reserves will be used to offset such debit balance, and if such equities and
+reserves are not sufficient the customer will be liable for the remaining unpaid
+balance.
+
+United States Regulations
+
+ Commodity Exchange Act ("CE Act"). The United States Congress enacted the
+CE Act to regulate trading in commodities, the exchanges on which they are
+traded, the individual brokers who are members of the exchanges, and commodity
+professionals and commodity brokerage houses that trade in these commodities in
+the United States.
+
+ Commodity Futures Trading Commission. The CFTC is an independent
+governmental agency which administers the CE Act and is authorized to promulgate
+rules thereunder. A function of the CFTC is to implement the objectives of the
+CE Act in preventing price manipulation and excessive speculation and promoting
+orderly and efficient commodity futures markets. The CFTC has adopted
+regulations covering, among other things:
+
+ - the designation of contract markets;
+ - the monitoring of United States commodity exchange rules;
+ - the establishment of speculative position limits;
+ - the registration of commodity brokers and brokerage houses, floor
+ brokers, introducing brokers, leverage transaction merchants,
+ commodity trading advisors, commodity pool operators and their
+ principal employees engaged in non-clerical commodities activities
+ (associated persons); and
+ - the segregation of customers funds and record keeping by, and minimum
+ financial requirements and periodic audits of, such registered
+ commodity brokerage houses and professionals.
+
+ Under the CE Act, the CFTC is empowered, among other things, to:
+
+ - hear and adjudicate complaints of any person (e.g., an Interest
+ Holder) against all individuals and firms registered or subject
+ to registration under the CE Act (reparations),
+ - seek injunctions and restraining orders,
+ - issue orders to cease and desist,
+ - initiate disciplinary proceedings,
+
+12
+ 
+ - revoke, suspend or not renew registrations and
+ - levy substantial fines.
+
+ The CE Act also provides for certain other private rights of action and the
+possibility of imprisonment for certain violations.
+
+ The CFTC has adopted extensive regulations affecting commodity pool
+operators and commodity trading advisors such as the Manager and their
+associated persons. These regulations, among other things, require the giving of
+disclosure documents to new customers and the retention of current trading and
+other records, prohibit pool operators from commingling pool assets with those
+of the operators or their other customers and require pool operators to provide
+their customers with periodic account statements and an annual report. Upon
+request by the CFTC, the Manager will also furnish the CFTC with the names and
+addresses of the interest holders, along with copies of all transactions with,
+and reports and other communications to, the interest holders.
+
+ United States Commodity Exchanges. United States commodity exchanges are
+given certain latitude in promulgating rules and regulations to control and
+regulate their members and clearing houses, as well as the trading conducted on
+their floors. Examples of current regulations by an exchange include
+establishment of initial and maintenance margin levels, size of trading units,
+daily price fluctuation limits and other contract specifications. Except for
+those rules relating to margins, all exchange rules and regulations relating to
+terms and conditions of contracts of sale or to other trading requirements
+currently must be reviewed and approved by the CFTC.
+
+ National Futures Association. Substantially all commodity pool operators,
+commodity trading advisors, futures commission merchants, introducing brokers
+and their associated persons are members or associated members of the NFA. The
+NFA's principal regulatory operations include:
+
+ - auditing the financial condition of futures commission merchants,
+ introducing brokers, commodity pool operators and commodity
+ trading advisors;
+ - arbitrating commodity futures disputes between customers and NFA
+ members;
+ - conducting disciplinary proceedings; and
+ - registering futures commission merchants, commodity pool operators,
+ commodity trading advisors, introducing brokers and their
+ respective associated persons, and floor brokers.
+
+ The regulation of commodities transactions in the United States is a
+rapidly changing area of law and the various regulatory procedures described
+herein are subject to modification by United States congressional action,
+changes in CFTC rules and amendments to exchange regulations and NFA
+regulations.
+
+13
+ 
+Risk Factors
+
+Historical Results of the MLM Index(TM) may not be indicative of future results
+
+ The MLM Index(TM) historical results may not be indicative of future
+results. The MLM Index(TM) results are based on the analysis of a particular
+period of time. The future performance of the MLM Index(TM) is entirely
+unpredictable.
+
+Performance of the Trust May be Different than the MLM Index(TM)
+
+ The Trust attempts to replicate the MLM Index(TM). In doing so, the Trust
+will establish positions in the futures markets. The prices at which the Trust
+executes these positions may be significantly different than the prices used to
+calculate the MLM Index(TM). In addition, the Trust charges various fees and
+commissions which will lower the return of the Trust vs. the MLM Index(TM). All
+these factors mean that the Trust performance will be different and in all
+likelihood lower than the results of the MLM Index(TM).
+
+Four Losing Years in Six Years of Operation.
+
+ The Trust has been in operation since January, 1999, and has experienced
+losses in four of the six calendar years of operation.
+
+Futures Trading Involves Substantial Leverage
+
+ Futures contracts are typically traded on margin. This means that a small
+amount of capital can be used to invest in contracts of much greater total
+value. The resulting leverage means that a relatively small change in the market
+price of a futures contract can produce a substantial profit or loss. Leverage
+enhances the Trust's sensitivity to market movements that can result in greater
+profits when the Trading Program anticipates the direction of the move
+correctly, or greater losses when the Trading Program is incorrect. The
+Unleveraged Series attempts to replicate the MLM Index(TM) without leverage and
+the Leveraged Series trades the MLM Index(TM) at three times leverage.
+
+Futures Trading Is Speculative, Highly Volatile and Can Result in Large Losses
+
+ A principal risk in futures trading is the rapid fluctuation in the market
+prices of futures contracts. The Trust's profitability depends greatly on the
+Trading Program correctly anticipating trends in market prices. If the Trading
+Program incorrectly predicts the movement of futures prices, large losses could
+result. Price movements of futures contracts are influenced by such factors as:
+changing supply and demand relationships; government trade, fiscal, monetary and
+exchange control programs and policies; national and international political and
+economic events; and speculative frenzy and the emotions of the market place.
+The Manager has no control over these factors.
+
+14
+ 
+Illiquid Markets Could Make It Impossible for the Trust to Realize Profits or
+Limit Losses
+
+ Although the Trust trades in ordinarily highly liquid markets, there may be
+circumstances in which it is not possible to execute a buy or sell order at the
+desired price, or to close out an open position, due to market conditions. Daily
+price fluctuation limits are established by the exchanges and approved by the
+CFTC. When the market price of a futures contract reaches its daily price
+fluctuation limit, no trades can be executed at prices outside such limit. The
+holder of a commodity futures contract (including the Trust) may be locked into
+an adverse price movement for several days or more and lose considerably more
+than the initial margin put up to establish the position. Another possibility is
+the unforeseen closure of an exchange due to accident or government
+intervention.
+
+Speculative Position Limits May Require the Manager to Modify Its Trading to the
+Detriment of the Trust
+
+ The exchanges have established and the CFTC has approved speculative
+position limits (referred to as position limits) on the maximum futures position
+which any person, or group of persons acting in concert, may hold or control in
+particular futures contracts. In addition, certain exchanges, in lieu of
+speculative position limits, have adopted position accountability requirements
+that could require a person whose positions in a contract exceed a specified
+level to provide information to the exchange relating to the nature of such
+person's trading strategy. The Manager may be required to reduce the size of the
+future positions which would otherwise be taken to avoid exceeding such limits
+or requirements. Such modification of the Trust's trades, if required, could
+adversely affect the operations and profitability of the Trust.
+
+Trading of Swaps could Subject the Trust to Substantial Losses
+
+ The Trust may enter into swap and similar transactions. Swap contracts are
+not traded on exchanges and are not subject to the same type of government
+regulation as exchange markets. As a result, many of the protections afforded to
+participants on organized exchanges and in a regulated environment are not
+available in connection with these transactions. The swap markets are
+"principals' markets," in which performance with respect to a swap contract is
+the responsibility only of the counterparty which the participant has entered
+into a contract, and not of any exchange or clearinghouse. As a result, the
+Trust is subject to the risk of the inability or refusal to perform with respect
+to such contracts on the part of the counterparties with which the Trust trades.
+Any such failure or refusal, whether due to insolvency, bankruptcy, default, or
+other cause, could subject the Trust to substantial losses. There are no
+limitations on daily price movements in swap transactions. Speculative position
+limits do not apply to swap transactions, although the counterparties with which
+the Trust deals may limit the size or duration of positions available to the
+Trust as a consequence of credit considerations. Participants in the swap
+markets are not required to make continuous markets in the swap contracts they
+trade. Participants could refuse to quote prices for swap contracts or quote
+prices with an unusually wide spread between the price at which they are
+prepared to buy and the price at which they are prepared to sell.
+
+Substantial Expenses Will Cause Losses for the Trust Unless Offset by Profits
+and Interest Income
+
+15
+ 
+ The Trust is subject to substantial fees and expenses, including brokerage
+fees, management fees and operating and administrative expenses. In addition,
+certain investors are subject to an organizational charge and/or a selling
+commission. Set forth below are tables which set forth the basic fees that each
+of the Series and Classes is subject to.
+
+LEVERAGED SERIES
+ -------------------------------------------------------------------------------
+ BROKERAGE MANAGEMENT ORGANIZATIONAL OPERATING SELLING TOTAL FEES AND
+ FEE FEE FEE EXPENSE EXPENSE COMMISSIONS
+ -------------------------------------------------------------------------------
+ 
+Class A-1 1.35 1.65 N/A 0.35 N/A 3.35 
+Class A 1.75 2.80 0.50 0.35 4.00 9.40 
+Class B-1 1.35 0.65 N/A 0.35 N/A 2.35 
+Class B 1.75 1.30 0.50 0.35 N/A 3.90 
+Class C 0.90 2.05 N/A 0.35 4.00 7.30 
+Class D 0.90 1.30 N/A 0.35 N/A 2.55 
+
+UNLEVERAGED SERIES
+ -------------------------------------------------------------------------------
+ BROKERAGE MANAGEMENT ORGANIZATIONAL OPERATING SELLING TOTAL FEES AND
+ FEE FEE FEE EXPENSE EXPENSE COMMISSIONS
+ -------------------------------------------------------------------------------
+ 
+Class A-1 0.65 1.25 N/A 0.35 N/A 2.25 
+Class A 0.85 1.50 0.50 0.35 4.00 7.20 
+Class B-1 0.65 0.25 N/A 0.35 N/A 1.25 
+Class B 0.85 0.50 0.50 0.35 N/A 2.20 
+Class C 0.40 1.00 N/A 0.35 4.00 5.75 
+Class D 0.40 0.50 N/A 0.35 N/A 1.25 
+
+The Brokerage Fee, the Management Fee and the Organizational Fee shall be
+paid to the Manager. It will be necessary for the Trust to achieve gains from
+trading and interest income in excess of its charges for investors to realize
+increases in the net asset value of their interests. The Trust may not be able
+to achieve any appreciation of its assets.
+
+The Manager Alone Makes the Trust's Trading Decisions
+
+ The Manager makes all commodity trading decisions for the Trust and,
+accordingly, the success of the Trust largely depends upon the Manager's
+judgment and abilities to make the necessary adjustments to the Trading Program.
+There is no guarantee that the Trading Program's trading on behalf of the Trust
+will prove successful under all or any market conditions. The performance record
+of the Trading Program also reflects significant variations in profitability
+from period to period.
+
+You Have No Right to Remove the Manager.
+
+ Under the Trust Agreement, interest holders have no right to remove the
+Manager as manager of the Trust for cause or for any other reason.
+
+16
+ 
+The Manager Advises Other Clients
+
+ The Manager may be managing and advising large amounts of other funds for
+other clients at the same time as it is managing Trust assets and, as a result,
+the Trust may experience increased competition for the same contracts.
+
+Limited Ability To Liquidate Investment In Interests
+
+ You can only redeem your interests at month-end upon 10 business days
+advance notice. The net asset value per interest may vary significantly from
+month-to-month. You will not know at the time you submit a redemption request
+what the redemption value of your interests will be. The restrictions imposed on
+redemptions limit your ability to protect yourself against major losses by
+redeeming part or all of your interests.
+
+ The Manager must consent before you can transfer or assign your interests
+and the securities laws provide additional restrictions on the transferability
+of interests. There will not be a secondary market for interests.
+
+You Have No Rights Of Control
+
+ You will be unable to exercise any control over the business of the Trust.
+In addition, the Manager can cause the Trust to redeem your interests upon 10
+business days prior written notice for any reason in the Manager's sole
+discretion. The Manager may elect to cause the Trust to redeem your interests
+when your continued holding of interests would or might violate any law or
+constitute a prohibited transaction under ERISA or the Internal Revenue Code and
+a statutory, class or individual exemption from the prohibited transaction
+provisions of ERISA for such transaction or transactions does not apply or
+cannot be obtained from the Department of Labor (or the Manager determines not
+to seek such an exemption).
+
+You Have Limited Rights to Inspect Books and Records
+
+ You will have only limited rights to inspect the books and records of the
+Trust and the Manager. You will generally only have the right to inspect the
+books and records of the Trust and the Manager as are specifically granted under
+the Delaware Business Trust Act. In particular, information regarding positions
+held by a Series, to the extent deemed proprietary or confidential by the
+Manager, will not be made available to you except as required by law.
+
+Limited Arms-Length Negotiation
+
+ The initial offering price per interest was established arbitrarily. Except
+for the agreements with the Trustee, the terms of this offering and the
+structure of the Trust have not been established as the result of arms-length
+negotiation.
+
+The Trust Could Lose Assets and Have Its Trading Disrupted Due to the Bankruptcy
+of its Clearing Broker or Others
+
+17
+ 
+ The Trust is subject to the risk of clearing broker, exchange or
+clearinghouse insolvency. Trust assets could be lost or impounded in such an
+insolvency during lengthy bankruptcy proceedings. Were a substantial portion of
+the Trust's capital tied up in a bankruptcy, the Manager might suspend or limit
+trading, perhaps causing the Trust to miss significant profit opportunities.
+
+The Trust Is Subject to Certain Conflicts of Interest
+
+ The Manager and the clearing broker are subject to certain actual and
+potential conflicts of interests.
+
+ Although the Manager is not affiliated with a commodity broker, the Manager
+may have a conflict of interest in selecting brokers because of long-standing
+business dealings with certain brokers. In addition, the Manager, its principals
+and affiliates may have commodity accounts at the same brokerage firms as the
+Trust, and, because of the amount traded through such brokerage firms, may pay
+lower commissions than the Trust.
+
+ The Manager, the clearing broker, their respective affiliates and each of
+their principals, directors, officers, employees and families may be trading and
+directing other futures accounts, including their own accounts. Each will not be
+aware of what others are doing on behalf of the Trust, and they may take
+positions similar or opposite to those of the Trust or in competition with the
+Trust. Generally, the Trust will enter orders only once a month. The Manager
+will allocate transactions among the Trust and other clients in a manner
+believed by the Manager to be equitable to each.
+
+ In certain instances, the clearing broker may have orders for trades from
+the Trust and orders from its own employees and it might be deemed to have a
+conflict of interest between the sequence in which such orders are transmitted
+to the trading floor.
+
+ The Manager and its principals are engaged in substantial activities,
+including managing other accounts not involving the Trust, and will devote to
+the Trust such amount of their time as they determine reasonable and necessary.
+The compensation received by the Manager and its principals from such other
+accounts and entities may differ from the compensation it receives from the
+Trust.
+
+ Investment advisers and broker-dealers receiving continuing compensation
+from the Manager on interests sold by them will have a financial incentive to
+encourage investors to purchase and not to redeem their interests.
+
+The Trust could be Taxed as a Corporation
+
+ In the opinion of the Trust's counsel, under current federal income tax
+law, the Unleveraged Series and the Leveraged Series each will be classified as
+a partnership and not as an association taxable as a corporation for federal
+income tax purposes, and each such Series
+
+18
+ 
+should not be subject to federal income taxation as a corporation under the
+provisions applicable to so-called publicly traded partnerships. However, you
+should note that the Trust has not and will not request a ruling from the
+Internal Revenue Service to this effect. If the Trust or a Series were taxed as
+a corporation for federal income tax purposes, the net income of the Trust or a
+Series would be taxed to the Trust or a Series at corporate income tax rates, no
+losses of the Trust or a Series would be allowable as deductions to the interest
+holders, and all or a portion of any distributions by the Trust or a Series to
+the interest holders, other than liquidating distributions, would constitute
+dividends to the extent of the Trust's or a Series' current or accumulated
+earnings and profits and would be taxable as such.
+
+You Are Taxed Every Year on Your Share of a Series' Profits Not Only When You
+Redeem as Would Be the Case if You Held Stocks or Bonds
+
+ You will be taxed each year on your investment in a Series, irrespective of
+whether you receive distributions or redeem any interests. In contrast, an
+investor holding stocks or bonds generally pays no tax on their capital
+appreciation until the securities are sold. Over time, the deferral of tax on
+stock and bond appreciation has a compounding effect.
+
+Deductibility of Expenses May be Limited
+
+ You could be required to treat the management fees, as well as certain
+other expenses of a Series, as investment advisory fees, which are subject to
+substantial restrictions on deductibility for individual taxpayers. The Manager
+has not, to date, been classifying the management fee or such expenses as
+investment advisory fees, a position to which the Internal Revenue Service might
+object. Should the Internal Revenue Service re-characterize the management fee
+or other expenses as investment advisory fees, you may be required to pay
+additional taxes, interest and penalties.
+
+The Series' Trading Gains May Be Taxed at Higher Rates
+
+ You will be taxed on your share of any trading profits of a Series at both
+short- and long-term capital gain rates. These tax rates are determined
+irrespective of how long you hold Interests. Consequently, the tax rate on a
+Series' trading gains may be higher than those applicable to other investments
+you hold for a comparable period.
+
+Tax Could Be Due from You on Your Share of a Series' Interest Income Despite
+Overall Losses
+
+ You may be required to pay tax on your allocable share of a Series'
+interest income, even though the Series incurs overall losses. Trading losses
+can only be used by individuals to offset trading gains and 3,000 of interest
+income each year. Consequently, if you were allocated 5,000 of interest income
+net of expenses and 10,000 of net trading losses, you would owe tax on 2,000
+of interest income even though you would have a 5,000 loss for the year. The
+ 7,000 capital loss would carry forward, but subject to the same limitation on
+its deductibility against interest income.
+
+19
+ 
+Possibility of Tax Audit
+
+ There can be no assurance that tax returns of a Series will not be audited
+by the Internal Revenue Service or that such audits will not result in
+adjustments to such returns. If an audit results in an adjustment, you may be
+required to file amended returns and to pay additional taxes plus interest.
+
+Employee Benefit Plan Considerations
+
+ Although the Manager will be a fiduciary to the ERISA investors with
+respect to the assets of such investors invested in the Trust, neither the
+Manager, nor the Trustee, nor any of their affiliates, agents, or employees will
+act as a fiduciary to any ERISA investor with respect to the ERISA investor's
+decision to invest assets in the Trust. Fiduciaries of prospective ERISA
+investors, in consultation with their advisors, should carefully consider the
+application of ERISA and the regulations issued there under on an investment in
+the Trust.
+
+Absence of Certain Statutory Registrations
+
+ The Trust is not registered as an investment company or mutual fund, which
+would subject it to extensive regulation under the Investment Company Act of
+1940, as amended. If the Trust were required to register as an investment
+company, it would be subject to additional regulatory restrictions. Some of
+these restrictions would be fundamentally inconsistent with the operation of the
+Trust, including among other things, restrictions relating to the liquidity of
+portfolio investments, to the use of leverage, to custody requirements, and to
+the issuance of senior securities. As a result, it would be impractical for the
+Trust to continue its current operations. Consequently, you will not benefit
+from certain of the protections afforded by the Investment Company Act of 1940,
+as amended. However, the Manager is registered with the Securities and Exchange
+Commission under the Investment Advisers Act of 1940, as amended, and thus is an
+investment manager for purposes of ERISA. In addition, the Manager is registered
+as a commodity pool operator and a commodity trading advisor with the CFTC, is a
+member of the NFA and is subject to extensive regulation under the Commodity
+Exchange Act.
+
+No Independent Counsel
+
+ No independent counsel has been selected to represent the interests of the
+interest holders and there have been no negotiations between the Manager and any
+interest holders in connection with the terms of the offering or the terms of
+the Trust Agreement.
+
+Item 2. Properties
+
+ The Trust does not own or lease any physical properties. The Trust's office
+is located within the office of the Manager at 47 Hulfish Street, Suite 510,
+Princeton, New Jersey 08542.
+
+20
+ 
+Item 3. Legal Proceedings.
+
+ There are no pending legal proceedings to which the Trust or the Manager is
+a party or to which any of their assets are subject.
+
+Item 4. Submission of Matters to a Vote of Security Holders.
+
+ Not applicable.
+
+21
+ 
+ PART II
+
+Item 5. Market Price of and Dividends on the Registrant's Common Equity and
+Related Stockholder Matters
+
+ There currently is no established public trading market for the interests.
+As of December 31, 2004, approximately 3,476,000 interests were held by 2,851
+owners.
+
+ The interests are "restricted securities" within the meaning of Rule 144
+promulgated under the Securities Act of 1933, as amended (the "Securities Act"),
+and may not be sold unless registered under the Securities Act or sold in
+accordance with an exemption therefrom, such as Rule 144. The Trust has no plans
+to register any of the interests for resale. In addition the Trust Agreement
+provides that an interest holder may transfer its interests only upon the
+approval of the Manager in the Manager's sole and absolute discretion.
+
+ Pursuant to the Trust Agreement, the Manager has the sole discretion to
+determine whether distributions (other than on redemption of interests), if any,
+will be made to interest holders. The Trust has never paid any distribution and
+does not anticipate paying any distributions of interest holders in the
+foreseeable future.
+
+Recent Sales of Unregistered Securities
+
+From October 1, 2004 to December 31, 2004, a total of 172,529.92 interests were
+sold for the aggregate net subscription amount of 18,862,828.79. Total number
+of purchasers was 306. There were no non-accredited investors during this
+period. Details of the sale of these interests are as follows:
+
+22
+
+- --------------------------------------------------------------------------------
+ # of
+Series Date Subscriptions Units Price Purchasers
+- -------------------- ---------- -------------- --------- ------- ----------
+ 
+- -------------------- ---------- -------------- --------- ------- ----------
+Leveraged A2 Units 10/31/2004 108,800.50 1,063.09 102.34 6
+- -------------------- ---------- -------------- --------- ------- ----------
+Leveraged B2 Units 10/31/2004 938,429.25 8,517.45 110.18 34
+- -------------------- ---------- -------------- --------- ------- ----------
+Leveraged C2 Units 10/31/2004 0.00 0.00 0.00 0
+- -------------------- ---------- -------------- --------- ------- ----------
+Unleveraged A2 Units 10/31/2004 410,875.00 3,731.09 110.12 10
+- -------------------- ---------- -------------- --------- ------- ----------
+Unleveraged B2 Units 10/31/2004 4,171,373.57 35,765.52 116.63 40
+- -------------------- ---------- -------------- --------- ------- ----------
+Leveraged A2 Units 11/30/2004 346,365.50 3,374.32 102.65 10
+- -------------------- ---------- -------------- --------- ------- ----------
+Leveraged B2 Units 11/30/2004 2,831,545.94 25,591.68 110.64 53
+- -------------------- ---------- -------------- --------- ------- ----------
+Unleveraged B2 Units 11/30/2004 3,979,727.12 34,074.34 116.80 53
+- -------------------- ---------- -------------- --------- ------- ----------
+Leveraged A2 Units 12/31/2004 774,669.26 8,139.84 95.17 17
+- -------------------- ---------- -------------- --------- ------- ----------
+Leveraged B2 Units 12/31/2004 2,103,788.17 20,482.35 102.71 40
+- -------------------- ---------- -------------- --------- ------- ----------
+Leveraged C2 Units 12/31/2004 1,000,000.00 11,974.91 83.51 1
+- -------------------- ---------- -------------- --------- ------- ----------
+Unleveraged A2 Units 12/31/2004 1,004,665.40 9,351.57 107.43 12
+- -------------------- ---------- -------------- --------- ------- ----------
+Unleveraged B2 Units 12/31/2004 1,192,589.08 10,463.76 113.97 30
+- --------------------------------------------------------------------------------
+
+The price of the interests of each Class reflects the net asset value of
+interests in the Class. The interests were sold pursuant to Rule 506 of
+Regulation D and the sales were exempt from registration under the Securities
+Act of 1933. Purchasers of the interests completed subscription documents in
+which they represented that they were accredited investors as defined in
+Regulation D and a Form D was filed with the Securities and Exchange Commission
+in the time periods prescribed by Regulation D.
+
+Item 6. Selected Financial Data
+
+ The Trust began trading on January 4, 1999. Set forth below is certain
+selected historical data for the Trust as of and for the years ended December
+31, 2004, 2003, 2002, 2001, 2000, and 1999. The selected historical financial
+data were derived from the financial statements of the Trust, which were audited
+by Ernst & Young LLP. The information set forth below should be read in
+conjunction with the Financial Statements and notes thereto contained elsewhere
+in this Registration Statement.
+
+23
+
+Year Ended December 31,
+- -----------------------------------------------------------------------------------------------------------------------------
+ 2004 2003 2002 2001 2000 1999
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+ 
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Operations Data:
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Realized Gains (Losses) 32,322,487 5,302,391 (27,250,523) (1,782,272) 10,979,358 (3,703,768)
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Net Change in Unrealized Gains (Losses) (26,036,732) 6,101,017 10,793,154 754,588 4,249,238 2,068,296
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Interest Income 4,331,899 2,373,246 3,412,276 5,140,993 3,471,048 1,133,335
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Brokerage Commissions 4,586,994 3,221,120 2,842,588 2,032,721 905,304 292,743
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Management Fees 3,924,230 2,809,869 2,455,153 1,693,359 766,332 216,625
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Operating Expenses 2,287,004 1,554,929 944,454 839,741 321,746 117,905
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Net Income (Loss) (180,574) 6,190,736 (19,287,288) (452,512) 16,706,262 (1,129,410)
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Financial Condition Data
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Investors' Interest 358,864,845 277,595,158 203,994,413 197,206,677 82,233,913 45,214,754
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Total Assets 365,368,734 280,812,656 212,016,757 201,133,787 82,937,503 50,271,694
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Net Asset Value Per Class A-1
+Leveraged Series Interest NA 107.63 106.35 123.84 124.74 90.23
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Net Asset Value Per Class A
+Leveraged Series Interest 95.17 94.98 93.97 110.72 112.76 85.72
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Net Asset Value Per Class B-1
+Leveraged Series Interest NA 112.71 107.78 123.65 122.69 90.66
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Net Asset Value Per Class B
+Leveraged Series Interest 102.71 100.98 98.37 114.22 114.59 85.82
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Net Asset Value Per Class C
+Leveraged Series Interest 83.21 82.66 81.12 94.87 NA NA
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Net Asset Value Per Class D
+Leveraged Series Interest 100.00 NA NA NA NA NA
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Net Asset Value Per Class A-1
+Unleveraged Series Interest NA 110.60 109.99 114.19 112.40 99.31
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Net Asset Value Per Class
+Unleveraged Series Interest 107.43 106.87 106.46 111.00 109.74 97.39
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Net Asset Value Per Class B-1
+Unleveraged Series Interest NA 116.55 114.37 117.66 114.67 100.31
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Net Asset Value Per Class B
+Unleveraged Series Interest 113.97 112.24 110.57 114.28 111.87 98.29
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Net Asset Value Per Class C
+Unleveraged Series Interest 100.00 NA NA NA NA NA
+- --------------------------------------- ------------- ------------ ------------- ------------- ----------- ------------
+Net Asset Value Per Class D
+Unleveraged Series Interest 100.00 NA NA NA NA NA
+- -----------------------------------------------------------------------------------------------------------------------------
+
+24
+ 
+Item 7. Management's Discussion and Analysis of Financial Condition and Results
+ of Operations
+
+General
+
+ The purpose of the Trust is to replicate the results of the MLM Index(TM),
+an index designed to measure the risk premium available to futures traders.
+Designed as such, the results of the Trust depend on two factors, the results of
+the MLM Index(TM) itself, and the Manager's ability to replicate that Index. It
+is important to note that the Manager also calculates the results of the MLM
+Index(TM). Thus, their role is twofold - to calculate the results of the MLM
+Index(TM), and to replicate the results of the MLM Index(TM) for the Trust. Any
+changes made to the composition of the MLM Index(TM) by the MLM Index(TM)
+Committee of the Manager will effect the trading of the Trust, since the object
+of the Trust is to replicate the MLM Index(TM) as published.
+
+Results of the MLM Index(TM)
+
+ The MLM Index(TM) is calculated from the prices of 22 liquid futures
+markets. These markets are traded on domestic and foreign exchanges. For each
+market, the MLM Index(TM) generally uses the price of 4 different delivery
+months each year. For example, in the Japanese Yen futures market, the MLM
+Index(TM) uses the March, June, September and December delivery months. On the
+day before trading day, the MLM Index(TM) determines whether to hold a long or
+short position in each constituent contract based on the calculation methodology
+of the MLM Index(TM). Once established, that position is held for the subsequent
+period, at which time it is re-evaluated. The monthly results of each
+constituent market are then used to calculate the MLM Index(TM) return. The
+objective of the Trust is to replicate this monthly return.
+
+ Clearly, the volatility of the constituent markets in the MLM Index(TM) can
+affect the results of the Trust. The influences on this volatility are varied
+and unpredictable. However, since the object of the Trust is to replicate the
+MLM Index(TM), the Manager takes no unusual action to mitigate this volatility.
+The role of the Manager is to buy or sell the appropriate number of futures
+contracts in each constituent market such that the aggregate return of those
+positions replicates as closely as possible the results of the MLM Index(TM).
+
+ In order to accomplish this objective, the Manager must calculate the
+number of contracts based on both the assets in the Trust and the distribution
+of the assets between the Unleveraged and Leveraged Series of the Trust. Since
+the MLM Index(TM) rebalances positions each month, at that time the Manager must
+ascertain the asset level and execute orders to achieve the desired allocations.
+This is achieved by adding the performance results of the Trust for the month to
+the assets at the beginning of the month, and adding additions of capital from
+new subscriptions and subtracting redemptions in order to determine the asset
+level at the end of the period.
+
+25
+ 
+Summary of Critical Accounting Policies
+
+ The preparation of financial statements in conformity with U.S. generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the amounts reports in the financial statements and
+accompanying notes. Management believes that the estimates utilized in preparing
+the financial statements are reasonable and prudent; however, actual results
+could differ from those estimates. The Trust's significant accounting policies
+are described in detail in Note 2 of the Notes to Financial Statements.
+
+ The Trust records all investments at market value in its financial
+statements, with changes in market value reported as a component of realized and
+unrealized gain (loss) on investments in the Statements of Operations.
+Generally, market values are based on market prices; however, in certain
+circumstances, significant judgments and estimates are involved in determining
+market value in the absence of an active market closing price.
+
+Financial Condition
+
+ To replicate the results of the MLM Index(TM), the Trust must effect trades
+on domestic or foreign futures exchanges. Since the beginning of operations the
+Trust has used Refco, LLC as its futures commission merchant. The Manager
+deposits a percentage of the assets of the Trust in two separate accounts at
+Refco, one for the Unleveraged Series and one for the Leveraged Series. The
+amount deposited is determined by the margin requirement established by the
+exchanges to hold the positions in the Trust. The margin requirement varies, but
+is generally about 4.5 of assets for the Unleveraged Series and 13.5 of assets
+for the Leveraged Series.
+
+ The balance of the assets of the Trust is held in two separate custodial
+accounts at Investors Bank and Trust (the "Bank"). The Trust has contracted
+with Credit Suisse Asset Management (CSAM) to manage the money in these accounts
+so as to maximize the interest income which accrues to the Trust, while
+maintaining strict credit controls as determined by the CE Act. When Refco
+requires additional assets to maintain the positions for the Trust, the Bank
+makes a wire transfer to Refco. If Refco has surplus assets in the accounts,
+Refco makes a wire transfer to the accounts at the Bank.
+
+ The Trust owns no capital assets and does not borrow money. Since the
+objective of the Trust is to replicate the results of the MLM Index(TM), its
+entire asset base participates in the speculative trading of futures contracts.
+As such, all the assets of the Trust are at risk. The level of assets will be
+determined by the results of the Trust, and the effect of addition of capital
+and the redemption of Trust interests. These variables are impossible to predict
+with any certainty.
+
+Liquidity
+
+ The majority of the Trust's assets are held in liquid short term interest
+rate instruments. The Trust takes substantial exposure in futures markets, which
+require relatively small deposits, called margin, to hold the positions. In
+general, the Trust will have about 10 of its assets on
+
+26
+ 
+deposit with brokers as margin, with the balance held in accounts with a major
+financial institution.
+
+ A holder of interests in the Trust may liquidate that holding at the end of
+any month at the net asset value of the interests, upon 10 days written notice
+to the Manager. While the Manager generally must honor all requests for
+redemption if presented in proper form, the Manager may suspend temporarily any
+redemption if the effect of such redemption, either alone or in conjunction with
+other redemptions, would impair the relevant Series' ability to operate if the
+impairment would be caused by a third party other than the Manager. Further, the
+right to obtain redemption is contingent upon the relevant Series having
+property sufficient to discharge its liabilities on the date of redemption.
+Under certain circumstances, the Manager may find it advisable to establish a
+reserve for contingent liabilities. In such event, the amount receivable by a
+redeeming holder of interests will be reduced by his proportionate share of the
+reserve. There is no secondary market for interests in the Trust, and none is
+anticipated. There are restrictions for transfer of interests.
+
+ Although the Trust trades in futures contracts which are in general liquid,
+the exchanges impose daily trading limits, which act to suspend trading when a
+particular market or contract trades up or down to a pre-determined price level.
+Should this happen, and the Trust was attempting to execute trades in that
+situation, the Trust may not be able to accurately replicate the results of the
+MLM Index(TM). These rules have not had a material impact on the operation of
+the Trust to date.
+
+Market and Credit Risks
+
+ The nature of the Trust is such that it undertakes substantial market risk
+in following its mandate to replicate the MLM Index(TM). Although the Manager
+monitors the intraday and daily valuation of the portfolio, no extraordinary
+measures are taken to reduce market risk. Specifically, the Manager maintains
+positions required to match, as closely as possible, the return of the MLM
+Index. One could imagine certain circumstances where the Manager might be called
+upon to make a change to this policy, such as the closing of an exchange or some
+other emergency situation. In such case, management would use its best efforts
+to respond to such circumstances with the interests of the investors in mind.
+
+ During calendar year 2004, the most profitable sector for the Trust was the
+Energy sector (Crude Oil, Heating Oil, Unleaded Gas, and Natural Gas), while the
+least profitable sector was the Tropicals (Cotton, Sugar and Coffee). The
+ranking of the Tropicals is a repeat of calendar year 2003. The MLM Index(TM)
+is designed to capture returns from sustained trends in the constituent futures
+markets. When these trends exist in a market or sector, the MLM Index(TM) tends
+to exhibit positive performance in that market or sector. Conversely, if a
+market or sector is trendless and volatile, the performance for the market of
+sector is likely to be negative. The results of the Energy and Tropical sectors
+illustrate these design characteristics. During 2004, Crude Oil prices
+substantially rose from around 30/barrel to around 53/barrel. The change
+during that period was very orderly. The MLM Index(TM) remained long Crude Oil
+during that period. The behavior of Crude Oil contrasts significantly with the
+behavior of the Coffee market. The coffee market began 2004 around 80 cents per
+pound and ended around 110 cents
+
+27
+ 
+per pound. During the year it ranged up to 95 cents and down to 75 cents. The
+stability combined with volatility led to frequent changes in positions,
+generally an indication of poor results.
+
+ The MLM Index(TM) is not designed to predict which market will exhibit
+positive performance in any given year. The manager does not select the
+constituent markets based on expectations of future performance. The MLM
+Index(TM) is designed to represent participation in a diverse basket of future
+contracts using a trend-following algorithm. The MLM Index(TM) is a diversified
+Index producing different levels of return in the various sectors from year to
+year.
+
+ The Trust incurs various kinds of credit risk in its operations. In order
+to facilitate the trading of the Trust, assets must be placed with both Futures
+Commission Merchants and Broker/Dealers. Management of the Trust deals only with
+established registered firms in both capacities, and monitors their financial
+condition on an ongoing basis. In addition, if the Trust were to enter into over
+the counter transactions, additional counterparty risk would be incurred. There
+were no OTC transactions during 2004.
+
+Results of Operations
+
+ For the Fiscal Year ending 12/31/2004 the Trust had assets of 365,368,734,
+compared with assets of 280,812,656, on 12/31/2003 and assets of 212,016,757,
+on 12/31/2002. Liabilities of the Trust totaled 6,503,889 in the 2004 fiscal
+year, compared with 3,217,498 in the 2003 fiscal year, 8,022,344 in the 2002
+fiscal year, and 3,927,110 for the 2001 fiscal year. Net income (loss) from
+operations was (180,574), compared with 6,190,736 in 2003, and (19,287,288)
+in 2002.
+
+ The Trust's net income is directly related to the performance of the MLM
+Index(TM), which the Trust is designed to replicate. For the 12 months ending
+12/31/04, MLM Index(TM) performance was +3.52 , lower than the +3.92 recorded
+in 2003, but higher than the -1.63 recorded in 2002. Trust performance may be
+negative in years when the MLM Index(TM) is positive due to the timing of
+subscriptions and redemptions, the fees charged, and the allocation of assets
+between the Unleveraged and Leveraged Series of the Trust. Since inception of
+the Trust, the correlation of monthly results between the Unleveraged Series of
+the Trust and the MLM Index(TM) adjusted for fees is 0.99. The correlation
+between the Leveraged Series of the Trust and the MLM Index(TM) adjusted for
+leverage and fees is 0.99.
+
+ The components of the return of the MLM Index(TM) are the capital gains
+earned from the changes in futures market prices, and the interest income earned
+on cash balances. The mechanics and rules of futures markets allow the Trust to
+earn interest on approximately 100 of the assets in the Trust. The interest
+income takes two forms, directly from the Trust's futures broker paid on the
+margin deposits held by them, and excess cash. During 2001, management altered
+the method of earning interest on the excess cash. Previously, excess cash was
+placed in a money market mutual fund. Larger asset size permitted the Trust to
+retain the services of a professional money manager, CSAM, to invest the Trust's
+cash assets without the expenses associated with money market mutual funds.
+
+28
+ 
+Omission of Review of Certain Quarterly Reports by Independent Registered Public
+Accounting Firm
+
+ Prior to the third quarter of 2003, the Trust's quarterly reports had not
+been reviewed by its independent registered public accounting firm. Those
+previously unreviewed reports have since been reviewed by the Trust's
+independent registered public accounting firm, and no material differences have
+been identified as a result of such subsequent reviews.
+
+Item 7A Quantitative and Qualitative Disclosures About Market Risk
+
+ The following is a discussion of the quantification of market risk for the
+Trust. Such calculations are often referred to as Value-at-Risk, or VAR. The
+method used here may or may not differ from other methods used for VAR
+calculations by other firms. There is no one fixed method of VAR calculation,
+and this method may not be comparable to other methods.
+
+ The market risk, or VAR of the Trust is directly related to the composition
+of the MLM Index(TM). Each month, the position of the MLM Index(TM) can be
+either long or short based on a 252 business day moving average rule. Since
+positions can be offset inside of sectors (one contract long in a particular
+commodity and one contract short in a related commodity), specific sector risk
+is less relevant than the historical risk of the MLM Index(TM) as a whole. Since
+the object of the Trust is to replicate the MLM Index(TM), it is reasonable to
+use the historic values of that Index to estimate market risk.
+
+ THE VAR OF THE FUND IS CALCULATED AS FOLLOWS:
+
+ 1. The manager calculates the standard deviation of the historical
+ returns of the MLM Index(TM) over two time periods, using daily
+ returns over the preceding 1 year ending at the date of this report,
+ and using monthly returns over the preceding 10 years. Those results
+ for the period ended 12/31/2004 are 0.58 and 1.86 , respectively. It
+ is important to note that this calculation is made on the historical
+ data of the MLM Index(TM). It is not based on the actual trading of
+ the Trust and does not include any operational risk. The standard
+ deviation is used to measure the dispersion of the returns of the MLM
+ Index(TM).
+ 2. For the purposes of VAR, one attempts to estimate the size of a loss
+ that may occur with some small probability. It does not estimate
+ the possibility of some total loss, only the probability of a loss of
+ some magnitude. The calculation is complicated by the fact that the
+ standard deviation of the distribution assumes a normal distribution,
+ which may or may not be a good estimate of the actual distribution.
+ For the purposes of this estimate, the Manager has chosen to calculate
+ the size of a daily and monthly loss that might occur with a
+ probability of 1 (1 chance in 100). To do this, the standard
+ deviation is multiplied by 2.35 to the standard 99 confidence
+ interval, and by 1.5 to adjust for the possibility of a non-normal
+ distribution. For daily returns, this estimate is a loss of 1.974 .
+ For monthly returns the estimate is loss of 6.52125 
+ 3. To ascertain a dollar loss amount for the Trust, the assets of the
+ Trust as of 12/31/2004 are multiplied by the estimate of the risk
+ calculated in step 2 above. The risk estimate
+
+29
+ 
+ is based on the Unleveraged MLM Index(TM), so Trust assets must
+ be adjusted for the distribution of assets among the Unleveraged and
+ Leveraged Series of the Trust, with the leveraged assets having three
+ times the risk of the Unleveraged assets. Based on the asset levels as
+ of 12/31/2004, the manager estimates that the Trust could expect to
+ lose 14,971,286 in any given day and 48,011,366 in any given month.
+
+ The estimate above, though reasonable, should not be taken as an assurance
+that losses in the Trust could not be greater than these amounts. This is
+simply a quantitative estimate based on the historical performance of the MLM
+Index(TM). The loss that occurs with small probability may be substantially
+greater than the loss indicted above. Also, market conditions could change
+dramatically from the conditions that prevailed over the period used to
+calculate the estimate, affecting the realized volatility of the market.
+Furthermore, other factors could effect trading, such as the inability to
+execute orders in a particular market, due to operational or regulatory
+restrictions that may alter the pattern of the Trust's returns. Specifically,
+the Manager advises other funds in addition to the Trust. In certain markets
+there is a limit to the size a position that one entity can control (speculative
+limits). Since positions cannot exceed speculative limits, the Manager may have
+to allocate positions across accounts and funds, resulting in a less than
+complete replication of the MLM Index(TM). It is best to remember the fact
+that, as outlined in the offering for the Trust, that all the assets invested
+are at risk of loss.
+
+ Since the calculation of the VAR does not look at the specific instrument
+risks, but rather the results of the MLM Index(TM) as a whole, risks related to
+actual execution are not included in the calculation. For example, counter-party
+risks from OTC transactions are not factored into the calculation.
+
+ Additional market risk may be attributed to the actual execution of the
+orders for the Trust. The Trust executes the majority of its orders on the last
+day of each month. As assets of the Trust grow, large orders may be placed in
+periods of reduced liquidity. Such orders may move the markets in which they are
+executed, adversely affecting the performance of the Trust. The Manager makes
+every effort to execute all orders efficiently, but general levels of liquidity
+are beyond the control of management. In certain circumstances, markets may move
+to the daily trading limits imposed by the exchanges, and the Trust may be
+unable to execute the necessary orders to replicate the MLM Index(TM), causing
+extensive slippage.
+
+Non-Market Risk
+
+ Risk from Brokers - The Trust's futures commission merchant, Refco, LLC.,
+holds some portion of the assets of the Trust as margin deposits for futures
+trading. A failure of Refco could cause the portion of the Trust's assets held
+there to be at risk or unavailable for an undetermined period of time.
+
+ Speculative Limits - Certain futures exchanges require that positions
+deemed speculative in nature (as opposed to commercial hedge positions) cannot
+exceed certain pre-defined levels. All positions in the control of the Manager
+must be aggregated to determine compliance with these rules. Should the assets
+of the Manager reach a level such that positions may be capped, accurate
+replication of the MLM Index(TM) for the Trust may be difficult or impossible.
+The
+
+30
+ 
+Manager may also use certain "Over The Counter" derivatives to achieve the same
+exposure without exceeding speculative limits. These OTC products would involve
+taking additional counter-party risk for the Trust in order to achieve accurate
+replication of the MLM Index(TM). For example, if it was determined that the
+Trust must hold 10 contracts of Soybeans for a specific delivery, the Trust
+could execute the appropriate futures contracts on the appropriate futures
+exchange. Also, the Manager of the Trust may choose to enter into a swap
+agreement, which would have substantially the same economic effect of the
+futures position, but would be executed in the over-the-counter market. The swap
+contract would change the nature of the counter-party from an organized exchange
+to a single dealer, and would materially increase the non-market risk of holding
+the position. The Trust has not yet utilized OTC swap contracts.
+
+Item 8. Financial Statements and Supplementary Data
+
+ The Partnership's financial statements, together with the independent
+registered public accounting firm's report thereon, appear on pages F-1 through
+F-20 hereof.
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and
+ Financial Disclosure
+
+ Not applicable
+
+Item 9A. Controls and Procedures.
+
+The President and the Chief Operating Officer of the Manager evaluated the
+effectiveness of the design and operation of the Trust's disclosure controls and
+procedures, which are designed to ensure that the Trust's records, processes,
+summarizes and reports in a timely and effective manner the information required
+to be disclosed in the reports filed with or submitted to the Securities and
+Exchange Commission. Based upon this evaluation, they concluded that, as of
+December 31, 2004, the Trust's disclosure controls are effective. There have
+been no significant changes in the Trust's internal control over financial
+reporting in the year ended December 31, 2004 that has materially affected or is
+reasonably likely to materially affect the Trust's control over financial
+reporting.
+
+31
+ 
+ PART III
+
+Item 10. Directors and Executive Officers
+
+ The Trust has no directors or officers. The Manager manages and conducts
+the business of the Trust.
+
+ The principals of the Manager are Roger E. Alcaly, Paul R. DeRosa, Raymond
+E. Ix, Jr., James A. Mehling, John R. Oberkofler, Timothy J. Rudderow and Frank
+L. Vannerson.
+
+ Roger E. Alcaly, age 63, became a principal and Director of the Manager
+when it merged with CA Partners, Inc., a company he formed with Messrs. Rudderow
+and Vannerson in 1990 which engaged primarily in convertible arbitrage trading.
+Prior to helping form CA Partners, Mr. Alcaly was active in leveraged
+acquisitions, merger arbitrage and value-oriented equity investing, first as a
+partner of Kellner DiLeo & Co. and KD Equities, each of which engaged in
+risk-arbitrage trading, and then at Riverside Capital, a company he formed after
+leaving those firms in May 1987 which engaged in risk-arbitrage trading. Before
+joining Kellner DiLeo, Mr. Alcaly served as Assistant Director of the Council on
+Wage and Price Stability and as a Senior Economist at the Federal Reserve Bank
+of New York, and taught Economics at Columbia University. Mr. Alcaly holds a
+B.A. from Amherst College and a Ph.D. in Economics from Princeton University.
+
+ Paul R. DeRosa, age 63, became a principal and Director of the Manager when
+it merged with CA Partners, Inc., which he joined in January 1999. Mr. DeRosa
+began his career in the securities industry as the money market economist in
+Citibank's bond trading division. He later became the bank's chief proprietary
+bond trader and subsequently head of Citibank's financial derivative and capital
+markets businesses in North America. In 1986 Mr. DeRosa joined E.F. Hutton Co.
+as co-head of bond trading with particular responsibility for mortgage trading
+and finance. In 1989 he helped to establish Eastbridge Holdings Inc., a bond and
+currency trading company in New York, and served as President and CEO from June
+1995 to June 1998. Mr. DeRosa holds a Ph.D. in Economics from Columbia
+University.
+
+ Raymond E. Ix, Jr., age 41, is a Senior Vice President and a Director of
+the Manager. Mr. Ix joined Mount Lucas in 1992 and is responsible for
+institutional marketing and client service. From 1989 to 1992, Mr. Ix was
+employed by Little Brook Corporation of New Jersey, a commodity trading advisor,
+where he was involved in implementing the firm's technical trading systems.
+Before joining Little Brook, Mr. Ix was the Fixed Income Administrative Manager
+at Delaware Management Company, a company which advised institutional and
+individual investors. Mr. Ix received a B.S. in accounting from Saint Joseph's
+University in 1986.
+
+ James A. Mehling, age 55, is a Vice President and Chief Operating Officer
+of the Manager. Before joining Mount Lucas in June 1999, Mr. Mehling had served
+as President and Chief Investment Officer of Monitor Capital Advisors, a company
+which managed institutional
+
+32
+ 
+stock and bond portfolios and mutual funds, beginning in 1991. Mr. Mehling
+started his career in financial services with Merrill Lynch in 1976 and
+eventually managed a trading desk for Merrill Lynch Government Securities. He is
+a CFA charter holder and has served as a volunteer on the CFA examination
+grading committee. Mr. Mehling received a B.S. in Aviation Engineering from
+Western Michigan University in 1970.
+
+ John R. Oberkofler, age 45, is a Vice President and Director of Trading for
+the Manager since 1999. From 1986 to 1999, he was employed as Senior Trader by
+Little Brook Corporation of New Jersey. Mr. Oberkofler received a B.S. in
+Finance from Seton Hall University in 1982.
+
+ Timothy J. Rudderow, age 49, is President and a Director of the Manager,
+which he helped to establish in 1986. Prior to the mergers that took place in
+October 1999, Mr. Rudderow was also a principal of Little Brook Corporation of
+New Jersey, which he joined in 1983 as Director of Research and Development, and
+of CA Partners, Inc., a company he helped form in 1990. Prior to joining Little
+Brook, Mr. Rudderow was employed by Commodities Corporation, a company which was
+a commodity trading advisor, with responsibilities for the design and management
+of technical trading systems. Before joining Commodities Corporation, Mr.
+Rudderow taught Economics at Drexel University. Mr. Rudderow received a B.A. in
+Mathematics from Rutgers University in 1977 and an M.B.A. in Management Analysis
+from Drexel University in 1979.
+
+ Frank L. Vannerson, age 66, is Chairman, a Director and a founder of the
+Manager. He also helped form two other companies that merged with the Manager in
+October 1999, Little Brook Corporation of New Jersey in 1980 and CA Partners,
+Inc. in 1990. In 1969, Mr. Vannerson co-founded Commodities Corporation and
+served that company as Senior Vice President and a member of the Management
+Policy Committee from 1975 to 1980. From 1984 to 1989, he was a member of
+Commodities Corporation's Board of Directors and a consultant to the Management
+Policy Committee. Before joining Commodities Corporation, Mr. Vannerson was a
+commodity economist with Nabisco Inc. and an economic consultant with
+Mathematica Inc. He holds a B.S. in Economics from Wichita State University and
+a Ph.D. in Economics from Princeton University where he was a member of the
+faculty in the Department of Economics from 1965 to 1966. He currently serves on
+the Advisory Council to the Princeton University Department of Economics.
+
+Code of Ethics
+
+ The Trust does not have any officers; therefore, it has not adopted a code
+of ethics applicable to the Trust's principal executive officer principal
+financial officer, principal accounting officer and persons performing similar
+functions. The Manager is primarily responsible for the day to day
+administrative and operational aspects of the Trust's business. The Manager has
+adopted a code of ethics that applies to its principal executive officer,
+principal financial officer, principal accounting officer and persons performing
+similar functions and a copy of such code is included in Exhibit 14.1.
+
+33
+ 
+Item 11. Executive Compensation
+
+ The Trust has no directors or executive officers. The Manager receives
+management and other fees from the Trust as described in Item 1 - Fees and
+Expenses.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+
+ The Trust has no directors or officers. The Manager manages and conducts
+the business of the Trust. As of December 31, 2004, the Manager had an
+investment of 1,140.82 in the Unleveraged Series and 1,130.95 in the Leveraged
+Series.
+
+Item 13. Certain Relationships and Related Transactions
+
+ The Manager manages and conducts the business of the Trust. The Manager
+receives management and other fees from the Trust as described in Item 1 - Fees
+and Expenses.
+
+ For the years ended December 31, 2004, 2003, and 2002, the Manager received
+from the Trust:
+
+ (1) management fees in the amount of 3,924,230, 2,809,869, and
+ 2,455,153, respectively;
+ (2) brokerage fees in the amount of 402,138 for December 2004. No
+ brokerage fees were paid to the Manager for the period January 1, 2004
+ to November 30, 2004 or for the years ended 2003 and 2002.;
+ (3) organizational fees in the amounts of 509,402, 349,492, and 317,678
+ respectively.
+
+Item 14. Principal Accountant Fees and Services.
+
+ Audit Fees. The aggregate fees billed to the Trust by the independent
+registered public accounting firm, Ernst & Young LLP ("E&Y"), for professional
+services rendered in connection with the audit of the Trust's financial
+statements included in this Annual Report on Form 10-K, and for review of the
+statements included in the Trust's Quarterly Reports on Form 10-Q, totaled
+approximately 68,000, 66,900, and 30,000 for the fiscal years 2004, 2003, and
+2002 respectively.
+
+ Audit-Related Fees. There were no fees billed to the Trust by E&Y for
+assurance and related services that are reasonably related to the performance of
+the audit and review of the Trust's financial statements that are not already
+reported in the paragraph immediately above for the years 2004, 2003, and 2002
+respectively.
+
+ Tax Fees. The aggregate fees billed to the Trust by E&Y for professional
+services rendered by E&Y for tax compliance totaled approximately 26,000,
+ 19,000 and 16,000 for
+
+34
+ 
+the years 2004, 2003 and 2002, respectively. These services included review of
+the Trust's domestic tax compliance information.
+
+ All Other Fees. There were no fees billed to the Trust by E&Y for products
+and services provided by E&Y other than as set forth above for the years 2004,
+2003 and 2002.
+
+ Engagement of the Independent Registered Public Accounting Firm. The
+Manager is responsible for approving every engagement of E&Y to perform audit or
+non-audit services for the Trust before E&Y is engaged to provide those
+services. The Manager considers whether the provision of any non-audit
+provisions is compatible with maintaining E&Y's independence.
+
+35
+ 
+ PART IV
+
+Item 15. Exhibits, Financial Statement Schedules, and Reports on Form 8-K.
+
+ (a) Exhibits
+
+ 3.7 Amendment No. 5 to the Amended and Restated Declaration
+ of Trust and Trust Agreement of MLM Index(TM) Fund
+
+ 14.1 Code of Ethics
+
+ 31.1 Certification of President of the Manager Pursuant to
+ Rule 13A-14(a) and Rule 15D-14(a), of the Securities Exchange
+ Act, as amended.
+
+ 31.2 Certification of Vice President and Chief Operating Officer
+ of the Manager Pursuant to Rule 13A-14(a) and Rule 15D-14(a), of
+ the Securities Exchange Act, as amended.
+
+ 32.1 Certification of President of the Manager Pursuant to
+ 18 U.S.C. Section 1350, as adopted Pursuant to Section 906 of the
+ Sarbanes-Oxley Act of 2002
+
+ 32.2 Certification of Vice President and Chief Operating Officer
+ of the Manager Pursuant to 18 U.S.C. Section 1350, as adopted
+ Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+ (b) Reports on Form 8-K
+
+The Trust did not file any reports on Form 8-K during 2004.
+
+36
+ 
+ SIGNATURES
+
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, MLM Index(TM) Fund has duly caused this report to be
+signed on its behalf by the undersigned, thereunto duly authorized.
+
+ MLM INDEX(TM) FUND
+
+ By: Mount Lucas Management Corporation
+ Its: Manager
+
+ By: /s/ Timothy J. Rudderow
+ ------------------------------------
+ Timothy J. Rudderow, President
+
+Date: March 15, 2005
+
+37
+
+2004 10K Marked.Doc
+Financial Statements
+MLM Index Fund
+Years ended December 31, 2004 and 2003
+with Report of Independent Registered Public Accounting Firm
+
+F-1
+ 
+ Mount Lucas Management Corp.
+ 47 Hulfish Street, Suite 510
+ Princeton, NJ 08542
+ Telephone (609) 924-8868
+
+Affirmation of the Commodity Pool Operator
+
+I affirm that, to the best of my knowledge and belief, the information contained
+in the attached financial statements of MLM Index Fund for the years ended
+December 31, 2004 and 2003 is accurate and complete.
+
+Timothy J. Rudderow
+ President
+ Mount Lucas Management Corporation
+ General Partner
+ MLM Index Fund
+
+F-2
+
+MLM Index(TM) Fund
+
+ Financial Statements
+
+Years ended December 31, 2004 and 2003
+
+CONTENTS
+
+Affirmation of Commodity Pool Operator . . . . . . . . . . . . . . . . . . . F-2
+Report of Independent Registered Public Accounting Firm. . . . . . . . . . . F-4
+Statements of Financial Condition. . . . . . . . . . . . . . . . . . . . . . F-5
+Condensed Schedules of Investments . . . . . . . . . . . . . . . . . . . . . F-6
+Statements of Operations . . . . . . . . . . . . . . . . . . . . . . . . . . F-8
+Statements of Changes in Investors' Interest . . . . . . . . . . . . . . . . F-9
+Statements of Cash Flows . . . . . . . . . . . . . . . . . . . . . . . . . .F-13
+Notes to Financial Statements. . . . . . . . . . . . . . . . . . . . . . . .F-14
+
+F-3
+ 
+ Report of Independent Registered Public Accounting Firm
+
+To the Investors of
+ MLM Index(TM) Fund
+
+We have audited the accompanying statements of financial condition, including
+the condensed schedules of investments, of MLM Index(TM) Fund (the "Fund") as of
+December 31, 2004 and 2003, and the related statements of operations, changes in
+investors' interest and cash flows for the years ended December 31, 2004, 2003
+and 2002. These financial statements are the responsibility of the Fund's
+management. Our responsibility is to express an opinion on these financial
+statements based on our audits.
+
+We conducted our audits in accordance with the standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes consideration of
+internal control over financial reporting as a basis for designing audit
+procedures that are appropriate in the circumstances, but not for the purpose of
+expressing an opinion on the effectiveness of the Fund's internal control over
+financial reporting. Accordingly, we express no such opinion. An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements. An audit also includes assessing the accounting
+principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of MLM Index(TM) Fund at December
+31, 2004 and 2003, and the results of its operations, changes in its investors'
+interest, and its cash flows for the years then ended, in conformity with U.S.
+generally accepted accounting principles.
+
+January 31, 2005
+
+F-4
+
+MLM Index(TM) Fund
+
+ Statements of Financial Condition
+
+DECEMBER 31
+ 2004 2003
+ --------------------------
+ 
+ASSETS
+Cash and cash equivalents 347,850,015 254,185,997
+Due from broker 17,275,811 26,593,584
+Prepaid expenses 219,720 -
+Interest receivable 21,711 33,075
+Other assets 1,477 -
+ --------------------------
+Total assets 365,368,734 280,812,656
+ ==========================
+
+LIABILITIES AND INVESTORS' INTEREST
+Redemptions payable 4,706,201 2,478,744
+Brokerage commissions payable 402,138 303,795
+Management fee payable 473,458 318,664
+Accrued expenses 643,592 116,295
+Subscriptions received in advance 278,500 -
+ --------------------------
+Total liabilities 6,503,889 3,217,498
+
+Investors' interest 358,864,845 277,595,158
+ --------------------------
+Total liabilities and investors' interest 365,368,734 280,812,656
+ ==========================
+
+The accompanying notes are an integral part of the financial statements and
+should be read in conjunction therewith.
+
+F-5
+
+MLM Index(TM) Fund
+
+ Condensed Schedules of Investments
+
+ December 31, 2004
+
+ UNREALIZED PERCENTAGE OF
+ APPRECIATION INVESTORS'
+ (DEPRECIATION) INTEREST
+
+DESCRIPTION
+- ---------------------------------------------------------------------------------
+
+FUTURES
+Long futures contracts(1)
+ Financial 609,934 0.17 
+ Commodity (4,038,780) (1.13) 
+ -------------------------------
+ (3,428,846) (0.96) 
+Short futures contracts(1)
+ Commodity 1,287,475 0.36 
+ -------------------------------
+
+Net unrealized depreciation on futures contracts (2,141,371) (0.60) 
+ ===============================
+
+(1) All such amounts are included, net, in due from brokers on the statements of
+financial condition.
+
+F-6
+
+MLM Index(TM) Fund
+
+ Condensed Schedules of Investments (continued)
+
+ December 31, 2003
+
+ UNREALIZED PERCENTAGE OF
+ APPRECIATION INVESTORS'
+ (DEPRECIATION) INTEREST
+
+DESCRIPTION
+- ---------------------------------------------------------------------------------
+
+FUTURES
+Long futures contracts(1)
+ Financial 4,805,917 1.73 
+ Commodity 17,659,479 6.36 
+ -------------------------------
+ 22,465,396 8.09 
+Short futures contracts(1)
+ Commodity 1,429,965 0.52 
+ -------------------------------
+
+Net unrealized appreciation on futures contracts 23,895,361 8.61 
+ ===============================
+
+(1) All such amounts are included, net, in due from brokers on the statements of
+financial condition.
+
+The accompanying notes are an integral part of the financial statements and
+should be read in conjunction therewith.
+
+F-7
+
+MLM Index(TM) Fund
+
+ Statements of Operations
+
+YEARS ENDED DECEMBER 31
+ 2004 2003 2002
+ ------------------------------------------
+ 
+INVESTMENT INCOME
+Interest 4,331,899 2,373,246 3,412,276
+
+EXPENSES
+Brokerage commissions 4,586,994 3,221,120 2,842,588
+Management fee 3,924,230 2,809,869 2,455,153
+Operating expenses 2,287,004 1,554,929 944,454
+ ------------------------------------------
+Total expenses 10,798,228 7,585,918 6,242,195
+ ------------------------------------------
+
+Net investment loss (6,466,329) (5,212,672) (2,829,919)
+
+REALIZED AND UNREALIZED GAIN (LOSS) ON
+ INVESTMENTS
+Net realized gain (loss) on investments 32,322,487 5,302,391 (27,250,523)
+Net change in unrealized appreciation
+ (depreciation) on investments (26,036,732) 6,101,017 10,793,154
+ ------------------------------------------
+Net realized and unrealized gain (loss)
+ on investments 6,285,755 11,403,408 (16,457,369)
+ ------------------------------------------
+
+Net income (loss) (180,574) 6,190,736 (19,287,288)
+ ==========================================
+
+The accompanying notes are an integral part of the financial statements and
+should be read in conjunction therewith.
+
+F-8
+
+MLM Index(TM) Fund
+
+ Statements of Changes in Investors' Interest
+
+ Year ended December 31, 2004
+
+LEVERAGED SERIES
+ --------------------------------------------------------------------------------------------------
+ TOTAL
+ CLASS A-1 CLASS A CLASS B-1 CLASS B CLASS C CLASS D LEVERAGED
+ SHARES SHARES SHARES SHARES SHARES(1) SHARES(1) SERIES
+ --------------------------------------------------------------------------------------------------
+ 
+Investors' interest at
+ December 31, 2003 112,117 31,010,253 1,678,368 110,464,301 8,933,897 - 152,198,936
+Subscriptions - 11,430,001 199 44,536,537 1,000,000 1,500,000 58,466,737
+Redemptions (81,397) (6,811,011) (503,723) (18,543,797) (1,000,000) - (26,939,928)
+Transfers (32,233) 929,768 (1,207,817) (15,172,404) 32,233 19,389,960 3,939,507
+Other (Selling commissions) - (19,970) - - - - (19,970)
+Net income (loss) 1,513 (485,507) 32,973 (567,664) 76,619 - (942,066)
+ --------------------------------------------------------------------------------------------------
+Investors' interest at
+ December 31, 2004 - 36,053,534 - 120,716,973 9,042,749 20,889,960 186,703,216
+ ==================================================================================================
+
+Shares at December 31, 2003 1,041.75 326,477.19 14,890.59 1,093,941.49 108,085.69 - 1,544,436.71
+Subscriptions - 112,558.00 1.72 407,050.98 11,974.91 15,000.00 546,585.61
+Redemptions (746.25) (69,879.98) (4,473.96) (176,243.38) (12,160.51) - (263,504.08)
+Transfers (295.50) 9,677.32 (10,418.35) (149,456.26) 771.95 193,899.60 44,178.76
+ --------------------------------------------------------------------------------------------------
+Shares at December 31, 2004 - 378,832.53 - 1,175,292.83 108,672.04 208,899.60 1,871,697.00
+ ==================================================================================================
+
+Net asset value per share:
+December 31, 2004 - 95.17 - 102.71 83.21 100.00
+ ==================================================================================
+
+(1) On December 31, 2004, Class A-1 and Class B-1 were closed by the General
+Partner. Certain investors chose to reinvest in Class C and Class D shares.
+
+F-9
+
+MLM Index(TM) Fund
+
+ Statements of Changes in Investors' Interest (continued)
+
+ Year ended December 31, 2004
+
+UNLEVERAGED SERIES
+ ---------------------------------------------------------------------------------------------
+ TOTAL
+ CLASS A-1 CLASS A CLASS B-1 CLASS B CLASS C CLASS D UNLEVERAGED
+ SHARES SHARES SHARES SHARES SHARES(1) SHARES(1) SERIES
+ ---------------------------------------------------------------------------------------------
+ 
+Investors' interest at
+ December 31, 2003 652,400 17,751,361 1,256,307 105,736,154 - - 125,396,222
+Subscriptions - 11,910,118 - 58,392,549 - 4,000,000 74,302,667
+Redemptions (190,541) (2,480,175) (916,155) (20,757,733) - - (24,344,604)
+Transfers (468,278) (1,754,157) (365,478) (62,959,858) 468,278 61,139,985 (3,939,508)
+Other (Selling commissions) - (14,640) - - - - (14,640)
+Net income (loss) 6,419 42,321 25,326 687,426 - - 761,492
+ ---------------------------------------------------------------------------------------------
+Investors' interest at
+ December 31, 2004 - 25,454,828 - 81,098,538 468,278 65,139,985 172,161,629
+ =============================================================================================
+
+Shares at December 31, 2003 5,898.64 166,108.28 10,778.97 942,036.11 - - 1,124,822.00
+Subscriptions - 110,016.59 - 507,739.65 - 40,000.00 657,756.24
+Redemptions (1,705.98) (22,991.77) (7,705.17) (186,183.28) - - (218,586.20)
+Transfers (4,192.66) (16,196.01) (3,073.80) (552,035.12) 4,682.78 611,399.85 40,585.04
+ ---------------------------------------------------------------------------------------------
+Shares at December 31, 2004 - 236,937.09 - 711,557.36 4,682.78 651,399.85 1,604,577.08
+ =============================================================================================
+
+Net asset value per share:
+December 31, 2004 - 107.43 - 113.97 100.00 100.00
+ =============================================================================
+
+---------------------
+ TOTAL
+ INVESTORS' INTEREST
+ 100 PAR
+ VALUE/SHARE)
+ ---------------------
+ 
+Investors' interest at
+ December 31, 2003 277,595,158
+Subscriptions 132,769,404
+Redemptions (51,284,533)
+Transfers -
+Other (Selling commissions) (34,610)
+Net income (loss) (180,574)
+ ---------------------
+Investors' interest at
+ December 31, 2004 358,864,845
+ =====================
+
+Shares at December 31, 2003 2,669,258.71
+Subscriptions 1,204,341.85
+Redemptions (482,090.28)
+Transfers 84,763.80
+ ---------------------
+Shares at December 31, 2004 3,476,274.08
+ =====================
+
+Net asset value per share:
+December 31, 2004
+
+(1) On December 31, 2004, Class A-1 and Class B-1 were closed by the General
+Partner. Certain investors chose to reinvest in Class C and Class D shares.
+
+The accompanying notes are an integral part of the financial statements and
+should be read in conjunction therewith.
+
+F-10
+
+MLM Index(TM) Fund
+
+ Statements of Changes in Investors' Interest (continued)
+
+ For the year ended December 31, 2003
+
+LEVERAGED SERIES
+ -----------------------------------------------------------------------------------
+ TOTAL
+ CLASS A-1 CLASS A CLASS B-1 CLASS B CLASS C LEVERAGED
+ SHARES SHARES SHARES SHARES SHARES SERIES
+ -----------------------------------------------------------------------------------
+ 
+Investors' interest at
+ December 31, 2002 166,740 27,666,865 1,820,270 90,368,012 6,071,072 126,092,959
+Subscriptions - 8,212,819 - 30,159,498 2,581,500 40,953,817
+Redemptions (58,785) (4,546,565) (214,204) (14,736,734) - (19,556,288)
+Transfers - (478,939) - 1,673,188 - 1,194,249
+Other (Selling commissions) - (70,426) - - - (70,426)
+Net income 4,162 226,499 72,302 3,000,337 281,325 3,584,625
+ -----------------------------------------------------------------------------------
+Investors' interest at
+ December 31, 2003 112,117 31,010,253 1,678,368 110,464,301 8,933,897 152,198,936
+ ===================================================================================
+
+Shares at December 31, 2002 1,567.81 294,432.67 16,888.48 918,690.21 74,838.99 1,306,418.16
+Subscriptions - 89,806.31 - 314,287.47 33,246.70 437,340.48
+Redemptions (526.06) (52,505.52) (1,997.89) (155,925.01) - (210,954.48)
+Transfers - (5,256.27) - 16,888.82 - 11,632.55
+ -----------------------------------------------------------------------------------
+Shares at December 31, 2003 1,041.75 326,477.19 14,890.59 1,093,941.49 108,085.69 1,544,436.71
+ ===================================================================================
+
+Net asset value per share:
+December 31, 2003 107.63 94.98 112.71 100.98 82.66
+ ===================================================================
+
+UNLEVERAGED SERIES
+ --------------------------------------------------------------------------------------------
+ TOTAL
+ TOTAL INVESTORS' INTEREST
+ CLASS A-1 CLASS A CLASS B-1 CLASS B UNLEVERAGED 100 PAR
+ SHARES SHARES SHARES SHARES SERIES VALUE/SHARE)
+ --------------------------------------------------------------------------------------------
+ 
+Investors' interest at
+ December 31, 2002 800,249 13,253,585 1,233,316 62,614,304 77,901,454 203,994,413
+Subscriptions - 6,254,104 - 55,392,363 61,646,467 102,600,284
+Redemptions (153,541) (1,831,621) (568) (13,516,037) (15,501,767) (35,058,055)
+Transfers - 66,509 - (1,260,758) (1,194,249) -
+Other (Selling commissions) - (61,794) - - (61,794) (132,220)
+Net income 5,692 70,578 23,559 2,506,282 2,606,111 6,190,736
+ --------------------------------------------------------------------------------------------
+Investors' interest at
+ December 31, 2003 652,400 17,751,361 1,256,307 105,736,154 125,396,222 277,595,158
+ ============================================================================================
+
+Shares at December 31, 2002 7,275.76 124,491.78 10,783.92 566,291.85 708,843.31 2,015,261.47
+Subscriptions - 58,395.81 - 509,109.17 567,504.98 1,004,845.46
+Redemptions (1,377.12) (17,476.15) (4.95) (122,027.14) (140,885.36) (351,839.84)
+Transfers - 696.84 - (11,337.77) (10,640.93) 991.62
+ --------------------------------------------------------------------------------------------
+Shares at December 31, 2003 5,898.64 166,108.28 10,778.97 942,036.11 1,124,822.00 2,669,258.71
+ ============================================================================================
+
+Net asset value per share:
+December 31, 2003 110.60 106.87 116.55 112.24
+ =====================================================
+
+The accompanying notes are an integral part of the financial statements and
+should be read in conjunction therewith.
+
+F-11
+
+MLM Index(TM) Fund
+
+ Statements of Changes in Investors' Interest (continued)
+
+ For the year ended December 31, 2002
+
+ENHANCED SERIES
+ -----------------------------------------------------------------------------------
+ TOTAL
+ CLASS A-1 CLASS A CLASS B-1 CLASS B CLASS C ENHANCED
+ SHARES SHARES SHARES SHARES SHARES SERIES
+ -----------------------------------------------------------------------------------
+ 
+Investors' interest at
+ December 31, 2001 153,689 26,820,513 4,193,995 91,711,548 4,024,210 126,903,955
+Subscriptions - 8,413,427 24,875 30,330,410 2,495,000 41,263,712
+Redemptions (19,733) (2,915,007) (1,205,857) (15,209,311) - (19,349,908)
+Transfers 54,045 (715,360) (704,143) (3,903,454) - (5,268,912)
+Other (Selling commissions) - (74,963) - - (37,250) (112,213)
+Net loss (21,261) (3,861,745) (488,600) (12,561,181) (410,888) (17,343,675)
+ -----------------------------------------------------------------------------------
+Investors' interest at
+ December 31, 2002 166,740 27,666,865 1,820,270 90,368,012 6,071,072 126,092,959
+ ===================================================================================
+
+Shares at December 31, 2001 1,240.99 242,231.27 33,918.00 802,953.00 42,419.00 1,122,762.26
+Subscriptions - 90,974.41 197.24 313,223.04 32,419.78 436,814.47
+Redemptions (199.00) (30,517.08) (10,694.11) (157,164.08) - (198,574.27)
+Transfers 525.82 (8,255.93) (6,532.65) (40,321.75) 0.21 (54,584.30)
+Other - - - - - -
+ -----------------------------------------------------------------------------------
+Shares at December 31, 2002 1,567.81 294,432.67 16,888.48 918,690.21 74,838.99 1,306,418.16
+ ===================================================================================
+
+Net asset value per share:
+December 31, 2002 106.35 93.97 107.78 98.37 81.12
+ ===================================================================
+
+UNLEVERAGED SERIES
+ ------------------------------------------------------------------------------------
+ TOTAL
+ TOTAL INVESTORS'
+ CLASS A-1 CLASS A CLASS B-1 CLASS B UNLEVERAGED INTEREST
+ SHARES SHARES SHARES SHARES SERIES 100 PAR
+ VALUE/SHARE)
+ ------------------------------------------------------------------------------------
+ 
+Investors' interest at
+ December 31, 2001 910,801 8,248,822 1,985,391 59,157,708 70,302,722 197,206,677
+Subscriptions - 8,258,851 - 19,739,299 27,998,150 69,261,862
+Redemptions (21,267) (2,666,621) (713,431) (20,253,781) (23,655,100) (43,005,008)
+Transfers (54,044) (185,926) 1 5,508,881 5,268,912 -
+Other (Selling commissions) - (69,617) - - (69,617) (181,830)
+Net loss (35,241) (331,924) (38,645) (1,537,803) (1,943,613) (19,287,288)
+ ------------------------------------------------------------------------------------
+Investors' interest at
+ December 31, 2002 800,249 13,253,585 1,233,316 62,614,304 77,901,454 203,994,413
+ ====================================================================================
+
+Shares at December 31, 2001 7,975.90 74,313.00 16,874.00 517,660.26 616,823.16 1,739,585.42
+Subscriptions - 77,152.56 - 181,449.52 258,602.08 695,416.55
+Redemptions (199.00) (25,225.45) (6,089.43) (183,401.96) (214,915.84) (413,490.11)
+Transfers (501.14) (1,748.33) 0.65 50,584.03 48,333.91 (6,250.39)
+Other - - - - - -
+ ------------------------------------------------------------------------------------
+Shares at December 31, 2002 7,275.76 124,491.78 10,783.92 566,291.85 708,843.31 2,015,261.47
+ ====================================================================================
+
+Net asset value per share:
+December 31, 2002 109.99 106.46 114.37 110.57
+ =====================================================
+
+The accompanying notes are an integral part of the financial statements and
+should be read in conjunction therewith.
+
+F-12
+
+MLM Index(TM) Fund
+
+ Statements of Cash Flows
+
+YEARS ENDED DECEMBER 31
+ 2004 2003 2002
+ -------------------------------------------
+ 
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net income (loss) (180,574) 6,190,736 (19,287,288)
+Adjustments to reconcile net income (loss) to
+ net cash and cash equivalents provided by
+ (used in) operating activities:
+ Net change in operating assets and
+ liabilities:
+ Due from broker 3,032,020 (21,757,408) 26,360,160
+ Certificate of deposit - - 4,502,290
+ Prepaid expenses (219,720) - -
+ Interest receivable 11,364 82 465,589
+ Other assets (1,477) - -
+ Brokerage commissions payable 98,343 66,491 (19,818)
+ Management fee payable 154,794 55,112 8,086
+ Accrued expenses 527,297 (28,119) (106,769)
+ Unrealized appreciation (depreciation) on
+ investments (26,036,732) 6,101,017 10,793,154
+ Net realized gain on investments 32,322,487 5,302,391 (27,250,523)
+ -------------------------------------------
+Net cash and cash equivalents provided by
+ (used in) operating activities 9,707,802 (4,069,698) (4,535,119)
+ -------------------------------------------
+
+CASH FLOWS FROM FINANCING ACTIVITIES
+Subscriptions received, net of selling
+commissions 132,734,794 102,468,065 69,080,032
+Subscriptions received in advance 278,500 - -
+Redemptions paid (49,057,076) (39,956,386) (38,791,272)
+ -------------------------------------------
+Net cash and cash equivalents provided by
+ financing activities 83,956,216 62,511,679 30,288,760
+ -------------------------------------------
+
+Net increase in cash and cash equivalents 93,664,018 58,441,981 25,753,641
+Cash and cash equivalents at beginning of year 254,185,997 195,744,016 169,990,375
+ -------------------------------------------
+Cash and cash equivalents at end of year 347,850,015 254,185,997 195,744,016
+ ===========================================
+
+The accompanying notes are an integral part of the financial statements and
+should be read in conjunction therewith.
+
+F-13
+ 
+ MLM Index Fund
+
+ Notes to Financial Statements
+
+ December 31, 2004 and 2003
+
+1. ORGANIZATION
+
+MLM Index(TM) Fund (the "Fund") was formed under the Business Trust Statute of
+the State of Delaware as a business trust in December 1997 and commenced
+operations on January 4, 1999. The Fund was organized for the primary purpose of
+seeking capital appreciation through the speculative trading of a diversified
+portfolio of futures contracts traded on U.S. exchanges using the MLM Index(TM)
+Trading Program, which is based upon the MLM Index(TM) (the "Index"). The Index
+is a benchmark of the hypothetical returns available to a futures investor. The
+Index is comprised of a diverse portfolio of futures markets, including both
+financial and tangible markets. Only highly liquid futures markets are currently
+included in the Index.
+
+Mount Lucas Management Corporation (the "Manager") is the investment manager of
+the Fund and is responsible for the allocation of the Fund's interest among a
+mix of trading approaches. The Manager is a registered investment advisor under
+the Investment Adviser's Act of 1940, is registered as a commodity pool operator
+and a commodity-trading advisor with the Commodity Futures Trading Commission
+and is a member of the National Futures Association.
+
+2. SIGNIFICANT ACCOUNTING POLICIES
+
+BASIS OF PRESENTATION
+
+The accompanying financial statements have been prepared in conformity with U.S.
+generally accepted accounting principles. The following is a summary of the
+significant accounting and reporting policies used in preparing the financial
+statements.
+
+CASH AND CASH EQUIVALENTS
+
+Cash and cash equivalents consist of highly liquid financial instruments with
+maturities of three months or less. The Fund's cash and cash equivalents
+consisted of approximately:
+
+DECEMBER 31, 2004 DECEMBER 31, 2003
+ --------------------------------------
+ 
+Overnight money markets 46,281,000 82,034,000
+Money market securities 299,006,000 169,598,000
+
+F-14
+ 
+ MLM Index Fund
+
+ Notes to Financial Statements (continued)
+
+2. SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+DUE FROM BROKERS
+
+The Fund's trading activities utilize one broker located in the United States.
+Due from broker represents cash balances held, unrealized profit or loss on
+futures contracts, and amounts receivable or payable for transactions not
+settled at December 31, 2004.
+
+VALUATION OF TRADING POSITIONS
+
+The Fund's trading positions are valued at market value. Cash equivalents are
+carried at amortized cost which approximates fair value. All positions including
+the net unrealized appreciation or depreciation are included in amounts due from
+broker. Market value is principally based on listed market prices or broker or
+dealer price quotations. The resulting change in unrealized profit or loss is
+reflected in net change in unrealized appreciation (depreciation) on investments
+on the statements of operations.
+
+INVESTMENT TRANSACTIONS AND INVESTMENT INCOME
+
+All security transactions are recorded on a trade date basis. Realized gain and
+loss is recorded on the specific identification method. Interest income are
+recorded using the accrual basis of accounting.
+
+FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+The fair value of the Partnership's assets and liabilities, which qualify as
+financial instruments under Statement of Financial Accounting Standards No. 107
+"Disclosures about Fair Value of Financial Instruments," approximates the
+carrying amounts presented in the financial statements.
+
+USE OF ESTIMATES
+
+The preparation of the accompanying financial statements in conformity with U.S.
+generally accepted accounting principles requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenue and expenses during the reporting
+period. Actual results could differ from those estimates.
+
+F-15
+ 
+ MLM Index Fund
+
+ Notes to Financial Statements (continued)
+
+2. SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+INCOME TAXES
+
+The Unleveraged Series and the Leveraged Series each are classified for federal
+income tax purposes as separate partnerships. Investors in each Series will
+reflect their proportionate share of realized profit or loss on their separate
+tax returns. Accordingly, no provisions for income taxes are required for the
+Fund.
+
+3. INVESTORS' INTEREST
+
+The Fund is comprised of two series: the Unleveraged Series, which attempts to
+replicate the Index without leverage, and the Leveraged Series (collectively,
+the "Series"), which attempts to replicate Index at three times leverage. Prior
+to December 2004, each Series had five classes of shares: Class A, Class A-1,
+Class B, Class B-1 and Class C. On December 1, 2004, Class D shares were offered
+in each Series. On December 31, 2004, the General Partner elected to close Class
+A-1 and Class B-1. Class A, Class B, Class C and Class D share are sold by
+authorized selling agents appointed by the Manager to accredited investors at a
+price equal to each Class' net asset value. Shares may be redeemed at net asset
+value as of the last day of any month upon at least ten business days written
+notice to the Manager.
+
+The Manager allocates profits and losses among the investors of a Series based
+on the balance in each investor's capital account.
+
+The Manager paid all of the expenses associated with the organization of the
+Fund and the offered shares. As a result, each shareholder of Class A and Class
+B shares pays the Manager an organizational fee in the amount of 0.5 of their
+aggregate investment, net of any selling commission. Class A and Class B
+shareholders are not charged an organizational fee once their account totals a
+ 1,000,000 or more. Class C and Class D shareholders are not charged an
+organizational fee.
+
+The Class A and Class C shares of the Unleveraged and Leveraged Series are
+subject to a sales commission of 0 to 4 of the subscription amount, payable to
+the selling agent from the investor's investment for each series. The amount of
+the sales commission will be determined by the selling agent.
+
+F-16
+ 
+ MLM Index Fund
+
+ Notes to Financial Statements (continued)
+
+4. MARGIN REQUIREMENTS
+
+The Fund had margin requirements of approximately 19,570,308 and 29,980,779 at
+December 31, 2004 and 2003, respectively, which were satisfied by net unrealized
+profits or losses and cash at the broker.
+
+5. MANAGEMENT FEE AND OTHER FEES AND EXPENSES
+
+The Fund pays the Manager a management fee and the introducing broker a
+brokerage fee as a percentage of net assets, as of the first day of each month
+at the annualized rates as follows:
+
+LEVERAGED SERIES
+ ----------------------------------------------------------------------------
+ BROKERAGE MANAGEMENT ORGANIZATIONAL OPERATING SELLING TOTAL FEES
+ FEE FEE FEE EXPENSE EXPENSE AND
+ COMMISSIONS
+ ----------------------------------------------------------------------------
+ 
+Class A-1 1.35 1.65 N/A 0.35 N/A 3.35 
+Class A 1.75 2.80 0.50 0.35 4.00 9.40 
+Class B-1 1.35 0.65 N/A 0.35 N/A 2.35 
+Class B 1.75 1.30 0.50 0.35 N/A 3.90 
+Class C 0.90 2.05 N/A 0.35 4.00 7.30 
+Class D 0.90 1.30 N/A 0.35 N/A 2.55 
+
+UNLEVERAGED SERIES
+ ----------------------------------------------------------------------------
+ BROKERAGE MANAGEMENT ORGANIZATIONAL OPERATING SELLING TOTAL FEES
+ FEE FEE FEE EXPENSE EXPENSE AND
+ COMMISSIONS
+ ----------------------------------------------------------------------------
+ 
+Class A-1 0.65 1.25 N/A 0.35 N/A 2.25 
+Class A 0.85 1.50 0.50 0.35 4.00 7.20 
+Class B-1 0.65 0.25 N/A 0.35 N/A 1.25 
+Class B 0.85 0.50 0.50 0.35 N/A 2.20 
+Class C 0.40 1.00 N/A 0.35 4.00 5.75 
+Class D 0.40 0.50 N/A 0.35 N/A 1.25 
+
+The Fund pays 0.35 of average net assets for the Fund's legal, accounting,
+auditing and other operating expenses and fees. The Fund also pays the cash
+manager, CSAM, banking fees and State of New Jersey K-1 filing fees directly.
+
+F-17
+ 
+ MLM Index Fund
+
+ Notes to Financial Statements (continued)
+
+6. INDEMNIFICATIONS
+
+In the ordinary course of business, the Fund enters into contracts that contain
+a variety of indemnifications. The Fund's maximum exposure under these
+arrangements is unknown. However, the Fund has not had prior claims or losses
+pursuant to these contracts and expects the risk of loss to be remote.
+
+7. DERIVATIVE FINANCIAL INSTRUMENTS
+
+Derivatives are subject to various risks similar to non-derivative financial
+instruments including market, credit, liquidity and operational risk. The risks
+of derivatives should not be viewed in isolation but rather should be considered
+on an aggregate basis along with the Fund's other trading related activities.
+
+The Fund purchases and sells futures in financial instruments and commodities.
+The Fund records its derivative activities on a mark-to-market basis with
+realized and unrealized gains (losses) recognized currently in the statements of
+operations and in due from brokers on the statements of financial condition.
+
+The following table reflects the fair value of the Fund's derivative financial
+instruments.
+
+FAIR VALUE AT DECEMBER 31
+ 2004 2003
+ ------------------------------------------------------
+ ASSETS LIABILITIES ASSETS LIABILITIES
+ ------------------------------------------------------
+ 
+Commodity 609,934 1,287,475 22,408,591 (3,319,147)
+Futures
+Financial Futures (4,038,780) - 4,805,917 -
+ ------------------------------------------------------
+Total (3,428,846) 1,287,475 27,214,508 (3,319,147)
+ ======================================================
+
+F-18
+ 
+ MLM Index Fund
+
+ Notes to Financial Statements (continued)
+
+8. FINANCIAL HIGHLIGHTS
+
+The following represents the per share operating performance and ratios to
+average investors' interest and other supplemental information for the year
+ended December 31, 2004:
+
+LEVERAGED SERIES
+ ---------------------------------------------------------
+ CLASS A-1 CLASS A CLASS B-1 CLASS B CLASS C
+ SHARES SHARES SHARES SHARES SHARES
+ ---------------------------------------------------------
+ 
+Per share operating performance:
+ Net asset value per share, December 31,
+ 2003 107.63 94.98 112.71 100.98 82.66
+ Income from investment operations:
+ Net investment loss (1.71) (2.16) (0.01) (0.72) (1.22)
+ Net realized and unrealized gain on
+ investment transactions 3.16 2.35 3.23 2.45 1.77
+ ---------------------------------------------------------
+Total from investment operations 1.45 0.19 3.22 1.73 0.55
+ ---------------------------------------------------------
+Net asset value per share, December 31,
+ 2004 prior to liquidation 109.08 95.17 115.93 102.71 83.21
+ =========================================================
+
+Total Return 1.35 0.19 2.86 1.71 1.03 
+ =========================================================
+
+Ratio to Average Investors' Interest:
+ Net investment loss (1.50 (2.16 (0.02 (0.66 (1.42 Expenses (2.81 (3.46 (1.31 (1.95 (2.70 
+
+ UNLEVERAGED SERIES
+ ----------------------------------------------
+ CLASS A-1 CLASS A CLASS B-1 CLASS B
+ SHARES SHARES SHARES SHARES
+ ----------------------------------------------
+ 
+Per share operating performance:
+ Net asset value per share, December 31,
+ 2003 110.60 106.87 116.55 112.24
+ Income from investment operations:
+ Net investment loss (0.78) (1.00) 0.45 0.09
+ Net realized and unrealized gain on
+ investment transactions 1.86 1.56 1.90 1.64
+ ----------------------------------------------
+Total from investment operations 1.08 0.56 2.35 1.73
+ ----------------------------------------------
+Net asset value per share, December 31,
+ 2004 prior to liquidation 111.68 107.43 118.90 113.97
+ ==============================================
+
+Total Return 0.98 0.53 2.02 1.54 
+ ==============================================
+
+Ratio to Average Investors' Interest:
+ Net investment loss (0.69 (0.87 0.37 0.12 
+ Expenses (1.97 (2.21 (0.97 (1.21 
+
+Total return is calculated as the change in the net asset value per share for
+the year. The per share operating performance and ratios are computed based upon
+the weighted average shares outstanding and weighted average investors'
+interest, respectively, for each class, for the year ended December 31, 2004. An
+individual investor's return may vary from the above based upon the timing of
+capital transactions.
+
+F-19
+ 
+ MLM Index Fund
+
+ Notes to Financial Statements (continued)
+
+8. FINANCIAL HIGHLIGHTS (CONTINUED)
+
+The following represents the per share operating performance and ratios to
+average investors' interest and other supplemental information for the year
+ended December 31, 2003:
+
+LEVERAGED SERIES
+ ---------------------------------------------------------
+ CLASS A-1 CLASS A CLASS B-1 CLASS B CLASS C
+ SHARES SHARES SHARES SHARES SHARES
+ ---------------------------------------------------------
+ 
+Per share operating performance:
+ Net asset value per share, December 31,
+ 2002 106.35 93.97 107.78 98.37 81.12
+ Income from investment operations:
+ Net investment loss (3.14) (3.92) (1.66) (2.68) (2.82)
+ Net realized and unrealized gain on
+ investment transactions 4.42 4.93 6.59 5.29 4.36
+ ---------------------------------------------------------
+Total from investment operations 1.28 1.01 4.93 2.61 1.54
+ ---------------------------------------------------------
+Net asset value per share, December 31,
+ 2003 107.63 94.98 112.71 100.98 82.66
+ =========================================================
+
+Total Return 1.20 1.08 4.58 2.66 1.89 
+ =========================================================
+
+Ratio to Average Investors' Interest:
+ Net investment loss (2.95 (4.25 (1.53 (2.76 (3.53 Expenses (4.13 (5.34 (2.69 (3.84 (4.60 
+
+ UNLEVERAGED SERIES
+ ----------------------------------------------
+ CLASS A-1 CLASS A CLASS B-1 CLASS B
+ SHARES SHARES SHARES SHARES
+ ----------------------------------------------
+ 
+Per share operating performance:
+ Net asset value per share, December 31,
+ 2002 109.99 106.46 114.37 110.57
+ Income from investment operations:
+ Net investment loss (1.75) (2.18) (0.68) (1.16)
+ Net realized and unrealized gain on
+ investment transactions 2.36 2.59 2.86 2.83
+ ----------------------------------------------
+Total from investment operations 0.61 0.41 2.18 1.67
+ ----------------------------------------------
+Net asset value per share, December 31,
+ 2003 110.60 106.87 116.55 112.24
+ ==============================================
+
+Total Return 0.56 0.38 1.91 1.51 
+ ==============================================
+
+Ratio to Average Investors' Interest:
+ Net investment loss (1.58 (2.08 (0.59 (1.08 Expenses (2.62 (3.10 (1.63 (2.09 
+
+Total return is calculated as the change in the net asset value per share for
+the year. The per share operating performance and ratios are computed based upon
+the weighted average shares outstanding and weighted average investors'
+interest, respectively, for each class, for the year ended December 31, 2003. An
+individual investor's return may vary from the above based upon the timing of
+capital transactions.
+
+F-20
+
+INDEX TO EXHIBITS
+
+Exhibit
+Number Item Description
+
+3.1 Restated Certificate of Trust for MLM Index(TM) Trust, filed 1/14/98 (Filed as
+ Exhibit 3.1 to the Registrant's Form 10 and incorporated by reference herein.)
+
+3.2 Amended and Restated Declaration of Trust and Trust Agreement of MLM
+ Index(TM) Fund (Filed as Exhibit 3.1 to the Registrant's Form 10 and incorporated
+ by reference herein.)
+
+3.3 Amendment No. 1 to the Amended and Restated Declaration of Trust and Trust
+ Agreement of MLM Index(TM) Fund (Filed as Exhibit 3.1 to the Registrant's Form
+ 10 and incorporated by reference herein.)
+
+3.4 Amendment No. 2 to the Amended and Restated Declaration of Trust and Trust
+ Agreement of MLM Index(TM) Fund (Filed as Exhibit 3.1 to the Registrant's Form
+ 10 and incorporated by reference herein.)
+
+3.5 Amendment No. 3 to the Amended and Restated Declaration of Trust and Trust
+ Agreement of MLM Index(TM) Fund (Filed as Exhibit 3.1 to the Registrant's
+ Form 10 and incorporated by reference herein.)
+
+3.6 Amendment No. 4 to the Amended and Restated Declaration of Trust and Trust
+ Agreement of MLM Index(TM) Fund (Filed as Exhibit 3.1 to the Registrant's Form
+ 10 and incorporated by reference herein.)
+
+3.7 Amendment No. 5 to the Amended and Restated Declaration of Trust and Trust
+ Agreement of MLM Index(TM) Fund
+
+14.1 Code of Ethics
+
+31.1 Certification of President of the Manager Pursuant to Rule 13A-14(a) and Rule
+ 15D-14(a), of the Securities Exchange Act, as amended.
+
+31.2 Certification of Vice President and Chief Operating Officer of the Manager
+ Pursuant to Rule 13A-14(a) and Rule 15D-14(a), of the Securities Exchange Act, as
+ amended.
+
+32.1 Certification of President of the Manager Pursuant to 18 U.S.C. Section 1350, as
+ adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+32.2 Certification of Vice President and Chief Operating Officer of the Manager
+ Pursuant to 18 U.S.C. Section 1350, as adopted Pursuant to Section 906 of the
+ Sarbanes-Oxley Act of 2002
+
+E-1
+
+<EX-3.7>
+ 2
+ ex3_7.txt
+ EXHIBIT 3.7
+ 
+EXHIBIT 3.7
+
+ AMENDMENT 5 TO THE AMENDED AND RESTATED
+
+ DECLARATION OF TRUST AND TRUST AGREEMENT
+
+ OF
+
+ MLM INDEX(TM) FUND
+
+This AMENDMENT ("Amendment") is made and entered into as of the 26th day of
+February, 2004 with reference to, and pursuant to the authority granted by
+Section 11.1 of that certain Amended and Restated Declaration of Trust and Trust
+Agreement dated the 31st day of August, 1998, by and among the Manager, the
+Trustee and the Interest Holders of the MLM Index(TM) Fund (the "Trust"), as
+amended by that Amendment No. 1 to the Amended and Restated Declaration of Trust
+and Trust Agreement of the Trust entered into as of March 23, 1999, that
+Amendment No. 2 to the Amended and Restated Declaration of Trust and Trust
+Agreement of the Trust entered into as of February 2000, that Amendment No. 3 to
+the Amended and Restated Declaration of Trust and Trust Agreement of the Trust
+entered into as of June 14, 2001 and that that Amendment No. 4 to the Amended
+and Restated Declaration of Trust and Trust Agreement of the Trust entered into
+as of April 29, 2002 (as amended, the "Trust Agreement"). Capitalized terms
+used but not defined herein shall have the meaning assigned thereto in the Trust
+Agreement.
+
+WHEREAS, it is desired that the Trust Agreement be amended as provided below;
+
+NOW, THEREFORE:
+
+1. The name of the Enhanced Series is hereby changed to the Leveraged Series
+ and every reference to the Enhanced Series in the Trust Agreement shall be
+ amended to be a reference to the Leveraged Series
+
+2. This Amendment shall be governed by, and construed in accordance with, the
+ laws of the State of Delaware (without regard to principles or rules of
+ conflicts of laws);
+
+3. This Amendment may be executed and delivered in any number of counterparts,
+ each of which shall be an original, with the same effect as if all
+ signatures were on the same instrument.
+
+4. The Manager confirms that this Amendment does not: (i) adversely affect any
+ of the rights, duties or liabilities of the Trustee; (ii) adversely affect
+ the limitations on liability of the Interest Holders as described in
+ Section 8.3 of the Trust Agreement; (iii) adversely affect the status of
+ each Series as a partnership for federal income tax purposes without the
+ consent of any affected Interest Holder; (iv) change any Interest Holder's
+ share of the profits or losses of a Series without the consent of such
+ Interest Holder; (v) extend the duration of the Trust and each Series; or
+ (vi) change the provisions of Section 11.1 of the
+
+1
+ 
+ Trust Agreement. The parties also confirm that the adoption of this
+ Amendment (a) is for the benefit of, or not adverse to, the interests of
+ the existing Interest Holders which have not consented to the Amendment,
+ (b) is consistent with Section 4.1 of the Trust Agreement, and (c) does not
+ affect the allocation of profits and losses among the Interest Holders or
+ between the other Interest Holders and the Manager.
+
+IN WITNESS WHEREOF, the Manager has caused this Amendment to be duly executed by
+its respective officer hereunto duly authorized, as of the day and year first
+above written.
+
+MOUNT LUCAS MANAGEMENT CORPORATION, AS MANAGER
+
+ By: /s/ Timothy J. Rudderow
+ -----------------------
+ Name: Timothy J. Rudderow
+ Title: President
+
+2
+
+</EX-3.7>
+
+<EX-14.1>
+ 3
+ ex14_1.txt
+ EXHIBIT 14.1
+ 
+EXHIBIT 14.1
+
+ MOUNT LUCAS MANAGEMENT CORPORATION CODE OF ETHICS
+
+PURPOSE
+
+To establish standards that promote:
+
+ - Honest and ethical conduct, including the ethical handling of
+ actual or apparent conflicts of interest between personal and
+ professional relationships;
+
+ - Full, fair, accurate, timely, and understandable disclosure in
+ the filings with or submissions to the Securities and Exchange
+ Commission (the "SEC") on behalf of the MLM IndexTM Fund (the
+ "Pool"), an investment pool operated by Mount Lucas Management
+ Corporation (the "Company") that is subject to the reporting
+ requirement of the Securities Exchange Act of 1934, and in other
+ public communications made by the Company concerning the Pool;
+
+ - Compliance with all applicable governmental laws, rules, and
+ regulations;
+
+ - Prompt internal reporting of violations of the Company's Code of
+ Ethics (this "Code"); and
+
+ - Accountability for adherence to this Code
+
+APPLICABILITY
+
+This Code applies to the Company's principal executive officer, principal
+financial officer, principal accounting officer and persons performing similar
+functions (collectively, the "Covered Officers"). The Company expects the
+Covered Officers to know and follow the policies outlined in the Compliance
+Manual of the Company and this Code. Any Covered Officer who violates the
+letter or spirit of these policies is subject to disciplinary action, up to and
+including termination.
+
+GENERAL RESPONSIBILITIES
+
+The Company expects the Covered Officers to know and follow the policies
+outlined in the Compliance Manual of the Company and this Code. Any Covered
+Officer who violates the letter or spirit of these policies is subject to
+disciplinary action, up to and including termination.
+
+HONEST AND ETHICAL CONDUCT
+
+Every Covered Officer has the responsibility to be honest and ethical. All of a
+Covered Officer's responsibilities should be performed with the highest sense of
+integrity. Integrity accommodates the inadvertent error and the honest
+difference of opinion, but it cannot accommodate deceit or subordination of
+principle.
+
+Honesty and integrity require that each Covered Officer ethically handle actual
+or apparent conflicts of interest between personal and professional
+relationships. A conflict of interest is any situation in which a Covered
+Officer's personal interest is inconsistent with, or contrary to, the legitimate
+interests of the Company, or an investment pool operated by the Company. A
+conflict
+
+1
+ 
+of interest situation can arise when a Covered Officer takes action or has
+interests (financial or other) that may make it difficult to fulfill duties owed
+to the Company or any investment pool operated by the Company. Conflicts of
+interest also may arise when a Covered Officer or a member of a Covered
+Officer's family receives improper personal benefits as a result of the Covered
+Officer's affiliation with the Company, regardless of whether such benefits are
+received from the Company or a third party. Covered Officers must avoid any
+situation in which their independent business judgment might appear to be
+compromised.
+
+FULL, FAIR, ACCURATE, TIMELY, AND UNDERSTANDABLE DISCLOSURE
+
+As a result of the Pool being a reporting company under the Securities Exchange
+Act of 1934, the Company is required, on behalf of the Pool, to file periodic
+and other reports with the SEC. In that regard, each Covered Officer must (1)
+take all reasonable steps to ensure that these reports and other public
+communications represent full, fair, accurate, timely and understandable
+disclosure regarding the financial and business condition of the Pool; (2)
+promptly bring to the attention of the board of directors of the Company any
+material information of which a Covered Officer may become aware that affects
+the disclosures made by the Company in the public filings made on behalf of the
+Pool or otherwise would assist the board of directors in fulfilling its
+responsibilities to the Pool; and (3) must promptly bring to the attention of
+the Compliance Officer and the board of directors of the Company any information
+he or she may have concerning (i) significant deficiencies in the design or
+operation of internal controls that could adversely affect the Company's ability
+to record, process, summarize and report financial data, including on behalf of
+the Pool or (ii) any fraud, whether or not material, involving management or
+other employees who have a significant role in the Company's financial
+reporting, including on behalf of the Pool, disclosures or internal controls.
+
+COMPLIANCE WITH ALL APPLICABLE GOVERNMENTAL LAWS, RULES, AND REGULATIONS
+
+Each Covered Officer must comply with all applicable governmental laws, rules,
+and regulations. This requirement applies to all federal, foreign, state and
+local laws.
+
+PROMPT INTERNAL REPORTING OF VIOLATIONS OF THE CODE
+
+If a Covered Officer is unsure whether a situation violates any applicable law,
+rule, regulation, or Company policy, the Covered Officer should discuss the
+situation promptly with the Compliance Officer. Failure to do so is itself a
+violation of the Code. The Company will not allow retaliation for reports made
+in good faith.
+
+Violations of or interpretive matters related to the Code should immediately be
+brought to the attention of the Compliance Officer.
+
+WAIVERS OF OR AMENDMENTS TO THE CODE
+
+Any waivers of or amendments to this Code must be granted by the Company's board
+of directors. If a Covered Officer would like to request a waiver or amendment
+to this Code, he should contact the Compliance Officer.
+
+2
+
+</EX-14.1>
+
+<EX-31.1>
+ 4
+ ex31_1.txt
+ EXHIBIT 31.1
+ 
+EXHIBIT 31.1
+
+ MLM INDEX(TM) FUND
+
+CERTIFICATION PURSUANT TO
+ SECTION 302 OF
+ THE SARBANES-OXLEY ACT OF 2002
+
+I, Timothy J. Rudderow, certify that:
+
+1) I have reviewed this report on Form 10-K of MLM Index(TM) Fund.
+
+2) Based on my knowledge, this report does not contain any untrue statement of
+ a material fact or omit to state a material fact necessary to make the
+ statements made, in light of the circumstances under which such statements
+ were made, not misleading with respect to the period covered by this
+ report;
+
+3) Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of
+ the registrant as of, and for, the periods presented in this report;
+
+4) The registrant's other certifying officers and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as defined
+ in Exchange Act Rules 13a-14 and 15d-14) and internal control over
+ financial reporting (as defined in Exchange Act Rules 13a-15(f) and
+ 15d015(f)) for the registrant and we have:
+
+ a) designed such disclosure controls and procedures, or cause such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known to
+ us by others within those entities, particularly during the period in
+ which this report is being prepared;
+ b) designed such internal control over financial reporting, or caused
+ such internal control over financial reporting to be designed under
+ our supervision, to provide reasonable assurance regarding the
+ reliability of financial reporting and the preparation of financial
+ statements for external purposes in accordance with generally accepted
+ accounting principles;
+ c) evaluated the effectiveness of the registrant's disclosure controls
+ and procedures and presented in this report our conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the end
+ of the period covered by this report based on such evaluation; and
+ d) disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the registrant's
+ fourth fiscal quarter that has materially affected, or is reasonably
+ likely to materially affect, the registrant's internal control over
+ financial reporting; and
+
+1
+ 
+5) The registrant's other certifying officers and I have disclosed, based on
+ our most recent evaluation, to the registrant's auditors and the audit
+ committee of registrant's board of directors (or persons performing the
+ equivalent function);
+
+ a) all significant deficiencies in the design or operation of internal
+ control over financial reporting which are reasonably likely to
+ adversely affect the registrant's ability to record, process,
+ summarize and report financial information; and
+ b) any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal
+ control over financial reporting
+
+By: /s/ Timothy J. Rudderow
+ ---------------------------
+ Timothy J. Rudderow, President of
+ Mount Lucas Management Corporation
+
+Date: March 15, 2005
+
+2
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ ex31_2.txt
+ EXHIBIT 31.2
+ 
+EXHIBIT 31.2
+
+MLM INDEX(TM) FUND
+
+CERTIFICATION PURSUANT TO
+ SECTION 302 OF
+ THE SARBANES-OXLEY ACT OF 2002
+
+I, James A. Mehling, certify that:
+
+1) I have reviewed this report on Form 10-K of MLM Index(TM) Fund.
+
+2) Based on my knowledge, this report does not contain any untrue statement of
+ a material fact or omit to state a material fact necessary to make the
+ statements made, in light of the circumstances under which such statements
+ were made, not misleading with respect to the period covered by this
+ report;
+
+3) Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of
+ the registrant as of, and for, the periods presented in this report;
+
+4) The registrant's other certifying officers and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as defined
+ in Exchange Act Rules 13a-14 and 15d-14) and internal control over
+ financial reporting (as defined in Exchange Act Rules 13a-15(f) and
+ 15d015(f)) for the registrant and we have:
+
+ a) designed such disclosure controls and procedures, or cause such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known to
+ us by others within those entities, particularly during the period in
+ which this report is being prepared;
+ b) designed such internal control over financial reporting, or caused
+ such internal control over financial reporting to be designed under
+ our supervision, to provide reasonable assurance regarding the
+ reliability of financial reporting and the preparation of financial
+ statements for external purposes in accordance with generally accepted
+ accounting principles;
+ c) evaluated the effectiveness of the registrant's disclosure controls
+ and procedures and presented in this report our conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the end
+ of the period covered by this report based on such evaluation; and
+ d) disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the registrant's
+ fourth fiscal quarter that has materially affected, or is reasonably
+ likely to materially affect, the registrant's internal control over
+ financial reporting; and
+
+1
+ 
+5) The registrant's other certifying officers and I have disclosed, based on
+ our most recent evaluation, to the registrant's auditors and the audit
+ committee of registrant's board of directors (or persons performing the
+ equivalent function);
+
+ a) all significant deficiencies in the design or operation of internal
+ control over financial reporting which are reasonably likely to
+ adversely affect the registrant's ability to record, process,
+ summarize and report financial information; and
+ b) any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal
+ control over financial reporting
+
+ By: /s/ James A. Mehling
+ ------------------------
+ James A. Mehling, Vice President and
+ Chief Operating Officer of
+ Mount Lucas Management Corporation
+
+Date: March 15, 2005
+
+2
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ ex32_1.txt
+ EXHIBIT 32.1
+ 
+EXHIBIT 32.1
+
+Section 906 Certification
+ -------------------------
+
+ The following statement is provided by the undersigned to accompany the
+Form 10-K of the MLM Index Fund pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002 (18 U.S.C. 1350).
+
+ The undersigned certifies that the foregoing Report on Form 10-K fully
+complies with the requirements of Section 13(a) of the Securities Exchange Act
+of 1934 (15 U.S.C. 78m) and that the information contained in the Form 10-K
+fairly presents, in all material respects, the financial condition and results
+of operations of the MLM Index Fund.
+
+March 15, 2005
+
+/s/ Timothy J. Rudderow
+- -----------------------------
+Timothy J. Rudderow
+President
+Mount Lucas Management Corporation,
+the manager of the MLM Index Fund
+
+1
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ ex32_2.txt
+ EXHIBIT 32.2
+ 
+EXHIBIT 32.2
+
+Section 906 Certification
+ -------------------------
+
+ The following statement is provided by the undersigned to accompany the
+Form 10-K of the MLM Index Fund pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002 (18 U.S.C. 1350).
+
+ The undersigned certifies that the foregoing Report on Form 10-K fully
+complies with the requirements of Section 13(a) of the Securities Exchange Act
+of 1934 (15 U.S.C. 78m) and that the information contained in the Form 10-K
+fairly presents, in all material respects, the financial condition and results
+of operations of the MLM Index Fund.
+
+March 15, 2005
+
+/s/ James A. Mehling
+- -------------------------------------------
+Vice President and Chief Operating Officer
+Mount Lucas Management Corporation,
+the manager of the MLM Index Fund
+
+1
+
+</EX-32.2>
+

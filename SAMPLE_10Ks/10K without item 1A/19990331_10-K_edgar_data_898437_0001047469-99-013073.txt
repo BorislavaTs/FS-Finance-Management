@@ -1,0 +1,3260 @@
+<Header>
+<FileStats>
+    <FileName>19990331_10-K_edgar_data_898437_0001047469-99-013073.txt</FileName>
+    <GrossFileSize>206528</GrossFileSize>
+    <NetFileSize>170747</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1856</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001047469-99-013073.hdr.sgml : 19990402
+ACCESSION NUMBER:		0001047469-99-013073
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19981231
+FILED AS OF DATE:		19990331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ANIKA THERAPEUTICS INC
+		CENTRAL INDEX KEY:			0000898437
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				043145961
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	001-14027
+		FILM NUMBER:		99583439
+
+	BUSINESS ADDRESS:	
+		STREET 1:		236 WEST CUMMINGS PARK
+		CITY:			WOBURN
+		STATE:			MA
+		ZIP:			01801
+		BUSINESS PHONE:		6179326616
+
+	MAIL ADDRESS:	
+		STREET 1:		236 WEST CUMMINGS PARK
+		CITY:			WOBURN
+		STATE:			MA
+		ZIP:			01801
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ANIKA RESEARCH INC
+		DATE OF NAME CHANGE:	19930309
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VWS3wNxm02Rcjy0sKj3/FrlYIblGVZkP3TFnR8RGlHySqA/6b6SpSH/mwq9DlYud
+ bvKaHYIze086sm4ev60Eww==
+
+ 0001047469-99-013073.txt : 19990402
+
+10-K
+ 1
+ FORM 10-K
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+ 
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+ ------------------------
+ 
+ FORM 10-K
+ 
+/X/ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE
+ ACT OF 1934
+ 
+ FOR FISCAL YEAR ENDED DECEMBER 31, 1998
+ 
+/ / TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES
+ EXCHANGE ACT OF 1943
+ 
+ FOR THE TRANSITION PERIOD FROM ________________ TO ________________
+ 
+ COMMISSION FILE NUMBER 000-21326
+ ------------------------
+ 
+ ANIKA THERAPEUTICS, INC.
+ 
+ (Exact Name of Registrant as Specified in Its Charter)
+
+MASSACHUSETTS 04-3145961
+ (State or Other Jurisdiction of (I.R.S. Employer
+ Incorporation or Organization) Identification No.)
+
+236 WEST CUMMINGS PARK, WOBURN, MASSACHUSETTS 01801
+ (Address of Principal Executive Offices) (Zip Code)
+
+------------------------
+ 
+ REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (781) 932-6616
+ 
+ SECURITIES REGISTERED UNDER SECTION 12 (b) OF THE EXCHANGE ACT: NONE
+ 
+ SECURITIES REGISTERED UNDER SECTION 12 (g) OF THE EXCHANGE ACT:
+ Common Stock, par value .01 per share
+ 
+ Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 and 15 (d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the last 90 days. Yes /X/ No / /
+ 
+ Indicate by check mark if disclosure of delinquent filers in response to
+Item 405 of Regulation S-K is not contained herein, and no disclosure will be
+contained, to the best of the Registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form 10-K
+or any amendment to this Form 10-K / /.
+ 
+ The aggregate market value of voting stock held by non-affiliates of the
+Registrant as of March 19, 1999 was 31,456,577 based on the last sale price of
+Common Stock of 4.625 as reported by the NASDAQ National Market. At March 19,
+1999 there were issued and outstanding 9,314,243 shares of Common Stock, par
+value .01 per share.
+ 
+ DOCUMENTS INCORPORATED BY REFERENCE
+ 
+ Certain information required in response to Items 10, 11, 12 and 13 of Part
+III are hereby incorporated by reference from the Company's Proxy Statement for
+the Annual Meeting to be held on June 3, 1999. Such Proxy Statement shall not be
+deemed to be "filed" as part of this Report on Form 10-K except for the parts
+therein which have been specifically incorporated by reference herein.
+ 
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+ 
+ FORM 10-K
+ ANIKA THERAPEUTICS, INC.
+ FOR FISCAL YEAR ENDED DECEMBER 31, 1998
+ 
+ THIS FORM 10-K CONTAINS FORWARD-LOOKING STATEMENTS WITHIN THE MEANING OF
+SECTION 27A OF THE SECURITIES ACT OF 1933 AND SECTION 21E OF THE SECURITIES
+EXCHANGE ACT OF 1934. THE COMPANY'S ACTUAL RESULTS COULD DIFFER MATERIALLY FROM
+THOSE SET FORTH IN THE FORWARD-LOOKING STATEMENTS. CERTAIN FACTORS THAT MIGHT
+CAUSE SUCH A DIFFERENCE ARE DISCUSSED THROUGHOUT THIS FORM 10-K AND ARE
+DISCUSSED IN THE SECTION ENTITLED "RISK FACTORS AND CERTAIN FACTORS AFFECTING
+FUTURE OPERATING RESULTS" ON PAGE 18 OF THIS FORM 10-K.
+ 
+- ------------------------
+ 
+(1) AMVISC is a registered trademark of Bausch & Lomb Surgical
+ 
+PART I
+ 
+ITEM 1. BUSINESS
+ 
+ Anika Therapeutics, Inc. ("Anika" or the "Company") develops, manufactures
+and commercializes therapeutic products and devices intended to promote the
+repair, protection and healing of bone, cartilage and soft tissue. These
+products are based on hyaluronic acid ("HA"), a naturally-occurring,
+biocompatible polymer found throughout the body. Due to its unique biophysical
+and biochemical properties, HA plays an important role in a number of
+physiological functions such as the protection and lubrication of soft tissues
+and joints, the maintenance of the structural integrity of tissues, and the
+transport of molecules to and within cells. The Company's currently marketed
+products consist of ORTHOVISC-Registered Trademark-, which is an HA product used
+in the treatment of some forms of osteoarthritis ("OA") in humans and
+HYVISC-Registered Trademark-, which is an HA product used in the treatment of
+equine osteoarthritis. ORTHOVISC is currently approved for sale and marketed in
+Canada, Europe, Turkey, Israel and Iceland. In the U.S. ORTHOVISC is currently
+limited to investigational use only. An Investigational Device Exemption ("IDE")
+was approved by the U.S. Food and Drug Administration (FDA) in March 1999
+authorizing the Company to commence a human clinical trial in the U.S. The
+Company manufactures AMVISC-Registered Trademark- and AMVISC
+- -Registered Trademark-Plus, which are HA products used as viscoelastic
+supplements in ophthalmic surgery, for Bausch & Lomb Surgical, a subsidiary of
+Bausch & Lomb. The Company is currently developing INCERT-Registered Trademark-,
+which is an HA based product designed for use in the prevention of post-surgical
+adhesions. In collaboration with Orquest, Inc., Anika also has exclusive rights
+to produce Ossigel(tm); an injectable formulation of basic fibroblast growth
+factor combined with HA designed to accelerate the healing of bone fractures.
+ 
+AMVISC PRODUCTS
+ 
+ AMVISC and AMVISC Plus are high molecular weight HA products used as
+viscoelastic agents in ophthalmic surgical procedures such as cataract
+extraction and intraocular lens implantation. These products coat, lubricate and
+protect sensitive tissues such as the endothelium and maintain the space between
+them, thereby facilitating ophthalmic surgical procedures.
+ 
+ Anika manufactures the AMVISC product line for Bausch & Lomb Surgical under
+a supply agreement that has fixed selling prices and stated minimum annual
+purchase obligations through December 31, 2001.
+ 
+ORTHOVISC
+ 
+ ORTHOVISC is a high molecular weight, highly purified HA product designed to
+relieve pain and improve joint mobility in patients suffering from
+osteoarthritis of the knee. ORTHOVISC is delivered by intra-articular injection
+to supplement and restore the body's natural HA found in the synovial fluid of
+joints.
+ 
+ Osteoarthritis occurs when the cartilage in a joint gradually deteriorates
+due to the effects of mechanical stress, which can be caused by a variety of
+factors including the normal aging process. In an
+ 
+ 1
+ 
+osteoarthritic joint, particular regions of articulating surfaces are exposed to
+irregular forces, which result in the remodeling of tissue surfaces that disrupt
+the normal equilibrium or mechanical function. As osteoarthritis advances, the
+joint gradually loses its ability to regenerate cartilage tissue and the
+cartilage layer attached to the bone deteriorates to the point where eventually
+the bone becomes exposed. Advanced osteoarthritis often requires surgery such as
+the implantation of artificial joints.
+ 
+ Osteoarthritis is a debilitating disease causing pain, inflammation and
+restricted movement in joints. The current treatment options for osteoarthritis
+before joint replacement surgery include analgesics, non-steroidal
+anti-inflammatory drugs and steroid injections.
+ 
+ ORTHOVISC is approved for sale and marketed in Canada, Turkey, Israel,
+Iceland and Europe under the Communautee European ("CE mark"). The CE mark, a
+certification required under European Community ("EC") medical device
+regulation, allows ORTHOVISC to be marketed without further approvals in most of
+the EC nations as well as other countries that recognize EC device regulation.
+ 
+ In the U.S., ORTHOVISC is limited to investigational use only. In October
+1998 the Company was notified by the FDA that its Pre-Market Approval
+Application ("PMA") was not approvable and that additional clinical data would
+be required to demonstrate the effectiveness of ORTHOVISC. The PMA was submitted
+to the FDA in December 1997 and contained clinical data collected from a 226
+patient, randomized double blind clinical study completed in June 1997. In late
+March 1999, the Company received an Investigational Device Exemption ("IDE")
+approval to initiate a second Phase III clinical study.
+ 
+ The Company has licensed ORTHOVISC marketing and distribution rights to
+Zimmer, Inc., a subsidiary of Bristol-Myers Squibb Company for the territories
+of United States, Canada, Latin America, most of Europe and Asia. ORTHOVISC is
+also marketed by Grupo Ferrer, Inc. in Spain and Portugal, by Biomeks
+Pharmaceuticals in Turkey and by Rafa Laboratories in Israel. See "Management's
+Discussion and Analysis of Financial Condition and Results of
+Operations--Overview."
+ 
+HYVISC
+ 
+ HYVISC is a high molecular weight injectable HA product for the treatment of
+joint dysfunction in horses due to non-infectious synovitis associated with
+equine osteoarthritis. HYVISC has viscoelastic properties that lubricate and
+protect the tissues in horse joints. HYVISC is distributed by Boehringer
+Ingelheim Animal Health, Inc. in the United States under an agreement
+terminating in 2002. The Company and Boehringer Ingelheim have also entered into
+an agreement to distribute HYVISC internationally.
+ 
+ Products Under Development
+ 
+ INCERT
+ 
+ INCERT is a chemically modified, cross-linked form of HA designed to prevent
+surgical adhesions. Surgical adhesions occur when fibrous bands of tissues form
+between adjacent tissue layers during the wound healing process. Although
+surgeons attempt to minimize the formation of adhesions, nevertheless they occur
+quite frequently after surgery. Adhesions in the abdominal and thoracic cavity
+can cause particularly serious problems such as intestinal blockage following
+abdominal surgery and infertility following pelvic surgery.
+ 
+ INCERT adheres to a wound site and serves as a barrier between adjacent
+tissues. Anika co-owns an issued United States patent covering the use of INCERT
+for adhesion prevention. The Company has received notification from the U.S.
+Patent and Trademark Office ("PTO") that a third party is attempting to provoke
+interference with respect to the Company's patent covering INCERT. The Company
+has tested INCERT in pre-clinical animal studies. Anika currently plans to
+commence human testing of INCERT in a pilot study by the end of 1999.
+ 
+ 2
+ 
+ OSSIGEL
+ 
+ In June of 1997, the Company executed a multi-year collaboration agreement
+with Orquest to develop and manufacture OSSIGEL, a formulation of basic
+fibroblast growth factor and HA designed to accelerate the healing of bone
+fractures. Orquest is a privately held orthobiologics company headquartered in
+Mountain View, California, and was founded in 1994 to develop products for bone
+and cartilage regeneration. OSSIGEL has been shown in pre-clinical animal models
+to accelerate the healing of bone fractures. Orquest commenced human clinical
+testing of OSSIGEL in Europe during 1998. Orquest has filed a patent application
+with the U.S. Patent and Trademark Office for the use of OSSIGEL in accelerating
+fracture healing.
+ 
+ HA FOR NERVE REGENERATION
+ 
+ The Company is conducting collaborative research with Lahey Clinic to study
+the effect of HA on nerve regeneration. A pre-clinical animal model demonstrated
+that the Company's highly purified HA formulation enhanced peripheral nerve
+regeneration. The Company is also collaborating with Lahey Clinic to study the
+use of HA in a spinal cord regeneration pre-clinical model.
+ 
+ HA OLIGOSACCHARIDES
+ 
+ HA oligosaccharides are discrete pieces of the HA polysaccharide chain.
+Because many different types of normal cells and cells in disease processes
+contain HA receptors on the cell surface that interact with HA oligosaccharides,
+the material may have the ability to influence cell behavior.
+ 
+ One of the critical events in the metastasis of cancer is the interaction
+between tumor cells and the host tissue stroma. This interaction is mediated by
+certain cell surface receptors. Preclinical studies have indicated that the
+interaction between one of the cell surface receptors, the hyaluronan receptor
+CD44 and HA contained in the host tissue stroma enhances the growth of certain
+tumors. Preclinical studies conducted by the Company, working in collaboration
+with Tufts University and Massachusetts General Hospital, have indicated that HA
+oligosaccharides, by binding to the CD44 receptor and blocking the interaction
+with HA in the host tissue stroma, have inhibited the metastasis of cancer cells
+inserted in mice. In addition, studies in an in vitro model have indicated that
+HA oligosaccharides inhibited the metastasis of cancer cells.
+ 
+ The Company has obtained an exclusive worldwide license to this technology
+from Tufts University.
+ 
+MANUFACTURING OF HYALURONIC ACID
+ 
+ The Company has been manufacturing HA since 1983 in its manufacturing
+facility located in Woburn, Massachusetts. This facility is approved by the FDA
+for the manufacture of medical devices and drugs. In 1996, the Company received
+an International Standards Organization ("ISO") 9001 certification of its
+manufacturing facility and HA manufacturing process. An ISO 9001 designation is
+an internationally recognized certification for quality standards governed by
+the International Organization for Standards based in Geneva, Switzerland. The
+Company has developed a proprietary HA manufacturing process for the extraction
+and purification of HA from rooster combs that yields high molecular weight,
+highly purified HA.
+ 
+ A substantial supply of rooster combs is available and the Company believes
+that all the other materials required for the manufacture of its HA products are
+also readily available from a number of sources. The Company obtains syringes
+used to deliver its HA products from a single supplier, however, it generally
+keeps sufficient syringes in its inventory to meet anticipated demand for at
+least six months. The Company employs strict quality control procedures to
+ensure the quality of its products, inventory and raw materials. The Company
+believes that its facility in Woburn, Massachusetts has the manufacturing
+capacity to accommodate anticipated demand through at least 2003.
+ 
+ 3
+ 
+PATENT AND PROPRIETARY RIGHTS
+ 
+ The Company has a policy of seeking patent protection for patentable aspects
+of its proprietary technology. The Company co-owns certain United States patents
+and a patent application which claim certain adhesion prevention uses and
+certain drug delivery uses of HA, and the Company solely owns patents covering
+certain manufacturing processes. The Company also holds an exclusive license
+from Tufts University to use technologies claimed in a United States patent
+application which has been granted a notice of allowance by the U.S. Patent
+Office which relates to the anti-metastasis applications of HA oligosaccharides.
+The Company's issued patents expire between 2007 and 2015 and the license
+expires upon expiration of all related patents. The Company intends to seek
+patent protection with respect to products and processes developed in the course
+of its activities when it believes such protection is in its best interest and
+when the cost of seeking such protection is not inordinate. However, no
+assurance can be given that any patent application will be filed, that any filed
+applications will result in issued patents or that any issued patents will
+provide the Company with a competitive advantage or will not be successfully
+challenged by third parties. The protections afforded by patents will depend
+upon their scope and validity, and others may be able to design around the
+Company's patents. The Company's issued patents and any patents which arise from
+the Company's licensed application would provide competitive protection, if at
+all, only in the United States. To date, the Company has not pursued foreign
+patents equivalent to those issued or applied for in the United States.
+ 
+ Other entities have filed patent applications for or have been issued
+patents concerning various aspects of HA-related products or processes. There
+can be no assurance that the products or processes developed by the Company will
+not infringe the patent rights of others in the future. Any such infringement
+may have a material adverse effect on the Company's business, financial
+condition and results of operations. In particular, the Company has received
+notice from the PTO that a third party is attempting to provoke a patent
+interference with respect to one of the Company's co-owned patents covering the
+use of INCERT for post-surgical adhesion prevention. Although the Company
+believes that an interference may be declared by the PTO, it is too early to
+determine the merits of the interference or the effect, if any, the interference
+will have on the Company's marketing of INCERT for this use. The existence of
+the interference proceeding may have a negative impact on the marketing of the
+INCERT product, and no assurance can be given that the Company would be
+successful in any such interference proceeding. If the third party interference
+were to be decided adversely to the Company, involved claims of the Company's
+patent would be cancelled, the Company's marketing of the INCERT product may be
+materially and adversely affected and the third party may enforce patent rights
+against the Company which could prohibit the sale and use of the INCERT
+products, which could have a material adverse effect on the Company's future
+operating results.
+ 
+ The Company also relies upon trade secrets and proprietary know-how for
+certain unpatented aspects of its technology. To protect such information, the
+Company requires all employees, consultants and licensees to enter into
+confidentiality agreements limiting the disclosure and use of such information.
+There can be no assurance that these agreements provide meaningful protection or
+that they will not be breached, that the Company would have adequate remedies
+for any such breach, or that the Company's trade secrets, proprietary know-how,
+and technological advances will not otherwise become known to others. In
+addition, there can be no assurance that, despite precautions taken by the
+Company, others have not and will not obtain access to the Company's proprietary
+technology. Further, there can be no assurance that third parties will not
+independently develop substantially equivalent or better technology.
+ 
+ The Company has granted Bausch & Lomb Surgical a royalty-free, worldwide,
+exclusive license to the Company's manufacturing and product inventions which
+relate to the AMVISC products, effective on December 31, 2001, the termination
+date of the AMVISC supply contract. Upon expiration of the AMVISC supply
+contract, there can be no assurance that Bausch & Lomb Surgical will continue to
+use the Company to manufacture AMVISC and AMVISC Plus. If Bausch & Lomb Surgical
+discontinues the use of the Company as a manufacturer after such time, the
+Company's business, financial condition and results of operations could be
+materially and adversely affected.
+ 
+ 4
+ 
+GOVERNMENT REGULATION
+ 
+ Anika's research, development, manufacturing activities and the future
+marketing of products by Anika are subject to regulation by numerous
+governmental authorities in the United States and other countries. In the United
+States, devices and drugs are subject to rigorous FDA regulation. The Federal
+Food, Drug and Cosmetic Act governs the testing, manufacture, labeling, storage,
+record keeping, approval, advertising and promotion of Anika's products.
+ 
+ Product development and approval within the FDA regulatory framework takes a
+number of years and involves the expenditure of substantial resources to
+demonstrate safety and effectiveness. There can be no assurance that this
+regulatory framework will not change or that additional regulation will not
+arise at any stage of Anika's product development process which may affect
+approval of or delay an application or require additional expenditures by Anika.
+ 
+ Medical products regulated by the FDA are generally classified as drugs,
+biologics, and/or medical devices. AMVISC is approved as a Class III device in
+the United States for ophthalmic surgical procedures in intraocular use in
+humans. HYVISC is approved as an animal drug for intra-articular injection in
+horse joints to treat degenerative joint disease associated with synovitis.
+ORTHOVISC is currently considered a Class III medical device by the FDA. In the
+past, most HA products have been regulated as medical devices. Anika believes
+that its ORTHOVISC for osteoarthritis and INCERT products will be regulated as
+Class III devices. In the U.S., however, no assurance can be given that INCERT
+will not be classified as a drug or biologic or as both a device and a drug or a
+biologic. Although it is not known whether HA oligosaccharides for use in the
+treatment of certain proliferative diseases and in HA drug delivery will be
+regulated as drugs, these produts is the Company's belief that it will be
+regulated as drugs or a biologics.
+ 
+DEVICES
+ 
+ The steps required to qualify a medical device for marketing in the United
+States are complex. Medical devices are classified as Class I, II, or III
+devices. In general, Class I devices require compliance with labeling and record
+keeping regulations and are subject to other general controls. Class II devices
+may be subject to special controls, such as market surveillance and are subject
+to general controls. Class II devices also may be subject to clinical testing
+for purposes of premarket notification to the FDA. Class III devices require
+clinical testing to assure safety and effectiveness prior to marketing and
+distribution.
+ 
+ At least 90 days prior to marketing, devices must be subject to a premarket
+notification to the FDA to determine the product's classification and regulatory
+status. If a product is found to be "substantially equivalent" to a Class I or
+Class II device, or a Class III device not subject to a PMA requirement, it may
+be marketed without further FDA review. The FDA may require the submission of
+clinical data as a basis for determining whether a device is "substantially
+equivalent." If a device is found to be "not substantially equivalent," the
+device manufacturer must file a PMA application with the FDA based on testing
+intended to demonstrate that the product is both safe and effective. HA-based
+products will likely require the issuance of a PMA from the FDA prior to
+commercial sale.
+ 
+ The PMA process requires the performance of human clinical studies under an
+IDE. Upon completion of required clinical studies, results are presented to the
+FDA in a PMA application. In addition to the results of clinical investigations,
+the PMA applicant must submit other information relevant to the safety and
+effectiveness of the device, including the results of non-clinical tests; a full
+description of the device and its components; a full description of the methods,
+facilities and controls used for manufacturing; and proposed labeling. The FDA
+staff then determines whether to accept the application for filing. If accepted
+for filing, the application is further reviewed by the FDA and then often
+reviewed by a FDA scientific advisory panel of physicians and others with
+expertise in the relevant field. The FDA will also conduct an inspection to
+determine whether an applicant conforms with the FDA's current Quality Systems
+Regulations. If the FDA's evaluation is favorable, the FDA will subsequently
+publish an order granting the PMA for the device. Although the initial PMA
+review process is required to be completed within 180 days from the date of the
+PMA application is accepted for filing, the FDA routinely raises additional
+issues which must be addressed prior to the approval of a PMA, which may
+significantly extend the review process.
+ 
+ 5
+ 
+DRUGS
+ 
+ Medical devices may meet both the definition of a medical device and a drug.
+In these instances, the FDA may regulate these products as drugs or biologics or
+as both medical devices and drugs or biologics. The steps required before a drug
+or biologic may be marketed in the United States include (i) preclinical
+laboratory and animal tests, (ii) submission to the FDA of an Investigational
+New Drug application ("IND"), which must become effective before human clinical
+trials may commence, (iii) adequate and well-controlled human clinical trials to
+establish the safety and efficacy of the drug, (iv) submission of a New Drug
+Application ("NDA") or Product License Application ("PLA") to the FDA and (v)
+FDA approval of the NDA or PLA prior to any commercial sales or shipment of the
+drug. A clinical study program designed to demonstrate the safety and
+effectiveness of a drug usually proceeds in three phases:
+ 
+ - Phase I involves testing the drug for safety and tolerance in a small
+ group of healthy volunteers.
+ 
+ - Phase II involves testing for efficacy and identifying possible side
+ effects in a target patient group.
+ 
+ - Phase III involves additional testing for efficacy, optimal dosage and
+ safety with an expanded patient group, preferably using a comparative
+ control agent.
+ 
+ The results of the clinical testing, together with manufacturing
+information, are then submitted to the FDA in the form of an NDA or PLA. In the
+event Anika's products are classified as drugs or biologics, it may take five to
+ten years to from discovery to approval, which typically would be substantially
+longer than the development process for devices and would be substantially more
+expensive.
+ 
+ Furthermore, Anika or the FDA may suspend clinical trials at any time upon a
+determination that the subjects or patients are being exposed to an unacceptable
+adverse health risk ascribable to Anika's products. If clinical studies are
+suspended, Anika may be unable to continue the development of the
+investigational products affected.
+ 
+ In addition to the FDA approval processes for products, manufacturing
+facilities are subject to approval by the FDA. Among the conditions for such
+approval is the requirement that quality control and manufacturing procedures
+conform to the FDA's Good Manufacturing Practices regulations, which must be
+followed at all times. In complying with standards set forth in these
+regulations, manufacturers must continue to expend time, monies and effort in
+the area of production and quality control to ensure full technical compliance.
+Manufacturing establishments also are subject to inspections by or under the
+authority of the FDA and by other federal, state or local agencies.
+ 
+ In addition to regulations enforced by the FDA, Anika is subject to
+regulation under the Occupational Safety and Health Act, the Environmental
+Protection Act, the Toxic Substances Control Act, the Resource Conservation and
+Recovery Act and other existing and potential future federal, state and local
+regulations of foreign governments. Federal, state and foreign regulations
+regarding the manufacture and sale of medical products are subject to change.
+Anika cannot predict what impact, if any, such changes might have on its
+business.
+ 
+ For marketing outside the United States, Anika will be subject to FDA
+regulations regarding the export of products within its jurisdiction and to
+foreign regulatory requirements governing human clinical trials and marketing
+approval for medical products and devices. The requirements relating to the
+conduct of clinical trials, product licensing, pricing and reimbursement vary
+widely from country to country. The process of obtaining approvals from the FDA
+and other regulatory authorities can be costly, time consuming, and subject to
+unanticipated delays. There can be no assurance that approvals of Anika's
+products, processes or facilities will be granted or that Anika will obtain the
+financing needed to develop certain of such products. Any failure to obtain, or
+delay in obtaining, such approvals could adversely affect the ability of Anika
+to market its products.
+ 
+ 6
+ 
+COMPETITION
+ 
+ The Company competes with many companies, including large pharmaceutical
+companies and specialized medical products companies. Many of these companies
+have substantially greater financial and other resources, larger research and
+development staffs, more extensive marketing and manufacturing organizations and
+more experience in the regulatory process than the Company. The Company also
+competes with academic institutions, governmental agencies and other research
+organizations which may be involved in research, development and
+commercialization of products. Because a number of companies are developing HA
+products for similar applications, the successful commercialization of a
+particular product will depend in part upon the ability of the Company to
+complete clinical studies and obtain FDA marketing and foreign regulatory
+approvals prior to its competitors. There can be no assurance that the Company
+will be able to compete against current or future competitors or that
+competition will not have a material adverse effect on the Company's business,
+financial condition and results of operations.
+ 
+ The Company is aware of several companies, including Genzyme, Biomatrix,
+Inc., Hyal Pharmaceutical Corp., Fidia S.P.A., LifeCore Biomedical, Inc. and
+Seikagaku, that are developing and/or marketing products utilizing HA for a
+variety of human applications. In some cases, competitors have obtained product
+approvals, submitted for approval or have commenced human clinical studies,
+either in the United States or in certain foreign countries. Major competing
+products for the use of HA in ophthalmic surgery include Healon (manufactured by
+Pharmacia) and Provisc and Viscoat (distributed by Alcon). In the U.S. two HA
+products for the treatment of osteoarthritis in the knee, Hyalgan and Synvisc,
+have received FDA approval and have been marketed in the U.S. since the fourth
+quarter of 1997. Hyalgan is manufactured by Fidia S.P.A. and is distributed in
+the United States by Sanofi Pharmaceuticals and OrthoLogic Corp. In addition,
+Fidia S.P.A. is selling Hyalgan throughout Europe. Synvisc is manufactured by
+Biomatrix Inc. and is distributed in the United States by Wyeth-Ayerst
+Laboratories, a division of American Home Products Corp. Synvisc is also
+marketed in Canada, Europe, Latin America and Australia. Artz is manufactured by
+Seikagaku Corporation and is distributed in Japan, Spain and Sweden. Genzyme has
+received marketing approvals in Europe and the U.S. for a chemically modified HA
+for the prevention of post-surgical adhesions under the brandname Seprafilm.
+LifeCore Biomedical has completed a Phase III human clinical trial testing HA to
+prevent surgical adhesions and has filed a PMA with the FDA.
+ 
+RESEARCH AND DEVELOPMENT
+ 
+ The Company intends to continue development of its existing product
+candidates, to expand the therapeutic applications of its existing products and
+to develop new therapeutic applications for its HA technology.
+ 
+ The Company's research and development efforts consist primarily of the
+development of new medical applications for its HA based technology and the
+management of clinical trials for product candidates and the preparation and
+processing of applications for regulatory approvals at all relevant stages of
+development. The Company's development of new products is accomplished primarily
+through in-house research and development personnel and resources as well as
+with collaboration with other companies and scientific researchers. For the
+years ended December 31, 1998 and 1997, the four-month transitional period ended
+December 31, 1996 and the fiscal year ended August 31, 1996, research and
+development expenses were 2.0 million, 2.0 million, 1.3 million and 1.6
+million, respectively. The Company anticipates that it will continue to commit
+substantial resources to research and development in the future. As of December
+31, 1998 the Company had seven employees engaged primarily in research and
+development.
+ 
+EMPLOYEES
+ 
+ As of December 31, 1998, the Company had approximately 61 full-time
+employees. The Company considers its relations with its employees to be good. No
+employees are represented by labor unions.
+ 
+ 7
+ 
+ENVIRONMENTAL LAWS
+ 
+ The Company believes that it is in compliance with all federal, state and
+local environmental regulations with respect to its manufacturing facilities and
+that the cost of ongoing compliance with such regulations does not have a
+material effect on the Company's operations. The Company's leased manufacturing
+facility is located within the Wells G&H Superfund site in Woburn, MA. The
+Company has not been named and is not a party to any such legal proceedings
+regarding the Wells G&H Superfund site.
+ 
+PRODUCT LIABILITY
+ 
+ The testing, marketing and sale of human health care products entail an
+inherent risk of allegations of product liability, and there can be no assurance
+that substantial product liability claims will not be asserted against the
+Company. Although the Company has not received any material product liability
+claims to date and has coverage under its insurance policy of 1,000,000 per
+occurrence and 5,000,000 in aggregate, there can be no assurance if material
+claims arise in the future, that the Company's insurance will be adequate to
+cover all situations. Moreover, there can be no assurance that such insurance,
+or additional insurance, if required, will be available in the future or, if
+available, will be available on commercially reasonable terms. Any product
+liability claim, if successful, could have a material adverse effect on the
+Company's business, financial condition and results of operation.
+ 
+ITEM 2. PROPERTIES
+ 
+ The Company leases 25,000 square feet of space at 236 West Cummings Park,
+Woburn, Massachusetts for its corporate headquarters and manufacturing facility.
+This facility has received all FDA and state regulatory approvals to operate as
+a sterile device and drug manufacturer. The lease for this facility terminates
+in February 2004. The Company also leases (i) approximately 11,000 square feet
+of administrative and research and development space in Woburn, Massachusetts
+under a lease terminating in October 2001 and (ii) approximately 9,000 square
+feet of warehouse space in Woburn, Massachusetts under a lease terminating in
+January 2004. For the year ended December 31, 1998 the Company had aggregate
+lease costs of approximately 377,000. Anika believes that its existing
+facilities are adequate to meet its requirements through 2003.
+ 
+ITEM 3. LEGAL PROCEEDINGS
+ 
+ The Company has no material pending litigation.
+ 
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+ 
+ No matter was submitted to a vote of the security holders during the fourth
+quarter of the fiscal year covered by this report.
+ 
+ 8
+ 
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDERS MATTERS
+ 
+COMMON STOCK INFORMATION
+ 
+ The Company's common stock par value 0.01 per share (the "Common Stock")
+has traded on the Nasdaq National Market since November 25, 1997 under the
+symbol "ANIK". Prior to that the Company's stock was traded under the Nasdaq
+Small-Cap Market. The following table sets forth, for the periods indicated, the
+high and low sale prices of the Common Stock on the Nasdaq Small-Cap and the
+Nasdaq National Market. These prices represent prices between dealers and do not
+include retail mark-ups, markdowns or commissions and may not represent actual
+transactions.
+
+PRICE
+ RANGE
+FISCAL YEAR ENDED AUG. 31, 1996 HIGH LOW
+- ---------------------------------------------------------------------------------------------- ------- -------
+ 
+First Quarter................................................................................. 3 1/8 2 5/8
+Second Quarter................................................................................ 4 5/8 2 7/8
+Third Quarter................................................................................. 7 7/8 3 1/2
+Fourth Quarter................................................................................ 6 5/8 3 3/8
+Transitional period Ended Dec. 31, 1996....................................................... 6 1/4 3 3/8
+
+PRICE
+ RANGE
+FISCAL YEAR ENDED DEC. 31, 1997 HIGH LOW
+- ---------------------------------------------------------------------------------------------- ------- -------
+ 
+First Quarter................................................................................. 6 1/4 3 1/2
+Second Quarter................................................................................ 7 5
+Third Quarter................................................................................. 9 1/4 6 3/8
+Fourth Quarter................................................................................ 10 5/8 6 7/8
+
+PRICE
+ RANGE
+FISCAL YEAR ENDED DEC. 31, 1998 HIGH LOW
+- ---------------------------------------------------------------------------------------------- ------- -------
+ 
+First Quarter................................................................................. 10 1/8 7 1/4
+Second Quarter................................................................................ 15 9 9/16
+Third Quarter................................................................................. 18 3/16 13
+Fourth Quarter................................................................................ 12 3/8 3 15/16
+
+At December 31, 1998, there were 320 holders of record of Common Stock.
+ 
+ The Company has never declared or paid any cash dividends on its Common
+Stock. The Company currently intends to retain earnings, if any, for use in its
+business and does not anticipate paying cash dividends on its Common Stock in
+the foreseeable future. Payment of future dividends, if any, on the Common Stock
+will be at the discretion of the Company's Board of Directors after taking into
+account various factors, including the Company's financial condition, operating
+results, anticipated cash needs and plans for expansion.
+ 
+ 9
+ 
+ITEM 6. SELECTED FINANCIAL DATA
+ 
+ STATEMENTS OF OPERATIONS DATA:
+ (IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+FOUR-MONTH
+ YEARS ENDED TRANSITIONAL
+ DECEMBER 31, PERIOD ENDED YEARS ENDED AUGUST 31,
+ -------------------- DECEMBER 31, -------------------------------
+ 1998 1997 1996 1996 1995 1994
+ --------- --------- ------------ --------- --------- ---------
+ 
+Total revenue................................ 13,870 11,955 1,212 4,613 3,356 4,663
+Cost of sales................................ 6,014 4,744 1,309 4,472 3,118 3,934
+Gross profit (loss).......................... 7,856 7,211 (97) 141 238 728
+Total operating expenses..................... 4,687 4,050 2,619 3,104 2,222 2,230
+Income (loss) from operations................ 4,349 3,344 (2,658) (2,849) (1,955) (1,440)
+Diluted earnings (loss) per share............ .40 .44 (0.56) (0.76) (0.63) (0.45)
+Diluted shares outstanding................... 11,006 7,587 4,905 4,053 3,225 3,177
+
+BALANCE SHEET DATA:
+
+AS OF AS OF
+ DECEMBER 31, DECEMBER 31, AS OF AUGUST 31,
+ -------------------- ------------ -------------------------------
+ 
+ 1998 1997 1996 1996 1995 1994
+ --------- --------- ------------ --------- --------- ---------
+Cash and cash equivalents.................... 10,713 22,680 2,705 3,651 2,825 2,584
+Short-term investments....................... 12,007 -- -- -- -- --
+Working capital.............................. 27,076 25,329 4,226 5,858 4,972 5,520
+Total assets................................. 32,393 28,749 6,920 8,580 8,046 7,698
+Redeemable convertible preferred stock....... -- -- 2,603 2,523 2,326 --
+Accumulated deficit.......................... (1,680) (6,029) (9,374) (6,716) (3,867) (1,913)
+Treasury stock............................... (1,890) -- -- -- -- --
+Stockholder's equity......................... 29,895 26,224 2,369 4,415 3,544 5,378
+
+10
+ 
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS
+ 
+OVERVIEW
+ 
+ The Company develops, manufactures and commercializes therapeutic products
+and devices intended to promote the repair, protection and healing of bone,
+cartilage and soft tissue. These products are based on hyaluronic acid ("HA"), a
+naturally-occurring, biocompatible polymer found throughout the body. Due to its
+unique biophysical and biochemical properties, HA plays an important role in a
+number of physiological functions such as the protection and lubrication of soft
+tissues and joints, the maintenance of the structural integrity of tissues, and
+the transport of molecules to and within cells. The Company's currently marketed
+products consist of ORTHOVISC-Registered Trademark-, which is an HA product used
+in the treatment of some forms of osteoarthritis ("OA") in humans and
+HYVISC-Registered Trademark-, which is an HA product used in the treatment of
+equine osteoarthritis. ORTHOVISC is currently approved for sale and marketed in
+Canada, Europe, Turkey, Israel and Iceland. In the U.S. ORTHOVISC is currently
+limited to investigational use only. An Investigational Device Exemption ("IDE")
+was approved by the FDA in March 1999 authorizing the Company to commence a
+human clinical trial in the U.S. The Company manufactures
+AMVISC-Registered Trademark- and AMVISC-Registered Trademark-Plus, which are HA
+products used as viscoelastic supplements in ophthalmic surgery, for Bausch &
+Lomb Surgical, a subsidiary of Bausch & Lomb. The Company is currently
+developing INCERT-Registered Trademark-, which is an HA based product designed
+for use in the prevention of post-surgical adhesions. In collaboration with
+Orquest, Inc., Anika also has exclusive rights to produce OSSIGEL(TM;) an
+injectable formulation of basic fibroblast growth factor combined with HA
+designed to accelerate the healing of bone fractures.
+ 
+ The Company receives a substantial portion of its revenue from the sale of
+AMVISC and AMVISC Plus to Bausch & Lomb Surgical. For the years ended December
+31, 1998 and 1997, AMVISC sales accounted for 65 and 84 of product revenue,
+respectively.
+ 
+ The Company manufactures AMVISC for Bausch & Lomb Surgical under a five-year
+supply contract (the "AMVISC Supply Contract") that became effective on January
+1, 1997 and expires on December 31, 2001. Bausch & Lomb Surgical assumed the
+AMVISC Supply Contract when it purchased Chiron Vision in January 1998. The
+current AMVISC Supply Contract has stated minimums with substantially higher
+unit selling prices than a previous six-year supply contract with Chiron Vision
+which expired on December 31, 1996. Under the previous supply contract, the
+Company was obligated to supply AMVISC at unit selling prices that approximated
+the Company's unit manufacturing cost.
+ 
+ In November 1997, the Company entered into a long-term distribution
+agreement with Zimmer, Inc., a subsidiary of Bristol-Myers Squibb Company, that
+was subsequently amended in June 1998, (the "Zimmer Distribution Contract"). The
+Zimmer Distribution Contract provides Zimmer with exclusive marketing and
+distribution rights to ORTHOVISC in the United States, Canada, Latin America,
+Asia and most of Europe. To date the Company has received up-front
+non-refundable licensing payments totaling 4.0 million. In addition, under the
+Zimmer Distribution Contract, the Company has the potential to receive
+additional payments aggregating up to 20.5 million upon the achievement of
+certain regulatory approvals and enumerated sales milestones. As an alternative
+to a 2.5 million milestone payment, Zimmer has the right to elect to acquire
+shares of the Company's Common Stock equal to the greater of 2.5 million or
+9.9 of the then outstanding Common Stock (but not to exceed 19.9 of the then
+outstanding Common Stock) at a 25 premium to the then current market price.
+There can be no assurance that any of such milestones will be met on a timely
+basis or at all. For the year ended December 31, 1998, ORTHOVISC sales to Zimmer
+accounted for 15.0 of product revenue.
+ 
+ 11
+ 
+RESULTS OF OPERATIONS
+ 
+YEAR ENDED DECEMBER 31, 1998 COMPARED TO YEAR ENDED DECEMBER 31, 1997
+ 
+ STATEMENT OF OPERATIONS DETAIL
+
+YEAR ENDED
+ ----------------------------
+ DEC 31, 1998 DEC 31, 1997
+ ------------- -------------
+ 
+Product revenue.................................................................... 12,369,712 9,255,338
+Licensing fees..................................................................... 1,500,000 2,700,000
+ ------------- -------------
+ Total revenue.................................................................... 13,869,712 11,955,338
+Cost of product revenue............................................................ 6,014,181 4,744,123
+ ------------- -------------
+ Gross profit..................................................................... 7,855,531 7,211,215
+Operating expenses:
+ Research and development......................................................... 1,955,940 1,957,796
+ Selling, general and administrative.............................................. 2,731,142 2,092,467
+ ------------- -------------
+ Total operating expenses......................................................... 4,687,082 4,050,263
+ ------------- -------------
+ Income from operations........................................................... 3,168,449 3,160,952
+ Interest income, net............................................................. 1,307,825 262,162
+ ------------- -------------
+ Income before income taxes....................................................... 4,476,274 3,423,114
+ Income taxes..................................................................... 127,557 78,677
+ ------------- -------------
+ Net income..................................................................... 4,348,717 3,344,437
+ ------------- -------------
+ ------------- -------------
+
+PRODUCT REVENUE. Product revenue for the year ended December 31, 1998 was
+ 12,370,000 an increase of 3,115,000, or 33.6 , over the 9,255,000 recorded in
+the prior year. The increase was primarily attributable to an increase of
+ 2,955,000 or 220 in sales of ORTHOVISC. Sales of AMVISC products also
+increased by 333,000 or 4 .
+ 
+ LICENSING FEES. Licensing fees of 1,500,000 and 2,700,000 were received
+for the years ended December 31, 1998 and 1997, respectively. During 1998, the
+Company received a non-refundable 1.5 million licensing payment from Zimmer for
+the expansion of territories under the Zimmer Distribution Agreement. During
+1997, the Company received a non-refundable 2.5 million licensing payment from
+Zimmer for ORTHOVISC distribution rights and 200,000 from Orquest for the
+development of OSSIGEL.
+ 
+ GROSS PROFIT. Gross profit for the year ended December 31, 1998 was
+ 7,856,000 an increase of 644,000 or 8.2 over the 7,211,000 recorded in the
+prior year. The increase was primarily due to the increase in product revenue
+and the gross profit percentage on product revenue partially offset by a
+decrease in licensing fee. Gross profit from product revenues increased as a
+percentage of product revenue to 51.4 for the year ended December 31, 1998 as
+compared to 48.7 in the prior year. The increase in the gross profit percentage
+on product revenues was due to increased sales volume of ORTHOVISC, which has a
+higher gross margin per unit than AMVISC products.
+ 
+ RESEARCH AND DEVELOPMENT. Research and development expenses for the year
+ended December 31, 1998 decreased by 2,000 to 1,956,000 from 1,958,000
+recorded in the prior year. An increase in research and development staffing
+during 1998 was offset by a reduction in ORTHOVISC regulatory and clinical
+costs. The Company expects that research and development expenses will increase
+substantially during 1999 due to ORTHOVISC clinical trial costs.
+ 
+ SELLING, GENERAL AND ADMINISTRATIVE. Selling, general and administrative
+expenses for the year ended December 31, 1998, increased by 639,000, or 30.5 ,
+to 2,731,000 from 2,092,000 in the prior year. The
+ 
+ 12
+ 
+increase was primarily attributable to increases in consulting, recruiting,
+selling and marketing costs and the amortization of unearned stock compensation.
+ 
+ NET INTEREST INCOME. The Company's net interest income increased by
+ 1,046,000 to 1,308,000 for the year ended December 31, 1998 from 262,000 in
+the prior year. The increase is attributable to an increase in average cash
+available for investment during the 1998 as compared to 1997, as a result the
+Company's December 1997 stock offering.
+ 
+ INCOME TAXES. The Company recorded an effective tax rate of 2.9 for 1998
+versus 2.3 for the prior year. The Company recorded tax expense for the year
+ended December 31, 1998 of 128,000 which consisted of current tax expense of
+approximately 1,803,000 (tax rate of 40.2 offset by a tax benefit of
+approximately 1,675,000 from net operating loss carryforwards.
+ 
+YEAR ENDED DECEMBER 31, 1997 COMPARED TO YEAR ENDED DECEMBER 31, 1996
+ 
+ STATEMENT OF OPERATIONS DETAIL
+
+YEAR ENDED
+ ----------------------------
+ 
+ DEC 31, 1997 DEC 31, 1996
+ ------------- -------------
+
+(UNAUDITED)
+ 
+Product revenue..................................................................... 9,255,338 4,633,743
+Licensing fees...................................................................... 2,700,000 --
+ ------------- -------------
+ Net revenue....................................................................... 11,955,338 4,633,743
+ Cost of product revenue........................................................... 4,744,123 4,517,591
+ ------------- -------------
+Gross profit........................................................................ 7,211,215 116,152
+ ------------- -------------
+Operating expenses:
+ Research and development.......................................................... 1,957,796 2,488,657
+ Selling, general and administrative............................................... 2,092,467 2,393,623
+ ------------- -------------
+ Total operating expenses.......................................................... 4,050,263 4,882,280
+ ------------- -------------
+ Income (loss) from operations..................................................... 3,160,952 (4,766,128)
+ Interest income, net.............................................................. (262,162) (166,908)
+ ------------- -------------
+ Income (loss) before income taxes................................................. 3,423,114 (4,599,220)
+ Income taxes...................................................................... 78,677 --
+ ------------- -------------
+ Net income (loss)............................................................... 3,344,437 (4,599,220)
+ ------------- -------------
+ ------------- -------------
+
+PRODUCT REVENUE. Product revenue for the year ended December 31, 1997 was
+ 9,255,000 an increase of 4,621,000 or 100 over the 4,634,000 in the prior
+year. The increase was primarily attributable to increased AMVISC sales. Sales
+of AMVISC as measured in units increased by 6.5 while the average selling price
+of AMVISC increased by 70 under the new AMVISC supply contract. Future
+increased selling prices under the AMVISC supply contract will be limited to
+annual adjustment based on the producer price index.
+ 
+ LICENSING FEES. Licensing fees of 2,700,000 were received for the year
+ended December 31, 1997. The Company received a 2.5 million licensing payment
+from Zimmer for ORTHOVISC distribution rights and 200,000 from Orquest for the
+development of OSSIGEL.
+ 
+ GROSS PROFIT. The Company's gross profit for the year ended December 31,
+1997 was 7,211,000 an increase of 7,095,000 over the 116,000 recorded in the
+prior year. The increase was primarily due to the 70 increase in the average
+unit selling price of AMVISC under the new AMVISC Supply Contract, increased
+sales volume of ORTHOVISC and the 2,700,000 licensing fee received in 1997.
+Gross profit from product revenues increased as a percentage of product revenues
+to 48.7 for the year ended
+ 
+ 13
+ 
+December 31, 1997 as compared to 2.5 in the prior year due primarily to the
+increase in average unit selling price of AMVISC and the increased sales of
+ORTHOVISC which has a higher gross margin than AMVISC.
+ 
+ RESEARCH AND DEVELOPMENT. Research and development expenses for the year
+ended December 31, 1997 decreased by 531,000, or 21.3 to 1,958,000 from
+ 2,489,000 recorded in the prior year. The decrease was primarily due to a
+reduction in expenses associated with the ORTHOVISC clinical trial which was
+completed in June 1997.
+ 
+ SELLING, GENERAL AND ADMINISTRATIVE. Selling, general and administrative
+expenses for the year ended December 31, 1997, decreased by 302,000, or 12.6 ,
+to 2,092,000 from 2,394,000 in the prior year. Staffing levels were
+substantially the same for each of these years. The decrease is primarily
+attributable to severance payments to the Company's former president incurred in
+1996 and a 544,000 write-off of leasehold improvements and lease expenses
+resulting from the closing of one of the Company's facilities in 1996 which was
+partially offset by an increase in general expense levels in 1997.
+ 
+ NET INTEREST INCOME. The Company's net interest income increased to
+ 262,000, or 56.9 , in the year ended December 31, 1997 from 167,000 in the
+prior year. The increase is attributable to an increase in average cash
+available for investment in the year ended December 31, 1997 as compared to
+1996.
+ 
+ TAX EXPENSE. The Company recorded tax expense for the year ended December
+31, 1997 of approximately 79,000 which consisted of current tax expense of
+ 1,375,000 (tax rate of 40.2 offset by a tax benefit of 1,296,000 from net
+operating loss carryforwards. At December 31, 1997 the company has a remaining
+tax benefit of 3,256,000 from net operating loss carryforwards to offset future
+tax expense.
+ 
+FOUR MONTHS ENDED DECEMBER 31, 1996 COMPARED TO FOUR MONTHS ENDED DECEMBER 31,
+ 1995
+ 
+ STATEMENT OF OPERATIONS DETAIL
+
+FOUR MONTHS ENDED
+ ---------------------------
+ 
+ DEC 31, 1996 DEC 31, 1995
+ ------------- ------------
+
+(UNAUDITED)
+ 
+Net sales............................................................................ 1,212,041 1,191,215
+Cost of sales........................................................................ 1,308,625 1,263,249
+ ------------- ------------
+ Gross loss......................................................................... (96,584) (72,034)
+Operating expenses:
+ Research and development........................................................... 1,310,330 456,315
+ Selling, general and administrative................................................ 1,308,583 384,215
+ ------------- ------------
+ Total operating expenses......................................................... 2,618,913 840,530
+ ------------- ------------
+ Loss from operations............................................................... (2,715,497) (912,564)
+ Interest income.................................................................. (57,898) (5,303)
+ ------------- ------------
+ Loss before income taxes........................................................... (2,657,599) (907,261)
+ Income taxes.......................................................................
+ ------------- ------------
+Net loss............................................................................. (2,657,599) (907,261)
+ ------------- ------------
+ ------------- ------------
+
+NET SALES. Net sales of HA products for the four-month transitional period
+ended December 31, 1996 totaled 1.2 million, which was substantially unchanged
+from the net sales recorded for the comparable four month period of the prior
+year.
+ 
+ GROSS LOSS. The Company's gross loss as a percentage of net sales was 8.0 
+for the four month transitional period ended December 31, 1996, an increase of
+two percentage points from the 6.0 gross
+ 
+ 14
+ 
+loss for the same period in 1995. The increase was primarily attributable to
+increased sales of HA products with lower margins.
+ 
+ RESEARCH AND DEVELOPMENT. Research and development expenses for the
+four-month transitional period ended December 31, 1996 increased by 854,000, or
+187.3 , to 1.3 million from 456,000 for the same period in 1995. The increase
+was primarily attributable to 600,000 in expenses related to the clinical trial
+for ORTHOVISC and the amortization of 375,000 of unearned stock option
+compensation related to the amendment of the employment agreement of the
+Company's chief scientific officer.
+ 
+ SELLING, GENERAL AND ADMINISTRATIVE. Selling, general and administrative
+expenses for the four-month transitional period ended December 31, 1996
+increased by 925,000, or 240.9 , to 1.3 million from 384,000 for the same
+period in 1995. The increase was primarily attributable to the hiring of
+additional marketing and administrative staff, a 544,000 write-off of leasehold
+improvements and lease expenses resulting from closing one of the Company's
+facilities, and 200,000 in severance costs associated with the departure of the
+Company's former president.
+ 
+YEAR ENDED AUGUST 31, 1996 COMPARED TO YEAR ENDED AUGUST 31, 1995
+ 
+ NET SALES. Net sales of HA products totaled 4.6 million in the fiscal year
+ended August 31, 1996, representing an increase of 1.3 million, or 38.2 , from
+the 3.4 million for fiscal 1995. The increase was primarily attributable to an
+increase in the unit volume of AMVISC sales.
+ 
+ GROSS PROFIT. The Company's gross profit as a percentage of net sales
+declined to 3 in the fiscal year ended August 31, 1996, from 7 in fiscal 1995.
+During the year ended August 31, 1996 the balance in the AMVISC manufacturing
+reserve of 521,000 was written off to cost of goods sold since the previous
+AMVISC supply contract was marginally profitable and it expired on December 31,
+1996. The Company determined that the reserve was no longer required because the
+previous AMVISC supply contract was expected to remain marginally profitable
+through the end of the contract period. The decrease in gross profit as a
+percentage of net sales is attributable to higher manufacturing costs per unit
+in the fiscal year ended August 31, 1996 versus fiscal 1995 and an unfavorable
+mix of product sales in the fiscal year ended August 31, 1996 versus fiscal
+1995.
+ 
+ RESEARCH AND DEVELOPMENT. Research and development expenses increased by
+ 317,000, or 24.0 , to 1.6 million in the fiscal year ended August 31, 1996
+from 1.3 million in fiscal 1995. The increase was attributable primarily to the
+commencement of the ORTHOVISC clinical trial in the United States.
+ 
+ SELLING, GENERAL AND ADMINISTRATIVE. Selling, general and administrative
+expenses for the fiscal year ended August 31, 1996 increased by 565,000, or
+62.5 , to 1.5 million from 904,000 in fiscal 1995. The increase was
+attributable primarily to additions to administration staffing for the fiscal
+year ended August 31, 1996, increased selling and marketing costs associated
+with the international commercialization of ORTHOVISC and severance payments to
+the Company's former president.
+ 
+ NET INTEREST INCOME. The Company's net interest income increased to
+ 114,000, or 293.0 , in the fiscal year ended August 31, 1996 from 29,000 in
+fiscal 1995. The increase is attributable to the Company having higher cash
+balances on average in the fiscal year ended August 31, 1996 as compared to
+fiscal 1995.
+ 
+ INCOME TAX BENEFIT. The Company has not recorded income tax benefits for
+the fiscal years ended August 31, 1996 and 1995. The Company will not be able to
+record income tax benefits from the operating losses incurred after May 1, 1993
+until the Company has operating profits, since the realization of these benefits
+cannot be reasonably assured.
+ 
+ 15
+ 
+LIQUIDITY AND CAPITAL RESOURCES
+ 
+ At December 31, 1998, the Company had cash, cash equivalents and short-term
+investments of 22.7 million and working capital of 27.1 million versus cash
+and cash equivalents of 22.7 million and working capital of 25.3 million at
+December 31, 1997. During 1998, the Company generated approximately 3,353,000
+of cash from operating activities, which consisted primarily of net income
+offset by changes in working capital items.
+ 
+ During 1998, the Company utilized 2,238,000 for capital expenditures,
+primarily for the expansion of its manufacturing facility. The Company expects
+to utilize approximately 2,000,000 during 1999 to complete the expansion of its
+manufacturing facility. The Company expects that after this expansion it will
+have adequate capacity to meet demand through at least the end of the year 2003
+based upon its current expectations.
+ 
+ In October 1998, the Board of Directors approved a stock repurchase plan
+under which the Company is authorized to repurchase up to 4 million of Anika
+Common Stock with the total number of shares purchased under the plan not to
+exceed 9.9 of the total issued and outstanding shares. Through December 31,
+1998 the Company repurchased 359,500 shares for 1,923,000 and through March 25,
+1999 the Company had repurchased 685,600 shares at an average cost per share of
+ 5.11 for a total cash purchase price of 3,503,000. During the years ended
+December 31, 1998 the Company generated 964,000 via the exercise of stock
+options and warrants.
+ 
+ In December 1997, the Company completed a secondary public offering of
+2,725,000 shares of Common Stock that resulted in net proceeds to the Company of
+approximately 17 million.
+ 
+ In March 1996, the Company completed a financing involving the private
+placement of 1,455,000 shares of newly issued Common Stock to institutional and
+accredited investors. Total gross proceeds were approximately 4.0 million and
+net proceeds to the Company after fees and expenses were approximately 3.5
+million. In connection with the private placement, the Company issued to the
+private placement agent warrants to purchase 57,036 shares of Common Stock at
+ 4.00 per share and warrants to purchase 146,664 shares of Common Stock at 3.00
+per share. The proceeds from the private placement were used to repay 1.0
+million of indebtedness and for working capital.
+ 
+ The Company believes that its cash on hand will be sufficient to meet its
+operating requirements for at least the next 24 months. Expenditures required to
+fund the ORTHOVISC clinical trial will adversely impact the Company's financial
+results in 1999. However, the Company believes that the combination of revenues
+from its international ORTHOVISC business and the AMVISC product line should be
+sufficient to fund its operations during 1999 including expenses related to the
+clinical trial. In the future, the Company may require additional financing to
+fund its operations and for the construction of a new manufacturing facility.
+ 
+ The Company's future capital requirements and the adequacy of available
+funds will depend, however, on numerous factors, including market acceptance of
+its existing and future products, the successful commercialization of products
+in development, progress in its product development efforts, the magnitude and
+scope of such efforts, progress with preclinical studies, clinical trials and
+product clearances by the FDA and other agencies, the cost and timing of its
+efforts to expand its manufacturing capabilities, the cost of filing,
+prosecuting, defending and enforcing patent claims and other intellectual
+property rights, competing technological and market developments, and the
+development of strategic alliances for the marketing of certain of its products.
+Although the Company achieved profitability for the years ended December 31,
+1998 and 1997 there can be no assurance that the Company will continue to record
+profits in future periods. For 1998 and 1997, the Company's unit sales of AMVISC
+substantially exceeded the minimum obligations under the AMVISC Supply
+Agreement. For 1999, the Company can provide no assurance that unit sales of
+AMVISC for 1999 will exceed minimum annual purchase obligations.
+ 
+ 16
+ 
+ The terms of any future equity financings may be dilutive to the Company's
+stockholders and the terms of any debt financings may contain restrictive
+covenants which limit the Company's ability to pursue certain courses of action.
+The ability of the Company to obtain financing is dependent on the status of the
+Company's future business prospects as well as conditions prevailing in the
+relevant capital markets. No assurance can be given that any additional
+financing will be made available to the Company or will be available on
+acceptable terms should such a need arise. The Company's estimate of the time
+period for which cash and cash equivalents, will be adequate to fund operations
+is a forward looking statement within the meaning of the Private Securities
+Litigation Reform Act of 1995 and is subject to risks and uncertainties. Actual
+results may differ materially from those contemplated in such forward-looking
+statements. In addition to those described above, factors which may cause such a
+difference are set forth under the caption "Risk Factors and Certain Factors
+Affecting Future Operating Results" as well as in this 10-K generally.
+ 
+YEAR 2000 READINESS DISCLOSURE
+ 
+ The statements in the following section include "Year 2000 readiness
+disclosure" within the meaning of the Year 2000 Information and Readiness
+Disclosure Act.
+ 
+ The Company has begun assessing its information systems to verify Year 2000
+readiness. The Company relies upon microprocessor-based personal computers,
+mainframes and commercially available applications software. The Company has
+recently put into service the microprocessor-based personal computers with
+applications software which according to literature supplied with the software
+is Year 2000 compliant. The Company intends to test the applications software to
+verify compliance. The Company is also in the process of upgrading its mainframe
+computer hardware and software. The Company's present mainframe computer system
+runs only financial applications. Installation of the upgraded hardware and
+software is expected to occur in 1999 and all of the software packages under
+review by the Company are reported to be Year 2000 compliant. Management will
+verify Year 2000 compliance of the mainframe computer as soon as installation
+and testing have been completed.
+ 
+ The Company has begun to discuss Year 2000 readiness with its material
+supply and service vendors. To date, those vendors and suppliers that have been
+contacted have indicated that their hardware and software will be Year 2000
+compliant in time frames that meet the Company's requirements. However, the
+Company intends to continue to assess its exposure to Year 2000 noncompliance on
+the part of any of its material vendors and suppliers.
+ 
+ The Company believes that the current personal computer software
+applications and modifications to its mainframe system will allow it to be Year
+2000 compliance in a timely manner. The Company does not anticipate that it will
+incur material expenses to make the internal computer system Year 2000 compliant
+and believes that the Year 2000 issue will not pose significant operational
+problems for the Company's system. There can be no assurance, however, that the
+Company's internal systems or those of third parties will be compliant in a
+timely manner. The failure of internal systems or third parties to be Year 2000
+compliant in a timely manner could have a material adverse effect on the
+Company's business, financial conditions, and results of operations. The Company
+currently does not have any contingency plan in the event Year 2000 compliance
+cannot be achieved in a timely manner.
+ 
+ The preceding "Year 2000 Readiness Disclosure" contains various
+forward-looking statements within the meaning of Section 21E of the Securities
+Exchange Act of 1934 and the Section 27A Securities Act of 1933. These
+forward-looking statements represent the Company's beliefs or expectations
+regarding future events. When used in the "Year 2000 Readiness Disclosure", the
+words "believes," "expects," "estimates" and similar expressions are intended to
+identify forward looking statements. Forward looking statements include, without
+limitation, the Company's expectations as to when it will complete the
+installation and testing of its internal systems; its estimated cost of
+achieving Year 2000 readiness; and the Company's belief that its internal
+systems will be Year 2000 compliant in a timely manner. All forward-looking
+ 
+ 17
+ 
+statements involve a number of risks and uncertainties that could cause the
+actual results to differ materially from the projected results.
+ 
+ Factors that may cause these differences include, but are not limited to,
+the availability of qualified personnel and other information technology
+resources; the ability to identify and remediate all date sensitive lines of
+computer code or to replace embedded computer chips in affected systems or
+equipment; and the actions of third parties with respect to Year 2000 problems.
+ 
+RISK FACTORS AND CERTAIN FACTORS AFFECTING FUTURE OPERATING RESULTS
+ 
+ THIS FORM 10-K CONTAINS FORWARD-LOOKING STATEMENTS WITHIN THE MEANING OF
+SECTION 27A OF THE SECURITIES ACT OF 1933 AND SECTION 21E OF THE SECURITIES
+EXCHANGE ACT OF 1934. THE COMPANY'S ACTUAL RESULTS COULD DIFFER MATERIALLY FROM
+THOSE SET FORTH IN THE FORWARD-LOOKING STATEMENTS. CERTAIN FACTORS THAT MIGHT
+CAUSE SUCH A DIFFERENCE INCLUDE, AMONG OTHER FACTORS NOTED HEREIN, THE
+FOLLOWING:
+ 
+ COMPREHENSIVE GOVERNMENT REGULATION; NO ASSURANCE OF FDA APPROVAL. The
+Company's products, product development activities, manufacturing processes, and
+current and future sales and marketing are subject to extensive and rigorous
+regulation by the FDA and comparable agencies in foreign countries. In the
+United States, the FDA regulates the marketing, advertising, promotion, and
+distribution of medical devices, drugs, and biologics, as well as testing,
+manufacturing, labeling, recordkeeping, and reporting activities for such
+products.
+ 
+ Medical products regulated by the FDA are generally classified as devices
+and/or drugs and/or biologics. Product development and approval within the FDA
+framework takes a number of years and involves the expenditure of substantial
+resources. There can be no assurance that the FDA will grant approval for the
+Company's new products on a timely basis if at all, or that FDA review will not
+involve delays that will adversely affect the Company's ability to commercialize
+additional products or expand permitted uses of existing products, or that the
+regulatory framework will not change, or that additional regulation will not
+arise at any stage of the Company's product development process which may
+adversely affect approval of or delay an application or require additional
+expenditures by the Company. In the event the Company's future products are
+regulated as human drugs or biologics, the FDA's review process typically would
+be substantially longer and more expensive than the review process for devices.
+ 
+ The Company's ORTHOVISC product is currently regulated as a Class III device
+by the FDA. Class III devices are those that generally must receive pre-market
+approval by the FDA to ensure their safety and effectiveness (e.g.
+life-sustaining, life-supporting and implantable or new devices which have not
+been found to be substantially equivalent to legally marketed devices) and
+require clinical testing to ensure safety and effectiveness and FDA approval
+prior to marketing and distribution. In order for the Company to commercially
+distribute ORTHOVISC in the U.S., it must obtain FDA approval of a PMA. The PMA
+approval process can be expensive, uncertain and lengthy. A number of devices
+for which pre-market approval has been sought have never been approved for
+marketing. The review of an application often occurs over a protracted time
+period and may take two years or more from the filing date to complete. The
+Company submitted a PMA for ORTHOVISC in December 1997. In October 1998, the
+Company was notified by the FDA that the Company's PMA application for ORTHOVISC
+was not approvable and that additional clinical data would be required to
+demonstrate the effectiveness of ORTHOVISC. The Company submitted an IDE to the
+FDA in February 1999 and received approval in late March 1999 to commence a
+second Phase III clinical study. There can be no assurance that the FDA will
+approve a PMA application for ORTHOVISC on a timely basis, if at all, or that
+the FDA review will not involve delays that will affect the Company's ability to
+commercialize additional products or expand permitted uses of existing products.
+Furthermore, even if granted, the approval may include significant limitations
+on the indications for use for which the product may be marketed.
+ 
+ 18
+ 
+ The Company's developmental HA products, including INCERT and HA
+oligosaccharides, have not obtained regulatory approval in the U.S. for
+investigational use and/or commercial marketing and sale. The Company believes
+that INCERT will be regulated or biologic as a Class III medical device and HA
+oligosaccharides will be regulated as a drug or a biologic, although there can
+be no assurance that such products will not be otherwise classified. Before
+undertaking clinical trials in the U.S. to support a PMA, the Company must apply
+for and obtain FDA and/or institutional review board ("IRB") approval of an IDE.
+There can be no assurance that the Company will be permitted to undertake
+clinical trials of these or other future products in the U.S. or that clinical
+trials will demonstrate that the products are safe and effective or otherwise
+satisfy the FDA's pre-market approval requirements. Orquest has not received
+regulatory approval in the U.S. for the commercial marketing and sale of
+OSSIGEL. OSSIGEL will be regulated as a Class III medical device with the FDA's
+Center of Biologics Research and Review as the lead review center. There can be
+no assurance that Orquest will be permitted to undertake clinical trials of
+OSSIGEL or, if clinical trials are permitted, that such clinical trials will
+demonstrate that OSSIGEL is safe and effective or otherwise satisfy FDA
+requirements.
+ 
+ Once obtained, marketing clearance can be withdrawn by the FDA due to
+failure to comply with regulatory standards or the occurrence of unforeseen
+problems following initial clearance. The Company may be required to make
+further filings with the FDA under certain circumstances. The FDA's regulations
+require agency approval of a PMA supplement for certain changes if they affect
+the safety and effectiveness of an approved device, including, but not limited
+to, new indications for use, labeling changes, the use of a different facility
+to manufacture, process or package the device, changes in manufacturing methods
+or quality control systems and changes in performance or design specifications.
+Failure by the Company to receive approval of a PMA supplement regarding the use
+of a different manufacturing facility or any other change affecting the safety
+or effectiveness of an approved device on a timely basis, or at all, would have
+a material adverse effect on the Company's business, financial condition and
+results of operations. The FDA could also limit or prevent the manufacture or
+distribution of the Company's products and has the power to require the recall
+of such products. Significant delay or cost in obtaining, or failure to obtain
+FDA clearance to market products, any FDA limitations on the use of the
+Company's products, or any withdrawal or suspension of clearance by the FDA
+could have a material adverse effect on the Company's business, financial
+condition and results of operations.
+ 
+ In addition, all FDA-approved products manufactured by the Company must be
+manufactured in compliance with FDA's Good Manufacturing Practices ("GMP")
+regulations or, for medical devices, FDA's Quality System Regulations ("QSR").
+Ongoing compliance with GMP, QSR and other applicable regulatory requirements is
+monitored through periodic inspection by state and federal agencies, including
+the FDA. The FDA may inspect the Company and its facilities from time to time to
+determine whether the Company is in compliance with regulations relating to
+medical device and manufacturing companies, including regulations concerning
+manufacturing, testing, quality control and product labeling practices. There
+can be no assurance that the Company will be able to comply with current or
+future FDA requirements applicable to the manufacture of products.
+ 
+ FDA regulations depend heavily on administrative interpretation and there
+can be no assurance that the future interpretations made by the FDA or other
+regulatory bodies, with possible retroactive effect, will not adversely affect
+the Company. In addition, changes in the existing regulations or adoption of new
+governmental regulations or policies could prevent or delay regulatory approval
+of the Company's products.
+ 
+ Failure to comply with applicable regulatory requirements could result in,
+among other things, warning letters, fines, injunctions, civil penalties, recall
+or seizure of products, total or partial suspension of production, refusal of
+the FDA to grant pre-market clearance or pre-market approval for devices,
+withdrawal of approvals and criminal prosecution.
+ 
+ 19
+ 
+ In addition to regulations enforced by the FDA, the Company is subject to
+other existing and potential future federal, state, local and foreign
+regulations. International regulatory bodies often establish regulations
+governing product standards, packing requirements, labeling requirements, import
+restrictions, tariff regulations, duties and tax requirements. To enable the
+Company to market its products in Europe, the Company was required to receive a
+"CE" marking certification, an international symbol of quality and compliance
+with the applicable European medical device directive. In October 1996, the
+Company received an EC Design Examination and an EC Quality System Certificate
+from a European Notified Body, which entitles the Company to affix a CE marking
+on ORTHOVISC for the treatment of osteoarthritis in synovial joints. There can
+be no assurance that the Company will be able to achieve and/or maintain
+compliance required for CE marking or other foreign regulatory approvals for any
+or all of its products or that it will be able to produce its products in a
+timely and profitable manner while complying with applicable requirements.
+Federal, state, local and foreign regulations regarding the manufacture and sale
+of medical products are subject to change. The Company cannot predict what
+impact, if any, such changes might have on its business. The requirements
+relating to the conduct of clinical trials, product licensing, pricing and
+reimbursement also vary widely from country to country.
+ 
+ The process of obtaining approvals from the FDA and other regulatory
+authorities can be costly, time consuming, and subject to unanticipated delays.
+There can be no assurance that approvals of the Company's products will be
+granted or that the Company will have the necessary funds to develop certain of
+such products. Any failure to obtain, or delay in obtaining, such approvals
+could adversely affect the ability of the Company to market its products.
+ 
+ HISTORY OF LOSSES; UNCERTAINTY OF FUTURE PROFITABILITY. From its inception
+up until December 31, 1996, the Company had incurred annual operating losses. As
+of December 31, 1998, the Company had an accumulated deficit of approximately
+ 1.6 million. The continued development of the Company's products will require
+the commitment of substantial resources to conduct research and preclinical and
+clinical development programs, and to establish sales and marketing
+capabilities. The Company incurred substantial and increasing operating losses
+through December 31, 1996 and, although the Company had net income of 4,349,000
+and 3,344,000 for the years ended December 31, 1998 and 1997, respectively, the
+ability of the Company to reach sustained profitability is highly uncertain. To
+achieve sustained profitability the Company must, among other things,
+successfully complete development of certain of its products, obtain regulatory
+approvals and establish sales and marketing capabilities for certain of its
+products. There can be no assurance that the Company will be able to achieve
+sustained profitability.
+ 
+ COMPETITION. The Company competes with many companies, including large
+pharmaceutical companies and specialized medical products companies. Many of
+these companies have substantially greater financial and other resources, larger
+research and development staffs, more extensive marketing and manufacturing
+organizations and more experience in the regulatory process than the Company.
+The Company also competes with academic institutions, governmental agencies and
+other research organizations which may be involved in research, development and
+commercialization of products. Because a number of companies are developing HA
+products for similar applications, the successful commercialization of a
+particular product will depend in part upon the ability of the Company to
+complete clinical studies and obtain FDA marketing and foreign regulatory
+approvals prior to its competitors. There can be no assurance that the Company
+will be able to compete against current or future competitors or that
+competition will not have a material adverse effect on the Company's business,
+financial condition and results of operations.
+ 
+ UNCERTAINTY REGARDING SUCCESS OF CLINICAL TRIALS. Several of the Company's
+products, including ORTHOVISC, INCERT and HA oligosaccharides, as well as the
+products of the Company's collaborative partners, including OSSIGEL, will
+require clinical trials to determine their safety and efficacy in humans for
+various conditions. There can be no assurance that the Company or its
+collaborative partners will not encounter problems that will cause it to delay
+or suspend clinical trials of any of these products. In
+ 
+ 20
+ 
+addition, there can be no assurance that such clinical trials, if completed,
+will ultimately demonstrate these products to be safe and efficacious.
+ 
+ DEPENDENCE UPON MARKETING PARTNERS. The Company does not plan to directly
+market and sell its current products to customers. Therefore, the Company's
+success will be dependent upon the efforts of its marketing partners and the
+terms and conditions of the Company's relationships with such marketing
+partners. The Company currently manufactures AMVISC and AMVISC Plus for Bausch &
+Lomb Surgical under a non-exclusive fixed price, five-year supply agreement
+which contains stated minimum annual purchase obligations and terminates on
+December 31, 2001. Since January 1, 1997, Bausch & Lomb Surgical has purchased
+AMVISC and AMVISC Plus in amounts substantially in excess of the minimum
+purchase obligations set forth in the AMVISC supply contract. There can be no
+assurance that Bausch & Lomb, Inc. will continue to purchase AMVISC and AMVISC
+Plus at levels beyond the stated minimum annual purchase obligations. Any such
+decrease in orders under the AMVISC supply contract could have a material
+adverse effect on the Company's business, financial condition and results of
+operations. For the years ended December 31, 1998 and 1997, sales of AMVISC
+products to Bausch & Lomb Surgical accounted for 65 and 84 of product
+revenues.
+ 
+ In November 1997, the Company entered into a long-term distribution
+agreement with Zimmer, Inc., a subsidiary of Bristol-Myers Squibb Company, that
+was subsequently amended in June 1998, (the "Zimmer Distribution Contract"). The
+Zimmer Distribution Contract provides Zimmer with exclusive marketing and
+distribution rights to ORTHOVISC in the United States, Canada, Latin America,
+Asia and most of Europe. To date the Company has received up-front
+non-refundable licensing payments totaling 4.0 million. In addition, under the
+Zimmer Distribution Contract the Company has the potential to receive payments
+aggregating up to an additional 20.5 million upon the achievement of certain
+regulatory approvals and enumerated sales milestones. As an alternative to a
+ 2.5 million milestone payment, Zimmer has the right to elect to acquire shares
+of the Company's Common Stock equal to the greater of 2.5 million or 9.9 of
+the then outstanding Common Stock (but not to exceed 19.9 of the then
+outstanding Common Stock) at a 25 premium to the then current market price.
+There can be no assurance that any of such milestones will be met on a timely
+basis or at all. In addition, Zimmer has the right to terminate the agreement if
+ORTHOVISC is not approved by the FDA by January 1, 2001 and if Zimmer sales of
+ORTHOVISC fail to meet the minimums specified in the contract for two
+consecutive years beginning in 1998. There can be no assurance that any of these
+events will not occur, or, if any such event does not occur, that Zimmer will
+not elect to terminate the agreement. Any such termination is likely to have a
+material adverse effect on the Company's ability to market ORTHOVISC, which may
+have a material adverse effect on the Company's future operation results. For
+the year ended December 31, 1998, ORTHOVISC sales to Zimmer accounted for 15 of
+product revenue.
+ 
+ The Company will need to obtain the assistance of additional marketing
+partners for new products which are brought to market and existing products
+brought to new markets. There can be no assurance that such additional partners
+will be available or that such partners will agree to market the Company's
+products on acceptable terms. The failure to establish strategic partnerships
+for the marketing and distribution of the Company's products on acceptable terms
+would have a material adverse effect on the Company's business, financial
+condition and results of operations.
+ 
+ UNCERTAINTY OF MARKET ACCEPTANCE OF NEW PRODUCTS. The Company's success
+will depend in part upon the acceptance of the Company's new products by the
+medical community, hospitals and physicians and other health care providers, and
+third-party payors. Such acceptance may depend upon the extent to which the
+medical community perceives the Company's products as safer, more effective or
+cost-competitive than other similar products. Ultimately, for the Company's new
+products to gain general market acceptance, it will also be necessary for the
+Company to develop marketing partners for the distribution of its products.
+There can be no assurance that the Company's new products will achieve
+significant market acceptance on a timely basis, or at all. Failure of some or
+all of the Company's new products to achieve significant market
+ 
+ 21
+ 
+acceptance could have a material adverse effect on the Company's business,
+financial condition and results of operations.
+ 
+ DEPENDENCE ON PATENTS AND PROPRIETARY TECHNOLOGY. The Company's success
+will depend, in part, on its ability to obtain and enforce patents, protect
+trade secrets, obtain licenses to technology owned by third parties when
+necessary, and conduct its business without infringing the proprietary rights of
+others. The patent positions of pharmaceutical, medical products and
+biotechnology firms, including the Company, can be uncertain and involve complex
+legal and factual questions. There can be no assurance that any patent
+applications will result in the issuance of patents or, if any patents are
+issued, whether they will provide significant proprietary protection or
+commercial advantage, or will not be circumvented by others. In the event a
+third party has also filed one or more patent applications for any of its
+inventions, the Company may have to participate in interference proceedings
+declared by the U.S. Patent and Trademark Office ("PTO") to determine priority
+of invention (see below), which could result in failure to obtain or the loss of
+patent protection for the inventions and the loss of any right to use the
+inventions. Even if the eventual outcome is favorable to the Company, such
+interference proceedings could result in substantial cost to the Company. Filing
+and prosecution of patent applications, litigation to establish the validity and
+scope of patents, assertion of patent infringement claims against others and the
+defense of patent infringement claims by others can be expensive and time
+consuming. There can be no assurance that in the event that any claims with
+respect to any of the Company's patents, if issued, are challenged by one or
+more third parties, that any court or patent authority ruling on such challenge
+will determine that such patent claims are valid and enforceable. An adverse
+outcome in such litigation could cause the Company to lose exclusivity covered
+by the disputed rights. If a third party is found to have rights covering
+products or processes used by the Company, the Company could be forced to cease
+using the technologies or marketing the products covered by such rights, could
+be subject to significant liabilities to such third party, and could be required
+to license technologies from such third party. Furthermore, even if the
+Company's patents are determined to be valid, enforceable, and broad in scope,
+there can be no assurance that competitors will not be able to design around
+such patents and compete with the Company using the resulting alternative
+technology.
+ 
+ The Company has a policy of seeking patent protection for patentable aspects
+of its proprietary technology. The Company co-owns certain United States patents
+and a patent application which claim certain adhesion prevention uses and
+certain drug delivery uses of HA, and solely owns patents directed to certain
+manufacturing processes. The Company also holds an exclusive license from Tufts
+University to use technologies claimed in a United States patent application
+which has been granted a Notice of Allowance from the U.S. Patent Office for the
+anti-metastasis applications of HA oligosaccharides. The Company's issued
+patents expire between 2007 and 2015 and the license expires upon expiration of
+all related patents. The Company intends to seek patent protection with respect
+to products and processes developed in the course of its activities when it
+believes such protection is in its best interest and when the cost of seeking
+such protection is not inordinate. However, no assurance can be given that any
+patent application will be filed, that any filed applications will result in
+issued patents or that any issued patents will provide the Company with a
+competitive advantage or will not be successfully challenged by third parties.
+The protections afforded by patents will depend upon their scope and validity,
+and others may be able to design around the Company's patents. The Company's
+issued patents and any patents which arise from the Company's licensed
+application would provide competitive protection, if at all, only in the United
+States. The Company has not, to date, pursued foreign patents equivalent to
+those issued or applied for in the United States.
+ 
+ Other entities have filed patent applications for or have been issued
+patents concerning various aspects of HA-related products or processes. There
+can be no assurance that the products or processes developed by the Company will
+not infringe the patent rights of others in the future. Any such infringement
+may have a material adverse effect on the Company's business, financial
+condition and results of operations. In particular, the Company has received
+notice from the PTO that a third party is attempting
+ 
+ 22
+ 
+to provoke a patent interference with respect to one of the Company's co-owned
+patents covering the use of INCERT for post-surgical adhesion prevention.
+Although the Company believes that an interference may be declared by the PTO,
+it is too early to determine the merits of the interference or the effect, if
+any, the interference will have on the Company's marketing of INCERT for this
+use. The existence of the interference proceeding may have a negative impact on
+the marketing of the INCERT product, and no assurance can be given that the
+Company would be successful in any such interference proceeding. If the
+third-party interference were to be decided adversely to the Company, involved
+claims of the Company's patent would be cancelled, the Company's marketing of
+the INCERT product may be materially and adversely affected and the third party
+may enforce patent rights against the Company which could prohibit the sale and
+use of the INCERT products, which could have a material adverse effect on the
+Company's future operating results.
+ 
+ The Company also relies upon trade secrets and proprietary know-how for
+certain unpatented aspects of its technology. To protect such information, the
+Company requires all employees, consultants and licensees to enter into
+confidentiality agreements limiting the disclosure and use of such information.
+There can be no assurance that these agreements provide meaningful protection or
+that they will not be breached, that the Company would have adequate remedies
+for any such breach, or that the Company's trade secrets, proprietary know-how,
+and technological advances will not otherwise become known to others. In
+addition, there can be no assurance that, despite precautions taken by the
+Company, others have not and will not obtain access to the Company's proprietary
+technology. Further, there can be no assurance that third parties will not
+independently develop substantially equivalent or better technology.
+ 
+ Pursuant to the AMVISC supply contract the Company has agreed to grant
+Bausch & Lomb Surgical a royalty-free, worldwide, exclusive license to the
+Company's manufacturing and product inventions which relate to AMVISC products,
+effective on December 31, 2001, the termination date of the AMVISC supply
+contract which became effective on January 1, 1997. Upon expiration of the
+AMVISC supply contract, there can be no assurance that Bausch & Lomb Surgical
+will continue to use the Company to manufacture AMVISC and AMVISC Plus. If
+Bausch & Lomb Surgical discontinues the use of the Company as a manufacturer
+after such time, the Company's business, financial condition and results of
+operations would be materially and adversely affected.
+ 
+ RISKS ASSOCIATED WITH MANUFACTURING. The Company's results of operations
+are dependent upon the continued operation of its manufacturing facility in
+Woburn, Massachusetts. The operation of biomedical manufacturing plants involves
+many risks, including the breakdown, failure or substandard performance of
+equipment, natural and other disasters, and the need to comply with the
+requirements of directives of government agencies, including the FDA. In
+addition, the Company relies on a single supplier for syringes and a small
+number of suppliers for a number of other materials required for the
+manufacturing and delivery of its HA products. Furthermore, manufacturing
+processes and research and development efforts of the Company involve animals
+and products derived from animals. The utilization of animals in research and
+development and product commercialization is subject to increasing focus by
+animal rights activists. The activities of animal rights groups and other
+organizations that have protested animal based research and development programs
+or boycotted the products resulting from such programs could cause an
+interruption in the Company's manufacturing processes and research and
+development efforts. The occurrence of material operational problems, including
+but not limited to the events described above, could have a material adverse
+effect on the Company's business, financial condition and results of operations
+during the period of such operational difficulties.
+ 
+ NO ASSURANCE OF GROWTH OR ABILITY TO MANAGE GROWTH. The Company's future
+success depends on substantial growth in product sales. There can be no
+assurance that such growth can be achieved or, if achieved, can be sustained.
+There can be no assurance that even if substantial growth in product sales and
+the demand for the Company's products is achieved, the Company will be able to
+(i) develop the necessary manufacturing capabilities, (ii) obtain the assistance
+of additional marketing partners, (iii) attract, retain and integrate the
+required key personnel, or (iv) implement the financial, accounting and
+management
+ 
+ 23
+ 
+systems needed to manage growing demand for its products, should it occur.
+Failure of the Company to successfully manage future growth could have a
+material adverse effect on the Company's business, financial condition and
+results of operations.
+ 
+ THIRD PARTY REIMBURSEMENT AND HEALTH CARE COST CONTAINMENT INITIATIVES. In
+the U.S. and other markets, health care providers, such as hospitals and
+physicians, that purchase health care products, such as the Company's products,
+generally rely on third party payors, including Medicare, Medicaid and other
+health insurance and managed care plans, to reimburse all or part of the cost of
+the health care product. Reimbursement by a third party payor may depend on a
+number of factors, including the payor's determination that the use of the
+Company's products are clinically useful and cost-effective, medically necessary
+and not experimental or investigational. Since reimbursement approval is
+required from each payor individually, seeking such approvals can be a time
+consuming and costly process which, in the future, could require the Company or
+its marketing partners to provide supporting scientific, clinical and
+cost-effectiveness data for the use of the Company's products to each payor
+separately. Significant uncertainty exists as to the reimbursement status of
+newly approved health care products, and third party payors are increasingly
+attempting to contain the costs of health care products and services by limiting
+both coverage and the level of reimbursement for new therapeutic products and by
+refusing in some cases to provide coverage for uses of approved products for
+disease indications for which the FDA has not granted marketing approval. In
+addition, Congress and certain state legislatures have considered reforms that
+may affect current reimbursement practices, including controls on health care
+spending through limitations on the growth of Medicare and Medicaid spending.
+There can be no assurance that third party reimbursement coverage will be
+available or adequate for any products or services developed by the Company.
+Outside the U.S., the success of the Company's products is also dependent in
+part upon the availability of reimbursement and health care payment systems.
+Lack of adequate coverage and reimbursement provided by governments and other
+third party payors for the Company' products and services could have a material
+adverse effect on the Company's business, financial condition and results of
+operations.
+ 
+ NEED FOR ADDITIONAL FUNDS; LIQUIDITY. The Company had cash, cash
+equivalents and short-term investments of 22.7 million as of December 31, 1998.
+The Company's future capital requirements and the adequacy of available funds
+will depend, however, on numerous factors, including market acceptance of its
+existing and future products, the successful commercialization of products in
+development, progress in its product development efforts, the magnitude and
+scope of such efforts, progress with preclinical studies, clinical trials and
+product clearances by the FDA and other agencies, the cost and timing of its
+efforts to expand its manufacturing capabilities, the cost of filing,
+prosecuting, defending and enforcing patent claims and other intellectual
+property rights, competing technological and market developments, and the
+development of strategic alliances for the marketing of certain of its products.
+To the extent that funds generated from the Company's operations, together with
+the Company's existing capital resources and are insufficient to meet future
+requirements, the Company will be required to obtain additional funds through
+equity or debt financings, strategic alliances with corporate partners and
+others, or through other sources. The terms of any future equity financings may
+be dilutive to the Company's stockholders and the terms of any debt financings
+may contain restrictive covenants which limit the Company's ability to pursue
+certain courses of action. The ability of the Company to obtain financing is
+dependent on the status of the Company's future business prospects as well as
+conditions prevailing in the relevant capital markets. No assurance can be given
+that any additional financing will be made available to the Company or will be
+available on acceptable terms should such a need arise.
+ 
+ EXPOSURE TO PRODUCT LIABILITY CLAIMS. The testing, marketing and sale of
+human health care products entail an inherent risk of allegations of product
+liability, and there can be no assurance that substantial product liability
+claims will not be asserted against the Company. Although the Company has not
+received any material product liability claims to date and has a 5 million
+insurance policy to cover such claims should they arise, there can be no
+assurance that material claims will not arise in the future or that the
+Company's insurance will be adequate to cover all situations. Moreover, there
+can be no assurance that
+ 
+ 24
+ 
+such insurance, or additional insurance, if required, will be available in the
+future or, if available, will be available on commercially reasonable terms. Any
+product liability claim, if successful, could have a material adverse effect on
+the Company's business, financial condition and results of operations.
+ 
+ DEPENDENCE UPON KEY PERSONNEL. The Company is highly dependent on the
+members of its management and scientific staff, the loss of one or more of whom
+could have a material adverse effect on the Company. In addition, the Company
+believes that its future success will depend in large part upon its ability to
+attract and retain highly skilled, scientific, managerial and manufacturing
+personnel. The Company faces significant competition for such personnel from
+other companies, research and academic institutions, government entities and
+other organizations. There can be no assurance that the Company will be
+successful in hiring or retaining the personnel it requires. The failure to hire
+and retain such personnel could have a material adverse effect on the Company's
+business, financial condition and results of operations.
+ 
+ ENVIRONMENTAL REGULATION. The Company is subject to a variety of local,
+state and federal government regulations relating to the storage, discharge,
+handling, emission, generation, manufacture and disposal of toxic, or other
+hazardous substances used in the manufacture of the Company's products. Any
+failure by the Company to control the use, disposal, removal or storage of
+hazardous chemicals or toxic substances could subject the Company to significant
+liabilities, which could have a material adverse effect on the Company's
+business, financial condition and results of operations.
+ 
+ RISKS RELATING TO INTERNATIONAL OPERATIONS. Approximately 35 of the
+Company's product sales during 1998 were generated in international markets
+through marketing partners. The Company's representatives, agents and
+distributors which sell products in international markets are subject to the
+laws and regulations of the foreign jurisdictions in which they operate and in
+which the Company's products are sold. A number of risks are inherent in
+international sales and operations. For example, the volume of international
+sales may be limited by the imposition of government controls, export license
+requirements, political instability, trade restrictions, changes in tariffs,
+difficulties in managing international operations, import restrictions and
+fluctuations in foreign currency exchange rates. Such changes in the volume of
+sales may have an adverse effect on the Company's business, financial condition
+and results of operations.
+ 
+ POTENTIAL VOLATILITY OF STOCK PRICE; NO CONTROL OVER MARKET MAKING. The
+market price of shares of the Company's Common Stock may be highly volatile.
+Factors such as announcements of new commercial products or technological
+innovations by the Company or its competitors, disclosure of results of clinical
+testing or regulatory proceedings, governmental regulation and approvals,
+developments in patent or other proprietary rights, public concern as to the
+safety of products developed by the Company and general market conditions may
+have a significant effect on the market price of the Company's Common Stock. In
+particular, the Company's stock price declined significantly in October 1998
+following the Company's announcement that the FDA had notified the Company that
+its PMA for ORTHOVISC was not approvable and that additional clinical data would
+be required to demonstrate the effectiveness of ORTHOVISC. To the extent the
+Company experiences any other adverse developments in the process of seeking FDA
+approval for ORTHOVISC, the price of the Common Stock will likely be subject to
+further, and perhaps substantial, declines. The trading price of the Company's
+Common Stock could be subject to wide fluctuations in response to
+quarter-to-quarter variations in the Company's operating results, material
+announcements by the Company or its competitors, governmental regulatory action,
+conditions in the health care industry generally or in the medical products
+industry specifically, or other events or factors, many of which are beyond the
+Company's control. In addition, the stock market has experienced extreme price
+and volume fluctuations which have particularly affected the market prices of
+many medical products companies and which often have been unrelated to the
+operating performance of such companies. The Company's operating results in
+future quarters may be below the expectations of equity research analysts and
+investors. In such event, the price of the Common Stock would likely decline,
+perhaps substantially.
+ 
+ 25
+ 
+ No person is under any obligation to make a market in the Common Stock or
+publish research reports on the Company, and any person making a market in the
+Common Stock or publishing research reports on the Company may discontinue
+market making or publishing such reports at any time without notice. There can
+be no assurance that an active public market in the Common Stock will develop
+or, if developed, will be sustained.
+ 
+ POSSIBLE ADVERSE EFFECT OF CERTAIN ANTI-TAKEOVER PROVISIONS. Certain
+provisions of the Company's Restated Articles of Organization and Amended and
+Restated By-laws could have the effect of discouraging a third party from
+pursuing a non-negotiated takeover of the Company and preventing certain changes
+in control. These provisions include a classified Board of Directors, advance
+notice to the Board of Directors of stockholder proposals, limitations on the
+ability of stockholders to remove directors and to call stockholder meetings,
+the provision that vacancies on the Board of Directors be filled by a majority
+of the remaining directors, the ability of the Board of Directors to issue,
+without further stockholder approval, a Shareholder Rights Plan. The Company
+also is subject to Chapter 110F of the Massachusetts General Laws which, subject
+to certain exceptions, prohibits a Massachusetts corporation from engaging in
+any of a broad range of business combinations with any "interested stockholder"
+for a period of three years following the date that such stockholder became an
+interested stockholder. These provisions could discourage a third party from
+pursuing a takeover of the Company at a price considered attractive by many
+stockholders, since such provisions could have the effect of preventing or
+delaying a potential acquiror from acquiring control of the Company and its
+Board of Directors.
+ 
+ITEM 7A. QUANTITIVE AND QUALITIVE DISCLOSURES ABOUT MARKET RISK.
+ 
+ None.
+ 
+ 26
+ 
+ ANIKA THERAPEUTICS, INC.
+ 
+ BALANCE SHEETS
+
+DECEMBER 31,
+ ----------------------------
+ 
+ 1998 1997
+ ------------- -------------
+ASSETS
+Current assets:
+ Cash and cash equivalents........................................................ 10,712,520 22,679,820
+ Short-term investments........................................................... 12,007,503 --
+ Accounts receivable, net......................................................... 3,032,737 1,918,293
+ Inventories...................................................................... 3,522,019 2,541,552
+ Prepaid expenses................................................................. 250,023 610,364
+ ------------- -------------
+ Total current assets......................................................... 29,524,802 27,750,029
+ ------------- -------------
+Property and equipment............................................................. 6,376,405 4,138,365
+Less: accumulated depreciation..................................................... (3,809,723) (3,325,321)
+ ------------- -------------
+ Net property and equipment..................................................... 2,566,682 813,044
+ ------------- -------------
+Notes receivable from officers..................................................... 193,000 75,000
+Long-term deposits................................................................. 108,500 111,265
+ ------------- -------------
+ Total assets................................................................. 32,392,984 28,749,338
+ ------------- -------------
+ ------------- -------------
+ 
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+ Accounts payable................................................................. 891,493 967,986
+ Accrued expenses................................................................. 1,356,586 1,253,154
+ Deferred revenue................................................................. 200,000 200,000
+ ------------- -------------
+ Total current liabilities.................................................... 2,448,079 2,421,140
+ ------------- -------------
+Advance rent payment............................................................... 50,215 103,912
+ ------------- -------------
+Stockholders' equity:
+ Redeemable convertible preferred stock; .01 par value: authorized 750,000
+ shares; no shares issued and outstanding....................................... -- --
+ Undesignated preferred stock; .01 par value: authorized 1,250,000 shares; no
+ shares issued and outstanding.................................................. -- --
+ Common stock; .01 par value: authorized 30,000,000 shares; issued 9,991,943
+ shares in 1998 and 9,691,091 shares in 1997.................................... 99,919 96,911
+ Additional paid-in capital....................................................... 34,439,676 32,156,504
+ Deferred compensation............................................................ (1,074,699) --
+ Treasury stock (344,500 shares in 1998, at cost)................................. (1,889,794) --
+ Accumulated deficit.............................................................. (1,680,412) (6,029,129)
+ ------------- -------------
+ Total stockholders' equity................................................... 29,894,690 26,224,286
+ ------------- -------------
+ Total liabilities and stockholders' equity................................... 32,392,984 28,749,338
+ ------------- -------------
+ ------------- -------------
+
+See accompanying notes to financial statements.
+ 
+ 27
+ 
+ ANIKA THERAPEUTICS, INC.
+ 
+ STATEMENTS OF OPERATIONS
+
+FOUR
+ MONTH YEAR
+ YEAR ENDED TRANSITIONAL ENDED
+ DECEMBER 31, YEAR ENDED YEAR ENDED AUGUST 31,
+ 1998 DECEMBER 31, 1997 DECEMBER 31, 1996 1996
+ ------------- ----------------- ----------------- -------------
+ 
+Product revenue.............................. 12,369,712 9,255,338 1,212,041 4,612,918
+Licensing fees............................... 1,500,000 2,700,000 -- --
+ ------------- ----------------- ----------------- -------------
+Total revenue................................ 13,869,712 11,955,338 1,212,041 4,612,918
+ Cost of product revenue.................... 6,014,181 4,744,123 1,308,625 4,472,214
+ ------------- ----------------- ----------------- -------------
+ Gross profit (loss)........................ 7,855,531 7,211,215 (96,584) 140,704
+Operating expenses:
+ Research and development................... 1,955,940 1,957,796 1,310,330 1,634,640
+ Selling, general and administrative........ 2,731,142 2,092,467 1,308,583 1,469,257
+ ------------- ----------------- ----------------- -------------
+Total operating expenses..................... 4,687,082 4,050,263 2,618,913 3,103,897
+ ------------- ----------------- ----------------- -------------
+Income (loss) from operations................ 3,168,449 3,160,952 (2,715,497) (2,963,193)
+ Interest income, net....................... 1,307,825 262,162 57,898 114,314
+ ------------- ----------------- ----------------- -------------
+Income (loss) before provision for income
+ taxes...................................... 4,476,274 3,423,114 (2,657,599) (2,848,879)
+ Provision for income taxes................. 127,557 78,677 -- --
+ ------------- ----------------- ----------------- -------------
+Net income (loss)............................ 4,348,717 3,344,437 (2,657,599) (2,848,879)
+ ------------- ----------------- ----------------- -------------
+ ------------- ----------------- ----------------- -------------
+Basic earnings (loss) per share.............. 0.44 0.60 (0.56) (0.76)
+ ------------- ----------------- ----------------- -------------
+Shares used for computing basic earnings
+ (loss) per share........................... 9,885,724 5,436,474 4,905,381 4,052,660
+ ------------- ----------------- ----------------- -------------
+Diluted earnings (loss) per share............ 0.40 0.44 (0.56) (0.76)
+ ------------- ----------------- ----------------- -------------
+Shares used for computing diluted earnings
+ (loss) per share........................... 11,006,276 7,587,393 4,905,381 4,052,660
+ ------------- ----------------- ----------------- -------------
+
+See accompanying notes to financial statements.
+ 
+ 28
+ 
+ ANIKA THERAPEUTICS, INC.
+ 
+ STATEMENTS OF STOCKHOLDERS' EQUITY
+
+ADDITIONAL TOTAL
+ COMMON PAID-IN DEFERRED TREASURY ACCUMULATED STOCKHOLDERS'
+ STOCK AMOUNT CAPITAL COMPENSATION STOCK DEFICIT EQUITY
+ ---------- ----------- ----------- ------------- --------- ------------ ------------
+ 
+Balance, September 1, 1995........ 3,291,475 32,915 7,378,514 -- -- (3,867,088) 3,544,341
+Exercise of common stock
+ options......................... 74,804 748 158,752 -- -- -- 159,500
+Issuance of common stock to 401(k)
+ plan............................ 19,447 194 79,176 -- -- 79,370
+Dividend on redeemable convertible
+ preferred stock................. -- -- (224,605) -- -- -- (224,605)
+Issuance of common stock, net..... 1,455,000 14,550 3,527,035 -- -- 3,541,585
+Unearned stock option
+ compensation.................... -- -- 632,813 (468,750) -- 164,063
+Net loss.......................... -- -- -- (2,848,879) (2,848,879)
+ ---------- ----------- --------- ------------ ------------
+Balance, August 31, 1996.......... 4,840,726 48,407 11,551,685 (468,750) -- (6,715,967) 4,415,375
+ ---------- ----------- ----------- ------------- --------- ------------ ------------
+Exercise of common stock
+ options......................... 83,733 837 193,049 -- -- -- 193,886
+Issuance of common stock to 401(k)
+ plan............................ 6,260 63 27,381 -- -- -- 27,444
+Dividend on redeemable convertible
+ preferred stock................. -- -- (79,045) -- -- -- (79,045)
+Unearned stock option
+ compensation.................... -- -- -- 468,750 -- -- 468,750
+Net loss.......................... -- -- -- -- -- (2,657,599) (2,657,599)
+ ---------- ----------- ----------- ------------- --------- ------------ ------------
+Balance, December 31, 1996........ 4,930,719 49,307 11,693,070 -- -- (9,373,566) 2,368,811
+ ---------- ----------- ----------- ------------- --------- ------------ ------------
+Exercise of common stock
+ options......................... 228,047 2,281 583,394 -- -- -- 585,675
+Sale of common stock, net of
+ issuance costs of 2,043,519.... 2,725,000 27,250 17,004,231 -- -- -- 17,031,481
+Issuance of common stock to 401(k)
+ plan............................ 25,795 258 133,147 -- -- -- 133,405
+Issuance of common stock to Board
+ of Directors.................... 8,000 80 43,670 -- -- -- 43,750
+Conversion of redeemable
+ convertible preferred stock..... 1,773,530 17,735 2,802,027 -- -- -- 2,819,762
+Dividend on redeemable convertible
+ preferred stock................. -- -- (103,035) -- -- -- (103,035)
+Net income........................ -- -- -- -- -- 3,344,437 3,344,437
+ ---------- ----------- ----------- ------------- --------- ------------ ------------
+Balance, December 31, 1997........ 9,691,091 96,911 32,156,504 -- -- (6,029,129) 26,224,286
+ ---------- ----------- ----------- ------------- --------- ------------ ------------
+Exercise of common stock
+ options......................... 112,153 971 368,099 34,024 403,094
+Exercise of common stock
+ warrants........................ 203,700 2,037 666,099 -- -- -- 668,136
+Expenses from sale of common
+ stock, net...................... (107,293) -- -- -- (107,293)
+Unearned stock compensation....... -- -- 1,356,267 (1,074,699) -- 281,568
+Purchase of 359,500 shares of
+ common stock.................... (1,923,818) -- (1,923,818)
+Net income........................ -- -- -- -- 4,348,717 4,348,717
+ ---------- ----------- ----------- ------------- --------- ------------ ------------
+Balance, December 31, 1998........ 9,991,943 99,919 3 4,439,676 (1,074,699) (1,889,794) (1,680,412) 29,894,690
+ ---------- ----------- ----------- ------------- --------- ------------ ------------
+ ---------- ----------- ----------- ------------- --------- ------------ ------------
+
+See accompanying notes to financial statements.
+ 
+ 29
+ 
+ ANIKA THERAPEUTICS, INC.
+ 
+ STATEMENTS OF CASH FLOWS
+
+FOUR-MONTH
+ TRANSITIONAL
+ YEAR YEAR PERIOD YEAR
+ ENDED, ENDED, ENDED, ENDED,
+ DEC. 31 DEC. 31 DEC. 31, AUGUST. 31
+ 1998 1997 1996 1996
+ ----------- ----------- ------------ ----------
+ 
+Cash flows from operating activities:
+ Net income (loss).............................................. 4,348,717 3,344,437 (2,657,599) (2,848,879)
+ Adjustments to reconcile net income (loss) to net cash provided
+ by (used in) operating activities:
+ Depreciation and amortization.............................. 484,402, 279,035 129,827 352,209
+ Impairment of leasehold improvements....................... -- -- 375,924 200,000
+ Amortization of unearned stock compensation................ 281,568 -- 468,750 164,063
+ Provision for doubtful accounts............................ 57,000 -- -- --
+ Common stock issued to 401(k) plan and Board of
+ Directors................................................ -- 177,155 27,444 79,370
+ Other long-term liabilities................................ (53,697) (38,863) (57,225) (520,757)
+ Changes in operating assets and liabilities:
+ Accounts receivable...................................... (1,171,444) (1,379,289) 92,912 (440.940)
+ Inventories.............................................. (980,467) (59,906) 32,634 778,136
+ Prepaid expenses......................................... 360,341 (303,827) 195,672 (183,247)
+ Accounts payable and accrued expenses.................... 26,939 615,592 364,230 786,365
+ ----------- ----------- ------------ ----------
+ Net cash provided by (used in) operating activities.... 3,353,359 2,634,334 (1,027,431) (1,633,680)
+ ----------- ----------- ------------ ----------
+Cash flows from investing activities:
+ Long-term deposits............................................. 2,765 (42,500) (68,765) --
+ Increase in short-term investments, net........................ (12,007,503) -- -- --
+ Purchase of property and equipment............................. (2,238,040) (273,035) (44,048) (413,752)
+ Notes receivable from officers................................. (118,000) (75,000) -- --
+ ----------- ----------- ------------ ----------
+ Net cash used in investing activities.......................... (14,360,778) (390,535) (112,813) (413,752)
+ ----------- ----------- ------------ ----------
+Cash flows from financing activities:
+ Proceeds from sale of common stock, net -- 17,031,481 -- 3,541,585
+ Expenses from issuance of stock................................ (107,293) -- -- (27,293)
+ Payments of long-term debt..................................... -- -- -- (800,000)
+ Proceeds from exercise of preferred stock warrants............. -- 114,200 -- --
+ Purchase of 359,500 shares of common stock..................... (1,923,818) -- --
+ Proceeds from exercise of stock options and warrants........... 1,071,230 585,675 193,886 159,500
+ ----------- ----------- ------------ ----------
+ Net cash (used in) provided by financing activities.... (959,881) 17,731,356 193,886 2,873,792
+ ----------- ----------- ------------ ----------
+ Increase (decrease) in cash and cash equivalents....... (11,967,300) 19,975,155 (946,358) 826,360
+Cash and cash equivalents at beginning of period................. 22,679,820 2,704,665 3,651,023 2,824,663
+ ----------- ----------- ------------ ----------
+Cash and cash equivalents at end of period....................... 10,712,520 22,679,820 2,704,665 3,651,023
+ ----------- ----------- ------------ ----------
+ ----------- ----------- ------------ ----------
+Supplemental disclosure of cash flow information:
+ Cash paid for interest......................................... -- 2,771 42,222
+Supplemental disclosure of non cash items:
+ Repayment of debt through future deferred sublease payments.... -- -- -- 200,000
+ Conversion of redeemable convertible preferred stock........... -- 2,819,762 -- --
+ Dividend on redeemable convertible preferred stock............. -- 103,035 79,045 224,605
+
+See accompanying notes to financial statements.
+ 
+ 30
+ 
+ ANIKA THERAPEUTICS, INC.
+ 
+ NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+ 
+1. NATURE OF BUSINESS (CONTINUED)
+ 
+ Anika Therapeutics, Inc. ("Anika" or the "Company") develops, manufactures
+and commercializes therapeutic products and devices intended to promote the
+protection and healing of bone, cartilage and soft tissue. These products are
+based on hyaluronic acid ("HA"), a naturally-occurring, biocompatible polymer
+found throughout the body. Due to its unique biophysical and biochemical
+properties, HA plays an important role in a number of physiological functions
+such as the protection and lubrication of soft tissues and joints, the
+maintenance of the structural integrity of tissues, and the transport of
+molecules to and within cells. The Company's currently marketed products consist
+of ORTHOVISC-Registered Trademark-, which is an HA product used in the treatment
+of some forms of osteoarthritis ("OA") in humans and
+HYVISC-Registered Trademark-, which is an HA product used in the treatment of
+equine osteoarthritis. ORTHOVISC is currently approved for sale and marketed in
+Canada, Europe, Turkey, Israel and Iceland; in the U.S. ORTHOVISC is currently
+limited to investigational use only. The Company manufactures
+AMVISC-Registered Trademark- and AMVISC-Registered Trademark- Plus, which are HA
+products used as viscoelastic supplements in ophthalmic surgery, for Bausch &
+Lomb Surgical, a subsidiary of Bausch & Lomb. The Company is currently
+developing INCERT-Registered Trademark-, which is an HA based product designed
+for use in the prevention of post-surgical adhesions. In collaboration with
+Orquest, Inc., Anika also has exclusive rights to produce Ossigel(TM); an
+injectable formulation of basic fibroblast growth factor combined with HA
+designed to accelerate the healing of bone fractures.
+ 
+ Commencing on December 31, 1996, the Company changed its fiscal year end
+from August 31 to December 31.
+ 
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+ 
+USE OF ESTIMATES
+ 
+ The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+ 
+CASH AND CASH EQUIVALENTS
+ 
+ Cash and cash equivalents consists of cash and investments with original
+maturities of three months or less.
+ 
+SHORT-TERM INVESTMENTS
+ 
+ The Company follows the provisions of Statement of Financial Accounting
+Standards ("SFAS") No. 115, ACCOUNTING FOR CERTAIN INVESTMENTS IN DEBT AND
+EQUITY SECURITIES.
+ 
+ Short-term investments consist of debt securities with original maturities
+between three and twelve months. The Company classifies these short-term
+investments as held to maturity, and accordingly they are
+ 
+ 31
+ 
+ ANIKA THERAPEUTICS, INC.
+ 
+ NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+ 
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+carried at amortized costs. Aggregate fair value, amortized cost and average
+maturity for marketable securities held at December 31, 1998 is as follows:
+
+GROSS
+ AMORTIZED UNREALIZED
+ COST HOLDING LOSS FAIR VALUE
+ ------------- --------------- -------------
+ 
+Commercial Paper (average maturity of 2.57 12,007,503
+ months)........................................ (6,593) 12,000,910
+ ------------- ------ -------------
+ ------------- ------ -------------
+
+During 1998, the Company sold securities classified as held for maturity
+with an amortized cost aggregating 28,250,000. Total proceeds from these sales
+were 28,250,000 with total interest and realized gain of 425,429.
+ 
+FINANCIAL INSTRUMENTS
+ 
+ Statement of Financial Accounting Standards (SFAS) No. 107, DISCLOSURES
+ABOUT FAIR VALUE OF FINANCIAL INSTRUMENTS, requires disclosure about fair value
+of financial instruments. Financial instruments consist of cash equivalents,
+short-term investments, accounts receivable, notes receivable from officers and
+accounts payable. The estimated fair value of these financial instruments
+approximates their carrying value, and in the case of cash equivalents and
+short-term investments, is based on market quotes. The Company's cash
+equivalents and short-term investments are generally obligations of the federal
+government or investment-grade corporate issuers. The Company, by policy, limits
+the amount of credit exposure to any one financial institution.
+ 
+INVENTORIES
+ 
+ Inventories are stated at the lower of cost or market, with cost being
+determined using the first-in, first-out (FIFO) method.
+ 
+REVENUE RECOGNITION
+ 
+ Product revenue is recognized upon shipment of commercial product and
+represents sales of AMVISC products, HYVISC and ORTHOVISC. ORTHOVISC is sold
+under a supply contract with Zimmer Corporation (Zimmer) for Zimmer's
+distribution in Canada and Europe. ORTHOVISC product revenue recognized upon
+shipment to Zimmer is based upon an estimate of the per unit sales price
+obtained by Zimmer and is subject to adjustment based on Zimmer's actual selling
+price.
+ 
+ License fee revenue is recognized when the related milestone has been
+achieved and payment has been received as long as the license fee is
+non-refundable. Revenue related to license fees that are subject to refund are
+recognized as the refund provisions lapse.
+ 
+ Advanced payments received for products are recorded as deferred revenue and
+are recognized when the product is shipped.
+ 
+ 32
+ 
+ ANIKA THERAPEUTICS, INC.
+ 
+ NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+ 
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+PROPERTY AND EQUIPMENT
+ 
+ Property and equipment is stated at cost and depreciated using the
+straight-line method over the estimated useful lives of the respective assets,
+as follows:
+
+5-10
+Machinery and equipment.......................................... years
+Furniture and fixtures........................................... 3-5 years
+ 4-10
+Leasehold improvements........................................... years
+
+Amortization on leasehold improvements is calculated using the straight-line
+method over the shorter of the lease term or estimated life of the asset.
+ 
+IMPAIRMENT OF LONG-LIVED ASSETS AND FOR LONG-LIVED ASSETS TO BE DISPOSED OF
+ 
+ The Company follows the provisions of SFAS No. 121, ACCOUNTING FOR THE
+IMPAIRMENT OF LONG-LIVED ASSETS AND FOR LONG-LIVED ASSETS TO BE DISPOSED OF
+(SFAS 121). This statement requires that long-lived assets and certain
+identifiable intangibles be reviewed for impairment whenever events or changes
+in circumstances indicate the carrying amount of an asset may not be
+recoverable.
+ 
+ During the years ended December 31, 1998 and 1997, the Company did not
+record losses on impairment. During the four-month transitional period ended
+December 31, 1996, the Company recorded losses on impairment for certain
+leasehold improvements of approximately 376,000. The losses resulted from
+relocating the corporate offices and the Company's unsuccessful attempts to
+obtain sublease income sufficient to recover the amortization of the
+improvements.
+ 
+RESEARCH AND DEVELOPMENT
+ 
+ Research and Development costs are expensed as incurred.
+ 
+EARNINGS (LOSS) PER SHARE
+ 
+ The Company has adopted SFAS No. 128, EARNINGS PER SHARE, which establishes
+standards for computing and presenting earnings (loss) per share, simplifying
+previous standards and making them comparable to international earnings per
+share standards.
+ 
+ Basic earnings per share is computed by dividing net income (loss) by the
+weighted average number of common shares outstanding during the period. Diluted
+earnings per share is computed by dividing net income (loss) by the weighted
+average number of common shares and dilutive potential common shares outstanding
+during the period. Under the treasury stock method, the unexercised options are
+assumed to be exercised at the beginning of the period or at issuance, if later.
+The assumed proceeds are then used to purchase common shares at the average
+market price during the period.
+ 
+ Potential common shares for which inclusion would have the effect of
+increasing diluted earnings per share (i.e. antidilutive) are excluded from the
+computation. Anti-dilutive potential common shares outstanding at December 31,
+1998, 1997 and 1996 and August 31, 1996 were approximately 1,120,552, 2,150,869,
+2,203,871 and 2,086,467 respectively.
+ 
+ For the four-month transitional period ended December 31, 1996 and the
+fiscal year ended August 31, 1996 the number of shares used to compute both
+basic and diluted earning per share were the same due to the fact that the
+Company incurred a net loss in both periods.
+ 
+ 33
+ 
+ ANIKA THERAPEUTICS, INC.
+ 
+ NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+ 
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+ The following illustrates a reconciliation of the number of shares used in
+the calculation of basic and diluted earnings (loss) per share for the years
+ended December 31, 1998 and 1997 the four-month transitional period ended Dec.
+31, 1996 and the fiscal year ended Aug. 31, 1996:
+
+YEARS ENDED DECEMBER 31,
+ --------------------------
+ 
+ FOUR-MONTH
+ TRANSITIONAL
+ PERIOD YEAR ENDED
+ ENDED DEC. 31, AUGUST 31,
+ 1998 1997 1996 1996
+ ------------ ------------ ------------------ --------------
+Net income (loss).......................... 4,348,717 3,344,437 (2,657,599) (2,848,879)
+Less: Redeemable convertible preferred
+ stock dividend........................... -- (103,035) (79,045) (224,605)
+ ------------ ------------ ------------------ --------------
+Net income (loss) available to common
+ shareholders............................. 4,348,717 3,241,402 (2,736,644) (3,073,484)
+ ------------ ------------ ------------------ --------------
+ ------------ ------------ ------------------ --------------
+Basic weighted average common shares
+ outstanding.............................. 9,885,724 5,436,474 4,905,381 4,052,660
+Dilutive effect of assumed exercise of
+ stock options and warrants............... 1,120,552 952,432 -- --
+Dilutive effect of assumed conversion of
+ preferred stock.......................... -- 1,198,437 -- --
+ ------------ ------------ ------------------ --------------
+Weighted average common shares outstanding
+ assuming conversion...................... 11,006,276 7,587,393 4,905,381 4,052,660
+ ------------ ------------ ------------------ --------------
+ ------------ ------------ ------------------ --------------
+Basic net income (loss) per share.......... 0.44 0.60 (0.56 (0.76 ------------ ------------
+ ------------ ------------
+Diluted net income (loss) per share........ 0.40 0.44 (0.56 (0.76 ------------ ------------
+ ------------ ------------
+
+INCOME TAXES
+ 
+ The Company provides for income taxes in accordance with SFAS No. 109,
+ACCOUNTING FOR INCOME TAXES. SFAS No. 109 requires the recognition of deferred
+tax assets and liabilities for the expected future tax consequences of temporary
+differences between the financial reporting and tax bases of assets and
+liabilities.
+ 
+STOCK-BASED COMPENSATION
+ 
+ The Company has adopted SFAS No. 123, ACCOUNTING FOR STOCK-BASED
+COMPENSATION, which permits entities to recognize as expense over the vesting
+period the fair value of all stock-based awards on the date of grant.
+Alternatively, SFAS 123 also allows entities to continue to apply the provisions
+of APB Opinion No. 25 and provide pro forma net earnings (loss) disclosures for
+employee stock option grants as if the fair-value-based method defined in SFAS
+123 had been applied. The Company has elected to continue to apply the
+provisions of APB Opinion No. 25 for employee grants and provide the pro forma
+disclosure of SFAS 123 (see Note 9).
+ 
+CONCENTRATION OF CREDIT RISK
+ 
+ SFAS No. 105, DISCLOSURE OF INFORMATION ABOUT FINANCIAL INSTRUMENTS WITH
+OFF-BALANCE-SHEET-RISK AND FINANCIAL INSTRUMENTS WITH CONCENTRATIONS OF CREDIT
+RISK, requires disclosure of any significant off-balance-
+ 
+ 34
+ 
+ ANIKA THERAPEUTICS, INC.
+ 
+ NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+ 
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+sheet and credit risk concentrations. The Company has no significant
+off-balance-sheet concentration of credit risk such as foreign exchange
+contracts, option contracts or other foreign hedging arrangements.
+ 
+ Sales of AMVISC Products to Bausch & Lomb Surgical accounted for 65 , 84 ,
+94 and 89 of product revenue for the years ended December 31, 1998 and 1997,
+the four-month transitional period ended December 31, 1996 and the year ended
+August 31, 1996, respectively. ORTHOVISC sales to another customer accounted for
+18 and 15 of product revenue for the years ended December 31, 1998 and 1997,
+respectively. Additionally, as of December 31, 1998, two customers represented
+86 of the Company's accounts receivable balance with one international customer
+representing 14 of the Company's accounts receivable balance.
+ 
+REPORTING COMPREHENSIVE INCOME
+ 
+ The Company adopted SFAS No. 130, REPORTING COMPREHENSIVE INCOME, effective
+January 1, 1998. SFAS No. 130 establishes standards for reporting and display of
+comprehensive income and its components in the financial statements.
+Comprehensive income is the total of net income and all other nonowner changes
+in equity including such items as unrealized holding gains/losses on securities,
+foreign currency translation adjustments and minimum pension liability
+adjustments. The Company had no such items for the years ended December 31, 1998
+and 1997.
+ 
+SEGMENT AND ENTERPRISE-WIDE REPORTING
+ 
+ In 1997, the FASB issued SFAS 131, DISCLOSURES ABOUT SEGMENTS OF AN
+ENTERPRISE AND RELATED INFORMATION. SFAS No. 131 requires certain financial and
+supplementary information to be disclosed on an annual and interim basis for
+each reportable operating segment of an enterprise, as defined. Based on the
+criteria set forth in SFAS No. 131, the Company currently operates in one
+operating segment, therapeutic products and devices.
+ 
+ SFAS No. 131 also requires that certain enterprise-wide disclosures be made
+related to products and services, geographic areas and major customers. The
+Company derives substantially all of its operating revenue from the sale and
+support of one group of similar products and services. Primarily all of the
+Company's assets are located within the United States. During the year ended
+December 31,1998 and 1997, the four-month transitional period ended December 31,
+1996, and the fiscal year ended August 31, 1996, the Company derived its revenue
+from the following geographic locations (as a percentage of total revenue):
+
+FOUR MONTH
+ TRANSITIONAL YEAR ENDED
+ YEAR ENDED YEAR ENDED PERIOD ENDED AUGUST 31,
+COUNTRY: DEC 31, 1998 DEC 31, 1997 DECEMBER 31, 1996 1996
+- ------------------------------ ------------ ------------ ----------------- --------------
+ 
+United States................. 82.3 88.7 99.5 96.9 
+Eastern Europe................ 16.2 11.2 -- -- 
+Other......................... 1.5 .1 .5 3.1 
+ ------------ ------------ ------- -------
+ Total..................... 100.0 100.0 100.0 100.0 
+ ------------ ------------ ------- -------
+ ------------ ------------ ------- -------
+
+35
+ 
+ ANIKA THERAPEUTICS, INC.
+ 
+ NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+ 
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+NEW ACCOUNTING PRONOUNCEMENT
+ 
+ In June 1998, the Financial Accounting Standards Board (the FASB) issued
+SFAS No. 133, ACCOUNTING FOR DERIVATIVE INSTRUMENTS AND HEDGING ACTIVITIES. This
+statement requires companies to record derivatives on the balance sheet as
+assets or liabilities, measured at fair value. Gains or losses resulting from
+changes in the values of those derivatives would be accounted for depending on
+the use of the derivative and whether it qualifies for hedge accounting. SFAS
+No. 133 will be effective for the Company's fiscal year ending December 31,
+1999. Management believes that this statement will not have a significant impact
+on the Company.
+ 
+3. ALLOWANCE FOR DOUBTFUL ACCOUNTS (CONTINUED)
+ 
+ A summary of the allowance for doubtful account activity is as follows:
+
+DECEMBER 31,
+ 1998
+ ------------
+ 
+Balance, beginning of the year.................................................. --
+Amounts provided................................................................ 57,000
+Amounts written off............................................................. --
+ ------------
+Balance at the end of the year.................................................. 57,000
+ ------------
+ ------------
+
+The company did not have an allowance for doubtful accounts in 1997 or 1996.
+ 
+4. INVENTORIES (CONTINUED)
+ 
+ Inventories consist of the following:
+
+DECEMBER 31,
+ --------------------------
+ 
+ 1998 1997
+ ------------ ------------
+Raw materials..................................................... 432,255 442,364
+Work in-process................................................... 3,013,930 2,098,736
+Finished goods.................................................... 75,834 452
+ ------------ ------------
+ Total......................................................... 3,522,019 2,541,552
+ ------------ ------------
+ ------------ ------------
+
+5. PROPERTY & EQUIPMENT (CONTINUED)
+ 
+ Property and equipment is stated at cost and consists of the following:
+
+DECEMBER 31,
+ --------------------------
+ 
+ 1998 1997
+ ------------ ------------
+Machinery and equipment........................................... 4,145,013 2,353,761
+Leasehold improvements............................................ 1,666,771 1,495,923
+Furniture and fixtures............................................ 564,621 288,681
+ ------------ ------------
+ Total......................................................... 6,376,405 4,138,365
+ ------------ ------------
+ ------------ ------------
+
+36
+ 
+ ANIKA THERAPEUTICS, INC.
+ 
+ NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+ 
+6. NOTES RECEIVABLE FROM OFFICERS (CONTINUED)
+ 
+ Notes receivable from officers consists of loans made to two officers. The
+loan amounts are due at the earlier of the end of five years from the date of
+the note or at the termination of the officers' employment. Interest accrues at
+annual rates between 4.42 to 6.0 and is payable monthly over the term of the
+loans.
+ 
+7. ACCRUED EXPENSES (CONTINUED)
+ 
+ Accrued expenses consists of the following:
+
+DECEMBER 31,
+ --------------------------
+ 
+ 1998 1997
+ ------------ ------------
+Accrued compensation.............................................. 560,270 612,176
+Federal taxes..................................................... 130,324 78,679
+Other accrued expenses............................................ 665,992 562,299
+ ------------ ------------
+ Total......................................................... 1,356,586 1,253,154
+ ------------ ------------
+ ------------ ------------
+
+8. LEASE OBLIGATIONS (CONTINUED)
+ 
+ The Company leases three facilities with one lease expiring in October 2001,
+another in January 2004 and the third lease in February 2004. As of December 31,
+1998, one facility is being partially sublet. These leases are accounted for as
+operating leases in the accompanying statements of operations. Net rental
+payments in connection with the leases, totaled 376,900 and 352,922 for the
+years ended December 31, 1998 and 1997, respectively, 115,074 for the
+four-month transitional period ended December 31, 1996, and 369,928 for the
+fiscal year ended August 31, 1996. Future minimum lease payments under the
+operating leases, net of sublease income for the years ending December 31 are as
+follows:
+
+NET
+ PAYMENTS
+ ------------
+ 
+1999............................................................................ 451,674
+2000............................................................................ 475,058
+2001............................................................................ 494,590
+2002............................................................................ 470,460
+2003............................................................................ 492,064
+ ------------
+ Total....................................................................... 2,383,846
+ ------------
+ ------------
+
+9. STOCK OPTION PLAN (CONTINUED)
+ 
+ The Company has reserved 3,000,000 shares of Common Stock for the grant of
+stock options to employees, directors, consultants and advisors under the Anika
+Therapeutics, Inc. Stock Option Plan (the "Plan"). In addition, the Company also
+established the Directors Stock Option Plan (the "Director's Plan") and reserved
+40,000 shares of the Company's common stock for issuance to the Board of
+Directors. On October 28, 1997, the Company amended the Plan to reserve an
+additional 1,000,000 shares of common stock. Additionally, on October 28, 1997
+the Board of Directors granted to certain executive officers and employees of
+the Company options to acquire 269,000 shares of common stock at an exercise
+price of 7.625 per share, vesting over a four-year period. Such grants received
+stockholder approval upon the amendment to the Plan on June 3,1998. When the
+amendment was approved by the shareholders, the
+ 
+ 37
+ 
+ ANIKA THERAPEUTICS, INC.
+ 
+ NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+ 
+9. STOCK OPTION PLAN (CONTINUED)
+Company was required to record compensation expense with respect to the 269,000
+options granted equal in an amount to the difference between the exercise price
+and the fair market value of the common stock at the time of such approval. The
+Company recorded deferred compensation of 1,490,061 and during 1998, 415,362
+was amortized to expense during 1998. The unamortized deferred compensation of
+ 1,074,699 at December 31, 1998 will be amortized on a straight-line basis over
+the options' remaining period.
+ 
+Combined stock option activity for both Plans is summarized as follows:
+
+WEIGHTED AVG EXERCISE
+ SHARES PRICE PER SHARE
+ ---------- -----------------------
+ 
+Outstanding at September 1, 1995........................... 1,346,072 2.55
+ Granted.................................................. 302,750 1.69
+ Canceled................................................. (146,391) 2.83
+ Exercised................................................ (74,804) 2.13
+ ---------- -----
+Outstanding at August 31, 1996............................. 1,427,627 2.36
+ Granted.................................................. 435,500 4.91
+ Canceled................................................. -- --
+ Exercised................................................ (83,732) 2.35
+ ---------- -----
+Outstanding at December 31, 1996........................... 1,779,395 2.99
+ ---------- -----
+ Granted.................................................. 309,500 7.40
+ Canceled................................................. (14,333) 2.42
+ Exercised................................................ (228,047) 2.54
+ ---------- -----
+Outstanding at December 31, 1997........................... 1,846,515 3.77
+ ---------- -----
+ Granted.................................................. 508,500 5.82
+ Canceled................................................. (68,958) 8.49
+ Exercised................................................ (112,153) 3.62
+ ---------- -----
+Outstanding at December 31, 1998........................... 2,173,904 4.02
+ ---------- -----
+ ---------- -----
+ Exercisable at December 31, 1998......................... 1,339,236 3.04
+
+Generally, options vest in varying installments up to four years after the
+date of grant and have an expiration date no later than ten years after the date
+of grant. The price range of options exercisable as of December 31, 1998,
+December 31, 1997 and December 31, 1996 was from 0.50 to 8.125, 1.383 to
+ 5.25 and 1.067 to 2.625.
+ 
+ 38
+ 
+ ANIKA THERAPEUTICS, INC.
+ 
+ NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+ 
+9. STOCK OPTION PLAN (CONTINUED)
+ 
+ The following table summarizes significant ranges of outstanding options
+under both Plans at December 31, 1998:
+
+WEIGHTED
+ AVERAGE WEIGHTED WEIGHTED
+ RANGES OF REMAINING AVERAGE AVERAGE
+ EXERCISE NUMBER CONTRACTUAL EXERCISE NUMBER EXERCISE
+ PRICE OUTSTANDING LIFE PRICE EXERCISABLE PRICE
+- ------------- ----------- --------------- ----------- ----------- -----------
+
+OPTIONS OUTSTANDING OPTIONS EXERCISABLE
+ ---------------------------- ------------------------
+ 0.50- 1.39... 173,678 6.92 0.52 173,678 .52
+ 1.40- 2.86... 712,642 4.91 2.50 712,642 2.50
+ 2.87- 4.25... 211,100 6.95 3.58 171,933 3.49
+ 4.26- 6.00... 828,609 8.58 5.08 209,108 5.03
+ 6.01- 8.13 247,875 8.84 7.63 71,875 7.63
+
+During 1996, options for 302,750 shares of its .01 par value common stock
+were granted by the Company. The Company recorded deferred compensation of
+ 632,813 on options for 168,750 shares to account for the difference between the
+market value of the stock at the time of grant and exercise price of the
+options.
+ 
+ In October 1995, the FASB issued SFAS No. 123, ACCOUNTING FOR STOCK BASED
+COMPENSATION, which requires measurement of the fair value of stock-based
+compensation to be included in the statement of operations or disclosed in the
+notes to the financial statements. The Company has determined that it will
+continue to account for stock-based compensation for employees under Accounting
+Principles Board ("APB") Opinion No. 25 and elect the disclosure-only
+alternative under SFAS No. 123 for stock-based compensation awarded in 1997 and
+1998 using the Black-Scholes option pricing model prescribed by SFAS No. 123.
+The underlying assumptions used are as follows:
+
+FOUR-MONTH
+ TRANSITIONAL
+ PERIOD ENDED YEAR ENDED
+ DECEMBER 31, DECEMBER 31, AUGUST 31,
+ -------------------- --------------- -------------
+ 1998 1997 1996 1996
+ --------- --------- --------------- -------------
+ 
+Risk-free interest rate................................................ 5.45 6.0 6.0 6.0 
+Expected dividend yield................................................ -- -- -- --
+Expected lives......................................................... 6 6 6 6
+Expected volatility.................................................... 50.0 54.8 57.8 57.9 
+Weighted average value of grants....................................... 4.071 7.40 4.91 1.69
+
+39
+ 
+ ANIKA THERAPEUTICS, INC.
+ 
+ NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+ 
+9. STOCK OPTION PLAN (CONTINUED)
+ SFAS No. 123, pro forma net income (loss) and net income (loss) per share
+would have been as follows:
+
+FOUR-MONTH
+ TRANSITIONAL
+ YEARS ENDED PERIOD ENDED YEAR ENDED
+ DECEMBER 31, DECEMBER 31, AUGUST 31,
+ -------------------------- ------------- -------------
+ 1998 1997 1996 1996
+ ------------ ------------ ------------- -------------
+ 
+Net income--
+ As reported........................................... 4,348,717 3,344,437 (2,657,599) (2,848,879)
+ Pro forma............................................. 3,701,831 2,644,895 (2,765,290) (3,162,717)
+Net income (loss) per share, as reported--
+ Basic................................................. 0.44 0.60 (0.56) (0.76)
+ Diluted............................................... 0.40 0.44 (0.56) (0.76)
+Net income (loss) per share, pro forma--
+ Basic................................................. .37 0.48 (0.58) (0.84)
+ Diluted............................................... .34 0.35 (0.58) (0.84)
+
+Because the method prescribed by SFAS No. 123 has not been applied to
+options granted prior to September 1, 1995, the resulting pro forma compensation
+cost may not be representative of that expected in future years.
+ 
+10. REDEEMABLE CONVERTIBLE PREFERRED STOCK (CONTINUED)
+ 
+ On May 17, 1995, the Company issued 120,970 shares of Series A Redeemable
+Convertible Preferred Stock ("Series A stock") at a selling price of 20.00 per
+share for a total consideration of 2,235,642, net of offering costs. On
+December 1, 1997, the Company completed a secondary offering of 2,725,000 shares
+of common stock. In connection with the completion of the offering, the Company
+converted the entire amount of Series A stock, including accrued dividends
+(130,576 shares) to 1,305,760 shares of common stock. In addition, the Company
+also converted all warrants (46,777) issued in connection with the Series A
+stock to 467,770 shares of common stock.
+ 
+ Each share of the Series A stock was entitled to receive an annual dividend
+on May 1 of each year, at a rate of 1.80 per share, payable in additional
+shares of Series A stock, with the number of dividend shares determined by the
+price of the Company's underlying common stock. The Company had the right to
+elect to pay the dividend in cash if certain financial covenants were met.
+During each consecutive ninety-day period in which the average quarterly price
+of the Company's common stock remained above 6.00 per share, no dividend
+accrued. As of June 5, 1997, the Company ceased accruing dividends. For the
+period May 1, 1996 to April 30, 1997 the Company issued 3,952 additional shares
+of Series A stock to preferred shareholders as a dividend payment. For the
+period May 17, 1995 through April 30, 1996, the Company issued 5,289 additional
+shares of Series A stock to the preferred shareholders as dividend payments. The
+total recorded values of the dividend payments were 227,266 and 208,227,
+respectively. For the year ended December 31, 1997, the four-month transitional
+period ended December 31, 1996 and the fiscal year ended August 31, 1996,
+accrued dividends payable were 0, 158,737 and 79,693, respectively.
+ 
+ 40
+ 
+ ANIKA THERAPEUTICS, INC.
+ 
+ NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+ 
+11. COMMON STOCK (CONTINUED)
+ 
+ In March 1996 the Company completed a financing involving the private
+placement of 1,455,000 shares of newly issued common stock to institutional and
+accredited investors. Total gross proceeds were 3,986,700 and net proceeds to
+the Company after fees and expenses were 3,541,585. In addition, the Company
+granted certain registration rights and filed a registration statement with the
+Securities and Exchange Commission that was declared effective by the Securities
+and Exchange Commission on May 23, 1996. The proceeds from the private placement
+were used to repay a 1,000,000 debt obligation and for general working capital
+purposes.
+ 
+ On December 1, 1997 the Company completed a secondary offering of common
+stock. In connection with the offering the Company issued 2,725,000 shares of
+common stock and received total gross proceeds of 19,075,000, and net proceeds
+of 17,031,481. The Company intends to use the net proceeds of this offering for
+expansion of its manufacturing facilities, to fund the Company's product
+research and development efforts, including clinical trials, and for working
+capital and other general corporate purposes. The Company may also use a portion
+of the net proceeds of this offering to acquire or invest in new products or
+technologies or to acquire other businesses.
+ 
+12. WARRANTS (CONTINUED)
+ 
+ In connection with the private placement of newly issued common stock in
+March, 1996, the Company issued warrants to Leerink, Swann, Garrity, Sollami,
+Yaffe and Wynn, Inc. ("Leerink Swann & Company"), for 146,664 shares of common
+stock exercisable at 3.00 per share and warrants for 57,036 shares of common
+stock exercisable at 4.00 per share. On January 8, 1998, the notice for
+mandatory exercise of the warrants by the Company was sent in accordance with
+the warrant provisions and all warrants were converted into common stock
+resulting in net proceeds to the Company of 668,136.
+ 
+13. STOCK REPURCHASE PLAN (CONTINUED)
+ 
+ In October 1998, the Board of Directors approved a stock repurchase plan
+under which the Company is authorized to purchase up to 4,000,000 of the
+Company's common stock, with the total number of shares purchased not to exceed
+9.9 of the total number of shares issued and outstanding. Under the plan,
+shares may be repurchased from time to time and in such amounts as market
+conditions warrant and subject to regulatory considerations. As of December 31,
+1998, the Company had repurchased a total of 359,500 shares at a net cost of
+ 1,923,543. Through March 25, 1999, the Company had purchased an additional
+326,100 shares at an additional cost of approximately 1,579,000.
+ 
+14. EMPLOYEE BENEFIT PLAN (CONTINUED)
+ 
+ Full-time employees are eligible to participate in the Company's 401(k)
+savings plan. Employees may elect to contribute a percentage of their
+compensation to the plan, and the Company will make matching contributions up to
+a limit of 5 of an employee's compensation. In addition, the Company can make
+annual discretionary contributions. For the year ended December 31, 1998 the
+Company's matching contribution was in the form of cash and the total expense
+was 130,644. For the years ended December 31, 1997, the four-month transitional
+period ended December 31, 1996 and the fiscal year ended August 31, 1996, the
+Company's matching contributions and any discretionary contributions to the plan
+were in the form of the Company's common stock. The Company's total 401(k)
+savings plan expense for each respective period listed above was 133,405,
+ 27,444, and 79,370, respectively.
+ 
+ 41
+ 
+ ANIKA THERAPEUTICS, INC.
+ 
+ NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+ 
+15. LICENSING AND DISTRIBUTION AGREEMENT (CONTINUED)
+ 
+ In November 1997, the Company entered into a long-term distribution
+agreement with Zimmer, Inc., a subsidiary of Bristol-Myers Squibb Company, that
+was subsequently amended in June 1998, (the "Zimmer Distribution Contract"). The
+Zimmer Distribution Contract provides Zimmer with exclusive marketing and
+distribution rights to ORTHOVISC in the United States, Canada, Asia and most of
+Europe. To date, the Company has received up-front non-refundable licensing
+payments from Zimmer totaling 4.0 million. In addition, under the Zimmer
+Distribution Contract the Company has the potential to receive payments
+aggregating up to 20.5 million upon the achievement of certain regulatory
+approvals and enumerated sales milestones. As an alternative to a 2.5 million
+milestone payment, Zimmer has the right to elect to acquire shares of the
+Company's Common Stock equal to the greater of 2.5 million or 9.9 of the then
+outstanding Common Stock (but not to exceed 19.9 of the then outstanding common
+stock) at a premium to the then current market price. There can be no assurance
+that any of such milestones will be met on a timely basis or at all. The Zimmer
+Distribution Contract provides that the amount Zimmer will pay to the Company
+for ORTHOVISC will be based on a fixed percentage of Zimmer's actual selling
+price, subject to a floor. Additionally, the Zimmer Distribution Contract
+contains certain annual minimum purchase requirements that Zimmer must order.
+ 
+16. INCOME TAXES (CONTINUED)
+ 
+ The Company records a deferred tax asset or liability based on the
+difference between the financial statement and tax bases of assets and
+liabilities, as measured by the enacted tax rates assumed to be in effect when
+these differences reverse.
+ 
+ As of December 31, 1998, the Company has available net operating loss
+carryforwards for federal tax purposes of approximately 1,450,000 and research
+and development credit carryforwards of approximately 276,000 to reduce future
+income taxes, if any. In addition, the Company has net operating loss
+carryforwards for state tax purposes of approximately 1,055,000. These
+carryforwards expire at various dates through 2008, and are subject to review
+and possible adjustment by the Internal Revenue Service.
+ 
+ The Internal Revenue Code (IRC) contains provisions that may limit the
+amount of net operating loss and credit carryforwards that the Company may
+utilize in any one year in the event of certain cumulative changes in ownership
+over a three-year period. In the event that the Company has had a change of
+ownership, as defined in IRC Section 382, utilization of the carryforwards may
+be restricted.
+ 
+ 42
+ 
+ ANIKA THERAPEUTICS, INC.
+ 
+ NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+ 
+16. INCOME TAXES (CONTINUED)
+ The approximate income tax effect of each type of temporary difference and
+carryforward is as follows:
+
+YEAR
+ ENDED
+ DECEMBER 31,
+ --------------------------
+ 
+ 1998 1997
+ ------------ ------------
+Deferred tax assets (liabilities):
+ Depreciation.................................................... 312,754 358,566
+ Accrued expenses and other...................................... (17,585) 87,755
+ Inventory loss reserve.......................................... 60,429 --
+ Nonqualified stock option amortization.......................... 113,387 217,081
+ Uniform capitalization.......................................... -- 59,743
+ Net operating loss carryforwards................................ 583,915 2,001,952
+ Credit carryforward............................................. 275,901 219,194
+ ------------ ------------
+Gross deferred tax assets......................................... 1,328,801 2,944,291
+ Less: valuation allowance....................................... (1,328,801) (2,944,291)
+ ------------ ------------
+Net deferred tax asset............................................ -- --
+ ------------ ------------
+ ------------ ------------
+
+The valuation allowance for deferred tax assets was 1,328,801 at December
+31, 1998, a decrease of 1,615,490 over the balance of 2,944,291 at December
+31, 1997. The valuation allowance for deferred tax assets was 2,944,291 at
+December 31, 1997, a decrease of 1,530,325 over the balance of 4,474,616 at
+December 31, 1996. The valuation allowance for deferred tax assets was
+ 4,474,616 at December 31, 1996, an increase of 1,301,957 over the balance of
+ 3,172,659 at August 31, 1996.
+ 
+ Due to the uncertainty surrounding the timing of realization of the benefits
+of its favorable tax attributes in future tax returns, the Company has placed a
+full valuation allowance against its net deferred tax asset. However,
+approximately 113,000 of the valuation allowance relates to the excess tax
+benefit of disqualifying dispositions and the exercise of non-qualified stock
+options. If the valuation allowance is reduced in the future periods, this
+benefit will be recorded in additional paid in capital at that time.
+ 
+ Income tax expense was 127,557 and 78,677 for the years ended December 31,
+1998 and 1997, respectively, and 0 for both the four-month transitional period
+ended December 31, 1996 and the fiscal year ended August 31, 1996. The provision
+for income taxes differs from the amounts computed by
+ 
+ 43
+ 
+ ANIKA THERAPEUTICS, INC.
+ 
+ NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+ 
+16. INCOME TAXES (CONTINUED)
+applying the U.S. Federal income tax rate of thirty-four percent to pretax
+income as a result of the following:
+
+FOUR-MONTH
+ TRANSITIONAL FISCAL
+ YEAR ENDED YEAR ENDED YEAR ENDED YEAR ENDED
+ DECEMBER 31, DECEMBER 31, DECEMBER 31, AUGUST 31,
+ 1998 1997 1996 1996
+ ------------- ------------- ----------------- -------------
+ 
+Computed expected tax (benefit) expense.......... 1,521,967 1,163,859 (903,584) (968,619)
+State tax (benefit) expense (net of federal
+ benefit)....................................... 280,669 215,329 (166,631) (178,323)
+Nondeductible expenses........................... 28,308 3,804 517 1,638
+Increase in credit carryforward.................. -- -- (219,361) (9,200)
+Unrealized gain on short-term investments........ (80,702) -- -- --
+Other............................................ (7,195) (7,660) 5,335 149
+Change in valuation allowance related to income
+ tax benefit.................................... (1,615,490) (1,296,655) 1,283,724 1,154,355
+ ------------- ------------- ----------------- -------------
+Tax expense...................................... 127,557 78,677 -- --
+ ------------- ------------- ----------------- -------------
+ ------------- ------------- ----------------- -------------
+
+44
+ 
+ INDEPENDENT AUDITORS' REPORT
+ 
+The Board of Directors and Shareholders
+Anika Therapeutics, Inc.:
+ 
+ We have audited the accompanying balance sheet of Anika Therapeutics, Inc.
+(the "Company") as of December 31, 1998, and the related statements of
+operations, stockholders' equity and cash flows for the year then ended. These
+financial statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+ 
+ We conducted our audit in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audit provides a reasonable basis for our opinion.
+ 
+ In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of Anika Therapeutics, Inc. as
+of December 31, 1998, and the results of its operations and its cash flows for
+the year then ended, in conformity with generally accepted accounting
+principles.
+ 
+ ARTHUR ANDERSEN LLP
+ 
+Boston, Massachusetts
+February 16, 1999
+ 
+ 45
+ 
+ INDEPENDENT AUDITORS' REPORT
+ 
+ The Board of Directors and Shareholders
+ 
+ Anika Therapeutics, Inc.:
+ 
+ We have audited the accompanying balance sheet of Anika Therapeutics, Inc.
+(the "Company") as of December 31, 1997, and the related statements of
+operations, stockholders' equity and cash flows for the year ended December 31,
+1997, the four-month transitional period ended December 31, 1996 and the fiscal
+year ended August 31, 1996. These financial statements are the responsibility of
+the Company's management. Our responsibility is to express an opinion on these
+financial statements based on our audits.
+ 
+ We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+ 
+ In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of Anika Therapeutics, Inc. as
+of December 31, 1997, and the results of its operations and its cash flows for
+the year ended December 31, 1997, the four-month transitional period ended
+December 31, 1996 and the fiscal year ended August 31, 1996, in conformity with
+generally accepted accounting principles.
+ 
+ KPMG PEAT MARWICK LLP
+ 
+Boston, Massachusetts
+February 18, 1998
+ 
+ 46
+ 
+PART II
+ 
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+ FINANCIAL DISCLOSURE
+ 
+ None.
+ 
+PART III
+ 
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+ 
+ The information required by item 10 is hereby incorporated by reference to
+the Registrant's Proxy Statement (the "Proxy Statement") for the Annual Meeting
+of Stockholders to be held on June 3, 1999 under the headings "Election of
+Directors".
+ 
+ITEM 11. EXECUTIVE COMPENSATION
+ 
+ The information required by Item 11 is hereby incorporated by reference to
+the Proxy Statement under the heading "Election of Directors Executive
+Compensation."
+ 
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+ 
+ The information required by Item 12 is hereby incorporated by reference to
+the Proxy Statement under the heading "Beneficial Ownership of Voting Stock."
+ 
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+ 
+ The information required by Item 13 is hereby incorporated by reference to
+the Proxy Statement under the headings "Employment Arrangements with Senior
+Executives" and "Certain Relationships."
+ 
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+ 
+ (a) Documents filed as part of Form 10-K.
+ 
+ (1) Financial Statements
+ 
+ The financial statements of the Company have been included in Item 8 of this
+report.
+ 
+ Balance Sheets December 31, 1998 and 1997
+ 
+ Statements of Operations Year ended December 31, 1998 and 1997, the
+ four-month transitional period ended December 31, 1996, and the fiscal year
+ ended August 31, 1996
+ 
+ Statements of Stockholders' Equity Year ended December 31, 1998 and 1997,
+ the four-month transitional period ended Dec. 31, 1996, and the fiscal year
+ ended August 31, 1996
+ 
+ Statements of Cash Flows Years ended December 31, 1998 and 1997, the
+ four-month transitional period ended Dec. 31, 1996, and the fiscal year
+ ended August 31, 1996
+ 
+Notes to Financial Statements
+ 
+ (2) Schedules
+ 
+ Schedules other than those listed above have been omitted since they are
+ either not required or the information required is included in the financial
+ statements or the notes thereto.
+ 
+ Arthur Andersen LLP's Reports with respect to the above listed financial
+ statements and financial statements schedules are included herein on Item 8
+ and Exhibit 23.1
+ 
+ (3) Exhibits required to be filed by Item 601 of Regulation S-K and by
+ Item 13 (c)
+ 
+ The list of Exhibits filed as a part of this Annual Report on Form 10-K are
+ set forth on the Exhibit Index immediately preceding such Exhibits, and is
+ incorporated herein by reference.
+ 
+ (b) Reports on Form 8-K
+ 
+ None.
+ 
+ 47
+ 
+ SIGNATURES
+ 
+ In accordance with Section 13 or 15(d) of the Exchange Act, the registrant
+caused this report to be signed on its behalf by the undersigned, thereunto duly
+authorized.
+
+ANIKA THERAPEUTICS, INC.
+ 
+ By: /s/ SEAN F. MORAN
+ -----------------------------------------
+ Sean F. Moran
+ PRINCIPAL FINANCIAL & ACCOUNTING OFFICER
+ March 31, 1999
+
+SIGNATURES
+ 
+ In accordance with the Exchange Act, this report has been signed below by
+the following persons on behalf of the registrant and in the capacities and on
+the dates indicated, on March 31, 1999.
+
+SIGNATURE TITLE
+- ------------------------------ --------------------------
+
+/s/ J. MELVILLE ENGLE
+- ------------------------------ Chairman, President &
+ J. Melville Engle Chief Executive Officer
+ 
+ /s/ JOSEPH L. BOWER
+- ------------------------------ Director
+ Joseph L. Bower
+ 
+ /s/ EUGENE A. DAVIDSON
+- ------------------------------ Director
+ Eugene A. Davidson
+ 
+ /s/ JONATHAN D. DONALDSON
+- ------------------------------ Director
+ Jonathan D. Donaldson
+ 
+ /s/ SAMUEL F. MCKAY
+- ------------------------------ Director
+ Samuel F. McKay
+ 
+ /s/ HARVEY S. SADOW
+- ------------------------------ Director
+ Harvey S. Sadow
+ 
+ /s/ STEVEN E. WHEELER
+- ------------------------------ Director
+ Steven E. Wheeler
+ 
+ /s/ SEAN F. MORAN
+- ------------------------------ Chief Financial Officer
+ Sean F. Moran
+
+48
+
+<EX-23.1>
+ 2
+ EXHIBIT 23.1
+
+EXHIBIT 23.1
+
+ CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+As independent public accountants, we hereby consent to the incorporation by 
+reference in this Form 10-K of our report dated February 16, 1999, included 
+in the Company's previously filed Registration Statements (No. 33-66831) on 
+Form S-8.
+
+ARTHUR ANDERSEN LLP
+
+Boston, Massachusetts
+March 30, 1999
+
+</EX-23.1>
+
+<EX-23.2>
+ 3
+ EX-23.2
+
+Exhibit 23.2
+
+CONSENT OF INDEPENDENT ACCOUNTANTS
+
+The Board of Directors
+Anika Therapeutics, Inc.:
+
+We consent to incorporation by reference in the registration statement 
+(No. 33-66831) on Form S-8 of Anika Therapeutics, Inc. of our report dated 
+February 18, 1998, relating to the balance sheet of Anika Therapeutics, Inc. 
+as of December 31, 1997, and the related statements of operations, 
+stockholders' equity, and cash flows for the year ended December 31, 1997, 
+the four-month transitional period ended December 31, 1996 and the fiscal 
+year ended August 31, 1996, which report appears in the December 31, 1998 
+annual report on Form 10-K of Anika Therapeutics, Inc.
+
+KPMG Peat Marwick LLP
+
+Boston, Massachusetts
+March 31, 1999
+
+</EX-23.2>
+
+<EX-27>
+ 4
+ EX-27
+
+5
+ 0000898437
+ ANIKA THERAPEUTICS, INC.
+
+12-MOS
+ DEC-31-1998
+ JAN-01-1998
+ DEC-31-1998
+ 10,712,520
+ 12,007,503
+ 3,089,737
+ (57,000)
+ 3,522,019
+ 29,524,802
+ 6,376,405
+ 3,809,723
+ 32,392,984
+ 2,448,079
+ 0
+ 0
+ 0
+ 99,919
+ 29,794,771
+ 32,392,894
+ 12,369,712
+ 13,869,712
+ 6,014,181
+ 6,014,181
+ 0
+ 0
+ 0
+ 4,476,274
+ 127,557
+ 4,348,717
+ 0
+ 0
+ 0
+ 4,348,717
+ .44
+ .40
+
+</EX-27>
+

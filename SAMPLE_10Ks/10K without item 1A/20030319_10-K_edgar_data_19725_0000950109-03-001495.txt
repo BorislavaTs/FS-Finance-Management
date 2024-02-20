@@ -1,0 +1,3906 @@
+<Header>
+<FileStats>
+    <FileName>20030319_10-K_edgar_data_19725_0000950109-03-001495.txt</FileName>
+    <GrossFileSize>880552</GrossFileSize>
+    <NetFileSize>127542</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>679156</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>2</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950109-03-001495.hdr.sgml : 20030319
+<ACCEPTANCE-DATETIME>20030319145919
+ACCESSION NUMBER:		0000950109-03-001495
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20021231
+FILED AS OF DATE:		20030319
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VERIZON VIRGINIA INC
+		CENTRAL INDEX KEY:			0000019725
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE) [4813]
+		IRS NUMBER:				540167060
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06964
+		FILM NUMBER:		03609052
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 E MAIN ST
+		CITY:			RICHMOND
+		STATE:			VA
+		ZIP:			23219
+		BUSINESS PHONE:		8042256300
+
+	MAIL ADDRESS:	
+		STREET 1:		GP VIRGINIA
+		STREET 2:		1717 ARCH STREET 47TH FLOOR
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19050
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHESAPEAKE & POTOMAC TELEPHONE CO OF VIRGINIA
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BELL ATLANTIC VIRGINIA INC
+		DATE OF NAME CHANGE:	19940311
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ WFYb6YJEwkocZIhhgRuiN2QtLZ9KUQnzfUoGx9oLZjiqyikz0JwTx2UHYkd/i2gC
+ ieBCDuvuZxfLZyeBUfGc0w==
+
+ 0000950109-03-001495.txt : 20030319
+
+10-K
+ 1
+ d10k.htm
+ VERIZON VIRGINIA INC. FORM 10-K
+
+Verizon Virginia Inc. Form 10-K 
+
+Table of Contents 
+
+ UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 10-K
+
+(Mark one) 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR
+15(d) OF THE SECURITIES EXCHANGE ACT OF
+1934 For the fiscal year ended December 31,
+2002 
+
+OR 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR
+15(d) OF THE SECURITIES EXCHANGE ACT OF
+1934 For the transition period from 
+to 
+ Commission file number 1-6964 VERIZON VIRGINIA INC. 
+
+A Virginia Corporation 
+ 
+ I.R.S. Employer Identification No. 54-0167060 
+ 600
+East Main Street, Richmond, Virginia 23219 Telephone Number (804) 225-6300 Securities registered pursuant to Section 12(b) of the Act: None. Securities registered pursuant to Section 12(g) of the Act: None.
+ THE REGISTRANT MEETS THE CONDITIONS SET FORTH IN GENERAL
+INSTRUCTION I(1)(a) AND (b) OF FORM 10-K AND IS THEREFORE FILING THIS FORM WITH REDUCED DISCLOSURE FORMAT PURSUANT TO GENERAL INSTRUCTION I(2). Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes No Indicate by check mark whether the registrant is an accelerated filer (as defined in Rule 12b-2 of the
+Act). Yes No 
+
+Table of Contents 
+
+ Verizon Virginia Inc. 
+ TABLE OF CONTENTS 
+
+Page 
+
+PART I 
+
+Item 1. 
+
+Business 
+
+(Abbreviated pursuant to General Instruction I(2).) 
+ 
+ 1 
+ 
+ Item 2. 
+
+Properties 
+ 
+ 5 
+ 
+ Item 3. 
+
+Legal Proceedings 
+ 
+ 5 
+ 
+ Item 4. 
+
+Submission of Matters to a Vote of Security Holders 
+
+(Omitted pursuant to General Instruction I(2).) 
+ 
+ 5 
+
+PART II 
+
+Item 5. 
+
+Market for Registrant s Common Equity and Related Stockholder Matters 
+ 
+ 6 
+ 
+ Item 6. 
+
+Selected Financial Data 
+
+(Omitted pursuant to General Instruction I(2).) 
+ 
+ 6 
+ 
+ Item 7. 
+
+Management s Discussion and Analysis of Results of Operations 
+
+(Abbreviated pursuant to General Instruction I(2).) 
+ 
+ 7 
+ 
+ Item 7A. 
+
+Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ 15 
+ 
+ Item 8. 
+
+Financial Statements and Supplementary Data 
+ 
+ 15 
+ 
+ Item 9. 
+
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 
+ 15 
+
+PART III 
+
+Item 10. 
+
+Directors and Executive Officers of the Registrant 
+
+(Omitted pursuant to General Instruction I(2).) 
+ 
+ 15 
+ 
+ Item 11. 
+
+Executive Compensation 
+
+(Omitted pursuant to General Instruction I(2).) 
+ 
+ 15 
+ 
+ Item 12. 
+
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+
+(Omitted pursuant to General Instruction I(2).) 
+ 
+ 15 
+ 
+ Item 13. 
+
+Certain Relationships and Related Transactions 
+
+(Omitted pursuant to General Instruction I(2).) 
+ 
+ 15 
+ 
+ Item 14. 
+
+Controls and Procedures 
+ 
+ 15 
+
+PART IV 
+
+Item 15. 
+
+Exhibits, Financial Statement Schedules, and Reports on Form 8-K 
+ 
+ 16 
+
+SIGNATURES 
+ 
+ 18 
+
+CERTIFICATIONS 
+ 
+ 19 
+ UNLESS
+OTHERWISE INDICATED, ALL INFORMATION IS AS OF MARCH 14, 2003. 
+
+Table of Contents 
+
+ Verizon Virginia Inc. PART I 
+ Item 1. Business (Abbreviated pursuant to General
+Instruction I(2).) GENERAL Verizon Virginia Inc. is incorporated under the laws of the Commonwealth of
+Virginia. We are a wholly owned subsidiary of Verizon Communications Inc. (Verizon). We presently serve a territory consisting of Local Access and Transport Areas (LATAs) in Virginia. These LATAs are generally centered on a city or based on some other identifiable common geography. We currently provide two basic types of telecommunications services:
+
+Exchange telecommunication service is the transmission of telecommunications among customers located within a local calling area within a LATA. Examples of
+exchange telecommunications services include switched local residential and business services, local private line voice and data services and Centrex services. We also provide toll services within a LATA (intraLATA long distance).
+
+Exchange access service links a customer s premises and the transmission facilities of other telecommunications carriers, generally interLATA carriers.
+Examples of exchange access services include switched access and special access services. As of December 31, 2002, we had approximately 6,000 employees. Approximately 90 of our employees (associates) are covered by collective bargaining agreements. Collective bargaining agreements
+with the unions expire in August 2003. REGULATION
+ Telecommunications Act of 1996 We face increasing competition in all areas of our business. The
+Telecommunications Act of 1996 (1996 Act), regulatory and judicial actions and the development of new technologies, products and services have created opportunities for alternative telecommunication service providers, many of which are subject to
+fewer regulatory constraints. In-Region Long Distance
+ Under the 1996 Act, our ability to offer in-region long
+distance services (that is, services originating in the state where we operate as a local exchange carrier) is largely dependent on satisfying specified requirements. The requirements include a 14-point competitive checklist of steps
+which we must take to help competitors offer local services through resale, through purchase of unbundled network elements (UNEs), or by interconnecting their own networks to ours. We must also demonstrate to the Federal Communications Commission
+(FCC) that entry into the in-region long distance market would be in the public interest. On October 30, 2002, the FCC released an order approving our application for permission to enter the in-region long distance market in Virginia. Since November 12, 2002, in-region long distance is being offered by a separate
+non-regulated subsidiary of Verizon as required by law. FCC
+Regulation and Interstate Rates We are subject to the
+jurisdiction of the FCC with respect to interstate services and related matters. In 2002, the FCC continued to implement reforms to the interstate access charge system and to implement the universal service and other requirements of the
+1996 Act. 
+ 1 
+
+Table of Contents 
+
+ Verizon Virginia Inc. Access Charges and Universal Service
+ On May 31, 2000, the FCC adopted the Coalition for
+Affordable Local and Long Distance Services (CALLS) plan as a comprehensive five-year plan for regulation of interstate access charges. The CALLS plan has three main components. First, it establishes a portable interstate access universal service
+support of 650 million for the industry. This explicit support replaces implicit support embedded in interstate access charges. Second, the plan simplifies the patchwork of common line charges into one subscriber line charge (SLC) and provides for
+de-averaging of the SLC by zones and class of customers in a manner that will not undermine comparable and affordable universal service. Third, the plan sets into place a mechanism to transition to a set target of 0.0055 per minute for switched
+access services. Once that target rate is reached, local exchange carriers are no longer required to make further annual price cap reductions to their switched access prices. The annual reductions leading to the target rate, as well as annual
+reductions for the subset of special access services that remain subject to price cap regulation was set at 6.5 per year. On September 10, 2001, the U.S. Court of Appeals for the Fifth Circuit ruled on an appeal of the FCC order adopting the plan. The court upheld the FCC on
+several challenges to the order, but remanded two aspects of the decision back to the FCC on the grounds that they lacked sufficient justification. The court remanded back to the FCC for further consideration its decision setting the annual
+reduction factor at 6.5 minus an inflation factor and the size of the new universal service fund at 650 million. The entire plan (including these elements) will continue in effect pending the FCC s further consideration of its justification
+of these components. As a result of tariff adjustments which became effective in July 2002, we reached the 0.0055 benchmark. The FCC has adopted rules for special access services that provide for pricing flexibility and ultimately the removal of services from price regulation
+when prescribed competitive thresholds are met. In order to use these rules, carriers must forego the ability to take advantage of provisions in the current rules that provide relief in the event earnings fall below prescribed thresholds. Verizon
+has been authorized to remove special access and dedicated transport services from price caps in 36 Metropolitan Statistical Areas (MSAs) in the former Bell Atlantic territory and in 17 additional MSAs in the former GTE territory. In addition, the
+FCC has found that in 20 MSAs Verizon has met the stricter standards to remove special access connections to end-user customers from price caps. Verizon also has an application pending that, if granted, would remove an additional three MSAs, and
+special access connections to end-user customers in two additional MSAs, from price cap regulation. In November 1999, the FCC adopted a new mechanism for providing universal service support to high cost areas served by large local telephone companies. This funding mechanism provides additional
+support for local telephone services in several states served by Verizon. This system has been supplemented by the new FCC access charge plan described above. On July 31, 2001, the U.S. Court of Appeals for the Tenth Circuit reversed and remanded to
+the FCC for further proceedings. The court concluded that the FCC had failed to adequately explain some aspects of its decision and had failed to address any need for a state universal service mechanism. The current universal service mechanism
+remains in place pending the outcome of any FCC review as a result of these appeals. Unbundling of Network Elements In November 1999, the FCC announced its decision setting forth new unbundling requirements, eliminating elements that it had previously required to be unbundled, limiting the obligation to provide others and adding new elements.
+ In addition to the unbundling requirements released in November
+1999, the FCC released an order in a separate proceeding in December 1999, requiring incumbent local exchange companies also to unbundle and provide to competitors the higher frequency portion of their local loop. This provides competitors with the
+ability to provision data services on top of incumbent carriers voice services. In July 2000, the U.S. Court of Appeals for the Eighth Circuit found that some aspects of the FCC s requirements for pricing UNEs were inconsistent with the 1996 Act. In particular, it found that the FCC was wrong to
+require incumbent carriers to base these prices not on their real costs but on the imaginary costs of the most efficient equipment and the most efficient network configuration. This portion of the court s decision was stayed pending review by
+the U.S. Supreme Court. On May 13, 2002, the U.S. Supreme Court reversed that decision and upheld the FCC s pricing rules. On May 24, 2002, the U.S. Court of Appeals for the D.C. Circuit released an order that overturned the most recent FCC decision establishing which network
+elements were required to be unbundled. In particular, the court found that the FCC 
+ 
+ 2 
+
+Table of Contents 
+
+ Verizon Virginia Inc. 
+ did not adequately consider the limitations of the necessary and impair standards of the 1996 Act when it chose national rules
+for unbundling and that it failed to consider the relevance of competition from other types of service providers, including cable and satellite. The court also vacated a separate order that had authorized an unbundling requirement for line
+sharing where a competing carrier purchases only a portion of the copper connection to the end-user in order to provide high-speed broadband services using digital subscriber line (DSL) technology. Several parties, including the FCC,
+petitioned the court for rehearing of the court order. The court rejected the petitions that asked it to change its decision on September 4, 2002. The court did, however, stay its order vacating the FCC s rules until February 20, 2003, to
+provide the FCC time to complete an ongoing rulemaking to determine what elements should be unbundled. Several carriers have sought U.S. Supreme Court review of the underlying court decision. That request remains pending. On October 25, 2002, the U.S. Court of Appeals for the D.C. Circuit released
+an order upholding the FCC s decisions that established interim limits on the availability of combinations of UNEs known as enhanced extended links or EELs. EELs consist of unbundled loops and transport elements. The FCC decisions
+limited access to EELs to carriers that would use them to provide a significant amount of local traffic, and not just use them as substitutes for special access services. Prior to the issuance of these orders from the U.S. Court of Appeals for the D.C. Circuit, the FCC had already begun a review
+of the scope of its unbundling requirement through a rulemaking referred to as the triennial review of UNEs. This rulemaking reopens the question of what network elements must be made available on an unbundled basis under the 1996 Act and will
+revisit the unbundling decisions made in the order overturned by the U.S. Court of Appeals for the D.C. Circuit. In this rulemaking, the FCC also will address other pending issues relating to unbundled elements, including the question of whether
+competing carriers may substitute combinations of unbundled loops and transport for already competitive special access services. On February 20, 2003, the FCC announced a decision in its triennial review of UNEs, but the order has not yet been
+released. Compensation for Internet Traffic On April 27, 2001, the FCC released an order addressing intercarrier
+compensation for dial-up connections for Internet-bound traffic. The FCC found that Internet-bound traffic is interstate and subject to the FCC s jurisdiction. Moreover, the FCC again found that Internet-bound traffic is not subject to
+reciprocal compensation under Section 251(b)(5) of the 1996 Act. Instead, the FCC established federal rates per minute for this traffic that decline from 0.0015 to 0.0007 over a three-year period. The FCC order also sets caps on the total minutes
+of this traffic that may be subject to any intercarrier compensation and requires that incumbent local exchange carriers must offer to both bill and pay reciprocal compensation for local traffic at the same rate as they are required to pay on
+Internet-bound traffic. On May 3, 2002, the U.S. Court of Appeals for the D.C. Circuit rejected part of the FCC s rationale for its April 27, 2001 order, but declined to vacate the order while it is on remand. Several parties requested rehearing, asking the court to vacate the underlying
+order. Those requests were denied in a series of orders released on September 24, 2002 and September 25, 2002. One carrier has sought U.S. Supreme Court review of that denial. In the meantime, pending further action by the FCC, the FCC s
+underlying order remains in effect. State Regulation of Rates
+and Services Effective in 1995, the Virginia State
+Corporation Commission (VSCC) approved an alternative regulatory plan that regulates our noncompetitive services on a price cap basis and does not regulate our competitive services. The plan does not regulate profits. In June 2001, the VSCC modified
+the plan and extended the moratorium on rate increases for basic local telephone service until 2004. The plan has no expiration date. COMPETITION Current and potential competitors in telecommunication services include long distance companies, other local telephone companies, cable companies,
+wireless service providers, foreign telecommunications providers, electric utilities, Internet service providers and other companies that offer network services. Many of these companies have a strong market presence, brand recognition and existing
+customer relationships, all of which contribute to intensifying competition and may affect our future revenue growth. 
+ 3 
+
+Table of Contents 
+
+ Verizon Virginia Inc. Local Exchange Services The ability to offer local exchange services has historically been subject to
+regulation by state regulatory commissions. Applications from competitors to provide and resell local exchange services have been approved in our jurisdiction. The 1996 Act has significantly increased the level of competition in our local exchange
+markets. One of the purposes of the 1996 Act was to ensure, and
+accelerate, the emergence of competition in local exchange markets. Toward this end, the 1996 Act requires most existing local exchange carriers (incumbent local exchange carriers, or ILECs), including our company, to permit potential competitors
+(CLECs) to: 
+
+purchase service from the ILEC for resale to CLEC customers; 
+
+purchase UNEs from the ILEC; and/or 
+
+interconnect the CLEC s network with the ILEC s network. As a result, competition in our local exchange markets continues to increase. We are generally required to sell our services
+to CLECs at discounts from the prices we charge our retail customers. Long Distance Services We offer
+intraLATA long distance services. IntraLATA toll calls originate and terminate within the same LATA, but generally cover a greater distance than a local call. State regulatory commissions rather than federal authorities generally regulate these
+services. Federal regulators have jurisdiction over interstate toll services. The VSCC permits other carriers to offer intraLATA toll services within the state. Alternative Access Services A substantial portion of our revenues from business and government customers is derived from a relatively small number of large, multiple-line
+subscribers. We face competition from alternative communications
+systems, constructed by large end-users, interexchange carriers and alternative access vendors, which are capable of originating and/or terminating calls without the use of our plant. The FCC s orders requiring us to offer collocated
+interconnection for special and switched access services have enhanced the ability of such alternative access providers to compete with us. Other potential sources of competition include cable television systems, shared tenant services and other noncarrier systems which are capable of
+bypassing our local plant, either partially or completely, through substitution of special access for switched access or through concentration of telecommunications traffic on fewer of our lines. Wireless Services Wireless services also constitute a significant source of competition to our
+wireline telecommunications services, especially as wireless carriers (including Verizon Wireless) expand and improve their network coverage and continue to lower their prices to end-users. As a result, more end-users are substituting wireless
+services for basic wireline service. Wireless telephone services can also be used for data transmission. Public Telephone Services The growth of wireless communications has significantly decreased usage of public telephones, as more customers are substituting wireless services for public telephone services. In addition, we face competition from other
+providers of public telephone services. Operator Services
+ Our operator services product line faces competition from
+alternative operator services providers and Internet service providers. 
+ 4 
+
+Table of Contents 
+
+ Verizon Virginia Inc. 
+ Item 2. Properties GENERAL Our principal properties do not
+lend themselves to simple description by character and location. Our investment in plant, property and equipment consisted of the following at December 31: 
+
+2002 
+
+2001 
+
+Central office equipment 
+ 
+ 49 
+
+49 
+
+Outside communications plant 
+ 
+ 36 
+
+36 
+
+Land and buildings 
+ 
+ 7 
+
+6 
+
+Furniture, vehicles and other work equipment 
+ 
+ 5 
+
+6 
+
+Other 
+ 
+ 3 
+
+3 
+
+100 
+
+100 
+
+Central office
+equipment consists of switching equipment, transmission equipment and related facilities. Outside communications plant consists primarily of aerial cable, underground cable, conduit and wiring, and telephone poles. Land and
+buildings consists of land and land improvements, and principally central office buildings. Furniture, vehicles and other work equipment consists of public telephone instruments and telephone equipment, furniture, office equipment,
+motor vehicles and other work equipment. Other property consists primarily of plant under construction, capital leases, capitalized computer software costs and leasehold improvements. All of our properties, located in the state of Virginia, are generally in good
+operating condition and are adequate to satisfy the needs of our business. Our customers are served by electronic switching systems that provide a wide variety of services. Substantially all of our network has full digital capability to furnish advanced data transmission and information management services.
+ CAPITAL EXPENDITURES We continue to make significant capital expenditures to meet the demand for
+communications services and to further improve such services. Capital spending was approximately 390 million in 2002, 766 million in 2001 and 719 million in 2000. Capital spending for those years excludes capitalized non-network software and
+additions under capital leases. Our total investment in plant, property and equipment was approximately 8.2 billion at December 31, 2002, 8.0 billion at December 31, 2001 and 7.4 billion at December 31, 2000, including the effect of retirements,
+but before deducting accumulated depreciation. 
+ Item 3. Legal Proceedings There were no proceedings reportable under Item 3. 
+ Item 4. Submission of Matters to a Vote of Security Holders (Omitted pursuant to General Instruction I(2).) 
+ 5 
+
+Table of Contents 
+
+ Verizon Virginia Inc. PART II 
+ Item 5. Market for Registrant s Common Equity and Related Stockholder Matters Not applicable. 
+ Item 6. Selected Financial Data (Omitted pursuant to General Instruction I(2).) 
+ 6 
+
+Table of Contents 
+
+ Verizon Virginia Inc. 
+ Item 7. Management s Discussion and Analysis of Results of Operations (Abbreviated pursuant to General Instruction I(2).) This discussion should be read in conjunction with the Financial Statements and Notes to Financial Statements listed in the index set forth on page F-1. OVERVIEW Description of Business Verizon Virginia Inc. is a wholly owned subsidiary of Verizon Communications Inc. (Verizon). We presently serve a territory consisting of Local Access and
+Transport Areas (LATAs) in the state of Virginia. We have one reportable segment which provides domestic wireline telecommunications services. We currently provide two basic types of telecommunications services: 
+
+Exchange telecommunication service is the transmission of telecommunications among customers located within a local calling area within a LATA. Examples of
+exchange telecommunications services include switched local residential and business services, local private line voice and data services and Centrex services. We also provide toll services within a LATA (intraLATA long distance).
+
+Exchange access service links a customer s premises and the transmission facilities of other telecommunications carriers, generally interLATA carriers.
+Examples of exchange access services include switched access and special access services. The communications services we provide are subject to regulation by the Virginia State Corporation Commission (VSCC) with respect to intrastate rates and services and other matters. The Federal
+Communications Commission (FCC) regulates rates that we charge long distance carriers and end-user subscribers for interstate access services. For a further discussion of the Company and our regulatory plan, see Item 1 Description of
+Business. Critical Accounting Policies
+ A summary of the critical accounting policies used in
+preparing our financial statements are as follows: Most of our
+employees participate in Verizon s defined benefit pension plans and postretirement benefit plans. In the aggregate, the fair value of pension plan assets exceeds pension plan benefit obligations. Significant pension and postretirement benefit
+plan assumptions, including the discount rate used, the long-term rate of return on plan assets, and medical cost trend rates are periodically updated and impact the amount of pension plan results, assets and obligations. For more information on
+pension plan assumptions, see Note 8 to the financial statements. Our current and deferred income taxes and associated valuation allowances (if any) are impacted by events and transactions arising in the normal course of business, as well as in connection with special and non-recurring items.
+Assessment of the appropriate amount and classification of income taxes is dependent on several factors, including estimates of the timing and realization of deferred income tax assets and the timing of income tax payments. Actual collections and
+payments may differ from these estimates as a result of changes in tax laws, as well as unanticipated future transactions impacting related income tax balances. We compute depreciation on plant, property, and equipment principally on the composite group remaining life method and
+straight-line composite rates over estimated useful lives ranging from 3 to 50 years. This method provides for the recognition of the cost of the remaining net investment in telephone plant, less anticipated net salvage value (if any), over the
+remaining asset lives. This method requires the periodic revision of depreciation rates. For a discussion of a change in the accounting for the retirement of certain assets see Other Matters Recent Accounting Pronouncements Asset
+Retirement Obligations below. Changes in the estimated useful lives of plant, property, and equipment or depreciation methods could have a material effect on our results of operations. We recognize service revenues based upon usage of our local exchange network
+and facilities and contract fees. We recognize product and other service revenues when the products are delivered and accepted by the customers and when services are provided in accordance with contract terms. 
+ 7 
+
+Table of Contents 
+
+ Verizon Virginia Inc. In the course of conducting our business, we
+provide services to and purchase goods and services from affiliated companies. These transactions are supported by tariff rates or contractual agreements the terms of which require estimates and judgments to fairly value such transactions.
+ All of our significant accounting policies are described in Note
+1 to the financial statements. RESULTS OF OPERATIONS 
+ We reported net income of 278.2 million in 2002, compared
+to net income of 350.5 million in 2001. Our reported results included the following special items: Employee Terminations The following table provides a summary of the special charges recorded in 2002 and 2001 related to employee terminations. 
+
+Years ended December 31 
+ 
+ (Dollars in Millions) 
+ 
+ 2002 
+
+2001 
+
+Special termination benefits 
+
+11.2 
+
+34.4 
+ 
+ Settlement gain 
+
+(11.5) 
+
+Curtailment loss 
+
+65.5 
+
+Subtotal 
+
+65.2 
+
+34.4 
+
+Employee severance 
+
+11.5 
+
+28.5 
+
+Total special charges 
+
+76.7 
+
+62.9 
+
+As part of a Verizon
+workforce reduction plan, we have continued to reduce our headcount as allowed under various management and associate employee benefit plans. As a result, we recorded 11.2 million and 34.4 million in 2002 and 2001, respectively, in connection with
+various pension and retirement benefit enhancements. Also during 2002, we recorded an 11.5 million pension settlement gain as lump-sum payments exceeded the threshold of service and interest costs. Additionally, in the fourth quarter of 2002, we
+recorded a curtailment loss of 65.5 million associated with a significant reduction of the expected years of future service of present employees, which was largely impacted by the involuntary employee terminations in December 2002. The special
+termination benefits, curtailment and settlement of pension obligations are recorded in accordance with Statement of Financial Accounting Standards (SFAS) No. 88, Employers Accounting for Settlements and Curtailments of Defined Pension
+Plans and for Termination Benefits and SFAS No. 106, Employers Accounting for Postretirement Benefits Other than Pensions. Also during 2002 and 2001, we recorded special charges of 11.5 million and 28.5 million, respectively, for the voluntary and involuntary separation of
+management and associate employees in accordance with SFAS No. 112, Employers Accounting for Postemployment Benefits. As of December 31, 2002, a total of over 600 employees have been separated under the 2001 and 2002 severance
+programs. We expect to complete the termination of the employees within a year of when the respective charges were recorded. Employee benefit costs are recorded in operations and support expense in our statements of income. See Note 8 to the financial statements for additional information about our
+employee benefits. WorldCom Inc. In 2002, we recorded an impairment charge of 29.6 million driven by our
+financial statement exposure to WorldCom Inc. (WorldCom). This charge was recorded in operations and support expense in our statements of income. WorldCom, including its affiliates, purchases dedicated local exchange capacity from us to support its private networks and we also charge WorldCom for
+access to our local network. In addition, we sell local wholesale interconnection services and provide billing and collection services to WorldCom. We purchase long distance and related services from WorldCom. On July 21, 2002, WorldCom filed for
+Chapter 11 bankruptcy protection . 
+ 8 
+
+Table of Contents 
+
+ Verizon Virginia Inc. During 2002, we recorded revenues earned from the
+provision of primarily network access services to WorldCom of 134.4 million. If WorldCom terminates contracts with us for the provision of services, our operating revenues would be lower in future periods. Lower revenues as a result of canceling
+contracts for the provision of services could be partially offset, in some cases, by the migration of customers on the terminated facilities to us or other carriers who purchase capacity and/or interconnection services from us. At December 31, 2002, accounts receivable from WorldCom, net of a provision
+for uncollectibles, was 47.0 million. We continue to closely monitor our collections on WorldCom account balances. WorldCom is current with respect to its post-bankruptcy obligations. We believe that we are adequately reserved for the potential
+risk of non-payment of pre-bankruptcy receivables from WorldCom. Extraordinary Item During 2002, we
+recorded extraordinary charges associated with the early extinguishment of long-term debt, which reduced net income by .6 million (net of income tax benefits of .4 million). These debt extinguishments consisted of the following: 
+
+70.0 million of 6 3 / 4 
+debentures due on May 1, 2008 
+
+50.0 million of 5 1 / 4 
+debentures due on May 1, 2005 
+
+50.0 million of 7 1 / 4 
+debentures due on June 1, 2012 Transactions with Affiliates Our
+financial statements include transactions with affiliates. The more significant affiliate transactions include revenues earned from Verizon Services and Verizon Internet Services Inc. for utilization of our network facilities and provision of
+services. In addition, our operating revenues and expenses
+include transactions with other Verizon Operating Telephone Companies primarily for the rental of facilities and equipment and interconnection services. Further, we recognize operating expenses in connection with contractual arrangements with affiliates, primarily Verizon Services, for the provision of
+various centralized services to us. We recognize interest expense in connection with contractual agreements with Verizon Network Funding Corporation for the provision of short-term financing and cash management services. In 2001 and 2000, we
+recognized equity losses from our investment in Verizon Ventures III Inc. (Ventures III). We also pay quarterly dividends to our parent, Verizon. See Note 10 to the financial statements for additional information about our transactions with affiliates. These and other items affecting the comparison of our results of operations
+for the years ended December 31, 2002 and 2001 are discussed in the following sections. 
+ 9 
+
+Table of Contents 
+
+ Verizon Virginia Inc. OPERATING REVENUES (Dollars in Millions) 
+
+Years Ended December 31 
+ 
+ 2002 
+ 
+ 2001 
+
+Local services 
+
+1,281.2 
+
+1,372.0 
+ 
+ Network access services 
+
+913.9 
+
+959.1 
+ 
+ Long distance services 
+
+24.3 
+
+30.5 
+ 
+ Other services 
+
+133.3 
+
+139.4 
+
+Total 
+
+2,352.7 
+
+2,501.0 
+
+LOCAL SERVICES
+
+(Decrease) 
+
+2002 2001 
+
+(90.8) 
+ 
+ (6.6) 
+
+Local service revenues
+are earned from the provision of local exchange, local private line, wire maintenance, voice messaging and value-added services. Value-added services are a family of services that expand the utilization of the network, including products such as
+Caller ID, Call Waiting and Return Call. The provision of local exchange services not only includes retail revenues, but also includes local wholesale revenues from unbundled network elements (UNEs), interconnection revenues from competitive local
+exchange carriers (CLECs), certain data transport revenues and wireless interconnection revenues. The decline in local service revenues in 2002 was primarily due to the effect of lower demand and usage of some basic wireline services and price discounts on product bundling offers. Our switched
+access lines in service declined 3.5 from December 31, 2001 to December 31, 2002, primarily reflecting the impact of the economic slowdown and competition. Technology substitution has also affected local service revenue growth, as indicated by
+lower demand for residential access lines. In addition, a reduction in revenue from installations related to government contracts further contributed to the decrease in local service revenues in 2002. NETWORK ACCESS SERVICES 
+
+(Decrease) 
+
+2002 2001 
+
+(45.2) 
+ 
+ (4.7) 
+
+Network access service
+revenues are earned from end-user subscribers and from long distance and other competing carriers who use our local exchange facilities to provide usage services to their customers. Switched access revenues are derived from fixed and usage-based
+charges paid by carriers for access to our local network. Special access revenues originate from carriers and end-users that buy dedicated local exchange capacity to support their private networks. End-user access revenues are earned from our
+customers and from resellers who purchase dial-tone services. The decrease in network access revenues in 2002 was mainly attributable to lower demand for switched access services due, in part, to the weakened economy and technology substitution. Network access revenues also declined due to
+mandated price reductions on interstate and intrastate access services and other regulatory decisions. 
+ 10 
+
+Table of Contents 
+
+ Verizon Virginia Inc. LONG DISTANCE SERVICES 
+
+(Decrease) 
+
+2002 2001 
+
+(6.2) 
+ 
+ (20.3) 
+
+Long distance revenues
+are earned primarily from calls made to points outside a customer s local calling area, but within our service area (intraLATA toll). IntraLATA toll calls originate and terminate within the same LATA, but generally cover a greater distance than
+a local call. These services are regulated by the VSCC except where they cross state lines. Other long distance services that we provide include 800 services and Wide Area Telephone Service (WATS). Long distance service revenues declined in 2002 primarily due to the effects
+of competition and toll calling discount packages and product bundling offers of our intraLATA toll services. Technology substitution and lower access line growth due to the slowing economy also affected long distance service revenue growth.
+ OTHER SERVICES 
+
+(Decrease) 
+
+2002 2001 
+
+(6.1) 
+ 
+ (4.4) 
+
+Our other services
+include such services as billing and collections for long distance carriers and affiliates, facilities rentals to affiliates and nonaffiliates, public (pay) telephone, customer premises equipment (CPE) and sales of materials and supplies to
+affiliates. Other service revenues also include fees paid by customers for nonpublication of telephone numbers and multiple white page listings and fees paid by an affiliate for usage of our directory listings. Other service revenues decreased in 2002 primarily due to lower facilities
+rental revenues from affiliates. OPERATING EXPENSES 
+ (Dollars in Millions) OPERATIONS AND SUPPORT 
+
+Increase 
+
+2002 2001 
+
+85.9 
+ 
+ 7.2 
+
+Operations and support
+expenses consist of employee costs and other operating expenses. Employee costs consist of salaries, wages and other employee compensation, employee benefits and payroll taxes. Other operating expenses consist of contract services including
+centralized services expenses allocated from affiliates, rent, network software costs, operating taxes other than income, the provision for uncollectible accounts receivable, reciprocal compensation, and other costs. The increase in operations and support expenses was mainly attributable to
+increased costs of approximately 76 million associated with uncollectible accounts receivable in 2002, as compared to 2001. Employee costs increased slightly in 2002 due to higher benefit costs, partially offset by the effect of declining workforce
+levels. As described earlier, we recorded net charges of 76.7 million in 2002, compared to 62.9 million in 2001, associated with employee termination costs and a charge of 29.6 million associated with uncollectible accounts receivable from
+WorldCom. Pension income (after consideration of capitalized costs and excluding special termination charges) was 89.3 million and 102.0 million in 2002 and 2001, respectively. 
+ 11 
+
+Table of Contents 
+
+ Verizon Virginia Inc. DEPRECIATION AND AMORTIZATION 
+
+Increase 
+
+2002 2001 
+ 
+ 29.9 
+ 
+ 5.6 
+
+Depreciation and
+amortization expense increased in 2002, as compared to 2001, primarily due to growth in depreciable telephone plant and, to a lesser extent, increased software amortization costs. These increases were partially offset by the effect of lower rates of
+depreciation. OTHER RESULTS (Dollars in Millions) OTHER INCOME AND (EXPENSE), NET 
+
+Increase 
+
+2002 2001 
+ 
+ 79.8 
+ 
+ 102.0 
+
+Other income and
+(expense), net includes equity income (losses), interest income and other nonoperating income and expense items. The increase in other income and (expense), net, was primarily attributable to the effect of equity losses recognized in 2001 from our investment in Ventures III. See Note 10 to the financial statements for additional information on our
+investment in Ventures III. INTEREST EXPENSE
+
+(Decrease) 
+
+2002 2001 
+ 
+ (14.1) 
+ 
+ (17.9) 
+
+Interest expense
+includes costs associated with borrowing and capital leases, net of capitalized interest costs . We capitalize interest associated with the acquisition or construction of plant assets. Capitalized interest is reported as a cost of plant and a
+reduction in interest expense. Interest expense decreased in
+2002, as compared to 2001, primarily due to the effect of lower levels of long-term debt. See Note 5 to the financial statements for additional information about our debt. EFFECTIVE INCOME TAX RATES 
+
+For the Years Ended December 31 
+
+2002 
+ 
+ 38.6 
+
+2001 
+ 
+ 43.9 
+
+The effective income tax
+rate is the provision for income taxes as a percentage of income before provision for income taxes and extraordinary items. Our effective income tax rate was lower in 2002, as compared to 2001, primarily due to the effect of equity losses associated
+with our investment in Ventures III, which were recorded in 2001, for which we do not recognize income tax benefits. You can find a reconciliation of the statutory federal income tax rate to the effective income tax rate for each period in Note 9 to the financial
+statements. 
+ 12 
+
+Table of Contents 
+
+ Verizon Virginia Inc. OTHER MATTERS In-Region Long Distance Under the Telecommunications Act of 1996, our ability to offer in-region long
+distance services (that is, services originating in the state where we operate as a local exchange carrier) is largely dependent on satisfying specified requirements. The requirements include a 14-point competitive checklist of steps
+which we must take to help competitors offer local services through resale, through purchase of UNEs, or by interconnecting their own networks to ours. We must also demonstrate to the FCC that entry into the in-region long distance market would be
+in the public interest. On October 30, 2002, the FCC released an
+order approving our application for permission to enter the in-region long distance market in Virginia. Since November 12, 2002, in-region long distance is being offered by a separate non-regulated subsidiary of Verizon as required by law.
+ Recent Accounting Pronouncements Accounting for Stock Options In December 2002, the Financial Accounting Standards Board (FASB) issued SFAS
+No. 148, Accounting for Stock-Based Compensation-Transition and Disclosure. This standard amends SFAS No. 123, Accounting for Stock-Based Compensation, to provide alternative methods of transition for a voluntary change to
+the fair value based method of accounting for stock-based employee compensation. In addition, this statement amends the disclosure requirements of SFAS No. 123 to require prominent disclosures in both annual and interim financial statements about
+the method of accounting for stock-based employee compensation and the effect of the method used on reported results. This statement permits two additional transition methods (modified prospective and retroactive restatement) for entities that adopt
+the preferable method of accounting for stock-based employee compensation. We participate in employee compensation plans sponsored by Verizon with awards of Verizon common stock. Effective January 1, 2003, Verizon adopted the fair value recognition provisions of SFAS No. 123, using the prospective method,
+for all new awards granted to employees after January 1, 2003. Under the prospective method, employee compensation expense in the first year will be recognized for new awards granted, modified, or settled. However, in subsequent years, the vesting
+of awards issued on or after January 1, 2003 may cause an increase in employee compensation expense. Asset Retirement Obligations On January 1, 2003, we adopted SFAS No. 143, Accounting for Asset Retirement Obligations. This standard provides the accounting for the cost of legal obligations associated with the retirement of long-lived
+assets. SFAS No. 143 requires that companies recognize the fair value of a liability for asset retirement obligations in the period in which the obligations are incurred and capitalize that amount as part of the book value of the long-lived asset.
+We have determined that we do not have a material legal obligation to remove long-lived assets as described by this statement. However, we have included estimated removal costs in our group depreciation models. These costs have increased
+depreciation expense and accumulated depreciation for future removal costs for existing assets. These removal costs are recorded as a reduction to accumulated depreciation when the assets are retired and removal costs are incurred. For some assets, such as telephone poles, the removal costs exceed salvage
+value. Under the provisions of SFAS No. 143, we are required to exclude costs of removal from our depreciation rates for assets for which the removal costs exceed salvage. Accordingly, in connection with the initial adoption of this standard on
+January 1, 2003, we have reversed accrued costs of removal in excess of salvage from our accumulated depreciation accounts for these assets. The adjustment was recorded as a cumulative effect of an accounting change, resulting in the recognition of
+a gain of approximately 142 million 87 million after-tax). Effective January 1, 2003, we began expensing costs of removal in excess of salvage for these assets as incurred. The impact of this change in accounting will result in a decrease in
+depreciation expense and an increase in operations and support expense. We estimate the net impact in 2003, excluding the cumulative effect adjustment, will not be material to our results of operations. 
+ 13 
+
+Table of Contents 
+
+ Verizon Virginia Inc. Debt Extinguishment In April 2002, the FASB issued SFAS No. 145, Rescission of FASB
+Statements No. 4, 44, and 64, Amendment of FASB Statement No. 13, and Technical Corrections. SFAS No. 145, among other things, eliminates the requirement that all gains and losses on the extinguishment of debt must be classified as
+extraordinary items on the income statement, thereby permitting the classification of such gains and losses as extraordinary items only if the criteria of Accounting Principles Board (APB) No. 30 are met. We are required to adopt this provision of
+SFAS No. 145 effective January 1, 2003 and, upon adoption, we will reclassify in our statements of income previously reported extraordinary charges for the early extinguishment of debt to income from continuing operations. Exit or Disposal Activities In June 2002, the FASB issued SFAS No. 146, Accounting for Costs
+Associated with Exit or Disposal Activities. This standard addresses financial accounting and reporting for costs associated with exit or disposal activities and nullifies Emerging Issues Task Force (EITF) Issue No. 94-3, Liability
+Recognition for Certain Employee Termination Benefits and Other Costs to Exit an Activity (including Certain Costs Incurred in a Restructuring). EITF Issue No. 94-3 required accrual of liabilities related to exit and disposal activities at a
+plan (commitment) date. SFAS No. 146 requires that a liability for a cost associated with an exit or disposal activity be recognized when the liability is incurred. The provisions of this standard are effective for exit or disposal activities that
+are initiated after December 31, 2002. Contractual
+Obligations The following table provides a summary of our
+contractual obligations at December 31, 2002. Additional detail about these items is included in the notes to the financial statements. 
+
+Payments Due by Period (Dollars in Millions) 
+ 
+ Contractual Obligation 
+ 
+ Total 
+ 
+ Less than 1 year 
+ 
+ 1-3 years 
+ 
+ 4-5 years 
+ 
+ After 5 years 
+
+Long-term debt 
+
+665.0 
+
+100.0 
+
+65.0 
+
+500.0 
+ 
+ Capital lease obligations 
+
+14.7 
+
+1.7 
+
+4.1 
+
+4.1 
+
+4.8 
+ 
+ Operating leases 
+
+12.6 
+
+4.3 
+
+5.5 
+
+1.7 
+
+1.1 
+
+Total contractual cash obligations 
+
+692.3 
+
+6.0 
+
+109.6 
+
+70.8 
+
+505.9 
+
+Subsequent Events
+ On February 3, 2003, we declared and paid a dividend in the
+amount of 76.0 million to our parent, Verizon. On March 6,
+2003, we redeemed the entire outstanding principal amount of our 65.0 million 5 5 / 8 debentures, due March 1,
+2007. This redemption will not result in a material charge to results of operations. On March 14, 2003, we issued 1,000.0 million in 4.625 debentures due on March 15, 2013. The proceeds from this sale will be used for general corporate purposes. 
+ 14 
+
+Table of Contents 
+
+ Verizon Virginia Inc. 
+ Item 7A. Quantitative and Qualitative Disclosures About Market Risk We are exposed to interest rate risk in the normal course of our business. The majority of our debt is fixed rate debt and we did not have any derivatives
+as of December 31, 2002 and 2001. Our short-term borrowings from an affiliate expose our earnings to changes in short-term interest rates since the interest rate charged on such borrowings is typically fixed for less than one month. The following table summarizes the fair values of our long-term debt as of
+December 31, 2002 and 2001. The table also provides a sensitivity analysis of the estimated fair values of these financial instruments assuming 100-basis-point upward and downward parallel shifts in the yield curve. The sensitivity analysis did not
+include the fair values of our short-term borrowings from an affiliate since they are not significantly affected by changes in market interest rates. 
+
+December 31 
+ 
+ (Dollars in Millions) 
+ 
+ 2002 
+ 
+ 2001 
+
+Fair value of long-term debt 
+
+748.3 
+
+974.2 
+ 
+ Fair value assuming a +100-basis-point shift 
+
+694.8 
+
+915.2 
+ 
+ Fair value assuming a 100-basis-point shift 
+
+797.0 
+
+1,032.0 
+ 
+ Item 8. Financial Statements and Supplementary Data The information required by this Item is set forth on Pages F-1 through F-26. 
+ Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure Not applicable. PART III 
+ Item 10. Directors and Executive Officers of the Registrant (Omitted pursuant to General Instruction I(2).) 
+ Item 11. Executive Compensation (Omitted pursuant to General Instruction I(2).) 
+ Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters (Omitted pursuant to General Instruction I(2).) 
+ Item 13. Certain Relationships and Related Transactions (Omitted pursuant to General Instruction I(2).) 
+ Item 14. Controls and Procedures (a) Evaluation of Disclosure Controls and Procedures Our chief executive officer and chief financial officer have evaluated the effectiveness of the registrant s disclosure controls and
+procedures (as defined in Rules 13a-14(c) and 15d-14(c) of the Securities Exchange Act of 1934), as of a date within 90 days of the filing date of this annual report (Evaluation Date), that ensure that information relating to the registrant which is
+required to be disclosed in this report is recorded, processed, summarized and reported, within required time periods. They have concluded that as of the 
+ 15 
+
+Table of Contents 
+
+ Verizon Virginia Inc. Evaluation Date, the registrant s disclosure controls and procedures were adequate and effective to
+ensure that material information relating to the registrant and its consolidated subsidiaries would be made known to them by others within those entities, particularly during the period in which this annual report was being prepared. (b) Changes in Internal Controls There were no significant changes in the registrant s
+internal controls or in other factors that could significantly affect these controls subsequent to the Evaluation Date, nor were there any significant deficiencies or material weaknesses in these controls requiring corrective actions. PART IV 
+ Item 15. Exhibits, Financial Statement Schedules, and Reports on Form 8-K (a) The following documents are filed as part of this report: (1) Financial Statements See Index to Financial Statements and Financial Statement Schedule appearing on Page F-1. (2) Financial Statement Schedules See Index to Financial Statements and Financial Statement
+Schedule appearing on Page F-1. (3) Exhibits
+
+Exhibits identified in parentheses below, on file with the Securities and Exchange Commission (SEC), are incorporated herein by reference as exhibits hereto.
+
+3a 
+ 
+ Articles of Amendment of the Articles of Incorporation of the registrant, adopted June 13, 1977, and filed July 28, 1977. (Exhibit 3a to Form 10-K for the year ended
+December 31, 1985.) 
+
+3a(i) 
+ 
+ Amendment to the registrant s Articles of Incorporation, adopted April 5, 1990 and filed August 24, 1990. (Exhibit 3a(i) to Form 10-K for the year ended
+December 31, 1990.) 
+
+3a(ii) 
+ 
+ Amendment to the registrant s Articles of Incorporation, adopted December 31, 1993 and filed January 13, 1994. (Exhibit 3a(ii) to Form 10-K for the year ended
+December 31, 1993.) 
+
+3a(iii) 
+ 
+ Articles of Amendment of Articles of Incorporation, adopted June 30, 2000. (Exhibit 3a(iii) to Form 10-Q for the period ended June 30, 2000.)
+
+3b 
+ 
+ By-Laws of the registrant, as amended August 12, 2002. (Exhibit 3b to Form 10-Q for the period ended June 30, 2002.) 
+
+4 
+ 
+ No instrument which defines the rights of holders of long-term debt of the registrant is filed herewith pursuant to Regulation S-K, Item 601(b)(4)(iii)(A). Pursuant
+to this regulation, the registrant hereby agrees to furnish a copy of any such instrument to the SEC upon request. 
+
+12 
+ 
+ Computation of Ratio of Earnings to Fixed Charges. 
+
+23 
+ 
+ Consent of Independent Auditors. 
+ 16 
+
+Table of Contents 
+
+ Verizon Virginia Inc. (b) Reports on Form 8-K:
+ A Current Report on Form 8-K was furnished on
+November 13, 2002, containing certification statements to the Securities and Exchange Commission relating to Exchange Act filings, signed by the Chairman of the Board and Chief Executive Officer and by the Chief Financial Officer. 
+ 17 
+
+Table of Contents 
+
+ Verizon Virginia Inc. 
+ SIGNATURES Pursuant to the
+requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+V ERIZON V IRGINIA I NC . 
+
+Date: March 19, 2003 
+
+By: 
+ 
+ /s/ E DWIN F. H ALL Edwin F. Hall Controller 
+
+Pursuant to the
+requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/ L AWRENCE T. B ABBIO ,
+J R . Lawrence T. Babbio, Jr. 
+ 
+ Chairman of the Board and Chief Executive Officer (Principal Executive Officer) and Director 
+ 
+ March 19, 2003 
+
+/s/ L AWRENCE R.
+W HITMAN Lawrence R.
+Whitman 
+ 
+ Chief Financial Officer (Principal Financial Officer) 
+ 
+ March 19, 2003 
+
+/s/ E DWIN F.
+H ALL Edwin F.
+Hall 
+ 
+ Controller 
+ 
+ March 19, 2003 
+
+/s/ R OBERT W. W OLTZ ,
+J R . Robert W. Woltz,
+Jr. 
+ 
+ Director 
+ 
+ March 19, 2003 
+
+/s/ C HRISTOPHER M.
+C REAGER Christopher
+M. Creager 
+ 
+ Director 
+ 
+ March 19, 2003 
+
+/s/ L YDIA R.
+P ULLEY Lydia R.
+Pulley 
+ 
+ Director 
+ 
+ March 19, 2003 
+ 
+ 18 
+
+Table of Contents 
+
+ Verizon Virginia Inc. 
+ CERTIFICATIONS I, Lawrence T. Babbio,
+Jr., certify that: 
+
+1. 
+ 
+ I have reviewed this annual report on Form 10-K of Verizon Virginia Inc.; 
+
+2. 
+ 
+ Based on my knowledge, this annual report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this annual report; 
+
+3. 
+ 
+ Based on my knowledge, the financial statements, and other financial information included in this annual report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this annual report; 
+
+4. 
+ 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act
+Rules 13a-14 and 15d-14) for the registrant and have: 
+
+a) 
+ 
+ designed such disclosure controls and procedures to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made
+known to us by others within those entities, particularly during the period in which this annual report is being prepared; 
+
+b) 
+ 
+ evaluated the effectiveness of the registrant s disclosure controls and procedures as of a date within 90 days prior to the filing date of this annual report
+(the Evaluation Date and 
+
+c) 
+ 
+ presented in this annual report our conclusions about the effectiveness of the disclosure controls and procedures based on our evaluation as of the Evaluation Date;
+
+5. 
+ 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation, to the registrant s auditors and the audit committee
+of registrant s board of directors (or persons performing the equivalent function): 
+
+a) 
+ 
+ all significant deficiencies in the design or operation of internal controls which could adversely affect the registrant s ability to record, process, summarize
+and report financial data and have identified for the registrant s auditors any material weaknesses in internal controls; and 
+
+b) 
+ 
+ any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal controls; and
+
+6. 
+ 
+ The registrant s other certifying officer and I have indicated in this annual report whether there were significant changes in internal controls or in other
+factors that could significantly affect internal controls subsequent to the date of our most recent evaluation, including any corrective actions with regard to significant deficiencies and material weaknesses. 
+
+Date: March 19, 2003 
+
+/s/ L AWRENCE T. B ABBIO , J R . 
+
+Lawrence T. Babbio, Jr. Chairman of the Board and Chief Executive
+Officer 
+ 
+ 19 
+
+Table of Contents 
+
+ Verizon Virginia Inc. CERTIFICATIONS I, Lawrence R. Whitman, certify that: 
+
+1. 
+ 
+ I have reviewed this annual report on Form 10-K of Verizon Virginia Inc.; 
+
+2. 
+ 
+ Based on my knowledge, this annual report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this annual report; 
+
+3. 
+ 
+ Based on my knowledge, the financial statements, and other financial information included in this annual report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this annual report; 
+
+4. 
+ 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act
+Rules 13a-14 and 15d-14) for the registrant and have: 
+
+a) 
+ 
+ designed such disclosure controls and procedures to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made
+known to us by others within those entities, particularly during the period in which this annual report is being prepared; 
+
+b) 
+ 
+ evaluated the effectiveness of the registrant s disclosure controls and procedures as of a date within 90 days prior to the filing date of this annual report
+(the Evaluation Date and 
+
+c) 
+ 
+ presented in this annual report our conclusions about the effectiveness of the disclosure controls and procedures based on our evaluation as of the Evaluation Date;
+
+5. 
+ 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation, to the registrant s auditors and the audit committee
+of registrant s board of directors (or persons performing the equivalent function): 
+
+a) 
+ 
+ all significant deficiencies in the design or operation of internal controls which could adversely affect the registrant s ability to record, process, summarize
+and report financial data and have identified for the registrant s auditors any material weaknesses in internal controls; and 
+
+b) 
+ 
+ any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal controls; and
+
+6. 
+ 
+ The registrant s other certifying officer and I have indicated in this annual report whether there were significant changes in internal controls or in other
+factors that could significantly affect internal controls subsequent to the date of our most recent evaluation, including any corrective actions with regard to significant deficiencies and material weaknesses. 
+
+Date: March 19, 2003 
+
+/s/ L AWRENCE R. W HITMAN 
+
+Lawrence R.
+Whitman Chief Financial Officer 
+ 
+ 20 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ Statements and Financial Statement Schedule 
+
+Page 
+ 
+ Report of Independent Auditors Ernst Young LLP 
+ 
+ F-2 
+
+Statements of Income 
+
+For the years ended December 31, 2002, 2001 and 2000 
+ 
+ F-3 
+
+Balance Sheets December 31, 2002 and 2001 
+ 
+ F-4 
+
+Statements of Changes in Shareowner s Investment 
+
+For the years ended December 31, 2002, 2001 and 2000 
+ 
+ F-6 
+
+Statements of Cash Flows 
+
+For the years ended December 31, 2002, 2001 and 2000 
+ 
+ F-7 
+
+Notes to Financial Statements 
+ 
+ F-8 
+
+Schedule II Valuation and Qualifying Accounts 
+
+For the years ended December 31, 2002, 2001 and 2000 
+ 
+ F-26 
+ Financial statement
+schedules other than those listed above have been omitted because such schedules are not required or applicable. 
+ F-1 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ REPORT OF INDEPENDENT AUDITORS The Board of Directors and Shareowner
+ Verizon Virginia Inc. We have audited the accompanying balance sheets of Verizon Virginia Inc. (the Company) as of December 31, 2002 and 2001, and
+the related statements of income, changes in shareowner s investment, and cash flows for each of the three years in the period ended December 31, 2002. Our audits also included the financial statement schedule referenced in the index at Item
+15(a). These financial statements and the financial statement schedule are the responsibility of the Company s management. Our responsibility is to express an opinion on these financial statements and the financial statement schedule based on
+our audits. We conducted our audits in accordance with auditing
+standards generally accepted in the United States. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis for our opinion. In our opinion, the financial statements referred to above present fairly, in all material respects, the financial position of Verizon Virginia Inc. at December 31, 2002 and 2001, and the results of
+its operations and its cash flows for each of the three years in the period ended December 31, 2002, in conformity with accounting principles generally accepted in the United States. Also, in our opinion, the related financial statement schedule,
+when considered in relation to the basic financial statements taken as a whole, presents fairly in all material respects the information set forth therein. /s/ Ernst Young LLP New York, New York January 29, 2003
+ 
+ F-2 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ STATEMENTS OF INCOME For the Years Ended December 31 (Dollars in Millions) 
+
+2002 
+
+2001 
+
+2000 
+
+OPERATING REVENUES (including 124.5, 178.5 and 97.1 from affiliates) 
+
+2,352.7 
+
+2,501.0 
+
+2,491.3 
+
+Operations and support expense (exclusive of items shown below) (including 540.2,
+ 484.8 and 557.4 to affiliates) 
+
+1,273.6 
+
+1,187.7 
+
+1,182.2 
+ 
+ Depreciation and amortization 
+
+561.7 
+
+531.8 
+
+495.1 
+
+1,835.3 
+
+1,719.5 
+
+1,677.3 
+
+OPERATING INCOME 
+
+517.4 
+
+781.5 
+
+814.0 
+ 
+ OTHER INCOME AND (EXPENSE), NET (including .1, (80.0) and (2.5) from
+affiliates) 
+
+1.6 
+
+(78.2) 
+
+2.0 
+ 
+ INTEREST EXPENSE (including 15.5, 20.5 and 17.2 to affiliate) 
+
+64.6 
+
+78.7 
+
+78.6 
+
+INCOME BEFORE PROVISION FOR INCOME TAXES AND EXTRAORDINARY ITEM 
+
+454.4 
+
+624.6 
+
+737.4 
+ 
+ PROVISION FOR INCOME TAXES 
+
+175.6 
+
+274.1 
+
+283.6 
+
+INCOME BEFORE EXTRAORDINARY ITEM 
+
+278.8 
+
+350.5 
+
+453.8 
+ 
+ EXTRAORDINARY ITEM 
+
+Early extinguishment of debt, net of tax 
+
+(.6) 
+
+NET INCOME 
+
+278.2 
+
+350.5 
+
+453.8 
+
+See Notes
+to Financial Statements. 
+ F-3 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ BALANCE
+SHEETS (Dollars in Millions) ASSETS 
+
+December 31 
+
+2002 
+ 
+ 2001 
+
+CURRENT ASSETS 
+
+Short-term investments 
+
+64.9 
+
+65.0 
+ 
+ Accounts receivable: 
+
+Trade and other, net of allowances for uncollectibles of 150.0 and
+ 62.6 
+
+469.4 
+
+555.6 
+ 
+ Affiliates 
+
+62.3 
+
+74.5 
+ 
+ Material and supplies 
+
+7.7 
+
+14.0 
+ 
+ Prepaid expenses 
+
+30.3 
+
+13.4 
+ 
+ Deferred income taxes 
+
+49.2 
+
+11.0 
+ 
+ Other 
+
+58.7 
+
+57.1 
+
+742.5 
+
+790.6 
+
+PLANT, PROPERTY AND EQUIPMENT 
+
+8,209.3 
+
+8,037.8 
+ 
+ Less accumulated depreciation 
+
+4,987.6 
+
+4,653.9 
+
+3,221.7 
+
+3,383.9 
+
+INTANGIBLE ASSETS, NET 
+
+72.8 
+
+87.7 
+
+PREPAID PENSION ASSET 
+
+262.1 
+
+187.8 
+
+OTHER ASSETS 
+
+133.5 
+
+134.0 
+
+TOTAL ASSETS 
+
+4,432.6 
+
+4,584.0 
+
+See Notes
+to Financial Statements. 
+ F-4 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ BALANCE
+SHEETS (Dollars in Millions) LIABILITIES AND SHAREOWNER S INVESTMENT 
+
+December 31 
+
+2002 
+ 
+ 2001 
+
+CURRENT LIABILITIES 
+
+Debt maturing within one year: 
+
+Note payable to affiliate 
+
+780.0 
+
+517.9 
+ 
+ Other 
+
+1.7 
+
+101.6 
+ 
+ Accounts payable and accrued liabilities: 
+
+Affiliates 
+
+138.8 
+
+190.1 
+ 
+ Other 
+
+335.7 
+
+437.6 
+ 
+ Other current liabilities 
+
+139.6 
+
+135.8 
+
+1,395.8 
+
+1,383.0 
+
+LONG-TERM DEBT 
+
+674.4 
+
+845.6 
+
+EMPLOYEE BENEFIT OBLIGATIONS 
+
+327.1 
+
+286.2 
+
+DEFERRED CREDITS AND OTHER LIABILITIES 
+
+Deferred income taxes 
+
+404.4 
+
+342.8 
+ 
+ Unamortized investment tax credits 
+
+9.5 
+
+10.1 
+ 
+ Other 
+
+110.9 
+
+137.4 
+
+524.8 
+
+490.3 
+
+COMMITMENTS AND CONTINGENCIES (Notes 4 and 13) 
+
+SHAREOWNER S INVESTMENT 
+
+Common stock one share, without par value, owned by parent 
+
+873.7 
+
+873.7 
+ 
+ Capital surplus 
+
+72.1 
+
+68.7 
+ 
+ Reinvested earnings 
+
+564.7 
+
+636.5 
+
+1,510.5 
+
+1,578.9 
+
+TOTAL LIABILITIES AND SHAREOWNER S INVESTMENT 
+
+4,432.6 
+
+4,584.0 
+
+See Notes
+to Financial Statements. 
+ F-5 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ STATEMENTS OF CHANGES IN SHAREOWNER S INVESTMENT For the Years Ended December 31
+ (Dollars in Millions) 
+
+2002 
+
+2001 
+
+2000 
+
+COMMON STOCK 
+
+Balance at beginning of year 
+
+873.7 
+
+873.7 
+
+873.7 
+
+Balance at end of year 
+
+873.7 
+
+873.7 
+
+873.7 
+
+CAPITAL SURPLUS 
+
+Balance at beginning of year 
+
+68.7 
+
+Capital contribution from parent 
+
+3.3 
+
+68.7 
+
+Tax benefit from exercise of stock options 
+
+.1 
+
+Balance at end of year 
+
+72.1 
+
+68.7 
+
+REINVESTED EARNINGS 
+
+Balance at beginning of year 
+
+636.5 
+
+565.9 
+
+495.5 
+
+Net income 
+
+278.2 
+
+350.5 
+
+453.8 
+
+Dividends declared 
+
+(350.0) 
+
+(280.0) 
+
+(384.0) 
+ 
+ Other 
+
+.1 
+
+.6 
+
+Balance at end of year 
+
+564.7 
+
+636.5 
+
+565.9 
+
+ACCUMULATED OTHER COMPREHENSIVE LOSS 
+
+Balance at beginning of year 
+
+(.3) 
+ 
+ Minimum pension liability adjustment 
+
+.3 
+
+Balance at end of year 
+
+TOTAL SHAREOWNER S INVESTMENT 
+
+1,510.5 
+
+1,578.9 
+
+1,439.6 
+
+COMPREHENSIVE INCOME 
+
+Net income 
+
+278.2 
+
+350.5 
+
+453.8 
+
+Minimum pension liability adjustment 
+
+.3 
+
+TOTAL COMPREHENSIVE INCOME 
+
+278.2 
+
+350.5 
+
+454.1 
+
+See Notes
+to Financial Statements. 
+ F-6 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ STATEMENTS OF CASH FLOWS For the Years Ended December 31 (Dollars in Millions) 
+
+2002 
+
+2001 
+
+2000 
+
+CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Income before extraordinary item 
+
+278.8 
+
+350.5 
+
+453.8 
+
+Adjustments to reconcile income before extraordinary item to net cash provided by
+operating activities: 
+
+Depreciation and amortization 
+
+561.7 
+
+531.8 
+
+495.1 
+
+Employee retirement benefits 
+
+(26.8) 
+
+(75.6) 
+
+(90.6) 
+ 
+ Deferred income taxes, net 
+
+22.8 
+
+41.2 
+
+89.0 
+
+Provision for uncollectible accounts 
+
+130.8 
+
+54.1 
+
+35.3 
+
+Equity loss from affiliates 
+
+80.2 
+
+2.5 
+
+Dividends received from affiliate 
+
+.4 
+
+.6 
+
+Changes in current assets and liabilities: 
+
+Accounts receivable 
+
+(32.4) 
+
+(46.7) 
+
+(146.3) 
+ 
+ Material and supplies 
+
+6.3 
+
+(6.0) 
+
+(.6) 
+ 
+ Other current assets 
+
+(18.5) 
+
+23.0 
+
+(61.2) 
+ 
+ Accounts payable and accrued liabilities 
+
+(153.2) 
+
+121.3 
+
+(19.7) 
+ 
+ Other current liabilities 
+
+3.8 
+
+2.9 
+
+63.9 
+
+Other items, net 
+
+(19.6) 
+
+(3.4) 
+
+(61.4) 
+
+Net cash provided by operating activities 
+
+753.7 
+
+1,073.7 
+
+760.4 
+
+CASH FLOWS FROM INVESTING ACTIVITIES 
+
+Purchases of short-term investments 
+
+(64.9) 
+
+(65.0) 
+
+(38.6) 
+ 
+ Proceeds from sale of short-term investments 
+
+65.0 
+
+38.6 
+
+33.6 
+
+Capital expenditures 
+
+(389.5) 
+
+(765.6) 
+
+(718.7) 
+ 
+ Investment in unconsolidated business 
+
+(68.7) 
+
+Capitalized non-network software 
+
+(4.8) 
+
+(35.8) 
+
+(61.3) 
+ 
+ Other, net 
+
+(3.3) 
+
+18.4 
+
+.1 
+
+Net cash used in investing activities 
+
+(397.5) 
+
+(878.1) 
+
+(784.9) 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Principal repayments of borrowings and capital lease obligations 
+
+(101.6) 
+
+(2.7) 
+
+(1.4) 
+ 
+ Early extinguishment of debt 
+
+(170.0) 
+
+Net change in note payable to affiliate 
+
+262.1 
+
+17.5 
+
+403.0 
+
+Dividends paid 
+
+(350.0) 
+
+(280.0) 
+
+(384.0) 
+ 
+ Capital contribution from parent 
+
+3.3 
+
+68.7 
+
+Net change in outstanding checks drawn on controlled disbursement
+accounts 
+
+.9 
+
+6.9 
+
+Net cash (used in)/provided by financing activities 
+
+(356.2) 
+
+(195.6) 
+
+24.5 
+
+NET CHANGE IN CASH 
+
+CASH, BEGINNING OF YEAR 
+
+CASH, END OF YEAR 
+
+See Notes
+to Financial Statements. 
+ F-7 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ NOTES TO FINANCIAL STATEMENTS 1. DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES Description of Business Verizon Virginia Inc. is a wholly owned subsidiary of Verizon Communications
+Inc. (Verizon). We presently serve a territory consisting of Local Access and Transport Areas (LATAs) in the state of Virginia. We have one reportable segment which provides domestic wireline telecommunications services. We currently provide two
+basic types of telecommunications services: 
+
+Exchange telecommunication service is the transmission of telecommunications among customers located within a local calling area within a LATA. Examples of
+exchange telecommunications services include switched local residential and business services, local private line voice and data services and Centrex services. We also provide toll services within a LATA (intraLATA long distance).
+
+Exchange access service links a customer s premises and the transmission facilities of other telecommunications carriers, generally interLATA carriers.
+Examples of exchange access services include switched access and special access services. The communications services we provide are subject to regulation by the Virginia State Corporation Commission (VSCC) with respect to intrastate rates and services and other matters. The Federal
+Communications Commission (FCC) regulates rates that we charge long distance carriers and end-user subscribers for interstate access services. On October 30, 2002, the FCC released an order approving our application for permission to enter the in-region long distance market in Virginia. Since
+November 12, 2002, in-region long distance is being offered by a separate non-regulated subsidiary of Verizon as required by law. Basis of Presentation We prepare our financial statements using generally accepted accounting principles which require management to make estimates and assumptions that affect
+reported amounts and disclosures. Actual results could differ from those estimates. Examples of significant estimates include the allowance for doubtful accounts, the recoverability of intangibles and other long-lived assets, valuation allowances on
+tax assets and pension and postretirement benefit assumptions. We have a 1.98 ownership interest in SMS/800, a venture that is jointly owned by the Bell Operating Companies. SMS/800 administers the centralized national database system associated with toll free numbers. We use the equity method
+of accounting for our investment in SMS/800. Our investment in
+Verizon Ventures III Inc. (Ventures III), an affiliated company which provides new exchange access services through a separate subsidiary, is accounted for using the equity method of accounting. Our ownership interest in Ventures III was 22.31 at
+December 31, 2002, and 9.42 at December 31, 2001 (see Note 10). We have reclassified certain amounts from prior periods to conform with our current presentation. Revenue Recognition We recognize service revenues based upon usage of our local exchange network and facilities and contract fees. We recognize product and other service
+revenues when the products are delivered and accepted by the customers and when services are provided in accordance with contract terms. We adopted the provisions of the Securities and Exchange Commission (SEC) Staff Accounting Bulletin (SAB) No. 101, Revenue Recognition in Financial
+Statements, effective January 1, 2000, as required by the SEC. As a result of the adoption of SAB No. 101, we defer nonrecurring service activation revenues and costs and amortize them over the expected term of the customer relationship. The
+deferred costs are equal to the activation fee revenue and any excess cost is expensed immediately. The deferred costs represent direct costs associated with certain non-recurring fees, such as service activation and installation fees. Previously,
+these revenues and costs were recognized when the activation service was performed. This change in accounting did not have a material impact on our results of operations. 
+ F-8 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ Our balance sheet includes deferred activation costs and deferred activation revenues as follows:
+
+December 31 
+ 
+ (Dollars in Millions) 
+ 
+ 2002 
+ 
+ 2001 
+
+Deferred Activation Costs 
+
+Current assets other 
+
+57.6 
+
+54.9 
+ 
+ Other assets 
+
+98.9 
+
+92.4 
+ 
+ Deferred Activation Revenues 
+
+Current liabilities other 
+
+57.6 
+
+54.9 
+ 
+ Deferred credits and other liabilities other 
+
+98.9 
+
+92.4 
+ Maintenance and
+Repairs We charge the cost of maintenance and repairs,
+including the cost of replacing minor items not constituting substantial betterments, to Operations and Support Expense as these costs are incurred. Cash and Cash Equivalents We consider all highly liquid investments with a maturity of 90 days or less when purchased to be cash equivalents, except cash equivalents held as
+short-term investments. Cash equivalents are stated at cost, which approximates market value. Short-term Investments Our short-term investments consist of cash equivalents held in trust to pay for certain employee benefits. Short-term investments are stated at cost, which approximates market value. Material and Supplies We include in inventory new and reusable materials which are stated
+principally at average original cost, except that specific costs are used in the case of large individual items. Plant and Depreciation We record plant, property, and equipment at cost. Depreciation expense is principally based on the composite group remaining life method and straight-line composite rates. This method provides for the recognition of the cost of the
+remaining net investment in telephone plant, less anticipated net salvage value (if any), over the remaining asset lives. This method requires the periodic revision of depreciation rates. (See Recent Accounting Pronouncements Asset
+Retirement Obligations below.) We used the following asset lives: 
+
+Average Lives (in years) 
+
+Buildings 
+ 
+ 30 35 
+ 
+ Central office equipment 
+ 
+ 5 12 
+ 
+ Outside communications plant 
+ 
+ 16 50 
+ 
+ Furniture, vehicles and other 
+ 
+ 3 15 
+ When we replace or
+retire depreciable telephone plant, we deduct the carrying amount of such plant from the respective accounts and charge it to accumulated depreciation. We capitalize interest associated with the acquisition or construction of plant assets. Capitalized interest is reported as a cost of plant and a
+reduction in interest expense. 
+ F-9 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ Impairment of Long-Lived Assets Our plant, property, and equipment and intangible assets subject to amortization are reviewed for impairment in accordance
+with Statement of Financial Accounting Standards (SFAS) No. 144, Accounting for the Impairment or Disposal of Long-Lived Assets, which we adopted effective January 1, 2002. Under SFAS No. 144, these assets are tested for recoverability
+whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. An impairment charge is recognized for the amount (if any) by which the carrying value of the asset exceeds its fair value. Prior to January 1, 2002, we assessed the impairment of long-lived assets
+under SFAS No. 121, Accounting for the Impairment of Long-Lived Assets and for Long-Lived Assets to Be Disposed Of. Computer Software Costs We capitalize the cost of internal-use software which has a useful life in excess of one year in accordance with Statement of Position (SOP) No. 98-1,
+ Accounting for the Costs of Computer Software Developed or Obtained for Internal Use. Subsequent additions, modifications or upgrades to internal-use software are capitalized only to the extent that they allow the software to perform a
+task it previously did not perform. Software maintenance and training costs are expensed in the period in which they are incurred. Also, we capitalize interest associated with the development of internal-use software. Capitalized computer software
+costs are amortized using the straight-line method over a period of 3 to 7 years. Goodwill and Other Intangible Assets Effective January 1, 2002, we adopted SFAS No. 142, Goodwill and Other Intangible Assets. SFAS No. 142 no longer permits the amortization of goodwill and indefinite-lived intangible assets. Instead, these assets must be
+reviewed annually (or more frequently under prescribed conditions) for impairment in accordance with this statement. This impairment test uses a fair value approach rather than the undiscounted cash flows approach previously required by SFAS No.
+121. The goodwill impairment test under SFAS No. 142 requires a two-step approach, which is performed at the reporting unit level, as defined in SFAS No. 142. Step one identifies potential impairments by comparing the fair value of the reporting
+unit to its carrying amount. Step two, which is only performed if there is a potential impairment, compares the carrying amount of the reporting unit s goodwill to its implied value, as defined in SFAS No. 142. If the carrying amount of the
+reporting unit s goodwill exceeds the implied fair value of that goodwill, an impairment loss is recognized for an amount equal to that excess. Intangible assets that do not have indefinite lives are amortized over their useful lives. The
+adoption of SFAS No. 142 did not impact our results of operations or financial position because we had no goodwill or indefinite-lived intangible assets at December 31, 2002, 2001 and 2000. Our other intangible assets consist of non-network software as follows:
+
+As of December 31, 2002 
+ 
+ As of December 31, 2001 
+
+(Dollars in Millions) 
+ 
+ Gross Carrying Amount 
+ 
+ Accumulated Amortization 
+ 
+ Gross Carrying Amount 
+ 
+ Accumulated Amortization 
+
+Non-network software (3 to 7 years) 
+
+120.9 
+
+48.1 
+
+116.1 
+
+28.4 
+ Intangible asset
+amortization expense was 19.7 million in 2002. Amortization expense is estimated to be 20.1 million in 2003, 18.8 million in 2004, 13.6 million in 2005, 10.5 million in 2006, and 5.8 million in 2007, related to our non-network software.
+ Advertising Costs We expense advertising costs as they are incurred. Stock-Based Compensation We participate in employee compensation plans sponsored by Verizon with awards
+of Verizon common stock. Verizon has historically accounted for stock-based employee compensation plans under Accounting Principles Board (APB) Opinion No. 25, Accounting for Stock Issued to Employees, and related interpretations, and
+followed the disclosure-only provisions of SFAS No. 123, Accounting for Stock-Based Compensation. Effective January 1, 2003, Verizon adopted the 
+ 
+ F-10 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ 
+ fair value recognition provisions of SFAS No. 123, prospectively (as permitted under SFAS No. 148, Accounting for Stock-Based
+Compensation Transition and Disclosure to all new awards granted, modified or settled after January 1, 2003 (see Note 7). Employee Benefit Plans We participate in the Verizon benefit plans. Under these plans, pension and postretirement health care and life insurance benefits earned during the year
+as well as interest on projected benefit obligations are accrued currently. Prior service costs and credits resulting from changes in plan benefits are amortized over the average remaining service period of the employees expected to receive
+benefits. Income Taxes Verizon and its domestic subsidiaries, including us, file a consolidated
+federal income tax return. Current and deferred tax expense is
+determined by applying the provisions of SFAS No. 109, Accounting for Income Taxes to each subsidiary as if it were a separate taxpayer. We use the deferral method of accounting for investment tax credits earned prior to the repeal of investment tax credits by the Tax Reform Act of 1986. We
+also defer certain transitional credits earned after the repeal. We amortize these credits over the estimated service lives of the related assets as a reduction to the Provision for Income Taxes. Derivative Instruments Effective January 1, 2001, we adopted SFAS No. 133, Accounting for
+Derivative Instruments and Hedging Activities and SFAS No. 138, Accounting for Certain Derivative Instruments and Certain Hedging Activities. SFAS No. 133 requires that all derivatives, including derivatives embedded in other
+financial instruments, be measured at fair value and recognized as either assets or liabilities on our balance sheet. Changes in the fair values of derivative instruments not qualifying as hedges under SFAS No. 133 or any ineffective portion of
+hedges are recognized in earnings in the current period. Changes in the fair values of derivative instruments used effectively as fair value hedges are recognized in earnings, along with changes in the fair value of the hedged item. Changes in the
+fair value of the effective portions of cash flow hedges are reported in other comprehensive income (loss), and recognized in earnings when the hedged item is recognized in earnings. We had no derivative instruments as of December 31, 2002, 2001 and
+2000. Recent Accounting Pronouncements Asset Retirement Obligations On January 1, 2003, we adopted SFAS No. 143, Accounting for Asset
+Retirement Obligations. This standard provides the accounting for the cost of legal obligations associated with the retirement of long-lived assets. SFAS No. 143 requires that companies recognize the fair value of a liability for asset
+retirement obligations in the period in which the obligations are incurred and capitalize that amount as part of the book value of the long-lived asset. We have determined that we do not have a material legal obligation to remove long-lived assets
+as described by this statement. However, we have included estimated removal costs in our group depreciation models. These costs have increased depreciation expense and accumulated depreciation for future removal costs for existing assets. These
+removal costs are recorded as a reduction to accumulated depreciation when the assets are retired and removal costs are incurred. For some assets, such as telephone poles, the removal costs exceed salvage value. Under the provisions of SFAS No. 143, we are required to exclude costs
+of removal from our depreciation rates for assets for which the removal costs exceed salvage. Accordingly, in connection with the initial adoption of this standard on January 1, 2003, we have reversed accrued costs of removal in excess of salvage
+from our accumulated depreciation accounts for these assets. The adjustment was recorded as a cumulative effect of an accounting change, resulting in the recognition of a gain of approximately 142 million 87 million after-tax). Effective January
+1, 2003, we began expensing costs of removal in excess of salvage for these assets as incurred. The impact of this change in accounting will result in a decrease in depreciation expense and an increase in operations and support expense. We estimate
+the net impact in 2003, excluding the cumulative effect adjustment, will not be material to our results of operations. 
+ F-11 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ Debt Extinguishment
+ In April 2002, the Financial Accounting Standards Board
+(FASB) issued SFAS No. 145, Rescission of FASB Statements No. 4, 44, and 64, Amendment of FASB Statement No. 13, and Technical Corrections. SFAS No. 145, among other things, eliminates the requirement that all gains and losses on the
+extinguishment of debt must be classified as extraordinary items on the income statement, thereby permitting the classification of such gains and losses as extraordinary items only if the criteria of APB No. 30 are met. We are required to adopt this
+provision of SFAS No. 145 effective January 1, 2003 and, upon adoption, we will reclassify in our statements of income previously reported extraordinary charges for the early extinguishment of debt to income from continuing operations. Exit or Disposal Activities In June 2002, the FASB issued SFAS No. 146, Accounting for Costs
+Associated with Exit or Disposal Activities. This standard addresses financial accounting and reporting for costs associated with exit or disposal activities and nullifies Emerging Issues Task Force (EITF) Issue No. 94-3, Liability
+Recognition for Certain Employee Termination Benefits and Other Costs to Exit an Activity (including Certain Costs Incurred in a Restructuring). EITF Issue No. 94-3 required accrual of liabilities related to exit and disposal activities at a
+plan (commitment) date. SFAS No. 146 requires that a liability for a cost associated with an exit or disposal activity be recognized when the liability is incurred. The provisions of this standard are effective for exit or disposal activities that
+are initiated after December 31, 2002. 2. COMPLETION OF
+MERGERS AND OTHER INITIATIVES On June 30, 2000, Bell
+Atlantic and GTE completed a merger under a definitive merger agreement dated as of July 27, 1998. Under the terms of the agreement, GTE became a wholly owned subsidiary of Bell Atlantic. With the closing of the merger, the combined company began
+doing business as Verizon. The merger qualified as a tax-free reorganization and has been accounted for as a pooling-of-interests business combination. Under this method of accounting, Bell Atlantic and GTE are treated as if they had always been
+combined for accounting and financial reporting purposes. The
+following table summarizes the one-time charges incurred for the Bell Atlantic GTE merger. 
+
+(Dollars in Millions) 
+ 
+ Years Ended December 31, 
+ 
+ 2002 
+ 
+ 2001 
+ 
+ 2000 
+
+Direct incremental costs 
+
+12.2 
+ 
+ Employee severance costs 
+
+12.8 
+ 
+ Transition costs 
+
+16.1 
+
+25.4 
+
+7.0 
+
+Total Merger-Related Costs 
+
+16.1 
+
+25.4 
+
+32.0 
+
+Merger-Related
+Charges Direct Incremental Costs Direct incremental costs related to the Bell Atlantic-GTE merger of 12.2
+million (including 11.9 million allocated from Verizon Services) include compensation, professional services and other costs. Compensation includes retention payments to employees that were contingent on the close of the merger. Professional
+services include investment banking, legal, accounting, consulting and other advisory fees incurred to obtain federal and state regulatory approvals and take other actions necessary to complete the merger. Other includes costs incurred to obtain
+shareholder approval of the merger, register securities and communicate with shareholders, employees and regulatory authorities regarding merger issues. All of the Bell Atlantic-GTE merger direct incremental costs had been paid as of December 31,
+2001. 
+ F-12 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ Employee Severance Costs Employee severance costs related to the Bell Atlantic-GTE merger of 12.8 million (including 9.4 million allocated from
+Verizon Services), as recorded under SFAS No. 112, Employers Accounting for Postemployment Benefits, represent the benefit costs for the separation of management employees who were entitled to benefits under pre-existing separation
+plans. The separations occurred as a result of consolidations and process enhancements within our company. Accrued postemployment benefit liabilities for those employees are included in our balance sheets as a component of Accounts Payable and
+Accrued Liabilities Other. As of December 31, 2001 and 2000, the remaining merger-related severance liability was 2.2 million and 3.3 million, respectively. As of December 31, 2002, the severances in connection with the Bell Atlantic-GTE
+merger are complete. Transition Costs In addition to the direct merger-related and severance costs discussed above,
+from the date of the Bell Atlantic-GTE merger, we incurred transition costs related to the Bell Atlantic-GTE merger. These costs were incurred to integrate systems, consolidate real estate, relocate employees and meet certain regulatory conditions
+of the merger. They also include costs for advertising and other costs to establish the Verizon brand. Transition activities are complete at December 31, 2002 and total 48.5 million. Transition costs were 16.1 million in 2002 (including 12.1
+million allocated from Verizon Services), 25.4 million in 2001 (including 22.1 million allocated from Verizon Services) and 7.0 million in 2000 (including 6.7 million allocated from Verizon Services). Other Initiatives In 2002, we recorded an impairment charge of 29.6 million driven by our
+financial statement exposure to WorldCom Inc. This charge was recorded in operations and support expense in our statements of income. During the second quarter of 2000, we recorded a .2 million charge for other actions in relation to the Bell Atlantic GTE merger. This charge was
+related to the write-off of duplicate assets and recorded in operations and support expense in our statements of income. 3. PLANT, PROPERTY AND EQUIPMENT The following table displays the details of plant, property and equipment, which is stated at cost: 
+
+December 31 
+
+(Dollars in Millions) 
+ 
+ 2002 
+
+2001 
+
+Land 
+
+22.4 
+
+22.1 
+
+Buildings 
+
+511.8 
+
+481.3 
+
+Central office equipment 
+
+4,018.9 
+
+3,953.4 
+
+Outside communications plant 
+
+2,952.7 
+
+2,865.9 
+
+Furniture, vehicles and other work equipment 
+
+449.2 
+
+455.0 
+
+Construction-in-progress 
+
+46.7 
+
+77.6 
+
+Other 
+
+207.6 
+
+182.5 
+
+8,209.3 
+
+8,037.8 
+
+Accumulated depreciation 
+
+(4,987.6) 
+
+(4,653.9) 
+
+Total 
+
+3,221.7 
+
+3,383.9 
+
+See Recent
+Accounting Pronouncements Asset Retirement Obligations in Note 1. 
+ F-13 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ 4. LEASES
+ We lease certain facilities and equipment for use in our
+operations under both capital and operating leases. We incurred initial capital lease obligations of .1 million in 2002, 2.3 million in 2001, and .3 million in 2000. Capital lease amounts included in plant, property and equipment are as follows: 
+
+December 31 
+
+(Dollars in Millions) 
+ 
+ 2002 
+
+2001 
+
+Capital leases 
+
+23.5 
+
+23.6 
+
+Accumulated amortization 
+
+(11.4) 
+
+(10.2) 
+
+Total 
+
+12.1 
+
+13.4 
+
+Total rent expense
+amounted to 120.4 million in 2002, 99.5 million in 2001 and 44.2 million in 2000. Of these amounts 99.9 million in 2002, 77.8 million in 2001 and 24.6 million in 2000 were lease payments to affiliated companies for land and buildings.
+ This table displays the aggregate minimum rental commitments
+under noncancelable leases for the periods shown at December 31, 2002: 
+
+(Dollars in Millions) Years 
+ 
+ Capital Leases 
+ 
+ Operating Leases 
+
+2003 
+
+3.9 
+
+4.3 
+ 
+ 2004 
+
+3.8 
+
+3.1 
+ 
+ 2005 
+
+3.7 
+
+2.4 
+ 
+ 2006 
+
+3.8 
+
+1.4 
+ 
+ 2007 
+
+3.7 
+
+.3 
+ 
+ Thereafter 
+
+8.9 
+
+1.1 
+
+Total minimum rental commitments 
+
+27.8 
+
+12.6 
+
+Less interest and executory costs 
+
+13.1 
+
+Present value of minimum lease payments 
+
+14.7 
+
+Less current installments 
+
+1.7 
+
+Long-term obligation at December 31, 2002 
+
+13.0 
+
+5. DEBT
+ Debt Maturing Within One Year Debt maturing within one year consists of the following at December 31:
+
+(Dollars in Millions) 
+ 
+ 2002 
+
+2001 
+
+Note payable to affiliate (VNFC) 
+
+780.0 
+
+517.9 
+
+Long-term debt maturing within one year 
+
+1.7 
+
+101.6 
+
+Total debt maturing within one year 
+
+781.7 
+
+619.5 
+
+Weighted average interest rate for note payable outstanding at year-end 
+
+1.4 
+
+2.1 
+
+We have a contractual
+agreement with an affiliated company, Verizon Network Funding Corporation (VNFC), for the provision of short-term financing and cash management services. VNFC issues commercial paper and obtains bank loans to fund the working capital requirements of
+Verizon s network services subsidiaries, including us, and invests funds in temporary investments on their behalf. 
+ F-14 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ Long-Term Debt
+ Long-term debt consists principally of debentures that we
+have issued. Interest rates and maturities of the amounts outstanding are as follows at December 31: 
+
+Description 
+ 
+ Interest Rate 
+
+Maturity 
+ 
+ 2002 
+
+2001 
+
+(Dollars in Millions) 
+
+Ten year debenture 
+ 
+ 7 1 / 8 
+
+2002 
+
+100.0 
+
+Thirty-nine year debenture 
+ 
+ 5 1 / 4 
+
+2005 
+
+50.0 
+
+Twelve year debenture 
+ 
+ 6 1 / 8 
+
+2005 
+
+100.0 
+
+100.0 
+
+Forty year debenture 
+ 
+ 5 5 / 8 
+
+2007 
+
+65.0 
+
+65.0 
+
+Forty year debenture 
+ 
+ 6 3 / 4 
+
+2008 
+
+70.0 
+
+Twenty year debenture 
+ 
+ 7 5 / 8 
+
+2012 
+
+100.0 
+
+100.0 
+
+Forty year debenture 
+ 
+ 7 1 / 4 
+
+2012 
+
+50.0 
+
+Thirty year debenture 
+ 
+ 7 7 / 8 
+
+2022 
+
+100.0 
+
+100.0 
+
+Thirty-one year debenture 
+ 
+ 7 1 / 4 
+
+2024 
+
+75.0 
+
+75.0 
+
+Thirty-two year debenture 
+ 
+ 7 
+
+2025 
+
+125.0 
+
+125.0 
+
+Forty year debenture 
+ 
+ 8 3 / 8 
+
+2029 
+
+100.0 
+
+100.0 
+
+665.0 
+
+935.0 
+
+Unamortized discount and premium, net 
+
+(3.6) 
+
+(4.0) 
+ 
+ Capital lease obligations average rate 10.2 
+
+14.7 
+
+16.2 
+
+Total long-term debt, including current maturities 
+
+676.1 
+
+947.2 
+
+Less maturing within one year 
+
+1.7 
+
+101.6 
+
+Total long-term debt 
+
+674.4 
+
+845.6 
+
+Our long-term debt
+outstanding at December 31, 2002 includes 65.0 million that is callable. The call price is 100.0 of face value. Maturities of long-term debt outstanding at December 31, 2002, excluding capital lease obligations and unamortized discount and premium are as follows:
+
+(Dollars in Millions) 
+
+Years 
+
+2003 
+
+2004 
+
+2005 
+
+100.0 
+ 
+ 2006 
+
+2007 
+
+65.0 
+ 
+ Thereafter 
+
+500.0 
+
+Total long-term debt outstanding 
+
+665.0 
+
+During 2002, we recorded
+extraordinary charges associated with the early extinguishment of long-term debt, which reduced net income by .6 million (net of income tax benefits of .4 million). These debt extinguishments consisted of the following: 
+
+70.0 million of 6 3 / 4 
+debentures due on May 1, 2008 
+
+50.0 million of 5 1 / 4 
+debentures due on May 1, 2005 
+
+50.0 million of 7 1 / 4 
+debentures due on June 1, 2012 
+ F-15 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ 6. FINANCIAL INSTRUMENTS Derivatives We did not have any
+derivatives as of December 31, 2002, 2001 and 2000. Consequently, SFAS No. 133 did not have an impact on our results of operations or financial position. Concentrations of Credit Risk Financial instruments that subject us to concentrations of credit risk consist primarily of short-term investments and trade receivables. Concentrations
+of credit risk with respect to trade receivables other than those from AT T are limited due to the large number of customers. We generated revenues from services provided to AT T (primarily network access and billing and collection) of
+ 159.0 million in 2002, 160.5 million in 2001 and 187.2 million in 2000. While we may be exposed to credit losses due to the nonperformance of our counterparties, we consider this risk remote and do not expect the settlement of these transactions to have a material effect on our results of operations or
+financial position. Fair Values of Financial Instruments
+ The table below provides additional information about our
+material financial instruments at December 31: 
+
+Financial Instrument 
+ 
+ Valuation Method 
+
+Short-term note payable to affiliate (VNFC) and short-term
+investments 
+ 
+ Carrying amounts 
+ 
+ Debt (excluding capital leases) 
+ 
+ Future cash flows discounted at current rates 
+
+2002 
+ 
+ 2001 
+
+Carrying Amount 
+ 
+ Fair Value 
+ 
+ Carrying Amount 
+ 
+ Fair Value 
+
+(Dollars in Millions) 
+ 
+ Debt and note payable to affiliate 
+
+1,441.4 
+
+1,528.3 
+
+1,448.9 
+
+1,492.1 
+ 7. STOCK INCENTIVE PLANS We participate in compensation plans sponsored by Verizon with awards of Verizon common stock. Verizon applies APB Opinion No. 25 and related interpretations in accounting for the plans and has adopted the disclosure-only provisions
+of SFAS No. 123. If Verizon had elected to recognize compensation expense based on the fair value at the grant dates for 1998 and subsequent awards consistent with the provisions of SFAS No. 123, our net income would have been changed to the pro
+forma amounts indicated below: 
+
+Years ended December 31 
+
+(Dollars in Millions) 
+ 
+ 2002 
+ 
+ 2001 
+ 
+ 2000 
+
+Net income: 
+
+As reported 
+
+278.2 
+
+350.5 
+
+453.8 
+ 
+ Pro forma 
+
+274.6 
+
+345.1 
+
+448.7 
+ 
+ F-16 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ We determined the pro
+forma amounts using the Black-Scholes option-pricing model based on the following weighted-average assumptions: 
+
+2002 
+
+2001 
+
+2000 
+
+Dividend yield 
+ 
+ 3.2 
+
+2.7 
+
+3.3 
+
+Expected volatility 
+ 
+ 28.5 
+
+29.1 
+
+27.5 
+
+Risk-free interest rate 
+ 
+ 4.6 
+
+4.8 
+
+6.2 
+
+Expected lives (in years) 
+ 
+ 6 
+
+6 
+
+6 
+ 
+ The weighted-average
+value of options granted during 2002, 2001 and 2000 was 12.11, 15.24 and 13.09, respectively. The structure of Verizon s stock incentive plans does not provide for the separate determination of certain disclosures for our company. The required information is provided on a consolidated
+basis in Verizon s Annual Report on Form 10-K for the year ended December 31, 2002. Accounting Change Stock Options In December 2002, the FASB issued SFAS No. 148. This statement amends SFAS No. 123 to provide alternative methods of transition for a voluntary change to the fair value based method of accounting for stock-based employee
+compensation. In addition, this statement amends the disclosure requirements of SFAS No. 123 to require prominent disclosures in both annual and interim financial statements about the method of accounting for stock-based employee compensation and
+the effect of the method used on reported results. This statement permits two additional transition methods (modified prospective and retroactive restatement) for entities that adopt the preferable method of accounting for stock-based employee
+compensation. Effective January 1, 2003, Verizon adopted the
+fair value recognition provisions of SFAS No. 123, using the prospective method, for all new awards granted to employees after January 1, 2003. Under the prospective method, employee compensation expense in the first year will be recognized for new
+awards granted, modified, or settled. However, in subsequent years, the vesting of awards issued on or after January 1, 2003 may cause an increase in employee compensation expense. Beginning in 2003, stock option grants to some levels of management will be reduced, and accompanied by performance-based
+share awards. 8. EMPLOYEE BENEFITS We participate in Verizon s benefit plans. Verizon maintains
+noncontributory defined benefit pension plans for substantially all of our management and associate employees. The postretirement healthcare and life insurance plans for our retirees and their dependents are both contributory and noncontributory and
+include a limit on the company s share of cost for recent and future retirees. We also sponsor defined contribution savings plans to provide opportunities for eligible employees to save for retirement on a tax-deferred basis. The structure of Verizon s benefit plans does not provide for the
+separate determination of certain disclosures for our company. The required information is provided on a consolidated basis in Verizon s Annual Report on Form 10-K for the year ended December 31, 2002. Pension and Other Postretirement Benefits Pension and other postretirement benefits for the majority of our employees
+are subject to collective bargaining agreements. Approximately 90 of our employees (associates) are covered by collective bargaining agreements. Modifications in benefits have been bargained from time to time, and Verizon may also periodically
+amend the benefits in the management plans. 
+ F-17 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ Benefit Cost
+
+Years ended December 31 
+
+Pension 
+
+Healthcare and Life 
+
+(Dollars in Millions) 
+ 
+ 2002 
+
+2001 
+
+2000 
+
+2002 
+ 
+ 2001 
+ 
+ 2000 
+
+Net periodic benefit (income) cost 
+
+(105.7) 
+
+(118.1) 
+
+(90.0) 
+
+13.7 
+
+8.1 
+
+(1.0) 
+
+Termination benefits 
+
+7.6 
+
+34.4 
+
+3.6 
+
+Settlement gain 
+
+(11.5) 
+
+Curtailment loss 
+
+35.8 
+
+29.7 
+
+Subtotal 
+
+31.9 
+
+34.4 
+
+33.3 
+
+Total (income) cost 
+
+(73.8) 
+
+(83.7) 
+
+(90.0) 
+
+47.0 
+
+8.1 
+
+(1.0) 
+
+As part of a Verizon
+workforce reduction plan, we have continued to reduce our headcount as allowed under various management and associate employee benefit plans. As a result, we recorded 11.2 million and 34.4 million in 2002 and 2001, respectively, in connection with
+various pension and retirement benefit enhancements. Also during 2002, we recorded an 11.5 million pension settlement gain as lump-sum payments exceeded the threshold of service and interest costs. Additionally, in the fourth quarter of 2002, we
+recorded a curtailment loss of 65.5 million associated with a significant reduction of the expected years of future service of present employees, which was largely impacted by the involuntary employee terminations in December 2002. The special
+termination benefits, curtailment and settlement of pension obligations are recorded in accordance with SFAS No. 88, Employers Accounting for Settlements and Curtailments of Defined Pension Plans and for Termination Benefits and
+SFAS No. 106, Employers Accounting for Postretirement Benefits Other than Pensions. Amounts recognized in the balance sheets consist of: 
+
+December 31 
+
+Pension 
+ 
+ Healthcare and Life 
+
+(Dollars in Millions) 
+ 
+ 2002 
+ 
+ 2001 
+ 
+ 2002 
+ 
+ 2001 
+
+Prepaid pension asset 
+
+262.1 
+
+187.8 
+
+Employee benefit obligations 
+
+5.7 
+
+5.7 
+
+305.3 
+
+263.5 
+ The changes in the
+employee benefit asset and obligations from year to year were caused by a number of factors, including changes in actuarial assumptions (see Assumptions), curtailments, settlements and special termination benefits. Assumptions The actuarial assumptions used are based on market interest rates, past
+experience, and management s best estimate of future economic conditions. Changes in these assumptions may impact future benefit costs and obligations. The weighted-average assumptions used in determining expense and benefit obligations are as
+follows: 
+
+Pension 
+
+Healthcare and Life 
+
+2002 
+
+2001 
+
+2000 
+
+2002 
+
+2001 
+
+2000 
+
+Discount rate at end of year 
+ 
+ 6.75 
+
+7.25 
+
+7.75 
+
+6.75 
+
+7.25 
+
+7.75 
+
+Long-term rate of return on plan assets for the year 
+ 
+ 9.25 
+
+9.25 
+
+9.25 
+
+9.25 
+
+9.25 
+
+9.25 
+
+Rate of future increases in compensation at end of year 
+ 
+ 5.00 
+
+5.00 
+
+5.00 
+
+4.00 
+
+4.00 
+
+4.00 
+
+Medical cost trend rate at end of year 
+
+11.00 
+
+10.00 
+
+5.00 
+
+Ultimate (year 2007) 
+
+5.00 
+
+5.00 
+
+5.00 
+ 
+ Savings Plans and
+Employee Stock Ownership Plans Substantially all of our
+employees are eligible to participate in savings plans maintained by Verizon. Verizon maintains two leveraged employee stock ownership plans (ESOPs) for its employees of the former Bell Atlantic Companies. Under these plans, a certain percentage of
+eligible employee contributions are matched with shares of Verizon s common stock. Verizon recognizes leveraged ESOP cost based on the modified shares allocated method for these leveraged ESOPs that held securities before December 15, 1989. We
+recognize our proportionate share of total ESOP cost based on our matching obligation attributable to our participating employees. We recorded total savings plan costs of 13.0 million in 2002, 13.0 million in 2001 and 8.2 million in 2000.
+ 
+ F-18 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ Severance Benefits
+ We maintain ongoing severance plans for both management and
+associate employees, which provide benefits to employees that are terminated. The costs for these plans are accounted for under SFAS No. 112. We accrue for severance benefits based on the terms of our severance plan over the estimated service
+periods of the employees. The accruals are also based on the historical run-rate of actual severances and expectations for future severances. In the fourth quarter of 2001, it was determined that our severance liability was not sufficient as a
+result of new downsizing plans and we recorded a special charge of 28.5 million. In the second quarter of 2002, again, it was determined that the severance liability was not sufficient because of further downsizing plans and we recorded a special
+charge of 11.5 million. Severance costs are included in operations and support expense in our statements of income. The following table provides an analysis of our severance liability: 
+
+(Dollars in Millions) Year 
+ 
+ Beginning of Year 
+ 
+ Charged to Expense (a) 
+ 
+ Payments 
+
+Other (b) 
+
+End of Year 
+
+2000 
+
+11.0 
+
+12.8 
+
+(9.7) 
+
+(.8) 
+
+13.3 
+ 
+ 2001 
+
+13.3 
+
+30.9 
+
+(3.5) 
+
+(.3) 
+
+40.4 
+ 
+ 2002 
+
+40.4 
+
+11.8 
+
+(20.2) 
+
+(5.4) 
+
+26.6 
+
+(a) 
+ 
+ Includes (1) accruals for ongoing employee severance costs, (2) special charges of 11.5 million in 2002 and 28.5 million in 2001 and (3) merger-related costs of
+ 12.8 million in 2000 (see Note 2). 
+
+(b) 
+ 
+ Includes amounts reallocated to other Verizon affiliates. From time to time, Verizon must redistribute across its subsidiaries the amount of severance liability
+based on actual experience at the companies. The
+remaining severance liability includes future contractual payments to employees separated as of the end of the year. As of December 31, 2002, a total of over 600 employees have been separated under the 2001 and 2002 severance programs. 9. INCOME TAXES The components of income tax expense are presented in the following table:
+
+Years ended December 31 
+
+(Dollars in Millions) 
+ 
+ 2002 
+
+2001 
+
+2000 
+
+Current: 
+
+Federal 
+
+125.7 
+
+197.5 
+
+164.4 
+
+State and local 
+
+27.1 
+
+35.4 
+
+30.2 
+
+152.8 
+
+232.9 
+
+194.6 
+
+Deferred: 
+
+Federal 
+
+23.3 
+
+35.2 
+
+76.7 
+
+State and local 
+
+.1 
+
+7.0 
+
+13.8 
+
+23.4 
+
+42.2 
+
+90.5 
+
+176.2 
+
+275.1 
+
+285.1 
+
+Investment tax credits 
+
+(.6) 
+
+(1.0) 
+
+(1.5) 
+
+Total income tax expense 
+
+175.6 
+
+274.1 
+
+283.6 
+
+F-19 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ The following table shows
+the primary reasons for the difference between the effective income tax rate and the statutory federal income tax rate: 
+
+Years ended December 31 
+
+2002 
+
+2001 
+
+2000 
+
+Statutory federal income tax rate 
+ 
+ 35.0 
+
+35.0 
+
+35.0 
+
+State income taxes, net of federal tax benefits 
+ 
+ 3.9 
+
+4.4 
+
+3.9 
+
+Investment tax credits 
+ 
+ (.1) 
+ 
+ (.1) 
+ 
+ (.1) 
+ 
+ Equity investments 
+
+4.5 
+
+.2 
+
+Other, net 
+ 
+ (.2) 
+ 
+ .1 
+
+(.5) 
+
+Effective income tax rate 
+ 
+ 38.6 
+
+43.9 
+
+38.5 
+
+Deferred taxes arise
+because of differences in the book and tax bases of certain assets and liabilities. Significant components of deferred tax liabilities (assets) are shown in the following table: 
+
+December 31 
+
+(Dollars in Millions) 
+ 
+ 2002 
+
+2001 
+
+Depreciation 
+
+468.9 
+
+418.1 
+
+Employee benefits 
+
+(30.2) 
+
+(56.1) 
+ 
+ Allowance for uncollectible accounts 
+
+(38.9) 
+
+(12.9) 
+ 
+ Investment tax credits 
+
+(3.7) 
+
+(3.9) 
+ 
+ Other, net 
+
+(40.9) 
+
+(13.4) 
+
+Net deferred tax liabilities 
+
+355.2 
+
+331.8 
+
+Employee benefits
+include 128.4 million deferred tax asset at December 31, 2002 and 122.9 million at December 31, 2001 related to postretirement benefit costs recognized under SFAS No. 106. This deferred tax asset will gradually be realized over the estimated lives
+of current retirees and employees. 
+ F-20 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ 10. TRANSACTIONS WITH AFFILIATES Our financial statements include transactions with Verizon Services, (including Verizon Services Corp., Verizon Services
+Group, Verizon Corporate Services Group Inc. as previously described), Verizon Operating Telephone Companies, Verizon Internet Services Inc., Verizon Long Distance, Verizon Advanced Data Inc., Verizon Global Networks Inc., Verizon Connected
+Solutions Inc., Verizon Data Services Inc., Verizon Network Funding Corporation, Verizon Ventures III Inc., Verizon and other affiliates. Transactions with affiliates are summarized as follows: 
+
+Years ended December 31 
+
+(Dollars in Millions) 
+ 
+ 2002 
+
+2001 
+
+2000 
+
+Operating revenues: 
+
+Verizon Operating Telephone Companies 
+
+46.5 
+
+47.6 
+
+52.9 
+
+Verizon Services 
+
+40.7 
+
+48.5 
+
+37.0 
+
+Verizon Internet Services Inc. 
+
+32.7 
+
+6.8 
+
+7.7 
+
+Verizon Long Distance 
+
+1.4 
+
+3.4 
+
+4.3 
+
+Verizon Advanced Data Inc. 
+
+1.0 
+
+82.5 
+
+2.2 
+
+Verizon Global Networks Inc. 
+
+.4 
+
+8.4 
+
+9.3 
+
+Interstate revenue sharing from affiliates 
+
+(25.5) 
+
+(25.5) 
+ 
+ Other 
+
+1.8 
+
+6.8 
+
+9.2 
+
+124.5 
+
+178.5 
+
+97.1 
+
+Operating expenses: 
+
+Verizon Services 
+
+459.8 
+
+420.0 
+
+482.0 
+
+Verizon Advanced Data Inc. 
+
+31.5 
+
+3.9 
+
+Verizon Connected Solutions Inc. 
+
+20.8 
+
+30.9 
+
+38.3 
+
+Verizon Operating Telephone Companies 
+
+20.2 
+
+26.0 
+
+35.7 
+
+Verizon Data Services Inc. 
+
+7.6 
+
+2.0 
+
+Verizon Long Distance (recovery of costs) 
+
+(1.6) 
+
+Other 
+
+1.9 
+
+2.0 
+
+1.4 
+
+540.2 
+
+484.8 
+
+557.4 
+
+Other income/(expense): 
+
+Equity loss from Verizon Ventures III Inc. 
+
+(80.5) 
+
+(3.7) 
+ 
+ Equity income from SMS/800 
+
+.3 
+
+1.2 
+
+Interest income from Verizon Services 
+
+.1 
+
+.2 
+
+.1 
+
+(80.0) 
+
+(2.5) 
+
+Interest expense to Verizon Network Funding Corporation 
+
+15.5 
+
+20.5 
+
+17.2 
+
+Transfer of advanced data assets from Verizon Ventures III Inc. 
+
+18.4 
+
+Equity contributed to Verizon Ventures III Inc. 
+
+68.7 
+
+Capital contribution from Verizon 
+
+3.3 
+
+68.7 
+
+Dividends paid to Verizon 
+
+350.0 
+
+280.0 
+
+384.0 
+
+Dividends received from SMS/800 
+
+.4 
+
+.6 
+ 
+ Outstanding balances
+with affiliates are reported on the balance sheets at December 31, 2002 and 2001 as Accounts Receivable Affiliates, Note Payable to Affiliate, and Accounts Payable and Accrued Liabilities Affiliates. Verizon Services Our operating revenues include transactions with Verizon Services for the
+provision of local telephone service and for the rental of facilities and equipment. 
+ F-21 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ We have contractual arrangements with Verizon Services for the provision of various centralized
+services. These services are divided into two broad categories. The first category is comprised of network related services which generally benefit only Verizon s operating telephone subsidiaries. These services include marketing, sales, legal,
+accounting, finance, data processing, materials management, procurement, labor relations, and staff support for various network operations. The second category is comprised of overhead and support services which generally benefit all subsidiaries of
+Verizon. Such services include corporate governance, corporate finance, external affairs, legal, media relations, employee communications, corporate advertising, human resources, and treasury. Costs may be either directly assigned to one subsidiary
+or allocated to more than one subsidiary based on functional reviews of the work performed. Verizon Operating Telephone Companies Our operating revenues and expenses include transactions with other Verizon Operating Telephone Companies. Revenues associated with transactions with these affiliates are primarily earned from fees
+associated with the termination of their customer s calls on our network. We also earn revenue from the rental of our facilities and equipment. In addition, we also recognize expenses associated with transactions with these affiliates. These
+costs include charges associated with the rental of their facilities and equipment and fees associated with the termination of our customer s calls on their network. Verizon Internet Services Inc. Our operating revenues include transactions with Verizon Internet Services Inc. (Verizon Internet Services) associated with
+the provision of network access and billing and collection services. These revenues are earned from Verizon Internet Services who utilizes our facilities to provide Internet access services to their customers. Verizon Long Distance Our operating revenues and expenses include transactions with Verizon Long
+Distance who utilizes our facilities to provide long distance services to their customers. We record revenue in connection with the provision of billing and collection services, including programming charges associated with billing system changes.
+In addition, we recognize revenues associated with the provision of local telephone services. We also bill Verizon Long Distance for services associated with joint marketing agreements and the training of our employees for sales activities in order
+to recover our incurred costs. These transactions are recorded as credits to our operating expenses. Verizon Advanced Data Inc. In 2001 and 2000, our operating revenues included transactions with Verizon Advance Data Inc. (VADI) associated with the provision of local and network access services, billing and collection services, and the purchase of
+unbundled network elements. These revenues were earned from VADI who utilized our facilities to provide advanced data services to their customers. Beginning in 2002, the responsibility for the provision of advanced data services was transferred back
+to us (see Investment in Verizon Ventures III, Inc. below). We continue to earn revenue from VADI for the provision of local telephone services. Beginning in December 2001, we also have a contractual arrangement with VADI for the provision of various centralized services associated with advanced
+data services. These services are divided into two broad categories. The first category is comprised of network related services which include provisioning, maintenance, engineering, and data processing for various network operations. The second
+category is comprised of overhead and support services which include finance, human resources, treasury, procurement, marketing, sales, and support staffs. The costs are allocated based on advanced data services revenues. Verizon Global Networks Inc. Our operating revenues include transactions with Verizon Global Networks Inc.
+(Global Networks) associated with the provision of network access services. These revenues are earned from Global Networks who utilizes our facilities to provide access and data transport services to their customers. 
+ F-22 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ Verizon Connected Solutions Inc. Verizon Connected Solutions Inc. provides installation and maintenance services to our customers. We record these services at
+cost. Verizon Data Services Inc. Verizon Data Services Inc. provides data processing services, software
+application development and maintenance, which generally benefit Verizon s operating telephone subsidiaries, including us. We are charged for these affiliated transactions based on proportional cost allocation methodologies. Verizon Network Funding Corporation We recognize interest expense/income in connection with a contractual
+agreement with an affiliated company, Verizon Network Funding Corporation (VNFC), for the provision of short-term financing and cash management services. VNFC issues commercial paper and obtains bank loans to fund the working capital requirements of
+Verizon s network services subsidiaries, including us, and invests funds in temporary investments on their behalf. Other Affiliates Other operating revenues and expenses include miscellaneous items of income and expense resulting from transactions with other affiliates. These
+transactions include the provision of local and network access services, billing and collection services, rental of facilities and equipment, electronic repair services, interconnection agreements, and sales and purchases of material and supplies.
+We also earn fees from an affiliate for usage of our directory listings. Investment in Verizon Ventures III Inc. In December 2000, we transferred certain advanced data assets to an affiliated company, Verizon Ventures III Inc. (Ventures III) in exchange for common stock of Ventures III. This transfer was done to satisfy a condition of the
+FCC s approval of the Bell Atlantic GTE merger, which required the provision of advanced data services through a separate affiliate. Throughout 2000 and 2001, we continued to invest in Ventures III through the transfer of additional
+assets. As result of the transfers, we acquired an ownership interest in Ventures III, which we accounted for under the equity method of accounting. In September 2001, the FCC issued an order eliminating this merger condition. Following the FCC order, we made necessary filings with our state regulatory
+commission for approval of the transfer of these assets back to us. During the fourth quarter of 2001, after required state regulatory approvals were obtained, Ventures III transferred a portion of these assets to us with an aggregate net book value
+of 18.4 million. Ventures III currently expects to complete the remaining asset transfers in 2003. In consideration of the transfer of these assets, we have or will surrender our common stock in Ventures III and remit cash compensation.
+ In connection with this reintegration, we received a capital
+contribution from our parent of 68.7 million in December 2001. This equity was immediately contributed to Ventures III. No gain or loss was recognized as a result of the reintegration of the advanced data assets to us. We do not expect this
+reintegration to have a material effect on our results of operations or financial condition. We recorded equity losses associated with our investment in Ventures III of 80.5 million in 2001 and 3.7 million in 2000. Our investment in Ventures III was 0 at both December 31, 2002 and December
+31, 2001, and 28.5 million at December 31, 2000. Ownership interest in Ventures III was 22.31 at December 31, 2002, 9.42 at December 31, 2001 and 14.53 at December 31, 2000. 
+ F-23 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ Investment in SMS/800
+ In June 1999, Bell Atlantic Full Services Channel, Inc., an
+affiliate, sold its ownership interest in SMS/800 to us and the other operating telephone companies of Verizon at its fair value in accordance with a FCC order. SMS/800 is a venture jointly held by the Bell Operating Companies that administers the
+centralized national database system associated with toll free numbers. We paid 80,635 to receive a 1.58 ownership interest in SMS/800. Our ownership percentage has increased to 1.98 as a result of the merger of SBC Communications, Inc. and
+Ameritech Corporation. We account for our investment in SMS/800 under the equity method of accounting. 11. COMPREHENSIVE INCOME Comprehensive income consists of net income and other gains and losses affecting shareowner s investment that, under generally accepted accounting principles, are excluded from net income.
+ The change in other comprehensive loss, net of income tax
+expense, is as follows: 
+
+Years ended December 31 
+ 
+ (Dollars in Millions) 
+ 
+ 2002 
+ 
+ 2001 
+ 
+ 2000 
+
+Other comprehensive income: 
+
+Minimum pension liability adjustment (net of income taxes 0, 0 and
+ .1) 
+
+.3 
+
+.3 
+
+12. ADDITIONAL FINANCIAL INFORMATION The tables below provide additional financial information related to our financial statements: 
+
+December 31 
+ 
+ (Dollars in Millions) 
+ 
+ 2002 
+ 
+ 2001 
+
+BALANCE SHEETS: 
+
+Accounts payable and accrued liabilities: 
+
+Accounts payable other 
+
+222.0 
+
+196.1 
+ 
+ Accounts payable affiliates 
+
+137.9 
+
+189.2 
+ 
+ Accrued taxes 
+
+31.2 
+
+133.0 
+ 
+ Accrued vacation pay 
+
+26.8 
+
+31.9 
+ 
+ Accrued expenses 
+
+39.6 
+
+56.0 
+ 
+ Interest payable other 
+
+16.1 
+
+20.6 
+ 
+ Interest payable affiliate 
+
+.9 
+
+.9 
+
+474.5 
+
+627.7 
+
+Other current liabilities: 
+
+Advance billings and customer deposits 
+
+82.1 
+
+81.0 
+ 
+ Other 
+
+57.5 
+
+54.8 
+
+139.6 
+
+135.8 
+
+F-24 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+
+Years ended December 31 
+
+(Dollars in Millions) 
+ 
+ 2002 
+ 
+ 2001 
+ 
+ 2000 
+
+STATEMENTS OF CASH FLOWS: 
+
+Cash paid during the year for: 
+
+Income taxes, net of amounts refunded 
+
+265.4 
+
+114.7 
+
+221.5 
+ 
+ Interest, net of amounts capitalized 
+
+69.0 
+
+79.8 
+
+75.9 
+ 
+ STATEMENTS OF INCOME: 
+
+Interest expense incurred, net of amounts capitalized 
+
+64.6 
+
+78.7 
+
+78.6 
+ 
+ Capitalized interest 
+
+4.7 
+
+10.4 
+
+7.5 
+ 
+ Advertising expense 
+
+11.3 
+
+7.5 
+
+2.9 
+ 
+ Depreciation expense 
+
+513.8 
+
+493.6 
+
+467.9 
+ Advertising expense
+includes 11.3 million in 2002, 7.5 million in 2001 and 2.9 million in 2000 allocated to us by Verizon Services. At December 31, 2002 and 2001, 24.2 million and 24.2 million of bank overdrafts were classified as accounts payable. 13. COMMITMENTS AND CONTINGENCIES Various legal actions and regulatory proceedings are pending to which we are a
+party and claims which, if asserted, may lead to other legal actions. We have established reserves for specific liabilities in connection with regulatory and legal matters that we currently deem to be probable and estimable. We do not expect that
+the ultimate resolution of pending regulatory and legal matters in future periods will have a material effect on our financial condition, but it could have a material effect on our results of operations. From time to time, state regulatory decisions require us to assure customers
+that we will provide a level of service performance that falls within prescribed parameters. There are penalties associated with failing to meet those service parameters and we, from time to time, pay such penalties. We do not expect these penalties
+to have a material effect on our financial condition, but they could have a material effect on our results of operations. 14. SEGMENT INFORMATION We have one reportable segment, which provides domestic wireline telecommunications services. Specifically, we provide local telephone services including
+voice and data transport, enhanced and custom calling features, network access, directory assistance and private lines. In addition, we provide customer premises equipment distribution, billing and collection and pay telephone services.
+ 15. SUBSEQUENT EVENTS (unaudited) On February 3, 2003, we declared and paid a dividend in the amount of 76.0
+million to our parent, Verizon. On March 6, 2003, we redeemed
+the entire outstanding principal amount of our 65.0 million 5 5 / 8 debentures, due March 1, 2007. This
+redemption will not result in a material charge to results of operations. On March 14, 2003, we issued 1,000.0 million in 4.625 debentures due on March 15, 2013. The proceeds from this sale will be used for general corporate purposes. 
+ F-25 
+
+Table of Contents 
+
+Verizon Virginia Inc. 
+ SCHEDULE
+II VALUATION AND QUALIFYING ACCOUNTS For the Years Ended December 31, 2002, 2001 and 2000 (Dollars in Millions) 
+
+Additions 
+
+Description 
+ 
+ Balance at Beginning of Period 
+ 
+ Charged to Expenses 
+ 
+ Charged to Other Accounts Note (a) 
+ 
+ Deductions Note (b) 
+ 
+ Balance at End of Period 
+
+Allowance for Uncollectible Accounts Receivable: 
+
+Year 2002 
+
+62.6 
+
+130.8 
+
+45.1 
+
+88.5 
+
+150.0 
+ 
+ Year 2001 
+
+37.6 
+
+54.1 
+
+79.0 
+
+108.1 
+
+62.6 
+ 
+ Year 2000 
+
+29.6 
+
+35.6 
+
+26.8 
+
+54.4 
+
+37.6 
+
+Merger-Related Costs: 
+
+Year 2002 
+
+12.0 
+
+12.0 
+
+Year 2001 
+
+13.5 
+
+2.4 
+
+3.9 
+
+12.0 
+ 
+ Year 2000 
+
+19.8 
+
+25.2 
+
+31.5 
+
+13.5 
+
+(a) 
+ 
+ Allowance for Uncollectible Accounts Receivable includes amounts previously written off which were credited directly to this account when recovered and accruals
+charged to accounts payable for anticipated uncollectible charges on purchases of accounts receivable from others which we billed. 
+
+(b) 
+ 
+ Amounts written off as uncollectible, reallocated to other Verizon affiliates, utilized or paid. From time to time, Verizon must redistribute across its subsidiaries
+the amount of the severance liability based on actual experience at the companies. 
+ F-26 
+
+Table of Contents 
+
+ Verizon Virginia Inc. Form 10-K for 2002 File No. 1-6964 Page 1 of 1 EXHIBIT INDEX Exhibits identified in parentheses below, on file with the Securities and Exchange Commission (SEC), are incorporated herein by reference as exhibits
+hereto. 
+
+Exhibit Number 
+
+3a 
+ 
+ Articles of Amendment of the Articles of Incorporation of the registrant, adopted June 13, 1977 and filed July 28,
+1977. (Exhibit 3a to Form 10-K for the year ended December 31, 1985.) 
+
+3a(i) Amendment to the registrant s Articles of
+Incorporation, adopted April 5, 1990 and filed August 24, 1990. (Exhibit 3a(i) to Form 10-K for the year ended December 31, 1990.) 
+
+3a(ii) Amendment to the registrant s Articles of Incorporation, adopted December 31, 1993
+and filed January 13, 1994. (Exhibit 3a(ii) to Form 10-K for the year ended December 31, 1993.) 
+
+3a(iii) Articles of Amendment of Articles of Incorporation, adopted June 30, 2000. (Exhibit
+3a(iii) to Form 10-Q for the period ended June 30,
+2000.) 
+
+3b 
+ 
+ By-Laws of the registrant, as amended August 12, 2002. (Exhibit 3b to Form 10-Q for the period ended June 30,
+2002.) 
+
+4 
+ 
+ No instrument which defines the rights of holders of long-term debt of the registrant is filed herewith pursuant to
+Regulation S-K, Item 601(b)(4)(iii)(A). Pursuant to this regulation, the registrant hereby agrees to furnish a copy of any such instrument to the SEC upon request. 
+
+12 
+ 
+ Computation of Ratio of Earnings to Fixed Charges. 
+
+23 
+ 
+ Consent of Independent Auditors. 
+
+<EX-12>
+ 3
+ dex12.htm
+ COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES
+
+Computation of Ratio of Earnings to Fixed Charges 
+
+Verizon Virginia Inc. EXHIBIT 12 COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES 
+
+Years Ended December 31, 
+ 
+ (Dollars in Millions) 
+ 
+ 2002 
+ 
+ 2001 
+ 
+ 2000 
+ 
+ 1999 
+
+1998 
+
+Income before provision for income taxes and extraordinary item 
+
+454.4 
+
+624.6 
+
+737.4 
+
+702.1 
+
+542.2 
+ 
+ Equity loss (income) from affiliates 
+
+80.2 
+
+2.5 
+
+(.5) 
+
+Dividends received from equity affiliate 
+
+.4 
+
+.6 
+
+.5 
+
+Interest expense 
+
+64.6 
+
+78.7 
+
+78.6 
+
+69.4 
+
+67.6 
+ 
+ Portion of rent expense representing interest 
+
+40.1 
+
+33.2 
+
+14.7 
+
+14.2 
+
+19.5 
+ 
+ Amortization of capitalized interest 
+
+3.7 
+
+3.0 
+
+2.7 
+
+2.3 
+
+1.9 
+
+Earnings, as adjusted 
+
+562.8 
+
+820.1 
+
+836.5 
+
+788.0 
+
+631.2 
+
+Fixed charges: 
+
+Interest expense 
+
+64.6 
+
+78.7 
+
+78.6 
+
+69.4 
+
+67.6 
+ 
+ Portion of rent expense representing interest 
+
+40.1 
+
+33.2 
+
+14.7 
+
+14.2 
+
+19.5 
+ 
+ Capitalized interest 
+
+4.7 
+
+10.4 
+
+7.5 
+
+4.0 
+
+8.6 
+
+Fixed charges 
+
+109.4 
+
+122.3 
+
+100.8 
+
+87.6 
+
+95.7 
+
+Ratio of earnings to fixed charges 
+
+5.14 
+
+6.71 
+
+8.30 
+
+9.00 
+
+6.60 
+
+</EX-12>
+
+<EX-23>
+ 4
+ dex23.htm
+ CONSENT OF INDEPENDENT AUDITORS
+
+Consent of Independent Auditors 
+
+Verizon Virginia Inc. EXHIBIT 23 CONSENT OF INDEPENDENT AUDITORS We consent to the incorporation by reference in the Registration Statements (Form S-3 No. 33-65152 and Form S-3 No. 333-100552) of Verizon Virginia Inc.
+of our report dated January 29, 2003, with respect to the financial statements and the financial statement schedule of Verizon Virginia Inc. included in this Annual Report (Form 10-K) for the year ended December 31, 2002. /s/ Ernst Young LLP New York, New York March 14, 2003 
+
+</EX-23>
+

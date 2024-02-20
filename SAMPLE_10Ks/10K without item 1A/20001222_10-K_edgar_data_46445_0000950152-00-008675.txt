@@ -1,0 +1,3411 @@
+<Header>
+<FileStats>
+    <FileName>20001222_10-K_edgar_data_46445_0000950152-00-008675.txt</FileName>
+    <GrossFileSize>197913</GrossFileSize>
+    <NetFileSize>155872</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1923</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950152-00-008675.hdr.sgml : 20001225
+ACCESSION NUMBER:		0000950152-00-008675
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20000930
+FILED AS OF DATE:		20001222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HMI INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000046445
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL FORGING & STAMPINGS [3460]
+		IRS NUMBER:				361202810
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	002-30905
+		FILM NUMBER:		794906
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6000 LOMBARDO CENTER
+		STREET 2:		SUITE 500
+		CITY:			SEVEN HILLS
+		STATE:			OH
+		ZIP:			44131
+		BUSINESS PHONE:		2164321990
+
+	MAIL ADDRESS:	
+		STREET 1:		6000 LOMBARDO CENTER
+		STREET 2:		SUITE 500
+		CITY:			SEVEN HILLS
+		STATE:			OH
+		ZIP:			44131
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HEALTH MOR INC
+		DATE OF NAME CHANGE:	19920703
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GHlkcDvNH1aLEpXxhR50dGAZqA3Kpjb6LpeJUgNEfrWMRShakHWlsfSCijfE2RS9
+ 02iwH3SNWP1yKjPtUC0zqw==
+
+ 0000950152-00-008675.txt : 20001225
+
+10-K
+ 1
+ l85703ae10-k.txt
+ HMI INDUSTRIES INC. 10-K
+
+1
+
+================================================================================
+ UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ Washington, D.C. 20549
+
+ FORM 10-K
+(Mark One)
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934
+For the Fiscal Year Ended September 30, 2000
+
+ OR
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934
+
+For the transition period from _____ to _____
+
+ Commission File Number 2-30905
+
+ HMI INDUSTRIES INC.
+ (Exact name of registrant as specified in its charter)
+
+ DELAWARE 36-1202810
+ ------------------------------- ---------------------------------
+ (State or other jurisdiction of (IRS Employer Identification No.)
+ Incorporation or organization)
+
+ 6000 Lombardo Center, Suite 500, Seven Hills, Ohio 44131
+ --------------------------------------------- -----------------------
+ (Address of principal executive offices) (Zip Code)
+
+Registrant's telephone number, including area code: (216) 986-8008
+
+Securities registered pursuant to Section 12(b) of the Act: None
+- ----------------------------------------------------------------
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+ Title of Class
+ --------------
+ Common Stock, 1 par value per share
+
+Indicate by check mark whether registrant (1) has filed all reports required to
+be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months, and (2) has been subject to such filing requirements
+for the past ninety (90) days.
+Yes [X] No [ ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ]
+
+The aggregate market value of voting stock held by non-affiliates of registrant,
+computed by reference to the closing price on the NASDAQ Stock Exchange on
+October 31, 2000 was approximately 2,712,400.
+
+ Class Outstanding at October 31, 2000
+- ------------------------------------ -------------------------------
+Common stock, 1 par value per share 6,666,731
+
+The following documents are incorporated by reference in this Form 10-K.
+
+Portions of the Proxy Statement for the 2000 Annual Meeting, incorporated into
+Part III (Items 10, 11, 12 and 13).
+
+Index to Exhibits is found on pages 50-51.
+
+ This report consists of 52 pages.
+
+================================================================================
+
+ 2
+
+TABLE OF CONTENTS
+- -----------------
+
+PART I...................................................................................................2
+
+ ITEM 1. BUSINESS.....................................................................................2
+ ITEM 2. PROPERTIES...................................................................................9
+ ITEM 3. LEGAL PROCEEDINGS............................................................................9
+ ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS..........................................9
+
+PART II.................................................................................................10
+
+ ITEM 5. MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS...................10
+ ITEM 6. SELECTED FINANCIAL DATA.....................................................................12
+ ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.......13
+ ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK..................................22
+ ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.................................................22
+ ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE........22
+
+PART III................................................................................................22
+
+ ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF REGISTRANT..............................................22
+ ITEM 11. EXECUTIVE COMPENSATION......................................................................22
+ ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT..............................22
+ ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS..............................................22
+
+PART IV.................................................................................................23
+
+ ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K.............................23
+
+SIGNATURES..............................................................................................24
+
+INDEX TO FINANCIAL STATEMENTS...........................................................................25
+
+INDEX TO EXHIBITS.......................................................................................50
+
+1
+ 3
+
+PART I.
+(DOLLARS IN THOUSANDS)
+
+ITEM 1. BUSINESS
+
+GENERAL DEVELOPMENT OF BUSINESS
+Our Company, HMI Industries Inc., is a worldwide, direct selling company engaged
+in the manufacture and sale of high filtration portable surface cleaners,
+portable room air cleaners and central vacuum cleaning systems. Our high
+filtration portable surface cleaner and portable room air cleaner are sold under
+the trade names Filter Queen(R), Princess(R), Majestic(R), Empress(R) and
+Defender(R) (portable room air cleaner only) and our central vacuum cleaning
+system is sold under the trade names Vacu-Queen(R) and Majestic II(R).
+
+Although we were known as Health-Mor Inc. until 1995, when our name was changed
+to HMI Industries Inc., we continue to distribute our products under the
+Health-Mor brand name. HMI was reorganized in 1968 in Delaware, succeeding an
+Illinois corporation formed originally in 1928. In order to more fully automate
+our assembly and distribution, in January 2000 we moved all production areas to
+a newer and more efficient facility, in Strongsville, Ohio. Also in January
+2000, our sales, marketing and executive personnel relocated to our new
+corporate world headquarters at 6000 Lombardo Center, Seven Hills, Ohio.
+
+ DISCONTINUED OPERATIONS
+
+In fiscal 1997, we decided to sell our non-core-manufactured products businesses
+and any under performing consumer goods product lines. As a result of this
+decision, Bliss Tubular Products, which engaged in the bending of aluminum,
+steel and copper tubing, was sold in fiscal 1997. In fiscal 1998, HMI sold the
+following subsidiaries:
+
+- - Tube-Fab Ltd., a Canadian subsidiary which manufactured tubular products
+ for the aircraft, military, communications, and specialty architectural
+ industries, and manufactured precision machined products for aircraft
+ engines for the aerospace industry;
+
+- - Bliss Manufacturing Company, an Ohio subsidiary which manufactured sheet
+ metal stamping and sub-assemblies, and painting and welding, for the
+ automotive and truck manufacturing, materials handling equipment, military
+ and plumbing industries;
+
+- - Household Rental Systems, a Canadian entity that sold and leased carpet
+ cleaning systems; and
+
+- - Health-Mor Personal Care Corp., a Delaware subsidiary which sold needleless
+ insulin injectors.
+
+We discontinued selling the Optima(R) portable canister vacuum and the Princess
+2000(R) upright vacuum cleaner in 1997, and discontinued the Elektrapure(R)
+portable canister vacuum product in 1998. Sale of the SuperNaturals(R) brand of
+cleaning products was ended in 1997, and the Home Impressions product lines were
+discontinued in 1997, with the exception of the Vacu-Queen(R) central vacuum
+cleaning system.
+
+2
+ 4
+
+In 1998, our financing subsidiaries, Health-Mor Acceptance Corporation
+(incorporated in Delaware), HMI Acceptance Corporation (organized in Ontario,
+Canada) and Health-Mor Acceptance PTY Ltd. (organized in Sydney, Australia),
+discontinued the financing of contracts to end customers.
+
+FINANCIAL INFORMATION ABOUT INDUSTRY SEGMENTS
+Our continuing operations consist of a single operating segment. See Note 11 of
+the Notes to the Consolidated Financial Statements found on page 45 for further
+information.
+
+NARRATIVE DESCRIPTION OF BUSINESS
+Consumers have become increasingly aware of the potential health concerns posed
+by indoor air quality. We regard ourself as a leader in the management of indoor
+air quality by offering a complete solution that keeps indoor air cleaner and
+safer to breathe. We believe that people with and without respiratory problems
+will notice the benefits of cleaner indoor air that can be derived from using
+our products.
+
+According to the U.S. Environmental Protection Agency, most people spend as much
+as 90 of their time indoors and over half of that time in their own homes. The
+EPA has suggested that air levels of many pollutants inside one's own home may
+be two to five times, and sometimes 100 times, higher than outdoor levels. The
+Centers for Disease Control and Prevention have reported that the estimated
+number of asthma sufferers has risen from 6.7 million in 1980 to 13.8 million in
+1994, and the American Lung Association has reported a 61 percent increase in
+asthma prevalence between 1982 and 1994. Among chronic illnesses in children,
+asthma is the most common. Approximately 33 percent of asthma patients are under
+the age of 18. According to the American Lung Association, more than 5,600
+people die of asthma in the U.S. annually. This represents a 45.3 percent
+increase in asthma related mortality between 1985 and 1995. The American Lung
+Association has also stated that controlling the home environment is a very
+important part of asthma and allergy care.
+
+ PRODUCTS AND DISTRIBUTION
+
+Our principle products include a high filtration portable surface cleaner that
+is marketed as a healthier alternative to the typical vacuum cleaner, and a
+portable room air cleaner that helps to remove particles, gases and odors from
+the air. The two products are sold together as a complete Filter Queen Indoor
+Air Quality System(TM) in some parts of the world. In other areas, primarily
+Asia and Europe, the two products are sold separately.
+
+Filter Queen uses a patented multifiltration system consisting of Cellupure(R),
+MEDIPure(R), and Enviropure(R) filter cones and cartridges. The Filter Queen
+Indoor Air Quality System(TM) is designed and proven to remove airborne
+particles and allergens such as dust, smoke, pollen, mold spores, animal dander,
+dust mites and harmful fibers that may lead to allergic reactions. Independent
+tests confirm that the Filter Queen Indoor Air Quality System(TM), when used
+with the above named filters and cartridges, removes 99.98 of particles at .01
+micron, that is better than HEPA (high efficiency particulate arrestance
+technologies), the industry standard.
+
+3
+ 5
+
+We also sell a residential built-in vacuum system. Our central vacuum system is
+quieter than competing models because the power unit is installed in a location
+separated from the living area and is made of ABS plastic to further insulate
+the noise it produces. Built-in vacuum systems are typically installed in either
+the garage, basement, or a closet. Plastic piping runs through the walls of the
+home from the unit to various inlets, which have been strategically placed
+throughout the home. When a vacuum hose end is placed into an inlet, the
+built-in vacuum system's power unit is activated. A built-in system offers the
+convenience of carrying only a power nozzle and hose. Built-in vacuum systems
+are extremely popular in Canada and in some parts of Europe.
+
+Our built-in vacuum system is sold in homes through direct sales and in retail
+outlets. In Canada, the system is marketed side-by-side with our high filtration
+portable surface cleaner. We sell two models of our built-in vacuum system. In
+Canada, one model is sold through the existing direct sales channel under the
+brand name Filter Queen(R). Our other model, the Vacu-Queen(R), is sold in
+Canada and the United States through retail vacuum specialty stores. We sell our
+central vacuum system in Europe under the Vacu-Queen(R) brand name and under
+private label through direct sales channels.
+
+We believe that we offer a superior warranty in the U.S. for our high filtration
+portable surface cleaner compared with all other U.S. manufacturers and sellers
+of vacuum cleaners. We warrant our surface cleaner for a five-year period from
+the date of purchase and offer a warranty for the life of the vacuum for the
+replacement of the surface cleaner's motor at a price not to exceed 99 USD.
+Outside the U.S., we offer a two-year warranty for our high filtration portable
+surface cleaner. The portable room air cleaner is warranted for renewable
+one-year periods so long as the main air filter is replaced annually. A
+five-year warranty is offered for our built-in vacuum system.
+
+Our distribution system consists of approximately 350 distributors and importers
+who sell our products. Our independent authorized distributors and importers
+sell our products in more than 40 countries worldwide.
+
+Each distributor and importer has a defined territory in which he or she
+maintains the exclusive right to sell our company's products. Each distributor
+and importer sells the products to consumers through an in-home presentation
+given by a sales associate who, in some parts of the world, has been trained and
+certified by independent HMI trainers as an "Indoor Air Quality Specialist." Our
+products are sold exclusively through direct, in-home sales as it allows for
+greater customer contact and a more complete presentation of the product's
+benefits. Distributors are granted the right to market our products using the
+demonstration method and utilizing our trademarks. These same distributors and
+importers are responsible for providing service and replacement consumables and
+supplies to the end-consumers in their territories, which provides them with
+another source of revenue and potential referral network.
+
+4
+ 6
+
+U.S. MARKET. In the United States, we sell our high filtration portable surface
+cleaner and portable room air cleaner through distributors who sell our products
+through sales associates. Those sales associates in turn sell our company's
+products directly to end customers.
+
+To aid in the retention of distributors and help with the development of their
+professional careers and independent businesses, we developed a unique training
+and development program called "The Edge Success Program" (the "Edge"). The Edge
+is an innovative, highly structured 12-step program that provides business
+training from the earliest level of a new recruit to the most senior level of a
+premier master distributor and provides incentives at each level to promote the
+development and retention of quality distributors and sales associates. Business
+and management training includes a business management correspondence course and
+a training seminar, the Business Management Institute, designed in conjunction
+with Eckerd College in Florida, and addresses everything from in-home
+demonstration technique to generation of sales leads, personnel training,
+compliance matters, ownership and operation of a distributorship, and more.
+
+MARKETS OUTSIDE THE U.S. Success in exporting is relatively new to us, occurring
+mostly in the last ten years. To sell our products in a foreign market, we
+usually engage the services of a single importer to represent our products in
+each country. We have less contact with the direct sales networks employed by
+importers because we have fewer field staff outside the U.S. to support such
+sales networks. Since each country poses its own unique set of challenges (among
+others, currency fluctuations, differing political and economic systems, unique
+business and legal environments, inconsistent duty and tax requirements, and
+even civil unrest and war), it can be very difficult to penetrate a new market
+without the help of an individual from that market. As a consequence, we are
+dependent on our importers to address those challenges.
+
+ MARKETING AND ADVERTISING
+
+Traditionally, we have relied on our distributors to market and sell our
+products to consumers. A portion of the sales of our products by our
+distributors and their sales associates is dependent on telemarketing as a tool
+for developing sales leads and arranging in-home demonstrations of our products
+with end-consumers who purchase these products. Recent efforts in Europe and the
+U.S. have focused on imposing more restrictions on telemarketing. There can be
+no assurance that state regulations will not further restrict telemarketing and
+thereby make it increasingly difficult to sell our products with the aid of
+telemarketing. Because of these increased regulations and the high relative cost
+of telemarketing, many of the distributors have been developing alternative
+methods to generate leads for in-home demonstrations. Such alternative methods
+include, but are not limited to, setting up displays at trade shows and fairs,
+distributing flyers and door hangers, and using customer referral programs.
+
+While we have not marketed or advertised our products directly to consumers, we
+have recently started to promote brand awareness to consumers through print ads,
+radio, television and the Internet. Although difficult to measure, we have seen
+an increase in Internet inquiries, and telephone calls due in large part to our
+brand awareness campaign. All inquiries are sorted by zip code and forwarded to
+the appropriate Distributor for action.
+
+5
+ 7
+
+In addition to direct advertising, we are able to market our products by radio
+endorsements we earned from Olympic Gold Medal swimmer and world record holder
+Tom Dolan. Mr. Dolan, who repeated his gold medal performance at the 2000
+Olympic Games held in Sydney, Australia, suffers from severe allergies and
+asthma and uses the Filter Queen Indoor Air Quality System(TM) as part of a
+strategy to improve his indoor air environment and to reduce his incidents of
+allergy and asthma attacks. In addition, we have teamed up with the National
+Trust for Historic Preservation by exclusively supplying our high filtration
+portable surface cleaner to 19 homes of national historic significance under the
+National Trust's care. Under the agreement with the National Trust, we are
+permitted to advertise and promote the National Trust's choice of the Filter
+Queen(R) to take care of damaging dust and dirt in some of America's most
+nationally significant homes, including James Madison's Montpelier in Virginia,
+Frank Lloyd Wright's home and studio in Oak Park and the Robie House, Cliveden
+in Philadelphia, Lyndhurst in Tarrytown, New York and Woodrow Wilson's home in
+Washington, D.C.
+
+ RAW MATERIAL
+
+We assemble finished parts purchased from various suppliers. The raw materials
+used by our manufacturing operations are purchased from a number of suppliers,
+and substantially all such materials are readily available.
+
+ PATENTS AND TRADEMARKS
+
+We have numerous United States and foreign patents, patent and trademark
+applications, registered trademarks and trade names that are used in our
+business. We generally own the trademarks under which our products are marketed
+and have registered our trademarks and will continue to register and protect
+them as they are developed or acquired. We also believe that certain of the
+trademarks and trade names are of material importance to the businesses/products
+to which they relate and may be of material importance to our company as a
+whole. Although protection of our patents and related technologies are important
+components of our business strategy, none of the individual patents is believed
+to be material to our company. The remaining duration of the patents and
+trademarks varies.
+
+ SEASONALITY
+
+Our business is typically not seasonal.
+
+ MAJOR CUSTOMERS AND DEPENDENCE ON INDEPENDENT DISTRIBUTORS
+
+Sales of our products to three of our international importers accounted for
+13.1 , 12.9 and 11.3 of total product sales in fiscal year 2000, and 20.5 ,
+11.6 and 11.0 of total product sales in fiscal year 1999. In fiscal year 1998,
+two international importers accounted for 20.7 and 10.3 of total HMI product
+sales. The loss of any significant portion of our sales from these importers,
+although believed by HMI management to be unlikely, would have a material
+adverse impact on our sales and earnings.
+
+Our revenues, and the stability of such revenues, are dependent on our
+relationships with third-party distributors and their sales persons and their
+level of satisfaction with us and our products. The distributors are independent
+third parties who are not our employees and are not directly
+
+6
+ 8
+
+under our control. There can be no assurance that the current relationships with
+distributors will continue on acceptable terms and conditions to us, nor can
+there be any assurance that additional distributorship arrangements with third
+parties will be obtained on acceptable terms. Moreover, there can be no
+assurance that the distributors will devote sufficient time and resources to our
+products to enable the products to be successfully marketed. Failure of some or
+all of our products to be successfully and efficiently distributed could have a
+material adverse effect on our business, prospects, financial condition and
+results of operations.
+
+ BACKLOG
+
+We operate monthly with a minimal backlog (backlog at September 30, 2000 and
+1999 was 19 and 40, respectively).
+
+ COMPETITION
+
+We experience strong competition in the sale of our high filtration portable
+surface cleaners, central vacuum systems and portable room air cleaners.
+Participants in the vacuum and indoor air cleaner industries compete primarily
+on price, quality, brand name recognition, product availability and product
+performance, including the perceived amount of particles removed by a vacuum
+cleaner or air filter. Vacuums and indoor air filters are sold through a variety
+of channels, including department stores, discount houses, appliance stores, and
+catalogs, generally at substantially lower prices than our products. According
+to the Vacuum Dealers Trade Association, 75 of vacuum sales in 1998 were
+through retail store outlets and direct-selling companies like HMI sold 25 . We
+believe that our high filtration portable surface cleaner is competitive with
+other vacuum cleaners because of its superior performance and warranty, as
+described in greater detail above under "Products and Distribution."
+
+Our high filtration portable surface cleaner and central vacuum system compete
+with many significant vacuum cleaner manufacturers and with regional and private
+label manufacturers, including other direct selling companies, such as Rainbow,
+Tri-Star, Kirby, Miracle Mate, Electrolux and Water-Matic, and companies that
+sell through retail outlets such as Eureka, Hoover, Kenmore and Royal. Our
+portable room air cleaner competes with other indoor air cleaners sold by
+direct-selling companies such as Alpine, and others that sell through retail
+outlets such as Honeywell, Bionaire, Ozone Generators and Ionizer. Many of our
+competitors have greater financial, marketing and manufacturing resources and
+better brand name recognition than us, and sell their products through broader
+and more extensive distribution channels.
+
+ RESEARCH AND DEVELOPMENT
+
+Our ongoing research and development program involves creating new products and
+redesigning existing products to reduce manufacturing costs and to increase
+product quality and efficiencies. During 1998, insignificant monies were
+expended on research and development activities. In fiscal year 2000 and 1999,
+we invested 643 and 290, respectively, in new product development. We
+anticipate expending less money on the development of new products in fiscal
+year 2001, than that expended in fiscal 2000.
+
+7
+ 9
+
+ENVIRONMENTAL
+
+To our knowledge, we are in compliance with all applicable Federal, State and
+local laws relating to the protection of the environment.
+
+While we anticipate no current expenses for environmental issues, there can be
+no assurance that we will not receive claims for environmental conditions in the
+future, nor any assurance that any such claims, if received, would not have a
+material adverse impact on our financial condition and results of operations.
+
+ EMPLOYEES
+
+We employed 113 full-time and 3 part-time employees at September 30, 2000. We
+consider our relations with our employees to be good.
+
+FINANCIAL INFORMATION ABOUT GEOGRAPHIC AREAS
+Prior to March 1998, one of our major foreign operations had been located in
+Canada. As of March 1998, we began selling into Canada through one importer and
+all sales previously made by our Canadian operation were ceased. Canadian sales
+for the fiscal year ended September 30, 1998 were not considered export sales.
+Identifiable revenues of Canadian operations for the year ended September 30,
+1998 were 2,219. For the fiscal years subsequent to September 30, 1998, we
+considered Canadian sales to be export sales.
+
+Sales to international customers represent 64.4 , 67.0 and 60.9 of net product
+sales for the years ending September 30, 2000, 1999 and 1998, respectively.
+
+ EXECUTIVE OFFICERS OF THE REGISTRANT
+
+NAME AGE POSITION AND TERMS OF SERVICE AS OFFICER
+- ---------------------------- -------- ----------------------------------------------------------------------------
+ 
+James R. Malone 57 Chairman and Chief Executive Officer(1)
+Carl H. Young III 59 President, Chief Operating Officer and General Counsel(2)
+Joseph Najm 42 Vice President-Operations(3)
+Julie A. McGraw 36 Vice President, Chief Financial Officer, Treasurer, Corporate Controller,
+ Chief Accounting Officer and Assistant Secretary(4)
+
+(1) Mr. Malone was elected Chairman of the Board of Directors in December 1996
+ and Chief Executive Officer in May 1997. From 1993 to 1997, Mr. Malone was
+ Chairman, President, and Chief Executive Officer of Anchor Glass Container
+ Corporation, a manufacturer of glass containers.
+
+(2) Mr. Young was elected President and Chief Operating Officer in July 1998.
+ He served as Executive Vice President, General Counsel, and Assistant
+ Secretary from May 1997 to July 1998 and served as Vice President and
+ General Counsel from February 1997 to May 1997. From 1993 to 1997, Mr.
+ Young served as Senior Vice President and General Counsel of Anchor Glass
+ Container Corporation.
+
+ 8
+ 10
+
+(3) Mr. Najm was elected Vice President-Operations in March 1999. He previously
+ was employed by the Kirby Company as Vice President-Manufacturing from 1995
+ to 1999. The Kirby Company is a manufacturer of vacuum cleaners.
+
+(4) Ms. McGraw was elected Chief Financial Officer and Treasurer in March 2000,
+ Vice President in February 1999 and Corporate Controller in March 1998. She
+ served as Assistant Corporate Controller from July 1996 until March 1998.
+ From 1994 until July 1996 she was Manager of Corporate Accounting with Moen
+ Inc., a faucet manufacturer.
+
+ITEM 2. PROPERTIES
+
+The following table sets forth the location, character and size (in square feet)
+of the real estate we used in our operations at September 30, 2000:
+
+Location Character Square Feet
+- --------------------------- ----------------------------- ---------------
+
+ United States of America
+ Strongsville, Ohio Leased office, manufacturing
+ and warehouse space 72,991
+
+ Seven Hills, Ohio Leased office space 15,706
+
+ Naples, Florida Leased office space 2,452
+
+ITEM 3. LEGAL PROCEEDINGS
+Claims arising in the ordinary course of business are pending against us.
+Although these are in various stages of the litigation process, we believe that
+none of these matters will have a material adverse effect on our consolidated
+financial position, results of operations or cash flows. Included in the
+accompanying Consolidated Balance Sheets at September 30, 2000 and 1999 were
+accruals of 177 and 391, respectively, relating to various claims.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+Not applicable.
+
+9
+ 11
+
+PART II
+
+ITEM 5. MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER
+MATTERS
+
+Our Common Stock was listed for trading on the NASDAQ National Market under the
+symbol "HMII" until February 10, 1999, the date when it was delisted. The
+delisting occurred as the stock no longer met Nasdaq's minimum public float
+requirement due to a combination of a decline in the price of our shares of
+common stock and a concentration of stock holding. Since February 11, 1999, our
+shares have been traded on the OTC Bulletin Board under the symbol "HMII.OB".
+
+As of September 30, 2000, there were approximately 241 stockholders of record.
+
+A summary of the dividends declared and the quarterly high and low sales price
+of our common stock on the OTC Bulletin Board and Stock Exchange for the years
+ended September 30, 2000 and 1999, are as follows:
+
+2000
+ High Low Dividend
+ -------------- -------------- -------------
+ 1st Quarter 1 3/4 1/2 .0000
+ 2nd Quarter 1 5/8 15/16 .0000
+ 3rd Quarter 1 9/16 1 1/16 .0000
+ 4th Quarter 1 1/2 1 .0000
+
+1999
+ High Low Dividend
+ ------------ --------------- --------------
+ 1st Quarter 1 3/4 1 .0000
+ 2nd Quarter 1 3/4 1 1/4 .0000
+ 3rd Quarter 2 1/4 1 11/32 .0000
+ 4th Quarter 2 1 1/4 .0000
+
+The declaration and payment of quarterly dividends is at the discretion of the
+Board of Directors, which may raise, lower or omit the dividend in any quarter.
+No dividends were declared in 2000 or 1999 as the credit agreement with our
+lender presently prohibits us from declaring or paying any dividends.
+
+In November 1999, we announced that we expected to offer for sale up to
+2,500,000 shares of our common stock in a transaction exempt from the
+registration requirements under federal securities law. On March 1, 2000, we
+successfully completed this private offering, at 1.625 per share of Common
+Stock, generating approximately 2 million in additional capital. Individuals
+affiliated with HMI acquired approximately 71 of the Shares, which were
+purchased at a 35 premium over the market value. Net proceeds received from the
+sale of the shares will be used for general business purposes and in the
+implementation of our strategic initiatives as described below.
+
+10
+ 12
+
+As part of our continuing initiative to streamline costs and restructure our
+company to its core business of manufacturing and distributing high filtration
+portable surface cleaners, central vacuum systems and portable room air
+cleaners, we have developed a strategic plan for growth. We intend to leverage
+our position as a leading manufacturer and direct seller of high filtration
+portable surface cleaners, central vacuum systems and portable room air cleaners
+by undertaking key initiatives that we believe will drive revenues higher and
+lower operating costs.
+
+The key initiatives include but are not limited to the following:
+ - Develop a better trained and more knowledgeable distribution network;
+ - Increase product awareness and brand recognition;
+ - Expand the geographic and demographic markets in which our products are
+ distributed and sold;
+ - Continue to streamline processes and lower costs; and
+ - Invest in new infrastructure and pursue additional growth opportunities.
+
+Our plan is to use the proceeds from this offering and funds from operations and
+bank financing to implement our strategic plan. Even with the monies raised by
+the offering, there can be no assurance that cash generated from operations or
+other sources of financing will be available that will enable us to fully
+implement the strategic plan. In addition, there can be no assurance that our
+financial condition and results of operations will not be materially and
+adversely affected if we are unable to fully implement our strategic
+initiatives.
+
+11
+ 13
+
+ITEM 6. SELECTED FINANCIAL DATA
+In thousands except per share amounts and ratios
+
+2000 1999 1998 1997 1996
+ -------- -------- -------- --------- ----------
+ 
+Net Revenue From Continuing Operations 34,621 36,927 38,748 49,878 58,821
+Cost of Product Sold and SG&A Expenses 33,515 38,447 48,203 68,603 63,882
+Impairment loss --- 2,665 --- --- ---
+Other Income (Expense), net 6 60 (1,335) (2,038) (3,544)
+Income (loss) Before Discontinued
+ Operations and Taxes 1,112 (4,125) (10,790) (20,763) (8,606)
+Income (loss) Margin Before
+ Discontinued Operations and Taxes 3.2 (11.0 (27.6 (41.1 (14.5 Income Tax (Benefit) Expense (353) 116 (2,217) (7,286) (2,838)
+Income Tax Rate (31.7 (2.8 20.5 35.1 33.0 
+Income (loss) Before Discontinued
+ Operations 1,465 (4,241) (8,573) (13,477) (5,767)
+Income (loss) Margin Before
+ Discontinued Operations 4.2 (11.4 (21.9 (26.7 (9.7 Income (loss) From Discontinued
+ Operations --- --- 441 2,347 (1,966)
+Gain (loss) on Disposal 425 (375) 7,157 (5,520) (2,281)
+Net Income (loss) 1,890 (4,616) (975) (16,650) (10,014)
+Net Income (loss) Margin 5.5 (12.4 (2.5 (33.0 (16.8 
+Per Share Data - Basic:
+Income (loss) Before Discontinued
+ Operations 0.24 (0.81) (1.66) (2.72) (1.18)
+Income (loss) From Discontinued
+ Operations --- --- .09 .47 (.40)
+Gain (loss) on Disposals 0.07 (0.07) 1.38 (1.11) (0.46)
+Net Income (loss) 0.31 (0.88) (0.19) (3.36) (2.04)
+Cash Dividends --- --- --- --- .263
+Weighted Average Number of Common
+ Shares Outstanding 6,113 5,263 5,170 4,956 4,912
+
+Per Share Data - Diluted:
+Income (loss) Before Discontinued
+ Operations 0.24 (0.81) (1.66) (2.72) (1.18)
+Income (loss) From Discontinued
+ Operations --- --- .09 .47 (.40)
+Gain (loss) on Disposals 0.07 (0.07) 1.38 (1.11) (0.46)
+Net Income (loss) 0.31 (0.88) (0.19) (3.36) (2.04)
+Cash Dividends --- --- --- --- .263
+Weighted Average Number of Common
+ Shares Outstanding 6,140 5,263 5,170 4,956 4,912
+
+Total Assets 20,843 17,465 24,409 54,590 92,511
+Long-Term Debt 71 --- 42 763 22,335
+Stockholders' Equity 14,394 10,326 14,099 14,552 30,883
+Working Capital 3,913 612 (18) 2,680 24,982
+
+Ratio of Current Assets to Current
+ Liabilities 1.61 1.09 1.00 1.07 1.77
+Percent of Earnings on Average
+ Stockholders' Equity 15.3 (37.8 (6.80 (73.3 (28.1 Percent of All Dividends to Net Income --- --- --- --- (12.9 Stock High 1 3/4 2 1/4 6 1/2 8 1/8 15
+Stock Low 1/2 1 1 1/4 3 7/8 4 3/4
+Average Annual Price to Earnings Ratio 3.6 (1.9) (20.6) (1.8) (4.8)
+Average Annual Dividend Yield --- --- --- --- 2.7 
+
+12
+ 14
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS (DOLLARS IN THOUSANDS)
+
+The discussion and analysis contained in this section relates only to our
+continuing operations.
+
+RESULTS OF OPERATIONS - 2000 COMPARED WITH 1999
+NET PRODUCT SALES- Net product sales of 34,621 for the year ended September 30,
+2000, were 2,306 or 6.2 lower when compared to the prior year sales of
+ 36,927. The decrease in sales is primarily related to the decline of sales in
+Asia and Western Europe of 1,831 and 1,571, respectively, offset by increased
+sales to Eastern Europe/Middle East of 1,136.
+
+The decrease in Asia is largely the result of decreased Majestic(R) volume,
+which was driven primarily by a sales decline in Japan. This situation was being
+addressed through a reorganization of the territories within the Japanese
+importer's network of distributors. However, in September 2000, the importer, in
+the best interest of his network and HMI, made the decision to sell his business
+to a group led by the two largest volume distributors in his network and the
+former President of his business. The sale was effective October 1, 2000, and
+given that this new group has made a substantial investment in their business
+which deals with our Filter Queen products, management of HMI anticipates that
+this new group of importers will meet or exceed the sales targets for fiscal
+2001.
+
+Sales in Western Europe have been adversely effected by decreased sales to our
+Holland importer and a major U.K. importer. These decreases were offset by
+increased sales to Portugal and Spain, as these two countries continue to grow
+their businesses. Holland sales were negatively impacted by the fact that some
+of our Eastern European and Middle Eastern distributors have increased their
+volume sufficiently enough to be able to order container-sized shipments
+directly from us. Accordingly, they no longer need to buy product from our
+Holland importer. Decreased sales within his own territory has also added to the
+Holland importer's overall sales decline, as telemarketing regulations in this
+area have hindered the growth and stability of the direct sales market. Our
+major U.K. importer's business suffered when, in the first quarter of fiscal
+2000, he lost two master distributors to a competitor. He spent the rest of the
+year working to rebuild his network and open new offices. Recently, an English
+television news expose on disreputable sales associates (not affiliated with
+this importer) demonstrating the Filter Queen(R) product in the U.K., as well as
+a truck drivers strike which caused an oil/gas shortage in the U.K., have had an
+adverse effect on the importer's attitude toward the business which has
+prevented him from making any appreciable recovery during the year. This has
+caused him to resign his position as an importer of our product. No details have
+been finalized at this time; however, we have opened negotiations with his top
+two distributors and it is anticipated that one or both of them will become
+importers.
+
+The favorable sales comparison in the Eastern European/Middle Eastern region is
+primarily related to increased sales in Norway and Turkey. As previously
+discussed these importers have grown their businesses and increased their sales
+volume to the point where they are now able to place container-sized orders
+directly from us. As such, they are no longer purchasing product from our
+Holland importer, as was done in fiscal 1999.
+
+Net product sales are not materially impacted by any changing prices.
+
+GROSS PROFIT- The gross margin for the year ended September 30, 2000, was
+ 14,173 or 40.9 of sales as compared to 12,829 or 34.7 of sales in 1999. This
+increase in the gross margin of
+
+13
+ 15
+
+ 1,344 is principally attributed to favorable material and overhead spending
+variances of 2,275 and 198, respectively; offset by lower year-to-date sales
+volume which negatively impacted the gross margin by 1,129.
+
+Material costs have been reduced due to management's on-going focus to improve
+quality and reduce costs. The key areas in which material cost reductions have
+been obtained are filtration products, motors and molded plastic parts, as well
+as other improvements in the procurement process. Material costs have also been
+favorably impacted by reduced obsolescence expense, which was 691 lower than
+the prior year due to adjustments recorded in fiscal 1999 for certain motors and
+product changes.
+
+Improved purchasing and inventory controls further contributed to the current
+year improvement. In addition, our parts specifications have been conveyed
+clearly to our suppliers who must meet our specifications. Vendor charge backs
+have become the norm when parts fail our quality inspection. Process
+improvements and operational efficiencies brought about by Total Quality Control
+procedures have reduced direct labor costs in our manufacturing plant. These are
+examples of where attention to cost and quality has directly resulted in
+improved gross margins.
+
+SELLING, GENERAL, AND ADMINISTRATIVE - Selling, general, and administrative
+("SG&A") expenses for the year ended September 30, 2000, of 13,067 were
+favorable to fiscal 1999 expenses of 14,349 by 1,282. The decrease in SG&A is
+primarily attributable to decreases associated with the decreased sales volume,
+such as commissions and certain career development expenses, which decreased
+ 987. Other significant favorable variances were for rental equipment, a
+distributor development program and legal and professional fees. Rental
+equipment expense is favorable 369 as a result of the cancellation and
+subsequent settlement of a computer equipment lease which was accrued for in
+fiscal 1999. The distributor development program adjustment was based on the
+results of an actuarial study and resulted in a non-cash credit to income of
+ 332, during the third quarter of fiscal 2000. The actuarial study was
+commissioned to refine the existing calculation and to provide the credibility
+of a third party verification. Legal and professional expenses were down 327 as
+a result of reduced legal activity in this year. Offsetting these favorable
+variances were 657 in benefits expense associated with the fiscal year 2000
+incentive program.
+
+IMPAIRMENT LOSS - On January 12, 1999, we sold our Cleveland, Ohio facility and
+related land to Rose Management Company, a local real estate investment company,
+for 840. The net book value of the related land and building at the time of
+sale was 3,505. In December 1998, we recorded a non-cash impairment loss of
+ 2,665 on the building to reflect the difference between the sales price and the
+net book value of the property.
+
+INTEREST EXPENSE - Interest expense for fiscal year 2000 was 47, or 24 lower
+than fiscal 1999 due primarily to lower outstanding balances on the current
+credit facility as compared to that in fiscal 1999.
+
+OTHER (INCOME) EXPENSE - The decrease in other income from 131 in fiscal 1999
+to 53 for the year ended September 30, 2000 is primarily associated with the
+reclass of financing revenue to this line of our Consolidated Statement of
+Operations. Financing revenue represents the interest
+
+14
+ 16
+
+and fees generated on the contracts financed by our Australian, Canadian, and
+United States subsidiaries. It was decided in January 1998 to discontinue the
+financing of contracts to the end customers. In fiscal 2000, any remaining
+monies received relating to this business were recorded to the other
+income/expense line of our Consolidated Statements of Operations. Therefore,
+finance revenue of 436 and 328 for the years ended September 30, 1999 and
+1998, respectively, has been reclassified to conform to the 2000 presentation.
+The financing revenue has decreased due to the January 1998 cessation of the
+financing of end user purchase contracts by HMI
+
+INCOME TAXES - The effective income tax rate for the year ended September 30,
+2000 was (31.7 compared to (2.8 in fiscal 1999. The effective tax rate for
+fiscal 1999 was attributable to the establishment of a valuation allowance
+against 1999 net operating losses offset by a provision for state taxes. The
+valuation allowance was established in September of 1999, because although we
+had just reported our first profitable quarter in sixteen quarters, management
+felt that this was still not enough positive evidence at that time to warrant an
+adjustment to the valuation allowance that had been previously established to
+reserve a portion of the deferred tax asset. During the first three quarters of
+fiscal 2000, we recognized operating profits but utilized the `rolling' method
+of accounting for income taxes which resulted in the reduction of the valuation
+allowance associated with U.S. deferred tax assets to the extent those assets
+were utilized in a given quarter. This method created an effective tax rate of
+0 for each quarter. However, as of September 30, 2000, it is management's
+belief that enough positive evidence now exists so as to warrant the reversal of
+the valuation allowance associated with domestic deferred tax assets. Therefore
+the income tax benefit and the effective tax rate for fiscal 2000 primarily
+represent the reversal of this portion of the valuation allowance. (See Note 8
+to the Consolidated Financial Statements).
+
+GAIN ON DISPOSAL - On March 27, 1998, we completed the sale of, our then
+wholly-owned subsidiary, Bliss Manufacturing to an investor group led by Mr.
+Mervin Dunn and Rhone Capital L.L.C. pursuant to a Stock Purchase Agreement,
+dated December 17, 1997, as subsequently amended. In March 1999, we recorded a
+reserve of 425,000 for future environmental damage expenditures pursuant to
+section 8.5 of this Purchase Agreement. This amount was recorded as a
+conservative estimate of potential liability under the Stock Purchase Agreement
+as studies conducted by independent third parties noted no obligations under
+existing regulatory guidelines.
+
+On January 21, 2000, Bliss, under the ownership of Rhone Capital L.L.C., filed
+Chapter 11 bankruptcy with the Michigan Eastern Bankruptcy Court, in Detroit,
+Michigan. Subsequently, all Bliss facilities were auctioned through the
+Bankruptcy Court. The indemnification obligation noted in the Stock Purchase
+Agreement did not survive the sale through the bankruptcy court, and as a
+result, in June 2000 the 425,000 reserve, recorded in accordance with the Stock
+Purchase Agreement, was reversed to income and recorded as a gain on disposal of
+discontinued operations in the Consolidated Statements of Operations. (See Note
+2 to the Consolidated Financial Statements).
+
+15
+ 17
+
+INFLATION - While inflation has not had, and we do not expect it to have, a
+material impact upon operating results, there can be no assurances that our
+business will not be affected by inflation in the future.
+
+RESULTS OF OPERATIONS - 1999 COMPARED WITH 1998
+NET PRODUCT SALES- Product sales for the year ended September 30, 1999 were
+ 36,927 a 1,821 decrease over fiscal year 1998 product sales of 38,748. This
+sales decrease was primarily a result of decreased worldwide After Market Sales
+("AMS") offset by increased Majestic(R) sales (our floor care product) in Asia
+and increased Defender(R) sales (our portable room air cleaner) in the Americas.
+The Americas Majestic(R) sales as well as an increase in trade discounts also
+contributed to the decline in sales.
+
+The decrease in worldwide AMS, as compared to fiscal 1998, was attributed
+principally to declines in the Canadian and European markets of 871 and 447,
+respectively. AMS are sales of additional accessories, consumables (filters and
+fragrances), and replacement parts. In March 1998, we changed our Canadian
+operations by engaging an importer to manage our distribution network. Because
+the Canadian importer has focused principally on maintaining a strong
+distributor network and stabilizing sales of the Majestic(R), the AMS program
+deteriorated slightly. However, HMI management and the Canadian importer
+implemented a new strategy, in the third quarter of fiscal 1999, that they felt
+would improve the growth of AMS in Canada. The new strategy added additional
+experienced AMS sales support to the Canadian territory and refocused AMS as a
+tool for generating sales.
+
+The decrease in European AMS was the direct result of a loss of business in
+Russia and its neighboring countries from the economic crisis in that region, an
+adjustment in the inventory levels in the Netherlands warehouse, and distributor
+cash constraints in the U.K. caused by difficulties in obtaining consumer
+financing to complete sale transactions. Consumer financing companies used in
+England decreased from four primary lenders to one during the second quarter of
+fiscal 1999. To rectify this situation, we negotiated with a consumer finance
+professional who identified and established new financial services, while
+revitalizing existing relationships for the U.K. network. This relationship
+helped to stabilize, in the fourth quarter of fiscal 1999, the difficulties
+being experienced in the U.K.
+
+Asian Majestic(R) sales increased 453 from their fiscal 1998 levels largely due
+to a return to growth in the Korean market following last year's fallout of the
+Asian currency devaluation. This resurgence in the Korean market was slightly
+offset by a decline in Japanese Majestic(R) sales as the Japanese market had not
+recovered as quickly from the adverse economic conditions in that area.
+
+The Americas Defender(R) sales for fiscal 1999 increased 12 or 325 as compared
+to fiscal 1998. The increase in Defender(R) sales was directly attributable to
+the repackaging of our products (the Majestic(R) and Defender(R)) as a
+side-by-side system rather than as stand-alone products.
+
+While Defender(R) sales rose in the Americas, Majestic(R) sales decreased over
+fiscal 1998 by 609 primarily as a result of consumer financing constraints and
+lead generation and recruiting
+
+16
+ 18
+
+issues. The availability of consumer financing had diminished following the
+merger of Beneficial and Household Finance and Avco Financial Services, the two
+largest U.S. consumer credit companies. To assist the distribution network in
+obtaining financing, we completed, in the fourth quarter of fiscal 1999, a
+national financing deal that we hoped would greatly improve the closing rate of
+financed sales transactions in the Americas distribution network. As state
+regulations on consumer protection laws impose more restrictions on
+telemarketing, many of our distributors had to begin to develop alternative
+methods to generate leads for in-home demonstrations. In addition, as the
+unemployment rate continues to remain at an all time low, the Americas
+distributors had to create new recruiting programs to offset the adverse effect
+unemployment has on their ability to recruit new candidates to demonstrate our
+products in homes.
+
+To assist the distributors in creating new lead generation and recruiting
+programs, as well as aid in the retention of distributors and help with the
+development of their professional careers and independent businesses, we
+developed a unique training and development program called "The Edge Success
+Program" (the "Edge"). The Edge is an innovative, highly structured 12-step
+program that provides business training from the earliest level of a new recruit
+to the most senior level of a premier master distributor and provides incentives
+at each level to promote the development and retention of quality distributors
+and sales associates. Business and management training includes a business
+management correspondence course and a training seminar, the Business Management
+Institute, designed in conjunction with Eckerd College in Florida, and addresses
+everything from in-home demonstration techniques to generation of sales leads,
+personnel recruiting and training, compliance matters, and other aspects of
+owning and operating a distributorship.
+
+Effective January 1, 1998, we implemented in North America a cash-basis sales
+policy, which required distributors to purchase inventory from us in cash. This
+policy was implemented to negate the deterioration of liquidity, primarily in
+the North American distribution network, caused by excess credit granted in
+prior years and to improve internal working capital. To encourage distributors
+outside of North America to utilize cash-basis sales terms, in late fiscal 1998,
+we began offering trade discounts to those distributors that prepaid their sales
+orders. Several distributors, primarily in Canada, Japan and Portugal, fully
+utilized the availability of these prepayment discounts for all twelve months
+ending September 30, 1999. This greater utilization of the discounts in fiscal
+1999 versus fiscal 1998 represents the remaining variance between fiscal 1999
+and 1998 net product sales.
+
+Net product sales were not materially impacted by any changing prices.
+
+GROSS PROFIT- Gross Profit for fiscal 1999 was 12,829, or 34.7 as compared to
+1998 gross profit of 10,885 or 28.1 . The increase in the margin was largely a
+result of a reduction in obsolescence, as well as reduced material and overhead
+costs coupled with a favorable LIFO adjustment of 485. Offsetting the increase
+in the margin were unfavorable variances of approximately 1,395 related to
+sales volume and trade discounts.
+
+Obsolescence expense decreased 554 from fiscal 1998 levels primarily as a
+result of a special charge recorded in December 1997 for the discontinuance of
+the Elektrapure product line. After efforts to sell the line in the first two
+quarters of fiscal 1998 proved unsuccessful, we recorded a
+
+17
+ 19
+
+charge in the quarter ended June 30, 1998, of 520 to reduce the Elektrapure
+line inventories to their estimated net realizable value.
+
+Reduced material costs, which directly impacted the favorable LIFO adjustment,
+were the direct results of the resurgence of the initiatives begun in the fourth
+quarter of fiscal year 1997 to strengthen operational processes, reduce cost,
+and improve quality. Our focus on quality, reduction of plant spending, and
+improved labor efficiencies, netted an additional reduction of 2,149 in
+manufacturing overhead expenses. These initiatives became an important part of
+our culture as we continuously review our manufacturing cost structure and
+operational processes.
+
+SELLING, GENERAL, AND ADMINISTRATIVE - Selling, general and administrative
+("SG&A") expenses for the year ended September 30, 1999 of 14,349 were
+favorable to fiscal 1998 expenses of 20,340 by 5,991. The decrease in SG&A
+expenses was primarily attributable to decreases in employee related costs of
+ 1,370, bad debt expense of 2,522, distributor development expenses of 604,
+professional and consulting fees of 409 and miscellaneous supplies and utility
+expenses of 280. The decrease in bad debt primarily related to 2,358 recorded
+in fiscal 1998 for bad debt expense resulting from the continuing deterioration
+of the receivables associated with our elimination of credit in North America
+and changes in the way we went to market in the retail and Canadian channels. No
+such adjustment was necessary in fiscal 1999. The other savings, mentioned
+above, were generated by our cost reduction measures undertaken in fiscal 1998
+and continuing into fiscal 1999. In fiscal 1998, we downsized our businesses to
+one core business segment, downsized our staff to an appropriate level, and
+reduced non-sales growth expenses and fixed costs. Further contributing to the
+decrease in SG&A expenses was 881 relating to the Canadian and Holland
+entities. These operations were downsized in fiscal 1998 as part of our cost
+reduction plan.
+
+IMPAIRMENT LOSS - On January 12, 1999, we sold our then current facility and
+related land in Cleveland, Ohio, to Rose Management Company, a local real estate
+investment company, for 840. The net book value of the related land and
+building at the time of sale was 3,505. In December 1998, we recorded a
+non-cash impairment loss of 2,665 on the building to reflect the difference
+between the sales price and the net book value of the property.
+
+INTEREST EXPENSE - Interest expense for fiscal year 1999 was 71, or 1,318
+lower than fiscal 1998 due primarily to lower outstanding balances on the
+current credit facility as compared to the Star Bank credit facility in fiscal
+1998. The Star Bank credit facility was retired in March 1998 from the proceeds
+generated from the sale of our Bliss Manufacturing operation.
+
+INCOME TAXES - The effective income tax rate for the year ended September 30,
+1999 was (2.8 ), compared to 20.5 in 1998. The effective rate for fiscal 1999
+was attributable to the establishment of a valuation allowance against current
+fiscal net operating losses offset by a provision for state taxes.
+
+DISCONTINUED OPERATIONS - All previously recorded discontinued operations were
+disposed of in fiscal 1998 (See "General Development of Business" above and Note
+2 to the Consolidated Financial Statements). Sales applicable to discontinued
+operations for fiscal year 1999 and 1998 were -0- and 34,174, respectively.
+
+18
+ 20
+
+On March 19, 1999, we reached an agreement with Rhone Capital LLC to resolve a
+dispute concerning unusable and unsaleable inventory, and related
+representations and warranties stemming from the sale of our Bliss Manufacturing
+operation to Rhone in March 1998. All issues in dispute related to a Stock
+Purchase Agreement, dated December 17, 1997, as subsequently amended.
+
+Certain conditions of the resolution were as follows:
+
+(1) approximately 500 in funds escrowed in connection with the Stock Purchase
+ Agreement were released to Rhone;
+
+(2) we agreed, as did Rhone, not to assert claims for indemnification under
+ specified sections of the Stock Purchase Agreement;
+
+(3) Rhone agreed not to require us to purchase any unusable or unsaleable
+ inventory pursuant to the Stock Purchase Agreement; and
+
+(4) Rhone also agreed not to seek reimbursement for any monies actually paid in
+ respect of environmental damages from March 27, 1998, to and including
+ March 31, 1999.
+
+Also in March 1999 we recorded a reserve of 425 for future environmental damage
+expenditures pursuant to the Stock Purchase Agreement. This reserve was offset
+by the reversal of 50 of professional fees established in the original loss on
+disposal reserve recorded in fiscal year 1998 for the sale of Bliss. These
+professional fees were not paid due to the release of the entire escrow to Rhone
+(See Note 2 to the Consolidated Financial Statements).
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+OPERATING ACTIVITIES- Cash flows from operating activities utilized net cash of
+ 135 for the year ended September 30, 2000, principally due to increases of
+ 868, 380, 234, 244 and 205 in receivables, inventories, prepaid expenses,
+other current assets and other operating activities, respectively, and decreases
+in accounts payable of 329. These uses of cash were offset by cash inflows
+resulting from non-cash adjustments of 217 and net income of 1,890.
+
+The increase in accounts receivable is primarily the result of a few large
+international customers having decided to forego their prepaid discounts in
+favor of "net 30" terms due to the status of the Euro and other cash related
+issues. The increase in inventory is largely a direct result of lower than
+anticipated product revenue. The increase in prepaid expenses was a direct
+result of monies expended in advance for rent, video services and our European
+convention, while the increase in other current assets relates primarily to
+direct-response advertising costs incurred in connection with a Filter Queen
+television spot, which will be amortized in fiscal 2001. The increase in other
+operating activities is largely attributed to an increase in deposits on our
+furniture lease and our world headquarters facility lease.
+
+Cash disbursements for the year ended September 30, 2000 were approximately 300
+greater than purchases recorded for fiscal 1999, resulting in a decreased
+accounts payable balance. This decrease was partially a result of a 104
+decrease in raw material purchases due to the decreased sales volume over prior
+year and lower overall SG&A expenses.
+
+ 19
+ 21
+
+Non-cash adjustments consist primarily of depreciation and amortization,
+treasury/common shares issued, deferred income taxes (see Income Taxes Above)
+and gain on the disposal of assets related to the Bliss Manufacturing sale.
+
+INVESTING ACTIVITIES- Capital expenditures of 970 represent the entire net cash
+used in investing activities for the year ended September 30, 2000, of which the
+largest portion relates to leasehold improvements for our new manufacturing
+facility, factory and testing equipment, computer software and office furniture.
+
+FINANCING ACTIVITIES- Net cash provided by financing activities consists of
+ 1,926 related to the net proceeds from the sale of common stock, offset by
+payments of long-term debt in the amount of 51.
+
+In November 1999, we announced that we expected to offer for sale up to
+2,500,000 shares of our common stock in a transaction exempt from the
+registration requirements under federal securities law. On March 1, 2000, we
+successfully completed this private offering, at 1.625 per share of Common
+Stock, generating approximately 2 million in additional capital. Individuals
+affiliated with HMI acquired approximately 71 of the Shares, which were
+purchased at a 35 premium over the market value. Net proceeds received from the
+sale of the shares will be used for general purposes and in the implementation
+of our strategic initiatives as described below.
+
+As part of our continuing initiative to streamline costs and restructure our
+company to its core business of manufacturing and distributing high filtration
+portable surface cleaners, central vacuum systems and portable room air
+cleaners, we have developed a strategic plan for growth. We intend to leverage
+our position as a leading manufacturer and direct seller of high filtration
+portable surface cleaners, central vacuum systems and portable room air cleaners
+by undertaking key initiatives that we believe will drive revenues higher and
+lower operating costs.
+
+The key initiatives include but are not limited to the following:
+
+ - Develop a better trained and more knowledgeable distribution network;
+ - Increase product awareness and brand recognition;
+ - Expand the geographic and demographic markets in which our products
+ are distributed and sold;
+ - Continue to streamline processes and lower costs; and
+ - Invest in new infrastructure and pursue additional growth
+ opportunities.
+
+Our plan is to use the proceeds from this offering and funds from operations and
+bank financing to implement our strategic plan. Even with the monies raised by
+the offering, there can be no assurance that cash generated from operations or
+other sources of financing will be available that will enable us to fully
+implement the strategic plan. In addition, there can be no assurance that our
+financial condition and results of operations will not be materially and
+adversely affected if we are unable to fully implement our strategic
+initiatives.
+
+Our credit facility agreement includes, but is not limited to, various covenants
+that limit our ability to incur additional indebtedness, limit compensation to
+key personnel and transactions with affiliates, restrict paying dividends, limit
+book net worth and limit the ability for capital
+
+20
+ 22
+
+expenditures. As of September 30, 2000, we were not in compliance with one of
+these covenants; however, we obtained a waiver on this covenant.
+
+On December 17, 1999, we entered into an agreement with our lender to reset
+certain of these covenants, primarily capital expenditures and indebtedness, in
+anticipation of exceeding the previous established levels during our fiscal year
+ending September 30, 2000. On October 10, 2000, our lender again agreed to reset
+certain of these covenants for the year ending September 30, 2001, in order to
+allow for us to execute several strategic initiatives within our fiscal 2001
+budget, that could not otherwise be implemented due to the previously
+established levels.
+
+No monies were outstanding under this credit facility at September 30, 2000, or
+are anticipated to be outstanding at December 31, 2000.
+
+FUTURE ACCOUNTING REQUIREMENTS
+In June 1998, the Financial Accounting Standards Board (FASB) issued Statement
+of Financial Accounting Standards No. 133 (FAS 133), "Accounting for Derivative
+Instruments and Hedging Activities." In May 1999, the FASB delayed the effective
+date of FAS 133 by one year. We will be required to adopt FAS 133 for fiscal
+year 2001. This statement establishes a new model for accounting for derivatives
+and hedging activities. Under FAS 133, certain derivatives must be recognized as
+assets and liabilities and measured at fair value. We anticipate that, due to
+the fact that we are currently not engaged in hedging activities and that there
+is limited to no use of derivative instruments within our company, the adoption
+of FAS 133 will not have a significant effect on our results of operations or
+financial position.
+
+In December 1999, the Securities and Exchange Commission (SEC) issued Staff
+Accounting Bulletin No. 101 (SAB 101), "Revenue Recognition in Financial
+Statements." In June 2000, the SEC staff amended SAB 101 to provide registrants
+with additional time to implement SAB 101. We will be required to adopt SAB 101
+by the fourth quarter of fiscal 2001. We do not expect the adoption of SAB 101
+to have a material effect on our consolidated financial position or results of
+operation.
+
+21
+ 23
+
+CAUTIONARY STATEMENT FOR "SAFE HARBOR" - PURPOSES UNDER THE PRIVATE SECURITIES
+LITIGATION ACT OF 1995 This report, including Management's Discussion and
+Analysis of Financial Condition and Results of Operations contains
+forward-looking statements within the meaning of the Federal securities laws. As
+a general matter, forward-looking statements are those focused upon future
+plans, objectives or performance as opposed to historical items and include
+statements of anticipated events or trends and expectations and beliefs relating
+to matters not historical in nature, including, but not limited to, the
+statements made in "Net Product Sales" regarding the new Asian importer meeting
+or exceeding the 2001 sales targets. Such forward-looking statements are subject
+to uncertainties such as anticipated sales trends, improved lead generation and
+recruiting and the ability to obtain financing for the end through consumer
+financing companies. Such uncertainties are difficult to predict and could cause
+our actual results of operation to differ materially from those matters
+expressed or implied by such forward-looking statements.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Not applicable.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Reference is made to the Index to Financial Statements included on page 25 of
+this report.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+Not applicable.
+
+PART III.
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF REGISTRANT
+See Item 13.
+
+ITEM 11. EXECUTIVE COMPENSATION
+See Item 13.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+See Item 13.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+Information provided under the captions "Election of Directors," "Committees and
+Compensation of the Board of Directors", "Security Ownership", and "Executive
+Compensation" in the Proxy Statement for the 2000 Annual Meeting of Shareholders
+is incorporated herein by reference. See "Executive Officers of the Registrant"
+following Item 1 in this Report for information concerning executive officers.
+
+22
+ 24
+
+PART IV.
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+(a) Documents filed as part of this Report.
+
+ 1. FINANCIAL STATEMENTS - Reference is made to the Index to Financial
+ Statements, included as page 25 of this report.
+
+ 2. FINANCIAL STATEMENT SCHEDULES - Reference is made to the Index to
+ Financial Statements, included as page 25 of this report.
+
+ 3. EXHIBITS - Reference is made to the Index to Exhibits, included as
+ pages 50-51 of this report.
+
+(b) Reports on Form 8-K.
+ No report on Form 8-K was filed during the last quarter of fiscal 2000.
+
+(c) Exhibits.
+ Reference is made to the Index to Exhibits, included as pages 50-51 of this
+ report.
+
+(d) Financial Statement Schedules.
+ Reference is made to the Index to Financial Statements, included as page
+ 25 of this report.
+
+23
+ 25
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this Report on Form 10-K to be
+signed on its behalf by the undersigned, thereunto duly authorized.
+
+HMI INDUSTRIES INC.
+ (Registrant)
+
+ by /s/ Julie A. McGraw
+ ---------------------------------------
+ Julie A. McGraw
+ Vice President, Chief Financial Officer
+ and Treasurer
+ December 22, 2000
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this Report
+on Form 10-K has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+/s/ James R. Malone /s/ Carl H. Young III /s/ Robert J. Abrahams
+- ------------------------------------------ ---------------------------------------- ----------------------------------------
+James R. Malone Carl H. Young III Robert J. Abrahams
+Chairman of the Board, Chief Executive President, Chief Operating Officer, Director
+Officer and Director and Director December 22, 2000
+December 22, 2000 December 22, 2000
+
+/s/ Thomas N. Davidson /s/ John S. Meany, Jr. /s/ Barry L. Needler
+- ------------------------------------------ ---------------------------------------- ----------------------------------------
+Thomas N. Davidson John S. Meany, Jr. Barry L. Needler
+Director Director Director
+December 22, 2000 December 22, 2000 December 22, 2000
+
+/s/ Murray Walker
+- ------------------------------------------ ----------------------------------------
+Murray Walker Ivan J. Winfield
+Director Director
+December 22, 2000 December 22, 2000
+
+24
+
+ 26
+
+INDEX TO FINANCIAL STATEMENTS
+
+PAGE
+ ----
+ 
+Report of Management........................................................................................ 26
+
+Report of Independent Accountants........................................................................... 27
+
+Financial Statements
+- --------------------
+Consolidated Balance Sheets as of September 30, 2000 and 1999............................................... 28
+
+ Consolidated Statements of Operations for the years ended September 30,
+ 2000, 1999 and 1998..................................................................................... 29
+
+ Consolidated Statements of Stockholders' Equity for the years ended
+ September 30, 2000, 1999 and 1998....................................................................... 30
+
+ Consolidated Statements of Cash Flow for the years ended September 30,
+ 2000, 1999 and 1998..................................................................................... 31
+
+ Notes to Consolidated Financial Statements................................................................ 32-47
+
+ Report of Independent Accountants on Financial Statement Schedule......................................... 48
+
+Financial Statement Schedule: II - Valuation and Qualifying Accounts and Reserves.......................... 49
+- ----------------------------
+
+Schedules other than those listed above are omitted because they are not
+required or are not applicable, or the required information is shown in the
+consolidated financial statements, the notes thereto or in Management's
+Discussion and Analysis of Financial Condition and Results of Operations.
+
+25
+ 27
+
+REPORT OF MANAGEMENT
+
+To the Board of Directors and Stockholders of HMI Industries Inc.
+
+The management of HMI Industries Inc. is responsible for the preparation,
+integrity and objectivity of the financial statements and all other financial
+information included in this report. Management believes that the financial
+statements have been prepared in accordance with generally accepted accounting
+principles and that any amounts included herein which are based on estimates of
+the expected effects of events and transactions have been made with sound
+judgment and approved by qualified personnel.
+
+HMI maintains an internal control structure to provide reasonable assurance that
+assets are safeguarded and that transactions and events are recorded properly.
+The internal control structure is regularly reviewed, evaluated and revised as
+necessary by management. Additionally, HMI requires employees to maintain the
+highest level of ethical standards in the conduct of all aspects of HMI's
+business, and their compliance is regularly monitored.
+
+The financial statements in this report have been audited by the independent
+accounting firm PricewaterhouseCoopers LLP. Their audits were conducted in
+accordance with auditing standards generally accepted in the United States of
+America and included a study and evaluation of our internal control structure as
+they considered necessary to determine the extent of tests and audit procedures
+required for expressing an opinion on HMI's financial statements.
+
+The Audit Committee of the Board of Directors, of which outside directors are
+members, meets periodically with the independent accountants and management to
+review accounting, auditing, internal control and financial reporting matters.
+The independent accountants have full and free access to the Audit Committee and
+its individual members at any time.
+
+ /s/ Carl H. Young III
+ -------------------------------
+ Carl H. Young III
+ President and Chief Operating
+ Officer
+
+ /s/ Julie A. McGraw
+ -------------------------------
+ Julie A. McGraw
+ Vice President, Chief Financial
+ Officer and Treasurer
+
+26
+ 28
+
+REPORT OF INDEPENDENT ACCOUNTANTS
+
+To the Board of Directors and Stockholders of HMI Industries Inc.
+
+In our opinion, the accompanying consolidated balance sheets and the related
+consolidated statements of operations, stockholders' equity and of cash flows
+present fairly, in all material respects, the financial position of HMI
+Industries Inc. and its subsidiaries at September 30, 2000 and 1999, and the
+results of their operations and their cash flows for each of the three years in
+the period ended September 30, 2000, in conformity with accounting principles
+generally accepted in the United States of America. These financial statements
+are the responsibility of the Company's management; our responsibility is to
+express an opinion on these financial statements based on our audits. We
+conducted our audits of these statements in accordance with auditing standards
+generally accepted in the United States of America, which require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements, assessing the accounting principles used and significant estimates
+made by management, and evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+/s/ PricewaterhouseCoopers LLP
+- -------------------------------
+Cleveland, Ohio
+December 8, 2000
+
+27
+ 29
+
+CONSOLIDATED BALANCE SHEETS
+
+Dollars and shares in thousands except par values SEPTEMBER 30, September 30,
+ 2000 1999
+- ------------------------------------------------------------------------------------------------------
+ 
+ASSETS
+CURRENT ASSETS:
+ Cash and cash equivalents 1,535 765
+ Trade accounts receivable (net of allowance of 507 and 691) 3,207 2,234
+ Note receivable 105 105
+ Inventories:
+ Finished goods 1,778 1,698
+ Work-in-progress, raw material and supplies 1,437 1,137
+ Deferred income taxes 1,528 1,458
+ Prepaid expenses 411 177
+ Other current assets 290 46
+- ------------------------------------------------------------------------------------------------------
+ Total current assets 10,291 7,620
+- ------------------------------------------------------------------------------------------------------
+
+PROPERTY, PLANT AND EQUIPMENT, NET 1,551 1,006
+- ------------------------------------------------------------------------------------------------------
+
+OTHER ASSETS:
+ Long-term note receivable (less amounts due within one year) 35 140
+ Cost in excess of net assets of acquired businesses
+ (net of accumulated amortization of 3,248 and 3,002) 5,963 6,219
+ Deferred income taxes 2,504 2,139
+ Trademarks (net of accumulated amortization of 80 and 43) 309 261
+ Other 190 80
+- ------------------------------------------------------------------------------------------------------
+ Total other assets 9,001 8,839
+- ------------------------------------------------------------------------------------------------------
+ Total assets 20,843 17,465
+======================================================================================================
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+CURRENT LIABILITIES:
+ Trade accounts payable 2,558 2,887
+ Income taxes payable 963 1,016
+ Accrued expenses and other liabilities 2,840 3,063
+ Long-term debt due within one year 17 42
+- ------------------------------------------------------------------------------------------------------
+ Total current liabilities 6,378 7,008
+- ------------------------------------------------------------------------------------------------------
+
+LONG-TERM LIABILITIES:
+ Long-term debt (less amounts due within one year) 71 --
+ Other -- 131
+- ------------------------------------------------------------------------------------------------------
+ Total long-term liabilities 71 131
+- ------------------------------------------------------------------------------------------------------
+
+Commitments and contingencies (Note 10) -- --
+
+STOCKHOLDERS' EQUITY:
+ Preferred stock, 5 par value; authorized, 300 shares; issued, none -- --
+ Common stock, 1 par value; authorized, 10,000 shares;
+ issued and outstanding, 6,658 and 5,369 shares 6,658 5,369
+ Capital in excess of par value 8,279 7,609
+ Unearned compensation, net (41) (145)
+ Retained earnings (deficit) 377 (1,513)
+ Accumulated other comprehensive loss (Note 1) (879) (868)
+- ------------------------------------------------------------------------------------------------------
+ 14,394 10,452
+ Less treasury stock -0- and 32 shares, respectively, at cost -- 126
+- ------------------------------------------------------------------------------------------------------
+ Total stockholders' equity 14,394 10,326
+- ------------------------------------------------------------------------------------------------------
+ Total liabilities and stockholders' equity 20,843 17,465
+======================================================================================================
+
+See notes to consolidated financial statements.
+
+28
+ 30
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+Dollars and shares in thousands except per share data FOR THE YEARS ENDED SEPTEMBER 30,
+ 2000 1999 1998
+- -----------------------------------------------------------------------------------------------------------------------
+ 
+REVENUES:
+ Net product sales 34,621 36,927 38,748
+- -----------------------------------------------------------------------------------------------------------------------
+
+OPERATING COSTS AND EXPENSES:
+ Cost of products sold 20,448 24,098 27,863
+ Selling, general and administrative expenses 13,067 14,349 20,340
+ Impairment loss (Note 4) -- 2,665 --
+ Interest expense 47 71 1,389
+ Other (income) expenses, net (53) (131) (54)
+- -----------------------------------------------------------------------------------------------------------------------
+ Total operating costs and expenses 33,509 41,052 49,538
+- -----------------------------------------------------------------------------------------------------------------------
+INCOME (LOSS) BEFORE INCOME TAXES 1,112 (4,125) (10,790)
+(Benefit) provision for income taxes (353) 116 (2,217)
+- -----------------------------------------------------------------------------------------------------------------------
+INCOME (LOSS) BEFORE DISCONTINUED OPERATIONS 1,465 (4,241) (8,573)
+- -----------------------------------------------------------------------------------------------------------------------
+
+Income from discontinued operations -
+ Household Rental Systems (net of taxes of -0-, -0- and -0-) -- -- 10
+ Bliss Manufacturing (net of taxes of -0-, -0-, and 137) -- -- 224
+ Tube Fab Ltd (net of taxes of -0-, -0- and 129) -- -- 207
+- -----------------------------------------------------------------------------------------------------------------------
+ -- -- 441
+- -----------------------------------------------------------------------------------------------------------------------
+Gain (loss) on disposals-
+ Household Rental Systems (net of taxes of -0-, -0- and -0-) -- -- 167
+ Bliss Manufacturing (net of taxes of -0-, -0-, and 6,790) 425 (375) 7,484
+ Tube Fab Ltd (net of taxes of -0-, -0- and 183) -- -- (299)
+ Health-Mor Personal Care Corp. (net of taxes of -0-, -0-, and 120) -- -- (195)
+- -----------------------------------------------------------------------------------------------------------------------
+ 425 (375) 7,157
+- -----------------------------------------------------------------------------------------------------------------------
+NET INCOME (LOSS) 1,890 (4,616) (975)
+=======================================================================================================================
+
+Weighted average number of shares outstanding:
+ Basic 6,113 5,263 5,170
+ Diluted 6,140 5,263 5,170
+=======================================================================================================================
+
+BASIC PER SHARE OF COMMON STOCK (NOTE 1):
+ Income (loss) before discontinued operations 0.240 (0.806) (1.658)
+ Income from discontinued operations -- -- 0.085
+ Gain (loss) on disposals 0.069 (0.071) 1.384
+- -----------------------------------------------------------------------------------------------------------------------
+ Net income (loss) 0.309 (0.877) (0.189)
+=======================================================================================================================
+
+DILUTED PER SHARE OF COMMON STOCK (NOTE 1):
+ Income (loss) before discontinued operations 0.239 (0.806) (1.658)
+ Income from discontinued operations -- -- 0.085
+ Gain (loss) on disposals 0.069 (0.071) 1.384
+- -----------------------------------------------------------------------------------------------------------------------
+ Net income (loss) 0.308 (0.877) (0.189)
+=======================================================================================================================
+
+Cash dividends per common share -- -- --
+=======================================================================================================================
+
+See notes to consolidated financial statements.
+
+29
+ 31
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+FOR THE YEARS ENDED SEPTEMBER 30, 2000, 1999 AND 1998
+
+Dollars in thousands Capital
+ in
+ Excess Accumulated
+ of Retained Other Treasury Total
+ Common Par Unearned Earnings Comprehensive Treasury Stock Shareholders'
+ Stock Value Compensation (Deficit) Income Shares Amount Equity
+ ------ ------- ------------ --------- ------------- -------- -------- -------------
+ 
+Balance at September 30, 1997 5,296 8,132 (273) 4,078 (1,419) 269 (1,262) 14,552
+
+Comprehensive loss:
+ Net loss (975) (975)
+ Translation adjustment (374) (374)
+ -------
+ Total comprehensive loss (1,349)
+ Write off of sold
+ subsidiaries
+ cumulative translation
+ adjustment 755 755
+ Treasury shares issued 124 (69) 324 448
+ Issuance of common stock 73 73
+ Purchase of treasury shares 10 (48) (48)
+ Unearned compensation (322) (322)
+ Employee benefit stock (10) (10)
+ ------ ------ ----- ------ ------- ---- ------- -------
+Balance at September 30, 1998 5,369 8,246 (595) 3,103 (1,038) 210 (986) 14,099
+
+ Comprehensive loss:
+ Net loss (4,616) (4,616)
+ Translation adjustment 31 31
+ -------
+ Total comprehensive loss (4,585)
+ Write off of sold
+ subsidiaries
+ cumulative translation
+ adjustment 139 139
+ Treasury shares issued (613) (178) 860 247
+ Unearned compensation 450 450
+ Employee benefit stock (24) (24)
+ ------ ------ ----- ------ ------- ---- ------- -------
+Balance at September 30, 1999 5,369 7,609 (145) (1,513) (868) 32 (126) 10,326
+
+ COMPREHENSIVE INCOME:
+ NET INCOME 1,890 1,890
+ TRANSLATION ADJUSTMENT (11) (11)
+ -------
+ TOTAL COMPREHENSIVE INCOME 1,879
+ TREASURY SHARES ISSUED (92) (32) 126 34
+ ISSUANCE OF COMMON STOCK 1,289 714 2,003
+ UNEARNED COMPENSATION 104 104
+ EMPLOYEE BENEFIT STOCK 48 48
+
+ ------ ------ ----- ------ ------- ---- ------- -------
+BALANCE AT SEPTEMBER 30, 2000 6,658 8,279 (41) 377 (879) -- -- 14,394
+ ====== ====== ===== ====== ======= ==== ======= =======
+
+See notes to consolidated financial statements.
+
+30
+ 32
+
+CONSOLIDATED STATEMENTS OF CASH FLOW
+
+Dollars in thousands FOR THE YEARS ENDED SEPTEMBER 30,
+ 2000 1999 1998
+- -----------------------------------------------------------------------------------------------------------------------
+ 
+CASH FLOWS FROM OPERATING ACTIVITIES:
+ Net income (loss) 1,890 (4,616) (975)
+ Adjustments to reconcile net income (loss) to net cash
+ (used in provided by operating activities:
+ Depreciation and amortization 802 823 1,257
+ Impairment of asset -- 2,665 --
+ (Gain) loss on disposal of discontinued operations (425) 375 (7,157)
+ Provision for loss on sale/disposal of assets 12 48 444
+ Provision for losses on receivables -- -- 2,242
+ Treasury/common shares issued, net of unearned compensation 263 674 189
+ Deferred income taxes (435) -- 4,177
+ Changes in operating assets and liabilities:
+ (Increase) decrease in receivables (868) 1,881 1,585
+ (Increase) decrease in inventories (380) 1,529 (1,212)
+ (Increase) decrease in prepaid expenses (234) 49 (21)
+ (Increase) decrease in other current assets (244) (46) 42
+ Decrease in accounts payable (329) (2,231) (3,074)
+ Increase (decrease) in accrued expenses and other liabilities 71 (575) (2,192)
+ Decrease in income taxes payable (53) (110) (3,457)
+ Other, net (205) 161 248
+- -----------------------------------------------------------------------------------------------------------------------
+ Net cash (used in) provided by operating activities (135) 627 (7,904)
+- -----------------------------------------------------------------------------------------------------------------------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+ Proceeds from sale of assets, net -- 793 29,028
+ Capital expenditures (970) (76) (223)
+- -----------------------------------------------------------------------------------------------------------------------
+ Net cash (used in) provided by investing activities (970) 717 28,805
+- -----------------------------------------------------------------------------------------------------------------------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+ Net repayments under credit facility -- (508) (15,798)
+ Payment of long term debt (51) (122) (5,244)
+ Net proceeds from issuance of common stock 1,926 -- --
+ Acquisition of treasury stock -- -- (48)
+- -----------------------------------------------------------------------------------------------------------------------
+ Net cash provided by (used in) financing activities 1,875 (630) (21,090)
+- -----------------------------------------------------------------------------------------------------------------------
+
+Net increase (decrease) in cash and cash equivalents 770 714 (189)
+CASH AND CASH EQUIVALENTS, BEGINNING OF PERIOD 765 51 240
+- -----------------------------------------------------------------------------------------------------------------------
+CASH AND CASH EQUIVALENTS, END OF PERIOD 1,535 765 51
+=======================================================================================================================
+
+See notes to consolidated financial statements.
+
+Items relating to discontinued operations included in the Consolidated
+Statements of Cash Flow have not been disaggregated as they have in the
+Consolidated Balance Sheets under the heading net assets held for sale at
+realizable value for fiscal year 1998.
+
+31
+ 33
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (DOLLARS IN THOUSANDS EXCEPT
+SHARES AND PER SHARE DATA)
+
+BASIS OF CONSOLIDATION
+The consolidated financial statements include all significant controlled
+subsidiaries. Operations include the accounts of HMI Industries Inc and the
+following wholly-owned subsidiaries: Health-Mor International Inc., HMI
+Incorporated, Health-Mor Acceptance Corporation, HMI Acceptance Corporation, and
+Health-Mor Acceptance Pty. Ltd. All significant intercompany accounts and
+transactions have been eliminated.
+
+Our principle products include a high filtration portable surface cleaner that
+is marketed as a healthier alternative to the typical vacuum cleaner, and a
+portable room air cleaner that helps to remove particles, gases and odors from
+the air. The two products are sold together as a complete Filter Queen Indoor
+Air Quality System(TM) in some parts of the world. In other areas, primarily
+Asia and Europe, the two products are sold separately.
+
+RECLASSIFICATION
+Certain amounts in the 1999 and 1998 consolidated financial statements have been
+reclassified to conform to the 2000 presentation.
+
+FOREIGN CURRENCY TRANSLATION
+All consolidated foreign operations use the local currency of the country of
+operation as the functional currency and translate the local currency asset and
+liability accounts at year-end exchange rates while income and expense accounts
+are translated at weighted average exchange rates. The resulting translation
+adjustments are accumulated as a separate component of Stockholders' Equity
+titled "Accumulated Other Comprehensive Loss". Such adjustments will affect net
+income only upon sale or liquidation of the underlying foreign investments.
+During the fourth quarter of 1997, we recorded a loss on disposal reserve of
+ 720 for cumulative translation adjustments associated with discontinued foreign
+operations. Upon the sale of the discontinued foreign operations in the second
+quarter of 1998, the cumulative translation adjustments of 755, associated with
+these operations, were reclassed to the loss on disposal reserve. An additional
+ 35 was recorded to loss on disposal for the difference between the actual
+cumulative translation adjustments at the sale dates and the original reserve
+recorded in fiscal 1997.
+
+In February 1999, we finalized the closing of our Holland sales office. This
+action resulted in an expense of 139 associated with the write off of the
+Holland cumulative translation adjustment previously included within the
+accumulated other comprehensive loss caption of the Consolidated Balance Sheets.
+
+Exchange gains and losses from transactions in a currency other than the local
+currency of the entity involved are included in income. Net transaction and
+translation adjustments are not significant.
+
+32
+ 34
+
+USE OF ESTIMATES
+The preparation of financial statements in conformity with accounting principles
+generally accepted in the United States of America requires management to make
+estimates and assumptions that affect the reported amounts of assets and
+liabilities and disclosure of any contingent assets and liabilities at the date
+of the financial statements and the reported amounts of revenues and expenses
+during the reporting periods. Actual results could differ from those estimates.
+
+CASH EQUIVALENTS
+We consider all highly liquid instruments purchased with a maturity of less than
+three months to be cash equivalents.
+
+ALLOWANCE FOR DOUBTFUL ACCOUNTS
+On a quarterly basis, we perform a review of potentially uncollectible trade
+accounts receivable to provide our best estimate of the net realizable value of
+the receivables. This review consists of a detailed specific customer analysis
+and a focus on aging categorization; day's sales outstanding and other related
+analytical procedures. Any adjustments noted in this review are recorded at that
+time.
+
+PREPAID ADVERTISING
+We expense the production costs of advertising the first time the advertising
+takes place, except for direct-response advertising, which is capitalized and
+amortized over its expected period of future benefits.
+
+Direct-response advertising consists primarily of design and development costs
+incurred in connection with a Filter Queen television spot, which directs
+viewers to call a 1-800-number to purchase our products. The capitalized costs
+of the advertisement will be amortized over a twelve-month period following the
+first introduction of the advertisement into our Americas sales division, which
+is anticipated in the first calendar quarter of 2001.
+
+At September 30, 2000 and 1999, 254 and -0-, respectively, of advertising was
+reported as prepaid assets. Advertising expense was 193, 49 and 306, in
+fiscal 2000, 1999 and 1998, respectively.
+
+COST IN EXCESS OF NET ASSETS OF ACQUIRED BUSINESSES
+Intangibles resulting from business acquisitions, comprising cost in excess of
+net assets of businesses acquired, are being amortized on a straight-line basis
+over 40 years.
+
+Quarterly, we evaluate the recoverability of intangibles resulting from business
+acquisitions and measure the amount of impairment, if any, by assessing current
+and future levels of income and cash flows as well as other factors, such as
+business trends and market and economic conditions. If there is an impairment in
+value, recorded balances will be adjusted.
+
+INVENTORIES
+Inventories are stated at the lower of cost or market. Cost is determined
+principally on the last-in, first-out (LIFO) method, which provides a better
+matching of current costs and revenues. The following presents the effect on
+inventories and income before taxes had the Company used the first-in, first-out
+(FIFO) method of inventory valuation.
+
+33
+ 35
+
+2000 1999
+ ------ ------
+ 
+Percentage of total inventories on LIFO 100 100 
+Inventory amount had FIFO method been utilized
+ to value inventory 3,709 3,366
+Increase in net income before taxes due to LIFO 38 285
+
+PROPERTY, PLANT AND EQUIPMENT
+Property, plant and equipment are recorded at cost. Depreciation is provided on
+the straight-line method over estimated useful lives of 5 years for leasehold
+improvements and 3 to 10 years for machinery and equipment. Improvements which
+extend the useful life of property, plant and equipment are capitalized, and
+maintenance and repairs are expensed. When property, plant and equipment are
+retired or otherwise disposed of, the cost and accumulated depreciation are
+removed from the appropriate accounts and any gain or loss is included in
+income.
+
+FAIR VALUE OF FINANCIAL INSTRUMENTS
+Our financial instruments consist principally of cash and cash equivalents,
+accounts and notes receivable, accounts payable, accrued expenses and other
+liabilities, line of credit, and short and long-term debt in which the fair
+value of these financial instruments approximates the carrying value.
+
+INCOME TAXES
+We account for income taxes pursuant to the provisions of Statement of Financial
+Accounting Standards No. 109 ("SFAS 109"), "Accounting for Income Taxes." Under
+SFAS 109, the tax consequences in the future years for differences between the
+financial and tax bases of assets and liabilities at year-end are reflected as
+deferred income taxes.
+
+REVENUE RECOGNITION AND PRODUCT WARRANTY
+Product revenues are recognized upon the shipment of product.
+
+We warrant our surface cleaner for a five-year period from the date of purchase
+and offer a warranty for the life of the vacuum for the replacement of the
+surface cleaner's motor at the same price as was paid for the motor in the
+original sale. Outside the U.S., we offer a two-year warranty for our high
+filtration portable surface cleaner. The portable room air cleaner is warranted
+for renewable one-year periods so long as the main air filter is replaced
+annually. A five-year warranty is offered for our built-in vacuum system. A
+provision for estimated future costs relating to warranty expense is recorded
+when products are shipped.
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION
+Cash paid for interest was 44, 68 and 1,383 for the years ended September 30,
+2000, 1999 and 1998, respectively.
+
+Each of the following transactions have been treated as non-cash items for
+purposes of the Consolidated Statements of Cash Flows. During the second quarter
+of fiscal 2000, by entering into three capital leases totaling 96,800, we
+incurred debt in exchange for assets. The assets consist of racking and
+compactors for our Strongsville, Ohio manufacturing facility.
+
+In January 1998, accrued severance in the amount of 1,523, relating to our
+settlement agreement with Mr. Kirk W. Foley, our former Chief Executive Officer,
+was applied to the loss on disposal reserve for Tube-Fab, which was transferred
+to Mr. Foley as part of such settlement agreement. During the second quarter of
+fiscal 1998, we relinquished land and a building valued at 523 and
+
+34
+ 36
+
+the related mortgage in the amount of 316 in exchange for an increase in a note
+receivable due from one of our former officers (See Note 13). In July 1998,
+ 1,534 of financing receivables, deemed uncollectable, were netted against
+related liabilities. Such liabilities, which were recorded when a financing sale
+occurred, were paid to a distributor office only upon the collection of the
+financing receivable.
+
+EARNINGS PER SHARE
+Earnings per share have been computed according to Statement of Financial
+Accounting Standards (SFAS) No. 128, "Earnings Per Share". The following is a
+reconciliation of the number of shares (denominator) used in the basic and
+diluted earnings per share computations (shares in thousands) for the year ended
+September 30, 2000:
+
+Per
+ Share
+ Shares Amount
+ ------ -------
+ 
+Basic EPS 6,113 0.309
+ Effect of dilutive stock options 27 (0.001)
+ ----- -------
+Diluted EPS 6,140 0.308
+ ===== =======
+
+The denominators for calculating our basic and diluted earnings per share were
+identical as of September 30, 1999 and 1998 as the outstanding options were not
+assumed as the result would have been anti-dilutive since a loss from continuing
+operations existed for these periods.
+
+As of September 30, 2000, 615,800 outstanding options, subject to purchase, were
+not included in the computation of diluted EPS because the options' exercise
+price was greater than the average market price of the common shares. The
+exercise prices of these options range from 1.375 to 11.625 per share and
+expire between the period January 2, 2001 and August 28, 2005.
+
+COMPREHENSIVE INCOME/LOSS
+Comprehensive income/loss combines net income/loss and "other comprehensive
+items," which represents foreign currency translation adjustments, which are
+reported as a separate component of stockholders' equity in the accompanying
+Consolidated Balance Sheets. We present such information in our Statements of
+Stockholders' Equity on an annual basis and in a footnote in our quarterly
+reports.
+
+2. DISCONTINUED OPERATIONS
+
+In fiscal 1998 and 1997, we reported our subsidiaries Bliss, Tube-Fab, HRS, and
+Personal Care as discontinued operations.
+
+On March 27, 1998, we completed the sale of Bliss to an investor group led by
+Mr. Mervin Dunn and Rhone Capital L.L.C. pursuant to a stock purchase agreement,
+dated December 17, 1997, as subsequently amended. The purchase price paid to us
+on the closing date of the sale was 31,660, less 1,000 delivered by Rhone to
+an escrow account for post-closing adjustments and indemnification obligations
+by us under the Stock Purchase Agreement. The purchase price was subject to
+post-closing adjustments based on the net change in current assets less current
+liabilities from the reference balance sheet to the final balance sheet as
+defined in the Stock Purchase Agreement.
+
+35
+ 37
+
+Net of transaction fees and expenses, we recorded a gain, prior to post-closing
+adjustments, on the sale of Bliss of approximately 12,110 (6,093 net of taxes)
+for the fiscal quarter ended March 31, 1998. The difference between the federal
+statutory income tax rate of 34 and the effective tax rate recognized on the
+gain on the sale was primarily attributable to a permanent tax basis difference
+associated with our stock purchase of Bliss in 1990. Proceeds delivered at the
+closing from the sale of Bliss were applied to retire substantially all of our
+debt, certain vendor obligations, transaction costs and related expenses,
+certain employee benefit programs, and funding for the Bliss profit sharing
+plan.
+
+In July 1998, Rhone notified us that they accepted 1,348 of the final
+post-closing adjustment, but disputed other issues that had the potential to
+increase this adjustment. Thus, in the fiscal quarter ended June 30, 1998, we
+recorded an additional gain of 1,702 (1,123 net of taxes) related to the final
+undisputed portion of the purchase price adjustment, including 500 in funds
+related to the escrow account, which in accordance with the Stock Purchase
+Agreement were to be released to us upon resolution of any disputed items.
+
+In August 1998, we recorded an additional gain of 462 (268 net of taxes), net
+of transaction fees, relating to the final resolution of disputed items.
+
+In accordance with the Stock Purchase Agreement, Rhone and HMI agreed, that if
+any inventory reflected in the final balance sheet was not useable and saleable
+within time periods specified within the Stock Purchase Agreement, then Rhone
+had the right to sell to us any such inventory. On March 19, 1999, we reached an
+agreement with Rhone to resolve this dispute concerning this inventory, and the
+related representations and warranties stemming from the sale of our Bliss
+operation to Rhone.
+
+Certain conditions of the resolution were as follows:
+(1) approximately 500 in funds escrowed in connection with the Stock Purchase
+ Agreement were released to Rhone;
+
+(2) we agreed, as did Rhone, not to assert claims for indemnification under
+ specified sections of the Stock Purchase Agreement;
+
+(3) Rhone agreed not to require us to purchase any unusable or unsaleable
+ inventory pursuant to the Stock Purchase Agreement; and
+
+(4) Rhone also agreed not to seek reimbursement for any monies actually paid in
+ respect of environmental damages from March 27, 1998, up to and including
+ March 31, 1999.
+
+Also in March 1999, we recorded a reserve of 425 for future environmental
+damage expenditures pursuant to the Stock Purchase Agreement. This amount was
+recorded as a conservative estimate of potential liability under the Stock
+Purchase Agreement as studies conducted by independent third parties noted no
+obligation under existing regulatory guidelines. Under the Stock Purchase
+Agreement, the amount of our indemnification obligations for environmental
+damages will decline annually from the closing date of that transaction, from
+90 in the first two years, to 80 in the third year, 70 in the fourth year,
+60 in the fifth year and 50 thereafter until the end of the seventh year. We
+agreed to indemnify the investor group for environmental matters until March
+2005. This reserve was offset by the reversal of 50 of professional fees
+established in the original loss on disposal reserve recorded in fiscal year
+1998
+
+36
+ 38
+
+for the sale of Bliss. These professional fees were not paid due to the release
+of the entire escrow to Rhone.
+
+On January 21, 2000, Bliss, under the ownership of Rhone Capital L.L.C., filed
+Chapter 11 bankruptcy with the Michigan Eastern Bankruptcy Court, in Detroit,
+Michigan. Subsequently, all Bliss facilities were auctioned through the
+Bankruptcy Court. The indemnification obligation noted in the Stock Purchase
+Agreement did not survive the sale through the bankruptcy court, and as a
+result, in June 2000, the 425,000 reserve recorded in accordance with the Stock
+Purchase Agreement, was reversed to income and recorded as a gain on disposal of
+discontinued operations in the Consolidated Statements of Operations.
+
+In fiscal 1997, we recorded our Tube-Fab operation as a discontinued operation
+and recorded a pre-tax estimated loss on disposal of 1,020. On January 8, 1998,
+we completed the sale of Tube-Fab to Mr. Foley (see Note 13). An additional loss
+on disposal of 482 (299 net of taxes) was recorded in the second quarter of
+fiscal 1998.
+
+In March 1996, we adopted a plan to sell HRS. We recorded an estimated loss on
+the disposal of this operation of 800 during 1996. An additional charge of
+ 2,651 on this disposal was recorded in the third and fourth quarters of fiscal
+1997 to reflect the then estimated realizable value. This charge included a
+write-off of the entity's estimated currency translation adjustment previously
+reported as a component of equity. On March 31, 1998, we completed the sale of
+HRS to Integrated Capital Management Group for 1,050. Assets sold consisted
+primarily of inventory, fixed assets, and other intangible assets relating to
+the carpet and upholstery cleaning business. Net of transaction expenses and
+fees, we recorded a gain on the sale of 167 in fiscal 1998.
+
+In the third quarter of fiscal 1997, we recorded Personal Care as a discontinued
+operation and recorded an estimated loss of 917 (569 net of taxes). These
+assets were sold to Eidolon Corporation, a Canadian company, for 89. As a
+result of the sale, we recorded an additional loss on disposal of 315 (195 net
+of taxes) in the quarter ended March 31, 1998.
+
+Sales applicable to discontinued operations were -0- and 34,174 for the years
+ended September 30, 1999 and 1998, respectively.
+
+3. NOTES RECEIVABLE
+Long-term notes receivable consist of the following:
+
+2000 1999
+ ---- ----
+ 
+Notes receivable - See Note 13 140 245
+
+Less amounts due within one year 105 105
+ ---- ----
+ 35 140
+ ==== ====
+
+37
+ 39
+
+4. PROPERTY, PLANT AND EQUIPMENT
+
+2000 1999
+ ------ ------
+ 
+Leasehold improvements 288 10
+Machinery and equipment 5,178 5,098
+Construction in progress 197 --
+ ------ ------
+ 5,663 5,108
+Accumulated depreciation 4,112 4,102
+ ------ ------
+Net property, plant and equipment 1,551 1,006
+ ====== ======
+
+On January 12, 1999, we sold our Perkins Avenue facility and related land in
+Cleveland, Ohio, to Rose Management Company, a local real estate investment
+company, for 840. The net book value of the related land and building at the
+time of sale was 3,505. In December 1998, we recorded a non-cash impairment
+loss of 2,665 on the building to reflect the difference between the sales price
+and the net book value of the property. The impairment loss was recorded as a
+separate line item under operating expenses in the Consolidated Statements of
+Operations.
+
+Depreciation expense relating to continuing operations for the years ended
+September 30, 2000, 1999 and 1998 was 523, 560 and 880
+
+5. ACCRUED EXPENSES AND OTHER LIABILITIES
+
+Accrued expenses and other liabilities consist of the following:
+
+2000 1999
+ ------ ------
+ 
+Accrued compensation 987 524
+Accrued distributor development 459 490
+Accrued warranty 431 420
+Distributor funds payable 347 287
+Accrued litigation 177 391
+Accrued environmental -- 439
+Other 439 512
+ ------ ------
+ 2,840 3,063
+ ====== ======
+
+In June 2000, an adjustment was made to a certain distributor development
+program accrual. This adjustment was based on the results of an actuarial study
+and resulted in a credit to income of 331. The actuarial study was commissioned
+to refine the existing calculation and to provide the credibility of a third
+party verification.
+
+6. CREDIT FACILITY AND LONG-TERM DEBT
+
+Effective April 1998, we entered into a 5,000 secured discretionary credit
+facility with Heller Financial, Inc. The new credit agreement expired in April
+2001 and required an unused facility fee, computed at .375 per annum on the
+unused credit facility. The secured facility consisted of a 4.25 million credit
+line and a .75 million term loan. Availability under the credit facility was
+tied directly to the value of our eligible collateral, which consisted of
+accounts receivable and inventory. Interest rates accrued at prime plus 1.25 on
+the credit facility and at prime plus
+
+38
+ 40
+
+1.50 for the term loan.
+
+In May 1999, we terminated this credit facility with Heller Financial and
+entered into a 3,500 revolving line of credit with Finova Capital consisting of
+loans against our eligible receivables and inventory. A pre-payment penalty
+waiver for early termination of the old credit facility was obtained from Heller
+Financial in February 1999. The new credit agreement expires in 2002 and calls
+for interest to accrue at a rate of prime plus 2 , or 11.50 as of September 30,
+2000. No monies were outstanding under this credit facility at September 30,
+2000, or are anticipated to be outstanding at December 31, 2000.
+
+During the quarter ended March 31, 2000, we entered into capital leases totaling
+ 97. These leases, with a term of 60 months, require monthly payments, principal
+and interest, of 2. The nominal annual interest rates on these leases range
+from 2.62 to 12.0 , compounding monthly.
+
+Long-term debt consists of the following:
+
+2000 1999
+ ---- ----
+ 
+BANK LINES OF CREDIT - see above -- --
+
+CAPITALIZED LEASE OBLIGATIONS 88 42
+bearing interest at 2.62 to 12.00 due in
+monthly installments of 2 (including interest)
+through March 2005
+ --- ---
+ 88 42
+Less amounts due within one year 17 42
+ --- ---
+ 71 --
+ === ===
+
+The weighted average interest rate on short-term borrowings at September 30,
+2000 and 1999 was 8.87 and 8.04 , respectively.
+
+Our credit facility agreement includes, but is not limited to, various covenants
+that limit our ability to incur additional indebtedness, limit compensation to
+key personnel and transactions with affiliates, restrict paying dividends, limit
+book net worth and limit the ability for capital expenditures. As of September
+30, 2000, we were not in compliance with one of these covenants; however, we
+obtained a waiver on this covenant.
+
+On December 17, 1999, we entered into an agreement with our lender to reset
+certain of these covenants, primarily capital expenditures and indebtedness, in
+anticipation of exceeding the previous established levels during our fiscal year
+ending September 30, 2000. On October 10, 2000, our lender again agreed to reset
+certain of these covenants for the year ending September 30, 2001, in order to
+allow for us to execute several strategic initiatives within our fiscal 2001
+budget, that could not otherwise be implemented due to the previously
+established levels.
+
+39
+ 41
+
+7. LONG-TERM COMPENSATION PLAN
+
+We adopted the Health-Mor Inc. 1992 Omnibus Long-Term Compensation Plan in 1992.
+The Plan provides for the granting of stock options, stock appreciation rights,
+restricted stock awards, phantom stock and/or performance shares ("Awards") to
+our key employees and stock options for our non-employee directors. Options
+granted under the Plan expire up to ten years after the date of grant if not
+exercised and may be exercisable in whole or in part at the discretion of the
+Committee established by the Board of Directors. Shares available for issuance
+under the Plan may be authorized and unissued shares or treasury shares. The
+maximum number of shares of Common Stock available for grant of Awards under the
+Plan are limited on an annual and cumulative basis as further defined in the
+Plan.
+
+Stock options under the Plan generally have exercise prices equal to the fair
+market values at dates of grant, otherwise, if the option price is less than the
+fair market value at the date of the grant, compensation expense is recorded for
+the difference. For restricted or phantom stock, we record compensation expense
+as the excess of the quoted market price of a similar but unrestricted share of
+stock at the award date over the purchase price, if any.
+
+In July 1997, the Board of Directors granted restricted stock and stock options
+under the Plan to three of our executives. Each executive was awarded 25,000
+shares of restricted common stock, with 12,500 vesting on October 1, 1997 and
+the balance vesting on January 2, 1998. Subsequently, the executives forfeited
+all 25,000 shares. An additional 75,000 shares of restricted common stock were
+issued in fiscal 1998 contingent upon certain conditions and continued
+employment. Each of these executives also received options to purchase 75,000
+shares of common stock at 5.68 per share, of which 35,000 options are incentive
+stock options, half were exercisable on July 2, 1997 and the remaining on
+January 2, 1998. The remaining 40,000 options are non-qualified stock options
+that became exercisable on July 2, 1997. All options expire July 2, 2002, to the
+extent not exercised.
+
+On March 25, 1998, restricted stock agreements were finalized with three of our
+executives in lieu of a deferred bonus agreement previously outlined in fiscal
+1997. Under the terms of such agreements, each executive received 85,000 shares
+of Common Stock subject to certain conditions and continued employment. The
+shares vested ratably over eight quarters beginning with the quarter ended March
+31, 1998. The executives subsequently forfeited the shares which had vested on
+March 31 and June 30, 1998. In July 1998, 60,000 unvested shares were forfeited
+by one of the executives upon his resignation.
+
+During the second fiscal quarter of 1999, the Board of Directors granted 308,000
+incentive stock options (298,000 at 1.50 per share and 10,000 at 1.375 per
+share) and 77,000 restricted shares to certain of our key employees in
+accordance with the Plan. The majority of the options and restricted shares vest
+over a 36-month period with the exception of 133,000 options and 26,000
+restricted shares that vested immediately. No compensation expense was recorded
+related to the stock options during fiscal 1999, as the exercise price was equal
+to the fair market value at the grant date.
+
+During fiscal 2000, the Board of Directors granted 415,000 incentive stock
+options (215,000 at 1.0625 per share and 200,000 at 1.25 per share) and 10,000
+restricted shares to certain of our
+
+40
+ 42
+
+key employees in accordance with the Plan. Vesting immediately were 215,000
+options. The remaining options or, 200,000 options, vest over a 48-month period
+with the vesting subject to acceleration clauses based upon our company's stock
+price. No compensation expense was recorded related to the stock options during
+fiscal 2000, as the exercise price was equal to the fair market value at the
+grant date.
+
+There were 10,000 and 77,000 shares issued and 16,700 and 7,000 non-vested
+shares forfeited pursuant to the Plan in fiscal 2000 and 1999, respectively.
+Unamortized deferred compensation amounted to 41, 144 and 595 at September
+30, 2000, 1999 and 1998, respectively. Total compensation expense, in
+conjunction with the Plan was 95, 511 and 189 in 2000, 1999 and 1998,
+respectively.
+
+We apply APB Opinion No. 25, "Accounting for Stock Issued to Employees" and
+related interpretations in accounting for our stock plans as allowed under SFAS
+Statement No. 123, "Accounting for Stock-Based Compensation" (SFAS 123). Had
+compensation cost for the stock granted in 2000, 1999 and 1998 been determined
+consistent with SFAS 123, pro forma net income and earnings per share would have
+been as follows (dollars in thousands except per share data):
+
+2000 1999 1998
+ ------ ------- -------
+ 
+Net income (loss), as reported 1,890 (4,616) (975)
+Net income (loss), pro forma 1,685 (4,781) (1,107)
+Income (loss) per Common share
+ (basic and diluted):
+ As reported 0.31 (0.88) (0.19)
+ Pro forma 0.27 (0.91) (0.21)
+
+The fair value for all options granted in 2000, 1999 and 1998 were estimated at
+the date of grant using a Black-Scholes option pricing model with the following
+weighted-average assumptions:
+
+2000 1999 1998
+ OPTIONS OPTIONS OPTIONS
+ -------- ----------------- -------------- -------
+ 
+Risk free interest rate 6.1 to 6.5 4.7 to 5.1 5.6 
+Expected life of option 3 yrs. to 4 yrs. 3 yrs. 3 yrs.
+Expected dividend yield
+ of stock 0.0 0.0 0.0 
+Expected volatility
+ of stock 79.4 to 85.5 75.3 to 80.4 71.1 
+
+41
+ 43
+
+A summary of our stock option activity, and related information for the years
+ended September 30, 2000, 1999, and 1998, is shown in the following table.
+
+Shares subject Weighted
+ to option average option
+ (in thousands) price per share
+ -------------- ---------------
+ 
+September 30, 1997, Outstanding 724 8.47
+ Granted 42 6.25
+ Canceled (312) 9.07
+ ----- -----
+September 30, 1998 454 7.83
+ Granted 350 1.47
+ Canceled (63) 9.14
+ ----- -----
+September 30, 1999 741 4.72
+ Granted 457 1.14
+ Canceled (137) 7.01
+ ----- -----
+September 30, 2000, Outstanding 1,061 2.89
+ ===== =====
+
+Options exercisable and shares available for future grant on September 30 (in
+thousands except per share data):
+
+2000 1999 1998
+ ---- ---- ----
+ 
+Options exercisable 667 438 299
+Weighted-average option price
+ per share of options exercisable 3.74 6.01 8.13
+Weighted-average fair value of
+ options granted during the year 0.67 0.81 3.16
+
+The ranges of exercise prices and the remaining contractual life of options as
+of September 30, 2000 were:
+
+Range of exercise prices 1- 2 2- 16
+Options outstanding:
+ Outstanding as of September 30, 2000 (in thousands) 736 325
+ Weighted-average remaining contractual life 5.96 3.23
+ Weighted-average exercise price 1.27 6.55
+Options exercisable:
+ Outstanding as of September 30, 2000 (in thousands) 357 310
+ Weighted-average remaining contractual life 4.46 3.26
+ Weighted-average exercise price 1.28 6.58
+
+42
+ 44
+
+8. INCOME TAXES
+
+The provision (benefit) for income taxes relating to continuing operations
+consists of the following:
+
+2000 1999 1998
+ ----- ---- -------
+ 
+Current:
+ Federal and state 82 116 (4,735)
+ Foreign -- -- --
+ ----- ---- -------
+ 82 116 (4,735)
+Deferred (benefit) expense (435) -- 2,518
+ ----- ---- -------
+ (353) 116 (2,217)
+ ===== ==== =======
+
+A reconciliation of the provision for income taxes at the Federal statutory rate
+to that included in the Consolidated Statements of Operations related to
+earnings from continuing operations is as follows:
+
+2000 1999 1998
+ ------- ------- -------
+ 
+Tax at Federal statutory rate of 34 378 (1,402) (3,669)
+Increases (reductions) in taxes
+ resulting from:
+ Tax expense relating to Internal Revenue
+ Service audits and assessments -- -- 1,329
+ Foreign Sales Corporation earnings -- (104) (26)
+ Amortization of cost in excess of
+ net assets of acquired businesses 84 86 106
+ Valuation allowances against deferred
+ tax assets (1,008) 1,466 --
+ Other - net 193 70 43
+ ------- ------- -------
+ (353) 116 (2,217)
+ ======= ======= =======
+
+The increase in the effective tax rate (income tax benefit) from fiscal 1999 to
+fiscal 2000 is primarily attributable to the utilization and reversal of the
+ 1,008 valuation allowance associated with the U.S. net operating loss
+carryforwards recorded in prior years.
+
+43
+ 45
+
+The components of deferred tax assets and liabilities are comprised of the
+following at September 30,
+
+2000 1999
+ ------ ------
+ 
+Gross deferred tax assets:
+ Operating loss carryforwards 4,921 5,612
+ Receivable and inventory reserves 267 608
+ Accrued compensation 126 234
+ Impairment reserves -- 17
+ Other 174 140
+ ------ ------
+ 5,488 6,611
+ ------ ------
+Gross deferred tax liabilities:
+ Accounts receivable fair market value
+ adjustment for tax purposes 508 1,016
+ Depreciation 99 141
+ ------ ------
+ 607 1,157
+Valuation allowances on foreign net
+ deferred tax assets 849 1,857
+ ------ ------
+Net deferred tax asset 4,032 3,597
+ ====== ======
+
+We have determined that we should fully reserve against the net tax asset to the
+extent it represents excess available net deferred tax assets for certain
+foreign subsidiaries and divisions as it is more likely than not that these tax
+assets will not be realized. Accordingly, such benefits will be realized only
+as, and if, they are used to reduce future tax expense, subject to evaluation of
+the continuing need for such valuation allowance, or until fully realized.
+Income taxes paid during the years ended September 30, 2000, 1999 and 1998 were
+ 136, 226, and 730, respectively.
+
+Net operating loss carryforwards of approximately 13,805 for tax are available
+to offset future taxable income. The carryforwards will expire in 2005 through
+2019. Undistributed earnings of foreign subsidiaries are reinvested in their
+operations and therefore, no provision is made for additional income taxes that
+might be payable on such earnings.
+
+9. PROFIT SHARING AND PENSION PLANS
+
+We have a qualified profit sharing plan that covers substantially all employees.
+The overall contribution to our plan and the allocation method is at the
+discretion of our Board of Directors. The allocation to the participants is
+based on either a fixed amount per participant, a percentage of eligible wages,
+or a combination of a fixed amount and a percentage of eligible wages. There was
+no profit sharing expense for the plan for the years ended September 30, 2000,
+1999 and 1998.
+
+10. COMMITMENTS AND CONTINGENCIES, GUARANTEES AND LEASES
+
+We are obligated under certain operating leases for facilities, which expire on
+various dates through 2005. The minimum annual lease payments under these
+agreements, including renewal options, if exercised, are 903, 840, 727, 712
+and 183 for the years ending September 30,
+
+44
+ 46
+
+2001, 2002, 2003, 2004 and 2005, respectively. Rent expense was 854, 705 and
+ 700 for the years ended September 30, 2000, 1999 and 1998, respectively.
+
+LITIGATION
+
+Claims arising in the ordinary course of business are pending against us.
+Although these are in various stages of the litigation process, we believe that
+none of these matters will have a material adverse effect on our consolidated
+financial position, results of operations or cash flows. Included in the
+accompanying Consolidated Balance Sheets at September 30, 2000 and 1999 were
+accruals of 177 and 391, respectively, relating to various claims.
+
+11. BUSINESS SEGMENTS, MAJOR CUSTOMERS, AND FOREIGN OPERATIONS
+
+Our continuing operations consist of a single operating segment.
+
+Sales of our products to three of our international importers accounted for
+13.1 , 12.9 and 11.3 of total product sales in fiscal year 2000, and 20.5 ,
+11.6 and 11.0 of total product sales in fiscal year 1999. In fiscal year 1998,
+two international importers accounted for 20.7 and 10.3 of total HMI product
+sales. The loss of any significant portion of our sales from these importers,
+although believed by HMI management to be unlikely, would have a material
+adverse impact on our sales and earnings.
+
+The distributors/importers are independent third parties who are not our
+employees and are not directly under our control. There can be no assurance that
+the current relationships with distributors/importers will continue on
+acceptable terms and conditions to us, nor can there be any assurance that
+additional distributorship arrangements with third parties will be obtained on
+acceptable terms. Moreover, there can be no assurance that the
+distributors/importers will devote sufficient time and resources to our products
+to enable the products to be successfully marketed. Failure of some or all of
+our products to be successfully and efficiently distributed could have a
+material adverse effect on our business, prospects, financial condition and
+results of operations.
+
+Prior to March 1998, one of our major foreign operations had been located in
+Canada. As of March 1998, we began selling into Canada through one importer and
+all sales previously made by our Canadian operation were ceased. Canadian sales
+for the fiscal year ended September 30, 1998 were not considered export sales.
+Identifiable revenues of Canadian operations for the year ended September 30,
+1998 were 2,219. For the fiscal years subsequent to September 30, 1998, we
+considered Canadian sales to be export sales.
+
+Sales to international customers represent 64.4 , 67.0 and 60.9 of net product
+sales for the years ending September 30, 2000, 1999 and 1998, respectively.
+
+45
+ 47
+
+12. QUARTERLY FINANCIAL DATA (UNAUDITED)
+
+2000
+ -----------------------------------------------------------------
+ December 31, March 31, June 30, September 30,
+ ------------ --------- -------- -------------
+ 
+Net revenues 8,479 9,655 8,313 8,174
+Gross profit 3,379 4,013 3,293 3,488
+Income before discontinued
+ operations 251 331 354 176
+Gain on disposal -- -- 425 --
+Net income 251 310 779 550
+
+Basic and diluted income per share of common stock:
+ Income before discontinued
+ operations 0.05 0.05 0.05 0.09
+ Gain on disposal -- -- 0.07 --
+ Net income 0.05 0.05 0.12 0.09
+
+1999
+ -----------------------------------------------------------------
+ December 31, March 31, June 30, September 30,
+ ------------ --------- -------- -------------
+ 
+Net revenues 9,172 9,520 8,711 9,524
+Gross profit 2,616 3,072 3,014 4,127
+(Loss) income before discontinued
+ operations (3,284) (790) (381) 214
+(Loss) on disposals -- (375) -- --
+Net (loss) income (3,284) (1,165) (381) 214
+
+Basic and diluted (loss) income per share of common stock:
+ (Loss) income before discontinued
+ operations (0.63) (0.15) (0.07) 0.04
+ (Loss) on disposals -- (0.07) -- --
+ Net (loss) income (0.63) (0.22) (0.07) 0.04
+
+13. RELATED PARTY TRANSACTIONS
+
+In May 1997, we advised Kirk W. Foley, then our CEO, that we were terminating
+his employment which triggered certain obligations as per Mr. Foley's employment
+contract, including an 800 severance payment, an assumption of a 518 personal
+bank loan made to Mr. Foley, other compensation obligations of approximately 79
+and an obligation to purchase Mr. Foley's HMI stock at current market value
+(approximately 325).
+
+Because of our tight cash position at that time, non-cash ways to satisfy our
+obligations to Mr. Foley were sought. The resolution was a decision to transfer
+to Mr. Foley our 100 stock interest in Tube-Fab Ltd, a Canadian subsidiary
+headquartered on Prince Edward Island, Canada, which an independent appraiser
+valued at 1,512. The Tube-Fab Ltd. stock had been carried on our books at a
+value of 2,157 and was accordingly written down to its appraised value.
+
+In January 1998, we completed the transfer of Tube-Fab to Mr. Foley in
+settlement of our obligations to him. As a result of this transaction, we
+recorded an additional loss on disposal of 299, net of 183 of taxes in the
+second fiscal quarter of 1998. The settlement entailed a transfer
+
+46
+ 48
+
+of the Tube-Fab Ltd. shares to Mr. Foley; a payment from Mr. Foley of 303 to
+us; cancellation of our 800 severance obligation; an assumption of the 487
+ (518 less a 31 principal payment made in June 1997) bank loan; cancellation of
+Mr. Foley's put right with respect to his HMI stock; and assumption by Mr. Foley
+of an operating lease of Canadian facilities currently leased by us, which had a
+remaining lease obligation of approximately 1,050 over 8 1/2 years.
+
+Mr. Foley's employment contract also required us to pay to him a 300 cash award
+relating to phantom shares he had previously earned but had deferred in 1996.
+This award was reduced to a 150 payment in the settlement transaction. The
+settlement also required us to continue Mr. Foley's salary and benefits from the
+time of termination advice through December 15, 1997 (approximately 320).
+
+Mr. Foley's departure caused us to examine the collectability of certain other
+related party receivables aggregating 743 which were forgiven and accordingly
+written off in the third and fourth quarters of fiscal 1997.
+
+In 1995, we converted 750 of accounts receivable from a former Filter Queen
+distributor to a note receivable. This distributor was an officer of one of our
+majority owned subsidiaries. In 1996, the officer contributed various assets and
+liabilities to the subsidiary in exchange for a reduction in the note
+receivable. During the quarter ended March 31, 1998, we relinquished land and a
+building valued at 523 and the related mortgage in the amount of 317 in
+exchange for an increase in the note receivable noted above. The note receivable
+of 140 and 245 is reflected in current and long-term assets at September 30,
+2000 and 1999, respectively.
+
+47
+ 49
+
+Report of Independent Accountants on
+ Financial Statement Schedule
+ ----------------------------
+
+To the Board of Directors and Stockholders of
+HMI Industries Inc.
+
+Our audits of the consolidated financial statements of HMI Industries Inc.
+referred to in our report dated December 8, 2000 appearing in this Annual Report
+on Form 10-K also included an audit of the financial statement schedule listed
+in item 14 of this Form 10-K. In our opinion, the financial statement schedule
+presents fairly, in all material respects, the information set forth therein
+when read in conjunction with the related consolidated financial statements.
+
+/s/ PricewaterhouseCoopers LLP
+- ------------------------------
+Cleveland, Ohio
+December 8, 2000
+
+48
+ 50
+
+HMI INDUSTRIES INC.
+ SCHEDULE II
+ VALUATION AND QUALIFYING ACCOUNTS AND RESERVES
+
+Dollars in thousands Balance at Additions Balance at
+- -------------------- Beginning of Charged to End of
+ Description Period Costs and Expense Deductions Period
+ ----------- -------------------------------------------------------------
+ 
+Valuation account for accounts receivable:
+ Year ended September 30, 2000 691 -- 184 507
+ Year ended September 30, 1999 1,085 -- 394 691
+ Year ended September 30, 1998 5,512 2,107 6,534 1,085
+
+Valuation account for inventory:
+ Year ended September 30, 2000 602 71 438 235
+ Year ended September 30, 1999 484 762 644 602
+ Year ended September 30, 1998 1,631 1,318 2,465 484
+
+Reserve for loss on disposal:
+ Year ended September 30, 2000 451 -- 451 --
+ Year ended September 30, 1999 233 375 157 451
+ Year ended September 30, 1998 5,388 631 5,786 233
+
+Valuation for deferred tax asset:
+ Year ended September 30, 2000 1,857 -- 1,008 849
+ Year ended September 30, 1999 1,159 698 -- 1,857
+ Year ended September 30, 1998 1,676 -- 517 1,159
+
+49
+ 51
+
+INDEX TO EXHIBITS
+
+3.1 Certificate of Incorporation Incorporated by reference from, Annual Report on form
+ 10-K for the year ended September 30, 1995
+
+ 3.2 Bylaws Incorporated by reference from, Annual Report on form
+ 10-K for the year ended September 30, 1995
+
+ 10.00 Material Contracts Finova Loan and Security Agreement, incorporated by
+ reference from Form 10-Q for the quarter ended June
+ 30, 1999
+
+ 10.01 Material Contracts Finova Loan and Security Agreement Covenant Amendment
+ Letter dated December 17, 1999, incorporated by
+ reference from Form 10-Q for the quarter ended
+ December 31, 1999.
+
+10.02 Material Contracts Amendment to Finova Loan and Security Agreement,
+ attached.
+
+ 10.03 Material Contracts Heller Credit Facility Agreement, incorporated by
+ reference from Form 10-Q for the quarter ended March
+ 31, 1998
+
+ 10.04 Material Contracts Amendment to Heller Loan and Security Agreement,
+ incorporated by reference from Form 10-K for the year
+ ended September 30, 1998
+
+ 10.05 Material Contracts Second Amendment to Heller Financial Loan and Security
+ Agreement, incorporated by reference from Form 10-Q
+ for the quarter ended March 31, 1999.
+
+ 10.06 Material Contracts Heller Financial Pre-Payment Penalty Waiver Letter
+ incorporated by reference from Form 10-Q for the
+ quarter ended March 31, 1999.
+
+ 10.07 Material Contracts Real Estate Sale Agreement and Amendment to Real
+ Estate Sale Agreement, incorporated by reference from
+ Form 10-Q for the quarter ended December 31, 1998
+
+ 10.08 Material Contracts Bliss Stock Purchase Agreement, incorporated by
+ reference from Form 10-K/A3 for the year ended
+ September 30, 1997
+
+ 10.09 Material Contracts Bliss Stock Purchase Agreement Settlement Letter,
+ incorporated by reference from Form 10-Q for the
+ quarter ended March 31, 1999.
+
+ 10.10 Material Contracts Change of Control Agreements, incorporated by
+ reference from Form 10-K/A3 for the year ended
+ September 30, 1997
+
+ 10.11 Material Contracts Employment Agreement - Malone, incorporated by
+ reference from Form 10-K/A3 for the year ended
+ September 30, 1997
+
+50
+ 52
+
+10.12 Material Contracts Employment Agreement - Young, incorporated by
+ reference from Form 10-K/A3 for the year ended
+ September 30, 1997
+
+ 10.13 Material Contracts Incentive Stock Option Agreements, attached
+
+ 10.14 Material Contacts Accelerated Incentive Stock Option Agreements, attached
+
+ 10.15 Material Contracts Restricted Stock Agreements incorporated by reference
+ from Form 10-Q for the quarter ended March 31, 1999
+
+ 10.16 Material Contracts Amendment to Restricted Stock Agreements incorporated
+ by reference from Form 10-Q for the quarter ended
+ March 31, 1999
+
+ 10.17 Material Contracts Restricted Stock Agreements incorporated by reference
+ from Form 10-K for the year ended September 30, 1998
+
+ 10.18 Material Contracts Restricted Stock Agreements, incorporated by reference
+ from Form 10-Q for the quarter ended March 31, 1998
+
+ 10.19 Material Contracts Restricted Stock Agreements, incorporated by reference
+ from Form 10-K/A3 for the year ended September 30, 1997
+
+ 10.20 Material Contracts Non-statutory Stock Option Agreements, incorporated by
+ reference from Form 10-K/A3 for the year ended
+ September 30, 1997
+
+ 10.21 Material Contracts Incentive Stock Option Agreements incorporated by
+ reference from Form 10-Q for the quarter ended March
+ 31, 1999.
+
+ 10.22 Material Contracts Incentive Stock Option Agreements, incorporated by
+ reference from Form 10-K/A3 for the year ended
+ September 30, 1997
+
+ 11 Statement re: Computation of per Note 1 on Page 35 of the Financial Statements
+ share earnings
+
+ 21 Subsidiaries of Registrant Note 1 on Page 32 of this report
+
+ 23 Consent of Experts Attached
+
+ 27 Financial Data Schedule Attached
+
+51
+
+<EX-10.02>
+ 2
+ l85703aex10-02.txt
+ EXHIBIT 10.02
+
+1
+ Exhibit 10.02
+
+AMENDMENT TO LOAN AND SECURITY AGREEMENT
+
+This Amendment ("Amendment") to Loan and Security Agreement is dated October 10,
+2000, and entered into by and between FINOVA Capital Corporation ("Lender"),
+and HMI Industries Inc. ("Borrower").
+
+ WHEREAS, Lender and Borrower have entered into a Loan and Security
+Agreement, as amended from time to time (the "Agreement") dated May 12, 1999;
+and
+
+ WHEREAS, Borrower has requested an increase in its Capital Expenditure
+and Indebtedness limits and for the fiscal year ended September 30, 2001; and
+
+ WHEREAS, Lender has agreed to the increase in Borrower's Capital
+Expenditure and Indebtedness limits for the fiscal year ended September 30, 2001
+subject to the terms and conditions set forth herein;
+
+ NOW THEREFORE, in consideration of the mutual conditions and
+agreements set forth in the Agreement and this Amendment, and other good and
+valuable consideration, the receipt and sufficiency of which are hereby
+acknowledged, the parties, intending to be legally bound, hereby agree as
+follows:
+
+ ARTICLE I. DEFINITIONS
+
+ Section 1.01. DEFINITIONS. Capitalized terms used in this Amendment, to
+the extent not otherwise defined herein, shall have the same meanings as in the
+Agreement, as amended hereby.
+
+ ARTICLE II. AMENDMENTS
+
+ Section 2.01. AMENDMENT TO THE NEGATIVE COVENANTS SECTION AS SET FORTH
+ON PAGE 3 OF THE LOAN SCHEDULE. The Capital Expenditures subsection shall be,
+and the same is hereby amended as follows:
+
+ The Capital Expenditure limit as set forth in the Capital Expendure
+subsection shall not exceed 4,100,000.00 for the fiscal year ending September
+30, 2001, only.
+
+ Section 2.02. AMENDMENT TO THE NEGATIVE COVENANTS SECTION AS SET FORTH
+ON PAGE 3 OF THE LOAN SCHEDULE. The Indebtedness subsection shall be, and the
+same is hereby amended as follows:
+
+ The Indebtedness limit as set forth in the Indebtedness subsection
+shall not exceed 2,510,000.00 for the fiscal year ending September 30, 2001,
+only.
+
+ ARTICLE III. MISCELLANEOUS
+
+2
+
+Section 3.01. CONDITIONS. The effectiveness of this Amendment is
+subject to the satisfaction of the following conditions precedent (unless
+specifically waived in writing by Lender):
+
+(a) there shall have occurred no material adverse change in the business,
+ operations, financial conditions, profits or prospects, or in the
+ Collateral of the Borrower;
+
+(b) Borrower shall have executed and delivered such other documents and
+ instruments as Lender may require;
+
+(c) Borrower shall have paid Lender a fee in the amount of 3,500.00 as
+ consideration for the consent and execution of the Amendment; and
+
+(d) all corporate proceedings taken in connection with the transactions
+ contemplated by this Amendment and all documents, instruments and other
+ legal matters incident thereto shall be satisfactory to Lender and its
+ legal counsel.
+
+ Section 3.02 RATIFICATION. The terms and provisions set forth in this
+Amendment shall modify and supersede all inconsistent terms and provisions set
+forth in the Agreement and, except as expressly modified and superseded by this
+Amendment, the terms and provisions of the Agreement, are ratified and confirmed
+and shall continue in full force and effect.
+
+ Section 3.03 SEVERABILITY. Any provision of this Amendment held by a
+court of competent jurisdiction to be invalid or unenforceable shall not impair
+or invalidate the remainder of this Amendment and the effect thereof shall be
+confined to the provision so held to be invalid or unenforceable.
+
+ Section 3.04 SUCCESSORS AND ASSIGNS. This Amendment is binding upon and
+shall inure to the benefit of Lender and Borrower and their respective
+successors and assigns.
+
+ Section 3.05 COUNTERPARTS. This Amendment may be executed in one or
+more counterparts, each of which when so executed shall be deemed to be an
+original, but all of which when taken together shall constitute one and the same
+instrument. An executed facsimile of this Amendment shall be deemed to be a
+valid and binding agreement between the parties hereto.
+
+2
+ 3
+
+ IN WITNESS WHEREOF, the parties have executed this Amendment on the
+date first above written.
+
+ FINOVA CAPITAL CORPORATION,
+ as Lender
+
+ By: /s/ Melissa Schneck
+ ----------------------------------
+ Name: Melissa Schneck
+ --------------------------------
+ Title: Vice President
+ --------------------------------
+
+HMI INDUSTRIES INC.,
+ as Borrower
+
+ /s/ Julie A. McGraw
+ ---------------------------------------
+ Name: Julie A. McGraw
+
+ Title: Vice President-CFO & Treasurer
+
+3
+
+</EX-10.02>
+
+<EX-10.13>
+ 3
+ l85703aex10-13.txt
+ EXHIBIT 10.13
+
+1
+
+Exhibit 10.13
+
+HMI Industries Inc.
+Exhibit 10
+Material Contracts - Incentive Stock Option Agreements
+
+PARTICIPANT AGREEMENT SHARES EFFECTIVE DATE/SHARES EXERCISABLE
+ DATE
+Daniel Duggan 03/08/00 35,000 03/08/00
+
+James R. Malone 03/08/00 135,000 03/08/00 - 94,117
+ 01/02/01 - 40,833
+
+Julie McGraw 03/08/00 25,000 03/08/00
+
+Darrell Weeter 03/08/00 20,000 03/08/00
+
+See filed exhibit for James R. Malone
+
+2
+
+ Exhibit 10.13
+
+INCENTIVE STOCK OPTION AGREEMENT
+
+THIS INCENTIVE STOCK OPTION AGREEMENT is entered into as of March
+8, 2000 by and between HMI Industries Inc., a Delaware corporation, with its
+principal place of business at 6000 Lombardo Center, Seven Hills, Ohio (the
+"Company") and JAMES R. MALONE (the "Participant").
+
+ WHEREAS, the Company has adopted the 1992 Omnibus Long-Term
+Compensation Plan (the "Plan"); and,
+
+ WHEREAS, Participant is a Key Employee of the Company as defined in the
+Plan; and,
+
+ WHEREAS, pursuant to section 8 of the Plan the Participant may be
+granted an option to purchase shares of Common Stock of the Company.
+
+ NOW, THEREFORE, in consideration of the premises and the covenants
+contained herein, the Company and Participant hereby agree as follows:
+
+ 1. GRANT OF OPTION. There is hereby granted to Participant an option to
+purchase 135,000 shares of Common Stock of the Company at a price of 1.0625
+per share. The number of shares which may be purchased and the exercise price
+per share are subject to adjustment as provided in the Plan. This option is
+intended to be an incentive stock option within the meaning of section
+422 of the Internal Revenue Code.
+
+ 2. EXERCISE OF OPTION. The option granted to Participant herein may be
+exercised in whole or in part, subject to the following limitations on exercise:
+
+ Effective Date Shares Exercisable
+ -------------- ------------------
+ March 8, 2000 94,117
+ January 2, 2001 40,833
+
+ 3. EXPIRATION. To the extent not exercised, the option expires on March
+8, 2005, unless expiring sooner pursuant to the terms of the Plan, applicable
+provisions of the Internal Revenue Code or other provisions of this Agreement.
+
+ 4. ACCELERATION. In the event of a change in control as defined in the
+Plan, this option shall become immediately exercisable with respect to all
+unexercised shares.
+
+ 5. RETIREMENT. If the Participant ceases to be an employee of the
+Company by reason of retirement in accordance with any retirement plan or policy
+of the Company then in effect, the Participant, at any time within the six month
+period following such retirement (but prior to the expiration date of the option
+as specified in section 3) may exercise the option with respect to the shares
+then exercisable.
+
+1
+ 3
+
+ 6. DEATH OF PARTICIPANT. If the Participant shall die while in the
+employ of the Company, then within the one year period following his death (but
+prior to the expiration date of the option as specified in section 3) the person
+entitled by will or the applicable laws of descent and distribution may exercise
+the option without regard to the vesting schedule in section 2.
+
+ 7. TERMINATION OF EMPLOYMENT. If the Participant ceases to be employed
+by the Company for any reason other than retirement or death, this option shall
+not be exercisable after the expiration of three months from the date employment
+terminates and shall be exercisable only to the extent that it was exercisable
+as of the date of termination of employment. The option must be exercised in any
+event prior to the expiration date of the option specified in section 3.
+
+ 8. REGISTRATION. Participant represents and warrants that any shares
+purchased by him upon the exercise of an option will be acquired for investment
+only and not with a view to resale or distribution. Provided, however, that this
+representation and warranty shall not be applicable to an offer for the sale or
+the sale of any such shares which, at the time of such offer or sale, are
+registered under the Securities Act of 1933, as amended (the "Act"), and any
+applicable state securities law, or which without such registration and apart
+from the provisions of this section could be offered for sale or sold without
+violation of such Act or law. Nothing herein shall require the Company to file a
+registration statement or to keep such registration statement current for any
+shares purchased pursuant to the exercise of options granted hereunder. If
+requested by the Company, Participant agrees to sign a letter addressed to the
+Company certifying investment intent. Participant acknowledges that any shares
+issued without registration will be "restricted securities" as that term is
+defined in Rule 144 of the Act, and that any transfer or disposition of such
+shares can be accomplished only in compliance with Rule 144, the Act or other
+applicable rules under the Act.
+
+ 9. LEGEND ON CERTIFICATES. Each certificate for shares of Common Stock
+of the Company issued to Participant upon exercise of an option shall, in the
+sole discretion of the Company, bear a legend substantially as follows:
+
+ "The shares represented by this certificate have not been registered
+under the Securities Act of 1933, as amended. The shares may not be sold or
+transferred in the absence of such registration or an opinion of counsel that
+registration is not required due to an exemption from registration under that
+Act."
+
+ 10. EMPLOYMENT RIGHT. This Agreement shall not be construed as
+requiring the Company to retain Participant as an employee or affect or limit
+the right of the Company to terminate the employment of Participant at any time
+for any reason or to give Participant any additional rights as an employee
+beyond those rights granted by law or by contract. As consideration for
+receiving the option, Participant agrees that he will remain in the employ of
+the Company for at least one year from the date of the grant of the option,
+unless his employment is terminated because of disability or with the consent of
+the Company.
+
+2
+ 4
+
+ 11. COMPLIANCE WITH PLAN. Participant agrees to comply with all
+applicable provisions of the Plan, a copy of which has been delivered to
+Participant and receipt of which is hereby acknowledged.
+
+ 12. CONFLICT WITH PLAN. In the event of any conflict between any term
+of this Agreement and the Plan, the terms of the Plan shall prevail. Except for
+terms defined in this Agreement, the definitions contained in the Plan will
+apply to this Agreement.
+
+ 13. ASSIGNMENT AND DISPOSITION. Participant shall not transfer or
+assign or in any way dispose of any option granted herein except in accordance
+with the Plan and applicable law.
+
+ 14. NOTICE OF EXERCISE. This option may be exercised by delivering to
+the Company at the office of its Chief Financial Office a written notice, signed
+by the person entitled to exercise the option and stating the number of shares
+to be purchased. Such notice shall, as an essential part thereof, be accompanied
+by payment of the full purchase price of the shares to be purchased. Upon
+payment within the time period specified by the Company of the amount, if any,
+required to be withheld for Federal, state and local tax purposes as a result of
+the exercise of the option, the option shall be deemed exercised as of the date
+the Company received the written notice of exercise. The Participant may satisfy
+any withholding requirement by authorizing the Company at the time of exercise
+to withhold from his next salary payment all or part of the amount required to
+be withheld by the Company as a result of such exercise. Participant may satisfy
+the withholding obligation by authorizing the Company to withhold shares from
+the shares acquired hereunder equal in value to the amount required to satisfy
+such withholding. Payment of the purchase price may be made in cash or in shares
+equal in value to the exercise price, or partly in cash and partly in shares.
+The option shall not be exercisable if the exercise would violate any applicable
+state securities law, any registration or other requirements under the Act or
+any applicable legal requirement of any other governmental authority.
+
+ IN WITNESS WHEREOF, the Company and Participant have executed this
+Incentive Stock Option Agreement as of the date indicated above.
+
+ HMI INDUSTRIES INC.
+
+ By /s/ Carl H. Young
+ --------------------------------
+ Carl H. Young, President
+
+ /s/ James R. Malone
+ -----------------------------------
+ James R. Malone
+
+3
+
+</EX-10.13>
+
+<EX-10.14>
+ 4
+ l85703aex10-14.txt
+ EXHIBIT 10.14
+
+1
+
+Exhibit 10.14
+
+HMI Industries Inc.
+Exhibit 10
+Material Contracts - Accelerated Incentive Stock Option Agreements
+
+ PARTICIPANT AGREEMENT SHARES EFFECTIVE DATE/SHARES EXERCISABLE
+ DATE
+James R. Malone 08/29/00 100,000 08/29/01 - 25 of the optioned shares
+ 08/29/02 - 50 of the optioned shares
+ 08/29/03 - 75 of the optioned shares
+ 08/29/04 - 100 of the optioned shares
+ or
+ Price per Share = 3.00 - 50 of
+ optioned shares
+ Price per Share = 5.00 - 100 of
+ optioned shares
+
+Carl H. Young III 08/29/00 100,000 08/29/01 - 25 of the optioned shares
+ 08/29/02 - 50 of the optioned shares
+ 08/29/03 - 75 of the optioned shares
+ 08/29/04 - 100 of the optioned shares
+ or
+ Price per Share = 3.00 - 50 of
+ optioned shares
+ Price per Share = 5.00 - 100 of
+ optioned shares
+
+See filed exhibit for James R. Malone
+
+2
+
+ Exhibit 10.14
+
+INCENTIVE STOCK OPTION AGREEMENT
+
+THIS INCENTIVE STOCK OPTION AGREEMENT is entered into as of August 29,
+2000 by and between HMI Industries Inc., a Delaware corporation, with its
+principal place of business at 6000 Lombardo Center, Seven Hills, Ohio (the
+"Company") and JAMES R. MALONE (the "Participant").
+
+ WHEREAS, the Company has adopted the 1992 Omnibus Long-Term
+Compensation Plan (the "Plan"); and,
+
+ WHEREAS, Participant is a Key Employee of the Company as defined in the
+Plan; and,
+
+ WHEREAS, pursuant to section 8 of the Plan the Participant may be
+granted an option to purchase shares of Common Stock of the Company.
+
+ NOW, THEREFORE, in consideration of the premises and the covenants
+contained herein, the Company and Participant hereby agree as follows:
+
+ 1. GRANT OF OPTION. There is hereby granted to Participant an option to
+purchase 100,000 shares of Common Stock of the Company at a price of 1.25 per
+share. The number of shares which may be purchased and the exercise price per
+share are subject to adjustment as provided in the Plan. This option is intended
+to be an incentive stock option within the meaning of section 422 of the
+Internal Revenue Code.
+
+ 2. EXERCISE OF OPTION. The option granted to Participant herein may be
+exercised in whole or in part, subject to the following limitations on exercise:
+
+ Effective Date Shares Exercisable
+ -------------- ------------------
+ August 29, 2001 25 of the optioned shares
+ August 29, 2002 50 of the optioned shares
+ August 29, 2003 75 of the optioned shares
+ August 29, 2004 100 of the optioned shares
+
+ 3. EXPIRATION. To the extent not exercised, the option expires on
+August 29, 2010, unless expiring sooner pursuant to the terms of the Plan,
+applicable provisions of the Internal Revenue Code or other provisions of this
+Agreement.
+
+ 4. ACCELERATION. In the event of a change in control as defined in the
+Plan, this option shall become immediately exercisable with respect to all
+unexercised shares. In addition, notwithstanding the limitation on exercise
+contained in section 2, the shares may be exercised sooner than specified in
+section 2 if the trading price of the stock exceeds the price set forth below
+for twenty days:
+
+1
+ 3
+
+Price per Share Shares Exercisable
+ --------------- ------------------
+
+ 3.00 50 of optioned shares
+ 5.00 100 of optioned shares
+
+ 5. RETIREMENT. If the Participant ceases to be an employee of the
+Company by reason of retirement in accordance with any retirement plan or policy
+of the Company then in effect, the Participant, at any time within the six month
+period following such retirement (but prior to the expiration date of the option
+as specified in section 3) may exercise the option with respect to the shares
+then exercisable.
+
+ 6. DEATH OF PARTICIPANT. If the Participant shall die while in the
+employ of the Company, then within the one year period following his death (but
+prior to the expiration date of the option as specified in section 3) the person
+entitled by will or the applicable laws of descent and distribution may exercise
+the option without regard to the vesting schedule in section 2.
+
+ 7. TERMINATION OF EMPLOYMENT. If the Participant ceases to be employed
+by the Company for any reason other than retirement or death, this option shall
+not be exercisable after the expiration of three months from the date employment
+terminates and shall be exercisable only to the extent that it was exercisable
+as of the date of termination of employment. The option must be exercised in any
+event prior to the expiration date of the option specified in section 3.
+
+ 8. REGISTRATION. Participant represents and warrants that any shares
+purchased by him upon the exercise of an option will be acquired for investment
+only and not with a view to resale or distribution. Provided, however, that this
+representation and warranty shall not be applicable to an offer for the sale or
+the sale of any such shares which, at the time of such offer or sale, are
+registered under the Securities Act of 1933, as amended (the "Act"), and any
+applicable state securities law, or which without such registration and apart
+from the provisions of this section could be offered for sale or sold without
+violation of such Act or law. Nothing herein shall require the Company to file a
+registration statement or to keep such registration statement current for any
+shares purchased pursuant to the exercise of options granted hereunder. If
+requested by the Company, Participant agrees to sign a letter addressed to the
+Company certifying investment intent. Participant acknowledges that any shares
+issued without registration will be "restricted securities" as that term is
+defined in Rule 144 of the Act, and that any transfer or disposition of such
+shares can be accomplished only in compliance with Rule 144, the Act or other
+applicable rules under the Act.
+
+ 9. LEGEND ON CERTIFICATES. Each certificate for shares of Common Stock
+of the Company issued to Participant upon exercise of an option shall, in the
+sole discretion of the Company, bear a legend substantially as follows:
+
+ "The shares represented by this certificate have not been registered
+under the Securities Act of 1933, as amended. The shares may not be sold or
+transferred in the absence of such registration or an opinion of counsel that
+registration is not required due to an exemption from registration under that
+Act."
+
+2
+
+4
+
+ 10. EMPLOYMENT RIGHT. This Agreement shall not be construed as
+requiring the Company to retain Participant as an employee or affect or limit
+the right of the Company to terminate the employment of Participant at any time
+for any reason or to give Participant any additional rights as an employee
+beyond those rights granted by law or by contract. As consideration for
+receiving the option, Participant agrees that he will remain in the employ of
+the Company for at least one year from the date of the grant of the option,
+unless his employment is terminated because of disability or with the consent of
+the Company.
+
+ 11. COMPLIANCE WITH PLAN. Participant agrees to comply with all
+applicable provisions of the Plan, a copy of which has been delivered to
+Participant and receipt of which is hereby acknowledged.
+
+ 12. CONFLICT WITH PLAN. In the event of any conflict between any term
+of this Agreement and the Plan, the terms of the Plan shall prevail. Except for
+terms defined in this Agreement, the definitions contained in the Plan will
+apply to this Agreement.
+
+ 13. ASSIGNMENT AND DISPOSITION. Participant shall not transfer or
+assign or in any way dispose of any option granted herein except in accordance
+with the Plan and applicable law.
+
+ 14. NOTICE OF EXERCISE. This option may be exercised by delivering to
+the Company at the office of its Chief Financial Office a written notice, signed
+by the person entitled to exercise the option and stating the number of shares
+to be purchased. Such notice shall, as an essential part thereof, be accompanied
+by payment of the full purchase price of the shares to be purchased. Upon
+payment within the time period specified by the Company of the amount, if any,
+required to be withheld for Federal, state and local tax purposes as a result of
+the exercise of the option, the option shall be deemed exercised as of the date
+the Company received the written notice of exercise. The Participant may satisfy
+any withholding requirement by authorizing the Company at the time of exercise
+to withhold from his next salary payment all or part of the amount required to
+be withheld by the Company as a result of such exercise. Participant may satisfy
+the withholding obligation by authorizing the Company to withhold shares from
+the shares acquired hereunder equal in value to the amount required to satisfy
+such withholding. Payment of the purchase price may be made in cash or in shares
+equal in value to the exercise price, or partly in cash and partly in shares.
+The option shall not be exercisable if the exercise would violate any applicable
+state securities law, any registration or other requirements under the Act or
+any applicable legal requirement of any other governmental authority.
+
+3
+ 5
+
+ IN WITNESS WHEREOF, the Company and Participant have executed this
+Incentive Stock Option Agreement as of the date indicated above.
+
+ HMI INDUSTRIES INC.
+
+ By /s/ Carl H. Young
+ ----------------------------
+ Carl H. Young, President
+
+/s/ James R. Malone
+ --------------------------------
+ James R. Malone
+
+4
+
+</EX-10.14>
+
+<EX-23>
+ 5
+ l85703aex23.txt
+ EXHIBIT 23
+
+1
+
+Exhibit 23
+
+CONSENT OF INDEPENDENT ACCOUNTANTS
+
+We hereby consent to the incorporation by reference in the Registration
+Statement on Form S-8 (File No. 333- 47153) of HMI Industries Inc. of our report
+dated December 8, 2000, relating to the consolidated financial statements, which
+appears in this Annual Report on Form 10-K. We also consent to the incorporation
+by reference of our report dated December 8, 2000 relating to the Financial
+Statement Schedule, which appears in this Form 10-K.
+
+/s/ PricewaterhouseCoopers LLP
+- ------------------------------
+Cleveland, Ohio
+December 20, 2000
+
+</EX-23>
+
+<EX-27>
+ 6
+ l85703aex27.txt
+ EXHIBIT 27
+
+5
+
+YEAR
+ SEP-30-2000
+ OCT-01-1999
+ SEP-30-2000
+ 1,535,000
+ 0
+ 3,854,000
+ 507,000
+ 3,215,000
+ 10,291,000
+ 5,663,000
+ 4,112,000
+ 20,843,000
+ 6,378,000
+ 0
+ 0
+ 0
+ 6,658,000
+ 7,736,000
+ 20,843,000
+ 34,621,000
+ 34,621,000
+ 20,448,000
+ 33,462,000
+ 0
+ 0
+ 47,000
+ 1,112,000
+ (353,000)
+ 1,465,000
+ 425,000
+ 0
+ 0
+ 1,890,000
+ 0.31
+ 0.31
+
+</EX-27>
+

@@ -1,0 +1,3762 @@
+<Header>
+<FileStats>
+    <FileName>20000330_10-K_edgar_data_1057725_0001057725-00-000005.txt</FileName>
+    <GrossFileSize>227418</GrossFileSize>
+    <NetFileSize>180862</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1823</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>1</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001057725-00-000005.hdr.sgml : 20000510
+ACCESSION NUMBER:		0001057725-00-000005
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19991231
+FILED AS OF DATE:		20000330
+DATE AS OF CHANGE:		20000509
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NEFF CORP
+		CENTRAL INDEX KEY:			0001057725
+		STANDARD INDUSTRIAL CLASSIFICATION:	7359
+		IRS NUMBER:				650626400
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	001-14145
+		FILM NUMBER:		590370
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3750 NW 87TH AVE
+		STREET 2:		SUITE 400
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33178
+		BUSINESS PHONE:		3055133350
+
+	MAIL ADDRESS:	
+		STREET 1:		3750 NW 87TH AVE
+		STREET 2:		SUITE 400
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33178
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ O85foKzhQFP/qrujjtNaOdgls4T1AAGCx8xQ3xnz0ky1+NiwfL7iSLjMGGqExxnd
+ e/CE8ADITRWLZ1OhR4bZFQ==
+
+ 0001057725-00-000005.txt : 20000510
+
+10-K
+ 1
+ FORM 10-K FOR THE PERIOD ENDED DECEMBER 31, 1999
+
+UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ Washington, D.C. 20549
+
+ FORM 10-K
+
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D)
+ OF
+ THE SECURITIES EXCHANGE ACT OF 1934
+
+ For the fiscal year ended December 31, 1999
+ Commission File Number: 001-14145
+
+ NEFF CORP.
+ (Exact Name of registrant as specified in its charter)
+
+DELAWARE 65-0626400
+ -------- ----------
+ (State or other jurisdiction of (I.R.S. Employer Identification No.)
+ incorporation or organization)
+
+3750 N.W. 87th AVENUE, SUITE 400, MIAMI, FLORIDA 33178
+ -----------------------------------------------------
+ (Address of principal executive offices) (Zip Code)
+
+ Registrant's telephone number: (305) 513-3350
+
+ Securities registered pursuant to Section 12(b) of the Act:
+
+ Name of each exchange
+Title of each class on which registered
+- - ------------------- -----------------------
+Class A Common Stock
+Par Value .01 per share New York Stock Exchange
+
+Securities registered pursuant to Section 12(g) of the Act:
+ (Title of class)
+ None
+
+Indicate by check mark whether the registrant has (1) filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. X Yes __ No
+
+ Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements by
+reference in Part III of this Form 10-K or any amendment to this Form 10-K [X].
+
+ As of March 28, 2000, the aggregate market value of the voting stock held
+by non-affiliates of the registrant was approximately 49.7 million. As of March
+28, 2000, there were 16,065,350 shares of the registrant's Class A Common Stock
+outstanding.
+
+ Documents incorporated by reference:
+
+ Portions of the Company's Proxy Statement in connection with its Annual
+Meeting to be held on June 16, 2000 (the "2000 Proxy Statement"). Specifically,
+the sections in the 1999 Proxy Statement entitled "Ownership of Shares of
+Certain Beneficial Owners," "Certain Relationships and Related Transactions,"
+"Executive and Director Compensation," and "Compensation Committee Interlocks
+and Insider Participation" are incorporated by reference into Part III of this
+Report.
+
+Part I
+
+ Safe Harbor Statement under the Private Securities Litigation Reform Act of
+1995
+
+ The matters discussed herein may include forward-looking statements that
+involve risks and uncertainties which could result in operating performance that
+is materially different from that implied in the forward-looking statements.
+Risks that could cause actual results to differ materially from those in the
+forward-looking statements include, but are not limited to, risks inherent in
+the Company's growth strategy, such as the uncertainty that the Company will be
+able to identify, acquire and integrate attractive acquisition candidates; the
+Company's dependence on additional capital for future growth and the high degree
+to which the Company is leveraged. Additional information concerning these and
+other risks and uncertainties is contained from time to time in the Company's
+filings with the Securities and Exchange Commission.
+
+ The Company cautions that the factors described above could cause actual
+results or outcomes to differ materially from those expressed in any
+forward-looking statements made by or on behalf of the Company. Any
+forward-looking statements speak only as of the date on which such statement is
+made, and the Company undertakes no obligation to update any forward-looking
+statement or statements to reflect events or circumstances after the date on
+which such statement is made or to reflect the occurrence of unanticipated
+events. New factors emerge from time to time, and it is not possible for
+management to predict all of such factors. Further, management cannot assess the
+impact of each such factor on the business or the extent to which any factor, or
+combinations of factors, may cause actual results to differ materially from
+those contained in any forward-looking statements.
+
+ ITEM 1. BUSINESS
+
+ General
+
+ Neff is one of the largest equipment rental companies in the United States,
+with 84 rental locations in 18 states. The Company rents a wide variety of
+equipment, including backhoes, air compressors, loaders, lifts and compaction
+equipment to construction and industrial customers. In addition, the Company
+sells used equipment, spare parts and merchandise and provides ongoing repair
+and maintenance services.
+
+ According to industry sources, the equipment rental industry grew from
+approximately 600 million in revenues in 1982 to over 20 billion in 1999. This
+growth has been driven primarily by construction and industrial companies that
+have increasingly outsourced equipment needs to reduce investment in non-core
+assets and convert costs from fixed to variable. The equipment rental industry
+is highly fragmented, with an estimated 18,000 equipment rental companies in the
+United States. As a result, the Company believes that there are substantial
+consolidation opportunities for well-capitalized operators such as the Company.
+Relative to smaller competitors, the Company has several advantages, including
+increased purchasing power, larger inventories to service larger accounts and
+the ability to transfer equipment among rental locations in response to changing
+patterns of customer demand.
+
+ 2
+
+Competitive Strengths
+
+ The Company believes it has several competitive strengths, which provide it
+with the opportunity for continued growth and increased profitability.
+
+ Strong Market Position. Neff is one of the largest construction and
+industrial equipment rental companies in the United States, and is a leading
+competitor with a significant presence in the Southeast and Gulf Coast regions.
+We operate 84 rental locations in 18 states, including Florida, Georgia,
+Alabama, Mississippi, South Carolina, North Carolina, Tennessee, Louisiana,
+Texas, Oklahoma, Arizona, Nevada, Utah, California, Oregon, Washington, Virginia
+and Colorado. From December 31, 1995 to December 31, 1999, we increased our
+equipment rental locations from eight to 84 and expanded our rental fleet from
+ 62 million to 413 million based on original cost. We believe our size and
+geographic diversity help insulate us from regional economic downturns.
+
+ High Quality Rental Fleet. We believe our rental fleet is one of the
+newest, most comprehensive and well-maintained rental fleets in the equipment
+rental industry. As of December 31, 1999, the average age of our rental fleet
+was approximately 24 months. We make ongoing capital investment in new
+equipment, engage in regular sales of used equipment and conduct an advanced
+preventative maintenance program. We believe this maintenance program increases
+fleet utilization, extends the useful life of equipment and produces higher
+resale values.
+
+ Excellent Customer Service. We differentiate ourselves from our competitors
+by providing high quality, responsive service to our customers. Service
+initiatives include (i) reliable on-time equipment delivery directly to
+customers' job sites; (ii) on-site repairs and maintenance of rental equipment
+by factory trained mechanics, generally available 24 hours a day, seven days a
+week; and (iii) ongoing training of an experienced sales force to consult with
+customers regarding their equipment needs.
+
+ State-of-the-Art Management Information System. We have developed a
+customized, state-of-the-art management information system capable of monitoring
+operations at up to 300 sites. We use this system to maximize fleet utilization
+and determine the optimal fleet composition by market. The system links all of
+our rental locations and allows management to track customer and sales
+information, as well as the location, rental status and maintenance history of
+every piece of equipment in the rental fleet. Rental location managers can
+search our entire rental fleet for needed equipment, quickly determine the
+closest location of such equipment, and arrange for delivery to the customer's
+work site, thus maximizing equipment utilization.
+
+ Experienced Management Team. Since 1995, we have significantly increased
+the quality and depth of our management team to help oversee our growth
+strategy. Our senior management team has extensive experience in the equipment
+rental industry and our regional management has, on average, 21 years of
+experience and substantial knowledge of the local markets served within their
+regions. We believe that our management team has the ability to continue the
+Company's strong growth as well as manage the Company on a much larger scale. We
+are not dependent on recruiting additional operating, acquisition, finance or
+other personnel to implement our growth strategy.
+
+ 3
+
+Business Strategy
+
+ Our objective is to increase revenue, cash flow and profitability by
+building and maintaining a leading market position in the equipment rental
+industry. Key elements of our business strategy include:
+
+ Increase Profitability of Recently Opened Rental Locations. Since March 1,
+1995, we have opened 26 start-up rental equipment locations including 10
+locations in 1997, 5 locations in 1998 and 1 location in 1999. Because we incur
+significant expenses in connection with the opening of new locations, management
+believes that our financial performance does not yet fully reflect the benefit
+of these rental locations. Based on our historical experience, a new equipment
+rental location tends to realize significant increases in revenues, cash flow
+and profitability during the first three years of operation as more prospective
+customers become aware of its operation and as the rental equipment fleet is
+customized to local market demand. Because there is relatively little
+incremental operating expense associated with such revenues, cash flow and
+profitability increase significantly as a rental location matures.
+
+ Increase Fleet at Existing Locations. We believe we can capitalize on the
+demand for rental equipment in the markets we serve and increase revenues by
+increasing the size of the rental fleet and adding new product lines at existing
+locations. We believe that this strategy allows us to attract new customers and
+serve as a single source supplier for our customers. Because the start-up
+expenditures associated with increasing the fleet and expanding product lines at
+existing locations are relatively modest, these investments typically generate
+higher and faster returns than investments in new locations.
+
+ Acquire Equipment Rental Companies. We intend to expand through
+acquisitions of equipment rental companies and believe there are a significant
+number of acquisition opportunities in North America, which would complement our
+existing operations. After completing an acquisition, we generally integrate the
+operations of the acquired company into our management information system,
+consolidate equipment purchasing and resale functions and centralize fleet
+management as quickly as possible while assuring consistent, high-quality
+service to the acquired company's customers. Since July 1997, we have made
+several strategic acquisitions, which have more than doubled our number of
+rental locations, significantly enhanced our geographic presence and further
+diversified our customer base.
+
+ We believe we can successfully implement our acquisition strategy because
+of (i) our access to financial resources; (ii) the potential for increased
+profitability due to the centralizing of certain administrative functions,
+enhanced systems capabilities, greater purchasing power and economies of scale;
+and (iii) the potential for owners of the businesses being acquired to
+participate in our planned growth while realizing liquidity. We have developed a
+set of financial, geographic and management criteria designed to assist
+management in the evaluation of acquisition candidates.
+
+ These criteria are used to evaluate a variety of factors, including, but
+not limited to, (i) historical and projected financial performance; (ii)
+composition and size of the candidate's customer base; (iii) relationship of the
+candidate's geographic location to the Company's market areas; (iv) potential
+synergies gained through acquisition of the candidate; and (v) liabilities,
+contingent or otherwise, of the candidate.
+
+ Selective Openings of Start-up Equipment Rental Locations. We intend to
+expand our operations by opening additional start-up locations in markets where
+we are not able to identify attractive acquisition candidates. We have been
+successful in opening start-up equipment rental locations in existing markets
+and new markets.
+
+ 4
+
+We have opened 26 start-up equipment rental locations since March 1995. Our
+decision to open a start-up equipment rental location is based upon a review of
+demographic information, business growth projections and the level of existing
+competition. Because our management team has extensive experience opening
+start-up locations, our growth strategy is not dependent on the availability of
+acquisition candidates on satisfactory terms.
+
+ In June 1998, we expanded our operations into South America by acquiring
+65 of the outstanding stock of S.A. Argentina. S.A. Argentina rents and sells
+industrial and construction equipment throughout South America, including
+Argentina, Brazil, Uruguay, Paraguay, Chile and Bolivia.
+
+ Sales of Subsidiaries. On November 18, 1999, the Company completed the sale
+of Sullair Argentina S.A. The Company received 42.5 million, of which 12.5
+million was a receivable that was received in February 2000. The Company
+recorded a loss on the sale of 4.2 million.
+
+ On December 17, 1999, the Company completed the sale of Neff Machinery,
+Inc., a wholly-owned subsidiary. The Company received 90.5 million and recorded
+a gain on the sale of 3.8 million.
+
+ Operations
+
+ Our operations primarily consist of renting equipment, and, to a lesser
+extent, selling used equipment, complementary parts and merchandise to a wide
+variety of construction and industrial customers. In addition, to service our
+customer base more fully, we also act as a dealer of new equipment on behalf of
+several nationally known equipment manufacturers and provide ongoing maintenance
+and repair services for the equipment we sell and rent. Our locations are
+grouped together by geographic area and a regional manager oversees operations
+within each region.
+
+ Equipment Rentals. We are one of the largest equipment rental companies in
+the United States, with 84 rental locations in 18 states. Our rental fleet is
+comprised of a complete line of light and heavy construction and industrial
+equipment from a wide variety of manufacturers, including John Deere, Case,
+Bomag, Bosch, Sullivan Industries, Ingersoll-Rand, Gradall, Lull, JLG, Bobcat,
+MultiQuip and Wacker.
+
+ 5
+
+Major categories of equipment represented the following percentages (based
+on original cost) of the Company's total rental fleet as of December 31, 1999:
+
+Percentage of Total Rental Fleet
+ Major Equipment Category (based on original cost)
+ 
+ Earthmoving .......................... 39.3 
+ Material Handling ....................... 16.6
+ Aerial .......................... 12.8
+ Other .......................... 6.4
+ Compaction .......................... 6.1
+ Trucks .......................... 5.9
+ Compressors .......................... 5.5
+ Cranes .......................... 2.3
+ Generators .......................... 1.6
+ Welders .......................... 1.3
+ Pumps .......................... 1.3
+ Lighting .......................... 0.9
+
+We attempt to differentiate ourselves from our competitors by providing a
+broad selection of new and well-maintained rental equipment, and through
+high-quality, responsive service to our customers. As of December 31, 1999, our
+equipment rental fleet had an original cost of approximately 413 million and an
+average age of 24 months, which management believes compares favorably with
+other leading equipment rental companies. We make ongoing capital investments in
+new equipment, engage in regular sales of used equipment and conduct an advanced
+preventative maintenance program. This program increases fleet utilization,
+extends the useful life of equipment and produces higher resale values.
+
+ In addition to providing a new and reliable equipment rental fleet,
+management believes providing high quality customer service is essential to our
+future success. The equipment rental business is a service industry requiring
+quick response times to satisfy customers' needs. Though some activity is
+arranged with lead-time, much of the rental initiation process takes place
+within a 48-hour period. Consequently, equipment availability, branch location
+and transportation capabilities play a major role in earning repeat business.
+Rental customers prefer a quick selection process and seek quick, concise
+communication when ordering equipment. Punctuality and reliability are key
+components of the servicing process, as well as maintenance performance, timely
+equipment removal at the rental termination and simplified billing. Our service
+initiatives include (i) reliable on-time equipment delivery directly to
+customers' job sites; (ii) on-site repairs and maintenance of rental equipment
+by factory trained mechanics, which are generally available 24 hours a day,
+seven days a week; and (iii) ongoing training of an experienced sales force to
+consult with customers regarding their equipment needs.
+
+ New Equipment Sales. We are a distributor of new equipment on behalf of
+several nationally known equipment manufacturers. Typically, dealership
+agreements do not have a specific term and may be terminated by either party
+upon specific events and/or written notice. In the future we may continue, amend
+or terminate dealership agreements.
+
+ 6
+
+Used Equipment Sales. We maintain a regular program of selling used
+equipment in order to adjust the size and composition of our rental fleet to
+changing market conditions and to maintain the quality and low average age of
+our rental fleet. Management attempts to balance the objective of obtaining
+acceptable prices from equipment sales against the revenues obtainable from used
+equipment rentals. We are generally able to achieve favorable resale prices for
+our used equipment due to our strong preventative maintenance program and our
+practice of selling used equipment before it becomes obsolete or irreparable. We
+believe the proactive management of our rental fleet allows us to adjust the
+rates of new equipment purchases and used equipment sales to maximize equipment
+utilization rates and respond to changing economic conditions. Such proactive
+management, together with our broad geographic diversity, minimizes the impact
+of regional economic downturns.
+
+ Parts and Service. We sell a full complement of parts, supplies and
+merchandise to our customers in conjunction with our equipment rental and sales
+business. We also offer maintenance service to our customers that own equipment
+and generate revenues from damage waiver charges, delivery charges and warranty
+income. We believe that these revenues are more stable than equipment sales
+revenues because of the recurring nature of the parts and service business. We
+also believe that during economic downturns, the parts and service business may
+actually increase as customers postpone new equipment purchases and instead
+attempt to maintain their existing equipment.
+
+ Management Information System
+
+ We have developed a state-of-the-art, customized management information
+system, capable of monitoring operations on a real-time basis at up to 300 sites
+that can be upgraded to support additional locations or terminals. We currently
+employ eight management information system employees who continually update and
+refine the system. We use this system to maximize fleet utilization and
+determine the optimal fleet composition by market. This system links all of our
+rental locations and allows management to track customer and sales information,
+as well as the location, rental status and maintenance history of every piece of
+equipment in the rental fleet. Using this system, rental equipment branch
+managers can search our entire rental fleet for needed equipment, quickly
+determine the closest location of such equipment and arrange for delivery to the
+customer's work site. This practice helps diminish "lost rents," improves
+utilization and makes equipment available in markets where it can earn increased
+revenues. Our communications system can handle multiple protocols and allows the
+integration of systems running on different platforms. This feature allows us to
+include systems used by locations acquired in an acquisition of an existing
+equipment rental company in its central databases while the acquired locations
+are integrated into our system.
+
+ Customers
+
+ Our customers include commercial, industrial and civil construction
+contractors, manufacturers, public utilities, municipalities, golf courses,
+shipyards, commercial farmers, military bases, offshore platform operators and
+maintenance contractors, refineries and petrochemical facilities and a variety
+of other industrial accounts.
+
+ During 1999 we served over 27,000 customers. Our top 10 customers
+represented 3.4 of our total revenues in 1999. Our rental equipment customers
+vary in size from large Fortune 500 companies who have elected to outsource much
+of their equipment needs to small construction contractors, subcontractors, and
+machine operators whose equipment needs are job-based and not easily measured in
+advance. Our new and used equipment sales customers are generally large
+construction contractors who regularly purchase wholesale goods and annually
+budget for fleet maintenance purchases.
+
+ 7
+
+We do not currently provide our own purchase financing to customers. We
+rent equipment, sell parts, and provide repair services on account to customers
+who are screened through a credit application process. Customers can finance
+purchases of large equipment with a variety of creditors, including
+manufacturers, banks, finance companies and other financial institutions.
+
+ Sales and Marketing
+
+ We maintain a strong sales and marketing orientation throughout our
+organization in order to increase our customer base and better understand and
+serve our customers. Managers at each of our branches are responsible for
+supervising and training all sales employees at that location and directing the
+salesforce by conducting regular sales meetings and participating in selling
+activities. Managers develop relationships with local customers and assist them
+in planning their equipment requirements. Managers are also responsible for
+managing the mix of equipment at their locations, keeping abreast of local
+construction activity and monitoring competitors in their respective markets.
+
+ To stay informed about their local markets, salespeople track new equipment
+sales and construction projects in the area through Equipment Data Reports, FW
+Dodge Reports and PEC Reports (Planning, Engineering and Construction), follow
+up on referrals and visit construction sites and potential equipment users who
+are new to the local area. Our salespeople also use targeted marketing
+strategies to address the specific needs of local customers.
+
+ Purchasing
+
+ We purchase equipment from vendors with reputations for product quality and
+reliability. Our Vice President of Asset Management and Procurement directs
+fleet purchasing, asset utilization and fleet maintenance for our rental fleet.
+We believe our size and the quantity of equipment we purchase enables us to
+purchase equipment directly from vendors pursuant to national purchasing
+agreements at lower prices and on more favorable terms than many smaller
+competitors. We seek to maintain close relationships with our vendors to ensure
+the timely delivery of new equipment. We believe that we have sufficient
+alternative sources of supply for the equipment we purchase in each of our
+principal product categories.
+
+ The following table summarizes our principal categories of equipment and
+specifies the Company's major suppliers of such equipment:
+
+Product Category Primary Vendors
+ 
+Air Compressors and Equipment.................Ingersoll-Rand, Sullivan and Sullair
+Earthmoving Equipment (such as Backhoes,
+ Loaders, Dozers, Excavators and Material
+ Handling Equipment).........................John Deere, Case, JCB, Kobelco, Volvo and Bobcat
+Compaction Equipment, Rollers
+ and Recyclers...............................Bomag, Wacker, MultiQuip and Rammax
+Pumps.........................................MultiQuip, Wacker and Thompson
+Generators....................................MultiQuip, Wacker and Yamaha
+Welders.......................................Miller and Lincoln
+Electric Tools................................Bosch, Dewalt and Milwaukee
+Light Towers..................................Specialty Lighting, Coleman and Ingersoll - Rand
+Forklifts.....................................Lull, Gradall, Toyota and Clark
+Trucking......................................International, Ford and GMC
+Aerial........................................JLG, Genie Industries, and Snorkel
+Concrete......................................Partner, Edco, Whiteman, Miller, MultiQuip, Wacker and
+ Stone
+Hydraulic Hammers.............................Kent and Tramac
+
+8
+
+Locations
+
+ Our locations typically include (i) offices for sales, administration and
+management; (ii) a customer showroom displaying equipment and parts; (iii) an
+equipment service area; and (iv) outdoor and indoor storage facilities for
+equipment. Each location offers a full range of rental equipment, with the mix
+designed to meet the anticipated needs of the customers in each location.
+
+ Each stand-alone rental equipment location is staffed by, on average,
+approximately 15 full-time employees, including a branch manager, a rental
+coordinator, service manager, sales representatives, an office administrator,
+mechanics and drivers. Additionalpart-time employees are also used to staff the
+rental equipment operations located at the same sites.
+
+ Competition
+
+ The equipment rental industry is highly fragmented and very competitive. We
+compete with independent third parties in all of the markets in which we
+operate. Most of our competitors in the rental business tend to operate in
+specific, limited geographic areas, although some larger competitors do compete
+on a national basis. We also compete with equipment manufacturers, which sell
+and rent equipment directly to customers. Some of our competitors have greater
+financial resources and name recognition than we have.
+
+ Environmental and Safety Regulation
+
+ Our facilities and operations are subject to certain federal, state and
+local laws and regulations relating to environmental protection and occupational
+health and safety, including those governing wastewater discharges, the
+treatment, storage and disposal of solid and hazardous wastes and materials, and
+the remediation of contamination associated with the release of hazardous
+substances. We believe that we are in material compliance with such requirements
+and do not currently anticipate any material capital expenditures for
+environmental compliance or remediation for the current or succeeding fiscal
+years. Certain of our present and former facilities have used substances and
+generated or disposed of wastes which are or may be considered hazardous, and we
+may incur liability in connection therewith. Moreover, there can be no assurance
+that environmental and safety requirements will not become more stringent or be
+interpreted and applied more stringently in the future. Such future changes or
+interpretations, or the identification of adverse environmental conditions
+currently unknown to us, could result in additional environmental compliance or
+remediation costs. Such compliance and remediation costs could be material to
+our financial condition or results of operations.
+
+ In particular, at our owned and leased facilities we store and dispense
+petroleum products from aboveground storage tanks and have in the past stored
+and dispensed petroleum products from underground storage tanks. We also use
+hazardous materials, including solvents, to clean and maintain equipment and
+generate and dispose of solid and hazardous wastes, including used motor oil,
+radiator fluid and solvents. In connection with such activities, we have
+incurred capital expenditures and other compliance costs which are expensed on a
+current basis and which, to date, have not been material to our financial
+condition. Based on currently available information, we believe that we will not
+be required to incur material capital expenditures or other compliance or
+remediation costs on environmental and safety matters in the foreseeable future.
+
+ 9
+
+Employees
+
+ As of February 25, 2000, we had approximately 1,260 employees. None of our
+employees are represented by a union or covered by a collective bargaining
+agreement. We believe our relations with our employees are good.
+
+ ITEM 2. PROPERTIES
+
+ We lease approximately 18,000 square feet for our corporate headquarters in
+an office building in Miami, Florida. We own the buildings and/or the land at 3
+of our locations. All other sites are leased, generally for terms of five years
+with renewal options. Owned and leased sites range from approximately 7,000 to
+25,000 square feet on lots ranging up to 22 acres, and include showrooms,
+equipment service areas and storage facilities. We do not consider any specific
+leased location to be material to our operations. We believe that equally
+suitable alternative locations are available in all areas where we currently do
+business.
+
+ ITEM 3. LEGAL PROCEEDINGS
+
+ On December 17, 1999, the Company completed the sale of Neff Machinery,
+Inc., a wholly-owned subsidiary. The Company received 90.5 million and recorded
+a gain on the sale of 3.8 million. The terms of the purchase and sale agreement
+(the "Agreement") provided for an adjustment to the purchase price based on the
+assets and liabilities of Neff Machinery, Inc. at the date of closing. In the
+opinion of the Company, it is due additional consideration of 8.8 million under
+the terms of the Agreement. The purchaser believes it is due 20.3 million under
+the terms of the Agreement.
+
+ Because of the uncertainty of the outcome of this dispute, the Company has
+not recorded any additional amounts that may be receivable or payable under the
+terms of the Agreement.
+
+ The Company and the members of its board of directors are defendants in at
+least six lawsuits filed in the Delaware Court of Chancery. Five of the suits
+were filed on February 29, 2000, and one was filed on March 1, 2000. The
+plaintiffs in the suits are Neff shareholders, and purport to bring the suits as
+class actions on behalf of all persons who own the common stock of the Company.
+The complaints allege, among other things, that the Company and the individual
+defendants acted improperly in responding to a buyout bid made by a member of
+management in February 2000. The plaintiffs seek, among other things, injunctive
+relief and damages. The Company has not yet responded to the complaints. The
+Board of Directors has established a Special Committee to evaluate the buyout
+offer and review the plaintiffs' claims in the lawsuits.
+
+ The Company is also a party to pending legal proceedings arising in the
+ordinary course of business. While the results of such proceedings cannot be
+predicted with certainty, we do not believe any of these matters are material to
+our financial condition or results of operations.
+
+ ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+ During the fourth quarter of 1999, no matter was submitted to a vote of the
+security holders of the Company.
+
+ 10
+
+PART II
+
+ ITEM 5. MARKET FOR THE REGISTRANT'S COMMON STOCK AND RELATED STOCKHOLDER
+ MATTERS
+
+ Price Range of Common Stock
+
+ On May 21, 1998, our Class A Common Stock (the "Common Stock") began
+trading on the New York Stock Exchange under the symbol "NFF". The following
+table sets forth the high and low closing sales prices of Common Stock as
+reported on the respective exchange for the periods indicated.
+
+High Low
+ Year ended December 31, 1999:
+ 
+ First Quarter........................... 8.00 5.56
+ Second Quarter.......................... 15.75 6.44
+ Third Quarter........................... 18.44 10.25
+ Fourth Quarter.......................... 12.75 6.25
+
+Year ended December 31, 1998:
+ 
+ First Quarter........................... NA NA
+ Second Quarter.......................... 13.00 9.88
+ Third Quarter........................... 14.19 7.75
+ Fourth Quarter.......................... 8.69 5.38
+
+As of March 28, 2000, the Company had 64 shareholders of record. The
+Company believes the number of beneficial owners is substantially greater than
+the number of record holders because a large portion of the Common Stock is held
+of record in broker "street names" for the benefit of individual investors.
+
+ Dividend Policy
+
+ We have not paid any cash dividends on our Common Stock during the two-year
+period ended December 31, 1999. We presently intend to retain all earnings for
+the development of our business and do not anticipate paying any cash dividends
+on our Common Stock in the foreseeable future. In addition, our revolving credit
+agreement precludes us from purchasing, redeeming or retiring any of our capital
+stock or from paying dividends. The payment of dividends is also limited by
+provisions of the indentures governing our senior subordinated notes issued in
+May and December 1998 and due 2008. The declaration and payment of any future
+cash dividends will depend on a number of factors including future earnings,
+capital requirements, the financial condition and prospects of the Company and
+any restrictions under credit agreements existing from time to time, as well as
+such other factors as the Board of Directors may deem relevant. There can be no
+assurances that we will pay any dividends in the future.
+
+ 11
+
+ITEM 6. SELECTED CONSOLIDATED FINANCIAL DATA
+
+ The following table sets forth selected consolidated financial data of the
+Company for each of the five years ended December 31, 1999. The data set forth
+below should be read in conjunction with "Management's Discussion and Analysis
+of Financial Condition and Results of Operations" and the Company's Consolidated
+Financial Statements and the Notes thereto included elsewhere in this Annual
+Report. Certain amounts in the prior years have been reclassified to conform
+with the current year presentation.
+
+Year Ended December 31,
+ -----------------------------------------------------
+ 1999 1998 1997 1996 1995
+ ------ ------ ------ ------ ------
+ 
+Statement of Operations (amounts in thousands, except per share data)
+
+Revenues
+ Rental revenue............................. 222,862 179,014 69,512 35,808 20,019
+ Equipment sales............................ 121,865 108,352 50,578 44,160 33,943
+ Parts and service.......................... 47,284 36,724 22,132 15,045 13,292
+ -------- -------- -------- -------- -------
+ Total revenues.......................... 392,011 324,090 142,222 95,013 67,254
+ -------- -------- -------- -------- -------
+Cost of revenues
+ Cost of equipment sold..................... 100,871 83,783 40,766 33,605 26,562
+ Depreciation of rental equipment (1)....... 55,159 56,336 24,231 19,853 11,747
+ Maintenance of rental equipment............ 66,763 49,858 18,752 8,092 3,469
+ Cost of parts and service.................. 30,166 23,690 13,741 8,143 7,504
+ -------- -------- -------- -------- -------
+ Total cost of revenues................. 252,959 213,667 97,490 69,693 49,282
+ -------- -------- -------- -------- -------
+
+Gross profit................................. 139,052 110,423 44,732 25,320 17,972
+ -------- -------- -------- -------- -------
+
+Selling, general and administrative expenses. 74,893 60,347 31,329 18,478 10,956
+Other depreciation and amortization.......... 10,731 8,833 2,806 1,432 916
+Write down of assets held for sale........... 1,444 - - - -
+Officer stock option compensation (2)........ - 3,198 4,400 - -
+ -------- -------- -------- -------- -------
+Income from operations....................... 51,984 38,045 6,197 5,410 6,100
+ -------- -------- -------- -------- -------
+Other expenses............................... 41,520 35,855 14,338 6,337 3,090
+ -------- -------- -------- -------- -------
+Income (loss) before income taxes, minority
+interest and extraordinary item.............. 10,464 2,190 (8,141) (927) 3,010
+(Provision for) benefit from income taxes (3) (3,877) 134 1,748 (461) (1,176)
+ -------- -------- -------- -------- -------
+Income (loss) before minority interest and
+ extraordinary item......................... 6,587 2,324 (6,393) (1,388) 1,834
+Minority interest............................ (1,733) (1,111) - - -
+ -------- -------- -------- -------- -------
+Income (loss) before extraordinary item...... 4,854 1,213 (6,393) (1,388) 1,834
+Extraordinary loss,net....................... - (2,675) (451) (809) -
+ -------- -------- -------- -------- -------
+Net income (loss)............................ 4,854 (1,462) (6,844) (2,197) 1,834
+ ======== ======== ======== ======== ========
+
+Basic earnings (loss) per common share :
+Income (loss) before extraordinary item....... 0.23 (0.23) (1.64) (0.56) 0.22
+Extraordinary loss, net....................... - (0.15) (0.05) (0.10) -
+ -------- -------- -------- -------- -------
+Net income (loss)............................. 0.23 (0.38) (1.69) (0.66) 0.22
+ ======== ======== ======== ======== =======
+Diluted earnings (loss) per common share :
+Income (loss) before extraordinary item....... 0.22 (0.23) (1.64) (0.56) 0.22
+Extraordinary loss, net....................... - (0.15) (0.05) (0.10) -
+ -------- -------- -------- -------- -------
+Net income (loss)............................. 0.22 (0.38) (1.69) (0.66) 0.22
+ ======== ======== ======== ======== =======
+Weighted average common shares outstanding :
+ Basic...................................... 21,165 17,213 8,465 8,465 8,465
+ ======== ======== ======== ======== =======
+ Diluted.................................... 21,887 17,213 8,465 8,465 8,465
+ ======== ======== ======== ======== =======
+ 
+ 12
+
+ITEM 6. SELECTED CONSOLIDATED FINANCIAL DATA - (continued)
+
+Year Ended December 31,
+ -----------------------
+ 1999 1998 1997 1996 1995
+ ----- ----- ----- ----- -----
+ 
+Balance Sheet Data (end of period): (amounts in thousands)
+
+Net book value of rental equipment............. 285,863 321,220 179,547 76,794 45,596
+Total assets................................... 471,706 572,369 279,654 109,118 68,816
+Total debt..................................... 335,852 406,993 226,203 58,250 48,345
+Redeemable preferred stock..................... - - 53,747 46,299 11,430
+Total stockholders' equity (deficit)........... 104,208 99,360 (24,735) (7,508) (1,931)
+
+Other Data:
+EBITDA(4)...................................... 117,874 103,214 33,234 26,695 18,763
+EBITDA margin(5)............................... 30.1 31.8 23.4 28.1 27.9 
+Rental equipment purchases..................... 221,671 199,198 143,515 86,886 52,795
+
+_____________________
+
+ 1) Depreciation of rental equipment for 1996, 1997 and 1999 reflects the
+Company's change in depreciation policy to recognize extended estimated service
+lives and increased residual values of its rental equipment. See the
+Consolidated Financial Statements and the Notes thereto included elsewhere in
+this Annual Report.
+ 2) Officer stock option compensation expense represents a noncash charge
+with respect to the change in estimated market value of the shares to be issued
+to the Chief Executive Officer under an option agreement.
+ 3) Prior to December 26, 1995, the Company operated as a Subchapter S
+corporation under the provisions of the Internal Revenue Code. Income (loss)
+before extraordinary items for 1995 is restated to reflect what the data would
+have been if the Company had Subchapter C status in this year.
+ 4) EBITDA represents income from operations plus depreciation and
+amortization. EBITDA is not intended to represent cash flow from operations and
+should not be considered as an alternative to operating or net income computed
+in accordance with GAAP, as an indicator of the Companys operating performance,
+as an alternative to cash flows from operating activities (as determined in
+accordance with GAAP) or as a measure of liquidity. The Company believes that
+EBITDA is a standard measure commonly reported and widely used by analysts and
+investors as a measure of profitability for companies with significant
+depreciation and amortization expense. However, not all companies calculate
+EBITDA using the same methods; therefore, the EBITDA figures set forth above may
+not be comparable to EBITDA reported by other companies.
+ 5) EBITDA margin represents EBITDA as a percentage of total revenues.
+
+ 13
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+ RESULTS OF OPERATIONS
+
+ The following discussion and analysis compares the year ended December 31,
+1999 to the year ended December 31, 1998 and the year ended December 31, 1998 to
+the year ended December 31, 1997. Consolidated results of operations should be
+read in conjunction with the Company's Consolidated Financial Statements and the
+Notes thereto, appearing elsewhere in this Annual Report.
+
+ Overview
+
+ Since 1995, the Company has pursued an aggressive growth strategy,
+increasing its number of equipment rental and sales locations to 84, as of
+December 31, 1999. The Company has achieved this growth through the addition of
+53 equipment rental locations as a result of acquisitions, and the opening of 26
+start-up equipment rental locations primarily throughout the southeast and
+southwest regions of the United States. The Company intends to continue to
+pursue its aggressive growth strategy by (i) making additional acquisitions of
+equipment rental companies; (ii) increasing fleet at its existing equipment
+rental locations in both existing and new product lines; (iii) continuing to
+open new equipment rental locations.
+
+ Since March 1, 1995, the Company has opened 26 start-up rental equipment
+locations. Management believes the Company's recent financial performance does
+not fully reflect the benefit of these rental locations. Based on the Company's
+historical experience, a new equipment rental location tends to incur costs
+during the early period of operations without the benefit of the revenue stream
+of a mature location. New rental locations realize significant increases in
+revenues and cash flow during the first three years of operation, and generally
+become profitable in the third year of operation as more equipment is added to
+the rental fleet and as the location matures. Because there is relatively little
+incremental operating expense associated with such revenues, there is a greater
+proportionate increase in cash flow and profitability as a rental location
+matures. The Company believes the revenues, cash flow and profitability of the
+26 start-up locations opened since March 1, 1995 will increase significantly as
+these locations mature.
+
+ The Company primarily derives revenue from (i) the rental of equipment;
+(ii) sales of new and used equipment and (iii) sales of parts and service. The
+Company's primary source of revenue is the rental of equipment to construction
+and industrial customers. Growth in rental revenue is dependent upon several
+factors, including the demand for rental equipment, the amount of equipment
+available for rent, rental rates and the general economic environment. The level
+of new and used equipment sales is primarily a function of the supply and demand
+for such equipment, price and general economic conditions. The age, quality and
+mix of the Company's rental fleet also affect revenues from the sale of used
+equipment. Revenues derived from the sale of parts and service is generally
+correlated with sales of new equipment.
+
+ Costs of revenues include cost of equipment sold, depreciation and
+maintenance costs of rental equipment and cost of parts and service. Cost of
+equipment sold consists of the net book value of rental equipment at the time of
+sale and cost for new equipment sales. Depreciation of rental equipment
+represents the depreciation costs attributable to rental equipment. Maintenance
+of rental equipment represents the costs of servicing and maintaining rental
+equipment on an ongoing basis. Cost of parts and service represents costs
+attributable to the sale of parts directly to customers and service provided for
+the repair of customer owned equipment.
+
+ 14
+
+Depreciation of rental equipment is calculated on a straight-line basis
+over the estimated service life of the asset (generally two to eight years with
+a 20 residual value). Since January 1, 1996, the Company has, from time to
+time, made certain changes to its depreciation assumptions to recognize extended
+estimated service lives and increased residual values of its rental equipment.
+The Company believes that these changes in estimates will more appropriately
+reflect its financial results by better allocating the cost of its rental
+equipment over the service lives of these assets. In addition, the new lives and
+residual values more closely conform to those prevalent in the industry.
+
+ Selling, general and administrative expenses include sales and marketing
+expenses, payroll and related costs, professional fees, property and other taxes
+and other administrative overhead. Other depreciation and amortization
+represents the depreciation associated with property and equipment (other than
+rental equipment) and the amortization of goodwill and intangible assets.
+
+ Results of Operations
+
+ In view of the Company's growth, management believes that the
+period-to-period comparisons of its financial results are not necessarily
+meaningful and should not be relied upon as an indication of future performance.
+In addition, the Company's results of operations may fluctuate from period to
+period in the future as a result of the cyclical nature of the industry in which
+the Company operates.
+
+ The following table sets forth, for the periods indicated, information
+derived from the consolidated statements of operations of the Company expressed
+as a percentage of total revenues. There can be no assurance that the trends in
+the table below will continue in the future.
+
+Year Ended December 31,
+ -----------------------
+ 
+ Revenues : 1999 1998 1997
+ -------- -------- --------
+ Rental revenue.................................. 56.9 55.3 48.9 
+ Equipment sales................................. 31.1 33.4 35.6
+ Parts and service............................... 12.0 11.3 15.5
+ -------- -------- --------
+ Total revenues............................. 100 100 100 
+ -------- -------- --------
+ Cost of revenues:
+ Cost of equipment sold.......................... 25.7 25.8 28.6
+ Depreciation of rental equipment................ 14.1 17.4 17.0
+ Maintenance of rental equipment................. 17.0 15.4 13.2
+ Cost of parts and services...................... 7.7 7.3 9.7
+ -------- -------- --------
+ Total cost of revenues..................... 64.5 65.9 68.5
+ -------- -------- --------
+ Gross profit...................................... 35.5 34.1 31.5
+
+ Selling, general and administrative expenses 19.1 18.6 22.0
+ Other depreciation and amortization............ 2.7 2.7 2.0
+ Writedown of assets held for sale.............. 0.4 - -
+ Officer stock option compensation.............. - 1.1 3.1
+ -------- -------- --------
+ Income from operations........................... 13.3 11.7 4.4 
+ ======== ======== ========
+ EBITDA........................................... 30.1 31.8 23.4 
+ ======== ======== ========
+ 
+ 15
+
+1999 Compared to 1998
+
+ Revenues. Total revenues for 1999 increased 21.0 to 392.0 million from
+ 324.1 million in 1998. This growth in revenues is primarily attributable to
+revenues generated by acquisitions of approximately 38.8 million and an
+increase in revenues from the maturation of the 26 new rental locations opened
+since March 1995 of approximately 26.4 million.
+
+ Gross Profit. Gross profit for 1999 increased 26.0 to 139.1 million or
+35.5 of total revenues from 110.4 million or 34.1 of total revenues in 1998.
+This increase is primarily attributable to an increase in gross profit of
+approximately 13.1 million associated with the growth in revenues arising from
+acquisitions and approximately 12.9 million associated with the maturation of
+the 26 new rental locations opened since March 1995. The increase in gross
+profit as a percentage of revenue is primarily attributable to improved rental
+revenue margins.
+
+ Selling, General and Administrative Expenses. Selling, general and
+administrative expenses increased 24.2 to 74.9 million or 19.1 of total
+revenues from 60.3 million or 18.6 of total revenues in 1998. The increase in
+selling, general and administrative expenses is primarily attributable to
+increased regional and corporate personnel to support the continued revenue
+growth of the Company. The Company had 84 locations at December 31, 1999,
+compared to 86 at December 31, 1998.
+
+ Other Depreciation and Amortization. Other depreciation and amortization
+expense for 1999 increased 21.6 to 10.7 million or 2.7 of total revenues from
+ 8.8 million or 2.7 of total revenues in 1998. This increase is primarily
+attributable to amortization of goodwill resulting from acquisitions and to
+increased expenditures on computer equipment, management information systems and
+property and equipment needed to support the Company's expansion.
+
+ Officer Stock Option Compensation. Officer stock option expense was 0
+million for 1999 and 3.2 million for 1998. The expense in 1998 represented
+changes in estimated market value of the shares to be issued to a key employee
+under an option agreement.
+
+ Interest Expense. Interest expense for 1999 increased 22.0 to 39.9
+million from 32.7 million in 1998. This increase is primarily attributable to
+the Company's borrowings related to acquisitions and to additional borrowings
+related to the Company's continued investment in rental equipment.
+
+ Extraordinary Loss. During 1998, as a result of modifications to the
+Company's Credit Facility, the Company recorded extraordinary losses from the
+write-off of debt issue costs associated with the early extinguishment of debt
+of 2.7 million, net of related income taxes.
+
+ Earnings Before Interest, Taxes, Depreciation and Amortization. EBITDA is
+not presented as an alternative to operating results or cash flow from
+operations as determined by Generally Accepted Accounting Principles ("GAAP"),
+but rather to provide additional information related to the ability of the
+Company to meet its capital requirements and pursue its business strategy.
+EBITDA should not be considered in isolation from, or construed as having
+greater importance than, GAAP operating income or cash flows from operations as
+a measure of an entity's performance.
+
+ EBITDA for 1999 increased 14.2 to 117.9 million or 30.1 of total
+revenues from 103.2 million or 31.8 of total revenues in 1998. The increase in
+EBITDA is primarily attributable to the maturation of new rental locations and
+acquisitions as discussed above. In 1998, EBITDA included charges for officer
+stock option compensation of 3.2 million.
+
+ 16
+
+1998 Compared to 1997
+
+ Revenues. Total revenues for 1998 increased 127.9 to 324.1 million from
+ 142.2 million in 1997. This growth in revenues was primarily attributable to
+revenues generated by acquisitions of approximately 114.9 million and an
+increase in revenues from the maturation of the 26 new rental locations opened
+since March 1995 of approximately 47.4 million.
+
+ Gross Profit. Gross profit for 1998 increased 146.9 to 110.4 million or
+34.1 of total revenues from 44.7 million or 31.5 of total revenues in 1997.
+This increase was primarily attributable to an increase in gross profit of
+approximately 44.1 million associated with the growth in revenues arising from
+acquisitions and approximately 17.4 million associated with the maturation of
+the 26 new rental locations opened since March 1995. The increase in gross
+profit as a percentage of revenue was primarily attributable to improved rental
+revenue margins.
+
+ Selling, General and Administrative Expenses. Selling, general and
+administrative expenses increased 92.6 to 60.3 million or 18.6 of total
+revenues from 31.3 million or 22.0 of total revenues in 1997. The increase in
+selling, general and administrative expenses was primarily attributable to the
+increase in the number of locations operated by the Company and increased
+regional and corporate personnel to support the continued growth of the Company.
+The Company had 86 locations at December 31, 1998, compared to 53 at December
+31, 1997.
+
+ Other Depreciation and Amortization. Other depreciation and amortization
+expense for 1998 increased 214.8 to 8.8 million or 2.7 of total revenues from
+ 2.8 million or 2.0 of total revenues in 1997. This increase was primarily
+attributable to amortization of goodwill resulting from acquisitions and to
+increased expenditures on computer equipment, management information systems and
+property and equipment needed to support the Company's expansion.
+
+ Officer Stock Option Compensation. Officer stock option expense was 3.2
+million for 1998 and 4.4 million for 1997. The expense represented changes in
+estimated market value of the shares to be issued to a key employee under an
+option agreement.
+
+ Interest Expense. Interest expense for 1998 increased 172.9 to 32.7
+million from 12.0 million in 1997. This increase was primarily attributable to
+the Company's borrowings related to acquisitions and to additional borrowings
+related to the Company's continued investment in rental equipment.
+
+ Extraordinary Loss. During 1998, as a result of modifications to the
+Company's Credit Facility, the Company recorded extraordinary losses from the
+write-off of debt issue costs associated with the early extinguishment of debt
+of 2.7 million, net of related income taxes.
+
+ Earnings Before Interest, Taxes, Depreciation and Amortization. EBITDA is
+not presented as an alternative to operating results or cash flow from
+operations as determined by Generally Accepted Accounting Principles ("GAAP"),
+but rather to provide additional information related to the ability of the
+Company to meet its capital requirements and pursue its business strategy.
+
+ EBITDA should not be considered in isolation from, or construed as having
+greater importance than, GAAP operating income or cash flows from operations as
+a measure of an entity's performance.
+
+ EBITDA for 1998 increased 210.6 to 103.2 million or 31.8 of total
+revenues from 33.2 million or 23.4 of total revenues in 1997. The increase in
+EBITDA was primarily attributable to the maturation of new rental locations and
+acquisitions as discussed above. In 1998 and 1997, EBITDA included charges for
+officer stock option compensation of 3.2 million and 4.4 million,
+respectively.
+
+ 17
+
+Liquidity and Capital Resources
+
+ During 1998, the Company completed an initial public offering of its Class
+A Common Stock (the "Offering") and the sale of 200 million of Senior
+Subordinated Notes due 2008 (the "Senior Notes") to reduce the Company's
+indebtedness, extend its debt maturities to reflect the long-term nature of its
+assets and provide increased operational and financial flexibility to allow the
+Company to pursue its growth strategy.
+
+ Proceeds from the Offering and Senior Notes were used to repay a 100.0
+million term loan, redeem the Company's Series A Cumulative Preferred Stock,
+repay a mortgage related to properties the Company owns and reduce outstanding
+borrowings under the Company's revolving credit facility.
+
+ During 1999, the Company's operating activities provided net cash flow of
+ 43.5 million as compared to 42.7 million for 1998. This increase is primarily
+attributable to the growth in the Company's operations resulting from an
+increase in the number of rental locations operated by the Company.
+
+ Net cash provided by (used in) investing activities was 1.6 million for
+1999 as compared to (266.5) million in the same period for the prior year. The
+change in cash from investing activities was due to sales of subsidiaries and
+decreased acquisitions in 1999.
+
+ Net cash provided by (used in) financing activities was (46.0) million for
+1999 as compared to 225.3 million for 1998. The net cash used in financing
+activities was primarily attributable to net borrowings made under the Company's
+revolving credit facility.
+
+ As of December 31, 1999, the Company had approximately 82.3 million
+available under its revolving credit facility. Based upon current expectations,
+the Company believes that cash flow from operations, together with amounts,
+which may be borrowed under the revolving credit facility, will be adequate for
+it to meet its capital requirements and pursue its business strategy for the
+next 12 months.
+
+ Inflation and General Economic Conditions
+
+ Although the Company cannot accurately anticipate the effect of inflation
+on its operations, it does not believe that inflation has had, or is likely in
+the foreseeable future to have, a material impact on its results of operations.
+The Company's operating results may be adversely affected by events or
+conditions in a particular region, such as regional economic, weather and other
+factors.
+
+ In addition, the Company's operating results may be adversely affected by
+increases in interest rates that may lead to a decline in economic activity,
+while simultaneously resulting in higher interest payments by the Company under
+its variable rate credit facilities.
+
+ Although much of the Company's business is with customers in industries
+that are cyclical in nature, management believes that certain characteristics of
+the equipment rental industry and the Company's operating strategies should help
+to mitigate the effects of an economic downturn. These characteristics include
+(i) the flexibility and low cost offered to customers by renting, which may be a
+more attractive alternative to capital purchases; (ii) the Company's ability to
+redeploy equipment during regional recessions; and (iii) the diversity of the
+Company's industry and customer base.
+
+ Market Risk
+
+ The Company's financial instruments consist of cash, accounts receivable,
+and debt. Cash and accounts receivable are short term, non-interest bearing
+instruments and not subject to market risk.
+
+ For fixed rate debt instruments, interest rate changes affect their fair
+market value but do not impact earnings or cash flows. Conversely for variable
+rate debt instruments, interest rate changes generally do not affect the fair
+market value but do impact future earnings and cash flows.
+
+ At December 31, 1999, the Company had fixed rate debt of 198.7 million and
+variable rate debt of 137.2 million. Holding debt levels constant, a one
+percentage point increase in interest rates would decrease the fair market value
+of the fixed rate debt by approximately 10.7 million and decrease earnings and
+cash flows for variable rate debt by approximately 0.8 million.
+
+ 18
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTAL DATA
+
+ Index to Financial Statements and Schedules
+
+ Page Numbers
+ 
+Reports of Independent Certified Public Accountants ................ 20
+
+Consolidated Balance Sheets as of December 31, 1999 and 1998 ....... 22
+
+Consolidated Statements of Operations for the years ended
+ December 31, 1999, 1998 and 1997 ................................. 23
+
+Consolidated Statements of Stockholder's Equity (Deficit) for
+ the years ended December 31, 1999, 1998 and 1997 ................. 24
+
+Consolidated Statements of Cash Flows for the years ended
+ December 31, 1999, 1998 and 1997 ................................. 25
+
+Notes to Consolidated Financial Statements ........................ 26
+
+SCHEDULES:
+
+Report of Independent Certified Public Accountants ................ 42
+
+II-Valuation and Qualifying Accounts and Reserves ................. 43
+
+All other schedules are omitted because they are not applicable or the
+required information is shown in the financial statements or notes thereto.
+
+19
+
+REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+
+To the Board of Directors and Stockholders of
+Neff Corp.
+
+We have audited the accompanying consolidated balance sheets of Neff Corp.
+and subsidiaries (the "Company"), as of December 31, 1999 and 1998, and the
+related consolidated statements of operations, stockholders' equity (defecit)
+and cash flows for each of the three years in the period ended December 31,
+1999. These financial statements are the responsibility of the Company's
+management. Our responsibility is to express an opinion on these financial
+statements based on our audits. We did not audit the 1998 financial statements
+of Sullair Argentina Sociedad Anonima (a consolidated subsidiary), which
+statements reflect total assets of 71,960,577 at December 31, 1998, and total
+revenues and net income of 27,138,214 and 3,175,507, respectively, for the
+period from July 1, 1998 through December 31, 1998. Those statements were
+audited by other auditors whose report has been furnished to us, and our
+opinion, insofar as it relates to the amounts included by Sullair Argentina
+Sociedad Anonima, is based solely on the report of such other auditors.
+
+ We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits and the report of the other auditors provide a
+reasonable basis for our opinion.
+
+ In our opinion, based on our audits and, for 1998, the report of the other
+auditors, such consolidated financial statements present fairly, in all material
+respects, the financial position of Neff Corp. and subsidiaries at December 31,
+1999 and 1998 and the results of their operations and their cash flows for each
+of the three years in the period ended December 31, 1999 in conformity with
+generally accepted accounting principles.
+
+/s/ Deloitte & Touche
+
+Miami, Florida
+March 23, 2000
+
+ 20
+
+REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+
+To the Board of Directors of
+Sullair Argentina Sociedad Anonima
+
+ 1. We have audited the consolidated balance sheet of Sullair Argentina
+Sociedad Anonima and its subsidiary Sullair San Luis Sociedad Anonmia as of
+December 31, 1998, and the related consolidated statements of income and of
+changes in shareholders' equity and in financial position (cash flows) for the
+six month period ended December 31, 1998. These consolidated financial
+statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion of these consolidated financial
+statements based on our audits.
+
+ 2. We conducted our audit in accordance with auditing standards generally
+accepted in the United States of America. Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. An audit does not provide assurance that the
+Company's computerized systems or any other system, such as those from customers
+and suppliers, are or would be year 2000 compliant. We believe that our audits
+provide a reasonable basis for our opinion.
+
+ 3. Accounting principles generally accepted in Argentina require companies
+with controlling financial interest in the other companies to present both
+parent company, where investments in subsidiaries are accounted for by the
+equity method, and consolidated financial statements, as primary and
+supplementary information, respectively. Because of the special purpose of the
+financial statements, parent company financial statements are not included. This
+procedure has been adopted for the convenience of the reader of the financial
+statements.
+
+ 4. In our opinion, the consolidated financial statements audited by us
+present fairly, in all material respects, the financial position of Sullair
+Argentina Sociedad Anonima and its subsidiary Sullair San Luis Sociedad Anonima
+at December 31, 1998, and the results of their operations, the changes in their
+shareholders' equity and the changes in their financial position (cash flows)
+for the six-month period ended December 31, 1998, in conformity with accounting
+principles generally accepted in Argentina.
+
+ 5. Accounting principles generally accepted in Argentina vary in certain
+important respects from accounting principles generally accepted in the United
+States of America. The application of the latter would have affected the
+determination of consolidated net income for the mentioned periods, and the
+determination of consolidated shareholders' equity and financial position at
+December 31, 1998, to the extent summarized in Notes 10 and 11 to the
+consolidated financial statements of Sullair Argentina Sociedad Anonima.
+
+/s/Price Waterhouse & Co.
+
+Buenos Aires, Argentina
+February 16, 1999
+
+ 21
+
+NEFF CORP. AND SUBSIDIARIES
+ CONSOLIDATED BALANCE SHEETS
+ (in thousands, except per share data)
+
+ December 31,
+ 1999 1998
+ -------- --------
+ 
+ ASSETS
+Cash and cash equivalents..................................... 3,374 4,340
+Accounts receivable, net of allowance for doubtful accounts of
+ 2,904 in 1999 and 3,229 in 1998........................ 53,740 59,022
+Inventories................................................... 3,860 29,164
+Rental equipment, net......................................... 285,863 321,220
+Property and equipment, net................................... 25,638 45,114
+Goodwill, net................................................. 88,008 96,722
+Net deferred tax asset........................................ - 2,780
+Intangible assets, net........................................ 1,003 1,459
+Prepaid expenses and other assets............................. 10,220 12,548
+ -------- --------
+ Total assets....................................... 471,706 572,369
+ ======== ========
+ LIABILITIES AND STOCKHOLDERS' EQUITY
+Liabilities
+ Accounts payable........................................ 7,527 24,405
+ Accrued expenses........................................ 22,734 27,090
+ Credit facility......................................... 137,182 191,189
+ Senior subordinated notes............................... 198,670 198,522
+ Notes payable........................................... - 17,282
+ Capitalized lease obligations........................... 742 1,487
+ Net deferred tax liability.............................. 643 -
+ -------- --------
+ Total liabilities.................................. 367,498 459,975
+ -------- --------
+Commitments and Contingencies (Note 12).......................
+
+Minority interest............................................. - 13,034
+ -------- --------
+Stockholders' equity
+ Class A Common Stock; .01 par value; 100,000 shares
+ authorized; 16,065 shares issued and outstanding in
+ 1999 and 1998......................................... 161 161
+ Class B special Common Stock; .01 par value, liquidation
+ preference 11.67; 20,000 shares authorized; 5,100
+ shares issued and outstanding in 1999 and 1998........ 51 51
+ Additional paid-in capital.............................. 127,759 127,765
+ Accumulated deficit..................................... (23,763) (28,617)
+ -------- --------
+ Total stockholders' equity......................... 104,208 99,360
+ -------- --------
+ Total liabilities and stockholders' equity......... 471,706 572,369
+ ======== ========
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+22
+
+NEFF CORP. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF OPERATIONS
+ (in thousands, except per share data)
+
+ For the Years Ended December 31,
+ 1999 1998 1997
+ ---- ---- ----
+ 
+Revenues
+ Rental revenue..................................................... 222,862 179,014 69,512
+ Equipment sales.................................................... 121,865 108,352 50,578
+ Parts and service.................................................. 47,284 36,724 22,132
+ ------- ------- -------
+ Total revenues................................................ 392,011 324,090 142,222
+ ------- ------- -------
+Cost of revenues
+ Cost of equipment sold............................................. 100,871 83,783 40,766
+ Depreciation of rental equipment................................... 55,159 56,336 24,231
+ Maintenance of rental equipment.................................... 66,763 49,858 18,752
+ Cost of parts and service.......................................... 30,166 23,690 13,741
+ ------- ------- ------
+ Total cost of revenues........................................ 252,959 213,667 97,490
+ ------- ------- ------
+Gross profit.............................................................. 139,052 110,423 44,732
+ ------- ------- ------
+Other operating expenses
+ Selling, general and administrative expenses....................... 74,893 60,347 31,329
+ Other depreciation and amortization................................ 10,731 8,833 2,806
+ Writedown of assets held for sale.................................. 1,444 - -
+ Officer stock option compensation.................................. - 3,198 4,400
+ ------ ------ ------
+ Total other operating expenses................................ 87,068 72,378 38,535
+ ------ ------ ------
+Income from operations.................................................... 51,984 38,045 6,197
+ ------ ------ ------
+Other expense
+ Interest expense................................................... 39,901 32,677 11,976
+ Loss on sale of subsidiaries....................................... 422 - -
+ Amortization of debt issue costs................................... 1,197 3,178 2,362
+ ----- ------ ------
+ Total other expense........................................... 41,520 35,855 14,338
+ ------ ------ ------
+Income (loss) before income taxes, minority interest and
+ extraordinary item..................................................... 10,464 2,190 (8,141)
+(Provision for) benefit from income taxes................................. (3,877) 134 1,748
+ ------ --- -----
+Income (loss) before minority interest and extraordinary item............. 6,587 2,324 (6,393)
+Minority interest......................................................... (1,733) (1,111) -
+ ------ ------ ------
+Income (loss) before extraordinary item................................... 4,854 1,213 (6,393)
+
+Extraordinary loss, net of income taxes................................... - (2,675) (451)
+ ----- ------ ------
+Net income (loss)........................................................ 4,854 (1,462) (6,844)
+ ===== ====== ======
+Basic income (loss) per common share :
+Income (loss) before extraordinary item................................... 0.23 (0.23) (1.64)
+Extraordinary loss, net................................................... - (0.15) (0.05)
+ ----- ----- -----
+Net income (loss)......................................................... 0.23 (0.38) (1.69)
+ ===== ===== =====
+
+Basic weighted average common shares outstanding.......................... 21,165 17,213 8,465
+ ====== ====== =====
+
+Diluted income (loss) per common share :
+Income (loss) before extraordinary item................................... 0.22 (0.23) (1.64)
+Extraordinary loss, net................................................... - (0.15) (0.05)
+ ------ ------ -----
+Net income (loss)......................................................... 0.22 (0.38) (1.69)
+ ====== ====== =====
+Diluted weighted average common shares outstanding........................ 21,887 17,213 8,465
+ ====== ====== =====
+The accompanying notes are an integral part of these consolidated financial statements.
+
+23
+
+NEFF CORP. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF
+ STOCKHOLDERS' EQUITY (DEFICIT) FOR EACH OF THE
+ THREE YEARS IN THE PERIOD ENDED DECEMBER 31, 1999
+ (in thousands)
+
+ Additional
+ Common Stock A Common Stock B Paid-in Accumulated
+ -------------- --------------
+ Shares Amount Shares Amount Capital Deficit Total
+ ------ ------ ------ ------ ------- ------- ------
+ 
+Balance, December 31, 1996 ........................ 8,465 85 - - - (7,593) (7,508)
+Net loss .......................................... - - - - - (6,844) (6,844)
+Adjustment for acquired property
+ and equipment (Note 13), net of taxes .......... - - - - - (2,936) (2,936)
+Dividends in kind - Series A Preferred Stock ...... - - - - - (657) (657)
+Preferred stock dividends accrued -
+ Series B and C ................................. - - - - - (3,200) (3,200)
+Accretion of Series A, B and C Preferred Stock .... - - - - - (3,590) (3,590)
+ ------ ------ ------ ------ ------- ------
+Balance, December 31, 1997 ........................ 8,465 85 - - - (24,820) (24,735)
+Net loss .......................................... - - - - - (1,462) (1,462)
+Preferred stock dividends accrued -
+ Series A, B and C .............................. - - - - - (1,010) (1,010)
+Accretion of Series A, B and C Preferred Stock .... - - - - - (1,325) (1,325)
+Exchange of Preferred Stock Series B and C for Class
+ B Common Stock ................................ - - 6,000 60 44,876 - 44,936
+Conversion of Class B Common Stock
+ to Class A Common Stock ........................ 900 9 (900) (9) - - -
+Net proceeds from Common Stock Offering ........... 6,700 67 - - 85,663 - 85,730
+Redemption of Series A Preferred Stock ............ - - - - (2,768) - (2,768)
+Other ............................................. - - - - (6) - (6)
+ ------ ------ ------ ------ ------ ------ ------
+Balance, December 31, 1998 ........................ 16,065 161 5,100 51 127,765 (28,617) 99,360
+Net income ........................................ - - - - - 4,854 4,854
+Other ............................................. - - - - (6) - (6)
+ ------ ------ ------ ------ ------ ------ ------
+Balance, December 31, 1999 ........................ 16,065 161 5,100 51 127,759 (23,763) 104,208
+ ====== ====== ===== ====== ========= ========= =========
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+24
+
+NEFF CORP. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+ (in thousands)
+
+For the Years Ended December 31,
+ 1999 1998 1997
+ ---- ---- ----
+ 
+Cash Flows from Operating Activities
+Net income (loss).......................................................... 4,854 (1,462) (6,844)
+Adjustments to reconcile net income (loss) to net cash provided by
+ operating activities net of acquisitions.................................
+ Depreciation and amortization....................................... 67,087 68,347 29,399
+ Officer stock option compensation................................... - 3,198 4,400
+ Gain on sale of equipment........................................... (20,994) (24,569) (9,812)
+ Minority interest................................................... 1,733 1,111 -
+ Loss on sale of subsidiaries........................................ 422 - -
+ Extraordinary loss on debt extinguishment........................... - 4,280 722
+ Deferred income taxes............................................... 3,423 (510) (1,748)
+ Writedown of assets held for sale................................... 1,444 - -
+ Change in operating assets and liabilities (net of acquisitions
+ and sales)
+ Accounts receivable............................................ (18,739) (14,488) (8,341)
+ Other assets................................................... (5,288) (403) (2,957)
+ Accounts payable and accrued expenses.......................... 9,513 7,192 4,104
+ ------- ------- -------
+ Net cash provided by operating activities................. 43,455 42,696 8,923
+ ------- ------- -------
+
+Cash Flows from Investing Activities
+Purchases of equipment..................................................... (221,671) (199,198) (143,515)
+Proceeds from sale of equipment............................................ 121,865 108,352 50,578
+Proceeds from sale of subsidiaries......................................... 120,500 - -
+Purchases of property and equipment........................................ (2,803) (15,015) (16,747)
+S.A. Argentina Earn-out payment............................................ (5,518) - -
+Cash paid for acquisitions................................................. (10,750) (160,646) (63,605)
+ ------- ------- -------
+ Net cash provided by (used in) investing activities....... 1,623 (266,507) (173,289)
+ ------- ------- -------
+
+Cash Flows from Financing Activities
+Debt issue costs........................................................... (128) (12,277) (2,425)
+Net borrowings (repayments) under Senior Credit Facility................... (54,007) 29,364 103,576
+Proceeds from issuance of senior subordinated notes........................ - 198,516 -
+Proceeds from common stock offering........................................ - 85,730 -
+Borrowings (repayments) under mortgage note................................ - (13,400) 13,400
+Borrowings (repayments) under capitalized lease obligations................ (745) (833) 866
+Borrowings (repayments) under term loan.................................... - (49,916) 49,916
+Net borrowings (repayments) under notes payable............................ 8,836 1,997 (135)
+Redemption of Series A preferred stock..................................... - (13,915) -
+Distribution to stockholders............................................... - - (2,936)
+ ------- ------- -------
+ Net cash provided by (used in) financing activities....... (46,044) 225,266 162,262
+ ------- ------- -------
+Net increase (decrease) in cash and cash equivalents....................... (966) 1,455 (2,104)
+Cash and cash equivalents, beginning of year............................... 4,340 2,885 4,989
+ ------- ------- -------
+Cash and cash equivalents, end of year..................................... 3,374 4,340 2,885
+ ======= ======= =======
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+25
+
+NEFF CORP. AND SUBSIDIARIES
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+ NOTE 1-GENERAL
+
+ Description of Business
+
+ Neff Corp. and its subsidiaries (the "Company") own and operate equipment
+rental locations throughout the southern and western regions of the United
+States. The Company also sells used equipment, parts and merchandise and
+provides ongoing repair and maintenance services.
+
+ Principles of Consolidation
+
+ The accompanying consolidated financial statements include the accounts of
+Neff Corp. and its wholly-owned and majority-owned subsidiaries. The financial
+statements of Sullair Argentina Sociedad Anonima ("S.A. Argentina") included in
+the consolidated financial statements of the Company have been adjusted to
+reflect U.S. Generally Accepted Accounting Principles. Significant intercompany
+transactions and balances have been eliminated in consolidation.
+
+ Stock Split
+
+ In May 1998, the Company effected an 84.65 for 1.00 stock split. The
+accompanying consolidated financial statements reflect the stock split on a
+retroactive basis from the beginning of the periods presented.
+
+ Acquisitions
+
+ In August 1997, the Company purchased the common stock of Industrial
+Equipment Rentals, Inc. ("IER") for approximately 63.6 million. This purchase
+was funded by a 50 million term loan and borrowings under the Company's credit
+facility (see Note 5). IER had rental equipment operations similar to the
+Company's in Alabama, Louisiana, Mississippi and Texas. The transaction was
+accounted for under the purchase method. In connection with this purchase,
+goodwill of approximately 29.2 million was recorded.
+
+ In January 1998, the Company acquired substantially all of the assets of
+Richbourg's Sales and Rentals, Inc. ("Richbourg") for approximately 100
+million. Richbourg has rental equipment operations similar to the Company's with
+15 locations in three states. This transaction was accounted for under the
+purchase method. In connection with this purchase, goodwill of approximately
+ 40.8 million was recorded.
+
+ Also during 1998, the Company acquired the net assets or outstanding
+securities of seven equipment rental companies (collectively, "the Other 1998
+Acquisitions") in separate transactions for an aggregate purchase price of 25.4
+million. The acquisition of these businesses added 4 locations in Texas, 4 in
+Florida and 3 locations in California. These transactions were all accounted for
+under the purchase method of accounting. In connection with these purchases,
+goodwill of approximately 14.6 million was recorded. Revenues on an unaudited
+pro forma basis would have increased by 48.2 million and 132.3 million, during
+1998 and 1997, respectively, had the acquisitions of IER, Richbourg and the
+Other 1998 Acquisitions occurred on January 1, 1997.
+
+ 26
+
+The net loss and the net loss per share (diluted) would have been decreased
+by 1.8 million and by 0.10 during 1998, respectively. The net loss and the net
+loss per share (diluted) would have been increased by 1.4 million and by 0.16
+during 1997, respectively, had the acquisition of IER, Richbourg and the Other
+1998 Acquisitions occurred on January 1, 1997.
+
+ On June 30, 1998, the Company acquired 65 of the outstanding stock of S.A.
+Argentina, for approximately 36.1 million and earn-out payments equal to 82.8 
+of S.A. Argentina's net income for 1998 and 1999, with such earn-out payments
+not to exceed 12.6 million in the aggregate. The Company also had an option to
+purchase the remaining 35 of outstanding stock of S.A. Argentina. S.A.
+Argentina rents and sells industrial and construction equipment throughout South
+America. In connection with the purchase, goodwill of approximately 14.0
+million was recorded. Earn-out payments of 5.5 million were made in 1999 and
+recorded to goodwill. The Company's investment in S.A. Argentina was sold in
+November 1999.
+
+ In 1999, the Company acquired the net assets of three equipment rental
+companies for an aggregate purchase price of 10.8 million. The acquisitions of
+these businesses added 5 locations in Virginia, 2 in Colorado, 1 location in
+Oregon and 1 location in Washington. These transactions were accounted for under
+the purchase method of accounting and goodwill of approximately 8.0 million was
+recorded. The pro forma effect of the 1999 acquisitions on the results of
+operations are not presented as they are not considered material.
+
+Sales of Subsidiaries
+
+ On November 18, 1999, the Company completed the sale of Sullair Argentina
+S.A. The Company received 42.5 million, of which 12.5 million was a receivable
+that was received in February 2000. The Company recorded a loss on the sale of
+ 4.2 million.
+
+The following amounts are included in the consolidated financial statements
+of the Company for Sullair Argentina S.A. (in thousands):
+
+1999 1998 1997
+ ---- ---- ----
+ 
+Assets - 71,961 -
+ =========== =========== ===========
+Liabilities - 35,125 -
+ =========== =========== ===========
+Revenues 47,604 27,138 -
+ =========== =========== ===========
+Net Income 3,218 3,176 -
+ =========== =========== ===========
+
+On December 17, 1999, the Company completed the sale of Neff Machinery,
+Inc., a wholly-owned subsidiary. The Company received 90.5 million and recorded
+a gain on the sale of 3.8 million. The terms of the purchase and sale agreement
+(the "Agreement") provided for an adjustment to the purchase price based on the
+assets and liabilities of Neff Machinery Inc. at the date of closing. In the
+opinion of the Company, it is due additional consideration of 8.8 million under
+the terms of the Agreement. The purchaser believes it is due an additional 20.3
+million under the terms of the Agreement. Because of the uncertainty of the
+outcome of this dispute, the Company has not recorded any additional amounts
+that may be receivable or payable under the terms of the Agreement.
+
+ 27
+
+The following amounts are included in the consolidated financial statements
+of the Company for Neff Machinery, Inc. (in thousands):
+
+1999 1998 1997
+ ----------- ----------- -----------
+ 
+Assets....................... - 56,654 78,141
+ =========== =========== ===========
+Liabilities.................. - 28,090 54,410
+ =========== =========== ===========
+Revenues..................... 95,996 93,328 82,131
+ =========== =========== ===========
+Net Income................... 5,100 3,020 1,647
+ =========== =========== ===========
+
+The Company's earnings and cash flows reflect the operations of Sullair
+Argentina S.A. and Neff Machinery, Inc. through November 18, 1999 and December
+17, 1999, respectively.
+
+NOTE 2-SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+ Use of Estimates
+
+ The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities at the
+date of the financial statements and the reported amounts of revenues and
+expenses during the reporting period. Actual results could differ from those
+estimates.
+
+ Recognition of Revenue
+
+ Rental agreements are structured as operating leases and the related
+revenues are recognized over the rental period. Sales of equipment and parts are
+recognized at the time of shipment or, if out on lease, at the time a sales
+contract is finalized. Equipment may at times be delivered to customers for a
+trial period. Revenue on such sales is recognized at the time a sales contract
+is finalized. Service revenues are recognized at the time the services are
+rendered.
+
+ Cash Equivalents
+
+ The Company considers all highly liquid investments purchased with an
+original maturity of three months or less to be cash equivalents.
+
+ 28
+
+Inventories
+
+ Inventories, which consist principally of parts and new equipment held for
+sale, are stated at the lower of cost or market, with cost determined on the
+first-in, first-out basis for parts and specific identification basis for
+equipment. Substantially all inventory represents finished goods held for sale.
+
+ Rental Equipment
+
+ Rental equipment is stated at cost less accumulated depreciation.
+Depreciation is recorded using the straight-line method over the estimated
+useful life of the related equipment (generally two to eight years with an
+estimated 20 residual value). For certain equipment, depreciation is matched
+against the related rental income earned by computing depreciation on individual
+equipment at the rate of 50 , 80 and 80 for 1999, 1998 and 1997, respectively,
+of the rental income earned. Routine repairs and maintenance are expensed as
+incurred; improvements are capitalized at cost.
+
+ The Company routinely reviews the assumptions utilized in computing
+depreciation of its rental equipment. Changes to the assumptions (such as
+service lives and/or residual values) are made when, in the opinion of
+management, such changes more appropriately allocate asset costs to operations
+over the service life of the assets. Management utilizes, among other factors,
+historical experience and industry comparison in determining the propriety of
+any such changes.
+
+ During 1999 and 1997, the Company made certain changes to its depreciation
+assumptions to recognize extended estimated service lives and increased residual
+values of its rental equipment. The Company believes that these changes in
+estimates will more appropriately reflect its financial results by better
+allocating the cost of its rental equipment over the service life of these
+assets.
+
+ These changes in accounting estimates increased income or reduced (loss)
+before extraordinary item and increased net income or reduced (loss) by
+approximately 10.0 million, and 3.3 million or 0.46, and 0.39 per diluted
+common share for the years ended December 31, 1999 and 1997, respectively.
+
+ Rental fleet accumulated depreciation at December 31, 1999 and 1998 was
+approximately 74.1 million and 63.4 million, respectively.
+
+ Property and Equipment
+
+ Property and equipment is stated at cost less accumulated depreciation.
+Depreciation is recorded using accelerated and straight-line methods over the
+estimated useful lives of the related assets. Significant improvements are
+capitalized at cost. Repairs and maintenance are expensed as incurred.
+
+ The capitalized cost of equipment and vehicles under capital leases is
+amortized over the lesser of the lease term or the asset's estimated useful
+life, and is included in depreciation and amortization expense in the
+consolidated statements of operations.
+
+ 29
+
+Intangible Assets
+
+ Intangible assets primarily result from business combinations and include
+agreements not to compete and other identifiable intangible assets. These assets
+are amortized on a straight-line basis over their estimated useful life (five to
+15 years). Accumulated amortization at December 31, 1999 and 1998 was
+approximately 0.3 million and 2.9 million, respectively.
+
+ Goodwill arising from acquisitions is being amortized over 40 years using
+the straight-line method. Accumulated amortization at December 31, 1999 and 1998
+was approximately 3.7 million and 2.6 million, respectively.
+
+ Prepaid Expenses and Other Assets
+
+ Prepaid expenses and other assets primarily include debt issue costs,
+prepaid expenses and deposits. Debt issue costs are amortized over the term of
+the debt on a straight-line basis, which approximates the interest method.
+
+ Stock Options
+
+ In October 1995, the FASB issued Statement No. 123 ("SFAS 123"), Accounting
+for Stock-Based Compensation, which requires companies to either recognize
+expense for stock-based awards based on their fair value on the date of grant or
+provide footnote disclosures regarding the impact of such changes. The Company
+adopted the disclosure provisions of SFAS 123 on January 1, 1996, but will
+continue to account for options issued to employees or directors under the
+Company's stock option plans in accordance with Accounting Principles Board
+Opinion No. 25 ("APB 25"), Accounting for Stock Issued to Employees.
+
+ Reclassifications
+
+ Certain amounts for the prior years have been reclassified to conform with
+the current year presentation.
+
+ NOTE 3-ACCOUNTS RECEIVABLE
+
+ The majority of the Company's customers are engaged in the construction and
+industrial business throughout the southern and western regions of the United
+States.
+
+ The Company extends credit to its customers based upon an evaluation of the
+customer's financial condition and credit history. For sales of certain
+construction equipment, the Company's policy is to secure its accounts
+receivable by obtaining liens on the customer's projects and issuing notices
+thereof to the projects' owners and general contractors. All other receivables
+are generally unsecured.
+
+ 30
+
+NOTE 4-PROPERTY AND EQUIPMENT
+
+Property and equipment consists of the following (dollars in thousands):
+
+December 31, Estimated
+ -------------- Useful Lives
+ 1999 1998 (in Years)
+ ---- ---- ---------
+ 
+Land..................................................... - 8,343 -
+Buildings and improvements............................... 16,567 15,874 2-30
+Office equipment......................................... 7,344 7,083 2-7
+Service equipment and vehicles........................... 9,841 20,364 2-5
+Shop equipment........................................... 4,370 4,227 7
+Capitalized lease equipment.............................. 860 1,401 3-5
+ -------- -------- --------
+
+ 38,982 57,292
+
+Less accumulated depreciation (13,344) (12,178)
+ -------- --------
+
+ 25,638 45,114
+ ======== ========
+
+The Company has entered into lease arrangements for certain property and
+equipment, which are classified as capital leases. As of December 31, 1999,
+future minimum lease payments under capitalized lease obligations are as follows
+(in thousands):
+
+2000............................................... 495
+ 2001............................................... 271
+ 2002............................................... 32
+ Thereafter......................................... -
+ -----
+ Total future minimum lease payments................ 798
+
+ Less amounts representing interest (6.00 to 13.5 (56)
+ -----
+ Present value of net future minimum lease payments 742
+ =====
+ 
+ 31
+
+NOTE 5-NOTES PAYABLE AND DEBT
+
+Notes payable and debt consist of the following (in thousands):
+
+December 31
+
+ 1999 1998
+ ---- ----
+
+219.5 million revolving line of credit with interest ranging from the
+ Lender's Prime Rate plus 1.25 to LIBOR plus up to 2.25 . At December
+ 31, 1999, the Lender's Prime Rate was 8.5 and LIBOR Rate was 5.81 . 137,182 191,189
+
+ 10.25 Senior Subordinated Notes issued May 1998 due June 2008. 100,000 100,000
+
+10.25 Senior Subordinated Notes issued December 1998 due June 2008,
+ with an effective interest rate of 10.5 , net of unamortized discount
+ of 1,330 and 1,478, respectively. 98,670 98,522
+
+ S.A. Argentina unsecured loans from various banks with interest rates
+ of LIBOR plus 1.5 to 3.5 . - 16,541
+
+ Various notes payable assumed through acquisitions of IER with
+ interest rates ranging from 7 to 12 . - 741
+ --------- ---------
+ 335,852 406,993
+ ========= =========
+
+In May 1998, the Company amended and restated its 250 million revolving
+credit facility (as amended and restated, the "New Credit Facility"). In
+September 1998, the New Credit Facility was increased to 310 million.
+Subsequent to the sale of Sullair Argentina S.A. and Neff Machinery, Inc. during
+the fourth quarter of 1999 (see Note 1), the New Credit facility was decreased
+to 219.5 million. Borrowings under the New Credit Facility are based upon
+eligible accounts receivable, rental fleet and inventory amounts. The interest
+rates on balances outstanding under the New Credit Facility vary based upon the
+leverage ratio maintained by the Company. The New Credit Facility expires in
+April 2003 and the Company is charged a commitment fee on the aggregated daily
+unused balance of the New Credit Facility which varies between 0.2 and 0.5 
+based on the leverage ratio maintained by the Company. The New Credit Facility
+is secured by substantially all of the Company's assets and contains certain
+restrictive covenants which, among other things, require the Company to maintain
+certain financial coverage ratios and places certain restrictions on the payment
+of dividends.
+
+ In connection with the Richbourg acquisition (see Note 1), the Company
+executed a 100 million term loan (the "Richbourg Term Loan"). In May 1998, the
+Company completed the sale of 100 million of Senior Subordinated Notes due 2008
+(the "May Notes") as well as the initial public offering (see Note 6). The net
+proceeds of approximately 182.7 million from the sale of the May Notes and the
+initial public offering were used to repay the Richbourg Term Loan, redeem the
+Company's Series A Cumulative Redeemable Preferred Stock, repay the mortgage
+notes payable and reduce the amount outstanding under the New Credit Facility.
+
+ 32
+
+In December 1998, the Company completed the sale of 100 million Senior
+Subordinated Notes due 2008 (the "December Notes"). The net proceeds of
+approximately 95.2 million from the December Notes were used to reduce amounts
+outstanding under the New Credit Facility. The terms of the December Notes are
+substantially the same as the May Notes.
+
+ The May and December Notes are senior unsecured obligations of the Company
+and are redeemable at the option of the Company, in whole or in part, on or
+after June 1, 2003, at pre-established redemption prices together with accrued
+and unpaid interest to the redemption date.
+
+ During 1998 and 1997 the Company recorded extraordinary losses of
+approximately 2.7 million and 0.5 million, respectively net of related income
+taxes, from the write-off of debt issue costs associated with the early
+extinguishment of debt.
+
+ NOTE 6-REDEEMABLE PREFERRED STOCK AND STOCKHOLDERS' EQUITY
+
+ During December 1995, the Company issued 300,000 shares of Series A
+Cumulative Redeemable Preferred Stock ("Series A"), and a detachable stock
+purchase warrant (the "Redeemable Warrant") for 12.0 million 11.4 million net
+of certain related costs). Series A provided for the semiannual payment of
+preferential dividends at an annual rate of 8 (5 beginning January 1, 1997) of
+the liquidation value. The dividends were payable in cash or in additional
+shares.
+
+ The Redeemable Warrant granted the holder the right to acquire
+approximately 20 of the common stock of the Company at a purchase price of .01
+per share.
+
+ The Series A and the Redeemable Warrant were recorded at their pro rata
+estimated fair value in relation to the proceeds received on the date of
+issuance 8.0 million for the Series A and 3.4 million for the Redeemable
+Warrant, net of issue costs). Series A was accreted using the effective interest
+method based on its liquidation value at maturity of 12.0 million. The
+Redeemable Warrant was being accreted to its fair value on a prospective basis
+until the mandatory redemption date in December 2000. Through December 31, 1996,
+accretion to the Series A and the Redeemable Warrant amounted to approximately
+ 0.5 million and 1.9 million, respectively.
+
+ During December 1996, in connection with the execution of the Company's
+ 250 million revolving credit facility, the Company and GE Capital entered into
+certain agreements, including an agreement to exercise the Redeemable Warrant
+for approximately 20 of the Company's common stock. Simultaneously with this
+exercise, the Company and GE Capital agreed to exchange the shares of common
+stock for 800,000 shares of Series B Cumulative Convertible Redeemable Preferred
+Stock ("Series B").
+
+ The accreted balance of the Redeemable Warrant on the date these agreements
+were entered into was approximately 5.3 million, which represented the carrying
+value of Series B as of December 31, 1996.
+
+ 33
+
+In a separate transaction related to the credit facility, the Company
+issued 800,000 shares of Series C Cumulative Convertible Redeemable Preferred
+Stock ("Series C") to GE Capital in exchange for 32.0 million 31.5 million
+net of certain related costs). For the year ended December 31, 1997, accretion
+of Series C amounted to approximately 0.1 million. Similarly to Series A,
+Series B and Series C were accreted toward their ultimate total liquidation
+value of 64 million.
+
+ In March 1998, the holders of Series B and Series C exchanged their shares
+for Class B Common Stock, which has a liquidation preference of 11.67 per
+share.
+
+ In May 1998, the Company completed an initial public offering (the
+"Offering") of 6.7 million shares of Class A Common Stock at a price of 14 per
+share. The Company received net proceeds of approximately 85.7 million from the
+Offering.
+
+ NOTE 7-STOCK OPTION PLANS
+
+ In December 1995, the Company granted its chief executive officer options
+to purchase shares of Class A Common Stock representing 3 (on a fully diluted
+basis) of the issued and outstanding Common Stock of the Company for an
+aggregate purchase price of 1.6 million. Upon completion of the Offering in
+1998 (see Note 6) the number of shares granted under this agreement were fixed
+at 657,220 shares. No further options can be granted under this agreement. The
+Company estimated compensation expense at each reporting date based upon the
+estimated market value of shares to be issued until the number of shares was
+fixed. Compensation expense of 3.2 and 4.4 million was recognized in 1998 and
+1997, respectively. These options have been fully vested since December 1996.
+One-third of the options expire on December 1, 2005, one-third expire on
+December 31, 2005 and the remaining one-third expire on December 31, 2006.
+
+ In May 1996, the Company also granted to another key employee an option to
+purchase 84,650 shares of the Company's Class A Common Stock at an exercise
+price of approximately 0.5 million, determined based upon a multiple of the
+Company's adjusted earnings.
+
+ No compensation expense was recognized at the date of grant since the
+exercise price of these options approximated the estimated market value of the
+shares to be issued at the date of grant.
+
+ In 1998, the Company adopted an Incentive Stock Option plan ("1998 ISO
+Plan"). Under this plan, designated officers, employees, and consultants of the
+Company are eligible to receive awards in the form of options, stock
+appreciation rights, restricted stock grants, performance awards, and dividend
+equivalent rights. An aggregate of 1.0 million shares of Class A Common Stock
+are reserved for issuance under the 1998 ISO Plan.
+
+ In 1999, the Company adopted an Incentive Stock Option plan ("1999 ISO
+Plan"). Under this plan, designated officers, employees, and consultants of the
+Company are eligible to receive awards in the form of options, stock
+appreciation rights, restricted stock grants, performance awards, and dividend
+equivalent rights. An aggregate of 1.0 million shares of Class A Common Stock
+are reserved for issuance under the 1999 ISO Plan.
+
+ 34
+
+The exercise price of options granted under the 1998 and 1999 ISO Plans may
+not be less than 100 of the fair market value of the Company's Class A Common
+Stock on the date of grant. Generally, options vest over a period of three years
+and are not exercisable beyond 10 years from date of grant. There have been no
+stock appreciation rights, restricted stock grants, performance awards or
+dividend equivalent rights awarded under the 1998 and 1999 ISO Plans. No options
+were granted under the 1998 and 1999 ISO Plans during 1999.
+
+ The following table summarizes stock option activity under the ISO Plan,
+for the year ended December 31, 1998 (in thousands, except per share data):
+
+ISO Plan Options
+ ----------------
+ Shares Available Number of Weighted Average
+ For Options Shares Exercise Price/Share
+ ----------- ------ --------------------
+ 
+Balance at December 31, 1997......... - -
+Authorized........................... 1,000 -
+Granted.............................. (945) 945 9.39
+Forfeited............................ 6 (6) 14.00
+Expired.............................. - -
+ ------- -------
+Balance at December 31, 1998 and 1999 61 939 9.39
+ ======= =======
+
+Exercisable Options
+ -------------------
+ Number of Weighted Average Weighted Average Weighted Average
+ Options Exercise Price Per Remaining Life Number of Exercise Price
+ Outstanding Share (Years) Options Per Share
+ ----------- ----- ----- ------- ---------
+ 
+Range of Exercise Prices:
+
+ 6.00-7.88 553 6.18 10.0 - N/A
+
+ 9.75-14.00 386 13.97 9.4 200 14.00
+ -----
+
+ 939 9.39 9.7
+ =====
+
+The Company accounts for stock-based compensation in accordance with APB
+25. Under APB 25, compensation expense is measured as the excess of market value
+of the underlying stock on the date of grant over the exercise price of the
+options on the date of grant.
+
+ 35
+
+The following table sets forth pro forma information as if stock options
+had been accounted for under the fair value method (in thousands, except per
+share data):
+
+For the Year Ended
+ December 31,
+
+ 1998 1997
+ ---- ----
+ 
+Pro forma net income (loss) (in thousands) (1,397) (4,094)
+ ======= =======
+
+Pro forma loss per share
+ Basic (0.38) (1.36)
+ ======= =======
+
+ Diluted (0.38) (1.36)
+ ======= =======
+
+The weighted average fair value of options granted during 1998 as estimated
+on the date of grant using the Black-Scholes option pricing model was 5.47.
+
+ The following weighted average assumptions were used in applying this model
+for 1998: a risk free rate of 5.05 ; dividend yield of 0 ; volatility factor of
+ .636; and an expected life of the options of 5 years. There were no stock
+options granted in 1999 or 1997.
+
+ Effective January 1, 1997, the Company adopted a phantom stock plan (the
+"Phantom Plan"). The Phantom Plan is designed to reward employees for increases
+in the Company's performance. The Phantom Plan enables the Company to award
+employees individual units representing a hypothetical share of the Company's
+stock (the "Phantom Share"). Each Phantom Share is assigned a share value on the
+date granted as determined by the administrator of the Phantom Plan.
+
+ The cash award the employee is entitled to receive on the redemption date
+is the difference between the value assigned on the date of grant and the
+greater of the fair market value of the Company's Class A Common Stock or the
+calculated Phantom Plan share value. As of December 31, 1999, the Company had
+granted 0.2 million Phantom Shares with assigned per share values ranging from
+of 9 to 11.25, vesting over three to five years. Approximately 0.3 and 0.1
+million of compensation expense was recorded for the years ended December 31,
+1999 and 1998, respectively. No compensation expense was recorded for the year
+ended December 31, 1997.
+
+ NOTE 8-RETIREMENT PLAN
+
+ In February 1996, the Company adopted a qualified 401(k) profit sharing
+plan (the "401(k) Plan"). The 401(k) Plan covers substantially all employees of
+the Company. Participating employees may contribute to the 401(k) Plan through
+salary deductions. The Company may contribute, at its discretion, matching
+contributions equal to 50 of the employee's contribution not to exceed 3 of
+the employee's annual salary. The Company contributed approximately 0.8
+million, 0.6 million and 0.3 million to the 401(k) Plan for the years ended
+December 31, 1999, 1998 and 1997, respectively.
+
+ 36
+
+NOTE 9-INCOME TAXES
+
+ The components of the (provision for) benefit from income taxes is as
+follows (in thousands):
+
+For the Years Ended
+ December 31,
+
+ 1999 1998 1997
+ ---- ---- ----
+ 
+Current......................... (454) (376) -
+Deferred........................ (3,423) 510 1,748
+ -------- ------ -------
+Total........................... (3,877) 134 1,748
+ ======== ====== =======
+
+The following table summarizes the tax effects comprising the Company's net
+deferred tax assets and liabilities (in thousands):
+
+December 31,
+ 1999 1998
+ ---- ----
+ 
+Deferred Tax Assets 
+ Net operating loss carryforwards....................... 10,564 4,582
+ Alternative minimum tax credits........................ 1,039 874
+ Deferred stock option compensation..................... 2,849 2,849
+ Intangible assets, allowance for bad debts and other... 2,507 2,548
+ ------ -----
+ Total deferred tax assets.......................... 16,959 10,853
+ Valuation allowance.................................... - (900)
+Deferred Tax Liabilities
+ Depreciation........................................... (17,602) (7,173)
+ ------ ------
+Net Deferred Tax Asset (Liability).......................... (643) 2,780
+ ====== ======
+
+As of December 31, 1999 and 1998, the Company had net operating loss
+carryforwards for federal and state income tax purposes of approximately 29.5
+million and 15.0 million, respectively, expiring through 2019 (includes net
+operating loss carryforwards for federal and state income tax purposes of
+approximately 4.8 million and 4.4 million, respectively, acquired in
+connection with the acquisition of IER described in Note 1). IER's net operating
+loss carryforwards may only be utilized by Neff Rental, Inc. one of the
+Company's subsidiaries.
+
+ Current accounting standards require that deferred income taxes reflect the
+tax consequences on future years of differences between the tax bases of assets
+and liabilities and their bases for financial reporting purposes. In addition,
+future tax benefits, such as net operating loss ("NOL") carryforwards, are
+required to be recognized to the extent that realization of such benefits is
+more likely than not. A valuation allowance is established for those benefits
+that do not meet the more likely than not criteria. Even though the Company has
+incurred tax losses for the past three years, management believes that it is
+more likely than not that the Company will generate taxable income sufficient to
+realize the majority of the tax benefits associated with future deductible
+temporary differences and NOL carryforwards prior to their expiration.
+
+ 37
+
+This belief is based upon, among other factors, the fact that all of the
+Company's taxable temporary differences will reverse within the period that the
+deductible temporary differences will be realized, the availability of tax
+planning strategies, and projection of future taxable income.
+
+ The following table summarizes the differences between the statutory
+federal income tax rate and the Company's effective income tax rate (dollars in
+thousands):
+
+For the Years Ended December 31,
+ 1999 1998 1997
+ ---- ---- ----
+
+ Amount Amount Amount 
+ ------ - ------ - ------ -
+ 
+(Provision) benefit at statutory federal income tax rate.... (3,558) 34.0 (745) 34.0 2,768 (34.0)
+State income tax, net of federal income tax benefit......... (410) 3.9 - - 171 (2.1)
+Change in valuation allowance............................... 900 (8.6) 468 (21.4) (559) 6.9
+Non-deductible expenses..................................... (650) 6.2 (467) 21.3 (716) 8.8
+Foreign subsidiary.......................................... 888 (8.5) 831 (37.9) - -
+Other....................................................... (1,047) 10.0 47 (2.1) 84 (1.1)
+ ------ ---- -- ---- -- ----
+
+ (3,877) 37.0 134 (6.1) 1,748 (21.5)
+ ======= ==== ==== ==== ====== =====
+
+NOTE 10-EARNINGS PER SHARE
+
+ For the years ended December 31, 1999, 1998 and 1997, the treasury stock
+method was used to determine the dilutive effect of options and warrants on
+earnings per share data.
+
+ Net loss and weighted average number of shares outstanding used in the
+computations are summarized as follows (in thousands, except per share data):
+
+For the years ended December 31,
+ 1999 1998 1997
+ ---- ---- ----
+ 
+Net income (loss)..................................... 4,854 (1,462) (6,844)
+Deduct:
+ Preferred stock dividend.......................... - (1,010) (3,857)
+ Accretion of preferred stock...................... - (4,093) (3,590)
+ -------- -------- --------
+Net income (loss) basic and diluted................... 4,854 (6,565) (14,291)
+ ======== ======== ========
+Number of shares:
+ Weighted average common shares outstanding-basic.. 21,165 17,213 8,465
+ Employee stock options (1)........................ 722 - -
+ -------- -------- --------
+Weighted average common shares outstanding - diluted.. 21,887 17,213 8,465
+ ======== ======== ========
+Net income (loss) per common share-basic.............. 0.23 0.38 1.69
+ ======== ======== ========
+Net income (loss) per common share-diluted............ 0.22 0.38 1.69
+ ======== ======== ========
+
+(1) The incremental shares resulting from the assumed exercise of options
+for the year ended 1998 and 1997 would be antidilutive and are therefore,
+excluded from the computation of diluted earnings (loss) per share.
+
+ 38
+
+NOTE 11-FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+ The fair market value of financial instruments held by the Company at
+December 31, 1999 are based on a variety of factors and assumptions and may not
+necessarily be representative of the actual gains or losses that will be
+realized in the future and do not include expenses that could be incurred in an
+actual sale or settlement.
+
+ The fair value of the Company's credit facility is assumed to be equal to
+its carrying value, as the rates approximate market rates. At December 31, 1999
+and 1998 approximately 137.2 million and 191.2 million was outstanding under
+the credit facility, respectively.
+
+ The fair value of the Company's Senior Subordinated Notes was estimated by
+obtaining the quoted market price. The carrying amount of the Company's Senior
+Subordinated Notes was 198.7 million and 198.5 million, at December 31, 1999
+and 1998, respectively. The fair value of the Company's Senior Subordinated
+Notes as of the same dates was estimated to be 188.7 million and 195.0
+million, respectively.
+
+ NOTE 12-COMMITMENTS AND CONTINGENCIES
+
+ On December 17, 1999, the Company completed the sale of Neff Machinery,
+Inc., a wholly-owned subsidiary. The Company received 90.5 million and recorded
+a gain on the sale of 3.8 million. The terms of the Agreement provided for an
+adjustment to the purchase price based on the assets and liabilities of Neff
+Machinery, Inc. at the date of closing. In the opinion of the Company, it is due
+additional consideration of 8.8 million under the terms of the Agreement. The
+purchaser believes it is due 20.3 million under the terms of the Agreement.
+Because of the uncertainty of the outcome of this dispute, the Company has not
+recorded any additional amounts that may be receivable or payable under the
+terms of the Agreement.
+
+ The Company and the members of its board of directors are defendants in at
+least six lawsuits filed in the Delaware Court of Chancery. Five of the suits
+were filed on February 29, 2000, and one was filed on March 1, 2000. The
+plaintiffs in the suits are shareholders of the Company, and purport to bring
+the suits as class actions on behalf of all persons who own the common stock of
+the Company. The complaints allege, among other things, that the Company and the
+individual defendants acted improperly in responding to a buyout bid made by a
+member of management in February 2000. The plaintiffs seek, among other things,
+injunctive relief and damages. The Company has not yet responded to the
+complaints. The Board of Directors has established a Special Committee to
+evaluate the buyout offer and review the plaintiffs' claims in the lawsuits.
+
+ The Company is also a party to certain legal actions arising in the normal
+course of business. In the opinion of management, the ultimate outcome of such
+litigation is not expected to have a material effect on the financial position,
+results of operations or cash flows of the Company.
+
+ NOTE 13-RELATED PARTY TRANSACTIONS AND OTHER COMMITMENTS
+
+ In May 1997, the Company acquired certain land and buildings used in its
+Florida operations for approximately 13.9 million from Atlantic Real Estate
+Holdings Corp. ("Atlantic"), an affiliate of the Company through common
+ownership.
+
+ 39
+
+Prior to the acquisition of these assets, the Company leased these
+properties from Atlantic. The Company financed approximately 13.4 million of
+the purchase price with a mortgage note payable.
+
+ The remaining purchase price consisted of the forgiveness of approximately
+ 0.5 million in notes receivable from Atlantic. The assets were recorded at
+Atlantic's historical carrying value and approximately 2.9 million, net of
+income tax benefit of approximately 1.8 million, has been recorded as a
+distribution to stockholders in the accompanying statement of stockholders'
+equity (deficit).
+
+ During 1999, 1998 and 1997 revenues from affiliated companies amounted to
+approximately 4.6 million, 2.2 million, and 0.7 million, respectively.
+
+ Operating Leases
+
+ During 1999, 1998 and 1997 rental expense under operating lease
+arrangements amounted to approximately 7.3 million, 4.5 million, and 3.4
+million, respectively.
+
+ The Company leases real estate, rental equipment and other equipment under
+operating leases. Certain real estate leases require the Company to pay
+maintenance, insurance, taxes and certain other expenses in addition to the
+stated rental amounts. As of December 31, 1999, future minimum rental payments
+under operating lease arrangements are as follows for the years ending December
+31 (in thousands):
+
+2000........................ 9,708
+ 2001........................ 9,205
+ 2002........................ 9,019
+ 2003........................ 7,008
+ 2004........................ 4,242
+ Thereafter.................. 3,075
+ -------
+ 42,257
+ =======
+
+NOTE 14-SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION
+
+For the Years Ended
+ December 31,
+
+ 1999 1998 1997
+ ---- ---- ----
+ (in thousands)
+ 
+Supplemental Disclosure of Cash Flow Information 
+
+ Cash paid for interest............................ 41,353 30,696 10,367
+ ======== ======== ========
+ Cash paid for taxes............................... 1,584 786 711
+ ======== ======== ========
+
+Cash paid for Acquisitions (Note 1) :
+ Net assets acquired, net of cash................... 2,787 91,546 34,405
+ Goodwill.......................................... 7,963 69,100 29,200
+ --------- --------- ---------
+ Cash paid for acquisitions........................ 10,750 160,646 63,605
+ ========= ========= =========
+
+40
+
+NOTE 15 - SUMMARY OF QUARTERLY FINANCIAL INFORMATION (UNAUDITED)
+
+ A summary of the quarterly operating results during 1999 and 1998 is as
+follows (in thousands except per share data):
+
+1999
+ -------------------------------------------------
+ 1st 2nd 3rd 4th
+ ------- -------- -------- -------
+ 
+Revenues................................. 91,652 103,101 103,780 93,478
+Gross Profit............................. 30,562 38,291 36,823 33,376
+Net income (loss)........................ 707 4,219 336 (408)
+
+Earnings per share data - Basic:
+Net income (loss)........................ 0.03 0.20 0.02 (0.02)
+ ======== ======== ======== ========
+
+Earnings per share data - Diluted:
+Net income (loss)........................ 0.03 0.19 0.02 (0.02)
+ ======== ======== ======== ========
+
+1998
+ ---------------------------------------------------
+ 1st 2nd 3rd 4th
+ ------ ------ ------ ------
+ 
+Revenues................................ 61,846 73,800 89,905 98,539
+Gross Profit............................ 19,970 25,082 31,309 34,062
+Income (loss) before extraordinary item (1,946) (1,189) 1,671 2,677
+Extraordinary item...................... - (2,675) - -
+Net income (loss)....................... (1,946) (3,864) 1,671 2,677
+
+Earnings per share data - Basic:
+Income (loss) before extraordinary item (0.46) (0.24) 0.08 0.13
+Extraordinary item..................... - (0.15) - -
+ ------- ------- ------ -------
+Net income (loss)...................... (0.46) (0.39) 0.08 0.13
+ ======= ======= ====== =======
+Earnings per share data - Diluted:
+Income (loss) before extraordinary item (0.46) (0.24) 0.08 0.12
+Extraordinary item..................... - (0.15) - -
+ -------- -------- ------- --------
+Net income (loss)...................... (0.46) (0.39) 0.08 0.12
+ ======== ======== ======= ========
+
+Certain amounts have been reclassified for comparative purposes.
+
+NOTE 16-SEGMENT INFORMATION
+
+ The Company has historically operated three segments: Neff Rental, Inc.
+("Rental"), Neff Machinery, Inc.("Machinery") and S.A. Argentina. These segments
+were a result of the historical organization of the Company and the management
+of its subsidiaries. All of these segments rent and sell industrial and
+construction equipment, sell parts, merchandise and provide ongoing repair and
+maintenance service and have therefore been aggregated for disclosure purposes.
+Rental and Machinery's operations are conducted in the United States and S.A.
+Argentina's operations are conducted in South America. Machinery and S.A.
+Argentina were sold during the fourth quarter of 1999, (see Note 1).
+
+ 41
+
+REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+
+To the Board of Directors and Stockholders of Neff Corp.
+
+ We have audited the consolidated financial statements of Neff Corp. and
+Subsidiaries (the "Company") as of December 31, 1999 and 1998 and for each of
+the three years in the period ended December 31, 1999, and have issued our
+report thereon dated March 23, 2000; such financial statements and report are
+included elsewhere in your 1999 Annual Report to Stockholders on Form 10-K. Our
+audits also included the financial statement schedule of Neff Corp. listed in
+Item 14(a)2. The financial statement schedule is the responsibility of the
+Company's management. Our responsibility is to express an opinion based on our
+audits. In our opinion such financial statement schedule, when considered in
+relation to the basic financial statements taken as a whole, presents fairly in
+all material respects the information set forth therein.
+
+/s/ DELOITTE & TOUCHE LLP
+
+Miami, Florida
+March 23, 2000
+
+ 42
+
+SCHEDULE II
+
+ NEFF CORP.
+ VALUATION AND QUALIFYING ACCOUNTS
+ (in thousands)
+
+Balance Charged to Balance
+ at Beginning Costs and at End
+ of Period Expenses Other Deductions (1) of Period
+ 
+Classification
+Year ended December 31, 1999:
+Allowance for doubtful accounts............. 3,229 2,317 - (2,642) 2,904
+ ======= ======= ====== ========== ======
+Deferred tax valuation allowance............ 900 - - (900) -
+ ======= ======= ====== ========== ======
+Year ended December 31, 1998:
+Allowance for doubtful accounts............. 1,092 3,487 - (1,350) 3,229
+ ======= ======= ====== ========== ======
+Deferred tax valuation allowance............ 1,368 - - (468) 900
+ ======= ======= ====== ========== ======
+Year ended December 31, 1997:
+Allowance for doubtful account.............. 375 957 - (240) 1,092
+ ======= ======= ====== ========== ======
+Deferred tax valuation allowance............ 809 559 - - 1,368
+ ======= ======= ====== ========== ======
+
+1) Deductions represent bad debt write-offs and adjustments to reflect
+future tax benefits based on their realization being more likely than not, and
+sales of subsidiaries.
+
+ 43
+
+PART III
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+ FINANCIAL DISCLOSURE
+
+ None.
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+ The information required by this Item 10 will be contained in the
+ Company's definitive proxy materials to be filed with the Securities
+ and Exchange Commission and is incorporated in this Annual Report on
+ Form 10-K by this reference.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+ The information required by this Item 11 will be contained in the
+ Company's definitive proxy materials to be filed with the Securities
+ and Exchange Commission and is incorporated in this Annual Report on
+ Form 10-K by this reference.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICAL OWNERS AND MANAGEMENT
+
+ The information required by this Item 12 will be contained in the
+ Company's definitive proxy materials to be filed with the Securities
+ and Exchange Commission and is incorporated in this Annual Report on
+ Form 10-K by this reference.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+ The information required by this Item 13 will be contained in the
+ Company's definitive proxy materials to be filed with the Securities
+ and Exchange Commission and is incorporated in this Annual Report on
+ Form 10-K by this reference.
+
+ 44
+
+PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES
+
+ (a) The following documents are filed with, and as part of, this Annual
+ Report on Form 10-K.
+
+ 1. Financial Statements. For a complete list of the Financial Statements
+ filed with this Annual Report on Form 10-K, see the Index to
+ Financial Statements and Schedules in Item 8 on Page 19.
+
+ 2. Financial Statements Schedules.
+ The following Supplementary Schedules are filed with this Annual Report
+ on Form 10-K:
+
+ See Index to Financial Statements and Schedules on Page 19.
+
+ 3. Exhibits
+
+ Information with respect to this item is contained in Item 14(c) hereof
+ and is incorporated herein by reference.
+
+(b) Reports on Form 8-K
+
+ During the last quarter of the period covered by this Annual Report,
+ the following reports on Form 8-K were filed:
+
+ From 8-K Report filed on December 2, 1999, reporting the sale of
+ Sullair Argetina, S.A. under Item 5.
+
+ Form 8-K Report filed on December 29, 1999 and amended on December 30,
+ 1999 and March 2, 2000, reporting the sale of Neff Machinery, Inc.
+ under item 5 and filing pro forma unaudited consolidated financial
+ statements for Neff Corp. for the period ended September 30, 1999
+
+ (c) Exhibits
+
+ 4.1 First Amendment to Amended and Restated Stockholder's Agreement
+ between Jorge Mas, Juan Carlos Mas, Jose Ramon Mas, General Electric
+ Capital Corporation, GECFS, Inc., Santos Fund I.L.P., Santos Capital
+ Advisors, Inc., Kevin Fitzgerald and Neff Corporation.
+
+ 10.1 Agreement by and between Neff Corp. and Mark Irion, Chief
+ Financial Officer, Neff Corp.
+
+ 10.2 Waiver to Credit Agreement dated March 22, 2000 among Neff
+ Corp and Neff Rental, Inc. and Bankers Trust Company.
+
+ 27.1 Consolidated Financial Data Schedule
+
+ 45
+
+SIGNATURES
+
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+NEFF CORP.
+
+Date: March 29, 2000 /s/ Mark H. Irion
+ -----------------------
+ Mark H. Irion
+ Chief Financial Officer
+
+ Pursuant to the requirements of the Securities and Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+Signatures Title Date
+
+/s/ Kevin P. Fitzgerald
+- - ----------------------- President,
+Kevin P. Fitzgerald Chief Executive Officer, Director March 29, 2000
+
+/s/ Mark H. Irion Chief Financial Officer March 29, 2000
+- - -----------------------
+Mark H. Irion
+
+/s/ Jorge Mas Director March 29, 2000
+- - -----------------------
+Jorge Mas
+
+/s/ Arthur B. Laffer Director March 29, 2000
+- - -----------------------
+Arthur B. Laffer
+
+/s/ Joel-Tomas Citron Director March 29, 2000
+- - -----------------------
+Joel-Tomas Citron
+
+/s/ Juan Carlos Mas Director March 29, 2000
+- - -----------------------
+Juan Carlos Mas
+
+/s/ Jose Ramon Mas Director March 29, 2000
+- - -----------------------
+Jose Ramon Mas
+
+/s/ Michael Markbreiter Director March 29, 2000
+- - -----------------------
+Michael Markbreiter
+
+ 46
+
+EXHIBITS
+
+EXHIBIT 4.1
+
+FIRST AMENDMENT
+ TO
+ AMENDED AND RESTATED
+ STOCKHOLDERS' AGREEMENT
+
+FIRST AMENDMENT dated as of March 13, 2000 (this "Amendment") to the
+AMENDED AND RESTATED STOCKHOLDERS' AGREEMENT (the "Agreement") dated MARCH 25,
+1998 by and among JORGE MAS, JUAN CARLOS MAS, JOSE RAMON MAS, each of whom is an
+individual residing in Florida, GENERAL ELECTRIC CAPITAL CORPORATION, a New York
+corporation, GECFS, Inc., a Nevada corporation, SANTOS FUND I, L.P., a Texas
+limited partnership, SANTOS CAPITAL ADVISORS, INC., a Florida corporation, KEVIN
+P. FITZGERALD and NEFF CORP., a Delaware corporation.
+
+ All capitalized terms not defined herein but defined in the Agreement shall
+have the meanings given to such terms in the Agreement.
+
+ WITNESSETH:
+
+ WHEREAS, the parties hereto desire that certain provisions of the Agreement
+be amended as herein set forth.
+
+ NOW, THEREFORE, in consideration of the premises and for other good and
+valuable consideration, the receipt of which is hereby acknowledged, the parties
+hereto hereby agree as follows:
+
+ 1. Section 2(b)(i). Section 2(b)(i) of the Agreement is hereby amended by
+adding at the end thereof the following sentence:
+
+ Notwithstanding anything to the contrary contained in the Agreement, the
+Board may be expanded to seven directors to add Mr. Michael Markbreiter as a
+member of the Board, in the director class whose term will expire in 2002. Upon
+Mr. Markbreiter's resignation or removal, the size of the Board will revert to
+six directors.
+
+ 2. No Other Amendments. Except as expressly amended hereby, the provisions
+of the Agreement are and shall remain in full force and effect.
+
+ 3. Counterparts. This Amendment may be executed by the parties hereto in
+any number of separate counterparts, each of which shall be deemed to be an
+original and all of which taken together shall be deemed to constitute one and
+the same instrument.
+
+ 4. Headings. The headings of this Amendment are for reference only and
+shall not limit or otherwise affect the meaning hereof.
+
+ 1
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be
+duly executed and delivered as of the date first above written.
+
+ ________________________________
+ JORGE MAS
+
+ ________________________________
+ JUAN CARLOS MAS
+
+ ________________________________
+ JOSE RAMON MAS
+
+GENERAL ELECTRIC CAPITAL CORPORATION
+
+ By: __________________________
+ Name: __________________________
+ Title:__________________________
+
+ GECFS, INC.
+
+ By: __________________________
+ Name: __________________________
+ Title:__________________________
+
+ ________________________________
+ KEVIN P. FITZGERALD
+
+ SANTOS FUND I, L.P.
+ By: Santos Fund, Inc., its
+ general partner
+
+ By: __________________________
+ Name: __________________________
+ Title:__________________________
+
+ SANTOS CAPITAL ADVISORS, INC.
+
+ By: __________________________
+ Name: __________________________
+ Title:__________________________
+
+ NEFF CORP.
+
+ By: __________________________
+ Name: __________________________
+ Title:__________________________
+
+ 2
+
+EXHIBIT 10.1
+
+ EMPLOYMENT AGREEMENT
+
+THIS EMPLOYMENT AGREEMENT ("Agreement") is made and entered into as of the
+1st day of March, 2000, by and between Neff Corp., a Delaware Company (the
+"Company"), and Mark Irion, an individual (the "Executive") (hereinafter
+collectively referred to as the "Parties").
+
+ WHEREAS, the Executive and the Company have entered into a Severance
+Agreement, dated as of May 14, 1999 (the "Severance Agreement");
+
+ WHEREAS, the Company continues to desire to employ the Executive as Chief
+Financial Officer of the Company and the Executive continues to desire to serve
+the Company as its Chief Financial Officer;
+
+ WHEREAS, the Company and the Executive desire to terminate the Severance
+Agreement and set forth the terms of the Executive's continued employment with
+the Company herein:
+
+ NOW, THEREFORE, in consideration of the foregoing, the mutual promises
+contained herein and other good and valuable consideration, the receipt and
+sufficiency of which is hereby acknowledged, the Parties, intending to be
+legally bound, agree as follows:
+
+ 1. Term. Subject to the provisions for termination set forth in Section 8,
+the initial term of employment under this Agreement shall be for a period of
+three (3) years commencing on the date hereof and shall be automatically
+extended for additional one (1) year periods, unless one of the Parties shall
+give written notice to the other on or before the date which is six (6) months
+prior to the expiration of the current term of the Agreement of such Party's
+election not to so extend this Agreement.
+
+ 2. Employment. The Executive shall be employed as Chief Financial Officer
+of the Company or in such other senior executive capacity as may be mutually
+agreed to in writing by the Parties. The Executive shall perform the duties,
+undertake the responsibilities and exercise the authority customarily performed,
+undertaken and exercised by persons situated in a similar executive capacity.
+The Executive shall report to the Chief Executive Officer of the Company.
+
+ 3. Base Salary and Bonus. The Company agrees to pay or cause to be paid to
+the Executive during the term of this Agreement a base salary at the rate of
+ 160,000 per annum, which rate shall be reviewed at least annually by the Board
+of Directors of the Company (the "Board") and may be changed in the Board's
+discretion (hereinafter referred to as the "Base Salary"). Such Base Salary
+shall be payable in accordance with the Company's customary practices applicable
+to its senior executives. In addition to the Base Salary, Executive shall be
+eligible annually for the term of his employment under this Agreement to receive
+a cash bonus in the discretion of the Board.
+
+ 1
+
+4. Employee Benefits. The Executive shall be entitled to participate in all
+employee benefit plans, practices and programs maintained by the Company and
+made available to employees generally including, without limitation all pension,
+retirement, profit sharing, savings, medical, hospitalization, disability,
+dental, life or travel accident insurance benefit plans. The Executive's
+participation in such plans, practices and programs shall be on the same basis
+and terms as are applicable to other similarly situated executives of the
+Company generally.
+
+ 5. Executive Benefits. The Executive shall be entitled to participate in
+all executive benefit or incentive compensation plans now maintained or
+hereafter established by the Company for the purpose of providing compensation
+and/or benefits to executives of the Company including, but not limited to, the
+Company's 401(k) Plan, the Company's 1998 Stock Incentive Plan, the Company's
+1999 Stock Incentive Plan and any supplemental retirement, salary continuation,
+stock option, deferred compensation, supplemental medical or life insurance or
+other bonus or incentive compensation plans. Unless otherwise provided herein,
+or in the terms of such executive benefit or incentive compensation plans, the
+Executive's participation in such plans shall be on the same basis and terms as
+other similarly situated executives of the Company, but in no event on a basis
+less favorable in terms of benefit levels or reward opportunities applicable to
+the Executive as in effect on the date hereof. No additional compensation
+provided under any of such plans shall be deemed to modify or otherwise affect
+the terms of this Agreement or any of the Executive's entitlements hereunder.
+
+ 6. Other Benefits.
+
+ (a) Fringe Benefits and Perquisites. The Executive shall be entitled to
+receive all fringe benefits and perquisites generally made available by the
+Company to similarly situated executives.
+
+ (b) Expenses. The Executive shall be entitled to receive prompt
+reimbursement of all expenses reasonably incurred by him in connection with the
+performance of his duties hereunder.
+
+ 7. Vacation and Sick Leave. At such reasonable times as the Board shall in
+its discretion permit, the Executive shall be entitled, without loss of pay, to
+absent himself voluntarily from the performance of his employment under this
+Agreement, in accordance with the following:
+
+ (a) The Executive shall be entitled to annual vacation in accordance with
+the policies as periodically established by the Board for similarly situated
+executives of the Company.
+
+ 2
+
+(b) In addition to the aforesaid paid vacations, the Executive shall be
+entitled, without loss of pay, to absent himself voluntarily from the
+performance of his employment for such additional periods of time and for such
+valid and legitimate reasons as the Board in its discretion may determine.
+Further, the Board shall be entitled to grant to the Executive a leave or leaves
+of absence with or without pay at such time or times and upon such terms and
+conditions as the Board in its discretion may determine.
+
+ (c) The Executive shall be entitled to sick leave (without loss of pay) in
+accordance with the Company's policies as in effect from time to time.
+
+ 8. Termination. The Executive's employment hereunder may be terminated
+under the following circumstances:
+
+ (a) Disability. The Company may terminate the Executive's employment after
+having established the Executive's Disability. For purposes of this Agreement,
+"Disability" means a physical or mental infirmity which impairs the Executive's
+ability to perform substantially his or her duties for a period of one hundred
+eighty (180) consecutive days. A determination of Disability shall be made by a
+physician satisfactory to both the Executive and the Company, which physician's
+determination as to Disability shall be made within 10 days of the request
+therefor and shall be binding on all parties; provided, however, that if the
+Executive and the Company do not agree on a physician, the Executive and the
+Company shall each select a physician and these two together shall select a
+third physician, which third physician's determination as to Disability shall be
+binding on all parties. The Executive shall be entitled to the compensation and
+benefits provided for under this Agreement for any period during the term of
+this Agreement and prior to the establishment of the Executive's Disability
+during which the Executive is unable to work due to a physical or mental
+infirmity. Notwithstanding anything contained in this Agreement to the contrary,
+until the Termination Date specified in a Notice of Termination (as each term is
+hereinafter defined) relating to the Executive's Disability, the Executive shall
+be entitled to return to his position with the Company as set forth in this
+Agreement in which event no Disability of the Executive will be deemed to have
+occurred.
+
+ (b) Cause. The Company may terminate the Executive's employment for
+"Cause." The Company shall be deemed to have terminated the Executive's
+employment for "Cause" in the event that the Executive's employment is
+terminated for any of the following reasons: (i) the commission of an act of
+fraud or intentional misrepresentation or an act of embezzlement,
+misappropriation or conversion of assets or opportunities of the Company; (ii)
+dishonesty or willful misconduct in the performance of duties; or (iii) willful
+violation of any law, rule or regulation in connection with the performance of
+duties (other than traffic violations or similar offenses); provided, that no
+act or failure to act shall be considered willful unless done or omitted to be
+done in bad faith and without reasonable belief that the action or omission was
+in the best interests of the Company. Notwithstanding anything contained in this
+Agreement to the contrary, no failure to perform by the Executive after Notice
+of Termination is given by the Company shall constitute Cause for purposes of
+this Agreement.
+
+ 3
+
+(c) (i) Good Reason. The Executive may terminate his employment for "Good
+Reason." For purposes of this Agreement, Good Reason shall mean the occurrence
+of any of the events or conditions described in this Section (c)(i):
+
+ (A) during the two (2) year period following a Change in Control (as
+defined):
+
+ (1) a change in the Executive's status, title, position or responsibilities
+(including reporting responsibilities) which, in the Executive's reasonable
+judgment, does not represent a promotion from his status, title, position or
+responsibilities as in effect immediately prior thereto; the assignment to the
+Executive of any duties or responsibilities which, in the Executive's reasonable
+judgment, are inconsistent with such status, title, position or
+responsibilities; or any removal of the Executive from or failure to reappoint
+or reelect him to any of such positions, except in connection with the
+termination of his employment for Disability, Cause, as a result of his death or
+by the Executive other than for Good Reason;
+
+ (2) a reduction in the Executive's Base Salary or any failure to pay the
+Executive any compensation or benefits to which he is entitled within five (5)
+days of the date due;
+
+ (3) a failure by the Company to increase the Executive's Base Salary at
+least annually at a percentage of Base Salary no less than the average
+percentage increases granted to the Executive during the three most recent full
+years ended prior to a Change in Control;
+
+ (4) the failure by the Company to (i) continue in effect (without reduction
+in benefit level and/or reward opportunities) any material compensation or
+benefit plan in which the Executive was participating at the time of the Change
+in Control, including, but not limited to, the Company's 401(k) Plan, the
+Company's 1998 Stock Incentive Plan, the Company's 1999 Stock Incentive Plan or
+(ii) provide the Executive with compensation and benefits at least equal (in
+terms of benefit levels and/or reward opportunities) to those provided for under
+each employee benefit plan, program and practice as in effect immediately prior
+to the Change in Control (or as in effect following the Change in Control, if
+greater).
+
+ 4
+
+(5) the insolvency or the filing (by any party, including the Company) of a
+petition for bankruptcy, of the Company;
+
+ (6) any material breach by the Company of any provision of this Agreement;
+
+ (7) any purported termination of the Executive's employment for Cause by
+the Company which does not comply with the terms of Section 8 of this Agreement;
+
+ or
+
+ (8) the failure of the Company to obtain an agreement, satisfactory to the
+Executive, from any successor or assign of the Company to assume and agree to
+perform this Agreement, as contemplated in Section 13 hereof;
+
+ (9) the Company requires the Executive to be based at any office located
+more than fifty (50) miles from the office where the Executive is currently
+based without the Executive's consent;
+
+ (B) the nature of Executive's duties or the scope of Executive's
+responsibilities (including reporting responsibilities) is materially modified
+by the Company without Executive's written consent where such material
+modification constitutes a demotion of Executive or a substantial reduction in
+Executive's responsibilities;
+
+ (C) a reduction in the Executive's Base Salary;
+
+ (D) any material breach by the Company of any provision of this Agreement
+that has not been cured within thirty (30) days following receipt by the Company
+of written notice thereof from the Executive specifically identifying such
+material breach;
+
+ or
+
+ (E) this Agreement is not assumed by any successor to the Company pursuant
+to Section 13 hereof in a situation other than a Change in Control.
+
+ (ii) The Executive's right to terminate his employment pursuant to this
+Section 8(c) shall not be affected by his incapacity due to physical or mental
+illness if such incapacity occurs after the event or condition giving rise to
+Executive's right to terminate his employment pursuant to this Section 8(c).
+
+ (d) Voluntary Termination. The Executive may voluntarily terminate his
+employment hereunder at any time.
+
+ 5
+
+(e) For purposes of this Agreement, a "Change in Control" shall mean any of
+the following events:
+
+ (i) An acquisition (other than directly from Neff Corp. (the (Company)) of
+any voting securities of the Company (the "Voting Securities") by any "Person"
+(as the term person is used for purposes of Section 13(d) or 14(d) of the
+Securities Exchange Act of 1934, as amended (the "Exchange Act")), immediately
+after which such Person has "Beneficial Ownership" (within the meaning of Rule
+13d-3 promulgated under the Exchange Act) of thirty percent (30 or more of the
+then outstanding Shares or the combined voting power of the Company's then
+outstanding Voting Securities; provided, however, that Beneficial Ownership by
+any of Jorge Mas, Juan Carlos Mas, Jose Ramon Mas, or aggregate Beneficial
+Ownership by General Electric Capital Corporation and any of its 100 Affiliates
+(as defined), of thirty percent (30 or more of the then outstanding Shares or
+the combined voting power of the Company's then outstanding Voting Securities
+shall not constitute a Change in Control; provided further, however, in
+determining whether a Change in Control has occurred, Shares or Voting
+Securities which are acquired in a "Non-Control Acquisition" (as hereinafter
+defined) shall not constitute an acquisition which would cause a Change in
+Control. A "Non-Control Acquisition" shall mean an acquisition by (A) an
+employee benefit plan (or a trust forming a part thereof) maintained by (1) the
+Company or (2) any corporation or other Person of which a majority of its voting
+power or its voting equity securities or equity interest is owned, directly or
+indirectly, by the Company (for purposes of this definition, a "Subsidiary"),
+(B) the Company or its Subsidiaries, or (C) any Person in connection with a
+"Non-Control Transaction" (as hereinafter defined);
+
+ (ii) The individuals who, as of the date of this Agreement are members of
+the Board (the "Incumbent Board"), cease for any reason to constitute at least
+two-thirds of the members of the Board of Directors of the Company; provided,
+however, that if the election, or nomination for election by the Company's
+common stockholders, of any new director was approved by a vote of at least
+two-thirds of the Incumbent Board, such new director shall, for purposes of this
+Agreement, be considered as a member of the Incumbent Board; provided further,
+however, that no individual shall be considered a member of the Incumbent Board
+if such individual initially assumed office as a result of either an actual or
+threatened "Election Contest" (as described in Rule 14a-11 promulgated under the
+Exchange Act) or other actual or threatened solicitation of proxies or consents
+by or on behalf of a Person other than the Board (a "Proxy Contest") including
+by reason of any agreement intended to avoid or settle any Election Contest or
+Proxy Contest;
+
+ or
+
+ (iii) The consummation of:
+
+(A) A merger, consolidation or reorganization involving the Company, unless
+such merger, consolidation or reorganization is a "Non-Control Transaction." A
+"Non-Control Transaction" shall mean a merger, consolidation or reorganization
+of the Company where:
+
+ 6
+
+(1) the stockholders of the Company, immediately before such merger,
+consolidation or reorganization, own directly or indirectly immediately
+following such merger, consolidation or reorganization, at least fifty percent
+(50 of the combined voting power of the outstanding voting securities of the
+corporation resulting from such merger or consolidation or reorganization (the
+"Surviving Corporation") in substantially the same proportion as their ownership
+of the Voting Securities immediately before such merger, consolidation or
+reorganization,
+
+ (2) the individuals who were members of the Incumbent Board immediately
+prior to the execution of the agreement providing for such merger, consolidation
+or reorganization constitute at least two-thirds of the members of the board of
+directors of the Surviving Corporation, or a corporation beneficially directly
+or indirectly owning a majority of the Voting Securities of the Surviving
+Corporation, and
+
+ (3) no Person other than (i) the Company, (ii) any Subsidiary, (iii) any
+employee benefit plan (or any trust forming a part thereof) that, immediately
+prior to such merger, consolidation or reorganization, was maintained by the
+Company, or any Subsidiary, or (iv) any Person who, immediately prior to such
+merger, consolidation or reorganization had Beneficial Ownership of fifty
+percent (50 or more of the then outstanding Voting Securities or Shares, has
+Beneficial Ownership of fifty percent (50 or more of the combined voting power
+of the Surviving Corporation's then outstanding voting securities or its common
+stock.
+
+ (B) A complete liquidation or dissolution of the Company;
+
+ or
+
+ (C) The sale or other disposition of all or substantially all of the assets
+of the Company to any Person (other than a transfer to a Subsidiary).
+
+ 7
+
+Notwithstanding the foregoing, a Change in Control shall not be deemed to
+occur solely because any Person (the "Subject Person") acquired Beneficial
+Ownership of more than the permitted amount of the then outstanding Shares or
+Voting Securities as a result of the acquisition of Shares or Voting Securities
+by the Company which, by reducing the number of Shares or Voting Securities then
+outstanding, increases the proportional number of shares Beneficially Owned by
+the Subject Persons, provided that if a Change in Control would occur (but for
+the operation of this sentence) as a result of the acquisition of Shares or
+Voting Securities by the Company, and after such share acquisition by the
+Company, the Subject Person becomes the Beneficial Owner of any additional
+Shares or Voting Securities which increases the percentage of the then
+outstanding Shares or Voting Securities Beneficially Owned by the Subject
+Person, then a Change in Control shall occur.
+
+ If the Executive's employment is terminated by the Company without Cause
+prior to the date of a Change in Control but the Executive reasonably
+demonstrates that the termination (i) was at the request of a third party who
+has indicated an intention or taken steps reasonably calculated to effect a
+change in control or (ii) otherwise arose in connection with, or in anticipation
+of, a Change in Control which has been threatened or proposed, such termination
+shall be deemed to have occurred after a Change in Control for purposes of this
+Plan provided a Change in Control shall actually have occurred.
+
+ For the purposes of this Agreement, "100 Affiliate" means with respect to
+any Person, (i) each other Person that, directly or indirectly, owns or controls
+one hundred percent (100 of the stock having ordinary voting power in the
+election of directors of such Person, (ii) each other Person of which the stock
+having ordinary voting power in the election of its directors is owned or
+controlled one hundred percent (100 by such Person, or (iii) each other Person
+of which the stock having ordinary voting power in the election of its directors
+is owned or controlled one hundred percent (100 by any Person defined in
+clause (i) above or any of its 100 Affiliates.
+
+ (f) Notice of Termination. Any purported termination by the Company or by
+the Executive shall be communicated by written Notice of Termination to the
+other. For purposes of this Agreement, a "Notice of Termination" shall mean a
+notice which indicates the specific termination provision in this Agreement
+relied upon and shall set forth in reasonable detail the facts and circumstances
+claimed to provide a basis for termination of the Executive's employment under
+the provision so indicated. For purposes of this Agreement, no such purported
+termination of employment shall be effective without such Notice of Termination.
+
+ (g) Termination Date, Etc. "Termination Date" shall mean in the case of the
+Executive's death, his date of death, or in all other cases, the date specified
+in the Notice of Termination subject to the following:
+
+ 8
+
+(i) If the Executive's employment is terminated by the Company for Cause or
+due to Disability, the date specified in the Notice of Termination shall be at
+least thirty (30) days from the date the Notice of Termination is given to the
+Executive, provided that in the case of Disability the Executive shall not have
+returned to the full-time performance of his duties during such period of at
+least thirty (30) days; and
+
+ (ii) If the Executive's employment is terminated for Good Reason, the date
+specified in the Notice of Termination shall not be more than sixty (60) days
+from the date the Notice of Termination is given to the Company.
+
+ 9. Compensation Upon Termination. Upon termination of the Executive's
+employment during the term of this Agreement (including any extensions thereof),
+the Executive shall be entitled to the following benefits:
+
+ (a) If the Executive's employment is terminated by the Company for Cause or
+Disability or by the Executive (other than for Good Reason), or by reason of the
+Executive's death, the Company shall pay the Executive all amounts earned or
+accrued hereunder through the Termination Date but not paid as of the
+Termination Date, including (i) Base Salary, (ii) reimbursement for any and all
+monies advanced or expenses incurred in connection with the Executive's
+employment for reasonable and necessary expenses incurred by the Executive on
+behalf of the Company for the period ending on the Termination Date, (iii)
+vacation pay, (iv) any bonuses or incentive compensation and (v) any previous
+compensation which the Executive has previously deferred (including any interest
+earned or credited thereon) (collectively, "Accrued Compensation"). In addition
+to the foregoing, if the Executive's employment is terminated by the Company for
+Disability or by reason of the Executive's death, the Company shall pay to the
+Executive or his beneficiaries as severance pay each month for the eighteen (18)
+months immediately following the date of termination an amount in cash equal to
+the difference, if any, between (i) the sum of (y) the amount of payments
+Executive receives or will receive during that month pursuant to the disability
+insurance policies maintained by the Company for Executive's benefit and (z) the
+adjustment described in the next sentence and (ii) Executive's base monthly
+salary on the date of termination due to Disability. The adjustment referred to
+in clause (z) of the preceding sentence is the amount by which any tax-exempt
+payments referred to in clause (y) would need to be increased if such payments
+were subject to tax in order to make the after-tax proceeds of such payments
+equal to the actual amount of such tax-exempt payments. The Executive's
+entitlement to any other compensation or benefits shall be determined in
+accordance with the Company's employee benefit plans and other applicable
+programs and practices then in effect.
+
+ (b) If the Executive's employment by the Company shall be terminated (1) by
+the Company other than for Cause, death or Disability or (2) by the Executive
+for Good Reason, then the Executive shall be entitled to the benefits provided
+below:
+
+ 9
+
+(i) the Company shall pay the Executive all Accrued Compensation;
+
+ (ii) the Company shall pay the Executive as severance pay and in lieu of
+any further salary for periods subsequent to the Termination Date, in a single
+payment an amount in cash equal to one and one-half (1.5) times the sum of (A)
+the Executive's Base Salary at the highest rate in effect at any time within the
+ninety (90) day period ending on the date the Notice of Termination is given (or
+if the Executive's employment is terminated after a Change in Control, the
+Executive's Base Salary immediately prior to the Change in Control, if greater)
+and (B) the "Bonus Amount." The term "Bonus Amount" shall mean the greatest
+amount of the cash awards received by the Executive during any of the three
+fiscal years immediately preceding the Termination Date;
+
+ (iii) for a period of eighteen (18) months following such termination, the
+Company shall at its expense continue on behalf of the Executive and his
+dependents and beneficiaries the life insurance, disability, medical, dental and
+hospitalization benefits which were being provided to the Executive at the time
+Notice of Termination is given (or, if the Executive is terminated following a
+Change in Control, the benefits provided to the Executive at the time of the
+Change in Control, if greater). The benefits provided in this Section 9 (b)
+(iii) shall be no less favorable to the Executive, in terms of amounts and
+deductibles and costs to him, than the coverage provided the Executive under the
+plans providing such benefits at the time Notice of Termination is given (or, if
+the Executive is terminated following a Change in Control, at the time of the
+Change in Control if more favorable to the Executive). The Company's obligation
+hereunder with respect to the foregoing benefits shall be limited to the extent
+that the Executive obtains any such benefits pursuant to a subsequent employer's
+benefit plans, in which case the Company may reduce the coverage of any benefits
+it is required to provide the Executive hereunder as long as the aggregate
+coverage of the combined benefit plans is no less favorable to the Executive, in
+terms of amounts and deductibles and costs to him, than the coverage required to
+be provided hereunder. This Subsection (iii) shall not be interpreted so as to
+limit any benefits to which the Executive or his dependents may be entitled
+under any of the Company's employee benefit plans, programs or practices
+following the Executive's termination of employment, including, without
+limitation, retiree medical and life insurance benefits; and
+
+ 10
+
+(iv) for a period of eighteen (18) months following such termination, the
+Company shall at its expense continue on behalf of the Executive the car
+allowance which was being provided to the Executive at the time Notice of
+Termination is given (or, if the Executive is terminated following a Change in
+Control, the car allowance provided to the Executive at the time of the Change
+of Control, if greater). The Company's obligation hereunder with respect to the
+car allowance shall terminate if the Executive receives a car allowance pursuant
+to a subsequent employer's benefit plans or practices.
+
+ (v) all restrictions on any outstanding award (including restricted stock
+and performance stock awards) granted to the Executive shall lapse and such
+awards shall become fully (100 vested immediately, assuming all performance
+targets and goals (if applicable) had been fully met by the Company and by the
+Executive, as applicable, for such year, and all stock options and stock
+appreciation rights granted to the Executive shall become fully (100 vested
+and shall become immediately exercisable.
+
+ (c) The amounts provided for in Sections 9(a) and 9(b)(i), (ii) and (iv)
+shall be paid within ten (10) days after the Executive's Termination Date.
+
+ (d) The Executive shall not be required to mitigate the amount of any
+payment, benefit or other Company obligation provided for in this Agreement by
+seeking other employment or otherwise and no such payment, benefit or other
+Company obligation shall be offset or reduced by the amount of any compensation
+or benefits provided to the Executive in any subsequent employment.
+
+ 10. Termination of Severance Agreement. Effective as of the date hereof,
+the Severance Agreement shall be terminated and shall be of no further force or
+effect.
+
+ 11. Unauthorized Disclosure. The Executive shall not make any Unauthorized
+Disclosure. For purposes of this Agreement, "Unauthorized Disclosure" shall mean
+disclosure by the Executive without the consent of the Board to any person,
+other than an employee of the Company or a person to whom disclosure is
+reasonably necessary or appropriate in connection with the performance by the
+Executive of his duties as an executive of the Company or as may be legally
+required, of any confidential information obtained by the Executive while in the
+employ of the Company (including, but not limited to, any confidential
+information with respect to any of the Company's customers or methods of
+distribution) the disclosure of which he knows or has reason to believe will be
+materially injurious to the Company; provided, however, that such term shall not
+include the use or disclosure by the Executive, without consent, of any
+information known generally to the public (other than as a result of disclosure
+by him in violation of this Section 11) or any information not otherwise
+considered confidential by a reasonable person engaged in the same business as
+that conducted by the Company.
+
+ 11
+
+12. Indemnification.
+
+ (a) General. The Company agrees that if the Executive is made a party or
+threatened to be made a party to any action, suit or proceeding, whether civil,
+criminal, administrative or investigative (a "Proceeding"), by reason of the
+fact that the Executive is or was a director or officer of the Company or any
+subsidiary thereof or is or was serving at the request of the Company or any
+subsidiary thereof as a director, officer, member, employee or agent of another
+corporation or a partnership, joint venture, trust or other enterprise,
+including, without limitation, service with respect to employee benefit plans,
+whether or not the basis of such Proceeding is alleged action in an official
+capacity as a director, officer, member, employee or agent while serving as a
+director, officer, member, employee or agent, the Executive shall be indemnified
+and held harmless by the Company to the fullest extent authorized by Florida
+law, as the same exists or may hereafter be amended, against all Expenses (as
+hereinafter defined) incurred or suffered by the Executive in connection
+therewith, and such indemnification shall continue as to the Executive even if
+the Executive has ceased to be an officer, director, or agent, or is no longer
+employed by the Company and shall inure to the benefit of his heirs, executors
+and administrators; provided, however, that the Executive shall not be so
+indemnified for any Proceeding which shall have been adjudicated to have arisen
+out of or been based upon his willful misconduct, bad faith, gross negligence or
+reckless disregard of duty or his failure to act in good faith in the reasonable
+belief that his action was in the best interests of the Company.
+
+ (b) Expenses. As used in this Agreement, the term "Expenses" shall include,
+without limitation, damages, losses, judgments, liabilities, fines, penalties,
+excise taxes, settlements, and costs, attorneys' fees, accountants'
+investigations, and any expenses of establishing a right to indemnification
+under this Agreement.
+
+ (c) Enforcement. If a claim or request for indemnification under this
+Section 12 is not paid by the Company or on its behalf, within thirty (30) days
+after a written claim or request has been received by the Company, the Executive
+may at any time thereafter bring suit against the Company to recover the unpaid
+amount of the claim or request and if successful in whole or in part, the
+Executive shall be entitled to be paid also the expenses of prosecuting such
+suit. All obligations for indemnification hereunder shall be subject to, and
+paid in accordance with, applicable Florida law.
+
+ (d) Partial Indemnification. If the Executive is entitled under any
+provision of this Agreement to indemnification by the Company for some or a
+portion of any Expenses, but not, however, for the total amount thereof, the
+Company shall nevertheless indemnify the Executive for the portion of such
+Expenses to which Executive is entitled.
+
+ 12
+
+(e) Advances of Expenses. Expenses incurred by the Executive in connection
+with any Proceeding shall be paid by the Company in advance upon request of the
+Executive that the Company pay such Expenses and upon the Executive's delivery
+of an undertaking to reimburse the Company for Expenses with respect to which
+the Executive is not entitled to indemnification.
+
+ (f) Notice of Claim. The Executive shall give to the Company notice of any
+claim made against him for which indemnification will or could be sought under
+this Agreement, but the failure of the Executive to give such notice shall not
+relieve the Company of any liability the Company may have to the Executive
+except to the extent that the Company is prejudiced thereby. In addition, the
+Executive shall give the Company such information and cooperation as it may
+reasonably require and as shall be within the Executive's power and at such time
+and places as are convenient for the Executive.
+
+ (g) Defense of Claim. With respect to any Proceeding as to which the
+Executive notifies the Company of the commencement thereof;
+
+ (i) The Company will be entitled to participate therein at its own expense;
+and
+
+ (ii) Except as otherwise provided below, to the extent that it may wish,
+the Company will be entitled to assume the defense thereof, with counsel
+reasonably satisfactory to the Executive. The Executive also shall have the
+right to employ his own counsel in such action, suit or proceeding if he
+reasonably concludes that failure to do so would involve a conflict of interest
+between the Company and the Executive, and under such circumstances the fees and
+expenses of such counsel shall be at the expense of the Company.
+
+ (iii) The Company shall not be liable to indemnify the Executive under this
+Agreement for any amounts paid in settlement of any action or claim effected
+without its written consent. The Company shall not settle any action or claim in
+any manner which would not include a full and unconditional release of the
+Executive without the Executive's prior written consent. Neither the Company nor
+the Executive will unreasonably withhold or delay their consent to any proposed
+settlement.
+
+ (h) Non-exclusivity. The right to indemnification and the payment of
+Expenses incurred in defending a Proceeding in advance of its final disposition
+conferred in this Agreement shall not be exclusive of any other right which the
+Executive may have or hereafter may acquire under any statute, provision of the
+declaration of trust or certificate of incorporation or by-laws of the Company
+or any subsidiary, agreement, vote of shareholders or disinterested directors or
+otherwise.
+
+ 13
+
+13. Successors and Assigns.
+
+ (a) This Agreement shall be binding upon and shall inure to the benefit of
+the Company, its successors and assigns and the Company shall require any
+successor or assign to expressly assume and agree to perform this Agreement in
+the same manner and to the same extent that the Company would be required to
+perform it if no such succession or assignment had taken place. The term "the
+Company" as used herein shall include such successors and assigns. The term
+"successors and assigns" as used herein shall mean a corporation or other entity
+acquiring all or substantially all the assets and business of the Company
+(including this Agreement) whether by operation of law or otherwise.
+
+ (b) Neither this Agreement nor any right or interest hereunder shall be
+assignable or transferable by the Executive, his beneficiaries or legal
+representatives, except by will or by the laws of descent and distribution. This
+Agreement shall inure to the benefit of and be enforceable by the Executive's
+legal personal representative.
+
+ 14. Covenant Not to Compete
+
+ (a) The Executive agrees that during the term of this Agreement and for one
+(1) year subsequent to termination of Executive's employment with the Company
+for any reason (the "Non-Compete Term") the Executive shall not:
+
+ (i) Either directly or indirectly, for himself or on behalf of or in
+conjunction with any other person, persons, company, firm, partnership,
+corporation, business, group or other entity (each, a "Person"), engage in any
+business or activity, whether as an employee, consultant, partner, principal,
+agent, representative, stockholder or other individual, corporate, or
+representative capacity, or render any services or provide any advice or
+substantial assistance to any business, person or entity, if such business,
+person or entity, directly or indirectly will in any way compete with the
+Company (a "Competing Business"). Without limiting the generality of the
+foregoing, for purposes of this Section 14, it is understood that Competing
+Businesses shall include any business which rents or sells construction or
+industrial equipment or engages in the sale of maintenance, repair or operating
+supplies; provided, however, that notwithstanding the foregoing, the Executive
+may make passive investments in up to 2 of the outstanding publicly traded
+common stock of an entity which operates a Competing Business.
+
+ (ii) Either directly or indirectly, for himself or on behalf of or in
+conjunction with any other Person, solicit, hire or divert any Person who is, or
+who is, at the time of termination of the Executive's employment, or has been
+within six (6) months prior to the time of termination of Executive's
+employment, an employee of the Company or any of its subsidiaries for the
+purpose or with the intent of enticing such employee away from the employ of the
+Company or any of its subsidiaries.
+
+ 14
+
+(iii) Either directly or indirectly, for himself or on behalf of or in
+conjunction with any other Person, solicit, hire or divert any Person who is, or
+who is, at the time of termination of the Executive's employment, or has been
+within six (6) months prior to the time of termination of Executive's
+employment, a customer or supplier of the Company or any of its subsidiaries for
+the purpose or with the intent of (A) inducing or attempting to induce such
+Person to cease doing business with the Company or (B) in any way interfering
+with the relationship between such Person and the Company.
+
+ (b) Because of the difficulty of measuring economic losses to the Company
+as a result of a breach of the foregoing covenants, and because of the immediate
+and irreparable damage that could be caused to the Company for which it would
+have no other adequate remedy, the Executive agrees (i) that the foregoing
+covenants, in addition to and not in limitation of any other rights, remedies or
+damages available to the Company at law, in equity or under this Agreement, may
+be enforced by the Company in the event of the breach or threatened breach by
+the Executive, by injunctions and/or restraining orders and (ii) to pay the sum
+of one thousand dollars 1,000) per day for each day during which the Executive
+is in breach of such covenants as liquidated damages or, if greater, the amount
+of damages the Company can reasonably demonstrate it incurred as a result of
+such breach. The Company and Executive agree that the dollar amount in clause
+(ii) of the preceding sentence represents the product of their good faith
+negotiations. If the Company is involved in court or other legal proceedings to
+enforce the covenants contained in this Section 14, then in the event the
+Company prevails in such proceedings, the Executive shall be liable for the
+payment of reasonable attorneys' fees, costs and ancillary expenses incurred by
+the Company in enforcing its rights hereunder.
+
+ (c) The covenants in this Section 14 are severable and separate, and the
+unenforceability of any specific covenant shall not affect the provisions of any
+other covenant. Moreover, in the event any court of competent jurisdiction shall
+determine that the scope, time or territorial restrictions set forth herein are
+unreasonable, then it is the intention of the parties that such restrictions be
+enforced to the fullest extent that such court deems reasonable, and the
+Agreement shall thereby be reformed to reflect the same.
+
+ (d) All of the covenants in this Section 14 shall be construed as an
+agreement independent of any other provision in this Agreement, and the
+existence of any claim or cause of action of the Executive against the Company
+whether predicated on this Agreement or otherwise shall not constitute a defense
+to the enforcement by the Company of such covenants. It is specifically agreed
+that the period following the termination of the Executive's employment with the
+Company during which the agreements and covenants of the Executive made in this
+Section 14 shall be effective, shall be computed by excluding from such
+computation any time during which the Executive is in violation of any provision
+of this Section 14.
+
+ 15
+
+(e) Notwithstanding any of the foregoing, if any applicable law, judicial
+ruling or order shall reduce the time period during which the Executive shall be
+prohibited from engaging in any competitive activity described in Section 14
+hereof, the period of time for which the Executive shall be prohibited pursuant
+to Section 14 hereof shall be the maximum time permitted by law.
+
+ 15. Notice. For the purposes of this Agreement, notices and all other
+communications provided for in the Agreement (including the Notice of
+Termination) shall be in writing and shall be deemed to have been duly given
+when personally delivered or sent by certified mail, return receipt requested,
+postage prepaid, addressed to the respective addresses last given by each party
+to the other, provided that all notices to the Company shall be directed to the
+attention of the President. All notices and communications shall be deemed to
+have been received on the date of delivery thereof or on the third business day
+after the mailing thereof, except that notice of change of address shall be
+effective only upon receipt.
+
+ 16. Non-exclusivity of Rights. Nothing in this Agreement shall prevent or
+limit the Executive's continuing or future participation in any benefit, bonus,
+incentive or other plan or program provided by the Company or any of its
+subsidiaries and for which the Executive may qualify, nor shall anything herein
+limit or reduce such rights as the Executive may have under any other agreements
+with the Company or any of its subsidiaries. Amounts which are vested benefits
+or which the Executive is otherwise entitled to receive under any plan or
+program of the Company or any of its subsidiaries shall be payable in accordance
+with such plan or program, except as explicitly modified by this Agreement.
+
+ 17. Settlement of Claims. The Company's obligation to make the payments
+provided for in this Agreement and otherwise to perform its obligations
+hereunder shall not be affected by any circumstances, including, without
+limitation, any set-off, counterclaim, recoupment, defense or other right which
+the Company may have against the Executive or others.
+
+ 18. Survival. The agreements and obligations of the Company and the
+Executive made in Sections 9, 11, 12, 14, 15, 18 and 19 of this Agreement shall
+survive the expiration or termination of this Agreement.
+
+ 16
+
+19. Federal Income Tax Withholding. The Company may withhold from any
+benefits payable under this Agreement all federal, state, city or other taxes as
+shall be required pursuant to any law or governmental regulation or ruling.
+
+ 20. Pooling Transactions. Notwithstanding anything to the contrary, in the
+event of a Change in Control which is also intended to constitute a pooling
+transaction, the Company shall take such actions, if any, as specifically
+recommended by an independent accounting firm retained by the Company to the
+extent reasonably necessary in order to assure that the pooling transaction will
+qualify as such, including, without limitation, (i) deferring the vesting,
+exercise, payment, settlement or lapsing restrictions with respect to any
+payments of base salary, other payments or benefits, allowances, awards,
+reimbursements or perquisites that are provided for hereunder, (ii) providing
+that the payment or settlement be made in the form of cash, Voting Securities or
+securities of a successor or acquirer of the Company, or a combination of the
+foregoing, and (iii) providing for the extension of the term of any option to
+the extent necessary to accommodate the foregoing, but not beyond the maximum
+term of such option.
+
+ 21. Miscellaneous. No provision of this Agreement may be modified, waived
+or discharged unless such waiver, modification or discharge is agreed to in
+writing and signed by the Executive and the Company. No waiver by either party
+hereto at any time of any breach by the other party hereto of, or compliance
+with, any condition or provision of this Agreement to be performed by such other
+party shall be deemed a waiver of similar or dissimilar provisions or conditions
+at the same or at any prior or subsequent time. No agreement or representations,
+oral or otherwise, express or implied, with respect to the subject matter hereof
+have been made by either party which are not expressly set forth in this
+Agreement.
+
+ 22. Governing Law. This Agreement shall be governed by and construed and
+enforced in accordance with the laws of the State of Florida, without giving
+effect to the conflict of law principles thereof.
+
+ 23. Jurisdiction and Venue. Each of the parties to this Agreement hereby
+(a) consents to personal jurisdiction in any suit, claim, action or proceeding
+relating to or arising under this Agreement which is brought in any local or
+federal court in the State of Florida, (b) consents to service of process upon
+such party in the manner set forth in Section 15 hereof, and (c) waives any
+objection such party may have to venue in any such Florida court or to any claim
+that any such Florida court is an inconvenient forum.
+
+ 24. Severability. The provisions of this Agreement shall be deemed
+severable and the invalidity or unenforceability of any provision shall not
+affect the validity or enforceability of the other provisions hereof.
+
+ 25. Entire Agreement. This Agreement constitutes the entire agreement
+between the parties hereto and supersedes all prior agreements, if any,
+understandings and arrangements, oral or written, between the parties hereto
+with respect to the subject matter hereof.
+
+ 17
+
+IN WITNESS WHEREOF, the Company has caused this Agreement to be executed by
+its duly authorized officer and the Executive has executed this Agreement as of
+the day and year first above written.
+
+NEFF CORP.
+
+By:
+ Name:
+ Title:
+
+ 18
+
+EXHIBIT 10.2
+
+WAIVER
+
+WAIVER TO CREDIT AGREEMENT (this "Waiver"), dated as of March 22, 2000,
+among NEFF CORP. (the "Company"), NEFF RENTAL, INC. ("Neff Rental", and together
+with the Company, the "Borrowers", and each a "Borrower"), the lenders party to
+the Credit Agreement referred to below (the "Lenders"), and Bankers Trust
+Company, as Agent (the "Agent"). All capitalized terms used herein and not
+otherwise defined herein shall have the respective meanings provided such terms
+in the Credit Agreement.
+
+ W I T N E S S E T H :
+
+ WHEREAS, the Borrowers, the Lenders and the Agent are party to a Credit
+Agreement, dated as of May 1, 1998 (as amended, modified or supplemented to, but
+not including, the date hereof, the "Credit Agreement"); and
+
+ WHEREAS, subject to the terms and conditions of this Waiver, the parties
+hereto agree as follows;
+
+ NOW, THEREFORE, it is agreed:
+
+ 1. The Lenders hereby waive any Default or Event of Default which may have
+arisen under the Credit Agreement solely as a result of the Company failing to
+comply with Section 9.08 of the Credit Agreement for the Test Period ended on
+December 31, 1999, so long as the Consolidated Interest Coverage Ratio for such
+Test Period was at least 2.95:1.00.
+
+ 2. In order to induce the Lenders to enter into this Waiver, each Borrower
+hereby represents and warrants that (i) no Default or Event of Default exists as
+of the Waiver Effective Date (as defined below) and after giving effect to this
+Waiver, and (ii) on the Waiver Effective Date and after giving effect to this
+Waiver, all representations and warranties contained in the Credit Agreement and
+in the other Credit Documents are true and correct in all material respects.
+
+ 3. This Waiver shall become effective on the date (the "Waiver Effective
+Date") when (i) each Borrower and the Required Lenders shall have signed a
+counterpart hereof (whether the same or different counterparts) and shall have
+delivered (including by way of facsimile transmission) the same to the Agent at
+the Notice Office and (ii) the Company shall have paid to the Agent for the
+account of each Lender who has executed a counterpart hereof and delivered same
+to the Agent at the Notice Office on or prior to 12:00 Noon (New York time) on
+Wednesday, March 22, 2000, a waiver fee equal to 0.10 of such Lender's
+Revolving Loan Commitment at such time.
+
+ 1
+
+4. This Waiver is limited as specified and shall not constitute a
+modification, acceptance or waiver of any other provision of the Credit
+Agreement or any other Credit Document.
+
+ 5. This Waiver may be executed in any number of counterparts and by the
+different parties hereto on separate counterparts, each of which counterparts
+when executed and delivered shall be an original, but all of which shall
+together constitute one and the same instrument. A complete set of counterparts
+shall be lodged with each Borrower and the Agent.
+
+ 6. THIS WAIVER AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER
+SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAW OF THE STATE OF
+NEW YORK.
+ 
+ 2
+
+IN WITNESS WHEREOF, each of the parties hereto has caused a counterpart of
+this Waiver to be duly executed and delivered as of the date hereof.
+
+ NEFF CORP.
+
+By
+ Title:
+
+NEFF RENTAL, INC.
+
+By
+ Title:
+
+BANKERS TRUST COMPANY, Individually
+ and as Agent
+
+By
+ Title:
+
+DEUTSCHE FINANCIAL SERVICES
+
+By
+ Title:
+
+TRANSAMERICA BUSINESS CREDIT
+ CORPORATION
+
+ By
+ Title:
+
+3
+
+LASALLE BUSINESS CREDIT, INC.
+
+By
+ Title:
+
+CIT GROUP/BUSINESS CREDIT, INC.
+
+By
+ Title:
+
+IBJ SCHRODER BUSINESS CREDIT
+ CORPORATION
+
+By
+ Title:
+
+NATIONAL BANK OF CANADA
+
+By
+ Title:
+
+SUMMIT BANK
+
+By
+ Title:
+
+ 4
+
+FIRST UNION NATIONAL BANK
+
+By
+ Title:
+
+UNION BANK OF CALIFORNIA N.A.
+
+By
+ Title:
+
+BANK ATLANTIC
+
+By
+ Title:
+
+BNY FINANCIAL CORPORATION
+
+By
+ Title:
+
+BNY FINANCIAL CORPORATION
+
+By
+ Title:
+
+FLEET NATIONAL BANK
+
+By
+ Title:
+
+ 5
+
+BANK OF BOSTON, N.A.
+
+By
+ Title:
+
+GMAC COMMERCIAL CREDIT LLC
+
+By
+ Title:
+
+CREDIT LYONNAIS, NEW YORK BRANCH
+
+By
+ Title:
+
+FLEET CAPITAL CORPORATION
+
+By
+ Title:
+
+<EX-27.1>
+ 2
+ FDS --
+
+5
+ 0001057725
+ Neff Corp.
+
+12-MOS
+ DEC-31-1999
+ JAN-01-1999
+ DEC-31-1999
+ 3,374
+ 0
+ 56,644
+ 2,904
+ 3,860
+ 0
+ 398,954
+ 87,453
+ 471,706
+ 0
+ 336,594
+ 0
+ 0
+ 212
+ 103,996
+ 471,706
+ 392,011
+ 392,011
+ 100,871
+ 252,959
+ 0
+ 2,317
+ 39,901
+ 10,464
+ (3,877)
+ 4,854
+ 0
+ 0
+ 0
+ 4,854
+ 0.23
+ 0.22
+
+</EX-27.1>
+

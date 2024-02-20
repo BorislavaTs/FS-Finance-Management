@@ -1,0 +1,3781 @@
+<Header>
+<FileStats>
+    <FileName>20040910_10-K_edgar_data_842023_0000842023-04-000025.txt</FileName>
+    <GrossFileSize>200959</GrossFileSize>
+    <NetFileSize>165700</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>706</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000842023-04-000025.hdr.sgml : 20040910
+<ACCEPTANCE-DATETIME>20040910164730
+ACCESSION NUMBER:		0000842023-04-000025
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20040630
+FILED AS OF DATE:		20040910
+DATE AS OF CHANGE:		20040910
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TECHNE CORP /MN/
+		CENTRAL INDEX KEY:			0000842023
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				411427402
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-17272
+		FILM NUMBER:		041025978
+
+	BUSINESS ADDRESS:	
+		STREET 1:		614 MCKINLEY PL N E
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55413
+		BUSINESS PHONE:		6123798854
+
+	MAIL ADDRESS:	
+		STREET 1:		614 MCKINLEY PLACE NE
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55413
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KiUjuebXt0s7s+BVwQOI8/FqxAO5XbABNCF+eCZT8goZMYmaDfBlTszv6T0N5K0n
+ xXdmohQFzV9XNI+awPV5lg==
+
+ 0000842023-04-000025.txt : 20040910
+
+10-K
+ 1
+ k2004.txt
+ 10-K
+ 
+ SECURITIES AND EXCHANGE COMMISSION
+ Washington, DC 20549
+
+ FORM 10-K
+
+ (X) ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+ THE SECURITIES EXCHANGE ACT OF 1934
+ For the fiscal year ended June 30, 2004
+
+ OR
+
+ ) TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)
+ OF THE SECURITIES EXCHANGE ACT OF 1934
+ For the transition period from ________to __________
+
+ Commission File Number: 0-17272
+
+ TECHNE CORPORATION
+ (Exact name of Registrant as specified in its charter)
+
+ Minnesota 41-1427402
+ (State of Incorporation) (IRS Employer Identification No.)
+
+614 McKinley Place N.E., Minneapolis, MN 55413
+ Address of principal executive offices) (Zip Code)
+
+ Registrant's telephone number: (612) 379-8854
+
+ Securities registered pursuant to Section 12(b) of the Act:
+ None
+
+ Securities registered pursuant to Section 12(g) of the Act:
+ Common Stock, .01 par value.
+
+Indicate by check mark whether the Company (1) has filed all reports required
+to be filed by section 13 or 15(d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days: (X)
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to
+the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. 
+Indicate by check mark whether the Registrant is an accelerated filer (as
+defined in Exchange Act Rule 12b-2). (X)
+
+The aggregate market value of the Common Stock held by non-affiliates of the
+Registrant, based upon the closing sale price on September 10, 2004 as
+reported on The Nasdaq Stock Market was approximately 1,609,000,000. Shares
+of Common Stock held by each officer and director and by each person who owns
+5 or more of the outstanding Common Stock have been excluded.
+
+Shares of .01 par value Common Stock outstanding at September 10, 2004:
+41,168,982
+
+ DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the Company's Proxy Statement for its 2004 Annual Meeting of
+Shareholders are incorporated by reference into Part III.
+
+TABLE OF CONTENTS
+
+ Page
+ PART I
+
+ Item 1. Business 3
+
+ Item 2. Properties 14
+
+ Item 3. Legal Proceedings 14
+
+ Item 4. Submission of Matters to a Vote of Security Holders 15
+
+ Supplemental Item - Executive Officers of the Company 15
+
+PART II
+
+ Item 5. Market for the Company's Common Equity, Related 16
+ Stockholder Matters and Issuer Purchases of Equity
+ Securities
+
+ Item 6. Selected Financial Data 17
+
+ Item 7. Management's Discussion and Analysis of 18
+ Financial Condition and Results of Operations
+
+ Item 7A. Quantitative and Qualitative Disclosures about Market 27
+ Risk
+
+ Item 8. Financial Statements and Supplementary Data 27
+
+ Item 9. Changes in and Disagreements with Accountants 41
+ on Accounting and Financial Disclosure
+
+ Item 9A. Controls and Procedures 41
+
+PART III
+
+ Item 10. Directors and Executive Officers 42
+
+ Item 11. Executive Compensation 42
+
+ Item 12. Security Ownership of Certain Beneficial Owners and 42
+ Management And Related Stockholder Matters
+
+ Item 13. Certain Relationships and Related Transactions 43
+
+ Item 14. Principal Accountant Fees and Services 43
+
+PART IV
+
+ Item 15. Exhibits, Financial Statement Schedules, and Reports 43
+ on Form 8-K
+
+SIGNATURES 46
+
+ 2
+ 
+ PART I
+
+ITEM 1. BUSINESS
+
+OVERVIEW
+
+TECHNE Corporation (the Company) is a holding company which has two wholly-
+owned operating subsidiaries: Research and Diagnostic Systems, Inc. (R&D
+Systems) located in Minneapolis, Minnesota and R&D Systems Europe Ltd. (R&D
+Europe) located in Abingdon, England. R&D Systems is a specialty
+manufacturer of biological products. Its two major operating segments are
+hematology controls, which are used in hospital and clinical laboratories to
+check the performance of blood analysis instruments, and biotechnology
+products, including purified proteins (cytokines) and antibodies which are
+sold exclusively to the research market and assay kits which are sold to the
+research and clinical diagnostic markets. R&D Europe distributes R&D
+Systems' biotechnology products in Europe. R&D Europe has a German sales
+subsidiary, R&D Systems GmbH (R&D GmbH) and a sales office in France.
+
+R&D Systems was founded and incorporated in 1976 in Minneapolis, Minnesota
+and was acquired by the Company in 1985. In 1977, R&D Systems introduced its
+first product, a platelet-rich-plasma control. In 1981, R&D Systems was the
+second manufacturer in the world to release a whole blood control with
+platelets, thereby establishing itself as one of the leaders in the field of
+hematology control products manufacturing. Subsequently, R&D Systems has
+developed several types of hematology controls designed to keep pace with the
+technology of the newest models of hematology instruments. These products
+are sold throughout the United States directly by R&D Systems and in many
+foreign countries through distributors.
+
+In 1985, R&D Systems entered the research reagent market with its first
+cytokine, transforming growth factor-beta (TGF-beta). Cytokines are
+specialized protein molecules that stimulate or suppress various cellular
+functions in the body. Cytokines are in demand by biomedical researchers who
+want to learn more about their diverse effects. Encouraged by its early
+success in the cytokine market, R&D Systems formed a biotechnology division
+in fiscal 1986 with the goal of producing a wide range of cytokines through
+genetic engineering. Recombinant DNA technology offers several advantages
+over extraction of these proteins from natural sources, including lower
+production cost and potentially unlimited supply.
+
+In fiscal 1992, R&D Systems purchased Amgen Inc.'s research reagent and
+diagnostic assay kit business. With this purchase, R&D Systems obtained
+Amgen's Erythropoietin (EPO) kit, the Company's first enzyme-linked
+immunosorbent assay kit for a cytokine that had been cleared by the U.S. Food
+and Drug Administration (FDA) for clinical diagnostic use.
+
+In fiscal 1994, the Company acquired its European biotechnology distributor,
+British Bio-technology Products Ltd. (renamed R&D Systems Europe Ltd.) from
+British Bio-technology Group plc. R&D Europe distributes biotechnology
+products developed and manufactured by R&D Systems.
+
+Between fiscal 1998 and 2000 and in 2004, the Company made equity investments
+in the preferred stock of ChemoCentryx, Inc. (CCX), a technology and drug
+development company. The Company currently holds approximately 19.9 of the
+outstanding stock of CCX. In addition to the equity investment and joint
+research efforts, the Company obtained research and diagnostic market rights
+to all products discovered or developed by CCX.
+
+ 3
+
+In fiscal 1999, R&D Systems purchased Genzyme Corporation's research products
+business. This acquisition established R&D Systems as the world's leading
+supplier of research and diagnostic cytokine products. Included in
+consolidated cost of sales for fiscal 2003 and 2002 were 2.3 million and
+ 1.8 million, respectively, of royalties paid to Genzyme under the purchase
+agreement. The royalty agreement expired on June 30, 2003.
+
+In fiscal 2002, the Company made an equity investment of 3 million and
+entered into a research and license agreement with Discovery Genomics, Inc.
+(DGI) of Minneapolis, Minnesota. DGI holds licenses from the University of
+Minnesota to develop technologies used for functional genomics and the
+discovery of drugable targets. The Company currently holds a 38 equity
+interest in DGI and warrants to acquire additional equity. The Company also
+received the rights to develop antibodies and immunoassay kits for proteins
+discovered by DGI and an exclusive, royalty free license to sell such
+products in the research market. During the fourth quarter of fiscal 2004,
+the Company determined that its investment in DGI was other than temporarily
+impaired and wrote off the remaining net investment of 1.5 million.
+
+In January 2004, the Company purchased a 10 interest in Hemerus Medical, LLC
+(Hemerus) for 3 million. Hemerus was formed in March 2001 and has acquired
+and is developing technology for the separation of leukocytes from blood and
+blood components.
+
+THE MARKET
+
+The Company, through its two operating subsidiaries, manufactures and sells
+products for the clinical diagnostics market (hematology controls and
+calibrators) and the biotechnology research and clinical diagnostics market
+(cytokines, assays and related products). In fiscal 2004, 2003 and 2002, R&D
+Systems' Hematology Division revenues accounted for approximately 11 , 11 
+and 12 , respectively, of consolidated revenues. Revenues from R&D Systems'
+Biotechnology Division were 62 , 63 and 65 and revenues from R&D Europe
+were 27 , 26 and 23 of consolidated revenues for fiscal 2004, 2003 and
+2002, respectively.
+
+Biotechnology Products
+
+R&D Systems is the world's leading supplier of cytokines and cytokine-related
+reagents to the biotechnology research community. These valuable proteins
+exist in minute amounts in different types of cells and can be extracted from
+these cells or made through recombinant DNA technology. In 1985, R&D Systems
+introduced its first cytokine and continues to add to this product line. The
+first cytokines were extracted from natural sources (human and porcine
+platelets and bovine brain). Currently almost all of cytokines are produced
+by recombinant DNA technology.
+
+The growing interest by academic and commercial researchers in cytokines
+exists because of the profound effect a tiny amount of a cytokine can have on
+the cells and tissues of the body. Cytokines are intercellular messengers.
+They act as signals by interacting with specific receptors on the affected
+cells. They carry vital signals to the cell's genetic machinery that can
+trigger events that can lead to significant changes in a cell, tissue or
+organism. For example, cytokines can signal a cell to differentiate, i.e.,
+to acquire the features necessary for it to take on a more specialized task.
+Another example of cytokine action is the key role played in stimulating
+cells surrounding a wound to grow and divide, to attract migratory cells to
+the injury site and mediate the healing process.
+
+ 4
+
+In recent years, R&D Systems' Biotechnology Division has also added enzymes
+to its product portfolio. Enzymes are biological catalysts that accelerate
+a variety of chemical reactions in cells. Most enzymes, including proteases,
+kinases and phosphatases, are proteins that modify the structure and function
+of other proteins. Many enzymes are important markers and therapeutic
+targets for diseases such as cancer, Alzheimer's, arthritis, diabetes,
+hypertension, obesity, AIDS and SARS.
+
+The Biotechnology Division markets its cytokine assay kits under the
+tradename Quantikine(r). These kits are used by scientific researchers to
+quantify the level of a specific cytokine in a sample of serum, plasma or
+other biological fluid for basic research and for cytokine studies in
+pharmaceutical discovery and development programs.
+
+R&D Systems currently manufactures and sells over 6,800 biotechnology
+products.
+
+Current Biotechnology Products
+
+Cytokines and Enzymes. Cytokines, extracted from natural sources or produced
+using recombinant DNA technology, are manufactured to the highest purity.
+Enzymes and related factors including enzyme substrates and inhibitors are
+highly purified and characterized to ensure the highest biological activity.
+
+Antibodies. The Company's polyclonal antibodies are produced in animals
+(primarily goats). The animals' immune systems recognize an injected
+cytokine as foreign and develop antibodies to the cytokine. The polyclonal
+antibodies are then purified from the animals' blood. Monoclonal antibodies
+are produced by injecting purified cytokines into mice or by an in vitro
+(animal-free) process.
+
+Assay Kits. This product line includes R&D Systems' human and animal
+Quantikine kits which allow research scientists to quantify the amount of a
+specific cytokine in a sample of serum or other biological fluids. Also
+included in this product line are assay kits, developed by R&D Europe, to
+quantify adhesion molecules. These kits are used by research scientists to
+measure cellular adhesion molecules in serum, plasma, or cell culture media.
+Cellular adhesion molecules facilitate the movement of infection fighting
+cells out of the blood stream to the site of the infection or injury.
+
+Clinical Diagnostic Kits. The EPO kit, acquired from Amgen Inc. in fiscal
+1992, was the first diagnostic assay for which R&D Systems received FDA
+marketing clearance. R&D Systems also has received FDA marketing clearance
+for its transferrin receptor (TfR) and Beta2-microglobulin kits.
+
+Flow Cytometry Products. This product line includes R&D Systems' Fluorokine(r)
+kits, which are used to measure the presence or absence of cell surface
+receptors for specific cytokines.
+
+DNA and Related Products. This diverse product line includes: primer pairs
+which are synthetic DNA used to amplify specific genes in the laboratory,
+messenger RNA kits that allow researchers to quantitate the amount of a
+specific cytokine messenger RNA, and reagents for the study of DNA damage and
+repair mechanisms in the cell.
+
+ 5
+
+Hematology Controls and Calibrators
+
+Hematology controls and calibrators, manufactured by and marketed through the
+Hematology Division of R&D Systems, are products composed of the various
+cellular components of blood which have been stabilized. Proper diagnosis of
+many illnesses requires a thorough and accurate analysis of a patient's blood
+cells, which is usually done with automated or semi-automated hematology
+instruments. Controls and calibrators produced by the Hematology Division
+ensure that these instruments are performing accurately and reliably.
+
+Blood is composed of plasma, the fluid portion of which is mainly water, and
+blood cells, which are suspended in the plasma. There are three basic types
+of blood cells: red cells, white cells and platelets. Red cells transport
+oxygen from the lungs throughout the body, which is the function of
+hemoglobin. White cells defend the body against foreign invaders. Platelets
+serve as a "plug" to stem blood flow at the site of an injury by initiating a
+complex series of biochemical reactions that lead to the formation of a clot.
+
+These fundamental components (red cells, white cells and platelets) differ
+widely in size and concentration. The white cells are the largest in size
+and platelets the smallest. The red cells are the most numerous and
+constitute 95 percent of all blood cells. The average adult has from 20 to
+30 trillion red cells. For every 500 red cells, there are approximately one
+white cell and about 20 platelets. As noted above, hematology controls are
+used in automated and semi-automated cell counting analyzers to make sure
+these instruments are counting blood cells in patient samples accurately.
+One of the most frequently performed laboratory tests on a blood sample is
+called a complete blood count or CBC for short. Doctors use this test in
+disease screening and diagnosis. More than one billion of these tests are
+done every year, the great majority with cell counting instruments. In most
+laboratories the CBC consists of the white cell count, the red cell count,
+the hemoglobin reading, and the hematocrit reading (the percent of red cells
+in a volume of whole blood after it has been centrifuged). Also included in
+a CBC test is the differential, which numbers and classifies the different
+types of white cells.
+
+These and other characteristics or "parameters" of a blood sample can be
+measured by automated or semi-automated cell counters. The number of
+parameters measurable in a blood control product depends on the type and
+sophistication of the instrument for which the control is designed.
+Ordinarily, a hematology control is used once to several times a day to make
+sure the instrument is reading accurately. In addition, most instruments
+need to be calibrated periodically. Hematology calibrators are similar to
+controls, but go through additional testing to ensure that the calibration
+values assigned are extremely accurate and can be used to calibrate the
+instrument.
+
+The Hematology Division of R&D Systems offers a wide range of hematology
+controls and calibrators for both impedance and laser type cell counters.
+R&D Systems believes its products have improved stability and versatility and
+a longer shelf life than most of those of its competitors. The Hematology
+Division supplies hematology control products for use as proficiency testing
+materials by laboratory certifying authorities of a number of states and
+countries. R&D Systems recognizes that developing technologies for cell
+counting instruments will require increasingly sophisticated and high-quality
+controls and is prepared to meet this challenge.
+
+Current Retail Hematology Products
+
+Whole Blood CBC Controls/Calibrators. The Hematology Division of R&D Systems
+currently produces controls and calibrators for the following brands of
+analyzers: Abbott Diagnostics, Beckman Coulter, Bayer Technicon and Sysmex.
+
+ 6
+
+Linearity and Reportable Range Controls. These products provide a means of
+assessing the linearity of hematology analyzers for white blood cells, red
+blood cells, platelets and reticulocytes. Because hematology analyzers are
+single point calibrated, these products allow users to determine and validate
+the reportable range of an instrument.
+
+Whole Blood Reticulocyte Controls. These controls are designed for manual
+and automated counting of reticulocytes (immature red blood cells).
+
+Whole Blood Flow Cytometry Controls. These products are controls for flow
+cytometry instruments. These instruments are used to identify and quantify
+white blood cells by their surface markers.
+
+Whole Blood Glucose/Hemoglobin Control. This product is designed to monitor
+instruments which measure glucose and hemoglobin in whole blood.
+
+Erythrocyte Sedimentation Rate Control. This product is designed to monitor
+erythrocyte sedimentation rate tests.
+
+Multi-Purpose Platelet Reference Controls. These products, Platelet-Trol(r) II
+and Platelet-Trol Extended, are designed for use by automated and semi-
+automated analyzers.
+
+PRODUCTS UNDER DEVELOPMENT
+
+R&D Systems is engaged in ongoing research and development in all of its
+major product lines: controls and calibrators (Hematology Division) and
+cytokines, antibodies, assays and related products (Biotechnology Division).
+The Company believes that its future success depends, to a large extent, on
+the ability to keep pace with changing technologies and markets. At the same
+time, the Company continues to examine its production processes to ensure
+high quality and maximum efficiency.
+
+R&D Systems' Biotechnology Division is planning to release new cytokines,
+antibodies and cytokine assay kits in the coming year. All of these products
+will be for research purposes only and therefore do not require FDA
+clearance. R&D Systems' Hematology Division has developed several new
+control products in fiscal 2004 and is continuously working on product
+improvements and enhancements. However, there is no assurance that any of
+the products in the research and development phase can be developed or, if
+developed, can be successfully introduced into the marketplace.
+
+Included in consolidated research and development expense are the Company's
+share of losses by CCX and DGI and Hemerus, companies in which the Company
+has invested. Research and development expense was as follows (in
+thousands):
+
+ Year ended June 30,
+ 2004 2003 2002
+ ------- ------- -------
+R&D Systems' expenses 17,920 17,393 15,615
+CCX losses 2,437 2,580 1,350
+DGI losses 364 608 505
+Hemerus losses 52 -- --
+ ------- ------- -------
+ 20,773 20,581 17,470
+ ======= ======= =======
+Percent of revenue 12.9 14.2 13.3 
+
+ 7
+
+BUSINESS RELATIONSHIPS
+
+The Company has invested in the Preferred Stock (Series A and B) of
+ChemoCentryx, Inc. (CCX). CCX is a technology and drug development company
+working in the area of chemokines. Chemokines are cytokines which regulate
+the trafficking patterns of leukocytes, the effector cells of the human
+immune system. In conjunction with the equity investment and joint research
+efforts, the Company obtained exclusive worldwide research and diagnostic
+marketing rights to chemokine proteins, antibodies and receptors discovered
+or developed by CCX. Through April 2004 the Company held 26 of the
+outstanding stock of CCX and accounted for the investment under the equity
+method of accounting. In May and June, 2004 CCX obtained 38.1 million in
+financing through the issuance of approximately 14.7 million shares of
+Preferred (Series B) Stock. The financing included a 5.1 million investment
+by the Company. After the financing, the Company holds a 19.9 equity
+interest in CCX. The Company then evaluated the cost versus equity method of
+accounting for its investment in CCX and determined that it does not have the
+ability to exercise significant influence over the operating and financial
+policies of CCX and therefore, after April 2004, accounted for its investment
+on a cost basis. The Company's net investment in CCX was 5.1 million and
+ 2.5 million at June 30, 2004 and 2003, respectively. The Company has been
+issued warrants for 1.7 million shares of CCX Preferred Stock (Series A)
+which expire on December 31, 2005.
+
+In fiscal 2002, the Company made an equity investment of 3 million and
+entered into a research and license agreement with Discovery Genomics, Inc.
+(DGI) of Minneapolis, Minnesota. DGI holds licenses from the University of
+Minnesota to develop technologies used for functional genomics and the
+discovery of drugable targets. The Company currently holds a 38 equity
+interest in DGI and warrants to acquire additional equity. The Company also
+received the rights to develop antibodies and immunoassay kits for proteins
+discovered by DGI and an exclusive, royalty-free license to sell such
+products in the research market. The Company's investment is accounted for
+under the equity method of accounting. During the fourth quarter of fiscal
+2004, the Company determined that its investment in DGI was other than
+temporarily impaired and wrote off the remaining net investment of 1.5
+million. The Company's net investment in DGI was 1.9 million at June 30,
+2003.
+
+On January 1, 2004, the Company purchased a 10 interest in Hemerus Medical,
+LLC (Hemerus) for 3 million. Hemerus was formed in March 2001 and has
+acquired and is developing technology for the separation of leukocytes from
+blood and blood components. Leukoreduced blood is important in blood
+transfusion. Hemerus owns two patents and has several patent applications
+pending and is currently pursuing FDA clearance to market its products in the
+U.S. In parallel with this investment, R&D Systems entered into a Joint
+Research Agreement with Hemerus. The research will involve joint projects to
+explore the use of Hemerus' filter technology to applications within R&D
+Systems' Hematology and Biotechnology Divisions. Such applications, if any,
+may have commercial potential in other laboratory environments. The Company
+accounts for its investment in Hemerus under the equity method of accounting.
+The Company's net investment in Hemerus was 2.9 million at June 30, 2004.
+
+Original Equipment Manufacturer (OEM) agreements represent the largest market
+for hematology controls and calibrators made by R&D Systems. In fiscal 2004,
+2003 and 2002, OEM contracts accounted for 7.7 million, 7.2 million and
+ 7.6 million, respectively, or 5 , 5 and 6 of total consolidated revenues.
+
+GOVERNMENT REGULATION
+
+All manufacturers of hematology controls and calibrators are regulated under
+the Federal Food, Drug and Cosmetic Act, as amended. All of R&D Systems'
+hematology control products are classified as "In Vitro Diagnostic Products"
+by the FDA. The entire hematology control manufacturing process, from
+receipt of raw materials to the monitoring of control products through their
+expiration date, is strictly regulated and documented. FDA inspectors make
+periodic site inspections of the Hematology Division's control operations and
+facilities. Hematology control manufacturing must comply with Quality System
+Regulations (QSR) as set forth in the FDA's regulations governing medical
+devices.
+
+ 8
+
+Three of R&D Systems' immunoassay kits, EPO, TfR and Beta2-microglobulin,
+have FDA clearance to be sold for clinical diagnostic use. R&D Systems must
+comply with QSR for the manufacture of these kits. Biotechnology products
+manufactured in the United States and sold for use in the research market do
+not require FDA clearance.
+
+Some of R&D Systems' research groups use small amounts of radioactive
+materials in the form of radioisotopes in their product development
+activities. Thus, R&D Systems is subject to regulation by the US Nuclear
+Regulatory Commission (NRC) and has been granted an NRC license due to expire
+in April 2005. The license is renewable annually. R&D Systems is also
+subject to regulation and inspection by the Department of Health of the State
+of Minnesota for its use of radioactive materials. It has been granted a
+certificate of registration, which is renewable annually, by the Minnesota
+Department of Health. The current certificate expires April 1, 2005. R&D
+Systems has had no difficulties in renewing these licenses in prior years and
+has no reason to believe they will not be renewed in the future. If,
+however, the licenses were not renewed, it would have minimal effect on R&D
+Systems' business since there are other technologies the research groups
+could use to replace radioisotopes.
+
+AVAILABILITY OF RAW MATERIALS
+
+The primary raw material for the Company's hematology controls is whole
+blood. Human blood is purchased from commercial blood banks and porcine and
+bovine blood is purchased from nearby meat processing plants. After raw
+blood is received, it is separated into its components, processed and
+stabilized. Although the cost of human blood has increased owing largely to
+the requirement that it be tested for certain diseases, the higher cost of
+these materials has not had a serious adverse effect on the Company's
+business. R&D Systems does not perform its own testing as the supplier tests
+all human blood purchased. R&D Systems' Biotechnology Division develops and
+manufactures the majority of its cytokines from synthetic genes developed in-
+house, thus significantly reducing its reliance on outside resources. R&D
+Systems typically has several outside sources for all critical raw materials
+necessary for the manufacture of products.
+
+PATENTS AND TRADEMARKS
+
+R&D Systems owns patent protection for certain hematology controls. R&D
+Systems may seek patent protection for new or existing products it
+manufactures. No assurance can be given that any such patent protection will
+be obtained. No assurance can be given that R&D Systems' products do not
+infringe upon patents or proprietary rights owned or claimed by others,
+particularly for genetically engineered products. R&D Systems has not
+conducted a patent infringement study for each of its products. See Item 3
+Legal Proceedings below.
+
+R&D Systems and R&D Europe have a number of licensing agreements with patent
+holders under which they have the non-exclusive right to patented technology
+or the non-exclusive right to manufacture and sell certain patented cytokine
+and cytokine related products to the research market. For fiscal 2004, 2003
+and 2002, total royalties expensed under these licenses were approximately
+ 2.3 million, 2.3 million and 2.1 million, respectively.
+
+R&D Systems has obtained federal trademark registration for certain of its
+hematology controls and biotechnology product groups. R&D Systems believes
+it has common law trademark rights to certain marks in addition to those
+which it has registered.
+
+ 9
+
+SEASONALITY OF BUSINESS
+
+Sales of products by R&D Systems and R&D Europe, particularly R&D Europe,
+historically experience a slowing of sales or of the rate of sales growth
+during the summer months. R&D Systems also usually experiences a slowing of
+sales during the Thanksgiving to New Year holiday period. The Company
+believes this slowing is a result of vacation schedules in Europe and Japan
+and of academic schedules in the United States.
+
+SIGNIFICANT CUSTOMERS
+
+No single customer accounted for more than 10 of total revenues during
+fiscal 2004, 2003 or 2002.
+
+BACKLOG
+
+There was no significant backlog of orders for the Company's products as of
+the date of this report or as of a comparable date for fiscal 2003. The
+majority of the Company's biotechnology products are shipped within one day
+of receipt of the customers' order. The majority of hematology products are
+shipped based on a preset, recurring schedule.
+
+COMPETITION
+
+The worldwide market for cytokines and research diagnostic assay kits is
+being supplied by a number of biotechnology companies, including BD
+Biosciences, BioSource International, PeproTech, Inc., Sigma Chemical Co.,
+Amersham Biosciences, Fisher Scientific and EMD Biosciences, Inc. R&D
+Systems believes that it is the leading worldwide supplier of cytokine
+related products in the research marketplace. R&D Systems believes that the
+expanding line of its products, their recognized quality, and the growing
+demand for these rare and versatile proteins, antibodies and assay kits, will
+allow the Company to remain competitive in the growing biotechnology research
+and diagnostic market.
+
+Competition is intense in the hematology control business. The first control
+products were developed in response to the rapid advances in electronic
+instrumentation used in hospital and clinical laboratories for blood cell
+counting. Historically, most of the instrument manufacturing companies made
+controls for use in their own instruments. With rapid expansion of the
+instrument market, however, a need for more versatile controls enabled non-
+instrument manufacturers to gain a foothold. Today the market is comprised
+of manufacturers of laboratory reagents, chemicals and coagulation products
+and independent control manufacturers in addition to instrument
+manufacturers. The principal hematology control competitors of R&D Systems'
+retail products are Beckman Coulter, Inc., Sysmex, Streck Laboratories,
+Abbott Diagnostics, Bio-Rad Laboratories and Bayer Technicon. R&D Systems
+believes it is the third largest supplier of hematology controls in the
+marketplace behind Beckman Coulter and Streck Laboratories.
+
+EMPLOYEES
+
+R&D Systems had 484 full-time and 40 part-time employees as of June 30, 2004.
+R&D Europe had 50 full-time and 12 part-time employees as of June 30, 2004,
+including 10 full-time and 1 part-time at R&D Europe's sales subsidiary in
+Germany.
+
+ 10
+
+ENVIRONMENT
+
+Compliance with federal, state and local environmental protection laws in the
+United States, England and Germany had no material effect on R&D Systems or
+R&D Europe in fiscal 2004.
+
+FOREIGN AND DOMESTIC OPERATIONS
+
+The following table represents certain financial information relating to
+foreign and domestic operations for the fiscal years ended June 30 (all
+amounts are in thousands of US dollars):
+
+ 2004 2003 2002
+ -------- -------- --------
+Net Sales to External Customers:
+Hematology Division:
+ US 14,797 14,119 13,100
+ Other 2,681 2,547 2,470
+Biotechnology Division:
+ US 79,762 73,655 67,857
+ Other 19,620 17,310 16,798
+R&D Europe:
+ Other 44,397 37,380 30,675
+ -------- -------- --------
+ 161,257 145,011 130,900
+ ======== ======== ========
+Gross Margin:
+R&D Systems (US) 103,560 93,991 87,558
+R&D Europe (England) 18,616 13,151 9,178
+R&D GmbH (Germany) 4,194 2,473 1,656
+ -------- -------- --------
+ 126,370 109,615 98,392
+ ======== ======== ========
+Net Earnings (Loss):
+Parent and R&D Systems (US) 45,479 41,630 24,436
+R&D Europe (England) 10,259 6,306 4,324
+R&D GmbH (Germany) 1,566 648 225
+ChemoCentryx (US) (2,437) (2,580) (1,350)
+Discovery Genomics (US) (1,887) (608) (505)
+Hemerus (US) (52) -- --
+ -------- -------- --------
+ 52,928 45,396 27,130
+ ======== ======== ========
+Identifiable Assets:
+Parent and R&D Systems (US) 275,948 229,714 214,606
+R&D Europe (England) 44,851 31,472 22,594
+R&D GmbH (Germany) 4,661 2,091 1,047
+ -------- -------- --------
+ 325,460 263,277 238,247
+ ======== ======== ========
+
+CAUTIONARY STATEMENTS
+
+The Company wishes to caution investors that the following important factors,
+among others, in some cases have affected and in the future could affect the
+Company's actual results of operations and cause such results to differ
+materially from those anticipated in forward-looking statements made in this
+document and elsewhere by or on behalf of the Company:
+
+ 11
+
+Technological Obsolescence and Competition
+
+The biotechnology industry is subject to rapid and significant technological
+change. While the hematology controls industry historically has been subject
+to less rapid change, it too is evolving and is impacted significantly by
+changes in the automated testing equipment offered by instrument
+manufacturers. Competitors of the Company in the United States and abroad
+are numerous and include, among others, specialized biotechnology firms,
+medical laboratory instrument and equipment manufacturers and disposables
+suppliers, major pharmaceutical companies, universities and other research
+institutions. There can be no assurance that the Company's competitors will
+not succeed in developing technologies and products that are more effective
+than any which have been or are being developed by the Company or that would
+render the Company's technologies and products obsolete or noncompetitive.
+Many of these competitors have substantially greater resources and product
+development, production and marketing capabilities than the Company. With
+regard to diagnostic kits, which constitute a relatively minor portion of the
+Company's business, many of the Company's competitors have significantly
+greater experience than the Company in undertaking preclinical testing and
+clinical trials of new or improved diagnostic kits and obtaining FDA and
+other regulatory approvals of such products.
+
+Research Spending
+
+The Company's biotechnology products are sold primarily to research
+scientists at pharmaceutical and biotechnology companies and at university
+and government research institutions. Changes in spending on research by
+such companies and in funding of such universities and institutions by
+government, including the National Institutes of Health, affect the revenues
+and earnings of the Company. The Company's Biotechnology Division carries
+essentially no backlog of orders and changes in the level of orders received
+and filled daily can cause fluctuations in quarterly revenues and earnings.
+
+Foreign Currency Exchange Rates
+
+Approximately one quarter of the Company's sales are made through its
+European subsidiary, R&D Systems Europe, which makes its sales in foreign
+currencies. The Company's revenues and earnings are, therefore, affected by
+fluctuations in currency exchange rates.
+
+Patents and Proprietary Rights
+
+The Company's success will depend, in part, on its ability to obtain licenses
+and patents, maintain trade secret protection and operate without infringing
+the proprietary rights of others. The Company has filed a very limited
+number of United States and foreign patent applications for products in which
+it believes it has a proprietary interest. The Company has obtained and is
+negotiating licenses to produce a number of cytokines and related products
+claimed to be owned by others. The Company has not conducted a patent
+infringement study for each of its products. It is possible that products of
+the Company may unintentionally infringe patents of third parties or that the
+Company may have to alter its products or processes, pay licensing fees or
+cease certain activities because of patent rights of third parties, thereby
+causing additional unexpected costs and delays which may have a material
+adverse effect on the Company. The patenting of hematology and biotechnology
+processes and products involves complex legal and factual questions and, to
+date, there has emerged no consistent policy regarding the breadth of claims
+in biotechnology patents. Protracted and costly litigation may be necessary
+to enforce rights of the Company and defend against claims of infringement of
+rights of others. See Item 3 Legal Proceedings below.
+
+ 12
+
+Financial Impact of Expansion Strategy
+
+The Company engages in an expansion strategy which includes internal
+development of new products, collaboration with manufacturers of automated
+instruments which may use the Company's products, investment in joint
+ventures and companies developing new products related to the Company's
+business and acquisition of companies for new products or additional customer
+base. Each of the strategies carries risks that objectives will not be
+achieved and future earnings will be adversely affected. During the early
+development stage, under the equity method of accounting, a percentage of the
+losses of certain companies in which the Company may invest will be reported
+as losses of the Company. The Company may not have control of the expense
+levels of such companies and their losses may be greater than those
+anticipated by the Company. In addition the Company may be required to write
+off investments if they are determined to be other than temporarily impaired.
+
+Government Regulation
+
+Ongoing research and development activities, including preclinical and
+clinical testing, and the production and marketing of certain of the
+Company's products are subject to regulation by numerous governmental
+authorities in the United States and other countries. Some of the Company's
+products and manufacturing processes and facilities require governmental
+approval prior to commercial use. The approval process applicable to
+clinical diagnostic products of the type which may be developed by the
+Company may take a year or more. Delays in obtaining regulatory approvals
+would adversely affect the marketing of products developed by the Company and
+the Company's ability to receive product revenues or royalties. There can be
+no assurance that regulatory approvals for such products will be obtained
+without lengthy delays, if at all.
+
+Attraction and Retention of Key Employees
+
+Recruiting and retaining qualified scientific and production personnel to
+perform research and development work and product manufacturing are critical
+to the Company's success. Although the Company believes it has been and will
+be able to attract and retain such personnel, there can be no assurance that
+the Company will be successful. In addition, the Company's anticipated
+growth and expansion into areas and activities requiring additional
+expertise, such as clinical testing, government approvals, production and
+marketing, will require the addition of new management personnel and the
+development of additional expertise by existing management personnel. The
+failure to attract and retain such personnel or to develop such expertise
+would adversely affect the Company's business.
+
+INVESTOR INFORMATION
+
+The Company is subject to the information requirements of the Securities
+Exchange Act of 1934 (the "Exchange Act"). Therefore, the Company files
+periodic reports, proxy statements, and other information with the Securities
+and Exchange Commission (the "SEC"). Such reports, proxy statements, and
+other information may be obtained by visiting the Public Reference Room of
+the SEC at 450 Fifth Street, NW, Washington, DC 20549 or by calling the SEC
+at 1-800-SEC-0330. In addition, the SEC maintains an Internet site
+(http://www.sec.gov) that contains reports, proxy and information statements,
+and other information regarding issuers that file electronically.
+
+Financial and other information about the Company is available on its website
+(http://www.techne-corp.com). The Company makes available on its website,
+copies of its annual report on Form 10-K, quarterly reports on Form 10-Q,
+current reports on Form 8-K, and amendments to those reports filed or
+furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as
+reasonably practicable after filing such material electronically or otherwise
+furnishing it to the SEC.
+
+ 13
+
+ITEM 2. PROPERTIES
+
+The Company owns the facilities its R&D Systems subsidiary occupies in
+Minneapolis, Minnesota. The R&D Systems complex currently includes 365,000
+square feet of administrative, research and manufacturing space in three
+adjoining buildings.
+
+In fiscal 2002, the Company purchased property adjacent to its Minneapolis
+facility for approximately 8.9 million. The Company has renovated this
+property and plans to lease out approximately 70 of the 176,000 square foot
+building as retail and office space and use the remainder as warehouse and
+storage space. The Company has constructed an infill to connect this
+building to its current facility. The Company will begin finishing the
+78,000 square foot infill, to be used primarily for laboratory space, in
+fiscal 2005.
+
+The Company has entered into an option agreement for additional real estate
+adjacent to the current facility. This option is exercisable through January
+1, 2005. The Company may negotiate an extension of the option beyond January
+1, 2005, but if unable to do so, plans to exercise the option prior to its
+expiration date.
+
+In fiscal 2002, the Company purchased approximately 649 acres of farmland,
+including buildings, in southeast Minnesota for 2.7 million. A portion of
+the land and buildings are being leased to third parties as cropland and for
+a dairy operation. Rental income from the property was 131,000 and 72,000
+in fiscal 2004 and 2003, respectively. The remaining property is used by the
+Company to house goats used for polyclonal antibody production. In fiscal
+2004, the Company constructed additional buildings on this site for 2.3
+million.
+
+R&D Europe leases approximately 17,000 square feet in a building in Abingdon,
+England. Base rent was 446,000 in fiscal 2004.
+
+R&D GmbH leases approximately 2,300 square feet as a sales office in
+Wiesbaden-Nordenstadt, Germany. Base rent was 39,000 in fiscal 2004.
+
+The Company believes the owned property, purchase option and leased property
+discussed above are adequate to meet its occupancy needs in the foreseeable
+future.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+On June 13, 2003, the Company submitted to the U.S. Patent and Trademark
+Office ("PTO") a "Request for Interference" to initiate an action between the
+Company and Streck Laboratories, Inc. regarding certain patents issued to
+Streck. The Streck patents relate to the addition of reticulocytes to
+hematology controls. The Company has reason to believe that it invented the
+invention(s) claimed in the Streck patents before Streck and is seeking a
+decision by the PTO that the Company is entitled to a patent covering the
+invention(s) and that the Streck patent is invalid.
+
+ 14
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+No matter was submitted to a vote of the Company's security holders during
+the fourth quarter of the Company's 2004 fiscal year.
+
+EXECUTIVE OFFICERS OF THE COMPANY
+
+(a) The names, ages and positions of each executive officer of the Company
+are as follows:
+
+Name Age Position Officer Since
+- ---------------- --- --------------------------------------- -------------
+Thomas E. Oland 63 Chairman of the Board, President,
+ Treasurer, Chief Executive and
+ Chief Financial Officer and Director 1985
+Dr. Monica Tsang 59 Vice President, Research 1995
+Marcel Veronneau 49 Vice President, Hematology Operations 1995
+
+The term of office of each executive officer is from one annual meeting of
+directors until the next annual meeting of directors or until a successor is
+elected. There are no arrangements or understandings among any of the
+executive officers and any other person (not an officer or director acting as
+such) pursuant to which any of the executive officers was selected as an
+officer of the Company.
+
+(b) The business experience of the executive officers during the past five
+years is as follows:
+
+Thomas E. Oland has been Chairman of the Board, President, Treasurer, Chief
+Executive and Chief Financial Officer of the Company since December 1985.
+
+Dr. Monica Tsang was elected a Vice President of the Company in March 1995.
+Prior thereto, she served as Executive Director of Cell Biology for R&D
+Systems' Biotechnology Division and has been an employee of R&D Systems since
+1985.
+
+Marcel Veronneau was elected a Vice President of the Company in March 1995.
+Prior thereto, he served as Director of Operations for R&D Systems'
+Hematology Division since joining the Company in 1993.
+
+An additional officer, Dr. James A. Weatherbee, who served as Vice President
+and Chief Scientific Officer since 1995, is on medical leave. Dr. Weatherbee
+and Dr. Tsang are husband and wife.
+
+ 15
+
+PART II
+
+ITEM 5. MARKET FOR THE COMPANY'S COMMON EQUITY,
+ RELATED STOCKHOLDER MATTERS AND
+ ISSUER PURCHASES OF EQUITY SECURITIES
+
+The Company's common stock trades on The NASDAQ Stock Exchange under the
+symbol "TECH." The following table sets forth for the periods indicated the
+range of the closing price per share for the Company as reported by NASDAQ.
+
+ Fiscal 2004 Price Fiscal 2003 Price
+ High Low High Low
+ ----------- ----------- ----------- -----------
+1st Quarter 35.40 28.11 32.79 22.79
+2nd Quarter 39.00 32.10 34.75 28.42
+3rd Quarter 42.20 37.35 28.99 20.76
+4th Quarter 43.45 37.48 31.02 18.95
+
+As of September 10, 2004, there were approximately 320 shareholders of
+record. As of September 10, 2004, there were over 23,000 beneficial
+shareholders of the Company's common stock. TECHNE Corporation has never paid
+cash dividends on its common stock. Payment of dividends is within the
+discretion of TECHNE's Board of Directors, although the Board of Directors
+plans to retain earnings for the foreseeable future for operating the
+Company's business.
+
+The following table sets forth the repurchases of Company Common Stock for
+the quarter ended June 30, 2004.
+
+ Maximum Approximate
+ Dollar Value
+ Total Number of of Shares
+ Shares Purchased that May Yet
+ Total Number Average as Part of Be Purchased
+ of Shares Price Paid Publicly Announced Under the Plans
+Period Purchased Per Share Plans or Programs or Programs
+- ------ ------------ --------- -------------------- -----------------
+4/1/04-4/30/04 0 -- 0 6.8 million
+5/1/04-5/31/04 0 -- 0 6.8 million
+6/1/04-6/30/04 0 -- 0 6.8 million
+
+In May 1995, the Company announced a plan to purchase and retire its Common
+Stock. Repurchases of 40 million were authorized as follows: May 1995 - 5
+million; April 1997 - 5 million; January 2001 - 10 million; October 2002 -
+ 20 million. The plan does not have an expiration date.
+
+ 16
+
+ITEM 6. SELECTED FINANCIAL DATA
+ (Dollars in thousands, except per share data)
+
+Revenue, Earnings and Cash
+Flow Data For the Years Ended
+June 30, 2004 2003 2002(1) 2001 2000
+- ------------------------- -------- -------- -------- -------- --------
+Net sales 161,257 145,011 130,900 115,357 103,838
+Gross margin(2) 78.4 75.6 75.2 75.4 74.2 
+Selling, general and
+ administrative expenses(2) 13.5 13.4 15.1 15.1 16.4 
+Research and development
+ expenses (2) 12.9 14.2 13.3 12.6 10.8 
+Operating income(2) 51.0 46.7 26.8 40.0 37.9 
+Earnings before income
+ taxes(2) 51.2 48.0 28.8 41.4 38.0 
+Net earnings(2) 32.8 31.3 20.7 29.5 25.6 
+Return on average equity 19.8 20.5 14.1 21.4 22.3 
+Return on average assets 18.0 18.1 12.0 17.2 17.5 
+Diluted earnings per share 1.27 1.08 0.64 0.80 0.63
+Capital expenditures 3,710 15,194 22,276 6,815 30,368
+Depreciation and
+ amortization(3) 6,040 6,353 12,688 12,737 12,651
+Interest expense 678 974 1,320 1,381 1,441
+Net cash provided by
+ operating activities 65,553 54,089 27,667 46,372 38,739
+
+Balance Sheet, Common Stock
+And Employee Data as of
+June 30, 2004 2003 2002 2001 2000
+- ------------------------- -------- -------- -------- -------- --------
+Cash, cash equivalents
+ and short-term available-
+ for-sale investments 176,593 118,763 97,064 97,072 59,824
+Receivables 21,099 19,179 19,414 18,322 15,601
+Inventories 7,457 6,332 6,077 5,438 4,652
+Working capital 197,464 138,707 114,448 108,300 73,740
+Total assets 325,460 263,277 238,247 215,525 180,410
+Long-term debt, less
+current portion 14,576 15,852 17,101 18,050 18,935
+Stockholders' equity 297,425 236,617 206,517 177,660 141,145
+Average common and
+ common equivalent
+ shares (in thousands) 41,697 42,031 42,523 42,668 42,206
+Book value per share(4) 7.23 5.78 4.97 4.29 3.41
+Share price:
+ High 43.45 34.75 37.05 74.00 70.00
+ Low 28.11 18.95 25.30 22.50 12.38
+Price to earnings ratio 34 28 44 41 103
+Current ratio 15.67 13.86 8.82 7.81 6.87
+Quick ratio 14.69 12.76 7.96 7.26 6.00
+Full-time employees 534 525 509 494 440
+
+(1)Fiscal 2002 results include a 17.5 million before tax charge 11.4
+ million after tax and .27 diluted earnings per share) for settlement of
+ litigation with Amgen, Inc.
+
+(2)As a percent of net sales.
+
+(3)The fiscal 2003 decrease in depreciation and amortization was primarily
+ the result of adoption of Statement of Financial Accounting Standards No.
+ 142.
+
+(4)Total stockholders' equity divided by total shares outstanding at June 30.
+
+ 17
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+ CONDITION AND RESULTS OF OPERATIONS
+
+OVERVIEW
+
+TECHNE Corporation (the Company) has two operating subsidiaries: Research and
+Diagnostic Systems, Inc. (R&D Systems) and R&D Systems Europe Ltd. (R&D
+Europe). R&D Systems, located in Minneapolis, Minnesota, has two operating
+segments: its Biotechnology Division and its Hematology Division. The
+Biotechnology Division develops and manufactures purified cytokines (proteins),
+antibodies and assay kits which are sold to biomedical researchers and clinical
+research laboratories. The Hematology Division develops and manufactures whole
+blood hematology controls and calibrators which are sold to hospitals and
+clinical laboratories to check the performance of hematology instruments to
+assure the accuracy of hematology test results. R&D Europe, the Company's third
+operating segment, located in Abingdon, England, is the European distributor of
+R&D Systems' biotechnology products. R&D Europe has a sales subsidiary, R&D
+Systems GmbH, in Germany and a sales office in France.
+
+OVERALL RESULTS
+
+Consolidated net earnings increased 17 for fiscal 2004 as compared to fiscal
+2003. The primary reasons for the increase were increased net sales and
+improved gross margins. Net sales increased 11 from fiscal 2003 and gross
+margins increased from 76 to 78 . The favorable impact on consolidated net
+earnings of the strengthening of the British pound as compared to the U.S.
+dollar for R&D Europe results was 1.1 million for the year ended June 30,
+2004.
+
+Consolidated net earnings increased 67 for fiscal 2003 as compared to
+fiscal 2002. Excluding the litigation settlement discussed below from fiscal
+2002 results, consolidated net earnings for fiscal 2003 increased 18 . The
+increase was due mainly to increased sales (11 and decreased goodwill
+amortization of 6.3 million. The favorable impact on consolidated net earnings
+of exchange rates used to convert R&D Europe results from British pounds to
+U.S. dollars was 0.6 million for the year ended June 30, 2003.
+
+RESULTS OF OPERATIONS
+
+Net sales (in thousands):
+
+ YEAR ENDED JUNE 30,
+ 2004 2003 2002
+ -------- -------- --------
+Hematology Division 17,478 16,666 15,570
+Biotechnology Division 99,382 90,965 84,655
+R&D Systems Europe 44,397 37,380 30,675
+ -------- -------- --------
+ 161,257 145,011 130,900
+ ======== ======== ========
+
+Net sales for fiscal 2004 were 161.3 million, an increase of 16.2
+million (11.2 from fiscal 2003. The increase in consolidated net sales for
+the fiscal year was due mainly to the increase in sales of proteins and
+antibodies 9.1 million) and immunoassay kits 5.0 million). R&D Europe's net
+sales in fiscal 2004 were affected by favorable exchange rates used in
+converting British pounds to U.S. dollars. The effect of foreign exchange rates
+on R&D Europe's net sales for fiscal 2004 was an increase of approximately 4.0
+million. Excluding the effect of exchange rates, R&D Europe's net sales in
+British pounds increased 8.0 and consolidated net sales increased 8.4 for
+fiscal 2004, mainly due to increased sales volume.
+
+Net sales for fiscal 2003 were 145.0 million, an increase of 14.1
+million (10.8 from fiscal 2002. The increase in consolidated net sales for
+the fiscal year was due largely to an increase in sales of proteins and
+antibodies 10.5 million). R&D Europe's net sales for fiscal 2003 were also
+affected by favorable exchange rates. The effect of foreign exchange rates on
+R&D Europe's net sales for fiscal 2003 was an increase of 3.4 million.
+Excluding the effect of exchange rates, R&D Europe's net sales in British
+pounds increased 10.8 and consolidated net sales increased 8.2 , mainly due to
+increased sales volume. The Hematology Division net sales increase of 7.0 in
+fiscal 2003 was higher than historical increases of 3 to 5 as a result of the
+addition of an incremental new distributor in January 2003.
+
+Gross margins, as a percentage of net sales, were as follows:
+
+ YEAR ENDED JUNE 30,
+ 2004 2003 2002
+ ---------- ---------- ----------
+Hematology Division 46.2 47.2 45.0 
+Biotechnology Division 80.4 79.0 79.2 
+R&D Systems Europe 51.4 41.8 36.1 
+Consolidated 78.4 75.6 75.2 
+
+ 18
+
+The majority of the increase in gross margin percentage in fiscal 2004 was
+the result of R&D Europe's gross margins increasing from 41.8 to 51.4 .
+Approximately one-half of this increase was due to favorable exchange rates as
+a result of a weaker U.S. dollar to the British pound and one-half was due to
+the expiration, on June 30, 2003, of a five-year, 5 royalty agreement
+associated with the purchase of Genzyme, Inc.'s reagent business in fiscal
+1999. R&D Europe expensed 1.8 million in fiscal 2003 under this agreement. The
+Biotechnology Division gross margin percentage increase of 1.4 in fiscal 2004,
+was mainly a result of changes in product/customer mix. The Hematology Division
+gross margin percentage decrease of 1 in fiscal 2004 was due to changes in
+customer mix.
+
+Gross margins, as a percentage of net sales, increased slightly in fiscal
+2003, mainly as a result of an increase in Hematology Division gross margin
+percentage and an increase in R&D Europe gross margin percentage. Hematology
+Division gross margins increased from 45.0 to 47.2 in fiscal 2003 as a result
+of lower raw material costs. Blood costs increased significantly during fiscal
+2002 as a result of a decreased blood supply, but returned to a more normal
+level by the end of fiscal 2002. R&D Europe gross margins increased from 36.1 
+to 41.8 in fiscal 2003 mainly as a result of favorable exchange rates due to
+the weakening of the U.S. dollar to the British pound.
+
+Selling, general and administrative expenses increased 2.3 million (12 in
+fiscal 2004 and decreased 422,000 (2 in fiscal 2003. Selling, general and
+administrative expenses were as follows (in thousands):
+
+ YEAR ENDED JUNE 30,
+ 2004 2003 2002
+ ------- ------- -------
+Hematology Division 1,697 1,507 1,626
+Biotechnology Division 11,761 10,825 11,647
+ ------- ------- -------
+ R&D Systems, Inc. 13,458 12,332 13,273
+R&D Systems Europe 7,194 6,355 5,458
+Corporate 1,073 690 1,068
+ ------- ------- -------
+ 21,725 19,377 19,799
+ ======= ======= =======
+
+R&D Systems' selling general and administrative expenses increased 1.1
+million in fiscal 2004 and decreased 940,000 in fiscal 2003, mainly as a
+result of changes in the amount of profit sharing and stock bonus
+contributions. Profit sharing and stock bonus expense by R&D Systems was 1.8
+million, 0.9 million and 2.0 million in fiscal 2004, 2003 and 2002,
+respectively.
+
+R&D Europe's selling, general and administrative expenses increased
+ 839,000 (13 and 897,000 (16 in fiscal 2004 and 2003, respectively. The
+majority of the increases were the result of the exchange rates to convert
+expenses from British pounds to U.S. dollars. In British pounds, R&D Europe's
+selling, general and administrative expenses increased 3 and 6 for fiscal
+2004 and 2003, respectively.
+
+Corporate selling, general and administrative expenses increased 383,000
+in fiscal 2004 and decreased 378,000 in fiscal 2003. The increase in fiscal
+2004 was largely the result of increased consulting fees incurred associated
+with compliance with Sarbanes-Oxley 173,000), higher audit and accounting
+related fees 78,000) and higher directors' and officers' liability insurance
+premiums 100,000). The decrease in fiscal 2003 was a result of a decrease in
+legal expenses as a result of the settlement of litigation with Amgen, Inc. in
+fiscal 2002.
+
+Research and development expenses increased 192,000 and 3.1 million in fiscal
+2004 and 2003, respectively. Included in research and development expenses are
+the Company's share of losses by companies in which the Company has invested.
+Included are losses by ChemoCentryx, Inc. (CCX) through April 2004, losses by
+Discovery Genomics, Inc. (DGI), and losses by Hemerus Medical, LLC (Hemerus)
+beginning in January 2004. Research and development expenses are composed of
+the following (in thousands):
+
+ YEAR ENDED JUNE 30,
+ 2004 2003 2002
+ ------- ------- -------
+Hematology Division 781 770 735
+Biotechnology Division 17,139 16,623 14,880
+ ------- ------- -------
+ R&D Systems, Inc. 17,920 17,393 15,615
+ChemoCentryx, Inc. losses 2,437 2,580 1,350
+Discovery Genomics, Inc. losses 364 608 505
+Hemerus Medical. LLC losses 52 -- --
+ ------- ------- -------
+ 20,773 20,581 17,470
+ ======= ======= =======
+
+The Company's net investment in CCX at June 30, 2004 was 5.1 million. As
+a development stage company, CCX is dependent on its ability to raise
+additional funds to continue its research and development efforts. If such
+funding were unavailable or inadequate to fund operations, the Company would
+potentially recognize an impairment loss to the extent of its remaining net
+investment.
+
+ 19
+
+In May and June 2004, CCX obtained 38.1 million in additional financing
+through the issuance of additional preferred stock, including a 5.1 additional
+investment by the Company. After the financing the Company holds a 19.9 equity
+interest in CCX. The Company then evaluated the cost versus equity method of
+accounting for its investment in CCX and determined that it does not have the
+ability to exercise significant influence over the operating and financial
+policies of CCX and therefore, after April 2004, accounted for its investment
+on a cost basis.
+
+During the fourth quarter of fiscal 2004, the Company determined that its
+investment in DGI was other than temporarily impaired and wrote off the
+remaining net investment of 1.5 million.
+
+The Company's net investment in Hemerus at June 30, 2004 was 2.9 million.
+Hemerus' success is dependent in part, upon receiving FDA clearance to market
+its products. If such clearance is not received, the Company would potentially
+recognize an impairment loss to the extent of its remaining net investment.
+
+Excluding CCX, DGI and Hemerus losses, research and development expenses
+by the Company increased 527,000 and 1.8 million in fiscal 2004 and 2003,
+respectively. These increases were primarily the result of the development and
+release of new cytokines, antibodies and assay kits by R&D Systems'
+Biotechnology Division. The increase in fiscal 2003 was largely the result of
+the addition of approximately ten full-time equivalent research positions from
+the prior year. In fiscal 2004, the Biotechnology Division increased the number
+of research positions only slightly, but plans on adding up to fifteen
+positions in fiscal 2005.
+
+Amortizaton of intangible assets. On July 1, 2002, the Company adopted
+Statement of Financial Accounting Standards (SFAS) No. 142, GOODWILL AND OTHER
+INTANGIBLE ASSETS, under which goodwill is no longer amortized. Goodwill
+amortization expense was 6.3 million in fiscal 2002. As of June 30, 2002 the
+Company had net unamortized goodwill of 12.5 million. The Company assessed the
+recoverability of its goodwill and other intangible assets as of July 1, 2002
+(adoption) and determined that no impairment existed. The Company completed its
+annual impairment testing of goodwill and concluded that no impairment existed
+as of June 30, 2003 and 2004. The Company used discounted cash flow and other
+fair value methodologies to assess impairment.
+
+The pro forma effects of implementation of SFAS No. 142 to fiscal 2002
+would be as follows (in thousands, except per share data):
+
+ YEAR ENDED
+ JUNE 30, 2002
+ --------------
+Reported net income 27,130
+Goodwill amortization, net of tax 4,076
+ -------
+Adjusted net income 31,206
+ =======
+Reported basic earnings per share 0.65
+Goodwill amortization 0.10
+ -------
+Adjusted basic earnings per share 0.75
+ =======
+Reported diluted earnings per share 0.64
+Goodwill amortization 0.09
+ -------
+Adjusted diluted earnings per share 0.73
+ =======
+
+Litigation settlement. In fiscal 2002, the Company recorded a 17.5 million
+charge as a result of a litigation settlement. In fiscal 2000, Amgen, Inc. had
+presented invoices in the amount of 28 million for materials provided to the
+Company over past years, allegedly pursuant to a contract under which no
+accounting or invoices were rendered for nine years. In May 2002, the parties
+agreed to a 17.5 million cash settlement of the dispute. The settlement was
+paid in June 2002 with cash on hand and the liquidation of approximately 15
+million of short-term available-for-sale investments. The after-tax amount of
+the charge to the Company's fiscal 2002 results was approximately 11.4 million
+or .27 per diluted share. Excluding the settlement, earnings per diluted share
+would have been .91 for fiscal 2002.
+
+Other non-operating expense (income) consists of foreign currency transaction
+gains, rental income, and real estate and utility expenses related to currently
+unoccupied property as follows (in thousands):
+
+ YEAR ENDED JUNE 30,
+ 2004 2003 2002
+ ------ ------ ------
+Foreign currency gains (64) (356) (352)
+Rental income (131) (72) --
+Real estate taxes/utilities 977 550 107
+ ---- ----- ------
+ 782 122 (245)
+ ==== ===== ======
+
+Income taxes for fiscal 2004, 2003 and 2002 were provided at rates of
+approximately 36 , 35 and 28 , respectively. The increased tax rate in fiscal
+2003 was primarily the result of changes in Minnesota income tax regulations
+which resulted in state tax expense of 666,000 1,552,000 expense offset by
+ 886,000 of tax credit carryforwards) in fiscal 2003 compared to a credit of
+ 1 million in fiscal 2002. U.S. taxes have been reduced as a result of federal
+tax-exempt interest income, the federal benefit of extraterritorial income
+and the federal and state credit for research and development expenditures.
+Foreign income taxes have been provided at rates which approximate the tax
+rates in the countries in which R&D Europe operates. Without significant
+business developments, the Company expects income tax rates for fiscal 2005
+to be 35 to 36 .
+
+ 20
+
+QUARTERLY FINANCIAL INFORMATION
+ (UNAUDITED)
+ (IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+ FISCAL 2004 FISCAL 2003
+ FIRST SECOND THIRD FOURTH FIRST SECOND THIRD FOURTH
+ QTR. QTR. QTR. QTR. QTR. QTR. QTR. QTR.
+ ------- ------- ------- ------- ------- ------- ------- -------
+Net sales 37,993 38,264 42,542 42,459 34,548 33,300 37,737 39,426
+Gross margin 29,330 29,823 33,595 33,621 25,858 24,929 28,980 29,847
+Earnings
+ before taxes 19,357 19,025 22,928 21,231 15,907 14,988 19,118 19,543
+Income taxes 6,785 6,655 8,309 7,864 5,462 5,107 6,724 6,866
+Net earnings 12,572 12,370 14,619 13,367 10,445 9,881 12,394 12,677
+Basic earnings
+ per share 0.31 0.30 0.36 0.33 0.25 0.24 0.30 0.31
+Diluted earnings
+ per share 0.30 0.30 0.35 0.32 0.25 0.23 0.30 0.31
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Cash, cash equivalents and short-term available-for-sale investments at June
+30, 2004 were 176.6 million compared to 118.8 million at June 30, 2003. At
+June 30, 2002, cash, equivalents and short-term available-for-sale investments
+were 97.1 million. The Company has an unsecured line of credit of 750,000
+available at June 30, 2004. The line of credit expires on October 31, 2004. The
+interest rate on the line of credit is at the prime rate (4.0 at June 30,
+2004). There were no borrowings on the line in the current or prior fiscal
+year.
+
+Management of the Company expects to be able to meet its foreseeable
+future cash and working capital requirements for operations, debt repayment,
+facility expansion and capital additions through currently available funds,
+cash generated from operations and maturities of short-term available-for-sale
+investments.
+
+Cash flows from operating activities. The Company generated cash from
+operations of 65.6 million, 54.1 million and 27.7 million in fiscal 2004,
+2003 and 2002, respectively. The increase in cash generated from operating
+activities in fiscal 2004 of 11.5 million was the result of increased net
+earnings and a 1.1 million decrease in trade and other accounts payable
+compared to a 6.1 million decrease in fiscal 2003. These changes were
+partially offset by a 3.3 million increase in income taxes payable compared to
+a 6.5 million increase in fiscal 2003. Net earnings in fiscal 2004 increased
+ 9.1 million before the 1.5 million impairment loss on the write-off of the
+Company's investment in DGI, which did not affect the Company's cash balances.
+The 6.1 million decrease in trade and other accounts payable in fiscal 2003
+was mainly the result of 3.8 million less in royalties payable to Genzyme,
+Inc. stemming from the fiscal 1999 acquisition of Genzyme's research product
+business under which royalties were due through fiscal 2003. The 2.8 million
+change in income taxes payable between fiscal 2003 and fiscal 2004 was due to
+higher U.S. taxable income in fiscal 2004 4 million increase in income taxes
+payable compared to fiscal 2003) offset by higher U.S. income tax payments in
+fiscal 2004 7.5 million more than made in fiscal 2003).
+
+The increase in cash generated from operating activities in fiscal 2003 of
+ 26.4 million was the result of increased net earnings, increased losses by
+equity method investees and a 6.5 million increase in income taxes payable
+compared to a 4.4 million decrease in fiscal 2002. These changes were
+partially offset by decreased goodwill amortization and a 6.1 million decrease
+in trade and other accounts payable compared to a 2.8 million decrease in
+fiscal 2002. Net earnings increased approximately 18.3 million from fiscal
+2002 to fiscal 2003 while losses by equity method investees, which do not
+affect the Company's cash balances, increased 1.3 million from fiscal 2002.
+The change in income taxes payable of 10.9 million was mainly the result of
+higher U.S. taxable income in fiscal 2003 3.9 million increase in U.S. income
+taxes payable compared to fiscal 2002) and lower income tax payments made in
+fiscal 2003 5.1 less than made in fiscal 2002). Goodwill amortization
+decreased 6.3 million in fiscal 2003 as a result of adoption of Statement of
+Financial Accounting Standards No. 142.
+
+Cash flows from investing activities. Capital additions consist of the
+following (in thousands):
+
+ YEAR ENDED JUNE 30,
+ 2004 2003 2002
+ ------- ------- -------
+Laboratory, manufacturing,
+ and computer equipment 1,127 977 2,124
+Building improvements (Minneapolis) -- 202 522
+Construction/property
+ purchase (southeast Minnesota) 2,330 2,705 --
+Property purchase (Minneapolis) -- -- 6,015
+Renovation/construction (Minneapolis) 253 11,310 13,615
+ ------- ------- -------
+ 3,710 15,194 22,276
+ ======= ======= =======
+
+The Company acquired property in southeast Minnesota in fiscal 2003 and,
+in fiscal 2004 constructed additional facilities at this site to house
+
+ 21
+
+goats used in the production of its antibodies. The renovation/construction
+costs in fiscal 2004, 2003 and 2002 were for renovation of the Minneapolis
+property purchased in fiscal 2002, construction of an infill connecting the
+purchased property to R&D Systems' existing property and construction of a
+parking ramp. The land and building purchases and construction were all
+financed through cash on hand, cash generated from operations and maturities of
+short-term available-for-sale investments. Costs to finish the infill are
+estimated at 8 million and are expected to be completed in late fiscal 2005 or
+early 2006. All construction is expected to be financed through currently
+available funds and cash generated from operating activities.
+
+Capital additions for laboratory, manufacturing and computer equipment
+planned for fiscal 2005 are expected to be approximately 2.0 million and are
+expected to be financed through currently available cash and cash generated
+from operations.
+
+The Company's net purchases of (proceeds from) short-term
+available-for-sale investments in fiscal 2004, 2003 and 2002 was 47.3 million,
+ 6.5 million and 5.1) million, respectively. The Company's investment policy
+is to place excess cash in municipal and corporate bonds with the objective of
+obtaining the highest possible return with the lowest risk, while keeping funds
+accessible.
+
+In January 2004, the Company purchased a 10 interest in Hemerus Medical,
+LLC (Hemerus) for 3 million. Hemerus was formed in March 2001 and has acquired
+and is developing technology for the separation of leukocytes from blood and
+blood components. The Company accounts for its investment in Hemerus under the
+equity method of accounting. The Company's net investment in Hemerus, was 2.9
+million at June 30, 2004.
+
+In May and June, 2004, the Company made additional investments totaling
+ 5.1 million in ChemoCentryx, Inc. (CCX), a technology and drug development
+company. After the additional investment, the Company holds a 19.9 equity
+interest in CCX and will account for the investment under the cost method of
+accounting as discussed previously. The Company's net investment in CCX was
+ 5.1 million and 2.5 million at June 30, 2004 and 2003, respectively.
+
+In fiscal 2002, the Company made an equity investment of 3 million in
+Discovery Genomics, Inc. (DGI). DGI holds licenses from the University of
+Minnesota to develop technologies used for functional genomics and the
+discovery of drug targets. The Company holds a 38 equity interest in DGI and
+accounts for this investment under the equity method of accounting. During the
+fourth quarter of fiscal 2004, the Company determined that its investment in
+DGI was other than temporarily impaired and wrote off the remaining net
+investment of 1.5 million. The Company's net investment in DGI was 1.9
+million at June 30, 2003.
+
+The Company paid 2.0 million in March 2002 as a nonrefundable deposit on
+an option, which expires on January 1, 2005, to purchase additional property
+adjacent to its Minneapolis facility. The Company may negotiate an extension of
+the option beyond January 1, 2005, but if unable to do so, plans to exercise
+the option prior to its expiration date.
+
+Cash flows from financing activities. The Company received 4.1 million, 2.4
+million and 332,000 for the exercise of options for 241,000, 265,000 and
+87,000 shares of common stock in fiscal 2004, 2003 and 2002, respectively.
+
+In fiscal 2003 and 2002, the Company purchased and retired 1,027,000 and
+30,000 shares of Company common stock at market values of 22.5 million and
+ 745,000, respectively. In May 1995, the Company announced a plan to purchase
+and retire its common stock. Since May 1995, the Board of Directors has
+authorized the purchase of 40 million of common stock. Through June 30, 2004,
+ 33.2 million of common stock had been purchased under the plan. Any additional
+purchases will be funded from currently available cash.
+
+The Company has never paid cash dividends and currently has no plans to do
+so in fiscal 2005. The Company's net earnings will be retained for reinvestment
+in the business.
+
+ 22
+
+CONTRACTUAL OBLIGATIONS
+
+The following table summarizes the Company's contractual obligations and
+commercial commitments as of June 30, 2004 (in thousands):
+
+ PAYMENTS DUE BY PERIOD
+ ----------------------------------
+ LESS THAN 1-3 4-5 AFTER
+ TOTAL 1 YEAR YEARS YEARS 5 YEARS
+ ------- ------- ------- ------- -------
+Long-term debt 15,857 1,281 2,723 2,951 8,902
+Operating leases 6,112 621 1,188 1,061 3,242
+Minimum royalty payments 125 125 -- -- --
+ ------- ------- ------- ------- -------
+ 22,094 2,027 3,911 4,012 12,144
+ ======= ======= ======= ======= =======
+
+OFF-BALANCE SHEET ARRANGEMENTS
+
+The Company is not a party to any off-balance sheet transactions, arrangements
+or obligations that have, or are reasonably likely to have, a material effect
+on the Company's financial condition, changes in the financial condition,
+revenues or expenses, results of operations, liquidity, capital expenditures or
+capital resources.
+
+CRITICAL ACCOUNTING POLICIES
+
+Management's discussion and analysis of the Company's financial condition and
+results of operations are based upon the Company's consolidated financial
+statements, which have been prepared in accordance with accounting principles
+generally accepted in the United States of America. The preparation of these
+financial statements requires management to make estimates and judgments that
+affect the reported amounts of assets, liabilities, revenues and expenses, and
+related disclosure of contingent assets and liabilities. On an ongoing basis,
+management evaluates its estimates. Management bases its estimates on
+historical experience and on various other assumptions that are believed to be
+reasonable under the circumstances, the results of which form the basis for
+making judgments about the carrying values of assets and liabilities that are
+not readily apparent from other sources. Actual results may differ from these
+estimates under different assumptions or conditions.
+
+The Company has identified the policies outlined below as critical to its
+business operations and an understanding of results of operations. The listing
+is not intended to be a comprehensive list of all accounting policies.
+
+Valuation of accounts receivable. The Company performs ongoing credit
+evaluations of its customers and adjusts credit limits based upon payment
+history and the customers' current creditworthiness, as determined by
+management's review of their current credit information. The Company
+continuously monitors collections and payments from its customers and maintains
+a provision for estimated credit losses based upon the Company's historical
+experience and any specific customer collection issues that have been
+identified. While such credit losses have historically been within the
+Company's established provisions, if the financial condition of the Company's
+customers were to deteriorate, resulting in an impairment of their ability to
+make payments, additional allowances may be required. Gross trade receivables
+totaled 20.5 million and the allowance for doubtful accounts was 233,000 at
+June 30, 2004.
+
+Valuation of inventory. Inventories are valued at the lower of cost (first-in,
+first-out method) or market. The Company regularly reviews inventories on hand
+for slow-moving and obsolete inventory, inventory not meeting quality control
+standards and inventory subject to expiration. The manufacturing process for
+proteins and antibodies has and may continue to produce quantities in excess of
+forecasted usage. Individual protein and antibody sales volumes can be volatile
+and the Company believes that forecasting sales volumes for individual products
+beyond a two-year period is highly uncertain. As a result, the Company values
+its manufactured protein and antibody inventory based on a two-year sales
+forecast. Any significant unanticipated changes in product demand or market
+conditions could have an impact on the value of inventories and the change in
+value would be reflected in cost of sales in the period of the change.
+Inventories of proteins and antibodies in excess of the two-year sales forecast
+were 8.6 million at June 30, 2004.
+
+Valuation of goodwill. The Company is required to perform an annual review for
+impairment of goodwill in accordance with Statement of Financial Accounting
+Standards No. 142, GOODWILL AND OTHER INTANGIBLE ASSETS. Goodwill is considered
+to be impaired if it is determined that the carrying value of the reporting
+unit exceeds its fair value. Assessing the impairment of goodwill requires the
+Company to make judgments regarding the fair value of the net assets of its
+reporting units and the allocation of the carrying value of shared assets to
+the reporting units. The Company's annual assessment included comparison of
+the carrying value of the net assets of the Biotechnology Division to its
+share of the Company's market capitalization at June 30, 2004. A significant
+change in the Company's market capitalization or in the carrying value of net
+assets of the Biotechnology Division could result in an impairment charge in
+future periods. Goodwill at June 30, 2004 was 12.5 million.
+
+ 23
+
+Valuation of intangible and other long-lived assets. The Company periodically
+assesses the impairment of intangible and other long-lived assets which
+requires it to make assumptions and judgments regarding the fair value of these
+asset groups. Asset groups are considered to be impaired if their carrying
+value exceeds the asset groups' ability to continue to generate income from
+operations and positive cash flow in future periods. If asset groups are
+considered impaired, the amount by which the carrying value exceeds its fair
+value would be written off as an impairment loss. Intangible assets and other
+long-lived assets at June 30, 2004, were 2.8 million and 2.3 million,
+respectively.
+
+Valuation of investments. The Company has made equity investments in several
+start-up and early development stage companies, among them CCX, DGI and
+Hemerus. The accounting treatment of each investment (cost method or equity
+method) is dependent upon a number of factors, including, but not limited to,
+the Company's share in the equity of the investee and the Company's ability to
+exercise significant influence over the operating and financial policies of the
+investee. In determining which accounting treatment to apply, the Company must
+make judgments based upon the quantitative and qualitative aspects of the
+investment.
+
+The Company periodically assesses its equity investments for impairment.
+Development stage companies, of the type the Company has invested in, are
+dependent on their ability to raise additional funds to continue research and
+development efforts and on receiving patent protection and/or FDA clearance to
+market their products. If such funding were unavailable or inadequate to fund
+operations or if patent protection or FDA clearance were not received, the
+Company would potentially recognize an impairment loss to the extent of its
+remaining net investment. The Company's net investment at June 30, 2004 in CCX
+and Hemerus were 5.1 million and 2.9 million, respectively. During the fourth
+quarter of fiscal 2004, the Company determined that its investment in DGI was
+other than temporarily impaired and wrote off the remaining net investment of
+ 1.5 million.
+
+Income taxes. The Company operates within multiple taxing jurisdictions and is
+subject to audit in these jurisdictions. These audits can involve complex
+issues, which may require an extended period of time to resolve. The Company
+has received an audit assessment of 1.75 million, plus interest, from the
+State of Minnesota for fiscal years 2000 to 2003. The Company has filed an
+appeal with the Minnesota Department of Revenue for abatement of the
+assessment. The Company believes that the ultimate resolution of the matter
+will not materially affect the consolidated financial position or operations of
+the Company. In management's opinion, adequate provisions for income taxes have
+been made for all years presented.
+
+Assessment of claims or pending litigation. The Company is routinely subject to
+claims and involved in legal actions which are incidental to the business of
+the Company. Although it is difficult to predict the ultimate outcome of these
+matters, management believes that any ultimate liability will not materially
+affect the consolidated financial position or results of operations of the
+Company. As additional information becomes available, the Company will assess
+the potential liabilities related to claims or pending litigation and revise
+estimates as needed. Such revisions could materially impact the Company's
+consolidated financial position or results of operations.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+In January 2003, the Financial Accounting Standards Board (FASB) issued
+Interpretation No. 46 (FIN 46), CONSOLIDATION OF VARIABLE INTEREST ENTITIES.
+FIN 46 addresses the consolidation by businesses of variable interest entities
+and requires businesses to consolidate a variable interest entity if it has a
+variable interest that will absorb a majority of the entity's expected losses
+if they occur, or receive a majority of the entity's expected returns if they
+occur, or both. FIN 46 is effective for variable interest entities created
+after January 31, 2003. For variable interest entities created prior to January
+31, 2003, the provisions of FIN 46 were applicable to the Company for the
+quarter ended December 31, 2003. The Company assessed its relationships with
+ChemoCentryx, Inc. (CCX) and Discovery Genomics, Inc. (DGI) and determined that
+neither
+
+ 24
+
+investment was required to be consolidated in the Company's financial
+statements pursuant to FIN 46. In December 2003, the FASB revised FIN 46. The
+Company was required to follow the revised FIN 46 guidance effective for the
+quarter ended March 31, 2004. The Company determined that none of the Company's
+investments in CCX, DGI and the January 2004 investment in Hemerus Medical,
+LLC, are required to be consolidated in the Company's financial statements
+pursuant to the revised FIN 46.
+
+In May 2003, the FASB issued Statement of Financial Accounting Standard
+No. 150, ACCOUNTING FOR CERTAIN FINANCIAL INSTRUMENTS WITH CHARACTERISTICS OF
+BOTH LIABILITIES AND EQUITY, which established standards for how an issuer
+classifies and measures in its statement of financial position certain
+financial instruments with characteristics of both debt and equity. It requires
+that an issuer classify a financial instrument that is within its scope as a
+liability (or an asset in some circumstances) because that financial instrument
+embodies an obligation of the issuer. For example, the Statement requires
+liability classification for a financial instrument issued in the form of
+shares that are mandatorily redeemable, e.g., includes an unconditional
+obligation requiring the issuer to redeem it by transferring at a specified or
+determinable date or dates or upon an event certain to occur. SFAS No. 150 is
+effective for financial instruments entered into or modified after May 31,
+2003, and otherwise is effective at the beginning of the first interim period
+beginning after June 15, 2003. The Company has adopted SFAS No. 150 and it did
+not have a significant impact on the Company's financial statements.
+
+MARKET RISK
+
+At the end of fiscal 2004, the Company had an independently managed investment
+portfolio of fixed income securities, excluding those classified as cash and
+cash equivalents, of 125.4 million (see Note A of Notes to Consolidated
+Financial Statements). These securities, like all fixed income instruments, are
+subject to interest rate risk and will decline in value if market interest
+rates increase.
+
+The Company operates internationally, and thus is subject to potentially
+adverse movements in foreign currency rate changes. The Company is exposed to
+market risk from foreign exchange rate fluctuations of the euro and the British
+pound to the U.S. dollar as the financial position and operating results of the
+Company's U.K. and German subsidiaries are translated into U.S. dollars for
+consolidation. At the current level of R&D Europe operating results, a 10 
+increase or decrease in the average exchange rate used to translate operating
+results into U.S. dollars would have an approximate 1.1 million effect on
+consolidated operating income annually.
+
+The Company's exposure to foreign exchange rate fluctuations also arises
+from transferring funds from the U.K. subsidiary to the U.S. subsidiary and from
+transferring funds from the German subsidiary and French sales office to the
+U.K. subsidiary. At June 30, 2004 and 2003, the Company had 119,000 and
+ 358,000 dollar denominated intercompany debt at its U.K. subsidiary and the
+U.K. subsidiary had 93,000 and 295,000 dollar denominated intercompany debt
+from its European operations. These intercompany balances are revolving in
+nature and are not deemed to be long-term balances. The Company's U.K.
+subsidiary recognized net foreign currency gains of (British Pound)36,000 64,000), (British Pound)224,000 356,000) and (British Pound)243,000 352,000) for the years ended June 30, 2004, 2003 and 2002, respectively. The
+Company does not enter into foreign exchange forward contracts to reduce its
+exposure to foreign currency rate changes on intercompany foreign currency
+denominated balance sheet positions.
+
+As of June 30, 2004, the Company's long-term debt consisted of a mortgage
+note payable. The interest rate on the mortgage was fixed at 7 through
+November 2002. The terms of the note payable were modified in December 2002 to
+include a floating interest rate at the one month London interbank offered rate
+(Libor) plus 2.5 with a floor of 4 . The floating interest rate on the
+mortgage note payable was below the 4 floor as of June 30, 2004.
+
+FORWARD-LOOKING INFORMATION
+
+Statements in this Annual Report, and elsewhere, that are forward-looking
+involve risks and uncertainties which may affect the Company's actual results
+of operations. Certain of these risks and uncertainties which have affected
+and, in the future, could affect the Company's actual results are discussed
+below.
+
+The Company's biotechnology products are sold primarily to research
+scientists at pharmaceutical and biotechnology companies and at university and
+
+ 25
+
+government research institutions. Changes in spending on research by such
+companies and in funding of such universities and institutions by government,
+including the National Institutes of Health, affects the revenues and earnings
+of the Company. The Company carries essentially no backlog of orders and
+changes in the level of orders received and filled daily can cause fluctuations
+in quarterly revenues and earnings.
+
+Approximately one quarter of the Company's sales are made through its
+European subsidiary, R&D Systems Europe, which makes its sales in foreign
+currencies. The Company's revenues and earnings are, therefore, affected by
+fluctuations in currency exchange rates.
+
+The biotechnology industry is subject to rapid and significant
+technological change. While the hematology controls industry historically has
+been less subject to rapid change, it too is evolving and is impacted
+significantly by changes in the automated testing equipment offered by
+instrument manufacturers. Competitors of the Company are numerous and include,
+among others, specialized biotechnology firms, medical laboratory instrument
+and equipment manufacturers and disposables suppliers, major pharmaceutical
+companies, universities and other research institutions. There can be no
+assurance that the Company's competitors will not succeed in developing
+technologies and products that are more effective than any which have been or
+are being developed by the Company or that would render the Company's
+technologies and products obsolete or noncompetitive.
+
+The Company's success will depend, in part, on its ability to obtain
+licenses and patents, maintain trade secret protection and operate without
+infringing the proprietary rights of others. The Company has obtained and is
+negotiating licenses to produce a number of cytokines and related products
+claimed to be owned by others. Since the Company has not conducted a patent
+infringement study for each of its products, it is possible that products of
+the Company may unintentionally infringe patents of third parties or that the
+Company may have to alter its products or processes, pay licensing fees or
+cease certain activities because of patent rights of third parties, thereby
+causing additional unexpected costs and delays which may have a material
+adverse effect on the Company.
+
+The Company's expansion strategies, which include internal development of
+new products, collaborations, investments in joint ventures and companies
+developing new products related to the Company's business, and the acquisition
+of companies for new products and additional customer base, carry risks that
+objectives will not be achieved and future earnings will be adversely affected.
+Under the equity method of accounting, a percentage of the losses of certain
+companies in which the Company invests will be reported as losses of the
+Company. The Company may not have control of the expense levels of such
+companies and their losses may be greater than those anticipated by the
+Company. Additionally, if the Company determines that its investment in such
+companies is "other than temporarily" impaired, the Company may write off its
+entire investment in such company.
+
+Ongoing research and development activities and the production and
+marketing of certain of the Company's products are subject to regulation by
+numerous governmental authorities in the United States and other countries. The
+approval process applicable to clinical diagnostic products of the type that
+may be developed by the Company may take a year or more. Delays in obtaining
+approvals could adversely affect the marketing of new products developed by the
+Company.
+
+Recruiting and retaining qualified scientific and production personnel to
+perform research and development work and product manufacturing are critical to
+the Company's success. The Company's anticipated growth and its expected
+expansion into areas and activities requiring additional expertise will require
+the addition of new personnel and the development of additional expertise by
+existing personnel. The failure to attract and retain such personnel could
+adversely affect the Company's business.
+
+For additional information on risks and uncertainties, see the Company's
+periodic reports filed with the Securities and Exchange Commission.
+
+ 26
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES
+ ABOUT MARKET RISK
+
+See discussion under "Market Risk" in Item 7. Management's Discussion and
+Analysis of Financial Condition and Results of Operations.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+CONSOLIDATED STATEMENTS OF EARNINGS
+ TECHNE CORPORATION AND SUBSIDIARIES
+ (IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+ YEAR ENDED JUNE 30,
+ 2004 2003 2002
+ -------- -------- --------
+Net sales 161,257 145,011 130,900
+Cost of sales 34,887 35,396 32,508
+ -------- -------- --------
+Gross margin 126,370 109,615 98,392
+Operating expenses:
+ Selling, general and administrative 21,725 19,377 19,799
+ Research and development 20,773 20,581 17,470
+ Amortization of intangible assets (Note D) 1,599 1,939 8,549
+ Litigation settlement (Note F) -- -- 17,500
+ -------- -------- --------
+ Total operating expenses 44,097 41,897 63,318
+ -------- -------- --------
+Operating income 82,273 67,718 35,074
+Other expense (income):
+ Interest expense 678 974 1,320
+ Interest income (3,251) (2,933) (3,737)
+ Impairment loss on equity investment (Note A) 1,523 -- --
+ Other non-operating expense (income), net 782 122 (245)
+ -------- -------- --------
+ Total other expense (income) (268) (1,837) (2,662)
+ -------- -------- --------
+Earnings before income taxes 82,541 69,555 37,736
+Income taxes (Note H) 29,613 24,159 10,606
+ -------- -------- --------
+Net earnings 52,928 45,396 27,130
+ ======== ======== ========
+Earnings per share:
+ Basic 1.29 1.10 0.65
+ Diluted 1.27 1.08 0.64
+Weighted average common shares outstanding:
+ Basic 41,046 41,237 41,508
+ Diluted 41,697 42,031 42,523
+
+ See Notes to Consolidated Financial Statements.
+
+ 27
+
+CONSOLIDATED BALANCE SHEETS
+ TECHNE CORPORATION AND SUBSIDIARIES
+ (IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA)
+
+JUNE 30,
+ 2004 2003
+ -------- --------
+ASSETS
+Current assets:
+ Cash and cash equivalents 51,201 39,371
+ Short-term available-for-sale investments (Note A) 125,392 79,392
+ Trade accounts receivable, less allowance for
+ doubtful accounts of 233 and 268, respectively 20,262 18,387
+ Interest receivable on short-term
+ available-for-sale investments 837 792
+ Inventories (Note B) 7,457 6,332
+ Deferred income taxes (Note H) 4,820 4,237
+ Prepaid expenses 954 1,004
+ -------- --------
+ Total current assets 210,923 149,515
+Property and equipment, net (Note C) 80,504 81,166
+Goodwill, net (Note D) 12,540 12,540
+Intangible assets, net (Note D) 2,819 4,418
+Deferred income taxes (Note H) 7,843 8,715
+Investments (Note A) 8,484 4,398
+Other long-lived assets (Note F) 2,347 2,525
+ -------- --------
+ 325,460 263,277
+ ======== ========
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+ Trade accounts payable 2,695 2,216
+ Salaries, wages and related accounts 3,416 1,781
+ Other accounts payable and accrued expenses 1,152 2,605
+ Income taxes payable 4,915 2,972
+ Current portion of long-term debt (Note E) 1,281 1,234
+ -------- --------
+ Total current liabilities 13,459 10,808
+Long-term debt, less current portion (Note E) 14,576 15,852
+ -------- --------
+ Total liabilities 28,035 26,660
+ -------- --------
+Commitments and contingencies (Notes F and H)
+Stockholders' equity (Note G):
+ Undesignated capital stock, no par; authorized
+ 5,000,000 shares; none issued or outstanding -- --
+ Common stock, par value .01 a share; authorized
+ 100,000,000 shares; issued and outstanding
+ 41,154,922 and 40,913,226 shares, respectively 412 409
+ Additional paid-in capital 68,960 63,279
+ Retained earnings 222,728 169,809
+ Accumulated other comprehensive income 5,325 3,120
+ -------- --------
+ Total stockholders' equity 297,425 236,617
+ -------- --------
+ 325,460 263,277
+ ======== ========
+
+ See Notes to Consolidated Financial Statements.
+
+ 28
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+ TECHNE CORPORATION AND SUBSIDIARIES
+ (IN THOUSANDS)
+
+ACCUM.
+ OTHER
+ COMPRE-
+ ADDITIONAL HENSIVE
+ COMMON STOCK PAID-IN RETAINED INCOME
+ SHARES AMOUNT CAPITAL EARNINGS (LOSS) TOTAL
+ ------ ------ ---------- --------- -------- --------
+ 
+Balances at June 30, 2001 41,432 414 57,383 121,209 (1,346) 177,660
+ Comprehensive income:
+ Net earnings -- -- -- 27,130 -- 27,130
+ Other comprehensive
+ income, net of tax:
+ Foreign currency
+ translation adjustments -- -- -- -- 1,494 1,494
+ --------
+ Comprehensive income 28,624
+ Common stock issued for
+ exercise of options
+ (Note G) 167 2 555 -- -- 557
+ Surrender and retirement of
+ stock to exercise options
+ (Note L) (7) (0) -- (225) -- (225)
+ Repurchase and retirement
+ of common stock (30) 0 -- (745) -- (745)
+ Tax benefit from exercise
+ of stock options -- -- 646 -- -- 646
+ ------ ------ ---------- --------- -------- ---------
+Balances at June 30, 2002 41,562 416 58,584 147,369 148 206,517
+ Comprehensive income:
+ Net earnings -- -- -- 45,396 -- 45,396
+ Other comprehensive
+ income, net of tax:
+ Foreign currency
+ translation adjustments -- -- -- -- 2,028 2,028
+ Unrealized gains on
+ available-for-sale
+ investments -- -- -- -- 944 944
+ ---------
+ Comprehensive income 48,368
+ Common stock issued for
+ exercise of options
+ (Note G) 392 4 2,893 -- -- 2,897
+ Surrender and retirement of
+ stock to exercise options
+ (Note L) (14) (0) -- (454) -- (454)
+ Repurchase and retirement
+ of common stock (1,027) (11) -- (22,502) -- (22,513)
+ Tax benefit from exercise
+ of stock options -- -- 1,802 -- -- 1,802
+ ------ ------ ---------- --------- -------- ---------
+Balances at June 30, 2003 40,913 409 63,279 169,809 3,120 236,617
+ Comprehensive income:
+ Net earnings -- -- -- 52,928 -- 52,928
+ Other comprehensive
+ income, net of tax:
+ Foreign currency
+ translation adjustments -- -- -- -- 3,271 3,271
+ Unrealized losses on
+ available-for-sale
+ investments -- -- -- -- (1,066) (1,066)
+ ---------
+ Comprehensive income 55,133
+ Common stock issued for
+ exercise of options
+ (Note G) 242 3 4,094 -- -- 4,097
+ Surrender and retirement of
+ stock to exercise options
+ (Note L) (0) (0) -- (9) -- (9)
+ Tax benefit from exercise
+ of stock options -- -- 1,587 -- -- 1,587
+ ------ ------ ---------- --------- -------- ---------
+Balances at June 30, 2004 41,155 412 68,960 222,728 5,325 297,425
+ ====== ====== ========== ========= ======== =========
+
+See Notes to Consolidated Financial Statements.
+
+ 29
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS (NOTE L)
+ TECHNE CORPORATION AND SUBSIDIARIES
+ (IN THOUSANDS)
+
+YEAR ENDED JUNE 30,
+ 2004 2003 2002
+ --------- --------- ---------
+Cash flows from operating activities:
+ Net earnings 52,928 45,396 27,130
+ Adjustments to reconcile net earnings to net
+ cash provided by operating activities:
+ Depreciation and amortization 6,040 6,353 12,688
+ Deferred income taxes 317 232 (6,292)
+ Losses by equity method investees 2,853 3,188 1,855
+ Impairment loss on equity investment 1,523 -- --
+ Other 335 539 590
+ Change in operating assets and
+ operating liabilities:
+ Trade accounts and interest receivable (1,170) (638) (855)
+ Inventories (1,017) (173) (560)
+ Prepaid expenses (119) (62) (210)
+ Trade and other accounts payable (1,069) (6,082) (2,830)
+ Salaries, wages and related accounts 1,614 (1,116) 553
+ Income taxes payable/receivable 3,318 6,452 (4,402)
+ --------- --------- ---------
+ Net cash provided by
+ operating activities 65,553 54,089 27,667
+ --------- --------- ---------
+Cash flows from investing activities:
+ Additions to property and equipment (3,710) (15,194) (22,276)
+ Purchase of short-term available-
+ for-sale investments (144,230) (64,560) (64,680)
+ Proceeds from maturities of short-term
+ available-for-sale investments 96,895 58,045 69,812
+ Real estate deposits -- -- (1,999)
+ Increase in investments (8,462) -- (3,000)
+ Increase in other long-term assets -- -- (259)
+ --------- --------- ---------
+ Net cash used in investing activities (59,507) (21,709) (22,402)
+ --------- --------- ---------
+Cash flows from financing activities:
+ Issuance of common stock 4,088 2,443 332
+ Repurchase of common stock -- (22,513) (745)
+ Payments on long-term debt (1,229) (964) (885)
+ --------- --------- ---------
+ Net cash provided by (used in)
+ financing activities 2,859 (21,034) (1,298)
+ --------- --------- ---------
+Effect of exchange rate changes on cash
+ and cash equivalents 2,925 1,633 1,157
+ --------- --------- ---------
+Net increase in cash and cash equivalents 11,830 12,979 5,124
+Cash and cash equivalents at beginning
+ of year 39,371 26,392 21,268
+ --------- --------- ---------
+Cash and cash equivalents at end of year 51,201 39,371 26,392
+ ========= ========= =========
+
+ See Notes to Consolidated Financial Statements.
+
+ 30
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ TECHNE CORPORATION AND SUBSIDIARIES
+
+ Years Ended June 30, 2004, 2003 and 2002
+
+A. DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+
+DESCRIPTION OF BUSINESS: TECHNE Corporation and Subsidiaries (the Company) are
+engaged domestically in the development and manufacture of biotechnology
+products and hematology calibrators and controls. These activities are
+primarily conducted through its wholly-owned subsidiary, Research and
+Diagnostic (R&D) Systems, Inc. Through its wholly-owned U.K. subsidiary, R&D
+Systems Europe Ltd., the Company distributes biotechnology products throughout
+Europe. R&D Systems Europe Ltd. has a sales subsidiary, R&D Systems GmbH, in
+Germany and a sales office in France.
+
+ESTIMATES: The preparation of consolidated financial statements in conformity
+with accounting principles generally accepted in the United States of America
+requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and disclosures of contingent assets and
+liabilities at the date of the consolidated financial statements and the
+reported amounts of revenues and expenses during the reporting period. Actual
+results could differ from those estimates.
+
+RISK AND UNCERTAINTIES: There are no concentrations of business transacted with
+a particular customer or supplier nor concentrations of revenue from a
+particular product or geographic area that would severely impact the Company in
+the near term.
+
+PRINCIPLES OF CONSOLIDATION: The consolidated financial statements include the
+accounts of the Company and its wholly-owned subsidiaries. All material
+intercompany accounts and transactions have been eliminated.
+
+TRANSLATION OF FOREIGN FINANCIAL STATEMENTS: Assets and liabilities of the
+Company's foreign operations are translated at year-end rates of exchange and
+the foreign statements of earnings are translated at the average rate of
+exchange for the year. Gains and losses resulting from translating foreign
+currency financial statements are not included in operations but are
+accumulated in other comprehensive income. Foreign currency transaction gains
+and losses are included in operations.
+
+REVENUE RECOGNITION: The Company recognizes revenue when persuasive evidence of
+an arrangement exists, delivery has occurred or services have been rendered,
+the price is fixed or determinable and collectibility is reasonably assured.
+Payment terms for shipments to end-users are net 30 days. Payment terms for
+distributor shipments may range from 30 to 90 days. Products are shipped FOB
+shipping point. Freight charges billed to end-users are included in net sales
+and freight costs are included in cost of sales. Freight charges on shipments
+to distributors are paid directly by the distributor. Any claims for credit or
+return of goods must be made within 10 days of receipt. Revenues are reduced to
+reflect estimated credits and returns.
+
+RESEARCH AND DEVELOPMENT: Research and development expenditures are expensed as
+incurred. Development activities generally relate to creating new products,
+improving or creating variations of existing products, or modifying existing
+products to meet new applications. Included in research and development expense
+is the Company's share of losses by development stage companies in which it has
+invested due to the Company obtaining research market rights to products
+developed by the investee companies. (See INVESTMENTS below).
+
+ADVERTISING COSTS: Advertising expenses (including production and communication
+costs) for fiscal 2004, 2003 and 2002 were 2.6 million, 2.5 million and 2.4
+million, respectively. The Company expenses advertising expenses as incurred.
+
+INCOME TAXES: The Company uses the asset and liability method of accounting for
+income taxes. Deferred tax assets and liabilities are recognized to record the
+income tax effect of temporary differences between the tax basis and financial
+reporting basis of assets and liabilities. Deferred tax assets and liabilities
+are measured using enacted tax rates expected to apply to taxable income in the
+years in which those temporary differences are expected to be recovered or
+settled. The effect on deferred tax assets and liabilities of a change in tax
+rates is recognized in income in the period that includes the enactment date.
+
+CASH AND EQUIVALENTS: Cash and cash equivalents include cash on hand and
+highly-liquid investments with original maturities of three months or less.
+
+ 31
+
+SHORT-TERM INVESTMENTS: Short-term investments consist of debt instruments with
+original maturities of generally greater than three months to three years. The
+Company considers all of its marketable securities available-for-sale and
+reports them at fair market value. Fair market values are based on quoted
+market prices. Unrealized gains and losses on available-for-sale securities are
+excluded from income, but are included in other comprehensive income. If an
+"other than temporary" impairment is determined to exist, the difference
+between the value of the investment security recorded in the financial
+statements and the Company's current estimate of the fair value is recognized
+as a charge to earnings in the period in which the impairment is determined.
+
+At June 30, 2004 and 2003, the amortized cost and market value of the Company's
+available-for-sale securities by major security type were as follows (in
+thousands):
+
+ JUNE 30,
+ 2004 2003
+ ------------------ ----------------
+ Cost Market Cost Market
+ -------- -------- ------- -------
+State and municipal securities 124,014 123,893 78,448 79,392
+Corporate securities 1,500 1,499 -- --
+ -------- -------- ------- -------
+ 125,514 125,392 78,448 79,392
+Unrealized (losses) gains (122) -- 944 --
+ -------- -------- ------- -------
+ 125,392 125,392 79,392 79,392
+ ======== ======== ======= =======
+
+Contractual maturities of available-for-sale securities are shown below (in
+thousands). Expected maturities may differ from contractual maturities because
+borrowers may have the right to recall or prepay obligations with or without
+call or prepayment penalties.
+
+YEAR ENDING JUNE 30:
+- --------------------
+Due within one year 41,663
+Due in one to three years 83,729
+ --------
+ 125,392
+ ========
+
+Proceeds from maturities of available-for-sale securities were 96.9 million,
+ 58.0 million and 69.8 million during fiscal 2004, 2003 and 2002,
+respectively. There were no material gross realized gains or losses on these
+sales. Realized gains and losses are determined on the specific identification
+method.
+
+INVENTORIES: Inventories are stated at the lower of cost (first-in, first-out
+method) or market. The Company regularly reviews inventory on hand for
+slow-moving and obsolete inventory, inventory not meeting quality control
+standards and inventory subject to expiration. The manufacturing process for
+proteins and antibodies has and may continue to produce quantities in excess of
+forecasted usage. Individual protein and antibody sales volumes can be volatile
+and the Company believes that forecasting sales volumes for individual products
+beyond a two-year period is highly uncertain. As a result, the Company values
+its manufactured protein and antibody inventory based on a two-year sales
+forecast.
+
+DEPRECIATION AND AMORTIZATION: Equipment is depreciated using the straight-line
+method over an estimated useful life of five years. Buildings, building
+improvements and leasehold improvements are amortized over estimated useful
+lives of five to forty years.
+
+GOODWILL AND INTANGIBLE ASSETS: At June 30, 2004 the Company had net
+unamortized goodwill of 12.5 million. The Company completed its annual
+impairment testing of goodwill and concluded that no impairment existed as of
+June 30, 2004. The Company used discounted cash flow and other fair value
+methodologies to assess impairment. Other intangible assets are being amortized
+over their estimated useful lives. (See Note D.)
+
+IMPAIRMENT OF INTANGIBLE AND OTHER LONG-LIVED ASSETS: Management periodically
+reviews the carrying value of intangible and other long-lived assets based on
+the estimated discounted future cash flows expected to result from the use of
+these assets. Should the sum of the expected future net cash flows be less than
+the carrying value, an impairment loss would be recognized. An impairment loss
+would be measured by the amount by which the carrying value of the asset group
+exceeds the fair value of the asset group based on discounted estimated future
+cash flows. To date, management has determined that no impairment exists.
+
+ 32
+
+INVESTMENTS: The Company has invested in the Preferred Stock (Series A and B)
+of ChemoCentryx, Inc. (CCX), a technology and drug development company. Through
+April 2004 the Company held 26 of the outstanding stock of CCX and accounted
+for the investment under the equity method of accounting. In May and June, 2004
+CCX obtained 38.1 million in financing through the issuance of approximately
+14.7 million shares of Preferred (Series B) Stock. The financing included a
+ 5.1 million investment by the Company. After the financing the Company holds a
+19.9 equity interest in CCX. The Company then evaluated the cost versus equity
+method of accounting for its investment in CCX and determined that it does not
+have the ability to exercise significant influence over the operating and
+financial policies of CCX and therefore, after April 2004, accounted for its
+investment on a cost basis. The Company's net investment in CCX was 5.1
+million and 2.5 million at June 30, 2004 and 2003, respectively. In connection
+with its original investment in CCX, the Company was issued warrants for 1.7
+million shares of CCX Preferred Stock (Series A) which expire on December 31,
+2005.
+
+On August 2, 2001, the Company made an equity investment of 3 million in
+Discovery Genomics, Inc. (DGI) Series A Preferred Stock. DGI holds licenses
+from the University of Minnesota to develop technologies used for functional
+genomics and the discovery of drug targets. The Company holds a 38 equity
+interest in DGI and accounted for this investment under the equity method of
+accounting. During the fourth quarter of fiscal 2004, the Company determined
+that its investment in DGI was other than temporarily impaired and wrote off
+the remaining net investment of 1.5 million. The Company's net investment in
+DGI was 1.9 million at June 30, 2003. The Company has been issued warrants for
+1.5 million shares of DGI Preferred Stock (Series A) which expire on August 2,
+2008.
+
+On January 1, 2004, the Company purchased a 10 interest in Hemerus Medical,
+LLC (Hemerus) for 3 million. Hemerus was formed in March 2001 and has acquired
+and is developing technology for the separation of leukocytes from blood and
+blood components. Leukoreduced blood is important in blood transfusion. Hemerus
+owns two patents and has several patent applications pending and is currently
+pursuing FDA clearance to market its products in the U.S. In parallel with this
+investment, R&D Systems entered into a Joint Research Agreement with Hemerus.
+The research will involve joint projects to explore the use of Hemerus's filter
+technology to applications within R&D Systems' Hematology and Biotechnology
+Divisions. Such applications, if any, may have commercial potential in other
+laboratory environments. The Company accounts for its investment in Hemerus
+under the equity method of accounting. The Company's net investment in Hemerus
+was 2.9 million at June 30, 2004.
+
+As a development stage company, CCX is dependent on its ability to raise
+additional funds to continue its research and development efforts. If such
+funding were unavailable or inadequate to fund operations, the Company would
+potentially recognize an impairment loss to the extent of its remaining net
+investment. Hemerus' success is dependent, in part, upon receiving FDA
+clearance to market its products. If such clearance is not received, the
+Company would potentially recognize an impairment loss to the extent of its
+remaining net investment. The Company does not provide loans, guarantees or
+other financial assistance to CCX, DGI or Hemerus and has no obligation to
+provide additional funding.
+
+STOCK OPTIONS: As permitted by Statement of Financial Accounting Standards
+(SFAS) No. 123, the Company has elected to continue following the guidance of
+Accounting Principles Board (APB) Opinion No. 25 for measurement and
+recognition of stock-based transactions with employees. No compensation cost
+has been recognized for stock options granted to employees under the plans
+because the exercise price of all options granted was at least equal to the
+fair value of the common stock at the date of grant.
+
+If compensation cost for employee options granted under the Company's stock
+option plans had been determined based on the fair value at the grant dates,
+consistent with the methods provided in SFAS No. 123, ACCOUNTING FOR
+STOCK-BASED COMPENSATION, the Company's net earnings and earnings per share
+would have been as follows (in thousands, except per share data):
+
+ 33
+
+YEAR ENDED JUNE 30,
+ 2004 2003 2002
+ ------- ------- -------
+
+Net earnings:
+ As reported 52,928 45,396 27,130
+ Less employee stock-based compensation,
+ net of taxes 3,253 609 1,131
+ Plus employee stock-based compensation
+ expense included in net earnings -- -- --
+ ------- ------- -------
+ Pro forma 49,675 44,787 25,999
+ ======= ======= =======
+Basic earnings per share:
+ As reported 1.29 1.10 0.65
+ Less employee stock-based compensation,
+ net of taxes 0.08 0.01 0.02
+ Plus employee stock-based compensation
+ expense included in net earnings -- -- --
+ ------- ------- -------
+ Pro forma 1.21 1.09 0.63
+ ======= ======= =======
+Diluted earnings per share:
+ As reported 1.27 1.08 0.64
+ Less employee stock-based compensation,
+ net of taxes 0.08 0.01 0.03
+ Plus employee stock-based compensation
+ expense included in net earnings -- -- --
+ ------- ------- -------
+ Pro forma 1.19 1.07 0.61
+ ======= ======= =======
+
+The fair value of options granted under the Company's stock option plans were
+estimated on the date of grant using the Black-Scholes option-pricing model
+with the following assumptions used:
+
+ YEAR ENDED JUNE 30,
+ 2004 2003 2002
+ --------- --------- ---------
+Dividend yield -- -- --
+Expected volatility 48 -53 48 -52 56 -73 
+Risk-free interest rates 3.9 -4.4 4.2 -4.5 4.6 -5.3 
+Expected lives 7 years 7 years 7 years
+
+DERIVATIVE INSTRUMENTS AND HEDGING ACTIVITIES: The Company has determined that
+it has no free-standing or embedded derivatives. All contracts that contain
+provisions meeting the definition of a derivative also meet the requirements
+of, and have been designated as, normal purchases or sales. The Company's
+policy is to not use free-standing derivatives and to not enter into contracts
+with terms that cannot be designated as normal purchases or sales.
+
+RECENT ACCOUNTING PRONOUNCEMENTS: In January 2003, the Financial Accounting
+Standards Board (FASB) issued Interpretation No. 46 (FIN 46), CONSOLIDATION OF
+VARIABLE INTEREST ENTITIES. FIN 46 addresses the consolidation by businesses of
+variable interest entities and requires businesses to consolidate a variable
+interest entity if it has a variable interest that will absorb a majority of
+the entity's expected losses if they occur, or receive a majority of the
+entity's expected returns if they occur, or both. FIN 46 is effective for
+variable interest entities created after January 31, 2003. For variable
+interest entities created prior to January 31, 2003, the provisions of FIN 46
+were applicable to the Company for the quarter ended December 31, 2003. The
+Company assessed its relationships with ChemoCentryx, Inc. (CCX) and Discovery
+Genomics, Inc. (DGI) and determined that neither investment was required to be
+consolidated in the Company's financial statements pursuant to FIN 46. In
+December 2003, the FASB revised FIN 46. The Company was required to follow the
+revised FIN 46 guidance effective for the quarter ended March 31, 2004. The
+Company has determined that none of the Company's investments in CCX, DGI and
+the January 2004 investment in Hemerus Medical, LLC, are required to be
+consolidated in the Company's financial statements pursuant to the revised FIN
+46.
+
+In May 2003, the FASB issued Statement of Financial Accounting Standard No.
+150, ACCOUNTING FOR CERTAIN FINANCIAL INSTRUMENTS WITH CHARACTERISTICS OF BOTH
+LIABILITIES AND EQUITY, which established standards for how an issuer
+classifies and measures in its statement of financial position certain
+financial instruments with characteristics of both debt and equity. It requires
+that an issuer classify a financial instrument that is within its scope as a
+liability (or an asset in some circumstances) because that financial instrument
+embodies an obligation of the issuer. For example, the Statement requires
+liability classification for a financial instrument issued in the form of
+shares that are mandatorily redeemable, e.g., includes an unconditional
+obligation requiring the issuer to redeem it by transferring at a specified
+or determinable date or dates or upon an event certain to occur. SFAS No.
+150 is effective for financial instruments entered into or modified after
+May 31, 2003, and otherwise is effective at the beginning of the first
+interim period beginning after June 15, 2003. The Company has adopted SFAS
+No. 150 and it did not have a significant impact on the Company's financial
+statements.
+
+ 34
+
+RECLASSIFICATIONS: Certain reclassifications have been made to prior years
+consolidated financial statements to conform to the current year presentation.
+These reclassifications had no impact on net earnings or stockholders' equity
+as previously reported.
+
+B. INVENTORIES:
+
+Inventories consist of (in thousands):
+
+ JUNE 30,
+ 2004 2003
+ ------ ------
+Raw materials 3,062 2,618
+Finished goods 4,257 3,595
+Supplies 138 119
+ ------ ------
+ 7,457 6,332
+ ====== ======
+
+C. PROPERTY AND EQUIPMENT:
+
+Property and equipment consist of (in thousands):
+
+ JUNE 30,
+ 2004 2003
+ -------- --------
+Cost:
+ Land 3,264 2,999
+ Buildings and improvements 77,333 64,930
+ Building construction in progress 8,329 18,310
+ Laboratory equipment 17,081 16,372
+ Office and computer equipment 3,367 3,106
+ Leasehold improvements 627 537
+ -------- --------
+ 110,001 106,254
+Less accumulated depreciation and
+ amortization 29,497 25,088
+ -------- --------
+ 80,504 81,166
+ ======== ========
+
+D. GOODWILL AND INTANGIBLE ASSETS:
+
+Goodwill and intangible assets consist of (in thousands):
+
+ JUNE 30,
+ USEFUL LIFE 2004 2003
+ ------------- -------- --------
+Goodwill N/A 38,846 38,846
+Less accumulated amortization 26,306 26,306
+ -------- --------
+ 12,540 12,540
+ ======== ========
+
+Customer list 10 years 18,010 18,010
+Technology licensing agreements 16 years 730 730
+ -------- --------
+ 18,740 18,740
+Less accumulated amortization 15,921 14,322
+ -------- --------
+ 2,819 4,418
+ ======== ========
+
+The pro forma effects of implementation of SFAS No. 142 to prior periods would
+be as follows (in thousands, except per share data):
+
+ JUNE 30,
+ 2002
+ -------
+Reported net earnings 27,130
+Goodwill amortization, net of tax 4,076
+ -------
+Adjusted net earnings 31,206
+ =======
+
+Reported basic earnings per share 0.65
+Goodwill amortization 0.10
+ -------
+Adjusted basic earnings per share 0.75
+ =======
+
+Reported diluted earnings per share 0.64
+Goodwill amortization 0.09
+ -------
+Adjusted diluted earnings per share 0.73
+ =======
+
+The estimated future amortization expense for other intangible assets as of
+June 30, 2004 is as follows (in thousands):
+
+YEAR ENDING JUNE 30:
+- --------------------
+2005 1,221
+2006 881
+2007 541
+2008 176
+ ------
+ 2,819
+ ======
+
+E. DEBT:
+
+The Company's short-term line of credit facility consists of an unsecured line
+of credit of 0.8 million at June 30, 2004. The line of credit expires on
+October 31, 2004. The interest rate charged on the line of credit is at the
+prime rate (4.0 at June 30, 2004). There were no borrowings on the line
+outstanding as of June 30, 2004 and 2003.
+
+ 35
+
+Long-term debt consists of (in thousands):
+
+ JUNE 30,
+ 2004 2003
+ -------- --------
+
+Mortgage note, payable in monthly
+ installments through August 2014 15,857 17,086
+Less current portion 1,281 1,234
+ -------- --------
+ 14,576 15,852
+ ======== ========
+
+The interest rate on the mortgage note was fixed at 7 through November 2002.
+The terms of the original note were modified in December 2002 to include a
+floating interest rate at the one month London interbank offered rate (Libor)
+plus 2.5 with a floor of 4 . The floating interest rate on the mortgage note
+payable was below the 4 floor as of June 30, 2004.
+
+Scheduled principal maturities of long-term debt as of June 30, 2004 assuming a
+4 interest rate are as follows (in thousands):
+
+YEAR ENDING JUNE 30:
+- --------------------
+2005 1,281
+2006 1,334
+2007 1,389
+2008 1,445
+2009 1,506
+Thereafter 8,902
+ -------
+ 15,857
+ =======
+
+F. COMMITMENTS AND CONTINGENCIES:
+
+The Company leases buildings, vehicles and various data processing, office and
+laboratory equipment under operating leases. These leases provide for renewal
+or purchase options during or at the end of the lease periods. At June 30,
+2004, aggregate net minimum rental commitments under noncancelable leases
+having an initial or remaining term of more than one year are payable as
+follows (in thousands):
+
+YEAR ENDING JUNE 30:
+- --------------------
+2005 621
+2006 614
+2007 574
+2008 543
+2009 518
+Thereafter 3,242
+ ------
+ 6,112
+ ======
+
+Total rent expense was approximately 594,000, 554,000, and 406,000 for the
+years ended June 30, 2004, 2003 and 2002, respectively.
+
+In fiscal 1999, the Company entered into an option agreement for real estate
+adjacent to its R&D Systems facility. The purchase price for the property under
+the option is 7 million plus capital improvement costs. The option expires on
+January 1, 2005 and required a nonrefundable deposit of 2 million. A deposit
+of 1,000 was made on the option in fiscal 2000 with the remainder of the
+deposit made in fiscal 2002. The deposit is included in other long-term assets.
+The Company may negotiate an extension of the option beyond January 1, 2005,
+but if unable to do so, plans to exercise the option prior to its expiration
+date.
+
+The Company is routinely subject to claims and involved in legal actions which
+are incidental to the business of the Company. Although it is difficult to
+predict the ultimate outcome of these matters, management believes that any
+ultimate liability will not materially affect the consolidated financial
+position or results of operations of the Company.
+
+The litigation settlement in fiscal 2002 arose from a dispute between the
+Company and Amgen, Inc. Amgen had presented invoices in fiscal 2000 in the
+amount of 28 million for materials provided to the Company over past years for
+which no accounting or invoices were rendered for nine years. The 17.5 million
+payment in fiscal 2002 was a full, complete and final cash settlement of the
+dispute.
+
+G. STOCKHOLDERS' EQUITY:
+
+STOCK OPTION PLANS: The Company has stock option plans which provide for the
+granting of stock options to employees (the TECHNE Corporation 1997 and 1987
+Incentive Stock Option Plans) and to employees, officers, directors and
+consultants (the TECHNE Corporation 1998 and 1988 Nonqualified Stock Option
+Plans). The plans are administered by the Board of Directors, or a committee
+designated by the Board, which determines the persons who are to receive awards
+under the plans, the number of shares subject to each award and the term and
+
+ 36
+
+exercise price of each option. The maximum term of options granted under all
+plans is ten years. The number of shares of common stock authorized to be
+issued is 3.2 million, 3.2 million, 1.6 million and 2.0 million under the
+1997 Plan, the 1987 Plan, the 1998 Plan and the 1988 Plan, respectively.
+The number of shares available for grant at June 30, 2004 under the 1997
+and 1998 Plans were 2.4 million and 1.1 million, respectively. No future
+grants will be made under the 1987 and 1988 Plans.
+
+Stock option activity during the three years ended June 30, 2004 consists of
+the following (shares in thousands):
+
+ WEIGHTED AVERAGE
+ SHARES EXERCISE PRICE
+ ------ -----------------
+Outstanding at June 30, 2001 1,904 16.40
+ Granted 33 29.42
+ Canceled (24) 36.50
+ Exercised (167) 3.33
+ -----
+Outstanding at June 30, 2002 1,746 17.62
+ Granted 34 30.40
+ Canceled (31) 36.50
+ Exercised (392) 7.40
+ -----
+Outstanding at June 30, 2003 1,357 20.45
+ Granted 239 36.40
+ Canceled (17) 45.83
+ Exercised (242) 16.93
+ -----
+Outstanding at June 30, 2004 1,337 23.60
+ =====
+Options exercisable at June 30:
+ 2002 1,685 17.22
+ 2003 1,350 20.37
+ 2004 1,225 22.36
+
+Currently outstanding and exercisable stock options at June 30, 2004 consist of
+the following (shares in thousands):
+
+OPTIONS OUTSTANDING OPTIONS EXERCISABLE
+ ---------------------------------------- --------------------------
+ WEIGHTED AVG.
+ EXERCISE CONTRACTUAL WEIGHTED AVG. WEIGHTED AVG.
+ PRICES OUTSTANDING LIFE (YRS.) EXERCISE PRICE EXERCISABLE EXERCISE PRICE
+- ------------ ----------- ------------- -------------- ----------- --------------
+ 3.37-10.00 520 1.83 5.35 520 5.35
+ 10.01-20.00 89 5.00 19.44 89 19.44
+ 20.01-40.00 662 4.83 35.81 565 35.67
+ 40.01-65.00 66 6.33 50.24 51 53.00
+ ----- -----
+ 1,337 3.75 23.60 1,225 22.36
+ ===== =====
+
+WARRANTS: In fiscal 2000, the Company issued warrants to purchase 120,000
+shares of the Company's common stock at 11.89 per share as a nonrefundable
+deposit on an option to purchase property adjacent to its R&D Systems'
+facility. The fair market value of the warrants at issuance was 0.9 million.
+The warrants are outstanding as of June 30, 2004 and expire on June 30, 2006.
+
+H. INCOME TAXES:
+
+The provisions for income taxes consist of the following (in thousands):
+
+ YEAR ENDED JUNE 30,
+ 2004 2003 2002
+ ------- ------- -------
+Earnings before income taxes consist of:
+ Domestic 65,716 59,216 31,214
+ Foreign 16,825 10,339 6,522
+ ------- ------- -------
+ 82,541 69,555 37,736
+ ======= ======= =======
+Taxes (benefits) on income consist of:
+Currently payable:
+ Federal 22,333 19,997 15,054
+ State 2,014 504 11
+ Foreign 4,977 3,448 1,855
+Net deferred:
+ Federal 247 112 (5,412)
+ State 19 161 (1,020)
+ Foreign 23 (63) 118
+ ------- ------- -------
+ 29,613 24,159 10,606
+ ======= ======= =======
+
+ 37
+
+The following is a reconciliation of the federal tax calculated at the
+statutory rate of 35 to the actual income taxes provided (in thousands):
+
+ YEAR ENDED JUNE 30,
+ 2004 2003 2002
+ ------- ------- -------
+Computed expected federal income tax expense 28,889 24,344 13,207
+State income taxes, net of federal benefit 1,026 494 8
+Extraterritorial income tax benefit (1,079) (937) (892)
+Research and development tax credits (268) (347) (373)
+Tax-exempt interest (720) (735) (1,005)
+Increase in federal deferred tax valuation
+ allowance 1,531 1,116 649
+Other 234 224 (988)
+ ------- ------- -------
+ 29,613 24,159 10,606
+ ======= ======= =======
+
+Temporary differences comprising deferred taxes on the consolidated balance
+sheets are as follows (in thousands):
+
+ JUNE 30,
+ 2004 2003
+ -------- --------
+Inventory 3,297 2,723
+Inventory costs capitalized 961 1,012
+Unrealized profit on intercompany sales 438 351
+Other 124 151
+ ------- -------
+Current asset 4,820 4,237
+Excess of book over tax intangible asset
+ amortization 7,079 7,958
+Excess of book over tax research expense 286 309
+Excess of book over tax depreciation 534 551
+Excess tax basis in equity investments 2,976 1,353
+Valuation allowance (2,976) (1,353)
+Other (56) (103)
+ ------- -------
+Noncurrent asset 7,843 8,715
+ ------- -------
+ 12,663 12,952
+ ======= =======
+
+A deferred tax valuation allowance is required when it is more likely than not
+that all or a portion of deferred tax assets will not be realized. The Company
+has provided a valuation allowance for the potential capital loss carryover
+resulting from the excess tax basis in equity investment. The Company believes
+that it is more likely than not that the recorded deferred tax asset, net of
+valuation allowance, will be realized.
+
+Undistributed earnings of the Company's foreign subsidiaries amounted to
+approximately 36.9 million as of June 30, 2004. Deferred taxes have not been
+provided on such undistributed earnings, as it is the Company's intent to
+indefinitely reinvest the undistributed earnings in the foreign operations.
+
+The Company's tax returns are subject to audit by various governmental entities
+in the normal course of business. The Company has received an audit assessment
+of 1.75 million, plus interest, from the State of Minnesota for fiscal years
+2000 to 2003. The Company has filed an appeal with the Minnesota Department of
+Revenue for abatement of the assessment. The Company believes that the ultimate
+resolution of the matter will not materially effect the consolidated financial
+position or operations of the Company.
+
+I. EARNINGS PER SHARE:
+
+The number of shares used to calculate earnings per share are as follows (in
+thousands, except per share data):
+
+ YEAR ENDED JUNE 30,
+ 2004 2003 2002
+ ------- ------- -------
+Net earnings used for basic
+ and diluted earnings per share 52,928 45,396 27,130
+ ======= ======= =======
+Weighted average shares
+ used in basic computation 41,046 41,237 41,508
+Dilutive stock options and warrants 651 794 1,015
+ ------- ------- -------
+Weighted average shares
+ used for diluted computation 41,697 42,031 42,523
+ ======= ======= =======
+Basic EPS 1.29 1.10 0.65
+Diluted EPS 1.27 1.08 0.64
+
+The dilutive effect of stock options and warrants in the above table excludes
+all options for which the exercise price was higher than the average market
+price for the period. The number of potentially dilutive option shares excluded
+from the calculation were 352,000, 582,000 and 579,000 at June 30, 2004, 2003
+and 2002, respectively.
+
+J. SEGMENT INFORMATION:
+
+The Company has three reportable operating segments based on the nature of
+products and geographic location: Hematology Division, Biotechnology Division
+and R&D Systems Europe. The Hematology Division develops and manufactures
+hematology controls and calibrators for sale world-wide. The Biotechnology
+
+ 38
+
+Division develops and manufactures biotechnology research and diagnostic
+products for sale world-wide. R&D Systems Europe distributes Biotechnology
+Division products throughout Europe. No customer accounted for more than 10 
+of the Company's net sales for the years ended June 30, 2004, 2003 and 2002.
+
+The accounting policies of the segments are the same as those described in Note
+A. In evaluating segment performance, management focuses on sales and earnings
+before taxes.
+
+Following is financial information relating to the operating segments (in
+thousands):
+
+ YEAR ENDED JUNE 30,
+ 2004 2003 2002
+ -------- -------- --------
+External net sales
+ Hematology 17,478 16,666 15,570
+ Biotechnology 99,382 90,965 84,655
+ R&D Systems Europe 44,397 37,380 30,675
+ -------- -------- --------
+Total external net sales 161,257 145,011 130,900
+ ======== ======== ========
+Intersegment sales
+ Hematology -- -- --
+ Biotechnology 19,686 18,131 16,726
+ R&D Systems Europe -- 40 57
+ -------- -------- --------
+Total intersegment sales 19,686 18,171 16,783
+ ======== ======== ========
+Earnings before taxes
+ Hematology 5,901 5,938 5,094
+ Biotechnology 66,630 58,468 47,777
+ R&D Systems Europe 16,825 10,339 6,522
+ Corporate and other (6,815) (5,190) (21,657)
+ -------- -------- --------
+Total earnings before taxes 82,541 69,555 37,736
+ ======== ======== ========
+Assets
+ Hematology 22,093 21,308 20,182
+ Biotechnology 181,610 141,425 132,937
+ R&D Systems Europe 49,512 33,563 23,641
+ Corporate and other 73,554 68,329 62,833
+ Intersegment eliminations (1,309) (1,348) (1,346)
+ -------- -------- --------
+Total assets 325,460 263,277 238,247
+ ======== ======== ========
+Depreciation and amortization
+ Hematology 346 355 316
+ Biotechnology 3,632 4,106 10,780
+ R&D Systems Europe 275 288 252
+ Corporate and other 1,787 1,604 1,340
+ -------- -------- --------
+Total depreciation and amortization 6,040 6,353 12,688
+ ======== ======== ========
+Capital purchases
+ Hematology 46 43 831
+ Biotechnology 2,786 7,799 2,332
+ R&D Systems Europe 144 193 201
+ Corporate and other 734 7,159 18,912
+ -------- -------- --------
+Total capital purchases 3,710 15,194 22,276
+ ======== ======== ========
+
+Corporate and other reconciling items include the results of unallocated
+corporate expenses and assets, the operations of the Company's equity
+investments in ChemoCentryx, Inc., Discovery Genomics, Inc. and Hemerus, the
+impairment loss on the equity investment in fiscal 2004 and the litigation
+settlement in fiscal 2002.
+
+Following is financial information relating to geographic areas (in thousands):
+
+ YEAR ENDED JUNE 30,
+ 2004 2003 2002
+ -------- -------- --------
+External sales
+ United States 94,559 87,774 80,957
+ Other areas 66,698 57,237 49,943
+ -------- -------- --------
+Total external sales 161,257 145,011 130,900
+ ======== ======== ========
+Long-lived assets
+ United States 81,870 82,481 71,616
+ Other areas 752 814 835
+ -------- -------- --------
+Total long-lived assets 82,622 83,295 72,451
+ ======== ======== ========
+
+External sales are attributed to countries based on the location of the
+customer/distributor. Long-lived assets are comprised of land, buildings and
+improvements, equipment and deposits on real estate.
+
+K. BENEFIT PLANS:
+
+PROFIT SHARING PLANS: The Company has a Profit Sharing and Savings Plan for
+non-union U.S. employees, which conforms to IRS provisions for 401(k) plans.
+The Company may make profit sharing contributions at the discretion of the
+Board of Directors. Operations have been charged for contributions to the plan
+of 902,000, 440,000 and 1,022,000 for the years ended June 30, 2004, 2003
+and 2002, respectively. The Company operates a defined contribution pension
+plan for employees of R&D Systems Europe Ltd. Operations have been charged for
+contributions to the plan of 105,000, 84,000 and 84,000 for the years ended
+June 30, 2004, 2003 and 2002, respectively.
+
+STOCK BONUS PLANS: The Company also has Stock Bonus Plans covering non-union
+employees. The Company may make contributions to the plans in the form of
+common stock, cash or other property at the discretion of the Board of
+
+ 39
+
+Directors. The Company purchases its common stock at market value for
+contribution to the plans. For the years ended June 30, 2004, 2003 and 2002
+operations have been charged 947,000, 463,000 and 1,081,000, respectively.
+
+PERFORMANCE INCENTIVE PROGRAM: Under certain employment agreements with
+executive officers, the Company recorded bonuses of 66,000, 68,000 and
+ 98,000 for the years ended June 30, 2004, 2003 and 2002, respectively. In
+addition, options for 41,758, 3,460 and 3,108 shares of common stock were
+granted to the executive officers during fiscal 2004, 2003 and 2002,
+respectively.
+
+L. SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION AND NONCASH INVESTING AND
+ FINANCING ACTIVITIES:
+
+The Company paid and received cash for the following items (in thousands):
+
+ YEAR ENDED JUNE 30,
+ 2004 2003 2002
+ -------- -------- --------
+Income taxes paid 25,979 17,477 21,251
+Interest paid 672 1,022 1,326
+Interest received 3,474 3,380 3,665
+
+In fiscal 2004, stock options for 1,000 shares of common stock were exercised
+by the surrender of 204 shares of common stock at fair market value of 9,000.
+In fiscal 2003, stock options for 126,784 shares of common stock were exercised
+by the surrender of 14,092 shares of common stock at fair market value of
+ 454,000. In fiscal 2002, stock options for 80,000 shares of common stock were
+exercised by the surrender of 7,654 shares of common stock at fair market value
+of 225,000.
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+Board of Directors and Stockholders
+TECHNE Corporation
+Minneapolis, Minnesota
+
+We have audited the accompanying consolidated balance sheets of TECHNE
+Corporation and Subsidiaries (the Company) as of June 30, 2004 and 2003, and
+the related consolidated statements of earnings, stockholders' equity and cash
+flows for the years then ended. These consolidated financial statements are the
+responsibility of the Company's management. Our responsibility is to express an
+opinion on these consolidated financial statements based on our audits.
+
+We conducted our audits in accordance the standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we
+plan and perform the audit to obtain reasonable assurance about whether the
+consolidated financial statements are free of material misstatement. An audit
+includes examining, on a test basis, evidence supporting the amounts and
+disclosures in the consolidated financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall consolidated financial statement
+presentation. We believe that our audits provide a reasonable basis for our
+opinion.
+
+In our opinion, the fiscal 2004 and 2003 consolidated financial statements
+referred to above present fairly, in all material respects, the consolidated
+financial position of TECHNE Corporation and Subsidiaries as of June 30, 2004
+and 2003 and the results of their operations and their cash flows for the years
+then ended in conformity with U.S. generally accepted accounting principles.
+
+As discussed in note A to the consolidated financial statements, the Company
+adopted the provisions of Statement of Financial Accounting Standards No. 142,
+"Goodwill and Other Intangible Assets," on July 1, 2002.
+
+ /s/ KPMG LLP
+
+Minneapolis, Minnesota
+August 10, 2004
+
+ 40
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+Board of Directors and Stockholders
+TECHNE Corporation
+Minneapolis, Minnesota
+
+We have audited the accompanying consolidated statements of earnings,
+stockholders' equity, and cash flows of TECHNE Corporation and
+Subsidiaries (the "Company") for the year ended June 30, 2002. These
+consolidated financial statements are the responsibility of the
+Company's management. Our responsibility is to express an opinion on
+these consolidated financial statements based on our audit.
+
+We conducted our audit in accordance with the standards of the Public
+Company Accounting Oversight Board (United States of America). Those
+standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles
+used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation. We believe
+that our audit provides a reasonable basis for our opinion.
+
+In our opinion, such consolidated financial statements present fairly,
+in all material respects, the results of operations and cash flows of
+TECHNE Corporation and Subsidiaries for the year ended June 30, 2002,
+in conformity with accounting principles generally accepted in the
+United States of America.
+
+/s/ DELOITTE & TOUCHE LLP
+
+August 13, 2002
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+ ACCOUNTING AND FINANCIAL DISCLOSURE
+
+None.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+As of the end of the period covered by this report, the Company conducted an
+evaluation, under the supervision and with the participation of the principal
+executive officer and principal financial officer, of the Company's
+disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-
+15(e) under the Securities Exchange Act of 1934 (the "Exchange Act")). Based
+on this evaluation, the principal executive officer and principal financial
+officer concluded that the Company's disclosure controls and procedures are
+effective to ensure that information required to be disclosed by the Company
+in reports that it files or submits under the Exchange Act is recorded,
+processed, summarized and reported within the time periods specified in
+Securities and Exchange Commission rules and forms. There was no change in
+the Company's internal control over financial reporting during the Company's
+most recently completed fiscal quarter that has materially affected, or is
+reasonably likely to materially affect, the Company's internal control over
+financial reporting.
+
+ 41
+
+PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS
+
+Other than "Executive Officers of the Company" which is set forth at the end
+of Part I of this Form 10-K, the information required by Item 10 is
+incorporated herein by reference to the sections entitled "Election of
+Directors", "Committees and Meetings of the Board of Directors", "Code of
+Ethics and Business Conduct and Financial Fraud Hotline" and "Compliance With
+Section 16(a) of the Securities Exchange Act" in the Company's proxy
+statement for its 2004 Annual Meeting of Shareholders which will be filed
+with the Securities and Exchange Commission pursuant to Regulation 14A within
+120 days after the close of the fiscal year for which this report is filed.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+The information required by Item 11 is incorporated herein by reference to
+the section entitled "Executive Compensation" in the Company's proxy
+statement for its 2004 Annual Meeting of Shareholders which will be filed
+with the Securities and Exchange Commission pursuant to Regulation 14A within
+120 days after the close of the fiscal year for which this report is filed.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL
+ OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+
+Information about the Company's equity compensation plans at June 30, 2004 is
+as follows (shares in thousands):
+
+ Number of
+ Number of Weighted- Securities
+ Securities to be Average Remaining
+ Issued Upon Exercise Price Available for
+ Exercise of of Outstanding Future Issuance
+ Outstanding Options, Under Equity
+ Options, Warrants Warrants and Compensation
+Plan Category and Rights Rights Plans
+- ------------- ----------------- -------------- ---------------
+Equity compensation
+ plans approved by
+ Stockholders(1) 1,337 23.60 3,452
+Equity compensation
+ plans not approved
+ by stockholders(2) 120 11.89 0
+
+(1) Includes the Company's 1997 and 1987 Incentive Stock Option Plans and 1998
+and 1988 Nonqualified Stock Option Plans. No future grants will be made
+under the 1987 and 1988 Plans.
+(2) Includes warrants issued as part of a real estate purchase. The warrants
+expire on June 30, 2006.
+
+The remaining information required by Item 12 is incorporated by reference to
+the sections entitled "Principal Shareholders" and "Management Shareholdings"
+in the Company's proxy statement for its 2004 Annual Meeting of Shareholders
+which will be filed with the Securities and Exchange Commission pursuant to
+Regulation 14A within 120 days after the close of the fiscal year for which
+this report is filed.
+
+ 42
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+None.
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+The information required by Item 16 is incorporated herein by reference to
+the section entitled "Audit Fees" in the Company's proxy statement for its
+2004 Annual Meeting of Shareholders which will be filed with the Securities
+and Exchange Commission pursuant to Regulation 14A within 120 days after the
+close of the fiscal year for which this report is filed.
+
+PART IV
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND
+ REPORTS ON FORM 8-K
+
+A. (1) List of Financial Statements.
+
+ The following Consolidated Financial Statements are filed as part of
+ this Report:
+
+ Consolidated Statements of Earnings for the Years Ended
+ June 30, 2004, 2003 and 2002
+
+ Consolidated Balance Sheets as of June 30, 2004 and 2003
+
+ Consolidated Statements of Stockholders' Equity for the Years
+ Ended June 30, 2004, 2003 and 2002
+
+ Consolidated Statements of Cash Flows for the Years Ended
+ June 30, 2004, 2003 and 2002
+
+ Notes to Consolidated Financial Statements for the Years
+ Ended June 30, 2004, 2003 and 2002
+
+ Report of Independent Registered Public Accounting Firm
+
+ 43
+
+(2) Financial Statement Schedules.
+
+SCHEDULE II - VALUATION AND QUALIFYING ACCOUNT
+ YEARS ENDED JUNE 30, 2004, 2003 AND 2002
+ (in 000's)
+
+ Balance at Provision Balance at
+ Beginning Charged/(Credited) Accounts End of
+ of Year to Income Written Off Year
+ --------- ------------------ ----------- ----------
+Year ended June
+ 30, 2004:
+ Allowance for
+ doubtful accounts 268 76 (111) 233
+
+Year ended June
+ 30, 2003:
+ Allowance for
+ doubtful accounts 263 91 (86) 268
+Year ended June
+ 30, 2002:
+ Allowance for
+ doubtful accounts 126 137 -- 263
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC
+ ACCOUNTING FIRM ON SCHEDULE
+
+Board of Directors and Stockholders
+TECHNE Corporation
+Minneapolis, Minnesota
+
+Under the date of August 10, 2004, we reported on the consolidated balance
+sheets of TECHNE Corporation and Subsidiaries as of June 30, 2004 and 2003
+and the related consolidated statements of earnings, stockholders' equity and
+cash flows for the years then ended. In connection with our audit of the
+aforementioned financial statements, we also have audited the related
+financial statement schedule for the years ended June 30, 2004 and 2003 as
+listed in the accompanying index. The financial statement schedule is the
+responsibility of the Company's management. Our responsibility is to express
+an opinion on the financial statement schedule based on our audits. In our
+opinion, such financial statement schedule for the years ended June 30, 2004
+and 2003, when considered in relation to the basic financial statements taken
+as a whole, presents fairly, in all material respects, the information set
+forth therein.
+
+Our report on the fiscal 2004 consolidated financial statements of TECHNE
+Corporation and Subsidiaries refers to the Company's adoption of the
+provisions of Statement of Financial Accounting Standards No. 142, "Goodwill
+and Other Intangible Assets," on July 1, 2002.
+
+ /s/ KPMG LLP
+
+Minneapolis, Minnesota
+August 10, 2004
+
+ 44
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+Board of Directors and Stockholders
+TECHNE Corporation
+Minneapolis, Minnesota
+
+We have audited the consolidated financial statements of TECHNE Corporation
+and Subsidiaries (the "Company") for the year ended June 30, 2002, and have
+issued our report thereon dated August 13, 2002; such consolidated financial
+statements and report are included elsewhere in this Form 10-K. Our audit also
+included the financial statement schedule of the Company for the year ended
+June 30, 2002 listed in Item 15 (2). This financial statement schedule is the
+responsibility of the Company's management. Our responsibility is to express
+an opinion based on our audit. In our opinion, such financial statement
+schedule for the year ended June 30, 2002, when considered in relation to
+the basic consolidated financial statements taken as a whole, presents
+fairly in all material respects the information set forth therein.
+
+/s/ DELOITTE & TOUCHE LLP
+
+Minneapolis, Minnesota
+August 13, 2002
+
+(3) Exhibits.
+
+ See Exhibit Index immediately following signature page.
+
+B. Reports on Form 8-K:
+
+ Form 8-K dated April 27, 2004 furnishing pursuant to Item 12, the
+ Registrant's press release reporting earnings for its third quarter of
+ fiscal 2004 and segment information for the quarter and nine months
+ ended March 31, 2004.
+
+ Form 8-K dated August 10, 2004 furnishing pursuant to Item 12, the
+ Registrant's press release reporting earnings for its fourth quarter
+ of fiscal 2004 and segment information for the year ended June 30, 2004.
+
+ 45
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15 (d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this Report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+ TECHNE CORPORATION
+
+Date: September 10, 2004 /s/ Thomas E. Oland
+ --------------------
+ By: Thomas E. Oland
+ Its: President
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+Report has been signed by the following persons on behalf of the Registrant
+and in the capacities and on the dates indicated.
+
+Date Signature and Title
+- ---- -------------------
+September 10, 2004 /s/ Thomas E. Oland
+ -------------------
+ Thomas E. Oland
+ Chairman of the Board, President,
+ Treasurer, Chief Executive Officer,
+ Chief Financial Officer and
+ Director
+
+September 10, 2004 /s/ Roger C. Lucas, Ph.D.
+ -------------------------
+ Dr. Roger C. Lucas
+ Vice Chairman and Director
+
+September 10, 2004 /s/ Howard V. O'Connell
+ -----------------------
+ Howard V. O'Connell, Director
+
+September 10, 2004 /s/ G. Arthur Herbert
+ ---------------------
+ G. Arthur Herbert, Director
+
+September 10, 2004 /s/ Randolph C. Steer, Ph.D., M.D.
+ ----------------------------------
+ Dr. Randolph C. Steer, Director
+
+September 10, 2004 /s/ Christopher S. Henney, Ph.D., D.Sc.
+ ---------------------------------------
+ Dr. Christopher S. Henney, Director
+
+September 10, 2004 /s/ Robert V. Baumgartner
+ -------------------------
+ Robert V. Baumgartner, Director
+
+46
+
+EXHIBIT INDEX
+ for Form 10-K for the 2004 Fiscal Year
+Exhibit
+Number Description
+- ------- -----------
+3.1 Restated Articles of Incorporation of Company, as amended to date-
+ -incorporated by reference to Exhibit 3.1 of the Company's Form
+ 10-Q for the quarter ended September 30, 2000 
+
+3.2 Restated Bylaws, as amended to date--incorporated by reference to
+ Exhibit 3.2 of the Company's Form 10, dated October 27, 1988 
+
+10.1 Employee Agreement with Respect to Inventions, Proprietary
+ Information, and Unfair Competition with Thomas E. Oland--
+ incorporated by reference to Exhibit 10.2 of the Company's Form
+ 10, dated October 27, 1988 
+
+10.2 Company's Profit Sharing Plan--incorporated by reference to
+ Exhibit 10.6 of the Company's Form 10, dated October 27, 1988 
+
+10.3 Company's Stock Bonus Plan--incorporated by reference to Exhibit
+ 10.7 of the Company's Form 10, dated October 27, 1988 
+
+10.4 1987 Incentive Stock Option Plan--incorporated by reference to
+ Exhibit 10.14 of the Company's Form 10, dated October 27, 1988 
+
+10.5 Form of Stock Option Agreement for 1987 Incentive Stock Option
+ Plan--incorporated by reference to Exhibit 10.15 of the Company's
+ Form 10, dated October 27, 1988 
+
+10.6 1988 Nonqualified Stock Option Plan--incorporated by reference to
+ Exhibit 10.16 of the Company's Form 10, dated October 27, 1988 
+
+10.7 Form of Stock Option Agreement for Nonqualified Stock Option Plan-
+ -incorporated by reference to Exhibit 10.17 of the Company's Form
+ 10, dated October 27, 1988 
+
+10.8 International Distributor Agreement dated October 1, 1991 between
+ Research and Diagnostic Systems, Inc. and Hycel, S.A.-
+ incorporated by reference to Exhibit 28.2 of the Company's Form 8-
+ K dated September 30, 1991, as amended by Forms 8 dated November
+ 1, 1991 and November 25, 1991 
+
+10.9 Employment Agreement, dated March 6, 1996, with Monica Tsang--
+ incorporated by reference to Exhibit 10.25 of the Company's Form
+ 10-K for the year ended June 30, 1996 
+
+10.10 1997 Incentive Stock Option Plan--incorporated by reference to
+ Exhibit 10.24 of the Company's Form 10-K for the year ended June
+ 30, 1997 
+
+10.11 Form of Stock Option Agreement for 1997 Incentive Stock Option
+ Plan--incorporated by reference to Exhibit 10.25 of the Company's
+ Form 10-K for the year ended June 30, 1997 
+
+10.12 Investment Agreement between ChemoCentryx, Inc. and Techne
+ Corporation dated November 18, 1997--incorporated by reference to
+ Exhibit 10.1 of the Company's Form 10-Q for the quarter ended
+ December 31, 1997 
+
+10.13 Purchase and Sale Agreement dated as of June 22, 1998 among Techne
+ Corporation, Research and Diagnostic Systems, Inc. and Genzyme
+ Corporation--incorporated by reference to Exhibit 2.1 of the
+ Company's Form 8-K dated July 1, 1998, as amended by Form 8-K/A
+ dated September 14, 1998 
+- ------------
+ Incorporated by reference; SEC File No. 0-17272
+ Management contract or compensatory plan or arrangement
+
+ 47
+
+Exhibit
+Number Description
+- ------- -----------
+10.14 1998 Nonqualified Stock Option Plan--incorporated by reference to
+ Exhibit 10.1 of the Company's Form 10-Q for the quarter ended
+ September 30, 1998 
+
+10.15 Form of Stock Option Agreement for 1998 Nonqualified Stock Option
+ Plan--incorporated by reference to Exhibit 10.2 of the Company's
+ Form 10-Q for the quarter ended September 30, 1998 
+
+10.16 Purchase Agreement dated January 22, 1999, between R&D Systems,
+ Inc. and Hillcrest Development, relating to the purchase of
+ property as 614 and 640 McKinley Place NE and 2201 Kennedy Street
+ in Minneapolis, Minnesota and First amendment dated February 5,
+ 1999--incorporated by reference to Exhibit 10.1 of the Company's
+ Form 10-Q for the quarter ended December 31, 1998 
+
+10.17 Extension, dated March 31, 1999, to Employment Agreement with
+ Monica Tsang, Ph.D.--incorporated by reference to Exhibit 10.2 of
+ the Company's Form 10-Q for the quarter ended March 31, 1999 
+
+10.18 Extension, dated March 31, 1999, to Employment Agreement with
+ Marcel Veronneau--incorporated by reference to Exhibit 10.3 of the
+ Company's Form 10-Q for the quarter ended March 31, 1999 
+
+10.19 Second Amendment, dated February 2, 1999, to Purchase Agreement
+ dated January 22, 1999 between R&D Systems, Inc. and Hillcrest
+ Development--incorporated by reference to Exhibit 10.4 of the
+ Company's Form 10-Q for the quarter ended March 31, 1999 
+
+10.20 Third Amendment, dated April 3, 1999, to Purchase Agreement dated
+ January 22, 1999 between R&D Systems, Inc. and Hillcrest
+ Development--incorporated by reference to Exhibit 10.5 of the
+ Company's Form 10-Q for the quarter ended March 31, 1999 
+
+10.21 Phase I Option Agreement, dated February 10, 1999, between R&D
+ Systems, Inc. and Hillcrest Development and form of Purchase
+ Agreement relating to the purchase of property at 2101 Kennedy
+ Street in Minneapolis, Minnesota-- incorporated by reference to
+ Exhibit 10.6 of the Company's Form 10-Q for the quarter ended
+ March 31, 1999 
+
+10.22 First Amendment, dated April 10, 1999, to Phase I Option Agreement
+ dated February 10, 1999-- incorporated by reference to Exhibit
+ 10.7 of the Company's Form 10-Q for the quarter ended March 31,
+ 1999 
+
+10.23 Phase II Option Agreement, dated February 10, 1999, between R&D
+ Systems, Inc. and Hillcrest Development and form of Purchase
+ Agreement relating to the purchase of property at 2001 Kennedy
+ Street in Minneapolis, Minnesota-- incorporated by reference to
+ Exhibit 10.8 of the Company's Form 10-Q for the quarter ended
+ March 31, 1999 
+
+10.24 Second Amendment, dated June 9, 1999, to Phase I Option Agreement
+ dated February 10, 1999-- incorporated by reference to Exhibit
+ 10.33 of the Company's Form 10-K for the year ended June 30, 1999 
+
+10.25 Second Amendment, dated June 10, 1999, to Phase II Option
+ Agreement dated February 10, 1999-- incorporated by reference to
+ Exhibit 10.34 of the Company's Form 10-K for the year ended June
+ 30, 1999 
+
+10.26 Warrant to purchase 60,000 shares of Common Stock issued to
+ Hillcrest Development on July 1, 1999--incorporated by reference
+ to Exhibit 10.35 of the Company's Form 10-K for the year ended
+ June 30, 1999 
+
+- -------------
+ Incorporated by reference; SEC File No. 0-17272
+ Management contract or compensatory plan or arrangement
+
+ 48
+
+Exhibit
+Number Description
+- ------- -----------
+10.27 Combination Mortgage, Security Agreement and Fixture Financing
+ Statement dated July 1, 1999 between the Company and TCF National
+ Bank Minnesota (TCF)--incorporated by reference to Exhibit 10.36
+ of the Company's Form 10-K for the year ended June 30, 1999 
+
+10.28 Promissory Note from the Company to TCF dated July 1, 1999 in the
+ principal amount of 20,400,000-- incorporated by reference to
+ Exhibit 10.37 of the Company's Form 10-K for the year ended June
+ 30, 1999 
+
+10.29 Employment Agreement, dated October 1, 1999, with Timothy M.
+ Heaney-- incorporated by reference to Exhibit 10.1 of the
+ Company's Form 10-Q for the quarter ended September 30, 1999 
+
+10.30 Investment Agreement between the Company and Discovery Genomics,
+ Inc. dated August 2, 2001--incorporated by reference to Exhibit
+ 10.30 of the Company's for 10-K for the year ended June 30, 2001.
+
+10.31 Research and License Agreement between R&D Systems and Discovery
+ Genomics, Inc. dated August 2, 2001--incorporated by reference to
+ Exhibit 10.31 of the Company's 10-K for the year ended June 30,
+ 2001.
+
+10.32 Investors Rights Agreement dated February 2, 2001 among
+ ChemoCentryx, Inc., the Company and certain investors amending the
+ Investment Agreement between ChemoCentryx, Inc. and the Company
+ dated November 18, 1997--incorporated by reference to Exhibit
+ 10.32 of the Company's 10-K for the year ended June 30, 2001.
+
+10.33 Letter Agreement dated February 2, 2001 between ChemoCentryx, Inc.
+ and the Company amending the terms of warrants held by the
+ Company--incorporated by reference to Exhibit 10.33 of the
+ Company's 10-K for the year ended June 30, 2001.
+
+10.34 Third Amendment, dated October 4, 2000, to Phase I Option
+ Agreement dated February 10, 1999--incorporated by reference to
+ Exhibit 10.34 of the Company's 10-K for the year ended June 30,
+ 2001.
+
+10.35 Extension, dated August 28, 2001, to Employment Agreement with
+ Monica Tsang, Ph.D.--incorporated by reference to Exhibit 10.35 of
+ the Company's 10-K for the year ended June 30, 2001.
+
+10.36 Extension, dated August 28, 2001, to Employment Agreement with
+ Marcel Veronneau--incorporated by reference to Exhibit 10.36 of
+ the Company's 10-K for the year ended June 30, 2001.
+
+10.37 Exercise of Option Agreement Relating to 2101 Kennedy Street dated
+ October 31, 2001--incorporated by reference to Exhibit 10.1 of the
+ Company's 10-Q for the quarter ended September 30, 2001.
+
+10.38 Warranty Deed for purchase of certain property in Hennepin County,
+ Minnesota--incorporated by reference to Exhibit 10.1 of the
+ Company's 10-Q for the quarter ended March 31, 2002.
+
+10.39 Correction/Amendment to Investment Agreement dated April 23, 2002,
+ between Techne Corporation and Discovery Genomics, Inc.-
+ incorporated by reference to Exhibit 10.39 of the Company's 10-K
+ for the year ended June 30, 2002.
+
+10.40 Form of Indemnification Agreement entered into with each director
+ and executive officer of the Registrant-incorporated by reference
+ to Exhibit 10.1 of the Company's 10-Q for the quarter ended
+ December 31, 2002.
+
+10.41 Extension, dated June 30, 2004, to Employment Agreement with
+ Monica Tsang, Ph.D.
+
+10.42 Extension, dated June 30, 2004, to Employment Agreement with
+ Marcel Veronneau
+
+- -------------
+ Incorporated by reference; SEC File No. 0-17272
+ Management contract or compensatory plan or arrangement
+
+ 49
+
+Exhibit
+Number Description
+- ------- -----------
+
+21 Subsidiaries of the Company:
+ State/Country of
+ Name Incorporation
+ ---- -----------------
+ Research and Diagnostic Systems, Inc. Minnesota
+ R&D Systems Europe Ltd. Great Britain
+ R&D Systems GmbH Germany
+
+23 Consent of KPMG LLP, Independent Registered Public Accounting Firm
+
+23.1 Consent of Deloitte & Touche LLP, Independent Registered Public
+ Accounting Firm
+
+31 Section 302 Certification
+
+32 Section 906 Certification
+
+- -------------
+ Incorporated by reference; SEC File No. 0-17272
+ Management contract or compensatory plan or arrangement
+
+ 50
+
+<EX-10.41>
+ 2
+ tsang.txt
+ EMPLOYMENT AGREEMENT WITH MONICA TSANG
+ 
+ EXTENSION OF EMPLOYMENT AGREEMENT
+
+DATE: June 30, 2004
+
+Parties: Techne Corporation
+ 614 McKinley Place N.E.
+ Minneapolis, MN 55413
+
+Monica Tsang, Ph.D.
+
+AGREEMENTS:
+
+ The parties hereby agree that the termination date of the
+Employment Agreement between them for the period July 1, 1995 through June 30,
+1998 and previously extended to June 30, 2004 is extended to June 30, 2007.
+All other provisions of such Employment Agreement shall remain in full force
+and effect.
+
+Techne Corporation
+
+By /s/ Thomas E. Oland
+ ------------------------
+ Thomas E. Oland, President
+
+/s/ Monica Tsang
+- ------------------
+Monica Tsang, Ph.D.
+
+</EX-10.41>
+
+<EX-10.42>
+ 3
+ veronneau.txt
+ EMPLOYMENT AGREEMENT WITH MARCEL VERONNEAU
+ 
+ EXTENSION OF EMPLOYMENT AGREEMENT
+
+DATE: June 30, 2004
+
+Parties: Techne Corporation
+ 614 McKinley Place N.E.
+ Minneapolis, MN 55413
+
+Marcel Veronneau
+
+AGREEMENTS:
+
+ The parties hereby agree that the termination date of the Employment
+Agreement between them for the period July 1, 1995 through June 30, 1998 and
+previously extended to June 30, 2004 is extended to June 30, 2007. All other
+provisions of such Employment Agreement shall remain in full force and effect.
+
+Techne Corporation
+
+By /s/ Thomas E. Oland
+ ----------------------
+ Thomas E. Oland, President
+
+/s/ Marcel Veronneau
+- ----------------------
+ Marcel Veronneau
+
+</EX-10.42>
+
+<EX-23>
+ 4
+ ex23.txt
+ CONSENT OF KPMG
+
+CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+Board of Directors and Stockholders
+TECHNE Corporation
+Minneapolis, Minnesota
+
+We consent to the incorporation by reference in the Registration
+Statements (No. 33-42992, 33-49160, 33-86728, 33-86732, 333-14211, 333-
+37263, 333-88885, and 333-4992) on Form S-8 of TECHNE Corporation of our
+reports dated August 10, 2004, with respect to the consolidated balance
+sheets of TECHNE Corporation as of June 30, 2004 and 2003, and the
+related consolidated statements of earnings, stockholders' equity and
+cash flows for the years then ended, and the related financial statement
+schedule for the years ended June 30, 2004 and, which reports appear in
+the June 30, 2004, annual report on Form 10-K of TECHNE Corporation.
+
+/s/ KPMG LLP
+Minneapolis, Minnesota
+September 10, 2004
+
+</EX-23>
+
+<EX-23.1>
+ 5
+ ex23-1.txt
+ CONSENT OF DELOITTE
+ 
+CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+We consent to the incorporation by reference in Registration Statement Nos.
+33-42992, 33-49160, 33-86728, 33-86732, 333-14211, 333-37263, 333-88885, and
+333-49962 of TECHNE Corporation on Form S-8 of our report dated August 13,
+2002, appearing in this Annual Report on Form 10-K of TECHNE Corporation and
+Subsidiaries for the year ended June 30, 2004.
+
+/s/ DELOITTE & TOUCHE LLP
+
+Minneapolis, Minnesota
+September 9, 2004
+
+</EX-23.1>
+
+<EX-31>
+ 6
+ ex31.txt
+ 302 CERTIFICATION
+
+CERTIFICATION
+
+I, Thomas E. Oland, certify that:
+
+1. I have reviewed this annual report on Form 10-K of Techne Corporation;
+
+2. Based on my knowledge, this report does not contain any untrue
+ statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which
+ such statements were made, not misleading with respect to the period
+ covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of
+ the registrant as of, and for, the periods presented in this report.
+
+4. The registrant's other certifying officers and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-15(e) and 15d-15(e) for the registrant
+ and have:
+
+ a) designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the registrant, including
+ its consolidated subsidiaries, is made known to us by others within those
+ entities, particularly during the period in which this report is being
+ prepared;
+
+ b) evaluated the effectiveness of the registrant's disclosure controls and
+ procedures and presented in this report our conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the end of
+ the period covered by this report based on such evaluation; and
+
+ c) disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the registrant's
+ fourth quarter that has materially affected, or is reasonable likely to
+ materially affect, the registrant's internal control over financial
+ reporting; and
+
+5. The registrant's other certifying officers and I have disclosed, based on
+ our most recent evaluation of internal control over financial reporting, to
+ the registrant's auditors and the audit committee of the registrant's board
+ of directors (or persons performing the equivalent function):
+
+ a) all significant deficiencies and material weaknesses in the design or
+ operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant's ability to record,
+ process, summarize and report financial information; and
+
+ b) any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal
+ control over financial reporting.
+
+Date: September 10, 2004
+
+/s/ Thomas E. Oland
+- ---------------------
+Thomas E. Oland
+Chief Executive Officer and
+Chief Financial Officer
+
+</EX-31>
+
+<EX-32>
+ 7
+ ex32.txt
+ 906 CERTIFICATION
+
+TECHNE CORPORATION
+
+CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Annual Report of Techne Corporation (the "Company") on
+Form 10-K for the year ended June 30, 2004 as filed with the Securities and
+Exchange Commission on the date hereof (the "Report"), I, Thomas E. Oland,
+Chief Executive and Chief Financial Officer of the Company, certify, pursuant
+to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that:
+
+ (1) The Report fully complies with the requirements of Section 13(a)
+ or 15 (d) of the Securities Exchange Act of 1934; and
+
+ (2) The information contained in the Report fairly presents, in all
+ material respects, the financial condition and results of
+ operations of the Company.
+
+/s/ Thomas E. Oland
+ --------------------------
+ Chief Executive Officer and
+ Chief Financial Officer
+ September 10, 2004
+
+</EX-32>
+

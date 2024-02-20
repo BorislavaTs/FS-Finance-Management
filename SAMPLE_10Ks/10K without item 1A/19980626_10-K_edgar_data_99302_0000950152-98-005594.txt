@@ -1,0 +1,3702 @@
+<Header>
+<FileStats>
+    <FileName>19980626_10-K_edgar_data_99302_0000950152-98-005594.txt</FileName>
+    <GrossFileSize>200779</GrossFileSize>
+    <NetFileSize>147888</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>3688</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950152-98-005594.hdr.sgml : 19980629
+ACCESSION NUMBER:		0000950152-98-005594
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		9
+CONFORMED PERIOD OF REPORT:	19980331
+FILED AS OF DATE:		19980626
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRANSMATION INC
+		CENTRAL INDEX KEY:			0000099302
+		STANDARD INDUSTRIAL CLASSIFICATION:	INSTRUMENTS FOR MEAS & TESTING OF ELECTRICITY & ELEC SIGNALS [3825]
+		IRS NUMBER:				160874418
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-03905
+		FILM NUMBER:		98654671
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10 VANTAGE PT
+		CITY:			ROCHESTER
+		STATE:			NY
+		ZIP:			14624
+		BUSINESS PHONE:		7163527777
+
+	MAIL ADDRESS:	
+		STREET 1:		10 VANTAGE PT
+		CITY:			ROCHESTER
+		STATE:			NY
+		ZIP:			14624
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ V8w5qzlBrT1RalPT7rhDc1Pexx49visKJlbaEm+2g7N8qSdX38d93qGgPKm9q7V0
+ r8NfpRwRKl8pMEsBDaqdpg==
+
+ 0000950152-98-005594.txt : 19980629
+
+10-K
+ 1
+ TRANSMATION, INC. ANNUAL REPORT FORM 10-K
+
+1
+
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+
+ FORM 10-K
+
+(Mark One)
+
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+OF 1934 (NO FEE REQUIRED)
+
+ For the fiscal year ended March 31, 1998
+ ----------------------
+ 
+ OR
+
+___ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE
+ACT OF 1934 (NO FEE REQUIRED)
+
+For the transition period from________________ to _______________________
+
+ Commission file number 0-3905
+ ---------
+
+ TRANSMATION, INC.
+- --------------------------------------------------------------------------------
+ (Exact name of registrant as specified in its charter)
+
+ OHIO 16-0874418
+- ---------------------------------------- --------------------------------------
+(State or other jurisdiction of (I.R.S. Employer
+incorporation or organization) Identification No.)
+
+ 10 Vantage Point Drive, Rochester, NY 14624
+- ------------------------------------------------ ------------------------------
+(Address of principal executive offices) (Zip Code)
+
+Registrant's telephone number, including area code 716-352-7777
+ ------------------------------
+
+- --------------------------------------------------------------------------------
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Name of each exchange on which registered
+- --------------------------------- -----------------------------------------
+
+ None None
+- --------------------------------- -----------------------------------------
+
+- --------------------------------- -----------------------------------------
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+- --------------------------------------------------------------------------------
+ (Title of Class)
+
+ Common Stock 0.50 Par Value
+- --------------------------------------------------------------------------------
+ (Title of Class)
+
+Indicate by check mark (X) whether the registrant, (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports) and (2) has been subject to such
+filing requirements for the past 90 days. Yes X No 
+ ----- -----
+ TOTAL PAGES - 68
+
+ 2
+
+Indicate by check mark (X) if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. 
+The aggregate market value of the voting stock held by non-affiliates of the
+registrant is 34,956,479 as of the close of business June 16, 1998. Market
+value is determined by reference to the final NASDAQ quotation of the price paid
+for Transmation stock as of that date.
+
+Indicate the number of shares outstanding of each of the Registrant's classes of
+common stock, as of the close of business on June 5, 1998.
+
+ Class Number of Shares Outstanding
+ Common 5,832,945
+ ------ ----------------------------
+
+Documents incorporated by reference and the part of Form 10-K into which they
+are incorporated are listed hereunder.
+
+ Part of Form 10-K Document Incorporated
+ ----------------- ---------------------
+
+ Part III Registrant's definitive Proxy Statement 
+ for Annual Meeting of Shareholders to be
+ held on August 18, 1998 
+
+2
+
+ 3
+
+Part I
+ ------
+
+Item 1. Business
+- -----------------
+
+Transmation, Inc., the "Company", an Ohio corporation organized in 1964, is
+primarily engaged in the sale and distribution, development, manufacture and
+service of electronic instrumentation which is used principally for measurement,
+indication and transmission of information. The principal products sold and
+serviced by Transmation fall within two main categories:
+
+ Test, measurement and calibration equipment - Instruments used
+ for calibrating, measuring and testing many physical
+ parameters in industry and science. These products are
+ manufactured by Transmation or by other manufacturers and are
+ distributed and serviced by Transmation.
+
+ Process monitoring instrumentation - A line of instrumentation
+ which measures low level signals, proportional to some
+ parameter such as temperature, and then amplifies the
+ measurement to permit transmission to a receiving device which
+ may be used to alter the process or trigger an alarm. Certain
+ of these products may be used to monitor one or more points of
+ a process by multiplexing information into one or more digital
+ devices. These products are manufactured, distributed and
+ serviced by Transmation.
+
+Products and services sold range in price from 100 for a single calibration
+service to more than 200,000 for a large multiplexing system.
+
+The principal market for Transmation's products and services is within the
+process industry and is primarily directed to the petroleum refining and
+chemical manufacturing industries, and secondarily to the pulp and paper, gas
+pipeline and primary metals industries. Transmation's sales are accomplished
+through a catalog distribution division, the Transcat Division ("Transcat"), a
+manufacturing division, the Instrument Division, a manufacturing subsidiary,
+Altek Industries Corp. ("Altek"), and four foreign sales subsidiaries.
+
+Sales of test, measurement and calibration equipment and services are
+principally made through Transcat, which sells through a catalog distributed to
+existing and prospective customers, and through salespeople in selected
+locations in the United States and Canada. Transcat sells
+Transmation-manufactured products and re-sells the products of approximately 200
+other manufacturers through an annual catalog, which is currently approximately
+550 pages. To date, more than one million catalogs have been distributed through
+this part of Transmation's sales and marketing effort. In addition to the annual
+catalog, Transcat makes periodic mailings to existing and prospective customers
+to spur additional sales as well as to generate names for future catalog or
+product mailings.
+
+In addition to catalog sales, Transmation engages in direct sales of test,
+measurement and calibration equipment and services as well as process monitoring
+instrumentation. The Company employs over 30 direct sales people in Transcat and
+four sales managers in the Instrument Division and Altek. Two sales people are
+employed in Australia to manage Far Eastern sales representative or distributor
+organizations and to direct sell in Australia. The Company also maintains one
+regional sales manager in Singapore. In addition, the Company has arrangements
+with over 60 sales representative and distributor organizations, each employing
+one or more sales engineers, located in other areas of concentrated demand for
+Transmation's products in the United States, Canada, the Far East, Central and
+South America, Australia, the Middle East and Eastern and Western Europe. These
+sales representatives and distributors either promote Transmation's products on
+a commission basis or purchase them from Transmation at a discount and resell to
+end users at a gross price.
+
+ 3
+ 4
+
+The Company's Transcat CalXpress operations, which are ISO 9002 registered,
+provide periodic calibration and repair services for customers owning
+instrumentation manufactured by others and by Transmation. At March 31, 1998,
+there were Transcat CalXpress facilities in 14 locations in the United States
+and Canada.
+
+The Company's two manufacturing operations, both located in Rochester, New York,
+primarily develop, manufacture and sell electronic and pneumatic instrumentation
+used to calibrate and test instrumentation used primarily in the process
+industries. The Instrument Division's facility has ISO 9001 registration.
+
+The Company's value added operations, which customize, modify and repair analog
+gauges, are located in Dayton, Ohio and Baltimore, Maryland.
+
+Since the beginning of fiscal 1997, Transmation has expanded its business
+through two acquisitions:
+
+ Altek Acquisition. In April 1996, the Company acquired all of the stock
+of Altek, a manufacturer of electronic calibration equipment, for cash and notes
+aggregating 4.8 million, and 300,000 shares of Common Stock. As a result of
+this acquisition, the Company's sales have increased by more than 5 million
+annually.
+
+ EIL Acquisition. In April 1997, the Company acquired substantially all
+of the assets of the Sales and Service Divisions of E.I.L. Instruments, Inc. a
+distributor and servicer of electronic test, measurement and calibration
+instrumentation, for 22 million in cash and the value of certain assumed
+liabilities. As a result of this acquisition, the Company has added a
+significant base of potential new customers, a value added meter modification
+business and several new product lines, and has significantly increased its
+overall capabilities to provide repair, calibration and certification services.
+
+ Transmation's future performance will depend substantially on its
+ability to integrate and manage its acquired businesses and operations, to
+respond to competitive developments, to further develop markets for its products
+and services, and to anticipate future customer needs and to provide solutions
+for customers in a timely, cost-effective manner.
+
+ The Company's principal executive offices are located at 10 Vantage
+Point Drive, Rochester, New York 14624. Its telephone number is (716) 352-7777.
+
+ The following information is set forth as it is deemed material to an
+understanding of the business of the registrant:
+
+ COMPETITION. The market to which the Company sells the products it
+manufactures is highly competitive, and the Company expects that competition
+will increase in the future. Failure to keep pace with rapid technological
+advances, which characterize the industry, could adversely affect the Company's
+competitive position with respect to the products it manufactures and the way it
+distributes its products. In its manufacturing operations, the Company competes
+on the basis of price, performance, inventory availability, quality, reliability
+and customer service and support. To maintain its competitive position with
+respect to manufactured product, the Company must continue to develop new
+products, periodically enhance its existing products, reduce its cost of
+manufacturing such products, maintain the quality of its products and compete
+effectively in the areas described above. Although the Company believes that its
+products are competitive in each of the above-described areas, there can be no
+assurance that existing or future competitors, some of which have greater
+financial resources than the Company, will not introduce comparable or superior
+products incorporating more advanced technology at lower prices. The Company's
+competitors are numerous, ranging from large corporations to many relatively
+small and highly specialized firms. Although no single company competes in all
+
+4
+ 5
+
+of the Company's product markets, some of the major competitors which compete in
+the Company's individual product markets include Fluke Corporation, Beta (a
+division of Hathaway Corporation) and certain divisions of Ametek Corporation.
+Some of these competitors have more extensive sales, distribution, engineering,
+manufacturing and/or marketing capabilities and substantially greater financial,
+technological and personnel resources than does the Company.
+
+ The markets to which the Company, through Transcat, sells products and
+related services is also highly competitive. Competition for sales in
+distribution and service is quite fragmented and ranges from large, well
+financed national distributors to small local distribution organizations and
+service providers, as well as the manufacturers of the products themselves.
+Transcat competes on the basis of price, inventory availability, service quality
+and customer service and support. To maintain its competitive position with
+respect to such products and services, the Company must continually demonstrate
+to customers its commitment to achieving the highest level of performance
+possible for a distributor and compete effectively in the areas described above.
+
+Significant Customers
+ ---------------------
+
+ There were no sales to any customer or controlled group which amounted
+to 10 percent or more of the Company's consolidated net sales during the years
+1998-1996, nor is the Company dependent on a single customer or a few customers,
+the loss of any one or more of which would have a material adverse effect on the
+Company.
+
+ Backlog
+ -------
+
+ At the close of the fiscal year ended March 31, 1998, Transmation had a
+firm order backlog of approximately 2,485,000 as compared to 1,460,000 in 1997
+and 1,347,000 in 1996.
+
+ It is anticipated that 100 percent of Transmation's backlog existing on
+March 31, 1998 will be filled by shipments in fiscal year 1999. Transmation's
+cycle of sales to delivery at the present time is 1 day to 12 weeks on all
+product categories except for process monitoring systems, where the cycle is
+10-40 weeks. However, backlog has generally not been a significant factor in
+Transmation's business.
+
+ Seasonality
+ -----------
+
+ Transmation does not believe that its line of business has any
+significant seasonal factor.
+
+ Raw Materials
+ -------------
+
+ Finished products required for the Transcat division's catalog sales
+are generally available from only one source per product (the manufacturer)
+although on occasion substitutions of product are possible. Additionally, while
+the raw materials and components essential to Transmation's manufacturing
+business are available from a number of sources of supply, a portion of the
+Company's manufacturing operations is dependent on the ability to deliver
+completed products, sub-assemblies or components in time to meet critical
+distribution and manufacturing schedules. In certain instances, important parts
+and components are available through fewer suppliers than Transmation deems
+suitable. If such suppliers should fail in deliveries, delays in Transmation's
+production could result which in turn could have a material adverse effect on
+the Company's business, prospects, results of operations and financial
+condition. Periodically, Transmation has experienced delays in obtaining certain
+parts and components or finished products. Such delays are primarily
+attributable to demand for parts or products and long lead times. In order to
+minimize such delays, Transmation has placed scheduled blanket purchase orders,
+has sought out alternate sources of supply, has provided vendors with greater
+lead time in filling such orders and has placed certain finished product in its
+inventory. 
+
+5
+ 6
+
+Transmation believes that such delays have not had a material adverse effect on
+its business to date, although it cannot predict what effect such delays may
+have in the future.
+
+ Patents
+ -------
+
+ The Company's success and ability to compete depends in part upon
+protecting its proprietary rights in its products, its name and its trade names.
+There can be no assurance that the measures taken by the Company will be
+adequate to deter misappropriation of its products, its name and its trade names
+or independent third-party development of its products, or that its intellectual
+property rights can be successfully enforced or defended if challenged. Given
+the continuing development of technology, there can be no assurance that certain
+aspects of the Company's products do not or will not infringe upon the existing
+or future proprietary rights of others or that, if licenses or rights are
+required to avoid infringement, such licenses or rights could be obtained on
+terms that would not have a material adverse effect on the Company, if at all.
+
+ It is the opinion of management that the obtaining of patent protection
+is not essential to the conduct of Transmation's business. Transmation has,
+however, sought patent protection for its manufactured products in certain
+instances and presently holds several United States patents, the most recent of
+which was granted in 1994; patents expire at various dates through 2012.
+Transmation believes that the patents obtained provide a short-term marketing
+benefit, particularly when marketing products against similar products produced
+by competitors. However, Transmation does not believe that the patents have a
+significant impact on its business.
+
+ Transmation has registered numerous trademarks in the United States
+Patent and Trademark Office, including Transcat(R), Quick-Cal(R), CalXpress(R)
+and Shop Access(R).
+
+ Research and Development
+ ------------------------
+
+ During the fiscal year ended March 31, 1998, Transmation expended
+approximately 1,660,110 in research and development as compared with an
+approximate expenditure of 1,560,974 in 1997 and 1,099,508 in 1996. The
+research and development costs in fiscal 1998 reflected the Company's efforts in
+all of its product lines in its Instrument Division and Altek subsidiary.
+
+ Research and Development is Company sponsored. Approximately 26 of its
+employees and several consultants are engaged in product development. All such
+employees hold technical degrees.
+
+ Many of the instruments which the Company designs and manufactures are
+used in the petroleum refining and chemical manufacturing industries. The
+tolerance for error in the design, manufacture or use of these products may be
+small or non-existent. If an instrument designed or manufactured by the Company
+is found to be defective, whether due to design or manufacturing defects,
+improper use of the product or other reasons, the instrument may need to be
+recalled, possibly at the Company's expense. Furthermore, the adverse effect of
+a product recall on the Company might not be limited to the cost of the recall
+to the Company. Recalls, especially if accompanied by unfavorable publicity or
+termination of customer contracts, could result in substantial costs, loss of
+revenues and diminution of the Company's reputation, each of which could have a
+material adverse effect on the Company's business, prospects, results of
+operations and financial condition. In addition, the manufacture and sale of the
+instruments manufactured by the Company also involves the risk of product
+liability claims. The Company evaluates its insurance coverage from time to time
+in view of developments in its business and products currently under
+development. Product liability insurance is expensive and, in the future, may
+not be available on acceptable terms, in sufficient amounts, or at all. A
+successful claim brought against the Company in excess of its insurance coverage
+
+6
+ 7
+
+or any material claim for which insurance coverage is denied or limited could
+have a material adverse effects on the Company's business, prospects, results of
+operations and financial condition.
+
+ Employees
+ ---------
+
+ Transmation employed 407 persons (including 3 part-time employees) as
+of March 31, 1998 in all aspects of its business. At March 31, 1997, Transmation
+employed 250 persons of which 2 were part-time. The EIL acquisition on April 4,
+1997 increased Transmation's number of employees to 496. At March 31, 1996, the
+Company employed 211 persons of which 3 were part-time. None of Transmation's
+employees is subject to collective bargaining agreements.
+
+ Since April 1996, the Company has acquired one manufacturing business
+and one business engaged in the distribution and service of products. This has
+resulted in a 150 increase in the Company's work force, the addition of one
+manufacturing facility, the addition of three value added operations and the
+addition of ten service facilities. The Company is in the process of integrating
+the acquired operations and efforts are underway to assimilate into Transmation
+the products and services formerly sold independently by the acquired
+businesses, their operations, corporate cultures, product lines, personnel,
+management information systems, financial control systems, facilities
+infrastructure and customer relationships. There can be no assurance that the
+Company will be successful in these efforts. If the Company is unable to
+integrate and manage all of the elements of these acquisitions effectively and
+efficiently, it could have a material adverse effect on the Company's business,
+prospects, results of operations and financial condition.
+
+In addition, if the Company continues to experience rapid growth, a significant
+strain may be placed on its financial, management and other resources. The
+Company's ability to manage growth effectively will require it to continue to
+improve its operational and financial control systems, infrastructure and
+management information systems, and to attract, train, motivate, manage and
+retain key employees. There can be no assurance that the Company will be
+successful in doing so. Failure to manage its growth effectively could have a
+material adverse effect on the Company's business, prospects, results of
+operations and financial condition.
+
+ Environmental Matters
+ ---------------------
+
+ Registrant does not believe that compliance with Federal, State or
+local provisions relating to the protection of the environment have any material
+effect on its capital expenditures, earnings or competitive position.
+
+Information as to classes of similar products:
+ ----------------------------------------------
+ Percent of Net Sales
+ --------------------
+ 1998 1997 1996
+ ---- ---- ----
+ 
+ Test, Measurement & Calibration Equipment
+ and Service 97.9 94.2 93.3
+
+ Process Monitoring Instrumentation
+ and Service 2.1 5.8 6.7
+
+The change in sales mix from 1997 to 1998 and from 1996 to 1997 is
+primarily the result of increased sales of resale product and service of test,
+measurement and calibration equipment to the U.S. marketplace resulting from
+increases in the number of company employed sales personnel in the Company's
+Transcat division and from significant catalog mailings to customers and
+prospective customers during fiscal 1998-1996 in the Company's Transcat
+division. Additionally, all sales resulting from the Company's Altek Industries
+Corp. subsidiary, acquired on April 3, 1996, were of calibration products and
+sales which resulted from the Company's acquisition of the sales and service
+division of EIL Instruments in April 1997 were of service and calibration
+products.
+
+ 7
+ 8
+
+ Information Regarding Export Sales
+ ----------------------------------
+
+ Approximately 19.1 percent of Transmation's sales in 1998 resulted from
+sales in foreign countries. This compares with 27.8 percent of sales in 1997 and
+20.7 percent of sales in 1996. In 1998, the percentage of foreign sales
+decreased as compared to 1997 as the result of the Company's acquisition of the
+assets of EIL Instruments. The EIL business acquired was and is primarily
+conducted in the U.S. The increase in 1997 compared to 1996 is primarily the
+result of increased sales in the international marketplace of products
+distributed through the Company's Transcat division. Sales in foreign countries
+generate relatively the same profit margins as domestic sales. Management
+believes that the relative lower value of the dollar compared to foreign
+currencies that existed for several years through 1997 had a positive effect on
+international sales. During fiscal 1998, many Asian currencies weakened
+significantly compared to the U.S. dollar. The Company believes the stronger
+U.S. dollar contributed to reduced sales in 1998; below levels which would
+otherwise have been anticipated from Asian markets. Those markets are areas of
+significant market potential for the Company. Management believes that continued
+weakness in Asian currencies will continue to have a negative influence on our
+future sales to Asia although it is impossible to predict the magnitude of such
+impact. In addition, Transmation's revenues are subject to the customary risks
+of operating in an international environment, including the potential imposition
+of trade or foreign exchange restrictions, tariff and other tax increases,
+fluctuations in exchange rates and unstable political situations, any one or
+more of which could have a material adverse effect on the Company's business,
+prospects, results of operations and financial condition.
+
+ The information contained in Notes 2 and 3 to the Financial Statements
+of this report is incorporated herein by reference.
+
+Item 2. Properties
+- -------------------------
+
+Transmation's manufacturing operation is housed in owned facilities located at
+977 Mt. Read Boulevard, Rochester, New York comprising 26,800 square feet of
+plant, storage and office space.
+
+In addition, Transmation has leased an additional 19,000 square feet of space in
+Rochester. This space is being used for certain executive, administrative,
+sales, service and manufacturing purposes. The lease for this space will expire
+in October, 2002.
+
+Transmation also leases an additional 9,500 square feet which houses the
+operations of its Altek subsidiary. This lease will expire in fiscal 2000.
+
+Various sales office and CalXpress space is leased by the Company and its
+subsidiary, Transmation (Canada), Inc., and is considered adequate to meet both
+present and future needs in those locations. (See Note 7 to the Financial
+Statements.)
+
+Generally, Transmation's present facilities are being fully utilized and are
+considered suitable for its current needs and there is no present requirement
+for significant additional space. Any expansion or change in business facilities
+as the result of a consolidation of manufacturing operations will be made in the
+future if necessary.
+
+Item 3. Legal Proceedings
+- --------------------------------
+ Not applicable.
+
+Item 4. Submission of Matters to a Vote of Security Holders
+- ------------------------------------------------------------------
+
+ Not applicable.
+
+ Part II
+ -------
+
+ 8
+ 9
+
+Item 5. Market for Registrant's Common Equity and Related Stockholder
+- -----------------------------------------------------------------------------
+ Matters
+ -------
+
+The Company's Common Stock is traded in the NASDAQ National Market System. A
+record of actual transactions in Transmation's stock is reflected in the table
+below:
+
+First Second Third Fourth
+ Quarter Quarter Quarter Quarter
+ ------- ------- ------- -------
+ 
+ 1997 High 5.31 4.635 5.375 8.00
+ Low 2.75 3.310 3.750 4.56
+
+ 1998 High 9.75 9.875 9.75 9.00
+ Low 6.00 6.875 6.75 7.00
+
+At June 5, 1998 there were approximately_969 shareholders. The Company has paid
+no cash dividends since its inception, and under terms of a revolving credit
+agreement with a bank may not pay such dividends without prior bank approval.
+
+9
+ 10
+
+Item 6.
+- -------
+
+ TRANSMATION, INC.
+ SELECTED FINANCIAL DATA
+
+Y E A R E N D E D M A R C H 31,
+ ----------------------------------------------------------------------
+
+1998 1997 1996
+ ------------------- -------------------- -------------------
+
+Net Sales 78,483,565 47,311,224 38,449,758
+ ------------------- -------------------- -------------------
+Operating Income 4,187,289 3,435,961 2,165,037
+ ------------------- -------------------- -------------------
+Net Income 997,971 2,059,736 1,234,723
+ ------------------- -------------------- -------------------
+
+Income Per Share
+ Basic .17 .37 .26
+ ----- ----- -----
+Income Per Share
+ Diluted .16 .35 .24
+ ------------------- -------------------- -------------------
+
+Total Assets 51,875,214 25,858,358 15,701,727
+ ------------------- -------------------- -------------------
+
+Long-Term Debt 21,752,922 6,000,000 2,050,800
+ ------------------- -------------------- -------------------
+
+1995 1994
+ ------------------- --------------------
+
+Net Sales 37,293,872 33,984,430
+ ------------------- --------------------
+Operating Income (Loss) 915,481 523,129)
+ ------------------- --------------------
+Net Income (Loss) 381,785 586,234)
+ ------------------- --------------------
+
+Income(Loss) Per Share
+ Basic .08 .12)
+ ----- ------
+Income (Loss) Per Share
+ Diluted .08 .12)
+ ------------------- --------------------
+
+Total Assets 16,293,407 17,525,838
+ ------------------- --------------------
+
+Long-Term Debt 4,064,426 5,100,000
+ ------------------- --------------------
+
+The Company has paid no cash dividends since its inception.
+
+10
+ 11
+
+Item 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITIONS AND 
+- --------------------------------------------------------------------------------
+ RESULTS OF OPERATIONS
+ ---------------------
+
+Results of Operations
+- ---------------------
+
+Increases (Decreases) in Consolidated Operating Results Compared To Prior Year
+
+000
+ -------------------------------------------------
+ 1998 1997
+ -------------------------------------------------
+ Change from Change from
+ Prior Year Prior Year 
+ ---------- -- ---------- --
+
+Net Sales 31,172 66 8,861 23
+ Costs and Expenses:
+ Cost of Product Sold 24,707 86 4,375 18
+ Selling & Admin. Expenses 5,614 41 2,754 25
+ Research & Develop. Costs 99 6 461 42
+ Interest Expense 1,914 301 300 90
+ -------------------------------------------------
+ Income from Operations (1,162) (41) 971 53
+ Other Income (479) 479 --
+ -------------------------------------------------
+ Income Before Income Taxes (1,641) (50) 1,450 79
+ Provision for Income Taxes (580) (47) 625 104
+ -------------------------------------------------
+ Net Income 1,061) (52) 825 67
+ -------------------------------------------------
+ Earnings Per Share -Diluted .19) (54) .11 46
+ -------------------------------------------------
+
+Net Sales
+- ---------
+
+The 66 sales increase in 1998 was attributable to the Company's acquisition of
+the assets of the Sales and Service divisions of E.I.L. Instruments Inc. in
+April 1997.
+
+The sales increase in 1997 of 23 is attributable to the Company's acquisition
+of Altek Industries Corp. in April 1996 and to increased sales of products and
+services by the Company's Transcat division in fiscal 1997. The effect of having
+added salesmen in areas of significant market concentration in Transcat during
+fiscal 1996, together with improved customer mail list techniques, resulted in
+improved market penetration and increased sales in 1997 compared to 1996.
+
+Cost of Product Sold
+- --------------------
+
+Cost of product sold increased by 86 in 1998 compared to 1997. This increase
+resulted from proportionately greater sales through the Company's Transcat
+division in 1998 compared to 1997. Gross margins on distribution and service
+sales achieved through the Company's Transcat division are lower than in the
+Company's manufacturing division.
+
+Costs of product sold increased by 18 but as a percentage of sales decreased by
+2.7 in 1997 compared to 1996. The improvement in 1997 is the result of the
+addition of high margin Altek products to Transmation's sales and of
+improvements in gross margins of both resale and service billings in the
+Company's Transcat division.
+
+Selling and Administrative Expenses
+- -----------------------------------
+
+Selling and administrative expenses in 1998 increased by 41 compared to 1997
+but as a percentage of sales fell to 24.4 from 28.7 . The increased spending
+was the result of increases in sales and marketing related costs which were
+added as the result of the Company's April 1997 acquisition of the Sales and
+Service divisions of E.I.L. Instruments Inc. Additionally, goodwill amortization
+resulting from acquisitions totaled 1,007,000 in 1998 compared to
+
+11
+ 12
+
+ 313,600 in 1997. Overall, economies of scale resulted in lower total sales and
+administrative expenses as a percentage of sales in 1998 compared to 1997.
+
+Selling and administrative expenses increased by 25 in 1997 compared to 1996;
+however, as a percentage of sales, the increase is .6 . Increased spending
+represents the full year effect of direct salespeople added in the Company's
+Transcat division in areas of significant market potential. Additionally,
+amortization of goodwill totaling 313,600 resulting from Transmation's April
+1996 acquisition of Altek Industries Corp. is included in 1997 costs and there
+were no similar costs in 1996.
+
+Research and Development
+- ------------------------
+
+Research and development costs increased by 6 in 1998 compared to 1997.
+Spending in this area is considered appropriate to enable the Company to
+maintain its strong competitive position in the marketplace.
+
+Research and development costs increased by 42 in 1997 compared to 1996. This
+increase is the result of the acquisition of Altek Industries Corp. by the
+Company in April 1996.
+
+Interest Expense
+- ----------------
+
+Interest expense increased by 301 in 1998 compared to 1997. This increase is
+the result of financing the Company's acquisition of the assets of the Sales and
+Service divisions of E.I.L. Instruments in April 1997.
+
+Interest expense increased by 90 in 1997 compared to 1996. This increase is the
+result of financing the Company's acquisition of Altek Industries Corp. in April
+1996.
+
+Other Income
+- ------------
+
+Other income in 1997 is comprised primarily of the sale of land. The Company
+sold a parcel of land it owned in a Rochester suburb which did not have a part
+in the Company's future plans, resulting in a one-time net gain of 479,000.
+
+Income Taxes
+- ------------
+
+The Company's effective tax rate was 39.2 of pretax profits in 1998 compared to
+37.2 of profits in 1997. The higher tax rate in 1998 compared to 1997 is
+primarily the result of the necessity to file returns in additional states as
+the result of the Company's acquisition of the assets of the Sales and Service
+divisions of E.I.L. Instruments in April 1997.
+
+The Company's effective tax rate was 37.2 of pretax profits in 1997 compared to
+32.6 of pretax profits in 1996. In 1997 and 1996 the Company used tax benefits
+from foreign subsidiaries which will become available against future tax
+liabilities in the determination of its income tax expense.
+
+Impact of Inflation
+- -------------------
+
+The effects of inflation have not been significant to Transmation during
+1998-1996 because inflation rates have been relatively low.
+
+Year 2000 Issue
+- ---------------
+
+The Company has reviewed all of its current computer applications with respect
+to the Year 2000 issue. The Company believes all of its relevant applications
+are Year 2000 compliant and that no material costs with respect to Year 2000
+compliance will be incurred by the Company. The Company is unable to determine
+the effects of the Year 2000 compliance issue, if any, by its suppliers and
+customers.
+
+12
+ 13
+
+LIQUIDITY AND CAPITAL RESOURCES:
+- --------------------------------
+
+Cash Flows
+- ----------
+
+000's
+ ---------------------------------------
+ 1998 1997 1996
+ ---- ---- ----
+
+Cash Provided (used) by:
+ Operating Activities 2,852 1,561 2,249
+ Investing Activities 24,084) 5,088) 966)
+ Financing Activities 21,117 4,118 1,703)
+
+Operating Activities
+- --------------------
+
+Net cash from operations totaled 2,852,000 in 1998, an increase of 1,291,000
+from 1997. Although net income decreased by 1,062,000 in 1998 compared to 1997,
+depreciation and amortization increased by 1,701,000, trade accounts receivable
+were reduced by 701,000 from amounts outstanding one year ago (after giving
+consideration to receivables purchased in the EIL asset acquisition).
+Inventories increased by 643,000 in 1998 and trade accounts payable increased
+by 295,000 as an offset to the inventory increase. Other liabilities,
+principally interest which resulted from additional borrowings in 1998 compared
+to 1997 as the result of the EIL acquisition, increased by 793,000 in 1998 vs
+1997. Income taxes payable were 454,000 lower in 1998 compared to 1997 due to
+Transmation's lower profitability in 1998 vs 1997.
+
+Net cash from operations totaled 1,561,000 in 1997 which was down by
+approximately 688,000 from cash generated from operations in 1996. Net Income
+in 1997 increased by 825,000 compared to 1996 and depreciation and amortization
+increased by 521,000 in 1997 versus 1996. The effect of these cash generators
+was offset in 1997 by an increase in accounts receivable of 776,000 and in
+inventories of 457,000 which were the result of increased business through the
+Company's Transcat division and of its purchase in April 1996 of the stock of
+Altek Industries Corp.
+
+Investing Activities
+- --------------------
+
+Cash used in investing activities totaled 24,084,000 in 1998 compared to
+ 5,088,000 in 1997. The Company invested 22,000,000 in its purchase of the
+sales and service divisions of EIL Instruments in April 1997 and 6,637,500 in
+its purchase of Altek Industries Corp in April 1996. Capital assets acquired
+totaled 2,084,000 in 1998 compared to 815,000 in 1997.
+
+Financing Activities
+- --------------------
+
+Financing activities generated 16,999,000 more cash in 1998 than in 1997.
+ 21,109,000 of additional bank debt was added in 1998 to finance the Company's
+operations, acquire the assets of the former sales and service divisions of EIL
+Instruments and to repay 600,000 of debt related to the Company's April 1996
+acquisition of Altek Industries Corp. During 1998, employees and directors
+exercised options and warrants which provided 261,000 more cash to the Company
+as the result of such transactions in 1998 compared to 1997.
+
+During 1997, financing activities generated 5,821,000 more cash than in 1996.
+In addition, 1,838,000 worth of Company stock was issued as partial payment for
+the stock of Altek Industries Corp., an additional 36,000 of stock was sold to
+employees and directors under various stock option and warrant plans in 1997
+versus 1996, and 5,184,000 of additional bank and other debt was added in 1997
+compared to 1996 to finance the Company's operations and to acquire the stock of
+Altek Industries Corp.
+
+Forward-Looking Statements
+- --------------------------
+
+This Report may contain forward-looking statements based on current
+expectations, estimates and projections about Transmation's industry,
+
+13
+ 14
+
+management's beliefs and assumptions made by management. Words such as
+"anticipates," "expects," "intends," "plans," "believes," "seeks," "estimates,"
+variations of such words and similar expressions are intended to identify such
+forward-looking statements. These statements are not guarantees of future
+performance and are subject to certain risks, uncertainties and assumptions that
+are difficult to forecast. Therefore, actual results may differ materially from
+those expressed or forecast in any such forward-looking statements. Transmation
+undertakes no obligation to update publicly any forward-looking statements,
+whether as a result of new information, future events or otherwise.
+
+Item 7a. Quantitative and Qualitative Disclosures About Market Risk
+- -------------------------------------------------------------------------
+
+ Not applicable.
+
+14
+ 15
+
+Item 8. Financial Statements and Supplementary Data
+- ----------------------------------------------------------
+
+TRANSMATION, INC.
+
+ INDEX TO FINANCIAL STATEMENTS
+
+Document Page
+- -------- ----
+
+Report of Independent Accountants 16
+
+Consolidated Balance Sheet - March 31, 1998, 1997 17
+
+Consolidated Statement of Income - March 31, 1998, 1997, 1996 18
+
+Consolidated Statement of Cash Flows - March 31, 1998, 1997, 1996 19
+
+Consolidated Statement of Stockholders' Equity -
+
+ March 31, 1998, 1997, 1996 20
+
+Notes to Consolidated Financial Statements 21 - 32
+
+Schedule VIII - Valuation and Qualifying Accounts -
+
+ March 31, 1998, 1997, 1996 33
+
+All other schedules have been omitted because they are not applicable or the
+required information is shown in the Financial Statements or notes thereto.
+
+15
+ 16
+
+ REPORT OF INDEPENDENT ACCOUNTANTS
+
+To the Stockholders of
+Transmation, Inc.
+
+In our opinion, the consolidated financial statements listed in the accompanying
+index present fairly, in all material respects, the financial position of
+Transmation, Inc. and its subsidiaries at March 31, 1998 and 1997, and the
+results of their operations and their cash flows for each of the three years in
+the period ended March 31, 1998, in conformity with generally accepted
+accounting principles. These financial statements are the responsibility of the
+Company's management; our responsibility is to express an opinion on these
+financial statements based on our audits. We conducted our audits of these
+statements in accordance with generally accepted auditing standards which
+require that we plan and perform the audit to obtain reasonable assurance about
+whether the financial statements are free of material misstatement. An audit
+includes examining, on a test basis, evidence supporting the amounts and
+disclosures in the financial statements, assessing the accounting principles
+used and significant estimates made by management, and evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for the opinion expressed above.
+
+PRICE WATERHOUSE LLP
+
+Rochester, New York
+May 15, 1998
+
+16
+ 17
+
+ TRANSMATION, INC.
+ CONSOLIDATED BALANCE SHEET
+
+March 31, March 31,
+ASSETS: 1998 1997
+ ------------ ------------
+ 
+Current Assets:
+ Cash 652,664 758,215
+ Accounts Receivable, less allowance
+ for doubtful accounts of 592,000 in 1998
+ and 404,000 in 1997 12,540,347 6,773,669
+ Inventories 10,675,829 7,790,166
+ Prepaid Expenses and Deferred Charges 1,344,799 956,235
+ Deferred Tax Assets 540,172 394,402
+ ------------ ------------
+ Current Assets 25,753,811 16,672,687
+Properties, at cost, less accumulated
+ Depreciation 6,405,053 2,355,757
+Goodwill, less accum. Amortization of 1,320,500 in
+ 1998 and 313,600 in 1997 19,199,947 5,947,558
+Deferred Charges 204,308 118,214
+Deferred Income Taxes 58,582 226,352
+Other Assets 253,513 537,790
+ ------------ ------------
+ 51,875,214 25,858,358
+ ============ ============
+
+LIABILITIES AND STOCKHOLDERS' EQUITY:
+
+Current Liabilities
+ Notes Payable 2,500,000 600,000
+ Current Portion, Long-Term Debt 2,856,000
+ Accounts Payable 7,861,779 3,596,365
+ Accrued Payrolls, Commissions & Other 2,174,389 2,008,698
+ Income Taxes Payable 234,984 689,461
+ ------------ ------------
+ Current Liabilities 15,627,152 6,894,524
+Long-Term Debt 21,752,922 6,000,000
+Deferred Compensation 509,981 594,026
+ ------------ ------------
+ 37,890,055 13,488,550
+ ------------ ------------
+
+Commitments and Contingent Liabilities
+
+Stockholders' Equity:
+ Common Stock, par value .50 per share -
+ Authorized - 15,000,000 shares - issued and outstanding -
+ 5,830,942 in 1998 (including 2,853,692 shares
+ issued on 7/22/97) and 2,826,412 in 1997 2,915,471 1,413,206
+ Capital in Excess of Par Value 2,227,117 3,121,746
+ Accumulated Translation Adjustment (120,788) (130,532)
+ Retained Earnings 8,963,359 7,965,388
+ ------------ ------------
+ 13,985,159 12,369,808
+ ------------ ------------
+ 51,875,214 25,858,358
+ ============ ============
+
+See notes to consolidated financial statements
+
+17
+ 18
+
+ TRANSMATION, INC.
+ CONSOLIDATED STATEMENT OF INCOME
+
+Year Ending March 31,
+ 1998 1997 1996
+ -------------- -------------- --------------
+
+Net Sales 78,483,565 47,311,224 38,449,758
+ -------------- -------------- --------------
+
+Costs and Expenses:
+ Cost of Product Sold 53,441,287 28,733,887 24,358,437
+
+ Selling & Administrative Expenses 19,194,879 13,580,402 10,826,776
+
+ Research & Development Costs 1,660,110 1,560,974 1,099,508
+
+ Interest Expense 2,547,218 633,638 333,414
+ -------------- -------------- --------------
+
+ 76,843,494 44,508,901 36,618,135
+ -------------- -------------- --------------
+
+ 1,640,071 2,802,323 1,831,623
+
+Other Income 479,013
+ -------------- -------------- --------------
+
+Income Before Income Taxes 1,640,071 3,281,336 1,831,623
+
+Provision for Income Taxes 642,100 1,221,600 596,900
+ -------------- -------------- --------------
+
+Net Income 997,971 2,059,736 1,234,723
+ ============== ============== ==============
+
+Earnings Per Share - Basic 0.17 0.37 0.26
+ ============== ============== ==============
+
+Earnings Per Share - Diluted 0.16 0.35 0.24
+ ============== ============== ==============
+
+See notes to consolidated financial statements
+
+18
+ 19
+
+ TRANSMATION, INC.
+ CONSOLIDATED STATEMENT OF CASH FLOWS
+
+March 31, March 31, March 31,
+ 1998 1997 1996
+ -------------- -------------- --------------
+ 
+Cash Flows from Operating Activities
+ Net Income 997,971 2,059,736 1,234,723
+
+ Adjustments to reconcile net income to
+ net cash provided from operating
+ activities:
+ Depreciation and Amortization 2,711,779 1,010,656 489,462
+ (Increase) Decrease in CSV of
+ Life Insurance Policies (2,196) 21,728 (14,377)
+ Provision for Losses on Accounts Receivable 37,191 (32,000) (37,000)
+ Deferred Income Taxes 22,000 (205,094) (77,708)
+ Gain on Sale of Land, Net (479,013)
+ Changes in Assets and Liabilities
+ Accounts Receivable 700,688 (776,027) 240,248
+ Inventories (642,593) (457,470) 255,909
+ Prepaid Expenses & Deferred Charges (219,878) 23,475 297,072
+ Other Assets 284,277 (286,473)
+ Accounts Payable 295,054 122,865 (606,054)
+ Other Liabilities (793,304) 358,216 157,507
+ Income Taxes Payable (454,477) 288,895 407,956
+ Deferred Compensation (84,045) (88,567) (98,287)
+ -------------- -------------- --------------
+Net Cash Provided by Operating Activities 2,852,467 1,560,927 2,249,451
+ -------------- -------------- --------------
+
+Cash Flows from Investing Activities:
+ Purchase of EIL Instruments (22,000,000)
+ Proceeds from Sale of Land, Net 527,749
+ Purchase of Altek Industries Corp. (4,800,000)
+ Purchase of Properties (2,084,320) (815,349) (965,643)
+ -------------- -------------- --------------
+Net Cash used in Investing Activities (24,084,320) (5,087,600) (965,643)
+ -------------- -------------- --------------
+
+Cash Flows from Financing Activities:
+ Increase in Notes Payable 1,900,000 600,000
+ Current Portion of Long-Term Debt 2,856,000
+ Issuance of Common Stock 607,636 346,896 310,407
+ Borrowings (Repayments) of Long Term Debt 15,752,922 3,170,659 (2,013,626)
+ -------------- -------------- --------------
+Net Cash Provided by(used by) Financing Activities 21,116,558 4,117,555 (1,703,219)
+ -------------- -------------- --------------
+Effect of Exchange Rates on Cash 9,744 (36,713) 15,694
+ -------------- -------------- --------------
+Net (Decrease)Increase in Cash (105,551) 554,169 (403,717)
+Cash at Beginning of Period 758,215 204,046 607,763
+ -------------- -------------- --------------
+Cash at End of Period 652,664 758,215 204,046
+ ============== ============== ==============
+
+Cash Paid for Interest and Income Taxes is as follows:
+ Interest Paid 2,517,840 555,069 367,739
+ Taxes Paid 1,052,268 1,043,883 124,750
+
+See notes to consolidated financial statements
+
+19
+ 20
+
+ TRANSMATION, INC.
+ CONSOLIDATED STATEMENT OF STOCKHOLDERS' EQUITY
+
+Number of
+ Shares of .50
+ Par Value Common Stock Capital Accumulated
+ Common Stock Issued and in Excess of Retained Translation
+ Outstanding Outstanding Par Value Earnings Adjustment
+ ----------------- ----------------- ----------------- ----------------- ----------------
+
+Balance, March 31, 1995 2,380,640 1,190,320 849,829 4,670,929 109,513)
+
+Issuance of Stock 71,306 35,653 274,754
+
+Currency Translation Activity 15,694
+
+Net Income 1,234,723
+ ----------------- ----------------- ----------------- ----------------- ----------------
+
+Balance, March 31, 1996 2,451,946 1,225,973 1,124,583 5,905,652 (93,819)
+
+Issuance of Stock 374,466 187,233 1,997,163
+
+Currency Translation Activity (36,713)
+
+Net Income 2,059,736
+ ----------------- ----------------- ----------------- ----------------- ----------------
+
+Balance, March 31, 1997 2,826,412 1,413,206 3,121,746 7,965,388 (130,532)
+
+Two for One Stock Split
+ on 7/22/97 2,853,692 1,426,846 (1,426,846)
+
+Issuance of Stock 150,838 75,419 532,217
+
+Currency Translation Activity 9,744
+
+Net Income 997,971
+ ----------------- ----------------- ----------------- ----------------- ----------------
+
+Balance, March 31, 1998 5,830,942 2,915,471 2,227,117 8,963,359 120,788)
+ ================= ================= ================= ================= ================
+
+See Notes to Consolidated Financial Statements
+
+20
+ 21
+ TRANSMATION, INC.
+ -----------------
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - MARCH 31, 1998, 1997, AND 1996
+ ---------------------------------------------------------------------------
+
+Note 1 - Summary of Significant Accounting Policies
+- ---------------------------------------------------
+
+The accompanying financial statements have been prepared in accordance with
+generally accepted accounting principles. The preparation of financial
+statements in conformity with generally accepted accounting principles requires
+management to make estimates and assumptions that affect the reported amounts of
+assets and liabilities at the date of the financial statements and the reported
+amounts of revenues and expenses during the reporting period. Actual results
+could differ from these estimates.
+
+Principles of Consolidation
+
+The financial statements include the accounts of wholly-owned subsidiaries. All
+intercompany transactions have been eliminated.
+
+Foreign Operations
+
+The accounts of Transmation's foreign subsidiaries are maintained in the local
+currency of the countries in which they operate and have been translated to U.S.
+dollars in accordance with the Statement of Financial Accounting Standards No.
+52. Accordingly, accounts representing assets and liabilities, except for
+long-term intercompany and equity accounts, have been translated at the year-end
+rates of exchange and related revenue and expense accounts have been translated
+at average rates of exchange during the year. Gains and losses arising from
+translation of subsidiaries' balance sheets into U.S. dollars are recorded
+directly to the accumulated translation adjustment component of stockholders'
+equity. Currency gains and losses on business transactions are included in net
+income. In 1998, transaction losses totaled 59,303, in 1997 and 1996,
+transaction gains totaled 1,336 and 20,652 respectively.
+
+Inventories
+
+Inventories are valued at the lower of standard cost or market. Standard costs
+approximate the average cost method of inventory valuation.
+
+Depreciation and Amortization
+
+The cost of properties is depreciated over the estimated useful lives of the
+assets. Depreciation is determined on a straight-line basis. For income tax
+purposes, depreciation is determined by accelerated methods as permitted under
+tax regulations. Additions and betterments are capitalized; maintenance and
+repairs are charged to income. The cost and accumulated depreciation of assets
+retired or otherwise disposed of are eliminated from the accounts and any
+resulting gain or loss is credited or charged to income. Leasehold improvements
+are amortized over the terms of the related leases.
+
+Income Taxes
+
+The Company accounts for certain income and expense items differently for
+financial reporting purposes than for income tax reporting purposes. Deferred
+income taxes are provided in recognition of these temporary differences.
+
+21
+ 22
+
+Deferred Catalog Costs
+
+Costs relating to mail order catalogs are amortized over a two-year period
+beginning in the month of distribution. Such amortization periods approximate
+the estimated productive life of a catalog. Prepaid expenses and deferred
+charges at March 31, 1998, 1997, and 1996 consist principally of the unamortized
+balance of costs associated with the catalogs. Catalog costs expensed in 1998,
+1997, and 1996 were 1,059,418, 1,040,716, and 1,240,752 respectively.
+
+Fiscal Year
+
+The Company operates within a conventional 52 week accounting fiscal year ending
+on March 31 of each year.
+
+Revenue Recognition
+
+The Company recognizes revenue from product sales at the time of shipment.
+
+Goodwill
+
+Goodwill represents the excess of acquisition cost over fair value of assets
+acquired at the time subsidiaries were purchased. The excess acquisition cost is
+being amortized over 20 years on a straight-line basis. The Company evaluates
+the carrying value of the excess acquisition costs of its subsidiaries whenever
+events or changes in circumstances indicate that the carrying amount may not be
+recoverable. The carrying value of excess acquisition costs is considered
+impaired when the projected undiscounted future cash flows from the related
+business unit is less than its carrying value. The Company measures impairment
+based on the amount by which carrying value exceeds fair market value. Fair
+market value is determined primarily using the projected future cash flows
+discounted at a rate commensurate with the risk involved.
+
+Stock Options
+
+The Company follows the provisions of Accounting Principles Board (APB) Opinion
+No. 25, "Accounting for Stock Issued to Employees," to account for its stock
+option and warrant activity in the financial statements. The Company granted all
+options currently outstanding at an exercise price equal to the market price at
+the date of grant and, therefore, under APB 25, no compensation expense is
+recorded. The Company follows the disclosure provisions of Statement of
+Financial Accounting Standards No. 123, "Accounting for Stock-Based
+Compensation."
+
+Commitments and Contingent Liabilities
+
+Management is unaware of any litigation which is likely to result in any
+material adverse impact on the Company.
+
+22
+ 23
+
+Note 2 - Business Segments
+- --------------------------
+
+The Company and its subsidiaries sell in one basic industry, instrumentation
+products for the process industry. Sales are made by the Company and its
+subsidiaries to end users and engineering contractors in the United States and
+other countries. The Company's domestic operations include manufacturing, sales
+and service; the Company's foreign operations are limited to sales and service.
+A summary of 1998, 1997, and 1996 operating data relating to the Company and its
+subsidiaries is as follows:
+
+ADJUSTMENTS
+ AND CONSOLI-
+ 1998 UNITED STATES CANADA OTHER ELIMINATIONS DATED
+- ------------------- --------------- --------------- --------------- --------------- ---------------
+ 
+REVENUE FROM
+UNAFFILIATED
+CUSTOMERS 73,317,493 5,166,072 78,483,565
+
+INTERCOMPANY
+SALES AND
+CREDITS 624,791 1,489,598 2,114,389)
+ --------------- --------------- --------------- --------------- ---------------
+
+TOTAL REVENUE 73,942,284 5,166,072 1,489,598 2,114,389) 78,483,565
+ =============== =============== =============== =============== ===============
+
+NET INCOME 277,773 222,172 548,075 50,248) 997,971
+ =============== =============== =============== =============== ===============
+
+IDENTIFIABLE
+ASSETS 49,240,409 1,451,495 1,388,336 205,026) 51,875,214
+ =============== =============== =============== =============== ===============
+
+ADJUSTMENTS
+ AND CONSOLI-
+ 1997 UNITED STATES CANADA OTHER ELIMINATIONS DATED
+- ------------------- --------------- --------------- --------------- --------------- ---------------
+ 
+REVENUE FROM
+UNAFFILIATED
+CUSTOMERS 42,518,794 4,792,430 47,311,224
+
+INTERCOMPANY
+SALES AND
+CREDITS 622,954 1,445,577 2,068,531)
+ --------------- --------------- --------------- --------------- ---------------
+
+TOTAL REVENUE 43,141,748 4,792,430 1,445,577 2,068,531) 47,311,224
+ =============== =============== =============== =============== ===============
+
+NET INCOME 1,473,236 265,790 323,526 2,816) 2,059,736
+ =============== =============== =============== =============== ===============
+
+IDENTIFIABLE
+ASSETS 24,341,603 1,338,863 875,650 697,758) 25,858,358
+ =============== =============== =============== =============== ===============
+
+ADJUSTMENTS
+ AND CONSOLI-
+ 1996 UNITED STATES CANADA OTHER ELIMINATIONS DATED
+- ------------------- --------------- --------------- --------------- --------------- ---------------
+ 
+REVENUE FROM
+UNAFFILIATED
+CUSTOMERS 32,071,157 3,839,411 2,539,190 38,449,758
+
+INTERCOMPANY
+SALES AND
+CREDITS 1,208,369 544,321 1,752,690)
+ --------------- --------------- --------------- --------------- ---------------
+
+TOTAL REVENUE 33,279,526 3,839,411 3,083,511 1,752,690) 38,449,758
+ =============== =============== =============== =============== ===============
+
+NET INCOME 1,063,362 318,813 168,104) 20,652 1,234,723
+ =============== =============== =============== =============== ===============
+
+IDENTIFIABLE
+ASSETS 14,483,246 939,003 848,474 568,996) 15,701,727
+ =============== =============== =============== =============== ===============
+
+23
+ 24
+
+Sales and transfers among the United States, Canada and Other are made on a
+formula basis intended to reflect market value. Net income is revenue less costs
+and operating expenses.
+
+Total consolidated sales to additional separate foreign geographic areas except
+Canada, as defined by the Company, did not aggregate more than 10 percent of
+total consolidated sales during the years 1998-1996. Sales in foreign countries,
+including Canada, represented 19.1 percent of sales in 1998, 27.8 percent of
+sales in 1997, and 20.7 percent of sales in 1996.
+
+Note 3 - Foreign Net Assets
+- ---------------------------
+
+The consolidated balance sheet includes net assets of Transmation's foreign
+subsidiaries of 1,262,323 in 1998, and 983,401 in 1997.
+
+Note 4 - Inventories
+- --------------------
+
+The major classifications of inventory are as follows:
+
+March 31,
+ ------------------------------
+ 1998 1997
+ ---- ----
+ 
+ Raw Materials and
+ Purchased Parts 4,221,730 2,088,533
+ Work in Process 629,545 519,280
+ Finished Products 6,529,564 5,710,854
+ ------------ ------------
+ 11,380,839 8,318,667
+ Less Inventory Reserve (705,010) (528,501)
+ ------------ ------------
+ 10,675,829 7,790,166
+ ============ ============
+
+Note 5 - Properties
+- -------------------
+
+The major classifications of properties are as follows:
+
+March 31,
+ ------------------------------
+ 1998 1997
+ ---- ----
+ 
+ Land and Improvements 118,445 118,445
+ Buildings 321,267 317,411
+ Machinery, Equipment &
+ Software 9,209,697 4,799,721
+ Tools, Dies and Molds 649,249 449,325
+ Furniture & Fixtures 1,532,980 828,241
+ Vehicles 81,951 135,174
+ Leasehold Improvements 153,553 110,193
+ ----------- -----------
+ 12,067,142 6,758,510
+ Less - Accumulated
+ Depreciation & Amort 5,662,089 4,402,753
+ ----------- -----------
+ 6,405,053 2,355,757
+ =========== ===========
+
+Useful lives are estimated to be 15 to 30 years for buildings, 5 to 10 years for
+machinery, equipment and software, 3 years for tools, dies and molds, 5 to 10
+years for furniture and fixtures, and 3 years for vehicles. Leasehold
+improvements are amortized over the terms of the related leases.
+
+Note 6 - Borrowings
+- -------------------
+
+Notes payable consists of amounts payable to the former owners of Altek
+Industries Corp. resulting from the purchase of Altek by the Company in April
+1996. Interest on this note is payable at the rate of 8 .
+
+At March 31, 1998, the Company has a 31,286,000 Revolving Credit and Term Loan
+agreement with banks. At March 31, 1998, 14,286,000 is borrowed under the term
+loan. The term loan, dated April 4, 1997, extends through January 1, 2003, and
+
+24
+ 25
+
+requires 21 consecutive quarterly installment payments which commenced January
+1, 1998. Interest is payable on a formula basis, at the Company's option, at
+rates above prime or above LIBOR determined on the basis of Company performance
+as determined by its leverage ratio. On March 31, 1998, interest to be paid
+under the Term Loan was at 2.50 above LIBOR or 1.00 above the bank's prime
+lending rate. At March 31, 1998, 10,322,922 was borrowed under the Revolving
+Credit portion of the Company's credit facility. The term of the Revolving
+Credit facility, dated April 4, 1997, extends through January 4, 2001. Interest
+is payable under the revolving credit facility on a formula basis, at the
+Company's option, at rates above prime or above LIBOR determined on the basis of
+Company performance as determined by its leverage ratio. On March 31, 1998,
+interest to be paid under the Revolving Credit Agreement was at 2.25 above
+LIBOR or .75 above the bank's prime lending rate. At March 31, 1998, interest
+was payable on the above loans at rates ranging from 7.94 to 9.25 .
+
+Required payments under the term loan are as follows:
+
+ April 1, 1998 - March 31, 1999 2,856,000
+ April 1, 1999 - March 31, 2000 2,857,000
+ April 1, 2000 - March 31, 2001 2,857,000
+ April 1, 2001 - March 31, 2002 2,858,000
+ April 1, 2002 - March 31, 2003 2,858,000
+
+The revolving credit and term loan agreement contains, among other provisions,
+restrictions on the annual amount of capital expenditures, payment of dividends,
+the annual amount of expenditures made for the purpose of printing and
+distributing catalogs.
+
+Additionally, the Company has pledged its personal property and fixtures,
+including inventory and equipment, and its accounts receivable as collateral
+security for the loan. Further, the Company has agreed to pay to the lender an
+amount equal to 1/4 of the unused portion of the total credit available. The
+fee is payable quarterly and total commitment fees paid on any unused lines of
+credit under revolving credit agreements were immaterial in all years 1996-1998.
+The Company also agreed to pay a closing fee in the amount of 80,000 and an
+agency fee in the amount of 45,000 in conjunction with the Revolving Credit and
+Term Loan facility; both fees are being amortized over the term of the loans.
+
+The Company is in compliance with provisions of its loan agreement as of March
+31, 1998.
+
+Note 7 - Leases
+- ---------------
+
+The Company has operating leases under renewable agreements covering sales
+office and manufacturing space. At March 31, 1998, minimum future rental
+payments due under such leases for space which had an initial non-cancelable
+term in excess of one year were 2,593,829 due in monthly installments. Amounts
+due under these leases are as follows:
+
+ 1999 - 781,665
+ 2000 - 722,539
+ 2001 - 569,555
+ 2002 - 328,337
+ 2003 - 186,263
+ 2004 - 5,470
+
+Total rental expense under these leases was 840,955 in 1998, 350,076 in
+1997,and 325,857 in 1996.
+
+25
+ 26
+
+Note 8 - Stockholders' Equity
+- -----------------------------
+
+In August 1993, an incentive Stock Option plan was adopted. This plan was
+amended and restated in August 1995, 1996 and 1997. Options are available to be
+granted to employees under the 1993 Plan at prices not less than fair market
+value at the date of grant and are exercisable in annual installments beginning
+at the date of grant and expiring up to ten years later. A plan adopted in
+August 1981 has now expired; however, certain options under that plan were
+exercised during 1997.
+
+The following table summarizes the transactions under the plans during 1998,
+1997, and 1996:
+
+1998 1997 1996
+ ------------------------------- ------------------------------- -------------------------------
+ Weighted Weighted Weighted
+ Average Average Average
+ No. of Exercise No. of Exercise No. of Exercise
+ Shares Price Shares Price Shares Price
+ ------------------------------- ------------------------------- -------------------------------
+
+Beginning of Year 1,493,870 3.70 805,100 2.22 487,200 1.84
+Add (Deduct)
+ Granted 539,520 7.10 878,520 4.65 388,900 2.56
+ Exercised (82,410) 2.66 (94,460) 1.24 (48,800) 1.13
+ Canceled (329,990) 5.22 (95,790) 2.29 (22,200) 2.32
+ -------------- -------------- --------------- -------------- -------------- ---------------
+End of Year 1,620,990 4.58 1,493,370 3.70 805,100 2.22
+ -------------- -------------- --------------- -------------- -------------- ---------------
+Exercisable, End of Year 648,435 3.65 253,434 3.28 97,800 1.23
+ ============== ============== =============== ============== ============== ===============
+Available, End of Year 187,940 176,630 - - - - -
+ ============== =============== ==============
+
+The following options were outstanding or exercisable as of March 31, 1998:
+
+Options Outstanding Options Exercisable
+ ------------------------------------------------ -------------------------------
+ Weighted
+ Average Weighted Weighted
+ Remain. Average Average
+ No. of Contractual Exercise No. of Exercise
+ Shares Life Price Shares Price
+ -------------- -------------- --------------- -------------- ---------------
+
+Range of Exercise Prices:
+
+ 2.125 - 3.125 505,050 1.90 yrs 2.31 362,500 2.30
+ 3.25 - 3.3125 75,300 3.04 yrs 3.26 36,650 3.26
+ 4.1875 - 5.25 590,280 3.86 yrs 4.73 142,770 4.70
+ 6.9375 - 9.25 450,360 4.13 yrs 7.13 106,515 7.01
+
+On August 21, 1984, shareholders approved the Directors' Warrant Plan. This Plan
+was amended and restated in August 1995. The Plan provides that warrants may be
+granted to non-employee directors of Transmation to purchase in the aggregate
+not more than 200,000 shares of the Company's common stock. The purchase price
+for shares issued under the Directors' Warrant Plan shall be equal to the fair
+market value of the stock on the date of the grant of the warrant. A summary of
+activity under the 1984 Directors' Warrant Plan is as follows:
+
+26
+ 27
+
+Shares Warrant Price
+ ------- -------------
+ 
+ Balance, 3/31/96 60,000 1.50 - 3.25
+ Granted During 1997 24,000 4.19
+ Exercised During 1997 (8,400) 1.50 - 4.19
+ Canceled During 1997 (9,600) 3.25 - 4.19
+ ------- -------------
+ Balance, 3/31/97 66,000 1.50 - 4.19
+ Granted During 1998 24,000 8.13
+ Exercised During 1998 (26,000) 1.50
+ ------- -------------
+ 64,000 3.25 - 8.13
+ ======= =============
+
+On August 15, 1995, the Board of Directors granted the then President of the
+Company's Transcat Division a non-qualified stock option to purchase 47,900
+shares of the Company's common stock at 3.13 per share, the fair market value
+at the date of the grant. These shares are exercisable in equal annual
+installments beginning at the date of the grant and expiring five years later.
+
+During 1997, the Company adopted the disclosure provisions of SFAS No. 123,
+"Accounting for Stock-Based Compensation." SFAS No. 123 introduced a fair value
+method of accounting for stock-based compensation. To calculate the fair value
+of the options and warrants awarded, the Company elected to use the
+Black-Scholes pricing model which produced a weighted average fair value of
+options granted of 3.90, 4.65 and 2.35 in 1998, 1997 and 1996 respectively.
+
+The following assumptions were used in the pricing model: a weighted average
+expected option life of five years; an annualized volatility rate of 54.4 for
+1998, 58.6 for 1997, and 63.6 for 1996; a weighted average risk-free rate of
+return of 6.64 in 1998, 6.31 in 1997, and 6.37 for 1996; and no dividends in
+any year. The Company elected to account for terminations when they occur rather
+than include an attrition factor into its model.
+
+If compensation cost had been measured based on the fair-value based accounting
+method under SFAS 123, the following would have been disclosed for March 31:
+
+1998 1997 1996
+ ------------- ------------- -------------
+ 
+ Pro Forma
+ Net (Loss)Income 458,150) 746,932 1,071,103
+ Earnings Per Share
+ Basic .08) .13 .22
+ Diluted .08) .13 .21
+
+The effect of applying SFAS 123 in the current year is not representative of the
+effect on income for future years since each subsequent year will reflect
+expense for additional year's vesting.
+
+On June 23, 1997, the Company declared a two-for-one stock split effected in the
+form of a 100 stock dividend to shareholders of record on July 22, 1997.
+Accordingly, 1,426,846 was transferred from Capital in Excess of Par Value to
+Common Stock, representing the par value of additional shares issued. All
+references in the consolidated financial statements referring to shares, share
+prices, per share amounts and stock plans have been adjusted retroactively for
+the two-for-one stock split.
+
+Note 9 - Net Earnings Per Share
+- -------------------------------
+
+In 1997, the Company adopted SFAS No. 128, "Earnings Per Share," which requires
+disclosure of basic and diluted earnings per share. Basic earnings per share is
+computed based on the weighted average number of common shares outstanding
+during the period. Diluted earnings per share reflects the assumed conversion of
+dilutive stock options and warrants. In computing the per share effect of
+assumed conversion, funds which would have been received from the exercise of
+options and warrants are considered to have been used to purchase common shares
+at average market prices for the period, and the resulting net additional common
+
+27
+ 28
+
+shares are included in the calculation of average common shares outstanding. All
+previously reported earnings per share amounts were restated upon adoption of
+SFAS No. 128.
+
+The table below summarizes the amounts used to calculate basic and diluted
+earnings per share:
+
+1 9 9 8 1 9 9 7 1 9 9 6
+ --------------------------------- ----------------------------------- -----------------------------------
+ AVERAGE AVERAGE AVERAGE
+ NET OUTSTAND. PER NET OUTSTAND. PER NET OUTSTAND. PER
+ EARNINGS SHARES SHARE EARNINGS SHARES SHARE EARNINGS SHARES SHARE
+ ----------- ----------- -------- ------------ ------------ --------- ------------- ----------- --------
+
+Basic Earnings
+ Per Share 997,971 5,729,599 0.17 2,059,736 2,803,376 0.73 1,234,723 2,414,865 0.51
+
+Stock Split 7/22/97 2,803,376 0.36) 2,414,865 0.25)
+
+Basic Earnings
+ After Stock Split 997,971 5,729,599 0.17 2,059,736 5,606,752 0.37 1,234,723 4,829,730 0.26
+
+Effect of Dilutive
+ Options & Warrants 545,039 335,658 240,876
+
+Diluted Earnings
+ Per Share ----------- ----------- -------- ------------ ------------ --------- ------------- ----------- --------
+ 997,971 6,274,638 0.16 2,059,736 5,942,410 0.35 1,234,723 5,070,606 0.24
+ =========== =========== ======== ============ ============ ========= ============= =========== ========
+
+Certain anti-dilutive outstanding stock options and warrants were excluded from
+the calculation of average shares outstanding since their exercise prices
+exceeded the average market price of common shares during the period. The
+anti-dilutive stock options and warrants so excluded at the end of each of the
+last three years and their associated exercise prices are summarized below. The
+options expire at various times between 1999 and 2002.
+
+Number of Exercise
+ Options and Warrants Price
+ -------------------- -----
+
+1998 70,520 8.13 - 9.25
+
+ 1997 None None
+
+ 1996 88,000 3.13 - 3.31
+
+28
+ 29
+
+Note 10 - Income Taxes
+- ----------------------
+
+The provisions for income tax determined in accordance with FAS 109 for the
+years ended March 31, 1998, 1997, and 1996 are comprised of:
+
+1998 Current Deferred Total
+ ---- ------- -------- -----
+ 
+ Federal 312,800 18,200 331,000
+ State 77,500 3,800 81,300
+ Foreign 229,800 229,800
+ -------------- -------------- --------------
+ 620,100 22,000 642,100
+ ============== ============== ==============
+
+1997 Current Deferred Total
+ ---- ------- -------- -----
+ 
+ Federal 1,085,400 201,400) 884,000
+ State 81,454 (3,694) 77,760
+ Foreign 259,840 259,840
+ -------------- -------------- --------------
+ 1,426,694 205,094) 1,221,600
+ ============== ============== ==============
+
+1996 Current Deferred Total
+ ---- ------- -------- -----
+ 
+ Federal 405,100 112,000 517,100
+ State 24,000 (4,000) 20,000
+ Foreign 245,508 (185,708) 59,800
+ -------------- -------------- --------------
+ 674,608 77,708) 596,900
+ ============== ============== ==============
+
+The following is a reconciliation of the "expected" federal income tax provision
+computed by applying the statutory U.S. federal income tax rate and the income
+tax provision reflected in the statement of income:
+
+1998 1997 1996
+ ---- ---- ----
+ 
+ Computed "Expected"
+ Federal Income Tax 557,600 1,115,650 622,750
+ State Income Taxes 38,300 56,100 13,200
+ Foreign Sales Corp. (126,600) (69,400) (11,225)
+ Book Expense not
+ Deductible for taxes 150,300 106,600
+ Foreign Taxes 44,000 50,800 23,000
+ Valuation Allowance,
+ Foreign (17,900) (14,200) (45,100)
+ R&D Credit (12,300)
+ Other, Net (3,600) (23,950) 6,575
+ ----------- ----------- -----------
+ 642,100 1,221,600 596,900
+ =========== =========== ===========
+
+During 1998, 1997, and 1996, 17,900, 14,200 and 45,100 respectively of a
+foreign valuation allowance was recognized due to the increase in the likelihood
+that benefits will be recognized. Management believes net deferred tax assets
+are more likely than not to be recognized.
+
+29
+ 30
+
+The components of net deferred tax assets are as follows:
+
+1998 1997 1996
+ ---- ---- ----
+ 
+Deferred Tax Assets:
+ Foreign Net Operating
+ Loss Carryforward 133,235 154,857 171,620
+ Deferred Compensation 209,069 226,749 265,938
+ Accrued Vacation Pay 216,211 150,474 132,805
+ Allowance for Doubtful
+ Accounts and Warranties 221,474 134,865 137,190
+ Reserves for Inventory Obsolescence 289,023 201,737 52,015
+ Amortizations of Leaseholds 35,150 53,293
+ Valuation Allowance (30,800) (45,000)
+ -------------- -------------- --------------
+ Gross Deferred Tax Assets 1,104,162 891,175 714,568
+ ============== ============== ==============
+Deferred Tax Liabilities:
+ Goodwill 94,721
+ Depreciation 224,150 177,747 146,561
+ Accelerated Catalog & Postage
+ Write-Offs 186,537 92,674 203,347
+ -------------- -------------- --------------
+ Gross Deferred Tax Liabilities 505,408 270,421 349,908
+ ------- ------- -------
+Net Deferred Tax Assets 598,754 620,754 364,660
+ ============== ============== ==============
+
+The Company has available foreign net operating loss carryforwards totaling
+approximately 358,000. These carryforwards have an unlimited expiration period
+and their use is limited to the Company's future taxable income.
+
+Note 11 - Other Income
+- ----------------------
+
+Other income in 1997 was comprised primarily of the gain on the sale of land.
+
+Note 12 - Consulting Agreement
+- ------------------------------
+
+On February 28, 1995, William J. Berk, former President of Transmation, Inc.
+retired. In accordance with terms of a deferred compensation agreement between
+the Company and Mr. Berk, payments due under such agreement commenced on March
+1, 1995. Mr. Berk is entitled to annual payments amounting to 96,456 for life.
+His wife will receive 60 of the annual benefit for her lifetime should she
+survive him. This deferred compensation agreement was not funded and the
+estimated present value of the future benefits was recorded as an expense and a
+liability over the term of Mr. Berk's actual employment. There were no charges
+to expense for retirement benefits to be paid to Mr. Berk under his now expired
+employment contract during 1996-1998.
+
+Note 13 - Deferred Profit Sharing
+- ---------------------------------
+
+Effective April 1, 1981, the Transmation, Inc. Deferred Profit Sharing Plan was
+adopted. Effective April 1, 1987, this plan was amended from a non-contributory
+to a contributory defined contribution plan and renamed the Transmation, Inc.
+Long-Term Savings and Deferred Profit Sharing Plan. All United States employees
+of Transmation, Inc. are eligible to participate in the plan providing certain
+qualifications are met. Employer contributions are made to the plan at the
+discretion of the Board of Directors of the Company. Payments of benefits
+accrued for plan participants will be made upon retirement or upon termination
+of employment prior to retirement providing certain conditions have been met by
+the employee prior to termination. There were no company profit sharing
+contributions made under this plan in any of the periods 1996-1998.
+
+Note 14 - Fair Value of Financial Instruments
+- ---------------------------------------------
+
+ 30
+ 31
+
+The Company has determined the fair value of its debt and other financial
+instruments using available market information and appropriate valuation
+methodologies as follows:
+
+ Cash and accounts receivable:
+ The carrying amounts reported in the balance sheet for cash
+ and receivables approximate their fair value.
+
+ Long-term debt:
+ The carrying amount of debt under the Company's floating rate
+ revolving credit agreement with a bank approximates it fair
+ value.
+
+Note 15 - Supplemental Information
+- ----------------------------------
+
+Supplemental cash flow information and non-cash investing and financing
+activities are as follows:
+
+Acquisitions: 1998 1997
+ ---- ----
+
+Fair value of assets acquired 12,670,050 1,905,003
+ Liabilities assumed 4,929,355 1,528,617
+ Fair value of assets exchanged 22,000,000 4,800,000
+ Stock issued 1,837,500
+
+Note 16 - Acquisitions
+- ----------------------
+
+On April 4, 1997, the Company acquired certain assets of E.I.L. Instruments,
+Inc. for 22,000,000 cash and the value of certain defined assumed liabilities.
+The transaction was accounted for under the purchase method of accounting and,
+accordingly, the results of operations of E.I.L. for the period April 4, 1997
+through March 31, 1998 are included in the accompanying consolidated financial
+statements. The purchase price has been allocated to assets acquired and
+liabilities assumed based on fair market value at the date of the acquisition.
+
+The following unaudited pro forma financial information for the Company gives
+effect to the E.I.L. acquisition had it occurred on April 1, 1996. 1997 amounts
+include results for Transmation's year ended March 31, 1997 added together with
+results for E.I.L. for their fiscal year ended October 31, 1996, the last year
+for which such results are available. These pro forma results have been prepared
+for comparative purposes only and do not purport to be indicative of results of
+operations which actually would have resulted if the acquisition had occurred on
+the date indicated, or which may result in the future.
+
+Year Ending March 31,
+ ---------------------
+ 1997 
+ ---- 
+
+Net Sales 92,203,824 
+ Income before provision 
+ For Income Taxes 2,505,236 
+ Net Income 1,540,946 
+ Diluted Earnings Per Share .26 
+
+On April 3, 1996 the Company acquired all of the common stock of Altek
+Industries Corp. (Altek), a manufacturer of electronic calibration equipment,
+for a purchase price of 4,800,000 in cash and notes plus 300,000 shares of
+Transmation, Inc. common stock. The transaction was accounted for under the
+purchase method of accounting, and accordingly, the results of operations of
+Altek for the period April 3, 1996 through March 31, 1997 are included in the
+accompanying consolidated financial statements. The purchase price has been
+allocated to assets acquired and liabilities assumed based on fair market value
+at the date of the acquisition.
+
+ 31
+ 32
+
+The following unaudited pro forma financial information for the company gives
+effect to the Altek acquisition had it occurred on April 1, 1995. These pro
+forma results have been prepared for comparative purposes only and do not
+purport to be indicative of the results of operations which actually would have
+resulted if the acquisition had occurred on the date indicated, or which may
+result in the future.
+
+Year Ending March 31,
+ ---------------------
+ 1996 
+ ---- 
+
+Net Sales 42,487,000
+ Income before provision
+ For Income Taxes 1,759,500
+ Net Income 1,144,000
+ Diluted Earnings Per Share .20
+
+Note 17 - Quarterly Financial Information (Unaudited)
+- -----------------------------------------------------
+
+DILUTED
+ EARNINGS
+1998 NET SALES GROSS PROFIT NET INCOME PER SHARE
+- ---------------------------- ---------------- ---------------- ---------------- ----------------
+ 
+Fourth Quarter 19,982,735 6,610,609 332,896 .05
+Third Quarter 19,775,043 6,162,063 158,700 .03
+Second Quarter 19,612,705 6,232,345 264,753 .04
+First Quarter 19,113,082 6,037,261 241,622 .04
+
+DILUTED
+ EARNINGS
+1997 NET SALES GROSS PROFIT NET INCOME PER SHARE
+- ---------------------------- ---------------- ---------------- ---------------- ----------------
+ 
+Fourth Quarter 12,840,734 5,022,125 1,012,542 .17
+Third Quarter 12,210,882 4,833,515 427,538 .07
+Second Quarter 11,211,991 4,407,536 315,782 .06
+First Quarter 11,047,617 4,314,161 303,874 .05
+
+32
+ 33
+
+ TRANSMATION, INC.
+ -----------------
+
+ SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS
+ -------------------------------------------------
+
+ Y E A R E N D E D M A R C H 3 1,
+ -----------------------------------
+
+Additions
+ Balance at Charged to Acquired Bal. at
+ Beginning of Profit and in End of
+ Year Loss Acquisition Year
+ ---- ---- ----------- ----
+
+1998
+ ----
+
+Allowance for
+Doubtful Accounts 404,000 37,000 151,000 592,000
+ ======== ======= ======== ========
+
+1997
+ ----
+
+Allowance for
+Doubtful Accounts 436,000 33,000) 404,000
+ ======== ========= ========
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and
+- ------------------------------------------------------------------------
+ Financial Disclosure
+ --------------------
+
+ None
+
+33
+ 34
+
+ Part III
+ --------
+ The information required by each of the following items is presented in
+the definitive proxy statement to be filed pursuant to Regulation 14A which
+Transmation will file within the period prescribed in connection with the annual
+meeting of shareholders to be held on August 18, 1998 and which is incorporated
+herein by reference.
+
+Item 10. Directors and Executive Officers of the Registrant
+Item 11. Executive Compensation
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+Item 13. Certain Relationships and Related Transactions
+
+Item 14. Exhibits, Financial Statement Schedules, and Reports on Form 8-K
+(a) 1. Financial Statements
+ Report of Independent Accountants 
+ Consolidated Balance Sheet - March 31, 1998, 1997
+ Consolidated Statement of Income - March 31, 1998, 1997, 1996
+ Consolidated Statement of Cash Flows - March 31, 1998, 1997, 1996
+ Consolidated Statement of Stockholders' Equity - March 31, 1998,
+ 1997, 1996
+ Notes to Consolidated Financial Statements
+
+ 2. Financial Statement Schedules
+ Schedule VIII - Valuation and Qualifying Accounts -
+
+ March 31, 1998, 1997
+ All other schedules have been omitted because they are not
+ applicable or the required information is shown in the Financial
+ Statements or notes thereto.
+
+ 3. Index to Exhibits
+
+ (2) Plan of acquisition, reorganization, arrangement,
+ liquidation or succession.
+
+ NOT APPLICABLE
+
+ (3) Articles of Incorporation and By-Laws
+
+ (i) The Articles of Incorporation, as amended, are
+ incorporated herein by reference to Exhibit 4(a)
+ to the Registrant's Registration Statement on Form
+ S-8 (Registration No. 33-61665) filed on August 8,
+ 1995. Certificate of Amendment thereto is
+ incorporated herein 
+
+34
+ 35
+
+ by reference to Exhibit I to the
+ Registrant's Form 10-Q for the quarter ended
+ September 30, 1996.
+
+ (ii) Bylaws, as amended through August 18, 1987,
+ are incorporated herein by reference to
+ Exhibit (3) to the Registrant's Form 10-K
+ for the year ended March 31, 1988.
+
+(4) Instruments defining the rights of security holders,
+ including indentures.
+
+ Revolving Credit Agreement between the Registrant and
+ Manufacturers and Traders Trust Company is incorporated
+ herein by reference to Exhibit 1 to the Registrant's
+ Form 10-Q for the fiscal quarter ended September 30,
+ 1994. Agreement and Amendment No. 1 thereto is
+ incorporated herein by reference to Exhibit 4(c) to the
+ Registrant's Form 10Q for the fiscal quarter ended
+ September 30, 1995. Agreement and Amendment No. 2
+ thereto is incorporated herein by reference to Exhibit
+ 4(d) to the Registrant's Form 10Q-A for the fiscal
+ quarter ended December 31, 1995. Agreement and Amendment
+ No. 3 thereto is incorporated herein by reference to
+ Exhibit 4(e) to the Registrant's Form 10Q for the fiscal
+ quarter ended December 31, 1996.
+
+ Revolving Credit and Term Loan Agreement dated April 4,
+ 1997 among Transmation, Inc. and Manufacturer's and
+ Traders Trust Company and State Street Bank and Trust
+ Company is incorporated herein by reference to Exhibit
+ 4(c) to the Registrant's Form 8-K dated April 18, 1997.
+
+ Amendment No. 1 thereto is included herein as Exhibit
+ 4(a). Upon written request, the Registrant will provide
+ to security holders copies of any of the referenced
+ omitted schedules.
+
+ (9) Voting Trust Agreement
+
+ NOT APPLICABLE
+
+ (10) Material Contracts
+
+ The documents listed under (4) are incorporated herein
+ by reference.
+
+ Amendment No. 1 to Transmation, Inc. Amended and
+ Restated Directors' Warrant Plan is incorporated herein
+ by reference to Exhibit II to the Registrant's Form 10-Q
+ for the quarter ended September 30, 1996.
+
+ Amendments No. 1 and No. 2 to the Transmation, Inc.
+ Amended and Restated 1993 Stock Option Plan are
+ incorporated herein by reference to Exhibits III and IV
+ to the Registrant's Form 10-Q for the quarter ended
+ September 30, 1996.
+
+ Amendment No. 2 to the Transmation, Inc. Employee's
+ Stock Purchase Plan is incorporated herein by reference
+ to Exhibit V 
+
+35
+ 36
+
+ to the Registrant's Form 10-Q for the quarter ended
+ September 30, 1996.
+
+ Stock Purchase Agreement dated March 28, 1996 among the
+ Registrant, E. Lee Garelick and James N. Wurtz is
+ incorporated herein by reference to Exhibit 2(a) to the
+ Registrant's Form 8-K dated April 3, 1996.
+
+ Asset Purchase Agreement dated April 4, 1997 between
+ Transmation, Inc. and E.I.L. Instruments, Inc. is
+ incorporated herein by reference to Exhibit 2(a) to the
+ Registrant's Form 8-K dated April 18, 1997.
+
+ Amendment No. 3 to the Transmation, Inc. Directors'
+ Stock Plan is incorporated herein by reference to
+ Exhibit 10(a) to the Registrant's Form 10K for the year
+ ended March 31, 1997.
+
+ Amendment No. 1 to Stock Purchase Agreement dated
+ February 5, 1997 among the Registrant, E. Lee Garelick
+ and James N. Wurtz is incorporated herein by reference
+ to Exhibit 10(b) to the Registrant's Form 10K for the
+ year ended March 31, 1997.
+
+ Amendment No. 4 to the Transmation, Inc. Directors'
+ Stock Plan is incorporated herein by reference to
+ Exhibit 10(h) to the Registrant's Form 10-Q for the
+ quarter ended June 30, 1997.
+
+ Amendment No. 2 to the Transmation, Inc. Amended and
+ Restated Directors' Warrant Plan is incorporated herein
+ by reference to Exhibit 10(i) to the Registrant's Form
+ 10-Q for the quarter ended June 30, 1997.
+
+ Amendments No. 3 and 4 to the Transmation, Inc. Amended
+ and Restated 1993 Stock Option Plan are incorporated
+ herein by reference to Exhibit 10(j) to the Registrant's
+ Form 10-Q for the quarter ended September 30, 1997.
+
+ Amendment No. 3 to the Transmation, Inc. Employees'
+ Stock Purchase Plan is incorporated herein by reference
+ to Exhibit 10(k) to the Registrant's Form 10-Q for the
+ quarter ended September 30, 1997.
+
+ Second Amendment to the Stock Registration and
+ Repurchase Agreement dated December 12, 1997 between the
+ Registrant and William J. Berk is incorporated herein by
+ reference to the Registrant's Registration Statement on
+ Form S-3 (Registration No. 333-42345).
+
+ (a) Amendment No. 5 to the Transmation, Inc. Directors'
+ Stock Plan is included herein as Exhibit 10(a).
+
+ (b) Amended and Restated Employment Agreement dated as
+ of April 1, 1998 by and between Transmation, Inc. and
+ Robert G. Klimasewski is included herein as Exhibit
+ 10(b).
+
+ (c) Employment Agreement dated as of April 1, 1998 by
+ and between Transmation, Inc. and Eric W. McInroy is
+ included herein as Exhibit 10(c).
+
+36
+ 37
+ (d) Non-Statutory Stock Option Agreement dated as of
+ April 21, 1998 by and between Transmation, Inc. and
+ Barry F. Wharity is included herein as Exhibit 10(d).
+
+ (11) Statement re Computation of Per Share Earnings
+
+ Computation can be clearly determined from Note 9 to the
+ Financial Statements included herein at Item 8.
+
+ (12) Statements re Computation of Ratios
+
+ NOT APPLICABLE
+
+ (13) Annual Report to Security Holders, Form 10-Q on
+ Quarterly Report to Security Holders
+
+ NOT APPLICABLE
+
+ (16) Letter re Change in Certifying Accountant
+
+ NOT APPLICABLE
+
+ (18) Letter re Change in Accounting Principles
+
+ NOT APPLICABLE
+
+ (21) Subsidiaries of Registrant
+
+ Subsidiaries of the Registrant are included herein as
+ Exhibit 21.
+
+ (22) Published Report Regarding Matters Submitted to Vote of
+ Security Holders
+
+ NOT APPLICABLE
+
+ (23) Consents of Experts and Counsel
+
+ Consent of Price Waterhouse LLP is included herein as
+ Exhibit 23.
+
+ (24) Power of Attorney
+
+ NOT APPLICABLE
+
+ (27) Financial Data Schedule
+
+ Financial Data Schedule is included herein as Exhibit
+ 27.
+
+ (99) Additional Exhibits
+
+ NOT APPLICABLE
+
+(b) No reports on Form 8-K were filed during the quarter ended March 31, 1998.
+
+(c) See (a) 3. above.
+
+37
+ 38
+
+(d) (1) NOT APPLICABLE
+ (2) NOT APPLICABLE
+ (3) See Item 8
+
+38
+ 39
+
+ SIGNATURES
+ ----------
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities and
+Exchange Act of 1934, as amended, the Registrant has duly caused this Report to
+be signed on its behalf by the undersigned, thereunto duly authorized.
+
+TRANSMATION, INC.
+
+By: /s/ Robert G. Klimasewski By: /s/ Cornelius J. Murphy
+- ----------------------------------- ----------------------------------
+Robert G. Klimasewski Cornelius J. Murphy
+President & Chief Executive Officer Chairman of the Board of Directors
+(Principal Executive Officer)
+
+Date: June 16, 1998 Date: June 16, 1998
+- ----------------------------------- ----------------------------------
+
+By: /s/ Angelo J. Chiarella By: /s/ Harvey J. Palmer
+- ----------------------------------- ----------------------------------
+Angelo J. Chiarella, Director Dr. Harvey J. Palmer, Director
+
+Date: June 16, 1998 Date: June 16, 1998
+- ----------------------------------- ----------------------------------
+
+By: /s/ E. Lee Garelick By: /s/ Arthur M. Richardson
+- ----------------------------------- ----------------------------------
+E. Lee Garelick, Director Arthur M. Richardson, Director
+
+Date: June 16, 1998 Date: June 16, 1998
+- ----------------------------------- ----------------------------------
+
+By: /s/ Nancy D. Hessler By:
+- ----------------------------------- ----------------------------------
+Nancy D. Hessler, Director Philip P. Schulp, Director
+
+Date: June 16, 1998 Date: June 16, 1998
+- ----------------------------------- ----------------------------------
+
+By: /s/ John W. Oberlies By: /s/ John A. Misiaszek
+- ----------------------------------- ----------------------------------
+John W. Oberlies, Director John A. Misiaszek
+ Vice President, Finance
+ (Principal Financial Officer and
+ Principal Accounting Officer)
+
+Date: June 16, 1998 Date: June 16, 1998
+- ----------------------------------- ----------------------------------
+
+39
+
+<EX-4.A>
+ 2
+ EXHIBIT 4(A)
+
+1
+
+ EXHIBIT 4(a)
+
+AMENDMENT NO. 1
+ DATED AS OF MARCH 31, 1998
+
+ TO
+
+ REVOLVING CREDIT AND TERM LOAN AGREEMENT
+ DATED AS OF APRIL 4, 1997
+
+ among
+
+ TRANSMATION, INC.
+
+ as "Borrower"
+
+ and
+
+ MANUFACTURERS AND TRADERS TRUST COMPANY
+
+ and
+
+ STATE STREET BANK AND TRUST COMPANY
+
+ as "Banks"
+
+ and
+
+ MANUFACTURERS AND TRADERS TRUST COMPANY
+
+ as "Agent"
+
+40
+
+ 2
+
+AMENDMENT NO. 1 TO REVOLVING CREDIT AND TERM LOAN AGREEMENT
+
+ THIS AGREEMENT, dated as of March 31, 1998, is among TRANSMATION, INC.
+(the "BORROWER"), MANUFACTURERS AND TRADES TRUST COMPANY (a "BANK,"), STATE
+STREET BANK AND TRUST COMPANY (a "BANK") and MANUFACTURERS AND TRADERS TRUST
+COMPANY, as Agent for the Banks (in such capacity, together with its successors
+in such capacity, the "AGENT").
+
+ R E C I T A L S :
+
+ R.1 The parties have entered into a Revolving Credit and Term Loan
+Agreement dated as of April 4 ,1997 (the "CREDIT AGREEMENT"). Terms defined in
+the Credit Agreement are used herein as so defined.
+
+ R.2 The parties wish to terminate the Guarantees and the security
+agreements that were executed by the non-U.S. Subsidiaries on or about the
+Closing Date; and the parties wish to amend the pledge agreement executed by the
+Borrower on or about the Closing Date, with respect to the shares of the capital
+stock of Borrower's non-U.S. Subsidiaries.
+
+R.3 The parties wish to amend the Credit Agreement as hereinafter set forth, to
+amend and restate the Guarantees executed by Altek Industries, Inc. ("Altek") on
+or about the Closing Date, and to take certain other actions as herein provided.
+
+NOW, THEREFORE, the parties agree as follows:
+
+ 1. DEFINITIONS. Except as otherwise set forth herein, as used in this
+Agreement No. 1, the terms defined in the Credit Agreement shall have the
+meanings assigned to them in the Credit Agreement.
+
+ 2. AMENDMENTS. The Credit Agreement is hereby amended as set forth
+below:
+
+ 2.1 DEFINITIONS. The definition of Applicable Margin is amended to
+read as follows:
+
+ "APPLICABLE MARGIN" means the appropriate percentages corresponding
+ to the Adjusted Leverage Ratio in effect as of the most recent
+ Calculation Date as shown below:
+
+Revolving Credit Loans Term Loans 
+ ---------------------- ---------- 
+Pricing Adjusted Eurodollar Base Rate Eurodollar Base Rate 
+Level Leverage Ratio Rate Plus Plus Rate Plus Plus 
+- ----- -------------- --------- ---- --------- ---- 
+
+I >4.0 2.75 1.25 3.00 1.50 
+ 
+II >3.5 and 3.0 and 2.5 and 2.0 and 1.5 and 3
+
+ March 31, 1998 and, thereafter, the pricing level shall be
+ determined by the then current Adjusted Leverage Ratio; and provided
+ further that if the Borrower fails to provide the Chief Financial
+ Officer's certificate required by SECTION 5.03(e) on or before any
+ Calculation Date subsequent to March 31, 1998, the Applicable Margin
+ shall be based on Pricing Level I from such Calculation Date until
+ such time as an appropriate Chief Financial Officer certificate is
+ provided, whereupon the pricing level shall be determined by the
+ Adjusted Leverage Ratio reflected on such Chief Financial Officer
+ certificate until the next Calculation Date. Except as provided in
+ the preceding sentence, each determination of the Applicable Margin
+ shall be effective from one Calculation Date until the next
+ Calculation Date. Any adjustment in the Applicable Margin shall be
+ applicable to all existing Loans, as well as to any new Loans made
+ thereafter.
+
+ 2.2 DEFINITIONS. The following definition is added to SECTION 1.01
+of the Credit Agreement:
+
+ "AMENDMENT NO. 1" shall mean Amendment No. 1 dated as of March 31,
+ 1998 to Revolving Credit and Term Loan Agreement dated as of April
+ 4, 1997.
+
+ 2.3 DEFINITIONS. The definitions of the following terms set forth in
+SECTION 1.01 of the Credit Agreement are amended to read as follows:
+
+ "CLOSING DATE" shall mean April 4, 1997.
+
+ "LOAN DOCUMENTS" shall mean collectively, (i) this Agreement and the
+ Notes, (ii) all Guarantees, stock pledge agreements, security
+ agreements, mortgages, subordination agreements and other agreements
+ or documents referred to in ARTICLE IV of this Agreement, (iii) all
+ other documents, certificates and instruments executed in connection
+ with this Agreement and all amendments to this Agreement and (iv)
+ all documents designated as "Loan Documents" in any amendment to
+ this Agreement.
+
+ 2.4 CLOSING DATE. The introductory paragraph of SECTION 4.01 shall
+be amended to read as follows:
+
+ SECTION 4.01 CLOSING DATE. The obligations of the Banks to make
+ Loans hereunder shall become effective on the Closing Date, subject
+ to termination of the Commitments under the circumstances provided
+ in the closing paragraph to this Section:
+
+ 2.5 OPINIONS OF COUNSEL. SECTION 4.01(b) shall be amended to read as
+follows:
+
+ (b) The Agent shall have received a favorable written opinion
+ (addressed to the Agent and the Banks and dated the Closing Date) of
+ Harter, Secrest and Emery, U.S. counsel for the Borrower,
+ substantially in the form of SCHEDULE 4.01(b) and covering such
+ other matters relating to the parties, the Loan Documents or the
+ Acquisition as the Required Lenders shall reasonably request. The
+ Borrower hereby requests such counsel to deliver such opinion.
+
+ 2.6 SUBSIDIARY GUARANTEE. SECTION 4.01(f) shall be amended to read
+as follows:
+
+ (f) The Agent shall have received a counterpart of the U.S.
+ Subsidiary Guarantee Agreement, in the form of SCHEDULE 4.01(f),
+ signed on behalf of each U.S. Subsidiary.
+
+ 2.7 PLEDGE AGREEMENTS. SECTION 4.01(g) shall be amended to read as
+follows:
+
+ (g) The Agent shall have received (i) counterparts of the (x) the
+ Foreign Subsidiary Pledge Agreement, in the form of SCHEDULE
+
+42
+ 4
+
+ 4.01(g), signed on behalf of the Borrower, and (y) the U.S.
+ Subsidiary Pledge Agreement, in the form of SCHEDULE 4.01(g-1),
+ signed on behalf of the Borrower, (ii) stock certificates
+ representing the shares of capital stock of each Subsidiary owned by
+ or on behalf of the Borrower or any Subsidiary and pledged pursuant
+ to each such pledge agreement and (iii) stock powers and instruments
+ of transfer, endorsed in blank, with respect to such stock
+ certificates.
+
+ 2.8 SECURITY AGREEMENTS. SECTION 4.01(h) is amended to read as
+follows:
+
+ (h) The Agent shall have received (i) counterparts of (x) the
+ Borrower Security Agreement, in the form of SCHEDULE 4.01(h), signed
+ on behalf of the Borrower (y) the Subsidiary Security Agreement, in
+ the form of SCHEDULE 4.01(h-1), signed on behalf of each U.S.
+ Subsidiary and (ii) all documents and instruments, including uniform
+ commercial code financing statements, required by law or reasonably
+ requested by the Agent to be filed, registered or recorded to create
+ or perfect the liens intended to be created under such security
+ agreements.
+
+ 2.9 CONDITIONS SUBSEQUENT. The concluding paragraph of SECTION 4.01
+shall be amended to read as follows:
+
+ The Commitments of the Banks shall terminate unless each of the
+ conditions described in SCHEDULE 2.9 to Amendment No. 1 is satisfied
+ (or waived by all of the Banks) at or prior to 5:00 p.m., Rochester
+ time on March 31, 1998.
+
+ 2.10 INTERCOMPANY DEBT. SECTION 6.01(d) is amended to read as
+follows:
+
+ (d) Subordinated Debt of the Borrower to any Subsidiary and Debt of
+ any Subsidiary to the Borrower permitted pursuant to SECTION
+ 6.06(e).
+
+ 2.11 PERMITTED DEBT OF BORROWER. SECTION 6.01(f) is amended to read
+as follows:
+
+ (f) Debt of the Borrower consisting of reimbursement obligations
+ related to letters of credit issued for the account of the Borrower,
+ acceptances of the Borrower, and Debt of the Borrower secured by
+ purchase money liens permitted pursuant to SECTION 6.02, provided
+ that the aggregate principal amount of all such Debt at any time
+ outstanding shall not exceed 250,000;
+
+ 2.12 SUBSIDIARY DEBT. SECTION 6.01(g) is amended to read as follows:
+
+ (g) Debt incurred by any Subsidiary in respect of reimbursement
+ obligations related to letters of credit issued for the account of
+ such Subsidiary, acceptances of such Subsidiary or Debt of such
+ Subsidiary secured by purchase money liens permitted by SECTION
+ 6.02, provided that the aggregate principal amount of all such Debt
+ at any time outstanding with respect to any such Subsidiary shall
+ not exceed 250,000.
+
+ 2.13 SECTION 6.01(h). SECTION 6.01(h) is hereby deleted and of no
+further force or effect and the Section designation 6.01(h) is hereby reserved.
+
+ 2.14 LEASES. The text of SECTION 6.03, prior to the table, is
+amended to read as follows:
+
+ SECTION 6.03. LEASES. Create, incur, assume or suffer to exist, any
+ obligation as lessee for the rental or hire of any real or personal
+ property except: (a) leases existing on the date of this Agreement,
+ as described in SCHEDULE 6.03, and any extensions or 
+
+43
+ 5
+
+ renewals thereof; (b) leases (other than Capitalized Lease
+ Obligations) in which neither the Borrower nor any of its
+ Subsidiaries is lessor, which do not in the aggregate require the
+ Borrower and its Subsidiaries on a consolidated basis to make
+ payments (including taxes, insurance, maintenance and similar
+ expense which the Borrower or any Subsidiary is required to pay
+ under the terms of any lease) in any Fiscal Year of the Borrower in
+ excess of the amount set forth with respect to such Fiscal Year in
+ the table following this paragraph; (c) Capitalized Lease
+ Obligations permitted by SECTION 6.02; and (d) leases for the
+ replacement of existing motor vehicles and office space.
+
+ 2.15 GUARANTEES. CLAUSE (ii) of SECTION 6.04 is amended to read as
+follows:
+
+ (ii) except Guarantees of obligations of Persons other than the
+ Borrower and any of its Subsidiaries aggregating not more than 10 
+ of the amount of its tangible net worth from time to time, which
+ Guarantee obligations shall be included in Indebtedness, Debt, or
+ Funded Debt, as appropriate, depending on the terms of the
+ guaranteed obligations.
+
+ 2.16 INVESTMENTS. SECTION 6.06(e) is amended to read as follows:
+
+ (e) advances to or investments in Subsidiaries, provided that the
+ aggregate of all such advances or investments outstanding at any one
+ time (i) to Altek shall not exceed the amount of the fair saleable
+ value of Altek's assets, valued on a going concern basis, less the
+ total amount of Altek's liabilities; and (ii) to each of the
+ following Subsidiaries, the amount set forth after its name:
+
+Subsidiary Maximum Amount
+ ---------- --------------
+ 
+ Transmation (Canada) Inc. 250,000
+ Transmation Australia Pty. Ltd. 500,000
+ Transmation Singapore Pte. Ltd. 250,000
+
+2.17 LEVERAGE RATIO. SECTION 7.04 of the Credit Agreement is amended
+to change the Adjusted Leverage Ratio required to be maintained at the end of
+each of the Fiscal Quarters indicated below to the respective Maximum Ratio set
+forth below:
+
+FISCAL QUARTER ENDING MAXIMUM RATIO
+ --------------------- -------------
+ 
+ 03/31/98 4.00
+ 06/30/98 3.75
+ 09/30/98 3.50
+ 12/31/98 3.25
+ 03/31/99 3.00
+ 06/30/99 and thereafter 2.75
+
+3. TERMINATION OF CERTAIN GUARANTEES, SECURITY AGREEMENTS AND
+SUBORDINATION AGREEMENT. (a) The Guarantees executed by each of Transmation
+Australia Pty. Ltd., Transmation Singapore Pte. Ltd., Transcat F.S.C. and
+Transmation (Canada) Inc. and the security agreement executed by Transmation
+(Canada), Inc., copies of which are attached as SCHEDULE 3 to this Amendment No.
+1, are terminated and of no further force or effect, and the rights of the Banks
+and the Agent, and the obligations of the Subsidiaries executing each such
+document, under and pursuant to each such document are terminated and released;
+and (b) the Guarantees executed by Altek are amended and restated, and replaced
+by the Guarantees required by SECTION 5.4 below to be executed and delivered by
+Altek. Each Subsidiary referred to in this Section shall be a third party
+beneficiary of this Section.
+
+ 4. REPRESENTATIONS AND WARRANTIES. Borrower hereby represents and
+warrants to the Banks that:
+
+ 4.1 CORPORATE POWER AND AUTHORITY: NO CONFLICTS. The execution,
+delivery and performance by each of the Borrower and Altek, as the case may be,
+of this Amendment No. 1 and of each other Loan Document to be executed by it
+
+44
+ 6
+
+pursuant hereto, have been duly authorized by all necessary corporate action and
+do not and will not: (a) require any consent or approval of its stockholders;
+(b) contravene its charter or by-laws; (c) violate any provision of, or require
+any filing, registration, consent or approval under, any law, rule, regulation
+(including, without limitation, Regulation U), order, writ, judgment,
+injunction, decree, determination or award presently in effect having
+applicability to the Borrower or any of its Subsidiaries or Affiliates (other
+than any appropriate disclosure required to be contained in periodic reports to
+be filed by the Borrower pursuant to the Securities Exchange Act of 1934 and
+applicable regulations thereunder); (d) result in a breach of or constitute a
+default or require any consent under any indenture or loan or credit agreement
+or any other agreement, lease or instrument to which the Borrower or any of its
+Subsidiaries or Affiliates is a party or by which any of them or their
+properties may be bound or affected; (e) result in, or require, the creation or
+imposition of a Debt or Guarantee of Borrower or any of its Subsidiaries or
+Affiliates, or any lien upon or with respect to any of the properties now owned
+or hereafter acquired by the Borrower or any of its Subsidiaries or Affiliates;
+or (f) cause the Borrower or any of its Subsidiaries or Affiliates, as the case
+may be, to be in default under any such law, rule, regulation, order, writ,
+judgment, injunction, decree, determination or award or any such indenture,
+agreement, lease or instrument.
+
+ 4.2 LEGALLY ENFORCEABLE AGREEMENT. Each of this Amendment No. 1,
+each other Loan Document required to be executed in connection herewith, the
+Credit Agreement as amended hereby and each other Loan Document as amended by
+each such other Loan Document, is a legal, valid and binding obligation of the
+Borrower and Altek, as the case may be, enforceable against the Borrower and
+Altek in accordance with its terms, except to the extent that such enforcement
+may be limited by applicable bankruptcy, insolvency or other similar laws
+affecting creditors' rights generally.
+
+ 4.3 NO DEFAULT. On and as of the date of this Amendment No. 1, and
+after giving effect to this Amendment No. 1 and to each other Loan Document
+required to be executed in connection herewith, no event has occurred and is
+continuing which constitutes a Default or Event of Default.
+
+ 4.4 INVESTMENTS IN SUBSIDIARIES. SCHEDULE 4.4 to this Amendment No.
+1 sets forth the total amount of advances to and direct investments in the
+Subsidiaries made by Borrower and outstanding as of the date of this Amendment
+No. 1.
+
+ 5. EFFECTIVENESS. This Amendment No. 1 shall be of no force or effect
+unless and until all of the following conditions are met, and unless each such
+condition is either met or waived by both Banks on or before March 31, 1998,
+this Amendment shall not become effective. Upon this Amendment No. 1 becoming
+effective, each document delivered pursuant to this ARTICLE 5 shall constitute a
+"Loan Document":
+
+ 5.1 COUNTERPARTS. The Borrower and the Agent have each received
+counterparts of this Amendment No. 1 duly executed by the Borrower, the Agent,
+and the Banks.
+
+ 5.2 RESOLUTIONS. The Agent shall have received certified copies of
+the resolutions of the boards of directors of the Borrower and Altek, in form
+and content reasonably satisfactory to the Agent, authorizing the execution,
+delivery and performance of this Amendment No. 1 and of all other documents
+required to be executed by Borrower or Altek, as the case may be, pursuant
+hereto.
+
+ 5.3 ALTEK GUARANTEE. The Agent shall have received a Guarantee in
+favor of each Bank, in the form of SCHEDULE 5.3 to this Amendment No. 1,
+executed and delivered by Altek.
+
+ 5.4 OPINION. The Agent shall have received an opinion of counsel to
+the Borrower and Altek to the effect that the execution, delivery and
+performance of this Amendment No. 3, and the Loan Documents to be executed by
+Borrower and/or Altek pursuant to SECTION 5.3 AND 5.6 of this Amendment No. 1,
+have been duly and validly authorized on behalf of the Borrower and Altek, as
+
+45
+ 7
+
+the case may be, and do not conflict with any legal or contractual provision or
+restriction applicable to Borrower and Altek, as the case may be, or to any of
+the property of either, and that this Amendment No. 1 and the Credit Agreement
+and such other loan Documents, as amended hereby, are enforceable against
+Borrower and Altek.
+
+ 5.5 REPRESENTATIONS AND WARRANTIES. Each of the representations and
+warranties set forth in ARTICLE 4 to this Amendment No. 1 shall be true and
+correct on and as of the date on which this Amendment No. 1 becomes effective.
+
+ 5.6 AMENDMENT OF FOREIGN SUBSIDIARY PLEDGE AGREEMENT. Each of the
+Borrower and the Agent shall have executed an amendment, in the form of SCHEDULE
+5.6 to this Amendment No. 1, to the Foreign Subsidiary Pledge Agreement.
+
+ 6. AGENT'S EXPENSES. Borrower agrees to pay the Agent for all costs,
+expenses and charges (including, without limitation, fees and charges of
+external legal counsel for the Agent and costs allocated by its internal legal
+department) incurred by the Agent in connection with the negotiation,
+preparation and execution of this Amendment No. 1 and the documents executed in
+connection herewith.
+
+ 7. ADJUSTED LEVERAGE RATIO REPORT. Reference is made to a letter dated
+February 12, 1998 executed by the Banks and the Agent and addressed to the
+Borrower (the "2/12/98 Letter"). Pursuant to paragraph 1 of the 2/12/98 Letter,
+the Borrower agreed to provide to the Agent, on March 31, 1998, a statement
+regarding the Adjusted Leverage Ratio as of such date. The Borrower is hereby
+released from its obligation to provide such statement and from its agreements
+set forth in paragraph 3 of the 2/12/98 Letter.
+
+ 8. MISCELLANEOUS. Except as expressly provided in or pursuant to this
+Amendment No. 1, the Credit Agreement and each other Loan Document shall remain
+unchanged and in full force and effect, except that each reference in the Credit
+Agreement and in any of the other Loan Documents, and in any agreements,
+certificates and notices simultaneously herewith or hereafter executed under or
+pursuant to the Credit Agreement or the other Loan Documents, (a) to the "Credit
+Agreement", "this Agreement", "hereof", "herein" and similar terms referring to
+the Credit Agreement, shall be deemed to refer to the Credit Agreement as
+amended by this Amendment No. 1 and (b) to any other Loan Document, shall be
+deemed to refer to such Loan Document as amended pursuant to any documents
+executed pursuant to the requirements of this Amendment No. 1.
+
+ This Amendment No. 1, and each Loan Document executed by the Borrower
+pursuant hereto, shall be governed by and construed in accordance with the laws
+of the State of New York.
+
+ The section headings in this Amendment No. 1 are inserted for
+convenience only and shall not be a part of this instrument.
+
+ This Amendment No. 1 may be signed in any number of counterparts, each
+of which shall be an original, with the same effect as if the signature thereto
+and hereto were upon the same instrument.
+
+ TRANSMATION, INC.
+ By /s/ John Misiaszek
+ ---------------------------
+ Name: John Misiaszek
+ Title: Vice President, Finance
+
+SEPARATE SIGNATURE PAGE FOR EACH BANK TO FOLLOW ON PAGES ______ THROUGH _______
+
+46
+ 8
+
+ MANUFACTURERS AND TRADERS TRUST COMPANY
+ Individually and as Agent,
+
+By /s/ J. Theodore Smith
+ --------------------------------
+
+ Name: J. Theodore Smith
+ -----------------------------
+
+ Title: Vice President
+ ---------------------------- 
+
+47
+ 9
+
+ STATE STREET BANK AND TRUST COMPANY
+
+By /s/ David G. Case
+ --------------------------------
+
+ Name: David G. Case
+ -----------------------------
+
+ Title: Vice President
+ ----------------------------
+
+48
+
+</EX-4.A>
+
+<EX-10.A>
+ 3
+ EXHIBIT 10(A)
+
+1
+
+ Exhibit 10(a)
+
+AMENDMENT NO. 5
+ TO THE
+ TRANSMATION, INC.
+ DIRECTORS' STOCK PLAN
+
+ EFFECTIVE NOVEMBER 1, 1997
+
+WHEREAS, Transmation, Inc., an Ohio corporation (the "Company"), has
+established the Transmation, Inc. Directors' Stock Plan, effective January 17,
+1995, as last amended on April 25, 1997 (the "Plan"); and
+
+ WHEREAS, deeming it appropriate and advisable so to do, and pursuant to
+Section 8 of the Plan, the Board of Directors of the Company has authorized,
+approved and adopted the further amendment to the Plan set forth herein;
+
+ NOW, THEREFORE, the Plan is hereby further amended, effective November
+1, 1997, as follows:
+
+ 1. Amendment No. 1 to the Plan, which amended Section "3(b)
+AWARDS FOR BOARD MEETINGS ATTENDED." of the Plan so as to fix a maximum number
+of Board meetings per fiscal year for which shares would be awarded under the
+Plan, is hereby repealed and rescinded and is of no further force or effect.
+
+ 2. Except as amended hereby, the Plan (including Section 3(b)
+thereof as it existed prior to the adoption of Amendment No. 1 to the Plan)
+shall remain in full force and effect in accordance with its terms.
+
+THIS AMENDMENT NO. 5 TO THE TRANSMATION, INC. DIRECTORS' STOCK PLAN WAS
+AUTHORIZED, APPROVED AND ADOPTED BY THE BOARD OF DIRECTORS OF THE COMPANY ON
+OCTOBER 28, 1997.
+
+/s/ John A. Misiaszek
+ -------------------------------
+ John A. Misiaszek, Secretary
+
+49
+
+</EX-10.A>
+
+<EX-10.B>
+ 4
+ EXHIBIT 10(B)
+
+1
+
+ EXHIBIT 10 (b)
+
+ AMENDED AND RESTATED EMPLOYMENT AGREEMENT
+
+THIS AMENDED AND RESTATED EMPLOYMENT AGREEMENT (this "Agreement") has
+been made as of April 1, 1998 by and between TRANSMATION, INC., an Ohio
+corporation (the "Corporation"), and ROBERT G. KLIMASEWSKI (the "Employee").
+
+ WHEREAS, the parties have previously entered into a certain Employment
+Agreement dated as of April 1, 1995, as extended and amended as of April 1, 1996
+(the "Original Agreement"), and they now desire to extend the term of the
+Original Agreement, to amend its provisions in certain respects and to restate
+the Original Agreement in its entirety;
+
+ NOW, THEREFORE, the Original Agreement is hereby extended, amended and
+restated in its entirety, effective this date, to provide as follows:
+
+1. MUTUAL AGREEMENT OF THE PARTIES. The Corporation hereby agrees to
+continue to employ the Employee, and the Employee hereby agrees to accept such
+continued employment, for the period and on the terms and conditions set forth
+in this Agreement.
+
+ 2. TERM OF EMPLOYMENT.
+
+ (a) TERM. The term of this Agreement and of the Employee's
+employment hereunder (the "Term") shall commence on the date hereof and shall
+expire on March 31, 1999, subject to the further provisions of Section 2(b)
+hereof and in all cases subject to earlier termination as provided by Section 9
+hereof. As used herein, the term "Year" shall mean any period during the Term
+commencing on April 1 and ending on the next succeeding March 31.
+
+ (b) RENEWAL. On April 1, 1999, the Term shall renew for one Year and
+expire on March 31, 2000 if each party shall have given the other, on or before
+February 1, 1999, written notice that the Term shall renew. If such notice is
+not given by each party, then the Term shall expire on March 31, 1999.
+
+ 3. AUTHORITY AND DUTIES. During the Term the Employee shall be the
+Chairman of the Board of Directors of the Corporation (the "Board of
+Directors"). As such, he shall: (i) report and be responsible to the Board of
+Directors; (ii) work in an advisory and consultative capacity with the President
+and Chief Executive Officer; (iii) perform the duties set forth in the letter
+annexed hereto as Exhibit A (which is incorporated herein by reference as if set
+forth herein in full); and (iv) have and exercise such powers and authority as
+are customarily enjoyed by a chairman of the board of directors of a
+corporation, subject to direction by the Board of Directors. The Employee shall
+devote such time to the affairs of the Corporation as is necessary for the
+performance of his duties hereunder, and shall use his best efforts to promote
+its best interests.
+
+ 4. COMPENSATION. During the Term the Corporation shall pay to the
+Employee, and the Employee shall accept, as compensation for all services
+rendered under this Agreement, a cash salary at the rate of 175,000 per Year.
+Such salary shall be payable at such intervals (but not less often than
+bi-weekly or semi-monthly) as the Corporation pays the salaries of other senior
+executives during the Term.
+
+ 50
+ 2
+
+ 5. BENEFITS. During the Term:
+
+ (a) VACATION. The Employee shall be entitled to the same amount of
+paid vacation time per annum as the Corporation provides its other senior
+executives.
+
+ (b) AUTOMOBILE ALLOWANCE. The Corporation shall provide the Employee
+with an automobile allowance in the amount of 750 per month.
+
+ (c) CLUB MEMBERSHIP. The Corporation shall, at its expense, provide
+the Employee with membership in one country club of his choosing.
+
+ (d) OTHER BENEFITS. The Corporation shall, at its expense, provide
+in the name and for the benefit of the Employee and his designated beneficiaries
+all fringe benefit plans and programs which the Corporation then provides for
+its senior executives, except if and to the extent that the Employee shall waive
+his rights thereto. Nothing contained herein shall be deemed to restrict or
+limit the right of the Corporation at any time to modify, amend or terminate any
+or all such fringe benefit plans and programs.
+
+ 6. BUSINESS EXPENSES. The Corporation shall pay or reimburse the
+Employee for all reasonable travel and other expenses incurred or paid by him in
+connection with the performance of his duties under this Agreement, upon
+presentation to the Corporation of expense statements or vouchers and such other
+supporting documentation as it may, from time to time, reasonably require;
+provided, however, that the amount available for such expenses may, at any time
+or from time to time, be fixed in advance by the Board of Directors.
+
+ 7. NON-COMPETITION. The Employee agrees that during the Term he shall
+not, without the express written consent of the Corporation, engage directly or
+indirectly (whether by means of stock ownership or otherwise) in any business
+which is in competition, directly or indirectly, with the business of the
+Corporation. A direct or indirect investment by the Employee in less than 5
+percent of the total capital of any such competitive enterprise or business
+whose stock is publicly traded shall not be deemed a violation of this Section
+7.
+
+ 8. CONFIDENTIALITY. The Employee acknowledges that in the course of his
+employment by the Corporation he has had and will have access to confidential
+information relating to the business and affairs of the Corporation, including
+without limitation information relating to business ideas, trade secrets,
+product development, secret processes, plans and/or materials, statistical
+information and customer lists. The Employee agrees that he will not, either
+during the Term or after its expiration, without the prior express written
+consent of the Corporation, disclose, divulge, furnish, release or otherwise
+make available to any person or entity any of such confidential information,
+except for: (a) disclosures made, in furtherance of the Corporation's interests,
+with the approval or at the direction of investment bankers retained by the
+Corporation, and (b) disclosures of information which, through no breach of the
+Employee's obligations under this Section 8, is no longer confidential.
+
+ 9. TERMINATION; SEVERANCE.
+
+ (a) TERMINATION. This Agreement and the Employee's employment
+hereunder shall terminate at the close of business on the earliest of the
+following dates:
+
+ (i) the applicable date of expiration of the Term provided by
+ Section 2 hereof; or
+
+ (ii) the date of the Employee's death; or
+
+ 51
+ 3
+
+ (iii) the thirtieth day following the date on which the
+ Corporation receives written notice of the Employee's termination of
+ this Agreement; or
+
+ (iv) the thirtieth day following the date on which the Employee
+ receives written notice of the Board of Directors' termination of this
+ Agreement with or without "Cause" (as defined in Section 9(b) hereof).
+
+ (b) CAUSE FOR TERMINATION. For purposes of this Agreement, the term
+"Cause" shall mean a reasonable determination by vote of a majority of the
+members of the Board of Directors then holding office (other than the Employee
+if he shall then be a director) that one of the following conditions exists or
+one of the following events has occurred:
+
+ (i) the willful misconduct or gross negligence of the Employee
+ in connection with the performance of his duties hereunder; or
+
+ (ii) the Employee's conviction of any crime or offense involving
+ money, property or personnel of the Corporation, or of any other crime
+ which constitutes a felony; or
+
+ (iii) the Employee's use, possession or being under the
+ influence of any narcotic or controlled substance while at work, or his
+ being under the influence of any alcoholic beverage while at work.
+
+ (c) SEVERANCE PAYMENT IF TERMINATION WITHOUT CAUSE. In the event
+that the Board of Directors shall terminate this Agreement without Cause, the
+Corporation shall pay to the Employee as severance an amount equal to the total
+compensation (including without limitation salary, bonuses (if any), benefits
+(if any) and compensation (if any) in the form of stock or options to purchase
+stock) payable to the Employee by the Corporation during the 12 months
+immediately preceding the date of termination specified in Section 9(a)(iv)
+hereof (the "Termination Date"). Such severance amount shall be paid to the
+Employee in cash within 30 days following the Termination Date unless and to the
+extent that the Employee determines otherwise. For purposes of calculating the
+cash amount of such severance payment, any such compensation that had been
+payable to the Employee other than in cash shall be valued at its fair market
+value on the date it was payable.
+
+ 10. IN GENERAL.
+
+ (a) BINDING OBLIGATION. This Agreement shall be binding upon and
+shall inure to the benefit of the Employee and his personal representatives, and
+the Corporation and its successors and assigns, including without limitation any
+successor to the business of the Corporation, whether by way of merger,
+reorganization, transfer of assets or otherwise. The term "Corporation" as used
+herein shall include such successors and assigns.
+
+ (b) NOTICES. Any notice required or permitted by this Agreement
+shall be given by hand or by certified mail, return receipt requested, addressed
+to the Corporation at its then principal office, or to the Employee at his then
+residence address, or to either party at such other address as it or he may from
+time to time specify for the purpose in a notice similarly given to the other
+party.
+
+ (c) APPLICABLE LAW. This Agreement shall be governed by and
+construed in accordance with the laws of the State of New York applicable to
+agreements made and to be performed entirely within such State.
+
+52
+ 4
+
+ (d) ENTIRE AGREEMENT, ETC. This Agreement contains the entire
+understanding of the parties relating to the subject matter hereof, and
+supersedes all prior agreements, arrangements and understandings, written or
+oral, between the parties with respect to the subject matter hereof, including
+the Original Agreement. No modification of this Agreement shall be valid unless
+it is in writing and signed by the Corporation and by the Employee. A waiver of
+the breach of any term or condition of this Agreement shall not be deemed to
+constitute a waiver of any subsequent breach of the same or any other term or
+condition.
+
+ IN WITNESS WHEREOF, the parties have duly executed and delivered this
+Agreement as of the day and year first above written.
+
+ TRANSMATION, INC.
+
+By: /s/ Cornelius J. Murphy 
+ --------------------------------------
+ Cornelius J. Murphy
+ Chairman of the Executive Committee
+ of the Board of Directors
+
+/s/ Robert G. Klimasewski
+ ----------------------------------------
+ ROBERT G. KLIMASEWSKI
+
+53
+ 5
+
+ EXHIBIT A
+ TRANSMATION, INC.
+ 10 VANTAGE POINT DRIVE
+ ROCHESTER, NEW YORK 14624
+
+ April 1, 1998
+
+Robert G. Klimasewski
+Chairman of the Board
+Transmation, Inc.
+10 Vantage Point Drive
+Rochester, New York 14624
+
+Dear Bob:
+
+ In your capacity as Chairman of the Board of the Company, I would like
+you to be responsible for the following matters during the 1998-99 fiscal year
+of the Company:
+
+ (i) acquisitions
+
+ (ii) banking and other financial relationships
+
+ (iii) investor relations
+
+ (iv) mentoring me
+
+ (v) mentoring John Misiaszek
+
+ (vi) strategic planning with respect to employee benefits, and
+
+ (vii) special projects as may be assigned to you by the Board of
+Directors on my recommendation.
+
+ I look forward to working with you.
+
+ Very truly yours,
+
+ TRANSMATION, INC.
+
+Eric W. McInroy
+ President and Chief Executive Officer
+
+54
+
+</EX-10.B>
+
+<EX-10.C>
+ 5
+ EXHIBIT 10(C)
+
+1
+
+ EXHIBIT 10 (c)
+
+ EMPLOYMENT AGREEMENT
+
+THIS EMPLOYMENT AGREEMENT (this "Agreement") has been made as of April
+1, 1998 by and between TRANSMATION, INC., an Ohio corporation (the
+"Corporation"), and ERIC W. MCINROY (the "Employee").
+
+ The parties hereby as follows:
+
+1. MUTUAL AGREEMENT OF THE PARTIES. The Corporation hereby agrees to
+continue to employ the Employee, and the Employee hereby agrees to accept such
+continued employment, for the period and on the terms and conditions set forth
+in this Agreement.
+
+ 2. TERM OF EMPLOYMENT.
+
+ (a) TERM. The term of this Agreement and of the Employee's
+employment hereunder (the "Term") shall commence on the date hereof and shall
+expire on March 31, 1999, subject to the further provisions of Section 2(b)
+hereof and in all cases subject to earlier termination as provided by Section 9
+hereof. As used herein, the term "Year" shall mean any period during the Term
+commencing on April 1 and ending on the next succeeding March 31.
+
+ (b) RENEWAL. On April 1, 1999, the Term shall renew for one Year and
+expire on March 31, 2000 if each party shall have given the other, on or before
+February 1, 1999, written notice that the Term shall renew. If such notice is
+not given by each party, then the Term shall expire on March 31, 1999.
+
+ 3. AUTHORITY AND DUTIES. During the Term the Employee shall be the
+President and Chief Executive Officer of the Corporation. As such, he shall: (i)
+report and be responsible to the Board of Directors of the Corporation (the
+"Board of Directors"); (ii) be responsible for all of the business and
+operations of the Corporation, except for those responsibilities which have been
+delegated to the Chairman of the Board of the Corporation pursuant to an
+employment agreement of even date herewith between the Corporation and the
+Chairman of the Board; and (iii) have and exercise such powers and authority as
+are customarily enjoyed by a president and chief executive officer of a
+corporation, subject only to direction by the Board of Directors. The Employee
+shall devote his full business time, attention and energies to the affairs of
+the Corporation, and shall use his best efforts to promote its best interests.
+
+ 4. COMPENSATION. During the Term the Corporation shall pay to the
+Employee, and the Employee shall accept, as compensation for his services
+rendered under this Agreement, the compensation provided by this Section 4.
+
+ (a) SALARY. The Corporation shall pay the Employee a cash salary at
+the rate of 210,000 per Year. Such salary shall be payable at such intervals
+(but not less often than bi-weekly or semi-monthly) as the Corporation pays the
+salaries of other senior executives during the Term.
+
+ (b) ANNUAL BONUS. The Corporation shall pay the Employee, in respect
+of each Year during the Term, a bonus paid under and pursuant to the terms of
+the Corporation's Annual Executive Bonus Plan adopted by the Board of Directors
+(as recommended by the Compensation and Benefits Committee thereof) for that
+Year.
+
+ 55
+ 2
+
+ 5. BENEFITS. During the Term:
+
+ (a) VACATION. The Employee shall be entitled to the same amount of
+paid vacation time per annum as the Corporation provides its other senior
+executives.
+
+ (b) AUTOMOBILE ALLOWANCE. The Corporation shall provide the Employee
+with an automobile allowance in the amount of 1,000 per month.
+
+ (c) CLUB MEMBERSHIP. The Corporation shall, at its expense, provide
+the Employee with membership in one country club of his choosing.
+
+ (d) OTHER BENEFITS. The Corporation shall, at its expense, provide
+in the name and for the benefit of the Employee and his designated beneficiaries
+all fringe benefit plans and programs which the Corporation then provides for
+its senior executives. Nothing contained herein shall be deemed to restrict or
+limit the right of the Corporation at any time to modify, amend or terminate any
+or all such fringe benefit plans and programs.
+
+ 6. BUSINESS EXPENSES. The Corporation shall pay or reimburse the
+Employee for all reasonable travel and other expenses incurred or paid by him in
+connection with the performance of his duties under this Agreement, upon
+presentation to the Corporation of expense statements or vouchers and such other
+supporting documentation as it may, from time to time, reasonably require;
+provided, however, that the amount available for such expenses may, at any time
+or from time to time, be fixed in advance by the Board of Directors.
+
+ 7. NON-COMPETITION. The Employee agrees that during the Term he shall
+not, without the express written consent of the Corporation, engage directly or
+indirectly (whether by means of stock ownership or otherwise) in any business
+which is in competition, directly or indirectly, with the business of the
+Corporation. A direct or indirect investment by the Employee in less than 5
+percent of the total capital of any such competitive enterprise or business
+whose stock is publicly traded shall not be deemed a violation of this Section
+7.
+
+ 8. CONFIDENTIALITY. The Employee acknowledges that in the course of his
+employment by the Corporation he has had and will have access to confidential
+information relating to the business and affairs of the Corporation, including
+without limitation information relating to business ideas, trade secrets,
+product development, secret processes, plans and/or materials, statistical
+information and customer lists. The Employee agrees that he will not, either
+during the Term or after its expiration, without the prior express written
+consent of the Corporation, disclose, divulge, furnish, release or otherwise
+make available to any person or entity any of such confidential information,
+except for: (a) disclosures made, in furtherance of the Corporation's interests,
+with the approval or at the direction of investment bankers retained by the
+Corporation, and (b) disclosures of information which, through no breach of the
+Employee's obligations under this Section 8, is no longer confidential.
+
+ 9. TERMINATION; SEVERANCE.
+
+ (a) TERMINATION. This Agreement and the Employee's employment
+hereunder shall terminate at the close of business on the earliest of the
+following dates:
+
+ (i) the applicable date of expiration of the Term provided by
+ Section 2 hereof; or
+
+ (ii) the date of the Employee's death; or
+
+ 56
+ 3
+
+ (iii) the thirtieth day following the date on which the
+ Corporation receives written notice of the Employee's termination of
+ this Agreement; or
+
+ (iv) the thirtieth day following the date on which the Employee
+ receives written notice of the Board of Directors' termination of this
+ Agreement with or without "Cause" (as defined in Section 9(b) hereof).
+
+ (b) CAUSE FOR TERMINATION. For purposes of this Agreement, the term
+"Cause" shall mean a reasonable determination by vote of a majority of the
+members of the Board of Directors then holding office (other than the Employee
+if he shall then be a director) that one of the following conditions exists or
+one of the following events has occurred:
+
+ (i) the willful misconduct or gross negligence of the Employee
+ in connection with the performance of his duties hereunder; or
+
+ (ii) the Employee's conviction of any crime or offense involving
+ money, property or personnel of the Corporation, or of any other crime
+ which constitutes a felony; or
+
+ (iii) the Employee's use, possession or being under the
+ influence of any narcotic or controlled substance while at work, or his
+ being under the influence of any alcoholic beverage while at work.
+
+ (c) SEVERANCE PAYMENT IF TERMINATION WITHOUT CAUSE. In the event
+that the Board of Directors shall terminate this Agreement without Cause, the
+Corporation shall pay to the Employee as severance an amount equal to the total
+compensation (including without limitation salary, bonuses (if any), benefits
+and compensation (if any) in the form of stock or options to purchase stock)
+payable to the Employee by the Corporation during the 12 months immediately
+preceding the date of termination specified in Section 9(a)(iv) hereof (the
+"Termination Date"). Such severance amount shall be paid to the Employee in cash
+within 30 days following the Termination Date unless and to the extent that the
+Employee determines otherwise. For purposes of calculating the cash amount of
+such severance payment, any such compensation that had been payable to the
+Employee other than in cash shall be valued at its fair market value on the date
+it was payable.
+
+ 10. IN GENERAL.
+
+ (a) BINDING OBLIGATION. This Agreement shall be binding upon and
+shall inure to the benefit of the Employee and his personal representatives, and
+the Corporation and its successors and assigns, including without limitation any
+successor to the business of the Corporation, whether by way of merger,
+reorganization, transfer of assets or otherwise. The term "Corporation" as used
+herein shall include such successors and assigns.
+
+ (b) NOTICES. Any notice required or permitted by this Agreement
+shall be given by hand or by certified mail, return receipt requested, addressed
+to the Corporation at its then principal office, or to the Employee at his then
+residence address, or to either party at such other address as it or he may from
+time to time specify for the purpose in a notice similarly given to the other
+party.
+
+ (c) APPLICABLE LAW. This Agreement shall be governed by and
+construed in accordance with the laws of the State of New York applicable to
+agreements made and to be performed entirely within such State.
+
+ (d) ENTIRE AGREEMENT, ETC. This Agreement contains the entire
+understanding of the parties relating to the subject matter hereof, and
+
+57
+ 4
+
+supersedes all prior agreements, arrangements and understandings, written or
+oral, between the parties with respect to the subject matter hereof. No
+modification of this Agreement shall be valid unless it is in writing and signed
+by the Corporation and by the Employee. A waiver of the breach of any term or
+condition of this Agreement shall not be deemed to constitute a waiver of any
+subsequent breach of the same or any other term or condition.
+
+ IN WITNESS WHEREOF, the parties have duly executed and delivered this
+Agreement as of the day and year first above written.
+
+ TRANSMATION, INC.
+
+By: /s/ Cornelius J. Murphy 
+ --------------------------------------
+ Cornelius J. Murphy
+ Chairman of the Executive Committee
+ of the Board of Directors
+
+/s/ Eric W. Mcinroy
+ -----------------------------------------
+ ERIC W. MCINROY
+
+58
+
+</EX-10.C>
+
+<EX-10.D>
+ 6
+ EXHIBIT 10(D)
+
+1
+
+ EXHIBIT 10 (d)
+
+ NON-STATUTORY STOCK OPTION AGREEMENT
+
+THIS NON-STATUTORY STOCK OPTION AGREEMENT is made as of April 21, 1998
+by and between TRANSMATION, INC., an Ohio corporation (the "Company"), and BARRY
+F. WHARITY (the "Optionee").
+
+ The parties agree as follows:
+
+ 1. GRANT OF OPTION. The Company hereby grants to the Optionee an option
+(the "Option") to purchase an aggregate of 25,000 Shares under the terms and
+conditions hereof. As used in this Agreement, the term "Shares" shall mean
+shares of the Company's common stock, par value .50 per share (the "Common
+Stock"), or other securities resulting from an adjustment under Section 9.
+
+ 2. TERM. The Option shall become exercisable and terminate in accordance
+with the schedule set forth in Section 5(a); provided, however, that the Option
+shall lapse and terminate on the earliest of the following dates:
+
+ (a) the date that is one year after the date of the Optionee's
+ death, provided that the Optionee's death occurs (i) while he is an
+ employee of the Company or of any subsidiary of the Company (a
+ "Subsidiary") or (ii) within three months after termination of such
+ employment;
+
+ (b) the date that is one year after the date that the Optionee's
+ employment by the Company or a Subsidiary is terminated because of his
+ permanent and total disability;
+
+ (c) the date that is three months after the date on which the
+ Optionee's employment by the Company or a Subsidiary terminates for any
+ other reason; or
+
+ (d) April 20, 2003.
+
+Upon such termination of the Option, the Optionee's rights under this Agreement,
+including the right to exercise the Option, shall thereupon terminate. In the
+event of any exercise of the Option after the Optionee's death or other
+termination of employment, as permitted by this Section 2, the Option shall be
+exercisable only to the extent that it was exercisable under the terms hereof on
+the date of death or such other termination, and subject to all of the
+conditions on exercise imposed hereby.
+
+ 3. NON-TRANSFERABILITY, ETC.
+
+ (a) The Option is not transferable other than by will or the laws of
+descent and distribution. Except as provided by Section 3(b), the Option shall
+be exercisable only during the Optionee's lifetime, and only by him.
+
+ (b) In the event that the Optionee shall die (i) while he is an
+employee of the Company or a Subsidiary, or within three months after
+termination of such employment, and (ii) prior to the complete exercise of the
+Option, then the Option may be exercised, within the applicable term provided by
+Section 2, by the Optionee's estate or by such person(s) to whom the Optionee's
+rights hereunder shall have passed under his will or the laws of descent and
+distribution. In such event, as used herein the term "Optionee" shall mean the
+Optionee's estate or such person(s).
+
+ 4. PRICE. The price of each Share purchased upon exercise of the Option
+shall be 7.25 (that being the last transaction price of the Common Stock on
+April 21, 1998 quoted by The Nasdaq Stock Market).
+
+ 59
+ 2
+
+ 5. SCHEDULE AND METHOD OF EXERCISE.
+
+ (a) Subject to the provisions of Section 2, the Option shall be
+exercisable as follows:
+
+ (i) as to 5,000 Shares beginning on April 21, 1998 and
+ terminating on April 20, 2003;
+
+ (ii) as to an additional 5,000 Shares beginning on April 21, 
+ 1999 and terminating on April 20, 2003;
+
+ (iii) as to an additional 5,000 Shares beginning on April 21,
+ 2000 and terminating on April 20, 2003;
+
+ (iv) as to an additional 5,000 Shares beginning on April 21, 
+ 2001 and terminating on April 20, 2003; and
+
+ (v) as to an additional 5,000 Shares beginning on April 21, 
+ 2002 and terminating on April 20, 2003.
+
+ (b) The Option, to the extent exercisable under Section 5(a), may be
+exercised in whole or in part, provided that the Option may not be exercised for
+less than one Share in any single exercise transaction.
+
+ (c) The Option shall be exercised by written notice given by the
+Optionee to the Company specifying the number of Shares that the Optionee elects
+to purchase and the purchase price being paid, accompanied by full payment of
+such purchase price. Upon each exercise, the Option price shall be payable by
+one or any combination of the following methods, as determined by the Optionee
+and specified in his notice of exercise: (i) in cash, or (ii) by delivery of
+Shares already owned by the Optionee. Any Shares that are so delivered to pay
+the Option price shall be valued at their fair market value on the date of such
+Option exercise. Upon determining that compliance with this Agreement has
+occurred, including compliance with such reasonable requirements as the Company
+may impose pursuant to Section 10, the Company shall issue certificate(s) for
+the Shares purchased.
+
+ 6. NO ISO TREATMENT. The Option is not an "incentive stock option"
+within the meaning of Section 422 of the Internal Revenue Code of 1986, as
+amended.
+
+ 7. NO RIGHTS OF SHAREHOLDER. No person, estate or other entity shall
+have the rights of a shareholder of the Company with respect to any of the
+Shares subject to the Option until a certificate for such Shares has been
+delivered to the Optionee.
+
+ 8. RIGHTS OF THE COMPANY. This Agreement does not affect the Company's
+right to take any corporate action whatsoever, including without limitation its
+right to recapitalize, reorganize or make other changes in its capital structure
+or business, merge or consolidate, issue bonds, notes, Shares or other
+securities, including preferred stock, or options therefor, dissolve or
+liquidate, or sell or transfer any part of its assets or business.
+
+ 9. ADJUSTMENT PROVISIONS. In the event that (a) in connection with a
+merger or consolidation of the Company or a sale by the Company of all or a part
+of its assets, the outstanding Shares are exchanged for a different number or
+class of shares of stock or other securities of the Company, or for shares of
+the stock or other securities of any other entity; or (b) new, different or
+additional Shares or other securities of the Company or of another entity are
+received by the holders of Shares, whether by way of recapitalization or
+otherwise; or (c) any dividend in the form of stock is made to the holders of
+Shares, or any stock split or reverse split pertaining to Shares is effected;
+then appropriate adjustment shall be made to (i) the number and kind of Shares
+
+60
+ 3
+
+or other securities that may be issued upon exercise of the Option; and (ii) the
+Option price per Share to be paid upon exercise of the Option. Under no
+circumstance shall the Optionee be entitled to an adjustment hereunder to
+reflect dilution resulting from the issuance or acquisition of Shares or other
+securities by the Company, except as expressly provided in the preceding
+sentence, regardless of whether such Shares or other securities are issued for
+less than the exercise price of the Option.
+
+ 10. TAXES; SECURITIES LAWS MATTERS.
+
+ (a) The exercise of the Option shall be conditioned upon the
+Optionee making arrangements satisfactory to the Company for the payment to the
+Company of the amount of all taxes required by any governmental authority to be
+withheld and paid over by the Company to the governmental authority on account
+of the exercise. The payment of such withholding taxes to the Company may be
+made by either or a combination of the following methods: (i) in cash, or (ii)
+by the Company withholding such taxes from any other compensation owed to the
+Optionee by the Company or a Subsidiary.
+
+ (b) As a precondition to the Company's execution of this Agreement
+and the issuance of the Option hereunder, the Optionee represents to the Company
+that the Option is being, and (unless a Registration Statement with respect
+thereto shall then be effective under the Securities Act of 1933, as amended
+(the "Act")) any Shares acquired by him upon exercise of the Option shall be,
+acquired by him solely for investment and not with a view to, or for sale in
+connection with, any distribution thereof, nor with any present intention of
+selling, transferring or disposing of the same.
+
+ (c) The Optionee acknowledges and agrees that the Option may not be
+offered for sale, sold, pledged, hypothecated or otherwise transferred or
+disposed of in any manner inconsistent with this Agreement. The Optionee agrees
+and consents that any Shares acquired upon exercise of the Option may not be
+offered for sale, sold or otherwise transferred or disposed of unless (i) a
+registration statement with respect thereto shall then be effective under the
+Act, and the Optionee shall have provided proof satisfactory to counsel for the
+Company that he has complied with all applicable state securities laws, or (ii)
+the Company shall have received an opinion of counsel in form and substance
+satisfactory to counsel for the Company that the proposed offer for sale, sale
+or transfer of the Shares is exempt from the registration requirements of the
+Act and may otherwise be effected in compliance with any other applicable law,
+including all applicable state securities laws. The Optionee agrees that unless
+a Registration Statement with respect thereto shall then be effective under the
+Act, a legend to this effect may be placed on each certificate, and that a stop
+transfer order may be placed against his account, relating to such Shares. In
+addition, each such certificate shall bear such additional legends and
+statements as the Company deems advisable to assure compliance with all Federal
+and state laws and regulations, including securities laws and regulations.
+
+ (d) The Optionee confirms that the Company is relying upon his
+representations contained in this Section 10 in connection with the issuance to
+him of the Option and the Shares underlying the Option. In consideration of the
+issuance to the Optionee of the Option and the Shares upon any exercise of the
+Option, the Optionee hereby indemnifies and holds harmless the Company, and the
+officers, directors, employees and agents thereof, from and against any and all
+liability, losses, damages, expenses and attorneys' fees which they may
+hereafter incur, suffer or be required to pay by reason of the falsity of, or
+his failure to comply with, any representation or agreement contained in this
+Section 10.
+
+ 11. TENURE. The Optionee's right, if any, to continue to serve the
+Company or a Subsidiary as an officer, employee or otherwise will not be
+enlarged or otherwise affected by this Agreement. This Agreement does not
+
+61
+ 4
+
+restrict the right of the Company or any Subsidiary to terminate the Optionee's
+employment at any time.
+
+ 12. CHOICE OF LAW. This Agreement shall be governed by and construed in
+accordance with the laws of the State of New York applicable to agreements made
+and to be performed entirely within such State.
+
+ 13. NOTICES. All notices and other communications required or permitted
+under this Agreement shall be written, and shall be either delivered personally
+or sent by registered or certified first-class mail, postage prepaid and return
+receipt requested, or by telex or telecopier, addressed as follows: if to the
+Company, to the Company's principal office, Attention: Corporate Secretary; and
+if to Optionee or his successor, to the address last furnished by such person to
+the Company. Each such notice and other communication delivered personally shall
+be deemed to have been given when delivered. Each such notice and other
+communication delivered by mail shall be deemed to have been given when it is
+deposited in the United States mail in the manner specified herein, and each
+such notice and other communication delivered by telex or telecopier shall be
+deemed to have been given when it is so transmitted and the appropriate
+answerback is received. A party may change its address for the purpose hereof by
+giving notice in accordance with the provisions of this Section 13.
+
+ 14. IN GENERAL. This Agreement is the final, complete and exclusive
+expression of the understanding between the parties and supersedes any prior or
+contemporaneous agreement or representation, oral or written, between them.
+Modification of this Agreement or waiver of a provision hereof must be written
+and signed by the party to be bound. In the event that any provision of this
+Agreement shall be held to be illegal or unenforceable, such provision shall be
+severed from this Agreement and the entire Agreement shall not fail on account
+thereof, but shall otherwise remain in full force and effect. As used herein,
+the term "Section" shall mean the appropriate section of this Agreement.
+
+ IN WITNESS WHEREOF, the Optionee and the Company have executed this
+Agreement as of the date first above written.
+
+TRANSMATION, INC.
+
+By: /s/ Eric W. Mcinroy
+ ----------------------------------
+ Eric W. McInroy
+ President and Chief Executive Officer
+
+/s/ Barry F. Wharity
+ -------------------------------------
+ BARRY F. WHARITY
+
+62
+
+</EX-10.D>
+
+<EX-21>
+ 7
+ EXHIBIT 21
+
+1
+
+ Exhibit 21
+
+Subsidiaries of Registrant
+
+Subsidiary Jurisdiction
+ ---------- ------------
+
+Altek Industries Corp. New York
+
+Transmation Singapore Pte. Ltd. Singapore
+
+Transmation (Canada) Inc. Canada
+
+Transcat, FSC U.S. Virgin Islands
+
+Transmation Australia Pty. Ltd. Australia
+
+63
+
+</EX-21>
+
+<EX-23>
+ 8
+ EXHIBIT 23
+
+1
+
+ Exhibit 23
+
+CONSENT OF INDEPENDENT ACCOUNTANTS
+
+We hereby consent to the incorporation by reference in the Registration
+Statements on Form S-8 (Registration Nos. 33-61665, 33-08779 and 33-08781) of
+Transmation, Inc. of our report dated May 15, 1998 with respect to the financial
+statements of Transmation, Inc. contained in the foregoing Annual Report on Form
+10-K.
+
+PRICE WATERHOUSE LLP
+
+Rochester, New York
+
+June 22, 1998
+
+64
+
+</EX-23>
+
+<EX-27>
+ 9
+ EXHIBIT 27
+
+5
+
+YEAR
+ MAR-31-1998
+ APR-01-1997
+ MAR-31-1998
+ 652,664
+ 0
+ 13,132,347
+ 592,000
+ 10,675,829
+ 25,753,811
+ 12,067,142
+ 5,662,089
+ 51,875,214
+ 15,627,152
+ 0
+ 0
+ 0
+ 2,915,471
+ 11,069,688
+ 51,875,214
+ 78,483,565
+ 78,483,565
+ 53,441,287
+ 74,296,276
+ 0
+ 0
+ 2,547,218
+ 1,640,071
+ 642,100
+ 997,971
+ 0
+ 0
+ 0
+ 997,971
+ .17
+ .16
+
+</EX-27>
+

@@ -1,0 +1,1930 @@
+<Header>
+<FileStats>
+    <FileName>20040324_10-K_edgar_data_948975_0001012975-04-000113.txt</FileName>
+    <GrossFileSize>114445</GrossFileSize>
+    <NetFileSize>90853</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>508</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>0</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001012975-04-000113.hdr.sgml : 20040324
+<ACCEPTANCE-DATETIME>20040324114126
+ACCESSION NUMBER:		0001012975-04-000113
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20031231
+FILED AS OF DATE:		20040324
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ATLANTIC REALTY TRUST
+		CENTRAL INDEX KEY:			0000948975
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				133849655
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-27198
+		FILM NUMBER:		04686517
+
+	BUSINESS ADDRESS:	
+		STREET 1:		747 THIRD AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2123551255
+
+	MAIL ADDRESS:	
+		STREET 1:		747 THIRD AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DhybIqZjRRWg77g+NvGzlHT8JCbhgPTIOdJVrIVCksFAQZ88fhJHZ/2scMXsNd+1
+ 6rgJ8lRIliTkM0UWeEVWtQ==
+
+ 0001012975-04-000113.txt : 20040324
+
+10-K
+ 1
+ e263926v6.txt
+ 
+ UNITED STATES
+
+ SECURITIES AND EXCHANGE COMMISSION
+
+ Washington, D.C. 20549
+
+ FORM 10-K
+
+(Mark One)
+ [X] ANNUAL REPORT PURSUANT TO SECTION 13
+ OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+FOR THE FISCAL YEAR ENDED December 31, 2003
+ ------------------------------------------------------
+
+ OR
+
+ [ ] TRANSITION REPORT PURSUANT TO SECTION
+ 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ FOR THE TRANSITION PERIOD FROM ______________ TO __________________
+
+ COMMISSION FILE NUMBER 0-27562
+ ---------------------------------------
+
+ATLANTIC REALTY TRUST
+- --------------------------------------------------------------------------------
+ (Exact name of Registrant as specified in its charter)
+
+ Maryland 13-3849655
+- ---------------------------------------- ----------------------------
+ State or other jurisdiction of (IRS Employer
+ Incorporation or organization Identification No.)
+
+747 Third Avenue, New York, NY 10017
+- ---------------------------------------- ----------------------------
+(Address of principal executive offices) (Zip Code)
+
+Registrant's telephone number, including area code 212-702-8561
+ -----------------------------
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ Title of each class Name of each exchange on which registered
+
+Common Shares of Beneficial Interest, NASDAQ SmallCap Market
+- ---------------------------------------- --------------------------------
+ 0.01 Par Value Per Share
+- ----------------------------------------
+
+Securities registered pursuant to Section 12(g)of the Act:
+
+ None
+- --------------------------------------------------------------------------------
+ Title of class
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X] No[]
+
+ Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of the registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [X]
+
+ Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Exchange Act Rule 12b-2). Yes [ ] No[X]
+
+ Aggregate market value of the Shares of Beneficial Interest held by
+non-affiliates of the registrant as of June 30, 2003: approximately 22,865,934.
+
+ Approximately 3,561,553 Shares of Beneficial Interest of the Registrant
+were outstanding as of March 2, 2004.
+
+TABLE OF CONTENTS
+
+Page
+
+PART I.....................................................................................................1
+ Item 1. Business....................................................................................1
+ Item 2. Properties..................................................................................7
+ Item 3. Legal Proceedings...........................................................................7
+ Item 4. Submission of Matters to a Vote of Security Holders.........................................7
+
+PART II....................................................................................................7
+ Item 5. Market for Registrant's Common Equity and Related Stockholder Matters.......................7
+ Item 6. Selected Financial Data.....................................................................8
+ Item 7. Management's Discussion and Analysis of Financial Condition and Liquidation Activities......9
+ Item 7A. Quantitative and Qualitative Disclosures About Market Risk..................................9
+ Item 8. Financial Statements and Supplementary Data................................................10
+ Item 9. Changes in and Disagreements With Accountants On Accounting and Financial Disclosure.......10
+ Item 9A. Controls and Procedures....................................................................10
+
+PART III..................................................................................................11
+ Item 10. Directors and Executive Officers of the Registrant........................................11
+ Item 11. Executive Compensation....................................................................14
+ Item 12. Security Ownership of Certain Beneficial Owners and Management............................16
+ Item 13. Certain Relationships and Related Transactions............................................17
+ Item 14. Principal Accountant Fees and Services....................................................17
+
+PART IV...................................................................................................17
+ Item 15. Exhibits, Financial Statement Schedules, and Reports On Form 8-K..........................17
+
+CAUTIONARY STATEMENT FOR PURPOSES OF
+ THE "SAFE HARBOR" PROVISIONS OF
+ THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995
+
+WHEN USED IN THIS ANNUAL REPORT ON FORM 10-K, THE WORDS "BELIEVES,"
+"ANTICIPATES," "EXPECTS" AND SIMILAR EXPRESSIONS ARE INTENDED TO IDENTIFY
+FORWARD-LOOKING STATEMENTS. STATEMENTS LOOKING FORWARD IN TIME ARE INCLUDED IN
+THIS ANNUAL REPORT ON FORM 10-K PURSUANT TO THE "SAFE HARBOR" PROVISION OF THE
+PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995. SUCH STATEMENTS ARE SUBJECT TO
+CERTAIN RISKS AND UNCERTAINTIES WHICH COULD CAUSE ACTUAL RESULTS TO DIFFER
+MATERIALLY, INCLUDING, WITHOUT LIMITATION, THOSE STATEMENTS RELATING TO THE "RPS
+TRUST ISSUES" AND THE "TRUST AUDIT" DISCUSSED IN ITEM 1 OF THIS ANNUAL REPORT ON
+FORM 10-K, STATEMENTS SET FORTH IN THE SECTION CAPTIONED "RISK FACTORS" IN THE
+TRUST'S REGISTRATION STATEMENT ON FORM 10 FILED WITH THE SECURITIES AND EXCHANGE
+COMMISSION ON MARCH 28, 1996 (FILE NO. 0-27562) AND STATEMENTS IN THE
+"MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS" OF THIS ANNUAL REPORT ON FORM 10-K. READERS ARE CAUTIONED NOT TO
+PLACE UNDUE RELIANCE ON THESE FORWARD-LOOKING STATEMENTS, WHICH SPEAK ONLY AS OF
+THE DATE HEREOF. THE TRUST UNDERTAKES NO OBLIGATION TO PUBLICLY REVISE THESE
+FORWARD-LOOKING STATEMENTS TO REFLECT EVENTS OR CIRCUMSTANCES OCCURRING AFTER
+THE DATE HEREOF OR TO REFLECT THE OCCURRENCE OF UNANTICIPATED EVENTS.
+
+PART I
+
+ITEM 1. BUSINESS.
+
+ Atlantic Realty Trust, a Maryland real estate investment trust (together
+with its subsidiary, the "Trust"), was organized pursuant to a Declaration of
+Trust dated July 27, 1995 (as amended, the "Declaration of Trust"). The
+principal office of the Trust is located at 747 Third Avenue, New York, New York
+10017.
+
+ The Trust commenced operations on May 10, 1996 as a result of a spinoff
+(the "Spin-Off Transaction") from RPS Realty Trust ("RPS"). The Spin-Off
+Transaction was consummated in order to permit RPS to complete an acquisition
+(the "Ramco Acquisition") of assets from Ramco Gershenson, Inc. and its
+affiliates ("Ramco"), which permitted RPS to become an equity shopping center
+real estate investment trust (a "REIT"). RPS undertook the Spin-Off Transaction
+because Ramco was unwilling to consummate the Ramco Acquisition if the assets
+that were contributed by RPS to the Trust (the "Trust Assets") remained in RPS.
+Pursuant to the Spin-Off Transaction, the board of trustees of RPS approved a
+distribution of one common share of beneficial interest (the "Shares") of the
+Trust for every eight shares of beneficial interest of RPS (the "Distribution").
+
+ Under the provisions of its Declaration of Trust, the Trust was to
+continue for a period of 18 months from May 10, 1996, during which time it was
+to reduce to cash or cash equivalents the Trust Assets and either (i) make a
+liquidating distribution to its shareholders or (ii) agree to merge or combine
+operations with another real estate entity, in either case, as soon as
+practicable following the Distribution and within such 18-month period. Such
+18-month period was subject to extension if (i) the Trust had not achieved its
+objective and the holders of at least two-thirds of the outstanding Shares
+approved the extension of such date or (ii) a contingent tax liability relating
+to RPS that has been assumed by the Trust had not been satisfactorily resolved.
+Because the RPS Tax Issues and the Trust Audit (each as defined below) have not
+yet been satisfactorily resolved, the Trust has continued its business past such
+18-month period. The Trust cannot currently estimate the timing of the future
+satisfactory resolution of the Trust Audit. Accordingly, the Trust will continue
+until there is a final determination of this issue. Upon obtaining a
+satisfactory resolution to the Trust Audit and liquidating the Trust's remaining
+assets, any liquidating distribution effected by the Trust would be subject to
+the satisfaction of the Trust's liabilities to its creditors. In the event that
+at the end of this period, the Trust is unable to achieve its business
+objectives, the members (the "Trustees") of the Trust's board of trustees (the
+"Board of Trustees") will appoint an independent third party to liquidate the
+Trust's remaining assets.
+
+ As a result of the Spin-Off Transaction, the Trust acquired the Trust
+Assets. The Trust Assets which have not been disposed of by the Trust are
+described below under "-- Description of Trust Assets." The Trust's principal
+investment objective is to maximize shareholder value from the reduction of the
+Trust Assets to cash or cash equivalents. As part of its plan to liquidate the
+Trust Assets to cash or cash equivalents, the Trust intends, among other things,
+and subject to the Internal Revenue Service's ("IRS") consideration of the
+appeals filed, by RPS and the Trust in connection with the examination reports
+issued by the IRS in connection with their audits of RPS and the Trust (as more
+fully described below under "-- Tax Contingency") to continue to: (i)
+
+1
+
+contact strategic buyers of the Trust's remaining asset (the Hylan Plaza
+Shopping Center, located in Staten Island, New York (the "Hylan Center"))
+regarding possible sales transactions and (ii) list the Hylan Center for sale
+with qualified real estate brokers. No assurance can be given, however, that
+such objective will be achieved. The Trust expects to continue to invest the net
+proceeds from sales of the Trust Assets in short-term or temporary investments,
+such as certificates of deposit, pass-through mortgage-backed certificates,
+mortgage participation certificates and mortgaged-backed securities (or similar
+investment products), all or some of which investments may be guaranteed by
+Ginnie Mae, Fannie Mae or Freddie Mac. Unless otherwise approved by the
+shareholders, the Trust does not expect that it will make new permanent
+investments or raise additional capital. In addition, the Trust does not expect
+to acquire additional mortgage loans or properties.
+
+ In addition, the Trust may explore the possibility of merging or entering
+into a business combination with another real estate entity. The Trust expects
+that it will pursue such a transaction only if it represents an attractive
+alternative to the distribution to shareholders of the net proceeds from the
+orderly liquidation of the Trust Assets, as described above. The merger
+candidates that may be available to the Trust may be limited as a result of the
+amount of cash and the nature of the assets which the Trust will hold.
+Accordingly, there can be no assurance that the Trust will successfully merge or
+combine operations with another real estate entity. Because the Trust has
+adopted a policy not to re-invest sales proceeds in additional mortgage loans on
+real estate (except to the extent necessary to satisfy applicable REIT
+requirements), a merger or other business combination involving the Trust and
+another real estate entity may constitute a "roll-up transaction" under
+applicable securities laws. In such case, the Trust would be required to comply
+with the heightened disclosure rules as well as special rules relating to the
+proxy solicitation process and the listing of the securities of the surviving
+company on any exchange or the inclusion for quotation of such securities on the
+Nasdaq Small Cap Market. Application of the roll-up rules to a company merger or
+business combination could delay, defer or prevent such a transaction from
+occurring.
+
+ The Trust was organized for the purpose of qualifying as a REIT under
+sections 856-860 of the Internal Revenue Code of 1986, as amended (the "Code").
+The Trust will elect to qualify as a REIT for the year ended December 31, 2003
+and intends to operate so as to continue to qualify as a REIT.
+
+ As of December 31, 2003, the Trust had six employees.
+
+DESCRIPTION OF TRUST ASSETS
+
+ As of December 31, 2003, the Trust owned and operated one real property,
+the Hylan Center and held short-term investments in the principal amount of
+approximately 22,500,000, consisting primarily of a certificate of deposit at a
+major New York bank.
+
+REAL PROPERTY INVESTMENT
+
+ THE HYLAN PLAZA SHOPPING CENTER. At December 31, 2003, the Trust held an
+equity investment in one property, the Hylan Center. The Hylan Center is a
+one-story community shopping center located in Staten Island, New York which was
+acquired by the Trust in April,
+
+2
+
+1996. The Hylan Center contains approximately 359,000 square feet of leasable
+space approximately 99 of which was leased and occupied as of December 31,
+2003. Major tenants (i.e., tenants who accounted for 10 or more of the leasable
+space as of December 31, 2003) include K-Mart Corp., a department store chain
+("K-Mart"), Pathmark Stores, Inc. ("Pathmark"), and the Toys "R" Us -- NY
+L.L.C., a retail toy store chain ("Toys "R" Us"). These three tenants lease
+approximately 104,000, 60,000 and 42,000 square feet, respectively, which
+constitutes 29 , 17 and 12 , respectively, of the total leasable space. The
+K-Mart lease expires in January 2007 and provides for annual base rental
+payments of approximately 235,000; the Pathmark lease expires in January 2007
+and provides for annual base rental payments of approximately 579,000; and the
+Toys "R" Us lease expires in October 2005 and provides for annual base rental
+payments of approximately 90,000. The K-Mart lease contains two 5-year tenant
+renewal options; the Pathmark lease contains six 5-year tenant renewal options;
+and the Toys "R" Us lease contains one 10-year tenant renewal option. Leases for
+approximately 35,000 square feet are due to expire on or prior to December 31,
+2004. The approximate base rental revenue as of December 31, 2003 was
+approximately 4,422,000. The average base rental revenue per leased square foot
+as of December 31, 2003 was 12.33, excluding percentage rent and similar
+provisions. The Trust believes the property is adequately covered by insurance.
+As of December 31, 2003, the estimated net realizable value of the Hylan Center
+was approximately 44,144,000, including estimated cash flows using a
+disposition period of 9 months. Realized values may differ depending on actual
+disposition results and time periods.
+
+ Under various federal, state, and local environmental laws, ordinances
+and regulations, a current or previous owner or operator of real property may be
+liable for the costs of removal or remediation of hazardous or toxic substances
+on, under or in such property. Such laws often impose liability whether or not
+the owner or operator knew of, or was responsible for, the presence of such
+hazardous or toxic substances. In connection with the ownership, operation and
+management of the Hylan Center, the Trust may be potentially liable for removal
+or remediation costs, as well as certain other related costs, including
+governmental fines and injuries to persons and property. Certain environmental
+laws and common law principles could also be used to impose liability for
+release of an exposure to hazardous substances, including asbestos-containing
+materials ("ACMs") into the air, and third parties may seek recovery from owners
+or operators of real properties for personal injury or property damage
+associated with exposure to released hazardous substances, including ACMs. As
+the owner of the Hylan Center, the Trust may be potentially liable for any such
+costs.
+
+QUALIFICATION AS A REIT
+
+ The Trust intends to qualify as a REIT for federal income tax purposes.
+If the Trust so qualifies, amounts paid by the Trust as distributions to its
+shareholders will not be subject to corporate income taxes. For any year in
+which the Trust does not meet the requirements for electing to be taxed as a
+REIT, it will be taxed as a corporation.
+
+ The requirements for qualification as a REIT are contained in Sections
+856-860 of the Code and the regulations promulgated thereunder. The following
+discussion is a brief summary of some of those requirements. Such requirements
+include certain provisions relating to the nature of a REIT's assets, the
+sources of its income, the ownership of its stock, and the distribution of its
+income. Among other things, at the end of each fiscal quarter, at least 75 of
+
+3
+
+the value of the total assets of the Company must consist of real estate assets
+(including interests in mortgage loans secured by real property and interests in
+other REITs, as well as cash, cash items and government securities) (the "75 
+Asset Test"). There are also certain limitations on the amount of other types of
+securities which can be held by a REIT. Additionally, at least 75 of the gross
+income of the Company for the taxable year must be derived from certain sources,
+which include "rents from real property," and interest secured by mortgages on
+real property. An additional 20 of the gross income of the Company must be
+derived from these same sources or from dividends, interest from any source, or
+gains from the sale or other disposition of stock or securities or any
+combination of the foregoing.
+
+ The Trust may invest the proceeds derived from the sale or other
+disposition of the Trust Assets in pass-through, mortgage-backed certificates,
+mortgage participation certificates and mortgage-backed securities, all or some
+of which instruments may be guaranteed by Ginnie Mae, Fannie Mae or Freddie Mac.
+Such instruments produce qualifying income for REIT qualification purposes and
+also satisfy the requirements of the 75 Asset Test. A REIT is also required to
+distribute at least 90 of its REIT Taxable Income (as defined in the Code) to
+its shareholders.
+
+TAX CONTINGENCY
+
+ During the third quarter of 1994, RPS held more than 25 of the value of
+its gross assets in overnight Treasury Bill reverse repurchase transactions
+which the IRS may view as non-qualifying assets for the purposes of satisfying
+an asset qualification test applicable to REITs, based on a Revenue Ruling
+published in 1977 (the "Asset Issue"). RPS requested that the IRS enter into a
+closing agreement with RPS that the Asset Issue would not impact RPS' status as
+a REIT. The IRS declined such request. In February 1995, the IRS initiated an
+examination of the 1991-1995 income tax returns of RPS (the "RPS Audit" and,
+together with the Asset Issue, the "RPS Tax Issues"). Based on developments in
+the law which occurred since 1977, RPS' tax counsel at that time, Battle Fowler
+LLP, rendered an opinion that RPS' investment in Treasury Bill repurchase
+obligations would not adversely affect its REIT status. However, such opinion is
+not binding upon the IRS.
+
+ In connection with the Spin-Off Transaction, the Trust assumed all tax
+liability arising out of the RPS Tax Issues (other than liability that relates
+to events occurring or actions taken by RPS following the date of the Spin-Off
+Transaction) pursuant to a tax agreement, dated May 10, 1996, by and between RPS
+and the Trust (the "Tax Agreement"). Such agreement provides that RPS (now named
+Ramco-Gershenson Properties Trust), under the direction of four trustees, three
+of whom are also trustees of the Trust (the "Continuing Trustees") and not the
+Trust, will control, conduct and effect the settlement of any tax claims against
+RPS relating to the RPS Tax Issues. Accordingly, the Trust did not have any
+control as to the timing of the resolution or disposition of any such claims.
+
+ In December 2003, Ramco-Gershenson Properties Trust and the Internal
+Revenue Service entered into a closing agreement ("Closing Agreement") with
+respect to all of the issues raised by the Internal Revenue Service in
+connection with RPS Audit. As a condition of the Closing Agreement,
+Ramco-Gershenson Properties Trust was obligated to pay deficiency dividends
+(under Code Sec. 860) with respect to its 1992 and 1993 taxable year in amounts
+not less than 1,386,503 with respect to the 1992 taxable year and 809,010 with
+respect to the 1993
+
+4
+
+taxable year. In addition, Ramco-Gershenson Properties Trust is obligated to pay
+a deficiency in its income taxes with respect to the period covered by the RPS
+Audit equal to 770,258, plus interest calculated at the statutory rate on the
+amount of the deficiency and the amount of the deficiency dividends. The
+aggregate amount of the deficiency dividends, income tax deficiency and interest
+on these amounts is approximately 7,400,000. Although the Closing Agreement
+provides that the election of Ramco-Gershenson Properties Trust to be taxed as a
+"real estate investment trust" was terminated with respect to its 1994 and 1995
+taxable years, it also provides that Ramco-Gershenson Properties Trust will be
+treated as having reelected to be taxed as a "real estate investment trust" with
+respect to its taxable year beginning January 1, 1996 and that the termination
+of its election to be taxed as a "real estate investment trust" will not
+prohibit it or any successor entity (which includes the Trust) from electing to
+be taxed as a "real estate investment trust" on or after January 1, 1996.
+
+ The Trust remains obligated under the Tax Agreement to assume certain
+liabilities relating to the RPS Tax Issues. The Trust established a special
+committee (the "Special Committee regarding RPS Tax Issues") comprised of the
+two Trustees who are not Continuing Trustees or otherwise affiliated with
+Ramco-Gershenson Properties Trust to act on behalf of the Trust in evaluating
+the position of the Trust with respect to the RPS Tax Issues and to represent
+the Trust with respect to any claims asserted by Ramco-Gershenson Properties
+Trust for contribution arising out of the Closing Agreement. On January 21,
+2004, the Trust contributed 2,200,091 in respect of the deficiency dividend
+required to be paid pursuant to the Closing Agreement. The Trust will be
+obligated to make additional payments with respect to the RPS Tax Issues and the
+Closing Agreement as a result of its obligations under the Tax Agreement. In the
+event the Trust is presented with further requests or claims for payment or
+reimbursement arising in connection with the RPS Tax Issues and the Closing
+Agreement, the Special Committee regarding RPS Tax Issues will evaluate the
+Trust's further obligations at the time of its receipt of any such claim or
+request.
+
+ On February 21, 2003, the IRS issued an examination report to the Trust
+with respect to the 1996 and 1997 taxable years of the Trust ("Trust Audit").
+This examination report proposes to disallow all of the loss deductions claimed
+by the Trust upon the disposition of Trust Assets during that period. In
+addition, the examination report proposes to increase the REIT taxable income of
+the Trust during 1996 and 1997 on account of two items reported on the Trust's
+tax returns for which the Trust did not claim any taxable loss or deduction.
+Counsel to the Trust has advised that the examination report contains numerous
+errors of fact with respect to the operations of the Trust and that the legal
+conclusions in the examination report are not consistent with the applicable
+provisions of the Code and the income tax regulations. The Trust timely filed an
+administrative appeals (the "Trust Protest") challenging the adjustments
+proposed in the examination report.
+
+ Apart from transferring the responsibility of the Trust's appeal of the
+examination report to the IRS appeals office having jurisdiction for this case,
+no action has yet been taken by the IRS with respect to the Trust's Protest to
+the disallowances proposed in the examination report issued to the Trust.
+
+5
+
+FIRST UNION PROPOSAL
+
+ On January 12, 2004, First Union Real Estate Equity and Mortgage
+Investments, an Ohio business trust ("First Union"), and Michael L. Ashner, the
+Chief Executive Officer of First Union (together with First Union, the "First
+Union Group"), filed a Statement of Beneficial Ownership on Schedule 13D (the
+"Schedule 13D") pursuant to which the First Union Group reported, among other
+things, that it had made a formal proposal to the Trust to merge the Trust with
+and into First Union or one of its subsidiaries (the "First Union Proposal").
+
+ The First Union Proposal contemplates that each share of beneficial
+interest in the Trust (a "Trust Share") would receive aggregate consideration of
+ 16.25 per Trust Share. Such amount would be payable, at the election of each
+shareholder of the Trust (a "Trust Shareholder"), in cash or in exchange for
+First Union's Series A cumulative convertible redeemable preferred shares of
+beneficial interest (the "First Union Preferred Shares") at a rate of 0.65 First
+Union Preferred Shares per Trust Share. In the event that Trust Shareholders
+holding more than 1,901,760 Trust Shares in the aggregate elect to receive First
+Union Preferred Shares, such Trust Shareholders would receive (i) a number of
+First Union Preferred Shares equal to (a) 0.65 multiplied by (b) a fraction, the
+numerator of which is 1,901,760 and the denominator of which is the total number
+of Trust Shares to be exchanged for First Union Preferred Shares and (ii) cash
+equal to (x) 16.25 multiplied by (y) a fraction, the numerator of which is the
+number of Trust Shares to be exchanged for First Union Preferred Shares less
+1,901,760 and the denominator of which is the number of Trust Shares to be
+exchanged for First Union Preferred Shares. The consideration payable would be
+subject to upward or downward adjustment based on the Trust's projected
+post-closing net cash balance, information obtained through First Union's due
+diligence process and any stock splits, issuances, repurchases,
+reclassifications and other transactions affecting the value of the Trust.
+
+ On January 13, 2004, the Board of Trustees of the Trust (the "Board")
+held a meeting to discuss the First Union Proposal and the process it would
+undertake to evaluate it. The Board resolved to form a special committee of
+disinterested directors consisting of Messrs. Glickman, Blank and Pashcow (the
+"Special Committee") to consider any bona fide offer or acquisition proposal
+made for the Trust and to ensure that all reasonable steps are taken to maximize
+shareholder value while having regard to the Trust's existing contractual
+obligations. Among other things, the Board instructed the Special Committee to
+(i) review, negotiate and make recommendations to the Board with respect to the
+First Union Proposal, (ii) conduct such other investigation of the First Union
+Proposal, First Union and the Trust as may be necessary to determine whether the
+First Union Proposal is in the best interests of Trust Shareholders and (iii)
+investigate other strategic alternatives available to the Trust.
+
+ On January 26, 2004, the Special Committee held an organizational meeting
+and commenced its evaluation of the First Union Proposal as directed by the
+Board. In addition, the Special Committee has retained an independent real
+estate brokerage firm to conduct a valuation of the Trust's sole asset, the
+Hylan Shopping Center located in Staten Island, New York. In connection with the
+valuation process that has commenced with respect to the Hylan Shopping Center,
+management expects the valuation of the property will be higher than the current
+valuation of approximately 44.1 million (based on an appraisal dated October 8,
+2002) included in the Trust's Consolidated Statements of Assets in Liquidation.
+
+6
+
+As of the date of this filing, the Special Committee has made no
+determination as to whether the Trust will or should engage in a transaction of
+the type contemplated by the First Union Proposal, whether on the terms of the
+First Union Proposal or otherwise, and there can be no assurance that the Trust
+will accept any acquisition proposal or that any such proposal, if accepted,
+will result in the consummation of a transaction.
+
+SEGMENT INFORMATION
+
+ The Trust considers its business to include one industry segment,
+investment in real estate.
+
+ITEM 2. PROPERTIES.
+
+ The Trust leases approximately 4,100 square feet of office space at 747
+Third Avenue, New York, New York at an annual base rent of approximately
+ 264,000. This lease will expire on October 31, 2004. In addition, the Trust
+owns and operates the Hylan Center property described under Item 1.
+
+ITEM 3. LEGAL PROCEEDINGS.
+
+ There are no material pending legal proceedings other than ordinary
+routine litigation incidental to the business (including without limitation,
+foreclosure proceedings), against or involving the Trust or its properties.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+ The Trust did not submit any matter to a vote of its shareholders during
+the fourth quarter of 2003.
+
+ PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS.
+
+(A) MARKET INFORMATION
+
+ The Shares of the Trust have been included for quotation on the Nasdaq
+SmallCap Market under the symbol ATLRS. Set forth below is the range of high and
+low bid prices for the shares for each of the quarters during the years ended
+December 31, 2002 and 2001.
+
+ HIGH LOW
+ ---- ---
+
+First Quarter 2002 8.70 7.89
+
+Second Quarter 2002 9.40 8.03
+
+Third Quarter 2002 11.40 9.25
+
+Fourth Quarter 2002 11.05 9.38
+
+7
+
+First Quarter 2003 11.10 9.75
+
+Second Quarter 2003 12.61 9.75
+
+Third Quarter 2003 14.00 10.81
+
+Fourth Quarter 2003 16.94 11.99
+
+(B) APPROXIMATE NUMBER OF EQUITY SECURITY HOLDERS
+
+ Approximate Number
+ of Record Holders
+Title of Class (As of March 2, 2004)
+- -------------- ---------------------
+Shares of beneficial interest, .01 par value 2,071
+ ---------------------
+(C) DIVIDEND INFORMATION
+
+ Under the Code, a REIT must meet certain qualifications including a
+requirement that it distribute annually to its shareholders at least 90 of its
+REIT Taxable Income. The Trust has continued the cash distribution policy of the
+predecessor programs by making quarterly distributions to its shareholders in
+amounts such that annual distributions equal 100 of REIT Taxable Income,
+thereby complying with the distribution requirements of the federal income tax
+laws applicable to REITs. See "Qualification as a REIT" in Item 1 above.
+
+ The Trust paid distributions of .46, .62 and .76 per share for the
+years ended December 31, 2003, 2002 and 2001 respectively. Such distributions
+represent ordinary income for income tax purposes.
+
+ITEM 6. SELECTED FINANCIAL DATA.
+
+ The following tables set forth certain selected historical information
+for the Trust. The financial information should be read in conjunction with the
+financial statements and notes thereto included herein.
+
+ATLANTIC REALTY TRUST 12/31/03 12/31/02 12/31/01 12/31/00 12/31/99
+ ------------ ------------ ------------ ------------ ------------
+ 
+Statement of Net Assets
+In Liquidation:
+ Total Assets 67,607,443 66,876,929 63,286,177 62,691,522 61,826,132
+ Total Liabilities 12,547,752 4,971,363 5,430,048 4,545,181 4,394,443
+ Net Assets in Liquidation 55,059,691 61,905,566 57,856,129 58,146,371 57,431,689
+
+Statement of Changes in
+Net Assets in Liquidation:
+Increase (Decrease)
+
+ Distributions Paid (1,638,314) (2,208,163) (2,706,780) (3,062,936) (997,235)
+Adjustments to Reflect Liquidation
+Basis of Accounting (5,207,561) 6,257,600 2,416,538 3,777,618 2,217,035
+Net Change in Net Assets in Liquidation (6,845,875) 4,049,437 (290,242) 714,682 1,219,800
+
+8
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+LIQUIDATION ACTIVITIES.
+
+CAPITAL RESOURCES AND LIQUIDITY -- ATLANTIC REALTY TRUST
+
+ The Trust's primary objective has been to liquidate its assets in an
+eighteen-month period from the date of the Spin-Off Transaction while realizing
+the maximum values for such assets; however because the RPS Tax Issues had not
+been settled within such time and the Trust Audit has not been satisfactorily
+resolved, the Trust has continued its business beyond such period. Although the
+Trust considers its assumptions and estimates as to the values and timing of
+such liquidations to be reasonable, the period of time to liquidate the assets
+and distribute the proceeds of such assets is subject to significant business,
+economic and competitive uncertainties and contingencies, many of which are
+beyond the Trust's control. There can be no assurance that the net values
+ultimately realized and costs actually incurred for such assets will not
+materially differ from the Trust's estimate. The Trust does not intend to make
+new loans or actively engage in either the mortgage lending or the property
+acquisition business.
+
+ The Trust believes that cash and cash equivalents on hand, proceeds
+generated by the real estate property that it owns and operates (the Hylan
+Center) and proceeds from the eventual sale of such property will be sufficient
+to support the Trust and meet its obligations. As of December 31, 2003, the
+Trust had approximately 23,198,000 in cash and short-term investments.
+
+ The Trust expects that, unless it is sold or merges with another entity,
+it will liquidate upon resolution of the RPS Tax Issues, the Trust Audit and any
+resolution of any liabilities relating thereto under the Tax Agreement.
+
+RESULTS OF OPERATIONS
+
+PERIOD FROM JANUARY 1, 2001 TO DECEMBER 31, 2001, JANUARY 1, 2002 TO DECEMBER
+31, 2002 AND JANUARY 1, 2003 TO DECEMBER 31, 2003.
+
+ As a result of the spin-off transaction, the Trust has adopted the
+liquidation basis of accounting. The liquidation basis of accounting is
+appropriate when liquidation appears imminent and the Trust is no longer viewed
+as a going concern. The Trust's income or loss is included in the adjustments to
+reflect liquidation basis of accounting. Net income for the years ended December
+31, 2003, 2002 and 2001 was approximately 1,580,000, 2,187,000 and 2,701,000
+respectively. The decrease in net assets in liquidation during 2003 is primarily
+due to the Trust's accrual of a liability of approximately 7,400,000 to
+Ramco-Gershenson Properties Trust with regard to the settlement of the RPS Tax
+Issues, including obligations arising from the Closing Agreement.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+ As of December 31, 2003, the Trust has approximately 23,198,000 of cash
+and short term investments. The earnings from these assets are affected by
+changes in market interest rates over which the Trust has no control. Although
+changes in market interest rates may significantly
+
+9
+
+affect the earnings on these assets the impact in changes in rates on the
+Trust's net assets in liquidation is not expected to be material.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+
+ See pages F-1 through F-10, which are included herein.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+ FINANCIAL DISCLOSURE.
+
+ None.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+ As of the end of period covered by this Annual Report on Form 10-K, the
+Company carried out an evaluation, under the supervision of and with the
+participation of the Company's management, including the Company's President and
+Chief Financial Officer, of the effectiveness of the design and operation of the
+Company's disclosure controls and procedures pursuant to Exchange Act Rule
+13a-14(c) and 15d-14(c) under the Securities Exchange Act of 1934. Based upon
+that evaluation, the President and Chief Financial Officer concluded that the
+Company's disclosure controls and procedures are effective (i) to ensure that
+material information relating to the Trust is communicated to them on a timely
+basis, and (ii) to accomplish the purposes for which they were designed. There
+were no material changes made in the Company's internal controls over financial
+reporting that occurred during the quarter ended December 31, 2003 that has
+materially affected, or are reasonably likely to materially affect the Trust's
+internal control over financial reporting.
+
+10
+
+PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+ The Trust has adopted a Code of Ethics that applies to the Trust's
+principal executive officer, principal financial officer, principal accounting
+officer or controller or persons performing similar functions. Any person
+wishing to receive a copy of The Code of Ethics may be request a copy by
+contacting the Trust and providing a name and address where such copy may be
+sent.
+
+ The Board of Trustees is composed of six Trustees, each of whom will
+serve until the respective successors are elected and qualified.
+
+ The Trustees and executive officers of the Trust are as follows:
+
+NAME AGE OFFICES AND POSITIONS
+- ---- --- ---------------------
+
+Joel M. Pashcow 61 Chairman and President of the Trust
+ effective as of February 29, 1996. He has
+ been a member of the Bar of the State of New
+ York since 1968. Chairman of RPS from
+ inception (December 1988) through May 1996.
+ He is a graduate of Cornell University and
+ the Harvard Law School. Mr. Pashcow is also
+ a trustee of Ramco-Gershenson Properties
+ Trust and Chairman of its Executive
+ Committee (formerly named RPS Realty Trust).
+
+Edwin J. Glickman 71 Consultant in real estate financings. Until
+ May, 30, 2003, Mr. Glickman had served as
+ Executive Vice President of Capital Lease
+ Funding Corp., a company engaged in
+ commercial real estate lending, since
+ January 1995. Prior to that, Mr. Glickman
+ was President of the Glickman Organization,
+ Inc. ("Glickman") from January 1992 to
+ December 1994. Glickman conducted real
+ estate investment consulting services and
+ real estate financial services, including
+ mortgage brokerage, arranging joint ventures
+ and equity financing. Prior to that, Mr.
+ Glickman was Chairman of the Executive
+ Committee of Schoenfeld Glickman Maloy Inc.
+ from May 1989, which is a company that
+ conducted real estate financial services,
+ including mortgage brokerage, arranging
+ joint ventures and equity financing. Also
+ served successively as Executive Vice
+ President, President and Vice Chairman of
+ Sybedon Corporation from 1977 to 1993, which
+ is a company that conducted real estate
+ financial services, including mortgage
+ brokerage, arranging
+
+11
+
+NAME AGE OFFICES AND POSITIONS
+- ---- --- ---------------------
+
+ joint ventures and equity financing. In all
+ positions, Mr. Glickman has been engaged in
+ real estate financial services, including
+ mortgage brokerage, arranging joint ventures
+ and equity financing.
+
+Stephen R. Blank 58 Senior Fellow, Finance of the Urban Land
+ Institute ("ULI"). Mr. Blank is also a
+ director of West Coast Hospitality
+ Corporation, a New York Stock
+ Exchange-listed corporation and BNP
+ Residential Trust, Inc., an American Stock
+ Exchange-listed REIT. Prior to joining the
+ ULI in December of 1998, Mr. Blank was a
+ Managing Director, Real Estate Investment
+ Banking of CIBC Oppenheimer Corp.
+ ("Oppenheimer") since November 1, 1993.
+ Prior to joining Oppenheimer, Mr. Blank was
+ a Managing Director, Real Estate Corporate
+ Finance, of Cushman & Wakefield, Inc. for
+ four years. Prior to that, Mr. Blank was
+ associated for ten years with Kidder,
+ Peabody & Co. Incorporated as a Managing
+ Director of the firm's Real Estate Group.
+ Mr. Blank graduated from Syracuse University
+ in 1967 and was awarded a Masters Degree in
+ Business Administration (Finance
+ Concentration) by Adelphi University in
+ 1971. He is a member of the Urban Land
+ Institute and the American Society of Real
+ Estate Counselors. Since September 1998, Mr.
+ Blank has been an adjunct professor in the
+ Real Estate Executive MBA Program at
+ Columbia University Graduate School of
+ Business. He has lectured before the
+ Practicing Law Institute, the New York
+ University Real Estate Institute, the Urban
+ Land Institute and the International Council
+ of Shopping Centers. Mr. Blank is also a
+ trustee of Ramco-Gershenson Properties Trust
+ (formerly named RPS Realty Trust).
+
+Edward Blumenfeld 63 A principal of Blumenfeld Development Group,
+ Ltd., a real estate development firm
+ principally engaged in the development of
+ commercial properties since 1978.
+
+Arthur H. Goldberg 61 Managing Director of Corporation Solutions
+ Group since January 2000. President of
+ Manhattan Associates, LLC, a merchant and
+ investment banking firm from February 1994
+ to December 1999. Prior to that, Mr.
+ Goldberg was Chairman of Reich & Company,
+ Inc., (formerly Vantage Services, Inc.), a
+ securities brokerage and investment
+ brokerage firm, from January 1990 to
+ December 1993. Mr. Goldberg
+
+12
+
+NAME AGE OFFICES AND POSITIONS
+- ---- --- ---------------------
+
+ was employed by Integrated Resources, Inc.
+ from its inception in December 1968, as
+ President and Chief Operating Officer from
+ May 1973 and as Chief Executive Officer from
+ February 1989 until January 1990. On
+ February 13, 1990, Integrated Resources,
+ Inc. filed a voluntary petition for
+ reorganization under Chapter 11 of the
+ United States Bankruptcy Code. Mr. Goldberg
+ has been a member of the Bar of the State of
+ New York since 1967. He is a graduate of New
+ York University School of Commerce and its
+ School of Law. Trustee of RPS since 1988.
+ Mr. Goldberg is also a trustee of
+ Ramco-Gershenson Properties Trust (formerly
+ named RPS Realty Trust).
+
+William A. Rosoff 60 Vice-Chairman of the Board of Directors of
+ Advanta Corporation, a financial services
+ company, since January 1996 and President of
+ Advanta Corporation since October 1999.
+ Prior thereto, Mr. Rosoff was associated
+ with the law firm of Wolf, Block, Schorr and
+ Solis-Cohen since 1969, a partner since
+ 1975. Mr. Rosoff is a past chairman of that
+ firm's Executive Committee and is a past
+ chairman of its tax department. Mr. Rosoff
+ served on the Legal Activities Policy Board
+ of Tax Analysts, the Advisory Board for
+ Warren, Gorham and Lamont's Journal of
+ Partnership Taxation, and has served on the
+ Tax Advisory Boards of Commerce Clearing
+ House and Little, Brown and Company. Mr.
+ Rosoff also serves on the Advisory Group for
+ the American Law Institute. He is a fellow
+ of the American College of Tax Counsel. Mr.
+ Rosoff earned a B.S. degree with honors from
+ Temple University in 1964, and earned an
+ L.L.B. magna cum laude from the University
+ of Pennsylvania Law School in 1967.
+
+13
+
+NAME AGE OFFICES AND POSITIONS
+- ---- --- ---------------------
+
+Edwin R. Frankel 58 Since the inception of the Trust in May
+ 1996, Mr. Frankel has served as its
+ Executive Vice President, Chief Financial
+ Officer, Secretary and Principal Financial
+ and Accounting Officer. From 1988 to 1992,
+ Mr. Frankel served as Vice President and
+ Chief Financial Officer of RPS and from 1992
+ to 1996 as Senior Vice President, Chief
+ Financial Officer and Treasurer of RPS.
+
+- -----------------------------
+ Designates status as a Continuing Trustee.
+
+COMMITTEES OF THE BOARD OF TRUSTEES
+
+ The Audit Committee of the Board of Trustees (the "Audit Committee"),
+established on October 22, 1997, consists of three Trustees, Messrs. Blumenfeld
+, Goldberg and Glickman. The Audit Committee meets with management and the
+Trust's independent accountants to determine the adequacy of internal controls
+and other financial reporting matters. On February 10, 2000, Mr. Glickman was
+appointed as a third member of the Audit Committee in order for the Trust to be
+in compliance with new regulations promulgated by the Securities and Exchange
+Commission and the NASDAQ Stock Market regarding the size, duties and
+responsibilities of audit committees of public companies. The Board of Trustees
+has determined that Mr. Glickman qualifies as an "audit committee financial
+expert" for purposes of Item 401(h) of SEC Regulation S-K, by virtue of his
+service as Vice President of Capital Lease Funding, the Glickman Organization,
+Inc. and as otherwise set forth in the table above. In all such positions, Mr.
+Glickman has been engaged in real estate financial services, including mortgage
+brokerage, arranging joint ventures and equity financing.
+
+ The Disposition Committee of the Board of Trustees (the "Disposition
+Committee"), established in July 1996, consists of three Trustees, Messrs.
+Blumenfeld, Glickman and Blank. The Disposition Committee works with management
+in connection with the orderly disposition of the Trust's assets.
+
+ A Special Committee of the Board of Trustees (the "Special Committee")
+established January 13, 2004, consists of three Trustees Messrs. Messrs.
+Glickman, Blank and Pashcow. The Special Committee was to consider any bona fide
+offer or acquisition proposal made for the Trust and to ensure that all
+reasonable steps are taken to maximize shareholder value while having regard to
+the Trust's existing contractual obligations.
+
+ The Special Committee regarding RPS Tax Issues, established April 17,
+2003 consists of two Trustees, Messrs. Blumenfeld and Glickman. The Special
+Committee regarding RPS Tax Issues is charged with the responsibility to act on
+behalf of the Trust in evaluating the position of the Trust with respect to the
+RPS Tax Issues and to represent the Trust with respect to any claims asserted by
+RPS for contribution arising out of the Closing Agreement.
+
+14
+
+ITEM 11. EXECUTIVE COMPENSATION.
+
+EXECUTIVE OFFICERS
+
+ Mr. Pashcow receives no cash compensation for serving as an executive
+officer of the Trust. Mr. Frankel receives compensation of approximately
+ 178,000 per annum pursuant to an employment contract entered into between the
+Trust and Mr. Frankel on June 11, 1998, as more fully described below.
+
+ SUMMARY COMPENSATION TABLE
+
+Annual Compensation Long Term Compensation
+ ------------------- ----------------------
+Name and Restricted Securities Payout
+Principal Other Annual Stock Underlying LTIP
+Position Year Salary( Bonus( Compensation( Awards( Options/SARs( Payouts( - ------------------------ ------ ---------- --------- ---------------- ------------ ---------------- -----------
+ 
+Edwin R. Frankel 
+ Executive Vice 2001 170,317 11,200 
+ President, Chief 2002 175,638 15,250 13,900 
+ Financial Officer 2003 180,907 15,250 14,400 
+ and
+ Secretary
+
+Stanley Rappoport
+
+ 2001 119,616
+ 2002 124,423
+
+ 2003 127,885 75,000
+- ----------------
+
+Includes approximately 1,000 in imputed interest under the Frankel Note
+ (as defined below).
+
+ The Trust had no compensation committee, however all of the Trustees
+participated in deliberations of the Trustees concerning executive officer
+compensation.
+
+ On June 11, 1998, the Trust entered into an employment agreement with Mr.
+Frankel (the "Frankel Employment Agreement"), which provided Mr. Frankel with a
+base salary of 158,000 (as adjusted from time to time, the "Base Salary") per
+annum. The term of the Frankel Employment Agreement is from June 11, 1998 until
+the date of a "change of control" of the Trust (as defined in the Frankel
+Employment Agreement) unless earlier terminated by either Mr. Frankel or the
+Trust upon written notice. The Frankel Employment Agreement also provides that
+Mr. Frankel will be entitled to a one-time payment upon the liquidation of the
+Trust or a change in control of 150 of Mr. Frankel's Base Salary as in effect
+at such time. In addition, the Frankel Employment Agreement provides for a loan
+from the Trust to Mr. Frankel in the principal amount of 37,500, which loan is
+evidenced by a promissory note, dated June 11, 1998, made by Mr. Frankel in
+favor of the Trust (the "Frankel Note"). The Frankel Note will be canceled upon
+the occurrence of certain conditions, including a Change of Control or
+liquidation of the Trust. In January, 2000, the Frankel Employment Agreement was
+amended to additionally provide that Mr. Frankel's estate or designated
+beneficiary will be entitled to receive a one time payment of 150 of his Base
+Salary as in effect at the time of his demise.
+
+15
+
+In connection with his employment with the Trust, Mr. Rappoport received
+a bonus plan that provided as follows: (i) for the period 1996, and ending July
+31, 2003, Mr. Rappoport will receive an aggregate total 100,000, such sum to be
+earned on a monthly pro rata basis over that period and the first 75,000 of
+such earned amount was paid on September 1, 2003 with the balance of such earned
+amount up to an additional 25,000 shall be payable on January 1, 2004, (ii) for
+the period beginning August 1, 2003 and ending December 31, 2003, Mr. Rappoport
+will earn, to the extent he remains employed by the Trust, an aggregate of
+ 25,000 in addition to his then current salary, such sum to be earned on a
+monthly pro rata basis over that period an to the extent earned, the 25,000
+shall be payable the earlier of June 30, 2004 and the liquidation date of the
+Trust; and (iii) for the period beginning January 1, 2004 and ending June 30,
+2004, Mr. Rappoport will earn, to the extent he remains employed by the Trust,
+an aggregate total of 15,000 in addition to his then current salary, such sum
+to be earned on a monthly pro rata basis over that period and to the extent
+earned, shall be payable the earlier of June 30, 2004 or the liquidation date of
+the Trust.
+
+TRUSTEES
+
+ The Trustees do not receive any compensation for serving as trustees and
+likewise will not receive any compensation for attending meetings or for serving
+on any committees of the Board of Trustees; however, Trustees will receive
+reimbursement of travel and other expenses and other out-of-pocket disbursements
+incurred in connection with attending any meetings.
+
+ During the years ended 2003, 2002 and 2001, respectively, Messrs. Edwin
+Glickman and Edward Blumenfeld each earned fees of 25,000 in connection with
+services they provided to the Trust as Members of the Disposition Committee.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+
+ As of March 11, 2004, each of the following persons were known by the
+Trust to be the beneficial owners of more than five percent of the Shares of the
+Trust.
+
+16
+
+NAME AND ADDRESS OF AMOUNT AND NATURE OF PERCENT OF
+ TITLE OF CLASS BENEFICIAL OWNER BENEFICIAL OWNERSHIP CLASS
+ -------------- ---------------- --------- -----
+ 
+Shares of beneficial interest First Union Real Estate 347,000(1) 9.75 
+ .01 par value Equity and Mortgage Investments
+ 7 Bulfinch Place
+ Suite 500
+ Boston, MA 02114
+
+Shares of beneficial interest High Rise Capital Management 504,088(2) 14.2 
+ .01 par value 535 Madison Avenue
+ 26th Floor
+ New York, NY 10022
+
+Shares of beneficial interest Kimco Realty Corporation 1,068,037(3) 30.0 
+ .01 par value 3333 New Hyde Park Rd.
+ New Hyde Park, NY 11042
+ 
+- ------------------
+(1) Based upon Schedule 13G/A filing with the Securities and Exchange
+ Commission, filed on January 15, 2004.
+
+(2) Based upon Schedule 13G filing with the Securities and Exchange Commission,
+ filed on January 7, 2004.
+
+(3) Based upon Schedule 13D/A filing with the Securities and Exchange
+ Commission filed February 4, 2003.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+ Set forth below is information as to the Shares beneficially owned as of
+March 1, 2004 by each of the Trustees, each of the executive officers included
+in the Summary Compensation Table set forth in Item 11 and all Trustees and
+executive officers as a group, based on information furnished by each Trustee
+and executive officer.
+
+Name of Trustee/ Shares Owned
+Executive Officer Beneficially(1) Percent of Class
+- ----------------- --------------- ----------------
+ 
+Joel M. Pashcow 94,154(2) 2.64 
+Arthur H. Goldberg 24,487(3) 
+William A. Rosoff 125 
+Stephen R. Blank 987(4) 
+Edward Blumenfeld 125 
+Edwin J. Glickman 10,531 
+Edwin R. Frankel 0 
+All Trustees and Executive Officers as a group (7 persons) 130,409 3.66 
+- ---------------------
+
+Less than 1 of class.
+(1) All amounts are directly owned unless stated otherwise.
+
+17
+
+(2) Includes 25,890 shares held in an IRA account for the benefit of Mr.
+ Pashcow, a retirement savings plan, a pension and profit sharing account
+ and a money purchase plan, 47,662 shares owned by an irrevocable trust of
+ which Mr. Pashcow is a trustee, an irrevocable trust for his daughter and a
+ foundation of which Mr. Pashcow is trustee (for all of which trusts Mr.
+ Pashcow has shared voting and investment powers). Mr. Pashcow disclaims
+ beneficial ownership of the Shares owned by the foundation and each of the
+ trusts.
+(3) Includes 19,563 shares owned by Mr. Goldberg's wife, 1,875 shares owned by
+ trusts for his daughters and 3,050 shares owned by a pension trust. Mr.
+ Goldberg disclaims beneficial ownership of the shares owned by his wife and
+ the trusts for his daughters.
+(4) Includes 712 shares owned by trusts for Mr. Blank's daughters and 275
+ shares held in an IRA account for the benefit of Mr. Blank. Mr. Blank
+ disclaims beneficial ownership of the shares owned by the trusts for his
+ daughters.
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+ Information relating to Principal Accountant fees and services will be
+contained in a definitive Proxy Statement under the caption "Principal
+Accountant Fees and Services" which the Registrant will file with the Securities
+and Exchange Commission pursuant to Regulation 14A under the Securities Exchange
+Act of 1934 not later than 120 days after December 31, 2003, and such
+information is incorporated herein by reference.
+
+ PART IV
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K.
+
+Financial Statements, Schedules and Exhibits
+
+(a)(1) Financial Statements
+ See pages F-1 through F-10, which are included herein.
+
+(a)(2) Financial Statement Schedules
+ All schedules have been omitted because they are inapplicable, not
+ required, or the information is included in the financial statements
+ or notes thereto.
+
+(a)(3) Exhibits
+ The exhibits listed in the Exhibit Index immediately preceding the
+ exhibits are filed as a part of this Annual Report on Form 10-K.
+
+(b) No Current Reports on Form 8-K were filed by the Company during the
+ last quarter of the period covered by this report.
+
+18
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+PAGE
+ ----
+ 
+Consolidated Financial Statements-- Atlantic Realty Trust and Subsidiary
+(Liquidation Basis of Accounting)
+
+Independent Auditors' Report...............................................................F-2
+Consolidated Statements of Net Assets in Liquidation as of December 31, 2003 and 2002......F-3
+Consolidated Statements of Changes in Net Assets in Liquidation for the Years Ended
+ December 31, 2003, 2002 and 2001................................................F-4
+Notes to Consolidated Financial Statements..............................................F-5-10
+
+F-1
+
+INDEPENDENT AUDITORS' REPORT
+
+To the Board of Trustees of
+Atlantic Realty Trust
+
+We have audited the accompanying consolidated statements of net assets in
+liquidation of Atlantic Realty Trust and subsidiary (the "Trust") as of December
+31, 2003 and 2002, and the related consolidated statements of changes in net
+assets in liquidation for each of the three years in the period ended December
+31, 2003. These consolidated financial statements are the responsibility of the
+Trust's management. Our responsibility is to express an opinion on these
+consolidated financial statements based on our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States of America. Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+As discussed in Note 1 to the consolidated financial statements, the Trust was
+formed for the purpose of liquidating the mortgage loan portfolio and certain
+other assets and liabilities which were transferred to the Trust from RPS Realty
+Trust on May 1, 1996 and liquidating and distributing capital to the Trust's
+shareholders. As a result, the Trust adopted the liquidation basis of
+accounting, effective May 10, 1996.
+
+In our opinion, such consolidated financial statements present fairly, in all
+material respects, the net assets in liquidation of Atlantic Realty Trust and
+subsidiary as of December 31, 2003 and 2002 and the changes in their net assets
+in liquidation for each of the three years in the period ended December 31, 2003
+in conformity with accounting principles generally accepted in the United States
+of America on the basis described in the preceding paragraph.
+
+As discussed in Notes 1 and 6 to the consolidated financial statements, because
+of the inherent uncertainty of valuation when an entity is in liquidation, the
+amounts ultimately realized from assets disposed and costs incurred to settle
+liabilities may differ materially from amounts presented in the accompanying
+consolidated financial statements.
+
+/s/ DELOITTE & TOUCHE LLP
+
+------------------------
+ March 10, 2004
+ New York, New York
+
+F-2
+
+ATLANTIC REALTY TRUST AND SUBSIDIARY
+ CONSOLIDATED STATEMENTS OF NET ASSETS IN LIQUIDATION
+ (LIQUIDATION BASIS OF ACCOUNTING)
+
+ December 31, December 31,
+ 2003 2002
+ ----------- -----------
+ASSETS:
+
+Investment in real estate .................. 44,144,250 43,929,250
+Cash and short-term investments ............ 23,198,093 22,677,679
+Other assets ............................... 265,100 270,000
+ ----------- -----------
+ Total assets .................. 67,607,443 66,876,929
+ ----------- -----------
+
+LIABILITIES:
+
+Estimated costs of liquidation ............. 12,547,752 4,971,363
+ ----------- -----------
+
+Net assets in liquidation .................. 55,059,691 61,905,566
+ =========== ===========
+
+See notes to consolidated financial statements.
+
+F-3
+
+ATLANTIC REALTY TRUST AND SUBSIDIARY
+ CONSOLIDATED STATEMENTS OF CHANGES IN NET ASSETS IN LIQUIDATION
+ (LIQUIDATION BASIS OF ACCOUNTING)
+
+FOR THE YEAR ENDED FOR THE YEAR ENDED FOR THE YEAR ENDED
+ DECEMBER 31, 2003 DECEMBER 31, 2002 DECEMBER 31, 2001
+ ------------------ ------------------ ------------------
+ 
+Net assets in liquidation, beginning
+ of period ......................................... 61,905,566 57,856,129 58,146,371
+Distributions paid ...................................... (1,638,314) (2,208,163) (2,706,780)
+Adjustments to reflect liquidation
+ basis of accounting ............................... (5,207,561) 6,257,600 2,416,538
+ ------------ ------------ ------------
+Net assets in liquidation,
+ end of period ..................................... 55,059,691 61,905,566 57,856,129
+ ============ ============ ============
+
+See notes to consolidated financial statements.
+
+F-4
+
+ATLANTIC REALTY TRUST AND SUBSIDIARY
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ (LIQUIDATION BASIS OF ACCOUNTING)
+
+1. ORGANIZATION AND SIGNIFICANT ACCOUNTING POLICIES
+
+ Atlantic Realty Trust, a Maryland real estate investment trust (the
+"Trust"), was formed on July 27, 1995 for the purpose of liquidating its
+interests in real properties, its mortgage loan portfolio and certain other
+assets and liabilities which were transferred to the Trust from Ramco-Gershenson
+Properties Trust (formerly named RPS Realty Trust) ("RPS") on May 10, 1996 (the
+"Spin-Off Transaction"). The Trust had no operations from the date of formation
+to the date of the Spin-Off Transaction. The Trust adopted the liquidation basis
+of accounting as of the date of the Spin-Off Transaction based on its intention
+to liquidate its assets or merge or combine operations with another real estate
+entity within eighteen months from the date of the Spin-Off Transaction. The
+Trust intends to conduct its operations with the intent of meeting the
+requirements applicable to a real estate investment trust ("REIT") under
+Sections 856 through 860 of the Internal Revenue Code of 1986, as amended (the
+"Code"). As a result, the Trust will have no current or deferred income tax
+liabilities.
+
+ Liquidation Basis of Accounting -- As a result of the Spin-Off
+Transaction, the Trust has adopted the liquidation basis of accounting. The
+liquidation basis of accounting is appropriate when liquidation appears imminent
+and the Trust is no longer viewed as a going concern. Under this method of
+accounting, assets are stated at their estimated net realizable values and
+liabilities are stated at the anticipated settlement amounts.
+
+ The valuations presented in the accompanying Consolidated Statements of
+Net Assets in Liquidation represent the estimates at the dates shown, based on
+current facts and circumstances, of the estimated net realizable value of the
+assets and estimated costs of liquidating the Trust. In determining the net
+realizable values of the assets, the Trust considered each asset's ability to
+generate future cash flows, offers to purchase received from third parties, if
+any, and other general market information. Such information was considered in
+conjunction with operating the Trust's plan for disposition of assets. The
+estimated costs of liquidation represent the estimated cost of operating the
+Trust through its anticipated termination. These costs primarily include
+payroll, consulting and related costs, rent, shareholder relations, legal and
+auditing. Changes in these costs during the periods presented are reflected in
+the adjustments to reflect liquidation basis of accounting. Computations of net
+realizable value necessitate the use of certain assumptions and estimates.
+Future events, including economic conditions that relate to real estate markets
+in general, may differ from those assumed or estimated at the time such
+computations are made. Because of inherent uncertainty of valuation when an
+entity is in liquidation, the amounts ultimately realized from assets disposed
+and costs incurred to settle liabilities may materially differ from amounts
+presented.
+
+ Pursuant to the terms of the Trust's Amended and Restated Declaration of
+Trust, the Trust was to continue for a period of 18 months from the date of the
+Spin-Off Transaction, subject to, among certain other things, satisfactory
+resolution of the RPS Tax Issues (as such term is defined in footnote 6).
+Because the RPS Tax Issues have not yet been satisfactorily resolved, the Trust
+has continued its business past that date. The Trust cannot currently estimate
+
+F-5
+
+ATLANTIC REALTY TRUST AND SUBSIDIARY
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ (LIQUIDATION BASIS OF ACCOUNTING)
+
+the timing of the future satisfactory resolution of the RPS Tax Issues.
+Accordingly, the Trust will continue until there is a final determination of
+these issues.
+
+ CONSOLIDATION -- The consolidated financial statements include the
+accounts of the Trust and its wholly-owned subsidiary. All significant
+intercompany accounts and transactions have been eliminated in consolidation.
+
+2. INVESTMENT IN REAL ESTATE
+
+ ESTIMATED NET REALIZED VALUE(A)(B)
+PROPERTY LOCATION DECEMBER 31, DECEMBER 31,
+ 2003 2002
+ ----------------- ----------------
+Hylan Shopping Center Staten Island, NY 44,144,250 43,929,250
+- --------------
+
+(a) Includes estimated cash flows using a disposition period of nine months.
+ Realized values may differ depending on actual disposition results and time
+ periods.
+
+(b) The operations of the Trust and the Hylan Shopping Center for the years
+ ended December 31, 2003 and December 31, 2002 are as follows:
+
+ 2003 2002
+ ---------- ----------
+Rental income ................................ 4,579,713 4,310,090
+Expense reimbursements ....................... 2,194,211 2,000,635
+Interest from short-term investments ......... 267,868 312,168
+Other ........................................ 3,004 5,837
+ ---------- ----------
+ 7,044,796 6,628,730
+ ---------- ----------
+Operating property expenses .................. 2,989,906 2,433,994
+Depreciation ................................. 348,831 292,981
+General and administrative ................... 2,125,909 1,714,304
+ ---------- ----------
+ 5,464,646 4,441,279
+ ---------- ----------
+Net income ................................... 1,580,150 2,187,451
+ ========== ==========
+
+3. SHARES OUTSTANDING
+
+ The weighted average number of common shares outstanding for each of the
+periods ended December 31, 2003, 2002, and 2001 was 3,561,553.
+
+4. CASH AND SHORT-TERM INVESTMENTS
+
+ Cash and short-term investments at December 31, 2003 and 2002, consist
+primarily of certificates of deposit at a major New York bank of 22,500,000 and
+ 22,150,000, respectively, purchased with original maturities of three months or
+less, bearing interest at a fixed rate of 1.09 and 1.05 , respectively.
+
+F-6
+
+ATLANTIC REALTY TRUST AND SUBSIDIARY
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ (LIQUIDATION BASIS OF ACCOUNTING)
+
+5. OTHER ASSETS
+
+ Other assets include the estimated interest income from the Trust's
+short-term investments.
+
+6. INCOME TAXES
+
+ During the third quarter of 1994, RPS held more than 25 of the value of
+its gross assets in overnight Treasury Bill reverse repurchase transactions
+which the IRS may view as non-qualifying assets for the purposes of satisfying
+an asset qualification test applicable to REITs, based on a Revenue Ruling
+published in 1977 (the "Asset Issue"). RPS requested that the IRS enter into a
+closing agreement with RPS that the Asset Issue would not impact RPS' status as
+a REIT. The IRS declined such request. In February 1995, the IRS initiated an
+examination of the 1991-1995 income tax returns of RPS (the "RPS Audit" and,
+together with the Asset Issue, the "RPS Tax Issues"). Based on developments in
+the law which occurred since 1977, RPS' tax counsel at that time, Battle Fowler
+LLP, rendered an opinion that RPS' investment in Treasury Bill repurchase
+obligations would not adversely affect its REIT status. However, such opinion is
+not binding upon the IRS.
+
+ In connection with the Spin-Off Transaction, the Trust assumed all tax
+liability arising out of the RPS Tax Issues (other than liability that relates
+to events occurring or actions taken by RPS following the date of the Spin-Off
+Transaction) pursuant to a tax agreement, dated May 10, 1996, by and between RPS
+and the Trust (the "Tax Agreement"). Such agreement provides that RPS (now named
+Ramco-Gershenson Properties Trust), under the direction of four trustees, three
+of whom are also trustees of the Trust (the "Continuing Trustees") and not the
+Trust, will control, conduct and effect the settlement of any tax claims against
+RPS relating to the RPS Tax Issues. Accordingly, the Trust did not have any
+control as to the timing of the resolution or disposition of any such claims.
+
+ In December 2003, Ramco-Gershenson Properties Trust and the Internal
+Revenue Service entered into a Closing Agreement with respect to all of the
+issues raised by the Internal Revenue Service in connection with RPS Audit. As a
+condition of the Closing Agreement, Ramco-Gershenson Properties Trust was
+obligated to pay deficiency dividends (under Code Sec. 860) with respect to its
+1992 and 1993 taxable year in amounts not less than 1,386,503 with respect to
+the 1992 taxable year and 809,010 with respect to the 1993 taxable year. In
+addition, Ramco-Gershenson Properties Trust is obligated to pay a deficiency in
+its income taxes with respect to the period covered by the RPS Audit equal to
+ 770,258, plus interest calculated at the statutory rate on the amount of the
+deficiency and the amount of the deficiency dividends. The aggregate amount of
+the deficiency dividends, income tax deficiency and interest on these amounts is
+approximately 7,400,000, and because the Trust is required by the Tax Agreement
+to reimburse Ramco-Gershenson Properties Trust for these items, they are
+included in the estimated cost of liquidation as of December 31, 2003. Although
+the Closing Agreement provides that the election of Ramco-Gershenson Properties
+Trust to be taxed as a "real estate investment trust" was terminated with
+respect to its 1994 and 1995 taxable years, it also provides
+
+F-7
+
+ATLANTIC REALTY TRUST AND SUBSIDIARY
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ (LIQUIDATION BASIS OF ACCOUNTING)
+
+that Ramco-Gershenson Properties Trust will be treated as having reelected to be
+taxed as a "real estate investment trust" with respect to its taxable year
+beginning January 1, 1996 and that the termination of its election to be taxed
+as a "real estate investment trust" will not prohibit it or any successor entity
+(which includes the Trust) from electing to be taxed as a "real estate
+investment trust" on or after January 1, 1996.
+
+ The Trust remains obligated under the Tax Agreement to assume certain
+liabilities relating to the RPS Tax Issues. The Trust established a special
+committee (the "Special Committee regarding RPS Tax Issues") comprised of the
+two Trustees who are not Continuing Trustees or otherwise affiliated with
+Ramco-Gershenson Properties Trust to act on behalf of the Trust in evaluating
+the position of the Trust with respect to the RPS Tax Issues and to represent
+the Trust with respect to any claims asserted by Ramco-Gershenson Properties
+Trust for contribution arising out of the Closing Agreement. On January 21,
+2004, the Trust contributed 2,200,091 in respect of the deficiency dividend
+required to be paid pursuant to the Closing Agreement. The Trust will be
+obligated to make additional payments with respect to the RPS Tax Issues and the
+Closing Agreement as a result of its obligations under the Tax Agreement. In the
+event the Trust is presented with further requests or claims for payment or
+reimbursement arising in connection with the RPS Tax Issues and the Closing
+Agreement, the Special Committee regarding RPS Tax Issues will evaluate the
+Trust's further obligations at the time of its receipt of any such claim or
+request.
+
+ On February 21, 2003, the IRS issued an examination report to the Trust
+with respect to the 1996 and 1997 taxable years of the Trust. This examination
+report proposes to disallow all of the loss deductions claimed by the Trust upon
+the disposition of Trust Assets during that period. In addition, the examination
+report proposes to increase the REIT taxable income of the Trust during 1996 and
+1997 on account of two items reported on the Trust's tax returns for which the
+Trust did not claim any taxable loss or deduction. Counsel to the Trust has
+advised that the examination report contains numerous errors of fact with
+respect to the operations of the Trust and that the legal conclusions in the
+examination report are not consistent with the applicable provisions of the Code
+and the income tax regulations. The Trust timely filed an administrative appeals
+(the "Trust Protest") challenging the adjustments proposed in the examination
+report.
+
+ Apart from transferring the responsibility of the Trust's appeal of the
+examination report to the IRS appeals office having jurisdiction for this case,
+no action has yet been taken by the IRS with respect to the Trust's Protest to
+the disallowances proposed in the examination report issued to the Trust. The
+outcome of the Trust Protest is uncertain and the impact of the resolution could
+be material to the financial statements.
+
+7. DIVIDENDS/DISTRIBUTIONS TO SHAREHOLDERS
+
+ Under the Internal Revenue Code, a REIT must meet certain qualifications,
+including a requirement that it distribute annually to its shareholders at least
+90 percent of its REIT taxable income. The Trust's policy is to distribute to
+shareholders all taxable income. Dividend distributions for the years ended
+December 31, 2003, 2002 and 2001 are summarized as follows:
+
+F-8
+
+ATLANTIC REALTY TRUST AND SUBSIDIARY
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ (LIQUIDATION BASIS OF ACCOUNTING)
+
+RECORD DATE DISTRIBUTION PAYMENT
+ ----------- ------------ -------
+December 18, 2003 .46 per share December 29, 2003
+
+December 15, 2002 .62 per share December 27, 2002
+
+December 14, 2001 .76 per share December 27, 2001
+
+The distributions listed in the table above represent ordinary income for income
+tax purposes.
+
+8. COMMITMENTS
+
+ The Trust leases approximately 4,100 square feet of office space at 747
+Third Avenue, New York, New York at an annual base rent of approximately
+ 264,000. This lease will expire on October 31, 2004.
+
+9. SUBSEQUENT EVENTS
+
+ On January 12, 2004, First Union Real Estate Equity and Mortgage
+Investments, an Ohio business trust ("First Union"), and Michael L. Ashner, the
+Chief Executive Officer of First Union (together with First Union, the "First
+Union Group"), filed a Statement of Beneficial Ownership on Schedule 13D (the
+"Schedule 13D") pursuant to which the First Union Group reported, among other
+things, that it had made a formal proposal to the Trust to merge the Trust with
+and into First Union or one of its subsidiaries (the "First Union Proposal").
+
+ The First Union Proposal contemplates that each share of beneficial
+interest in the Trust (a "Trust Share") would receive aggregate consideration of
+ 16.25 per Trust Share. Such amount would be payable, at the election of each
+shareholder of the Trust (a "Trust Shareholder"), in cash or in exchange for
+First Union's Series A cumulative convertible redeemable preferred shares of
+beneficial interest (the "First Union Preferred Shares") at a rate of 0.65 First
+Union Preferred Shares per Trust Share. In the event that Trust Shareholders
+holding more than 1,901,760 Trust Shares in the aggregate elect to receive First
+Union Preferred Shares, such Trust Shareholders would receive (i) a number of
+First Union Preferred Shares equal to (a) 0.65 multiplied by (b) a fraction, the
+numerator of which is 1,901,760 and the denominator of which is the total number
+of Trust Shares to be exchanged for First Union Preferred Shares and (ii) cash
+equal to (x) 16.25 multiplied by (y) a fraction, the numerator of which is the
+number of Trust Shares to be exchanged for First Union Preferred Shares less
+1,901,760 and the denominator of which is the number of Trust Shares to be
+exchanged for First Union Preferred Shares. The consideration payable would be
+subject to upward or downward adjustment based on the Trust's projected
+post-closing net cash balance, information obtained through First
+
+F-9
+
+ATLANTIC REALTY TRUST AND SUBSIDIARY
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ (LIQUIDATION BASIS OF ACCOUNTING)
+
+Union's due diligence process and any stock splits, issuances, repurchases,
+reclassifications and other transactions affecting the value of the Trust.
+
+ On January 13, 2004, the Board of Trustees of the Trust (the "Board")
+held a meeting to discuss the First Union Proposal and the process it would
+undertake to evaluate it. The Board resolved to form a special committee of
+disinterested directors consisting of Messrs. Glickman, Blank and Pashcow (the
+"Special Committee") to consider any bona fide offer or acquisition proposal
+made for the Trust and to ensure that all reasonable steps are taken to maximize
+shareholder value while having regard to the Trust's existing contractual
+obligations. Among other things, the Board instructed the Special Committee to
+(i) review, negotiate and make recommendations to the Board with respect to the
+First Union Proposal, (ii) conduct such other investigation of the First Union
+Proposal, First Union and the Trust as may be necessary to determine whether the
+First Union Proposal is in the best interests of Trust Shareholders and (iii)
+investigate other strategic alternatives available to the Trust.
+
+ On January 26, 2004, the Special Committee held an organizational meeting
+and commenced its evaluation of the First Union Proposal as directed by the
+Board. In addition, the Special Committee has retained an independent real
+estate brokerage firm to conduct a valuation of the Trust's sole asset, the
+Hylan Shopping Center located in Staten Island, New York. In connection with the
+valuation process that has commenced with respect to the Hylan Shopping Center,
+management expects the valuation of the property to be higher than the current
+valuation of approximately 44.1 million (based on an appraisal dated October 8,
+2002) included in the Trust's Consolidated Statements of Net Assets in
+Liquidation.
+
+ As of the date of this filing, the Special Committee has made no
+determination as to whether the Trust will or should engage in a transaction of
+the type contemplated by the First Union Proposal, whether on the terms of the
+First Union Proposal or otherwise, and there can be no assurance that the Trust
+will accept any acquisition proposal or that any such proposal, if accepted,
+will result in the consummation of a transaction.
+
+F-10
+
+SIGNATURES
+
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized, on the 23rd day of
+March, 2004.
+
+ ATLANTIC REALTY TRUST
+
+Date: March 23, 2004 By: Joel M. Pashcow
+ ---------------------------------
+ Name: Joel M. Pashcow
+ Title: President and Chairman of the Board
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+SIGNATURE TITLE DATE
+- --------- ----- ----
+
+/s/ Joel M. Pashcow
+- ---------------------
+Joel M. Pashcow President and Chairman of March 23, 2004
+ the Board
+
+/s/ Edwin R. Frankel
+- ---------------------
+Edwin R. Frankel Executive Vice President, March 23, 2004
+ Chief Financial Officer,
+ Secretary and Principal
+ Financial and Accounting
+ Officer
+
+/s/ Edwin J. Glickman
+- ---------------------
+Edwin J. Glickman Trustee March 23, 2004
+
+/s/ Stephen R. Blank
+- ---------------------
+Stephen R. Blank Trustee March 23, 2004
+
+/s/ Edward Blumenfeld
+- ---------------------
+Edward Blumenfeld Trustee March 23, 2004
+
+/s/ Arthur H. Goldberg
+- ---------------------
+Arthur H. Goldberg Trustee March 23, 2004
+
+/s/ William A. Rosoff
+- ---------------------
+William A. Rosoff Trustee March 23, 2004
+
+EXHIBIT INDEX
+
+The following exhibits are filed as part of this Annual Report on Form 10-K.
+
+EXHIBIT NO. DESCRIPTION
+
+ 3.1 Amended and Restated Declaration of Trust of the Trust
+ (Incorporated by reference to the Trust's definitive
+ registration statement on Form 10, dated March 28,
+ 1996, File No. 0-27562, Exhibit 3.1).
+
+ 3.2 Amended and Restated By-Laws of the Trust (Incorporated
+ by reference to the Trust's definitive registration
+ statement on Form 10, dated March 28, 1996, File No.
+ 0-27562, Exhibit 3.2).
+
+ 3.3 First Amendment to Amended and Restated Declaration of
+ Trust of the Trust (Incorporated by reference to the
+ Trust's definitive registration statement on Form 10,
+ dated March 28, 1996, File No. 0-27562, Exhibit 3.3).
+
+ 4.1 Form of Share Certificate (Incorporated by reference to
+ the Trust's definitive registration statement on Form
+ 10, dated March 28, 1996, File No. 0-27562, Exhibit
+ 4.1).
+
+ 10.1 Lease Agreement, dated as of January 16, 1997, by and
+ between Sage Realty Corporation, as the lessor, and the
+ Trust, as the lessee (Incorporated by reference to the
+ Trust's annual report on Form 10-K for the year ended
+ December 31, 1996, File No. 0-27562, Exhibit 10.1).
+
+ 10.2 Form of Assignment, Assumption and Indemnification
+ Agreement between RPS Realty Trust and the Trust
+ (Incorporated by reference to the Trust's definitive
+ registration statement on Form 10, dated March 28,
+ 1997, File No. 0-27562, Exhibit 10.1).
+
+ 10.3 Form of Tax Agreement between RPS Realty Trust and the
+ Trust (Incorporated by reference to the Trust's
+ definitive registration statement on Form 10, dated
+ March 28, 1996, File No. 0-27562, Exhibit 10.2).
+
+ 10.4 Form of Information Statement (Incorporated by
+ reference to the Trust's definitive registration
+ statement on Form 10, dated March 28, 1996, File No.
+ 0-27562, Exhibit 20.1).
+
+ 10.5 Employment Agreement, dated as of June 11, 1998, by and
+ between the Trust and Edwin R. Frankel (Incorporated by
+ reference to the Trust's quarterly report on Form 10-Q
+ for the three months ended June 30, 1998, File No.
+ 0-27562, Exhibit 10.1).
+
+ 10.6 Amendment to Employment Agreement, dated as of January
+ 29, 2000, by and between the Trust and Edwin R. Frankel
+ (Incorporated by reference to the
+
+Trust's annual report on Form 10-K, for the year ended
+ December 31, 2000, File No. 0-27562, Exhibit 10.6).
+
+ 10.7 Amended and Restated Standstill Agreement, dated as of
+ July 21, 2000, by and among Atlantic Realty Trust, on
+ the one hand, and Kimco Realty Corporation, Kimco
+ Realty Services, Inc. and Milton Cooper, on the other
+ hand.
+
+ 10.8 Second Amended and Restated Standstill Agreement, dated
+ as of January 31, 2003, by and among Atlantic Realty
+ Trust, on the one hand, and Kimco Realty Corporation,
+ Kimco Realty Services, Inc. and Milton Cooper, on the
+ other hand.
+
+ 10.9 Standstill Agreement, dated as of January 27, 2004, by
+ and among Atlantic Realty Trust, on the one hand, and
+ High Rise Capital Management, L.P., High Rise Capital
+ Advisors, L.L.C., Bridge Realty Advisors, L.L.C.,
+ Zankel Management GP, L.L.C., Cedar Bridge Realty Fund,
+ L.P., Cedar Bridge Institutional Fund, L.P., a Delaware
+ limited partnership Arthur Zankel and David O'Connor on
+ the other hand. 
+
+ 21.1 Subsidiary of the Registrant (incorporated by reference
+ to the Trust Annual Report on 10-K, for the year ended
+ December 31, 1999, File No. 0-27562, Exhibit 21.1).
+
+ Filed as an exhibit to Form 8-K filed January 27, 2004, File No. 0-27562.
+
+CERTIFICATION BY EDWIN R. FRANKEL PURSUANT TO
+ SECURITIES EXCHANGE ACT RULE 13a-14
+
+I, Edwin R. Frankel, certify that:
+
+1. I have reviewed this annual report on Form 10-K of Atlantic Realty Trust;
+
+2. Based on my knowledge, this annual report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this annual
+report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this annual report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this annual report;
+
+4. The registrant's other certifying officers and I are responsible for
+establishing and maintaining disclosure control and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15(d)-15(e)) for the registrant and we have:
+
+ a) designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared;
+
+ b) evaluated the effectiveness of the registrant's disclosure controls
+and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this annual report based on such evaluation; and
+
+ c) disclosed in this annual report any change in the registrant's
+internal control over financial reporting that occurred during the registrant's
+most recent fiscal quarter that has materially affected, or is reasonably likely
+to materially affect, the registrant's internal control over financial
+reporting.
+
+5. The registrant's other certifying officers and I have disclosed, based on
+our most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of registrant's board of directors
+(or persons performing the equivalent function):
+
+ a) all significant deficiencies and material weakness in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+b) any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control over
+financial reporting.
+
+Date: March 23, 2004 /s/Edwin R. Frankel
+ -----------------------------------
+ Name: Edwin R. Frankel
+ Title Executive Vice President,
+ Chief Financial Officer
+ and Secretary
+ (Principal Financial and
+ Accounting Officer)
+
+CERTIFICATION BY JOEL M. PASHCOW PURSUANT TO
+ SECURITIES EXCHANGE ACT RULE 13a-14
+
+I, Joel M. Pashcow, certify that:
+
+1. I have reviewed this annual report on Form 10-K of Atlantic Realty Trust;
+
+2. Based on my knowledge, this annual report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this annual
+report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this annual report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this annual report;
+
+4. The registrant's other certifying officers and I are responsible for
+establishing and maintaining disclosure control and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15(d)-15(e)) for the registrant and we have:
+
+ a) designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared;
+
+ b) evaluated the effectiveness of the registrant's disclosure controls
+and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this annual report based on such evaluation; and
+
+ c) disclosed in this annual report any change in the registrant's
+internal control over financial reporting that occurred during the registrant's
+most recent fiscal quarter that has materially affected, or is reasonably likely
+to materially affect, the registrant's internal control over financial
+reporting.
+
+5. The registrant's other certifying officers and I have disclosed, based on
+most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of registrant's board of directors
+(or persons performing the equivalent function):
+
+ a) all significant deficiencies and material weakness in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+b) any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control over
+financial reporting.
+
+Date: March 23, 2004 /s/Joel M. Pashcow
+ --------------------------------------
+ Name: Joel M. Pashcow
+ Title: Chairman and President
+ (Principal Executive Officer)
+
+Exhibit 99.1
+
+To Atlantic Realty Trust
+Report on Form 10-K
+December 31, 2003
+
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+The undersigned, Chairman and President of Atlantic Realty Trust (the
+"Company"), hereby certifies, to the best of my knowledge, that the Form 10-K of
+the Company for the fiscal year ended December 31, 2003 (the "Periodic Report")
+accompanying this certification fully complies with the requirements of Section
+13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m or 78(d))
+and that the information contained in the Periodic Report fairly represents, in
+all material respects, the financial condition and results of operations of the
+Company. The foregoing certification is incorporated solely for purposes of
+complying with the provisions of Section 906 of the Sarbanes-Oxley Act and is
+not intended to be used for any other purpose.
+
+Date: March 23, 2004 /s/Joel M. Pashcow
+ -------------------------------------
+ Name: Joel M. Pashcow
+ Title: Chairman and President
+ (Principal Executive Officer)
+
+Exhibit 99.2
+To Atlantic Realty Trust
+Report on Form 10-K
+December 31, 2003
+
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+The undersigned, Executive Vice President, Chief Financial Officer and Secretary
+of Atlantic Realty Trust (the "Company"), hereby certifies, to the best of my
+knowledge, that the Form 10-K of the Company for the fiscal year ended December
+31, 2003 (the "Periodic Report") accompanying this certification fully complies
+with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act
+of 1934 (15 U.S.C. 78m or 78(d)) and that the information contained in the
+Periodic Report fairly represents, in all material respects, the financial
+condition and results of operations of the Company. The foregoing certification
+is incorporated solely for purposes of complying with the provisions of Section
+906 of the Sarbanes-Oxley Act and is not intended to be used for any other
+purpose
+
+Date: March 23, 2004 /s/Edwin R. Frankel
+ -----------------------------------
+ Name: Edwin R. Frankel
+ Title Executive Vice President,
+ Chief Financial Officer
+ and Secretary
+ (Principal Financial and
+ Accounting Officer)
+

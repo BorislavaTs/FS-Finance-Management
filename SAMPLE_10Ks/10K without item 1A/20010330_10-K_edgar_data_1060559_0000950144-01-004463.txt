@@ -1,0 +1,3325 @@
+<Header>
+<FileStats>
+    <FileName>20010330_10-K_edgar_data_1060559_0000950144-01-004463.txt</FileName>
+    <GrossFileSize>212431</GrossFileSize>
+    <NetFileSize>166566</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1393</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>1</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950144-01-004463.hdr.sgml : 20010409
+ACCESSION NUMBER:		0000950144-01-004463
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20001231
+FILED AS OF DATE:		20010330
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRIGHT HORIZONS FAMILY SOLUTIONS INC
+		CENTRAL INDEX KEY:			0001060559
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-CHILD DAY CARE SERVICES [8351]
+		IRS NUMBER:				621742957
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-24699
+		FILM NUMBER:		1588597
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE KENDALL SQUARE
+		STREET 2:		BUILDING 200
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02139
+		BUSINESS PHONE:		6152569915
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE KENDALL SQUARE
+		STREET 2:		BUILDING 200
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02139
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QFApl0Y1fyYoeYH9uCywuqyWVVJLB6/XlIYeGTN0Fu3klk3GxxeEW2qUnhCgv30p
+ 40vKRg44Yk6MDTwmV20seg==
+
+ 0000950144-01-004463.txt : 20010409
+
+10-K
+ 1
+ g68036e10-k.txt
+ BRIGHT HORIZONS FAMILY SOLUTIONS, INC.
+
+1
+
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+
+ ------------
+
+ FORM 10-K
+
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+ OF 1934
+
+ For the fiscal year ended December 31, 2000
+ Commission file number 0-24699
+
+ BRIGHT HORIZONS FAMILY SOLUTIONS, INC.
+ (Exact name of registrant as specified in its charter)
+
+ Delaware 62-1742957
+- ---------------------------------- ------------------------------------------
+ (State or other jurisdiction (I.R.S. Employer Identification Number)
+ of incorporation or organization)
+
+ 200 Talcott Avenue South
+ Watertown, MA 02472
+ (Address of principal executive offices)
+
+ (617) 673-8000
+ (Registrant's telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act: None
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+COMMON STOCK, 0.01 PAR VALUE PER SHARE
+- --------------------------------------------------------------------------------
+ (Title of class)
+
+Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+ Yes X No
+ ----- ------
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of the registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [ ]
+
+As of March 16, 2001, there were outstanding 12,099,859 shares of the
+registrant's common stock, 0.01 par value per share, which is the only
+outstanding capital stock of the registrant. As of that date, the aggregate
+market value of the shares of common stock held by non-affiliates (excludes
+directors and executive officers of the registrant) of the registrant (based on
+the closing price for the common stock as reported on The Nasdaq National Market
+on March 15, 2001) was approximately 241,975,135.
+
+ DOCUMENTS INCORPORATED BY REFERENCE
+
+Part of Form 10-K Documents from which portions are incorporated by reference
+- ----------------- -----------------------------------------------------------
+ 
+Part III Portions of the Registrant's Proxy Statement
+ relating to the Registrant's Annual Meeting of
+ Stockholders to be held on May 23, 2001 are
+ incorporated by reference into Items 10, 11, 12 and
+ 13.
+ 
+ 2
+
+BRIGHT HORIZONS FAMILY SOLUTIONS, INC.
+ FORM 10-K ANNUAL REPORT
+
+ TABLE OF CONTENTS
+
+PART I
+
+Item 1. Business..................................................................................... 1
+Item 2. Properties................................................................................... 13
+Item 3. Legal Proceedings............................................................................ 14
+Item 4. Submission of Matters to a Vote of Security Holders.......................................... 14
+
+PART II
+
+Item 5. Market for Registrant's Common Equity and Related Stockholder Matters........................ 15
+Item 6. Selected Financial Data...................................................................... 16
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations........ 17
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk................................... 23
+Item 8. Financial Statements and Supplementary Data.................................................. 24
+Item 9. Changes In and Disagreements With Accountants on Accounting and Financial Disclosure......... 42
+
+PART III
+
+Item 10. Directors and Executive Officers of the Registrant........................................... 42
+Item 11. Executive Compensation....................................................................... 42
+Item 12. Security Ownership of Certain Beneficial Owners and Management............................... 42
+Item 13. Certain Relationships and Related Transactions............................................... 42
+
+PART IV
+
+Item 14. Exhibits and Reports on Form 8-K............................................................. 43
+
+Signatures............................................................................................... 45
+
+Index to Exhibits........................................................................................ 47
+ 
+ 3
+ PART I
+
+ITEM 1. BUSINESS
+
+OVERVIEW
+
+Bright Horizons Family Solutions, Inc. (the "Company" or "Bright Horizons Family
+Solutions") is a leading national provider of workplace services for employers
+and families, including child care, early education and strategic work/life
+consulting. The Company operates 345 family centers for over 250 clients and has
+the capacity to serve more than 43,000 children in 34 states and the District of
+Columbia, Guam, the United Kingdom and Ireland. The family center concept
+evolved from the more traditional workplace child care center and is designed to
+serve a broader segment of the work-site population. Each family center provides
+a number of services designed to meet the business objectives of the client and
+the family needs of the sponsor's employees. The Company's services are designed
+to (i) address employers' ever-changing workplace needs, (ii) enhance employee
+productivity, (iii) improve recruitment and retention of employees and (iv) help
+project the image as the employer of choice within the employer's industry.
+
+With the changing demographics of today's workforce and the prevalence of dual
+career families, a growing number of corporations are creating family benefits
+to attract and retain employees and support them as parents. Bright Horizons
+Family Solutions provides family center based child care, education and
+enrichment programs, backup care, before and after school care for school age
+children, summer camps, vacation care, elementary school (kindergarten through
+sixth grade), and other family support services.
+
+Bright Horizons Family Solutions serves many of the nation's leading
+corporations, including 80 Fortune 500 companies. In addition, 44 of Working
+Mother magazine's "Top 100 Companies for Working Mothers" in 2000 are clients of
+Bright Horizons Family Solutions. The Company's clients include many of
+America's best known companies, such as Bank of America, Bayer Pharmaceuticals,
+The Boeing Company, Bristol Myers Squibb, Citigroup, Eli Lilly and Company,
+First Union National Bank, Glaxo SmithKline PLC, Johnson & Johnson, JP Morgan
+Chase, Merck & Co., Inc., MBNA Corporation, Motorola, SAS Institute, S.C.
+Johnson & Son, Inc., Timberland, Time Warner, Inc. and Universal Studios, Inc.
+The Company also provides services for well known institutions such as Beth
+Israel Deaconess Medical Center, John F. Kennedy Airport, the PGA Tour, and the
+United Nations. Bright Horizons Family Solutions operates multiple centers for
+32 of its clients.
+
+Bright Horizons Family Solutions, a Delaware corporation, was formed in
+connection with the merger (the "Merger") of Bright Horizons, Inc. ("BRHZ") and
+CorporateFamily Solutions, Inc. ("CFAM"), each of which were national leaders in
+the field of work-site child care services for the corporate market. BRHZ and
+CFAM entered into a definitive Agreement and Plan of Merger (the "Merger
+Agreement") on April 26, 1998, which was approved by a vote of the respective
+companies on July 24, 1998 (the "Merger Date"). The merger has been treated as a
+tax-free reorganization, and accounted for as a pooling of interests. Unless the
+context otherwise requires, references in this Annual Report on Form 10-K to the
+Company or Bright Horizons Family Solutions for periods prior to July 24, 1998
+refer to one or both of the Company's predecessors, BRHZ and CFAM, as
+appropriate.
+
+BUSINESS STRATEGY
+
+Bright Horizons Family Solutions has gained recognition as a quality service
+provider and is well-positioned to serve its clients due to its scale, track
+record of serving major corporate sponsors, established reputation, and position
+as a quality leader. The major elements of its business strategy are the
+following:
+
+Corporate Sponsorship. Corporate sponsorship enables Bright Horizons Family
+Solutions to address simultaneously the three most important criteria used by
+parents to evaluate and select a child care and early education provider:
+quality of care, locational convenience and cost. Corporate sponsorship helps
+reduce the Company's start-up and operating costs and enables the Company to
+concentrate its investment in those areas that directly translate into high
+quality care, including faculty compensation, teacher-child ratios, curricula,
+continuing faculty education, facilities and equipment. Bright Horizons Family
+Solutions' corporate-sponsored work-site facilities are conveniently located at
+or near the parents' place of employment, and generally conform their hours of
+operation to the work schedule of the sponsor. Work-site family centers allow
+parents to spend more time with their
+
+ 1
+ 4
+children, both while commuting and during the workday, and to participate in and
+monitor their child's ongoing care and education. Finally, because corporate
+support generally defrays a portion of Bright Horizons Family Solutions'
+start-up and/or operating costs, the Company is able to offer its customers high
+quality child care and early childhood education services at competitive tuition
+levels. Some corporations offer subsidized tuition to their employees as part of
+their overall benefits package.
+
+Quality Leadership. The critical elements of Bright Horizons Family Solutions'
+quality leadership focus include:
+
+- - NAEYC Accreditation. Bright Horizons Family Solutions operates its
+ centers to qualify for accreditation by the National Association for
+ the Education of Young Children ("NAEYC"), a national organization
+ dedicated to improving the quality of care and developmental education
+ provided for young children. The Company believes that its commitment
+ to meeting NAEYC accreditation is an advantage in the competition for
+ corporate sponsorship opportunities due to the Company's experience
+ with an increasing number of potential and existing corporate sponsors
+ that are requiring adherence to NAEYC criteria. NAEYC accreditation
+ criteria cover a wide range of quantitative and qualitative factors,
+ including, among others, faculty qualifications and development,
+ staffing ratios, health and safety, and physical environment. NAEYC
+ criteria generally are more stringent than state regulatory
+ requirements. The majority of child care centers are not
+ NAEYC-accredited, and Bright Horizons Family Solutions has more
+ NAEYC-accredited work-site child development centers than any other
+ provider. Of the Company's 345 family centers 268 were eligible for
+ accreditation, of which 217 have achieved accreditation by NAEYC.
+
+- - High Teacher-Child Ratios. High teacher-child ratios are a critical
+ factor in providing quality early education, facilitating more focused
+ care and enabling teachers to forge relationships with children and
+ their parents. Under Bright Horizons Family Solutions' approach, each
+ child has a teacher who is designated as the child's primary caregiver.
+ This teacher is responsible for monitoring a child's developmental
+ progress and tailoring programs to meet the child's individual needs,
+ while engaging parents in establishing and achieving goals. Bright
+ Horizons Family Solutions is committed to maintaining the
+ NAEYC-recommended teacher-child ratios for all age groups, with many
+ family centers exceeding the NAEYC recommended minimum ratios. By
+ contrast, most center-based child care providers conform only to the
+ minimum teacher-child ratios mandated by applicable governmental
+ regulations, which are generally less intensive than NAEYC standards
+ and vary widely from state to state.
+
+- - Highly Qualified Center Directors and Faculty. Bright Horizons Family
+ Solutions believes its faculty's education and experience are
+ exceptional when compared to other child care providers. Our typical
+ center director has more than ten years of child care experience and a
+ college degree in an education-related field, with many center
+ directors holding advanced degrees. The Company has developed a
+ training program for its employees that establishes minimum standards
+ for its faculty. Teacher training is conducted in each family center
+ and includes orientation and ongoing training, including training
+ related to child development and education, health, safety and
+ emergency procedures. Training, designed to meet NAEYC training
+ standards, is conducted on a regular basis at each family center and on
+ a Company-wide basis. Management training is provided on an ongoing
+ basis to all center directors and includes human resource management,
+ risk management, financial management, customer service, and program
+ implementation. Additionally, because Bright Horizons Family Solutions
+ considers ongoing training essential to maintaining high quality
+ service, centers have training budgets for their faculty that provide
+ for in-center training, attendance at selected outside conferences and
+ seminars, and partial tuition reimbursement for continuing education.
+
+- - Innovative Curricula. Bright Horizons Family Solutions' innovative,
+ developmentally appropriate curricula distinguish it in an industry
+ typically lacking educational programs. The Company is committed to
+ improving upon the typical early education experience by creating a
+ dynamic and interactive environment that stimulates learning and
+ development. As part of its curricula the Company has developed "The
+ World at Their Fingertips," a comprehensive program that includes
+ Language Works, Math Counts, Science Rocks, Our World, and ArtSmart
+ programs that provide hands
+
+2
+ 5
+ on experiences for children to see the world as an invitation to learn,
+ grow, and live fully - all of which are designed to enable the children
+ to see a world full of possibilities that are within their reach. The
+ learning centers, outdoor environments, projects, activities, and field
+ trips are all carefully planned to allow children to independently
+ explore, discover, and learn in preparation for academic success.
+ Themes and directions emerge from the interests and experiences of the
+ children, families, and teachers. Teachers prepare and rotate the
+ various programs that provide large and small group experiences,
+ extended projects, and field trips that are all designed to enrich the
+ children's learning. Teachers strive to create experiences appropriate
+ for each child that provide both stimulation and challenge, which in
+ turn help children find new answers and opportunities.
+
+ The World at Their Fingertips provides infants and toddlers with what
+ they need - a safe, responsive "World" rich with language and
+ opportunities to actively learn, explore and enjoy. The World at Their
+ Fingertips preschool and kindergarten programs provide well planned
+ learning centers that allow for individualized learning, small groups,
+ and supportive teaching that prepare children for academic excellence.
+ The development of language, mathematical reasoning, and scientific
+ thought are emphasized throughout all the learning centers. Bright
+ Horizons Family Solutions seeks to involve parents in the center's
+ activities and supports the extension of learning into the home. The
+ Company believes its early childhood educational services meet or
+ exceed the standards established by the National Academy of Early
+ Childhood Programs ("NAECP"), a division of NAEYC.
+
+- - Attractive, Child-Friendly Facilities. Bright Horizons Family Solutions
+ believes that attractive, spacious and child-friendly facilities are an
+ important element in fostering high quality learning environments for
+ children. The Company's family centers are custom-built and are
+ designed to be state of the art facilities that serve the children,
+ families and teachers, and create a community of caring. Center design
+ incorporates natural light, openness and direct access from the family
+ center to a landscaped playground with the objective of creating an
+ environment that allows for the children to learn indoors and out. The
+ Company devotes considerable effort to equipping its centers with
+ child-sized amenities and indoor and outdoor play areas with
+ age-appropriate materials and design, while taking full advantage of
+ technology for both administrative and classroom use. Facilities are
+ designed to be cost-effective and fit specific sites, budgets and
+ clients' needs.
+
+Leading Market Presence. Bright Horizons Family Solutions' strategy has been to
+gain a leading market presence by leveraging its reputation and the visibility
+of its client relationships to enhance its marketing and market penetration. In
+addition, the Company believes that clustering its centers in selected
+metropolitan and geographic areas provides operating and competitive advantages.
+Clustering permits the Company to strengthen quality, improve management and
+oversight, develop local recruiting networks, and efficiently allocate its
+faculty among nearby centers in cases of illness, vacation or leave. Clustering
+also provides Bright Horizons Family Solutions with economies of scale in
+management, purchasing, training and recruiting. The Company believes that
+regional clustering serves as a competitive advantage in developing its
+reputation within geographic regions and securing new corporate sponsorships in
+those areas. Bright Horizons Family Solutions currently has a significant market
+presence in Atlanta, Boston, Charlotte, Chicago, Dallas/Fort Worth, Fort
+Lauderdale/Miami, Hartford, Los Angeles, Nashville, New York, Raleigh/Durham,
+San Diego, San Francisco, Seattle, St. Louis, Tampa/St. Petersburg, Washington,
+D.C. and Wilmington, Delaware and London, England.
+
+Employer of Choice. Bright Horizons Family Solutions focuses on maintaining its
+reputation as a premier employer in the early childhood education market and was
+recently named as one of Fortune's "100 Best Companies to Work for in America".
+The Company believes that its above-average compensation, comprehensive and
+affordable benefits package and opportunities for internal career advancement
+enable the Company to attract highly qualified, well-educated, experienced and
+committed center directors and faculty. The Company believes that its benefits
+package, which includes medical, dental and disability insurance, paid vacation
+and sick leave, a 401(k) savings plan, stock options, tuition reimbursement and
+child care discounts, is unusually comprehensive and affordable to the employee
+by industry standards. These benefits, as well as the Company's comprehensive
+training programs, are an important recruitment and retention tool for Bright
+Horizons Family Solutions in the relatively low-paying child care industry.
+
+ 3
+ 6
+
+GROWTH STRATEGY
+
+The key elements of Bright Horizons Family Solutions' growth strategy are as
+follows:
+
+Open Centers for New Corporate Sponsors. Bright Horizons Family Solutions'
+regional and home office sales force, as well as senior management actively
+pursue potential new corporate sponsors, particularly in industries that provide
+work-site child care, early education and family support services as a standard
+benefit. Bright Horizons Family Solutions believes that its scale, quality
+leadership and track record of serving corporate sponsors give it a competitive
+advantage in securing new corporate sponsorship relationships. As a result of
+the Company's visibility as a high quality provider of work-site child care,
+early education and family support services, prospective sponsors regularly
+contact Bright Horizons Family Solutions requesting proposals for operating a
+family center.
+
+Expand Relationships with Existing Corporate Sponsors. Bright Horizons Family
+Solutions aims to increase revenue from its existing corporate sponsor
+relationships by developing new centers for sponsors who have multiple corporate
+sites and offering additional services at its existing centers. Bright Horizons
+Family Solutions' experience has been that corporate sponsors are more inclined
+to employ the Company on a multi-site basis following the successful operation
+of an initial family center. The Company operates 124 family centers at multiple
+sites for 32 sponsors. In addition,16 clients are currently served by the
+Company's Network Access Program, which enables the employees of a sponsor to
+access a network of the Company's family centers across the country.
+
+Pursue Strategic Acquisitions. Bright Horizons Family Solutions seeks to acquire
+existing work-site child care centers and local or regional networks to expand
+quickly and efficiently into new markets and increase its presence in existing
+geographic clusters. The fragmented nature of the child care, early education
+and family support services market continues to provide acquisition
+opportunities. The Company believes that many of the smaller regional chains and
+individual providers seek liquidity and/or lack the professional management and
+financial resources that are often necessary.
+
+Assume Management of Existing Child Care Centers. Assuming the management of
+existing centers enables Bright Horizons Family Solutions to serve an existing
+customer base with little start-up investment. As corporations reduce their
+involvement in non-core business activities, the Company has assumed the
+management of a number of work-site child care centers previously managed by a
+corporate sponsor. Bright Horizons Family Solutions has also assumed the
+management of work-site child care centers formerly operated by other providers.
+Many such providers have experienced operating difficulties because they lack
+the management expertise or financial depth needed to provide high quality child
+care services to corporate sponsors.
+
+Geographic Expansion. Bright Horizons Family Solutions seeks to target areas
+that management believes are underserved by existing service providers. By
+targeting areas with a concentration of potential and existing corporate
+sponsors, the Company can offer a more comprehensive solution to a sponsor's
+needs.
+
+Develop and Market Additional Services. Bright Horizons Family Solutions plans
+to continue to develop and market additional early childhood education and
+family support services, full and part-time child care, emergency back-up
+work-site child care (serving parents when their primary child care options are
+unavailable), the Network Access Program, seasonal services (extending hours at
+existing centers to serve sponsors with highly seasonal work schedules), school
+vacation clubs, summer programs, elementary school programs, before and after
+school care for school age children, vacation care and special event child care,
+and to add residential child development centers in areas where tuition levels
+can support the Company's quality standards. Additionally, the Company often
+works with its sponsors to offer unique solutions and provide additional
+services, such as Travel Care, which allows parents who travel the option of
+bringing their children by providing care at participating family centers.
+
+At December 31, 2000, the Company had over 60 family centers under development
+and scheduled to open over the next 12 to 24 months, including 30 for existing
+clients.
+
+BUSINESS MODELS
+
+Although the specifics of Bright Horizons Family Solutions' sponsorship
+arrangements vary widely, they generally can be classified into two forms: (i)
+the sponsor model, where the Company operates a family center on or near the
+
+ 4
+ 7
+premises of a sponsor, gives priority enrollment to the employees or affiliates
+of the sponsor, receives some form of start-up and/or operating financial
+support from the sponsor and maintains profit-and-loss responsibility, and (ii)
+the management model, where Bright Horizons Family Solutions manages a work-site
+family center under a cost-plus agreement with a corporate sponsor.
+
+The Sponsor Model. Family centers operating under the sponsor model currently
+represent approximately 60 of Bright Horizons Family Solutions' family centers.
+The Company typically designs and operates a work-site family center in exchange
+for some form of financial or operating support from the sponsor. This
+sponsorship can take a variety of forms, including reduced occupancy costs,
+tuition assistance, operating subsidies, payment of pre-opening expenses and
+assistance with start-up costs, such as architectural and design fees, real
+estate broker fees, as well as capital equipment and initial supplies.
+Historically, the Company has received the greatest support in the form of
+reduced occupancy costs. Bright Horizons Family Solutions maintains
+profit-and-loss responsibility for sponsorship-model family centers. The
+sponsorship model can be classified into two subcategories: (i)
+employer-sponsored, where Bright Horizons Family Solutions provides child care
+on a priority enrollment basis for employees of a single employer sponsor, and
+(ii) developer-sponsored, where the Company provides priority child care to the
+employees of multiple employers located within a real estate developer's
+property.
+
+ - The Employer-Sponsored Model. The employer-sponsored model is
+ typically characterized by a single employer (corporation,
+ hospital, government agency or university), or occasionally a
+ consortium of employers, entering into a contract with the
+ Company to provide child care and early education at a
+ facility located in or near the sponsor's offices. The sponsor
+ generally provides for the construction of the center and on
+ an ongoing basis pays for maintenance and repairs. In some
+ cases, the sponsor also provides tuition assistance to the
+ employees and minimum enrollment guarantees to the Company.
+ Children of the sponsor's employees typically are granted
+ priority enrollment at the center. In some instances,
+ enrollment may be limited to the employees of the sponsor.
+ Operating contracts under the employer-sponsored model have
+ terms that generally range from three to ten years, require
+ ongoing reporting to the sponsor and, in some cases, limit
+ annual tuition increases.
+
+ - The Developer-Sponsored Model. A developer-sponsored center is
+ located in a real estate developer's office building or office
+ park. The center serves as an amenity to the developer's
+ tenants, giving the developer an advantage in attracting
+ quality tenants to its site. The Company offers priority
+ enrollment to the children of the site's employees in return
+ for discounted rent or other facilities related concessions.
+ Bright Horizons Family Solutions typically negotiates lease
+ terms of 10 to 20 years, including the initial term and
+ renewal options. Under the developer-sponsored model, Bright
+ Horizons Family Solutions typically operates its child
+ development centers with few ongoing operating restrictions or
+ reporting requirements.
+
+The Management Model. Family centers operating under management model contracts
+currently represent approximately 40 of Bright Horizons Family Solutions'
+family centers. Under the management model, the Company receives a management
+fee from a corporate sponsor and an operating subsidy for expenses in excess of
+tuition revenues within an agreed upon budget. The sponsor is typically
+responsible for all start-up costs and facility maintenance. The management
+model enables the corporate sponsor to have a greater degree of control with
+respect to budgeting, spending and operations. Management contracts require the
+Company to satisfy certain periodic reporting requirements and generally range
+in length from one to five years, with some terminable by the sponsor without
+cause or financial penalty. The Company is responsible for maintenance of
+quality standards, recruitment of center directors and faculty, implementation
+of curricula and programs and interaction with parents.
+
+In addition to the sponsor and management models, the Company may establish a
+center in instances where it has been unable to cultivate sponsorship, or
+sponsorship opportunities do not currently exist. In these instances the Company
+will typically lease space in locations that experience and demographics
+indicate that demand for the Company's services exists.
+
+OPERATIONS
+
+General. Consistent with its strategy of establishing leading market presence,
+Bright Horizons Family Solutions is organized into nine operational divisions,
+largely along geographic lines. Each division is managed by a Divisional
+
+ 5
+ 8
+Vice President and is divided into five to twelve regions, each headed by a
+Regional Manager responsible for supervising the quality, operating performance
+and client relationships for three to eleven centers. A typical center is
+managed by a staff consisting of an administrative team, including the center
+director, a teaching staff and support personnel, with the total number of staff
+varying due to the complexity and hours of operation of the program. A center
+director has operating responsibility and is also responsible for supervising
+local marketing, hiring new teachers and performing administrative tasks such as
+payroll and tuition collection. Bright Horizons Family Solutions performs most
+accounting, finance, information system, risk management, human resources,
+administration and business development at the corporate office level.
+
+Center hours of operation are designed to match the schedules of the sponsor.
+Most centers are open ten to twelve hours a day, Monday through Friday, although
+some employer sponsors operate two or even three shifts at locations our centers
+serve. Typical hours of operation are from 7:00 a.m. to 6:00 p.m. Bright
+Horizons Family Solutions offers a variety of enrollment options, ranging from
+full-time (40-50 hours per week) to part-time options. The majority of children
+who attend the Company's family centers are enrolled on a full-time basis and
+are children of the employees or affiliates of the sponsor. The remaining
+enrolled children come from the surrounding community, where such enrollment is
+permitted under the terms of the contract.
+
+Tuition depends upon the age of the child, the geographic location and the
+extent to which a corporate sponsor subsidizes tuition. In fiscal 2000, average
+full-time monthly tuition was approximately 990 for infants, 910 for toddlers
+and 740 for preschoolers. Tuition at most of Bright Horizons Family Solutions'
+centers is payable in advance and is due either monthly or weekly. In some
+cases, parents can pay tuition through payroll deduction.
+
+Facilities. The Company's family centers are primarily operated in work-site
+locations and vary in design and capacity in accordance with sponsor needs and
+state and federal regulatory requirements. A prototypical Company family center
+is approximately 10,000 to 12,000 square feet, and has a capacity for
+approximately 125-140 children. As of December 31, 2000, the Company's centers
+had a total licensed capacity of approximately 43,100 children, with the
+smallest having a capacity of 6 children and the largest having a capacity of
+over 450 children.
+
+Bright Horizons Family Solutions believes that attractive, spacious and
+child-friendly facilities are an important element in fostering a high quality
+learning environment for children. The Company's family centers are designed to
+be open and bright and to maximize visibility throughout the center. The Company
+devotes considerable resources to equipping its centers with child-sized
+amenities, indoor and outdoor play areas of age-appropriate materials and
+design, family hospitality areas and computer centers. Commercial kitchens are
+present in those centers that require hot meals to be prepared on site.
+
+Health and Safety. The safety and well-being of the children in its care is a
+high priority for Bright Horizons Family Solutions. The Company employs a
+variety of security measures at its centers, which may include electronic access
+systems, sign-out procedures for children, security guards, or other
+site-specific procedures. In addition, Bright Horizons Family Solutions' high
+ratio of teachers to children, together with the presence of center directors
+and other management personnel, leads to enhanced supervision. Centers are
+designed to minimize the risk of injury to small children by incorporating such
+features as child-size amenities, rounded corners on furniture and fixtures,
+age-appropriate toys and equipment and cushioned fall-zones surrounding play
+structures.
+
+Bright Horizons Family Solutions conducts ongoing training of personnel in the
+areas of health, safety and emergency protocol, requires CPR and first aid
+certification of center management personnel, and offers such certification to
+all center faculty. The Company conforms to federal OSHA requirements with
+respect to annual blood-born pathogen training of all center personnel.
+
+MARKETING
+
+Bright Horizons Family Solutions markets its services to two constituencies:
+corporate sponsors and parents. Management believes that the Company's
+international operations, and the expertise and reputation of its management
+team in managing 345 family centers for many of the world's leading companies
+have created name recognition within the work and family services industry. The
+Company's board of directors, senior officers and advisory board members are
+involved at the national level with education, work/life and children's services
+issues,
+
+ 6
+ 9
+and their prominence and involvement in such issues plays a key role in
+attracting new clients and developing additional services and products for
+existing clients.
+
+The Company's regional and corporate sales force and senior management maintain
+relationships with larger customers and actively pursue potential new corporate
+sponsors, particularly in industries that provide work-site child care as a
+standard benefit in order to recruit and retain talented employees. The
+Company's sales force is organized on both a national and regional basis, and is
+responsible for identifying potential corporate sponsors, targeting real estate
+developers, identifying potential acquisitions and managing the overall sales
+process. As a result of Bright Horizons Family Solutions' visibility as a high
+quality child care provider, potential sponsors regularly contact the Company
+requesting proposals. Bright Horizons Family Solutions competes for most
+employer sponsorship opportunities via a request for proposal process.
+
+At the family center level, directors are responsible for marketing to parents.
+Bright Horizons Family Solutions seeks to develop a local reputation by
+promoting its high quality faculty, facilities, programs, and interactive,
+hands-on curricula. The Company's pre-opening and ongoing local marketing
+efforts include open houses, local direct mail and media advertising, parent
+referrals and community outreach. Many centers have parent advisory
+organizations, which assist in marketing and also act as a sounding board for
+developments in the education program. Center directors typically receive
+assistance from corporate sponsors, who often provide access to channels of
+internal communication such as e-mail, websites, intranets, mailing lists and
+internal publications. In addition, many sponsors promote the family center as
+an important employee benefit and answer questions to facilitate interaction
+between the Company and parents. The Company also has a marketing department
+that acts as a central resource for center-level marketing programs, including
+the preparation of promotional materials.
+
+COMPETITION
+
+The market for child care and early education services is highly fragmented and
+competitive. Bright Horizons Family Solutions experiences competition for
+enrollment and for sponsorship of its family centers.
+
+Bright Horizons Family Solutions believes that the key factors in the
+competition for enrollment are quality of care, locational convenience and cost.
+The Company competes for enrollment with nannies, relatives, family child care
+and center-based child care providers, including for profit, not-for-profit and
+government-based providers. Corporate sponsor support enables Bright Horizons
+Family Solutions to limit its start-up and operating costs and concentrate its
+investment in those areas that directly translate into high quality early
+education, specifically faculty compensation, teacher-child ratios, curricula,
+continuing faculty education, facilities and equipment. The Company believes
+that many center-based child care providers are able to offer care at a lower
+price than Bright Horizons Family Solutions by utilizing lower teacher-child
+ratios, and offering their staff lower pay and limited or unaffordable benefits.
+While the Company's tuition levels are generally above those of its competitors,
+management believes it is able to compete effectively, particularly for
+well-educated parents, by offering the convenience of a work-site location and a
+higher quality of care.
+
+Bright Horizons Family Solutions believes its ability to compete successfully
+for corporate sponsorship depends on a number of factors, including reputation,
+scale, quality and scope of service, cost-effective delivery of service, high
+quality of personnel and the ability to understand the business needs of
+prospective clients and to customize sponsorship arrangements. Many residential
+center-based child care chains either have divisions that compete for corporate
+sponsorship opportunities or are larger and have substantially greater financial
+or other resources that could permit them to compete successfully against the
+Company in the work-site segment. Other child care organizations focus
+exclusively on the work-site segment of the child care market. Bright Horizons
+Family Solutions believes there are fewer than 10 companies that currently
+operate work-site child care centers on a national basis.
+
+The Company's biggest competitors include the employer-sponsored child care
+divisions of large child care chains that primarily operate residential child
+care centers such as Children's Discovery Centers/Knowledge Beginnings,
+KinderCare Learning Centers, Aramark/Children's World, and Child Time.
+Management believes that the Company is distinguished from its competitors by
+its primary focus on corporate clients and commitment to NAEYC accreditation
+standards. Bright Horizons Family Solutions believes it is well-positioned to
+attract sponsors who wish to outsource the management of new or existing
+work-site early education centers due to the Company's scale,
+
+ 7
+ 10
+established reputation, position as a quality leader and track record of serving
+major corporate sponsors. In addition, an increasing number of potential
+corporate sponsors are requiring adherence to NAEYC criteria.
+
+EMPLOYEES
+
+As of December 31, 2000, Bright Horizons Family Solutions employed approximately
+11,800 employees (including part-time and substitute teachers), of which
+approximately 315 were employed at the Company's corporate, divisional and
+regional offices and the remainder were employed at Company's family centers.
+Center employees include faculty and administrative personnel. The Company does
+not have an agreement with any labor union and believes that its relations with
+employees are good.
+
+REGULATION
+
+Child care centers are subject to numerous federal, state and local regulations
+and licensing requirements. Although these regulations vary from jurisdiction to
+jurisdiction, government agencies generally review, among other things, the
+adequacy of buildings and equipment, licensed capacity, the ratio of teachers to
+children, faculty training, record keeping, the dietary program, the daily
+curriculum and compliance with health and safety standards. In most
+jurisdictions, these agencies conduct scheduled and unscheduled inspections of
+centers, and licenses must be renewed periodically. In some jurisdictions,
+regulations have been enacted which establish requirements for employee
+background checks or other clearance procedures for employees of child care
+facilities. Center directors and regional managers are responsible for
+monitoring each family center's compliance with such regulations. Repeated
+failures by a family center to comply with applicable regulations can subject it
+to sanctions, which can include fines, corrective orders, being placed on
+probation or, in more serious cases, suspension or revocation of the center's
+license to operate, and could require significant expenditures by the Company to
+bring its family centers into compliance. In addition, state and local licensing
+regulations often provide that the license held by the Company may not be
+transferred. As a result, any transferee of a family services business
+(primarily child care) must apply to the applicable administrative bodies for
+new licenses. There can be no assurance that the Company would not have to incur
+material expenditures to relicense family centers it may acquire in the future.
+Management believes the Company is in substantial compliance with all material
+regulations applicable to its business.
+
+There are currently certain tax incentives for parents utilizing child care
+programs. Section 21 of the Internal Revenue Code provides a federal income tax
+credit ranging from 20 to 30 of certain child care expenses for "qualifying
+individuals" (as defined therein). The Company believes the fees paid to Bright
+Horizons Family Solutions for child care services by eligible taxpayers qualify
+for the tax credit, subject to the limitations of Section 21. The amount of the
+qualifying child care expenses is limited to 2,400 for one child and 4,800 for
+two or more children and, therefore, the maximum credit ranges from 480 to 720
+for one child and from 960 to 1,440 for two or more children.
+
+INSURANCE
+
+Bright Horizons Family Solutions currently maintains the following types of
+insurance policies: workers' compensation, commercial general liability,
+automobile liability, commercial property coverage, student accident coverage,
+employment practices, directors' and officers' liability and excess "umbrella"
+liability. The policies provide for a variety of coverages and are subject to
+various limitations, exclusions and deductibles. Management believes that the
+Company's current insurance coverages are adequate to meet its needs.
+
+Bright Horizons Family Solutions has not experienced difficulty in obtaining
+insurance coverage, but there can be no assurances that adequate insurance
+coverage will be available in the future, or that the Company's current coverage
+will protect it against all possible claims.
+
+RISK FACTORS
+
+Management of Growth. The Company has experienced substantial growth during the
+past several years through internal growth and by acquisition. The Company's
+ability to grow in the future will depend upon a number of factors, including
+the ability to further develop existing client relationships and to obtain new
+client relationships, the expansion of services and programs offered by the
+Company, the maintenance of high quality services and
+
+8
+ 11
+programs and the hiring and training of qualified management, divisional vice
+presidents, regional managers, center directors and other personnel. The Company
+may experience difficulty in attracting and retaining qualified personnel in
+various markets necessary to meet growth opportunities. Hiring and retaining
+qualified personnel may require increased salaries and enhanced benefits in more
+competitive markets, which could result in a material adverse effect on the
+Company's business, results of operations and financial condition. In addition,
+difficulties in hiring and retaining qualified personnel may also impact the
+Company's ability to accept additional enrollment at its centers which could
+result in a material adverse effect on the Company's business, results of
+operations and financial condition. Sustaining growth may require the
+implementation of enhancements to operational and financial systems and will
+also depend on the Company's ability to expand its sales and marketing force.
+There can be no assurance that the Company will be able to manage its expanding
+operations effectively or that it will be able to maintain or accelerate its
+growth, and any failure to do so could have a material adverse effect on the
+Company's business, results of operations and financial condition.
+
+Market Acceptance of Work and Family Services. The Company's business strategy
+depends on employers recognizing the value of work and family services. There
+can be no assurance that there will be continued growth in the number of
+employers that view work-site family services as cost-effective or beneficial to
+their work forces. Any negative change in current corporate acceptance of
+financially supported child care could have a material adverse effect on the
+Company's business, results of operations, financial condition and growth
+prospects. There can be no assurance that demographic trends, including an
+increasing percentage of mothers in the work force, will continue to lead to
+increased market share for the center-based segment in general and the work-site
+segment in particular.
+
+Competition. The Company competes for corporate clients as well as individual
+enrollment in a highly fragmented and competitive market. For enrollment, the
+Company competes with family child care (operated out of the caregiver's home)
+and center-based child care (residential and work-site child care centers, full
+and part-time nursery schools, and church-affiliated and other not-for-profit
+providers). In addition, substitutes for organized child care, such as
+relatives, nannies, and the option of one parent caring for a child, compete
+with the Company. In addition, family child care providers often operate at
+standards lower than the national accreditation standards at which the Company
+operates. Management believes the Company's ability to compete successfully
+depends on a number of factors, including quality of care, locational
+convenience and cost. The Company often is at a price disadvantage with respect
+to family child care providers, who operate with little or no rental expense and
+generally do not comply or are not required to comply with the same health,
+safety, insurance and operational regulations as the Company. Many of its
+competitors in the center-based segment also offer child care at a substantially
+lower price than the Company, and some have substantially greater financial
+resources than the Company or have greater name recognition. The Company also
+competes with many not-for-profit providers of child care and preschools, some
+of which are able to offer lower pricing than the Company. There can be no
+assurance that the Company will be able to compete successfully against current
+and future competitors, or that competitive pressures faced by the Company will
+not have a material adverse effect on its business, results of operations and
+financial condition.
+
+In the competition for corporate clients, the Company primarily competes with
+other organizations that focus on the work-site segment of the child care market
+and with certain center-based child care chains that have divisions that compete
+for corporate opportunities. The Company also competes with a diverse group of
+large and small competitors for a range of child care and other work and family
+services including work/life, employee benefits and management consultants. Some
+of these competitors have significantly greater financial resources and may be
+willing to enter into contract models, invest initial capital in facilities or
+enter into other financial arrangements that are not consistent with the
+Company's business strategy. Many of these competitors offer consulting,
+work-site child care and other services at lower prices than the Company.
+Increased competition for corporate relationships on a national or local basis
+could result in increased pricing pressure and/or loss of market share, thereby
+having a material adverse effect on the Company's business, results of
+operations and financial condition, as well as its ability to attract and retain
+qualified family center personnel and its ability to pursue its growth strategy
+successfully.
+
+Dependence on Corporate Client Relationships. A significant portion of the
+Company's business is derived from family centers associated with corporate
+clients for which the Company provides work-site family services for single or
+multiple sites pursuant to contractual arrangements. While the specific terms of
+such contracts vary, some contracts are subject to early termination by the
+corporate client without cause. While the Company has a history of consistent
+contract renewals, there can be no assurance that future renewals will be
+secured. The early termination or
+
+ 9
+ 12
+non-renewal of a significant number of contracts or the termination of a
+multiple-site corporate client relationship could have a material adverse effect
+on the Company's business, results of operations and financial condition.
+
+Changing Economic Conditions. The Company's revenue and net income are subject
+to general economic conditions. A significant portion of the Company's revenue
+is derived from employers and real estate developers who historically have
+reduced their expenditures for work-site family services during economic
+downturns. In addition, a significant percentage of the Company's family centers
+are sponsored by real estate developers offering on-site child care as an
+amenity to attract tenants to their buildings. Changes in the supply and demand
+of real estate could adversely affect real estate developers' willingness to
+subsidize child care operations at new developments or their ability to obtain
+financing for developments offering developer-sponsored child care services.
+Should the economy weaken in any future period, these corporate clients may
+reduce or eliminate their expenditures on work and family services, and
+prospective clients may not commit resources to such services. The Company's
+revenues depend, in part, on the number of dual income families and working
+single parents who require child care services. A deterioration of general
+economic conditions may adversely impact the Company because of the tendency of
+out-of-work parents to discontinue utilization of child care services. In
+addition, the Company may not be able to increase tuition at a rate consistent
+with increases in operating costs. These factors could have a material adverse
+effect on the Company's business, results of operations and financial condition.
+
+Risks Associated with Acquisitions. The Company plans as part of its growth
+strategy to evaluate the acquisition of other providers of work/life, child care
+and consulting services. Acquisitions involve numerous risks, including
+potential difficulties in the assimilation of acquired operations, not meeting
+financial objectives, additional investment, diversion of management's
+attention, negative financial impacts based on the amortization of acquired
+intangible assets, the dilutive effects of the issuance of Common Stock in
+connection with an acquisition and potential loss of key employees of the
+acquired operation. No assurance can be given as to the success of the Company
+in identifying, executing and assimilating acquisitions in the future.
+
+Dependence on Key Management. The success of the Company is highly dependent on
+the efforts, abilities, and continued services of its executive officers and
+other key employees. The loss of any of the executive officers or key employees
+could have a material adverse effect on the Company's business, results of
+operations and financial condition. The Company believes that its future success
+will depend upon its ability to continue to attract, motivate and retain
+highly-skilled managerial, sales and marketing, divisional, regional and center
+director personnel. Although the Company historically has been successful in
+retaining the services of its senior management, there can be no assurance that
+the Company will be able to do so in the future.
+
+Ability to Obtain and Maintain Insurance; Adverse Publicity. The Company
+currently maintains the following types of insurance policies: workers'
+compensation, commercial general liability, automobile liability, commercial
+property coverage, student accident coverage, directors' and officers' liability
+coverage, employment practices liability and excess "umbrella" liability
+including coverage for child abuse and molestation. These policies provide for a
+variety of coverages and are subject to various limitations, exclusions and
+deductibles. To date, the Company has been able to obtain insurance in amounts
+it believes to be appropriate. There can be no assurance that the Company's
+insurance premiums will not increase in the future as a consequence of
+conditions in the insurance business generally or the Company's experience in
+particular. As a result of adverse publicity concerning reported incidents of
+alleged abuse at child care centers and the length of time before the expiration
+of applicable statutes of limitations for the bringing of child abuse and
+personal injury claims (typically a number of years after the child reaches the
+age of majority), some operators of child care and family centers have had
+difficulty obtaining general liability insurance, child abuse liability
+insurance or similar liability insurance or have been able to obtain such
+insurance only at substantially higher rates. Any adverse publicity concerning
+reported incidents of child abuse at any child care centers, whether or not
+directly relating to or involving the Company, could result in decreased
+enrollment at the Company's centers, termination of existing corporate
+relationships, inability to attract new corporate relationships or increased
+insurance costs, any of which could have a material adverse effect on the
+Company's business, results of operations, and financial condition.
+
+Litigation. Because of the nature of its business, the Company is and expects
+that in the future it may be subject to claims and litigation alleging
+negligence, inadequate supervision and other grounds for liability arising from
+injuries or other harm to the people it serves, primarily children. In addition,
+claimants may seek damages from the Company for child abuse, sexual abuse and
+other acts allegedly committed by Company employees. The Company
+
+ 10
+ 13
+has occasionally been sued for claims relating to injuries to children in its
+care. There can be no assurance that additional lawsuits will not be filed, that
+the Company's insurance will be adequate to cover liabilities resulting from any
+claim or that any such claim or the publicity resulting from it will not have a
+material adverse effect on the Company's business, results of operations, and
+financial condition including, without limitation, adverse effects caused by
+increased cost or decreased availability of insurance and decreased demand for
+the Company's services from corporate sponsors and parents.
+
+Seasonality and Variability of Quarterly Operating Results. The Company's
+revenue and results of operations fluctuate with the seasonal demands for child
+care. The Company's revenue typically declines during the third quarter as a
+result of decreased enrollments in its family centers as parents withdraw their
+children for vacations, as well as withdraw their older children in preparation
+for entry into elementary schools. There can be no assurance that the Company
+will be able to adjust its expenses on a short-term basis to minimize the effect
+of these fluctuations in revenue. The Company's quarterly results of operations
+may also fluctuate based upon the number and timing of center openings and/or
+acquisitions, the performance of new and existing centers, the contractual
+arrangements under which centers are operated, the change in the mix of such
+contractual arrangements, the timing and level of consulting and development
+fees, center closings, competitive factors and general economic conditions. The
+inability of existing centers to maintain their current profitability, the
+failure of newly opened centers to contribute to profitability and the failure
+to maintain and grow the consulting and development services could result in
+additional fluctuations in the future operating results of the Company on a
+quarterly or annual basis.
+
+Impact of Governmental Regulation. The Company's family centers are subject to
+numerous federal, state and local regulations and licensing requirements.
+Although these regulations vary greatly from jurisdiction to jurisdiction,
+government agencies generally review, among other things, the adequacy of
+buildings and equipment, licensed capacity, the ratio of staff to children,
+staff training, record keeping, the dietary program, the daily curriculum and
+compliance with health and safety standards. The Company is also required to
+comply with the ADA, which prohibits discrimination on the basis of disability
+in public accommodations and employment. Failure of a center to comply with
+applicable regulations or the ADA can subject it to governmental sanctions,
+which might include fines, corrective orders, probation, or, in more serious
+cases, suspension or revocation of the center's license to operate or an award
+of damages to private litigants and could require significant expenditures by
+the Company to bring its family centers into compliance. In addition, state and
+local licensing regulations often provide that the license held by a family
+services company may not be transferred. As a result, any transferee of a family
+services business (primarily child care) must apply to any applicable
+administrative bodies for new licenses. There can be no assurance that the
+Company would not have to incur material expenditures to relicense family
+centers it may acquire in the future. There can be no assurance that government
+agencies will not impose additional restrictions on the Company's operations
+which could adversely affect the Company's business, results of operations, and
+financial condition. In addition, under the Internal Revenue Code, certain tax
+incentives are available to parents utilizing child care programs. Any change in
+such incentives could cause a number of parents to remove their children from
+the Company's family centers, which would adversely affect the Company's
+business, results of operations and financial condition. Although the Company
+expects to pay employees at rates above the minimum wage, increases in the
+federal minimum wage could result in a corresponding increase in the wages paid
+to the Company's employees, which could adversely affect the Company's business,
+results of operations and financial condition.
+
+Possible Volatility of Stock Price. The prices at which the Company's Common
+Stock trades is determined by the marketplace and is influenced by many factors,
+including the liquidity of the market for the Common Stock, investor perception
+of the Company and of the work/life industry generally, and general economic and
+market conditions. The stock market historically has experienced volatility
+which has affected the market price of securities of many companies and which
+has sometimes been unrelated to the operating performance of such companies. In
+addition, factors such as announcements of new services or offices or
+acquisitions by the Company or its competitors or third parties, as well as
+market conditions in the Company's industry, may have a significant impact on
+the market price of the Common Stock. Movements in prices of stocks in general
+may also affect the market price. In addition, the exercise of options to
+purchase shares of the Common Stock may cause dilution to existing stockholders.
+
+Potential Effect of Anti-Takeover Provisions. The Company's Certificate of
+Incorporation and Bylaws contain certain provisions that could make more
+difficult the acquisition of the Company by means of a tender offer, a proxy
+contest or otherwise. These provisions establish staggered terms for members of
+the Company's Board of Directors and include advance notice procedures for
+stockholders to nominate candidates for election as directors of the
+
+ 11
+ 14
+Company and for stockholders to submit proposals for consideration at
+stockholders' meetings. In addition, the Company is subject to Section 203 of
+the Delaware General Corporation Law which limits transactions between a
+publicly held company and "interested stockholders" (generally, those
+stockholders who, together with their affiliates and associates, own 15 or more
+of a company's outstanding capital stock). This provision of the DGCL may have
+the effect of deterring certain potential acquisitions of the Company. The
+Company's Certificate of Incorporation provides for 5,000,000 authorized but
+unissued shares of preferred stock, the rights, preferences, qualifications,
+limitations and restrictions of which may be fixed by the Company's Board of
+Directors without any further action by stockholders.
+
+EXECUTIVE OFFICERS OF THE COMPANY
+
+Set forth below are the names, ages, titles and principal occupations and
+employment for the past five years of the executive officers of the Company:
+
+Roger H. Brown, 44 - Chief Executive Officer. Mr. Brown has served as a director
+of the Company since the Merger and has also served as Chief Executive Officer
+of the Company since May 1999. Mr. Brown was President of the Company from the
+Merger until June 2000. Mr. Brown co-founded BRHZ and served as Chairman and
+Chief Executive Officer of BRHZ from its inception in 1986 until the Merger.
+Prior to 1986, he worked as a management consultant for Bain & Company, Inc. Mr.
+Brown currently serves as a director of The Horizons Initiative, a non-profit
+organization that provides support for homeless children and their families,
+Stand for Children, a non-profit organization dedicated to improving the quality
+of life for children. He is also the Chairman of the commission to reinvent the
+National Association for the Education of Young Children's (NAEYC) accreditation
+process. Mr. Brown is the husband of Linda A. Mason.
+
+Linda A. Mason, 46 - Co-Chairman of the Board. Ms. Mason has served as a
+director of the Company since the Merger. Ms. Mason also served as Chairman of
+the Board from the Merger until May 1999 when she became Co-Chairman of the
+Board. Ms. Mason co-founded BRHZ and served as a director and President of BRHZ
+from its inception in 1986 until the Merger. From its inception until September
+1994, Ms. Mason also acted as BRHZ's Treasurer. Prior to founding BRHZ, Ms.
+Mason was co-director of the Save the Children relief and development effort in
+Sudan and worked as a program officer with CARE in Thailand. Prior to 1986, Ms.
+Mason worked as a management consultant with Booz, Allen and Hamilton. Ms. Mason
+also is a director of The Horizons Initiative and the Globe Newspaper Company, a
+subsidiary of The New York Times Company which owns and publishes The Boston
+Globe, is a Fellow of the Yale Corporation and serves on the Advisory Board of
+the Yale University School of Management. Ms. Mason is the wife of Roger H.
+Brown.
+
+Mary Ann Tocio, 52 - President and Chief Operating Officer. Ms. Tocio has served
+as Chief Operating Officer of the Company since the Merger and was appointed
+President in June 2000. Ms. Tocio joined BRHZ in 1992 as Vice President and
+General Manager of Child Care Operations. She was appointed Chief Operating
+Officer of BRHZ in November 1993, and remained as such until the Merger. From
+1983 to 1992, Ms. Tocio held several positions with Wellesley Medical
+Management, Inc., including Senior Vice President of Operations, where she
+managed more than 100 ambulatory care centers nationwide. Prior to that time,
+Ms. Tocio held various management positions with several Boston-area hospitals.
+Ms. Tocio is also a director of Zany Brainy, Inc. a specialty retailer of high
+quality educational products for children.
+
+Elizabeth J. Boland, 41 -- Chief Financial Officer and Treasurer. Ms. Boland
+joined BRHZ in 1997 and served as Chief Financial Officer until the Merger at
+which point she served as Senior Vice President of Finance for the Company. Ms.
+Boland has served as Chief Financial Officer of the Company since June 1999.
+From 1994 to 1997, Ms. Boland was Chief Financial Officer of The Visionaries,
+Inc., an independent television production company. From 1990 to 1994, Ms.
+Boland served as Vice President-Finance for Olsten Corporation, a publicly
+traded provider of home-health care and temporary staffing services. From 1981
+to 1990, she worked on the audit staff at Price Waterhouse LLP in Boston,
+completing her tenure as a senior audit manager. Ms. Boland is a graduate of the
+University of Notre Dame.
+
+Stephen I. Dreier, 58 -- Chief Administrative Officer and Secretary. Mr. Dreier
+has served as Chief Administrative Officer and Secretary of the Company since
+the Merger. He joined BRHZ as Vice President and Chief Financial
+
+ 12
+ 15
+Officer in 1988 and became its Secretary in November 1988 and Treasurer in
+September 1994. Mr. Dreier served as BRHZ's Chief Financial Officer and
+Treasurer until September 1997, at which time he was appointed to the position
+of Chief Administrative Officer, a position which he held until the Merger. From
+1976 to 1988, Mr. Dreier was Senior Vice President of Finance and Administration
+for the John S. Cheever/Paperama Company. Prior to that time, Mr. Dreier served
+as Manager of Financial Control for the Westinghouse Worldwide Construction
+Product Group.
+
+David Lissy, 35 -- Chief Development Officer and Executive Vice President. Mr.
+Lissy has served as Chief Development Officer of the Company since the Merger,
+and was appointed Executive Vice President in June 2000. He joined BRHZ as Vice
+President of Development in September 1997. Prior to joining the Company, Mr.
+Lissy served as Senior Vice President/General Manager at Aetna/U.S. Healthcare,
+the employee benefits division of Aetna, Inc., in the Northern New England
+region. Prior to that role, Mr. Lissy was Vice President of Sales and Marketing
+for U.S. Healthcare and had been with U.S. Healthcare in various sales and
+management roles since 1987. Mr. Lissy is a graduate of Ithaca College.
+
+ITEM 2. PROPERTIES
+
+The following table summarizes the locations of Bright Horizons Family
+Solutions' family centers as of December 31, 2000:
+
+Alabama 1 Nevada 4
+Arizona 4 New Hampshire 2
+California 27 New Jersey 23
+Colorado 1 New York 14
+Connecticut 18 North Carolina 23
+Delaware 7 Ohio 3
+District of Columbia 5 Pennsylvania 11
+Florida 25 Rhode Island 2
+Georgia 8 South Carolina 2
+Illinois 31 South Dakota 1
+Indiana 8 Tennessee 7
+Iowa 5 Texas 16
+Kentucky 2 Utah 1
+Maine 3 Virginia 6
+Maryland 7 Washington 13
+Massachusetts 36 Wisconsin 7
+Michigan 3 Guam 3
+Missouri 4 United Kingdom 9
+Nebraska 1 Ireland 2
+
+As of December 31, 2000, Bright Horizons Family Solutions operated 345 centers
+in 34 states and the District of Columbia, Guam, the United Kingdom and Ireland,
+of which twenty were owned and the remaining were operated under leases or
+operating agreements. The Company's owned family centers located in Tempe,
+Arizona; San Jose, California; Glastonbury and Orange, Connecticut; Tampa,
+Florida; Alpharetta, Georgia; Quincy, Massachusetts; White Plains, New York;
+Raleigh/Durham, North Carolina; Austin, Texas and Bellevue, Washington are not
+currently encumbered by mortgages. The leases typically have terms ranging from
+five to twenty years with various expiration dates, often with renewal options,
+with most leases having an initial term of five to ten years. Some of the leases
+provide for contingent payments if the center's operating revenues, profits or
+enrollment exceed a specified level.
+
+Bright Horizons Family Solutions leases approximately 43,000 square, for its
+corporate offices in Watertown, Massachusetts under an operating lease that
+expires in 2010. The company subleases approximately 16,000 square feet of this
+facility to third parties. The Company also has operating leases with terms that
+expire from October 2001 to March 2006 on approximately 24,000 square feet for
+administrative offices in California, Florida, Illinois, Maryland, New Jersey,
+Tennessee, Texas, Washington and London, England. The Company is also party to a
+lease
+
+ 13
+ 16
+on approximately 10,000 square feet in Cambridge, Massachusetts that expires in
+August 2002 that is subleased to a third party.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+The Company is, from time to time, subject to claims and suits arising in the
+ordinary course of its business. Such claims have, in the past, generally been
+covered by insurance. Management believes the resolution of other legal matters
+will not have a material effect on the Company's financial condition or results
+of operations, although no assurance can be given with respect to the ultimate
+outcome of any such actions. Furthermore, there can be no assurance that the
+Company's insurance will be adequate to cover all liabilities that may arise out
+of claims brought against the Company.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+No matters were submitted to a vote of the Company's stockholders during the
+fourth quarter of fiscal year 2000.
+ 14
+ 17
+
+PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+The Company's Common Stock is traded on the Nasdaq National Market under the
+symbol "BFAM." The table below sets forth the high and low quarterly sales
+prices for the Company's Common Stock as reported in published financial sources
+for each quarter during the last two years:
+
+ Price Range of Common Stock
+
+2000 1999
+ ---- ----
+ High Low High Low
+ 
+Fourth Quarter 30 1/4 20 1/8 20 1/8 12 1/2
+Third Quarter 30 -- 19 1/2 20 1/4 13 7/8
+Second Quarter 22 -- 16 1/4 23 3/8 14 11/16
+First Quarter 23 1/8 15 3/8 28 5/8 16 3/4
+
+The Company has never declared or paid any cash dividends on its Common Stock.
+The Company currently intends to retain all earnings to support operations and
+to finance expansion of its business; therefore, the Company does not anticipate
+paying any cash dividends on its Common Stock in the foreseeable future. Any
+future decision concerning the payment of dividends on the Company's Common
+Stock will be at the Board of Directors' discretion and will depend upon
+earnings, financial condition, capital needs and other factors deemed pertinent
+by the Board of Directors. In addition, the Company may be restricted in the
+payment of dividends pursuant to a credit facility.
+
+The number of stockholders of record at March 15, 2001 was 143, and does not
+include those stockholders who hold shares in street name accounts.
+ 15
+ 18
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+BRHZ operated on a fiscal year ended June 30. CFAM had a fiscal year ending on
+the Friday closest to December 31. The Company operates on a calendar year. The
+following financial information has been compiled from the Company's
+consolidated financial statements, which combine financial position and
+operating results as of and for the years ended December 31, 2000 ("Fiscal Year
+2000"), December 31, 1999 ("Fiscal Year 1999"), December 31, 1998 ("Fiscal Year
+1998"), December 31, 1997 and January 2, 1998 ("Fiscal Year 1997") for BRHZ and
+CFAM, respectively, and June 30, 1996 and December 27, 1996 ("Fiscal Year 1996")
+for BRHZ and CFAM, respectively.
+
+Due to the different fiscal year ends, BRHZ's results of operations for the six
+month period ended December 31, 1996 are not included in the restated financial
+statements for Fiscal Years 1997 or 1996. For this period, BRHZ had revenues of
+ 40 million, net income of 407,000 and total changes in common stockholders'
+equity of 137,000).
+
+2000(1) 1999 1998(2) 1997 1996(3)
+ --------- -------- -------- -------- ---------
+ 
+Statement of income data
+ (in thousands except per share amounts):
+ Revenue 291,143 243,290 209,372 172,555 127,107
+ Operating income 16,446 12,843 8,737 5,048 2,430
+ Income before taxes 15,772 13,558 2,447 5,004 1,893
+ Net income before preferred stock
+ dividends and accretion on
+ redeemable preferred stock 9,212 7,927 474 2,761 4,057
+ Net income available to common
+ stockholders 9,212 7,927 474 1,844 2,930
+ Diluted earnings per share 0.74 0.63 0.04 0.30 0.66
+ Weighted average diluted shares
+ outstanding 12,522 12,586 12,411 9,293 4,502
+
+Financial position at fiscal year end
+ (in thousands except per share amounts):
+ Working capital (deficit) (6,265) 3,342 12,040 18,005 4,137
+ Total assets 136,895 107,073 91,463 76,842 44,816
+ Long-term debt, including current
+ maturities 581 687 685 783 9,648
+ Common stockholders' equity (deficit) 75,283 62,286 53,380 46,663 (8,720)
+ Dividends per common share -- -- -- -- --
+
+Operating data at fiscal year end
+ Family centers managed 345 300 274 245 215
+ Licensed capacity 43,069 37,150 34,377 30,232 25,448
+
+(1)The Company recognized a non-recurring charge of 704,000 in connection with
+a writedown in the value of certain equity investments made by the Company.
+
+(2)The Company recognized merger costs of 7.5 million related to the Merger of
+BRHZ and CFAM. As a result of the non-deductibility of certain transaction costs
+associated with the Merger, the Company recognized tax expense of 2.0 million.
+
+(3)The Company recognized an income tax benefit of 2.0 million principally the
+result of net reductions in valuation allowances for deferred tax assets.
+
+ 16
+ 19
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+ OF OPERATIONS
+
+ This Form 10-K contains certain forward-looking statements regarding, among
+ other things, the anticipated financial and operating results of the
+ Company. Investors are cautioned not to place undue reliance on these
+ forward-looking statements, which speak only as of the date hereof. The
+ Company undertakes no obligation to publicly release any modifications or
+ revisions to these forward-looking statements to reflect events or
+ circumstances occurring after the date hereof or to reflect the occurrence
+ of unanticipated events. In connection with the "safe harbor" provisions of
+ the Private Securities Litigation Reform Act of 1995, the Company cautions
+ investors that actual financial and operating results may differ materially
+ from those projected in forward-looking statements made by, or on behalf
+ of, the Company. Such forward-looking statements involve known and unknown
+ risks, uncertainties, and other factors that may cause the actual results,
+ performance, or achievements of the Company to be materially different from
+ any future results, performance, or achievements expressed or implied by
+ such forward-looking statements. See "Risk Factors" above for a description
+ of a number of risks and uncertainties which could affect actual results.
+
+ GENERAL
+
+ Bright Horizons Family Solutions is a leading national provider of
+ workplace services for employers and families, including child care, early
+ education and strategic work/life consulting. As of December 31, 2000, the
+ Company managed 345 family centers, with over 60 family centers under
+ development. The Company has the capacity to serve more than 43,000
+ children in 34 states, the District of Columbia, Guam, the United Kingdom
+ and Ireland and has partnerships with many of the nation's leading
+ employers, including 80 Fortune 500 companies and 44 of Working Mother
+ Magazine's "100 Best Companies for Working Mothers" in 2000. The Company
+ seeks to cluster centers in geographic areas to enhance operating
+ efficiencies and to create a leading market presence.
+
+ The Company, a Delaware corporation, was formed as a result of the Merger,
+ by and among the Company, BRHZ and CFAM, which was approved by the
+ shareholders of BRHZ and CFAM on July 24, 1998. Each issued and outstanding
+ share of BRHZ common stock was converted into 1.15022 shares of the
+ Company's Common Stock, and each issued and outstanding share of CFAM
+ common stock was converted into one share of Common Stock. Each outstanding
+ option of BRHZ and CFAM was converted into an option to purchase shares of
+ Common Stock at the same conversion ratios referenced above. The
+ transaction was accounted for as a pooling of interests and tax-free
+ reorganization. All historical equity amounts have been restated to reflect
+ the respective exchange ratios, and certain reclassifications have been
+ made for consistent presentation, which had no effect on net income.
+
+ In April 2000 the Company assumed the operation of three child care centers
+ for the U.S. Navy in Guam. Additionally, in May 2000 the Company acquired
+ Nurseryworks Limited, based in London, England, which operates nine child
+ care centers in the greater London area. Finally, in December 2000 the
+ Company acquired Circle of Friends, based in Ireland, which operates two
+ child care centers. The operations of the Company's non-domestic child care
+ centers are not material to the Company's operating results, financial
+ position or cash flows.
+
+ Center Economics. The Company's revenue is principally derived from the
+ operation of family centers, and to a lesser extent, other services
+ including consulting services. Family center revenues consist of parent
+ fees for tuition, amounts paid or contributed by sponsors to fund a portion
+ of a family center's operating costs, and management fees paid by client
+ sponsors. Revenue growth has primarily resulted from the addition of new
+ family centers as well as increased enrollment and tuition and expanded
+ programs at existing family centers. Parent fees comprise the largest
+ component of a center's revenue and are billed on a monthly or weekly
+ basis, payable in advance. The parent fees are generally comparable to or
+ slightly higher than prevailing area market rates for tuition. Amounts paid
+ by sponsor clients are payable monthly and may be dependent on a number of
+ factors such as enrollment, the center's operating costs, budgeted amounts,
+ and the extent to which the sponsor wishes to subsidize parent fees.
+ Management fees are generally fixed and payable monthly. Although the
+
+ 17
+ 20
+ specifics of the Company's sponsorship arrangements vary widely, there are
+ two basic forms, the sponsor model and the management model.
+
+ The Company employs the sponsor model in approximately 60 of its family
+ center sites. Under the sponsor model, a family center is operated at or
+ near the sponsor's work site. The Company retains profit-and-loss
+ responsibility for the operation of the family center, and, as part of the
+ arrangement, may receive financial support from the sponsor. Client support
+ can take various forms, including reduced occupancy costs,
+ tuition-assistance and start-up and/or operating cost assistance. Newly
+ opened sponsored centers generally operate at a loss until utilization
+ levels reach approximately 55 , which typically occurs within 6 to 18
+ months of operation. In exchange for client sponsorship, the Company gives
+ priority enrollment to the children of employees or tenants affiliated with
+ the sponsor.
+
+ Under the management model, which comprises approximately 40 of the
+ Company's operating sites, the Company operates a family center under a
+ cost-plus agreement. These contracts generally include a management fee and
+ require that the sponsor provide an operating subsidy for operating
+ expenses in excess of parent fees or tuition within an agreed upon budget.
+ Therefore, the Company does not sustain pre-opening or initial operating
+ losses under the management model. The management model centers experience
+ slightly lower operating margins than the sponsor model centers at full
+ maturity.
+
+ Under the sponsor model, the tuition paid by parents is supplemented in
+ some cases by direct payments from sponsors and, to a far lesser extent,
+ direct payment from government agencies. Under the management model, in
+ addition to parent tuition, revenue also includes management fees and
+ operating subsidies. Tuition, management fees and fees for priority
+ enrollment rights paid in advance are recorded as deferred revenue and are
+ recognized as earned.
+
+ In centers operating under the sponsor model, the Company may be required
+ to make capital expenditures necessary to initially fit out, equip and
+ furnish the family centers, as well as make similar expenditures to
+ refurbish and maintain existing centers. While sponsors generally provide
+ for the space or construction of the family center, the Company may pay for
+ leasehold improvements or construction costs. The Company may make capital
+ investments when it is able to obtain favorable purchase terms or when a
+ sponsor agrees to pay fees in advance for long-term priority enrollment
+ rights in the center, or for other guarantees.
+
+ In centers operating under the management model, the sponsor typically
+ provides for all costs associated with building, fitting out, equipping,
+ furnishing and supplying the family center. The sponsor is also typically
+ responsible for ongoing occupancy and maintenance costs.
+
+ In addition to the sponsor and management models, the Company may establish
+ a center in instances where it has been unable to cultivate sponsorship, or
+ sponsorship opportunities do not currently exist. In these instances the
+ Company will typically lease space in locations where experience and
+ demographics indicate that demand for the Company's services exist. These
+ centers typically operate at a loss until utilization levels reach
+ approximately 60 , which typically occurs within 12 to 24 months of
+ operation.
+
+ Cost of services expenses consist of direct expenses associated with the
+ operation of family centers and with the delivery of consulting services.
+ Family center cost of services consist primarily of staff salaries, taxes
+ and benefits; food costs; program supplies and materials; parent marketing;
+ and occupancy costs. Personnel costs are the largest component of a family
+ center's operating costs, and comprise approximately 80 of a family
+ center's operating expenses. However, personnel costs will be
+ proportionately larger in family centers operating under the management
+ model and proportionally lower in family centers operating under the
+ sponsor model. Consulting cost of services are comprised primarily of staff
+ salaries, taxes and benefits; contract labor; and other direct operating
+ expenses.
+
+ Selling, general and administrative expenses are comprised primarily of
+ salaries, taxes and benefits for non-center personnel, including corporate,
+ regional and business development personnel; accounting and legal fees;
+ information technology; occupancy costs for corporate and regional
+ personnel and other general corporate expenses.
+
+ 18
+ 21
+ Amortization expense is being recognized over the period benefited by
+ certain intangible assets, which include goodwill, non-compete agreements
+ and contract rights associated with acquisitions made by the Company.
+
+ New Centers. In Fiscal Year 2000, the Company added 54 new family centers,
+ 30 of which are operating under the sponsor model and 24 of which are
+ operating under the management model. In the same period, the Company
+ closed 9 centers that were either not meeting operating objectives or
+ transitioned to other service providers. The Company currently has over 60
+ centers under development, scheduled to open over the next 12 to 24 months.
+ The opening of new centers is subject to a number of conditions and
+ factors, including, among others, construction timing, sponsor needs and
+ weather conditions.
+
+ Seasonality. The Company's business is subject to seasonal and quarterly
+ fluctuations. Demand for child care and early education services has
+ historically decreased during the summer months. During this season,
+ families are often on vacation or have alternative child care arrangements.
+ Demand for the Company's services generally increases in September upon the
+ beginning of the new school year and remains relatively stable throughout
+ the rest of the school year. Results of operations may also fluctuate from
+ quarter to quarter as a result of, among other things, the performance of
+ existing centers including enrollment and staffing fluctuations, the number
+ and timing of new center openings and/or acquisitions, the length of time
+ required for new centers to achieve profitability, center closings,
+ refurbishment or relocation, the model mix (sponsor vs. management) of new
+ and existing centers, the timing and level of sponsorship payments,
+ competitive factors and general economic conditions.
+
+ RESULTS OF OPERATIONS
+
+ The following financial information has been compiled from the Company's
+ consolidated financial statements, which combine financial position and
+ operating results as of and for the years ended December 31, 2000 ("Fiscal
+ Year 2000"), December 31, 1999 ("Fiscal Year 1999") and December 31, 1998
+ ("Fiscal Year 1998").
+
+ The following table sets forth statement of income data as a percentage of
+ revenue for the Fiscal Years 2000, 1999, and 1998:
+
+Fiscal Year Fiscal Year Fiscal Year
+ 2000 1999 1998
+ 
+Revenue 100.0 100.0 100.0 
+Cost of services 85.3 85.8 86.3
+ ------ ------ ------
+ Gross profit 14.7 14.2 13.7
+Selling, general and administrative 8.4 8.6 9.1
+Amortization 0.7 0.3 0.4
+ ------ ------ ------
+ Income from operations 5.6 5.3 4.2
+Other charges (0.2) -- (3.6)
+Net interest income -- 0.3 0.6
+ ------ ------ ------
+Income before income taxes 5.4 5.6 1.2
+Income tax expense 2.2 2.3 1.0
+ ------ ------ ------
+Net income 3.2 3.3 0.2 
+ ====== ====== ======
+
+Fiscal Year 2000 Compared To Fiscal Year 1999
+
+ Revenue. Revenue increased 47.8 million, or 19.7 , to 291.1 million for
+ Fiscal Year 2000 from 243.3 million for Fiscal Year 1999. At December 31,
+ 2000, the Company operated 345 family centers, as compared with 300 at
+ December 31,1999, a net increase of 45 family centers. Growth in revenues
+ is primarily attributable to the net addition of new family centers,
+ maturation of existing family centers, modest growth in the existing base
+ of family centers and tuition increases of approximately 4 to 6 .
+
+ 19
+ 22
+
+ Gross Profit. Gross profit increased 8.0 million, or 23.3 , to 42.7
+ million for Fiscal Year 2000 from 34.7 million for Fiscal Year 1999. The
+ increase in gross profit as a percentage of revenue, to 14.7 for Fiscal
+ Year 2000 from 14.2 for Fiscal Year 1999, is attributable to the higher
+ proportion of centers operating as mature, stabilized facilities. This
+ improvement in centers open greater than two years was partially offset by
+ lower margins in centers that were open less than two years compared to
+ centers at this maturity stage in Fiscal Year 1999, due largely to a
+ greater number of sponsor model centers, which incur losses during the ramp
+ up stage.
+
+ Selling, General and Administrative Expenses. Selling, general and
+ administrative expenses increased 3.5 million, or 16.7 , to 24.4 million
+ for Fiscal Year 2000 from 20.9 million for Fiscal Year 1999. The decrease
+ as a percentage of revenue to 8.4 in Fiscal Year 2000 from 8.6 in Fiscal
+ Year 1999 relates to a larger revenue base and increased overhead
+ efficiencies. The dollar increase is primarily attributable to investments
+ in regional management, sales personnel and operations personnel necessary
+ to support long-term growth, as well as selling, general and administrative
+ expenses associated with expansion in the United Kingdom and Ireland.
+
+ Income from Operations. Income from operations totaled 16.4 million for
+ Fiscal Year 2000, as compared with income from operations of 12.8 million
+ for Fiscal Year 1999. Operating income for Fiscal Year 2000 increased by
+ 3.6 million, or 28.1 , from Fiscal Year 1999.
+
+ Other Charges. In Fiscal Year 2000 the Company recognized a charge of
+ 704,000 412,000 after tax) in connection with a writedown in the value
+ of certain equity investments made by the Company.
+
+ Net Interest Income. Net interest income in Fiscal Year 2000 totaled
+ 30,000 as compared to 715,000 for Fiscal Year 1999. The decrease in net
+ interest income is attributable to lower levels of invested cash and to
+ borrowing under the line of credit.
+
+ Income Tax Expense. The Company had an effective tax rate of 41.6 in
+ Fiscal Year 2000. In Fiscal Year 1999 the effective tax rate was 41.5 .
+ Management expects the effective rate for 2001 to be consistent with the
+ past two years.
+
+ Fiscal Year 1999 Compared To Fiscal Year 1998
+
+ Revenue. Revenue increased 33.9 million, or 16.2 , to 243.3 million for
+ Fiscal Year 1999 from 209.4 million for Fiscal Year 1998. At December 31,
+ 1999, the Company operated 300 family centers, as compared with 274 at
+ December 31,1998, a net increase of 26 family centers. Growth in revenues
+ is primarily attributable to the net addition of new family centers,
+ maturation of existing family centers, modest growth in the existing base
+ of family centers and tuition increases of approximately 4 to 5 .
+
+ Gross Profit. Gross profit increased 6.1 million, or 21.2 , to 34.7
+ million for Fiscal Year 1999 from 28.6 million for Fiscal Year 1998. The
+ increase in gross profit as a percentage of revenue, to 14.2 for Fiscal
+ Year 1999 from 13.7 for Fiscal Year 1998, is attributable to the higher
+ proportion of centers operating as mature, stabilized facilities,
+ improvements in operating efficiencies, and the closure of centers in 1999
+ that were underperforming. Gross profit also improved as a result of strong
+ enrollment in family centers open less than two years, as well as better
+ operating results at the Company's new centers as compared to those centers
+ opened in 1998.
+
+ Selling, General and Administrative Expenses. Selling, general and
+ administrative expenses increased 1.9 million, or 10.2 , to 20.9 million
+ for Fiscal Year 1999 from 19.0 million for Fiscal Year 1998. The decrease
+ as a percentage of revenue to 8.6 in Fiscal Year 1999 from 9.1 in Fiscal
+ Year 1998 relates to a larger revenue base and increased overhead
+ efficiencies. The dollar increase is primarily attributable to investments
+ in regional management, sales personnel, information systems and
+ communications personnel necessary to support long-term growth.
+
+ Income from Operations. Income from operations totaled 12.8 million for
+ Fiscal Year 1999, as compared with income from operations of 8.7 million
+ for Fiscal Year 1998. Operating income for Fiscal Year 1999 increased by
+ 4.1 million, or 47.0 , from Fiscal Year 1998.
+
+ 20
+ 23
+ Other Charges. In connection with the Merger in Fiscal Year 1998, the
+ Company recognized a charge of 7.5 million 5.4 million after tax) which
+ included transaction costs of 2.8 million, non-cash asset impairment
+ charges of 1.4 million, severance costs of 0.5 million and one-time
+ incremental integration costs directly related to the Merger totaling 2.8
+ million.
+
+ Net Interest Income. Net interest income in Fiscal Year 1999 totaled
+ 700,000 as compared to 1.2 million for Fiscal Year 1998. The decrease in
+ net interest income is attributable to lower levels of invested cash.
+
+ Income Tax Expense. The Company had an effective tax rate of 41.5 in
+ Fiscal Year 1999. As a result of the non-deductibility of certain
+ transaction costs associated with the Merger, the Company had an effective
+ tax rate of 81 for Fiscal Year 1998. Excluding the effects of these
+ non-deductible expenses, the effective tax rate would have approximated 41 
+ for Fiscal Year 1998.
+
+ LIQUIDITY AND CAPITAL RESOURCES
+
+ The Company's primary cash requirements are the ongoing operations of its
+ existing family centers and the addition of new centers through development
+ or acquisition. The Company's primary source of liquidity has been from
+ existing cash balances and cash flow from operations, supplemented by
+ borrowings available under the Company's various credit arrangements. The
+ Company had a working capital deficit of 6.3 million at December 31, 2000
+ and working capital of 3.3 million at December 31, 1999.
+
+ Cash provided by operating activities was 17.0 million, 15.2 million and
+ 9.1 million for Fiscal Years 2000, 1999 and 1998, respectively. The
+ increase of 1.8 million in cash provided by operating activities in Fiscal
+ Year 2000 was primarily the result of an in increase in net income before
+ depreciation and amortization of 3.9 million. Additionally, operating cash
+ flow increased as the result of 3.2 million of deferred revenue as
+ compared to 2.0 million of deferred revenue in Fiscal Year 1999 as well as
+ an increase in accounts payable and accrued expenses. These amounts were
+ offset by an increase in accounts receivable. The increase of 6.1 million
+ in cash provided by operating activities in Fiscal Year 1999 as compared to
+ Fiscal Year 1998 was primarily the result of an increase in net income
+ before depreciation and amortization of 8.4 million. In addition, the
+ Company was able to utilize existing prepaid income taxes and deferred tax
+ assets against current year obligations to provide additional cash from
+ operating activities. These amounts were offset by an increase in accounts
+ receivable, prepaid expenses and other current assets, and a smaller
+ increase in accrued expenses and accounts payable than had been experienced
+ in Fiscal Year 1998. The increase in deferred revenue of 3.2 million and
+ 2.0 million in Fiscal Years 2000 and 1999, respectively, was associated
+ with (i) fees paid in advance for long-term priority enrollment rights in
+ certain centers and (ii) parent tuition paid in advance.
+
+ Cash used in investing activities increased to 28.3 million for Fiscal
+ Year 2000 from 20.4 million for Fiscal Year 1999 and 17.2 million for
+ Fiscal Year 1998, principally due to 19.7 million of fixed asset additions
+ and leasehold improvements, as compared to 18.1 million and 13.7 million
+ of fixed asset additions and leasehold improvements in Fiscal Years 1999
+ and 1998, respectively. Of the 19.7 million of fixed asset additions in
+ Fiscal Year 2000, approximately 12.8 million relate to new family centers;
+ of the remainder, approximately 3.7 million relates to the refurbishment
+ and expansion of existing family centers, with the balance expended for
+ office expansion and investment in information technology in corporate,
+ regional and district offices, including the relocation of the Company's
+ corporate offices. Management expects to maintain, or increase slightly,
+ the current level of center related fixed asset spending through 2001. The
+ Company also made several acquisitions of child care centers for cash
+ payments totaling 8.2 million, 2.0 million and 3.6 million in Fiscal
+ Years 2000, 1999 and 1998, respectively.
+
+ Cash provided by financing activities totaled 7.2 million in Fiscal Year
+ 2000, as compared to cash used by financing activities of 2.5 million in
+ 1999. The increase was primarily the result of net borrowings of 4.8
+ million under its 40.0 million line of credit which was executed March 30,
+ 2000. In Fiscal Year 1999 cash used by financing activities was primarily
+ the result of the Company's repurchase of 495,000 shares of its Common
+ Stock at a cost of 7.1 million. During Fiscal Years 2000, 1999 and 1998,
+ the Company received 2.6, 5.1 and 4.4 million, respectively, in net
+ proceeds from the issuance of Common Stock associated with the exercise of
+ stock options and warrants. In Fiscal Year 1998 these proceeds were
+ partially offset by the repurchase of shares of the Company's Common Stock,
+ which were subsequently reissued to fulfill warrant and stock option
+ exercises.
+
+ 21
+ 24
+
+ On July 20, 1999, the Board of Directors approved a plan to repurchase up
+ to 500,000 shares of the Company's Common Stock, which was subsequently
+ increased to a total of 1,250,000 shares on October 20, 1999. At December
+ 31, 2000 the Company had repurchased 495,000 shares for a total of 7.1
+ million. Share repurchases under the stock repurchase program will be made
+ from time to time with the Company's cash in accordance with applicable
+ securities regulations in open market or privately negotiated transactions.
+ The actual number of shares purchased and cash used, as well as the timing
+ of purchases and the prices paid, will depend on future market conditions.
+
+ The Company considers all highly liquid investments with an original
+ maturity of three months or less to be cash equivalents. Cash equivalents
+ consist primarily of high quality commercial paper and institutional money
+ market accounts. The carrying value of these instruments approximates
+ market value due to their short maturities.
+
+ Management believes that funds provided by operations and the Company's
+ existing cash and cash equivalent balances and borrowings available under
+ lines of credit will be adequate to meet planned operating and capital
+ expenditure needs for at least the next 18 months. However, if the Company
+ were to make any significant acquisitions or make significant investments
+ in the purchase of facilities for new or existing family centers, it may be
+ necessary for the Company to obtain additional debt or equity financing.
+ There can be no assurance that the Company would be able to obtain such
+ financing on reasonable terms, if at all.
+
+ NEW PRONOUNCEMENTS
+
+ In June 1998, the Financial Accounting Standards Board (FASB) issued SFAS
+ No. 133, Accounting for Derivative Instruments and Hedging Activities. SFAS
+ No. 133 establishes accounting and reporting standards for derivative
+ instruments and hedging activities. SFAS No. 133, as amended by SFAS No.
+ 137 and SFAS No. 138, will be effective for the Company's financial
+ reporting beginning in the first quarter of fiscal 2001. SFAS No. 133 will
+ require the Company to recognize all derivatives as either assets or
+ liabilities in the statement of financial position and measure those
+ instruments at fair value. The accounting for gains and losses from changes
+ in the fair value of a particular derivative will depend on the intended
+ use of the derivative. The Company does not expect the adoption of SFAS No.
+ 133 to have a material impact on the results of its operations or financial
+ position.
+
+ In March 2000, the FASB issued Interpretation No. 44, "Accounting for
+ Certain Transactions Involving Stock Compensation -- An Interpretation of
+ APB Opinion No. 25". This interpretation provides guidance on the
+ application of Accounting Principles Board (APB) Opinion No. 25,
+ "Accounting for Stock Issued to Employees", including (i) the definition of
+ an employee, (ii) the criteria for determining whether a plan qualifies as
+ a noncompensatory plan, (iii) the accounting consequence of various
+ modifications to the terms of a previously fixed stock option or award and
+ (iv) the accounting for an exchange of stock compensation awards in a
+ business combination. The interpretation is effective July 1, 2000 and the
+ effects of applying the interpretation are recognized on a prospective
+ basis. The adoption of this interpretation did not have a material impact
+ on the Company's results of operations or financial condition.
+
+ In September 2000, the FASB issued SFAS No. 140, "Accounting for Transfers
+ and Servicing of Financial Assets and Extinguishments of Liabilities", a
+ replacement of SFAS No. 125. This statement provides accounting and
+ reporting standards for transfers and servicing of financial assets and
+ extinguishments of liabilities. The statement provides consistent standards
+ for distinguishing transfers of financial assets that are sales from
+ transfers that are secured borrowings. The statement is effective for
+ transfers and servicing of financial assets and extinguishments of
+ liabilities occurring after March 31, 2001. The statement is effective for
+ recognition and reclassification of collateral and for disclosures relating
+ to securitization transactions and collateral for fiscal years ending after
+ December 15, 2000. The Company does not expect the adoption of SFAS No. 140
+ to have a material impact on the results of its operations or financial
+ position.
+
+22
+ 25
+
+MARKET RISK
+
+ Foreign Currency Risk. The Company's exposure to fluctuations in foreign
+ currency exchange rates is primarily the result of foreign subsidiaries
+ domiciled in the United Kingdom and Ireland. The Company does not currently
+ use financial derivative instruments to hedge foreign currency exchange
+ rate risks associated with its European subsidiaries.
+
+ The assets and liabilities of the Company's United Kingdom and Irish
+ subsidiaries, whose functional currencies are the British pound and Irish
+ pound, respectively, are translated into U.S. dollars at exchange rates in
+ effect at the balance sheet date. Income and expense items are translated
+ at the average exchange rates prevailing during the period. The cumulative
+ translation effects for the subsidiaries are included in cumulative
+ translation adjustment in stockholders' equity.
+
+ The operations of the Company's United Kingdom and Irish subsidiaries are
+ not material to the Company's consolidated results of operations;
+ therefore, the impact of a 10 change in the exchange rate would not have a
+ significant impact on the Company's results of operations or financial
+ position.
+
+ Interest Rate Risk. As of December 31, 2000, the Company's investment
+ portfolio consisted of institutional money market funds, which due to their
+ short maturities are considered cash equivalents. The Company's primary
+ objective with its investment portfolio is to invest available cash while
+ preserving principal and meeting liquidity needs. These investments, which
+ approximate 5.4 million, have an average interest rate of approximately
+ 5.5 and are subject to interest rate risk. Due to the average maturity and
+ conservative nature of the investment portfolio, a sudden change in
+ interest rates would not have a material effect on the value of the
+ portfolio. Management estimates that had the average yield of the Company's
+ investments decreased by 100 basis points in Fiscal Year 2000, the
+ Company's interest income for the year ended December 31, 2000 would have
+ decreased by approximately 54,000. This estimate assumes that the decrease
+ would have occurred on the first day of 2000 and reduced the yield of each
+ investment instrument by 100 basis points. The impact on the Company's
+ future interest income as a result of future changes in investment yields
+ will depend largely on the gross amount of the Company's investments.
+
+ The Company is also subject to interest rate risk under the terms of its
+ various lines of credit, which have variable rates of interest. The impact
+ on the Company's future interest expense as a result of future changes in
+ interest rates will depend largely on the gross amount of the Company's
+ borrowings. Management estimates that had the average interest rate
+ incurred on the Company's average borrowings under its lines of credit
+ increased by 100 basis points in Fiscal Year 2000, the Company's interest
+ expense for the year ended December 31, 2000 would have increased by
+ approximately 20,000. This estimate assumes that the increase would have
+ occurred on the first day of borrowings and increased the rate charged by
+ 100 basis points.
+
+ INFLATION
+
+ The Company does not believe that inflation has had a material effect on
+ its results of operation. There can be no assurance, however, that the
+ Company's business will not be affected by inflation in the future.
+
+ ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+ The Company holds no market risk sensitive trading instruments, for trading
+ purposes or otherwise. For a discussion of the Company's exposure to market
+ risk, see "Item 7: Management's Discussion and Analysis of Financial
+ Condition and Results of Operations - Market Risk."
+
+23
+ 26
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+ REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+To Bright Horizons Family Solutions, Inc.:
+
+We have audited the accompanying consolidated balance sheets of Bright Horizons
+Family Solutions, Inc. (a Delaware corporation) as of December 31, 2000 and 1999
+and the related consolidated statements of income, changes in stockholders'
+equity and cash flows for the three years in the period ended December 31, 2000.
+These financial statements are the responsibility of the Company's management.
+Our responsibility is to express an opinion on these financial statements based
+on our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States. Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant estimates
+made by management, as well as evaluating the overall financial statement
+presentation. We believe that our audits provide a reasonable basis for our
+opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of Bright Horizons Family
+Solutions, Inc. as of December 31, 2000 and 1999 and the results of its
+operations and its cash flows for each of the three years in the period ended
+December 31, 2000 in conformity with accounting principles generally accepted in
+the United States.
+
+/s/ Arthur Andersen LLP
+- ------------------------
+Boston, Massachusetts
+February 8, 2001
+
+24
+ 27
+ Bright Horizons Family Solutions, Inc.
+ Consolidated Balance Sheets
+ (in thousands, except share data)
+
+December 31,
+ 2000 1999
+ 
+Assets
+Current Assets:
+ Cash and cash equivalents 8,599 12,752
+ Accounts receivable, net of allowance for doubtful
+ accounts of 1,477 and 1,290, respectively 23,945 17,858
+ Prepaid expenses and other current assets 3,508 2,251
+ Current deferred tax asset 5,297 4,966
+ ----------- ----------
+ Total current assets 41,349 37,827
+
+Fixed assets, net 64,433 48,437
+Goodwill and other intangibles, net 24,256 15,909
+Noncurrent deferred tax asset 6,151 4,192
+Other assets 706 708
+ ----------- ----------
+ Total assets 136,895 107,073
+ =========== ==========
+Liabilities and Stockholders' Equity
+Current liabilities:
+ Lines of credit and short term debt 6,319 --
+ Current portion of long-term debt and obligations
+ due under capital leases 156 172
+ Accounts payable and accrued expenses 28,007 23,017
+ Deferred revenue, current portion 10,720 9,462
+ Income taxes payable 540 780
+ Other current liabilities 1,872 1,054
+ ----------- ----------
+ Total current liabilities 47,614 34,485
+
+Long-term debt and obligations due under capital
+ leases, net of current portion 425 515
+Accrued rent 1,744 1,400
+Other long-term liabilities 3,358 2,692
+Deferred revenue, net of current portion 8,471 5,695
+ ----------- ----------
+ Total liabilities 61,612 44,787
+ ----------- ----------
+
+Commitments and contingencies (Note 12)
+
+Stockholders' equity:
+ Common Stock 0.01 par value
+ Authorized: 30,000,000 shares
+ Issued: 12,564,000 and 12,310,000 shares at
+ December 31, 2000 and 1999, respectively
+ Outstanding: 12,069,000 and 11,815,000 shares at
+ December 31, 2000 and 1999, respectively 126 123
+ Additional paid-in capital 79,398 75,641
+ Treasury stock, 495,000 shares at cost 7,081) 7,081)
+ Cumulative translation adjustment 25 --
+ Retained earnings (deficit) 2,815 6,397)
+ ----------- ----------
+ Total stockholders' equity 75,283 62,286
+ ----------- ----------
+ Total liabilities and stockholders' equity 136,895 107,073
+ =========== ==========
+
+The accompanying notes are an integral part of the consolidated financial
+statements
+
+25
+ 28
+ Bright Horizons Family Solutions, Inc.
+ Consolidated Statements of Income
+ (in thousands, except per share data)
+
+2000 1999 1998
+
+Revenues 291,143 243,290 209,372
+Cost of services 248,405 208,631 180,770
+ ------------- ------------- -------------
+ Gross Profit 42,738 34,659 28,602
+
+Selling, general and administrative 24,388 20,903 18,972
+Amortization 1,904 913 893
+ ------------- ------------- -------------
+ Income from operations 16,446 12,843 8,737
+
+Other charges (704) -- (7,500)
+Net interest income 30 715 1,210
+ ------------- ------------- -------------
+ Income before taxes 15,772 13,558 2,447
+
+Income tax expense 6,560 5,631 1,973
+ ------------- ------------- -------------
+ Net income 9,212 7,927 474
+ ============= ============= =============
+
+Earnings per share - basic 0.77 0.66 0.04
+ ============= ============= =============
+
+Weighted average number of common shares - basic 11,895 11,945 11,172
+ ============= ============= =============
+
+Earnings per share - diluted 0.74 0.63 0.04
+ ============= ============= =============
+
+Weighted average number of common and common equivalent
+ shares - diluted 12,522 12,586 12,411
+ ============= ============= =============
+
+The accompanying notes are an integral part of the consolidated financial
+statements
+
+26
+ 29
+ Bright Horizons Family Solutions, Inc.
+ Consolidated Statement of Changes in Stockholders' Equity
+ (in thousands)
+
+Common Stock Additional Cumulative Retained Total
+ Paid In Treasury Translation Earnings Stockholders Comprehensive
+ Shares Amount Capital Stock Adjustment (Deficit) Equity Income
+ ------ -------- ---------- ---------- ----------- ---------- ----------- -------------
+ 
+Balance at December 31, 1997 10,854 108 60,544 -- (13,989) 46,663 
+
+Exercise of stock options 723 7 4,281 -- -- -- 4,288
+
+Exercise of warrants 26 -- 160 -- -- -- 160
+
+Options issued in connection
+ with an acquisition -- -- 375 -- -- -- 375
+
+Repurchase of common stock (49) -- (325) -- -- (809) (1,134)
+
+Tax benefit from the exercise
+ of stock options -- -- 2,554 -- -- -- 2,554
+
+Net income -- -- -- -- -- 474 474 474
+ ------------------------------------------------------------------------------------------------
+Comprehensive net income for
+ the year ended December 474
+ 31, 1998 ------------------------------------------------------------------------------------------------
+
+Balance at December 31, 1998 11,554 115 67,589 -- -- (14,324) 53,380
+
+Exercise of stock options 756 8 5,103 -- -- -- 5,111
+
+Repurchase of common stock (495) -- -- (7,081) -- -- (7,081)
+
+Stock-based compensation -- -- 22 -- -- -- 22
+
+Tax benefit from the exercise
+ of stock options -- -- 2,927 -- -- -- 2,927
+
+Net income -- -- -- -- -- 7,927 7,927 7,927
+ ------------------------------------------------------------------------------------------------
+
+Comprehensive net income for
+ the year ended December 7,927
+ 31, 1999 ------------------------------------------------------------------------------------------------
+
+Balance at December 31, 1999 11,815 123 75,641 (7,081) -- (6,397) 62,286
+
+Exercise of stock options 254 3 2,570 -- -- -- 2,573
+
+Options issued in connection
+ with an acquisition -- -- 28 -- -- -- 28
+
+Stock-based compensation -- -- 71 -- -- -- 71
+
+Tax benefit from the exercise
+ of stock options -- -- 1,088 -- -- -- 1,088
+
+Translation adjustment -- -- -- -- 25 -- 25 25
+
+Net income -- -- -- -- -- 9,212 9,212 9,212
+ ------------------------------------------------------------------------------------------------
+
+Comprehensive net income for
+ the year ended December 9,237
+ 31, 2000 ------------------------------------------------------------------------------------------------
+
+Balance at December 31, 2000 12,069 126 79,398 (7,081) 25 2,815 75,283
+ ==============================================================================
+
+The accompanying notes are an integral part of the consolidated financial
+statements
+
+ 27
+ 30
+ Bright Horizons Family Solutions, Inc
+ Consolidated Statements of Cash Flows
+ (in thousands)
+
+2000 1999 1998
+
+Net income 9,212 7,927 474
+
+Adjustments to reconcile net income to net cash provided by operating
+ activities:
+ Depreciation and amortization 7,525 4,912 3,960
+ Non-cash expenses 71 22 --
+ Asset write-downs and loss on disposal of fixed assets 718 208 1,248
+ Deferred income taxes (2,290) (1,914) (1,257)
+Changes in assets and liabilities:
+ Accounts receivable (6,006) (4,474) (4,270)
+ Income tax receivable -- 5,171 (2,243)
+ Prepaid expenses and other current assets (825) (727) 3,814
+ Accounts payable and accrued expenses 3,520 1,348 6,622
+ Income taxes payable 851 780 (962)
+ Deferred revenue 3,236 1,964 2,749
+ Accrued rent 344 (160) 42
+ Other long-term assets (212) 11 (97)
+ Other current and long-term liabilities 809 160 (938)
+ ------------ ------------ ------------
+ Net cash provided by operating activities 16,953 15,228 9,142
+ ------------ ------------ ------------
+
+Cash flows from investing activities:
+ Additions to fixed assets, net of acquired amounts (19,677) (18,059) (13,711)
+ Proceeds from the disposal of fixed assets 21 25 181
+ Increase in other assets (503) (400) (21)
+ Payments for acquisitions, net of cash acquired (8,167) (1,964) (3,615)
+ ------------ ------------ ------------
+ Net cash used in investing activities (28,326) (20,398) (17,166)
+ ------------ ------------ ------------
+
+Cash flows from financing activities:
+ Proceeds from the issuance of common stock 2,573 5,111 4,448
+ Purchase of treasury stock -- (7,081) (1,134)
+ Principal payments of long-term debt and obligations
+ under capital leases (175) (547) (235)
+ Borrowings under lines of credit 16,038 -- --
+ Payments under lines of credit (11,226) -- --
+ ------------ ------------ ------------
+ Net cash provided by (used in) financing activities 7,210 (2,517) 3,079
+ ------------ ------------ ------------
+
+Effect of exchange rates on cash balances 10 -- --
+ ------------ ------------ ------------
+
+Net decrease in cash and cash equivalents (4,153) (7,687) (4,945)
+
+Cash and cash equivalents, beginning of period 12,752 20,439 25,384
+ ------------ ------------ ------------
+
+Cash and cash equivalents, end of period 8,599 12,752 20,439
+ ============ ============ ============
+
+The accompanying notes are an integral part of the consolidated financial
+statements
+
+28
+ 31
+ Bright Horizons Family Solutions, Inc.
+ Notes To Consolidated Financial Statements
+ For Fiscal Years 2000, 1999 and 1998
+
+ 1. ORGANIZATION AND SIGNIFICANT ACCOUNTING POLICIES
+
+ORGANIZATION - Bright Horizons Family Solutions, Inc. (the "Company") was
+incorporated under the laws of the state of Delaware on April 27, 1998 and
+commenced substantive operations upon the completion of the merger by and
+between Bright Horizons, Inc. ("BRHZ") and CorporateFamily Solutions, Inc.
+("CFAM") on July 24, 1998 (the "Merger"). The Company provides workplace
+services for employers and families including child care, early education and
+strategic work/life consulting throughout the United States, Guam, the United
+Kingdom, and Ireland.
+
+The Company operates its family centers under various types of arrangements,
+which generally can be classified in two forms: (i) the sponsor model, where the
+Company operates a family center on the premises of a sponsor and gives priority
+enrollment to the sponsor's employees or affiliates and (ii) the management
+model, where the Company manages a work-site family center under a cost-plus
+arrangement, typically for a single employer.
+
+BUSINESS COMBINATION AND BASIS OF PRESENTATION - On April 26, 1998 BRHZ and CFAM
+entered into a definitive Agreement and Plan of Merger (the "Merger Agreement").
+Pursuant to the Merger Agreement, as amended, BRHZ and CFAM have merged with
+subsidiaries of the Company and are now wholly owned subsidiaries of the
+Company. The Merger was approved by a vote of the stockholders of BRHZ and CFAM
+on July 24, 1998 and has been treated as a tax free reorganization and accounted
+for as a pooling of interests. In the Merger, each share of BRHZ common stock
+("BRHZ Common Stock") was exchanged for 1.15022 shares of the Company's 0.01
+par value per share common stock ("Common Stock"), and each share of CFAM common
+stock ("CFAM Common Stock") was exchanged for one share of Common Stock. Each
+outstanding option to purchase shares of BRHZ Common Stock and CFAM Common Stock
+has been converted into an option to purchase shares of the Company's Common
+Stock at the same conversion ratios referenced above. The accompanying
+consolidated financial statements have been restated to include the financial
+position and results of operations for both BRHZ and CFAM for all periods
+presented, unless otherwise indicated. All historical amounts have been restated
+to reflect the respective exchange ratio, and certain reclassifications have
+been made for consistent presentation, which had no effect on net income.
+
+The Company operates on a calendar year. BRHZ had a fiscal year ending on June
+30. CFAM had a fiscal year ending on the Friday closest to December 31. The
+accompanying consolidated financial statements combine financial position and
+operating results as of and for the year ended December 31, 2000 ("Fiscal Year
+2000"), December 31, 1999 ("Fiscal Year 1999"), and December 31, 1998 ("Fiscal
+Year 1998).
+
+PRINCIPLES OF CONSOLIDATION - The consolidated financial statements include the
+accounts of the Company and its wholly owned subsidiaries. All significant
+intercompany balances and transactions have been eliminated in consolidation.
+
+FOREIGN OPERATIONS - In 2000 the Company acquired operations based in the United
+Kingdom and Ireland. The assets and liabilities of the Company's foreign
+subsidiaries, which are not material to the Company's consolidated financial
+statements, are translated into U.S. dollars at exchange rates in effect at the
+balance sheet date. Income and expense items are translated at the average
+exchange rates prevailing during the period. The cumulative translation effects
+for subsidiaries using a functional currency other than the U.S. dollar is
+included as a cumulative translation adjustment in stockholders' equity and is a
+component of comprehensive income.
+
+BUSINESS RISKS - The Company is subject to certain risks common to the providers
+of child care and early education, including dependence on key personnel,
+dependence on client relationships, competition from alternate sources or
+providers of the Company's services, market acceptance of work and family
+services, the ability to hire and retain qualified personnel and general
+economic conditions.
+
+USE OF ESTIMATES - The preparation of financial statements in conformity with
+generally accepted accounting principles requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities,
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results may differ from these estimates.
+
+ 29
+ 32
+FAIR VALUE OF FINANCIAL INSTRUMENTS AND CONCENTRATIONS OF CREDIT RISK -
+Financial instruments that potentially expose the Company to concentrations of
+credit risk consist mainly of cash, accounts receivable and lines of credit. The
+Company maintains its cash in financial institutions of high credit standing.
+The Company's accounts receivable are derived primarily from the services it
+provides. The Company believes that no significant credit risk exists at
+December 31, 2000 or 1999, and that the carrying amounts of the Company's
+financial instruments approximate fair market value.
+
+CASH EQUIVALENTS - The Company considers all highly liquid investments with an
+original maturity of three months or less to be cash equivalents. Cash
+equivalents consist primarily of institutional money market accounts. The
+carrying value of these instruments approximates market value due to their short
+maturities.
+
+FIXED ASSETS - Property and equipment are recorded at cost and depreciated on a
+straight-line basis over the estimated useful lives of the assets.
+
+Expenditures for maintenance and repairs are charged to expense as incurred,
+whereas expenditures for improvements and replacements are capitalized.
+
+The cost and accumulated depreciation of assets sold or otherwise disposed of
+are removed from the accounts and the resulting gain or loss is reflected in the
+consolidated statements of income.
+
+INTANGIBLE ASSETS - Goodwill and other intangible assets principally consist of
+goodwill, various contract rights, customer lists and non-compete agreements.
+
+The excess of the aggregate purchase price over the fair value of identifiable
+assets of businesses acquired (goodwill) is being amortized on a straight-line
+basis over the estimated period benefited, ranging from eighteen to twenty-five
+years. Other intangible assets are amortized over the estimated period of
+benefit, utilizing a straight-line method, over periods ranging from two to ten
+years, as applicable.
+
+Subsequent to an acquisition, the Company continually evaluates whether later
+events and circumstances have occurred that indicate the remaining useful life
+of its intangible assets may warrant revision or that the remaining balance of
+such assets may not be recoverable in accordance with the provisions of
+Statement of Financial Accounting Standards ("SFAS") No. 121, "Accounting for
+the Impairment of Long-Lived Assets and for Long-Lived Assets to Be Disposed
+Of." When factors indicate that such assets should be evaluated for possible
+impairment, the Company uses an estimate of the acquired operation's
+undiscounted cash flows over the remaining life of the asset in measuring
+whether the asset is recoverable. Management does not believe any such
+impairment currently exists.
+
+DEFERRED REVENUE - Deferred revenue results from prepaid tuitions,
+employer-sponsor advances and cash received on consulting or development
+projects still in advance of services being performed
+
+OTHER CURRENT AND LONG-TERM LIABILITIES - Other current and long-term
+liabilities consist primarily of deposits held pursuant to certain family center
+management contracts. The deposits will be remitted to the clients upon
+termination of the respective contracts. Amounts also include parent fee
+deposits and amounts payable under acquisition agreements.
+
+INCOME TAXES - The Company accounts for income taxes under SFAS No. 109,
+"Accounting for Income Taxes." Under the asset and liability method of SFAS No.
+109, deferred tax assets and liabilities are recognized for the future tax
+consequences attributable to differences between the financial statement
+carrying amounts of existing assets and liabilities and their respective tax
+bases. Deferred tax assets and liabilities are measured using enacted tax rates
+expected to apply to taxable income in the fiscal years in which those temporary
+differences are expected to be recovered or settled. Under SFAS No. 109, the
+effect on deferred tax assets and liabilities of a change in tax rates is
+recognized in income in the period that includes the enactment date.
+
+REVENUE RECOGNITION - Revenue is recognized as services are performed. In both
+the sponsor model and the management model, revenues consist primarily of
+tuition paid by parents, supplemented in some cases by payments from sponsors
+and, to a lesser extent, by payments from government agencies. Revenues also
+include management
+
+30
+ 33
+fees paid by corporate sponsors. In the management model, in addition to tuition
+and management fee revenues, revenue is also recognized for operating subsidies
+paid either in lieu of or to supplement tuition.
+
+The Company maintains contracts with its corporate sponsors to manage and
+operate their family centers under various terms. The Company's contracts are
+generally 3 to 10 years in length with varying renewal options. Management
+expects to renew the Company's existing contracts for periods consistent with
+the remaining renewal options allowed by the contracts or other reasonable
+extensions.
+
+STOCK-BASED COMPENSATION - SFAS No. 123, "Accounting for Stock-Based
+Compensation," encourages, but does not require, companies to record
+compensation cost for stock-based employee compensation plans at fair value. The
+Company has chosen to continue to account for employee stock-based compensation
+using the intrinsic value method as prescribed in Accounting Principles Board
+("APB") Opinion No. 25, "Accounting for Stock Issued to Employees," and related
+interpretations. Under APB Opinion No. 25, no compensation cost related to
+employee stock options has been recognized because options are granted with
+exercise prices equal to or greater than the fair market value at the date of
+grant. The Company accounts for options granted to non-employees and certain
+options issued in connection with acquisitions using the fair value method, in
+accordance with the provisions of SFAS No. 123.
+
+EARNINGS PER SHARE - The Company accounts for earnings per share in accordance
+with the provisions of SFAS No. 128, "Earnings per Share." Under the standards
+established by SFAS No. 128, earnings per share is measured at two levels: basic
+and diluted earnings per share. Basic earnings per share is computed by dividing
+net income by the weighted average number of common shares outstanding during
+the year. Diluted earnings per share is computed by dividing net income by the
+weighted average number of common shares after considering the additional
+dilution related to preferred stock, options and warrants if applicable.
+
+COMPREHENSIVE INCOME - Comprehensive income encompasses all changes in
+stockholders' equity (except those arising from transactions with owners) and
+includes net income, net unrealized capital gains or losses on available for
+sale securities and foreign currency translation adjustments.
+
+SEGMENT REPORTING - The Company currently operates in one industry segment and
+generates in excess of 90 of revenue and operating profit domestically.
+Additionally, no single customer accounts for more than 10 of the Company's
+revenue.
+
+NEW PRONOUNCEMENTS - In June 1998, the Financial Accounting Standards Board
+(FASB) issued SFAS No. 133, "Accounting for Derivative Instruments and Hedging
+Activities." SFAS No. 133 establishes accounting and reporting standards for
+derivative instruments and hedging activities. SFAS No. 133, as amended by SFAS
+No. 137 and SFAS No. 138, will be effective for the Company's financial
+reporting beginning in the first quarter of fiscal 2001. SFAS No. 133 will
+require the Company to recognize all derivatives as either assets or liabilities
+in the statement of financial position and measure those instruments at fair
+value. The accounting for gains and losses from changes in the fair value of a
+particular derivative will depend on the intended use of the derivative. The
+Company does not expect the adoption of SFAS No. 133 to have a material impact
+on the results of its operations or financial position.
+
+In December 1999, the Securities and Exchange Commission ("SEC") issued Staff
+Accounting Bulletin ("SAB") No. 101, "Revenue Recognition." On March 24, 2000,
+the SEC deferred implementation of SAB No. 101 until the second calendar quarter
+of 2000, and on June 26, 2000, implementation was further deferred until the
+fourth quarter of calendar 2000. The Company was required to comply with this
+guidance no later than the fourth quarter of fiscal 2000. The adoption of this
+guidance did not have a material impact on the accompanying financial
+statements.
+
+In September 2000, the FASB issued SFAS No. 140, "Accounting for Transfers and
+Servicing of Financial Assets and Extinguishments of Liabilities," a replacement
+of SFAS No. 125. This statement provides accounting and reporting standards for
+transfers and servicing of financial assets and extinguishments of liabilities.
+The statement provides consistent standards for distinguishing transfers of
+financial assets that are sales from transfers that are secured borrowings. The
+statement is effective for transfers and servicing of financial assets and
+extinguishments of liabilities occurring after March 31, 2001. The statement is
+effective for recognition and reclassification of collateral and for disclosures
+relating to securitization transactions and collateral for fiscal years ending
+after
+
+31
+ 34
+December 15, 2000. The Company does not expect the adoption of SFAS No. 140 to
+have a material impact on the results of its operations or financial position.
+
+RECLASSIFICATIONS - Certain amounts in the prior years' financial statements
+have been reclassified to conform with the current year's presentation.
+
+ 2. ACQUISITIONS
+
+In 2000, the Company acquired substantially all the assets of two multi-site
+child care companies and 100 of the outstanding stock of one domestic
+single-site and two foreign multi-site child care companies for aggregate
+consideration of approximately 8.2 million in cash, the issuance of notes
+payable to a seller totaling 1.1 million, the assumption of liabilities of
+approximately 3.4 million and the issuance of options to purchase 4,000 shares
+of the Common Stock which were valued at approximately 28,000 using the
+Black-Scholes option pricing model. The purchase prices have been allocated
+based on the estimated fair value of the assets and liabilities acquired at the
+date of acquisition. Estimated goodwill and other intangible assets totaling
+approximately 10.4 million have been recorded and are being amortized over
+periods not to exceed 18 years.
+
+In 1999, the Company acquired substantially all the assets of four single-site
+child care companies and 100 of the outstanding stock of a single-site child
+care company for aggregate consideration of approximately 2.0 million in cash,
+the issuance of notes payable to sellers totaling 550,000 and the assumption of
+liabilities of approximately 100,000. The purchase prices have been allocated
+based on the estimated fair value of the assets and liabilities acquired at the
+date of acquisition. Goodwill and other intangible assets totaling approximately
+ 2.5 million have been recorded and are being amortized over periods not to
+exceed 18 years.
+
+In 1998, the Company acquired substantially all the assets of two single-site
+child care companies and 100 of the outstanding stock of two additional
+single-site child care companies for aggregate consideration of approximately
+ 3.6 million in cash, the assumption of liabilities of approximately 730,000
+and the issuance of options to purchase 30,120 shares of Common Stock, which
+were valued at approximately 375,000 using the Black-Scholes option pricing
+model. The purchase price has been allocated based on the estimated fair value
+of the assets and liabilities acquired at the date of acquisition. Goodwill
+amounting to approximately 4.1 million resulted from these transactions and is
+being amortized over a period of 18 years.
+
+The above transactions have been accounted for as purchases and the operating
+results of the acquired companies have been included from the respective dates
+of acquisition. The acquisitions were not material and therefore no pro-forma
+information has been presented.
+
+ 3. FIXED ASSETS
+
+Fixed assets consist of the following:
+
+Estimated useful lives December 31, December 31,
+ (years) 2000 1999
+ ------- ---- ----
+
+Buildings 20 - 40 31,699,000 26,618,000
+Furniture and equipment 3 - 15 23,639,000 18,429,000
+Leasehold improvements 3 / life of lease 22,411,000 12,594,000
+Land -- 5,923,000 4,465,000
+ ----------- -----------
+ 83,672,000 62,106,000
+Less accumulated depreciation and amortization (19,239,000) (13,669,000)
+ ----------- -----------
+ Fixed assets, net 64,433,000 48,437,000
+ =========== ============
+
+Fixed assets include automobiles and office equipment held under capital leases
+totaling 179,000 and 338,000 in Fiscal Years 2000 and 1999, respectively.
+Depreciation expense relating to fixed assets under capital leases was
+approximately 19,000 and 38,000 for Fiscal Years 2000 and 1999, respectively.
+Accumulated depreciation relating to fixed assets under capital leases totaled
+approximately 159,000 and 287,000 for Fiscal Years 2000 and 1999,
+respectively.
+
+ 32
+ 35
+ 4. INTANGIBLE ASSETS
+
+Intangible assets consist of the following:
+
+December 31, December 31,
+ 2000 1999
+ ---- ----
+ 
+Goodwill, net of accumulated amortization of 5,040,000 and
+ 3,415,000, respectively 23,361,000 15,056,000
+Non-compete agreements and contract rights, net of accumulated
+ amortization of 3,261,000 and 3,081,000, respectively 884,000 834,000
+Other intangibles, net of accumulated amortization of 26,000 and
+ 18,000, respectively 11,000 19,000
+ ------------ ------------
+ 24,256,000 15,909,000
+ ============ ============
+
+5. ACCOUNTS PAYABLE AND ACCRUED EXPENSES
+
+Accounts payable and accrued expenses consist of the following:
+
+December 31, December 31,
+ 2000 1999
+ ---- ----
+ 
+Accounts payable 2,269,000 1,397,000
+Accrued payroll and employee benefits 17,853,000 14,645,000
+Accrued other expenses 7,885,000 6,630,000
+Accrued merger related expenses -- 345,000
+ ------------ -----------
+
+ 28,007,000 23,017,000
+ ============ ============
+
+6. LINES OF CREDIT AND SHORT TERM DEBT
+
+The Company entered into a 40.0 million unsecured line of credit for working
+capital, acquisition financing and general corporate purposes with two banks
+effective March 30, 2000. This facility replaces the line of credit facility
+that the Company had in place at December 31, 1999. The credit facility consists
+of a revolving line of credit, which expires on June 30, 2002, at which time any
+outstanding indebtedness will be converted into a three-year term loan. At the
+Company's option, the line of credit will bear interest at either i) Prime or
+ii) LIBOR plus a spread based on debt levels and coverage ratios. The agreement
+requires the Company to comply with certain covenants, which include, among
+other things, the maintenance of specified financial ratios, and prohibits the
+payment of dividends without bank approval. At December 31, 2000 the Company had
+ 4.8 million outstanding and approximately 35.2 million available under the
+line of credit and was in compliance with the covenants of the agreement. The
+weighted average interest rate related to the amount outstanding at December 31,
+2000 was 8.6 .
+
+The Company also entered into a L350,000 unsecured line of credit for working
+capital and general corporate purposes with a bank effective September 2000. The
+facility is payable on demand and expires in September 2001. The facility bears
+interest at 3.5 over the bank's base rate, which is currently 6 , for a total
+interest rate of 9.5 . At December 31, 2000 the Company had L308,000
+(approximately 460,000) outstanding under the facility.
+
+A short-term note payable in the amount of 1.1 million, bearing interest at
+approximately 6 , was issued in December, 2000 in connection with an
+acquisition, and was repaid in January 2001.
+
+33
+ 36
+ 7. LONG-TERM DEBT AND OBLIGATIONS DUE UNDER CAPITAL LEASES
+
+Long-term debt consists of the following:
+
+December 31, December 31,
+ 2000 1999
+ ---- ----
+ 
+Unsecured note payable to a corporation, with quarterly payments of interest
+ only at 8.25 ; principal amounts of 60,000 are payable annually, note
+ matures in October 2004. 240,000 300,000
+Unsecured note payable to a limited partnership, with quarterly payments of
+ interest only at 8.50 ; principal amounts of 50,000 are payable annually,
+ note matures in December 2004. 200,000 250,000
+Notes payable to a state agency with monthly payments of approximately
+ 2,300 including interest of 5.0 , with final payments due January 2001 and
+ March 2007; secured by related furniture, fixtures and equipment 51,000 73,000
+Secured notes payable to a bank, repaid January 2001 79,000 --
+Secured note payable to a bank, repaid January 2001 3,000 --
+Obligations under capital leases at rates of 8.0 to 10.24 , secured by
+ automobiles and certain office equipment; due in 2001 8,000 64,000
+ --------- ---------
+Total debt and obligations due under capital leases 581,000 687,000
+Less current maturities (156,000) (172,000)
+ --------- ---------
+Long-term debt and obligations due under capital leases 425,000 515,000
+ ========= =========
+
+8. INCOME TAXES
+
+Income tax expense for Fiscal Years 2000, 1999 and 1998 consisted of the
+following:
+
+Fiscal Year Fiscal Year Fiscal Year
+ 2000 1999 1998
+ ---- ---- ----
+ 
+Current tax expense 8,446,000 4,684,000 676,000
+Benefit from the exercise of stock options 1,088,000 2,927,000 2,554,000
+Deferred tax expense (2,974,000) (1,980,000) (1,257,000)
+ ----------- ----------- -----------
+Income tax expense, net 6,560,000 5,631,000 1,973,000
+ =========== =========== ===========
+
+A reconciliation of the U.S. Federal statutory rate to the effective rate is as
+follows:
+
+Fiscal Year Fiscal Year Fiscal Year
+ 2000 1999 1998
+ ---- ---- ----
+ 
+U. S. Federal statutory rate 5,526,000 4,610,000 832,000
+State taxes on income 847,000 775,000 121,000
+Non-deductible merger costs -- -- 935,000
+Permanent differences and other 187,000 246,000 85,000
+ ---------- ---------- ----------
+Income tax expense, net 6,560,000 5,631,000 1,973,000
+ ========== ========== ==========
+
+Deferred tax assets are as follows:
+
+Fiscal Year Fiscal Year Fiscal Year
+ 2000 1999 1998
+ ---- ---- ----
+ 
+Net operating loss carryforwards 1,335,000 1,414,000 734,000
+Reserve on assets 753,000 593,000 277,000
+Liabilities not yet deductible 4,330,000 4,077,000 3,425,000
+Deferred revenue 3,063,000 1,897,000 2,409,000
+Depreciation 386,000 (207,000) (812,000)
+Amortization 1,078,000 1,013,000 827,000
+Other 503,000 371,000 318,000
+ ---------- ---------- ----------
+ 11,448,000 9,158,000 7,178,000
+ =========== ========== ==========
+
+34
+ 37
+As of December 31, 2000 the Company has federal net operating loss carryforwards
+of approximately 3.0 million, which are subject to annual limitations and are
+available to offset certain current and future taxable earnings and expire at
+various dates, the earliest of which is December 31, 2007. In addition, the
+Company has net operating losses in a number of states totaling approximately
+ 5.4 million, which may only be used to offset operating income of certain of
+the Company's subsidiaries in those particular states. Management believes the
+Company will generate sufficient future taxable income to realize deferred tax
+assets prior to the expiration of any net operating loss carryforwards and that
+the realization of the net deferred tax asset is more likely than not.
+
+ 9. STOCKHOLDERS' EQUITY
+
+COMMON STOCK
+
+Pursuant to the Merger Agreement and Registration Statement on Form S-4
+(Registration No. 333-57035), dated June 17, 1998, BRHZ and CFAM were merged
+with subsidiaries of the Company and are now wholly owned subsidiaries of the
+Company. The Merger was approved by a separate vote of the stockholders of BRHZ
+and CFAM on July 24, 1998, and has been treated as a tax-free reorganization and
+accounted for as a pooling of interests. In the Merger, each share of BRHZ
+Common Stock was exchanged for 1.15022 shares of the Company's Common Stock,
+ 0.01 par value per share, and each share of CFAM Common Stock was exchanged for
+one share of Common Stock. All historical amounts in the accompanying financial
+statements have been restated to reflect the respective exchange ratio.
+
+STOCK OPTIONS
+
+The Company has established an incentive compensation plan under which it is
+authorized to grant both incentive stock options and non-qualified stock options
+to employees and directors, as well as other stock-based compensation. Under
+terms of the 1998 Stock Incentive Plan, 1,500,000 shares of the Company's Common
+Stock are available for distribution. As of December 31, 2000, there were
+approximately 465,000 shares of Common Stock eligible for grant under the plan.
+In accordance with the Merger Agreement, the Company also assumed all
+obligations for outstanding options to purchase shares of BRHZ and CFAM.
+
+Options granted under the plan expire at the earlier of ten years from date of
+grant or three months after termination of the holder's employment with the
+Company unless otherwise determined by the Compensation Committee of the Board
+of Directors. The following table summarizes information about stock options
+outstanding at December 31, 2000:
+
+Weighted
+ Options Average Weighted Options Weighted
+ Outstanding Remaining Average Exercisable Average
+ Range of at December 31, Contractual Exercise at December 31, Exercise
+ Exercise Price 2000 Life (years) Price 2000 Price
+ -------------- ---- ------------ ----- ---- -----
+ 
+ 0.0000 - 2.6125 57,625 3.3 1.7112 53,276 1.6683
+ 2.6126 - 5.2250 28,514 4.1 3.8917 20,969 3.9712
+ 5.2251 - 7.8375 651,336 5.6 7.6682 630,183 7.6859
+ 7.8376 - 10.4500 4,350 7.9 10.0000 3,350 10.0000
+ 10.4501 - 13.0625 28,754 6.8 11.3000 28,754 11.3000
+ 13.0626 - 15.6750 162,901 8.9 14.8380 31,161 14.8536
+ 15.6751 - 18.2875 338,881 9.0 17.0423 24,347 16.6470
+ 18.2876 - 20.9000 431,767 7.7 19.0398 157,850 19.0955
+ 20.9001 - 23.5125 48,052 7.9 21.7189 23,640 21.6635
+ 23.5126 - 26.1250 11,475 9.1 24.8537 1,150 24.0000
+ ------ --- -------- ----- --------
+ 1,763,655 7.1 13.2195 974,680 10.0507
+
+The Company accounts for options issued to employees and directors under APB
+Opinion No. 25. Options issued to employees and directors have been granted with
+exercise prices equal to or greater than the fair value of the Company's Common
+Stock on the date of grant.
+
+ 35
+ 38
+For the years ended December 31, 2000 and 1999, options to purchase 4,000 and
+3,600 shares of Common Stock, respectively, were granted to members of the
+Company's advisory board. These options were valued at approximately 74,000 and
+ 45,000, respectively, using the Black-Scholes option pricing model. The Company
+recognized compensation expense of approximately 71,000 and 22,000 in its
+operating results for the years ended December 31, 2000 and 1999, respectively.
+A balance of approximately 25,000 has been recorded as a component of
+additional paid-in capital at December 31, 2000.
+
+Certain options issued in connection with acquisitions in Fiscal Years 2000 and
+1998 were granted with an exercise price less than the fair value of the
+Company's Common Stock. These options were valued at approximately 28,000 and
+ 375,000, respectively, using the Black-Scholes option pricing model, and are
+included in the determination of proceeds paid for the acquisitions.
+
+SFAS No. 123 established new financial accounting and reporting standards for
+employee stock-based compensation plans. The Company has adopted the
+disclosure-only provisions of SFAS No. 123. As a result, no compensation cost
+for options granted to employees and directors of the Company has been
+recognized for the Company's stock option plans. Had compensation cost for the
+stock option plans been determined based on the fair value at the grant date for
+awards in Fiscal Years 1995 through 2000 consistent with the provisions of SFAS
+No. 123, the Company's net income (loss) and earnings (loss) per share would
+have been reduced to the following pro forma amounts for years ended December
+31, 2000, 1999 and 1998:
+
+Fiscal Year 2000 Fiscal Year 1999 Fiscal Year 1998
+ ---- ---- ----
+ 
+Net income (loss):
+ As reported 9,212,000 7,927,000 474,000
+ Pro forma 5,888,000 5,215,000 (814,000)
+Earnings (loss) per share - Basic:
+ As reported 0.77 0.66 0.04
+ Pro forma 0.49 0.44 (0.07)
+Earnings (loss) per common share assuming dilution:
+Net income (loss):
+ As reported 9,212,000 7,927,000 474,000
+ Pro forma 5,888,000 5,215,000 (814,000)
+Earnings (loss) per share - Diluted:
+ As reported 0.74 0.63 0.04
+ Pro forma 0.48 0.43 (0.07)
+
+Under the provisions of SFAS No. 123, pro forma diluted earnings per share for
+Fiscal Year 1998 are the same as basic earnings per share, as the effects of
+additional dilution related to the conversion of options would have been
+anti-dilutive.
+
+Because the method of accounting prescribed SFAS No. 123 has not been applied to
+options granted prior to January 1, 1995, the resulting pro forma compensation
+cost may not be representative of that to be expected in future years.
+
+The fair value of each option on its date of grant has been estimated for pro
+forma purposes using the Black-Scholes option pricing model using the following
+weighted average assumptions:
+
+Fiscal Year Fiscal Year Fiscal Year
+ 2000 1999 1998
+ ---- ---- ----
+ 
+Expected dividend yield 0.0 0.0 0.0 
+Expected stock price volatility 56.0 54.3 35.0 
+Risk free interest rate 4.95 6.76 5.05 - 5.77 
+Expected life of options 7.7 years 7.0 years 7.5 - 8.5 years
+Weighted-average fair value per share
+ of options granted during the year 11.15 9.82 6.84
+
+36
+ 39
+A summary of the status of the Company's option plans, including options issued
+to members of the Board of Directors, is as follows for Fiscal Years 2000, 1999
+and 1998:
+
+Fiscal Year 2000 Fiscal Year 1999 Fiscal Year 1998
+ ---------------- ---------------- ----------------
+
+ Number of Weighted Number of Weighted Number of Weighted
+ Shares Average Shares Average Shares Average
+ Exercise Exercise Exercise
+ Price Price Price
+ ------------------------- ------------------------ ------------------------
+ 
+Outstanding at beginning of
+ period 1,740,413 12.00 2,004,890 10.44 2,153,842 6.56
+Granted 320,826 17.26 223,405 15.45 571,337 19.12
+Exercised (254,708) 10.10 (421,693) 5.95 (669,717) 5.71
+Canceled (42,876) 12.47 (66,189) 14.95 (50,572) 5.71
+ --------- ------ --------- ----- --------- ------
+Outstanding at end of period 1,763,655 13.22 1,740,413 12.00 2,004,890 10.44
+Exercisable 974,680 10.05 1,051,634 8.98 1,322,495 7.15
+
+In addition to the above plans, the Company issued options to purchase 30,120
+shares of Common Stock in connection with an acquisition in Fiscal Year 1998,
+which are excluded from the above figures, which were exercised in January 1999.
+The options were valued using the Black-Scholes option pricing model, the value
+of which was included in the purchase price of the transaction. CFAM also issued
+options to purchase 32,500 shares of CFAM Common Stock during 1996 to its
+vice-chairman in exchange for consulting services, which were valued using the
+Black-Scholes option pricing model and compensation expense was recorded. These
+options were exercised in Fiscal Year 1998. During 1995, CFAM also issued
+options to purchase 325,000 shares of CFAM Common Stock to an employee and
+former stockholder of RCCM, which were exercised in February 1999.
+
+The Company recognizes a tax deduction upon the exercise of non-qualified stock
+options and disqualifying dispositions of incentive stock options due to the
+recognition of compensation expense in the calculation of its taxable income.
+The amount of the compensation recognized for tax purposes is based on the
+difference between the market value of the common stock and the option price at
+the date the options are exercised. These tax benefits are credited to
+additional paid-in capital.
+
+STOCK PURCHASE WARRANTS
+
+Prior to 1994, CFAM issued stock purchase warrants for the purchase of CFAM
+Common Stock to a stockholder. Warrants outstanding for the purchase of 26,000
+shares of CFAM Common Stock, which had an average exercise price of 6.15, were
+exercised in Fiscal Year 1998.
+
+TREASURY STOCK
+
+On July 20, 1999, the Company's Board of Directors approved a stock repurchase
+plan authorizing the Company to repurchase up to 500,000 shares of its common
+stock. On October 20, 1999, the Company's Board of Directors authorized the
+repurchase of an additional 750,000 shares under the plan that allows shares of
+the Company's common stock to be purchased in the open market or through
+privately negotiated transactions. The Company carries the treasury shares at
+cost. At December 31, 2000 the Company had repurchased 495,000 shares at a cost
+of 7.1 million, which remain in the treasury. Shares repurchased will be
+available for reissuance under the Company's stock incentive plan as well as
+other appropriate uses.
+
+In January 1998, CFAM purchased 48,750 shares of CFAM Common Stock for 1.1
+million. The shares were subsequently reissued to satisfy stock warrant and
+option exercises.
+
+ 10. OTHER CHARGES IN THE STATEMENTS OF INCOME
+
+In Fiscal Year 2000 the Company recognized an expense of 704,000 412,000
+after tax) in connection with a writedown in the value of certain equity
+investments made by the Company.
+
+ 37
+ 40
+In connection with the Merger, the Company recognized a charge of 7.5 million 5.4 million after tax) in Fiscal Year 1998, which included transaction costs
+of 2.8 million, non-cash asset impairment charges of 1.4 million, severance
+costs of 0.5 million and one time incremental integration costs directly
+related to the Merger totaling 2.8 million.
+
+ 11. EARNINGS PER SHARE
+
+The following tables present information necessary to calculate earnings per
+share for Fiscal Years 2000, 1999 and 1998:
+
+Fiscal Year 2000
+ Income (Numerator) Shares (Denominator) Per Share
+ Amount
+ 
+Basic earnings per share
+ Income available to common stockholders 9,212,000 11,895,000 .77
+ =====
+Effect of dilutive securities
+ Options -- 627,000
+ ----------- ----------
+Diluted earnings per share 9,212,000 12,522,000 .74
+ =========== ========== =====
+
+Fiscal Year 1999
+ Income (Numerator) Shares (Denominator) Per Share
+ Amount
+ 
+Basic earnings per share
+ Income available to common stockholders 7,927,000 11,945,000 .66
+ =====
+Effect of dilutive securities
+ Options -- 641,000
+ ------------ ----------
+Diluted earnings per share 7,927,000 12,586,000 .63
+ =========== ========== =====
+
+Fiscal Year 1998
+ Income (Numerator) Shares (Denominator) Per Share
+ Amount
+ 
+Basic earnings per share
+ Income available to common stockholders 474,000 11,172,000 .04
+ =====
+Effect of dilutive securities
+ Options and warrants -- 1,239,000
+
+ --------- ----------
+Diluted earnings per share 474,000 12,411,000 .04
+ ========= ========== =====
+
+The above earnings per share on a diluted basis has been prepared in accordance
+with SFAS No. 128 based on the historical results and weighted average shares of
+each company, adjusted for the effect on weighted average shares for the merger
+exchange ratio. In Fiscal Years 2000, 1999 and 1998 the weighted average number
+of stock options excluded from the above calculation of earnings per share was
+272,621, 322,721 and 1,449, respectively, as they were anti-dilutive.
+
+ 12. COMMITMENTS AND CONTINGENCIES
+
+LEASES
+
+The Company leases various office equipment, automobiles, family center
+facilities and office space under non-cancelable operating leases. Many of the
+leases contain renewal options for various periods. Certain leases contain
+provisions which include additional payments based upon revenue performance,
+enrollment or the level of the Consumer Price Index at a future date. Rent
+expense was approximately 9.9 million, 8.8 million and 7.6 million in Fiscal
+Years 2000, 1999, and 1998, respectively. Future minimum payments under
+non-cancelable operating leases are as follows:
+
+38
+ 41
+ Year Ending
+ 2001 11,832,000
+ 2002 10,823,000
+ 2003 10,080,000
+ 2004 9,350,000
+ 2005 8,357,000
+ Thereafter 42,455,000
+ ----------
+ 92,897,000
+ ============
+
+Future minimum lease payments include approximately 1.1 million of lease
+commitments, which are guaranteed by third parties pursuant to operating
+agreements for family centers.
+
+EMPLOYMENT AND NON-COMPETE AGREEMENTS
+
+The Company has employment agreements with two of its executive officers. The
+agreements provide for payment of 2.99 times annual salary upon the termination
+of employment without cause or resignation for good reason as set forth in the
+employment agreements. The agreements for the two executives expire in 2003. The
+Company has an employment agreement with an additional executive that provides
+for one years annual salary up the termination of employment without cause or
+resignation for good reason as set forth in the agreement. The maximum amount
+payable under these contracts in 2000 was approximately 1.1 million.
+
+The Company also has severance agreements with five additional executives that
+provide for up to 24 months of compensation upon the termination of employment
+following a change in control of the Company. The maximum amount payable under
+these agreements in 2000 was approximately 1.9 million.
+
+The employment and severance agreements prohibit the abovementioned employees
+from competing with the Company or divulging confidential information for one to
+two years after their separation from the Company.
+
+OTHER
+
+The Company is a defendant in certain legal matters in the ordinary course of
+business. Management believes the resolution of such legal matters will not have
+a material effect on the Company's financial condition or results of operations.
+
+The Company's family centers are subject to numerous federal, state and local
+regulations and licensing requirements. Failure of a center to comply with
+applicable regulations can subject it to governmental sanctions, which could
+require expenditures by the Company to bring its family centers into compliance.
+
+ 13. EMPLOYEE BENEFIT PLANS
+
+The Company maintains a 401(k) Retirement Savings Plan (the "Plan") for all
+employees with more than 1,000 hours of credited service annually and who have
+been with the Company one or more years. The Plan is funded by elective employee
+contributions of up to 15 of their compensation. Under the Plan the Company
+matches 25 of employee contributions for each participant up to 8 of the
+employee's compensation. Expense under the Plan, consisting of Company
+contributions and Plan administrative expenses paid by the Company, totaled
+ 946,000, 674,000, and 596,000 in Fiscal Years 2000, 1999 and 1998,
+respectively.
+
+ 14. RELATED PARTY TRANSACTIONS
+
+The Company has an agreement with S.C. Johnson & Son, Inc., the employer of a
+member of its Board of Directors, to operate and manage a family center. In
+return for its services under these agreements, the Company received management
+fees and operating subsidies of 295,000, 274,000 and 301,000, respectively,
+for Fiscal Years 2000, 1999 and 1998.
+
+39
+ 42
+ 15. STATEMENT OF CASH FLOW INFORMATION
+
+The following table presents supplemental disclosure of cash flow information
+for Fiscal Years 2000, 1999 and 1998:
+
+Fiscal Year Fiscal Year Fiscal Year
+ 2000 1999 1998
+ ---- ---- ----
+ 
+Supplemental cash flow information
+
+ Cash payments of interest 208,000 60,000 69,000
+
+ Cash payments of income taxes 8,032,000 1,611,000 3,954,000
+Non cash operating activities:
+ Compensation expense recognized in connection with
+ the issuance of options 71,000 22,000 --
+
+Non cash investing and financing activities:
+ Issuance of options in connection with acquisition 28,000 -- 375,000
+
+ Tax benefit realized from the exercise of stock
+ options 1,088,000 2,927,000 2,554,000
+
+In Fiscal Year 1999 the Company entered into an agreement to manage a child care
+center in exchange for a transfer of non-cash assets having a value of
+approximately 2.3 million.
+
+In conjunction with the purchase of child care management companies, as
+discussed in Note 2, the fair value of assets acquired are as follows:
+
+Fiscal Year Fiscal Year Fiscal Year
+ 2000 1999 1998
+ ---- ---- ----
+ 
+Cash paid 8,167,000 1,964,000 3,615,000
+Issuance of common stock and
+ stock options 28,000 -- 375,000
+Issuance of notes payable 1,109,000 550,000 --
+Liabilities assumed 3,373,000 80,000 734,000
+ --------- --------- ---------
+Fair value of assets acquired 12,677,000 2,594,000 4,724,000
+
+16. QUARTERLY FINANCIAL DATA (UNAUDITED)
+
+Quarterly financial data for the Fiscal Years 2000 and 1999 are summarized as
+follows:
+
+First Second Third Fourth
+ Quarter Quarter Quarter Quarter
+ ------- ------- ------- -------
+ (in thousands except per share data)
+ 
+FISCAL YEAR 2000:
+Revenue 66,622 72,066 74,504 77,951
+Operating income 3,877 4,234 3,843 4,492
+Income before taxes 3,952 4,283 3,881 3,656
+Net income 2,312 2,499 2,260 2,141
+Net income available to
+ common stockholders 2,312 2,499 2,260 2,141
+Basic earnings per share 0.20 0.21 0.19 0.18
+Diluted earnings per share 0.19 0.20 0.18 0.17
+
+40
+ 43
+
+First Second Third Fourth
+ Quarter Quarter Quarter Quarter
+FISCAL YEAR 1999: ------- ------- ------- -------
+ (in thousands except per share data)
+ 
+Revenue 58,461 60,960 61,139 62,730
+Operating income 3,018 3,380 2,964 3,481
+Income before taxes 3,229 3,525 3,175 3,629
+Net income 1,905 2,079 1,876 2,067
+Net income available to
+ common stockholders 1,905 2,079 1,876 2,067
+Basic earnings per share 0.16 0.17 0.15 0.18
+Diluted earnings per share 0.15 0.16 0.15 0.17
+
+41
+ 44
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+
+ Not Applicable
+
+ PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+The section entitled "Proposal I - Election of Directors" appearing in the
+Company's proxy statement for the annual meeting of stockholders to be held on
+May 23, 2001 sets forth certain information with respect to the directors of the
+Company and is incorporated herein by reference. Pursuant to General Instruction
+G(3), certain information with respect to persons who are or may be deemed to be
+executive officers of the Company is set forth under the caption "Business -
+Executive Officers of the Company" in Part I of this Form 10-K.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+The section entitled "Executive Compensation" appearing in the Company's proxy
+statement for the annual meeting of stockholders to be held on May 23, 2001 sets
+forth certain information with respect to the compensation of management of the
+Company and is incorporated herein by reference.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+The section entitled "Stock Ownership" appearing in the Company's proxy
+statement for the annual meeting of stockholders to be held on May 23, 2001 sets
+forth certain information with respect to the ownership of the Company's Common
+Stock and is incorporated herein by reference.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+The section entitled "Certain Relationships and Related Transactions" appearing
+in the Company's proxy statement for the annual meeting of stockholders to be
+held on May 23, 2001 sets forth certain information with respect to certain
+relationships and related transactions between the Company and its directors and
+officers and is incorporated herein by reference.
+
+42
+ 45
+ PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a) The following documents are filed as part of this Annual Report on Form
+ 10-K:
+
+ (1) The financial statements filed as part of this report are
+ included in Part II, Item 8 of this Annual Report on Form
+ 10-K.
+
+ (2) All Financial Statement Schedules other than those listed
+ below have been omitted because they are not required under
+ the instructions to the applicable accounting regulations of
+ the Securities and Exchange Commission or the information to
+ be set forth therein is included in the financial statements
+ or in the notes thereto. The following additional financial
+ data should be read in conjunction with the financial
+ statements included in Part II, Item 8 of this Annual Report
+ on Form 10-K:
+
+Page Number
+
+Report of Arthur Andersen LLP, Independent Public Accountants (included 24
+ in Report in Part II, Item 8)
+
+ Schedule II - Valuation and Qualifying Accounts 45
+
+(3) The exhibits filed or incorporated by reference as part of
+ this report are set forth in the Index of Exhibits of this
+ Annual Report on Form 10-K.
+
+(b) Reports on Form 8-K
+
+ Not applicable
+
+(c) Exhibits
+
+ Refer to Item 14(a)(3) above.
+
+(d) Not applicable
+
+43
+ 46
+ BRIGHT HORIZONS FAMILY SOLUTIONS, INC.
+ SCHEDULE II
+ VALUATION AND QUALIFYING ACCOUNTS
+
+Allowance for doubtful accounts
+
+Balance at Additions
+ beginning of charged to costs Deductions- Balance at end
+ period and expenses charge offs of period
+ ------ ------------ ----------- --------------
+ 
+Fiscal Year 2000 1,290,000 719,000 532,000 1,477,000
+Fiscal Year 1999 709,000 825,000 244,000 1,290,000
+Fiscal Year 1998 579,000 375,000 245,000 709,000
+
+Accrued merger costs
+
+Balance at Additions
+ beginning of charged to costs Deductions- Balance at end
+ period and expenses charge offs of period
+ ------ ------------ ----------- --------------
+ 
+Fiscal Year 2000 345,000 -- 345,000 --
+Fiscal Year 1999 2,201,000 -- 1,856,000 345,000
+Fiscal Year 1998 -- 7,500,000 5,299,000 2,201,000
+
+44
+ 47
+ SIGNATURES
+
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+ BRIGHT HORIZONS FAMILY SOLUTIONS, INC.
+
+March 28, 2001 By: /s/ Elizabeth J. Boland
+ ---------------------------------------
+ Elizabeth J. Boland
+ Chief Financial Officer
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+registrant in the capacities and on the dates indicated.
+
+SIGNATURE TITLE DATE
+- --------- ----- ----
+ 
+/s/ Roger H. Brown Director, Chief Executive Officer March 28, 2001
+- ------------------------------------
+Roger H. Brown (Principal Executive Officer)
+
+/s/ Linda A. Mason Co-Chairman of the Board March 28, 2001
+- ------------------------------------
+Linda A. Mason
+
+/s/ Marguerite W. Sallee Co-Chairman of the Board March 28, 2001
+- ------------------------------------
+Marguerite W. Sallee
+
+/s/ Elizabeth J. Boland Chief Financial Officer (Principal March 28, 2001
+- ------------------------------------
+Elizabeth J. Boland Financial and Accounting Officer)
+
+/s/ Joshua Bekenstein Director March 28, 2001
+- ------------------------------------
+Joshua Bekenstein
+
+/s/ JoAnne Brandes Director March 28, 2001
+- ------------------------------------
+JoAnne Brandes
+
+/s/ William H. Donaldson Director March 28, 2001
+- ------------------------------------
+William H. Donaldson
+
+/s/ E. Townes Duncan Director March 28, 2001
+- ------------------------------------
+E. Townes Duncan
+
+/s/ Fred K. Foulkes Director March 28, 2001
+- ------------------------------------
+Fred K. Foulkes
+
+45
+ 48
+
+/s/ Sara Lawrence-Lightfoot Director March 28, 2001
+- ------------------------------------
+Sara Lawrence-Lightfoot
+
+/s/ Robert D. Lurie Director March 28, 2001
+- ------------------------------------
+Robert D. Lurie
+
+/s/ Ian M. Rolland Director March 28, 2001
+- ------------------------------------
+Ian M. Rolland
+
+46
+ 49
+ INDEX OF EXHIBITS
+
+2.1 Amended and Restated Agreement and Plan of Merger dated as of June 17,
+ 1998 ("Merger Agreement") by and among Bright Horizons Family
+ Solutions, Inc., CorporateFamily Solutions, Inc., Bright Horizons,
+ Inc., CFAM Acquisition, Inc., and BRHZ Acquisition, Inc.
+
+3.1 Certificate of Incorporation
+
+3.2 Amended and Restated Bylaws (Incorporated by Reference to Exhibit 3 of
+ the Quarterly Report on Form 10-Q filed on November 12, 1999)
+
+4.1 Article IV of Bright Horizons Family Solutions, Inc.'s Certificate of
+ Incorporation
+
+4.2 Article IV of Bright Horizons Family Solutions, Inc.'s Bylaws
+ (Incorporated by Reference to Exhibit 3 of the Quarterly Report on Form
+ 10-Q filed on November 12, 1999)
+
+4.3 Specimen Common Stock Certificate (Incorporated by Reference to Exhibit
+ 4.3 of the Form 8-K filed on July 28, 1998)
+
+10.1 1998 Stock Incentive Plan
+
+10.2 First Amendment to the 1998 Stock Incentive Plan (Incorporated by
+ Reference to Exhibit 10 of the Quarterly Report on Form 10-Q filed on
+ November 16, 1998)
+
+10.3 1998 Employee Stock Purchase Plan
+
+10.4 Employment Agreement of Linda A. Mason
+
+10.5 Amended and Restated Employment Agreement of Marguerite W. Sallee
+ (Incorporated by reference to Exhibit 10.5 of the Annual Report on Form
+ 10-K filed on March 29, 2000)
+
+10.6 Employment Agreement of Roger H. Brown
+
+10.7 Severance Agreement for Stephen I. Dreier (Incorporated by Reference to
+ Exhibit 10.8 of the Registration Statement on Form S-1 of Bright
+ Horizons, Inc. (Registration No. 333-14981))
+
+10.8 Severance Agreement for Elizabeth J. Boland (Incorporated by Reference
+ to Exhibit 10.9 of the Registration Statement on Form S-1 of Bright
+ Horizons, Inc. (Registration No. 333-14981))
+
+10.9 Severance Agreement for David H. Lissy (Incorporated by Reference to
+ Exhibit 10.11 of the Registration Statement on Form S-1 of Bright
+ Horizons, Inc. (Registration No. 333-14981))
+
+10.10 Severance Agreement for Melanie Ray
+
+10.11 Severance Agreement for Michael Day
+
+10.12 Form of Indemnification Agreement
+
+10.13 Credit Agreement, dated as of March 30, 2000, among Bright Horizons
+ Family Solutions, Inc. as Borrower, the Lenders party thereto, and
+ Fleet National Bank, as Agent for the Lenders (certain schedules and
+ exhibits to this document are omitted from this filing, and the
+ Registrant agrees to furnish supplementally a copy of any omitted
+ schedule or exhibit to the SEC upon request) (Incorporated by Reference
+ to Exhibit 10.1 of the Quarterly Report on Form 10-Q filed on May 12,
+ 2000)
+
+10.14 Revolving Credit Note, dated March 30, 2000, payable to the Bank of
+ America, N.A. in the principal amount of 15,000,000 (Incorporated by
+ Reference to Exhibit 10.2 of the Quarterly Report on Form 10-Q filed on
+ May 12, 2000)
+
+10.15 Revolving Credit Note, dated March 30, 2000, payable to the Fleet
+ National Bank in the principal amount of 25,000,000 (Incorporated by
+ Reference to Exhibit 10.3 of the Quarterly Report on Form 10-Q filed on
+ May 12, 2000)
+
+23.1 Consent of Arthur Andersen LLP
+- -----------------------
+ Incorporated by Reference to the Registration Statement on Form S-4
+ filed on June 17, 1998 (Registration No. 333-57035).
+
+47
+
+<EX-23.1>
+ 2
+ g68036ex23-1.txt
+ CONSENT OF ARTHUR ANDERSEN LLP
+
+1
+ EXHIBIT 23.1
+
+ CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+As independent public accountants, we hereby consent to the incorporation of our
+report dated February 8, 2001 included in this Form 10-K, into Bright Horizons
+Family Solutions, Inc.'s previously filed Registration Statement on Form S-8
+(File No. 333-60023).
+
+/s/ Arthur Andersen LLP
+- -----------------------
+Boston, Massachusetts
+March 29, 2001
+
+48
+
+</EX-23.1>
+

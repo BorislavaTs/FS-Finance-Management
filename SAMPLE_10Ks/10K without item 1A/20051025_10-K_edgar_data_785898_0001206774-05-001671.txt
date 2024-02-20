@@ -1,0 +1,3823 @@
+<Header>
+<FileStats>
+    <FileName>20051025_10-K_edgar_data_785898_0001206774-05-001671.txt</FileName>
+    <GrossFileSize>804464</GrossFileSize>
+    <NetFileSize>184527</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>494995</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>2</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001206774-05-001671.hdr.sgml : 20051025
+<ACCEPTANCE-DATETIME>20051025154857
+ACCESSION NUMBER:		0001206774-05-001671
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20041231
+FILED AS OF DATE:		20051025
+DATE AS OF CHANGE:		20051025
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CORPORATE REALTY INCOME FUND I L P
+		CENTRAL INDEX KEY:			0000785898
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE [6500]
+		IRS NUMBER:				133311993
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-15796
+		FILM NUMBER:		051154442
+
+	BUSINESS ADDRESS:	
+		STREET 1:		475 FIFTH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10117
+		BUSINESS PHONE:		2126960701
+
+	MAIL ADDRESS:	
+		STREET 1:		475 FIFTH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QkN8MxHGguewg3N/RUP5WuxHXOPZebfs81COpvYwxvsDWIDRpLXKp32asMM+bsgE
+ lBgM2gZfwp3ry1CyEVuPYA==
+
+ 0001206774-05-001671.txt : 20051025
+
+10-K
+ 1
+ cr107251.htm
+ FORM 10-K
+
+OMB APPROVAL 
+
+OMB Number: 3235-0063 
+
+Expires: July 31, 2008 
+
+Estimated average burden hours per response..2,196.00 
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, D.C. 20549 
+ 
+ FORM 10-K 
+ 
+ FOR ANNUAL AND TRANSITION REPORTS PURSUANT TO SECTIONS 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+(Mark One) 
+
+x 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended December 31, 2004 
+
+OR 
+
+o 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from __________ to __________ 
+
+Commission File Number: 0-15796 
+
+CORPORATE REALTY INCOME FUND I, L. P. 
+
+(Exact Name of Registrant as Specified in Its Charter) 
+
+Delaware 
+
+13-3311993 
+
+(State or Other Jurisdiction of Incorporation or Organization) 
+
+(I.R.S. Employer Identification No.) 
+
+475 Fifth Avenue, New York, NY 
+
+10017 
+
+(Address of Principal Executive Offices) 
+
+(Zip Code) 
+
+Registrant s telephone number, including area code: 212-696-0701 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of Each Class 
+
+Name of Each Exchange on Which Registered 
+
+None 
+
+Not Applicable 
+
+Securities registered pursuant to Section 12(g) of the Act: 
+
+Depositary Units of Limited Partnership 
+
+(Title of Class) 
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes 
+ o No 
+ x 
+ 
+ Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. 
+ x 
+ 
+ Indicate by check mark whether the registrant is an accelerated filer (as defined in Exchange Act Rule 12b-2). Yes 
+ o No 
+ x 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+ o No 
+ x 
+ 
+ State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant s most recently completed second fiscal quarter. 25,000,205 . 
+ 
+ Documents Incorporated by Reference in this Form 10-K 
+ 
+ None. 
+
+CORPORATE REALTY INCOME FUND I, L. P. 
+
+ Annual Report on Form 10-K 
+ 
+ December 31, 2004 
+ 
+ TABLE OF CONTENTS 
+
+PAGE 
+
+PART I 
+
+1 
+
+Item 1. 
+
+Business 
+
+1 
+
+Item 2. 
+
+Properties 
+
+9 
+
+Item 3. 
+
+Legal Proceedings 
+
+17 
+
+Item 4. 
+
+Submission of Matters to a Vote of Security Holders. 
+
+17 
+
+PART II 
+
+18 
+
+Item 5. 
+
+Market for Registrant s Securities, Related Security Holder Matters and Issuer Purchases of Equity Securities 
+
+18 
+
+Item 6. 
+
+Selected Financial Data 
+
+20 
+
+Item 7. 
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+21 
+
+Item 7A. 
+
+Quantitative and Qualitative Disclosures About Market Risk 
+
+30 
+
+Item 8. 
+
+Financial Statements and Supplementary Data 
+
+32 
+
+Item 9. 
+
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+
+34 
+
+Item 9A. 
+
+Controls and Procedures 
+
+34 
+
+Item 9B. 
+
+Other Information 
+
+34 
+
+PART III 
+
+35 
+
+Item 10. 
+
+Directors and Executive Officers of the Registrant 
+
+35 
+
+Item 11. 
+
+Executive Compensation 
+
+37 
+
+Item 12. 
+
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+
+38 
+
+Item 13. 
+
+Certain Relationships and Related Transactions 
+
+39 
+
+Item 14. 
+
+Principal Accountant Fees and Services 
+
+40 
+
+ITEM IV 
+
+41 
+
+Item 15. 
+
+Exhibits and Financial Statement Schedules 
+
+41 
+
+iii 
+
+PART I 
+
+Item 1. 
+
+Business . 
+
+General 
+ 
+ Corporate Realty Income Fund I, L.P. Registrant is a Delaware limited partnership organized on November 25, 1985 pursuant to the Delaware Revised Uniform Limited Partnership Act. The general partners of Registrant are 1345 Realty Corporation, a Delaware corporation (the Corporate General Partner ), and Robert F. Gossett, Jr. (the Individual General Partner (collectively, the General Partners ). The limited partners of Registrant are hereinafter collectively referred to as the Limited Partners. 
+ 
+ Registrant organized two subsidiaries in March 1999 in connection with the financing of its property at 475 Fifth Avenue, New York, New York. One subsidiary, 475 Fifth Avenue Limited Partnership (the Subsidiary Partnership ), a Delaware limited partnership, owns 475 Fifth Avenue. The other subsidiary, 475 Fifth-GP, Inc. (the Subsidiary Corporation ), a Delaware corporation, is the sole general partner of the Subsidiary Partnership. Registrant is the sole limited partner of the Subsidiary Partnership, with a 99 interest in all items of income, gain, loss, and deduction, and the sole shareholder of the Subsidiary Corporation. 
+ 
+ In October 2003, Registrant organized an indirect wholly-owned subsidiary to manage its New York property. This newly organized subsidiary, 475 Fifth Avenue Management Corporation (the Management Corporation ), a New York corporation, is a direct wholly-owned subsidiary of the Subsidiary Partnership. 
+
+ On March 26, 1986, Registrant commenced an offering (the Offering of 80,000,000 of depositary units of limited partnership interest (the Units ). Registrant terminated the Offering in September 1987, having issued 3,200,000 Units 80,000,000) and received net proceeds from the Offering (after deduction for organization and offering expenses of 5,948,103) aggregating 74,051,897. Since the Offering, Registrant has invested aggregate funds in excess of 100,000,000 (including 40,000,000 of financing proceeds) in acquiring and improving its properties, which currently number four. In October 2004, Registrant sold a fifth property, the Directory Building located in Las Colinas, Texas, as described below. In April 2005, Registrant sold a sixth property, the Tumi Building located in South Plainfield, New Jersey, as described below. 
+ 
+ Registrant s business consists of owning and leasing to others the properties described in Item 2 below. Registrant s properties are leveraged as described below. 
+ 
+ None of the tenants at Registrant s properties accounted for more than 10 of Registrant s total rental revenue from continuing operations during the years ended December 31, 2002, 2003, and 2004; however, rental revenue from the following tenant accounted for more than 10 of Registrant s total rental revenue, including discontinued operations, during those years: 
+
+a. 
+
+For 2002, Verizon Directories Corp. Verizon as tenant in the Directory Building (20 ). 
+
+b. 
+
+For 2003, Verizon as tenant in the Directory Building (18 ). 
+
+c. 
+
+For 2004, Verizon as tenant in the Directory Building (17 ). 
+
+Directory Building 
+ 
+ On October 18, 2004, Registrant sold the land, building and other improvements, leases, rents, security deposits, and other rights and property known as the Directory Building situated in Las Colinas, Texas to FSP 5601 Executive Drive Limited Partnership Directory Purchaser ). There is no material relationship, other than in respect of the sale of the Directory Building, between Directory Purchaser and Registrant or any of Registrant s affiliates, general partners, officers or directors of such general partners, or any associate of such general partners, officers, or directors. 
+ 
+ Registrant owned fee title to the Directory Building and its 6.67 acres of underlying land, subject to the lien of a first mortgage line-of-credit loan (the Fleet Loan from Fleet National Bank Fleet ), a Bank of America company. The Directory Building was built in 1982 and contains approximately 152,100 net rentable square feet. 
+
+ The building was 100 leased to Verizon Directories Corp. Verizon ). Verizon had the right to buy out the lease Verizon Early Termination Right after December 31, 2005 upon payment to Registrant of a penalty equal to the unamortized portion (approximately 960,000) of tenant improvements, leasing commissions, and rent concessions funded by Registrant in connection with the most recent extension of the lease. 
+ 
+ The sale price paid by Directory Purchaser for the Directory Building was 16,100,000 (the Directory Purchase Price ). The Directory Purchase Price was paid in immediately available U.S. funds at the closing of the purchase and sale (the Directory Closing ). In connection with the sale of the Directory Building, Verizon waived the Verizon Early Termination Right upon payment by Registrant of a rent refund in the approximate amount of 247,000. By obtaining Verizon s waiver, Registrant received the entire Directory Purchase Price, net of closing adjustments and expenses, at the Directory Closing; without this waiver, 2,500,000 of the Directory Purchase Price would have been withheld pending Verizon s determination as to whether it would exercise the Verizon Early Termination Right. 
+ 
+ At the Directory Closing, Directory Purchaser released Registrant from and waived all claims and liability which Directory Purchaser may have against Registrant for any structural, physical and environmental condition of the Directory Building including, without limitation, the presence, discovery, or removal of any hazardous materials in, at, about, or under the Directory Building. 
+ 
+ Registrant paid sales commissions to third parties aggregating 241,500 in connection with the sale of the Directory Building to Directory Purchaser. Registrant also paid or incurred operating adjustments, escrow fees, and title charges aggregating approximately 226,000 in connection with the sale of the Directory Building. At Directory Closing, Registrant also paid outstanding leasing commissions payable under the Verizon lease of approximately 244,000 and other outstanding accounts payable attributable to this property in the approximate amount of 63,000. Registrant also paid to the title company an aggregate of approximately 449,000 with respect to real estate taxes, of which approximately 100,000 was returned to Registrant in October 2004. 
+
+ At Directory Closing, Registrant paid down the Fleet Loan by 13,000,000 so that, after all costs, expenses, and payments, Registrant received net proceeds aggregating approximately 1,730,000 from the sale of the Directory Building. Registrant has used such proceeds to augment working capital, including the funding of tenant improvements at its properties and reducing accounts payable and accrued expenses. 
+ 
+ 2 
+
+Registrant acquired the Directory Building in October 1986 for a purchase price of approximately 24,580,000, inclusive of acquisition fees. At December 31, 2003, the Directory Building had a book value of approximately 15,542,000, net of accumulated depreciation and an impairment write-down of approximately 1,895,000 to reduce the carrying amount of the Directory Building to fair value, less costs of sale, at December 31, 2003. Registrant recognized a loss of approximately 66,000 in 2004 on the sale of the Directory Building. 
+ 
+ Tumi Building 
+ 
+ On April 25, 2005, Registrant sold the land, building and other improvements, leases, rents, security deposits, and other rights and property known as the Tumi Building situated in South Plainfield, New Jersey to Vision Systems Group, Inc Tumi Purchaser ). There is no material relationship, other than in respect of the sale of the Tumi Building, between Tumi Purchaser and Registrant or any of Registrant s affiliates, general partners, officers or directors of such general partners, or any associate of such general partners, officers, or directors. 
+ 
+ Registrant owned fee title to the Tumi Building and its five acres of underlying land, subject to the lien of the Fleet Loan. The Tumi Building was built in 1986 and contains approximately 107,900 net rentable square feet. 
+
+ As of April 25, 2005, the property was approximately 85.2 leased, with 45,700 square feet leased to Tumi, Inc. (at a current rent of 16.00 per square foot for an initial term expiring in January 2011) and the remainder at an average current rent of approximately 19.46 per square foot. Such other leases expire in October 2005 (approximately 9,980 square feet), June 2008 (approximately 23,540 square feet), November 2008 (approximately 6,110 square feet), and November 2009 (approximately 6,600 square feet). Registrant also entered into a lease through November 2005 with AT T Wireless PCS, LLC, to permit installation and operation of a cellular telephone tower on the roof of the Tumi Building, at an annual rental of 19,800. 
+ 
+ On March 9, 1999, Gdynia America Line, Inc., a tenant occupying approximately 21,650 square feet (20.3 in the Tumi Building filed for protection under Chapter 11 of the U.S. Bankruptcy Code. Polish Ocean Lines, a Polish corporation partially owned by the Polish Government, is jointly and severally obligated under this lease. On or about April 30, 1999, the lease, with a term expiring in May 2007 and annual rental payments of approximately 446,000, was rejected in the bankruptcy proceeding. In July 2000, Registrant obtained a judgment in an action in the Superior Court of New Jersey Law Division; Middlesex County against Polish Ocean Lines in the approximate amount of 618,600. On May 4, 2001, the amount of this judgment was increased to approximately 4,389,400. Registrant is pursuing enforcement of its judgment in Poland and on November 29, 2004, the Supreme Court of Poland
+announced its ruling recognizing enforceability of a New Jersey judgment in Poland. The Polish Supreme Court has sent the matter back to a lower court to determine enforceability of Registrant s judgment in light of the Supreme Court s ruling. Despite this favorable ruling, there can be no assurance as to Registrant s ability to collect any of the judgment against Polish Ocean Lines. Approximately 11,130 square feet of this space in the Tumi Building remains vacant. The sale of the Tumi Building did not include Registrant s judgment against Polish Ocean Lines or any rights Registrant may have or hereafter acquire with respect to its litigation against Polish Ocean Lines. 
+
+ The sale price paid by Purchaser for the Tumi Building was 9,750,000 (the Tumi Purchase Price ). The Tumi Purchase Price was paid payable in immediately available U.S. funds at the closing of the purchase and sale (the Tumi Closing ). Pursuant to an amendment to the Purchase and Sale Agreement, Registrant granted Tumi Purchaser a credit against the Tumi Purchase Price in the amount of 310,000, in exchange for which Registrant s obligation to renovate the building lobby was discharged. 
+ 
+ 3 
+
+At the Tumi Closing, Tumi Purchaser released Registrant from and waived all claims and liability which Tumi Purchaser may have against Registrant for any structural, physical and environmental condition of the Tumi Building including, without limitation, the presence, discovery, or removal of any hazardous materials in, at, about, or under the Tumi Building. 
+ 
+ Registrant paid sales commissions to third parties aggregating 283,200 in connection with the sale of the Tumi Building to Tumi Purchaser. Registrant also paid transfer taxes and recording fees aggregating approximately 115,600 in connection with a sale of the Tumi Building. At Tumi Closing, Registrant also paid outstanding real estate taxes and leasing commissions related to the Tumi Building of approximately 295,300 and 40,400, respectively. 
+ 
+ At Tumi Closing, Registrant was obligated to pay down the Fleet Loan by 6,517,500 (the Tumi Paydown Proceeds ). Registrant invested the Tumi Paydown Proceeds with Fleet Bank on terms that paid down the Fleet Loan on May 10, 2005. After the paydown of the Fleet Loan and all other costs, expenses, and payments, Registrant received net proceeds aggregating approximately 2,132,000 from the sale of the Tumi Building. Registrant intends to use such proceeds to augment working capital, including the funding of tenant improvements at its properties and reducing accounts payable and accrued expenses. 
+
+ Registrant acquired the Tumi Building in December 1986 for a purchase price of approximately 16,473,000, inclusive of acquisition fees. At December 31, 2003, the Tumi Building had a book value of approximately 8,987,000, net of accumulated depreciation and a write-down of 2,635,000 to reduce the carrying amount of the Tumi Building to fair value, less costs of sale, at December 31, 2003. 
+ 
+ 475 Fifth Avenue Loan 
+ 
+ On August 9, 1999, the Subsidiary Partnership obtained a first mortgage loan (the 475 Loan from Heller Financial, Inc. Heller in the amount of 32,000,000. On such date, Registrant paid down approximately 23,381,000 of the Fleet Loan (see Bank of America Loan below) to release the lien of the Fleet Loan from 475 Fifth Avenue and subject the property to the lien of the 475 Loan. The balance of proceeds borrowed by the Subsidiary Partnership from Heller, after payment of loan broker fees and costs and other closing costs, were used to provide cash to fund capital improvements and leasing costs at 475 Fifth Avenue and to augment working capital. As of October 13, 2005, the outstanding principal balance of the 475 Loan was approximately 30,378,000. Although, as of October 13, 2005, Registrant was current in payments under the 475 Loan, it
+has been in arrears by as much as approximately 482,000 (two months) under that loan. The holder of the 475 Loan has never declared a default or imposed a default rate of interest under that loan. 
+ 
+ The 475 Loan is evidenced by a Consolidated and Restated Promissory Note, a Mortgage Consolidation, Assignment of Rents, Security Agreement and Fixture Filing, and a Hazardous Substance Indemnification Agreement (collectively, the 475 Loan Agreements ). 
+ 
+ The 475 Loan matures on September 1, 2009 and bears interest at a rate of 8.27 per annum. The 475 Loan requires monthly payments of interest plus principal payments based on a 30-year amortization schedule. The monthly payments amount to 240,855. 
+
+ The Subsidiary Partnership may prepay the 475 Loan, in full but not in part, on the first day of any calendar month and upon at least 30 days prior written notice, upon payment of all accrued and unpaid interest and any fees and costs, together with an additional payment equal to the greater of (i) an amount equal to one percent (1 of the then outstanding principal amount or (ii) a yield maintenance amount equal to the present value of a series of monthly amounts assumed to be paid from the date of prepayment through the maturity date of the 475 Loan. The yield maintenance amount preserves for the holder of the 475 Loan Agreements (the Holder a fixed yield tied to a United States Treasury obligation with a term equal to that remaining on the 475 Loan on the date of prepayment. 
+ 
+ 4 
+
+Any payments not received by the Holder within 10 days after the due date will incur a late charge equal to five percent (5 of the amount of such payment. Overdue amounts, whether at maturity, by acceleration, or otherwise will bear interest at a rate equal to five percent (5 above the otherwise applicable interest rate. 
+ 
+ The 475 Loan is secured by a first mortgage lien, an assignment of rents, a security agreement, and a fixture filing on 475 Fifth Avenue, including the improvements, machinery, equipment, mechanical systems, personal property, management contracts, permits, certificates, licenses, agreements, trademarks, trade names, books and records, and any monies on deposit with or for the benefit of the Holder relating to this property. This loan also is secured by an assignment of Registrant s management agreement with the Subsidiary Partnership. 
+ 
+ Heller sold the 475 Loan pursuant to a mortgage-backed securitized plan as of February 10, 2000. The 475 Loan is currently serviced by Midland Loan Services. 
+
+ The 475 Loan currently has three separate reserves: 
+ 
+ 1. The first, a property tax escrow, requires monthly payments sufficient to enable all real estate taxes against 475 Fifth Avenue to be paid before they become due and payable. The property tax reserve has a balance of approximately 867,000 as of October 13, 2005; 
+ 
+ 2. The second, a replacement reserve, was funded with 200,000 of the proceeds of the 475 Loan. This reserve is to be utilized to fund capital improvements reasonably approved in advance by Heller. The replacement reserve accrues interest for the Subsidiary Partnership s benefit at a non-personal money market rate. If the balance of this reserve falls below 200,000, the Subsidiary Partnership must make monthly deposits of 4,000 until the balance of the replacement reserve equals 200,000. In August 2003, the Subsidiary Partnership withdrew approximately 202,800 from the replacement reserve to fund capital improvements at 475 Fifth Avenue. In June 2005, the Subsidiary Partnership withdrew an additional sum of 80,000 from this reserve. As of October 13, 2005, the balance in this account was
+approximately 25,000; 
+ 
+ 3. The third, a repair reserve, was funded with 1,967,000 of the proceeds of the 475 Loan and combined with an additional repair reserve of 533,000. This reserve is utilized to fund capital improvements determined in the Subsidiary Partnership s sole discretion. The capital improvements reserve accrues interest for the Subsidiary Partnership s benefit at a non-personal money market rate. As of October 13, 2005 the Subsidiary Partnership had funded capital improvements aggregating approximately 2,633,000 from the repair reserve and the balance in this account was approximately 297. 
+
+ The 475 Loan Agreements require the Holder s prior written consent to the execution or material modification or amendment of any lease of 15,000 or more rentable square feet at 475 Fifth Avenue. 
+ 
+ An event of default under the 475 Loan Agreements includes the following: 
+ 
+ 1. the failure to make any payment within 10 days of the due date thereof; 
+ 
+ 2. any sale or transfer of 475 Fifth Avenue or any interest therein or any controlling interest therein; 
+ 
+ 5 
+
+3. the imposition of any lien against 475 Fifth Avenue; and 
+ 
+ 4. filing of any petition under the United States Bankruptcy Code or any similar law or regulation by or against Registrant, the Subsidiary Partnership, or the Subsidiary Corporation. 
+ 
+ Upon the occurrence of an event of default under the 475 Loan Agreements, the Holder may enforce one or more of its remedies, including the following: 
+ 
+ 1. the right to declare all principal, interest, and other amounts due under the 475 Loan to be due and payable immediately; 
+ 
+ 2. the right to require that 475 Fifth Avenue (including all equipment, fixtures, agreements, and other rights and interests relating thereto) be sold at auction to the highest bidder; and 
+
+ 3. to take possession of, manage, and collect the rents from the property. 
+ 
+ The Subsidiary Partnership and Robert F. Gossett, Jr., the Individual General Partner of Registrant, have agreed to indemnify and hold harmless the Holder and its officers, directors, employees, shareholders, agents, and affiliates from and against any and all liabilities, obligations, deficiencies, demands, claims, actions, assessments, losses, costs, expenses, interest, fines, penalties, and damages resulting from or arising out of or by virtue of the presence of hazardous materials on or from 475 Fifth Avenue. Mr. Gossett also has assumed joint and several liability to pay the Holder for certain losses, damages, costs, and expenses incurred by the Holder in connection with the 475 Loan. 
+ 
+ Bank of America Loan 
+ 
+ Registrant s properties, other than 475 Fifth Avenue, are subject to the lien of a first mortgage line-of-credit loan (the Bank of America Loan from Bank of America, N.A. Bank of America ), a successor by merger to Fleet, that resulted from an extension and amendment of the Fleet Loan . On October 18, 2004, Registrant paid down the Fleet Loan by 13,000,000 from the proceeds of the sale of the Directory Building. On April 25, 2005, Registrant was required to pay down the Fleet Loan by 6,517,500 with proceeds from the sale of the Tumi Building. To avoid breaking a 30-day LIBOR contract prior to its maturity on May 10, 2005, Registrant invested the Tumi Paydown Proceeds with Fleet Bank pursuant to an interest-bearing instrument that paid down the Fleet Loan by approximately 6,524,000 on May 10, 2005. 
+ 
+ On August 9, 2005 Registrant entered into a First Amendment to Amended and Restated Loan Agreement with Bank of America, pursuant to which the Fleet Loan (which had an outstanding principal balance of approximately 3,104,000) was extended and amended. The Bank of America Loan features a 3,000,000 loan advance, an extended maturity date of August 15, 2007, and certain other changes as described below. Upon closing, the outstanding principal balance of the Bank of America Loan was approximately 6,104,000, including the 3,000,000 advance. As of October 11, 2005, the outstanding principal balance of the Bank of America Loan was approximately 6,074,000. 
+
+ The 3,000,000 advance made at closing of the Bank of America Loan must be held in a separate account at Bank of America s New York branch. Of such advance, 1,000,000 may be used only for tenant improvements, leasing commissions, and capital improvements at the secured properties. As of October 20, 2005, Registrant had used all of such dedicated 1,000,000 of loan proceeds to fund tenant improvements, leasing commissions, and capital improvements at its secured properties. Registrant may use the balance of the advance for any lawful purpose other than making distributions to its partners. Registrant has granted Bank of America a security interest in and lien upon the deposit account pursuant to a Control Account Agreement. 
+ 
+ 6 
+
+A First Amendment to Amended and Restated Secured Promissory Note, a First Amendment to Amended and Restated Loan Agreement, a Confirmation of Environmental Compliance and Indemnification Agreement, and a Control Account Agreement, together with the underlying promissory note, loan agreement, and environmental compliance and indemnification agreement executed with Fleet (collectively, the Bank of America Loan Agreements ), evidence the Bank of America Loan. The Bank of America Loan is secured by a first mortgage lien, an assignment of rents, a security agreement, and a fixture filing on and from each of Registrant s properties, other than 475 Fifth Avenue, including the improvements, equipment, furnishings, proceeds, books and records, and all payments related thereto, which consists of the following three properties: the LightCross Building (formerly the Monterey Park
+Building); the Mercury Insurance Group Building (formerly the Marathon Oil Building); and the Alamo Towers. 
+ 
+ The Bank of America Loan matures on August 15, 2007 (extended from the Fleet Loan s maturity date of September 30, 2005). Registrant paid a facility fee in the amount of 45,000 in connection with the Bank of America Loan. Registrant also paid title insurance, appraisal, and other closing costs aggregating approximately 50,000 plus fees to the lender s counsel in the amount of 26,000. Registrant had paid extension fees in the approximate amount of 55,950 and 24,440 in September 2003 and September 2004, respectively, to extend the Fleet Loan. 
+
+ The Bank of America Loan bears interest at Bank of America s Prime Rate, plus one-half percent (0.5 per annum or, if Registrant so chooses, at the LIBOR rate (offered rates for Eurodollar deposits) (any such rate, a Fixed Rate ), plus two percent (2.0 per annum. The Prime Rate is the rate announced from time to time by Bank of America as a means of pricing some of its loans to customers (not necessarily the lowest rate actually charged to any customer class or category). Registrant may elect to pay interest based on a Fixed Rate on the whole or a portion of the outstanding principal amount, upon notice to Bank of America, but only in amounts of at least 1,000,000 and in additional integral multiples of 100,000. The Prime Rate as of October 11, 2005 was 6.75 (interest using this rate would be at 7.25 and the 30-day Fixed Rate as of October 11, 2005 was 3.94 
+(interest using this rate would be at 5.94 ). The entire aggregate outstanding balance of the Bank of America Loan as of October 11, 2005 bears interest at the rate of 5.94 . 
+ 
+ The Bank of America Loan requires monthly payments of interest plus principal payments equal to approximately 12,200 (changed from 1/500th of the then outstanding principal balance). The Bank of America Loan may be prepaid at any time, on notice, in whole or in part (a minimum of 1,000,000 and additional integral multiples of 100,000). Any such prepayment will be without premium or penalty with respect to funds bearing interest based on the Prime Rate or, if the prepayment is made on the last day of the applicable interest period, with respect to funds bearing interest based on a Fixed Rate; however, a prepayment at any other time of funds bearing interest based on a Fixed Rate will require payment of a breakage fee, which guarantees Bank of America a fixed rate yield maintenance tied to United States Treasury obligations for the period from the date of prepayment to the end of the
+applicable interest period. 
+ 
+ Any payments not received by Bank of America within 10 days after the due date will incur a late charge equal to four percent (4 of the amount of such payment. Overdue amounts, whether at maturity, by acceleration, or otherwise will bear interest at a rate equal to four percent (4 above the otherwise applicable interest rate. 
+
+ 7 
+
+The Bank of America Loan Agreements contain continuing covenants regarding Registrant s financial condition and the conduct of its operations. Registrant s debt service coverage ratio (the ratio of projected net income from operations of Registrant s properties, adjusted for depreciation, amortization, fees paid to the General Partners, and step rent receivables, to projected loan amortization payments) cannot be less than 1.50 to 1.0 and its loan to value ratio (the ratio of the outstanding principal balance of the Bank of America Loan to the appraised value of the secured properties) cannot exceed fifty-five percent (55 ). In addition, Registrant must maintain a liquid net worth (cash, short-term investments, and marketable securities) of at least 500,000 (reduced from 1,000,000) and its total liabilities may not exceed sixty percent (60 of the appraised value of the
+secured properties. At December 31, 2004, Registrant was in compliance with all of the Fleet Loan s financial covenants except for the liquid net worth covenant. The Bank of America Loan Agreements also provide that Registrant may distribute to its partners up to 90 of the sum of its cumulative net income from real estate operations, adjusted for depreciation, amortization and write-off of step rent receivables. Compliance with this distribution provision is tested as of the last day of each fiscal quarter for the period from and including January 1, 2001 through the date as of which compliance is tested. As of December 31, 2004, Registrant was in compliance with the cash distribution covenant. Registrant must also obtain Bank of America s consent, not to be unreasonably withheld or delayed, to any lease of 10,000 or more rentable square feet. 
+ 
+ Bank of America s mortgage lien against any of Registrant s secured properties will be released only upon payment of an amount equal to 100 (reduced from 110 of the loan amount allocated to such property or 100 of the gross sales price or principal amount of refinancing, if greater. In addition, such lien will be released only if Registrant s remaining properties satisfy the debt service coverage ratio and loan to value ratio. 
+
+ Upon the occurrence of an event of default under the Bank of America Loan Agreements (which includes the failure to make any payment within 10 days of the due date thereof and a failure to comply with its financial covenants which continues for 30 days), Bank of America may enforce one or more of its remedies, including the right to (i) declare all principal and interest on the Bank of America Loan to be due and payable immediately, (ii) require any or all of Registrant s secured properties (including all equipment, fixtures, agreements, and other rights and interests relating thereto) to be sold at auction to the highest bidder, and (iii) collect any and all rents from the properties. 
+ 
+ Registrant has also confirmed its agreement to indemnify and hold harmless Bank of America and its officers, directors, employees, agents, representatives, contractors and subcontractors, and their respective successors and assigns from and against any and all claims, liability, costs, and expenses arising out of the presence and/or clean-up of hazardous materials on or affecting Registrant s secured properties. 
+ 
+ Financing Policies 
+ 
+ Registrant s original intention was to maintain a loan to value ratio of 50 , whereby Registrant s total borrowings would approximate 50 of the sum of (i) the appraised values of its existing properties plus (ii) the purchase price of any additional properties acquired by Registrant. Registrant is not limited by its Partnership Agreement as to borrowing for any individual property; the aggregate borrowings on all properties may not exceed an amount equal to the sum of (x) 60 of the aggregate purchase price of all properties which are not refinanced plus (y) 80 of the aggregate value of all refinanced properties. As of December 31, 2004, Registrant had a loan to appraised value ratio of approximately 47.6 . The partial pay down of the Fleet Loan with proceeds from the sale of the Tumi Building reduced the loan to value ratio to approximately 44.6 as of May 10,
+2005. 
+
+ 8 
+
+The Fleet Loan and the 475 Loan enabled Registrant to acquire and improve properties, but with an increased risk of loss on its properties. Registrant exhausted its borrowing capacity under those loans, but the Bank of America Loan provided 3,000,000 in additional funding. Other than those funds and any funds generated if and to the extent Registrant is successful in leasing vacant space at its properties, Registrant must rely on the sale of one or more of its properties to fund further tenant improvements and capital improvements at its properties, particularly 475 Fifth Avenue, the Mercury Insurance Building, and the Alamo Towers. To this end, Registrant sold the Directory Building in October 2004 and the Tumi Building in April 2005. In August 2005, Registrant made a decision to market the Alamo Towers in San Antonio, Texas for sale. Registrant has yet to solicit offers to
+
+purchase this property and there is no assurance that it will be able to sell the Alamo Towers on acceptable terms. To be profitable, Registrant s properties must generate cash flow in amounts sufficient to not only cover operating expenses but also to pay all financing costs. 
+ 
+ Registrant s objectives in making its investments continue to be to (i) preserve and protect Registrant s capital; (ii) provide long term capital appreciation, generating long term capital gains for federal income tax purposes upon sale of the properties; (iii) build up equity through the reduction of mortgage loans encumbering the properties; and (iv) provide cash distributions from operations which may be partially tax-sheltered. To date, Registrant has had limited success in realizing these goals and there is no assurance that these objectives will be achieved in the future. 
+ 
+ Competition 
+ 
+ The LightCross Building is fully leased to a single tenant on a net lease or substantially equivalent basis and does not face competition from other properties during the term of such lease. However, upon termination of this lease, and for any of Registrant s other properties, Registrant does, and will continue to, compete with other properties for tenants. Depending upon market conditions and occupancy rates at the time and place of any vacancies in Registrant s properties, there is currently and there may be, in the future, intense competition in obtaining tenants to fill such vacancies. Furthermore, such competition has resulted and may result, because of reduced rental rates and required concessions to tenants, in decreases in the rental revenue received by Registrant and capital outlays necessary to fund tenant improvements. See Item 2 - Properties for a
+discussion of market conditions in the areas in which Registrant currently competes for tenants. 
+
+ Employees 
+ 
+ Registrant currently employs 20 persons (five of whom are part-time employees). The business of Registrant is managed by the General Partners. See Item 10 - Directors and Executive Officers of the Registrant and Item 13 - Certain Relationships and Related Transactions. 
+
+Item 2. 
+
+Properties. 
+
+LightCross Building (formerly Monterey Park Building) 
+ 
+ On July 10, 1986, Registrant acquired the LightCross Building, located in Monterey Park, California, for approximately 4,182,000, inclusive of acquisition fees. Registrant owns fee title to the LightCross Building and its 90,000 square feet of underlying land, subject to the lien of the Bank of America Loan (See Item 1. - Business-Bank of America Loan ). The property was built in 1985 and contains 22,250 net rentable square feet. The property was reconfigured in 2001 for use as office, design and development space for use pursuant to a net lease for the entire premises. 
+ 
+ 9 
+
+The building is 100 leased to Kotura, Inc. Kotura ), a successor by merger to the tenant, LightCross, Inc. LightCross ), pursuant to a lease dated as of November 17, 2000. The initial term of the lease is ten (10) years from September 1, 2001, subject to two five-year renewal options. In August 2003, Registrant executed an amendment to its lease for the LightCross Building, pursuant to which it agreed to reduce the fixed rent for the two-year period beginning September 1, 2003 by an aggregate of 250,000. LightCross sought the rent reduction to facilitate a merger (consummated in October 2003), pursuant to which LightCross became a subsidiary of Arroyo Optics, Inc. (now Kotura), and a contemplated equity offering by Kotura. In consideration of this reduction in rent, LightCross issued to Registrant a warrant to purchase, for 2,500, equity securities to be
+issued by Kotura with an initial value of 250,000. Registrant has not assigned any value to this warrant. Kotura has upgraded the LightCross Building s laboratory, testing rooms, and clean rooms and installed a fire suppression system and additional air conditioning equipment, all at Kotura s expense (approximately 800,000). 
+
+ The amended lease required approximate annual net rent of 321,197 (reduced from 446,197) through August 31, 2005 15.86 per square foot, reduced from 20.05). Annual rent increased to 458,970 in the two-year period ending August 31, 2007 20.63 per square foot) and further increases to 472,254 in the two-year period ending August 31, 2009 21.22 per square foot) and 486,070 in the two-year period ending August 31, 2011 21.85 per square foot). The lease requires payment of a fair market rental during any renewal periods. This lease is a net lease and, except for certain structural and mechanical conditions, the tenant is responsible for all costs, expenses, and obligations relating to the premises and the use, operation, occupancy, management, maintenance, and repair of the building, including insurance and real estate taxes. Kotura is a large user of electricity. 
+
+Electric rates in this area have risen greatly, the effect of which could adversely affect Kotura s financial condition. 
+ 
+ Registrant has expended an aggregate of approximately 1,651,000 in capital improvements and tenant improvements in connection with this building, 17,000 of which were incurred in 2004. Registrant did not incur any lease commissions at the LightCross Building in 2004. 
+ 
+ For the year ended December 31, 2004, Registrant paid approximately 55,000 in real property taxes with respect to the LightCross Building. At December 31, 2004, such taxes were imposed at a rate of 1.27 on an assessed value of 4,335,000. 
+ 
+ The tenant has been granted a right of first offer to purchase the LightCross Building on the same terms and conditions on which Registrant may be willing to sell the building to a third party. 
+ 
+ According to Monterey Park office surveys prepared by Charles Dunn Company, Inc. in October 2005, the Monterey Park area includes approximately 2,122,000 square feet of office space. As of October 2005, the vacancy rate for commercial properties in such area approximated 5.9 for office buildings. Gross rents per square foot in this area approximated 19.80 to 25.20 in October 2005, which would equate to approximately 13.10 to 18.50 per square foot on a net rent basis (like the LightCross lease). Registrant obtained rents from LightCross in excess of those otherwise available in the Monterey Park area in consideration of agreeing to pay for construction of a clean room at an approximate cost of 800,000. 
+
+ Mercury Insurance Group Building (formerly, Marathon Oil Building) 
+ 
+ On March 21, 1988, Registrant acquired the Mercury Insurance Group Building (formerly, Marathon Oil Building), an office building located in Oklahoma City, Oklahoma, for approximately 10,736,000, inclusive of acquisition fees. Registrant owns fee title to the Mercury Insurance Group Building with its 6.1 acres of underlying land, subject to the lien of the Bank of America Loan. The property contains approximately 91,500 net rentable square feet on two floors, plus an 8,610 square foot basement. 
+ 
+ 10 
+
+Registrant entered into a Lease Agreement dated as of June 16, 2004 with Mercury Insurance Services, LLC Mercury Insurance for approximately 50.9 of the rentable square feet in the Mercury Insurance Group Building. Mercury Insurance has leased approximately 51,200 square feet (including approximately 7,310 in the basement) in the building pursuant to a lease that expires on December 31, 2009, subject to two (2) renewals each for five (5) additional years. The commencement date of the lease was November 1, 2004. Registrant agreed to change the name of the building to the Mercury Insurance Group Building. Mercury Insurance will be entitled to name the building as long as it leases not less than 40 of the rentable space in the building and remains the lessee of the largest amount of rentable square feet in the building. Mercury Insurance also has a right of first
+
+offer to lease any additional space in the building. 
+ 
+ Annual fixed rent under Mercury Insurance s lease is approximately 486,351 10.00 per square foot, plus 6.50 per square foot for basement space), from January 1, 2005 until maturity of the primary term in December 2009. During any renewal terms, annual fixed rent will be at then market rates, not to exceed 13.00 per rentable square foot for the initial renewal term (2010 through 2014) or 15.00 per rentable square foot for the second renewable term (2015 through 2019). Mercury Insurance must also pay additional rent equal to its proportionate share (50.86 of any increases in operating costs of the building after 2005, subject to a cap on cumulative increases of 4 per annum on all operating expenses other than real estate taxes, assessments, dues, insurance, and utilities. 
+
+ Registrant paid approximately 512,000 10.00 per square foot) of tenant improvements in connection with the Mercury Insurance lease. Registrant also paid leasing commissions in the approximate amount of 152,000 in connection with this lease. 
+ 
+ Prior to executing this lease with Mercury Insurance, the office space in the building had been only approximately 14.8 leased at an average current rent of approximately 13.04 per square foot (plus approximately 3.9 of the basement space at a current rent of 5.00 per square foot). As of September 30, 2005, the office space in the building was approximately 57.2 leased at an average current rent of approximately 10.40 per square foot (plus approximately 84.9 of the basement space at a current rent of 6.50 per square foot). 
+ 
+ Marathon Oil Company had leased approximately 65,700 square feet (including approximately 4,300 in the basement) in the building pursuant to a lease that was to expire in February 2006. However, pursuant to an amendment to the lease executed in December 2003, Marathon s space was reduced to approximately 7,900 square feet as of May 1, 2004. In consideration of this reduction in space, Marathon paid Registrant lease cancellation payments totaling approximately 714,000 and the lease for the remaining space was extended by three years to February 2009. 
+ 
+ Annual rent under Marathon s lease had been approximately 869,915 13.75 per square foot, plus 6.00 per square foot for basement space) for each of the two (2) lease years ending February 2006. Marathon currently occupies approximately 8,430 square feet at an annual rent of approximately 105,338 12.50 per square foot). Marathon must also pay additional rent equal to its proportionate share (reduced from 65.65 to 8.43 since the lease amendment) of any increases in operating costs of the building after 1996. 
+ 
+ In the first quarter of 2004, a tenant occupying approximately 4,800 square feet (annual rent of approximately 67,000) vacated the building. On or about December 31, 2004 a tenant occupying approximately 5,640 square feet (plus 340 square feet of basement) vacated the space. 
+
+ 11 
+
+Registrant has been aggressively seeking replacement tenants for the building. In October 2003, Registrant hired Tom Fillmore to act as Property Manager/Leasing Agent for the Mercury Insurance Group Building. Mr. Fillmore has been soliciting brokers to generate prospective tenants. For a biographical description of Mr. Fillmore, see Item 10. Directors and Executive Officers of the Registrant. Registrant demolished interior offices in some of the vacant space in an attempt to facilitate leasing that space. 
+ 
+ The General Partners estimate that, if Registrant is successful in leasing the remaining vacant space at the Mercury Insurance Group Building, it will need to expend approximately 10 to 12 per square foot (approximately 392,000 to 470,000 if all vacant space in the building is leased) to fund tenant improvements associated with leasing that space. 
+ 
+ For the year ended December 31, 2004, Registrant paid approximately 53,000 in real property taxes with respect to the Mercury Insurance Group Building. At December 31, 2004, such taxes were imposed at a rate of 10.91 on an assessed value of 488,344. 
+ 
+ The Mercury Insurance Group Building is situated in the northwest section of Oklahoma City and is classified as Class B space. Market conditions in the northwest section of Oklahoma City have featured reduced demand and rental rates for an extended period of time; however, activity in the market improved in the second half of 2004. According to the CB Richard Ellis Year End 2004 Report, the northwest Oklahoma City market contains 58 office buildings with approximately 5,616,000 square feet of space, of which approximately 17.0 was vacant at the end of 2004. Average rents for commercial space ranged from 8.00 to 21.50 per square foot, with an average rate of 13.37 per square foot. According to the Grubb Ellis Oklahoma City Second Quarter 2005 Office Market Overview, the entire Oklahoma City market contains 140 buildings (86 Class B buildings) with approximately 15,031,000
+square feet of space (7,466,000 square feet of Class B space), of which 21.7 was vacant (17.3 of Class B space) with average rents of 13.42 per square foot 13.20 for Class B space). As of the second quarter of 2005, the northwest section of Oklahoma City contains 61 buildings (38 Class B buildings) with approximately 5,775,000 square feet of space (2,942,000 of which is classified as Class B), of which 14.5 was vacant (16.2 of Class B space) with average rents of 14.44 per square foot 13.17 for Class B space). In the first half of 2005, the Oklahoma City market enjoyed positive absorption of approximately 5,600 square feet of office space (but negative absorption of approximately 1,100 square feet for Class B space), including positive absorption of approximately 40,000 square feet of space (approximately 2,800 square feet for Class B space) in the northwest section. 
+
+ Through December 31, 2004, Registrant had expended approximately 1,100,000 on capital and tenant improvements at this building, approximately 528,000 of which was spent in 2004. In 2004, Registrant also paid approximately 149,000 in leasing commissions at the building. In 2005, Registrant installed a new air conditioning unit and extended the parking lot at the Mercury Insurance Group Building at an approximate cost of 164,000, all of which has been paid. Registrant has also incurred leasing commissions aggregating approximately 34,000 in 2005, all of which has been paid. 
+ 
+ 475 Fifth Avenue 
+ 
+ On December 6, 1996, Registrant purchased the land, building and other improvements commonly known as 475 Fifth Avenue, and situated in New York, New York, for approximately 27,440,000 including capitalized costs and related costs. The property contains a multi-tenant office building comprised of approximately 250,800 square feet (increased from approximately 243,600 square feet due to re-measuring vacant space) and is located on the southeast corner of 41st Street and Fifth Avenue in New York City; the Subsidiary Partnership owns fee title to 475 Fifth Avenue, subject to the lien of the 475 Loan. 
+ 
+ 12 
+
+475 Fifth Avenue is a 23-story office building with approximately 20,000 square feet of retail space on the first floor and basement, 225,700 square feet of office space, and 5,100 square feet of basement storage space. As of September 30, 2005, approximately 83.0 of the rentable square footage of office and retail space in the building was leased (including approximately 86.3 of the office space and 45.5 of the retail space), at an average current base rent (without reduction for any free rent periods) of approximately 41.54 per square foot (approximately 35.81 per square foot of office space and 155.43 per square foot of retail space). Following is a schedule of the expirations of such leases. The preceding occupancy and rental rates and the following schedule exclude approximately 17,020 square feet (with an annual rent of approximately 427,000) that has been vacated by a
+tenant that has filed for protection under Chapter 11 of the U.S. Bankruptcy Code. The preceding occupancy and rental rates and the following schedule include (i) approximately 13,825 square feet currently leased on a month-to-month basis to a tenant that is unable to pay most of its rent obligations and that will vacate the space when Registrant obtains a replacement tenant and (ii) approximately 3,550 square feet occupied by Registrant as its principal office at a base rent of 39.75 per square foot. 
+
+Expiration Year 
+
+Approximate Square Feet 
+
+of Total 
+
+Avg. Current Rent/Sq. Ft. 
+
+2005 
+
+31,315 
+
+12.7 
+
+32.44 
+
+2006 
+
+23,020 
+
+9.4 
+
+33.50 
+
+2007 
+
+14,052 
+
+5.7 
+
+47.27 
+
+2008 
+
+49,774 
+
+20.3 
+
+34.42 
+
+2009 
+
+16,341 
+
+6.7 
+
+36.92 
+
+2010 
+
+21,352 
+
+8.7 
+
+39.44 
+
+2013 
+
+5,472 
+
+2.2 
+
+38.60 
+
+2015 
+
+11,860 
+
+4.8 
+
+43.43 
+
+2016 
+
+16,218 
+
+6.6 
+
+91.76 
+
+2018 
+
+14,470 
+
+5.9 
+
+35.85 
+
+In August 2003, Registrant entered into a lease for approximately 3,500 square feet of retail space at 475 Fifth Avenue for a term of 12 years, 9 months at an initial rent of 660,000; the tenant s obligation to pay rent commenced in May 2004. 
+ 
+ In January 2004, Registrant obtained a judgment and warrant of eviction against one of the existing retail tenants, leasing approximately 2,950 square feet for an approximate annual base rent of 360,000; also in January 2004 the tenant filed for protection under Chapter 11 of the U.S. Bankruptcy Code. In April 2004, Registrant and the tenant agreed to a stipulation whereby the stay was modified to allow execution of the warrant for eviction, subject to Registrant s agreement to forbear from executing on the warrant and permitting the tenant to remain in possession through February 1, 2005 
+ 
+ 13 
+
+as long as the tenant complied with the terms of the stipulation. Under the stipulation, the tenant was required to discharge mechanics liens filed against the building by contractors engaged by the tenant and to pay all current rent as it comes due, 105,000 to replace the security deposit, all past due amounts (approximately 103,000) in installments through February 1, 2005, and 40,000 to reimburse Registrant for legal fees and disbursements. The tenant has paid all of such amounts due to Registrant. In April 2005, Registrant and the tenant agreed to a new stipulation pursuant to which the tenant agreed to discharge mechanics liens (in the aggregate initial amount of approximately 152,000, of which not more than approximately 89,000 remains unpaid) and to pay all current rent as it comes due. The stipulation also provides that Registrant can terminate the lease, without notice or opportunity to cure, if the tenant defaults
+
+two or more times in any 12 month period in the payment of rent beyond the notice and cure periods. The tenant s bankruptcy petition has been dismissed. 
+ 
+ In late 2002 and 2003, Registrant experienced additional office vacancies and relocations of tenants to smaller spaces aggregating approximately 30,370 square feet, with approximate annual aggregate rent of 1,147,000. In May 2003, Registrant negotiated an early termination of an office lease (an annual rent of approximately 523,000 until December 2007) in consideration of a 500,000 lease cancellation fee plus rent payments through December 2003. In addition, Registrant has obtained possession and is pursuing actions to collect rent payments with respect to office leases for approximately 33,550 square feet (with an annual aggregate rent of approximately 1,244,000; the tenants have vacated the space and filed for protection under Chapter 11 of the U.S. Bankruptcy Code; Registrant has filed proofs of claim in those bankruptcy proceedings; Registrant has leased approximately 54.9 of such
+space to replacement tenants). 
+
+ Registrant s pace of leasing vacant office space at 475 Fifth Avenue has been quickening during the period from 2001 to 2005. In 2001 and 2002, Registrant leased approximately 9,300 square feet of office space at an approximate annual base rent of 418,000. In 2003, Registrant entered into new office leases aggregating approximately 17,230 square feet of space at an approximate annual base rent of 622,000 at its New York building. In 2004, Registrant leased approximately 26,380 square feet of office space at an approximate annual base rent of 878,000 at this property. In 2005 (through September 30 th ), Registrant has entered into new office leases aggregating approximately 30,940 square feet at an approximate annual base rent of 1,101,000 (after free rent periods) at the New York building. 
+ 
+ In February 2004, Registrant entered into an exclusive rental agreement with Williams Real Estate Co. Inc. to act as the leasing agent at 475 Fifth Avenue. 
+ 
+ Registrant s leases generally provide for a base rent, inclusive of an electricity charge, plus additional rent in the form of a porter s wage and real estate tax escalation factors; Registrant may increase the electricity charge if a review demonstrates that Registrant s cost of obtaining such electricity exceeds the charge imposed on tenants. Certain tenants (leasing approximately 20 to 25 of the space in the building) have leases that provide for a base rent, inclusive of an electricity charge, plus additional rent in the form of operating expense and real estate tax escalation factors. 
+ 
+ Registrant has instituted a capital improvement program, designed to increase rental rates and the value of the building. In connection with obtaining the 475 Loan, a capital reserve schedule was prepared for 475 Fifth Avenue, detailing improvements aggregating approximately 1,840,000 over a 12-year period. Registrant has completed the following improvements at 475 Fifth Avenue: roof replacement and masonry restoration above the 19 th floor (except for the 20 th floor parapets); elevator modernization, including mechanical cables and security system; drain and drain line replacement; installation of a new electrical panel on one side of the building; continuing installation of hot water heating and sprinkler systems and upgrading of electric service and closets on floors as vacancies occur; lobby and entrance renovation; renovating restrooms to comply with Americans
+with 
+
+ 14 
+
+Disabilities Act ADA requirements on floors as vacancies occur; construction and enclosing of basement staircases to conform with building code requirements; completion of elevator interior redecoration; window replacement on two sides of the building; and demolition of vacant retail space to prepare it for marketing. Registrant intends to make the following additional improvements: masonry restoration on the lower floors of the building; continuation of hot water heating and sprinkler system installation, upgrading of electric service and closets, and renovating restrooms to comply with ADA on floors as vacancies occur; installation of back flow preventer; completing installation of the main sprinkler distribution system; installation of a new electrical panel on the other side of the building; additional lobby renovations, including security cameras, a new tenant directory, and new doors for the 41 st Street entrance; and
+continuing window replacement. Registrant estimates that such additional improvements, planned to be made over the next several years, will cost approximately 1,900,000. In 2004, Registrant expended capital improvements and tenant improvements aggregating approximately 823,000 at 475 Fifth Avenue. As of December 31, 2004, Registrant had expended approximately 12,063,000 on capital expenditures and tenant improvements at 475 Fifth Avenue. In addition, Registrant incurred leasing commissions aggregating approximately 132,000 in 2004 at 475 Fifth Avenue. In 2005, Registrant became obliged to expend approximately 1,097,000 in tenant improvements in connection with new leases, of which approximately 303,000 has yet to be paid. Registrant has also incurred leasing commissions aggregating approximately 401,000 in 2005 at its New York property, of which approximately 211,000 has yet to be paid. In 2005, Registrant has also incurred capital improvement
+obligations aggregating approximately 317,000, of which approximately 14,000 has yet to be paid. Owing to Registrant s liquidity problems that have been due largely to increased vacancies and reduced cash flow from 475 Fifth Avenue, Registrant has largely delayed its capital improvement program. The sale of the Directory Building and the Tumi Building generated some of this necessary capital and the Bank of America Loan has provided an additional source of funds. As Registrant continues to lease vacant space, it will be obliged to fund substantial leasing commissions and tenant improvements. 
+
+ Contractors and other providers have filed liens against 475 Fifth Avenue (in the aggregate initial amount of approximately 287,000, of which approximately 73,000 remains unpaid pursuant to a payment plan agreed to by the contractor) for goods and services delivered to Registrant. Additional liens (in an aggregate outstanding amount of approximately 873,000) have been filed against 475 Fifth Avenue for amounts owed by tenants in the building to contractors and other providers. If those tenants fail to satisfy those liabilities, it is uncertain whether Registrant would be obligated to pay any of those amounts. 
+ 
+ For the year ended December 31, 2004, Registrant paid approximately 1,570,000 in real property taxes with respect to 475 Fifth Avenue. At December 31, 2004, such taxes were imposed at a rate of 11.74 on an assessed value of 13,365,000. 
+ 
+ 475 Fifth Avenue is situated in the Grand Central district of the New York City midtown market. According to the Fourth Quarter 2004 GVA Williams Market Report, such district includes approximately 53,750,000 aggregate rentable square feet (vacancy rate of approximately 13.2 at December 31, 2004 and 12.1 at September 30, 2005). As of December 31, 2004 and September 30, 2005, asking rents per square foot in this district averaged approximately 47.36 and 52.56, respectively. The Midtown North District included approximately 193,186,000 aggregate rentable square feet, approximate vacancy rates of 10.7 (December 31, 2004) and 9.5 (September 30, 2005), and average asking rents per square foot of approximately 51.30 and 56.87, respectively. The entire Manhattan market included approximately 343,705,000 aggregate rentable square feet, approximate vacancy rates of 13.1 (December
+31, 2004) and 11.6 (September 30, 2005), and average asking rents per square foot of approximately 41.56 and 46.01, respectively. 
+ 
+ 15 
+
+Alamo Towers 
+
+ On March 17, 1997, Registrant purchased the land, building and other improvements commonly known as the Alamo Towers, and situated in San Antonio, Texas for approximately 12,002,000, including capitalized closing and related costs. The Alamo Towers contains a multi-tenant office building comprised of approximately 193,500 square feet (reduced from approximately 196,000 square feet when Registrant acquired the property). Registrant owns fee title to the Alamo Towers, subject to the lien of the Fleet Loan. 
+ 
+ The Alamo Towers is an office building consisting of two stand-alone 8-story towers with approximately 182,900 square feet of office space and 10,500 square feet of basement space. As of September 30, 2005, approximately 76.1 of the rentable square footage of office space in the Alamo Towers was leased, at an average current rent (base rent without reduction for any free rent periods) of approximately 15.61 per square foot. Following is a schedule of expiration of such leases. 
+
+Expiration Year 
+
+Approximate Square Feet 
+
+of Total 
+
+Avg. Current Rent/Sq.Ft. 
+
+2005 
+
+15,621 
+
+8.6 
+
+15.84 
+
+2006 
+
+39,495 
+
+21.7 
+
+16.47 
+
+2007 
+
+9,865 
+
+5.4 
+
+16.22 
+
+2008 
+
+22,123 
+
+12.2 
+
+15.48 
+
+2009 
+
+38,400 
+
+21.1 
+
+14.85 
+
+2010 
+
+7,478 
+
+4.1 
+
+14.60 
+
+2014 
+
+5,213 
+
+2.9 
+
+15.25 
+
+The Alamo Towers has yet to achieve sustainable increases in occupancy rates, primarily because of the absence of a covered parking garage. Largely as a result of increased vacancies and reduced cash flow from 475 Fifth Avenue, Registrant has delayed its capital improvement program for the Alamo Towers. In 2004, Registrant expended approximately 150,000 in leasing commissions at the Alamo Towers. As of December 31, 2004, Registrant had expended approximately 7,145,000 in capital expenditures and tenant improvements at the Alamo Towers, of which approximately 176,000 was incurred in 2004. In 2005, Registrant has incurred tenant improvements and leasing commissions aggregating approximately 65,000 and 47,000 at the Alamo Towers. Registrant has also incurred capital improvement obligations aggregating approximately 82,000 in 2005, of which approximately 75,000 remains
+unpaid. 
+ 
+ In August 2005, Registrant entered into an exclusive sales listing agreement, pursuant to which CB Richard Ellis, Inc. will use its best efforts to sell the Alamo Towers. Registrant has yet to solicit offers to purchase that property and there is no assurance that it will be able to sell the Alamo Towers on acceptable terms. If the property is not sold, Registrant may construct a covered parking garage, depending upon the availability of funds. Registrant likely will finance any such construction from cash flow generated by operations and/or financing secured by the building. The planned garage has been scaled back to a 550-car garage at an estimated cost of 3,250,000 (as contrasted to a 1,000 car garage at a cost of 6,000,000). In the future, Registrant may need to replace the East Tower roof 
+ 
+ 16 
+
+(estimated at 200,000), recaulk the glass walls and windows (estimated at 200,000), install sprinklers on all floors (estimated at 250,000), renovate the lobby, and upgrade restrooms to comply with ADA (estimated at 500,000 to 600,000), but these improvements are subject to Registrant s continued ownership of the property and are unlikely to occur in the near future. 
+
+ For the year ended December 31, 2004, Registrant paid approximately 396,000 in real property taxes with respect to the Alamo Towers. At December 31, 2004, such taxes were imposed at a rate of 3.07 on an assessed value of 12,900,000. 
+ 
+ According to the NAI Rohde, Ottmers and Siegel 2004 Global Market Report for San Antonio, as of December 31, 2004, the San Antonio office market included approximately 22,692,000 aggregate rentable square feet, of which approximately 21.1 was vacant. Asking rents in this market averaged 20.00 per square foot for Class A space and 16.37 per square foot for Class B space. According to the Grubb Ellis Second Quarter 2005 San Antonio Office Market Trends Report, the San Antonio office market has experienced seven consecutive quarters of positive absorption, including approximately 91,000 square feet in the second quarter of 2005 and 221,000 for the six months ended June 30, 2005. Vacancy rates declined to 17.7 . Asking rents declined by 0.02 per square foot, which was largely attributable to the 0.12 drop to 16.29 per square foot for Class B space. The Alamo Towers is
+
+located in the north-central market and is classified as Class B space. 
+
+Item 3. 
+
+Legal Proceedings . 
+
+Except for its actions against (i) Polish Ocean Lines, Inc. and (ii) tenants under leases for an aggregate of approximately 33,550 square feet of office space in the New York building, Registrant does not know of any material legal proceedings, other than ordinary immaterial routine litigation incidental to its business, pending against or involving Registrant or any of its properties. 
+
+ The action against Polish Ocean Lines, Inc. is attributable to the rejection of its subsidiary s lease for space in the Tumi Building. See Item 1. Business Tumi Building. In July 2000, Registrant obtained a judgment in the approximate amount of 618,600 in the Superior Court of New Jersey Law Division; Middlesex County. In May 2001, the amount of this judgment was increased to approximately 4,389,400. In November 2004, the Supreme Court of Poland recognized the enforceability of a New Jersey judgment in Poland. Registrant continues to pursue enforcement of this judgment in Poland. 
+ 
+ The tenants under leases for approximately 33,550 square feet of office space in New York have vacated the space. Registrant has obtained possession of such space and commenced actions in New York State Supreme Court, New York County, to collect rent payments. The tenants filings for protection under Chapter 11 of the U.S. Bankruptcy Code have stayed Registrant s actions. Registrant has filed proofs of claim in those bankruptcy proceedings. Registrant has leased approximately 54.9 of such space to replacement tenants. 
+
+Item 4. 
+
+Submission of Matters to a Vote of Security-Holders . 
+
+There were no matters submitted to a vote of Limited Partners or Unitholders and none were required to be submitted during the fourth quarter of the fiscal year covered by this report through the solicitation of proxies or otherwise. 
+ 
+ 17 
+
+PART II 
+
+Item 5. 
+
+Market for Registrant s Securities, Related Security-Holder Matters and Issuer Purchases of Equity Securities . 
+
+The Units of Registrant are not traded in any established public trading market. Because of certain provisions of the Internal Revenue Code of 1986, as amended (the Code ), as described below, the General Partners have not applied to include the Units for quotation or listing on any national or regional stock exchange or any other established securities market. 
+ 
+ Registrant has administered a Unit Repurchase Plan since 1995, pursuant to which Registrant, in its discretion, has purchased outstanding Units. Any such purchases are made at prices no higher than the lowest current independent offer quotation. Registrant suspended the Unit Repurchase Plan in 1998. To provide an alternative outlet for Unit sales, an affiliate of the General Partners has, since suspension of Registrant s Unit Repurchase Plan, purchased Units on the same terms and conditions as under the Unit Repurchase Plan. However, that affiliate suspended its purchases of Units in April 2004. 
+ 
+ Provisions found in Section 7704 of the Code have an adverse impact on investors in a publicly traded partnership PTP ). A PTP is a partnership whose interests are traded on an established securities market or readily tradeable on a secondary market (or the substantial equivalent thereof). If Registrant were classified as a PTP, (i) Registrant may be taxed as a corporation or (ii) income derived from an investment in Registrant would be treated as non-passive income. 
+
+ The IRS has established alternative safe harbors that allow interests in a partnership to be transferred or redeemed in certain circumstances without causing the partnership to be characterized a PTP. Although the Units are not listed or quoted for trading on an established securities market, it is possible that transfers of Units could occur in a secondary market in sufficient amount and frequency to cause Registrant to be treated as a PTP. To the extent that any proposed transfer of Units in secondary market transactions would exceed a safe harbor volume limitation, the proposed transfer will be restricted pursuant to a policy adopted by Registrant. Such a restriction could impair the ability of an investor to liquidate its investment quickly and thus, possibly prevent the reclassification of Registrant as a corporation pursuant to Code Section 7704. It is anticipated that
+Registrant s policy will remain in effect until such time, if ever, as further clarification of Code Section 7704 permits Registrant to lessen the scope of its policy. 
+ 
+ The General Partners, if so authorized, will take such steps as are necessary, if any, to prevent the reclassification of Registrant as a PTP. 
+ 
+ There are no compensation plans under which equity securities of Registrant are authorized for issuance. 
+ 
+ As of October 6, 2005, there were 1,982 Unitholders of record. 
+ 
+ Registrant did not make any cash distributions to investors for the fiscal years ended December 31, 2004 and 2003. 
+ 
+ There are no material legal restrictions upon Registrant s present or future ability to make distributions in accordance with the provisions of Registrant s Agreement of Limited Partnership, as amended through the date of this report. However, the Bank of America Loan Agreements limit distributions to 90 of the sum of its cumulative net income from real estate operations, adjusted for depreciation, amortization, and write-off of step rent receivables. See, however, Item 7 - Management s Discussion and Analysis of Financial Condition and Results of Operations for a discussion of economic conditions that have resulted in the suspension of distributions and that may continue to affect Registrant s ability to make distributions. 
+
+ 18 
+
+Purchases of Equity Securities by Registrant and its Affiliates 
+ 
+ Registrant and its affiliates did not purchase any Units during the fourth quarter of the fiscal year covered by this report (the quarter ended December 31, 2004). 
+ 
+ Registrant s Unit Repurchase Plan is not limited as to the number or dollar amount of purchases, but Registrant is limited to a maximum of 3,000,000 in Unit repurchases by its loan documents. Registrant has not set an expiration date for this Plan. However, on March 15, 1998, Registrant suspended the Unit Repurchase Plan as to conserve cash and ease administrative and accounting burdens. At that time, an affiliate of the General Partners offered to purchase Units on the same terms as the Unit Repurchase Plan, except that purchased Units are not canceled but are held by such affiliate. That affiliate suspended its purchases of Units in April 2004 and is not presently purchasing Units, although it may in the future recommence such purchases. 
+ 
+ 19 
+
+Item 6. 
+
+Selected Financial Data . 
+
+Year Ended December 31, 2004 
+
+Year Ended December 31, 2003 
+
+Year Ended December 31, 2002 
+
+Year Ended December 31, 2001 
+
+Year Ended December 31, 2000 
+
+Operating Revenues 
+
+10,117,417 
+
+12,643,576 
+
+10,857,861 
+
+12,293,919 
+
+16,746,742 
+
+Net Loss from Continuing Operations 
+
+(3,966,214 
+
+(3,010,268 
+
+(2,209,960 
+
+(562,703 
+
+3,477,568 
+
+Net Loss from Continuing Operations Per Unit (1) 
+
+(1.32 
+
+(1.00 
+
+(0.73 
+
+(0.19 
+
+1.15 
+
+Net Loss from Discontinued Operations (2) 
+
+(421,626 
+
+(4,947,580 
+
+(496,685 
+
+(1,113,844 
+
+(1,668,614 
+
+Net Loss from Discontinued Operations Per Unit (1)(2) 
+
+(0.14 
+
+(1.64 
+
+(0.16 
+
+(0.37 
+
+(0.55 
+
+Net (Loss)/Income (3) 
+
+(4,387,840 
+
+(7,957,848 
+
+(2,706,645 
+
+(1,676,547 
+
+1,808,954 
+
+Net (Loss)/Income Per Unit (1) 
+
+(1.46 
+
+(2.64 
+
+(0.90 
+
+(0.56 
+
+0.60 
+
+Total Assets 
+
+73,000,305 
+
+90,925,325 
+
+97,372,747 
+
+100,532,466 
+
+102,145,141 
+
+Long-Term Obligations 
+
+40,394,601 
+
+54,193,343 
+
+55,040,618 
+
+55,879,036 
+
+51,335,864 
+
+Distributions Per Unit (1)(4) 
+
+0.00 
+
+0.00 
+
+0.00 
+
+1.20 
+
+1.20 
+
+(1) 
+
+Per Unit numbers are based on 2,983,531 Units for 2004, 2003, 2002, 2001, and 2000. 
+
+(2) 
+
+Discontinued operations consist of the results of operations for the Directory Building and the Tumi Building, each of which was classified as held for sale in 2004 upon Registrant s decision to market those properties. In accordance with its consolidated statement of operations, those results of operations are reflected as discontinued operations for all periods presented. Loss from Discontinued Operations for the year ended December 31, 2003 includes impairment write-downs aggregating approximately 4,530,000 to reduce the carrying amount of the Directory Building and the Tumi Building to fair value at December 31, 2003. The Directory Building was sold in October 2004 and the Tumi Building was sold in April 2005. 
+
+20 
+
+(3) 
+
+Net Income for the year ended December 31, 2000 includes approximately 5,111,000 in gain on sale of real estate from the sale in June 2000 of the Flatiron Building in Boulder, Colorado. 
+
+(4) 
+
+Each year s distributions include funds distributed after the end of the year which are attributable to that year. 
+
+Item 7. 
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations . 
+
+This discussion includes statements that may constitute forward-looking statements made pursuant to the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995. Registrant would like to caution readers regarding certain forward-looking statements in this document and in all of its communications to unitholders and others, press releases, securities filings, and all other communications. Statements that are based on management s projections, estimates and assumptions are forward-looking statements. The words believe, expect, anticipate, intend, and similar expressions generally identify forward-looking statements. While Registrant believes in the veracity of all statements made herein, forward-looking statements are necessarily based upon a number of estimates and assumptions that, while considered reasonable by Registrant, are inherently subject to significant
+business, economic and competitive uncertainties and contingencies and known and unknown risks. Many of the uncertainties and contingencies can affect events and Registrant s actual results and could cause its actual results to differ materially from those expressed in any forward-looking statements made by, or on behalf of, Registrant. 
+
+ Overview 
+ 
+ Since December 2001, Registrant has experienced a loss of tenants at its properties (particularly 475 Fifth Avenue in New York and, now, the Mercury Insurance Group Building in Oklahoma City), granted rent concessions and/or reduced rental rates in connection with obtaining lease extensions at the Directory Building in Las Colinas, Texas and at the Tumi Building in South Plainfield, New Jersey, and spent millions of dollars in capital improvements at the New York and San Antonio buildings, all of which have affected Registrant s liquidity. Historically, Registrant had looked to cash flow from operations, the Fleet Loan (a line-of-credit mortgage loan), and working capital to provide liquidity. However, Registrant s rental revenues have since declined and its ability to generate additional revenues from new tenants is now dependent upon Registrant s ability to fund tenant
+improvements and leasing commissions associated with any new leases. In addition, Registrant exhausted its borrowing capacity under the Fleet Loan. Finally, Registrant has depleted most of its working capital while it has increased its accounts payable and accrued expenses. 
+ 
+ In connection with Registrant s plan to increase its liquidity, Registrant sold the Directory Building in Las Colinas, Texas (October 2004) and the Tumi Building in South Plainfield, New Jersey (April 2005) and, in August 2005, amended and increased its line-of-credit loan with Bank of America. Registrant has used, and is continuing to use, the proceeds from these transactions to pay down the Fleet Loan and to augment working capital, including the funding of tenant improvements and leasing commissions at its properties and reducing accounts payable and accrued expenses. Registrant has also sought to conserve cash by limiting expenses and has been more aggressively pursuing new tenants at its properties. 
+ 
+ 21 
+
+Liquidity and Capital Resources 
+
+ Demands on Liquidity and Capital Resources. 
+ 
+ Registrant experienced difficulties at its properties, particularly in New York, in the aftermath of the events of September 11, 2001 and the ensuing economic downturn. In 2003, vacancies and relocations of office tenants paying aggregate annual rents of approximately 1,147,000 occurred at 475 Fifth Avenue. In May 2003, Registrant negotiated an early termination of an office lease (an annual rent of approximately 523,000 until December 2007) in consideration of a 500,000 lease cancellation fee plus rent payments through December 2003. In January 2004, Registrant obtained a judgment and warrant of eviction against an existing retail tenant with an approximate annual base rent of 360,000; also in January 2004 the tenant filed for protection under Chapter 11 of the U.S. Bankruptcy Code. Registrant has collected all past due amounts from that tenant pursuant to stipulations that
+permit Registrant to cancel the lease if the tenant does not timely meet its lease obligations. In addition, Registrant has obtained possession and is pursuing actions to collect rent payments with respect to office leases, with an aggregate annual rent of approximately 1,244,000, from tenants that vacated the space and filed for protection under Chapter 11 of the U.S. Bankruptcy Code. Registrant has filed proofs of claim in those bankruptcy proceedings and has leased approximately 54.9 of that space to replacement tenants. 
+ 
+ Registrant has been accelerating its pace of leasing vacant space in the New York building. Since January 1, 2003, Registrant has entered into new leases for office space with aggregate annual rents of approximately 622,000 (2003), 878,000 (2004), and 1,101,000 (2005). In August 2003, Registrant entered into a lease for retail space at the New York building for a term of 12 years, 9 months at an initial annual rent of 660,000; the tenant commenced paying rent in May 2004. In 2004, Registrant expended approximately 823,000 for tenant improvements and capital improvements and 132,000 for leasing commissions at 475 Fifth Avenue. During 2005, Registrant has incurred obligations of approximately 1,097,000 for tenant improvements (of which approximately 303,000 remains unpaid) and 401,000 for leasing commissions (of which approximately 211,000 has yet to be paid) in connection
+with new leases at 475 Fifth Avenue. In 2005, Registrant has also incurred capital improvement obligations at 475 Fifth Avenue aggregating approximately 317,000, of which approximately 14,000 has yet to be paid. 
+
+ In addition, Registrant negotiated rent concessions of approximately 256,700 to Verizon at the Directory Building in Las Colinas, Texas (from January 2003 through September 2003) and 264,000 to Tumi, Inc. at the Tumi Building in South Plainfield, New Jersey (from September 2002 through August 2003) in consideration of lease extensions at those buildings. The Verizon extension also reduced annual rent payments by approximately 340,000 and required the payment of approximately 1,600,000 in tenant improvements and leasing commissions. 
+ In August 2003, Registrant executed an amendment to its lease for the LightCross Building in Monterey Park, California, pursuant to which it agreed to reduce the fixed rent for the two-year period beginning September 1, 2003 by an aggregate of 250,000. The tenant, LightCross, sought the rent reduction to facilitate a merger (consummated in October 2003), pursuant to which LightCross became a subsidiary of Kotura, and a contemplated equity offering by Kotura. In consideration of this reduction in rent, LightCross issued to Registrant a warrant to purchase, for 2,500, equity securities to be issued by Kotura with an initial value of 250,000. Registrant has not assigned any value to this warrant. 
+ 22 
+
+Marathon, which occupied approximately 65,700 square feet of space in the Mercury Insurance Group Building in Oklahoma City, Oklahoma, vacated all but approximately 7,900 square feet of such space in the building as of May 1, 2004. Registrant received an early termination payment from Marathon of approximately 714,000, but Marathon s annual rent was reduced from approximately 870,000 to approximately 99,000. Marathon currently occupies approximately 8,430 square feet at an annual rent of approximately 105,000. In June 2004, Mercury Insurance leased approximately 51,200 square feet in the building at an annual fixed rent of approximately 486,000 (rent payments under the lease commenced in January 2005). Registrant paid approximately 512,000 of tenant improvements and 152,000 of leasing commissions in connection with the Mercury Insurance lease. 
+ 
+ The loss of rental payments from terminated and amended leases at its buildings and the tenant improvement allowances that Registrant has incurred and can be expected to continue to pay to secure replacement tenants have placed, and will continue to place, demands on Registrant s liquidity and capital resources. 
+ 
+ Registrant has invested capital in improving its properties with a view to increasing its revenues from real estate operations and ultimately realizing appreciation in property values. The level of capital improvements decreased significantly in 2002 and 2003 owing to sluggish leasing activity, particularly at 475 Fifth Avenue, and the constraints imposed by Registrant s available cash. During 2004, Registrant funded approximately 1,544,000 of building and tenant improvements (primarily in New York and Oklahoma City) and 431,000 in leasing commissions. During 2005, Registrant has incurred obligations aggregating approximately 1,726,000 (of which 391,000 remains unpaid) for building and tenant improvements and 482,000 of leasing commissions (of which approximately 211,000 remains unpaid) in connection with new and extended leases at its properties. Registrant will require
+
+capital to fund additional tenant improvements as and when it leases vacant space and as tenancies turn over at its properties as well as further capital improvements at 475 Fifth Avenue (estimated at 1,900,000) and Alamo Towers (estimated at 4,500,000 if this property is not sold and, instead, significant improvements are made). These additional capital improvements are expected to be made over several years. Registrant s limited available cash to fund tenant improvements and leasing commissions has compromised its ability to lease vacant space, but the 3,000,000 loan advance under the Bank of America Loan provides a fresh source of capital. In August 2005, Registrant entered into an Exclusive Sales Listing Agreement, pursuant to which CB Richard Ellis, Inc. will use its best efforts to sell the Alamo Towers. Registrant has yet to solicit offers to purchase that property and there is no assurance that it will be able to sell the Alamo Towers on acceptable terms. 
+
+ Registrant has the Bank of America Loan, an amendment and extension of the Fleet Loan that is secured by all of Registrant s properties except the New York building, under which it received a 3,000,000 loan advance in August 2005. The maturity date of the Bank of America Loan is August 15, 2007, and it paid a facility fee of 45,000. In October 2004, Registrant paid down the Fleet Loan by 13,000,000 from the proceeds of the sale of the Directory Building. In May 2005, Registrant paid down the Fleet Loan by an additional amount of approximately 6,524,000 from the proceeds of the sale of the Tumi Building (including interest earned on such sale proceeds). 
+ 
+ Registrant also has a mortgage loan secured by its New York property (the 475 Loan ), but it does not have any unused borrowing capacity under the 475 Loan other than a small replacement reserve (currently approximately 25,000) to fund certain improvements at 475 Fifth Avenue. 
+ 
+ Liquidity and Sources of Cash. 
+ 
+ At December
+31, 2004, Registrant had cash and receivables of approximately 434,000 as
+contrasted to accounts payable and accrued expenses (including those associated
+with real estate held for sale) of approximately 4,675,000 and amounts due to
+general partners of approximately 2,053,000. Although its operations
+presently do not generate sufficient cash to meet its expenses as they come due,
+Registrant projects that its current operations will generate a positive cash
+flow 
+ 
+ 23 
+
+commencing in the second half of 2005. Owing to the sale of the Directory
+Building in October 2004, Registrant s accounts payable and accrued
+expenses (including those associated with real estate held for sale) decreased
+by approximately 723,000 in 2004; however, during the year the General Partners
+deferred receipt of approximately 826,000 of fees. The effect of any
+deferrals of payables is to temporarily increase the amount of Registrant s
+cash available for other purposes, including leasing commissions and tenant
+improvements associated with securing new leases. There can be no
+assurance that any such accruals and deferrals can or will continue in the
+future. 
+
+ Registrant s operations (including from the Directory Building and the Tumi Building, which were classified held for sale used net cash of approximately 222,000 in 2004 as contrasted to 2,797,000 provided by operations in 2003. This 3,019,000 difference in cash flows is attributable primarily to the following items of decreased cash flow from operations: the approximate 3,290,000 difference between a reduction in accounts payable and accrued expenses in 2004 as contrasted to a significant increase in 2003, the approximate 318,000 difference between a reduction in escrow deposits - operating in 2004 as contrasted to an increase in 2003, and the approximate 2,708,000 decrease in net loss, adjusted for depreciation, amortization, bad debt expense, impairment loss, and deferred rent receivable from 2003 to 2004. Those items of decreased cash flow, which aggregate
+approximately 6,316,000, exceeded the following items of increased cash flow from operations, which aggregate approximately 3,196,000: the approximate 599,000 increase in amounts due to the general partners, the approximate 549,000 difference between an increase in other liabilities in 2004 as contrasted to a reduction in 2003, the approximate 760,000 decrease in lease commissions and deferred legal fees, and the approximate 1,288,000 difference between a reduction in accounts receivable in 2004 as contrasted to a significant increase in 2003. Net cash provided by investing activities approximated 13,699,000 in 2004 (consisting primarily of proceeds from the sale of the Directory Building of approximately 15,542,000, which exceeded building and tenant improvements of approximately 1,795,000) as contrasted to net cash used in such activities in 2003 of approximately 2,581,000 (most of which was attributable to building and tenant improvements). Net cash used in financing
+activities approximated 13,823,000 in 2004 (including a 13,000,000 paydown of the Fleet Loan upon sale of the Directory Building) as contrasted to approximately 903,000 in 2003. 
+ 
+ Registrant s Plan to Restore Liquidity. 
+ 
+ Registrant s short-term challenge is to further pay down its accounts payable and fund additional tenant improvements and leasing commissions associated with any new leases at its properties. Registrant has been funding these expenditures primarily from the proceeds of the sale of properties. 
+
+ In October 2004, Registrant sold the Directory Building in Las Colinas, Texas for a purchase price of 16,100,000. Fleet received 13,000,000 of proceeds from such sale as a pay down of the Fleet Loan. Registrant also paid (i) a rent refund to Verizon, sales commissions, and other closing costs aggregating approximately 714,500 and (ii) outstanding real estate taxes, leasing commissions, and other accrued expenses related to the Directory Building totaling approximately 656,000, so that Registrant received approximately 1,730,000 of net proceeds from the sale of the Directory Building. Registrant has used such proceeds to augment working capital, including the funding of tenant improvements at its properties and reducing accounts payable and accrued expenses. 
+ 
+ In April 2005, Registrant sold the Tumi Building in South Plainfield, New Jersey for a purchase price of 9,750,000. Fleet received approximately 6,524,000 from the proceeds of such sale (including interest earned on such sale proceeds) as a pay down of the Fleet Loan. Registrant granted the purchaser a credit against the purchase price in the amount of 310,000 and paid (i) sales commissions and other closing costs aggregating approximately 454,700 and (ii) outstanding real estate taxes and leasing commissions related to the Tumi Building totaling approximately 335,700, so that Registrant received net proceeds of approximately 2,132,000 from the sale of the Tumi Building. Registrant has used, and is continuing to use, such net sales proceeds to finance tenant improvements and leasing commissions and to reduce accounts payable and accrued expenses. 
+ 
+ 24 
+
+In August 2005, Registrant obtained the Bank of America Loan to extend and refinance the Fleet Loan. As discussed above, the Bank of America Loan financed the outstanding balance of the Fleet Loan plus an additional 3,000,000. Registrant may seek to sell one of its other properties if it determines that the sale proceeds are needed to pay off the Bank of America Loan and/or meet other capital requirements. In August 2005, Registrant entered into an Exclusive Sales Listing Agreement with respect to the Alamo Towers. Registrant has yet to solicit offers to purchase that property and there is no assurance that it will be able to sell the Alamo Towers on acceptable terms. 
+
+ Registrant has also sought to conserve its cash flow resources by limiting its expenses. In October 2003, Registrant organized a subsidiary management company to manage its New York property. Registrant estimates that it reduced its costs by approximately 128,000 over the first 12 months of managing that property and that its subsidiary management company will achieve savings of approximately 122,000 during the calendar year ending December 31, 2005. Registrant is also exploring other ways of reducing expenses. 
+ 
+ Registrant is more aggressively pursuing new tenants at its properties. It retained Williams Real Estate Co. Inc. in February 2004 to act as its exclusive rental agent in New York. During 2004, it entered into new office leases at 475 Fifth Avenue aggregating approximately 26,380 square feet of space at an approximate annual base rent of 878,000 (after free rent periods). In 2005, Registrant has leased approximately 30,940 square feet of office space at an approximate annual base rent of 1,101,000 (after free rent periods) at the New York building. In Oklahoma City, Registrant has employed Mr. Tom Fillmore as its Property Manager/Leasing Agent, with a primary focus on soliciting brokers to find tenants to take over the space vacated by Marathon. In June 2004, Registrant leased approximately 51,200 square feet of such space to Mercury Insurance at an approximate annual fixed
+
+rent of 486,350. Registrant has reconfigured vacant space in Oklahoma City to conform to a perceived greater demand for smaller space. 
+ 
+ Distributions. 
+ 
+ Registrant was forced to suspend distributions for each of the four quarters of 2004 and 2003. The level of distributions in the future will be dependent upon Registrant s ability to increase its operating income, which will entail numerous factors, including securing replacement tenants at 475 Fifth Avenue and the Mercury Insurance Group Building and funding additional tenant and capital improvements. Registrant cannot yet estimate when it will resume distributions to Unitholders. There is no assurance as to the level of any resumed distributions or the date of any such resumption. 
+
+ Registrant generally intends to distribute its available cash from operations to Unitholders. However, such distributions are subject to suspension (as is presently the case) or reduction to meet capital requirements and are also limited by the Bank of America Loan agreements to 90 of the sum of its cumulative net income from real estate operations, adjusted for depreciation, amortization, and write-off of rent and step rent receivables. 
+ 
+ Registrant s ability to improve operating results or resume distributions to Unitholders is dependent upon its success in locating tenants to lease vacant space and its ability to pay for the tenant improvements and leasing commissions associated with any such new tenants. Registrant also needs to pay its accounts payable and release the liens on its New York property and provide for the pay off of the Bank of America Loan when due. Registrant has sold the Directory Building and the Tumi Building and obtained the Bank of America Loan to accomplish some of these goals. Registrant may sell one or more of its remaining properties to provide additional necessary funds. It has listed the Alamo Towers for sale, but it has yet to solicit offers to purchase that property and there is no assurance as to Registrant s ability to sell any of its properties, or the terms of any such
+transaction. 
+ 
+ 25 
+
+Results of Operations 
+
+The results of Registrant s operations are subject to numerous factors, including the following: 
+
+Registrant is subject to general risks affecting the real estate industry, including the necessity of entering into new leases and renewal leases on favorable terms; 
+
+Registrant could be adversely affected by changes in local markets where its properties are located and by adverse changes in national economic and market conditions; 
+
+Registrant is subject to competition for tenants from owners of other real properties; 
+
+Registrant is dependent upon the successful operations and financial condition of its tenants who, in turn, are subject to economic and competitive risks; 
+
+Registrant is subject to potential environmental liabilities; 
+
+Registrant could be adversely affected by changes in governmental regulations including, without limitation, changes in environmental and tax regulations; and 
+
+Increases in interest rates would increase Registrant s interest payments under its variable rate loan and decrease cash flow available to fund capital improvements and to make distributions. 
+
+26 
+
+2004 versus 2003 
+ 
+ Rental revenue in 2004 decreased by 14.8 from 2003, despite new leases signed in 2003 and 2004 at the New York building, because of vacancies and an early lease termination at the New York building in 2003, Marathon s early lease termination at the Oklahoma building, and a rent reduction commencing in September 2003 at the LightCross Building in Monterey Park, California. Registrant realized lease cancellation income in 2003 in the amounts of 500,000 from an office tenant in the New York property and 714,000 from Marathon in the Oklahoma City building; there was no such income in 2004. Other income, which increased by 291.3 from 2003 to 2004, consists of a refund of real estate taxes relating to prior years of approximately 176,000, the release of reserves established in prior years relating to tenants that had previously vacated the New York building, and the collection of New York
+tenant receivables that had previously been written-off. 
+ 
+ Amortization decreased by 40.3 primarily because of the amortization in full in 2003 of commissions relating to terminated leases at the New York property. Property operating costs increased by 1.6 in 2004 primarily as a result of an increase in New York real property taxes, legal fees incurred as a result of tenant delinquencies in New York, and late fees incurred with respect to the 475 Loan. Management fees decreased by 7.2 in 2004 from 2003 due to the decrease in rental income. Professional fees increased by 25.0 from 2003 to 2004 primarily because of audit fees accrued in 2004 for the years ended December 31, 2001, 2002, 2003, and 2004 as a result of the resignation of Registrant s previous auditor and engagement of its current principal accountant. Bad debt expense decreased by 67.8 in 2004 from 2003 due to the write-off of receivables from tenants in the New York
+and San Antonio buildings. General and administrative expenses increased by 2.8 in 2004 from 2003 due to increases in transfer agent, auditing, and tax preparation costs. 
+
+ Net income from discontinued operations is attributable to the Directory Building and the Tumi Building, which were classified as held for sale in January 2004 and July 2004, respectively. Registrant realized a net loss from discontinued operations of approximately 422,000 in 2004 as contrasted to a net loss of approximately 4,948,000 in 2003. This difference is primarily attributable to impairment write-downs of the Directory Building and the Tumi Building aggregating 4,530,000 in 2003 and a reduction in depreciation and amortization expense in 2004, as depreciation and amortization was discontinued after the properties were classified as held for sale. In compliance with the adoption of Statement of Financial Accounting Standards No. 144 Statement 144 ), Registrant is required to reclassify its operating income into discontinued operations for all prior
+periods. This practice results in a reclassification of amounts previously reported as continuing operations into discontinued operations. 
+ 
+ Registrant s net loss for 2004 decreased by 44.9 from 2003. The decrease in Registrant s net loss was primarily attributable to the impairment write-downs in 2003, which more than offset the decrease in rental revenue and the absence in 2004 of lease cancellation income. 
+ 
+ 2003 versus 2002 
+ 
+ Rental revenues increased by 5.5 from 2002 to 2003, despite an increase in rent abatements given to tenants in the New York building, because of the recognition for financial reporting purposes in 2003 of deferred rent receivable from tenants that paid early termination fees that were written off as bad debt expense. Registrant received lease cancellation income in 2003 of approximately 714,000 from the termination of the Marathon Oil lease and 500,000 from a tenant in the New York building, as contrasted to 2002 when Registrant did not receive any such income. Interest and other income decreased by 11.8 from 2002 to 2003, despite the recognition in 2003 of deferred gain from the sale in 2000 of a property in Boulder, Colorado, primarily because of lower cash balances invested at lower interest rates and the loss of antennae lease payments from a bankrupt company at the San Antonio
+building. 
+
+ 27 
+
+Depreciation increased by 7.4 in 2003 primarily because of capital improvements and tenant improvements completed at 475 Fifth Avenue and Alamo Towers. Amortization increased by 66.5 primarily because of the write-off of approximately 250,000 of leasing commissions for certain New York tenants. Property operating expenses increased by 10.8 in 2003 primarily because of an increase in property taxes in New York and an increase in utilities at most of Registrant s properties. Management fees decreased by 13.1 in 2003 from 2002 due to the decrease in rental income. Professional fees decreased by 5.2 from 2002 to 2003 primarily because of legal fees paid in 2002 with respect to the Polish Ocean Lines case concerning the Tumi Building. Bad debt expense increased by 374.1 from 2002 to 2003 primarily because of the write-off of receivables from New York and San Antonio
+tenants. 
+ 
+ Net loss from discontinued operations is attributable to the Directory Building and the Tumi Building, which were classified as held for sale in January 2004 and July 2004, respectively. Registrant realized a net loss from discontinued operations of approximately 4,948,000 in 2003 as contrasted to approximately 497,000 in 2002, primarily because of the 4,530,000 impairment write-downs of the Directory Building and the Tumi Building in 2003 and, to a much lesser extent, rent concessions and reductions granted to tenants at those properties in 2003. In compliance with the adoption of Statement 144, Registrant is required to reclassify its operating income into discontinued operations for all prior periods. This practice results in a reclassification of amounts previously reported as continuing operations into discontinued operations. 
+ 
+ Registrant s net loss for 2003 increased by 194.0 from 2002. The increase in Registrant s net loss was primarily attributable to impairment write-downs in 2003, which more than offset the increase in rental income and lease cancellation income in 2003. 
+
+ Off-Balance Sheet Arrangements 
+ 
+ Registrant does not have any off-balance sheet arrangements. 
+ 
+ Critical Accounting Policies 
+ 
+ Management s discussion and analysis of financial condition and results of operations is based upon Registrant s consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these financial statements requires management to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses. Registrant bases its estimates on historical experience and assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions. Registrant believes the following critical accounting policies affect its significant judgments and
+
+estimates used in the preparation of its consolidated financial statements. 
+ 
+ Valuation of Properties Held for Use and Sale. 
+ 
+ On a quarterly basis, management reviews the carrying value of its properties for impairment. Registrant records impairment losses and reduces the carrying value of properties when indicators of impairment are present and the expected undiscounted cash flows related to those properties are less than their carrying amounts. In cases where Registrant does not expect to recover its carrying costs on properties held for use, Registrant reduces its carrying cost to fair value; for properties held for sale, Registrant reduces its carrying value to the fair value less costs to sell. Management s estimate of the expected future cash flows used in testing for impairment is highly subjective and based on, among 
+ 
+ 28 
+
+other things, its estimates regarding current and future market conditions, rental rates, occupancy levels, costs of tenant improvements, leasing commissions and other tenant concessions, assumptions regarding the residual value of its properties at the end of its anticipated holding period, and the length of its anticipated holding period. These assumptions could differ materially from actual results in future periods. If the strategy changes or if market conditions dictate an earlier sale, an impairment loss could be recognized and such loss could be material. For the year ended December 31, 2003, Registrant recorded impairment write-downs aggregating approximately 4,530,000 to reduce the carrying amount of the Directory Building and the Tumi Building. For the years ended December 31, 2004 and 2002, no
+impairment losses were recognized. See Item 8. Financial Statements and Supplementary Data Note 4. Investments in Real Estate for a discussion of the impairment write-down for those properties. 
+ 
+ Bad Debts. 
+ 
+ Registrant maintains an allowance for doubtful accounts for estimated losses resulting from the inability of tenants to make payments on arrearages in billed rents and expense recoveries; however, as of December 31, 2004, Registrant has determined that no allowance for doubtful accounts was necessary. If the financial condition of Registrant s tenants were to deteriorate, resulting in an impairment of their ability to make payments, allowances may be required. 
+ 
+ Inflation 
+ 
+ In the past, inflation has not had a material impact on Registrant s operations or financial condition, as certain leases of Registrant s properties provide for increases in rents based on changes in the consumer price index, and other leases provide lease payments that escalate over time. Registrant s properties with performing leases are protected by arrangements whereby the tenants pay to Registrant an amount equal to all or a portion of the operating costs of the properties, with Registrant s share of expenses, if any, subject to a predetermined limit. These arrangements help to insulate Registrant from the effects of any increases in operating costs. However, to the extent that there is vacant space or nonperforming leases at any of the Registrant s properties, Registrant lacks this protection against inflation, particularly with regards to increased
+expenses that are not reimbursed. 
+
+ 29 
+
+Contractual Obligations 
+ 
+ The table below provides information as of December 31, 2004 with respect to Registrant s known contractual obligations. 
+
+Payment due by period 1 
+
+Contractual Obligations 
+
+Total 
+
+Less than 1 year 
+
+1-3 years 
+
+3-5 years 
+
+More than 5 years 
+
+Long-Term Debt Obligations 
+
+40,394,601 
+
+10,072,615 
+
+1,174,999 
+
+29,146,987 
+
+-0- 
+
+Total 2 
+
+40,394,601 
+
+10,072,615 
+
+1,174,999 
+
+29,146,987 
+
+-0- 
+
+Item 7A. 
+
+Quantitative and Qualitative Disclosures About Market Risk . 
+
+Interest Rates 
+ 
+ Registrant s primary market risk exposure is to changes in interest rates on its mortgage loan borrowings. 
+ 
+ Registrant has obtained the 475 Loan, a fixed rate debt instrument. Registrant has also obtained the Bank of America Loan, which refinanced the Fleet Loan, each a variable rate debt instrument, to enable it to draw down funds as needed for capital improvements, tenant improvements, and leasing commissions on its diverse portfolio of properties. Approximately 24 and 43 of Registrant s outstanding debt was subject to variable rates at December 31, 2004 and 2003, respectively. In addition, the average interest rate on Registrant s debt increased from 6.07 at December 31, 2003 to 7.26 at December 31, 2004. Registrant does not have any other material market-sensitive financial instruments. It is not Registrant s policy to engage in hedging activities for outstanding debt instruments or for speculative or trading purposes. 
+
+1 
+
+Payments due exclude interest payments due under long-term debt obligation. 
+
+2 
+
+As of December 31, 2004, Registrant had no Capital Lease Obligations, Operating Lease Obligations, Purchase Obligations, or Other Long-Term Liabilities reflected on Registrant s balance sheet under GAAP. Registrant s lease for approximately 3,550 square feet of office space at 475 Fifth Avenue at a current base rent of 39.75 per square foot is not considered an Operating Lease Obligation because Registrant is both landlord and tenant under that lease. This table does not include management fees payable to the General Partners as described in Item 13 below. 
+
+30 
+
+The table below provides information as of December 31, 2004 about Registrant s debt instruments that are sensitive to changes in interest rates. For debt obligations, the table presents principal cash flows and related weighted average interest rates by expected maturity dates. Weighted average variable rates are based on rates in effect at the reporting date. 
+
+Expected Maturity Date 
+
+2005 
+
+2006 
+
+2007 
+
+2008 
+
+2009 
+
+Total 
+
+Fair Value 
+
+(in thousands) 
+
+Secured 
+
+9,740 
+
+9,740 
+
+9,740 
+
+Variable Average Interest rate 
+
+4.09 
+
+Secured Fixed 
+
+333 
+
+362 
+
+393 
+
+420 
+
+29,147 
+
+30,655 
+
+33,881 
+
+Average interest rate 
+
+8.27 
+
+8.27 
+
+8.27 
+
+8.27 
+
+8.27 
+
+8.27 
+
+Registrant believes that the interest rates given in the table for fixed rate borrowings are above the rates Registrant could currently obtain for instruments of similar terms and maturities. The fair values of such instruments are estimated using discounted cash flow analyses, based on borrowing rates for similar types of borrowing arrangements at December 31, 2004 (estimated at 5.43 per annum). An increase of 1 in market rates would reduce the fair value of Registrant s fixed rate borrowings by approximately 281,000. A 1 decrease in market rates would increase such fair value by approximately 1,339,000. 
+ 
+ A change of
+1 in the index rate to which Registrant s variable rate debt is tied would
+change the annual interest incurred by Registrant by approximately 97,400,
+based upon the balances outstanding on variable rate instruments at December 31,
+2004. 
+ 
+ 31 
+
+Item 8. 
+ Financial Statements and Supplementary Data . 
+
+See list of Financial Statements and Financial Statement Schedules at page F-2, filed as part of this report. 
+
+32 
+
+Quarterly Results of Operations (Unaudited) 
+
+2004 
+
+Three Months Ended 
+
+March 31 
+
+June 30 
+
+Sept. 30 
+
+Dec. 31 
+
+(Thousands of dollars, except per unit data) 
+
+Total revenues 
+
+3,535 
+
+2,815 
+
+2,376 
+
+2,253 
+
+Total expenses 
+
+4,374 
+
+3,844 
+
+3,313 
+
+3,483 
+
+Net loss from continuing operations 
+
+(838 
+
+(1,029 
+
+(937 
+
+(1,230 
+
+Net income/loss from discontinued operations (2) 
+
+294 
+
+276 
+
+(108 
+
+(815 
+
+Net loss 
+
+(545 
+
+(753 
+
+(1,045 
+
+(2,045 
+
+Net loss per Unit 
+
+(0.18 
+
+(0.25 
+
+(0.35 
+
+(0.68 
+
+2003 
+
+Three Months Ended 
+
+March 31 
+
+June 30 
+
+Sept. 30 
+
+Dec. 31 
+
+(Thousands of dollars, except per unit data) 
+
+Total revenues 
+
+3,116 
+
+3,369 
+
+2,698 
+
+3,873 
+
+Total expenses 
+
+3,925 
+
+4,004 
+
+3,351 
+
+5,289 
+
+Net loss from continuing operations 
+
+(809 
+
+(635 
+
+(653 
+
+(1,417 
+
+Net income/loss from discontinued operations (2) 
+
+137 
+
+(40 
+
+15 
+
+(4,556 
+ 
+)(1) 
+
+Net loss 
+
+(672 
+
+(675 
+
+(638 
+
+(5,973 
+ 
+)(1) 
+
+Net loss per Unit 
+
+(0.22 
+
+(0.22 
+
+(0.21 
+
+(1.98 
+ 
+)(1) 
+
+(1) 
+
+For the three months ended December 31, 2003, Net loss from discontinued operations, Net loss, and Net loss per Unit include impairment write-downs approximately 4,530,000 to reduce the carrying amount of the Directory Building and the Tumi Building to fair value at December 31, 2003. The Directory Building was sold in October 2004 and the Tumi Building was sold in April 2005. 
+
+(2) 
+
+Discontinued operations consist of the results of operations for the Directory Building and the Tumi Building, each of which was classified as held for sale in 2004 upon Registrant s decision to market those properties. In accordance with its consolidated statement of operations, those results of operations are reflected as discontinued operations for all periods presented. 
+
+33 
+
+Item 9. 
+
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure . 
+
+As reported in a Current Report on Form 8-K dated June 18, 2004, Ernst Young LLP resigned on that date as Registrant s principal accountant to audit Registrant s financial statements. In a Current Report on Form 8-K dated August 20, 2004, Registrant reported its engagement of BDO Seidman, LLP as its principal accountant to audit Registrant s financial statements. 
+
+Item 9A. 
+
+Controls and Procedures . 
+
+(a) 
+
+Evaluation of Disclosure Controls and Procedures 
+
+Our principal executive officer and principal financial officer has evaluated the effectiveness of our disclosure controls and procedures, as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the Exchange Act ), as of the end of the period covered by this annual report (the Evaluation Date ). Based on such evaluation, such officer has concluded that, as of the Evaluation Date, our disclosure controls and procedures are adequate. 
+
+(b) 
+
+Changes in Internal Controls 
+
+Since the Evaluation Date, there have not been any significant changes in our internal control over financial reporting that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+Item 9B. 
+
+Other Information . 
+
+None. 
+
+34 
+
+PART III 
+
+Item 10. 
+
+Directors and Executive Officers of the Registrant . 
+
+Registrant has no officers or directors. The General Partners manage and control substantially all of Registrant s affairs and have general responsibility and ultimate authority in all matters affecting Registrant s business. 
+ 
+ The Individual General Partner is Robert F. Gossett, Jr. The Corporate General Partner is 1345 Realty Corporation. All of the outstanding capital stock of 1345 Realty Corporation is owned by the Individual General Partner and his wife. 
+ 
+ The directors and executive officers of the Corporate General Partner are as follows: 
+
+Name 
+
+Age 
+
+Position 
+
+Officer/ Director Since 
+
+Robert F. Gossett, Jr. 
+
+61 
+
+President, Treasurer and Director 
+
+1994 
+
+Pauline G. Gossett 
+
+61 
+
+Secretary 
+
+1994 
+
+Information with respect to the Individual General Partner and with respect to the above officers and directors is set forth below: 
+ 
+ Robert F. Gossett, Jr ., the Individual General Partner since 1985, is Managing Director of Vance Capital Corporation (1981 to present), a real estate management and finance company. Between 1978 and 1981, Mr. Gossett served as Executive Vice President and Director of Loeb Capital Corporation. From 1974 until 1978, he was a Vice President of Oppenheimer Properties, Inc. and, between 1969 and 1974, was associated with the Investment Banking Division of Merrill, Lynch, Pierce, Fenner Smith, Inc. He received a B.A. degree from the University of Texas, a J.D. degree from Georgetown University, and an M.B.A. degree from the University of Pennsylvania. He is a member of the Texas Bar. 
+ 
+ Pauline G. Gossett , the Secretary of the Corporate General Partner, is a stockholder and Director of Vance Capital Corporation (1981 to present). Mrs. Gossett received an Associate of Arts degree from Briarcliff College. Mrs. Gossett is the wife of Robert F. Gossett, Jr. 
+ 
+ Registrant employs the following employees who make significant contributions to the business of Registrant: 
+
+Name 
+
+Age 
+
+Position 
+
+Employee Since 
+
+Dominick Proscia 
+
+41 
+
+Property Manager 
+
+1996 
+
+Veronica Rios 
+
+41 
+
+Property Manager 
+
+1999 
+
+Madeline Matlak 
+
+40 
+
+Fund Administrator 
+
+1994 
+
+Tom Fillmore 
+
+63 
+
+Property Manager/ Leasing Agent 
+
+2003 
+
+35 
+
+Dominick Proscia is the Property Manager for 475 Fifth Avenue. Mr. Proscia has been employed in various capacities at 475 Fifth Avenue for the past 23 years, both for Registrant and for previous owners of the building. Prior to becoming the Property Manager in 2005, he was the building superintendent for nine years and, before that, the building starter and a porter. Mr. Proscia has a Certificate as a Fire Safety Director and a Standpipe and Sprinkler Certificate, each issued by the New York City Fire Department. 
+ 
+ Veronica Rios is the Property Manager for Alamo Towers. Ms. Rios has been designated a Real Property Administrator (RPA) by the Building Owners and Managers Association. From 1995 to 1999, she was a property manager for three office buildings owned by Mission City Properties in San Antonio. Ms. Rios was a property manager from 1993 to 1995 for several office, office/warehouse, and rental properties managed by the Bonner Group in San Antonio. Prior thereto, from 1989 to 1993, she was employed in various office, accounting, and property management capacities by Commercial Real Estate Associates in San Antonio. 
+ 
+ Madeline Matlak is the Fund Administrator of the Registrant. Mrs. Matlak was formerly employed as a Fund Administrator in the Direct Investment Department of Smith Barney, Inc. (1989 through 1994). 
+ 
+ Tom Fillmore is the Property Manager/Leasing Agent for the Mercury Insurance Group Building. Mr. Fillmore has been a property manager for the past 20 years, including 11 years at Registrant s Mercury Insurance Group Building. He has been a property manager for Trammell Crow Company (1997 to 2003 for various types of commercial buildings), Sentinel Real Estate Corporation (1992 to 1997 for a high-rise office building), Swearingen Management (1987 to 1992 for an office building), and The Horne Company (1984 to 1987 for an office building and an industrial warehouse). Mr. Fillmore also worked as a real estate insurance manager for Wilson Foods for 22 years. He received a B.B.A. degree in real estate from Central State University (now Central Oklahoma University). 
+
+ Involvement in Certain Legal Proceedings. In 2005, a receiver was appointed by a court for an office building located in St. Paul, Minnesota that is owned by a limited partnership that is indirectly controlled by Mr. Gossett. The appointment of the receiver was initiated by the holder of mortgage debt in connection with a foreclosure action. 
+ 
+ Section 16(a) Beneficial Ownership Compliance. Based solely upon its review of copies of Forms 3, 4, and 5 received by it during 2004, and written representations from reporting persons that no other Forms 5 were required for such persons for 2004, Registrant believes that all filing requirements applicable to its General Partners and the directors and officers of the Corporate General Partner pursuant to Section 16(a) of the Securities Exchange Act of 1934, as amended, for 2004 and prior years were complied with on a timely basis except as previously reported. 
+ 
+ 36 
+
+Audit Committee and Audit Committee Financial Expert. Registrant is managed by the Individual General Partner and the Corporate General Partner. The Individual General Partner is the sole director of the Corporate General Partner. Registrant does not have any officers or directors. As a result, neither Registrant nor the Corporate General Partner has an audit committee and there is no audit committee financial expert. 
+ 
+ Code of Ethics. Effective as of January 1, 2004, Registrant has adopted a code of ethics that applies to the General Partners and the officers and directors of the Corporate General Partner, including the equivalent of Registrant s principal executive officer, principal financial officer, and principal accounting officer. Registrant hereby undertakes to provide to any person without charge, upon request, a copy of Registrant s code of ethics. Requests should be made in writing to Registrant, at 475 Fifth Avenue, Suite 2100, New York, New York 10017, and accompanied by a stamped, self-addressed envelope. 
+
+Item 11. 
+
+Executive Compensation . 
+
+Registrant is not required to and did not pay remuneration to the officers and directors of the Corporate General Partner. However, the General Partners and/or their affiliates receive compensation for services performed for Registrant. 
+ 
+ Summary Compensation Table 
+
+Year 
+
+Share of Adjusted Cash From Operations 
+
+Management Fees 
+
+Leasing Commissions 
+
+Expense Reimbursement 
+
+Corporate General Partner 
+
+2004 
+
+-0- 
+
+668,842 
+
+-0- 
+
+40,000 
+
+Individual General Partner 
+
+2004 
+
+-0- 
+
+167,210 
+
+-0- 
+
+10,000 
+
+Corporate General Partner 
+
+2003 
+
+-0- 
+
+718,749 
+
+-0- 
+
+40,000 
+
+Individual General Partner 
+
+2003 
+
+-0- 
+
+179,687 
+
+-0- 
+
+10,000 
+
+Corporate General Partner 
+
+2002 
+
+7,233 
+
+819,369 
+
+-0- 
+
+40,000 
+
+Individual General Partner 
+
+2002 
+
+1,808 
+
+204,842 
+
+-0- 
+
+10,000 
+
+See Item 13 - Certain Relationships and Related Transactions for a discussion of the above compensation. 
+ 
+ 37 
+
+Item 12. 
+
+Security Ownership of Certain Beneficial Owners and Management . 
+
+The following table sets forth information as of September 30, 2005 as to persons known by Registrant to be the beneficial owner of more than five percent (5 of the outstanding Units of Registrant. 
+
+Name and Address
+Of
+Beneficial Owner 
+
+Amount and Nature of Beneficial Ownership 
+
+Percent Of Class 
+
+Vance, Teel Company, Ltd. 406 E. 85 th Street 
+New York, New York 10028 
+
+724,430 
+
+24.3 
+
+Each of Robert F. Gossett, Jr., the Individual General Partner and the President of the Corporate General Partner, and Pauline G. Gossett, the Secretary of the Corporate General Partner, own a 25 proportionate interest in Vance, Teel Company, Ltd. 
+
+The following table sets forth information as of September 30, 2005 with respect to the beneficial ownership of Units of Registrant by (i) each of the General Partners, (ii) each of the directors and executive officers of the Corporate General Partner, and (iii) all General Partners and executive officers and directors of the Corporate General Partner, as a group. 
+
+Name of Beneficial Owner 
+
+Amount and Nature of Beneficial Ownership 
+
+Percent of Class 
+
+1345 Realty Corporation 1 
+
+-0- 
+
+0 
+
+Robert F. Gossett, Jr. 2 
+
+181,107.5 
+
+6.1 
+
+Pauline G. Gossett 3 
+
+181,107.5 
+
+6.1 
+
+All General Partners and Directors and Executive Officers as a group (3 persons) 
+
+362,215 
+
+12.1 
+
+1. 
+
+1345 Realty Corporation is the Corporate General Partner. 
+
+2. 
+
+Mr. Gossett is the Individual General Partner and the President of the Corporate General Partner. Consists of Mr. Gossett s 25 proportionate interest in Vance, Teel Company, Ltd. He disclaims beneficial ownership of the remaining 75 proportionate interest owned by his wife, Pauline Gossett, and his two adult children. 
+
+3. 
+
+Ms. Gossett is the Secretary of the Corporate General Partner. Consists of Ms. Gossett s 25 proportionate interest in Vance, Teel Company, Ltd. She disclaims beneficial ownership of the remaining 75 proportionate interest owned by her husband, Robert F. Gossett, Jr., and her two adult children. 
+
+38 
+
+Robert F. Gossett, Jr., the Individual General Partner and an officer and director of the Corporate General Partner, and Pauline G. Gossett, an officer of the Corporate General Partner, own all of the outstanding capital stock of the Corporate General Partner. 
+ 
+ Registrant does not have any equity compensation plans. 
+
+Item 13. 
+
+Certain Relationships and Related Transactions . 
+
+Registrant has and will continue to have certain relationships with the General Partners and their affiliates as discussed below. 
+ 
+ In 2004, the General Partners received no distributions of adjusted cash from operations. For the year ended December 31, 2004, 43,878 (1 of Registrant s net loss was allocated to the General Partners 35,102 to the Corporate General Partner and 8,776 to the Individual General Partner). 
+ 
+ The General Partners or their affiliates are also entitled to receive: a partnership management fee for managing the affairs of Registrant, equal to 7 of adjusted cash from operations less the asset management fee; an asset management fee for managing Registrant s funds which are not invested in properties, equal to 0.5 per annum of the average amount of outstanding funds during each calendar month which are not otherwise invested in properties; and a property management fee for property management services for Registrant s properties, equal to the normal and competitive fees customarily charged by unaffiliated parties rendering similar services in the same geographic area, not to exceed 1 of the annual gross revenues for net leases with terms of ten years or more or 6 of the annual gross revenues for replacement leases. During the year ended December 31, 2004, the General
+Partners earned an aggregate of 836,052 of such management fees 668,842 to the Corporate General Partner and 167,210 to the Individual General Partner), the receipt of all of which was deferred. 
+
+ The General Partners are also entitled to receive leasing commissions in connection with leasing, releasing or leasing related services performed on behalf of the Registrant in connection with the negotiation of tenant leases. Such fees are computed at the following rates: (i) in the case of a property leased long-term (10 or more years) net (or similar) basis, 1 of annual gross revenues; and (ii) in the case of other properties, a fee, not to exceed the competitive rate charged by others rendering similar services in the same geographical area, not greater than 6 of annual gross revenues where the General Partners or their affiliates perform leasing, re-leasing and related leasing services, or 3 of annual gross revenues where they do not perform any such services. If a long-term net (or similar) lease is terminated for any reason and the General Partners or their affiliates perform
+leasing, re-leasing or leasing related services, they will be entitled to a leasing fee of 3 of the gross revenue for the first five years of each replacement lease signed. During the year ended December 31, 2004, no such fees were paid to the General Partners. 
+ 
+ During the year ended December 31, 2004, the General Partners were also entitled to reimbursement for expenses incurred in connection with Registrant s operations aggregating 50,000 40,000 to the Corporate General Partner and 10,000 to the Individual General Partner). 
+ 
+ As of December 31, 2004, Registrant was indebted to the General Partners in the amount of 2,053,441 for deferred and unpaid fees. 
+ 
+ 39 
+
+Item 14. 
+
+Principal Accountant Fees and Services . 
+
+The firm of BDO Seidman, LLP is Registrant s current independent auditors. The independent auditors previously engaged by Registrant was Ernst Young LLP. Fees paid to BDO Seidman, LLP and to Ernst Young LLP for each of the fiscal years ended December 31, 2004 and 2003 were as follows: 
+
+Audit Fees. Fees for audit services provided by BDO Seidman, LLP for the years ended December 31, 2004, 2003, and 2002 aggregated 177,000, of which 135,000 was paid in 2004 and 2005 and 15,000 has yet to be paid. Fees for audit services provided by Ernst Young LLP for the year ended December 31, 2003 aggregated 24,000 (all of which was paid in 2003). Audit services consisted solely of the audit of Registrant s consolidated financial statements. 
+
+Audit-Related Fees. There were no fees for audit-related services provided during the years ended December 31, 2004 and 2003 by BDO Seidman, LLP or Ernst Young LLP. 
+
+Tax Fees. Other than 20,000 in fees (of which 15,000 has yet to be paid) for tax return review and New York real estate tax certiorari and appeal provided by BDO Seidman, LLP, there were no fees for tax services provided during the years ended December 31, 2004 and 2003 by BDO Seidman, LLP or Ernst Young LLP. 
+
+All Other Fees. There were no other fees during the years ended December 31, 2004 and 2003 for products or services provided by BDO Seidman, LLP or Ernst Young LLP. 
+
+Registrant does not have an audit committee. The Individual General Partner is responsible for the pre-approval of all auditing services and permitted non-audit services to be performed by Registrant s independent auditors. 
+ 
+ 40 
+
+PART IV 
+
+Item 15. 
+
+Exhibits and Financial Statement Schedules . 
+
+(a)(1), (2) 
+
+See page F-2. 
+
+Sequential Page Number 
+
+(a)(3) 
+
+Exhibits: 
+
+3. 
+
+Certificate of Limited Partnership, incorporated by reference to Exhibit 4 to Registration Statement No. 33-2258 (the Registration Statement ). 
+
+4.(a) 
+
+Amended and Restated Agreement of Limited Partnership dated as of July 24, 1995, incorporated by reference to Exhibit 4 to Registrant s Quarterly Report on Form 10-Q for the quarter ended September 30, 1995. 
+
+10.(a) 
+
+Property Management Agreement, incorporated by reference to Exhibit 10B to the Registration Statement. 
+
+(b) 
+
+Environmental Compliance and Indemnification Agreement dated ______, 1996, made by Registrant. 1 
+
+(c) 
+
+Deed of Trust, Assignment of Rents, Security Agreement and Fixture Filing dated September 26, 1996, made by Registrant with respect to the LightCross Building. 1 
+
+(d) 
+
+First Amendment to Deed of Trust dated December __, 1996, made by Registrant with respect to the LightCross` Building. 1 
+
+1 
+
+Incorporated by reference to Exhibits 10(k), (m), (n), (t), and (u) to Registrant s Annual Report on Form 10-K for the year ended December 31, 1996. 
+
+41 
+
+(e) 
+
+Mortgage, Assignment of Leases and Rents, Security Agreement and Fixture Filing dated September 26, 1996, made by Registrant with respect to the Mercury Insurance Group Building. 1 
+
+(f) 
+
+First Amendment to Mortgage dated December __, 1996, made by Registrant with respect to the Mercury Insurance Group Building. 1 
+
+(g) 
+
+Amended and Restated Loan Agreement dated as of October 12, 2000 between Registrant and Fleet National Bank. 2 
+
+(h) 
+
+Amended and Restated Secured Promissory Note dated October 12, 2000, made by Registrant. 2 
+
+(i) 
+
+Second Amendment to Deed of Trust, Assignment of Rents, Security Agreement and Fixture Filing dated as of October 12, 2000 made by Registrant with respect to Alamo Towers. 2 
+
+(j) 
+
+Third Amendment to Deed of Trust, Assignment of Rents, Security Agreement and Fixture Filing dated as of October 12, 2000 made by Registrant with respect to the LightCross Building. 2 
+
+2 
+
+Incorporated by reference to Exhibits 10 (o), (p), (r), (s), and (u) to Registrant s Annual Report on Form 10-K for the year ended December 31, 2000. 
+
+42 
+
+(k) 
+
+Third Amendment to Mortgage, Assignment of Leases and Rents, Security Agreement and Fixture Filing dated as of October 12, 2000 made by Registrant with respect to the Mercury Insurance Group Building. 2 
+
+(l) 
+
+Splitter Agreement dated as of August 9, 1999 between Fleet Bank and Registrant. 3 
+
+(m) 
+
+Demand Note dated August 9, 1999 made by Registrant. 3 
+
+(n) 
+
+Assignment of Mortgages and Note dated as of August 9, 1999 made by Registrant with respect to 475 Fifth Avenue. 3 
+
+(o) 
+
+Consolidated and Restated Promissory Note dated August 9, 1999 made by 475 Fifth Avenue Limited Partnership. 3 
+
+(p) 
+
+Mortgage Consolidation, Assignment of Rents, Security Agreement and Fixture Filing made as of August 9, 1999 by 475 Fifth Avenue Limited Partnership to and for the benefit of Heller Financial, Inc. 3 
+
+(q) 
+
+Letter Agreement dated August 9, 1999 made by Robert F. Gossett, Jr. to and for the benefit of Heller. 3 
+
+(r) 
+
+Manager s Agreement, Subordination and Consent to Assignment dated as of August 9, 1999 made by Registrant to and for the benefit of Heller. 3 
+
+3 
+
+Incorporated by reference to Exhibits 10 (v), (w), (x), (y), (z), (aa), (bb), and (cc) to Registrant s Annual Report on Form 10-K for the year ended December 31, 1999. 
+
+43 
+
+(s) 
+
+Hazardous Substance Indemnification Agreement dated as of August 9, 1999 made by 475 Fifth Avenue Limited Partnership and Robert F. Gossett, Jr. to and for the benefit of Heller. 3 
+
+(t) 
+
+Lease dated as of November 17, 2000 between Registrant and LightCross, Inc. with respect to the LightCross Building. 4 
+
+(u) 
+
+Purchase and Sale Agreement dated as of September 7, 2004 between Registrant and FSP 5601 Executive Drive Limited Partnership with respect to the Directory Building, incorporated by reference to Exhibit 2 to Registrant s Current Report on Form 8-K dated September 8, 2004. 
+
+(v) 
+
+Lease Agreement dated June 16, 2004 between Registrant and Mercury Insurance Services, LLC with respect to the Mercury Insurance Group Building, incorporated by reference to Exhibit 10 to Registrant s Current Report on Form 8-K dated June 18, 2004. 
+
+(w) 
+
+Purchase and Sale Agreement dated as of January 28, 2005 between Registrant and Vision Systems Group, Inc. with respect to the Tumi Building, incorporated by reference to Exhibit 2 to Registrant s Current Report on Form 8-K dated January 31, 2005. 
+
+4 
+
+Incorporated by reference to Exhibit 10 (dd) to Registrant s Annual Report on Form 10-K for the year ended December 31, 2000. 
+
+44 
+
+(x) 
+
+Amendment to Purchase and Sale Agreement dated as of March 29, 2005 between Registrant and Vision Systems Group, Inc. with respect to the Tumi Building, incorporated by reference to Exhibit 2.1 to Registrant s Current Report on Form 8-K dated April 25, 2005. 
+
+(y) 
+
+First Amendment to Amended and Restated Secured Promissory Note dated as of August 9, 2005 between Bank of America, N.A., and Registrant. 5 
+
+(z) 
+
+First Amendment to Amended and Restated Loan Agreement dated as of August 9, 2005 between Bank of America, N.A., and Registrant. 5 
+
+(aa) 
+
+Fourth Amendment to Mortgage, Assignment of Leases and Rents, Security Agreement and Fixture Filing dated as of August 9, 2005 between Registrant and Bank of America, N.A., with respect to the Mercury Insurance Group Building. 5 
+
+(bb) 
+
+Fourth Amendment to Deed of Trust, Assignment of Rents, Security Agreement and Fixture Filing dated as of August 9, 2005 between Registrant and Bank of America, N.A., with respect to the LightCross Building. 5 
+
+5 
+
+Incorporated by reference to Exhibits 10.1, 10.2, 10.3, 10.4, 10.5, 10.6, and 10.7 to Registrant s Current Report on Form 10-K dated August 9, 2005. 
+
+45 
+
+(cc) 
+
+Third Amendment to Deed of Trust, Assignment of Rents, Security Agreement and Fixture Filing dated as of August 9, 2005 between Registrant and Bank of America, N.A., with respect to the Alamo Towers. 5 
+
+(dd) 
+
+Control Account Agreement dated as of August 9, 2005 between Registrant and Bank of America, N.A. 5 
+
+(ee) 
+
+Confirmation of Environmental Compliance and Indemnification Agreement dated as of August 9, 2005 between Registrant and Bank of America, N.A. 5 
+
+14.1 
+
+Code of Ethics of Registrant effective as of January 1, 2004, incorporated by reference to Exhibit 14.1 to Registrant s Annual Report on Form 10-K for the year ended December 31, 2003. 
+
+31.1 
+
+Certification pursuant to Rule 13a-14(a) promulgated under the Securities Exchange Act of 1934. 
+
+32.1 
+
+Certification of Principal Executive Officer and Principal Financial Officer Regarding Annual Report pursuant to Rule 13a-14(b) promulgated under the Securities Exchange Act of 1934 and 18 U.S.C. Section 1350. 
+
+46 
+
+SIGNATURES 
+ 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+CORPORATE REALTY INCOME FUND I, L.P. 
+
+(Registrant) 
+
+By: 
+
+1345 REALTY CORPORATION as Corporate General Partner 
+
+Dated: October 25, 2005 
+
+By: 
+
+/s/ Robert F. Gossett, Jr. 
+
+ROBERT F. GOSSETT, JR., President 
+
+Dated: October 25, 2005 
+
+By: 
+
+/s/ Robert F. Gossett, Jr. 
+
+ROBERT F. GOSSETT, JR. 
+
+Individual General Partner 
+
+47 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities (with respect to the Corporate General Partner) and on the dates indicated. 
+
+1345 REALTY CORPORATION 
+
+Dated: October 25, 2005 
+
+By: 
+
+/s/ Robert F. Gossett, Jr. 
+
+Robert F. Gossett, Jr. 
+
+President, Director 
+
+Dated: October 25, 2005 
+
+By: 
+
+/s/ Pauline G. Gossett 
+
+Pauline G. Gossett 
+
+Secretary 
+
+48 
+
+Report of Independent Registered Public Accounting Firm 
+ 
+ To the Partners of Corporate Realty Income Fund I, L.P. 
+ 
+ We have audited the accompanying consolidated balance sheets of Corporate Realty Income Fund I, L.P. (a Delaware limited partnership) and subsidiaries (the Partnership as of December 31, 2004 and 2003 and the related consolidated statements of operations, changes in partners capital (deficit) and cash flows for each of the three years in the period ended December 31, 2004. We have also audited the schedule listed in the accompanying index. These financial statements and schedule are the responsibility of the Partnership s management. Our responsibility is to express an opinion on these financial statements and schedule based on our audits. 
+ 
+ We conducted our audits in accordance with auditing standards generally accepted by the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. The Partnership is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. Our audits included consideration of internal control over financial reporting as a basis for designing audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Partnership s internal control over financial reporting. Accordingly, we express no such opinion. An audit also includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements and schedule, assessing the accounting
+principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation. We believe that our audits provide a reasonable basis for our opinion. 
+ 
+ In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the consolidated financial position of Corporate Realty Income Fund I, L.P. and subsidiaries at December 31, 2004 and 2003, and the consolidated results of their operations and their cash flows for each of the three years in the period ended December 31, 2004, in conformity with accounting principles generally accepted in the United States of America. 
+
+ Also, in our opinion, the schedule presents fairly, in all material respects, the information set forth therein. 
+ 
+ /s/ BDO Seidman, LLP 
+ 
+ New York, New York August 30, 2005 
+
+CORPORATE REALTY INCOME FUND I, L.P. and SUBSIDIARIES CONSOLIDATED BALANCE SHEETS 
+
+December 31, 
+
+2004 
+
+2003 
+
+ASSETS 
+
+Real estate, at cost: 
+
+Land 
+
+10,721,820 
+
+10,721,820 
+
+Buildings and improvements 
+
+53,925,637 
+
+53,352,184 
+
+Tenant improvements 
+
+11,596,216 
+
+10,625,876 
+
+Equipment and furniture 
+
+199,255 
+
+199,255 
+
+76,442,928 
+
+74,899,135 
+
+Less accumulated depreciation 
+
+(18,616,138 
+
+(16,069,477 
+
+57,826,790 
+
+58,829,658 
+
+Assets associated with real estate held for sale 
+
+9,477,428 
+
+26,066,069 
+
+Cash and cash equivalents 
+
+287,173 
+
+632,954 
+
+Accounts receivable 
+
+136,824 
+
+483,838 
+
+Notes receivable 
+
+22,459 
+
+26,291 
+
+Deferred rent receivable 
+
+1,603,722 
+
+1,706,496 
+
+Deferred financing costs, net of accumulated amortization of 1,116,136 in 2004 and 984,659 in 2003 
+
+407,535 
+
+514,569 
+
+Lease commissions and deferred legal fees, net of accumulated amortization of 1,603,756 in 2004 and 1,492,871 in 2003 
+
+1,974,073 
+
+1,633,317 
+
+Escrow deposits 
+
+345,177 
+
+74,083 
+
+Deposits and other assets 
+
+919,124 
+
+958,050 
+
+Total assets 
+
+73,000,305 
+
+90,925,325 
+
+LIABILITIES AND PARTNERS CAPITAL 
+
+Accounts payable and accrued expenses 
+
+4,078,217 
+
+4,095,107 
+
+Mortgage loans payable 
+
+33,877,101 
+
+34,675,843 
+
+Due to general partners 
+
+1,389,922 
+
+805,292 
+
+Other liabilities 
+
+853,004 
+
+718,886 
+
+Obligations associated with real estate held for sale 
+
+7,837,397 
+
+21,277,693 
+
+Total liabilities 
+
+48,035,641 
+
+61,572,821 
+
+Commitments and contingencies 
+
+Partners capital (deficit): 
+
+General partners: 
+
+Capital contributions 
+
+1,000 
+
+1,000 
+
+Accumulated net income 
+
+217,758 
+
+261,636 
+
+Cash distributions 
+
+(684,596 
+
+(684,596 
+
+(465,838 
+
+(421,960 
+
+Limited partners: 25 per unit; 4,000,000 units authorized, 2,983,531 issued and outstanding in 2004 and 2003) 
+
+Capital contributions, net of offering costs 
+
+71,724,856 
+
+71,724,856 
+
+Accumulated net income 
+
+21,557,689 
+
+25,901,651 
+
+Accumulated cash distributions 
+
+(67,852,043 
+
+(67,852,043 
+
+25,430,502 
+
+29,774,464 
+
+Total partners capital 
+
+24,964,664 
+
+29,352,504 
+
+Total liabilities and partners capital 
+
+73,000,305 
+
+90,925,325 
+
+See accompanying notes. 
+ 
+ F-2 
+
+CORPORATE REALTY INCOME FUND I, L.P. and SUBSIDIARIES CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+For the years ended December 31, 
+
+2004 
+
+2003 
+
+2002 
+
+Revenue: 
+
+Rental 
+
+9,628,745 
+
+11,305,004 
+
+10,716,236 
+
+Lease cancellation 
+
+1,213,689 
+
+Interest and other income 
+
+488,672 
+
+124,883 
+
+141,625 
+
+10,117,417 
+
+12,643,576 
+
+10,857,861 
+
+Expenses: 
+
+Interest 
+
+2,685,768 
+
+2,713,921 
+
+2,757,915 
+
+Depreciation 
+
+2,546,661 
+
+2,504,395 
+
+2,331,772 
+
+Amortization 
+
+442,496 
+
+740,897 
+
+445,079 
+
+Property operations 
+
+6,149,846 
+
+6,052,548 
+
+5,464,142 
+
+Management fees - affiliate 
+
+592,395 
+
+638,664 
+
+735,189 
+
+Professional fees 
+
+548,025 
+
+438,579 
+
+462,594 
+
+Bad debt expense 
+
+691,456 
+
+2,149,495 
+
+453,424 
+
+General and administrative 
+
+426,984 
+
+415,345 
+
+417,706 
+
+14,083,631 
+
+15,653,844 
+
+13,067,821 
+
+Net loss from continuing operations 
+
+(3,966,214 
+
+(3,010,268 
+
+(2,209,960 
+
+Net loss from discontinued operations 
+
+(421,626 
+
+(4,947,580 
+
+(496,685 
+
+Net loss 
+
+(4,387,840 
+
+(7,957,848 
+
+(2,706,645 
+
+Net loss allocated: 
+
+General partners 
+
+(43,878 
+
+(79,578 
+
+(27,066 
+
+Limited partners 
+
+(4,343,962 
+
+(7,878,270 
+
+(2,679,579 
+
+(4,387,840 
+
+(7,957,848 
+
+(2,706,645 
+
+Net loss per unit of limited partnership interests: 
+
+Continuing operations 
+
+(1.32 
+
+(1.00 
+
+(0.73 
+
+Discontinued operations 
+
+(0.14 
+
+(1.64 
+
+(0.16 
+
+Net loss per unit of limited partnership interests 
+
+(1.46 
+
+(2.64 
+
+(0.90 
+
+See accompanying notes. 
+ F-3 
+
+CORPORATE REALTY INCOME FUND I, L.P. and SUBSIDIARIES CONSOLIDATED STATEMENTS OF CHANGES IN PARTNERS CAPITAL (DEFICIT) 
+
+Total 
+
+General Partners 
+
+Limited Partners 
+
+Partners capital (deficit) at December 31, 2001 
+
+40,921,097 
+
+(306,275 
+
+41,227,372 
+
+Cash distributions to partners 
+
+(904,100 
+
+(9,041 
+
+(895,059 
+
+Net loss 
+
+(2,706,645 
+
+(27,066 
+
+(2,679,579 
+
+Partners capital (deficit) at December 31, 2002 
+
+37,310,352 
+
+(342,382 
+
+37,652,734 
+
+Net loss 
+
+(7,957,848 
+
+(79,578 
+
+(7,878, 270 
+
+Partners capital (deficit) at December 31, 2003 
+
+29,352,504 
+
+(421,960 
+
+29,774,464 
+
+Net loss 
+
+(4,387,840 
+
+(43,878 
+
+(4,343,962 
+
+Partners capital (deficit) at December 31, 2004 
+
+24,964,664 
+
+(465,838 
+
+25,430,502 
+
+See accompanying notes. 
+ 
+ F-4 
+
+CORPORATE REALTY INCOME FUND I, L.P. and SUBSIDIARIES CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+For the years ended December 31, 
+
+2004 
+
+2003 
+
+2002 
+
+Operating activities: 
+
+Net loss 
+
+(4,387,840 
+
+(7,957,848 
+
+(2,706,645 
+
+Adjustments to reconcile net loss to net cash provided by operating activities: 
+
+Depreciation and amortization 
+
+3,881,941 
+
+4,955,023 
+
+4,245,991 
+
+Bad debt expense 
+
+1,123,533 
+
+2,149,495 
+
+453,424 
+
+Loss (gain) on sale of real estate 
+
+65,871 
+
+(45,582 
+
+Impairment loss 
+
+4,530,000 
+
+Deferred rent receivable 
+
+(425,809 
+
+(777,186 
+
+(348,416 
+
+Changes in operating assets and liabilities: 
+
+Decrease (increase) in: 
+
+Accounts receivable, net 
+
+208,240 
+
+(1,080,072 
+
+(108,667 
+
+Notes receivable 
+
+3,833 
+
+113,961 
+
+100,233 
+
+Lease commissions and deferred legal fees 
+
+(785,021 
+
+(1,545,383 
+
+(135,616 
+
+Escrow deposits 
+
+(222,923 
+
+95,455 
+
+228,994 
+
+Deposits and other assets 
+
+54,974 
+
+(44,371 
+
+(150,467 
+
+Increase (decrease) in: 
+
+Accounts payable and accrued expenses 
+
+(740,267 
+
+2,549,536 
+
+347,557 
+
+Due to general partners 
+
+825,852 
+
+226,936 
+
+1,000,653 
+
+Other liabilities 
+
+175,977 
+
+(373,189 
+
+(58,766 
+
+Total adjustments 
+
+4,166,201 
+
+10,754,623 
+
+5,574,920 
+
+Net cash (used in) provided by operating activities 
+
+(221,639 
+
+2,796,775 
+
+2,868,275 
+
+Investing activities: 
+
+(Increase) decrease in escrow deposits 
+
+(48,171 
+
+231,075 
+
+567,207 
+
+Proceeds from sale of real estate 
+
+15,541,974 
+
+Capital and tenant improvements 
+
+(1,794,760 
+
+(2,812,040 
+
+(1,449,869 
+
+Net cash provided by (used in) investing activities 
+
+13,699,043 
+
+(2,580,965 
+
+(882,662 
+
+Financing activities: 
+
+Financing costs 
+
+(24,443 
+
+(55,949 
+
+Repayments of mortgage loans payable 
+
+(13,798,742 
+
+(847,275 
+
+(838,418 
+
+Cash distributions to partners 
+
+(904,100 
+
+Net cash used in financing activities 
+
+(13,823,185 
+
+(903,224 
+
+(1,742,518 
+
+Net (decrease) increase in cash and cash equivalents 
+
+(345,781 
+
+(687,414 
+
+243,095 
+
+Cash and cash equivalents at beginning of period 
+
+632,954 
+
+1,320,368 
+
+1,077,273 
+
+Cash and cash equivalents at end of period 
+
+287,173 
+
+632,954 
+
+1,320,368 
+
+See accompanying notes. 
+ 
+ F-5 
+
+Corporate Realty Income Fund I, L.P. and Subsidiaries Notes to Consolidated Financial Statements December 31, 2004 
+
+1. 
+
+Organization 
+
+Corporate Realty Income Fund I, L.P. Partnership was formed as a limited partnership on November 25, 1985 under the laws of the State of Delaware. The Partnership was formed for the purpose of acquiring and owning income-producing commercial and industrial real estate properties for lease to others. The Partnership will terminate on December 31, 2010 or sooner, in accordance with the Partnership Agreement. 
+
+The general partners of the Partnership are 1345 Realty Corporation, the corporate general partner, and Robert F. Gossett, Jr., the individual general partner. 
+
+The initial capital was 1,025 representing capital contributions of 1,000 by the general partners and 25 by the original limited partner. The Partnership commenced operations on June 2, 1986 with the acceptance of subscriptions for 1,082,640 Depositary Units of limited partnership interest (the Units ). The Partnership has authorized the issuance of up to 4,000,000 Units. The Partnership sold 3,200,000 Units, representing 80,000,000, which completed the offering. Upon the first admittance of the additional limited partners and unitholders, the original limited partner withdrew from the Partnership. 
+
+There were no unit redemptions during 2004, 2003 and 2002. 
+
+The Partnership is considered one operating segment. 
+
+2. 
+
+Summary of Significant Accounting Policies 
+
+Basis of Accounting 
+
+The consolidated financial statements include the accounts of the Partnership and its wholly-owned subsidiaries. All significant intercompany accounts and transactions have been eliminated in consolidation. These financial statements have been prepared using the accrual basis of accounting in accordance with accounting principles generally accepted in the United States. 
+
+Use of Estimates 
+
+The general partners use estimates and assumptions in preparing the consolidated financial statements in conformity with accounting principles generally accepted in the United States. Those estimates and assumptions affect the reported amounts of the assets and liabilities, the disclosure of contingent assets and liabilities and the reported amounts of revenues and expenses. Actual results could differ from those estimates. 
+
+F-6 
+
+Corporate Realty Income Fund I, L.P. and Subsidiaries Notes to Consolidated Financial Statements December 31, 2004 (continued) 
+
+Revenue Recognition 
+
+Rental revenue is recognized on a straight-line basis over the terms of the leases. The excess of rents recognized over amounts contractually due pursuant to the underlying leases are shown as deferred rent receivable in the accompanying balance sheets. Accordingly, rental income for the years ended December 31, 2004, 2003 and 2002 includes 393,141, (531,595), and 348,416, respectively, of income on the straight-line basis over/(under) the actual amount billed. 
+
+During 2004, 2003, and 2002, the
+Partnership wrote off deferred rent receivable of approximately 993,330, 0,
+and 192,509, respectively, relating to tenant bankruptcies and tenants vacating
+properties prior to the expiration of their lease terms. The write-offs, net of
+termination fees collected from former tenants, are included in bad debt
+expense in the accompanying consolidated statements of operations and in
+discontinued operations. 
+
+Certain lease agreements provide for reimbursement of real estate taxes, insurance and operating maintenance costs which are recorded on an accrual basis. 
+
+Allowance for Doubtful Accounts 
+
+The Partnership maintains an allowance for doubtful accounts for estimated losses resulting from the inability of our tenants to make required rent payments. Management periodically performs a detailed review of amounts due from tenants to determine if accounts receivable balances are impaired based on factors affecting the collectibility of those balances. Management s estimates of the allowance for doubtful accounts requires management to exercise significant judgment about the timing, frequency, and severity of collection losses, which affects the allowance and net income. If the financial condition of a specific tenant were to deteriorate, resulting in an impairment of its ability to make payments, additional allowances may be required. All accounts receivable balances that are determined to be uncollectible are included in the allowance for accounts. After all attempts to collect a receivable have
+failed, the receivable is written off against the allowance. The following table summarizes changes in the allowance: 
+
+Year ended December 31, 
+
+2004 
+
+2003 
+
+2002 
+
+Allowance for doubtful accounts, beginning of year 
+
+-0- 
+
+-0- 
+
+252,228 
+
+Reclassified to discontinued operations 
+
+-0- 
+
+-0- 
+
+(134,680 
+
+Reclassified to notes receivable 
+
+-0- 
+
+-0- 
+
+(30,546 
+
+Provision for bad debt expense 
+
+691,456 
+
+2,149,495 
+
+366,422 
+
+Write-offs 
+
+(691,456 
+
+(2,149,495 
+
+(453,424 
+
+Allowance for doubtful accounts, end of year 
+
+-0- 
+
+-0- 
+
+-0- 
+
+F-7 
+
+Corporate Realty Income Fund I, L.P. and Subsidiaries Notes to Consolidated Financial Statements December 31, 2004 (continued) 
+
+Real Estate and Depreciation 
+
+Real estate is stated at cost. The costs of repairs and maintenance are charged to expense as incurred. 
+
+Depreciation of buildings, improvements, and equipment and furniture is computed under the straight-line method over the estimated economic useful lives of the assets. The estimated useful lives by asset category are: 
+
+Asset Category 
+
+Estimated Useful Life 
+
+Building 
+
+40 years 
+
+Building improvements 
+
+26 - 40 years 
+
+Tenant improvements 
+
+1.5 10 years 
+
+Furniture and fixtures 
+
+10 years 
+
+The Partnership accounts for the impairment or disposal of long-lived assets in accordance with Statement of Financial Accounting Standards No. 144, Accounting for the Impairment or Disposal of Long Lived Assets SFAS 144 ). Long-lived assets are individually evaluated for impairment when conditions exist which may indicate that the sum of expected future cash flows (on an undiscounted basis) is less than its carrying amount. Upon determination that an impairment has occurred, long-lived assets are reduced to their fair value. 
+
+If a property is considered held for sale, an impairment loss is recognized if the fair value of the property, less the estimated cost to sell, is less than the carrying amount of the property. Depreciation expense ceases once a property is considered held for sale. 
+
+Real Estate Held for Sale 
+
+The Partnership follows the provisions of SFAS 144. In accordance with SFAS 144, the Partnership classifies an operating property as held for sale when it determines that the property is available for immediate sale in its present condition and management is reasonably certain that a sale will be consummated. Operating properties held for sale are carried at the lower of cost or fair value less costs to sell. When a property is identified by management and a plan for sale, as defined by SFAS 144, has been adopted, the Partnership estimates the fair value, net of selling costs, of such property. Depreciation and amortization are suspended during the held-for-sale period. The operations of properties held for sale are reclassified into discontinued operations for all periods presented. 
+
+In accordance with SFAS 144, when the Partnership sells a property and will not have continuing involvement after disposition, its operations and gain on sale are reported in discontinued operations when the operations and cash flows are clearly distinguished. Once classified as discontinued operations, these properties are eliminated from ongoing operations. Prior periods are also restated to reflect the operations of these properties as discontinued operations. 
+
+F-8 
+
+Corporate Realty Income Fund I, L.P. and Subsidiaries Notes to Consolidated Financial Statements December 31, 2004 (continued) 
+
+Deferred Financing Costs 
+
+Costs incurred in connection with obtaining financing, such as origination fees, commitment fees, legal and other third-party costs, are amortized over the life of the related debt on a straight-line basis which approximates the effective yield method. 
+
+Leasing Commissions 
+
+Leasing commissions consist of fees and direct costs incurred to initiate and renew operating leases and are amortized on a straight-line basis over the initial lease term or renewal period as appropriate. 
+
+Income Taxes 
+
+No provision for federal, state or local income taxes has been provided in the financial statements because, as a pass-through entity, the Partnership is generally not subject to income tax. The tax effects of its activities accrue to the partners. 
+
+Cash Equivalents 
+
+The Partnership considers all highly liquid financial instruments with a maturity of three months or less when purchased to be cash equivalents. Cash and cash equivalents, which consist principally of money market funds, are carried at cost which approximates market value. 
+
+Fair Value of Financial Instruments 
+
+SFAS No. 107, Disclosures about Fair Value of Financial Instruments , defines fair value of a financial instrument as the amount at which the instrument could be exchanged in a current transaction between willing parties. The Partnership s cash and cash equivalents, accounts receivable, deposits, and accounts payable and accrued expenses are carried at cost, which approximates fair value due to the short maturities of such items. 
+
+The carrying value of notes receivable approximates fair value because such notes bear interest at market rates for similar types of notes. 
+
+It is not practicable to determine the fair value of amounts due to general partners. 
+
+The carrying value of the variable rate mortgage loan payable portion of the Partnership s debt approximates fair value at December 31, 2004 and 2003 as such loan is variable rate debt that reprices frequently at terms currently available to the Partnership. 
+
+F-9 
+
+Corporate Realty Income Fund I, L.P. and Subsidiaries Notes to Consolidated Financial Statements December 31, 2004 (continued) 
+
+The fair value of the Partnership s fixed rate long-term borrowings are estimated using discounted cash flow analysis, based on current borrowing rates for similar types of borrowing arrangements. The carrying amount and fair value of the Partnership s fixed rate long-term debt at December 31, 2004 was approximately 30,655,000 and 33,881,000, respectively. The carrying amount and fair value of such debt at December 31, 2003 was approximately 31,000,000 and 35,870,000, respectively. 
+
+Reclassification 
+
+Certain 2003 and 2002 amounts have been reclassified to conform to the 2004 presentation. Such reclassifications involve the Directory Building in Las Colinas, Texas and the Tumi Building in South Plainfield, New Jersey, each of which was classified as held for sale in 2004 (see Note 5). The impact of these discontinued operations on the Partnership s assets, liabilities, and results of operations is set forth in Note 6. 
+
+3. 
+
+Partnership Agreement 
+
+The Partnership Agreement provides that profits, losses and distributions shall be allocated 99 to the limited partners and 1 to the general partners. Sale or refinancing proceeds will generally be distributed 99 to the limited partners and 1 to the general partners until the limited partners have received an amount which, when added to all prior distributions of cash, will equal their original invested capital plus an 8 per annum cumulative noncompounded return. Thereafter, after payment of the subordinated disposition fee to the general partners, as defined in the agreement, proceeds will be distributed 75 to the limited partners and 25 to the general partners. 
+
+The Partnership Agreement further provides that net income shall be allocated to each calendar month of the year, and shall be apportioned on a monthly basis to the holders of interests, in the ratio in which the number of interests owned by each limited partner or unitholder on the first day of the month bears to the total number of interests owned by the limited partners and unitholders as of that date. 
+
+4. 
+
+Investments in Real Estate 
+
+LightCross Building 
+
+On July 10, 1986, the Partnership purchased the LightCross Building (formerly the Monterey Park Building), an office building located at 2630 Corporate Place, Monterey Park, California, and the 90,000 square feet of underlying land. The property contains approximately 22,250 square feet of net rentable area. 
+
+F-10 
+
+Corporate Realty Income Fund I, L.P. and Subsidiaries Notes to Consolidated Financial Statements December 31, 2004 (continued) 
+
+The terms of the agreement with the seller provided for a purchase price, including capitalized closing and related costs, of approximately 4,182,000. 
+
+In November 2000, the Partnership entered into a 10-year net lease with LightCross, Inc. for the entire building, which is currently occupied by Kotura, Inc., a successor by merger to LightCross, Inc. The lease also provides for two five-year renewal options. Kotura, Inc. has also been granted a right of first offer to purchase the building. 
+
+The Directory Building 
+
+On October 18, 2004, the Partnership sold the Directory Building for 16,100,000. The proceeds from the sale of the Directory Building were used to partially pay down the Fleet Loan (Note 9) by 13,000,000 and to augment the Partnership s working capital, including the funding of leasing commissions and tenant improvements at its properties and reducing accounts payable and accrued expenses. The Partnership recognized a loss of approximately 66,000 in 2004 on the sale of the Directory Building. The Partnership purchased the Directory Building, an office building located in Las Colinas, Texas, and the 6.67 acres of underlying land on October 27, 1986. The property contains approximately 152,100 square feet of net rentable area. 
+
+As a result of its impairment analysis, the Partnership recorded an impairment write-down of approximately 1,895,000 to reduce the carrying amount of the property to fair value at December 31, 2003. 
+
+Tumi Building 
+
+On April 25, 2005, the Partnership sold the Tumi Building for an adjusted gross sales price of 9,440,000. The Partnership utilized 6,517,500 of the sale proceeds to pay down the Fleet Loan. The balance of net proceeds have been used to augment the Partnership s working capital, including the funding of leasing commissions and tenant improvements at its properties and reducing accounts payable and accrued expenses. The Partnership purchased the Tumi Building, an office building located in South Plainfield, New Jersey, and the five acres of underlying land on December 30, 1986. The property contains approximately 107,900 square feet of net rentable area. 
+
+As a result of its impairment analysis, the Partnership recorded an impairment write-down of 2,635,000 to reduce the carrying amount of the property to fair value at December 31, 2003. 
+
+F-11 
+
+Corporate Realty Income Fund I, L.P. and Subsidiaries Notes to Consolidated Financial Statements December 31, 2004 (continued) 
+
+Mercury Insurance Group Building 
+
+On March 21, 1988, the Partnership purchased the Mercury Insurance Group Building (formerly the Marathon Oil Building) located in Oklahoma City, Oklahoma, and the 6.1 acres of underlying land. The building contains approximately 91,500 net rentable square feet plus an 8,610 square foot basement. 
+
+The terms of the agreement with the seller provided for a purchase price, including capitalized closing and related costs, of approximately 10,736,000. 
+
+As of December 31, 2004, the building was approximately 57.2 leased to two tenants under leases with remaining terms of five years. Marathon Oil Company had leased approximately 65,700 square feet of space pursuant to a lease that was to expire in February 2006. However, pursuant to an amendment to the lease executed in December 2003, Marathon s space was reduced to approximately 7,900 square feet as of May 1, 2004. In connection with this reduction in space, Marathon paid a termination fee of 713,689 in 2003. 
+
+In June 2004, the Partnership leased approximately 51,200 square feet (including approximately 7,310 in the basement) to Mercury Insurance Services, LLC for an initial five-year term, with two five-year renewal terms. The lease commenced on November 1, 2004. 
+
+475 Fifth Avenue 
+
+On December 6, 1996 the Partnership purchased an office building and the underlying land, approximately one third of an acre, located at 475 Fifth Avenue, New York, New York (the New York Building ). The building contains approximately 250,800 net rentable square feet. 
+
+The terms of the agreement with the seller provided for a purchase price, including capitalized closing and related costs, of approximately 27,440,000. 
+
+As of December 31, 2004, the building was approximately 69.5 leased to various tenants under operating leases with remaining terms ranging from one to fourteen years. The Partnership s ability to lease approximately 57,330 square feet of space since 2003 has more than offset vacancies attributable to the bankruptcy filings of certain office tenants in 2004 so that the building s occupancy rate has risen to approximately 83.0 of the rentable square footage as of August 30, 2005. 
+
+In connection with the early termination of certain tenant leases, the Partnership recognized lease cancellation income of approximately 1,214,000 in the year ended December 31, 2003. 
+
+Alamo Towers 
+
+On March 17, 1997, the Partnership purchased an office building and the thirteen acres of underlying land located in San Antonio, Texas, for a purchase price, including capitalized closing and related costs, of approximately 12,002,000. The building contains approximately 193,200 net rentable square feet. 
+
+F-12 
+
+Corporate Realty Income Fund I, L.P. and Subsidiaries Notes to Consolidated Financial Statements December 31, 2004 (continued) 
+
+As of December 31, 2004, the building was approximately 77.0 leased to various tenants under operating leases with remaining terms ranging from one to ten years. 
+
+In August 2005, the Partnership made a decision to market the Alamo Towers in San Antonio, Texas for sale. The Partnership has yet to solicit offers to purchase this property and there is no assurance that it will be able to sell the Alamo Towers on acceptable terms. 
+
+5. 
+
+Discontinued Operations 
+
+In January 2004, the Partnership classified the Directory Building in Las Colinas, Texas as held for sale. In July 2004, the Partnership classified the Tumi Building in South Plainfield, New Jersey as held for sale. The Partnership sold the Directory Building in October 2004 and it sold the Tumi Building in April 2005. In accordance with SFAS 144, the results of operations for the Directory Building and the Tumi Building are reflected in the consolidated statement of operations as discontinued operations for all periods presented. The major classes of assets and liabilities of real estate held for sale as of December 31, 2004 and 2003 are as follows: 
+
+December 31, 
+
+2004 
+
+2003 
+
+ASSETS 
+
+Land 
+
+3,147,912 
+
+8,073,657 
+
+Buildings and improvements 
+
+10,923,231 
+
+29,379,691 
+
+Tenant improvements 
+
+2,125,913 
+
+5,405,406 
+
+Equipment and furniture 
+
+63,351 
+
+Accumulated depreciation 
+
+(7,231,677 
+
+(18,393,400 
+
+Accounts receivable 
+
+9,932 
+
+1,361 
+
+Deferred rent receivable 
+
+464,747 
+
+Lease commissions and deferred legal fees 
+
+464,135 
+
+1,017,223 
+
+Deposits and other assets 
+
+37,982 
+
+54,033 
+
+Assets associated with real estate held for sale 
+
+9,477,428 
+
+26,066,069 
+
+LIABILITIES 
+
+Accounts payable and accrued expenses 
+
+596,499 
+
+1,302,282 
+
+Mortgage loans payable 
+
+6,517,500 
+
+19,517,500 
+
+Due to general partners 
+
+663,519 
+
+422,297 
+
+Other liabilities 
+
+59,879 
+
+35,614 
+
+Obligations associated with real estate held for sale 
+
+7,837,397 
+
+21,277,693 
+
+F-13 
+
+Corporate Realty Income Fund I, L.P. and Subsidiaries Notes to Consolidated Financial Statements December 31, 2004 (continued) 
+
+The following table summarizes the income and expense components that comprise net income from discontinued operations for the years ended December 31, 2004, 2003, and 2002: 
+
+2004 
+
+2003 
+
+2002 
+
+REVENUE 
+
+Rental 
+
+4,074,352 
+
+4,339,082 
+
+4,710,177 
+
+Interest and other income 
+
+19,800 
+
+22,151 
+
+23,844 
+
+Total revenue 
+
+4,094,152 
+
+4,361,233 
+
+4,734,021 
+
+EXPENSES 
+
+Interest 
+
+593,783 
+
+661,464 
+
+791,854 
+
+Depreciation and amortization 
+
+892,784 
+
+1,709,731 
+
+1,469,142 
+
+Property operating 
+
+2,207,606 
+
+2,237,846 
+
+2,430,688 
+
+Management fees - affiliate 
+
+243,657 
+
+259,772 
+
+289,022 
+
+Bad debt expense 
+
+432,077 
+
+General and administrative 
+
+80,000 
+
+(90,000 
+
+250,000 
+
+Impairment loss 
+
+4,530,000 
+
+Total expenses 
+
+4,449,907 
+
+9,308,813 
+
+5,230,706 
+
+Loss from discontinued operations 
+
+(355,755) 
+ 
+ (4,947,580) 
+ 
+ (496,685) 
+
+Loss on sale of real estate 
+
+(65,871) 
+
+Net loss from discontinued operations 
+
+(421,626 
+
+(4,947,580 
+
+(496,685 
+
+6. 
+
+Leases 
+
+Minimum future rentals from tenants under non-cancelable operating leases as of December 31, 2004 are approximately as follows: 
+
+2005 
+
+9,504,000 
+
+2006 
+
+8,947,000 
+
+2007 
+
+8,143,000 
+
+2008 
+
+6,833,000 
+
+2009 
+
+5,319,000 
+
+Thereafter 
+
+23,844,000 
+
+Total 
+
+62,590,000 
+
+In addition to the minimum lease amounts, the leases provide for escalation charges to the tenants for operating expenses, electric and real estate taxes. For the years ended December 31, 2004, 2003 and 2002, escalation charges amounting to approximately 1,198,000, 1,341,000 and 994,000, respectively, have been included in rental income. 
+
+Interest expense was allocated to discontinued operations based upon the
+amount of debt that was required to be repaid upon the consummation of the
+sale. 
+ 
+ F-14 
+
+Corporate Realty Income Fund I, L.P. and Subsidiaries Notes to Consolidated Financial Statements December 31, 2004 (continued) 
+
+7. 
+
+Transactions With General Partners and Affiliates 
+
+The general partners or their affiliates receive a property management fee equal to either 1 for a long-term net lease or 6 for other types of leases of gross revenue from each property, and a partnership management fee equal to 7 of adjusted cash from operations, as defined, and reimbursement of administrative expenses. The general partners also receive leasing commissions in connection with leasing, re-leasing or leasing related services performed on behalf of the Partnership in connection with the negotiation of tenant leases. Such commissions are computed at a rate equal to 3 of the gross revenues for the first five years of each lease signed where the general partners have performed such leasing services. 
+
+Following is a summary of the fees earned and reimbursable expenses for the years ended December 31, 2004, 2003 and 2002: 
+
+2004 
+
+2003 
+
+2002 
+
+From continuing operations: 
+
+Partnership management fees 
+
+-0- 
+
+1,987 
+
+129,485 
+
+Property management fees 
+
+592,395 
+
+636,677 
+
+605,704 
+
+Administrative expenses 
+
+50,000 
+
+50,000 
+
+50,000 
+
+Total from continuing operations: 
+
+642,395 
+
+688,664 
+
+785,189 
+
+From discontinued operations: 
+
+Property management fees 
+
+243,657 
+
+259,772 
+
+289,022 
+
+There were no leasing commissions charged
+by the general partners in 2004, 2003 and 2002. In addition, the general
+partners have deferred the receipt of all of the 2004 and 2003 partnership
+management fees and property management fees as well as a portion of such fees
+attributable to 2002. Such unpaid amounts are (i) reflected as amounts due
+to general partners and (ii) included in obligations associated with real estate
+held for sale in the accompanying consolidated balance sheets. The amounts due
+to the general partners do not bear interest and the general partners have
+agreed to defer receipt of payment of such fees until such time as the general
+partners determine that the partnership has sufficient funds to pay such fees.
+
+F-15 
+
+Corporate Realty Income Fund I, L.P. and Subsidiaries Notes to Consolidated Financial Statements December 31, 2004 (continued) 
+
+8. 
+
+Loans Payable 
+
+Bank of America Loan 
+
+On October 12, 2000, the Partnership entered into an Amended and Restated Loan Agreement (the Fleet Loan with Fleet National Bank, a Bank of America company. The terms of the Fleet Loan provided for maximum gross borrowings of 25,000,000. On October 18, 2004, the Partnership paid down the Fleet Loan with 13,000,000 of proceeds from the sale of the Directory Building (see Note 4). On April 25, 2005, the Partnership was required to pay down the Fleet Loan by 6,517,500 (the Tumi Paydown Proceeds with proceeds from the sale of the Tumi Building (see Note 4). To avoid breaking a 30-day LIBOR contract prior to its maturity on May 10, 2005, the Partnership invested the Tumi Paydown Proceeds with Fleet Bank pursuant to an instrument that paid down the Fleet Loan by approximately 6,524,000 on May 10, 2005. On August 9, 2005, the Partnership entered into amended loan documents with Bank of
+America, N.A., successor by merger to Fleet National Bank, to finance the outstanding balance of the Fleet Loan (approximately 3,104,000) plus an additional 3,000,000 advance for a term expiring on August 15, 2007. The amended loan (the Bank of America Loan is secured by all of the Partnership s properties other than its New York building. 
+
+Borrowings under the Bank of America Loan bear interest monthly at a rate, selected at the option of the Partnership at the time of the associated borrowing, based on (i) the prime rate plus .50 or (ii) the applicable LIBOR rate plus 2 . The Bank of America Loan requires monthly payments of interest plus principal payments equal to approximately 12,200, with a final payment of the then outstanding balance due at maturity. 
+
+Borrowings bearing interest based upon the prime rate can be prepaid any time without penalty. The LIBOR-based advances can be prepaid at the end of the interest periods without penalty, and during the interest period subject to a penalty. Upon the sale of any property, the Partnership is required to repay principal on the total indebtedness under the Bank of America Loan in an amount equal to 100 of that portion of the outstanding balance of the loan attributable to the sold property, as defined in the Bank of America Loan agreement, or 100 of the gross sales price or principal amount of refinancing, if greater. The Bank of America Loan requires the Partnership to comply with the following financial covenants: (i) a debt service coverage ratio of not less that 1.5:1.0, (ii) a loan to value ratio not to exceed 55 , (iii) a liquid net worth, as defined, of not less than 500,000, and (iv) total liabilities, as defined, not to exceed 60 
+of the appraised values of the secured properties. The Fleet Loan required similar covenants, although the liquid net worth requirement was 1 million. At December 31, 2004, the Partnership was in compliance with all of such financial covenants except for the liquid net worth covenant (its liquid net worth, as defined, was approximately 287,000). 
+
+F-16 
+
+Corporate Realty Income Fund I, L.P. and Subsidiaries Notes to Consolidated Financial Statements December 31, 2004 (continued) 
+
+In addition, the Bank of America Loan provides that the Partnership may distribute to its partners up to 90 of the sum of its cumulative net income from real estate operations, adjusted for depreciation, amortization, and write-offs of deferred rent receivable. Compliance with this distribution provision is tested as of the last day of each fiscal quarter for the period from and including January 1, 2001, through the date as of which compliance is tested. As of December 31, 2004, the Partnership was in compliance with this condition. 
+
+At December 31, 2004, 9,739,963 of LIBOR-based borrowings was outstanding under the Fleet Loan at an interest rate of approximately 4.09 . The average rate of interest during 2004, 2003, and 2002 was approximately 3.46 , 3.27 , and 3.76 , respectively. 
+
+New York Loan 
+
+On August 9, 1999, the Partnership obtained a 32,000,000 fixed rate mortgage (the New York Loan ). The loan is secured by the New York Building, matures on September 1, 2009, and bears interest on the outstanding balance, payable monthly, at a fixed rate of 8.27 . The terms of the note require monthly principal and interest payments of 240,855. As of December 31, 2004, the outstanding balance of the loan was 30,654,638. The New York Loan can be prepaid in full and not in part, subject to a prepayment penalty. Pursuant to the New York Loan agreement, the Partnership had approximately 345,000 included in escrow deposits on December 31, 2004 of restricted funds for capital improvements, repairs and replacements, and real estate taxes. 
+
+Minimum future principal payments pursuant to the Partnership s loan agreements (excluding discontinued operations) are as follows: 
+
+2005 
+
+3,555,115 
+
+2006 
+
+361,641 
+
+2007 
+
+393,157 
+
+2008 
+
+420,201 
+
+2009 
+
+29,146,987 
+
+Total 
+
+33,877,101 
+
+9. 
+
+Supplemental Disclosure of Cash Flow Information 
+
+2004 
+ 
+ 2003 
+ 
+ 2002 
+
+Cash paid during the year for interest 
+
+3,310,348 
+
+3,384,159 
+
+3,551,617 
+
+F-17 
+
+Corporate Realty Income Fund I, L.P. and Subsidiaries Notes to Consolidated Financial Statements December 31, 2004 (continued) 
+
+10. 
+
+Employee Savings Plan 
+
+During 1997, the Partnership established an employee savings plan (the Plan in accordance with Section 401(k) of the Internal Revenue Code. The Plan permits eligible employees to make contributions through salary reductions. For the years ended December 31, 2004, 2003 and 2002, the Partnership made contributions of 45,260, 37,100, and 30,250, respectively, to the Plan. 
+
+11. 
+
+Earnings and Distributions per Limited Partnership Unit 
+
+Basic earnings per limited partnership unit amounts were computed based on 2,983,531 (2004, 2003 and 2002) weighted average limited partnership units outstanding. 
+
+For each of the three years ended December 31, 2004, there were no partnership unit equivalents and, in accordance with the provisions of SFAS No. 128, dilutive earnings per limited partnership unit for the three years ended December 31, 2004 was computed based on the weighted average limited partnership units outstanding. 
+
+Distributions paid per limited partnership unit were .00, .00, and .30 for the years ended December 31, 2004, 2003, and 2002, respectively. 
+
+F-18 
+
+Corporate Realty Income Fund I, L.P. and Subsidiaries 
+ 
+ Schedule III Real Estate and Accumulated Depreciation 
+ 
+ December 31, 2004 
+
+Initial Cost (B) 
+
+Costs Capitalized Subsequent to Acquisition 
+
+Gross Amount at Which Carried at Close of Period 
+
+Description 
+
+Encumbrances (A) 
+
+Land 
+
+Building and Improvements 
+
+Building and Improvements 
+
+Land 
+
+Building and Improvements 
+
+Office Building Monterey Park, CA 
+
+931,000 
+
+1,762,126 
+
+2,459,141 
+
+1,651,420 
+
+1,762,126 
+
+4,110,561 
+
+Office Building So. Plainfield, NJ (E) 
+
+6,517,500 
+
+3,147,912 
+
+13,378,294 
+
+(329,150 
+
+3,147,912 
+
+13,049,144 
+
+Office Building San Antonio, TX 
+
+1,615,463 
+
+2,408,000 
+
+9,636,883 
+
+7,145,178 
+
+2,408,000 
+
+16,782,061 
+
+Office Building Oklahoma City, OK 
+
+676,000 
+
+1,063,694 
+
+9,713,348 
+
+1,099,661 
+
+1,063,694 
+
+10,813,009 
+
+Office Building New York, NY 
+
+30,654,638 
+
+5,488,000 
+
+21,951,998 
+
+12,063,479 
+
+5,488,000 
+
+34,015,477 
+
+40,394,601 
+
+13,869,732 
+
+57,139,664 
+
+21,630,588 
+
+13,869,732 
+
+78,770,252 
+
+Description 
+
+Total (C) 
+
+Accumulated Depreciation (D) 
+
+Date of Construction 
+
+Date Acquired 
+
+Life on Which Depreciation Is Computed 
+
+Office Building Monterey Park, CA 
+
+5,872,687 
+
+(1,679,462 
+
+1985 
+
+7/10/1986 
+
+5 to 40 years 
+
+Office Building So. Plainfield, NJ (E) 
+
+16,197,056 
+
+(7,231,677 
+
+1986 
+
+12/30/1986 
+
+5 to 40 years 
+
+Office Building San Antonio, TX 
+
+19,190,061 
+
+(3,760,932 
+
+1975/1981 
+
+3/17/1997 
+
+5 to 40 years 
+
+Office Building Oklahoma City, OK 
+
+11,876,703 
+
+(4,578,487 
+
+1986 
+
+3/21/1988 
+
+5 to 40 years 
+
+Office Building New York, NY 
+
+39,503,477 
+
+(8,597,257 
+
+1927 
+
+12/6/1996 
+
+5 to 40 years 
+
+92,639,984 
+
+(25,847,815 
+
+F-19 
+
+Corporate Realty Income Fund I, L.P. and Subsidiaries Schedule III Real Estate and Accumulated Depreciation December 31, 2004 (continued) 
+ 
+ Notes: 
+
+(A) 
+
+Encumbrances represent loans secured by deeds of trust given with respect to all of the properties of the Partnership. 
+
+(B) 
+
+The initial cost to the Partnership represents the original purchase price of the properties net of purchase price adjustments, including amounts incurred subsequent to acquisition which were contemplated. The initial cost includes the purchase price paid by the Partnership and acquisition fees and expenses. 
+
+(C) 
+
+Reconciliation Summary of Transactions Real Estate Owned 
+
+Years ended December 31 
+
+2004 
+
+2003 
+
+2002 
+
+Balance at beginning of year 
+
+117,821,243 
+
+119,539,203 
+
+118,089,334 
+
+Net additions during the year 
+
+1,794,759 
+
+2,812,040 
+
+1,449,869 
+
+Cost of real estate sold 
+
+(26,976,018 
+
+Impairment of long-lived assets 
+
+(4,530,000 
+
+Balance at close of year 
+
+92,639,984 
+
+117,821,243 
+
+119,539,203 
+
+The aggregate cost of land, buildings and improvements for federal income tax purposes at December 31, 2004 was approximately 96,502,357. 
+
+(D) 
+
+Reconciliation Summary of Transactions Accumulated Depreciation 
+
+Years ended December 31 
+
+2004 
+
+2003 
+
+2002 
+
+Balance at beginning of year 
+
+34,462,877 
+
+30,792,711 
+
+27,462,963 
+
+Depreciation charged to expense 
+
+2,753,111 
+
+3,670,166 
+
+3,329,748 
+
+Accumulated depreciation of real estate sold 
+
+(11,368,173 
+
+Balance at close of year 
+
+25,847,815 
+
+34,462,877 
+
+30,792,711 
+
+(E) 
+ 
+ The South Plainfield, New Jersey property was classified as held for sale in July 2004. The assets and liabilities associated with real estate held for sale in the consolidated balance sheets relate to this property. A non-cash impairment charge of 2,635,000 was recorded as at December 31, 2003 for this property. 
+
+F-20 
+
+<EX-31.1>
+ 2
+ cr107251ex311.htm
+ EXHIBIT 31.1
+
+EXHIBIT 31.1 
+ 
+ CERTIFICATION PURSUANT TO RULE 13a-14(a) PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ In connection with the Annual Report of Corporate Realty Income Fund I, L.P. (the Company on Form 10-K for the year ended December 31, 2004 as filed with the Securities and Exchange Commission (the Report ), I, Robert F. Gossett, Jr., principal executive officer and principal financial officer of the Company, certify, pursuant to Rule 13a-14(a) promulgated under the Securities Exchange Act of 1934, as amended, that: 
+
+(1) 
+
+I have reviewed the Report; 
+
+(2) 
+
+Based on my knowledge, the Report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by the Report; 
+
+(3) 
+
+Based on my knowledge, the financial statements and other financial information included in the Report fairly present, in all material respects, the financial condition, results of operations and cash flows of the Company as of, and for, the periods presented in the Report; 
+
+(4) 
+
+I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the Company and I have: 
+
+(a) 
+
+designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under my supervision, to ensure that material information relating to the Company, including its consolidated subsidiaries, is made known to me by others within those entities, particularly during the period in which the Report is being prepared; 
+
+(b) 
+
+evaluated the effectiveness of the Company s disclosure controls and procedures and presented in the Report my conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by the Report, based on such evaluation; and 
+
+(c) 
+
+disclosed in the Report any change in the Company s internal control over financial reporting that occurred during the Company s most recent fiscal quarter (the Company s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the Company s internal control over financial reporting; and 
+
+(5) 
+
+I have disclosed, based on my most recent evaluation of internal control over financial reporting, to the Company s auditors and the audit committee of the Company s board of directors (or persons performing the equivalent function): 
+
+(a) 
+
+all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Company s ability to record, process, summarize and report financial information; and 
+
+(b) 
+
+any fraud, whether or not material, that involves management or other employees who have a significant role in the Company s internal control over financial reporting. 
+
+Date: October 25, 2005 
+
+/s/ Robert F. Gossett, Jr. 
+
+Robert F. Gossett, Jr. 
+
+Individual General Partner and 
+
+President of Corporate General Partner 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ cr107251ex321.htm
+ EXHIBIT 32.1
+
+EXHIBIT 32.1 
+ 
+ Certification of Principal Executive Officer and Principal Financial Officer Regarding Annual Report Containing Financial Statements Pursuant to Rule 13a-14(b) promulgated under The Securities Exchange Act of 1934 and 18 U.S.C. Section 1350 
+ 
+ I, Robert F. Gossett, Jr., the Principal Executive Officer and Principal Financial Officer of Corporate Realty Income Fund I, L.P. (the Company ), in compliance with 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, hereby certify that, the Company s Annual Report on Form 10-K for the year ended December 31, 2004 (the Report filed with the Securities and Exchange Commission: 
+ 
+ fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+ 
+ the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ Robert F. Gossett, Jr. 
+
+Name: Robert F. Gossett, Jr. 
+
+Date: October 25, 2005 
+
+</EX-32.1>
+

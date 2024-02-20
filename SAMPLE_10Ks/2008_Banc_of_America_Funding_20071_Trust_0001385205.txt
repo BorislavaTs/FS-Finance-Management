@@ -1,0 +1,3252 @@
+<Header>
+<FileStats>
+    <FileName>20080328_10-K_edgar_data_1385205_0001056404-08-000949.txt</FileName>
+    <GrossFileSize>163457</GrossFileSize>
+    <NetFileSize>128867</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1101</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>16</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001056404-08-000949.hdr.sgml : 20080328
+<ACCEPTANCE-DATETIME>20080328091512
+ACCESSION NUMBER:		0001056404-08-000949
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		17
+CONFORMED PERIOD OF REPORT:	20071231
+FILED AS OF DATE:		20080328
+DATE AS OF CHANGE:		20080328
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Banc of America Funding 2007-1 Trust
+		CENTRAL INDEX KEY:			0001385205
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-130536-15
+		FILM NUMBER:		08716926
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O NORWEST BANK MINNESOTA N A
+		STREET 2:		11000 BROKEN LAND PARKWAY
+		CITY:			COLUMBIA
+		STATE:			MD
+		ZIP:			21044
+		BUSINESS PHONE:		4108842000
+
+	MAIL ADDRESS:	
+		STREET 1:		NATIONSBANK CORPORATE CENTER
+		STREET 2:		NC1-007-11-07
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28255
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ E2kj8t8b22GdoBmtIAIcsKVa29DaAqoE0aEkO8VvTsMW4CIowuHKJjfvn3c2E9Qr
+ eMpXEwoLK9/QqTWT8Dx+eg==
+
+ 0001056404-08-000949.txt : 20080328
+
+10-K
+ 1
+ baf07001_10k-2007.txt
+
+UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+
+ FORM 10-K
+
+(Mark one)
+
+ /X/ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934
+ For the fiscal year ended December 31, 2007
+
+ OR
+
+/ / TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934
+ For the transition period from ____________ to ____________
+
+Commission file number: 333-130536-15
+
+ Banc of America Funding 2007-1 Trust
+ (exact name of issuing entity as specified in its charter)
+
+ Banc of America Funding Corporation
+ (exact name of the depositor as specified in its charter)
+
+ Bank of America, National Association
+ (exact name of the sponsor as specified in its charter)
+
+New York 54-2198739
+ (State or other jurisdiction of 54-2198740
+ incorporation or organization) 54-2198741
+ 54-2198742
+ 54-2198743
+ 54-2198870
+ 54-6731729
+ 54-6731730
+ 54-6737494
+ (I.R.S. Employer
+ Identification No.)
+
+c/o Wells Fargo Bank, N.A.
+ 9062 Old Annapolis Road
+ Columbia, MD 21045
+ (Address of principal executive (Zip Code)
+ offices)
+
+Telephone number, including area code: (410) 884-2000
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ NONE.
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+ NONE.
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as
+ defined in Rule 405 of the Securities Act.
+
+ Yes ___ No X
+
+Indicate by check mark if the registrant is not required to file reports
+ pursuant to Section 13 or Section 15(d) of the Act.
+
+ Yes ___ No X
+
+Note - Checking the box above will not relieve any registrant required to
+ file reports pursuant to Section 13 or 15(d) of the Exchange Act from their
+ obligations under those Sections.
+
+Indicate by check mark whether the registrant (1) has filed all reports
+ required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+ of 1934 during the preceding 12 months (or for such shorter period that the
+ registrant was required to file such reports), and (2) has been subject to
+ such filing requirements for the past 90 days.
+
+ Yes X No ___
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item
+ 405 of Regulation S-K (Section 229.405 of this chapter) is not contained
+ herein, and will not be contained, to the best of registrant's knowledge, in
+ definitive proxy or information statements incorporated by reference in Part
+ III of this Form 10-K or any amendment to this Form 10-K.
+
+ Not applicable.
+
+Indicate by check mark whether the registrant is a large accelerated filer,
+ an accelerated filer, a non-accelerated filer, or a smaller reporting
+ company. See the definitions of "large accelerated filer", "accelerated
+ filer" and "smaller reporting company" in Rule 12b-2 of the Exchange Act.
+
+ Large accelerated filer ___
+ Accelerated filer ___
+ Non-accelerated filer X (Do not check if a smaller reporting company)
+ Smaller reporting company ___
+
+ Indicate by check mark whether the registrant is a shell company (as defined
+ in Rule 12b-2 of the Act).
+
+ Yes ___ No X
+
+State the aggregate market value of the voting and non-voting common equity
+ held by non-affiliates computed by reference to the price at which the
+ common equity was last sold, or the average bid and asked price of such
+ common equity, as of the last business day of the registrant's most recently
+ completed second fiscal quarter.
+
+ Not applicable.
+
+Indicate by check mark whether the registrant has filed all documents and
+ reports required to be filed by Section 12, 13 or 15(d) of the Securities
+ Exchange Act of 1934 subsequent to the distribution of securities under a
+ plan confirmed by a court.
+
+ Not applicable.
+
+Indicate the number of shares outstanding of each of the registrant's
+ classes of common stock, as of the latest practicable date.
+
+ Not applicable.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+ List hereunder the following documents if incorporated by reference and the
+ Part of the Form 10-K (e.g., Part I, Part II, etc.) into which the document
+ is incorporated: (1)Any annual report to security holders; (2) Any proxy or
+ information statement; and (3)Any prospectus filed pursuant to Rule 424(b)
+ or (c) under the Securities Act of 1933. The listed documents should be
+ clearly described for identification purposes (e.g., annual report to
+ security holders for fiscal year ended December 24, 1980).
+
+ Not applicable.
+
+PART I
+
+ Item 1. Business.
+
+ Omitted.
+
+Item 1A. Risk Factors.
+
+ Omitted.
+
+Item 1B. Unresolved Staff Comments.
+
+ Not applicable. Registrant is not an accelerated filer, large
+ accelerated filer or well-known seasoned issuer.
+
+Item 2. Properties.
+
+ Omitted.
+
+Item 3. Legal Proceedings.
+
+ Omitted.
+
+Item 4. Submission of Matters to a Vote of Security Holders.
+
+ Omitted.
+
+PART II
+
+ Item 5. Market for Registrant's Common Equity, Related Stockholder
+ Matters and Issuer Purchases of Equity Securities.
+
+ Omitted.
+
+Item 6. Selected Financial Data.
+
+ Omitted.
+
+Item 7. Management's Discussion and Analysis of Financial Condition and
+ Results of Operation.
+
+ Omitted.
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+
+ Omitted.
+
+Item 8. Financial Statements and Supplementary Data.
+
+ Omitted.
+
+Item 9. Changes in and Disagreements With Accountants on Accounting and
+ Financial Disclosure.
+
+ Omitted.
+
+Item 9A. Controls and Procedures.
+
+ Omitted.
+
+Item 9A(T). Controls and Procedures.
+
+ Omitted.
+
+Item 9B. Other Information.
+
+ None.
+
+PART III
+
+ Item 10. Directors, Executive Officers and Corporate Governance.
+
+ Omitted.
+
+Item 11. Executive Compensation.
+
+ Omitted.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+ and Related Stockholder Matters.
+
+ Omitted.
+
+Item 13. Certain Relationships and Related Transactions, and Director
+ Independence.
+
+ Omitted.
+
+Item 14. Principal Accounting Fees and Services.
+
+ Omitted.
+
+ADDITIONAL DISCLOSURE ITEMS FOR REGULATION AB
+
+Item 1112(b) of Regulation AB, Significant Obligor Financial Information.
+
+No single obligor represents 10 or more of the pool assets held by the issuing
+entity.
+
+Item 1114(b)(2) of Regulation AB, Significant Enhancement Provider Financial
+Information.
+
+No entity or group of affiliated entities provides any external credit
+enhancement or other support for the certificates within this transaction as
+described under Item 1114 (a) of Regulation AB.
+
+Item 1115(b) of Regulation AB, Certain Derivatives Instruments (Financial
+Information).
+
+The Bank of New York provides three interest rate swap agreements for the
+benefit of certain classes of certificates as disclosed in the prospectus filed
+pursuant to Rule 424 of the Securities Act of 1933, as amended, under the same
+Central Index Key (CIK) as this annual report on Form 10-K. No additional
+disclosure is necessary because the aggregate significance percentage for these
+derivative instruments is less than 10 .
+
+Bank of America, National Association provides an interest rate cap agreement
+for the benefit of the Class 1-A-1 Certificates as disclosed in the prospectus
+filed pursuant to Rule 424 of the Securities Act of 1933, as amended, under the
+same Central Index Key (CIK) as this annual report on Form 10-K. No additional
+disclosure is necessary because the significance percentage for this derivative
+instrument is less than 10 .
+
+Item 1117 of Regulation AB, Legal Proceedings.
+
+On August 6, 2007, American Home Mortgage Corp., the originator of certain of
+the mortgage loans in the Banc of America Funding 2007-1 Trust, and certain
+related entities, filed a voluntary petition for relief under Chapter 11 of the
+United States Bankruptcy Code in the United States Bankruptcy Court for the
+District of Delaware. The Honorable Christopher S. Sontchi is presiding over
+this filing under case number 07-11047. At this time, American Home Mortgage
+Corp. is operating its business as a "debtor-in-possession" under the
+jurisdiction of the Bankruptcy Court and in accordance with the applicable
+provisions of the United States Bankruptcy Code and orders of the United States
+Bankruptcy Court.
+
+The registrant knows of no other material pending legal proceedings involving
+the issuing entity and all parties related to such issuing entity, other than
+routine litigation incidental to the duties of those respective parties.
+
+Item 1119 of Regulation AB, Affiliations and Certain Relationships and Related
+Transactions.
+
+There are no changes to the information provided in the prospectus filed
+pursuant to Rule 424 of the Securities Act of 1933, as amended, under the same
+Central Index Key (CIK) as this annual report on Form 10-K.
+
+Item 1122 of Regulation AB, Compliance with Applicable Servicing Criteria.
+
+The reports on assessment of compliance with the servicing criteria for
+asset-backed securities and the related attestation reports on such assessments
+of compliance are attached hereto under Item 15.
+
+Item 1123 of Regulation AB, Servicer Compliance Statement.
+
+The servicer compliance statements are attached hereto under Item 15.
+
+Part IV
+
+ Item 15. Exhibits, Financial Statement Schedules.
+
+ (a) Exhibits.
+
+ (4.1) Pooling and Servicing Agreement, dated January 30, 2007, by and among
+ Banc of America Funding Corporation, Wells Fargo Bank, N.A. and U.S. Bank
+ National Association (including exhibits), incorporated by reference from
+ Exhibit 4.1 of the issuing entity's Current Report on Form 8-K filed on
+ February 14, 2007.
+
+ (4.2) Mortgage Loan Purchase Agreement, dated January 30, 2007, between Banc
+ of America Funding Corporation and Bank of America, National Association
+ (including exhibits), incorporated by reference from Exhibit 4.2 of the
+ issuing entity's Current Report on Form 8-K filed on February 14, 2007.
+
+ (10.1) Servicing Agreement, dated January 30, 2007, between Banc of America
+ Funding Corporation and Bank of America, National Association (including
+ exhibits), incorporated by reference from Exhibit 10.1 of the issuing
+ entity's Current Report on Form 8-K filed on February 14, 2007.
+
+ (10.2) (A) Second Amended and Restated Master Seller's Warranties and
+ Servicing Agreement, dated as of May 1, 2006, by and between Bank of America,
+ National Association and Wells Fargo Bank, N.A., incorporated by reference
+ from Exhibit 10.2(A) of the issuing entity's Current Report on Form 8-K
+ filed on February 14, 2007.
+
+ (10.2) (B) Second Amended and Restated Master Mortgage Loan Purchase
+ Agreement, dated as of May 1, 2006, by and between Bank of America, National
+ Association and Wells Fargo Bank, N.A., incorporated by reference from
+ Exhibit 10.2(B) of the issuing entity's Current Report on Form 8-K filed on
+ February 14, 2007.
+
+ (10.2) (C) Assignment, Assumption and Recognition Agreement, dated January
+ 30, 2007, among Bank of America, National Association, Banc of America
+ Funding Corporation, U.S. Bank National Association and Wells Fargo Bank,
+ N.A., incorporated by reference from Exhibit 10.2(C) of the issuing entity's
+ Current Report on Form 8-K filed on February 14, 2007.
+
+ (10.3) (A) Servicing Agreement, dated as of July 1, 2006, by and between
+ Bank of America, National Association and Wells Fargo Bank, N.A.,
+ incorporated by reference from Exhibit 10.3(A) of the issuing entity's
+ Current Report on Form 8-K filed on February 14, 2007.
+
+ (10.3) (B) Assignment, Assumption and Recognition Agreement, dated January
+ 30, 2007, among Bank of America, National Association, Banc of America
+ Funding Corporation, U.S. Bank National Association and Wells Fargo Bank,
+ N.A., incorporated by reference from Exhibit 10.3(B) of the issuing entity's
+ Current Report on Form 8-K filed on February 14, 2007.
+
+ (10.4) Interest Rate Cap Agreement, dated January 30, 2007, between Wells
+ Fargo Bank, N.A. on behalf of Banc of America Funding 2007-1 Trust and Bank
+ of America, National Association, incorporated by reference from Exhibit 10.4
+ of the issuing entity's Current Report on Form 8-K/A filed on December 28,
+ 2007.
+
+ (10.5) Interest Rate Swap Agreements, dated January 31, 2007, between Wells
+ Fargo Bank, N.A as supplemental interest trust trustee on behalf of the Banc
+ of America Funding 2007-1 Supplemental Interest Trust and The Bank of New
+ York, incorporated by reference from Exhibit 10.5 of the issuing entity's
+ Current Report on Form 8-K/A filed on December 28, 2007.
+
+ (31) Rule 13a-14(d)/15d-14(d) Certification.
+
+ (33) Reports on assessment of compliance with servicing criteria for
+ asset-backed securities.
+
+33.1 Bank of America, National Association as Servicer
+ 33.2 National City Mortgage Co. as Servicer
+ 33.3 Regulus Group LLC as Sub-Contractor for National City Mortgage Co.
+ 33.4 U.S. Bank National Association as Custodian
+ 33.5 Wells Fargo Bank, N.A. as Servicer
+ 33.6 Wells Fargo Bank, N.A. as Master Servicer and Securities Administrator
+
+(34) Attestation reports on assessment of compliance with servicing criteria
+ for asset-backed securities.
+
+34.1 Bank of America, National Association as Servicer
+ 34.2 National City Mortgage Co. as Servicer
+ 34.3 Regulus Group LLC as Sub-Contractor for National City Mortgage Co.
+ 34.4 U.S. Bank National Association as Custodian
+ 34.5 Wells Fargo Bank, N.A. as Servicer
+ 34.6 Wells Fargo Bank, N.A. as Master Servicer and Securities Administrator
+
+(35) Servicer compliance statement.
+
+35.1 Bank of America, National Association as Servicer
+ 35.2 Wells Fargo Bank, N.A. as Servicer
+ 35.3 Wells Fargo Bank, N.A. as Master Servicer and Securities Administrator
+
+(b) Not applicable.
+
+ (c) Omitted.
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities
+ Exchange Act of 1934, the registrant has duly caused this report to be
+ signed on its behalf by the undersigned, thereunto duly authorized.
+
+Banc of America Funding 2007-1 Trust
+ (Issuing Entity)
+
+ Wells Fargo Bank, N.A.
+ (Master Servicer)
+
+ /s/ Kelly Rentz
+ Kelly Rentz, Vice President
+ (senior officer in charge of the servicing function of the master
+ servicer)
+
+Date: March 27, 2008
+
+Exhibit Index
+
+ Exhibit No.
+
+(4.1) Pooling and Servicing Agreement, dated January 30, 2007, by and among
+ Banc of America Funding Corporation, Wells Fargo Bank, N.A. and U.S. Bank
+ National Association (including exhibits), incorporated by reference from
+ Exhibit 4.1 of the issuing entity's Current Report on Form 8-K filed on
+ February 14, 2007.
+
+ (4.2) Mortgage Loan Purchase Agreement, dated January 30, 2007, between
+ Banc of America Funding Corporation and Bank of America, National
+ Association (including exhibits), incorporated by reference from Exhibit 4.2
+ of the issuing entity's Current Report on Form 8-K filed on February 14,
+ 2007.
+
+ (10.1) Servicing Agreement, dated January 30, 2007, between Banc of America
+ Funding Corporation and Bank of America, National Association (including
+ exhibits), incorporated by reference from Exhibit 10.1 of the issuing
+ entity's Current Report on Form 8-K filed on February 14, 2007.
+
+ (10.2) (A) Second Amended and Restated Master Seller's Warranties and
+ Servicing Agreement, dated as of May 1, 2006, by and between Bank of
+ America, National Association and Wells Fargo Bank, N.A., incorporated by
+ reference from Exhibit 10.2(A) of the issuing entity's Current Report on
+ Form 8-K filed on February 14, 2007.
+
+ (10.2) (B) Second Amended and Restated Master Mortgage Loan Purchase
+ Agreement, dated as of May 1, 2006, by and between Bank of America,
+ National Association and Wells Fargo Bank, N.A., incorporated by reference
+ from Exhibit 10.2(B) of the issuing entity's Current Report on Form 8-K
+ filed on February 14, 2007.
+
+ (10.2) (C) Assignment, Assumption and Recognition Agreement, dated January
+ 30, 2007, among Bank of America, National Association, Banc of America
+ Funding Corporation, U.S. Bank National Association and Wells Fargo Bank,
+ N.A., incorporated by reference from Exhibit 10.2(C) of the issuing entity's
+ Current Report on Form 8-K filed on February 14, 2007.
+
+ (10.3) (A) Servicing Agreement, dated as of July 1, 2006, by and between
+ Bank of America, National Association and Wells Fargo Bank, N.A.,
+ incorporated by reference from Exhibit 10.3(A) of the issuing entity's
+ Current Report on Form 8-K filed on February 14, 2007.
+
+ (10.3) (B) Assignment, Assumption and Recognition Agreement, dated January
+ 30, 2007, among Bank of America, National Association, Banc of America
+ Funding Corporation, U.S. Bank National Association and Wells Fargo Bank,
+ N.A., incorporated by reference from Exhibit 10.3(B) of the issuing entity's
+ Current Report on Form 8-K filed on February 14, 2007.
+
+ (10.4) Interest Rate Cap Agreement, dated January 30, 2007, between Wells
+ Fargo Bank, N.A. on behalf of Banc of America Funding 2007-1 Trust and Bank
+ of America, National Association, incorporated by reference from Exhibit 10.4
+ of the issuing entity's Current Report on Form 8-K/A filed on December 28,
+ 2007.
+
+ (10.5) Interest Rate Swap Agreements, dated January 31, 2007, between Wells
+ Fargo Bank, N.A as supplemental interest trust trustee on behalf of the
+ Banc of America Funding 2007-1 Supplemental Interest Trust and The Bank of
+ New York, incorporated by reference from Exhibit 10.5 of the issuing
+ entity's Current Report on Form 8-K/A filed on December 28, 2007.
+
+ (31) Rule 13a-14(d)/15d-14(d) Certification.
+
+ (33) Reports on assessment of compliance with servicing criteria for
+ asset-backed securities.
+
+33.1 Bank of America, National Association as Servicer
+ 33.2 National City Mortgage Co. as Servicer
+ 33.3 Regulus Group LLC as Sub-Contractor for National City Mortgage Co.
+ 33.4 U.S. Bank National Association as Custodian
+ 33.5 Wells Fargo Bank, N.A. as Servicer
+ 33.6 Wells Fargo Bank, N.A. as Master Servicer and Securities Administrator
+
+(34) Attestation reports on assessment of compliance with servicing
+ criteria for asset-backed securities.
+
+34.1 Bank of America, National Association as Servicer
+ 34.2 National City Mortgage Co. as Servicer
+ 34.3 Regulus Group LLC as Sub-Contractor for National City Mortgage Co.
+ 34.4 U.S. Bank National Association as Custodian
+ 34.5 Wells Fargo Bank, N.A. as Servicer
+ 34.6 Wells Fargo Bank, N.A. as Master Servicer and Securities Administrator
+
+(35) Servicer compliance statement.
+
+35.1 Bank of America, National Association as Servicer
+ 35.2 Wells Fargo Bank, N.A. as Servicer
+ 35.3 Wells Fargo Bank, N.A. as Master Servicer and Securities Administrator
+
+<EX-31>
+ 2
+ baf07001_31.txt
+ 
+ EX-31 Rule 13a-14(d)/15d-14(d) Certification.
+
+ Banc of America Funding Corporation
+ Mortgage Pass-Through Certificates,
+ Series 2007-1
+
+ I, Kelly Rentz, a Vice President of Wells Fargo Bank, N.A. (the "Master
+ Servicer"), certify that:
+
+ 1.I have reviewed this report on Form 10-K and all reports on Form 10-D
+ required to be filed in respect of the period covered by this report on
+ Form 10-K of the Banc of America Funding 2007-1 Trust (the "Exchange
+ Act Periodic Reports");
+
+ 2.Based on my knowledge, the Exchange Act Periodic Reports, taken as a
+ whole, do not contain any untrue statement of a material fact or omit
+ to state a material fact necessary to make the statements made, in
+ light of the circumstances under which such statements were made, not
+ misleading with respect to the period covered by this report;
+
+ 3.Based on my knowledge, all of the distribution, servicing and other
+ information required to be provided under Form 10-D for the period
+ covered by this report is included in the Exchange Act Periodic Reports;
+
+ 4.I am responsible for reviewing the activities performed by the
+ servicers and based on my knowledge and the compliance reviews
+ conducted in preparing the servicer compliance statements required in
+ this report under Item 1123 of Regulation AB, and except as disclosed
+ in the Exchange Act Periodic Reports, the servicers have fulfilled
+ their obligations under the servicing agreements in all material
+ respects; and
+
+ 5.All of the reports on assessment of compliance with the servicing
+ criteria for asset-backed securities and their related attestation
+ reports on assessment of compliance with servicing criteria for
+ asset-backed securities required to be included in this report in
+ accordance with Item 1122 of Regulation AB and Exchange Act Rules
+ 13a-18 and 15d- 18 have been included as an exhibit to this report,
+ except as otherwise disclosed in this report. Any material instances of
+ noncompliance described in such reports have been disclosed in this
+ report on Form 10-K.
+
+ In giving the certifications above, I have reasonably relied on
+ information provided to me by the following unaffiliated parties: Bank
+ of America, National Association as Servicer and National City Mortgage
+ Co. as Servicer.
+
+ Dated: March 27, 2008
+
+/s/ Kelly Rentz
+ Signature
+
+ Vice President
+ (senior officer in charge of the servicing function of the master
+ servicer)
+
+</EX-31>
+
+<EX-33>
+ 3
+ baf07001_33-1.txt
+ 
+ EX-33.1
+(logo) Bank of America
+
+Bank of America
+475 CrossPoint Parkway
+PO Box 9000
+Getzville, NY 14068-9000
+
+Certification Regarding Compliance with Applicable Servicing Criteria
+
+1. BANK OF AMERICA, N.A. is responsible for assessing compliance with the
+servicing criteria applicable to it under paragraph (d) of Item 1122 of
+Regulation AB, as of and for the 12-month period ending December 31, 2007 (the
+"Reporting Period"), as set forth in Appendix A hereto. The transactions covered
+by this report include domestic asset-backed securities transactions for which
+BANK OF AMERICA, N.A. acted as servicer involving residential mortgage loans,
+other than government sponsored entities, or transactions that do not have
+scheduled interest and/or scheduled principal remittance schedules as outlined
+in their respective transaction agreements, with the exception of certain
+private whole loan transactions. (the "Platform");
+
+2. BANK OF AMERICA, N.A. has engaged certain vendors, which are not servicers as
+defined in Item 1101(j) of Regulation AB (the "Vendors"), to perform specific,
+limited or scripted activities, and BANK OF AMERICA, N.A. elects to take
+responsibility for assessing compliance with the servicing criteria or portion
+of the servicing criteria applicable to such Vendors' activities as set forth in
+Appendix A hereto;
+
+3. Except as set forth in paragraph 4 below, BANK OF AMERICA, N.A. used the
+criteria set forth in paragraph (d) of Item 1122 of Regulation AB to assess the
+compliance with the applicable servicing criteria;
+
+4. The criteria listed in the column titled "Inapplicable Servicing Criteria" on
+Appendix A hereto are inapplicable to BANK OF AMERICA, N.A. based on the
+activities it performs, directly or through its Vendors, with respect to the
+Platform;
+
+5. BANK OF AMERICA, N.A. has complied, in all respects, with the applicable
+servicing criteria as of December 31, 2007 and for the Reporting Period with
+respect to the Platform taken as a whole;
+
+6. BANK OF AMERICA, N.A. has not identified and is not aware of any material
+instance of noncompliance by the Vendors with the applicable servicing criteria
+as of December 31, 2007 and for the Reporting Period with respect to the
+Platform taken as a whole;
+
+7. BANK OF AMERICA, N.A. has not identified any material deficiency in its
+policies and procedures to monitor the compliance by the Vendors with the
+applicable servicing criteria as of December 31, 2007 and for the Reporting
+Period with respect to the Platform taken as a whole; and
+
+8. PricewaterhouseCoopers LLP, an independent registered public accounting firm,
+has issued an attestation report on BANK OF AMERICA, N.A.'s assessment of
+compliance with the applicable servicing criteria for the Reporting Period.
+
+February 29, 2008
+
+BANK OF AMERICA, N.A.
+
+By /s/ H. Randall Chestnut
+Name: H. Randall Chestnut
+Title: Senior Vice President
+
+(page)
+
+APPENDIX A
+
+INAPPLICABLE
+ APPLICABLE SERVICING
+ SERVICING CRITERIA SERVICING CRITERIA CRITERIA
+ NOT
+ Performed by performed by
+ Performed by subservicer(s) Bank of
+ Vendor(s) or vendor(s) America, N.A.
+ Performed for which for which or by
+ Directly Bank of Bank of subservicer(s)
+ by America, America N.A. or vendor(s)
+ Bank of N.A. is the is NOT the retained by
+ America, Responsible Responsible Bank of
+Reference Criteria N.A. Party Party America, N.A.
+
+General Servicing Considerations
+
+1122(d)(1)(i) Policies and procedures are instituted X
+ to monitor any performance or other
+ triggers and events of default in
+ accordance with the transaction
+ agreements.
+
+1122(d)(1)(ii) If any material servicing activities X
+ are outsourced to third parties, policies
+ and procedures are instituted to monitor
+ the third party's performance and
+ compliance with such servicing
+ activities.
+
+1122(d)(1)(iii) Any requirements in the transaction X
+ agreements to maintain a back-up servicer
+ for the mortgage loans are maintained.
+
+1122(d)(1)(iv) A fidelity bond and errors and X
+ omissions policy is in effect on the
+ party participating in the servicing
+ function throughout the reporting period
+ in the amount of coverage required by and
+ otherwise in accordance with the terms of
+ the transaction agreements.
+
+INAPPLICABLE
+ APPLICABLE SERVICING
+ SERVICING CRITERIA SERVICING CRITERIA CRITERIA
+ NOT
+ Performed by performed by
+ Performed by subservicer(s) Bank of
+ Vendor(s) or vendor(s) America, N.A.
+ Performed for which for which or by
+ Directly Bank of Bank of subservicer(s)
+ by America, America N.A. or vendor(s)
+ Bank of N.A. is the is NOT the retained by
+ America, Responsible Responsible Bank of
+Reference Criteria N.A. Party Party America, N.A.
+
+Cash Collection and Administration
+
+1122(d)(2)(i) Payments on mortgage loans are deposited X
+ into the appropriate custodial bank
+ accounts and related bank clearing
+ accounts no more than two business days
+ following receipt, or such other number
+ of days specified in the transaction
+ agreements.
+
+1122(d)(2)(ii) Disbursements made via wire transfer on X^i X^ii
+ behalf of an obligor or to investor are
+ made only by authorized personnel.
+
+1122(d)(2)(iii) Advances of funds or guarantees X
+ regarding collections, cash flows or
+ distributions, and any interest or other
+ fees charged for such advances, are made,
+ reviewed and approved as specified in
+ the transaction agreements.
+
+1122(d)(2)(iv) The related accounts for the X
+ transaction, such as cash reserve
+ accounts or accounts established as a
+ form of overcollateralization, are
+ separately maintained (e.g., with respect
+ to commingling of cash) as set forth in
+ the transaction agreements.
+
+1122(d)(2)(v) Each custodial account is maintained at X
+ a federally insured depository
+ institution as set forth in the
+ transaction agreements. For purposes of
+ this criterion, "federally insured
+ depository institution" with respect to a
+ foreign financial institution means a
+ foreign financial institution that meets
+ the requirements of Rule 13k-1(b)(1)
+ of the Securities Exchange Act.
+
+1122(d)(2)(vi) Unissued checks are safeguarded so as X
+ to prevent unauthorized access.
+
+1122(d)(2)(vii) Reconciliations are prepared on a X
+ monthly basis for all asset-backed
+ securities related bank accounts,
+ including custodial accounts and related
+ bank clearing accounts. These
+ reconciliations: (A) mathematically
+ accurate; (B) prepared within 30
+ calendar days after the bank statement
+ cutoff date, or such other number of days
+ specified in the transaction agreements;
+ (C) reviewed and approved by someone
+ other than the person who prepared the
+ reconciliation; and (D) contain
+ explanations for reconciling items.
+ These reconciling items are resolved
+ within 90 calendar days of their original
+ identification, or such other number of
+ days specified in the transaction
+ agreements.
+
+INAPPLICABLE
+ APPLICABLE SERVICING
+ SERVICING CRITERIA SERVICING CRITERIA CRITERIA
+ NOT
+ Performed by performed by
+ Performed by subservicer(s) Bank of
+ Vendor(s) or vendor(s) America, N.A.
+ Performed for which for which or by
+ Directly Bank of Bank of subservicer(s)
+ by America, America N.A. or vendor(s)
+ Bank of N.A. is the is NOT the retained by
+ America, Responsible Responsible Bank of
+Reference Criteria N.A. Party Party America, N.A.
+
+Investor Remittances and Reporting
+
+1122(d)(3)(i) Reports to investors, including those X^iii
+ to be filed with the Commission, are
+ maintained in accordance with the
+ transaction agreements and applicable
+ Commission requirements. Specifically,
+ such reports (A) are prepared in
+ accordance with timeframes and other
+ terms set forth in the transaction
+ agreements; (B) provide information
+ calculated in accordance with the terms
+ specified in the transaction agreements;
+ (C) are filed with the Commission as
+ required by its rules and regulations;
+ and (D) agree with the investors' or
+ trustee's records as to the total unpaid
+ principal balance and number of mortgage
+ loans serviced by the servicer.
+
+1122(d)(3)(ii) Amounts due to investors are allocated X^iv
+ and remitted in accordance with
+ timeframes, distribution priority and
+ other terms set forth in the transaction
+ agreements.
+
+1122(d)(3)(iii) Disbursements made to an investor are X
+ posted within two business days to the
+ Servicer's investor records, or such other
+ number of days specified in the transaction
+ agreements.
+
+1122(d)(3)(iv) Amounts remitted to investors per the X
+ investor reports agree with cancelled
+ checks, or other form of payment, or
+ custodial bank statements.
+
+INAPPLICABLE
+ APPLICABLE SERVICING
+ SERVICING CRITERIA SERVICING CRITERIA CRITERIA
+ NOT
+ Performed by performed by
+ Performed by subservicer(s) Bank of
+ Vendor(s) or vendor(s) America, N.A.
+ Performed for which for which or by
+ Directly Bank of Bank of subservicer(s)
+ by America, America N.A. or vendor(s)
+ Bank of N.A. is the is NOT the retained by
+ America, Responsible Responsible Bank of
+Reference Criteria N.A. Party Party America, N.A.
+
+Pool Asset Administration
+
+1122(d)(4)(i) Collateral or security on mortgage loans X
+ is maintained as required by the
+ transaction agreements or related mortgage
+ loan documents.
+
+1122(d)(4)(ii) Mortgage loan and related documents are X
+ safeguarded as required by the
+ transaction agreements.
+
+1122(d)(4)(iii) Any additions, removals, or X
+ substitutions to the asset pool are made,
+ reviewed and approved in accordance with
+ any conditions or requirements in the
+ transaction agreements.
+
+1122(d)(4)(iv) Payments on mortgage loans, including any X^v X^vi
+ payoffs, made in accordance with related
+ mortgage loan documents are posted to the
+ Servicer's obligor records maintained no
+ more than two business days after
+ receipt, or such other number of days
+ specified in the transaction agreements,
+ and allocated to principal, interest, or
+ other items (e.g., escrow) in accordance
+ with the related mortgage loan documents.
+
+1122(d)(4)(v) The Servicer's records regarding the X
+ mortgage loans agree with the Servicer's
+ records with respect to an obligor's
+ unpaid principal balance.
+
+1122(d)(4)(vi) Changes with respect to the terms or X
+ status of an obligor's mortgage loans (e.g.,
+ loan modifications or re-agings) are
+ made, reviewed and approved by authorized
+ personnel in accordance with the
+ transaction agreements and related pool
+ asset documents.
+
+1122(d)(4)(vii) Loss mitigation or recovery actions X
+ (e.g., forbearance plans, modifications
+ and deeds in lieu of foreclosure,
+ foreclosures and repossessions, as
+ applicable) are initiated, conducted, and
+ concluded in accordance with
+ the timeframes or other requirements
+ established by the transaction
+ agreements.
+
+1122(d)(4)(viii) Records documenting collection efforts X
+ are maintained during the period a mortgage
+ loan is delinquent in accordance with
+ the transaction agreements. Such records
+ are maintained on at least a monthly
+ basis, or such other period specified in
+ the transaction agreements, and describe
+ the entity's activities in monitoring
+ delinquent mortgage loans including, for
+ example, phone calls, letters, and
+ payment rescheduling plans in cases where
+ delinquency is deemed temporary (e.g.,
+ illness or unemployment).
+
+1122(d)(4)(ix) Adjustments to interest rates or rates X
+ of return for mortgage loans with variable
+ rates are computed based on the related
+ mortgage loan documents.
+
+1122(d)(4)(x) Regarding any funds held in trust for X
+ an obligor (such as escrow accounts): (A)
+ such funds are analyzed, in accordance
+ with the obligor's mortgage loan documents,
+ on at least an annual basis, or such
+ other period specified in the transaction
+ agreements; (B) interest on such funds is
+ paid, or credited, to obligors in
+ accordance with applicable mortgage loan
+ documents and state laws; and (C) such
+ funds are returned to the obligor within
+ 30 calendar days of full repayment of the
+ related mortgage loan, or such other number
+ of days specified in the transaction
+ agreements.
+
+1122(d)(4)(xi) Payments made on behalf of an obligor X^vii X^viii
+ (such as tax or insurance payments) are
+ made on or before the related penalty or
+ expiration dates, as indicated on the
+ appropriate bills or notices for such
+ payments, provided that such support has
+ been received by the Servicer at least 30
+ calendar days prior to these dates, or
+ such other number of days specified in
+ the transaction agreements.
+
+1122(d)(4)(xii) Any late payment penalties in X^ix X^x
+ connection with any payment to be made on
+ behalf of an obligor are paid from the
+ Servicer's funds and not charged to the
+ obligor, unless the late payment was due
+ to the obligor's error or omission.
+
+1122(d)(4)(xiii) Disbursements made on behalf of an X^xi X^xii
+ obligor are posted within two business
+ days to the obligor's records maintained
+ by the Servicer, or such other number of
+ days specified in the transaction
+ agreements.
+
+1122(d)(4)(xiv) Delinquencies, charge-offs and X
+ uncollectible accounts are recognized and
+ recorded in accordance with the
+ transaction agreements.
+
+1122(d)(4)(xv) Any external enhancement or other X
+ support identified in Item
+ 1114(a)(1) through (3) or Item 1115 of
+ Regulation AB, is maintained as set
+ forth in the transaction agreements.
+
+i Bank of America, N.A. under criterion 1122 (d) (2) (ii) makes authorized
+disbursements on behalf of an obligor for escrowed amounts and to investors for
+their disbursements except for specific, limited instances where the tax
+monitoring vendors make disbursements on behalf of an obligor.
+
+ii Under criterion 1122 (d) (2) (ii), in specific, limited instances where the
+tax monitoring vendors make disbursements on behalf of an obligor.
+
+iii Criterion under 1122 (d) (3) (i) (b) are performed either by Bank of
+America, N.A. or another participant in the servicing function as described in
+the transaction agreements. Criterion under 1122 (d) (3) (i) (a), (c) and (d)
+are performed by another party participating in the servicing function as
+described in the transaction agreements.
+
+iv Under criterion 1122 (d) (3) (ii) remittances may be made either directly to
+the investor by Bank of America, N.A. or another participant in the servicing
+function as described in the transaction agreements. Another party participating
+in the servicing function is responsible for allocations and distribution
+priorities as described in the transaction agreements.
+
+v Bank of America, N.A. performs the entire criterion 1122 (d) (4) (iv) except
+for the lockbox function, which is a specific, limited activity performed by a
+vendor.
+
+vi A vendor performs only the lockbox function for criterion 1122 (d) (4) (iv).
+
+vii Bank of America, N.A. performs all of the functions under criterion 1122(d)
+(4) (xi) except for specific, limited tax and insurance monitoring and
+disbursement activity performed by vendors.
+
+viii A vendor performs specific, limited tax and insurance monitoring and
+disbursement functions for criterion 1122 (d) (4) (xi).
+
+ix Bank of America, N.A. performs all of the functions under criterion 1122
+(d) (4) (xii) except for specific, limited tax and insurance monitoring and
+disbursement activity performed by vendors.
+
+x A vendor performs specific, limited tax and insurance monitoring and
+disbursement functions for criterion 1122(d) (4) (xii).
+
+xi Bank of America, N.A. performs all of the functions under criterion 1122(d)
+(4) (xiii) except for specific, limited tax and insurance monitoring and
+disbursement activity performed by vendors.
+
+xii A vendor performs specific, limited tax and insurance monitoring and
+disbursement functions for criterion 1122(d) (4) (xiii).
+
+</EX-33>
+
+<EX-33>
+ 4
+ baf07001_33-2.txt
+ 
+ EX-33.2
+(logo) National City
+Mortgage Co.
+
+National City Mortgage Co.
+A Subsidiary of National City Bank of Indiana
+3232 Newmark Drive Miamisburg, Ohio 45342
+Telephone: (937) 910-1200
+
+Mailing Address:
+P.O. Box 1820
+Dayton, Ohio 45401-1820
+
+Management's Assertion on Compliance with Regulation AB Criteria
+
+National City Mortgage Co. (the "Asserting Party") is responsible for assessing
+compliance, as of and for the year ended December 31, 2007 (the "Reporting
+Period"), with the servicing criteria set forth in Item 1122(d) of Regulation
+AB, excluding the criteria set forth in item 1122(d)(1)(iii), 1122(d)(3)(i)(C),
+1122(d)(4)(ii) and 1122(d)(4)(xv) which the Asserting Party has concluded
+are not applicable to the activities it performs, either directly or through
+its Vendors, with respect to the residential mortgage-backed securities
+transactions covered by this report (such criteria, the "Applicable Servicing
+Criteria"). The transactions covered by this report include all residential
+mortgage-backed securities that were completed on or after January 1, 2006 that
+were registered with the Securities and Exchange Commission pursuant to the
+Securities Act of 1933 (the "Platform"), as listed on Appendix A.
+
+The Asserting Party has engaged certain vendors ("Vendors") to perform
+specific, limited or scripted activities as of and for the year ended December
+31, 2007. The Asserting Party has policies and procedures in place designed to
+provide reasonable assurance that the vendors' activities comply in all
+material respects with the servicing criteria applicable to each Vendor. The
+Asserting Party is responsible for determining that it meets the SEC
+requirements to apply Interpretation 17.06 for the Vendors and related
+criteria. The Asserting Party elects to take responsibility for assessing
+compliance with the servicing criteria or portion of the servicing criteria
+applicable to such Vendors for servicing criteria 1122(d)(4)(xi) and
+1122(d)(4)(xii).
+
+The Asserting Party has obtained an assertion of management and accompanying
+1122 attestation report from the Vendor performing servicing criteria
+1122(d)(2)(i) and 1122(d)(4)(iv).
+
+The Asserting Party has assessed compliance with the Applicable Servicing
+Criteria for the Reporting Period and has concluded that it has complied, in
+all material respects, with the Applicable Servicing Criteria during the
+Reporting Period with respect to the Platform taken as a whole.
+
+Ernst & Young LLP, an independent registered public accounting firm, has issued
+an attestation report for the Platform on the Asserting Party's assessment of
+compliance with the Applicable Servicing Criteria as of and for the Reporting
+Period as set forth in this assertion.
+
+National City Mortgage Co., as Servicer
+
+/s/ Philip D. Cunningham III
+Name: Philip D. Cunningham III
+Title: Executive Vice President
+
+Date: February 28, 2008
+
+No one Cares More!
+
+(page)
+
+Appendix A (pg. 1/4)
+
+ARMT 2006-2 GSAA 2006-14 MLMI 2006-A3
+BAFC 2006-1 GSAA 2006-16 MLMI 2006-A4
+BAFC 2006-2 GSAA 2006-20 MLMI 2006-F1
+BAFC 2006-3 GSAA 2006-3 MSM 2007-14AR
+BAFC 2006-4 GSAA 2006-5 MSM 2007-15AR
+BAFC 2006-5 GSAA 2006-9 MSM 2007-7AX
+BAFC 2006-A GSAA 2007-4 PRIME 2006-1
+BAFC 2006-I GSAA 2007-5 PRIME 2006-CL1
+BAFC 2007-1 GSAA 2007-6 RALI 2006-QA11
+BAFC 2007-2 GSAA 2007-8 RALI 2006-QA4
+BAFC 2007-3 GSR 2006-8F RALI 2006-QA5
+BAFC 2007-7 GSR 2006-9F RALI 2006-QS1
+BAFC 2007-A GSR 2006-AR1 RALI 2006-QS10
+BAFC 2007-C GSR 2006-AR2 RALI 2006-QS11
+BAFC 2007-C GSR 2007-2F RALI 2006-QS12
+Bayview 2006-C GSR 2007-3F RALI 2006-QS13
+BSAAT 2007-1 GSR 2007-4F RALI 2006-QS16
+BSABS 2006-AC3 GSR 2007-5F RALI 2006-QS17
+BSABS 2006-AC5 GSR 2007-AR1 RALI 2006-QS18
+BSABS 2007-SD3 HARBORVIEW 2007-7 RALI 2006-QS2
+BSABS 2007-SD4 JPALT 2006-S4 RALI 2006-QS3
+BSSP 2007-R6 JPALT 2007-A2 RALI 2006-QS4
+CMLTI 2006-4 JPALT 2007-S1 RALI 2006-QS5
+CMLTI 2006-AR3 JPMMT 2006-S1 RALI 2006-QS6
+CMLTI 2006-AR5 JPMMT 2006-S3 RALI 2006-QS7
+CSMC 2006-3 JPMMT 2006-S4 RALI 2006-QS8
+CSMC 2007-1 JPMMT 2007-S1 RAMP 2006-RS5
+CSMC 2007-2 JPMMT 2007-S3 RAMP 2006-RZ3
+CSMC 2007-6 LMT 2006-6 RESI 2006-B
+DBALT 2006-AB2 LMT 2006-7 RFMSI 2006-S10
+DBALT 2006-AB4 LUMINENT 2006-4 RFMSI 2006-S11
+DBALT 2006-AF1 LUMINENT 2006-7 RFMSI 2006-S12
+DBALT 2006-AR1 LUMINENT 2007-2 SAMI 2006-AR3
+DBALT 2006-AR5 LXS 2006-20 WMLT 2006-A
+DBALT 2007-1 MALT 2007-1 WMLT 2006-ALT1
+DBALT 2007-2 MANA 2007-A2 MLMBS 2007-1
+DBALT 2007-AB1 MASTR 2006-1 LMT 2007-5
+GSAA 2006-11 MASTR 2006-3 LMT 2007-10
+GSAA 2006-12 MASTR 2007-1 BAFC 2007-4
+
+(page)
+
+Appendix A (pg. 2/4)
+
+ARMT 2004-1 GSR 2005-AR4 MASTR 2004-10
+ARMT 2004-2 GSR 2005-AR5 MASTR 2004-11
+ARMT 2004-4 GSR 2005-AR7 MASTR 2004-3
+ARMT 2004-5 HANOVER CAPITAL 736 MASTR 2004-4
+ARMT 2005-10 HARBORVIEW 2003-1 MASTR 2004-5
+ARMT 2005-3 HARBORVIEW 2005-14 MASTR 2004-6
+ARMT 2005-4 JP MORGAN 446 MASTR 2004-9
+ARMT 2005-7 JPMMT 2004-A2 MASTR 2005-1
+ARMT 2005-8 JPMMT 2004-A3 MASTR SEASONED 2003-1
+ARMT 2005-9 JPMMT 2004-A5 MLMI 2003-A4
+BAFC 2004-2 JPMMT 2004-S2 MLMI 2003-A5
+BAFC 2004-2 JPMMT 2005-S2 MLMI 2003-A6
+BAFC 2004-5 JPMMT 2005-S3 MLMI 2004-A1
+BAFC 2004-B MABS 2005-AB1 MLMI 2004-A2
+BAFC 2005-1 MALT 2002-1 MLMI 2005-A1
+BAFC 2005-2 MALT 2002-2 MLMI 2005-A4
+BAFC 2005-3 MALT 2002-3 MLMI 2005-A7
+BAFC 2005-4 MALT 2003-1 MLMI SERIES 2002-A3
+BAFC 2005-5 MALT 2003-2 MLMI SERIES 2003-A1
+BAFC 2005-6 MALT 2003-3 MLMI SERIES 2003-A2
+BAFC 2005-8 MALT 2003-4 MLMI SERIES 2003-A3
+BAFC 2005-B MALT 2003-5 MS 2004-1
+BAFC 2005-E MALT 2003-6 MS 2004-10AR
+BART 2003-5 MALT 2003-7 MS 2004-11AR
+BART 2004-2 MALT 2003-8 MS 2004-3
+BART 2004-6 MALT 2003-9 MS 2004-4
+BART 2004-7 MALT 2004-1 MS 2004-5AR
+BART 2005-4 MALT 2004-10 MS 2004-6AR
+BSABS 2002-AC1 MALT 2004-11 MS 2004-7AR
+BSABS 2002-AC2 MALT 2004-12 MS 2004-8AR
+BSABS 2003-AC4 MALT 2004-13 MS 2004-9
+BSABS 2004-AC1 MALT 2004-2 MS 2004-9AR
+BSABS 2004-AC2 MALT 2004-3 MS 2005-5AR
+BSABS 2001-AC3 MALT 2004-4 MS 2005-6AR
+BSALTA 2004-6 MALT 2004-5 MSM 2004-1
+BSALTA 2005-4 MALT 2004-6 MSM 2004-10AR
+BSALTA 2005-5 MALT 2004-7 MSM 2004-11AR
+BSALTA 2005-6 MALT 2004-8 MSM 2004-3
+BSALTA 2005-9 MALT 2004-9 MSM 2004-4
+BSARM 2005-7 MALT 2005-1 MSM 2004-5AR
+BSRT 2003-5 MALT 2005-2 MSM 2004-6AR
+BSRT 2004-2 MALT 2005-3 MSM 2004-7AR
+BSRT 2004-6 MALT 2005-4 MSM 2004-8AR
+BSRT 2004-7 MALT 2005-5 MSM 2004-9
+
+(page)
+
+Appendix A (pg. 3/4)
+
+BSRT 2005-4 MARM 2002-3 MSM 2005-5AR
+BSRT 2005-6 MARM 2003-7 MSM 2005-6AR
+BSRT 2005-7 MARM 2004-10 MSM 2005-9AR
+CMLT 2003-1 MARM 2004-11 MSST 2003-1
+CMLT 2004-1 MARM 2004-12 MSST 2004-1
+CMLT 2004-2 MARM 2004-14 MSST 2005-1
+CMLT 2004-HE1 MARM 2004-15 MSST 2005-2
+CMLT 2004-HY2 MARM 2004-6 MSSTR 2004-1
+CMLT 2004-HY3 MARM 2004-7 MSSTR 2005-1
+CMLTI 2004-HYB1 MARM 2004-8 MSSTR 2005-2
+CMLTI 2004-HYB2 MARM 2004-9 NAAC 2004-R3
+CSFB 2003-21 MARM 2005-1 NASCOR 786
+CSFB 2003-23 MARM 2005-2 PNC BANK, NA 856
+CSFB 2004-5 MARM 2005-3 PRIME 2003-3
+CSFB 2004-6 MARM 2005-6 PRIME 2004-1
+CSFB 2004-7 MARM 2005-8 PRIME 2004-CL1
+CSFB 2004-AR2 MAST 2002-7 PRIME 2005-1
+CSFB 2004-AR3 MAST 2002-8 PRIME 2005-2
+CSFB 2004-AR4 MAST 2003-1 PRIME 2005-5
+CSFB 2004-AR5 MAST 2003-10 PRM 2003-3
+CSFB 2004-AR8 MAST 2003-11 PRM 2004-1
+CSFB 2005-10 MAST 2003-12 PRM 2004-CL1
+CSFB 2005-3 MAST 2003-2 PRM 2005-1
+CSFB 2005-4 MAST 2003-3 PRM 2005-2
+CSFB 2005-5 MAST 2003-4 PRM 2005-5
+CSFB 2005-6 MAST 2003-5 RBSGC 2005-A
+CSFB 2005-7 MAST 2003-6 SBMS 2003-HYB1
+DB STRUCTURED 811 MAST 2003-7 SBMS03HYB1
+DBALT 2003-1 MAST 2003-8 SEQ 2005-2
+DBALT 2003-3 MAST 2003-9 SEQ 2005-3
+DBALT 2005-1 MAST 2004-1 SEQUOIA 2005-2
+DBALT 2005-2 MAST 2004-10 SEQUOIA 2005-3
+DBALT 2005-3 MAST 2004-11 THRN 2002-4
+DBALT 2005-4 MAST 2004-3 TMST 2001-1
+DBALT 2005-5 MAST 2004-4 TMST 2002-4
+DBALT 2005-6 MAST 2004-5 WELLS FARGO 101
+DBALT 2005-AR1 MAST 2004-6 WELLS FARGO 569
+DMSI 2003-1 MAST 2004-9 WELLS FARGO BANK N.A. 417
+DMSI 2004-1 MAST 2005-1 WELLS FARGO BANK N.A. 418
+DMSI 2004-2 MASTR 2001-3 WELLS FARGO BANK N.A. 227
+DMSI 2004-4 MASTR 2002-2 WFMBS 2003-6
+FHLB 4138A SHARED 945 MASTR 2002-7 WFMBS 2003-9
+FHLB 4138S SHARED 918 MASTR 2002-8 WMALT 2005-B
+FHLB PITTSBURG 4138 CV 426 MASTR 2003-1 WMLT 2005-B
+FHLB PITTSBURG 4138D GV 420 MASTR 2003-10
+
+(page)
+
+Appendix A (pg. 4/4)
+
+FHLB PITTSBURG 4138N CV 419 MASTR 2003-11
+GSAA 2004-7 MASTR 2003-12
+GSAA 2005-15 MASTR 2003-2
+GSAA 2005-6 MASTR 2003-3
+GSAA 2005-7 MASTR 2003-4
+GSAA 2005-9 MASTR 2003-5
+GSR 2004-12 MASTR 2003-6
+GSR 2004-14 MASTR 2003-7
+GSR 2005-AR1 MASTR 2003-8
+GSR 2005-AR2 MASTR 2003-9
+GSR 2005-AR3 MASTR 2004-1
+
+</EX-33>
+
+<EX-33>
+ 5
+ baf07001_33-3.txt
+ 
+ EX-33.3
+(logo) REGULUS
+
+Report on Assessment of Compliance with Regulation AB Servicing Criteria
+
+1. Pursuant to Subpart 229.1100 - Asset Backed Securities, 17 C.F.R. Sections
+ 229.1100-229.1123 ("Regulation AB"), Regulus Group LLC, for itself and its
+ wholly-owned subsidiaries (individually and collectively "Regulus"), is
+ responsible for assessing its compliance with the servicing criteria
+ applicable to the remittance processing services it provides to customers
+ who are issuers or servicers of asset backed securities transactions and
+ who have requested confirmation of Regulus' compliance in connection with
+ loan and/or receivables portfolios that include pool assets for asset
+ backed securities transactions (the "Platform"). Remittance processing is a
+ service whereby check payments that are remitted by mail to a post office
+ box are collected, processed through a highly automated data capture
+ system, and prepared for deposit to a bank account held by the beneficiary
+ of the payment.
+
+2. The servicing criteria set forth in Item 1122(d) of Regulation AB were used
+ in Regulus' assessment of compliance. Regulus has concluded that the
+ servicing criteria set forth in Items 1122(d)(2)(i) and 1122(d)(4)(iv) of
+ Regulation AB are applicable to the servicing activities it performs with
+ respect to the Platform (such criteria the "Applicable Servicing
+ Criteria"). Regulus has concluded that the remainder of the servicing
+ criteria set forth in Item 1122(d) of Regulation AB are inapplicable to the
+ activities it performs with respect to the Platform because Regulus does
+ not participate in the servicing activities referenced by such servicing
+ criteria.
+
+3. As of and for the year ended December 31, 2007, Regulus has complied in all
+ material respects with the Applicable Servicing Criteria set forth in Item
+ 1122(d) of Regulation AB.
+
+4. KPMG LLP, a registered public accounting firm, has issued an attestation
+ report on Regulus' assessment of compliance with the Applicable Servicing
+ Criteria as of and for the year ended December 31, 2007. A copy of that
+ attestation report is attached hereto as Exhibit A.
+
+/s/ Kimberlee Clark
+Kimberlee Clark
+Chief Financial Officer
+
+February 15, 2008
+
+860 LATOUR COURT
+NAPA, CA
+94558
+TEL: 707.254.4000
+FAX: 707.254.4070
+REGULUSGROUP.COM
+
+Exhibit A
+
+(logo) KPMG
+
+KPMG LLP
+1601 Market Street
+Philadelphia, PA 19103-2499
+
+Report of Independent Registered Public Accounting Firm
+
+The Board of Members
+Regulus Group LLC:
+
+We have examined management's assessment for those customers that management has
+informed us have requested confirmation of compliance, included in the
+accompanying Report on Assessment of Compliance with Regulation AB Servicing
+Criteria, that Regulus Group LLC complied with the servicing criteria set forth
+in Item 1122(d)(2)(i) and 1122(d)(4)(iv) of the Securities and Exchange
+Commission's Regulation AB for remittance processing services to those issuers
+of asset backed securities and servicers of loan and/or receivables portfolios
+that include pool assets for asset backed securities transactions (the Platform)
+as of and for the year ended December 31, 2007. Regulus Group LLC has determined
+that the remainder of the servicing criteria are not applicable to the
+activities it performs with respect to the Platform as of and for the year ended
+December 31, 2007. Management is responsible for the Company's compliance with
+those servicing criteria. Our responsibility is to express an opinion on
+management's assessment about the Company's compliance based on our examination.
+
+Our examination was conducted in accordance with the standards of the Public
+Company Accounting Oversight Board (United States) and, accordingly, included
+examining, on a test basis, evidence about the Company's compliance with the
+servicing criteria specified above and performing such other procedures as we
+considered necessary in the circumstances. Our examination included testing
+selected asset-backed transactions and securities that comprise the Platform,
+testing selected servicing activities related to the Platform, and determining
+whether the Company processed those selected transactions and performed those
+selected activities in compliance with the servicing criteria. Furthermore, our
+procedures were limited to the selected transactions and servicing activities
+performed by the Company during the period covered by this report. Our
+procedures were not designed to determine whether errors may have occurred
+either prior to or subsequent to our tests that may have affected the balances
+or amounts calculated or reported by the Company during the period covered by
+this report for the selected transactions or any other transactions. We believe
+that our examination provides a reasonable basis for our opinion. Our
+examination does not provide a legal determination on the Company's compliance
+with the servicing criteria.
+
+In our opinion, management's assessment that the Company complied with the
+aforementioned servicing criteria as of and for the year ended December 31, 2007
+is fairly stated, in all material respects.
+
+/s/ KPMG LLP
+
+February 12, 2008
+
+KPMG LLP, a U.S. limited liability partnership, is the U.S.
+member firm of KPMG International, a Swiss cooperative.
+
+</EX-33>
+
+<EX-33>
+ 6
+ baf07001_33-4.txt
+ 
+ EX-33.4
+Management's Assertion
+
+Report on Compliance with Applicable Servicing Criteria Pursuant to Item 1122
+of Regulation AB under the Securities Exchange Act of 1934
+
+U.S. Bank National Association ("U.S. Bank") as a party participating in the
+servicing function for the following transactions:
+
+U.S. Bank Corporate Trust Asset Backed Securities Platform^1
+
+hereby provides the following report on its assessment of compliance with the
+servicing criteria set forth in Item 1122 of Regulation AB applicable to it and
+as described on Exhibit A hereto:
+
+1. U.S. Bank is responsible for assessing its compliance with the servicing
+ criteria applicable to it as noted on the accompanying Exhibit A;
+
+2. U.S. Bank used the criteria set forth in paragraph (d) of Item 1122 of
+ Regulation AB to assess its compliance with the applicable servicing
+ criteria;
+
+3. U.S. Bank's assessment of its compliance with the applicable servicing
+ criteria is as of and for the period beginning on January 1, 2007 and ending
+ December 31, 2007, the end of the fiscal year covered by the Form 10-K
+ report. U.S. Bank's participation in the servicing function complied in all
+ material respects with the applicable servicing criteria.
+
+4. Ernst & Young, a registered public accounting firm, has issued an attestation
+ report on U.S. Bank's assessment of compliance with the applicable servicing
+ criteria as of and for the period beginning on January 1, 2007 and ending
+ December 31, 2007, the end of the fiscal year covered by the Form 10-K
+ report.
+
+U.S. BANK NATIONAL ASSOCIATION
+
+/s/ Bryan Calder
+Name: Bryan R. Calder
+Title: President
+
+Date: February 12, 2008
+
+1 The U.S. Bank Corporate Trust ABS Platform (the "Platform") consists of the
+activities involved in the performance of servicing functions for (i) publicly
+issued asset-backed and mortgage backed transactions the securities of which
+were offered on or after January 1, 2006 and (ii) certain asset backed
+transactions offered prior to January 1, 2006 for which the Issuer has
+voluntarily elected to make Regulation AB compliant filings under the Securities
+Exchange Act of 1934, as amended. The Platform does not include transaction
+comprised of the repackaging of corporate debt and/or other agency securities.
+
+(page)
+
+EXHIBIT A to Management's Assertion
+
+Inapplicable
+ Applicable Servicing
+ Servicing Criteria Servicing Criteria Criteria
+
+Reference General Servicing Considerations
+ 
+1122(d)(1)(i) Policies and procedures are instituted to X
+ monitor any performance or other triggers and
+ events of default in accordance with the
+ transaction agreements.
+
+1122(d)(1)(ii) If any material servicing activities are X
+ outsourced to third parties, policies and
+ procedures are instituted to monitor the
+ third party's performance and compliance with
+ such servicing activities.
+
+1122(d)(1)(iii) Any requirements in the transaction X
+ agreements to maintain a back-up servicer for
+ the Pool Assets are maintained.
+
+1122(d)(1)(iv) A fidelity bond and errors and omissions
+ policy is in effect on the party X
+ participating in the servicing function
+ throughout the reporting period in the amount
+ of coverage required by and otherwise in
+ accordance with the terms of the transaction
+ agreements.
+
+ Cash Collection and Administration
+
+1122(d)(2)(i) Payments on pool assets are deposited into X
+ the appropriate custodial bank accounts and
+ related bank clearing accounts no more than
+ two business days following receipt, or such
+ other number of days specified in the
+ transaction agreements.
+
+1122(d)(2)(ii) Disbursements made via wire transfer on X
+ behalf of an obligor or to an investor are
+ made only by authorized personnel.
+
+1122(d)(2)(iii) Advances of funds or guarantees regarding X
+ collections, cash flows or distributions, and
+ any interest or other fees charged for such
+ advances, are made, reviewed and approved as
+ specified in the transaction agreements.
+
+1122(d)(2)(iv) The related accounts for the transaction, X
+ such as cash reserve accounts or accounts
+ established as a form of
+ overcollateralization, are separately
+ maintained (e.g., with respect to commingling
+ of cash) as set forth in the
+ transaction agreements.
+
+1122(d)(2)(v) Each custodial account is maintained at a X
+ federally insured depository institution as
+ set forth in the transaction agreements. For
+ purposes of this criterion, "federally
+ insured depository institution" with respect
+ to a foreign financial institution means a
+ foreign financial institution that meets the
+ requirements of Rule 13k-1(b)(1) of the
+ Securities Exchange Act.
+
+1122(d)(2)(vi) Unissued checks are safeguarded so as to X
+ prevent unauthorized access.
+
+1122(d)(2)(vii) Reconciliations are prepared on a monthly X
+ basis for all asset-backed securities related
+ bank accounts, including custodial accounts
+ and related bank clearing accounts. These
+ reconciliations are (A) mathematically
+ accurate; (B) prepared within 30 calendar
+ days after the bank statement cutoff date, or
+ such other number of days specified in the
+ transaction agreements; (C) reviewed and
+ approved by someone other than the person who
+ prepared the reconciliation; and (D) contain
+ explanations for reconciling items. These
+ reconciling items are resolved within 90
+ calendar days of their original
+ identification, or such other number of days
+ specified in the transaction agreements.
+
+1
+
+Inapplicable
+ Applicable Servicing
+ Servicing Criteria Servicing Criteria Criteria
+
+Reference
+ 
+ Investor Remittances and Reporting
+
+1122(d)(3)(i) Reports to investors, including those to be X
+ filed with the Commission, are maintained in
+ accordance with the transaction agreements
+ and applicable Commission requirements.
+ Specifically, such reports (A) are prepared
+ in accordance with timeframes and other terms
+ set forth in the transaction agreements; (B)
+ provide information calculated in accordance
+ with the terms specified in the transaction
+ agreements; (C) are filed with the Commission
+ as required by its rules and regulations; and
+ (D) agree with investors' or the trustee's
+ records as to the total unpaid principal
+ balance and number of pool assets serviced
+ by the Servicer.
+
+1122(d)(3)(ii) Amounts due to investors are allocated and X
+ remitted in accordance with timeframes,
+ distribution priority and other terms set
+ forth in the transaction agreements.
+
+1122(d)(3)(iii) Disbursements made to an investor are posted X
+ within two business days to the Servicer's
+ investor records, or such other number of
+ days specified in the transaction agreements.
+
+1122(d)(3)(iv) Amounts remitted to investors per the X
+ investor reports agree with cancelled checks,
+ or other form of payment, or custodial bank
+ statements.
+
+ Pool Asset Administration
+
+1122(d)(4)(i) Collateral or security on pool assets is X
+ maintained as required by the transaction
+ agreements or related pool asset
+ documents.
+
+1122(d)(4)(ii) Pool asset and related documents are X
+ safeguarded as required by the transaction
+ agreements
+
+1122(d)(4)(iii) Any additions, removals or substitutions to the X
+ asset pool are made, reviewed and approved in
+ accordance with any conditions or requirements
+ in the transaction agreements.
+
+1122(d)(4)(iv) Payments on pool assets, including any X
+ payoffs, made in accordance with the related
+ pool asset documents are posted to the
+ Servicer's obligor records maintained no more
+ than two business days after receipt, or such
+ other number of days specified in the
+ transaction agreements, and allocated to
+ principal, interest or other items (e.g.,
+ escrow) in accordance with the related pool
+ asset documents.
+
+1122(d)(4)(v) The Servicer's records regarding the pool X
+ assets agree with the Servicer's records
+ with respect to an obligor's unpaid principal
+ balance.
+
+1122(d)(4)(vi) Changes with respect to the terms or status X
+ of an obligor's pool assets (e.g., loan
+ modifications or re-agings) are made,
+ reviewed and approved by authorized personnel
+ in accordance with the transaction agreements
+ and related pool asset documents.
+
+1122(d)(4)(vii) Loss mitigation or recovery actions (e.g., X
+ forbearance plans, modifications and deeds in
+ lieu of foreclosure, foreclosures and
+ repossessions, as applicable) are initiated,
+ conducted and concluded in accordance with
+ the timeframes or other requirements
+ established by the transaction agreements.
+
+2
+
+Inapplicable
+ Applicable Servicing
+ Servicing Criteria Servicing Criteria Criteria
+
+Reference
+ 
+1122(d)(4)(viii)Records documenting collection efforts are X
+ maintained during the period a pool asset
+ is delinquent in accordance with the
+ transaction agreements. Such records are
+ maintained on at least a monthly basis, or
+ such other period specified in the
+ transaction agreements, and describe the
+ entity's activities in monitoring delinquent
+ pool assets including, for example, phone
+ calls, letters and payment rescheduling plans
+ in cases where delinquency is deemed
+ temporary (e.g., illness or unemployment).
+
+1122(d)(4)(ix) Adjustments to interest rates or rates of X
+ return for pool assets with variable rates
+ are computed based on the related pool
+ asset documents.
+
+1122(d)(4)(x) Regarding any funds held in trust for an X
+ obligor (such as escrow accounts): (A) such
+ funds are analyzed, in accordance with the
+ obligor's pool asset documents, on at least
+ an annual basis, or such other period
+ specified in the transaction agreements; (B)
+ interest on such funds is paid, or credited,
+ to obligors in accordance with applicable
+ pool asset documents and state laws; and
+ (C) such funds are returned to the obligor
+ within 30 calendar days of full repayment of
+ the related pool assets, or such other
+ number of days specified in the transaction
+ agreements.
+
+1122(d)(4)(xi) Payments made on behalf of an obligor (such X
+ as tax or insurance payments) are made on or
+ before the related penalty or expiration
+ dates, as indicated on the appropriate bills
+ or notices for such payments, provided that
+ such support has been received by the
+ servicer at least 30 calendar days prior to
+ these dates, or such other number of days
+ specified in the transaction agreements.
+
+1122(d)(4)(xii) Any late payment penalties in connection with X
+ any payment to be made on behalf of an
+ obligor are paid from the Servicer's funds
+ and not charged to the obligor, unless the
+ late payment was due to the obligor's error
+ or omission.
+
+1122(d)(4)(xiii)Disbursements made on behalf of an obligor X
+ are posted within two business days to the
+ obligor's records maintained by the Servicer,
+ or such other number of days specified in the
+ transaction agreements.
+
+1122(d)(4)(xiv) Delinquencies, charge-offs and uncollectible X
+ accounts are recognized and recorded in
+ accordance with the transaction agreements.
+
+1122(d)(4)(xv) Any external enhancement or other support, X
+ identified in Item 1114(a)(1) through (3) or
+ Item 1115 of Regulation AB, is maintained as
+ set forth in the transaction agreements.
+
+3
+
+</EX-33>
+
+<EX-33>
+ 7
+ baf07001_33-5.txt
+ 
+ EX-33.5
+(logo) WELLS FARGO
+
+Wells Fargo Bank. N.A.
+Home Mortgage Division
+1 Home Campus
+Des Moines, IA 50328-0001
+
+Wells Fargo Bank, N.A.
+
+2007 Certification Regarding Compliance with Applicable Servicing Criteria
+
+1. Wells Fargo Bank, N.A. (the "Servicer") is responsible for assessing
+ compliance with the servicing criteria applicable to it under paragraph (d)
+ of Item 1122 of Regulation AB, as of and for the year ended December 31,
+ 2007 (the "Reporting Period"), as set forth in Exhibit A hereto. The
+ transactions covered by this report include transactions for which the
+ Servicer's Wells Fargo Home Mortgage division acted as the primary servicer
+ of residential mortgage loans, other than the servicing of such loans for
+ Freddie Mac, Fannie Mae, Ginnie Mae, state and local government bond
+ programs, or a Federal Home Loan Bank (the "Platform");
+
+2. The Servicer has engaged certain vendors, which are not deemed to be
+ servicers as defined in Item 1101(j) of Regulation AB (the "Vendors"), to
+ perform specific, limited or scripted activities for the Reporting Period,
+ and the Servicer has elected to take responsibility for assessing
+ compliance with the servicing criteria or portion of the servicing criteria
+ applicable to such Vendors' activities as set forth in Exhibit A hereto;
+
+3. Except as set forth in paragraph 4 below, the Servicer used the criteria
+ set forth in paragraph (d) of Item 1122 of Regulation AB to assess the
+ compliance with the applicable servicing criteria;
+
+4. The criteria listed in the column titled "Inapplicable Servicing Criteria"
+ on Exhibit A hereto are inapplicable to the Servicer based on the
+ activities it performs, directly or through its Vendors, with respect to
+ the Platform;
+
+5. The Servicer has complied, in all material respects, with the applicable
+ servicing criteria as of December 31, 2007, and for the Reporting Period
+ with respect to the Platform taken as a whole;
+
+6. The Servicer has not identified and is not aware of any material instance
+ of noncompliance by the Vendors with the applicable servicing criteria as
+ of December 31, 2007, or for the Reporting Period with respect to the
+ Platform taken as a whole;
+
+7. The Servicer has not identified any material deficiency in its policies and
+ procedures to monitor the compliance by the Vendors with the applicable
+ servicing criteria as of December 31, 2007, or for the Reporting Period
+ with respect to the Platform taken as a whole; and
+
+8. KPMG LLP, a registered public accounting firm, has issued an attestation
+ report on the Servicer's assessment of compliance with the applicable
+ servicing criteria for the Reporting Period, which attestation report is
+ included on Exhibit B attached hereto.
+
+February, 25, 2008
+
+WELLS FARGO BANK, N.A.
+
+By: /s/ Mary C. Coffin
+Mary C. Coffin
+Executive Vice President
+
+(page)
+
+EXHIBIT A
+to
+Wells Fargo Bank, N.A.'s
+2007 Certification Regarding Compliance With Applicable Servicing Criteria
+
+INAPPLICABLE
+ APPLICABLE SERVICING
+ SERVICING CRITERIA SERVICING CRITERIA CRITERIA
+
+Performed Performed by
+ by subservicer(s) NOT
+ Vendor(s) or vendor(s) performed by
+ for which for which Servicer or by
+ Performed Servicer is Servicer is subservicer(s)
+ Directly the NOT the or vendor(s)
+ by Responsible Responsible retained by
+Reference Criteria Servicer Party Party Servicer
+
+General Servicing Considerations
+
+1122(d)(1)(i) Policies and procedures are instituted X
+ to monitor any performance or other
+ triggers and events of default in
+ accordance with the transaction
+ agreements.
+
+1122(d)(1)(ii) If any material servicing activities X
+ are outsourced to third parties, policies
+ and procedures are instituted to monitor
+ the third party's performance and
+ compliance with such servicing
+ activities.
+
+1122(d)(1)(iii) Any requirements in the transaction X
+ agreements to maintain a back-up servicer
+ for the mortgage loans are maintained.
+
+1122(d)(1)(iv) A fidelity bond and errors and X
+ omissions policy is in effect on the
+ party participating in the servicing
+ function throughout the reporting period
+ in the amount of coverage required by and
+ otherwise in accordance with the terms of
+ the transaction agreements.
+
+Cash Collection and Administration
+
+1122(d)(2)(i) Payments on mortgage loans are deposited X^1 X^2
+ into the appropriate custodial bank
+ accounts and related bank clearing
+ accounts no more than two business days
+ following receipt, or such other number
+ of days specified in the transaction
+ agreements.
+
+1122(d)(2)(ii) Disbursements made via wire transfer on X
+ behalf of an obligor or to an investor are
+ made only by authorized personnel.
+
+1122(d)(2)(iii) Advances of funds or guarantees X
+ regarding collections, cash flows or
+ distributions, and any interest or other
+ fees charged for such advances, are made,
+ reviewed and approved as specified in
+ the transaction agreements.
+
+1122(d)(2)(iv) The related accounts for the X
+ transaction, such as cash reserve
+ accounts or accounts established as a
+ form of overcollateralization, are
+ separately maintained (e.g., with respect
+ to commingling of cash) as set forth in
+ the transaction agreements.
+
+1122(d)(2)(v) Each custodial account is maintained at X
+ a federally insured depository
+ institution as set forth in the
+ transaction agreements. For purposes of
+ this criterion, "federally insured
+ depository institution" with respect to a
+ foreign financial institution means a
+ foreign financial institution that meets
+ the requirements of Rule 13k-1(b)(1)
+ of the Securities Exchange Act.
+
+1122(d)(2)(vi) Unissued checks are safeguarded so as X^3 X^4
+ to prevent unauthorized access.
+
+INAPPLICABLE
+ APPLICABLE SERVICING
+ SERVICING CRITERIA SERVICING CRITERIA CRITERIA
+
+Performed Performed by
+ by subservicer(s) NOT
+ Vendor(s) or vendor(s) performed by
+ for which for which Servicer or by
+ Performed Servicer is Servicer is subservicer(s)
+ Directly the NOT the or vendor(s)
+ by Responsible Responsible retained by
+Reference Criteria Servicer Party Party Servicer
+
+1122(d)(2)(vii) Reconciliations are prepared on a X
+ monthly basis for all asset-backed
+ securities related bank accounts,
+ including custodial accounts and related
+ bank clearing accounts. These
+ reconciliations are (A) mathematically
+ accurate; (B) prepared within 30
+ calendar days after the bank statement
+ cutoff date, or such other number of days
+ specified in the transaction agreements;
+ (C) reviewed and approved by someone
+ other than the person who prepared the
+ reconciliation; and (D) contain
+ explanations for reconciling items.
+ These reconciling items are resolved
+ within 90 calendar days of their original
+ identification, or such other number of
+ days specified in the transaction
+ agreements.
+
+Investor Remittances and Reporting
+
+1122(d)(3)(i) Reports to investors, including those X
+ to be filed with the Commission, are
+ maintained in accordance with the
+ transaction agreements and applicable
+ Commission requirements. Specifically,
+ such reports (A) are prepared in
+ accordance with timeframes and other
+ terms set forth in the transaction
+ agreements; (B) provide information
+ calculated in accordance with the terms
+ specified in the transaction agreements;
+ (C) are filed with the Commission as
+ required by its rules and regulations;
+ and (D) agree with the investors' or
+ trustee's records as to the total unpaid
+ principal balance and number of mortgage
+ loans serviced by the Servicer.
+
+1122(d)(3)(ii) Amounts due to investors are allocated X
+ and remitted in accordance with
+ timeframes, distribution priority and
+ other terms set forth in the transaction
+ agreements.
+
+1122(d)(3)(iii) Disbursements made to an investor are X
+ posted within two business days to the
+ Servicer's investor records, or such other
+ number of days specified in the transaction
+ agreements.
+
+1122(d)(3)(iv) Amounts remitted to investors per the X
+ investor reports agree with cancelled
+ checks, or other form of payment, or
+ custodial bank statements.
+
+Pool Asset Administration
+
+1122(d)(4)(i) Collateral or security on mortgage loans X
+ is maintained as required by the
+ transaction agreements or related mortgage
+ loan documents.
+
+1122(d)(4)(ii) Mortgage loan and related documents are X
+ safeguarded as required by the
+ transaction agreements.
+
+1122(d)(4)(iii) Any additions, removals or substitutions X
+ to the asset pool are made, reviewed and
+ approved in accordance with any conditions
+ or requirements in the transaction agreements.
+
+1122(d)(4)(iv) Payments on mortgage loans, including any X^5 X^6
+ payoffs, made in accordance with related
+ mortgage loan documents are posted to the
+ Servicer's obligor records maintained no
+ more than two business days after
+ receipt, or such other number of days
+ specified in the transaction agreements,
+ and allocated to principal, interest or
+ other items (e.g., escrow) in accordance
+ with the related mortgage loan documents.
+
+1122(d)(4)(v) The Servicer's records regarding the X
+ mortgage loans agree with the Servicer's
+ records with respect to an obligor's
+ unpaid principal balance.
+
+INAPPLICABLE
+ APPLICABLE SERVICING
+ SERVICING CRITERIA SERVICING CRITERIA CRITERIA
+
+Performed Performed by
+ by subservicer(s) NOT
+ Vendor(s) or vendor(s) performed by
+ for which for which Servicer or by
+ Performed Servicer is Servicer is subservicer(s)
+ Directly the NOT the or vendor(s)
+ by Responsible Responsible retained by
+Reference Criteria Servicer Party Party Servicer
+
+1122(d)(4)(vi) Changes with respect to the terms or X
+ status of an obligor's mortgage loans (e.g.,
+ loan modifications or re-agings) are
+ made, reviewed and approved by authorized
+ personnel in accordance with the
+ transaction agreements and related pool
+ asset documents.
+
+1122(d)(4)(vii) Loss mitigation or recovery actions X
+ (e.g., forbearance plans, modifications
+ and deeds in lieu of foreclosure,
+ foreclosures and repossessions, as
+ applicable) are initiated, conducted and
+ concluded in accordance with
+ the timeframes or other requirements
+ established by the transaction
+ agreements.
+
+1122(d)(4)(viii) Records documenting collection efforts X
+ are maintained during the period a mortgage
+ loan is delinquent in accordance with
+ the transaction agreements. Such records
+ are maintained on at least a monthly
+ basis, or such other period specified in
+ the transaction agreements, and describe
+ the entity's activities in monitoring
+ delinquent mortgage loans including, for
+ example, phone calls, letters and
+ payment rescheduling plans in cases where
+ delinquency is deemed temporary (e.g.,
+ illness or unemployment).
+
+1122(d)(4)(ix) Adjustments to interest rates or rates X
+ of return for mortgage loans with variable
+ rates are computed based on the related
+ mortgage loan documents.
+
+1122(d)(4)(x) Regarding any funds held in trust for X
+ an obligor (such as escrow accounts): (A)
+ such funds are analyzed, in accordance
+ with the obligor's mortgage loan documents,
+ on at least an annual basis, or such
+ other period specified in the transaction
+ agreements; (B) interest on such funds is
+ paid, or credited, to obligors in
+ accordance with applicable mortgage loan
+ documents and state laws; and (C) such
+ funds are returned to the obligor within
+ 30 calendar days of full repayment of the
+ related mortgage loans, or such other number
+ of days specified in the transaction
+ agreements.
+
+1122(d)(4)(xi) Payments made on behalf of an obligor X^7 X^8
+ (such as tax or insurance payments) are
+ made on or before the related penalty or
+ expiration dates, as indicated on the
+ appropriate bills or notices for such
+ payments, provided that such support has
+ been received by the Servicer at least 30
+ calendar days prior to these dates, or
+ such other number of days specified in
+ the transaction agreements.
+
+1122(d)(4)(xii) Any late payment penalties in X
+ connection with any payment to be made on
+ behalf of an obligor are paid from the
+ Servicer's funds and not charged to the
+ obligor, unless the late payment was due
+ to the obligor's error or omission.
+
+1122(d)(4)(xiii) Disbursements made on behalf of an X^9 X^10
+ obligor are posted within two business
+ days to the obligor's records maintained
+ by the Servicer, or such other number of
+ days specified in the transaction
+ agreements.
+
+1122(d)(4)(xiv) Delinquencies, charge-offs and X
+ uncollectible accounts are recognized and
+ recorded in accordance with the
+ transaction agreements.
+
+1122(d)(4)(xv) Any external enhancement or other X
+ support identified in Item
+ 1114(a)(1) through (3) or Item 1115 of
+ Regulation AB, is maintained as set
+ forth in the transaction agreements.
+
+1 A portion of this servicing criteria is performed by a vendor, as set forth in footnote 2 below.
+
+2 A lockbox vendor receives payments, creates transaction files, deposits checks, reconciles files to deposits and transmits the
+transaction files to Wells Fargo.
+
+3 A portion of this servicing criteria is performed by vendors, as set forth in footnote 4 below.
+
+4 Insurance vendors prepare and safeguard checks on behalf of Wells Fargo.
+
+5 A portion of this servicing criteria is performed by a vendor, as set forth in footnote 6 below.
+
+6 A lockbox vendor receives payments, creates transaction files, deposits checks, reconciles files to deposit and transmits the
+transaction files to Wells Fargo.
+
+7 A portion of this servicing criteria is performed by vendors, as set forth in footnote 8 below.
+
+8 Insurance vendors obtain renewal invoices, create disbursement transactions and submit payments to payees.
+
+9 A portion of this servicing criteria is performed by one or more vendors, as set forth in footnote 10 below.
+
+10 Insurance vendors obtain renewal invoices, create disbursement transactions and submit payments to payees.
+
+(page)
+
+EXHIBIT B
+to
+Wells Fargo Bank, N.A.'s
+2007 Certification Regarding Compliance With Applicable Servicing Criteria
+
+Report of Independent Registered Public Accounting Firm
+
+The Board of Directors
+Wells Fargo Bank, N.A.:
+
+We have examined management's assessment, included in the accompanying 2007
+Certification Regarding Compliance with Applicable Servicing Criteria, that
+Wells Fargo Bank, N.A. (the Company) complied with the servicing criteria
+set forth in Item 1122(d) of the Securities and Exchange Commission's
+Regulation AB for its primary servicing of residential mortgage loans by its
+Wells Fargo Home Mortgage division, other than the servicing of such loans
+for Freddie Mac, Fannie Mae, Ginnie Mae, state and local bond programs, or a
+Federal Home Loan Bank (the Platform), except for servicing criteria
+1122(d)(1)(iii) and 1122(d)(4)(xv), which the Company has determined are not
+applicable to the activities it performs with respect to the Platform, as of
+and for the year ended December 31, 2007. Management is responsible for the
+Company's compliance with those servicing criteria. Our responsibility is to
+express an opinion on management's assessment about the Company's compliance
+based on our examination.
+
+Our examination was conducted in accordance with the standards of the Public
+Company Accounting Oversight Board (United States) and, accordingly, included
+examining, on a test basis, evidence about the Company's compliance with the
+servicing criteria specified above and performing such other procedures as we
+considered necessary in the circumstances. Our examination included testing
+selected asset-backed transactions and securities that comprise the Platform,
+testing selected servicing activities related to the Platform, and determining
+whether the Company processed those selected transactions and performed those
+selected activities in compliance with the servicing criteria. Furthermore, our
+procedures were limited to the selected transactions and servicing activities
+performed by the Company during the period covered by this report. Our
+procedures were not designed to determine whether errors may have occurred
+either prior to or subsequent to our tests that may have affected the balances
+or amounts calculated or reported by the Company during the period covered by
+this report for the selected transactions or any other transactions. We
+believe that our examination provides a reasonable basis for our opinion. Our
+examination does not provide a legal determination on the Company's compliance
+with the servicing criteria.
+
+As described in the accompanying 2007 Certification Regarding Compliance with
+Applicable Servicing Criteria, for servicing criteria 1122(d)(2)(i),
+1122(d)(2)(vi), 1122(d)(4)(iv), 1122(d)(4)(xi), and 1122(d)(4)(xiii), the
+Company has engaged various vendors to perform the activities required by
+these servicing criteria. The Company has determined that none of these vendors
+is considered a "servicer" as defined in Item 1101(j) of Regulation AB, and the
+Company has elected to take responsibility for assessing compliance with the
+servicing criteria applicable to each vendor as permitted by Interpretation
+17.06 of the SEC Division of Corporation Finance Manual of Publicly Available
+Telephone Interpretations ("Interpretation 17.06"). As permitted by
+Interpretation 17.06, the Company has asserted that it has policies and
+procedures in place designed to provide reasonable assurance that the vendors'
+activities comply in all material respects with the servicing criteria
+applicable to each vendor. The Company is solely responsible for determining
+that it meets the SEC requirements to apply Interpretation 17.06 for the
+vendors and related criteria as described in its assertion, and we performed
+no procedures with respect to the Company's eligibility to apply
+Interpretation 17.06.
+
+(page)
+
+(logo) KPMG
+
+In our opinion, management's assessment that the Company complied with the
+aforementioned servicing criteria, including servicing criteria 1122(d)(2)(i),
+1122(d)(2)(vi), 1122(d)(4)(iv), 1122(d)(4)(xi), and 1122(d)(4)(xiii) for which
+compliance is determined based on Interpretation 17.06 as described above, as
+of and for the year ended December 31, 2007 is fairly stated, in all material
+respects.
+
+/s/ KPMG LLP
+
+Des Moines, Iowa
+February 25, 2008
+
+KPMG LLP, a U.S. limited liability partnership, is the U.S.
+member firm of KPMG International, a Swiss cooperative
+
+</EX-33>
+
+<EX-33>
+ 8
+ baf07001_33-6.txt
+ 
+ EX-33.6
+(logo) WELLS FARGO
+
+Corporate Trust Services
+MAC N2702-011
+9062 Old Annapolis Road
+Columbia, MD 21045
+410 884-2000
+410 715-2380 Fax
+
+Wells Fargo Bank, NA.
+
+ASSESSMENT OF COMPLIANCE WITH THE APPLICABLE SERVICING CRITERIA
+
+Corporate Trust Services division of Wells Fargo Bank, National Association
+(the "Company") is responsible for assessing compliance with the servicing
+criteria set forth in Item 1122(d) of Regulation AB promulgated by the
+Securities and Exchange Commission. The Company has determined that the
+servicing criteria are applicable in regards to the servicing platform for the
+period as follows:
+
+Platform: Publicly-issued (i.e., transaction-level reporting initially required
+under the Securities Exchange Act of 1934, as amended) residential
+mortgage-backed securities, commercial mortgage-backed securities and other
+asset-backed securities, for which the Company provides master servicing,
+trustee, securities administration or paying agent services, excluding any
+publicly issued transactions issued by any agency or instrumentality of the
+U.S. government or any government sponsored entity, and further excluding the
+transactions issued prior to 2006 for which Wells Fargo outsources all material
+servicing activities (as defined by Regulation AB) (the "Platform").
+
+Applicable Servicing Criteria: All servicing criteria set forth in
+Item 1122(d), to the extent required in the related transaction agreements, or
+required by the Item 1122(d) servicing criteria in regards to the activities
+performed by the Company, except for the following criteria: 1122(d)(4)(ii),
+1122(d)(4)(iv), 1122(d)(4)(v), 1122(d)(4)(viii), 1122(d)(4)(ix), 1122(d)(4)(x),
+1122(d)(4)(xi), 1122(d)(4)(xii) and 1122(d)(4)(xiii), which Management has
+determined are not applicable to the activities the Company performs with
+respect to the Platform ("the Applicable Servicing Criteria").
+
+Period: As of and for the twelve months ended December 31, 2007 (the "Period").
+
+Third parties classified as vendors: With respect to servicing criteria
+1122(d)(4)(i), the Company has engaged various vendors to handle certain
+Uniform Commercial Code filing functions required by the servicing criteria
+("vendors"). The Company has determined that none of the vendors is a
+"servicer" as defined in Item 1101(j) of Regulation AB, and the Company elects
+to take responsibility for assessing compliance with the portion of the
+servicing criteria applicable to each vendor as permitted by Interpretation
+17.06 of the SEC Division of Corporation Finance Manual of Publicly Available
+Telephone Interpretations ("Interpretation 17.06"). The Company has policies
+and procedures in place to provide reasonable assurance that the vendor's
+activities comply in all material respects with the servicing criteria
+applicable to each vendor. The Company is solely responsible for determining
+that it meets the SEC requirements to apply Interpretation 17.06 for the
+vendors and related criteria.
+
+With respect to the Platform and the Period, the Company provides the following
+assessment of compliance with respect to the Applicable Servicing Criteria:
+
+1. The Company is responsible for assessing its compliance with the Applicable
+Servicing Criteria.
+
+2. The Company has assessed compliance with the Applicable Servicing Criteria,
+including servicing criteria for which compliance is determined based on
+Interpretation 17.06 as described above, as of and for the Period. In
+performing this assessment, management used the criteria set forth by the
+Securities and Exchange Commission in paragraph (d) of Item 1122 of
+Regulation AB.
+
+3. Based on such assessment as of and for the Period, the Company has complied,
+in all material respects with the Applicable Servicing Criteria.
+
+KPMG LLP, a registered public accounting firm, has issued an attestation
+report with respect to the Company's assessment of compliance as of and for
+the Period.
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION
+
+By: /s/ Brian Bartlett
+Brian Bartlett
+
+Its: Executive Vice President
+
+Dated: February 29, 2008
+
+</EX-33>
+
+<EX-34>
+ 9
+ baf07001_34-1.txt
+ 
+ EX-34.1
+(logo) PRICEWATERH0USECOOPERS
+
+PricewaterhouseCoopers LLP
+214 N. Tryon Street
+Ste 3600
+Charlotte NC 28202
+Telephone (704) 344 7500
+Facsimile (704) 344 4100
+
+Report of Independent Registered Public Accounting Firm
+
+To the Board of Directors and Shareholders of Bank of America Corporation:
+
+We have examined management's assertion, included in the accompanying Report on
+Assessment of Compliance with Servicing Criteria, that Bank of America, National
+Association (the "Company") complied with the servicing criteria set forth in
+Item 1122(d) of the Securities and Exchange Commission's Regulation AB for the
+domestic asset-backed securities transactions for which the Company acted as
+servicer involving residential mortgage loans, other than government sponsored
+entities, or transactions that do not have scheduled interest and/or scheduled
+principal remittance schedules as outlined in their respective transaction
+agreements, with the exception of certain private whole loan transactions. (the
+"Platform"), as of December 31, 2007 and for the year then ended, excluding the
+criteria which the Company has determined are not applicable to the servicing
+activities performed by them with respect to the Platform, as indicated in
+Appendix A of the Report on Assessment of Compliance with Servicing Criteria. As
+described in Appendix A, for servicing criteria 1122 (d)(2)(ii), 1122 (d)(4)
+(iv), 1122 (d)(4)(xi), 1122 (d)(4)(xii) and 1122 (d)(4)(xiii), the Company has
+engaged various vendors to perform the activities required by these servicing
+criteria. The Company has determined that these vendors are not considered
+"servicers" as defined in Item 11016) of Regulation AB, and the Company has
+elected to take responsibility for assessing compliance with the servicing
+criteria applicable to each vendor as permitted by Interpretation 17.06 of the
+SEC Division of Corporation Finance Manual of Publicly Available Telephone
+Interpretations ("Interpretation 17.06"). As permitted by interpretation 17.06,
+the Company has asserted that it has policies and procedures in place designed
+to provide reasonable assurance that the vendors' activities comply in all
+material respects with the servicing criteria applicable to each vendor. The
+Company is solely responsible for determining that it meets the SEC requirements
+to apply Interpretation 17.06 for the vendors and related criteria as described
+in its assertion, and we performed no procedures with respect to the Company's
+determination of its eligibility to use Interpretation 17.06. Management is
+responsible for the Company's compliance with the servicing criteria. Our
+responsibility is to express an opinion on management's assertion based on our
+examination.
+
+Our examination was conducted in accordance with standards of the Public Company
+Accounting Oversight Board (United States) and, accordingly, included examining,
+on a test basis, evidence about the Company's compliance with the applicable
+servicing criteria and performing such other procedures as we considered
+necessary in the circumstances. Our examination included testing of selected
+asset-backed transactions and securities that comprise the Platform, testing of
+selected servicing activities related to the Platform, and determining whether
+the Company processed those selected transactions and performed those selected
+activities in compliance with the applicable servicing criteria. Our procedures
+were limited to the selected transactions and servicing activities performed by
+the Company during the period covered by this report. Our procedures were not
+designed to detect noncompliance arising from errors that may have occurred
+prior to or subsequent to our tests that may have affected the balances or
+amounts calculated or reported by the Company during the period covered by this
+report. We believe that our examination provides a
+
+(page)
+
+(logo) PRICEWATERH0USECOOPERS
+
+reasonable basis for our opinion. Our examination does not provide a legal
+determination on the Company's compliance with the servicing criteria.
+
+In our opinion, management's assertion that the Company complied with the
+aforementioned applicable servicing criteria as of and for the year ended
+December 31, 2007 for the Platform is fairly stated, in all material respects.
+
+/s/ PricewaterhouseCoopers LLP
+
+February 29, 2008
+
+</EX-34>
+
+<EX-34>
+ 10
+ baf07001_34-2.txt
+ 
+ EX-34.2
+(logo) ERNST & YOUNG
+
+ Ernst & Young LLP
+ 1900 Scripps Center
+ 312 Walnut Street
+ Cincinnati, Ohio 45202
+
+ Phone: (513) 612-1400
+ www.ey.com
+
+Report of Independent Registered Public Accounting Firm
+
+Board of Directors
+National City Mortgage Co.
+
+We have examined management's assertion, included in the accompanying
+Management's Assertion on Compliance with Regulation AB Servicing Criteria, that
+National City Mortgage Company (NCM), complied with the servicing criteria set
+forth in Item 1122 (d) of the Securities and Exchange Commission's Regulation AB
+for the residential mortgage loan servicing platform as of and for the year
+ended December 31, 2007, except for Item 1122(d)(1)(iii), 1122(d)(3)(i)(c),
+1122(d)(4)(ii), and 1122(d)(4)(xv), which NCM has determined are not applicable
+to the activities performed by them with respect to the servicing platform
+covered by this report. See Appendix A of management's assertion for the asset
+backed transactions covered by this platform. Management is responsible for
+NCM's compliance with those servicing criteria. Our responsibility is to express
+an opinion on management's assertion about NCM's compliance with the servicing
+criteria based on our examination.
+
+Our examination was conducted in accordance with attestation standards
+established by the American Institute of Certified Public Accountants, as
+adopted by the Public Company Accounting Oversight Board (United States) and,
+accordingly, included examining, on a test basis, evidence about NCM's
+compliance with the applicable servicing criteria and performing such other
+procedures as we considered necessary in the circumstances. Our examination
+included testing of less than all of the individual asset backed transactions
+and securities that comprise the platform, testing of less than all of the
+servicing activities related to the Platform, and determining whether NCM
+processed those selected transactions and performed those selected activities in
+compliance with the servicing criteria and as permitted by the Interpretation
+17.06 of the SEC Division of Corporation Finance Manual of Publicly Available
+Telephone Interpretations ("Interpretation 17.06"). Furthermore, our procedures
+were limited to the selected transactions and servicing activities performed by
+NCM during the period covered by this report. Our procedures were not designed
+to determine whether errors may have occurred either prior to or subsequent to
+our tests that may have affected the balances or amounts calculated or reported
+by NCM during the period covered by this report for the selected transactions or
+any other transactions. We believe that our examination provides a reasonable
+basis for our opinion. Our examination does not provide a legal determination on
+NCM's compliance with the servicing criteria.
+
+As described in management's assertion, for servicing criteria 1122(d)(4)(xi)
+and 1122(d)(4)(xii), NCM has engaged various vendors to perform the activities
+required by these servicing criteria. NCM has determined that these vendors are
+not considered a "servicer" as defined in Item 1101(j) of Regulation AB, and NCM
+has elected to take responsibility for assessing compliance with the applicable
+servicing criteria applicable to each vendor as permitted by Interpretation
+17.06. As permitted by Interpretation 17.06, NCM has asserted that it has
+policies and procedures in place designed to provide reasonable assurance that
+the vendors' activities comply in all material respects with servicing criteria
+applicable to each vendor. NCM is solely responsible for determining that it
+meets the SEC requirements to apply
+
+(page)
+
+Interpretation 17.06 for the vendors and related criteria as described in its
+assertion, and we performed no procedures with respect to NCM's eligibility to
+apply Interpretation 17.06.
+In our opinion, management's assertion that NCM complied with the aforementioned
+servicing criteria as of and for the year ended December 31, 2007 for the
+residential mortgage loan servicing platform, is fairly stated, in all material
+respects.
+
+/s/ Ernst & Young LLP
+
+February 28, 2008
+
+A member firm of Ernst & Young Global Limited
+
+</EX-34>
+
+<EX-34>
+ 11
+ baf07001_34-3.txt
+ 
+ EX-34.3
+(logo) KPMG
+
+KPMG LLP
+1601 Market Street
+Philadelphia, PA 19103-2499
+
+Report of Independent Registered Public Accounting Firm
+
+The Board of Members
+Regulus Group LLC:
+
+We have examined management's assessment for those customers that management has
+informed us have requested confirmation of compliance, included in the
+accompanying Report on Assessment of Compliance with Regulation AB Servicing
+Criteria, that Regulus Group LLC complied with the servicing criteria set forth
+in Item 1122(d)(2)(i) and 1122(d)(4)(iv) of the Securities and Exchange
+Commission's Regulation AB for remittance processing services to those issuers
+of asset backed securities and servicers of loan and/or receivables portfolios
+that include pool assets for asset backed securities transactions (the Platform)
+as of and for the year ended December 31, 2007. Regulus Group LLC has determined
+that the remainder of the servicing criteria are not applicable to the
+activities it performs with respect to the Platform as of and for the year ended
+December 31, 2007. Management is responsible for the Company's compliance with
+those servicing criteria. Our responsibility is to express an opinion on
+management's assessment about the Company's compliance based on our examination.
+
+Our examination was conducted in accordance with the standards of the Public
+Company Accounting Oversight Board (United States) and, accordingly, included
+examining, on a test basis, evidence about the Company's compliance with the
+servicing criteria specified above and performing such other procedures as we
+considered necessary in the circumstances. Our examination included testing
+selected asset-backed transactions and securities that comprise the Platform,
+testing selected servicing activities related to the Platform, and determining
+whether the Company processed those selected transactions and performed those
+selected activities in compliance with the servicing criteria. Furthermore, our
+procedures were limited to the selected transactions and servicing activities
+performed by the Company during the period covered by this report. Our
+procedures were not designed to determine whether errors may have occurred
+either prior to or subsequent to our tests that may have affected the balances
+or amounts calculated or reported by the Company during the period covered by
+this report for the selected transactions or any other transactions. We believe
+that our examination provides a reasonable basis for our opinion. Our
+examination does not provide a legal determination on the Company's compliance
+with the servicing criteria.
+
+In our opinion, management's assessment that the Company complied with the
+aforementioned servicing criteria as of and for the year ended December 31, 2007
+is fairly stated, in all material respects.
+
+/s/ KPMG LLP
+
+February 12, 2008
+
+KPMG LLP, a U.S. limited liability partnership, is the U.S.
+member firm of KPMG International, a Swiss cooperative.
+
+</EX-34>
+
+<EX-34>
+ 12
+ baf07001_34-4.txt
+ 
+ EX-34.4
+(logo) ERNST & YOUNG
+
+Ernst & Young LLP
+220 South Sixth Street, Ste 1400
+Minneapolis, MN 55402-4509
+
+Phone (612) 343-1000
+www.ey.com
+
+Report of Independent Registered Public Accounting Firm
+
+The Board of Directors
+U.S. Bank National Association
+
+We have examined management's assertion, included in the accompanying Report on
+Assessment of Compliance with Securities and Exchange Commission (SEC)
+Regulation AB Servicing Criteria, that U.S. Bank National Association (the
+Company) complied with the servicing criteria set forth in Item 1122(d) of the
+SEC's Regulation AB for the Corporate Trust Asset Backed Securities platform
+(the Platform) as of and for the year ended December 31, 2007, except for
+servicing criteria 1122(d)(1)(i), 1122(d)(1)(iii), 1122(d)(2)(i)-(vii),
+1122(d)(3)(i)-(iv), and 1122(d)(4)(iv)-(xv), which the Company has determined
+are not applicable to the activities performed by them with respect to the
+servicing platform covered by this report. Management is responsible for the
+Company's compliance with those servicing criteria. Our responsibility is to
+express an opinion on management's assertion about the Company's compliance with
+the servicing criteria based on our examination.
+
+Our examination was conducted in accordance with attestation standards
+established by the American Institute of Certified Public Accountants, as
+adopted by the Public Company Accounting Oversight Board (United States) and,
+accordingly, included examining, on a test basis, evidence about the Company's
+compliance with the applicable servicing criteria and performing such other
+procedures as we considered necessary in the circumstances. Our examination
+included testing of less than all of the individual asset backed transactions
+and securities that comprise the Platform, testing of less than all of the
+servicing activities related to the Platform, and determining whether the
+Company processed those selected transactions and performed those selected
+activities in compliance with the servicing criteria. Furthermore, our
+procedures were limited to the selected transactions and servicing activities
+performed by the Company during the period covered by this report. Our
+procedures were not designed to determine whether errors may have occurred
+either prior to or subsequent to our tests that may have affected the balances
+or amounts calculated or reported by the Company during the period covered by
+this report for the selected transactions or any other transactions. We believe
+that our examination provides a reasonable basis for our opinion. Our
+examination does not provide a legal determination on the Company's compliance
+with the servicing criteria.
+
+In our opinion, management's assertion that the Company complied with the
+aforementioned servicing criteria as of and for the year ended December 31,
+2007, for the Corporate Trust Asset Backed Securities platform is fairly stated,
+in all material respects.
+
+/s/ Ernst & Young LLP
+
+February 12, 2008
+
+A member firm of Ernst & Young Global Limited
+
+</EX-34>
+
+<EX-34>
+ 13
+ baf07001_34-5.txt
+ 
+ EX-34.5
+(logo) KPMG
+
+KPMG LLP
+2500 Ruan Center
+666 Grand Avenue
+Des Moines, IA 50309
+
+Report of Independent Registered Public Accounting Firm
+
+The Board of Directors
+Wells Fargo Bank, N.A.:
+
+We have examined management's assessment, included in the accompanying 2007
+Certification Regarding Compliance with Applicable Servicing Criteria, that
+Wells Fargo Bank, N.A. (the Company) complied with the servicing criteria
+set forth in Item 1122(d) of the Securities and Exchange Commission's
+Regulation AB for its primary servicing of residential mortgage loans by its
+Wells Fargo Home Mortgage division, other than the servicing of such loans
+for Freddie Mac, Fannie Mae, Ginnie Mae, state and local bond programs, or a
+Federal Home Loan Bank (the Platform), except for servicing criteria
+1122(d)(1)(iii) and 1122(d)(4)(xv), which the Company has determined are not
+applicable to the activities it performs with respect to the Platform, as of
+and for the year ended December 31, 2007. Management is responsible for the
+Company's compliance with those servicing criteria. Our responsibility is to
+express an opinion on management's assessment about the Company's compliance
+based on our examination.
+
+Our examination was conducted in accordance with the standards of the Public
+Company Accounting Oversight Board (United States) and, accordingly, included
+examining, on a test basis, evidence about the Company's compliance with the
+servicing criteria specified above and performing such other procedures as we
+considered necessary in the circumstances. Our examination included testing
+selected asset-backed transactions and securities that comprise the Platform,
+testing selected servicing activities related to the Platform, and determining
+whether the Company processed those selected transactions and performed those
+selected activities in compliance with the servicing criteria. Furthermore, our
+procedures were limited to the selected transactions and servicing activities
+performed by the Company during the period covered by this report. Our
+procedures were not designed to determine whether errors may have occurred
+either prior to or subsequent to our tests that may have affected the balances
+or amounts calculated or reported by the Company during the period covered by
+this report for the selected transactions or any other transactions. We
+believe that our examination provides a reasonable basis for our opinion. Our
+examination does not provide a legal determination on the Company's compliance
+with the servicing criteria.
+
+As described in the accompanying 2007 Certification Regarding Compliance with
+Applicable Servicing Criteria, for servicing criteria 1122(d)(2)(i),
+1122(d)(2)(vi), 1122(d)(4)(iv), 1122(d)(4)(xi), and 1122(d)(4)(xiii), the
+Company has engaged various vendors to perform the activities required by
+these servicing criteria. The Company has determined that none of these vendors
+is considered a "servicer" as defined in Item 1101(j) of Regulation AB, and the
+Company has elected to take responsibility for assessing compliance with the
+servicing criteria applicable to each vendor as permitted by Interpretation
+17.06 of the SEC Division of Corporation Finance Manual of Publicly Available
+Telephone Interpretations ("Interpretation 17.06"). As permitted by
+Interpretation 17.06, the Company has asserted that it has policies and
+procedures in place designed to provide reasonable assurance that the vendors'
+activities comply in all material respects with the servicing criteria
+applicable to each vendor. The Company is solely responsible for determining
+that it meets the SEC requirements to apply Interpretation 17.06 for the
+vendors and related criteria as described in its assertion, and we performed
+no procedures with respect to the Company's eligibility to apply
+Interpretation 17.06.
+
+(page)
+
+(logo) KPMG
+
+In our opinion, management's assessment that the Company complied with the
+aforementioned servicing criteria, including servicing criteria 1122(d)(2)(i),
+1122(d)(2)(vi), 1122(d)(4)(iv), 1122(d)(4)(xi), and 1122(d)(4)(xiii) for which
+compliance is determined based on Interpretation 17.06 as described above, as
+of and for the year ended December 31, 2007 is fairly stated, in all material
+respects.
+
+/s/ KPMG LLP
+
+Des Moines, Iowa
+February 25, 2008
+
+KPMG LLP, a U.S. limited liability partnership, is the U.S.
+member firm of KPMG International, a Swiss cooperative
+
+</EX-34>
+
+<EX-34>
+ 14
+ baf07001_34-6.txt
+ 
+ EX-34.6
+(logo) KPMG
+
+KPMG LLP
+303 East Wacker Drive
+Chicago, IL 60601-5212
+
+Report of Independent Registered Public Accounting Firm
+
+The Board of Directors
+The Corporate Trust Services division of Wells Fargo Bank, National Association:
+
+We have examined the accompanying management's assertion, that The Corporate
+Trust Services division of Wells Fargo Bank, National Association (the Company)
+complied with the servicing criteria set forth in Item 1122(d) of the
+Securities and Exchange Commission's Regulation AB for publicly-issued (i.e.,
+transaction-level reporting initially required under the Securities Exchange
+Act of 1934, as amended) residential mortgage-backed securities, commercial
+mortgage-backed securities and other asset-backed securities, for which the
+Company provides master servicing, trustee, securities administration or paying
+agent services, excluding transactions issued by any agency or instrumentality
+of the U.S. government or any government sponsored entity and further excluding
+the transactions issued prior to 2006 for which Wells Fargo outsources all
+material servicing activities (as defined by Regulation AB) (the Platform),
+except for servicing criteria 1122(d)(4)(ii), 1122(d)(4)(iv), 1122(d)(4)(v),
+1122(d)(4)(viii), 1122(d)(4)(ix), 1122(d)(4)(x), 1122(d)(4)(xi),
+1122(d)(4)(xii) and 1122(d)(4)(xiii), which the Company has determined are not
+applicable to the activities it performs with respect to the Platform, as of
+and for the twelve months ended December 31, 2007. Management is responsible
+for the Company's compliance with those servicing criteria. Our responsibility
+is to express an opinion on management's assessment about the Company's
+compliance based on our examination.
+
+Our examination was conducted in accordance with the standards of the Public
+Company Accounting Oversight Board (United States) and, accordingly, included
+examining, on a test basis, evidence about the Company's compliance with the
+servicing criteria specified above and performing such other procedures as we
+considered necessary in the circumstances. Our examination included testing
+selected asset-backed transactions and securities that comprise the Platform,
+testing selected servicing activities related to the Platform, and determining
+whether the Company processed those selected transactions and performed those
+selected activities in compliance with the servicing criteria. Furthermore, our
+procedures were limited to the selected transactions and servicing activities
+performed by the Company during the period covered by this report. Our
+procedures were not designed to determine whether errors may have occurred
+either prior to or subsequent to our tests that may have affected the balances
+or amounts calculated or reported by the Company during the period covered by
+this report for the selected transactions or any other transactions. We believe
+that our examination provides a reasonable basis for our opinion. Our
+examination does not provide a legal determination on the Company's compliance
+with the servicing criteria.
+
+As described in the accompanying management's Assessment of Compliance With
+Applicable Servicing Criteria, for servicing criteria 1122(d)(4)(i), the
+Company has engaged various vendors to perform the activities required by these
+servicing criteria. The Company has determined that these vendors are not
+considered a "servicer" as defined in Item 1101(j) of Regulation AB, and the
+Company has elected to take responsibility for assessing compliance with the
+servicing criteria applicable to each vendor as permitted by Interpretation
+17.06 of the SEC Division of Corporation Finance Manual of Publicly Available
+Telephone Interpretations ("Interpretation 17.06"). As permitted by
+Interpretation 17.06, the Company has
+
+(page)
+
+(logo) KPMG
+
+asserted that it has policies and procedures in place designed to provide
+reasonable assurance that the vendors' activities comply in all material
+respects with the servicing criteria applicable to each vendor. The Company is
+solely responsible for determining that it meets the SEC requirements to apply
+Interpretation 17.06 for the vendors and related criteria as described in its
+assertion, and we performed no procedures with respect to the Company's
+eligibility to apply Interpretation 17.06.
+
+In our opinion, management's assertion that the Company complied with the
+aforementioned servicing criteria, including servicing criteria 1122(d)(4)(i)
+for which compliance is determined based on Interpretation 17.06 as described
+above, as of and for the twelve months ended December 31, 2007 is fairly
+stated, in all material respects.
+
+/s/ KPMG LLP
+
+Chicago, Illinois
+February 29, 2008
+
+KPMG LLP, a U.S. limited liability partnership, is the U.S. member firm
+of KPMG International, a Swiss cooperative.
+
+</EX-34>
+
+<EX-35>
+ 15
+ baf07001_35-1.txt
+ 
+ EX-35.1
+(logo) Bank of America
+
+Bank of America
+475 CrossPoint Parkway
+PO Box 9000
+Getzville, NY 14068-9000
+
+Annual Statement as to Compliance
+
+Banc of America Funding 2007-1 Trust
+
+I, H. Randall Chestnut, a Senior Vice President of Bank of America, National
+Association (the "Servicer"), hereby certify pursuant to the Section 2.17 of
+the Servicing Agreement, dated January 30, 2007 (the "Agreement"), between Banc
+of America Funding Corporation, as Depositor, and the Servicer, that: (a) a
+review of the Servicer's activities during calendar year 2007 and of the
+Servicer's performance under the Agreement has been made under my supervision;
+and (b) to the best of my knowledge, based on such review, the Servicer has
+fulfilled all of its obligations under the Agreement in all material respects
+throughout calendar year 2007.
+
+March 26, 2008
+
+Bank of America, N.A.
+as Servicer
+
+By: /s/ H. Randall Chestnut
+Name: H. Randall Chestnut
+Title: Senior Vice President
+
+</EX-35>
+
+<EX-35>
+ 16
+ baf07001_35-2.txt
+ 
+ EX-35.2
+(logo) WELLS FARGO HOME MORTGAGE
+
+Wells Fargo Home Mortgage
+One Home Campus
+Des Moines, IA 50328-0001
+
+Wells Fargo Bank, N.A.
+Servicer Compliance Statement
+
+1. I, John B. Brown, Senior Vice President of Wells Fargo Bank, N.A.
+("Wells Fargo") hereby state that a review of the activities of Wells Fargo
+during the calendar year 2007 and of Wells Fargo's performance under the
+servicing agreement(s) listed on the attached Exhibit A (the "Servicing
+Agreements)") has been made under my supervision.
+
+2. To the best of my knowledge, based on such review, Wells Fargo has
+fulfilled all of its obligations under the Servicing Agreement(s) in all
+material respects throughout 2007.
+
+/s/ John B. Brown
+John B. Brown
+Senior Vice President
+Wells Fargo Bank, N.A.
+
+February 29, 2008
+
+Wells Fargo Home Mortgage
+is a division of Wells Fargo Bank, N.A.
+
+(page)
+
+Client INV# INV MASTER
+ SERVICER/TRUSTEE DEAL NAME
+ 
+106 X22 DEUTSCHE PMSR ACE 07-HE3 WFB CORPORATE TRUST ACE 2007-HE3
+106 420 CSMC PMSR ARMT 2007-1 WFB CORPORATE TRUST ARMT 2007-1
+106 585 CSMC SUB ARMT 2007-1 WFB CORPORATE TRUST ARMT 2007-1
+106 Q06 WACH PMSR CS ARMT 07-1 WFB CORPORATE TRUST ARMT 2007-1
+708 C75 CREDIT SUISSE WFB CORPORATE TRUST ARMT 2007-2
+106 440 CSMC PMSR ARMT 2007-2 WFB CORPORATE TRUST ARMT 2007-2
+106 587 CSMC SUB ARMT 2007-2 WFB CORPORATE TRUST ARMT 2007-2
+106 433 CSMC PMSR ARMT 2007-3 WFB CORPORATE TRUST ARMT 2007-3
+106 588 CSMC SUB ARMT 2007-3 WFB CORPORATE TRUST ARMT 2007-3
+106 S07 BOA PMSR BAFC 2007-1 WFB CORPORATE TRUST BAFC 2007-1
+708 878 BANK OF AMERICA WFB CORPORATE TRUST BAFC 2007-1/GROUP 1
+708 C24 BANK OF AMERICA WFB CORPORATE TRUST BAFC 2007-2
+106 S08 BOA PMSR BAFC 2007-2 WFB CORPORATE TRUST BAFC 2007-2
+708 C81 BANK OF AMERICA WFB CORPORATE TRUST BAFC 2007-3
+106 S11 BOA PMSR BAFC 2007-3 TC WFB CORPORATE TRUST BAFC 2007-3 TC
+708 D00 BANK OF AMERICA WFB CORPORATE TRUST BAFC 2007-4
+106 S12 BOA PMSR BAFC 2007-4 WFB CORPORATE TRUST BAFC 2007-4
+106 S14 BOA PMSR BAFC 2007-7 WFB CORPORATE TRUST BAFC 2007-7
+106 S15 BANK OF AMERICA WFB CORPORATE TRUST BAFC 2007-8
+708 879 BANK OF AMERICA WFB CORPORATE TRUST BAFC 2007-A
+708 C61 BANK OF AMERICA WFB CORPORATE TRUST BAFC 2007-B
+591 C83 BANK OF AMERICA WFB CORPORATE TRUST BAFC 2007-C
+708 C83 BANK OF AMERICA WFB CORPORATE TRUST BAFC 2007-C
+106 442 CSMC PMSR BAFC 2007-C WFB CORPORATE TRUST BAFC 2007-C
+106 445 CSMC PMSR BAFC 2007-C WFB CORPORATE TRUST BAFC 2007-C
+708 C96 BANK OF AMERICA WFB CORPORATE TRUST BAFC 2007-D
+708 C45 EMC WFB CORPORATE TRUST BALTA 2007-2
+708 C37 EMC WFB CORPORATE TRUST BALTA 2007-3
+106 Z64 EMC PMSR BALTA 2007-3 WFB CORPORATE TRUST BALTA 2007-3
+936 D04 BAYVIEW WFB CORPORATE TRUST BAYVIEW 2007-33
+936 D03 BAYVIEW WFB CORPORATE TRUST BAYVIEW 2007-37
+708 H27 BAYVIEW WFB CORPORATE TRUST BAYVIEW 2007-B
+472 H27 BAYVIEW WFB CORPORATE TRUST BAYVIEW 2007-B
+591 H27 BAYVIEW WFB CORPORATE TRUST BAYVIEW 2007-B
+936 H27 BAYVIEW WFB CORPORATE TRUST BAYVIEW 2007-B
+708 D15 EMC WFB CORPORATE TRUST BSAAT 2007-1
+708 COO EMC WFB CORPORATE TRUST BSABS 2007-1
+708 C78 EMC WFB CORPORATE TRUST BSABS 2007-2
+591 C25 EMC WFB CORPORATE TRUST BSABS 2007-SD2
+685 C25 EMC WFB CORPORATE TRUST BSABS 2007-SD2
+708 C25 EMC WFB CORPORATE TRUST BSABS 2007-SD2
+106 V58 EMC SUB BSABS 2007-SD2 WFB CORPORATE TRUST BSABS 2007-SD2
+106 V59 EMC SUB BSABS 2007-SD3 WFB CORPORATE TRUST BSABS 2007-SD3
+N/A N/A EMC WFB CORPORATE TRUST BSALTA 2007-2
+N/A N/A EMC WFB CORPORATE TRUST BSALTA 2007-3
+106 C23 CITIGROUP PMSR BSARM 07-2 WFB CORPORATE TRUST BSARM 2007-2
+106 C34 CITIGROUP PMSR BSARM 07-2 WFB CORPORATE TRUST BSARM 2007-2
+708 C42 EMC WFB CORPORATE TRUST BSARM 2007-2
+708 C22 EMC WFB CORPORATE TRUST BSARM 2007-1
+708 C84 CSMC WFB CORPORATE TRUST CSAB 2007-1
+106 441 CSMC PMSR CSAB 2007-1 WFB CORPORATE TRUST CSAB 2007-1
+106 592 CSMC SUB CSMC CSAB 2007-1 WFB CORPORATE TRUST CSAB 2007-1
+106 435 CSMC PMSR CSMC 2007-03 WFB CORPORATE TRUST CSMC 2007-03
+106 591 CSMC SUB CSMC 2007-03 WFB CORPORATE TRUST CSMC 2007-03
+708 J38 CSMC WFB CORPORATE TRUST CSMC 2007-06
+106 454 CSMC PMSR CSMC 2007-06 WFB CORPORATE TRUST CSMC 2007-06
+106 595 CSMC SUB CSMC 2007-06 WFB CORPORATE TRUST CSMC 2007-06
+708 883 CSMC WFB CORPORATE TRUST CSMC 2007-1
+106 419 CSMC PMSR CSMC 2007-1 WFB CORPORATE TRUST CSMC 2007-1
+
+(page)
+
+106 584 CSMC SUB CSMC 2007-1 WFB CORPORATE TRUST CSMC 2007-1
+106 425 CSMC PMSR CSMC 2007-2 WFB CORPORATE TRUST CSMC 2007-2
+106 589 CSMC SUB CSMC 2007-2 WFB CORPORATE TRUST CSMC 2007-2
+708 C56 CSMC WFB CORPORATE TRUST CSMC 2007-3
+708 C56 CSMC WFB CORPORATE TRUST CSMC 2007-3
+708 C97 CREDIT SUISSE WFB CORPORATE TRUST CSMC 2007-4
+106 444 CSMC PMSR CSMC 2007-4 WFB CORPORATE TRUST CSMC 2007-4
+708 D20 CSMC WFB CORPORATE TRUST CSMC 2007-5
+106 448 CSMC PMSR CSMC 2007-5 WFB CORPORATE TRUST CSMC 2007-5
+106 593 CSMC SUB CSMC 2007-5 WFB CORPORATE TRUST CSMC 2007-5
+106 454 CREDIT SUISSE WFB CORPORATE TRUST CSMC 2007-6
+106 595 CREDIT SUISSE WFB CORPORATE TRUST CSMC 2007-6
+708 J38 CREDIT SUISSE WFB CORPORATE TRUST CSMC 2007-6
+106 453 CREDIT SUISSE WFB CORPORATE TRUST CSMC 2007-7
+106 594 CREDIT SUISSE WFB CORPORATE TRUST CSMC 2007-7
+708 J02 CREDIT SUISSE WFB CORPORATE TRUST CSMC 2007-7
+106 X23 DEUTSCHE PMSR DBALT07-AB1 WFB CORPORATE TRUST DBALT 07-AB1
+106 X25 DEUTSCHE PMSR DBALT 07-1 WFB CORPORATE TRUST DBALT 2007-1
+106 X27 DEUTSCHE PMSR DBALT 07-2 WFB CORPORATE TRUST DBALT 2007-2
+106 X29 DEUTSCHE PMSR DBALT2007-3 WFB CORPORATE TRUST DBALT 2007-3
+708 C60 DEUTSCHE BANK WFB CORPORATE TRUST DBALT 2007-AB1
+106 X24 DEUTSCHE PMSR DBALT07-AR3 WFB CORPORATE TRUST DBALT 2007-AR3
+106 X21 DEUTSCHE PMSR DBALTO7BAR1 WFB CORPORATE TRUST DBALT 2007-BAR1
+708 H15 GOLDMAN SACHS WFB CORPORATE TRUST GSAA 2007-09
+708 H86 GOLDMAN SACHS WFB CORPORATE TRUST GSAA 2007-10
+708 C49 GOLDMAN SACHS WFB CORPORATE TRUST GSAA 2007-4
+708 C68 GOLDMAN SACHS WFB CORPORATE TRUST GSAA 2007-5
+708 C94 GOLDMAN SACHS WFB CORPORATE TRUST GSAA 2007-6
+708 D19 GOLDMAN SACHS WFB CORPORATE TRUST GSAA 2007-7
+708 H74 GOLDMAN SACHS WFB CORPORATE TRUST GSAA 2007-8
+106 423 CS PMSR GSR 07-1F WFB CORPORATE TRUST GSR 2007-1F
+708 C19 GOLDMAN SACHS WFB CORPORATE TRUST GSR 2007-1F
+106 432 CSMC PMSR GSR 2007-2F WFB CORPORATE TRUST GSR 2007-2F
+708 C46 GOLDMAN SACHS WFB CORPORATE TRUST GSR 2007-2F
+106 438 CSMC PMSR GSR 2007-3F WFB CORPORATE TRUST GSR 2007-3F
+708 C64 GOLDMAN SACHS WFB CORPORATE TRUST GSR 2007-3F
+106 449 CSMC PMSR GSR 2007-4F WFB CORPORATE TRUST GSR 2007-4F
+708 D22 GOLDMAN SACHS WFB CORPORATE TRUST GSR 2007-4F
+106 455 CSMC PMSR GSR 2007-5F WFB CORPORATE TRUST GSR 2007-5F
+685 H12 GOLDMAN SACHS WFB CORPORATE TRUST GSR 2007-5F
+708 H12 GOLDMAN SACHS WFB CORPORATE TRUST GSR 2007-5F
+708 C14 GOLDMAN SACHS WFB CORPORATE TRUST GSR 2007-AR1
+591 C80 GOLDMAN SACHS WFB CORPORATE TRUST GSR 2007-AR2
+708 C80 GOLDMAN SACHS WFB CORPORATE TRUST GSR 2007-AR2
+106 213 HSBC WFB CORPORATE TRUST HALO 2007-2
+106 211 HSBC PMSR HALO 2007-AR2 WFB CORPORATE TRUST HALO 2007-AR2
+106 206 HSBC PMSR HASCO 2007-HE1 WFB CORPORATE TRUST HASCO 2007-HE1
+106 207 HSBC PMSR HASCO 2007-HE2 WFB CORPORATE TRUST HASCO 2007-HE2
+106 208 HSBC PMSR HASCO 2007-NC1 WFB CORPORATE TRUST HASCO 2007-NC1
+708 D12 HSBC WFB CORPORATE TRUST HASCO 2007-WF1
+708 D04 JP MORGAN WFB CORPORATE TRUST JPALT 2007-A2
+708 C91 JP MORGAN WFB CORPORATE TRUST JPALT 2007-S1
+708 C76 JP MORGAN WFB CORPORATE TRUST JPMMT 2007-A3
+708 C92 JP MORGAN WFB CORPORATE TRUST JPMMT 2007-A4
+708 C50 JP MORGAN WFB CORPORATE TRUST JPMMT 2007-S1
+106 C26 CITIGROUP PMSR LUMNT 07-2 WFB CORPORATE TRUST LUMINENT 2007-2
+106 932 UBS PMSR MALT 2007-1 WFB CORPORATE TRUST MALT 2007-1
+708 H03 UBS WARBURG WFB CORPORATE TRUST MALT 2007-1
+708 H83 UBS WFB CORPORATE TRUST MALT07-HF1
+106 937 UBS PMSR MALT07-HF1 WFB CORPORATE TRUST MALT07-HF1
+
+(page)
+
+106 153 MORGAN PMSR MAM 2007-15AR WFB CORPORATE TRUST MAM 2007-15AR
+708 J71 MORGAN STANLEY WFB CORPORATE TRUST MAM 2007-15AR
+106 103 MERRILL PMSR MANA 2007-A1 WFB CORPORATE TRUST MANA 2007-A1
+106 104 MERRILL LYNCH PMSR MANA 2 WFB CORPORATE TRUST MANA 2007-A2
+106 105 MERRILL LYNCH WFB CORPORATE TRUST MANA 2007-A3
+106 107 MERRILL LYNCH PMSR MANA 2 WFB CORPORATE TRUST MANA 2007-AF1
+106 108 MERRILL LYNCH PMSR MANA 2 WFB CORPORATE TRUST MANA 2007-AF1
+106 109 MERRILL LYNCH PMSR MANA 2 WFB CORPORATE TRUST MANA 2007-AF1
+708 C72 UBS WFB CORPORATE TRUST MARM 2007-HF1
+106 935 UBS PMSR MARM 2007-HF1 WFB CORPORATE TRUST MARM 2007-HF1
+708 H04 UBS WARBURG WFB CORPORATE TRUST MARM 2007-HF1
+708 H72 UBS WFB CORPORATE TRUST MARM 2007-HF2
+708 D78 UBS WFB CORPORATE TRUST MASTR 2007-1
+106 939 UBS PMSR MASTR 2007-1 WFB CORPORATE TRUST MASTR 2007-1
+106 936 UBS PMSR MASTR ABS 07-HE1 WFB CORPORATE TRUST MASTR ABS 2007-HE1
+N/A N/A UBS WFB CORPORATE TRUST MASTR ABS 2007-HE1
+106 X26 DEUTSCHE PMSR MHL 2007-1 WFB CORPORATE TRUST MHL 2007-1
+106 X28 DEUTSCHE PMSR MHL 2007-2 WFB CORPORATE TRUST MHL 2007-2
+708 C51 MERRILL LYNCH WFB CORPORATE TRUST MLMBS 2007-1
+708 C43 MERRILL LYNCH WFB CORPORATE TRUST MLMBS 2007-2
+106 110 MERRILL LYNCH WFB CORPORATE TRUST MLMBS 2007-3
+106 106 MERRILL LYNCH PMSR MLMBS- WFB CORPORATE TRUST MLMBS-2007-1
+106 P18 MORGAN PMSR MSAC 2007-HE6 WFB CORPORATE TRUST MSAC 2007-HE6
+106 152 MORGAN PMSR MSAC 2007-HE7 WFB CORPORATE TRUST MSAC 2007-HE7
+106 P71 MORGAN PMSR MSHEL 2007-2 WFB CORPORATE TRUST MSHEL 2007-2
+106 P27 MORGAN PMSR MSM 2007-10XS WFB CORPORATE TRUST MSM 2007-1OXS
+708 H22 MORGAN STANLEY WFB CORPORATE TRUST MSM 2007-14AR
+N/A N/A MORGAN STANLEY WFB CORPORATE TRUST MSM 2007-15AR
+106 P60 MORGAN PMSR MSM 2007-1XS WFB CORPORATE TRUST MSM 2007-1XS
+106 P24 MORGAN STANLEY WFB CORPORATE TRUST MSM 2007-3XS
+106 P69 MORGAN PMSR MSM 2007-6XS WFB CORPORATE TRUST MSM 2007-6XS
+708 C70 JP MORGAN WFB CORPORATE TRUST MSM 2007-7AX
+106 P74 MORGAN PMSR MSM 2007-8XS WFB CORPORATE TRUST MSM 2007-8XS
+106 P72 MORGAN PMSR MSM2007 1XS WFB CORPORATE TRUST MSM2007 1XS
+106 P73 MORGAN PMSR M5M2007 2AX WFB CORPORATE TRUST MSM2007 2AX
+106 P28 MORGAN PMSR MSSTI 2007-1 WFB CORPORATE TRUST MSSTI 2007-1
+708 C79 NOMURA WFB CORPORATE TRUST NAAC 2007-1
+106 830 NOMURA WFB CORPORATE TRUST NAAC 2007-2
+106 829 NOMURA PMSR NAAC 2007-3 WFB CORPORATE TRUST NAAC 2007-3
+708 873 NOMURA WFB CORPORATE TRUST NHEL 2007-1
+708 C17 NOMURA WFB CORPORATE TRUST NHEL 2007-2
+708 C71 NOMURA WFB CORPORATE TRUST NHEL 2007-3
+106 825 NOMURA PMSR NHEL 2007-AE1 WFB CORPORATE TRUST NHEL 2007-AF1
+708 C26 GREENWICH WFB CORPORATE TRUST RBSGC 2007-B
+106 U09 GREENWICH PMSR RBSGC 07-B WFB CORPORATE TRUST RBSGC 2007-B
+708 D05 REDWOOD TRUST WFB CORPORATE TRUST SEMT 2007-2
+708 D25 REDWOOD TRUST WFB CORPORATE TRUST SEMT 2007-3
+708 H18 REDWOOD TRUST WFB CORPORATE TRUST SEMT 2007-4
+106 U08 GREENWICH PMSR SOUNDVIEW WFB CORPORATE TRUST SOUNDVIEW 2007-1
+106 U10 GREENWICH PMSR SOUNDVIEW WFB CORPORATE TRUST SOUNDVIEW 2007-2
+708 C93 UBS WFB CORPORATE TRUST STARM 2007-3
+591 157 THORNBURG WFB CORPORATE TRUST TMST 2007-3
+N/A N/A WFMBS WFB CORPORATE TRUST WFALT 2007-PA1
+N/A N/A WFMBS WFB CORPORATE TRUST WFALT 2007-PA2
+N/A N/A WFMBS WFB CORPORATE TRUST WFALT 2007-PA3
+N/A N/A WFMBS WFB CORPORATE TRUST WFALT 2007-PA4
+N/A N/A WFMBS WFB CORPORATE TRUST WFALT 2007-PA5
+N/A N/A WFMBS WFB CORPORATE TRUST WFALT 2007-PA6
+708 C23 WF HE TRUST WFB CORPORATE TRUST WFHET 2007-1
+708 C62 WE HE TRUST WFB CORPORATE TRUST WFHET 2007-2
+
+(page)
+
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-10
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-11
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-12
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-13
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-14
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-15
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-16
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-17
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-2
+NJA N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-2007-1
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-3
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-4
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-5
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-6
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-7
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-8
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-9
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-AR3
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-AR4
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-AR5
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-AR6
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-AR7
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-AR8
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-AR9
+N/A N/A WFMBS WFB CORPORATE TRUST BSABS 2007-SD1
+N/A N/A WFMBS WFB CORPORATE TRUST BSABS 2007-AC1
+N/A N/A WFMBS WFB CORPORATE TRUST BSP 2007-R06
+N/A N/A WFMBS WFB CORPORATE TRUST BSAAT 2007-1
+N/A N/A WFMBS WFB CORPORATE TRUST BST 2007-4
+N/A N/A WFMBS WFB CORPORATE TRUST MSM 2007-12
+N/A N/A WFMBS WFB CORPORATE TRUST WFMBS 2007-A10
+
+</EX-35>
+
+<EX-35>
+ 17
+ baf07001_35-3.txt
+ 
+ EX-35.3
+(logo) WELLS FARGO
+
+Corporate Trust Services
+MAC N2702-011
+9062 Old Annapolis Road
+Columbia, MD 21045
+410 884-2000
+410 715-2380 Fax
+
+Wells Fargo Bank, N.A.
+
+Banc of America Funding Corporation
+214 North Tyron Street
+Charlotte, NC 28255
+
+RE: Annual Statement as to Compliance
+
+The undersigned, a duly authorized officer of Wells Fargo Bank, National
+Association ("Wells Fargo"), hereby certifies as follows for the calendar year
+2007 or applicable portion thereof (the "Reporting Period"):
+
+(a) a review of Wells Fargo's activities as Master Servicer, Securities
+Administrator and/or Trustee under the servicing agreement(s) listed on
+Schedule A hereto (the "Servicing Agreement(s)") has been made under my
+supervision; and
+
+(b) to the best of my knowledge, based on such review Wells Fargo has
+fulfilled all of its obligations under the Servicing Agreement(s) in all
+material respects throughout the Reporting Period.
+
+March 1, 2008
+
+/s/ Kelly Rentz
+KELLY RENTZ
+Vice President
+
+(page)
+
+(logo) WELLS FARGO
+
+Corporate Trust Services
+MAC N2702-011
+9062 Old Annapolis Road
+Columbia, MD 21045
+410 884-2000
+410 715-2380 Fax
+
+Wells Fargo Bank, N.A.
+
+Schedule A
+
+List of Servicing Agreement(s) and Series
+
+1 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates Series 2006-A, Wells Fargo Bank, N.A. as
+ Master Servicer and Securities Administrator, as applicable
+
+2 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates, Series 2007-5, Wells Fargo Bank, N.A. as
+ Trustee
+
+3 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates, Series 2007-B, Wells Fargo Bank, N.A. as
+ Master Servicer and Securities Administrator, as applicable
+
+4 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates, Series 2007-D, Wells Fargo Bank, N.A. as
+ Master Servicer and Securities Administrator, as applicable
+
+5 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates, Series 2007-C, Wells Fargo Bank, N.A. as
+ Master Servicer and Securities Administrator, as applicable
+
+6 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates Series 2007-E, Wells Fargo Bank, N.A. as
+ Trustee
+
+7 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates Series 2007-1, Wells Fargo Bank, N.A. as
+ Master Servicer and Securities Administrator, as applicable
+
+8 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates, Series 2006-8T2, Wells Fargo Bank, N.A.
+ as Master Servicer and Securities Administrator, as applicable
+
+9 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates Series 2006-I, Wells Fargo Bank, N.A.
+ as Master Servicer and Securities Administrator, as applicable
+
+10 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates Series 2006-J, Wells Fargo Bank, N.A. as
+ Master Servicer and Securities Administrator, as applicable
+
+11 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates, Series 2007-2, Wells Fargo Bank, N.A. as
+ Master Servicer and Securities Administrator, as applicable
+
+(page)
+
+(logo) WELLS FARGO
+
+Corporate Trust Services
+MAC N2702-011
+9062 Old Annapolis Road
+Columbia, MD 21045
+410 884-2000
+410 715-2380 Fax
+
+Wells Fargo Bank, N.A.
+
+12 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates, Series 2007-7, Wells Fargo Bank, N.A. as
+ Master Servicer and Securities Administrator, as applicable
+
+13 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass Through Certificates, Series 2007-3, Wells Fargo Bank, N.A. as
+ Master Servicer and Securities Administrator, as applicable
+
+14 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates, Series 2007-A, Wells Fargo Bank, N.A. as
+ Master Servicer and Securities Administrator, as applicable
+
+15 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates, Series 2007-8, Wells Fargo Bank, N.A. as
+ Master Servicer and Securities Administrator, as applicable
+
+16 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates Series 2006-D, Wells Fargo Bank, N.A. as
+ Master Servicer and Securities Administrator, as applicable
+
+17 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates Series 2006-2, Wells Fargo Bank, N.A. as
+ Master Servicer and Securities Administrator, as applicable
+
+18 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates Series 2006-6, Wells Fargo Bank, N.A. as
+ Securities Administrator
+
+19 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates Series 2006-5, Wells Fargo Bank, N.A. as
+ Securities Administrator
+
+20 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates Series 2006-B, Wells Fargo Bank, N.A. as
+ Trustee
+
+21 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates Series 2006-E, Wells Fargo Bank, N.A. as
+ Trustee
+
+22 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates Series 2006-H, Wells Fargo Bank, N.A. as
+ Master Servicer and Securities Administrator, as applicable
+
+23 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates Series 2006-1, Wells Fargo Bank, N.A. as
+ Master Servicer and Securities Administrator, as applicable
+
+24 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates Series 2006-4, Wells Fargo Bank, N.A. as
+ Master Servicer and Securities Administrator, as applicable
+
+(page)
+
+(logo) WELLS FARGO
+
+Corporate Trust Services
+MAC N2702-011
+9062 Old Annapolis Road
+Columbia, MD 21045
+410 884-2000
+410 715-2380 Fax
+
+Wells Fargo Bank, N.A.
+
+25 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates Series 2006-C, Wells Fargo Bank, N.A. as
+ Trustee
+
+26 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates Series 2006-3, Wells Fargo Bank, N.A. as
+ Master Servicer and Securities Administrator, as applicable
+
+27 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates Series 2006-7, Wells Fargo Bank, N.A. as
+ Master Servicer and Securities Administrator, as applicable
+
+28 Pooling and Servicing Agreement for Banc of America Funding Corporation,
+ Mortgage Pass-Through Certificates Series 2007-4, Wells Fargo Bank, N.A. as
+ Master Servicer and Securities Administrator, as applicable
+
+</EX-35>
+

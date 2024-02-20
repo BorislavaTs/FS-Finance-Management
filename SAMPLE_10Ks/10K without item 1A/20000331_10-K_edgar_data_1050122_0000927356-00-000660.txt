@@ -1,0 +1,3666 @@
+<Header>
+<FileStats>
+    <FileName>20000331_10-K_edgar_data_1050122_0000927356-00-000660.txt</FileName>
+    <GrossFileSize>221547</GrossFileSize>
+    <NetFileSize>183298</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1592</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000927356-00-000660.hdr.sgml : 20000403
+ACCESSION NUMBER:		0000927356-00-000660
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20000101
+FILED AS OF DATE:		20000331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			1 800 CONTACTS INC
+		CENTRAL INDEX KEY:			0001050122
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPTICAL INSTRUMENTS & LENSES [3827]
+		IRS NUMBER:				870571643
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-23633
+		FILM NUMBER:		590032
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13751 S WADSWORTH PARK DR SUITE D-140
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+		BUSINESS PHONE:		8015728225
+
+	MAIL ADDRESS:	
+		STREET 1:		13751 S WADSWORTH PARK DR SUITE D-140
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DYzGnOYVGk9PzJB+BnjYMZKKsfWn43GXOHC1KKBj+n3X+oRseJyQwlh6M3TWzbEe
+ PP5df6huWHqhlktVCBHEDA==
+
+ 0000927356-00-000660.txt : 20000403
+
+10-K
+ 1
+ ANNUAL REPORT
+
+UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ Washington, DC 20549
+
+ FORM 10-K
+
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ ACT OF 1934
+
+For the fiscal year ended January 1, 2000 or
+
+[_] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934
+
+ For the transition period from ______ to ______
+
+ Commission file number: 0-23633
+ --------------
+
+ 1-800 CONTACTS, INC.
+ (Exact name of registrant as specified in its charter)
+
+Delaware 87-0571643
+- ---------------------------------------------- ------------------------------
+(State or other jurisdiction of incorporation (I.R.S. Employer Identification
+ or organization) No.)
+
+66 E. Wadsworth Park Drive 3rd Floor, Draper, UT 84020
+- ------------------------------------------------ ------------
+(Address of principal executive offices) (Zip Code)
+
+ Registrant's telephone number, including area code: (801) 924-9800
+
+ Securities registered pursuant to Section 12(b) of the Act: Not applicable
+
+ Securities registered pursuant to Section 12(g) of the Act:
+
+ Common Stock, par value .01 per share
+ ----------------------------------------
+ (Title of Class)
+
+ Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+ [X] Yes [_]No
+
+ Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of the registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [_]
+
+The aggregate market value of voting common equity held by non-affiliates
+of the registrant as of March 20, 2000 at a closing sale price of 29.125 as
+reported by the Nasdaq National Market ("Nasdaq") was approximately 96 million.
+Shares held by each officer and director and by each person who owns or may be
+deemed to own 10 or more of the outstanding Common Stock have been excluded
+since such persons may be deemed to be affiliates. This determination of
+affiliate status is not necessarily a conclusive determination for other
+purposes.
+
+ As of March 20, 2000, the Registrant had 6,119,310 shares of Common Stock,
+par value 0.01 per share, outstanding.
+
+Documents Incorporated by Reference
+
+ Portions of the Registrant's Proxy Statement to be used in connection with
+the solicitation of proxies for the Annual Meeting to be held on May 19, 2000
+(the "Proxy Statement") are incorporated by reference in Part III of this Annual
+Report on Form 10-K (the "Form 10-K").
+
+1-800 CONTACTS, INC.
+
+ INDEX TO ANNUAL REPORT ON FORM 10-K
+
+Page No.
+ --------
+ 
+ PART I
+ Item 1. Business..................................................................... 3
+ Item 2. Properties................................................................... 12
+ Item 3. Legal Proceedings............................................................ 13
+ Item 4. Submission of Matters to a Vote of Security Holders.......................... 13
+ Item 4A. Executive Officers of the Registrant......................................... 14
+
+ PART II
+ Item 5. Market for the Registrant's Common Equity and Related Stockholder Matters.... 15
+ Item 6. Selected Financial Data...................................................... 17
+ Item 7. Management's Discussion and Analysis of Financial Condition and Results of
+ Operations................................................................ 18
+ Item 7A. Quantitative and Qualitative Disclosure About Market Risk.................... 24
+ Item 8. Financial Statements and Supplementary Data.................................. 24
+ Item 9. Changes in and Disagreements With Accountants on Accounting and
+ Financial Disclosure................................................... 24
+
+ PART III
+ Item 10. Directors and Executive Officers of the Registrant........................... 24
+ Item 11. Executive Compensation....................................................... 24
+ Item 12. Security Ownership of Certain Beneficial Owners and Management............... 25
+ Item 13. Certain Relationships and Related Transactions............................... 25
+
+ PART IV
+ Item 14. Exhibits, Financial Statement Schedules, and Reports on Form 8-K............. 25
+
+PART I
+
+Item 1. Business.
+
+Overview
+
+ 1-800 CONTACTS, INC. (the "Company") was incorporated under the laws of the
+State of Utah in February 1995 and was reincorporated under the laws of the
+State of Delaware in February 1998 in conjunction with its initial public
+offering of common stock. The Company is the successor to the business founded
+by the Company's Vice President of Sales in March 1991. The Company's principal
+executive office is located at 66 E. Wadsworth Park Drive 3/rd/ Floor, Draper,
+Utah 84020, and its telephone number is (801) 924-9800. The Company maintains a
+website on the Internet at www.1800contacts.com.
+
+ The Company is a leading direct marketer of replacement contact lenses. As
+of January 1, 2000, the Company had shipped more than two million orders to
+approximately 1.2 million customers since inception. Through its easy-to-
+remember, toll-free telephone number, "1-800 CONTACTS" (1-800-266-8228), and
+increasingly through its Internet addresses, which include
+"www.1800contacts.com," "www.contacts.com" and "www.contactlenses.com," the
+Company sells all of the popular brands of contact lenses, including those
+manufactured by Johnson & Johnson, CIBA Vision, Bausch & Lomb, Wesley Jessen,
+Ocular Sciences and CooperVision. The Company's high volume, cost-efficient
+operations, supported by its proprietary management information systems, enable
+it to offer its products at competitive prices while delivering a high level of
+customer service. As a result of its extensive inventory of more than 20,000
+SKUs, the Company generally ships approximately 90 of its orders within one
+business day of receipt. The Company believes that it offers its customers an
+attractive alternative for obtaining replacement contact lenses in terms of
+convenience, price, speed of delivery and customer service. The Company's net
+sales have grown rapidly, from 3.6 million in fiscal 1996 to 98.5 million in
+fiscal 1999.
+
+ The Internet is the Company's fastest-growing sales channel and a more
+cost-effective way for the Company to serve its customers. The Company's
+Internet sales for fiscal 1999 were 18.7 million compared to 2.3 million in
+the previous fiscal year. During the fourth quarter of fiscal 1999, Internet
+orders represented approximately 36 of the Company's new orders. Its online
+presence enables the Company to operate more efficiently by substantially
+eliminating the payroll and long distance costs associated with telephone
+orders. This increased efficiency allows the Company to offer Internet customers
+free shipping in addition to other services such as e-mail shipping
+confirmation, online order tracking and e-mail correspondence. The Company
+believes that its customers will increasingly use the Internet to order and
+reorder replacement contact lenses.
+
+ The Company markets its products through an aggressive national advertising
+campaign that aims to increase recognition of the 1-800 CONTACTS brand, increase
+traffic on its website, add new customers, continue to build strong customer
+loyalty and maximize repeat purchases. The Company's marketing campaign now more
+prominently features its website, contacts.com. As compared to other direct
+marketers of replacement contact lenses, the Company believes that its toll-free
+telephone number and Internet addresses afford it a significant competitive
+advantage in generating consumer awareness and repeat business. The Company
+spent approximately 20.1 million on advertising in fiscal 1999. The Company's
+experience has been that increases in advertising expenditures have a direct
+impact on the growth of net sales.
+
+Industry Overview
+
+ Industry analysts estimate that over 50 of the United States' population
+need some form of corrective eyewear. Contact lenses have become a convenient,
+cost-effective alternative to eyeglasses, and the number of contact lens wearers
+is expected to increase as technology further improves the convenience, comfort
+and fit of contact lenses. As a result, the contact lens market is large and
+growing. The growth in the disposable market is largely due to the shift in the
+contact lens market away from traditional soft lenses, which generally are
+replaced on an annual basis, to disposable lenses, which are replaced on a
+daily, weekly, or bi-weekly basis.
+
+ 3
+
+Traditionally, contact lenses were almost exclusively sold to consumers by
+either ophthalmologists or optometrists (referred to herein collectively as "eye
+care practitioners"). Eye care practitioners would typically supply a patient
+with his or her initial pair of contact lenses in connection with providing the
+patient an eye examination and subsequently provide all replacement lenses,
+regardless of whether the patient was given or required another eye examination.
+Because the initial fitting of contact lenses requires a prescription written by
+an eye care practitioner, the initial sale of contact lenses still takes place
+primarily in this manner. Over the last decade, however, a number of alternative
+sellers of replacement contact lenses have emerged, including direct marketers.
+
+ The Company believes that increased consumer awareness of the benefits of
+the direct marketing of contact lenses will lead to further growth of this
+method of buying and selling contact lenses. Purchasing replacement contact
+lenses from a direct marketer offers the convenience of shopping at home, rapid
+home delivery, quick and easy telephone or Internet ordering and competitive
+pricing. In addition, the growth in popularity of disposable contact lenses,
+which require patients to purchase replacement lenses more frequently, has
+contributed to the growth of the direct marketing channel. The direct marketing
+industry continues to grow as many retail customers have migrated towards the
+convenience and service offered by home shopping, and the Company expects the
+direct marketing segment of the contact lens industry to grow in tandem with the
+growth in the direct marketing industry as a whole.
+
+ The Company believes that the enormous growth and acceptance of the
+Internet presents significant opportunities for direct marketers of contact
+lenses such as the Company. The factors driving this growth include the
+increasing number and decreasing cost of personal computers in homes and
+offices, technological innovations providing easier, faster and cheaper access
+to the Internet, the proliferation of content and services being provided on the
+Internet and the increasing use of the Internet by business and consumers as a
+medium for conducting business.
+
+ The Internet possesses a number of unique and commercially powerful
+characteristics that differentiate it from traditional media: users communicate
+or access information without geographic limitations; users access dynamic and
+interactive content on a real-time basis; and users communicate and interact
+instantaneously. The Internet has created a dynamic and particularly attractive
+medium for commerce, empowering customers to gather more comparative purchasing
+data than is feasible with traditional commerce systems, to shop in a more
+convenient manner and to interact with sellers in many new ways. The Company
+believes that the Internet provides a convenient and efficient medium for the
+sale of replacement contact lenses.
+
+ Historically, sales of contact lenses by direct marketers have been impeded
+by eye care practitioners and contact lens manufacturers. Many eye care
+practitioners have been reluctant to provide patients with a copy of their
+prescription or to release such information to direct marketers upon request,
+thereby impeding patients from purchasing lenses from a direct marketer. In
+addition, substantially all of the major manufacturers of contact lenses have
+historically refused to sell contact lenses directly to direct marketing
+companies and have sought to prohibit their distributors from doing so. These
+traditional barriers to the direct marketing of contact lenses may be reduced or
+eliminated in the future. The Federal Trade Commission (the "FTC") has from time
+to time solicited comments regarding whether eye care practitioners should be
+required to release contact lens prescriptions to their patients. In addition,
+the Attorneys General for more than 30 states have joined in a lawsuit against
+the major contact lens manufacturers and certain eye care practitioners and
+their trade associations alleging that the manufacturers' policy not to sell to
+direct marketers was adopted in conspiracy with eye care practitioners to
+eliminate alternative channels of trade from the contact lens market. See
+"Purchasing and Principal Suppliers" and "Government Regulation."
+
+Product Offerings
+
+ Contact lenses can be divided into two categories: soft lenses and hard
+lenses (primarily rigid gas permeable). There are three principal wearing
+regimes for soft contact lenses: conventional, disposable and planned
+replacement. Conventional lenses are designed to be worn indefinitely but are
+typically replaced after 12 to 24 months. Disposable soft contact lenses were
+introduced in the late 1980s based on the concept that changing lenses on a more
+regular basis was important to comfort, convenience, maintaining healthy eyes
+and patient compliance. Disposable lenses are changed as often as daily and up
+to every two weeks, depending on the product. Planned replacement lenses are
+
+ 4
+
+designed to be changed as often as every two weeks and up to every three months
+and currently represent a small portion of the overall soft lens market.
+
+ The Company is a direct marketer of replacement contact lenses and does not
+manufacture contact lenses or provide eye examinations or related services to
+its customers. The Company offers substantially all of the soft and hard contact
+lenses produced by the leading contact lens manufacturers, including Johnson &
+Johnson, CIBA Vision, Bausch & Lomb, Wesley Jessen, Ocular Sciences and
+CooperVision. The Company stocks a large inventory of lenses from which it can
+ship approximately 90 of its orders within one business day of receipt. The
+Company believes that its ability to maintain a large inventory of contact
+lenses provides it with a competitive advantage over eye care practitioners,
+optical chains and discount stores and serves as an effective barrier to entry
+to potential entrants in the direct marketing of contact lenses.
+
+ In July 1997, the Company was approved as an authorized distributor of CIBA
+Vision. The Company also purchases product directly from certain other
+manufacturers. The Company's products are delivered in the same sterile, safety
+sealed containers in which the lenses were packaged by the manufacturer. From
+time to time, the Company purchases contact lenses that were labeled as
+"samples" by the manufacturer. Such lenses are sometimes offered by the Company
+to customers as part of promotional programs at reduced prices.
+
+Customers and Marketing
+
+ The Company's customers are located principally throughout the United
+States. The percentage of the Company's customers that are located in each state
+is approximately equal to the percentage of the United States' population which
+resides in such state, with the largest concentration of the Company's customers
+residing in California. The Company strives to deliver a high level of customer
+service in an effort to maintain and expand its loyal customer base. The Company
+utilizes a focused, closely managed and monitored marketing strategy that is
+designed to enhance the awareness and value of its brand. The Company
+continually researches and analyzes new ways in which to advertise its products.
+After identifying an attractive potential new advertisement or advertising
+medium, the Company commits to such advertising for an initial test period. The
+response generated by such advertising is monitored and analyzed by the Company
+and a decision to commit significant resources to a particular advertisement or
+advertising medium is made only if the Company is satisfied with the response
+rates it has generated. After the initial testing period, the Company continues
+to closely monitor its advertising in order to identify and react to trends in
+consumer response patterns and adjust its marketing strategy accordingly.
+
+ The majority of contact lens wearers are between the ages of 18 and 49. In
+addition, approximately two-thirds of contact lens wearers are women and contact
+lens wearers generally have higher incomes than eyeglass wearers do. Through its
+national advertising campaign, the Company is able to target its advertising to
+contact lens wearers in these key demographic groups, as well as certain other
+persons based on other important demographics.
+
+ The Company spent approximately 20.1 million on advertising in fiscal 1999
+and intends to increase advertising spending in fiscal 2000 to continue its
+nationwide advertising campaign that aims to increase recognition of the 1-800
+CONTACTS brand, increase traffic on its website, add new customers, continue to
+build strong customer loyalty and maximize repeat purchases. The Company's
+marketing campaign now more prominently features its website, contacts.com. The
+Company's advertising campaign targets both its traditional telephone customers
+and its online customers and is designed to drive new and repeat purchases
+through its website. In addition, the Company intends to continue expanding its
+direct marketing campaign to its more than 1.2 million customers through the
+U.S. mail and e-mail.
+
+ A brief description of the principal components of the Company's national
+advertising campaign is set forth below:
+
+ Broadcast. In July 1998, the Company began its first nationwide broadcast
+advertising campaign with significant purchases on both cable and network
+television--testing different networks, commercial lengths and broadcast times.
+The Company believes that this investment in television advertising was
+primarily responsible for
+
+ 5
+
+the 44 sequential increase in sales in the third quarter of fiscal 1998. The
+Company's television ads typically focus on its ability to rapidly deliver to
+customers the same contact lenses offered by eye care practitioners. The Company
+believes that its easy-to-remember phone number and Internet address make
+television a particularly effective marketing vehicle and that television
+advertising will continue to be the key to building awareness for its 1-800
+CONTACTS and contacts.com brands.
+
+ Internet. The Company believes that it is one of the industry leaders in
+establishing an online advertising presence. The Company currently maintains an
+advertising presence on several leading websites, including Yahoo!, America
+Online, Excite, Infoseek and Lycos and other highly-visited websites where its
+customers are likely to visit. The Company intends to continue to seek new
+opportunities to expand this presence within top-tier portal sites and highly
+trafficked content sites. The Company intends to significantly expand its
+Internet advertising and marketing efforts. The Company intends to continue to
+use the unique resources of the Internet as a means of marketing in an effort to
+drive new and repeat traffic.
+
+ Direct-Mailing. The Company uses direct-mail to advertise its products to
+selected groups of consumers. The Company utilizes mailing lists obtained from
+both private and public sources to target its advertisements specifically to
+contact lens wearers.
+
+ Cooperative Mailings. The Company advertises its products in cooperative
+mail programs sponsored by the leading cooperative mail companies in the United
+States. This advertising medium permits the Company to target consumers in
+specific zip codes according to age, income and other important demographics.
+
+ Free Standing Inserts. From time to time, the Company advertises its
+products through free standing inserts, which are typically glossy
+advertisements included inside the comic section of the Sunday paper. The
+Company uses this advertising medium because of its ability to reach a large
+audience in a cost-effective manner. The Company utilizes these inserts to
+supplement its direct and cooperative mailing programs.
+
+ Magazines and Newspapers. From time to time, The Company also purchases
+advertisements in national magazines and newspapers. The Company uses this
+advertising medium due to its ability to reach a large audience and its
+scheduling flexibility.
+
+Management Information Systems
+
+ The Company has developed proprietary management information systems that
+integrate the Company's order entry and order fulfillment operations. The
+Company believes that these systems enable it to operate efficiently and provide
+enhanced customer service. The key features of these management information
+systems are their ability to: (i) process numerous types of orders, including
+telephone, Internet and others; (ii) continually monitor and track the Company's
+inventory levels for substantially all of its products; (iii) rapidly process
+credit card orders; (iv) increase the speed of the shipping process with
+integrated and automated shipping functions and (v) increase accuracy through
+the scanning of each order prior to shipment to ensure it contains the correct
+quantity and type of lenses.
+
+ The management information systems provide the Company's customer service
+representatives ("CSRs") with real-time product availability information for
+substantially all of its products through a direct connection with the Company's
+distribution center, whereupon information is immediately updated as lenses are
+shipped. In addition, Internet customers can obtain real-time product
+availability information for many products. The management information systems
+also have an integrated direct connection for processing credit card payments
+which allows the CSR to charge the customer's card and ensure that a valid card
+number and authorization have been received in approximately five seconds while
+the CSR is on the phone with the customer. CSRs also have access to records of
+all prior contact with a customer, including the customer's address,
+prescription information, order history and payment history and notes of any
+prior contact with the customer made by phone, Internet, mail or fax. Based on
+product availability provided by the management information systems, the CSR
+provides the customer with an estimated date of delivery of their lenses. If a
+customer's order will not be shipped by the promised delivery date, the
+management
+
+ 6
+
+information systems notify the CSR who entered the order and provide any
+information explaining the delay, and the CSR then contacts the customer to
+inform them of the delay.
+
+ After an order has been entered into the management information systems by
+a CSR, it is sent to the Company's distribution center via a direct connection.
+After the distribution center receives the order, the invoice for the order is
+printed. The invoice for each order contains the type and quantity of the
+lenses, as well as a shipping label for the order. Tracking, manifesting,
+billing and other shipping functions are integrated into the Company's
+management information systems so that all necessary bar codes and tracking
+information for shipment via independent couriers are printed directly on the
+Company's shipping label, and separate labeling or a separate computer is not
+needed to ship packages via independent couriers.
+
+ After the invoice for an order is printed at the Company's distribution
+center, the order is pulled from inventory and scanned to ensure that the
+prescription and quantity of each item matches the order in the Company's
+management information systems. Audible notices inform the shipping agent of any
+errors in the order. After the order has been scanned for accuracy, the
+management information systems update the Company's inventory level. Then the
+order is placed in a box produced by the Company's automated box folder and is
+sent to an automatic sealer. After the package leaves the sealer, another
+scanner reads the bar code on the shipping label to determine which method of
+shipment is being used, adds the package to the appropriate carrier's manifest
+and directs the appropriate hydraulic diverter to push the package into the
+appropriate carrier's shipping bin.
+
+ The Company has installed a battery powered back-up system capable of
+supporting its entire call center, computer room and phone switch. This system
+is further supported by a generator capable of supporting the Company's call
+center operations for a period of five days. All critical data is simultaneously
+written to a series of back-up drives throughout the day and at the end of the
+day the Company's data is transmitted to an offsite location. There can be no
+assurance that the Company's back-up system will be sufficient to prevent an
+interruption in the Company's operations in the event of disruption in the
+Company's management information systems, and an extended disruption in the
+management information systems could adversely affect the Company's business,
+financial condition and results of operations.
+
+Operations
+
+ The primary components of the Company's operations include its
+teleservices, order entry and customer service, Internet and distribution and
+fulfillment.
+
+ Teleservices, Order Entry and Customer Service. The Company provides its
+customers with toll-free telephone access to its CSRs. Currently, the Company's
+call center generally operates from 6:00 a.m. to 9:00 p.m. (MST) Monday through
+Friday, 7:00 a.m. to 5:00 p.m. (MST) on Saturday and 8:00 a.m. to 4:00 p.m.
+(MST) on Sunday. During the second quarter of fiscal 2000, the Company plans to
+extend its call center operating hours. The new operating hours will be from
+6:00 a.m. to 10:00 p.m. (MST) Monday through Friday, 7:00 a.m. to 9:00 p.m.
+(MST) on Saturday and 8:00 a.m. to 8:00 p.m. (MST) on Sunday. Customers may
+place orders via the Internet 24 hours a day, 7 days a week. Potential customers
+may also obtain product, pricing or other information over the Internet or
+through an interactive voice response system. The Company's orders are received
+by phone, Internet, mail, facsimile and electronic mail. CSRs process orders
+directly into the Company's proprietary management information systems, which
+provide customer order history and information, product specifications, product
+availability, expected shipping date and order number. CSRs are provided with a
+sales script and are trained to provide information about promotional items.
+Additionally, CSRs are trained to provide customer service and are authorized to
+resolve all customer service issues, including accepting returns and issuing
+refunds, as appropriate.
+
+ The Company believes its customers are particularly sensitive to the way
+merchants and salespeople communicate with them. The Company strives to hire
+energetic, service-oriented CSRs who can understand and relate to customers.
+CSRs participate in a training program that includes a mentor system for working
+with more experienced personnel. During 1999, the Company established a quality
+assurance department. This department monitors and reviews the CSRs performance
+and coaches the CSRs as necessary.
+
+ 7
+
+The Company completed the move into its new call center during July 1998.
+In conjunction with the move, the Company acquired new telecommunications
+systems and enhanced its management information systems. In its current
+facility, the Company believes it has the capacity to handle up to 30,000 calls
+per day. The Company believes that it processes telephone orders on average in
+less time than its competitors, which allows each CSR to handle a greater number
+of orders per day.
+
+ The laws in most states require that contact lenses be sold pursuant to a
+valid prescription. The Company's operating practice is to attempt to obtain a
+valid prescription from each of its customers or his/her eye care practitioner.
+If the customer does not have a copy of his/her prescription, the Company
+attempts to contact the customer's doctor to obtain a copy of or verify the
+customer's prescription. If the Company is unable to obtain a copy of or verify
+the customer's prescription, it is the Company's practice to complete the sale
+and ship the lenses to the customer based on the prescription information
+provided by the customer. The Company retains copies of the written
+prescriptions that it receives and maintains records of its communications with
+the customer's prescriber.
+
+ Internet. The Company's website, contacts.com, provides customers with a
+quick, efficient and cost-effective method for obtaining replacement contact
+lenses 24 hours a day, 7 days a week. The website allows customers to easily
+browse and purchase substantially all of the Company's products, promotes brand
+loyalty and encourages repeat purchases by providing an inviting customer
+experience. The Company has designed its website to be fast, secure and easy to
+use and to enable its customers to purchase products with minimal effort. The
+Company also offers Internet customers services such as free shipping, shipping
+confirmation and online order tracking. During the call center's operating
+periods, the Company offers service and support to its Internet customers over
+the telephone. The Company also provides real-time online messaging and e-mail
+support to customers. The Company's website allows customers to dispense with
+providing personal profile and payment information after their initial order.
+The website has permitted the Company to expand its customer base through better
+service while reducing transactional costs.
+
+ The Company's online service automates the processing of customer orders,
+interacts with the management information systems and allows the Company to
+gather, store and use customer and transaction information in a comprehensive
+and cost-efficient manner. The Company's website contains customized software
+applications that interface with the Company's management information systems.
+
+ The Company maintains a database containing information compiled from
+customer profiles, shopping patterns and sales data. The Company analyzes
+information in this database to develop targeted marketing programs and provide
+personalized and enhanced customer service. This database is scaleable to permit
+large transaction volumes. The Company's systems support automated e-mail
+communications with customers to facilitate confirmations of orders, provide
+customer support, obtain customer feedback and engage in targeted marketing
+programs.
+
+ The Company uses a combination of proprietary and industry-standard
+encryption and authentication measures designed to protect a customer's
+information. The Company maintains an Internet firewall to protect its internal
+systems and all credit card and other customer information.
+
+ Distribution and Fulfillment. Approximately 90 of the Company's orders are
+shipped within one business day of receipt. Customers generally receive orders
+within one to five business days after shipping, depending upon the method of
+delivery chosen by the customer. A shipping and handling fee is charged on each
+customer order, except those orders received via the Internet and those received
+by mail with an enclosed check. Customers have the option of having their order
+delivered by overnight courier for an additional charge. The Company's
+management information systems automatically determine the anticipated delivery
+date for each order.
+
+ The Company uses an integrated packing and shipping system via a direct
+connection to the Company's management information systems. This system monitors
+the in-stock status of each item ordered, processes the order and generates
+warehouse selection tickets and packing slips for order fulfillment operations.
+The Company's
+
+ 8
+
+management information systems are specifically designed with a number of
+quality control features to help ensure the accuracy of each order.
+
+ The Company began operations in its new distribution center in February
+1999. This new facility is several times the size of the prior distribution
+center and is strategically located near the Salt Lake City, Utah airport.
+
+Purchasing and Principal Suppliers
+
+ Historically, substantially all of the major manufacturers of contact
+lenses have refused to sell lenses directly to direct marketers, including the
+Company, and have sought to prohibit their distributors from doing so. As a
+result, the Company currently purchases a substantial portion of its products
+from unauthorized distributors. The Company is aware that at least one large
+manufacturer of contact lenses puts tracking codes on its products in an effort
+to identify distributors who are selling to direct marketers. In June 1994, the
+Attorney General for the State of Florida, acting on behalf of disposable
+contact lens consumers in that state, filed an anti-trust action against Johnson
+& Johnson, CIBA Vision, Bausch & Lomb and certain eye care practitioners and
+their trade associations alleging, among other things, that the contact lens
+manufacturers' policy not to sell to mail order distributors and others was
+adopted in conspiracy with eye care practitioners, as the result of pressure by
+eye care practitioners, in order to eliminate alternative channels of trade from
+the disposable lens market (the "Florida Action").
+
+ In December 1996, the Attorney General for the State of New York, on behalf
+of itself and the Attorney Generals for approximately 21 other States, filed a
+substantially similar action naming three major manufacturers of soft contact
+lenses as well as several optometrists and their trade associations as
+defendants (the "New York Action"). Additional states have joined the New York
+Action since it was filed, and the Florida Action and the New York Action have
+been consolidated and are currently pending in the United States district Court
+for the Eastern District of New York (the "Attorney General Action"). Based upon
+public filings made in the Attorney General Action, the Company believes that
+one defendant, CIBA Vision Corporation, has entered into a proposed settlement
+agreement pursuant to which it has agreed to pay 5 million into a settlement
+fund, agreed to provide rebates and coupons to consumers and agreed to begin to
+sell soft contact lenses to direct marketers. Since this settlement agreement
+was announced, the Company has become an authorized distributor of CIBA Vision's
+contact lenses and can purchase such lenses at wholesale level prices.
+
+ As a result of some manufacturers' refusal to sell to direct marketers, the
+Company is not an authorized dealer for many of the products which it sells. In
+addition, the Company believes that the price which it pays for certain products
+is sometimes higher than those paid by eye care practitioners, retail chains and
+mass merchandisers, who are able to buy directly from the manufacturers of such
+lenses. Although the Company has been able to obtain most contact lens brands at
+competitive prices in sufficient quantities on a regular basis, there can be no
+assurance that the Company will not encounter difficulties in the future,
+particularly in light of the Company's anticipated growth. The inability of the
+Company to obtain sufficient quantities of contact lenses at competitive prices
+would have a material adverse effect on the Company's business, financial
+condition and results of operations.
+
+ Although the Company seeks to reduce its reliance on any one supplier by
+establishing relationships with a number of distributors and other sources, the
+Company purchased from a single distributor approximately 40 , 47 and 38 of
+its contact lens inventory in fiscal 1997, 1998 and 1999, respectively. The
+Company's top three suppliers accounted for approximately 72 , 70 and 68 of
+the Company's inventory purchases in fiscal 1997, 1998 and 1999, respectively.
+The Company believes that substantially all of its suppliers are not authorized
+by contact lens manufacturers to distribute their products. The Company does not
+have written agreements with substantially all of its suppliers. The Company
+continually seeks to establish new relationships with potential suppliers in
+order to be able to obtain adequate inventory at competitive prices.
+
+Competition
+
+ The retail sale of contact lenses is a highly competitive and fragmented
+industry. Traditionally, contact lenses were almost exclusively sold to
+customers by eye care practitioners in connection with providing them an eye
+
+ 9
+
+examination. Competition for patients and the revenue related to providing them
+contact lenses significantly increased as optical chains and large discount
+retailers began providing optical services and has further intensified with the
+entry of direct marketers such as the Company. The Company believes that the eye
+care profession suffers from a surplus of eye care practitioners, and that the
+resulting competitive pressure has been exacerbated by the increased prevalence
+of retail optical chains, mass merchandisers and direct marketers. Consequently,
+the competition amongst eye care practitioners to acquire customers and the
+competition to provide replacement lenses to such customers has intensified.
+
+ The Company's principal competitors include ophthalmologists and
+optometrists in private practice. The Company also competes with national
+optical chains, such as Cole Vision, LensCrafters and National Vision
+Association and mass merchandisers, such as Wal-Mart, Sam's and Costco. In
+addition, the Company competes with other direct marketers of contact lenses.
+The Company may face increased competition in the future from new entrants in
+the direct marketing business, which may include national optical chains and
+mass merchandisers, some of which may have significantly greater resources than
+the Company.
+
+ The Company believes that many of its competitors, including most eye care
+practitioners, national optical chains and mass merchandisers, have direct
+supply arrangements with contact lens manufacturers, which in some cases affords
+such competitors with better pricing terms and access to supply. In addition,
+some of the competitors are significantly larger in overall revenues and have
+significantly greater resources than the Company. The Company believes that the
+principal basis of competition in the industry include price, product
+availability, customer service and consumer awareness.
+
+Government Regulation
+
+ Federal Regulation. Contact lenses are regulated by the FDA as "medical
+devices." The FDA classifies medical devices as Class I, Class II or Class III
+and regulates them to varying degrees, with Class I medical devices subject to
+the least amount of regulation and Class III medical devices subject to the most
+stringent regulations. Rigid gas permeable and soft contact lenses are
+classified as Class II medical devices if intended only for daily wear and as
+Class III medical devices if intended for extended wear. These regulations
+generally apply only to manufacturers of contact lenses, and therefore do not
+directly impact the Company. Federal regulations also require the labels on
+"medical devices" to contain adequate instructions for their safe and proper
+use. However, there is an exemption from this requirement for medical devices
+the use of which is not safe except under the supervision of a practitioner
+licensed by law to direct the use of such device. Devices which fall in this
+exception must contain as part of their labeling the statement "Caution: Federal
+law restricts this device to sale by or on the order of ________ (physician or
+other licensed practitioner)," the blank to be filled in with the word physician
+or other practitioner authorized by the law of the state in which the
+practitioner practices to use or order the use of the device. The FDA considers
+contact lenses to qualify for this labeling exemption; however, a device bearing
+this legend that is dispensed without a prescription may be considered
+misbranded by the FDA. Potential penalties for misbranding include warning
+letters from the FDA, seizure, injunction, civil penalties, or prosecution. To
+date, the FDA has not taken any such action against the Company.
+
+ State Regulation. The sale and delivery of contact lenses to the consumer
+is subject to state laws and regulations. The Company sells to customers in all
+50 states and each sale is likely to be subject to the laws of the state where
+the customer is located. The laws and regulations governing the sale and
+delivery of contact lenses vary from state to state, but generally can be
+classified in five categories: (i) laws that require contact lenses only be
+dispensed pursuant to a prescription; (ii) laws that require the dispenser to be
+licensed by the state as an optometrist, ophthalmologist or other professional
+authorized to dispense lenses; (iii) laws that require lenses be dispensed only
+in a face-to-face transaction; (iv) laws with requirements that are unclear or
+do not specifically address the sale and delivery of contact lenses and (v) laws
+that the Company believes place no restrictions on the dispensing of replacement
+contact lenses. Many of the states requiring that contacts be dispensed in face-
+to-face meetings or by a person licensed by such state to dispense lenses also
+require that lenses only be dispensed pursuant to a valid prescription.
+
+ 10
+
+The laws and regulations in a significant number of states, including most
+of the states wherein a large portion of the Company's sales are concentrated,
+require that contact lenses only be sold to a consumer pursuant to a valid
+prescription. In some states, satisfying this prescription requirement obligates
+the dispenser only to verify the customer's prescription with the customer's
+prescriber, while other states specifically require that a written prescription
+be obtained before providing the lenses to the customer. The Company's operating
+practice is to attempt to obtain a valid prescription from each of its customers
+or his/her eye care practitioner. If the customer does not have a copy of
+his/her prescription, the Company attempts to contact the customer's doctor to
+obtain a copy of or verify the customer's prescription. If the Company is unable
+to obtain a copy of or verify the customer's prescription, it is the Company's
+practice to complete the sale and ship the lenses to the customer based on the
+prescription information provided by the customer. The Company retains copies of
+the written prescriptions that it receives and maintains records of its
+communications with the customer's prescriber.
+
+ The Company's ability to comply with state laws and regulations requiring a
+valid prescription is hampered because the Company's customers are often unable
+to get a copy of their prescription. The Company believes that optometrists,
+ophthalmologists and other contact lens prescribers have historically refused to
+release copies of a patient's contact lens prescription to the patient. In
+addition, such providers have refused to release or verify prescriptions at the
+request of direct marketers. Federal law requires prescribers to release
+prescriptions for eyeglasses to a patient, but the issue of whether or not a
+prescriber must release a contact lens prescription to the patient, or at the
+patients request, is currently governed by state law. The Company believes there
+are more than 20 states that require contact lens prescribers to release the
+prescriptions for contact lenses to the patient. However, even in states with a
+mandatory release law, the Company believes that many prescribers continue to
+refuse to release prescriptions to their patients or to direct marketers of
+contact lenses, including the Company.
+
+ In addition to requiring a valid prescription, a substantial number of
+states also require that contact lenses only be dispensed by a person licensed
+to do so under that state's laws. A dispenser may be required to be licensed as
+an optometrist, ophthalmologist, optician, ophthalmic dispenser or contact lens
+dispenser, depending on which state the customer is located in. Neither the
+Company nor any of its employees is a licensed or registered dispenser of
+contact lenses in many of the states in which the Company does business. The
+laws in a small number of states effectively prohibit the sale of contacts
+through the mail by requiring that a person licensed under that state's law to
+dispense contacts be in personal attendance at the place of sale. In addition,
+there are several states in which the laws and regulations do not specifically
+address the issue of who may dispense contact lenses or are unclear with respect
+to the requirements for dispensing lenses. Generally, these laws are older and
+were written before mail order and other distributors began selling contact
+lenses. Lastly, the Company believes that the laws in a small number of states
+do not require that replacement contact lenses be dispensed pursuant to a
+prescription or only by a professional licensed in such state.
+
+ Any action brought against the Company based on its failure to comply with
+applicable state laws and regulations could result in significant fines to the
+Company, the Company being prohibited from making sales in a particular state,
+the Company being required to comply with such laws or could constitute a
+misdemeanor. Such required compliance could result in: (i) increased costs to
+the Company; (ii) the loss of a substantial portion of the Company's customers
+for whom the Company is unable to obtain or verify their prescription; (iii) the
+inability to sell to customers at all in a particular state if the Company
+cannot comply with such state's laws and (iv) misdemeanor penalties and civil
+fines. The occurrence of any of the above results could have a material adverse
+effect on the Company's ability to sell contact lenses and to continue to
+operate profitably. Furthermore, there can be no assurance that states will not
+enact or impose laws or regulations that prohibit mail order dispensing of
+contact lenses or otherwise impair the Company's ability to sell contact lenses
+and continue to operate profitably. The Company has not obtained an opinion of
+counsel with regard to its compliance with applicable state laws and regulations
+or the enforceability of such state laws and regulations, and information
+contained herein regarding the Company's compliance with applicable state laws
+and regulations should not be construed as being based on an opinion of counsel.
+The Company has in the past, and intends in the future, to vigorously defend any
+actions brought against it.
+
+ An FTC rule adopted in 1978 requires eye care practitioners to provide
+their patients with a copy of their eyeglass prescription (the "Prescription
+Release Rule"). The Prescription Release Rule was adopted based on a
+
+ 11
+
+finding by the FTC that consumers were being deterred from comparison shopping
+for eyeglasses because eye care practitioners refused to release prescriptions.
+In April 1997, the FTC published a request for comments regarding the
+Prescription Release Rule with respect to whether the rule should be expanded to
+require the release of contact lens prescriptions, whether consumers have
+historically been able to get their contact lens prescriptions upon request and
+whether the refusal to release contact lens prescriptions has benefits
+justifying such refusal. The FTC undertook a similar review in 1985 and again in
+1995, both times concluding that the rule should not be expanded to require the
+release of contact lens prescriptions.
+
+ From time to time the Company receives notices, inquiries or other
+correspondence from states or their regulatory bodies charged with overseeing
+the sale of contact lenses. The Company's practice is to review such notices
+with legal counsel to determine the appropriate response on a case-by-case
+basis.
+
+ It is the opinion of management, after discussion with legal counsel, that
+the Company is taking the appropriate steps to address the various notices
+received. See "Legal Proceedings" for formal complaints filed against the
+Company concerning its business practices.
+
+Intellectual Property
+
+ The Company conducts its business under the trade name and service marks
+"1-800 CONTACTS." The Company has taken steps to register and protect these
+marks and believes that such marks have significant value and are an important
+factor in the marketing of its products. The Company leases certain assets,
+including the right to use the 1-800 CONTACTS telephone number, from an
+individual pursuant to a non-cancelable lease. The lease expires in June 2000,
+at which time the Company has the option to purchase such assets for 17,500.
+However, under applicable FCC rules and regulations, the Company does not have
+and cannot acquire any property rights to the telephone number. The Company does
+not expect to lose the right to use the 1-800 CONTACTS number, however, there
+can be no assurance in this regard. The loss of the right to use the 1-800
+CONTACTS number would have a material adverse effect on the Company's business,
+financial condition and results of operations. In addition, the Company has
+obtained the rights to international equivalents for the 1-800 CONTACTS phone
+number; however, like the 1-800 CONTACTS number, the Company does not have and
+cannot acquire any property rights in these telephone numbers.
+
+ The Company also has obtained the rights to various Internet addresses,
+including but not limited to www.1800contacts.com, www.contacts.com and
+www.contactlenses.com. As with phone numbers, the Company does not have and
+cannot acquire any property rights in Internet addresses. The Company does not
+expect to lose the ability to use the Internet addresses; however, there can be
+no assurance in this regard and such loss would have a material adverse effect
+on the Company's financial position and results of operations.
+
+Employees
+
+ As of January 1, 2000 the Company employed 327 persons, of which 248 were
+full-time employees and 79 were part-time employees. None of the Company's
+employees is covered by a collective bargaining agreement. The Company believes
+its relationship with its employees to be good.
+
+Item 2. Properties.
+
+ All of the Company's management and call center operations are conducted
+through approximately 32,000 square feet of leased space located in Draper,
+Utah, a suburb of Salt Lake City. The lease relating to this facility expires in
+2005.
+
+ In October 1998, the Company entered into a lease agreement to occupy
+approximately 35,000 square feet of space for its new distribution center
+located near the Salt Lake City, Utah airport. The lease for the new
+distribution center expires in December 2001. The Company began operations in
+this distribution center in February of 1999. The
+
+ 12
+
+Company sub-leased approximately 10,000 square feet of warehouse space that was
+formerly used as its distribution center to another party for the duration of
+the lease term, which expired in January 2000.
+
+Item 3. Legal Proceedings.
+
+ On July 14, 1998, Craig S. Steinberg, O.D., a professional corporation
+d.b.a. City Eyes Optometry Center, filed a purported class action on behalf of
+all California optometrists against the Company and its directors in Los Angeles
+County Superior Court. The complaint alleged three separate causes of action for
+unfair competition: (i) selling contact lenses to California residents without
+being registered, (ii) selling contact lenses to California residents without
+verifying the prescription and (iii) failing to disclose in its advertising that
+it sells "sample" lenses not intended for sale to the public. The complaint
+requested various forms of relief, including damages of an unspecified amount,
+attorney's fees and a permanent injunction. The Company removed the action to
+the United States District Court for the Central District of California.
+Plaintiff and another California optometrist, Ellis Miles, (collectively
+"plaintiffs") filed a First Amended Complaint ("FAC") against the Company and
+its directors on or about September 3, 1998 purporting to sue on behalf of the
+public under California's unfair competition statute rather than as a class
+action on behalf of optometrists. Although the substantive claims for unfair
+competition remain the same, the FAC seeks injunctive relief and restitution
+rather than damages. Plaintiffs also dismissed the Company's directors as
+defendants, leaving the Company as the only remaining defendant. The Company has
+filed its Answer to the FAC and intends to vigorously defend itself in this
+action. The parties agreed to remand the case to Los Angeles County Superior
+Court based upon plaintiffs' stipulation that they no longer seek monetary
+relief on behalf of themselves or other optometrists. The Court remanded the
+case to Los Angeles County Superior Court in August 1999.
+
+ On April 7, 1999 the Kansas Board of Examiners in Optometry commenced
+a civil action against the Company. The action was filed in the District Court
+of Shawnee County, Kansas, Division 6. The complaint was amended on May 28,
+1999. The amended complaint alleges that on "one or more occasions" the Company
+sold contact lenses in the state of Kansas without receipt or verification of a
+prescription. The amended complaint seeks the issuance of an order enjoining the
+Company from further engaging in the alleged activity. The amended complaint
+does not seek monetary damages. In response to the amended complaint, the
+Company has retained counsel and intends to vigorously defend itself in this
+action. The Company has filed an answer to the amended complaint. In addition,
+the Company has filed a motion for summary judgment, asking the court to dismiss
+the action and enter judgment in its favor.
+
+ On or about November 2, 1999, the Company received a complaint from the
+Texas Optometry Board seeking injunctive relief and civil penalties against the
+Company for alleged violation of the Texas Optometry Act. The complaint alleges
+that the Company (1) failed to state explicitly in its advertisements that a
+written prescription is required to purchase contact lenses and (2) dispensed
+contact lenses without such a prescription. Just prior to becoming aware of the
+complaint, the Company had discussed and resolved these very issues with the
+Texas Department of Health ("TDH"), the regulatory authority in Texas for
+sellers of contact lenses like the Company. The Company entered into a written
+settlement agreement with the TDH effective February 29, 2000. The Company has
+filed an answer to the complaint and plans to vigorously defend this action
+should the Texas Optometry Board still choose to pursue it.
+
+ From time to time the Company is involved in other legal matters generally
+incidental to its business.
+
+ It is the opinion of management, after discussion with legal counsel, that
+the ultimate dispositions of these matters will not have a material impact on
+the financial condition, liquidity or results of operations of the Company.
+
+Item 4. Submission of Matters to a Vote of Security Holders.
+
+ No matters were submitted to a vote of the Company's security holders in
+the fourth quarter of fiscal 1999.
+
+ 13
+
+Item 4A. Executive Officers of the Registrant
+
+ The information under this Item is furnished pursuant to Instruction 3 to
+Item 401(b) of Regulation S-K. Executive officers of the Company are elected by
+and serve at the discretion of the Board of Directors.
+
+Name Age Position
+- --------------------------------------------------------------------------------
+Jonathan C. Coon.................... 30 President, Chief Executive
+ Officer and Director
+
+John F. Nichols..................... 39 Vice President, Sales and
+ Director
+
+Scott S. Tanner..................... 39 Chief Operating Officer, Chief
+ Financial Officer and Director
+
+Kevin K. McCallum................... 38 Vice President, Marketing
+
+Jonathan C. Coon is a co-founder of the Company and currently serves as
+President and Chief Executive Officer and Director. Mr. Coon received his
+Bachelor's Degree from Brigham Young University in 1994. Mr. Coon has seven
+years of experience in the contact lens distribution industry.
+
+ John F. Nichols is a co-founder of the Company and currently serves as Vice
+President, Sales and Director. Mr. Nichols is a certified optician in the State
+of California and was the owner of the Discount Lens Club from 1991 until
+February 1995. Mr. Nichols worked with Bausch & Lomb as a Senior Sales
+Representative from 1989 to 1991.
+
+ Scott S. Tanner has served as the Chief Operating Officer of the Company
+since November 1999 and as the Chief Financial Officer and Director since
+November 1997. Prior to joining the Company, Mr. Tanner served as the Chief
+Financial Officer of Country Club Foods, Inc., a Utah-based snack food
+manufacturer and distributor, from 1995 to 1997. Prior thereto, Mr. Tanner
+served in various management positions at Apple Computer, Inc. from 1988 to 1995
+and worked at Peat, Marwick & Mitchell & Co. in San Francisco from 1984 to 1986.
+Mr. Tanner received a Bachelor's Degree from Stanford University and an MBA from
+Harvard University. Mr. Tanner served as an executive officer of Country Club
+Foods, Inc. at the time it filed a voluntary petition under Chapter 11 of the
+United States Bankruptcy Code in November 1995.
+
+ Kevin K. McCallum has served as Vice President, Marketing of the Company
+since March 2000. Prior to joining the Company, Mr. McCallum, a 9-year veteran
+of Procter & Gamble from 1991 to 2000, served as a Director of Marketing for
+several of Proctor & Gamble's global laundry and cleaning brands. Prior thereto,
+Mr. McCallum served as a line officer in the U.S. Navy from 1984 to 1989. Mr.
+McCallum received a Bachelor's Degree from the United States Naval Academy and
+an MBA from the Georgia Institute of Technology.
+
+ 14
+
+PART II
+
+Item 5. Market for the Registrant's Common Equity and Related Stockholder
+ Matters.
+
+Market Information
+
+ The Common Stock is traded on the Nasdaq National Market ("Nasdaq")
+under the symbol "CTAC." The Common Stock commenced trading on February 10,
+1998. The following table sets forth the high and low closing sale prices per
+share for the Common Stock as reported by the Nasdaq for the periods presented:
+
+High Low
+ ------ -----
+ 
+ Year ended January 2, 1999:
+ First Quarter (beginning February 10, 1998)... 20.875 13.563
+ Second Quarter................................ 19.875 13.000
+ Third Quarter................................. 16.375 5.625
+ Fourth Quarter................................ 18.000 4.750
+ Year ended January 1, 2000:
+ First Quarter................................. 17.750 10.625
+ Second Quarter................................ 22.750 16.750
+ Third Quarter................................. 28.500 16.375
+ Fourth Quarter................................ 30.875 23.000
+
+Holders
+
+ As of March 17, 2000, there were approximately 169 holders of record of
+Common Stock. The Company believes that it has a significantly larger number of
+beneficial holders of Common Stock. A recently reported last sale price of the
+Common Stock on the Nasdaq is set forth on the cover page of this report.
+
+Dividends
+
+ The Company anticipates that all of its future earnings will be
+retained to finance the expansion of its business. Any future determination to
+pay dividends will be at the discretion of the Company's Board of Directors and
+will depend upon among other factors, the Company's results of operations,
+financial condition, capital requirements and contractual restrictions. In
+addition, the Credit Facility (as hereinafter defined) prohibits the Company
+from paying any cash dividends on the Common Stock.
+
+ Immediately prior to the consummation of its initial public offering,
+the Company entered into an agreement to distribute to its existing stockholders
+an amount equal to the Company's retained earnings from its formation date
+through the date of the termination of the Company's S corporation status. The
+distribution (net of notes receivable from stockholders of 599,689) was in the
+form of promissory notes, totaling 982,995. These promissory notes were paid in
+full during the first quarter of fiscal 1998. Subsequent to this S corporation
+distribution, the Company has not declared or paid any cash or other dividends
+on its Common Stock and does not expect to pay dividends for the foreseeable
+future.
+
+Recent Sales of Unregistered Securities
+
+ No securities of the Company that were not registered under the
+Securities Act have been issued or sold by the Company within the period covered
+by this report.
+
+ 15
+
+Use of Proceeds from Registered Securities
+
+ A Registration Statement on Form S-1 (File No. 333-41055) (the
+"Registration Statement") registering shares of the Company's Common Stock, par
+value 0.01 per share, filed in connection with the Company's initial public
+offering ("IPO"), was declared effective by the Securities and Exchange
+Commission on February 9, 1998. The IPO commenced on the effective date and
+terminated after all the securities registered under such Registration Statement
+were sold.
+
+ Pursuant to the Registration Statement, the Company sold 2,213,750
+shares of Common Stock (including 288,750 shares sold pursuant to the
+underwriter's over-allotment option) for its own account, for an aggregate
+offering price of 27,671,875, and 316,250 shares of Common Stock (including
+41,250 shares sold pursuant to the underwriter's over-allotment option) for the
+account of the selling stockholder for an aggregate offering price of
+ 3,953,125. The managing underwriters of the IPO were McDonald & Company
+Securities, Inc. and Morgan Keegan & Company, Inc.
+
+ In connection with the IPO, the Company incurred expenses of
+ 2,821,766, including underwriting discounts and commissions of 1,937,031 and
+other expenses of 884,735. After such expenses, the Company's net proceeds from
+the IPO were approximately 24.9 million. Since completion of the IPO, through
+January 1, 2000, the approximate amounts of net offering proceeds used by the
+Company were as follows: (i) 1.0 million for the payment of the S Corporation
+distribution, net of notes receivable from stockholders, (which was paid to the
+shareholders who were shareholders of the Company prior to the IPO, some of whom
+are directors and officers of the Company); (ii) 3.0 million for the repayment
+of debt (a portion of which was repaid to a director of the Company); (iii) 1.9
+million to exercise an option to purchase 442,651 shares of Common Stock from a
+director of the Company (iv) 2.3 million for capital expenditures and (v) 16.7
+million for general corporate purposes, including advertising, inventory and
+other working capital.
+
+ 16
+
+Item 6. Selected Financial Data.
+
+ The financial data as of and for the eleven month period ended December
+31, 1995, and for the years ended December 31, 1996 and 1997, January 2, 1999
+("fiscal 1998") and January 1, 2000 ("fiscal 1999") have been derived from the
+audited financial statements of the Company. The financial data as of and for
+the one month period ended January 1, 1995 is derived from the audited financial
+statements of the Predecessor. The selected financial data below should be read
+in conjunction with the financial statements and the notes thereto of the
+Predecessor and the Company and "Management's Discussion and Analysis of
+Financial Condition and Results of Operations." Such information for the three
+years ended January 1, 2000 is included as part of this Form 10-K.
+
+Predecessor(1) Company
+ ------------- ------------------------------------------------------------------------------
+ One Month February 1, Year Year Year Year
+ Ended 1995 to Ended Ended Ended Ended
+ January 31, December 31, December 31, December 31, January 2, January 1,
+ 1995 1995 1996 1997 1999 2000
+ ------------- -------------------------------------------------------------------------------
+ 
+Statement of Operations Data:
+Net sales 21,552 587,918 3,628,296 21,115,314 59,875,941 98,524,906
+Cost of goods sold 13,069 355,466 2,215,306 14,024,523 37,315,413 59,415,723
+ ----------- --------- ----------- ----------- ----------- -----------
+Gross profit 8,483 232,452 1,412,990 7,090,791 22,560,528 39,109,183
+ ----------- --------- ----------- ----------- ----------- -----------
+Advertising expense - 106,339 468,146 3,485,619 24,206,857 20,238,267
+Other selling, general and
+ administrative expenses 9,369 211,559 573,166 2,459,602 7,334,668 12,001,536
+ ----------- --------- ----------- ----------- ----------- -----------
+Total selling, general and
+ administrative expenses 9,369 317,898 1,041,312 5,945,221 31,541,525 32,239,803
+ ----------- --------- ----------- ----------- ----------- -----------
+Income (loss) from operations (886) (85,446) 371,678 1,145,570 (8,980,997) 6,869,380
+Other income (expense), net - (9,105) (23,315) (113,162) 445,710 (40,552)
+ ----------- --------- ----------- ----------- ----------- -----------
+Income (loss) before benefit
+ (provision) for income taxes (886) (94,551) 348,363 1,032,408 (8,535,287) 6,828,828
+Benefit (provision)
+ for income taxes(2) - 36,402 (134,120) (397,477) 642,679 (701,250)
+ ----------- --------- ----------- ----------- ----------- -----------
+Net income (loss)(2) (886) (58,149) 214,243 634,931 (7,892,608) 6,127,578
+ =========== ========= =========== =========== =========== ===========
+Basic net income (loss)
+ per common share 0.14 (1.27) 0.97
+ =========== =========== ===========
+Diluted net income (loss)
+ per common share(3) 0.13 (1.27) 0.96
+ =========== =========== ===========
+
+Balance Sheet Data (at the end
+ of period):
+Working capital (deficit) 11,762 (12,093) (204,080) (1,621,522) 11,844,537 14,837,002
+Total assets 23,687 243,845 1,156,646 7,781,064 18,016,136 25,053,572
+Total debt (including current
+ portion) - 207,864 370,705 2,759,837 66,877 30,166
+Stockholders' equity (deficit) 21,032 (28,412) 146,359 854,358 14,832,825 18,700,709
+
+____________________
+(1) The financial and operating data of the Predecessor was derived from the
+ financial and operating data of the Discount Lens Club.
+(2) Prior to February 9, 1998, the Company operated as an S corporation and was
+ not subject to federal and certain state income taxes. The benefit
+ (provision) for income taxes and net income (loss) for the periods prior to
+ February 9, 1998 reflect income taxes on a pro forma basis as if the
+ Company had been a C corporation.
+(3) Diluted net income (loss) per common share is based on the weighted average
+ shares of Common Stock and Common Stock equivalents outstanding, including
+ actual shares outstanding and shares deemed to be outstanding using the
+ treasury stock method. The shares deemed to be outstanding for 1997 include
+ the number of shares sufficient to fund the S corporation distribution of
+ approximately 983,000. See "Dividends" under Item 5 of Part II of this
+ Form 10-K.
+
+ 17
+
+Item 7. Management's Discussion and Analysis of Financial Condition and
+ Results of Operations.
+
+Overview
+
+ The Company is a leading direct marketer of replacement contact
+lenses. The Company was formed in February 1995 and is the successor to the mail
+order business founded by the Company's Vice President of Sales in March 1991.
+Since its formation, the Company's net sales have grown rapidly, from 3.6
+million in fiscal 1996 to 98.5 million in fiscal 1999, with Internet sales
+having grown from an insignificant amount in fiscal 1996 to approximately 18.7
+million in fiscal 1999.
+
+ Prior to consummation of its IPO in February 1998, the Company
+operated as an S corporation and, therefore, was not subject to federal or
+certain state income taxes. In connection with the consummation of the IPO, the
+Company revoked its S Corporation status and became subject to federal and state
+income taxes. As a result, the Company recorded a net deferred tax liability and
+the related deferred tax provision of approximately 791,000 for the tax effect
+of the differences between financial statement and income tax basis of assets
+and liabilities that existed at the termination date of the S corporation
+election.
+
+ Effective January 1, 1998, the Company changed from a calendar year
+end to a 52/53 week year ending on the Saturday nearest to December 31. Due to
+this change, fiscal year 1998 represents 52 weeks and 3 days, covering the
+period January 1, 1998 to January 2, 1999.
+
+ During fiscal 1998, the Company began utilizing a variety of new
+advertising vehicles, including an extensive television marketing campaign, new
+print vehicles, Internet and radio spots. As direct-response information became
+available during the fourth quarter of 1998, the Company determined that its
+ability to track individual sales to specific advertising campaigns was
+restricted as a result of the variety of new advertising vehicles utilized.
+Therefore, beginning in the fourth quarter of 1998, the Company began expensing
+all advertising costs, including all direct-mail advertising costs, when the
+advertising first takes place. As a result, quarter-to-quarter comparisons are
+impacted within and between quarters by the timing of television, radio and
+Internet advertisements and by the mailing of the Company's printed
+advertisements. The volume of mailings and other advertising may vary in
+different quarters and from year to year depending on the Company's assessment
+of prevailing market opportunities.
+
+ The sale and delivery of contact lenses are governed by both federal
+and state laws and regulations. The Company sells to customers in all 50 states,
+and each sale is likely to be subject to the laws of the state where the
+customer is located. The Company's operating practice is to attempt to obtain a
+valid prescription from each of its customers or his/her eye care practitioner.
+If the customer does not have a copy of his/her prescription, the Company
+attempts to contact the customer's doctor to obtain a copy of or verify the
+customer's prescription. If the Company is unable to obtain a copy of or verify
+the customer's prescription, it is the Company's practice to complete the sale
+and ship the lenses to the customer based on the prescription information
+provided by the customer. The Company retains copies of the written
+prescriptions that it receives and maintains records of its communications with
+the customer's prescriber. See "Government Regulation" under Item 1 of Part I of
+this Form 10-K.
+
+ 18
+
+Results of Operations
+
+ The following table presents the Company's results of operations
+expressed as a percentage of net sales for the periods indicated:
+
+Year Ended
+ ------------------------------------------------------
+ December 31, January 2, January 1,
+ 1997 1999 2000
+ --------------- --------------- --------------
+ 
+Net sales 100.0 100.0 100.0 
+Cost of goods sold 66.4 62.3 60.3
+ --------------- -------------- --------------
+Gross profit 33.6 37.7 39.7
+ --------------- -------------- --------------
+Advertising expense 16.5 40.4 20.5
+Other selling, general and administrative expenses 11.7 12.3 12.2
+ --------------- -------------- --------------
+Total selling, general and administrative expenses 28.2 52.7 32.7
+ --------------- -------------- --------------
+Income (loss) from operations 5.4 (15.0) 7.0
+Other income (expense), net (0.5) 0.7 (0.1)
+ --------------- -------------- --------------
+Income (loss) before benefit (provision) for income taxes 4.9 (14.3) 6.9
+Benefit (provision) for income taxes (1.9) 1.1 (0.7)
+ --------------- -------------- --------------
+Net income (loss) 3.0 (13.2) 6.2 
+ =============== ============== ==============
+
+Year Ended January 1, 2000 Compared to Year Ended January 2, 1999
+
+ Net sales. Net sales for the year ended January 1, 2000 increased 64 
+to 98.5 million from 59.9 million for the year ended January 2, 1999. The
+Company believes that this increase in net sales reflects some of the benefits
+of its increased television and Internet advertising. Internet sales for fiscal
+1999 were approximately 18.7 million or 19 of net sales as compared to
+approximately 2.3 million or 3.8 of net sales for fiscal 1998. The Company is
+also realizing the benefits of repeat sales from a growing customer base. Repeat
+sales for fiscal 1999 increased 138 to 53.8 million, or 54.6 of net sales,
+from 22.6 million, or 37.7 of net sales, for fiscal 1998. Although the
+Company believes that sales will increase substantially in fiscal 2000 as
+compared to fiscal 1999, the Company expects the rate of growth in net sales to
+decrease.
+
+ Gross profit. Gross profit as a percentage of net sales increased to
+39.7 for the year ended January 1, 2000 from 37.7 for the year ended January
+2, 1999. With the increase in sales, the Company continues to obtain inventory
+at lower costs because of purchase volumes and more competitive pricing
+resulting from access to more vendors. In addition, the Company believes that
+enhanced inventory management techniques have also had a positive impact on
+gross profit.
+
+ Advertising expense. Advertising expense for the year ended January 1,
+2000 decreased 4.0 million, or 16 , from the year ended January 2, 1999. As a
+percentage of net sales, advertising expense decreased to 20.5 for fiscal 1999
+from 40.4 for fiscal 1998. The Company plans to increase advertising spending
+in fiscal 2000 by approximately 15 from its fiscal 1999 spending. However, if
+opportunities present themselves, the Company may increase advertising spending
+above currently planned levels.
+
+ Beginning in the fourth quarter of 1998, the Company began expensing
+all advertising costs, including all direct-mail advertising costs, when the
+advertising first takes place. The Company also determined that for previously
+deferred advertising costs the period during which the future benefits were
+expected to be received was
+
+ 19
+
+shortened. Accordingly, the Company amortized the balance of deferred
+advertising costs at the beginning of the fourth quarter of 1998 over five
+months.
+
+ Other selling, general and administrative expenses. Other selling,
+general and administrative expenses for the year ended January 1, 2000 increased
+ 4.7 million, or 64 , from the year ended January 2, 1999. As a percentage of
+net sales, other selling, general and administrative expenses decreased slightly
+to 12.2 for fiscal 1999 from 12.3 for fiscal 1998.
+
+ Other income (expense), net. Other income (expense) decreased to
+approximately 41,000) for the year ended January 1, 2000 from approximately
+ 446,000 for the year ended January 2, 1999. During fiscal 1999, the Company
+expensed approximately 293,000 in costs related to the Company's cancelled
+common stock offering. In addition, interest income decreased due to lower cash
+balances throughout the year. For fiscal 1999, the decrease in interest income
+was offset by the decrease in interest expense as the majority of the Company's
+debt was paid off during the first quarter of fiscal 1998 with proceeds from the
+IPO.
+
+ Income taxes. The provision for income taxes for the year ended January
+2, 1999 has been determined assuming the Company had been taxed as a C
+Corporation for federal and state income tax purposes for the entire year. The
+Company's effective tax rate for the year ended January 1, 2000 was
+approximately 10.3 , which reflects changes in the valuation allowance as a
+result of utilizing all of its tax operating loss carryforwards. As of January
+1, 2000, the Company had not provided a valuation allowance on deferred tax
+assets. The Company's future effective tax rate will depend upon future taxable
+income, including the exercise of common stock options. The Company anticipates
+that its fiscal 2000 effective income tax rate will be approximately 38 .
+
+Year Ended January 2, 1999 Compared to Year Ended December 31, 1997
+
+ Net sales. Net sales for the year ended January 2, 1999 increased 184 
+to 59.9 million from 21.1 million for the year ended December 31, 1997. The
+Company believes that this increase in net sales reflects some of the benefits
+of its increased television and Internet advertising. The Company is also
+realizing the benefits of repeat sales from a growing customer base. Repeat
+sales in fiscal 1998 reached 22.6 million, exceeding total net sales for fiscal
+1997 of 21.1 million.
+
+ Gross profit. Gross profit as a percentage of net sales increased to
+37.7 for the year ended January 2, 1999 from 33.6 for the year ended December
+31, 1997. With the increase in sales, the Company was able to obtain inventory
+at lower costs because of purchase volumes and more competitive pricing
+resulting from access to more vendors.
+
+ Advertising expense. Advertising expense for the year ended January 2,
+1999 increased 20.7 million, or 594 , from the year ended December 31, 1997. As
+a percentage of net sales, advertising expense was 40.4 in fiscal 1998 as
+compared to 16.5 in fiscal 1997.
+
+ Using the proceeds from its IPO, the Company significantly expanded its
+sales and marketing activities in fiscal 1998 by utilizing a variety of new
+advertising vehicles, including an extensive television marketing campaign, new
+print vehicles, Internet and radio spots. Beginning in the fourth quarter of
+1998, the Company began expensing all advertising costs, including all
+direct-mail advertising costs, when the advertising first takes place. The
+Company also determined that for previously deferred advertising costs the
+period during which the future benefits were expected to be received was
+shortened. Accordingly, the Company amortized the balance of deferred
+advertising costs at the beginning of the fourth quarter of 1998 over five
+months.
+
+ Other selling, general and administrative expenses. Other selling,
+general and administrative expenses for the year ended January 2, 1999 increased
+ 4.9 million, or 198 , from the year ended December 31, 1997. As a
+
+ 20
+
+percentage of net sales, other selling, general and administrative expenses
+increased to 12.3 in fiscal 1998 from 11.7 in fiscal 1997.
+
+ Other income (expense), net. The increase in other income (expense) is
+due to interest income from funds received in the IPO in excess of the interest
+expense incurred prior to the IPO.
+
+ Income taxes. The provision for income taxes has been determined
+assuming the Company had been taxed as a C Corporation for federal and state
+income tax purposes for the year.
+
+Liquidity and Capital Resources
+
+ The Company historically funded its growth through a combination of
+funds generated from operations and borrowings. During February 1998, the
+Company issued 2,213,750 shares of common stock in connection with its IPO,
+which included 288,750 shares pursuant to the underwriters' over-allotment
+option. The proceeds received from the IPO, net of underwriting commissions and
+offering costs, totaled approximately 24.9 million. The Company used these
+funds to enhance growth through increased advertising expenditures and to
+increase inventory levels in anticipation of future sales. In order to help
+ensure sufficient supply of inventory, the Company generally carries a higher
+level of inventory than if it were able to purchase directly from all contact
+lens manufacturers.
+
+ For the years ended January 1, 2000, January 2, 1999 and December 31,
+1997, net cash provided by (used in) operating activities was approximately 5.3
+million, (13.8) million and (1.0) million, respectively. During fiscal 1999,
+cash was provided primarily by net income and increases in accounts payable and
+accrued liabilities offset by an increase in inventories. For fiscal 1998 and
+1997, cash was used primarily to fund the Company's growth as the Company
+increased inventory levels and advertising spending.
+
+ The Company used approximately 2.3 million, 2.0 million and 0.9
+million for investing activities in fiscal 1999, 1998 and 1997, respectively.
+The majority of these amounts relate to capital expenditures for infrastructure
+improvements. Capital expenditures for fiscal 1999 were approximately 1.0
+million. The Company began operations in its new distribution center in February
+1999. This new facility is several times the size of the prior distribution
+center and is strategically located near the Salt Lake City, Utah airport. In
+addition, on May 4, 1999, the Company acquired certain assets of Contact Lenses
+Online, Inc. ("CLO") for 1.2 million in cash, of which 0.9 million was paid
+during fiscal 1999. The assets acquired include the Internet address,
+www.contactlenses.com, various telephone numbers and CLO's customer database.
+The Company also acquired additional Internet addresses for approximately 0.3
+million during fiscal 1999. Capital expenditures for fiscal 1998 were
+approximately 2.0 million. The Company completed the move into its new call
+center during July 1998. In conjunction with the move, the Company acquired new
+telecommunications systems and enhanced its management information systems. For
+fiscal 1997, approximately 0.3 million was used to fund increases in notes
+receivable from shareholders. The Company received payment in full on the notes
+receivable during the first quarter of 1998, as the notes were netted with the S
+Corporation distribution paid during the period. The capital expenditures for
+fiscal 1997 were approximately 0.5 million. The Company anticipates additional
+capital expenditures for infrastructure as it continues to expand and improve
+operating facilities, telecommunications systems and management information
+systems in order to handle future growth. The Company presently anticipates that
+capital expenditures in fiscal 2000 will be approximately 1.4 million.
+
+ As of January 1, 2000, the Company had entered into commitments to
+purchase approximately 15 million of broadcast advertising from October 1999
+through September 2000. The Company can cancel up to 50 percent of the total
+amount committed. As of January 1, 2000, the Company has cancelled approximately
+ 4 million of the amount committed. In addition, the Company has entered into
+certain noncancelable commitments with cooperative mail companies that will
+require the Company to pay approximately 4.2 million for direct mail services
+through December 31, 2000.
+
+ 21
+
+During fiscal 1999, the Company used approximately 2.4 million for
+financing activities. The Company repurchased a total of 185,000 shares of its
+common stock for a total cost of 2,530,286. This was offset slightly by
+proceeds from the exercise of common stock options. For fiscal 1998, net cash of
+approximately 19.6 million was provided by financing activities, resulting from
+net proceeds received from the IPO, offset by repayments of debt, distributions
+to stockholders (S corporation distribution) and repurchase of stock. For fiscal
+1997, net cash of approximately 1.9 million was provided by financing
+activities. These amounts primarily represent borrowings from a stockholder of
+the Company and borrowings under the Credit Facility.
+
+ On October 13, 1998, the Company's Board of Directors authorized a
+repurchase of up to 500,000 shares of its common stock. A purchase of the full
+amount would equal approximately 7.8 percent of the 6,430,568 shares issued. The
+repurchase of common stock is subject to market conditions and is accomplished
+through periodic purchases at prevailing prices on the open market, by block
+purchases or in privately negotiated transactions. The repurchased shares will
+be retained as treasury stock to be used for corporate purposes. On August 13,
+1999, the Company reinstated the share repurchase program, which had been
+suspended as of July 26, 1999. On February 17, 2000, the Company's Board of
+Directors authorized an additional repurchase of up to 500,000 shares of its
+common stock, bringing the total authorization to 1,000,000 shares. A purchase
+of the full incremental 500,000 shares would equal approximately 7.8 percent of
+the total shares issued. A purchase of the full 1,000,000 shares would equal
+approximately 15.6 percent of the total shares issued. Through January 1, 2000,
+the Company had repurchased 200,000 shares for a total cost of 2,611,661.
+Subsequent to year end, the Company repurchased 158,000 shares for a total cost
+of 4,280,588. The repurchases were funded using cash on hand.
+
+ In August 1997, the Company established a revolving credit facility,
+which was most recently amended in September 1999, to provide for working
+capital requirements and other corporate purposes (the "Credit Facility"). The
+Credit Facility, as amended, provides for borrowings equal to the lesser of
+ 10.0 million or 50 percent of eligible inventory and bears interest at a
+floating rate equal to the lender's prime interest rate plus 0.5 percent (9.0
+percent as of January 1, 2000). As of January 1, 2000, the Company had no
+outstanding borrowings under the Credit Facility. The Credit Facility is secured
+by substantially all of the Company's assets and contains financial covenants
+customary for this type of financing. The Credit Facility expires April 30,
+2001.
+
+ The Company believes that its cash on hand, together with cash
+generated from operations and the cash available through the Credit Facility,
+will be sufficient to support current operations and future growth through
+fiscal 2000. The Company may be required to seek additional sources of funds for
+accelerated growth or continued growth after that point, and there can be no
+assurance that such funds will be available on satisfactory terms. Failure to
+obtain such financing could delay or prevent the Company's planned growth, which
+could adversely affect the Company's business, financial condition and results
+of operations.
+
+ As a result of state regulatory requirements, the Company's liquidity,
+capital resources and results of operations may be negatively impacted in the
+future if the Company incurs increased costs or fines, is prohibited from
+selling its products in a particular state(s) or experiences losses of a
+substantial portion of the Company's customers for whom the Company is unable to
+obtain or verify a prescription due to the enforcement of requirements by state
+regulatory agencies.
+
+Forward-Looking Statements
+
+ Except for the historical information contained herein, the matters
+discussed in this Form 10-K are forward-looking statements within the meaning of
+Section 21E of the Securities Exchange Act of 1934, as amended, and Section 27A
+of the Securities Act of 1933, as amended. These forward-looking statements
+involve risks and uncertainties and often depend on assumptions, data or methods
+that may be incorrect or imprecise. The Company's future operating results may
+differ materially from the results discussed in, or implied by, forward-looking
+statements made by the Company. Factors that may cause such differences include,
+but are not limited to, those discussed
+
+ 22
+
+below and the other risks detailed in the Company's other reports filed with the
+Securities and Exchange Commission. The words such as "believes," "anticipates,"
+"expects," "future," "intends," "would," "may" and similar expressions are
+intended to identify forward-looking statements. The Company undertakes no
+obligation to revise any of these forward-looking statements to reflect events
+or circumstances after the date hereof.
+
+Factors That May Affect Future Results
+
+ . The Company's sales growth will not continue at historical rates and it may
+ encounter unforeseen difficulties in managing its future growth;
+
+ . A significant portion of the Company's sales do not comply with applicable
+ state laws and regulations governing the delivery and sale of contact
+ lenses;
+
+ . Because the Company doesn't manufacture contact lenses, it cannot ensure
+ that the contact lenses it sells meet all federal regulatory requirements;
+
+ . It is possible that the FDA will consider certain of the contact lenses the
+ Company sells to be misbranded;
+
+ . The Company currently purchases a substantial portion of its products from
+ unauthorized distributors and is not an authorized distributor for the
+ majority of the products that it sells;
+
+ . The Company obtains a large percentage of its inventory from a limited
+ number of suppliers, with a single distributor accounting for 40 , 47 and
+ 38 of the Company's inventory purchases in 1997, 1998 and 1999,
+ respectively;
+
+ . The Company's quarterly results are likely to vary based upon the level of
+ sales and marketing activity in any particular quarter;
+
+ . The Company is dependent on its telephone, Internet and management
+ information systems for the sale and distribution of contact lenses;
+
+ . The Company has limited operating history and, as a result, there is only
+ limited financial information and operating information available for a
+ potential investor to evaluate the Company;
+
+ . The retail sale of contact lenses is highly competitive; certain of the
+ Company's competitors are large, national optical chains that have greater
+ resources than the Company has;
+
+ . The demand for contact lenses could be substantially reduced if alternative
+ technologies to permanently correct vision gain in popularity;
+
+ . The Company does not have any property rights in the 1-800 CONTACTS
+ telephone number or the Internet addresses that it uses;
+
+ . Increases in the cost of shipping, postage or credit card processing could
+ harm the Company's business;
+
+ . The Company's business could be harmed if it is required to collect state
+ sales tax on the sale of products;
+
+ . The Company faces an inherent risk of exposure to product liability claims
+ in the event that the use of the products it sells results in personal
+ injury;
+
+ 23
+
+. The Company conducts its operations through a single distribution facility;
+
+ . The Company's success is dependent, in part, on continued growth in use of
+ the Internet;
+
+ . Government regulation and legal uncertainties relating to the Internet and
+ online commerce could negatively impact the Company's business operations;
+ and
+
+ . Changing technology could adversely affect the operation of the Company's
+ website.
+
+Seasonality
+
+ The Company does not believe that seasonality has had a material effect on
+its operations.
+
+Inflation
+
+ The Company does not believe that inflation has had a material effect on
+its operations.
+
+Item 7A. Quantitative and Qualitative Disclosure About Market Risk.
+
+ Based on its current operations, the Company believes it is not subject to
+significant market risk. As of January 1, 2000, the Company did not hold any
+market risk sensitive instruments and had no outstanding debt other than a
+capital lease obligation of 30,166. In addition, all of the Company's
+transactions are in U.S. dollars.
+
+Item 8. Financial Statements and Supplementary Data.
+
+ The information required by Item 8 is set forth on pages F-1 through F-21
+of this Form 10-K. The Company is not required to provide the supplementary
+financial information required by Item 302 of Regulation S-K.
+
+Item 9. Changes in and Disagreements With Accountants on Accounting and
+ Financial Disclosure.
+
+ None.
+
+ PART III
+
+Item 10. Directors and Executive Officers of the Registrant.
+
+ Information with respect to Directors of the Company is set forth in the
+Proxy Statement under the heading "Election of Directors," which information is
+incorporated herein by reference. Information regarding the executive officers
+of the Company is included as Item 4A of Part I of this Form 10-K as permitted
+by Instruction 3 to Item 401(b) of Regulation S-K. Information required by Item
+405 of Regulation S-K is set forth in the Proxy Statement under the heading
+"Section 16(a) Beneficial Ownership Reporting Compliance," which information is
+incorporated herein by reference.
+
+Item 11. Executive Compensation.
+
+ Information with respect to executive compensation is set forth in the
+Proxy Statement under the heading "Compensation of Executive Officers," which
+information is incorporated herein by reference (except for the Compensation
+Committee Report on Executive Compensation and the Performance Graph).
+
+ 24
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management.
+
+ Information with respect to security ownership of certain beneficial owners
+and management is set forth in the Proxy Statement under the heading "Beneficial
+Ownership of Common Stock," which information is incorporated herein by
+reference.
+
+Item 13. Certain Relationships and Related Transactions.
+
+ Information with respect to certain relationships and related transactions
+is set forth in the Proxy Statement under the headings "Election of Directors
+- -- Compensation Committee Interlocks and Insider Participation" and "Election of
+Directors -- Certain Relationships and Related Transactions," which information
+is incorporated herein by reference.
+
+ PART IV
+
+Item 14. Exhibits, Financial Statement Schedules, and Reports on Form 8-K.
+
+ (a) The following documents are filed as a part of this report:
+
+ 1. Financial Statements. The following financial statements of the
+ Company and the report of the independent public accountants
+ thereon, are included in this Form 10-K on pages F-1 through F-
+ 21:
+ Report of Independent Public Accountants
+
+ Balance Sheets as of January 2, 1999 and
+ January 1, 2000
+
+ Statements of Operations for the years ended
+ December 31, 1997, January 2, 1999 and
+ January 1, 2000
+
+ Statements of Stockholders' Equity for the
+ years ended December 31, 1997, January 2,
+ 1999 and January 1, 2000
+
+ Statements of Cash Flows for the years ended
+ December 31, 1997, January 2, 1999 and
+ January 1, 2000
+
+ Notes to Financial Statements
+
+ 2. Financial Statement Schedules. All financial statement schedules
+ have been omitted because they are inapplicable or the required
+ information is included or incorporated by reference elsewhere
+ herein.
+
+ 3. Exhibits. The Company will furnish to any eligible stockholder,
+ upon written request of such stockholder, a copy of any exhibit
+ listed below upon the payment of a reasonable fee equal to the
+ Company's expenses in furnishing such exhibit.
+
+ Exhibit
+ No. Exhibit
+ ------- ---------------------------------------------------------------
+ 3.1(i) Restated Certificate of Incorporation of the Company. (1)
+
+ 3.1(ii) Restated By-Laws of the Company. (1)
+
+ 4.1 Form of certificate representing shares of Common Stock, 0.01
+ par value per share. (2)
+
+ 10.1 Employment Agreement between the Company and Jonathan C. Coon.
+ (2) 
+
+ 25
+
+10.2 Employment Agreement between the Company and John F. Nichols.
+ (2) 
+
+ 10.3 Employment Agreement between the Company and Scott S. Tanner.
+ (2) 
+
+ 10.4 Employment Agreement between the Company and Robert G. Hunter.
+ (2) 
+
+ 10.5 1-800 CONTACTS, INC. 1998 Incentive Stock Option Plan. (2) 
+
+ 10.6 Lease between the Company and Draper Land Partnership II, dated
+ September 4, 1996, with respect to the Company's former call
+ center. (2)
+
+ 10.7 Lease between the Company and Draper Land Partnership II, dated
+ November 3, 1997, with respect to the Company's call center.
+ (2)
+
+ 10.8 Lease between the Company and Bird and Saunders, dated January
+ 23, 1998, with respect to the Company's former warehouse. (2)
+
+ 10.9 Revolving Credit Agreement between the Company and Zions First
+ National Bank. (2)
+
+ 10.10 Indemnification Agreement between the Company and its officers
+ and directors. (2)
+
+ 10.11 Agreement for Distribution of Retained Earnings and Tax
+ Indemnification between the Company and the Existing
+ Stockholders. (2)
+
+ 10.12 Lease between the Company and Larry T. Short, dated June 27,
+ 1995, with respect to the 1-800 CONTACTS telephone number. (2)
+
+ 10.13 Stock Option Agreement. (2) 
+
+ 10.14 First Amendment to Lease between the Company and Draper Land
+ Partnership II, dated May 25, 1998, with respect to the
+ Company's call center. (3)
+
+ 10.15 Second Amendment to Lease between the Company and Draper Land
+ Partnership II, dated August 6, 1998, with respect to the
+ Company's call center. (3)
+
+ 10.16 Lease between the Company and ProLogis Development Services
+ Incorporated, dated October 13, 1998, with respect to the
+ Company's distribution center. (3)
+
+ 10.17 Revolving Credit Agreement between the Company and Zions First
+ National Bank, dated October 29, 1998. (3)
+
+ 10.18 First Amendment to Revolving Credit Agreement between the
+ Company and Zions First National Bank, dated September 17,
+ 1999.
+
+ 23.1 Consent of Independent Public Accountants.
+
+ 27.1 Financial Data Schedule.
+
+ --------------------
+ (1) Incorporated by reference to the Company's Quarterly Report on
+ Form 10-Q for the quarterly period ended April 4, 1998
+ (Commission File No. 0-23633).
+ (2) Incorporated by reference to the same numbered exhibit to the
+ Company's Registration Statement on Form S-1 (Registration No.
+ 333-41055).
+ 26
+
+(3) Incorporated by reference to the same numbered exhibit to the
+ Company's Annual Report on Form 10-K for the year ended January
+ 2, 1999(Commission File No. 0-23633).
+
+ Management contract, compensatory plan or arrangement required
+ to be filed as an exhibit pursuant to Item 14(c) of this
+ report.
+
+ (b) Reports on Form 8-K.
+
+ None.
+
+ 27
+
+SIGNATURES
+
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized, on March 31, 2000.
+
+ 1-800 CONTACTS, INC.
+
+By: /s/ Jonathan C. Coon
+ --------------------
+ Name: Jonathan C. Coon
+ Title: President and Chief Executive Officer
+
+ By: /s/ Scott S. Tanner
+ -------------------
+ Name: Scott S. Tanner
+ Title: Chief Operating Officer and Chief
+ Financial Officer
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+Registrant in the capacities indicated on March 31, 2000.
+
+ Signature Capacity
+ --------- --------
+
+ /s/ Jonathan C. Coon President, Chief Executive Officer and
+ --------------------
+ Jonathan C. Coon Director (principal executive officer)
+
+/s/ Scott S. Tanner Chief Operating Officer, Chief Financial
+ -------------------
+ Scott S. Tanner Officer and Director (principal
+ financial officer)
+
+ /s/ Robert G. Hunter Corporate Controller (principal
+ --------------------
+ Robert G. Hunter accounting officer)
+
+/s/ John F. Nichols Director
+ -------------------
+ John F. Nichols
+
+/s/ Stephen A. Yacktman Director
+ -----------------------
+ Stephen A. Yacktman
+
+/s/ E. Dean Butler Director
+ ------------------
+ E. Dean Butler
+
+/s/ Jason S. Subotky Director
+ ---------------------
+ Jason S. Subotky
+
+ 28
+
+INDEX TO FINANCIAL STATEMENTS
+
+Page
+ ----
+
+Report of Independent Public Accountants................................... F-2
+Balance Sheets as of January 2, 1999 and January 1, 2000................... F-3
+Statements of Operations for the years ended December 31, 1997,
+ January 2, 1999 and January 1, 2000...................................... F-5
+Statements of Stockholders' Equity for the years ended December 31, 1997,
+ January 2, 1999 and January 1, 2000...................................... F-6
+Statements of Cash Flows for the years ended December 31, 1997,
+ January 2, 1999 and January 1, 2000...................................... F-7
+Notes to Financial Statements.............................................. F-9
+
+F-1
+
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+To 1-800 CONTACTS, INC.:
+
+ We have audited the accompanying balance sheets of 1-800 CONTACTS, INC. (a
+Delaware corporation) as of January 2, 1999 and January 1, 2000, and the related
+statements of operations, stockholders' equity and cash flows for each of the
+three fiscal years in the period ended January 1, 2000. These financial
+statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+ We conducted our audits in accordance with auditing standards generally
+accepted in the United States. Those standards require that we plan and perform
+the audit to obtain reasonable assurance about whether the financial statements
+are free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements. An
+audit also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+
+ In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of 1-800 CONTACTS, INC. as of
+January 2, 1999 and January 1, 2000, and the results of its operations and its
+cash flows for each of the three fiscal years in the period ended January 1,
+2000 in conformity with accounting principles generally accepted in the United
+States.
+
+ARTHUR ANDERSEN LLP
+
+Salt Lake City, Utah
+ January 31, 2000 (except with respect to certain matters discussed in Notes 5
+ and 14, as to which the date is February 29, 2000)
+
+ F-2
+
+1-800 CONTACTS, INC.
+
+ BALANCE SHEETS
+
+ ASSETS
+
+January 2, January 1,
+ 1999 2000
+ --------------- ---------------
+ 
+CURRENT ASSETS:
+ Cash and cash equivalents 3,762,220 4,329,088
+ Inventories 10,752,324 15,980,169
+ Deferred income taxes - 405,021
+ Other current assets 483,139 475,587
+ --------------- ---------------
+ Total current assets 14,997,683 21,189,865
+ --------------- ---------------
+
+DEFERRED ADVERTISING COSTS 175,631 -
+ --------------- ---------------
+
+PROPERTY AND EQUIPMENT, at cost:
+ Office, computer and other equipment 2,078,102 2,869,263
+ Leasehold improvements 458,341 649,447
+ --------------- ---------------
+ 2,536,443 3,518,710
+ Less - accumulated depreciation and amortization (487,593) (1,252,404)
+ --------------- ---------------
+ Net property and equipment 2,048,850 2,266,306
+ --------------- ---------------
+
+DEFERRED INCOME TAXES 642,679 116,136
+ --------------- ---------------
+INTANGIBLE ASSETS, net of accumulated
+ amortization of 106,628 and 313,890, respectively 72,819 1,394,945
+ --------------- ---------------
+OTHER ASSETS 78,474 86,320
+ --------------- ---------------
+
+ Total assets 18,016,136 25,053,572
+ =============== ===============
+
+The accompanying notes to financial statements
+ are an integral part of these balance sheets.
+
+ F-3
+
+1-800 CONTACTS, INC.
+
+ BALANCE SHEETS (continued)
+
+ LIABILITIES AND STOCKHOLDERS' EQUITY
+
+January 2, January 1,
+ 1999 2000
+ --------------- ----------------
+ 
+CURRENT LIABILITIES:
+ Current portion of capital lease obligation 36,712 30,166
+ Acquisition payable - 300,000
+ Accounts payable 2,056,451 3,059,993
+ Accrued liabilities 890,443 2,192,756
+ Income taxes payable - 447,143
+ Unearned revenue 169,540 322,805
+ --------------- ---------------
+ Total current liabilities 3,153,146 6,352,863
+ --------------- ---------------
+
+CAPITAL LEASE OBLIGATION, less current portion 30,165 -
+ --------------- ---------------
+
+COMMITMENTS AND CONTINGENCIES (Notes 1 and 5)
+
+STOCKHOLDERS' EQUITY:
+ Common stock, .01 par value, 20,000,000
+ shares authorized, 6,430,568 issued 64,306 64,306
+ Additional paid-in capital 23,017,266 23,057,197
+ Accumulated deficit (8,189,072) (2,061,494)
+ Treasury stock at cost, 11,000 and 170,825 shares, respectively (59,675) (2,359,300)
+ --------------- ---------------
+ Total stockholders' equity 14,832,825 18,700,709
+ --------------- ---------------
+
+ Total liabilities and stockholders' equity 18,016,136 25,053,572
+ =============== ===============
+
+The accompanying notes to financial statements
+ are an integral part of these balance sheets.
+
+ F-4
+
+1-800 CONTACTS, INC.
+
+ STATEMENTS OF OPERATIONS
+
+Year Ended
+ -----------------------------------------------------
+ December 31, January 2, January 1,
+ 1997 1999 2000
+ ---------------- --------------- ---------------
+ 
+NET SALES 21,115,314 59,875,941 98,524,906
+COST OF GOODS SOLD 14,024,523 37,315,413 59,415,723
+ ---------------- --------------- ---------------
+ Gross profit 7,090,791 22,560,528 39,109,183
+ ---------------- --------------- ---------------
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES:
+ Advertising expense 3,485,619 24,206,857 20,238,267
+ Other selling, general and administrative expenses 2,459,602 7,334,668 12,001,536
+ ---------------- --------------- ---------------
+ Total selling, general and administrative expenses 5,945,221 31,541,525 32,239,803
+ ---------------- --------------- ---------------
+INCOME (LOSS) FROM OPERATIONS 1,145,570 (8,980,997) 6,869,380
+ ---------------- --------------- ---------------
+OTHER INCOME (EXPENSE):
+ Interest expense (161,520) (104,370) (31,860)
+ Interest income 34,963 553,843 310,185
+ Cancelled offering costs - - (293,059)
+ Other, net 13,395 (3,763) (25,818)
+ ---------------- --------------- ---------------
+ Total other, net (113,162) 445,710 (40,552)
+ ---------------- --------------- ---------------
+INCOME (LOSS) BEFORE BENEFIT
+ (PROVISION) FOR INCOME TAXES 1,032,408 (8,535,287) 6,828,828
+BENEFIT (PROVISION) FOR INCOME TAXES (Note 2) (397,477) 642,679 (701,250)
+ ---------------- --------------- ---------------
+NET INCOME (LOSS) 634,931 (7,892,608) 6,127,578
+ ================ =============== ===============
+
+PER SHARE INFORMATION (Note 2):
+ Basic net income (loss) per common share 0.14 (1.27) 0.97
+ ================ =============== ===============
+ Diluted net income (loss) per common share 0.13 (1.27) 0.96
+ ================ =============== ===============
+
+The accompanying notes to financial statements
+ are an integral part of these statements.
+
+ F-5
+
+1-800 CONTACTS, INC.
+
+ STATEMENTS OF STOCKHOLDERS' EQUITY
+
+Retained Notes
+ Additional Earnings Receivable
+ Common Stock Paid-in (Accumulated) Treasury Stock From
+ ------------------- --------------------
+ Shares Amount Capital (Deficit) Shares Amount Stockholders Total
+ --------- -------- ----------- ----------- -------- ---------- ------------ -----------
+ 
+BALANCE, December 31, 1996 4,659,469 46,595 93,688 253,812 - - (247,736) 146,359
+ Advances to stockholders - - - - - - (324,409) (324,409)
+ Net income - - - 1,032,408 - - - 1,032,408
+ --------- -------- ----------- ----------- -------- ----------- ----------- -----------
+
+BALANCE, December 31, 1997 4,659,469 46,595 93,688 1,286,220 - - (572,145) 854,358
+ Advances to stockholders - - - - - - (27,544) (27,544)
+ Distributions to stockholders, net - - - (1,582,684) - - 599,689 (982,995)
+ Sale of common stock,
+ net of offering costs 2,213,750 22,138 24,827,971 - - - - 24,850,109
+ Repurchase and retirement
+ of common stock (442,651) (4,427) (1,895,573) - - - - (1,900,000)
+ Purchase of treasury shares - - - - (15,000) (81,375) - (81,375)
+ Exercise of common stock options - - (8,820) - 4,000 21,700 - 12,880
+ Net loss - - - (7,892,608) - - - (7,892,608)
+ --------- -------- ----------- ----------- -------- ----------- ---------- -----------
+BALANCE, January 2, 1999 6,430,568 64,306 23,017,266 (8,189,072) (11,000) (59,675) - 14,832,825
+ Purchase of treasury shares - - - - (185,000) (2,530,286) - (2,530,286)
+ Exercise of common stock options - - (92,654) - 25,175 230,661 - 138,007
+ Income tax benefit from common
+ stock options exercise - - 132,585 - - - - 132,585
+ Net income - - - 6,127,578 - - - 6,127,578
+ --------- -------- ----------- ----------- -------- ----------- ----------- -----------
+BALANCE, January 1, 2000 6,430,568 64,306 23,057,197 (2,061,494) (170,825) (2,359,300) - 18,700,709
+ ========= ======== =========== =========== ======== =========== =========== ===========
+
+The accompanying notes to financial statements
+ are an integral part of these statements.
+
+ F-6
+
+1-800 CONTACTS, INC.
+
+ STATEMENTS OF CASH FLOWS
+
+Year Ended
+ -------------------------------------------------
+ December 31, January 2, January 1,
+ 1997 1999 2000
+ --------------- --------------- ---------------
+ 
+CASH FLOWS FROM OPERATING ACTIVITIES:
+ Net income (loss) 1,032,408 (7,892,608) 6,127,578
+ Adjustments to reconcile net income (loss) to net cash
+ provided by (used in) operating activities:
+ Depreciation and amortization 150,933 446,389 992,184
+ Other 20,000 13,762 26,218
+ Deferred income taxes - (642,679) 254,107
+ Changes in operating assets and liabilities:
+ Inventories (4,336,445) (5,940,469) (5,227,845)
+ Other current assets (173,641) (300,475) 7,552
+ Deferred advertising costs (1,311,398) 1,530,064 175,631
+ Accounts payable 3,290,864 (1,705,707) 1,003,542
+ Accrued liabilities 236,639 590,004 1,302,313
+ Income taxes payable - - 447,143
+ Unearned revenue 68,327 65,268 153,265
+ --------------- --------------- ---------------
+ Net cash (used in) provided by operating activities (1,022,313) (13,836,451) 5,261,688
+ --------------- --------------- ---------------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+ Net increase in notes receivable from stockholders (324,409) (27,544) -
+ Purchase of property and equipment (488,244) (2,013,361) (1,019,596)
+ Proceeds from sale of property and equipment - 101,768 -
+ Purchase of intangible assets (50,000) (5,000) (1,238,388)
+ Deposits (40,425) (38,049) (7,846)
+ --------------- --------------- ---------------
+ Net cash used in investing activities (903,078) (1,982,186) (2,265,830)
+ --------------- --------------- ---------------
+
+The accompanying notes to financial statements are an integral
+ part of these statements.
+
+ F-7
+
+1-800 CONTACTS, INC.
+
+ STATEMENTS OF CASH FLOWS (continued)
+
+Year Ended
+ -------------------------------------------------
+ December 31, January 2, January 1,
+ 1997 1999 2000
+ --------------- --------------- ---------------
+ 
+CASH FLOWS FROM FINANCING ACTIVITIES:
+ Sale of common stock, net of underwriting discounts and commissions - 25,734,844 -
+ Common stock offering costs (375,198) (509,537) -
+ Common stock repurchases - (1,981,375) (2,530,286)
+ Proceeds from exercise of common stock options - 12,880 138,007
+ Net (repayments) borrowings on line of credit 1,055,640 (1,055,640) -
+ Borrowings from stockholders 1,800,000 - -
+ Principal payments on notes payable to stockholders (411,212) (1,613,788) -
+ Principal payments on notes payable for distributions to stockholders,
+ net - (982,995) -
+ Principal payments on long-term debt (55,871) - -
+ Principal payments on capital lease obligation (19,425) (23,532) (36,711)
+ Bank overdraft (68,543) - -
+ -------------- -------------- --------------
+ Net cash provided by (used in) financing activities 1,925,391 19,580,857 (2,428,990)
+ -------------- -------------- --------------
+NET INCREASE IN CASH AND CASH EQUIVALENTS - 3,762,220 566,868
+CASH AND CASH EQUIVALENTS AT BEGINNING OF YEAR - - 3,762,220
+ -------------- -------------- --------------
+CASH AND CASH EQUIVALENTS AT END OF YEAR - 3,762,220 4,329,088
+ ============== ============== ==============
+
+SUPPLEMENTAL CASH FLOW INFORMATION:
+ Cash paid for interest 42,699 228,907 33,335
+ Cash paid for income taxes - - 100,000
+
+SUPPLEMENTAL DISCLOSURES OF NONCASH INVESTING AND FINANCING ACTIVITIES:
+
+During the year ended January 2, 1999, the Company distributed 1,582,684 to its
+S Corporation stockholders. This distribution (net of notes receivable from
+stockholders of 599,689) was in the form of promissory notes, totalling
+ 982,995, issued by the Company. The promissory notes were paid in full during
+the year ended January 2, 1999.
+
+During the year ended January 1, 2000, the Company acquired certain intangible
+assets. As of January 1, 2000, the Company had an acquisition payable of
+ 300,000 (see Note 12).
+
+ The accompanying notes to financial statements are an integral
+ part of these statements.
+
+ F-8
+
+1-800 CONTACTS, INC
+
+ NOTES TO FINANCIAL STATEMENTS
+
+NOTE 1. NATURE OF OPERATIONS AND ORGANIZATION OF BUSINESS
+
+ 1-800 CONTACTS, INC., (the "Company") was incorporated in the state of Utah
+in February 1995. The Company was reincorporated in Delaware in February 1998
+in conjunction with its initial public offering of common stock. The Company is
+a direct marketer of replacement contact lenses. The Company sells contact
+lenses primarily through its toll-free telephone number and the Internet.
+
+ Regulatory Compliance
+
+ The Company sells contact lenses to customers in all 50 states and each
+sale is likely to be subject to the laws of the state where the customer is
+located. The laws and regulations governing the delivery and sale of contact
+lenses vary from state to state, but generally can be classified in five
+categories: (i) laws that require contact lenses only be dispensed pursuant to a
+prescription, (ii) laws that require the dispenser to be licensed by the state
+as an optometrist, ophthalmologist or other professional authorized to dispense
+lenses, (iii) laws that require lenses be dispensed only in a face-to-face
+transaction, (iv) laws with requirements that are unclear or do not specifically
+address the sale and delivery of contact lenses; and (v) laws that the Company
+believes place no restrictions on the dispensing of replacement contact lenses.
+The Company's operating practice is to attempt to obtain a valid prescription
+from each of its customers or his/her eye care practitioner. If the customer
+does not have a copy of his/her prescription, the Company attempts to contact
+the customer's doctor to obtain a copy of, or verify the customer's
+prescription. If the Company is unable to obtain a copy of, or verify the
+customer's prescription, it is the Company's practice to complete the sale and
+ship the lenses to the customer, based on the prescription information provided
+by the customer. The Company retains copies of the written prescriptions that it
+receives and maintains records of its communications with the customer's
+prescriber. As a result of this operating practice, certain sales made by the
+Company fail to comply with the applicable statute or regulation in the state in
+which the customer is located. Any action brought against the Company based on
+its failure to comply with applicable state laws and regulations could result in
+significant fines to the Company, the Company being prohibited from making sales
+in a particular state, the Company being required to comply with such laws or
+could constitute a misdemeanor. Such required compliance could result in (i)
+increased costs to the Company, (ii) the loss of a substantial portion of the
+Company's customers for whom the Company is unable to obtain or verify their
+prescription, (iii) the inability to sell to customers at all in a particular
+state if the Company cannot comply with such state's laws and (iv) misdemeanor
+penalties and civil fines. The occurrence of any of the above results could have
+a material adverse effect on the Company's ability to sell contact lenses and
+continue to operate profitably. Furthermore, there can be no assurance that
+states will not enact or impose laws or regulations that prohibit mail order
+dispensing of contact lenses or otherwise impair the Company's ability to sell
+contact lenses and continue to operate profitably.
+
+ From time to time the Company receives notices, inquiries or other
+correspondence from states or their regulatory bodies charged with overseeing
+the sale of contact lenses. The Company's practice is to review such notices
+with legal counsel to determine the appropriate response on a case-by-case
+basis. It is the opinion of management, after discussion with legal counsel,
+that the Company is taking the appropriate steps to address the various notices
+received. See Note 5 for formal complaints filed against the Company concerning
+its business practices.
+
+ The FDA regulates the labeling of medical devices. The contact lenses that
+the Company sells are prescription devices, and therefore contain the statement
+required by FDA regulations: "Caution: Federal law restricts this device to sale
+by or on the order of a _________ (physician or other licensed practitioner)."
+However, because of the difficulty the Company has encountered in obtaining the
+cooperation of eye care practitioners, the Company sometimes sells lenses based
+solely on the prescription information provided by the customer without a
+written prescription or other order by the customer's eye care practitioner.
+Although the FDA has not objected to the sale of contacts lenses without a
+written prescription or other order directly from the customer's eye care
+practitioner, it is possible that the FDA will consider contact lenses that are
+sold in such a fashion to be misbranded. The sale of misbranded devices is
+unlawful under the Federal Food, Drug, and Cosmetic Act, and can result in a
+warning letter,
+
+ F-9
+
+1-800 CONTACTS, INC.
+
+ NOTES TO FINANCIAL STATEMENTS
+
+seizure, injunction, civil penalties, or prosecution. To date, the FDA has not
+taken any such action against the Company.
+
+ Sources of Supply
+
+ Historically, substantially all of the major manufacturers of contact
+lenses have refused to sell lenses directly to direct marketers, including the
+Company, and have sought to prohibit their distributors from doing so. As a
+result, the Company currently purchases a substantial portion of its products
+from unauthorized distributors. The Company is aware that at least one large
+manufacturer of contact lenses puts tracking codes on its products in an effort
+to identify distributors who are selling to direct marketers. The Company is not
+an authorized dealer for many of the products which it sells. In addition, the
+Company believes the price it pays for certain products is sometimes higher than
+those paid by eye care practitioners, retail chains and mass merchandisers, who
+are able to buy directly from the manufacturers of such lenses. There can be no
+assurance that the Company will be able to obtain sufficient quantities of
+contact lenses at competitive prices in the future to meet the existing or
+anticipated demand for its products. Any such inability would have a material
+adverse effect on the Company's business, financial position and results of
+operations.
+
+ Although the Company seeks to reduce its reliance on any one supplier by
+establishing relationships with a number of distributors and other sources, the
+Company purchased from a single distributor approximately 40 percent, 47 percent
+and 38 percent of its contact lens inventory in fiscal 1997, 1998 and 1999,
+respectively. The Company's top three suppliers accounted for approximately 72
+percent, 70 percent and 68 percent of the Company's inventory purchases in
+fiscal 1997, 1998 and 1999, respectively. The Company continually seeks to
+establish new relationships with potential suppliers in order to be able to
+obtain adequate inventory at competitive prices. In the event that these
+suppliers could no longer supply the Company with contact lenses, there can be
+no assurance that the Company could secure other adequate sources of supply, or
+that such supply could be obtained on terms no less favorable to the Company
+than its current supply, which could adversely affect the Company by increasing
+its costs or, in the event adequate replacement supply cannot be secured,
+reducing its net sales.
+
+NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+ Change in Accounting Period
+
+ Effective January 1, 1998, the Company changed from a calendar year end to
+a 52/53 week year, ending on the Saturday nearest to December 31. Due to this
+change, fiscal year 1998 represents 52 weeks and 3 days, covering the period
+January 1, 1998 to January 2, 1999. Fiscal year 1999 ended January 1, 2000 is a
+52 week year.
+
+ Revenue Recognition
+
+ Sales are recognized at the time of shipment to the customer. Payment for
+the product is generally received prior to shipment. As a result, unearned
+revenue represents amounts received from customers for which shipment has not
+occurred. Shipping and handling fees are included as part of net sales. The
+related freight costs associated with shipping products to customers are
+included as a component of cost of goods sold.
+
+ Use of Estimates
+
+ The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities as of the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+
+ F-10
+
+1-800 CONTACTS, INC
+
+ NOTES TO FINANCIAL STATEMENTS
+
+Cash Equivalents
+
+ The Company considers all highly liquid investments purchased with an
+original maturity of three months or less to be cash equivalents.
+
+ Inventories
+
+ Inventories consist of contact lenses and are recorded at the lower of cost
+(using the first-in, first-out method) or market.
+
+ Property and Equipment
+
+ Property and equipment are stated at cost and depreciated using the
+straight-line method over their estimated useful lives ranging from three to
+seven years. Leasehold improvements are amortized over the term of the lease.
+Major additions and improvements are capitalized, while costs for minor
+replacements, maintenance and repairs that do not increase the useful life of an
+asset are expensed as incurred. Upon retirement or other disposition of property
+and equipment, the cost and related accumulated depreciation or amortization are
+removed from the accounts. The resulting gain or loss is reflected in income.
+
+ Advertising Costs
+
+ Prior to the fourth quarter of fiscal 1998, the Company capitalized certain
+direct-mail advertising costs and amortized those costs over the period for
+which the revenues were generated in accordance with Statement of Position
+("SOP") 93-7. Based upon the Company's past direct-response information, the
+Company capitalized direct-mail advertising costs on a cost-pool-by-cost-pool
+approach and amortized those costs over a 12 month period, which was the period
+during which the future benefits were expected to be received. Approximately 73
+percent of capitalized costs were amortized over the first six months after the
+advertisement. Accordingly, deferred advertising costs were amortized in
+proportion to the expected future benefits to be received. The Company expensed
+all other advertising costs when the advertising first occurred.
+
+ At each balance sheet date, the Company evaluated the realizability of
+amounts reported as assets by comparing the carrying amounts of such assets to
+the estimated remaining future net revenues (revenues less direct costs)
+expected to result from the advertisement. To the extent the carrying amounts
+exceeded the remaining future net revenues, the excess was recorded as
+advertising expense in the current period.
+
+ During 1998, the Company began utilizing a variety of new advertising
+vehicles, including new print vehicles, Internet and radio spots, and an
+extensive television marketing campaign. As direct-response information became
+available during the fourth quarter of 1998, the Company determined that its
+ability to track individual sales to specific advertising campaigns was
+restricted as a result of the variety of new advertising vehicles utilized.
+Therefore, beginning in the fourth quarter of 1998, the Company began expensing
+all advertising costs, including all direct-mail advertising costs, when the
+advertising first takes place. The Company also determined that for previously
+deferred advertising costs the period during which the future benefits were
+expected to be received was shortened and accordingly amortized the balance of
+deferred advertising costs at the beginning of the fourth quarter of 1998 over 5
+months.
+
+ Intangible Assets
+
+ Intangible assets mainly consist of amounts paid to secure the rights to
+the Company's telephone numbers and Internet addresses. These costs are
+amortized over an estimated life of 5 years. The Company has contractual rights
+customary to the industry to use its telephone numbers and Internet addresses.
+However, under applicable rules and regulations of the Federal Communications
+Commission, the Company does not have and cannot acquire any
+
+ F-11
+
+1-800 CONTACTS, INC.
+
+ NOTES TO FINANCIAL STATEMENTS
+
+property rights to the telephone numbers. In addition, the Company does not have
+and cannot acquire any property rights to the Internet addresses. The Company
+does not expect to lose the right to use the numbers or Internet addresses,
+however, there can be no assurance in this regard and such loss would have a
+material adverse effect on the Company's financial position and results of
+operations.
+
+ Fair Value of Financial Instruments
+
+ The Company's financial instruments consist mainly of cash and cash
+equivalents and short-term payables. The Company believes that the carrying
+amounts approximate fair value.
+
+ Long-lived Assets
+
+ The Company reviews long-lived assets for impairment whenever events or
+changes in circumstances indicate that the carrying amount of an asset may not
+be recoverable. Recoverability of assets to be held and used is measured by a
+comparison of the carrying amount of an asset to future net cash flows expected
+to be generated by the asset. If such assets are considered to be impaired, the
+impairment to be recognized is measured by the amount by which the carrying
+amount of the assets exceeds the fair value of the assets.
+
+ Income Taxes
+
+ The Company recognizes deferred tax assets or liabilities for expected
+future tax consequences of events that have been recognized in the financial
+statements or tax returns. Under this method, deferred tax assets or liabilities
+are determined based upon the difference between the financial statement and
+income tax bases of assets and liabilities using enacted tax rates expected to
+apply when differences are expected to be settled or realized.
+
+ Prior to February 9, 1998, the Company had elected for federal and state
+income tax purposes to include its taxable income with that of its shareholders
+(an S Corporation election). For the years ended December 31, 1997 and January
+2, 1999, the net income (loss) presents the pro forma effects on historical net
+income (loss) adjusted for a pro forma provision for income taxes. The provision
+for income taxes for the years ended December 31, 1997 and January 2, 1999 have
+been determined assuming the Company had been taxed as a C corporation for
+federal and state income tax purposes for the entire year.
+
+ Net Income (Loss) Per Common Share
+
+ Basic net income (loss) per common share ("Basic EPS") excludes dilution
+and is computed by dividing net income (loss) by the weighted-average number of
+common shares outstanding during the period. Diluted net income (loss) per
+common share ("Diluted EPS") reflects the potential dilution that could occur if
+stock options or other common stock equivalents were exercised or converted into
+common stock. The computation of Diluted EPS does not assume exercise or
+conversion of securities that would have an antidilutive effect on net income
+(loss) per common share.
+
+ The Basic and Diluted EPS for the year ended December 31, 1997 give effect
+to the pro forma effects on historical net income adjusted for a pro forma
+provision for income taxes assuming the Company had been taxed as a C
+Corporation for federal and state income tax purposes. In addition, it takes
+into consideration the shares deemed to be outstanding at the initial public
+offering price of 12.50 per share, sufficient to fund the S Corporation
+distribution of approximately 983,000 (see Note 9), which resulted in 78,640
+shares assumed to be outstanding for the year.
+
+ The Basic and Diluted EPS for the year ended January 2, 1999 give effect to
+the pro forma effects on historical net loss adjusted for a pro forma benefit
+for income taxes assuming the Company had been taxed as a C Corporation for
+federal and state income tax purposes for the entire year.
+
+ F-12
+
+1-800 CONTACTS
+
+ NOTES TO FINANCIAL STATEMENTS
+
+ The following is a reconciliation of the numerator and denominator used to
+calculate Basic and Diluted EPS:
+
+Net Per-Share
+ Income
+ (Loss) Shares Amount
+ --------- -------- ------------
+
+Year Ended December 31, 1997 (pro forma):
+ Basic EPS 634,931 4,659,469 0.14
+ Effect of stock options 20,782
+ Assumed distribution 78,640
+ ----------------- ------------ ----------------
+ Diluted EPS 634,931 4,758,891 0.13
+ ================= ============ ================
+
+Year Ended January 2, 1999 (pro forma):
+ Basic EPS (7,892,608) 6,227,640 (1.27)
+ Effect of stock options
+ ----------------- ------------ ----------------
+ Diluted EPS (7,892,608) 6,227,640 (1.27)
+ ================= ============ ================
+
+Year Ended January 1, 2000:
+ Basic EPS 6,127,578 6,298,264 0.97
+ Effect of stock options 80,998
+ ----------------- ------------ ----------------
+ Diluted EPS 6,127,578 6,379,262 0.96
+ ================= ============ ================
+
+At January 2, 1999, there were outstanding options to purchase 223,010
+shares of common stock that were not included in the computation of Diluted EPS
+because they would be antidilutive.
+
+ Reclassifications
+
+ Certain amounts in prior years' financial statements have been reclassified
+to conform to the fiscal 1999 presentation.
+
+NOTE 3. LINE OF CREDIT
+
+ Line of Credit
+
+ The Company has a revolving credit facility that provides for borrowings
+equal to the lesser of 10.0 million or 50 percent of eligible inventory. The
+credit facility bears interest at a floating rate equal to the lender's prime
+interest rate plus 0.5 percent (9.0 percent at January 1, 2000). As of January
+1, 2000, the Company had no outstanding borrowings. The credit facility is
+secured by substantially all of the Company's assets and expires April 30, 2001.
+
+ The credit facility contains various affirmative and negative covenants
+which require, among other things, restrictions on additional debt, minimum
+levels for net income (loss), maintenance of certain working capital levels and
+restrictions on distributions and changes in ownership. As of January 1, 2000,
+the Company was in compliance with these covenants.
+
+ F-13
+
+1-800 CONTACTS, INC
+
+ NOTES TO FINANCIAL STATEMENTS
+
+NOTE 4. NOTES PAYABLE TO STOCKHOLDERS
+
+ Long Term
+
+ In February 1996, the Company entered into a credit agreement with a
+stockholder that provided for maximum borrowings of 250,000. The borrowings
+accrued interest at the prime rate plus 2 percent. As of December 31, 1997,
+outstanding borrowings totaled 243,788. During 1998, this amount was paid in
+full with proceeds from the Company's initial public offering of common stock.
+
+ Short Term
+
+ In May 1997, the Company borrowed 250,000 from a stockholder that was
+repaid prior to December 31, 1997.
+
+ In May 1997, the Company borrowed 600,000 from a stockholder under a
+short-term promissory note. The note accrued interest at the prime rate plus 2
+percent and was due in November 1997. In July 1997, the Company repaid 100,000
+on the note and refinanced the remaining 500,000 plus borrowed an additional
+ 600,000 from the stockholder under a new short-term promissory note. The total
+ 1,100,000 unsecured note payable accrued interest at prime plus 2 percent and
+was due July 30, 1998. As consideration for entering into this note, the Company
+agreed to modify the option it held to repurchase the stockholder's common
+stock. Under the revised terms of the option, the Company had the right to
+repurchase 442,651 shares of the stockholder's common stock for 1,900,000 prior
+to February 1, 2001 (see Note 6).
+
+ In September 1997, the Company borrowed 250,000 from a stockholder under a
+short-term, unsecured promissory note. The note accrued interest at prime plus 2
+percent and was due in September 1998. In addition, for every month the note was
+outstanding, a fee of 5,000 was added to the outstanding balance and expensed
+as additional interest.
+
+ During 1998, all amounts owed to stockholders were paid in full with
+proceeds from the Company's initial public offering of common stock.
+
+NOTE 5. COMMITMENTS AND CONTINGENCIES
+
+ Legal and Regulatory Matters
+
+ On July 14, 1998, Craig S. Steinberg, O.D., a professional corporation
+d.b.a. City Eyes Optometry Center, filed a purported class action on behalf of
+all California optometrists against the Company and its directors in Los Angeles
+County Superior Court. The complaint alleged three separate causes of action
+for unfair competition: (i) selling contact lenses to California residents
+without being registered, (ii) selling contact lenses to California residents
+without verifying the prescription and (iii) failing to disclose in its
+advertising that it sells "sample" lenses not intended for sale to the public.
+The complaint requested various forms of relief, including damages of an
+unspecified amount, attorney's fees and a permanent injunction. The Company
+removed the action to the United States District Court for the Central District
+of California. Plaintiff and another California optometrist, Ellis Miles,
+(collectively "plaintiffs") filed a First Amended Complaint ("FAC") against the
+Company and its directors on or about September 3, 1998 purporting to sue on
+behalf of the public under California's unfair competition statute rather than
+as a class action on behalf of optometrists. Although the substantive claims
+for unfair competition remain the same, the FAC seeks injunctive relief and
+restitution rather than damages. Plaintiffs also dismissed the Company's
+directors as defendants, leaving the Company as the only remaining defendant.
+The Company has filed its Answer to the FAC and intends to vigorously defend
+itself in this action. The parties agreed to remand the case to Los Angeles
+County Superior Court based upon plaintiffs' stipulation that they no longer
+seek monetary relief on
+
+ F-14
+
+1-800 CONTACTS, INC.
+
+ NOTES TO FINANCIAL STATEMENTS
+
+behalf of themselves or other optometrists. The Court remanded the case to Los
+Angeles County Superior Court in August 1999.
+
+ On April 7, 1999 the Kansas Board of Examiners in Optometry commenced a
+civil action against the Company. The action was filed in the District Court of
+Shawnee County, Kansas, Division 6. The complaint was amended on May 28, 1999.
+The amended complaint alleges that on "one or more occasions" the Company sold
+contact lenses in the state of Kansas without receipt or verification of a
+prescription. The amended complaint seeks the issuance of an order enjoining the
+Company from further engaging in the alleged activity. The amended complaint
+does not seek monetary damages. In response to the amended complaint, the
+Company has retained counsel and intends to vigorously defend itself in this
+action. The Company has filed an answer to the amended complaint. In addition,
+the Company has filed a motion for summary judgment, asking the court to dismiss
+the action and enter judgment in its favor.
+
+ On or about November 2, 1999, the Company received a complaint from the
+Texas Optometry Board seeking injunctive relief and civil penalties against the
+Company for alleged violation of the Texas Optometry Act. The complaint alleges
+that the Company (1) failed to state explicitly in its advertisements that a
+written prescription is required to purchase contact lenses and (2) dispensed
+contact lenses without such a prescription. Just prior to becoming aware of the
+complaint, the Company had discussed and resolved these very issues with the
+Texas Department of Health ("TDH"), the regulatory authority in Texas for
+sellers of contact lenses like the Company. The Company entered into a written
+settlement agreement with the TDH effective February 29, 2000. The Company has
+filed an answer to the complaint and plans to vigorously defend this action
+should the Texas Optometry Board still choose to pursue it.
+
+ From time to time the Company is involved in other legal matters generally
+incidental to its business.
+
+ It is the opinion of management, after discussion with legal counsel, that
+the ultimate dispositions of these matters will not have a material impact on
+the financial condition, liquidity or results of operations of the Company.
+
+ See Note 1 for a discussion of regulatory matters.
+
+ Capital Lease Obligation
+
+ The Company leases the rights to use its telephone number from an
+individual under a capital lease arrangement. At the end of the lease, the
+Company has the option to purchase the interest in the telephone number for
+ 17,500. For fiscal year 2000, the minimum future lease payments under the
+capital lease, including the option to purchase the interest for 17,500, are
+ 31,500 of which 1,334 represents interest.
+
+ Operating Leases
+
+ The Company leases office and warehouse facilities and certain equipment
+under noncancelable operating leases. Lease expense for the years ended
+December 31, 1997, January 2, 1999 and January 1, 2000 totaled approximately
+ 88,000, 377,000 and 784,000, respectively.
+
+ F-15
+
+1-800 CONTACTS, INC
+
+ NOTES TO FINANCIAL STATEMENTS
+
+Future minimum lease payments under noncancelable operating leases are
+as follows:
+
+Fiscal Year Amount
+ ----------- ----------
+ 
+ 2000 750,938
+ 2001 765,144
+ 2002 608,945
+ 2003 601,829
+ 2004 464,073
+ Thereafter 195,799
+ ----------
+ 3,386,728
+ ==========
+
+Sales Tax
+
+ The Company's direct mail business is located, and all of its operations
+are conducted, in the state of Utah. At January 1, 2000, the Company did not
+collect sales or other similar taxes for any out-of-state sales. However,
+various states have sought to impose state sales tax collection obligations on
+out-of-state mail-order companies, such as the Company. The U.S. Supreme Court
+has held that the various states, absent Congressional legislation, may not
+impose tax collection obligations on an out-of-state mail order company whose
+only contacts with the taxing state are the distribution of advertising
+materials through the mail, and whose subsequent delivery of purchased goods is
+by mail or interstate common carriers. The Company has not received an
+assessment from any state. The Company anticipates that any legislative changes,
+if adopted, would be applied on a prospective basis.
+
+ Advertising Commitments
+
+ The Company has entered into certain commitments to purchase approximately
+ 15 million of broadcast advertising from October 1999 through September 2000.
+The Company can cancel up to 50 percent of the total amount committed. As of
+January 1, 2000, the Company has cancelled approximately 4 million of the
+amount committed.
+
+ In addition, the Company has entered into certain noncancelable commitments
+with cooperative mail companies that will require the Company to pay
+approximately 4.2 million for direct mail services through December 31, 2000.
+
+NOTE 6. COMMON STOCK TRANSACTIONS
+
+ In fiscal 1998, in connection with the filing of an effective Form S-1
+Registration Statement and a reincorporation in the state of Delaware, the Board
+of Directors and stockholders approved a 414.175 for 1 stock split and a change
+in the authorized common stock to 20,000,000 shares at 0.01 par value per
+share. This stock split and change in authorized common stock have been
+retroactively reflected in the accompanying financial statements.
+
+ During February 1998, the Company completed its initial public offering of
+common stock. In connection therewith, the Company issued 2,213,750 shares of
+common stock, which included 288,750 shares issued pursuant to the underwriters'
+over-allotment option. The proceeds received from the offering, net of
+underwriting commissions and offering costs, totaled approximately 24,850,000.
+
+ The Company exercised its rights to repurchase 442,651 shares of its
+outstanding common stock for 1,900,000 (see Note 4).
+
+ F-16
+
+1-800 CONTACTS, INC.
+ NOTES TO FINANCIAL STATEMENTS
+
+On October 13, 1998, the Company's Board of Directors authorized a
+repurchase of up to 500,000 shares of its common stock. A purchase of the full
+amount would equal approximately 7.8 percent of the total shares issued. The
+repurchase of common stock is subject to market conditions and is accomplished
+through periodic purchases at prevailing prices on the open market, by block
+purchases or in privately negotiated transactions. The repurchased shares will
+be retained as treasury stock to be used for corporate purposes. On August 13,
+1999, the Company reinstated the share repurchase program, which had been
+suspended as of July 26, 1999. As of January 1, 2000, the Company has
+repurchased 200,000 shares for a total cost of 2,611,661. The Company
+repurchased 15,000 shares for a total cost of 81,375 in fiscal 1998 and 185,000
+shares for a total cost of 2,530,286 in fiscal 1999. See Note 14 for share
+repurchases subsequent to year end and for additional shares authorized to be
+repurchased subsequent to year end.
+
+NOTE 7. STOCK OPTIONS AND STOCK OPTION PLAN
+
+ During fiscal 1998, the Company established a nonqualified and incentive
+stock option plan. The plan provides for the issuance of a maximum of 310,000
+shares of common stock to officers, directors and consultants and other key
+employees. Incentive stock options and nonqualified options are granted at not
+less than 100 percent of the fair market value of the underlying common stock on
+the date of grant. As of January 1, 2000, 244,919 shares are available for
+future granting.
+
+ Prior to the establishment of the stock option plan, the Company issued
+nonqualified stock options to various key employees, a consultant and a director
+of the Company. During the year ended December 31, 1997, the Company issued
+nonqualified stock options to an employee to purchase 4,799 shares of common
+stock at an exercise price of 8.16 and nonqualified stock options to two
+employees to purchase an aggregate of 67,181 shares at 11 per share. The
+Company also issued nonqualified stock options to a consultant in February 1997
+to purchase 19,195 shares of common stock at an exercise price of 4.70. In
+January 1998, the Company granted nonqualified stock options to purchase 71,979
+shares of common stock at 11 per share to a director of the Company. All
+options granted through January 1, 2000 vest equally over a three year period
+and expire in ten years.
+
+ A summary of stock option activity is as follows:
+
+Weighted
+ Average
+ Exercise
+ Price Per
+ Shares Share
+ --------------- ----------------
+ 
+ Outstanding at December 31, 1996 47,986 3.22
+ Granted 91,175 9.52
+ ---------------
+ Outstanding at December 31, 1997 139,161 7.35
+ Granted 89,369 11.22
+ Exercised (4,000) 3.22
+ Forfeited (1,520) 12.50
+ ---------------
+ Outstanding at January 2, 1999 223,010 8.94
+ Granted 56,680 12.51
+ Exercised (25,175) 5.48
+ Forfeited (7,469) 12.56
+ ---------------
+ Outstanding at January 1, 2000 247,046 10.00
+ ===============
+ Exercisable at January 1, 2000 108,745 8.36
+ ===============
+
+F-17
+
+1-800 CONTACTS, INC.
+
+ NOTES TO FINANCIAL STATEMENTS
+
+ The following is additional information with respect to stock options:
+
+Outstanding Weighted-Average Exercisable
+ Range of as of Remaining Weighted-Average as of Weighted-Average
+Exercise Prices January 1, 2000 Contractual Life Exercise Price January 1, 2000 Exercise Price
+- --------------- --------------- ---------------- -------------- --------------- --------------
+ 
+ 3.18 - 4.76 41,585 6.9 3.45 35,187 3.22
+ 4.77 - 6.35 3,000 8.7 5.63 1,000 5.63
+ 7.94 - 9.52 4,799 7.5 8.16 3,199 8.16
+ 9.53 - 11.11 141,160 8.0 11.00 68,781 11.00
+ 11.12 - 12.70 53,169 9.0 12.53 578 12.50
+ 14.29 - 15.88 3,333 8.5 15.88 - -
+ ------- ---------
+ 247,046 8.0 10.00 108,745 8.36
+ ======= =========
+
+The Company applies APB No. 25 and related interpretations in accounting for
+its stock option grants to employees. Accordingly, no compensation expense has
+been recognized for these stock option grants. Had compensation expense for the
+Company's employee stock option grants been determined in accordance with SFAS
+No. 123, the Company's net income (loss) and diluted net income (loss) per
+common share for the years ended December 31, 1997, January 2, 1999 and January
+1, 2000 would have been reduced to the pro forma amounts indicated below:
+
+Fiscal Year
+ ----------------------------------
+ 1997 1998 1999
+ ---- ---- ----
+ 
+ Net income (loss):
+ As reported............................... 634,931 (7,892,608) 6,127,578
+ Pro forma................................. 617,785 (8,070,562) 5,864,847
+
+ Diluted net income (loss) per common share:
+ As reported............................... 0.13 (1.27) 0.96
+ Pro forma................................. 0.13 (1.30) 0.92
+
+Due to the nature and timing of options grants, the resulting pro forma
+compensation cost may not be indicative of future years.
+
+ The fair value of each option grant has been estimated on the grant date
+using the Black-Scholes option-pricing model with the following assumptions:
+weighted average risk-free interest rate of 6.5 percent for 1997 grants, 5.6
+percent for 1998 grants and 5.4 percent for 1999 grants; expected stock price
+volatility of approximately 0 percent for 1997 grants, 78 percent for 1998
+grants and 75 percent for 1999 grants; an expected dividend yield of 0 percent
+for all grants and an expected life of five years for all grants. The weighted
+average fair value of options granted during fiscal years 1997, 1998 and 1999
+was 2.64, 7.53, and 8.15 per share, respectively.
+
+ See Note 14 for stock options granted subsequent to year end.
+
+NOTE 8. RELATED PARTY TRANSACTIONS
+
+ During fiscal 1997 and 1998, the Company made aggregate loans to two
+stockholders totaling 289,473 and 22,300, respectively. The loans were
+unsecured, accrued interest at the prime rate and were due on demand. Interest
+income on the loans totaled 34,936 and 5,244, respectively, for the years
+ended December 31, 1997 and January 2, 1999. As of December 31, 1997 notes
+receivable from stockholders totaled 572,145. During fiscal
+
+ F-18
+
+1-800 CONTACTS, INC.
+
+ NOTES TO FINANCIAL STATEMENTS
+
+1998, the Company made equity distributions to the stockholders sufficient to
+allow for their repayment on these notes. See Notes 4 and 14 for a discussion of
+other related party transactions.
+
+NOTE 9. DISTRIBUTIONS TO STOCKHOLDERS
+
+ Prior to the consummation of its initial public offering in February 1998,
+the Company entered into an agreement for the distribution of retained earnings
+and tax indemnification with the existing stockholders. Pursuant to the
+agreement, an S Corporation distribution of 982,995 (net of notes receivable
+due from stockholders of 599,689) was distributed in the form of promissory
+notes issued by the Company. The notes were paid in full after the closing of
+the offering. The agreement provided for, among other things, the
+indemnification of the existing stockholders for any losses or liabilities with
+respect to any additional taxes (including interest, penalties and legal fees)
+and the repayment to the Company of amounts received as refunds, resulting from
+the Company's operations during the period in which it was an S Corporation. No
+amounts are currently payable, or anticipated to be payable, or receivable, or
+anticipated to be receivable under the agreement. The existing stockholders were
+indemnified by the Company with respect to federal and state income tax
+liabilities as a result of an adjustment to the Company's taxable income which
+increases the tax liability to the existing stockholders for taxable periods
+ending prior to the termination of the S corporation status. In addition, the
+existing stockholders indemnified the Company with respect to any federal and
+state tax liabilities as a result of an adjustment which decreases the existing
+stockholders' tax liability for taxable periods ending prior to the termination
+of the Company's S corporation status and correspondingly increases the tax
+liability of the Company for a taxable period commencing on or after the
+termination of the Company's S corporation status.
+
+NOTE 10. INCOME TAXES
+
+ Effective February 9, 1998 the Company's S corporation election was
+terminated. As a result, the Company recorded a net deferred tax liability and
+the related deferred tax provision of approximately 791,000 for the tax effect
+of the differences between financial statement and income tax basis of assets
+and liabilities that existed at the termination date of the S corporation
+election.
+
+ The components of the provision for income taxes for the year ended January
+2, 1999 since the termination of the S corporation status and for the year ended
+January 1, 2000 are as follows:
+
+Fiscal Year
+ ------------------------
+ 1998 1999
+ ---- ----
+ 
+ Current provision:
+ Federal.................................................. - (387,204)
+ State.................................................... - (59,939)
+ ----------- -----------
+ Total current provision for income taxes............. - (447,143)
+ ----------- -----------
+ Deferred benefit (provision):
+ Federal.................................................. 2,864,270 (1,728,208)
+ State.................................................... 443,386 (267,525)
+ Change in valuation allowance............................ (1,874,211) 1,741,626
+ Change from S corporation status......................... (790,766) -
+ ----------- -----------
+ Total deferred benefit (provision) for income taxes.. 642,679 (254,107)
+ ----------- -----------
+
+ Total benefit (provision) for income taxes.................. 642,679 (701,250)
+ =========== ===========
+
+During fiscal year 1999, the Company reduced the valuation allowance an
+additional 132,585 and increased additional paid-in capital from common stock
+to recognize the tax benefit from common stock options exercised.
+
+ F-19
+
+1-800 CONTACTS, INC.
+
+ NOTES TO FINANCIAL STATEMENTS
+
+ The following is a reconciliation between the statutory federal income tax
+rate and the Company's effective income tax rate which is derived by dividing
+the benefit (provision) for income taxes by income (loss) before benefit
+(provision) for income taxes for the years ended January 2, 1999 and January 1,
+2000:
+
+ Fiscal Year
+ -----------
+ 1998 1999
+ ---- ----
+ Statutory federal income tax rate....... 34.0 (34.0) 
+ State income taxes, net of
+ federal benefit......................... 3.3 (3.3)
+ Change from S corporation status........ (8.0) -
+ Valuation allowance..................... (22.0) 27.3
+ Other................................... 0.2 (0.3)
+ ----- -----
+ 7.5 (10.3) 
+ ===== ====
+
+ The components of the deferred tax assets and liabilities at January 2,
+1999 and January 1, 2000 are as follows:
+
+ January 2, January 1,
+ 1999 2000
+ ---- ----
+ Deferred income tax assets:
+ Operating loss carryforward.... 2,357,190 -
+ Accrued reserves............... 176,429 346,890
+ Depreciation................... - 39,615
+ Intangibles amortization....... 23,741 76,521
+ Other.......................... 33,645 58,131
+ --------- -------
+ 2,591,005 521,157
+ Valuation allowance (1,874,211) -
+ ----------- --------
+ 716,794 521,157
+ ----------- --------
+ Deferred income tax liabilities:
+ Deferred advertising costs..... (65,510) -
+ Depreciation................... (8,605) -
+ ----------- --------
+ (74,115) -
+ ----------- --------
+
+ Net deferred income tax asset..... 642,679 521,157
+ =========== ========
+
+ A valuation allowance is provided when it is more likely than not that all
+or some portion of the deferred tax assets will not be realized. Due to the
+uncertainty with respect to the ultimate realization, the Company established a
+valuation allowance for a portion of the deferred tax assets at January 2, 1999.
+The Company did not have a valuation allowance at January 1, 2000. During fiscal
+1999, the Company reversed its valuation allowance due to the profitability of
+the Company and utilization of its net operating loss carryforwards. The amount
+of the net deferred tax assets considered realizable, however, could change in
+the near term based on changing conditions.
+
+NOTE 11. PREFERRED STOCK
+
+ The Company has 1,000,000 shares authorized of .01 par value preferred
+stock. For the years ended December 31, 1997, January 2, 1999 and January 1,
+2000 no shares were issued or outstanding.
+
+NOTE 12. ASSET ACQUISITION
+
+ In May 1999, the Company acquired certain assets of Contact Lenses
+Online, Inc. ("CLO") for 1.2 million in cash to be paid as follows: 600,000 on
+the closing date, 300,000 six months after the closing date and 300,000
+
+ F-20
+
+1-800 CONTACTS, INC.
+
+ NOTES TO FINANCIAL STATEMENTS
+
+one year after the closing date. The assets acquired include the Internet
+address www.contactlenses.com, various telephone numbers and CLO's customer
+database which are included in intangible assets and amortized over an estimated
+life of 5 years.
+
+NOTE 13. RETIREMENT AND SAVINGS PLAN
+
+ Effective January 1, 2000, the Company established a 401(k) plan covering
+substantially all of its employees. Eligible employees may contribute, through
+payroll deductions, up to 15 percent of their eligible compensation, but not
+more that the statutory limits. The Company contributes fifty cents for each
+dollar a participant contributes, with a maximum Company contribution of three
+percent of a participant's eligible compensation. No Company contributions were
+made during the year ended January 1, 2000.
+
+NOTE 14. SUBSEQUENT EVENTS
+
+ Stock Options
+
+ Subsequent to year end, the Company granted nonqualified stock options to
+purchase 98,798 shares of common stock at 28 per share to employees and
+directors of the Company. The options vest equally over a four year period and
+expire in ten years.
+
+ Stock Repurchases
+
+ In January and February 2000, the Company repurchased a total of 158,000
+shares of its common stock for a total cost of 4,280,588.
+
+ On February 17, 2000, the Company's Board of Directors authorized an
+additional repurchase of up to 500,000 shares of its common stock, bringing the
+total authorization to 1,000,000 shares (see Note 6). A purchase of the full
+incremental 500,000 shares would equal approximately 7.8 percent of the total
+shares issued. A purchase of the full 1,000,000 shares would equal approximately
+15.6 percent of the total shares issued. The repurchase of common stock is
+subject to market conditions and is accomplished through periodic purchases at
+prevailing prices on the open market, by block purchases or in privately
+negotiated transactions. The repurchased shares will be retained as treasury
+stock to be used for corporate purposes. Through February 2000, the Company has
+repurchased 358,000 shares for a total cost of 6,892,249.
+
+ Related Party Transaction
+
+ Subsequent to year end, the Company made a 220,000 investment in an
+entity in which a member of the Company's Board of Directors holds a significant
+ownership interest and serves as an officer and director.
+
+ F-21
+
+<EX-10.18>
+ 2
+ FIRST AMENDMENT TO LOAN AGREEMENT
+
+FIRST AMENDMENT TO LOAN AGREEMENT
+
+This First Amendment to Loan Agreement (the "Amendment") is executed this
+17th day of September, 1999, by and between 1-800 Contacts, Inc. also known as
+1-800 Contacts, (Delaware), Inc. ("Borrower") and ZIONS NATIONAL BANK (the
+"Lender").
+
+ WHEREAS, Borrower and Lender entered into that certain Loan Agreement dated
+October 29, 1998, which provided, among other things, for Lender to extend a
+Revolving Line of Credit in the maximum principal amount of Five Million and
+00/100 Dollars 5,000,000.00) (the "Loan Agreement"); and
+
+ WHEREAS, Borrower has requested Lender to renew and increase the promissory
+note from 5,000,000.00 to 10,000,000.00 and amend certain financial covenants,
+and;
+
+ WHEREAS, Lender has agreed to such request provided, among other things,
+Borrower executes and delivers this Amendment.
+
+ NOW, THEREFORE, for valuable consideration, the receipt and sufficiency of
+which are hereby acknowledged, the Loan Agreement is hereby amended as follows:
+
+ 1. The section entitled "Borrowing Base" is hereby deleted in its
+ entirety and replaced as follows:
+
+ Borrowing Base. The words "Borrowing Base" mean as determined by
+ Lender from time to time, the lesser of (a) 10,000,000.00; or (b)
+ 50.000 of the aggregate amount of Eligible Inventory. Eligible
+ Inventory is defined as Inventory that has not yet expired.
+
+ 2. The section entitled "Working Capital" is hereby deleted in its
+ entirety and replaced as follows:
+
+ Working Capital. Maintain Working Capital in excess of 8,000,000.00
+ for the third quarter ending October 2, 1999; 9,000,000.00 for the
+ fourth quarter ending January 1, 2000, and 10,000,000 thereafter
+ through maturity. Working capital to include prepaid expenses.
+
+ 3. The section entitled "Operating Totals" is hereby deleted in its
+ entirety and replaced as follows:
+
+ Net Profit After Tax. Borrower shall show a Net Profit After Tax of no
+ less than 1,500,000.00 for the fiscal year ending January 1, 2000; a
+ net loss of no greater than 500,000.00 for the 1st quarter ending
+ April 1, 2000; a net
+
+profit of no less than 750,000.00 for the 2nd quarter ending July
+ 1, 2000; a net loss of no greater than 750,000.00 for the 3rd
+ quarter ending September 30, 2000; and a net profit of no less than
+ 1,500,000.00 for the fourth quarter ending December 30, 2000.
+
+ 4. The section entitled "Time out of Debt" is hereby deleted in its
+ entirety and replaced as follows:
+
+ Time out of Debt. For a period of at least thirty (30) days annually,
+ thirty (30) days of which must be consecutive, Borrower shall not have
+ an outstanding balance under the note.
+
+ 5. The section entitled "Additional Long Term Debt: is hereby
+ deleted in its entirety and replaced as follows:
+
+ Additional Long Term Debt. Borrower shall not incur additional long
+ term debt in excess of 1,000,000.00 without written consent of
+ Lender.
+
+ Except as amended herein, all other terms and conditions of the Loan
+Agreement remain in full force and effect and are applicable to this Amendment.
+
+ IN WITNESS WHEREOF, Borrower and Lender have executed this Amendment as of
+the date and year first above written.
+
+Borrower: 1-800 Contacts, Inc. also known Zions First National Bank
+1-800 Contacts (Delaware), Inc.
+
+By: /s/ Jonathan C. Coon By: /s/ Brett L. Eliason, V.P.
+ -------------------------------- -----------------------------
+Jonathan C. Coon, President and CEO Brett L. Eliason, Vice President
+
+PROMISSORY NOTE
+
+- ---------------------------------------------------------------------------------------------------------------
+ 
+ Principal Loan Date Maturity Loan No Call Collateral Account Officer Initials
+ 10,000,000.00 09-17-1999 04-30-2001 9003 C 7420 7057008 11049
+- ---------------------------------------------------------------------------------------------------------------
+ References in the shaded area are for Lender's use only and do not limit the applicability of this
+document to any particular loan or item.
+- ---------------------------------------------------------------------------------------------------------------
+
+Borrower: 1-800 CONTACTS (DELAWARE), INC. also known as Lender: ZIONS FIRST NATIONAL BANK
+ 1-800 CONTACTS, INC HEAD OFFICE/COMMERCIAL BANKING
+ 66 EAST WADSWORTH PARK DRIVE, 3RD FLOOR #1 SOUTH MAIN STREET
+ DRAPER, UT 84020 P.O. BOX 25822
+ SALT LAKE CITY, UT 84125
+
+===============================================================================================================
+
+Principal Amount: 10,000,000.00 Initial Rate: 8.750 Date of Note: September 17,1999
+
+PROMISE TO PAY. 1-800 CONTACTS (DELAWARE), INC. also known as 1-800 CONTACTS,
+INC. ("Borrower") promises to pay to ZIONS FIRST NATIONAL BANK ("Lender"), or
+order, in lawful money of the United States of America, the principal amount of
+Ten Million & 00/100 Dollars 10,000,000.00) or so much as may be outstanding,
+together with interest on the unpaid outstanding principal balance of each
+advance. Interest shall be calculated from the date of each advance until
+repayment of each advance.
+
+PAYMENT. Borrower will pay this loan in one payment of all outstanding principal
+plus all accrued unpaid interest on April 30, 2001. In addition, Borrower will
+pay regular monthly payments of accrued unpaid interest beginning October 1,
+1999, and all subsequent interest payments are due on the same day of each month
+after that. The annual interest rate for this note is computed on a 365/360
+basis; that is, by applying the ratio of the annual interest rate over a year of
+360 days, multiplied by the outstanding principal balance, multiplied by the
+actual number of days the principal balance is outstanding. Borrower will pay
+Lender at Lender's address shown above or at such other place as Lender may
+designate in writing. Unless otherwise agreed or required by applicable law,
+payments will be applied first to any unpaid collection costs and any late
+charges, then to any unpaid interest, and any remaining amount to principal.
+
+VARIABLE INTEREST RATE. The interest rate on this Note is subject to change from
+time to time based on changes in an index which is the ZIONS FIRST NATIONAL BANK
+PRIME RATE (the "Index"). "PRIME RATE" MEANS AN INDEX WHICH IS DETERMINED DAILY
+BY THE PUBLISHED COMMERCIAL LOAN VARIABLE RATE INDEX HELD BY ANY TWO OF THE
+FOLLOWING BANKS: CHASE MANHATTAN BANK, WELLS FARGO BANK N.A., AND BANK OF
+AMERICA N.T. & S.A. IN THE EVENT NO TWO OF THE FOLLOWING BANKS HAVE THE SAME
+PUBLISHED RATE, THE BANK HAVING THE MEDIAN RATE WILL ESTABLISH LENDERS' PRIME
+RATE. IF, FOR ANY REASON BEYOND THE CONTROL OF LENDER, ANY OF THE AFOREMENTIONED
+BANKS BECOMES UNACCEPTABLE AS A REFERENCE FOR THE PURPOSE OF DETERMINING THE
+PRIME RATE USED HEREIN, LENDER MAY, FIVE DAYS AFTER POSTING NOTICE IN LENDERS
+OFFICES, SUBSTITUTE ANOTHER COMPARABLE BANK FOR THE ONE DETERMINED UNACCEPTABLE.
+AS USED IN THIS PARAGRAPH, "COMPARABLE BANK" SHALL MEAN ONE OF THE TEN LARGEST
+COMMERCIAL BANKS HEADQUARTERED IN THE UNITED STATES OF AMERICA. THIS DEFINITION
+OF PRIME RATE IS TO BE STRICTLY INTERPRETED AND IS NOT INTENDED TO SERVE ANY
+PURPOSE OTHER THAN PROVIDING AN INDEX TO DETERMINE THE VARIABLE INTEREST RATE
+USED HEREIN. IT IS NOT THE LOWEST RATE AT WHICH LENDER MAY MAKE LOANS TO ANY OF
+ITS CUSTOMERS, EITHER NOW OR IN THE FUTURE. Lender will tell Borrower the
+current Index rate upon Borrower's request. Borrower understands that Lender may
+make loans based on other rates as well. The interest rate change will not occur
+more often than each DAY. The Index currently is 8.250 per annum. The Interest
+rate to be applied to the unpaid principal balance of this Note will be at a
+rate of 0.500 percentage points over the Index, resulting in an Initial rate of
+8.750 per annum. NOTICE: Under no circumstances will the interest rate on this
+Note be more than the maximum rate allowed by applicable law.
+
+PREPAYMENT. Borrower agrees that all loan fees and other prepaid finance charges
+are earned fully as of the date of the loan and will not be subject to refund
+upon early payment (whether voluntary or as a result of default), except as
+otherwise required by law. Except for the foregoing, Borrower may pay without
+penalty all or a portion of the amount owed earlier than it is due. Early
+payments will not, unless agreed to by Lender in writing, relieve Borrower of
+Borrower's obligation to continue to make payments of accrued unpaid Interest.
+Rather, they will reduce the principal balance due.
+
+DEFAULT. Borrower will be in default if any of the following happens: (a)
+Borrower fails to make any payment when due. (b) Borrower breaks any promise
+Borrower has made to Lender, or Borrower fails to comply with or to perform when
+due any other term, obligation, covenant, or condition contained in this Note
+or any agreement related to this Note, or in any other agreement or loan
+Borrower has with Lender. (c) Borrower defaults under any loan, extension of
+credit, security agreement, purchase or sales agreement, or any other agreement,
+in favor of any other creditor or person that may materially affect any of
+Borrower's property or Borrower's ability to repay this Note or perform
+Borrower's obligations under this Note or any of the Related Documents. (d) Any
+representation or statement made or furnished to Lender by Borrower or on
+Borrower's behalf is false or misleading in any material respect either now or
+at the time made or furnished. (e) Borrower becomes insolvent, a receiver is
+appointed for any part of Borrower's property, Borrower makes an assignment for
+the benefit of creditors, or any proceeding is commenced either by Borrower or
+against Borrower under any bankruptcy or insolvency laws. (f) Any creditor tries
+to take any of Borrower's property on or in which Lender has a lien or security
+interest. This occurs with respect to any guarantor of this Note. (h) A material
+adverse change occurs in Borrower's financial condition, or Lender believes the
+prospect of payment or performance of the Indebtedness is impaired. (i) Lender
+in good faith deems itself insecure.
+
+If any default, other than a default in payment, is curable and if Borrower has
+not been given a notice of a breach of the same provision of this Note within
+the preceding twelve (12) months, it may be cured (and no event of default
+ will have occurred) if Borrower, after receiving written notice from Lender
+demanding cure of such default: (a) cures the default within fifteen (15) days:
+or (b) if the cure requires more than fifteen (15) days, immediately initiates
+steps which Lender deems in Lender's sole discretion to be sufficient to cure
+the default and thereafter continues and completes all reasonable and necessary
+steps sufficient to produce compliance as soon as reasonably practical.
+
+LENDER'S RIGHTS. Upon default, Lender may declare the entire unpaid principal
+balance on this Note and all accrued unpaid interest immediately due, without
+notice, and then Borrower will pay that amount. Upon default, including failure
+to pay upon final maturity, Lender, at its option, may also, if permitted under
+applicable law, increase the variable interest rate on this Note to 3,500
+percentage points over the Index. The Interest rate will not exceed the maximum
+rate permitted by applicable law. Lender may hire or pay someone else to help
+collect this Note if Borrower does not pay. Borrower also will pay Lender that
+amount. This includes, subject to any limits under applicable law, Lender's
+reasonable attorney's fees and Lender's legal expenses whether or not there is a
+lawsuit, including reasonable attorneys' fees and legal expenses for bankruptcy
+proceedings (including efforts to modify or vacate any automatic stay or
+injunction), appeals, and any anticipated post-judgement collection services. If
+not prohibited by applicable law, Borrower also will pay any court costs, in
+addition to all other sums provided by law. This Note has been delivered to
+Lender and accepted by Lender in the State of Utah. If there is a lawsuit,
+Borrower agrees upon Lender's request to submit to the jurisdiction of the
+courts of SALT LAKE County, the State of Utah. Subject to the provisions on
+arbitration, this Note shall be governed by and construed in accordance with the
+laws of the State of Utah.
+
+RIGHT OF SETOFF. Borrower grants to Lender a contractual security interest in,
+and hereby assigns, conveys, delivers, pledges, and transfers to Lender all
+Borrower's right, title and interest in and to, Borrower's accounts with Lender
+(whether checking, savings, or some other account), including without limitation
+all accounts held jointly with someone else and all accounts Borrower may open
+in the future, excluding however all IRA and Keogh accounts, and all trust
+accounts for which the grant of a security interest would be prohibited by law.
+Borrower authorizes Lender, to the extent
+
+09-17-1999 PROMISSORY NOTE Page 2
+ (Continued)
+================================================================================
+
+permitted by applicable law, to charge or setoff all sums owing on this Note
+against any and all such accounts.
+
+COLLATERAL. This Note is secured by in addition to any other collatera, all
+inventory, chattel paper, accounts, equipment and general intangibles as
+referenced in the Commercial Security Agreement date October 29, 1998.
+
+LINE OF CREDIT. This Note evidences a revolving line of credit. Advances under
+this Note may be requested orally by Borrower or by an authorized person. Lender
+may, but need not, require that all oral requests be confirmed in writing. All
+communications, instructions, or directions by telephone or otherwise to Lender
+are to be directed to Lender's office shown above. The following party of
+parties are authorized to request advances under the line of credit until Lender
+receives from Borrower at Lender's address shown above written notice of
+revocation of their authority: JONATHAN C. COON, PRESIDENT AND CEO; JOHN
+NICHOLS, VICE PRESIDENT; AND SCOTT TANNER, CHIEF FINANCIAL OFFICER. Borrower
+agrees to be liable for all sums either: (a) advanced in accordance with the
+instructions of an authorized person or (b) credited to any of Borrower's
+accounts with Lender. The unpaid principal balance owing on this Note at any
+time may be evidenced by endorsements on this Note or by Lender's internal
+records, including daily computer print-outs. Lender will have no obligation to
+advance funds under this Note if: (a) Borrower or any guarantor is in default
+under the terms of this Note or any agreement that Borrower or any guarantor has
+with Lender, including any agreement made in connection with the signing of this
+Note; (b) Borrower or any guarantor ceases doing business or is insolvent; (c)
+any guarantor seeks, claims or otherwise attempts to limit, modify or revoke
+such guarantor's guarantee of this Note or any other loan with Lender; (d)
+Borrower has applied funds provided pursuant to this Note for purposes other
+than those authorized by Lender; or (e) Lender in good faith deems itself
+insecure under this Note or any other agreement between Lender and Borrower.
+
+ARBITRATION DISCLOSURES:
+
+ 1. ARBITRATION IS FINAL AND BINDING ON THE PARTIES AND SUBJECT TO ONLY VERY
+ LIMITED REVIEW BY A COURT.
+
+ 2. IN ARBITRATION THE PARTIES ARE WAIVING THEIR RIGHT TO LITIGATE IN COURT,
+ INCLUDING THEIR RIGHT TO A JURY TRIAL.
+
+ 3. DISCOVERY IN ARBITRATION IS MORE LIMITED THAN DISCOVERY IN COURT.
+
+ 4. ARBITRATORS ARE NOT REQUIRED TO INCLUDE FACTUAL FINDINGS OR LEGAL
+ REASONING IN THEIR AWARDS. THE RIGHT TO APPEAL OR TO SEEK MODIFICATIONS
+ OF ARBITRATOR'S RULINGS IS VERY LIMITED.
+
+ 5. A PANEL OF ARBITRATORS MIGHT INCLUDE AN ARBITRATOR WHO IS OR WAS
+ AFFILIATED WITH THE BANKING INDUSTRY.
+
+ 6. IF YOU HAVE QUESTIONS ABOUT ARBITRATION, CONSULT YOUR ATTORNEY OR THE
+ AMERICAN ARBITRATION ASSOCIATION.
+
+ (a) Any claim or controversy ("Dispute") between or among the parties
+ and their assigns, including but not limited to Disputes arising out of or
+ relating to this agreement, this arbitration provision ("arbitration
+ clause"), or any related agreements or instruments or instruments relating
+ hereto or delivered in connection herewith ("Related Documents"), and
+ including but not limited to a Dispute based on or arising from an alleged
+ tort, shall at the request of any party be resolved by binding arbitration
+ in accordance with the applicable arbitration rules or the American
+ Arbitration Association (the "Administrator"). The provisions of this
+ arbitration clause shall survive any termination, amendment, or expiration
+ or this agreement or Related Documents. The provisions of this arbitration
+ clause shall supersede any prior arbitration agreement between or among the
+ parties. If any provision of this arbitration clause should be determined
+ to be unenforceable, all other provisions of this arbitration clause shall
+ remain in full force and effect.
+
+ (b) The arbitration proceedings shall be conducted in Salt Lake City,
+ Utah, at a place to be determined by the Administrator. The Administrator
+ and the arbitrator(s) shall have the authority to the extent practicable to
+ take any action to require the arbitration proceeding to be completed and
+ the arbitrator(s)' award issued within one hundred fifty (150) days of the
+ filing of the Dispute with the Administrator. The arbitrator(s) shall have
+ the authority to impose sanctions on any party that fails to comply with
+ time periods imposed by the Administrator or the arbitrator(s), including
+ the sanction of summarily dismissing any Dispute or defense with prejudice.
+ The arbitrator(s) shall have the authority to resolve any Dispute regarding
+ the terms of this agreement, this arbitration clause or Related Documents,
+ including any claim or controversy regarding the arbitrability of any
+ Dispute. All limitations periods applicable to any Dispute or defense,
+ whether by statute or agreement, shall apply to any arbitration proceeding
+ hereunder and the arbitrator(s) shall have the authority to decide whether
+ any Dispute or defense is barred by a limitations period and, if so, to
+ summarily enter an award dismissing Dispute or defense on that basis. The
+ doctrines of compulsory counterclaim, res judicata, and collateral estoppel
+ shall apply to any arbitration proceeding hereunder so that a party must
+ state as a counterclaim in the arbitration proceeding any claim or
+ controversy which arises out of the transaction or occurrence that is the
+ subject matter of the Dispute. The arbitrator(s) may in the arbitrator(s)'
+ discretion and at the request of any party: (1) consolidate in a single
+ arbitration proceeding any other claim or controversy involving another
+ party that is substantially related to the Dispute where that other party is
+ bound by an arbitration clause with the Lender, such as borrowers,
+ guarantors, sureties, and owners of collateral; (2) consolidate in a single
+ arbitration proceeding any other claim or controversy that is substantially
+ similar to the Dispute; and (3) administer multiple arbitration claims or
+ controversies as class actions in accordance with the provisions of Rule 23
+ of the Federal Rules of Civil Procedure.
+
+ (c) The arbitrator(s) shall be selected in accordance with the rules
+ of the Administrator from panels maintained by the Administrator. A single
+ arbitrator shall have expertise in the subject matter of the Dispute. Where
+ three arbitrators conduct an arbitration proceeding, the Dispute shall be
+ decided by a majority vote of the three arbitrators, at least one of whom
+ must have expertise in the subject matter of the Dispute and at least one of
+ whom must be a practicing attorney. The arbitrator(s) shall award to the
+ prevailing party recovery of all costs and fees (including attorneys' fees
+ and costs, arbitration administration fees and costs, and arbitrator(s)'
+ fees). The arbitrator(s), either during the pendency of the arbitration
+ proceeding or as part of the arbitration award, also may grant provisional
+ or ancillary remedies, including but not limited to an award of injunctive
+ relief, foreclosure, sequestration, attachment, replevin, garnishment, or
+ the appointment of a receiver.
+
+ (d) Judgment upon an arbitration award may be entered in any court
+ having jurisdiction, subject to the following limitation: the arbitration
+ award is binding upon the parties only if the amount does not exceed Four
+ Million Dollars 4,000,000.00); if the award exceeds that limit, either
+ party may demand the right to court trial. Such a demand must be filed with
+ the Administrator within thirty (30) days following the date of the
+ arbitration award; if such a demand is not made is not made within that time
+ period, the amount of the arbitration award shall be binding. The
+ computation of the total amount of an arbitration award shall include
+ amounts awarded for attorneys' fees and costs, arbitration administration
+ fees and costs, and arbitrator(s)' fees.
+
+ (e) No provision of this arbitration clause, nor the exercise of any
+ rights hereunder, shall limit the right of any party to: (1) judicially or
+ non-judicially foreclose against any real or personal property collateral or
+ other security; (2) exercise self-help remedies, including but not limited
+ to repossession and setoff rights; or (3) obtain from a court having
+ jurisdiction thereover any provisional or ancillary remedies, including but
+ not limited to injunctive relief, foreclosure, sequestration, attachment,
+ replevin, garnishment, or the appointment of a receiver. Such rights can be
+ exercised at any time, before or during initiation of an arbitration
+ proceeding, except to the extent such action is contrary to the arbitration
+ award. The exercise of such rights shall not constitute a waiver of the
+ right to submit any Dispute to arbitration, and any claim or controversy
+ related to the exercise of such rights shall be a Dispute to be resolved
+ under the provisions of this arbitration clause. Any party may initiate
+ arbitration with the Administrator; however, if any party initiates
+ litigation and another party disputes any allegation in that litigation, the
+ disputing party--upon the request of the initiating party--must file a
+ demand for arbitration with the Administrator and pay the Administrator's
+ filing fee. The parties may serve by mail a notice of an initial motion for
+ an order of arbitration.
+
+09-17-1999 PROMISSORY NOTE Page 3
+ (Continued)
+
+================================================================================
+
+ (f) Notwithstanding the applicabilty of any other law to this
+agreement, the arbitration clause, or Related Documents between or among the
+parties, the Federal Arbitration Act, 9 U.S.C. Section 1 et seq., shall apply to
+the construction and interpretation of this arbitration clause.
+
+PRIOR NOTE. This is a renewal of a Promissory Note from Borrower to Lender
+dated October 29, 1998 in the original principal amount of 5,000,000.00.
+
+GENERAL PROVISIONS. Lender may delay or forgo enforcing any of its rights or
+remedies under this Note without losing them. Borrower and any other person who
+signs, guarantees or endorses this Note, to the extent allowed by law, waive
+presentment, demand for payment, protest and notice of dishonor. Upon any change
+in the terms of this Note, and unless otherwise expressly stated in writing, no
+party who signs this Note, whether as maker, guarantor, accommodation maker or
+endorser, shall be released from liability. All such parties agree that Lender
+may renew or extend (repeatedly and for any length of time) this loan, or
+release any party or guarantor or collateral; or impair, fail to realize upon or
+perfect Lender's security interest in the collateral; and take any other action
+deemed necessary by Lender without the consent of or notice to anyone. All such
+parties also agree that Lender may modify this loan without the consent of or
+notice to anyone other than the party with whom the modification is made.
+
+PRIOR TO SIGNING THIS NOTE, BORROWER READ AND UNDERSTOOD ALL THE PROVISIONS OF
+THIS NOTE, INCLUDING THE VARIABLE INTEREST RATE PROVISIONS. BORROWER AGREES TO
+THE TERMS OF THE NOTE AND ACKNOWLEDGES RECEIPT OF A COMPLETED COPY OF THE NOTE.
+
+BORROWER:
+1-800 CONTACTS (DELAWARE), INC. also known as 1-800 CONTACTS, INC.
+
+By: /s/ JONATHAN C. COON
+ ----------------------------------------
+ JONATHAN C. COON, PRESIDENT AND CEO
+
+================================================================================
+
+DISBURSEMENT REQUEST AND AUTHORIZATION
+
+Principal Loan Date Maturity Loan No. Call Collateral Account Officer Initials
+ 
+ 10,000,000.00 09-17-1999 04-30-2001 9003 C 7420 7057008 11049
+
+References in the shaded area are for Lender's use only and do not limit the
+applicability of this document to any particular loan or item.
+
+Borrower: 1-800 CONTACTS (DELAWARE), INC. also known as Lender: ZIONS FIRST NATIONAL BANK
+ 1-800-CONTACTS, INC. HEAD OFFICE/COMMERCIAL BANKING
+ 66 EAST WADSWORTH PARK DRIVE, 3RD FLOOR #1 SOUTH MAIN STREET
+ DRAPER, UT 84020 P.O. BOX 25822
+ SALT LAKE CITY, UT 84125
+
+================================================================================
+
+LOAN TYPE. This is a Variable Rate (0.500 over ZIONS FIRST NATIONAL BANK PRIME
+RATE, making an initial rate of 8.750 ), Revolving Line of Credit Loan to a
+Corporation for 10,000,000.00 due on April 30, 2001. This is a secured renewal
+of the following described indebtedness: This is a renewal of a Promissory Note
+from Borrower to Lender dated October 29, 1998 in the original principal amount
+of 5,000,000.00
+
+PRIMARY PURPOSE OF LOAN. The primary purpose of this loan for:
+
+ [_] Personal, Family, or Household Purposes or Personal Investment.
+
+ [X] Business (including Real Estate Investment)
+
+SPECIFIC PURPOSE. The specific purpose of this loan is: TO RENEW AND INCREASE
+THE REVOLVING LINE OF CREDIT USED TO FUND TIMING DIFFERENCES IN BORROWERS
+OPERATING CYCLE AND OTHER CORPORATE PURPOSES.
+
+DISBURSEMENT INSTRUCTIONS. Borrower understands that no loan proceeds will be
+disbursed until all of Lender's conditions for making the loan have been
+satisfied. Please disburse the loan proceeds of 10,000,000.00 as follows:
+
+ Undisbursed Funds: 9,974,775.00
+
+ Other Charges Financed:
+ 225.00 Documentation Fees 225.00
+
+ Total Financed Prepaid Finance Charges:
+ 25,000.00 Loan Fees 25,000.00
+ --------------
+ Note Principal: 10,000,000.00
+
+FINAL AGREEMENT. Borrower understands that the loan documents signed in
+connection with this loan are the final expression of the agreement between
+Lender and Borrower and may not be contradicted by evidence of any alleged oral
+agreement.
+
+FINANCIAL CONDITION. BY SIGNING THIS AUTORIZATION, BORROWER REPRESENTS AND
+WARRANTS TO LENDER THAT THE INFORMATION PROVIDED ABOVE IS TRUE AND CORRECT AND
+THAT THERE HAS BEEN NO MATERIAL ADVERSE CHANGE IN BORROWER'S FINANCIAL CONDITION
+AS DISCLOSED IN BORROWER'S MOST RECENT FINANCIAL STATEMENT TO LENDER. THIS
+AUTHORIZATION IS DATED SEPTEMBER 17, 1999.
+
+BORROWER:
+
+1-800 CONTACTS (DELAWARE), INC. also known as 1-800 CONTACTS, INC.
+
+BY: /s/ JONATHAN C. COON
+ -----------------------------------------
+ JONATHAN C. COON, PRESIDENT AND CEO
+
+================================================================================
+
+</EX-10.18>
+
+<EX-23.1>
+ 3
+ CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+As independent public accountants, we hereby consent to the incorporation of our
+report in this Form 10-K, into the Company's previously filed Registration
+Statement on Form S-8, File No. 333-61205.
+
+ARTHUR ANDERSEN LLP
+
+Salt Lake City, Utah
+ March 30, 2000
+
+</EX-23.1>
+
+<EX-27.1>
+ 4
+ FINANCIAL DATA SCHEDULE
+
+5
+ 1
+
+12-MOS
+ JAN-01-2000
+ JAN-03-1999
+ JAN-01-2000
+ 4,329,088
+ 0
+ 0
+ 0
+ 15,980,169
+ 21,189,865
+ 3,518,710
+ 1,252,404
+ 25,053,572
+ 6,352,863
+ 0
+ 0
+ 0
+ 64,306
+ 18,636,403
+ 25,053,572
+ 98,524,906
+ 98,524,906
+ 59,415,723
+ 91,655,526
+ 0
+ 0
+ 31,860
+ 6,828,828
+ 701,250
+ 6,127,578
+ 0
+ 0
+ 0
+ 6,127,578
+ 0.97
+ 0.96
+
+</EX-27.1>
+

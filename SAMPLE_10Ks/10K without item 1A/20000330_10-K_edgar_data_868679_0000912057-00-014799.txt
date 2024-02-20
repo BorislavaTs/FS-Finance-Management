@@ -1,0 +1,4076 @@
+<Header>
+<FileStats>
+    <FileName>20000330_10-K_edgar_data_868679_0000912057-00-014799.txt</FileName>
+    <GrossFileSize>224211</GrossFileSize>
+    <NetFileSize>190482</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1543</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000912057-00-014799.hdr.sgml : 20000331
+ACCESSION NUMBER:		0000912057-00-014799
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		8
+CONFORMED PERIOD OF REPORT:	19991231
+FILED AS OF DATE:		20000330
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERICAN INCOME FUND I-C
+		CENTRAL INDEX KEY:			0000868679
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-EQUIPMENT RENTAL & LEASING, NEC [7359]
+		IRS NUMBER:				043077437
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-20031
+		FILM NUMBER:		585512
+
+	BUSINESS ADDRESS:	
+		STREET 1:		98 N WASHINGTON STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02114
+		BUSINESS PHONE:		6178545800
+
+	MAIL ADDRESS:	
+		STREET 1:		98 N WASHINGTON STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02114
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GA2HAy5eJhLt8qIeLXm9jUCP/MDclUR7yMfr1kbbS47IQ2FYrJ/NjUXI4NgnGYN2
+ q6c6wdvM5iUhBzDWqXUoAA==
+
+ 0000912057-00-014799.txt : 20000331
+
+10-K
+ 1
+ 10-K
+
+UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ Washington, D.C. 20549
+
+ FORM 10-K
+(Mark One)
+
+|XX| ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ ACT OF 1934
+
+For the fiscal year ended December 31, 1999
+ -------------------------------------------------------
+
+ OR
+
+|_| TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+
+For the transition period from to
+ --------------------- -------------------------
+
+Commission file number 0-20031
+ --------------------------------------------------------
+
+ American Income Fund I-C , a Massachusetts Limited Partnership
+- --------------------------------------------------------------------------------
+ (Exact name of registrant as specified in its charter)
+
+Massachusetts 04-3077437
+- ---------------------------------------- --------------------------------
+(State or other jurisdiction of (IRS Employer
+incorporation or organization) Identification No.)
+
+88 Broad Street, Sixth Floor, Boston, MA 02110
+- ---------------------------------------- --------------------------------
+(Address of principal executive offices) (Zip Code)
+
+Registrant's telephone number, including area code (617) 854-5800
+ ------------------------------
+
+ Securities registered pursuant to Section 12(b) of the Act NONE
+ ----------
+
+ Title of each class Name of each exchange on which registered
+
+- ---------------------- ----------------------------------------------
+
+- ---------------------- ----------------------------------------------
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+ 796,161 Units Representing Limited Partnership Interest
+- --------------------------------------------------------------------------------
+ (Title of class)
+
+- --------------------------------------------------------------------------------
+ (Title of class)
+
+ Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes |XX| No |_|
+
+ State the aggregate market value of the voting stock held by nonaffiliates of
+the registrant. Not applicable. Securities are nonvoting for this purpose. Refer
+to Item 12 for further information.
+
+ DOCUMENTS INCORPORATED BY REFERENCE
+ Portions of the Registrant's Annual Report to security holders for
+ the year ended December 31, 1999 (Part I and II)
+
+AMERICAN INCOME FUND I-C,
+ a Massachusetts Limited Partnership
+
+ FORM 10-K
+
+ TABLE OF CONTENTS
+
+ Page
+ ----
+
+ PART I
+
+Item 1. Business 3
+
+Item 2. Properties 4
+
+Item 3. Legal Proceedings 4
+
+Item 4. Submission of Matters to a Vote of Security Holders 5
+
+PART II
+
+Item 5. Market for the Partnership's Securities and Related Security
+ Holder Matters 6
+
+Item 6. Selected Financial Data 8
+
+Item 7. Management's Discussion and Analysis of Financial Condition
+ and Results of Operations 8
+
+Item 8. Financial Statements and Supplementary Data 8
+
+Item 9. Changes in and Disagreements with Accountants on Accounting
+ and Financial Disclosure 8
+
+PART III
+
+Item 10. Directors and Executive Officers of the Partnership 9
+
+Item 11. Executive Compensation 11
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management 11
+
+Item 13. Certain Relationships and Related Transactions 12
+
+PART IV
+
+Item 14. Exhibits, Financial Statement Schedules and Reports on
+ Form 8-K 14-17
+
+2
+
+PART I
+
+Item 1. Business.
+
+ (a) General Development of Business
+
+ AMERICAN INCOME FUND I-C, a Massachusetts Limited Partnership, (the
+"Partnership") was organized as a limited partnership under the Massachusetts
+Uniform Limited Partnership Act (the "Uniform Act") on March 1, 1991 for the
+purpose of acquiring and leasing to third parties a diversified portfolio of
+capital equipment. Partners' capital initially consisted of contributions of
+ 1,000 from the General Partner (AFG Leasing VI Incorporated) and 100 from the
+Initial Limited Partner (AFG Assignor Corporation). On May 31, 1991, the
+Partnership issued 803,454.56 units of limited partnership interest (the
+"Units") to 909 investors. Included in the 803,454.56 units are 7,293.56 bonus
+units. The Partnership has one General Partner, AFG Leasing VI Incorporated, a
+Massachusetts corporation formed in 1990 and an affiliate of Equis Financial
+Group Limited Partnership (formerly known as American Finance Group), a
+Massachusetts limited partnership ("EFG" or the "Manager"). The General Partner
+is not required to make any other capital contributions except as may be
+required under the Uniform Act and Section 6.1(b) of the Amended and Restated
+Agreement and Certificate of Limited Partnership (the "Restated Agreement, as
+amended").
+
+ (b) Financial Information About Industry Segments
+
+ The Partnership is engaged in only one industry segment: the business of
+acquiring capital equipment and leasing the equipment to creditworthy lessees on
+a full payout or operating lease basis. Full payout leases are those in which
+aggregate undiscounted noncancellable rents equal or exceed the acquisition cost
+of the leased equipment. Operating leases are those in which the aggregate
+undiscounted noncancellable rental payments are less than the acquisition cost
+of the leased equipment. Industry segment data is not applicable.
+
+ (c) Narrative Description of Business
+
+ The Partnership was organized to acquire a diversified portfolio of capital
+equipment subject to various full payout and operating leases and to lease the
+equipment to third parties as income-producing investments. More specifically,
+the Partnership's primary investment objectives were to acquire and lease
+equipment that would:
+
+ 1. Generate quarterly cash distributions;
+
+ 2. Preserve and protect Partnership capital; and
+
+ 3. Maintain substantial residual value for ultimate sale.
+
+ The Partnership has the additional objective of providing certain federal
+income tax benefits.
+
+ The Closing Date of the Offering of Units of the Partnership was May 31,
+1991. Significant operations commenced coincident with the Partnership's initial
+purchase of equipment and the associated lease commitments on May 31, 1991. The
+acquisition of the equipment and its associated leases is described in Note 3 to
+the financial statements included in Item 14, herein. The Restated Agreement, as
+amended, provides that the Partnership will terminate no later than December 31,
+2002. However, the Partnership is a Nominal Defendant in a Class Action Lawsuit,
+the outcome of which could significantly alter the nature of the Partnership's
+organization and its future business operations. See Note 8 to the financial
+statements in the 1999 Annual Report.
+
+ The Partnership has no employees; however, it is managed pursuant to a
+Management Agreement with EFG or one of its affiliates. The Manager's role,
+among other things, is to (i) evaluate, select, negotiate, and consummate the
+acquisition of equipment, (ii) manage the leasing, re-leasing, financing, and
+refinancing of equipment, and (iii) arrange the resale of equipment. The Manager
+is compensated for such services as provided for in the Restated Agreement, as
+amended, described in Item 13 herein, and in Note 5 to the financial statements
+included in Item 14, herein.
+
+3
+
+The Partnership's investment in equipment is, and will continue to be,
+subject to various risks, including physical deterioration, technological
+obsolescence and defaults by lessees. A principal business risk of owning and
+leasing equipment is the possibility that aggregate lease revenues and equipment
+sale proceeds will be insufficient to provide an acceptable rate of return on
+invested capital after payment of all debt service costs and operating expenses.
+In addition, the leasing industry is very competitive. The Partnership is
+subject to considerable competition when equipment is re-leased or sold at the
+expiration of primary lease terms. The Partnership must compete with lease
+programs offered directly by manufacturers and other equipment leasing
+companies, including limited partnerships and trusts organized and managed
+similarly to the Partnership, and including other EFG-sponsored partnerships and
+trusts, which may seek to re-lease or sell equipment within their own portfolios
+to the same customers as the Partnership. Many competitors have greater
+financial resources and more experience than the Partnership, the General
+Partner and the Manager. In addition, default by a lessee under a lease may
+cause equipment to be returned to the Partnership at a time when the General
+Partner or the Manager is unable to arrange for the re-lease or sale of such
+equipment. This could result in the loss of anticipated revenue.
+
+ Revenue from major individual lessees which accounted for 10 or more of
+lease revenue during the years ended December 31, 1999, 1998 and 1997 is
+incorporated herein by reference to Note 2 to the financial statements in the
+1999 Annual Report. Refer to Item 14(a)(3) for lease agreements filed with the
+Securities and Exchange Commission.
+
+ EFG is a Massachusetts limited partnership formerly known as American Finance
+Group ("AFG"). AFG was established in 1988 as a Massachusetts general
+partnership and succeeded American Finance Group, Inc., a Massachusetts
+corporation organized in 1980. EFG and its subsidiaries (collectively, the
+"Company") are engaged in various aspects of the equipment leasing business,
+including EFG's role as Manager or Advisor to the Partnership and several other
+direct-participation equipment leasing programs sponsored or co-sponsored by EFG
+(the "Other Investment Programs"). The Company arranges to broker or originate
+equipment leases, acts as remarketing agent and asset manager, and provides
+leasing support services, such as billing, collecting, and asset tracking.
+
+ The general partner of EFG, with a 1 controlling interest, is Equis
+Corporation, a Massachusetts corporation owned and controlled entirely by Gary
+D. Engle, its President, Chief Executive Officer and sole Director. Equis
+Corporation also owns a controlling 1 general partner interest in EFG's 99 
+limited partner, GDE Acquisition Limited Partnership ("GDE LP"). Mr. Engle
+established Equis Corporation and GDE LP in December 1994 for the sole purpose
+of acquiring the business of AFG.
+
+ In January 1996, the Company sold certain assets of AFG relating primarily to
+the business of originating new leases, and the name "American Finance Group,"
+and its acronym to a third party. AFG changed its name to Equis Financial Group
+Limited Partnership after the sale was concluded. Pursuant to terms of the sale
+agreements, EFG specifically reserved the rights to continue using the name
+American Finance Group and its acronym in connection with the Partnership and
+the Other Investment Programs and to continue managing all assets owned by the
+Partnership and the Other Investment Programs.
+
+ (d) Financial Information About Foreign and Domestic Operations and Export
+Sales
+
+ Not applicable.
+
+Item 2. Properties.
+
+ Incorporated herein by reference to Note 3 to the financial statements in the
+1999 Annual Report.
+
+Item 3. Legal Proceedings.
+
+ Incorporated herein by reference to Note 8 to the financial statements in the
+1999 Annual Report.
+
+4
+
+Item 4. Submission of Matters to a Vote of Security Holders.
+
+ None.
+
+5
+
+PART II
+
+Item 5. Market for the Partnership's Securities and Related Security Holder
+ Matters.
+
+ (a) Market Information
+
+ There is no public market for the resale of the Units and it is not
+anticipated that a public market for resale of the Units will develop.
+
+ (b) Approximate Number of Security Holders
+
+ At December 31, 1999, there were 865 record holders in the Partnership.
+
+ (c) Dividend History and Restrictions
+
+ Historically, the amount of cash distributions to be paid to the Partners has
+been determined on a quarterly basis. Each quarter's distribution may have
+varied in amount and was made 95 to the Limited Partners and 5 to the General
+Partner. Generally, cash distributions have been paid within 15 days after the
+completion of each calendar quarter.
+
+ The Partnership is a Nominal Defendant in a Class Action Lawsuit described in
+Note 8 to the financial statements. The proposed settlement to that lawsuit, if
+effected, will materially change the future organizational structure and
+business interests of the Partnership, as well as its cash distribution
+policies. In addition, commencing with the first quarter of 2000, the General
+Partner believes that it will be in the Partnership's best interests to suspend
+the payment of quarterly cash distributions pending final resolution of the
+Class Action Lawsuit. Accordingly, future cash distributions are not expected to
+be paid until the Class Action Lawsuit is adjudicated
+
+ Distributions in 1999 and 1998 were as follows:
+
+ General Limited
+ Total Partner Partners
+ ----------- ----------- -----------
+
+Total 1999 distributions 634,306 31,716 602,590
+
+Total 1998 distributions 634,306 31,716 602,590
+ ----------- ----------- -----------
+ Total 1,268,612 63,432 1,205,180
+ =========== =========== ===========
+
+ Distributions payable were 158,577 at both December 31, 1999 and 1998.
+
+ There are no formal restrictions under the Restated Agreement, as amended,
+that materially limit the Partnership's ability to pay cash distributions,
+except that the General Partner may suspend or limit cash distributions to
+ensure that the Partnership maintains sufficient working capital reserves to
+cover, among other things, operating costs and potential expenditures, such as
+refurbishment costs to remarket equipment upon lease expiration. Liquidity is
+especially important as the Partnership matures and sells equipment, because the
+remaining equipment base consists of fewer revenue-producing assets that are
+available to cover prospective cash disbursements. Insufficient liquidity could
+inhibit the Partnership's ability to sustain its operations or maximize the
+realization of proceeds from remarketing its remaining assets.
+
+ In particular, the Partnership must contemplate the potential liquidity risks
+associated with its investment in commercial jet aircraft. The management and
+remarketing of aircraft can involve, among other things, significant costs and
+lengthy remarketing initiatives. Although the Partnership's lessees are required
+to maintain the aircraft during the period of lease contract, repair,
+maintenance, and/or refurbishment costs at lease expiration can be substantial.
+For example, an aircraft that is returned to the Partnership meeting minimum
+airworthiness standards,
+
+6
+
+such as flight hours or engine cycles, nonetheless may require heavy maintenance
+in order to bring its engines, airframe and other hardware up to standards that
+will permit its prospective use in commercial air transportation. At December
+31, 1999, the Partnership had ownership interests in six commercial jet
+aircraft. Three of the aircraft are Boeing 737 aircraft formerly leased to
+Southwest Airlines, Inc. The lease agreements for each of these aircraft expired
+on December 31, 1999 and Southwest elected to return the aircraft. The aircraft
+are Stage 2 aircraft, meaning that they are prohibited from operating in the
+United States after December 31, 1999 unless they are retro-fitted with
+hush-kits to meet Stage 3 noise regulations promulgated by the Federal Aviation
+Administration. The cost to hush-kit an aircraft, such as the Partnership's
+Boeing 737s, can approach 2 million. At this time, the General Partner is
+attempting to remarket these assets without further capital investment by either
+re-leasing the aircraft to a user outside of the United States or selling the
+aircraft as they are without retro-fitting the aircraft to conform to Stage 3
+standards. The remaining three aircraft in the Partnership's portfolio already
+are Stage 3 compliant. One of these aircraft had a lease term that expired in
+January 2000 and is being held in storage pending the outcome of ongoing
+remarketing efforts. The final two aircraft in the Partnership's portfolio have
+lease terms expiring in April 2001 and January 2003.
+
+ Cash distributions consist of Distributable Cash From Operations and
+Distributable Cash From Sales or Refinancings.
+
+ "Distributable Cash From Operations" means the net cash provided by the
+Partnership's normal operations after general expenses and current liabilities
+of the Partnership are paid, reduced by any reserves for working capital and
+contingent liabilities to be funded from such cash, to the extent deemed
+reasonable by the General Partner, and increased by any portion of such reserves
+deemed by the General Partner not to be required for Partnership operations and
+reduced by all accrued and unpaid Equipment Management Fees and, after Payout,
+further reduced by all accrued and unpaid Subordinated Remarketing Fees.
+Distributable Cash From Operations does not include any Distributable Cash From
+Sales or Refinancings.
+
+ "Distributable Cash From Sales or Refinancings" means Cash From Sales or
+Refinancings as reduced by (i)(a) amounts realized from any loss or destruction
+of equipment which the General Partner determines shall be reinvested in similar
+equipment for the remainder of the original lease term of the lost or destroyed
+equipment, or in isolated instances, in other equipment, if the General Partner
+determines that investment of such proceeds will significantly improve the
+diversity of the Partnership's equipment portfolio, and subject in either case
+to satisfaction of all existing indebtedness secured by such equipment to the
+extent deemed necessary or appropriate by the General Partner, or (b) the
+proceeds from the sale of an interest in equipment pursuant to any agreement
+governing a joint venture which the General Partner determines will be invested
+in additional equipment or interests in equipment and which ultimately are so
+reinvested and (ii) any accrued and unpaid Equipment Management Fees and, after
+Payout, any accrued and unpaid Subordinated Remarketing Fees.
+
+ "Cash From Sales or Refinancings" means cash received by the Partnership from
+sale or refinancing transactions, as reduced by (i)(a) all debts and liabilities
+of the Partnership required to be paid as a result of sale or refinancing
+transactions, whether or not then due and payable (including any liabilities on
+an item of equipment sold which are not assumed by the buyer and any remarketing
+fees required to be paid to persons not affiliated with the General Partner, but
+not including any Subordinated Remarketing Fees whether or not then due and
+payable) and (b) general expenses and current liabilities of the Partnership
+(other than any portion of the Equipment Management Fee which is required to be
+accrued and the Subordinated Remarketing Fee) and (c) any reserves for working
+capital and contingent liabilities funded from such cash to the extent deemed
+reasonable by the General Partner and (ii) increased by any portion of such
+reserves deemed by the General Partner not to be required for Partnership
+operations. In the event the Partnership accepts a note in connection with any
+sale or refinancing transaction, all payments subsequently received in cash by
+the Partnership with respect to such note shall be included in Cash From Sales
+or Refinancings, regardless of the treatment of such payments by the Partnership
+for tax or accounting purposes. If the Partnership receives purchase money
+obligations in payment for equipment sold, which are secured by liens on such
+equipment, the amount of such obligations shall not be included in Cash From
+Sales or Refinancings until the obligations are fully satisfied.
+
+ "Payout" is defined as the first time when the aggregate amount of all
+distributions to the Limited Partners of Distributable Cash From Operations and
+Distributable Cash From Sales or Refinancings equals the aggregate
+
+7
+
+amount of the Limited Partners' original capital contributions plus a cumulative
+annual distribution of 11 (compounded quarterly and calculated beginning with
+the last day of the month of the Partnership's Closing Date) on their aggregate
+unreturned capital contributions. For purposes of this definition, capital
+contributions shall be deemed to have been returned only to the extent that
+distributions of cash to the Limited Partners exceed the amount required to
+satisfy the cumulative annual distribution of 11 (compounded quarterly) on the
+Limited Partners' aggregate unreturned capital contributions, such calculation
+to be based on the aggregate unreturned capital contributions outstanding on the
+first day of each fiscal quarter.
+
+Item 6. Selected Financial Data.
+
+ Incorporated herein by reference to the section entitled "Selected Financial
+Data" in the 1999 Annual Report.
+
+Item 7. Management's Discussion and Analysis of Financial Condition and Results
+ of Operations.
+
+ Incorporated herein by reference to the section entitled "Management's
+Discussion and Analysis of Financial Condition and Results of Operations" in the
+1999 Annual Report.
+
+Item 8. Financial Statements and Supplementary Data.
+
+ Incorporated herein by reference to the financial statements and
+supplementary data included in the 1999 Annual Report.
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and
+ Financial Disclosure.
+
+ None.
+
+8
+
+PART III
+
+Item 10. Directors and Executive Officers of the Partnership.
+
+ (a-b) Identification of Directors and Executive Officers
+
+ The Partnership has no Directors or Officers. As indicated in Item 1 of this
+report, AFG Leasing VI Incorporated is the sole General Partner of the
+Partnership. Under the Restated Agreement, as amended, the General Partner is
+solely responsible for the operation of the Partnership's properties. The
+Limited Partners have no right to participate in the control of the
+Partnership's general operations, but they do have certain voting rights, as
+described in Item 12 herein. The names, titles and ages of the Directors and
+Executive Officers of the General Partner as of March 15, 2000 are as follows:
+
+DIRECTORS AND EXECUTIVE OFFICERS OF
+THE GENERAL PARTNER (See Item 13)
+
+ Name Title Age Term
+- ---------------------- ---------------------------------- ------ ---------
+
+Geoffrey A. MacDonald Chairman and a member of the Until a
+ Executive Committee of EFG successor
+ and President and a Director is duly
+ of the General Partner 51 elected
+ and
+ qualified
+
+Gary D. Engle President and Chief Executive
+ Officer and member of the
+ Executive Committee of EFG 51
+
+Gary M. Romano Executive Vice President and Chief
+ Operating Officer of EFG and
+ Clerk of the General Partner 40
+
+James A. Coyne Executive Vice President of EFG 39
+
+Michael J. Butterfield Senior Vice President, Finance and
+ Treasurer of EFG and Treasurer of
+ the General Partner 40
+
+Sandra L. Simonsen Senior Vice President, Information
+ Systems of EFG 49
+
+Gail D. Ofgant Senior Vice President, Lease
+ Operations of EFG 34
+
+ (c) Identification of Certain Significant Persons
+
+ None.
+
+ (d) Family Relationship
+
+ No family relationship exists among any of the foregoing Partners, Directors
+or Executive Officers.
+
+9
+
+(e) Business Experience
+
+ Mr. MacDonald, age 51, is a co-founder, Chairman and a member of the
+Executive Committee of EFG and President and a Director of the General Partner.
+Mr. MacDonald was also a co-founder, Director, and Senior Vice President of
+EFG's predecessor corporation from 1980 to 1988. Mr. MacDonald is President of
+American Finance Group Securities Corp. and a limited partner in Atlantic
+Acquisition Limited Partnership ("AALP") and Old North Capital Limited
+Partnership ("ONC"). Prior to co-founding EFG's predecessors, Mr. MacDonald held
+various executive and management positions in the leasing and pharmaceutical
+industries. Mr. MacDonald holds a M.B.A. from Boston College and a B.A. degree
+from the University of Massachusetts (Amherst).
+
+ Mr. Engle, age 51, is President and Chief Executive Officer of EFG and sole
+shareholder and Director of its general partner, Equis Corporation and a member
+of the Executive Committee of EFG and President of AFG Realty Corporation. Mr.
+Engle joined EFG in 1990 as Executive Vice President and acquired control of EFG
+and its subsidiaries in December 1994. Mr. Engle is Vice President and a
+Director of certain of EFG's subsidiaries and affiliates, a limited partner in
+AALP and ONC and controls the general partners of AALP and ONC. Mr. Engle is
+also Chairman, Chief Executive Officer, and a member of the Board of Directors
+of Semele Group, Inc. ("Semele"). From 1987 to 1990, Mr. Engle was a principal
+and co-founder of Cobb Partners Development, Inc., a real estate and mortgage
+banking company. From 1980 to 1987, Mr. Engle was Senior Vice President and
+Chief Financial Officer of Arvida Disney Company, a large-scale community
+development company owned by Walt Disney Company. Prior to 1980, Mr. Engle
+served in various management consulting and institutional brokerage capacities.
+Mr. Engle has a MBA from Harvard University and a BS degree from the University
+of Massachusetts (Amherst).
+
+ Mr. Romano, age 40, became Executive Vice President and Chief Operating
+Officer of EFG, and Secretary of Equis Corporation in 1996 and is Secretary or
+Clerk of several of EFG's subsidiaries and affiliates. Mr. Romano joined EFG in
+November 1989, became Vice President and Controller in April 1993 and Chief
+Financial Officer in April 1995. Mr. Romano assumed his current position in
+April 1996. Mr. Romano is also Vice President and Chief Financial Officer of
+Semele. Prior to joining EFG, Mr. Romano was Assistant Controller for a
+privately held real estate development and mortgage origination company that he
+joined in 1987. Previously, Mr. Romano was an Audit Manager at Ernst & Whinney
+(now Ernst & Young LLP), where he was employed from 1982 to 1986. Mr. Romano is
+a Certified Public Accountant and holds a B.S. degree from Boston College.
+
+ Mr. Coyne, age 39, is Executive Vice President, Capital Markets of EFG and
+President, Chief Operating Officer and a member of the Board of Directors of
+Semele. Mr. Coyne joined EFG in 1989, remained until May 1993, and rejoined EFG
+in November 1994. In September 1997, Mr. Coyne was appointed Executive Vice
+President of EFG. Mr. Coyne is a limited partner in AALP and ONC. From May 1993
+through November 1994, he was employed by the Raymond Company, a private
+investment firm, where he was responsible for financing corporate and real
+estate acquisitions. From 1985 through 1989, Mr. Coyne was affiliated with a
+real estate investment company and an equipment leasing company. Prior to 1985,
+he was with the accounting firm of Ernst & Whinney (now Ernst & Young LLP). He
+has a BS in Business Administration from John Carroll University, a Masters
+Degree in Accounting from Case Western Reserve University and is a Certified
+Public Accountant.
+
+ Mr. Butterfield, age 40, is Senior Vice President, Finance and Treasurer of
+EFG and certain of its affiliates and is Treasurer of the General Partner and
+Semele. Mr. Butterfield joined EFG in June 1992, became Vice President, Finance
+and Treasurer of EFG and certain of its affiliates in April 1996 and was
+promoted to Senior Vice President, Finance and Treasurer of EFG and certain of
+its affiliates in July 1998. Prior to joining EFG, Mr. Butterfield was an Audit
+Manager with Ernst & Young LLP, which he joined in 1987. Mr. Butterfield was
+employed in public accounting and industry positions in New Zealand and London
+(UK) prior to coming to the United States in 1987. Mr. Butterfield attained his
+Associate Chartered Accountant (A.C.A.) professional qualification in New
+Zealand and has completed his CPA requirements in the United States. He holds a
+Bachelor of Commerce degree from the University of Otago, Dunedin, New Zealand.
+
+ Ms. Simonsen, age 49, joined EFG in February 1990 and was promoted to Senior
+Vice President, Information Systems of EFG in April 1996. Prior to joining EFG,
+Ms. Simonsen was Vice President, Information Systems with Investors Mortgage
+Insurance Company, which she joined in 1973. Ms. Simonsen provided systems
+consulting
+
+10
+
+for a subsidiary of American International Group and authored a software program
+published by IBM. Ms. Simonsen holds a BA degree from Wilson College.
+
+ Ms. Ofgant, age 34, is Senior Vice President, Lease Operations of EFG and
+certain of its affiliates. Ms. Ofgant joined EFG in July 1989, was promoted to
+Manager Lease Operations in April 1994, and became Vice President of Lease
+Operations in April 1996. In July 1998, Ms. Ofgant was promoted to Senior Vice
+President of Lease Operations. Prior to joining EFG, Ms. Ofgant was employed by
+Security Pacific National Trust Company. Ms. Ofgant holds a BS degree in Finance
+from Providence College.
+
+ (f) Involvement in Certain Legal Proceedings
+
+ None.
+
+ (g) Promoters and Control Persons
+
+ See Item 10 (a-b) above.
+
+Item 11. Executive Compensation.
+
+ (a) Cash Compensation
+
+ Currently, the Partnership has no employees. However, under the terms of the
+Restated Agreement, as amended, the Partnership is obligated to pay all costs of
+personnel employed full or part-time by the Partnership, including officers or
+employees of the General Partner or its Affiliates. There is no plan at the
+present time to make any officers or employees of the General Partner or its
+Affiliates employees of the Partnership. The Partnership has not paid and does
+not propose to pay any options, warrants or rights to the officers or employees
+of the General Partner or its Affiliates.
+
+ (b) Compensation Pursuant to Plans
+
+ None.
+
+ (c) Other Compensation
+
+ Although the Partnership has no employees, as discussed in Item 11(a),
+pursuant to Section 9.4(c) of the Restated Agreement, as amended, the
+Partnership incurs a monthly charge for personnel costs of the Manager for
+persons engaged in providing administrative services to the Partnership. A
+description of the remuneration paid by the Partnership to the Manager for such
+services is included in Item 13, herein and in Note 5 to the financial
+statements included in Item 14, herein.
+
+ (d) Compensation of Directors
+
+ None.
+
+ (e) Termination of Employment and Change of Control Arrangement
+
+ There exists no remuneration plan or arrangement with the General Partner or
+its Affiliates which results or may result from their resignation, retirement or
+any other termination.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management.
+
+ By virtue of its organization as a limited partnership, the Partnership has
+outstanding no securities possessing traditional voting rights. However, as
+provided in Section 10.2(a) of the Restated Agreement, as amended (subject to
+Sections 10.2(b) and 10.3), a majority interest of the Limited Partners has
+voting rights with respect to:
+
+11
+
+1. Amendment of the Restated Agreement;
+
+ 2. Termination of the Partnership;
+
+ 3. Removal of the General Partner; and
+
+ 4. Approval or disapproval of the sale of all, or substantially all, of
+ the assets of the Partnership (except in the orderly liquidation of the
+ Partnership upon its termination and dissolution).
+
+ As of March 1, 2000, the following person or group owns beneficially more
+than 5 of the Partnership's 803,454.56 outstanding Units:
+
+Name and Amount Percent
+ Title Address of of Beneficial of
+ of Class Beneficial Owner Ownership Class
+- ------------------- ------------------------------------- ---------------- -------
+ 
+Units Representing Old North Capital Limited Partnership
+Limited Partnership 88 Broad Street 124,065.23 Units 15.44 
+Interests Boston, MA 02110
+
+The general partner of ONC is controlled by Gary Engle. See Items 10 and 13
+of this report.
+
+ The ownership and organization of EFG is described in Item 1 of this report.
+
+Item 13. Certain Relationships and Related Transactions.
+
+ The General Partner of the Partnership is AFG Leasing VI Incorporated, an
+affiliate of EFG.
+
+ (a) Transactions with Management and Others
+
+ All operating expenses incurred by the Partnership are paid by EFG on behalf
+of the Partnership and EFG is reimbursed at its actual cost for such
+expenditures. Fees and other costs incurred during the years ended December 31,
+1999, 1998 and 1997, which were paid or accrued by the Partnership to EFG or its
+Affiliates, are as follows:
+
+ 1999 1998 1997
+ ---------- ---------- ----------
+
+Equipment management fees 101,040 113,260 166,417
+Administrative charges 124,602 68,052 63,870
+Reimbursable operating expenses
+ Due to third parties 345,978 386,856 136,800
+ ---------- ---------- ----------
+
+ Total 571,620 586,168 367,087
+ ========== ========== ==========
+
+ As provided under the terms of the Management Agreement, EFG is compensated
+for its services to the Partnership. Such services include acquisition and
+management of equipment. For acquisition services, EFG was compensated by an
+amount equal to 2.23 of Equipment Base Price paid by the Partnership. For
+management services, EFG is compensated by an amount equal to 5 of gross
+operating lease rental revenue and 2 of gross full payout lease rental revenue
+received by the Partnership. Both acquisition and management fees are subject to
+certain limitations defined in the Management Agreement.
+
+ Administrative charges represent amounts owed to EFG, pursuant to Section
+9.4(c) of the Restated Agreement, as amended, for persons employed by EFG who
+are engaged in providing administrative services to the Partnership.
+Reimbursable operating expenses due to third parties represent costs paid by EFG
+on behalf of the Partnership which are reimbursed to EFG at actual cost.
+
+12
+
+All equipment was purchased from EFG, one of its affiliates or from
+third-party sellers. The Partnership's acquisition cost was determined by the
+method described in Note 2 to the financial statements included in Item 14,
+herein.
+
+ During 1997, the Partnership and certain affiliated investment programs
+sponsored by EFG exchanged their ownership interests in certain vessels for
+aggregate consideration of 11,565,375. The Partnership's share of such
+consideration was 1,203,062 consisting of common stock in Semele valued at
+ 313,146, a note receivable from Semele of 459,729 and cash of 430,187. For
+further discussion, see Note 4, "Investment Securities - Affiliate / Note
+Receivable - Affiliate to the financial statements included in Item 14 herein
+and Item 10.
+
+ All rents and proceeds from the sale of equipment are paid directly to either
+EFG or to a lender. EFG temporarily deposits collected funds in a separate
+interest-bearing escrow account prior to remittance to the Partnership. At
+December 31, 1999, the Partnership was owed 133,950 by EFG for such funds and
+the interest thereon. These funds were remitted to the Partnership in January
+2000.
+
+ Certain affiliates of the General Partner own Units in the Partnership as
+follows:
+
+ ---------------------------------------------------------------
+ Percent of
+ Total
+ Number of Outstanding
+ Affiliate Units Owned Units
+ ---------------------------------------------------------------
+
+ Atlantic Acquisition Limited
+ Partnership 16,536 2.06 
+ ---------------------------------------------------------------
+
+ Old North Capital Limited
+ Partnership 124,065.23 15.44 
+ ---------------------------------------------------------------
+
+ Atlantic Acquisition Limited Partnership ("AALP") and Old North Capital
+Limited Partnership ("ONC") are both Massachusetts Limited Partnerships formed
+in 1995 and affiliates of EFG. The general partners of AALP and ONC are
+controlled by Gary Engle. In addition, the limited partnership interests of ONC
+are owned by Semele. Gary D. Engle is Chairman and CEO of Semele.
+
+ (b) Certain Business Relationships
+
+ None.
+
+ (c) Indebtedness of Management to the Partnership
+
+ None.
+
+ (d) Transactions with Promoters
+
+ See Item 13(a) above.
+
+13
+
+PART IV
+
+Item 14. Exhibits, Financial Statement Schedules and Reports on Form 8-K.
+
+(a) Documents filed as part of this report:
+
+ (1) Financial Statements:
+
+ Report of Independent Auditors......................................... 
+
+ Statement of Financial Position
+ at December 31, 1999 and 1998.......................................... 
+
+ Statement of Operations
+ for the years ended December 31, 1999, 1998 and 1997................... 
+
+ Statement of Changes in Partners' Capital
+ for the years ended December 31, 1999, 1998 and 1997................... 
+
+ Statement of Cash Flows
+ for the years ended December 31, 1999, 1998 and 1997................... 
+
+ Notes to the Financial Statements...................................... 
+
+ (2) Financial Statement Schedules:
+
+ None required.
+
+ (3) Exhibits:
+
+ Except as set forth below, all Exhibits to Form 10-K, as set forth in
+ Item 601 of Regulation S-K, are not applicable.
+
+ A list of exhibits filed or incorporated by reference is as follows:
+
+Exhibit
+Number
+- ------
+
+2.1 Plaintiffs' and Defendants' Joint Motion to Modify Order Preliminarily
+ Approving Settlement, Conditionally Certifying Settlement Class and
+ Providing for Notice of, and Hearing on, the Proposed Settlement was
+ filed in the Registrant's Annual Report on Form 10-K/A for the year
+ ended December 31, 1998 as Exhibit 2.1 and is incorporated herein by
+ reference.
+
+2.2 Plaintiffs' and Defendants' Joint Memorandum in Support of Joint Motion
+ to Modify Order Preliminarily Approving Settlement, Conditionally
+ Certifying Settlement Class and Providing for Notice of, and Hearing on,
+ the Proposed Settlement was filed in the Registrant's Annual Report on
+ Form 10-K/A for the year ended December 31, 1998 as Exhibit 2.2 and is
+ incorporated herein by reference.
+
+ Incorporated herein by reference to the appropriate portion of the 1999
+ Annual Report to security holders for the year ended December 31, 1999
+ (see Part II).
+
+14
+
+Exhibit
+Number
+- ------
+
+2.3 Order Preliminarily Approving Settlement, Conditionally Certifying
+ Settlement Class and Providing for Notice of, and Hearing on, the
+ Proposed Settlement (August 20, 1998) was filed in the Registrant's
+ Annual Report on Form 10-K/A for the year ended December 31, 1998 as
+ Exhibit 2.3 and is incorporated herein by reference.
+
+2.4 Modified Order Preliminarily Approving Settlement, Conditionally
+ Certifying Settlement Class and Providing for Notice of, and Hearing on,
+ the Proposed Settlement (March 22, 1999) was filed in the Registrant's
+ Annual Report on Form 10-K/A for the year ended December 31, 1998 as
+ Exhibit 2.4 and is incorporated herein by reference.
+
+2.5 Plaintiffs' and Defendants' Joint Memorandum in Support of Joint Motion
+ to Further Modify Order Preliminarily Approving Settlement,
+ Conditionally Certifying Settlement Class and Providing for Notice of,
+ and Hearing on, the Proposed Settlement is filed in the Registrant's
+ Annual Report on Form 10-K for the year ended December 31, 1999 as
+ Exhibit 2.5 and is included herein.
+
+2.6 Second Modified Order Preliminarily Approving Settlement, Conditionally
+ Certifying Settlement Class and Providing for Notice of, and Hearing on,
+ the Proposed Settlement (March 5, 2000) is filed in the Registrant's
+ Annual Report on Form 10-K for the year ended December 31, 1999 as
+ Exhibit 2.6 and is included herein.
+
+4 Amended and Restated Agreement and Certificate of Limited Partnership
+ included as Exhibit A to the Prospectus, which is included in
+ Registration Statement on Form S-1 (No. 33-35148).
+
+10.1 Promissory Note in the principal amount of 2,780,000 dated March 8,
+ 2000 between the Registrant, as lender, and Echelon Residential Holdings
+ LLC, as borrower, is filed in the Registrant's Annual Report on Form
+ 10-K for the year ended December 31, 1999 as Exhibit 10.1 and is
+ included herein.
+
+10.2 Pledge Agreement dated March 8, 2000 between Echelon Residential
+ Holdings LLC (Pledgor) and American Income Partners V-A Limited
+ Partnership, as Agent for itself and the Registrant, is filed in the
+ Registrant's Annual Report on Form 10-K for the year ended December 31,
+ 1999 as Exhibit 10.2 and is included herein.
+
+13 The 1999 Annual Report to security holders, a copy of which is furnished
+ for the information of the Securities and Exchange Commission. Such
+ Report, except for those portions thereof which are incorporated herein
+ by reference, is not deemed "filed" with the Commission.
+
+23 Consent of Independent Auditors.
+
+99(a) Lease agreement with Gearbulk Shipowning Ltd. was filed in the
+ Registrant's Annual Report on Form10-K for the year ended December 31,
+ 1995 as Exhibit 99 (c) and is incorporated herein by reference.
+
+99(b) Lease agreement with General Motors Corporation was filed in the
+ Registrant's Annual Report on Form 10-K for the year ended December 31,
+ 1996 as Exhibit 99 (d) and is incorporated herein by reference.
+
+15
+
+99(c) Lease agreement with Southwest Airlines, Inc. was filed in the
+ Registrant's Annual Report on Form 10-K for the year ended December 31,
+ 1996 as Exhibit 99 (e) and is incorporated herein by reference.
+
+99(d) Lease agreement with Southwest Airlines, Inc. was filed in the
+ Registrant's Annual Report on Form 10-K for the year ended December 31,
+ 1996 as Exhibit 99 (f) and is incorporated herein by reference.
+
+99(e) Lease agreement with Southwest Airlines, Inc. was filed in the
+ Registrant's Annual Report on Form 10-K for the year ended December 31,
+ 1996 as Exhibit 99 (g) and is incorporated herein by reference.
+
+99(f) Lease agreement with Finnair OY was filed in the Registrant's Annual
+ Report on Form 10-K for the year ended December 31, 1997 as Exhibit 99
+ (h) and is incorporated herein by reference.
+
+99(g) Lease agreement with Finnair OY was filed in the Registrant's Annual
+ Report on Form 10-K for the year ended December 31, 1997 as Exhibit 99
+ (i) and is incorporated herein by reference.
+
+99(h) Lease agreement with The Helen Mining Company was filed in the
+ Registrant's Annual Report on Form 10-K for the year ended December 31,
+ 1997 as Exhibit 99 (j) and is incorporated herein by reference.
+
+99(i) Lease agreement with Reno Air, Inc. was filed in the Registrant's Annual
+ Report on Form 10-K for the year ended December 31, 1998 as Exhibit 99
+ (i) and is incorporated herein by reference.
+
+99(j) Lease agreement with Trans Ocean Corporation, Inc. was filed in the
+ Registrant's Annual Report on Form 10-K for the year ended December 31,
+ 1998 as Exhibit 99 (j) and is incorporated herein by reference.
+
+(b) Reports on Form 8-K
+
+ None.
+
+16
+
+SIGNATURES
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below on behalf of the registrant and in the capacity and
+on the date indicated.
+
+AMERICAN INCOME FUND I-C, a Massachusetts Limited Partnership
+
+By: AFG Leasing VI Incorporated,
+ a Massachusetts corporation and the
+ General Partner of the Registrant.
+
+By: /s/ Geoffrey A. MacDonald By: /s/ Gary D. Engle
+ ------------------------------ -------------------------------
+Geoffrey A. MacDonald Gary D. Engle
+Chairman and a member of the President and Chief Executive
+Executive Committee of EFG and Officer and a member of the
+President and a Director of the Executive Committee of EFG
+General Partner (Principal Executive Officer)
+
+Date: March 30, 2000 Date: March 30, 2000
+ ---------------------------- -----------------------------
+
+By: /s/ Gary M. Romano By: /s/ Michael J. Butterfield
+ ------------------------------ -------------------------------
+Gary M. Romano Michael J. Butterfield
+Executive Vice President and Chief Senior Vice President, Finance and
+Operating Officer of EFG and Clerk Treasurer of EFG and Treasurer
+of the General Partner of the General Partner
+(Principal Financial Officer) (Principal Accounting Officer)
+
+Date: March 30, 2000 Date: March 30, 2000
+ ---------------------------- -----------------------------
+
+17
+
+EXHIBIT INDEX
+ 1999 Form 10-K
+
+Exhibit
+- -------
+
+2.5 Plaintiffs' and Defendants' Joint Memorandum in Support of
+ Joint - Motion to Further Modify Order Preliminarily Approving
+ Settlement, Conditionally Certifying Settlement Class and
+ Providing for Notice of, and Hearing on, the Proposed
+ Settlement.
+
+2.6 Second Modified Order Preliminarily Approving Settlement,
+ Conditionally Certifying Settlement Class and Providing for
+ Notice of, and Hearing on, the Proposed Settlement (March 5,
+ 2000).
+
+10.1 Promissory Note in the principal amount of 2,780,000 dated
+ March 8, 2000 between the Registrant, as lender, and Echelon
+ Residential Holdings LLC, as borrower.
+
+10.2 Pledge Agreement dated March 8, 2000 between Echelon
+ Residential Holdings LLC (Pledgor) and American Income
+ Partners V-A Limited Partnership, as Agent for itself and the
+ Registrant.
+
+18
+
+<EX-2.5>
+ 2
+ EXHIBIT 2.5
+
+Exhibit 2.5
+
+ IN THE UNITED STATES DISTRICT COURT
+ SOUTHERN DISTRICT OF FLORIDA
+
+ CASE NO. 98-8030-CIV-HURLEY
+
+- --------------------------------------------------------------------------------
+
+LEONARD ROSENBLUM, J/B INVESTMENT PARTNERS, SMALL AND REBECCA BARMACK, PARTNERS,
+BARBARA HALL, HENRY R. GRAHAM, ANNE R. GRAHAM, MARGO CORTELL, PATRICK M. RHODES,
+BERNICE M. HUELS, GARRETT N. VOIGHT, CLAIRE E. FULCHER, MARCELLA LEVY, RICHARD
+HODGSON, CITY PARTNERSHIPS, HELMAN PARSONS AND CLEVA PARSONS, on behalf of
+themselves and all others similarly situated and derivatively on behalf of the
+Nominal Defendants,
+
+ Plaintiffs,
+
+vs.
+
+EQUIS FINANCIAL GROUP LIMITED PARTNERSHIP, a Massachusetts, Limited Partnership,
+EQUIS CORPORATION, a Massachusetts Corporation, GDE ACQUISITION LIMITED
+PARTNERSHIP, a Massachusetts Limited Partnership, AFG LEASING INCORPORATED, a
+Massachusetts Corporation, AFG LEASING IV INCORPORATED, a Massachusetts
+Corporation, AFG LEASING VI INCORPORATED, a Massachusetts Corporation, AFG
+AIRCRAFT MANAGEMENT CORPORATION, a Massachusetts Corporation, AFG ASIT
+CORPORATION, a Massachusetts Corporation, AF/AIP PROGRAMS LIMITED PARTNERSHIP, a
+Massachusetts Limited Partnership, GARY D. ENGLE and GEOFFREY A. MACDONALD,
+
+ Defendants,
+
+AIRFUND I INTERNATIONAL LIMITED PARTNERSHIP, a Massachusetts Limited
+Partnership, AIRFUND II INTERNATIONAL LIMITED PARTNERSHIP, a Massachusetts
+Limited Partnership, AMERICAN INCOME 4 LIMITED PARTNERSHIP, a Massachusetts
+Limited Partnership, AMERICAN INCOME 5 LIMITED PARTNERSHIP, a Massachusetts
+
+Limited Partnership, AMERICAN INCOME 6 LIMITED PARTNERSHIP, a Massachusetts
+Limited Partnership, AMERICAN INCOME 7 LIMITED PARTNERSHIP, a Massachusetts
+Limited Partnership, AMERICAN INCOME 8 LIMITED PARTNERSHIP, a Massachusetts
+Limited Partnership, AMERICAN INCOME PARTNERS III-A LIMITED PARTNERSHIP, a
+Massachusetts Limited Partnership, AMERICAN INCOME PARTNERS III-B LIMITED
+PARTNERSHIP, a Massachusetts Limited Partnership, AMERICAN INCOME PARTNERS III-C
+LIMITED PARTNERSHIP, a Massachusetts Limited Partnership, AMERICAN INCOME
+PARTNERS III-D LIMITED PARTNERSHIP, a Massachusetts Limited Partnership,
+AMERICAN INCOME PARTNERS IV-A LIMITED PARTNERSHIP, a Massachusetts Limited
+Partnership, AMERICAN INCOME PARTNERS IV-B LIMITED PARTNERSHIP, a Massachusetts
+Limited Partnership, AMERICAN INCOME PARTNERS IV-C LIMITED PARTNERSHIP, a
+Massachusetts Limited Partnership, AMERICAN INCOME PARTNERS IV-D LIMITED
+PARTNERSHIP, a Massachusetts Limited Partnership, AMERICAN INCOME PARTNERS V-A
+LIMITED PARTNERSHIP, a Massachusetts Limited Partnership, AMERICAN INCOME
+PARTNERS V-B LIMITED PARTNERSHIP, a Massachusetts Limited Partnership, AMERICAN
+INCOME PARTNERS V-C LIMITED PARTNERSHIP, a Massachusetts Limited Partnership,
+AMERICAN INCOME PARTNERS V-D LIMITED PARTNERSHIP, a Massachusetts Limited
+Partnership, AMERICAN INCOME FUND I-B, a Massachusetts Limited Partnership,
+AMERICAN INCOME FUND I-C, a Massachusetts Limited Partnership, AFG INVESTMENT
+TRUST A, a Delaware business trust, AFG INVESTMENT TRUST B, a Delaware business
+trust, AFG INVESTMENT TRUST C, a Delaware business trust, and AFG INVESTMENT
+TRUST D, a Delaware business trust,
+
+ Nominal Defendants.
+
+- --------------------------------------------------------------------------------
+
+2
+
+PLAINTIFFS' AND DEFENDANTS' JOINT MEMORANDUM IN
+ SUPPORT OF JOINT MOTION TO FURTHER MODIFY ORDER
+ PRELIMINARILY APPROVING SETTLEMENT, CONDITIONALLY
+ CERTIFYING SETTLEMENT CLASS AND PROVIDING
+ FOR NOTICE OF, AND HEARING ON, THE PROPOSED SETTLEMENT
+
+ Plaintiffs ("Plaintiffs" or "Class Counsel") and Defendants submit this
+Joint Memorandum in support of their Joint Motion To Further Modify Order
+Preliminarily Approving Settlement, Conditionally Certifying Settlement Class
+and Providing For Notice of, And Hearing On, The Proposed Settlement.
+
+ Background
+
+ By Order dated August 20, 1998, this Court preliminarily approved the
+original Stipulation of Settlement dated July 16, 1998, conditionally certified
+the Settlement Class, and three sub-classes,(1) and provided for Notice of, and
+Hearing on, the proposed Settlement (the "Settlement"). A true and complete copy
+of the Court's August 20, 1998 Order (the "Preliminary Approval Order") is
+attached to the Motion as Exhibit 1.
+
+ As part of the settlement of the claims brought by the Operating
+Partnership Sub-Class, the Settlement provides for Defendants to pursue and
+cause the consummation of an exchange transaction (the "Exchange"), pursuant to
+which eleven (11) of the limited partnerships named as Nominal Defendants (the
+"Operating Partnerships") would be restructured, and converted into a
+publicly-traded entity ("Newco") whose securities would be listed and traded on
+the NASDAQ National Market System or other national securities exchange.
+
+ On or about August 24, 1998, four days after the Court's entry of the
+Preliminary Approval Order, Defendants filed a Consent Solicitation Statement
+(Form 14A) to be used in
+
+3
+
+connection with the solicitation of the Operating Partnership Sub-Class' consent
+to the Exchange for review with the U.S. Securities and Exchange Commission (the
+"SEC"). The parties had anticipated that the SEC would be able to complete the
+review within several months, and thereafter the Notice of the Settlement and
+fairness hearing would be sent to all Class members, with the Consent
+Solicitation Statement included only with the Notice sent to the Operating
+Partnership Sub-Class members.
+
+ However, after encountering numerous unanticipated delays in the SEC
+review process, the parties entered into an Amended Stipulation of Settlement
+dated March 15, 1999 (the "Amended Stipulation"). On March 22, 1999, after a
+hearing, this Court entered an order modifying the preliminary approval order
+(the "Modified Preliminary Approval Order"). A true and complete copy of the
+Modified Preliminary Approval Order is attached the Motion as Exhibit 2.
+Pursuant to the Modified Preliminary Approval Order, the settlement process was
+bifurcated into two phases. In the first phase, the parties asked the Court to
+approve the settlement with respect to the claims brought by the so-called RSL
+and Trust Sub-Classes.(2) In the second phase, the parties will seek the Court's
+final approval of the settlement with respect to the claims brought by the
+Operating Partnership Sub-Class.
+
+ Due to the delays caused by the SEC review process, certain financial
+information upon which the settlement was based has become outdated.
+Accordingly, the parties have agreed to further modifications to the Amended
+Stipulation to reflect updated valuations of
+
+- --------------------------------------------------------------------------------
+(1) The three sub-classes are referred to as: (a) the "RSL Sub-Class"; (b) the
+"Operating Partnership Sub-Class'; and (c) the "Trust Sub-Class".
+
+(2) A hearing on the final approval of the settlement with respect to the RSL
+and Trust Sub-Classes was held on May 21, 1999. After that hearing, on May 26,
+1999, the Court entered an order approving the settlement with respect to the
+RSL and Trust Sub-Classes.
+
+4
+
+the Operating Partnerships and Management Assets and revised allocations of
+Shares in Newco based on those valuations.
+
+ The Proposed Amendments
+
+ The following is a description of the proposed amendments to the
+Settlement that were negotiated on an arm's-length basis by Class Counsel and
+the Defendants. The vast majority of the original Stipulation and the Amended
+Stipulation have not been altered, and the sub-classes, which were conditionally
+certified by the Court in its August 20, 1998 Order, remain the same. The
+parties have agreed to the following amendments to the Amended Stipulation:
+
+ (a) amend the 10 million cash distribution schedule (see Chart #1)
+ in Section 2.2(a) to reflect the updated cash reserves held by each
+ of the Operating Partnerships as of September 30, 1999;
+
+ (b) amend the allocations of Newco Shares in Sections 2.2(c) and
+ 2.2(d) (see Chart #2 and #3) to reflect updated valuations of the
+ Operating Partnerships and Management Assets;
+
+ (c) amend Section 2.2(d) to increase the payment by Equis of Newco
+ Shares to the Operating Partnership Sub-Class members from 8
+ million to 9 million;
+
+ (d) eliminate Section 2.2(g) which offered so-called "appraisal
+ rights" for Participating Investors who did not wish to retain their
+ Shares in Newco;
+
+ (e) eliminate Section 2.2(i) which required that twenty-five percent
+ (25 of the Shares of Newco allocated to the Equis Owners be placed
+ in an escrow account:
+
+ and
+
+5
+
+(f) amend Section 4.1(i) to clarify that the Operating Partnerships
+ may invest a total of 32 million in New Investments, to be
+ increased only upon the further agreement of the parties, which
+ amount corresponds to forty percent (40 of the total aggregate net
+ asset values of all the Operating Partnerships as of March 19, 1999.
+
+ 1. Amendments Pertaining to Updated Financial Information, Including
+ Valuations and Allocations
+
+ The information which is fundamental to the terms of the original
+Stipulation and Amended Stipulation has become outdated. Specifically, the data
+supporting the valuation of the Operating Partnerships and the Management Assets
+was prepared as of September 1998 and now has changed. The Partnerships have
+sold various of their equipment assets and, in certain instances, they have
+entered into agreements to renew existing leases or otherwise to re-lease their
+equipment assets. In addition, information that was used to assess the potential
+market value of the common stock of Newco, and the value of the Management
+Assets to be contributed by the Defendants, such as price earnings ratios and
+other market multiples for companies comparable to Newco and the Management
+Assets, has changed due to the passage of time and resulting changes in the
+business environment and stock markets. Therefore, the parties believe that it
+is in the best interests of the limited partners of the Partnerships to update
+the valuation of the transaction using the same methodology employed before and
+to revise the Amended Stipulation to simplify and improve upon its terms.
+
+ The Defendants have updated and revised the valuation information as of
+September 30, 1999 and based on this latest analysis and negotiations with Class
+Counsel, Equis has agreed to reduce its net allocation of Newco Shares for the
+Management Assets
+
+6
+
+to 14.72 from the prior 22.335 , representing a reduction of approximately 34 .
+Accordingly, the parties have amended Sections 2.2(c) and 2.2(d) of the Amended
+Stipulation to reflect the updated valuations of the Operating Partnerships and
+Management Assets. Set forth below is a schedule showing the revised valuations
+and allocations as of September 30, 1999 in comparison with the September 30,
+1998 valuations and allocations (3):
+
+ REVISED VALUATIONS AND ALLOCATIONS
+
+ ---------------------------------------------------------
+ September 30, 1999 September 30, 1998
+ ---------------------------------------------------------
+ Value Percent Value Percent
+ ---------------------------------------------------------
+Partnerships 64,686,726 85.28 78,042,346 77.665 
+Management Assets 11,165,280 14.72 22,443,000 22.335 
+ ---------------------------------------------------------
+ 75,852,006 100.00 100,485,346 100.000 
+ ---------------------------------------------------------
+
+ 2. Amendments Pertaining To Increased Payment by Equis of Newco Shares
+ from 8 Million to 9 Million and Elimination of Promissory Notes
+ and Escrow Account Provisions
+
+ Equis has also agreed to increase the reallocation of Newco Shares it
+would have received for the Management Assets to the Partnerships from 8
+million to 9 million. By increasing the payment to 9 million, Equis will give
+up a much greater percentage of the estimated value of the Management Assets in
+favor of the limited partners (44.6 compared to the previous 26.3 ). In
+exchange for the substantial benefits to the limited partners caused by the
+changes described above, the parties have agreed to eliminate the requirement
+that the Defendants defer retention of 25 of the Newco Shares allocated to them
+for the Management Assets in escrow pending attainment of future target net
+income
+
+- ----------
+(3) The allocations above are net of the 10 million cash distribution and
+reflect the re-allocation of 9 million of value from Equis' Management Assets
+to the Partnerships.
+
+7
+
+levels. Under the prior settlement agreement, the Defendants would have received
+16.75 of Newco's common stock in exchange for the Management Assets, assuming
+that none of the escrow shares were retained by the Defendants, and 22.335 ,
+assuming that all of the escrow shares were retained by the Defendants. Under
+the revised settlement agreement, the Defendants will receive a smaller stock
+allocation of 14.72 for the Management Assets and the escrow concept will be
+eliminated. The elimination of the escrow shares concept will permit management
+to focus on Newco's long-term success while having the added benefit of
+accelerating finalization of the settlement to a date coincident to the date of
+Consolidation.
+
+ In addition, the parties have agreed to eliminate the option for the
+limited partners to elect to receive promissory notes instead of common stock in
+order to simplify the capital structure of Newco and eliminate any form of
+"equity" debt service upon the Consolidation. This revision will cause all
+limited partners of the Operating Partnerships (and the general partners) to
+have uniform financial interests and will simplify the choices presented to the
+limited partners to either (a) object to their Partnership participating in the
+Consolidation, or (b) approve of its participation.
+
+ 3. Amendments to Clarify Maximum Amount Which May be Reinvested In New
+ Investments
+
+ In its Modified Preliminary Approval Order, this Court approved amendments
+to the Settlement which permitted the Operating Partnerships, pending the
+completion of the SEC review process and ultimately the Exchange, to reinvest a
+certain portion of the money (40 of the total aggregate net asset value of the
+Partnerships) they have received from the sales of equipment. The parties now
+seek to clarify the Amended Stipulation to make clear that the Operating
+Partnerships may invest a total of 32 million in New
+
+8
+
+Investments, to be increased only upon the further agreement of the parties,
+which amount corresponds to forty percent (40 of the total aggregate net asset
+values of all the Operating Partnerships as of March 19, 1999.
+
+ Conclusion
+
+ For the foregoing reasons, Plaintiffs and Defendants request that this
+Court grant the Joint Motion To Further Modify Order Preliminarily Approving
+Settlement, Conditionally Certifying Settlement Class and Providing For Notice
+of, And Hearing On, The Proposed Settlement.
+
+ Respectfully submitted,
+ this 24 day of February 2000,
+
+ ATTORNEYS FOR DEFENDANTS:
+ /s/ [ILLEGIBLE]
+ --------------------------------------
+ RICHMAN GREER WEIL BRUMBAUGH
+ MIRABITO & CHRISTENSEN, PA.
+ Gerald F. Richman
+ Joseph F. Hession
+ Phillips Point - East Tower
+ 777 South Flager Drive - Suite 1100
+ West Palm Beach, Florida 33401
+ (561) 803-3500
+
+NIXON PEABODY LLP
+ Deborah L. Thaxter, P.C.
+ Gregory P. Deschenes
+ 101 Federal Street
+ Boston, MA 02110 - 1832
+ (617) 345-1000
+
+9
+
+ATTORNEYS FOR PLAINTIFFS:
+
+ /s/ [ILLEGIBLE] /FOR/
+ --------------------------------------
+ LERNER & PEARCE, P.A.
+ Allan M. Lerner
+ 2888 East Oakland Park Boulevard
+ Ft. Lauderdale, FL 33306
+ (954) 563-8111
+
+ /s/ [ILLEGIBLE] /FOR/
+ --------------------------------------
+ WINCHESTER HARWOOD HALEBIAN
+ & FEFFER LLP
+ Andrew D. Friedman
+ 488 Madison Avenue, 8th Floor
+ New York, NY 10022
+ (212) 935-7400
+
+ LAW OFFICES OF VINCENT T.
+ GRESHAM
+ Vincent T. Gresham
+ 6065 Roswell Road, Ste. 1445
+ Atlanta, GA 30328
+ (770) 552-5270
+
+ GILMAN AND PASTOR
+ Peter A. Lagorio
+ One Boston Place
+ Boston, MA 02108-4400
+ (617) 589-3750
+
+ BENJAMIN S. SCHWARTZ,
+ CHARTERED
+ Benjamin S. Schwartz
+ 4600 Olympic Way
+ Evergreen, CO 80439
+ (303) 670-5941
+
+ LAW OFFICES OF LIONEL Z. GLANCY
+ Lionel Z. Glancy
+ 1801 Avenue of the Stars, Suite 306
+ Los Angeles, CA 90067
+ (310) 201-9150
+
+10
+
+LAW OFFICES OF JAMES V. BASHIAN
+ 500 Fifth Avenue, Ste. 2700
+ New York, NY 10110
+ (212) 921-4100
+
+ THOMAS A. HOADLEY, PA
+ 310 Australian Avenue
+ Palm Beach, FL 33480
+ (561) 792-9006
+
+ GOODKIND, LABATAN, RUDOFF &
+ SUCHAROW, LLP
+ Lynda J. Grant
+ Robert N. Cappucci
+ 100 Park Avenue
+ New York, NY 10017
+ (212) 907-0700
+
+ LASKY & RIFKIND, LTD.
+ Leigh Lasky
+ 30 North LaSalle Street, Ste. 2140
+ Chicago, IL 60602
+ (312) 759-7670
+
+ HAROLD B. OBSTFELD, P.C.
+ Harold B. Obstfeld
+ 260 Madison Avenue
+ New York, NY 10116
+ (212) 696-1212
+
+11
+
+</EX-2.5>
+
+<EX-2.6>
+ 3
+ EXHIBIT 2.6
+
+Exhibit 2.6
+
+ IN THE UNITED STATES DISTRICT COURT
+ FOR THE SOUTHERN DISTRICT OF FLORIDA
+
+- --------------------------------------------------------------------------------
+
+LEONARD ROSENBLUM, J/B INVESTMENT PARTNERS, SMALL and REBECCA BARMACK, PARTNERS,
+BARBARA HALL, HENRY R. GRAHAM, ANNE R. GRAHAM, MARGO CORTELL. PATRICK M RHODES,
+BERNICE M. HUELS, GARRETT N. VOIGHT, CLAIRE E. FULCHER, MARCELLA LEVY, RICHARD
+HODGSON, CITY PARTNERSHIPS, HELMAN PARSONS AND CLEVA PARSONS, on behalf of
+themselves and all others similarly situated and derivatively on behalf of the
+Nominal Defendants,
+
+ Plaintiffs,
+
+v. Case No. 98-8030
+
+EQUIS FINANCIAL GROUP LIMITED PARTNERSHIP, a Massachusetts Limited Partnership.
+EQUIS CORPORATION, a Massachusetts Corporation, GDE ACQUISITION LIMITED
+PARTNERSHIP, a Massachusetts Limited Partnership, AFG LEASING INCORPORATED, a
+Massachusetts Corporation, AFG LEASING IV INCORPORATED, a Massachusetts
+Corporation. AFG LEASING VI INCORPORATED, a Massachusetts Corporation, AFG
+AIRCRAFT MANAGEMENT CORPORATION, a Massachusetts Corporation, AFG ASIT
+CORPORATION. a Massachusetts Corporation, AF/AIP PROGRAMS LIMITED PARTNERSHIP, a
+Massachusetts Limited Partnership, GARY D. ENGLE and GEOFFREY A. MACDONALD.
+
+ Defendants,
+
+AIRFUND I INTERNATIONAL LIMITED PARTNERSHIP, a
+
+- --------------------------------------------------------------------------------
+
+Massachusetts Limited Partnership, AIRFUND II INTERNATIONAL LIMITED PARTNERSHIP,
+a Massachusetts Limited Partnership, AMERICAN INCOME 4 LIMITED PARTNERSHIP. a
+Massachusetts Limited partnership, AMERICAN INCOME 5 LIMITED PARTNERSHIP, a
+Massachusetts Limited Partnership, AMERICAN INCOME 6 LIMITED PARTNERSHIP, a
+Massachusetts Limited partnership, AMERICAN INCOME 7 LIMITED PARTNERSHIP, a
+Massachusetts Limited Partnership, AMERICAN INCOME 8 LIMITED PARTNERSHIP, a
+Massachusetts Limited Partnership, AMERICAN INCOME PARTNERS III-A LIMITED
+PARTNERSHIP, a Massachusetts Limited Partnership, AMERICAN INCOME PARTNERS III-B
+LIMITED PARTNERSHIP, a Massachusetts Limited Partnership, AMERICAN INCOME
+PARTNERS III-C LIMITED PARTNERSHIP, a Massachusetts Limited Partnership,
+AMERICAN INCOME PARTNERS III-D LIMITED PARTNERSHIP, a Massachusetts Limited
+Partnership, AMERICAN INCOME PARTNERS IV-A LIMITED PARTNERSHIP, a Massachusetts
+Limited Partnership, AMERICAN INCOME PARTNERS IV-B LIMITED PARTNERSHIP, a
+Massachusetts Limited Partnership, AMERICAN INCOME PARTNERS IV-C LIMITED
+PARTNERSHIP, a Massachusetts Limited Partnership, AMERICAN INCOME PARTNERS IV-D
+LIMITED PARTNERSHIP, a Massachusetts Limited Partnership, AMERICAN INCOME
+PARTNERS V-A LIMITED PARTNERSHIP, a Massachusetts Limited Partnership, AMERICAN
+INCOME PARTNERS V-B LIMITED PARTNERSHIP, a Massachusetts Limited Partnership,
+AMERICAN INCOME PARTNERS V-C LIMITED PARTNERSHIP, a Massachusetts Limited
+Partnership, AMERICAN INCOME PARTNERS V-D LIMITED PARTNERSHIP, a Massachusetts
+Limited Partnership,
+- --------------------------------------------------------------------------------
+
+-2-
+
+AMERICAN INCOME FUND I-B, a Massachusetts Limited Partnership, AMERICAN INCOME
+FUND I-C, a Massachusetts Limited Partnership, AMERICAN INCOME FUND I-D, a
+Massachusetts Limited Partnership, AMERICAN INCOME FUND I-E, a Massachusetts
+Limited Partnership, AFG INVESTMENT TRUST A, a Delaware business trust, AFG
+INVESTMENT TRUST B, a Delaware business trust, AFG INVESTMENT TRUST C, a
+Delaware business trust, and AFG INVESTMENT TRUST D, a Delaware business trust,
+
+ Nominal Defendants.
+
+- --------------------------------------------------------------------------------
+
+ SECOND MODIFIED ORDER PRELIMINARILY APPROVING SETTLEMENT,
+ CONDITIONALLY CERTIFYING SETTLEMENT CLASS AND PROVIDING
+ FOR NOTICE OF, AND HEARING ON, THE PROPOSED SETTLEMENT
+
+ WHEREAS, by Order dated August 20, 1998 (the "Preliminary Approval
+Order"), this Court issued an order in the above captioned action (the "Action")
+preliminarily approving the Settlement, conditionally certifying the settlement
+class and providing for notice of, and hearing on the proposed settlement, and
+by order dated March 22, 1999, this Court entered an order modifying the
+Preliminary Approval Order ("Modified Preliminary Approval Order"), and the
+parties to the Action have now agreed to further amend the Stipulation of
+Settlement ("Second Amended Stipulation"), this Court having read and considered
+the Second Amended Stipulation and the exhibits annexed thereto;
+
+-3-
+
+NOW, THEREFORE, IT IS HEREBY ORDERED THAT THE COURT FURTHER MODIFIES THE
+ORDER INSOFAR AS SET FORTH BELOW:
+
+ 1. A hearing (the "Hearing") shall be held before this Court on Thursday,
+July 27, 2000, at 701 Clematis Street, West Palm Beach, Florida, 4:00 p.m., in
+Courtroom 5, to determine whether the proposed Settlement of the Action on the
+terms and conditions provided for in the Second Amended Stipulation, with
+respect to the Operating Partnership Sub-Class, including the issuance and
+exchange of the securities in the Exchange, is fair, reasonable and adequate and
+should be finally approved by the Court; whether a final judgment as provided in
+the Second Amended Stipulation should be entered herein with respect to the
+claims brought by the Operating Partnership Sub-Class: and whether Class
+Counsels application(s) for attorneys' fees, awards to the Class Plaintiffs and
+the reimbursement of out-of-pocket expenses should be granted. The Court may
+continue the Hearing without further notice to Class Members.
+
+ 2. The Court approves, as to form and content, the Notices of Class Action
+Determination, Proposed Settlement and Fairness Hearing (the "Notices"), and
+finds that the mailing of the Notices substantially in the manner and form set
+forth in paragraph 3 of this Order meets the requirements of Rule 23 of the
+Federal Rules of Civil Procedure, the Constitution of the United States and any
+other applicable law, is the best notice practicable
+
+-4-
+
+under the circumstances, and constitutes due and sufficient notice to all
+persons entitled thereto.
+
+ 3. (a) Within five (5) days following review by the SEC of the Consent
+Solicitation Statement (said 5th day being referred to hereafter as the "Notice
+Date), the Defendants shall cause a copy of the Notice and the Consent
+Solicitation Statement to be mailed to all Operating Partnership Sub-Class
+Members at their last known address as appearing in the records maintained by
+the Partnerships;
+
+ (b) At or prior to the Hearing, Defendants' counsel shall serve and
+file with the Court proof, by affidavit or declaration, of such mailing to the
+Operating Partnership Sub-Class; and
+
+ (c) All reasonable costs incurred in identifying and notifying Class
+Members shall be paid as set forth in the Second Amended Stipulation. In the
+event that the Settlement is not approved by the Court, or otherwise fails to
+become effective, Defendants shall not have any recourse against the Plaintiffs,
+Class Counsel or the Claims Administrator for such costs and expenses which have
+been incurred or advanced pursuant to the Second Amended Stipulation or Second
+Modified Court Order.
+
+-5-
+
+4. Class Members may enter an appearance in the Action, at their own
+expense, individually or through counsel of their own choice. If they do not
+enter an appearance, they will be represented by Class Counsel.
+
+ 5. Pending final determination of whether the Settlement should be
+approved, neither the Class Plaintiffs nor any Class Member, either directly,
+representatively, derivatively, or in any other capacity, shall commence or
+prosecute against any of the Defendants or the Released Parties, any action or
+proceeding in any court or tribunal asserting any of the Settled Claims.
+
+ 6. Pending final determination of whether the Settlement should be
+approved, the Class Plaintiffs and all other Class Members are barred and
+permanently enjoined from (i) transferring, selling, assigning, giving,
+pledging, hypothesizing or otherwise disposing of any Units of the Operating
+Partnerships to any person other than a family member or in cases of divorce,
+incapacity or death of the Unitholder; (ii) granting a proxy to object to the
+Exchange; or (iii) commencing a tender offer for the Units. In addition, pending
+final determination of whether the Settlement should be approved, the General
+Partners of the Operating Partnerships are enjoined from (i) recording any
+transfers made in violation of the Order and (ii) providing the list
+
+-6-
+
+of investors in any Operating Partnership to any person for the purpose of
+conducting a tender offer.
+
+ 7. In addition effective March 19, 1999, the Operating Partnerships may
+collectively invest up to forty percent (40 ), to be Increased only upon
+agreement of the parties, of the total aggregate net asset values of all
+Operating Partnerships, in any investment, including, but not limited to
+additional equipment and other business activities, that the General Partner and
+the Manager reasonably believe to be consistent with the operating objectives
+and business interests of Newco after the Exchange (the New Investments"),
+subject to the following limitations:
+
+ a. Under no circumstances may the Operating Partnership reduce its cash
+ balance to an amount less than the amount required to pay the
+ Operating Partnership's share of the 10 Million Cash Distribution
+ provided for herein, plus such additional amount as the General
+ Partner reasonably believes to be necessary to meet working capital
+ and other cash reserve requirements of the Operating Partnership.
+
+ b. To the extent that New Investments are made in additional equipment,
+ the Manager will (i) defer, until the earlier of the effective date
+ of the Exchange or December 31, 1999, any Acquisition Fees resulting
+ therefrom and (ii) limit its Management Fee on all such assets to 2 
+ of rental income. In the event the
+
+-7-
+
+Exchange is consummated, all such Acquisition and Management Fees
+ related to the New Investments will be paid to Newco.
+
+ c. To the extent that New Investments are not represented by equipment
+ (ie: business acquisitions), the Manager will forego any Acquisition
+ Fees and Management Fees related to such assets.
+
+ d. Except for permitting New Investments, or as otherwise provided for
+ herein, all other provisions of the Partnership Agreements governing
+ the investment objectives and policies of the Partnership shall
+ remain in full force and effect.
+
+ e. In the event that an Operating Partnership has acquired New
+ Investments pursuant to Section 4.1 (i)(a) through (d) of the Second
+ Amended Stipulation, and is not a party to the Exchange, Newco shall
+ acquire all such New Investments from such Operating Partnership for
+ an amount equal to the Operating Partnership's net equity investment
+ in such New Investments plus an annualized return thereon of 7.5 .
+
+ f. In the event that an Operating Partnership has acquired New
+ Investments pursuant to Section 4.1(i)(a) through (d) of the Second
+ Amended Stipulation, and the Exchange is not consummated, the
+ General Partner(s) shall (i) use its (their) best efforts to divest
+ all such New Investments in an orderly and timely fashion, and (ii)
+ cancel or return to each Operating Partnership any accumulated or
+ deferred fees on such New Investments.
+
+ g. The parties agree the Operating Partnerships may invest a total of
+ 32 million in New Investments, to be increased only upon the
+ further agreement of the
+
+-8-
+
+parties, which amount corresponds to forty percent (40 of the
+ total aggregate net asset values of all Operating Partnerships as of
+ March 19, 1999.
+
+ 8. Any Member of the Settlement Class may appear at the Settlement
+Hearings and object to (a) the approval of the proposed Settlement of the Action
+as fair, reasonable and adequate, (b) the entrance of a final judgment, and/or
+(c) the application(s) for attorneys' fees and expenses; provided, however, that
+no Class Member or any other person shall be heard or entitled to contest the
+approval of the terms and conditions of the proposed Settlement, or, if
+approved, the judgment to be entered thereto approving the same, or the
+attorneys' fees and expenses to Class Counsel, unless on or before fourteen (14)
+days prior to the Hearing, that person has served, by hand or by first-class
+mail, written objections and copies of any papers and briefs desired to be
+considered by the Court, together with proof of membership in the Settlement
+Class, upon both Plaintiffs' Lead Counsel: Andrew D. Friedman, Esq., Wechsler
+Harwood Halebian & Feffer, LLP, 488 Madison Avenue, New York, N.Y. 10022; and
+Defendants' Counsel: Deborah L. Thaxter, P.C., Nixon Peabody LLP, 101 Federal
+Street, Boston, Massachusetts 02110, and filed said objections, papers and
+briefs with the Clerk of the United States District Court for the Southern
+District of Florida. Any Member of the Settlement Class who does not make his or
+her objection in the manner provided herein shall be deemed to have waived such
+objection, including the right to appeal, and shall forever be foreclosed
+
+-9-
+
+from making any objection to the fairness or adequacy of the proposed Settlement
+as incorporated in the Second Amended Stipulation and the award of attorneys'
+fees and expenses to Class Counsel, unless otherwise ordered by the Court.
+
+ 9. The Court reserves the right to continue the date of the Hearing and
+any continuation thereof without further notice to the members of the Settlement
+Class, and retains jurisdiction to consider all further applications arising out
+of or connected with the proposed Settlement.
+
+ DONE and SIGNED in Chambers at West Palm Beach, Florida, this 5th day of
+March, 2000.
+
+/s/ Daniel T.K. Hurley
+ -----------------------------------
+ Daniel T.K. Hurley
+ United States District Judge
+
+Copies To All Counsel Of Record
+
+-10-
+
+</EX-2.6>
+
+<EX-10.1>
+ 4
+ EXHIBIT 10.1
+
+Exhibit 10.1
+
+ PROMISSORY NOTE
+
+ 2,780,000 As of March 8, 2000
+
+ FOR VALUE RECEIVED, the undersigned, Echelon Residential Holdings LLC, a
+Delaware limited liability company with a principal address of 450 Carillon
+Parkway, Suite 200, St. Petersburg, FL 33716 (hereinafter "the Maker"), promises
+to pay to the order of American Income Partners I-C Limited Partnership, with a
+principal address of 88 Broad Street, Boston, MA 02110 (together with any other
+holder hereof, the "Payee") or at such address or at such other place as the
+Payee may from time to time designate in writing, the principal sum of
+
+ TWO MILLION SEVEN HUNDRED EIGHTY THOUSAND DOLLARS
+ 2,780,000), together with interest on the unpaid principal balance hereof from
+time to time at a fixed rate equal to fourteen percent (14.0 per annum through
+that date which is twenty-four (24) months from the date hereof and eighteen
+percent (18 per annum thereafter. Such interest shall accrue and compound on a
+monthly basis but shall not be due and payable until the Maturity Date. In the
+absence of demonstrable error, the books and records of the Payee shall
+constitute conclusive evidence of the unpaid principal balance hereof from time
+to time.
+
+ This Note may be prepaid, in whole or from time to time in part, at any
+time, without premium or penalty. All payments shall be applied first to
+collection costs, then to accrued interest and any remainder in payment of
+principal. The principal amount prepaid, if any, may not at any time be
+reborrowed.
+
+ If not sooner paid, all outstanding principal and accrued and unpaid
+interest thereon shall be due and payable on that date which is thirty (30)
+months from the date hereof (the "Maturity Date").
+
+ All payments hereunder shall be payable in lawful money of the United
+States which shall be legal tender for public and private debts at the time of
+payment. Interest shall be calculated on the basis of a year consisting of 360
+days and payable for the actual number of days elapsed (including the first day
+but excluding the last day), including any time extended by reason of Saturdays,
+Sundays and holidays.
+
+ It is expressly agreed that the occurrence of any one or more of the
+following shall constitute an "Event of Default" hereunder:
+
+ (a) any failure to pay any amount or installment of interest or principal
+and interest whereon the same is payable as above expressed;
+
+ (b) any representation or warranty made by the Maker in connection
+herewith be untrue when made or not be fulfilled;
+
+(c) failure to observe or perform any other covenant, agreement,
+condition, term or provision hereof;
+
+ (d) the Borrower or any guarantor or any member or joint venturer in the
+Borrower shall be involved in financial difficulties as evidenced by: (1) its
+commencement of a voluntary case under Title 11 of the United States Code as
+from time to time in effect, or its authorizing, by appropriate proceedings, the
+commencement of such a voluntary case; (2) its filing an answer or other
+pleading admitting or failing to deny the material allegations of a petition
+filed against it commencing an involuntary case under said Title 11, or seeking,
+consenting to or acquiescing in the relief therein provided, or by its failing
+to controvert timely the material allegations of any such petition; (3) the
+entry of an order for relief in any involuntary case commenced under said Title
+11; (4) its seeking relief as a debtor under any applicable law, other than said
+Title 11, of any jurisdiction relating to the liquidation or reorganization of
+debtors or to the modification or alteration of the rights of creditors, or its
+consenting to or acquiescing in such relief; (5) the entry of an order by a
+court of competent jurisdiction (i) finding it to be bankrupt or insolvent, (ii)
+ordering or approving its liquidation, reorganization or any modification or
+alteration of the rights of creditors, or (iii) assuming custody of, or
+appointing a receiver or other custodian for, all or a substantial part of its
+property; or (6) its making an assignment for the benefit of, or entering into a
+composition with, its creditors, or appointing or consenting to the appointment
+of a receiver or other custodian for all or a substantial part of its property.
+
+ If any such Event of Default hereunder shall occur, the Payee may declare
+to be immediately due and payable the then outstanding principal balance under
+this Note, together with all accrued and unpaid interest thereon, and all other
+amounts payable to the Payee hereunder, whereupon all such amounts shall become
+and be due and payable immediately. The failure of the Payee to exercise said
+option to accelerate shall not constitute a waiver of the right to exercise the
+same at any other time.
+
+ The Maker will pay on demand all costs and expenses, including reasonable
+attorneys' fees, incurred or paid by the Payee in enforcing or collecting any of
+the obligations of the Maker hereunder. The Maker agrees that all such costs and
+expenses and all other expenditures by the Payees on account hereof which are
+not reimbursed by the Maker immediately upon demand, and all amounts due under
+this Note after maturity and any amounts due hereunder if an Event of Default
+shall occur hereunder shall bear interest at a rate equal to the lesser of
+eighteen percent (18.0 per annum or the maximum rate permitted by law until
+such expenditures are repaid or this Note and such amounts are paid in full to
+the Payee.
+
+ Notwithstanding any other provision hereof, the Maker shall not be
+required to pay any amount pursuant hereto which is in excess of the maximum
+amount permitted under applicable law. It is the intention of the parties hereto
+to conform strictly to any applicable usury law, and it is agreed that if any
+amount contracted for, chargeable or receivable under this Note shall exceed the
+maximum amount permitted under any such law, any such excess shall be deemed a
+mistake and cancelled automatically and, if theretofore paid, shall be refunded
+to the Maker or, at the Payee's sole option, shall be applied as set forth
+above.
+
+All notices required or permitted to be given hereunder shall be given in
+the writing and shall be effective when mailed, postage prepaid, by registered
+or certified mail, addressed in the case of the Maker to it at the address of
+the Maker set forth above and in the case of the Payee to it at the address of
+the Payee set forth above or to such other address as either the Maker or the
+Payee may from time to time specify by like notice.
+
+ All of the provisions of this Note shall be binding upon and inure to the
+benefit of the Maker and the Payee and their respective successors and assigns.
+This Note shall be governed by and construed in accordance with the internal
+laws of The Commonwealth of Massachusetts.
+
+ The Maker and every indorser and guarantor hereof hereby consents to any
+extension of time of payment hereof, release of all or any part of the security
+for the payment hereof, or release of any party liable for this obligation, and
+waives presentment for payment, demand, protest and notice of dishonor. Any such
+extension or release may be made without notice to the Maker and without
+discharging their liability.
+
+ IN WITNESS WHEREOF, the Maker has executed and delivered this Note, under
+seal, on the day and year first written above.
+
+ ECHELON RESIDENTIAL HOLDINGS LLC
+
+/s/ James A. Coyne
+ ------------------
+ James A. Coyne, Manager
+
+</EX-10.1>
+
+<EX-10.2>
+ 5
+ EXHIBIT 10.2
+
+Exhibit 10.2
+
+ PLEDGE AGREEMENT
+ (PARTNERSHIPS)
+
+ FOR VALUE RECEIVED, the undersigned, Echelon Residential Holdings
+LLC, a Delaware limited liability company (the "Pledgor") and the sole member of
+Echelon Residential LLC, a Delaware limited liability company ("Residential"),
+hereby assigns and pledges to American Income Partners V-A Limited Partnership,
+a Massachusetts limited partnership, in its capacity as collateral agent (the
+"Agent") for itself and each of American Income Partners V-B Limited
+Partnership, a Massachusetts limited partnership, American Income Partners V-C
+Limited Partnership, a Massachusetts limited partnership, American Income
+Partners V-D Limited Partnership, a Massachusetts limited partnership, American
+Income Fund I-A Limited Partnership, a Massachusetts limited partnership,
+American Income Fund I-B Limited Partnership, a Massachusetts limited
+partnership, American Income Fund I-C Limited Partnership, a Massachusetts
+limited partnership, American Income Fund I-D Limited Partnership, a
+Massachusetts limited partnership, American Income Fund I-E Limited Partnership,
+a Massachusetts limited partnership, AIRFUND International Limited Partnership,
+a Massachusetts limited partnership and AIRFUND II International Limited
+Partnership, a Massachusetts limited partnership and their respective successors
+and assigns (collectively, the "Lenders"), and grants to the Agent a security
+interest in all of the Pledgor's right, title and interest in and to its
+membership interests in Residential, wherever located and whether now owned or
+hereafter acquired, together with (i) all payments and distributions, whether in
+cash, property or otherwise, at any time owing or payable to the Pledgor on
+account of its interest as a member of Residential, (ii) all of the Pledgor's
+rights and interests under the operating agreement of Residential (the
+"Operating Agreement"), including all voting and management rights and all
+rights to grant or withhold consents or approvals, (iii) all rights of access
+and inspection to and use of all books and records, including computer software
+and computer software programs, of Residential, (iv) all other rights,
+interests, property or claims to which the Pledgor may be entitled to in its
+capacity as a member of Residential, (v) any and all substitutions and
+replacements thereof, including any securities or other instruments into which
+any of the foregoing may at any time and from time to time be converted or
+exchanged, and (vi) any and all proceeds and products of the foregoing, cash and
+non-cash (collectively, the "Pledged Interest"). The Pledgor irrevocably waives
+any and all provisions of the Operating Agreement that (i) prohibit, restrict,
+condition or otherwise affect the grant hereunder of any lien, security interest
+or encumbrance on the Pledged Interest or any enforcement action which may be
+taken in respect of any such lien, security interest or encumbrance, or (ii)
+otherwise conflict with the terms of this Pledge Agreement.
+
+ This Pledge Agreement is entered into in connection with and secures the
+payment of amounts due to the Lenders from the Pledgor pursuant to those certain
+Promissory Notes of even date herewith (each a "Note" and collectively, the
+"Notes") made by the Pledgor in favor of each of the Lenders, together with all
+covenants and agreements contained herein (collectively, the "Secured
+Liabilities").
+
+The Pledgor and each of the Lenders hereby represent, warrant, covenant
+and agree as follows:
+
+ 1. Pledgor hereby represents and warrants that (i) the Operating
+Agreement, a true, correct and complete copy of which is attached hereto as
+Exhibit A, is in full force and effect and has not been amended or modified in
+any respect, except for such amendments or modifications as are attached to the
+copy thereof delivered herewith; (ii) it is a duly constituted and is the sole
+member of Residential pursuant to the Operating Agreement, although such
+membership is not evidenced by any certificate issued by Residential; (iii) the
+Pledged Interest are validly issued, non-assessable and fully paid membership
+interests in Residential; (iv) Pledgor has full right, power and authority to
+make this Pledge Agreement (including the provisions enabling the Agent, upon
+the occurrence of an Event of Default, to exercise the voting or other rights
+provided for herein, under the Operating Agreement and under applicable law,
+without the consent, approval or authorization of, or notice to, any other
+person, including any regulatory authority or any person having any interest in
+Residential, except for such consents as have been duly received; and (v) this
+Pledge Agreement has been duly executed and delivered by the Pledgor and is the
+legal, valid and binding obligation of the Pledgor enforceable in accordance
+with its terms.
+
+ 2. Pledgor shall protect and preserve the Pledged Interest. Pledgor will
+not permit or agree to any amendment or modification of the Operating Agreement,
+or waive any rights or benefits under the Operating Agreement, without the prior
+written consent of the Agent. Pledgor hereby represents and warrants that
+Pledgor has and will continue to have good and marketable title to the Pledged
+Interest, free and clear of all liens, encumbrances and security interests,
+except those created hereby, and agrees to preserve such unencumbered title and
+the Lenders' security interest in the Pledged Interest and to defend it against
+all parties. Risk of loss of, damage to, or destruction of, the Pledged Interest
+shall be the responsibility of Pledgor, although the Agent shall exercise
+reasonable care in the custody and preservation of the Pledged Interest in its
+possession to the extent applicable. The Agent shall be deemed to have exercised
+such reasonable care if it takes such action for that purpose as the Pledgor
+shall reasonably request in writing, but no omission to do any act not requested
+by the Pledgor shall be deemed a failure to exercise reasonable care, and no
+omission to comply with any request of the Pledgor shall of itself be deemed a
+failure to exercise reasonable care. The Pledgor shall execute and deliver to
+the Agent and the Lenders any financing statements, continuation statements,
+assignments, or other instruments, or take any other action deemed necessary by
+the Agent or the Lenders to perfect or continue the perfection of its security
+interest in the Pledged Interest. The Agent is hereby irrevocably appointed
+attorney-in-fact of the Pledgor to do all acts and things which the Agent may
+deem necessary or advisable to perfect and continue perfected their security
+interest in the Pledged Interest. The address of the Pledgor is listed below the
+Pledgor's signature hereto.
+
+ 3. This Pledge Agreement has been entered into under and pursuant to the
+Massachusetts Uniform Commercial Code, except that perfection and the effect of
+perfection of Secured Party's security interest in collateral in another
+jurisdiction will be governed by the Uniform Commercial Code ("UCC") of such
+other jurisdiction, and the Agent has all the rights
+
+2
+
+and remedies of a secured party under the Uniform Commercial Code or applicable
+legislation of the applicable jurisdiction. If any one or more of the provisions
+hereof should for any reason be invalid, illegal or unenforceable in any
+respect, the remaining provisions contained herein shall not in any way be
+affected or impaired thereby, and such invalid, illegal, or unenforceable
+provision shall be deemed modified to the extent necessary to render it valid
+while most nearly preserving its original intent. The Pledgor has (i) caused
+Residential to duly register the security interest granted hereby on
+Residential's books and has furnished the Agent with evidence thereof in form
+and substance satisfactory to the Agent, (ii) has duly executed and caused any
+financing statements with respect to the Pledged Interest to be filed in such a
+manner and in such places as may be required by applicable law in order to fully
+protect the rights of the Agent and the Lenders hereunder and (iii) will cause
+any financing statements with respect to the Pledged Interest at all times to be
+kept recorded and filed at the Pledgor's sole cost and expense in such a manner
+and in such places as may be required by law in order to fully perfect the
+interests and protect the rights of the Agent and the Lenders hereunder.
+
+ 4. Any one or more of the following events shall constitute an "Event of
+Default" hereunder: (i) the Pledgor shall fail to comply with, observe or
+perform any obligation hereunder or shall fail to make any payment when due
+under any Note; (ii) any representation or warranty made or furnished to the
+Agent or the Lenders by or on behalf of the Pledgor in connection with this
+Pledge Agreement or any document or instrument furnished, or to be furnished, in
+connection herewith or therewith, proves to have been untrue in any material
+respect when so made or furnished; (iii) the Pledgor shall commence a voluntary
+case under the federal bankruptcy laws (as now or hereafter in effect), file a
+petition seeking to take advantage of any other laws relating to bankruptcy,
+insolvency, reorganization, winding up or composition for adjustment of debts or
+the marshaling of assets ("Bankruptcy Laws"), consent to or fail to contest in a
+timely and appropriate manner, any petition filed against the Pledgor in any
+involuntary case under any Bankruptcy Laws or other laws, apply for, consent to,
+indicate its approval of, acquiesce to or fail to contest in a timely and
+appropriate manner, the appointment of, or the taking of possession by, a
+receiver, custodian, trustee, or liquidator for the Pledgor or of a substantial
+part of the Pledgor's property, admit in writing its inability to pay debts as
+they become due, make a general assignment for the benefit of creditors, make a
+conveyance fraudulent as to creditors under any state or federal law, or take
+any action for the purpose of effecting any of the foregoing; (iv) a case or
+other proceeding shall be commenced against the Pledgor in any court of
+competent jurisdiction seeking relief under any Bankruptcy Laws, (v) the
+appointment of a trustee, receiver, custodian, liquidator or the like for the
+Pledgor, or of all or any substantial part of its assets; or (vi) the Pledgor
+shall fail to perform any of its obligations under the Operating Agreement.
+
+ 5. During the continuance of an Event of Default, the Agent shall have, in
+addition to the rights, powers and authorizations to collect the sums assigned
+hereunder, all rights and remedies of a secured party under the Uniform
+Commercial Code and under other applicable law with respect to the Pledged
+Interest, including, without limitation, the following rights and remedies: (i)
+the Agent may, in its sole discretion, exercise any management or voting rights
+relating to the Pledged Interest (whether or not the same shall have been
+transferred into its name
+
+3
+
+or the name of its nominee or nominees) for any lawful purpose, including for
+the amendment or modification of the Operating Agreement or other governing
+documents or the liquidation of the assets of Residential, give all consents,
+waivers, approvals, and ratifications in respect of such Pledged Interest, and
+otherwise act with respect thereto as though it were the outright owner thereof
+(the Pledgor hereby irrevocably constituting and appointing the Lenders the
+proxy and attorney-in-fact of the Pledgor, with full power and authority of
+substitution, to do so); (ii) the Agent may, in its sole discretion, demand, sue
+for, collect, compromise, or settle any rights or claims in respect of the
+Pledged Interest; (iii) the Agent may, in its sole discretion, sell, resell,
+assign, deliver, or otherwise dispose of any or all of the Pledged Interest, for
+cash or credit or both and upon such terms, in such manner, at such place or
+places, at such time or times, and to such persons or entities as the Agent
+think expedient, all without demand for performance by the Pledgor or any notice
+or advertisement whatsoever except as expressly provided herein or as may
+otherwise be required by applicable law; and (iv) the Agent may, in its sole
+discretion, cause all or any part of the Pledged Interest held by it to be
+transferred into its name or the name of its nominee or nominees.
+
+ The proceeds of any collection, sale or other disposition of the Pledged
+Interest or any part thereof shall, after the Agent has made all deductions of
+expenses, including but not limited to attorneys' fees and other expenses
+incurred in connection with repossession, collection, sale, or disposition of
+the Pledged Interest or in connection with the enforcement of Agent's rights
+with respect to the Pledged Interest in any insolvency, bankruptcy or
+reorganization proceedings, be applied against any of the Secured Liabilities,
+whether or not all the same shall be then due and payable, in such manner as the
+Agent and the Lenders shall in their sole discretion determine.
+
+ No single or partial exercise by the Agent of any right, power or remedy
+hereunder shall preclude any other or further exercise thereof or the exercise
+of any other right, power or remedy. Each right, power and remedy herein
+specifically granted to the Agent or otherwise available to them shall be
+cumulative, and shall be in addition to every other right, power, and remedy
+herein specifically given or now or hereafter existing at law, in equity, or
+otherwise. Each such right, power and remedy, whether specifically granted
+herein or otherwise existing, may be exercised at any time and from time to time
+and as often and in such order as may be deemed expedient by the Agent in its
+sole discretion. Nothing contained in this Agreement shall be construed to
+require the Agent to take any action with respect to the Pledged Interest,
+whether by way of foreclosure or otherwise and except as required by any
+Operating Agreement, in order to permit the Agent to become a substitute member
+of Residential under the Operating Agreement.
+
+ 6. If any notification of intended sale of any of the Pledged Interest is
+required by law, such notification shall be deemed reasonable if mailed at least
+ten (10) days before such sale, postage prepaid, (i) addressed to the Pledgor at
+its notice address herein, and (ii) to any other secured party from whom the
+Agent or the Lenders have received (prior to notification of the Pledgor or the
+Pledgor's renunciation of his rights after default) written notice of a claim of
+an interest in the Pledged Interest.
+
+4
+
+7. Any delay or omission by the Agent or the Lenders to exercise any
+rights or powers arising from any default or any partial exercise thereof shall
+not impair any such rights or powers, nor shall the same be construed to be a
+waiver thereof or any acquiescence therein, nor shall any action or non-action
+by the Agent or the Lenders in the event of any default alter or impair the
+rights of the Agent or the Lenders in respect of any subsequent default, or
+impair or affect any rights or powers resulting therefrom. This Pledge Agreement
+shall remain in full force and effect until such time as all amounts due under
+the Notes shall have been fully and irrevocably paid in full.
+
+ 8. All notices, statements, requests, and demands given to or made upon
+the any party hereto shall be given or made to such party at the address of such
+party as set forth below its signature block herein.
+
+ 9. The provisions of this Pledge Agreement shall be binding upon the
+Pledgor, the Agent and the Lenders, and their respective heirs, personal
+representatives, successors and assigns.
+
+ 10. The Agent is hereby appointed by the Indemnities as their collateral
+agent and each of the Lenders irrevocably authorize the Agent to act as the
+collateral agent of such Lender. The Agent shall not have a fiduciary
+relationship in respect of any Lender by reason of this Pledge Agreement, and
+the nature of Agent's duties shall be mechanical and administrative in nature
+only.
+
+ The Agent shall have and may exercise such powers hereunder as are
+specifically delegated to or required by at least two-thirds of the Lenders (the
+"Required Lenders") by the terms hereof or under any related document, together
+with such powers as are reasonably incidental thereto. The Agent shall have no
+implied duties to the Lenders or any obligation to the Lenders to take any
+action hereunder except any action hereunder specifically provided hereunder or
+under any related document to be taken by the Lenders. Notwithstanding the
+foregoing, if the Agent shall receive a specific written instruction which shall
+be inconsistent in any way with the foregoing, or which contradicts or
+purportedly supersedes a previous instruction, the Agent agrees to honor and be
+bound by such written instruction.
+
+ Neither the Agent nor any of its directors, officers, agents or employees
+shall be liable to the Lenders for any action taken or omitted to be taken by it
+or them hereunder except for its or their own gross negligence or willful
+misconduct.
+
+ The Lenders agree to keep the Agent informed on a prompt and timely basis
+of any information required by the Agent to perform its duties hereunder and
+under any related documents.
+
+ If the Agent shall request instructions from the Lenders with respect to
+any act or action (including failure to act) in connection with this Pledge
+Agreement or any related documents, the Agent shall be entitled to refrain from
+such act or taking such action unless and until the Agent
+
+5
+
+shall have received instructions from the Required Lenders, and the Agent shall
+not incur liability to any person by reason of so refraining.
+
+ The Agent may consult with legal counsel, independent public accountants
+and any other experts selected by it. Notwithstanding anything herein to the
+contrary, neither the Agent nor its directors, officers, agents or employees
+shall be liable for any action taken or omitted to be taken by any of them in
+good faith reliance upon the advice of such persons.
+
+ The Lenders severally (on the basis of the pro rata principal amounts of
+each of the Notes) agree to reimburse and indemnify the Agent for and against
+any expenses incurred by the Agent on behalf of the Lenders in connection with
+the administration and enforcement of this Pledge Agreement and any related
+documents and any liabilities, obligations, losses, damages, penalties, actions,
+judgments, suits, costs, expenses or disbursements of any kind and nature
+whatsoever which may be imposed on, incurred by or asserted against the Agent in
+performing its duties hereunder or under any related documents or in any way
+relating to or arising out of this Pledge Agreement or any related documents;
+provided, however that the Lenders shall not be liable for any of the foregoing
+to the extent they arise from the gross negligence or willful misconduct of the
+Agent.
+
+ This Agent may be removed by the Lenders at any time upon delivery of
+written notice to the Agent and the Pledgor.
+
+[Remainder of page left blank intentionally.]
+
+6
+
+IN WITNESS WHEREOF, the parties hereto, intending to be legally bound,
+have caused their authorized representatives to execute this Pledge Agreement
+under seal as of the 8th day of March, 2000.
+
+ ECHELON RESIDENTIAL
+ HOLDINGS LLC
+
+ By: /s/ James A. Coyne
+ ------------------
+ James A. Coyne, Member
+
+ Address: 450 Carillon Parkway,
+ Suite 200
+ St. Petersburg, FL 33716
+
+AMERICAN INCOME PARTNERS V-A
+ LIMITED PARTNERSHIP
+ By: AFG Leasing IV Incorporation, their
+ general partner
+
+ By: /s/ Gail D. Ofgant
+ ------------------
+ Gail Ofgant, Senior Vice President
+
+ Address: 88 Broad Street
+ Boston, MA 02110
+
+The undersigned hereby acknowledges the foregoing Pledge Agreement and
+consents to the terms contained therein.
+
+ ECHELON RESIDENTIAL LLC
+ By: Equis/Echelon Management Corp.,
+ its Manager
+
+ By: /s/ Michael J. Butterfield
+ --------------------------
+ Michael J. Butterfield, Vice Pres.
+
+ Address: 450 Carillon Parkway, Suite 200
+ St. Petersburg, FL 33716
+
+7
+
+</EX-10.2>
+
+<EX-13>
+ 6
+ EXHIBIT 13
+
+Exhibit 13
+
+ AMERICAN INCOME FUND I
+
+AMERICAN INCOME FUND I-C,
+
+ a Massachusetts Limited Partnership
+
+Annual Report to the Partners, December 31, 1999
+
+AMERICAN INCOME FUND I-C,
+ a Massachusetts Limited Partnership
+
+ INDEX TO ANNUAL REPORT TO THE PARTNERS
+
+ Page
+ ----
+
+SELECTED FINANCIAL DATA 2
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS 3-8
+
+FINANCIAL STATEMENTS:
+
+Report of Independent Auditors 9
+
+Statement of Financial Position
+at December 31, 1999 and 1998 10
+
+Statement of Operations
+for the years ended December 31, 1999, 1998 and 1997 11
+
+Statement of Changes in Partners' Capital
+for the years ended December 31, 1999, 1998 and 1997 12
+
+Statement of Cash Flows
+for the years ended December 31, 1999, 1998 and 1997 13
+
+Notes to the Financial Statements 14-26
+
+ADDITIONAL FINANCIAL INFORMATION:
+
+Schedule of Excess (Deficiency) of Total Cash
+Generated to Cost of Equipment Disposed 27
+
+Statement of Cash and Distributable Cash
+From Operations, Sales and Refinancings 28
+
+Schedule of Costs Reimbursed to the General
+Partner and its Affiliates as Required by
+Section 9.4 of the Amended and Restated
+Agreement and Certificate of Limited Partnership 29
+
+SELECTED FINANCIAL DATA
+
+ The following data should be read in conjunction with Management's
+Discussion and Analysis of Financial Condition and Results of Operations and the
+financial statements.
+
+ For each of the five years in the period ended December 31, 1999:
+
+Summary of
+ Operations 1999 1998 1997 1996 1995
+- --------------------- ------------ ------------ ------------ ------------ ------------
+ 
+Lease revenue 2,174,523 2,463,373 4,068,381 4,130,156 4,648,578
+
+Net income (loss) 1,190,252 623,010 1,574,944 552,157 (779,251)
+
+Per Unit:
+ Net income (loss) 1.41 0.74 1.86 0.65 (0.92)
+
+ Cash distributions 0.75 0.75 0.94 1.38 2.00
+
+ Financial Position
+- ---------------------
+
+Total assets 11,182,585 11,565,735 12,142,868 13,848,889 12,687,300
+
+Total long-term
+obligations 2,363,628 3,459,289 4,401,753 6,547,519 4,574,713
+
+Partners' capital 8,181,956 7,592,086 7,488,561 6,821,321 7,432,059
+
+2
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+ FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+ Year ended December 31, 1999 compared to the year ended
+ December 31, 1998 and the year ended December 31, 1998
+ compared to the year ended December 31, 1997
+
+ Certain statements in this annual report of American Income Fund I-C, a
+Massachusetts Limited Partnership (the "Partnership") that are not historical
+fact constitute "forward-looking statements" within the meaning of the Private
+Securities Litigation Reform Act of 1995 and are subject to a variety of risks
+and uncertainties. There are a number of factors that could cause actual results
+to differ materially from those expressed in any forward-looking statements made
+herein. These factors include, but are not limited to, the outcome of the Class
+Action Lawsuit described in Note 8 to the accompanying financial statements and
+the remarketing of the Partnership's equipment.
+
+Overview
+
+ The Partnership was organized in 1991 as a direct-participation equipment
+leasing program to acquire a diversified portfolio of capital equipment subject
+to lease agreements with third parties. Presently, the Partnership is a Nominal
+Defendant in a Class Action Lawsuit, the outcome of which could significantly
+alter the nature of the Partnership's organization and its future business
+operations. See Note 8 to the accompanying financial statements. Pursuant to the
+Amended and Restated Agreement and Certificate of Limited Partnership (the
+"Restated Agreement, as amended"), the Partnership is scheduled to be dissolved
+by December 31, 2002.
+
+Year 2000 Issue
+
+ The Partnership uses information systems provided by Equis Financial Group
+Limited Partnership ("EFG") and has no information systems of its own. EFG
+completed all Year 2000 readiness work prior to December 31, 1999 and did not
+experience any significant problems. Additionally, EFG is not aware of any
+outside customer or vendor that experienced a Year 2000 issue that would have a
+material effect on the Partnership's results of operations, liquidity, or
+financial position. However, EFG has no means of ensuring that all customers,
+vendors and third-party servicers have conformed to Year 2000 standards. The
+effect of this risk to the Partnership is not determinable.
+
+Results of Operations
+
+ For the year ended December 31, 1999, the Partnership recognized lease
+revenue of 2,174,523 compared to 2,463,373 and 4,068,381 for the years ended
+December 31, 1998 and 1997, respectively. The decrease in lease revenue from
+1998 to 1999 reflects the effects of lease term expirations and equipment sales.
+The decrease in lease revenue from 1997 to 1998 partially resulted from the
+exchange of the Partnership's interest in a vessel during 1997 (see below). In
+1997, the Partnership recognized lease revenue of 534,796 related to this
+vessel, including 400,631 representing a prepayment of the remaining contracted
+rent due under the vessel's lease agreement. Other reductions in lease revenue
+form 1997 to 1998 resulted from lease term expirations and the sale of
+equipment. In the future, lease revenue will continue to decline due to lease
+term expirations and equipment sales.
+
+ The Partnership's equipment portfolio includes certain assets in which the
+Partnership holds a proportionate ownership interest. In such cases, the
+remaining interests are owned by an affiliated equipment leasing program
+sponsored by EFG. Proportionate equipment ownership enabled the Partnership to
+further diversify its equipment portfolio at inception by participating in the
+ownership of selected assets, thereby reducing the general levels of risk which
+could have resulted from a concentration in any single equipment type, industry
+or lessee. The Partnership and each affiliate individually report, in proportion
+to their respective ownership interests, their respective shares of assets,
+liabilities, revenues, and expenses associated with the equipment.
+
+3
+
+Interest income for the year ended December 31, 1999 was 258,113 compared to
+ 195,264 and 86,836 for the years ended December 31, 1998 and 1997,
+respectively. Interest income is generated principally from temporary investment
+of rental receipts and equipment sale proceeds in short-term instruments.
+Interest income included 45,973 in both 1999 and 1998 and 9,067 in 1997 earned
+on a note receivable from Semele Group, Inc. ("Semele") (see Note 4 to the
+accompanying financial statements). The note receivable from Semele is scheduled
+to mature in April 2001. Interest income in 1999 also includes 32,745 related
+to the National Steel Corporation settlement (see Note 8 to the accompanying
+financial statements). The amount of future interest income is expected to
+fluctuate as a result of changing interest rates and the amount of cash
+available for investment, among other factors. See discussion below regarding on
+investment made by the Partnership in 2000.
+
+ During the year ended December 31, 1999, the Partnership sold equipment
+having a net book value of 1,804 to existing lessees and third parties. These
+sales resulted in a net gain, for financial statement purposes, of 508,592
+compared to a net gain in 1998 of 119,724 on equipment having a net book value
+of 15,660 and a net gain in 1997 of 652,413 on equipment having a net book
+value of 359,061.
+
+ In 1997, the Partnership also exchanged its interest in a vessel with an
+original cost and net book value of 2,605,381 and 1,180,755, respectively (see
+below and Note 4 to the accompanying financial statements). In connection with
+this exchange, the Partnership realized proceeds of 802,431, which resulted in
+a net loss, for financial statement purposes, of 378,324. In addition, as this
+vessel was disposed of prior to the expiration of the related lease term, the
+Partnership received prepayment of the remaining contracted rent due under the
+vessel's lease agreement (see above).
+
+ It cannot be determined whether future sales of equipment will result in a
+net gain or a net loss to the Partnership, as such transactions will be
+dependent upon the condition and type of equipment being sold and its
+marketability at the time of sale. In addition, the amount of gain or loss
+reported for financial statement purposes is partly a function of the amount of
+accumulated depreciation associated with the equipment being sold.
+
+ The ultimate realization of residual value for any type of equipment is
+dependent upon many factors, including EFG's ability to sell and re-lease
+equipment. Changing market conditions, industry trends, technological advances,
+and many other events can converge to enhance or detract from asset values at
+any given time. EFG attempts to monitor these changes in order to identify
+opportunities which may be advantageous to the Partnership and which will
+maximize total cash returns for each asset.
+
+ The total economic value realized for each asset is comprised of all primary
+lease term revenue generated from that asset, together with its residual value.
+The latter consists of cash proceeds realized upon the asset's sale in addition
+to all other cash receipts obtained from renting the asset on a re-lease,
+renewal or month-to-month basis. The Partnership classifies such residual rental
+payments as lease revenue. Consequently, the amount of gain or loss reported in
+the financial statements is not necessarily indicative of the total residual
+value the Partnership achieved from leasing the equipment.
+
+ Depreciation expense was 956,631, 1,083,372 and 2,099,722 for the years
+ended December 31, 1999, 1998 and 1997, respectively. For financial reporting
+purposes, to the extent that an asset is held on primary lease term, the
+Partnership depreciates the difference between (i) the cost of the asset and
+(ii) the estimated residual value of the asset at the date of primary lease
+expiration on a straight-line basis over such term. For the purposes of this
+policy, estimated residual values represent estimates of equipment values at the
+date of primary lease expiration. To the extent that equipment is held beyond
+its primary lease term, the Partnership continues to depreciate the remaining
+net book value of the asset on a straight-line basis over the asset's remaining
+economic life.
+
+ Interest expense was 222,725 or 10.2 of lease revenue in 1999, compared to
+ 318,530 or 12.9 of lease revenue in 1998 and 387,553 or 9.5 of lease revenue
+in 1997. Interest expense in future periods will decline as the principal
+balance of notes payable is reduced through the application of rent receipts to
+outstanding debt.. See additional discussion below regarding the refinancing of
+certain of the debt in 2000.
+
+4
+
+Management fees were approximately 4.7 of lease revenue for the year ended
+December 31, 1999, compared to 4.6 and 4.1 of lease revenue during the years
+ended December 31, 1998 and 1997, respectively. Management fees are based on 5 
+of gross lease revenue generated by operating leases and 2 of gross lease
+revenue generated by full payout leases.
+
+ Write-down of investment securities-affiliate was 185,281 for the year ended
+December 31, 1998. The General Partner determined that the decline in market
+value of its Semele common stock was other-than-temporary. As a result, the
+Partnership wrote down the cost of the Semele common stock from 15 per share to
+ 4.125 per share (the quoted price of Semele stock on NASDAQ at December 31,
+1998). See further discussion below.
+
+ Operating expenses were 470,580, 454,908 and 200,670 for the years ended
+December 31, 1999, 1998 and 1997, respectively. During 1999, the Partnership
+accrued approximately 160,300 for the completion of a D-Check incurred to
+facilitate the remarketing of the Finnair Aircraft having a lease agreement
+which expired in January 2000 (see Note 9 to the accompanying financial
+statements). Operating expenses in 1999 also include approximately 50,000
+accrued for certain legal and Consolidation expenses related to the Class Action
+Lawsuit described in Note 8 to the financial statements. During 1998, the
+Partnership incurred or accrued approximately 298,000 for such expenses related
+to the Class Action Lawsuit. Other operating expenses consist principally of
+professional service costs, such as audit and other legal fees, as well as
+printing, distribution and remarketing expenses. In certain cases, equipment
+storage or repairs and maintenance costs may be incurred in connection with
+equipment being remarketed.
+
+Liquidity and Capital Resources and Discussion of Cash Flows
+
+ In connection with a preliminary settlement agreement for the Class Action
+Lawsuit described in Note 8 to the accompanying financial statements, the
+Partnership is permitted to invest in new equipment or other business
+activities, subject to certain limitations. On March 8, 2000, the Partnership
+invested 2,780,000 in a debt instrument that matures in September 2002. (See
+Notes 8 and 9 to the accompanying financial statements for additional
+information concerning this transaction.)
+
+ The Partnership by its nature is a limited life entity. As an equipment
+leasing program, the Partnership's principal operating activities derive from
+asset rental transactions. Accordingly, the Partnership's principal source of
+cash from operations is provided by the collection of periodic rents. These cash
+inflows are used to satisfy debt service obligations associated with leveraged
+leases, and to pay management fees and operating costs. Operating activities
+generated net cash inflows of 1,946,817, 2,165,077 and 3,241,188 for the
+years ended December 31, 1999, 1998 and 1997 respectively. Net cash from
+operating activities in 1997 included lease termination rents as described
+above. Future renewal, re-lease and equipment sale activities will cause a
+decline in the Partnership's lease revenues and corresponding sources of
+operating cash. Overall, expenses associated with rental activities, such as
+management fees, and net cash flow from operating activities will also continue
+to decline as the Partnership experiences a higher frequency of remarketing
+events.
+
+ Cash realized from asset disposal transactions is reported under investing
+activities on the accompanying Statement of Cash Flows. During 1999, the
+Partnership realized net proceeds of 510,396, compared to 135,384 and
+ 1,041,030 in 1998 and 1997, respectively. Future inflows of cash from asset
+disposals will vary in timing and amount and will be influenced by many factors
+including, but not limited to, the frequency and timing of lease expirations,
+the type of equipment being sold, its condition and age, and future market
+conditions.
+
+ At December 31, 1999, the Partnership was due aggregate future minimum lease
+payments of 2,905,250 from contractual lease agreements (see Note 2 to the
+financial statements), a portion of which will be used to amortize the principal
+balance of notes payable of 2,363,628 (see Note 6 to the financial statements).
+At the expiration of the individual primary and renewal lease terms underlying
+the Partnership's future minimum lease payments, the Partnership will sell the
+equipment or enter re-lease or renewal agreements when considered advantageous
+by the General Partner and EFG. Such future remarketing activities will result
+in the realization of additional cash inflows in the form of equipment sale
+proceeds or rents from renewals and re-leases, the timing and extent of which
+cannot be predicted with certainty. This is because the timing and extent of
+remarketing
+
+5
+
+events often is dependent upon the needs and interests of the existing lessees.
+Some lessees may choose to renew their lease contracts, while others may elect
+to return the equipment. In the latter instances, the equipment could be
+re-leased to another lessee or sold to a third party.
+
+ In December 1998, the Partnership and certain affiliated investment programs
+owning interests in two McDonnell Douglas MD-82 aircraft (collectively, the
+"Programs") entered into lease extension agreements with Finnair OY. The lease
+extensions, effective upon the expiration of the existing primary lease terms on
+April 28, 1999, extended the leases for nine months and two years, respectively.
+In aggregate, these lease extensions will provide additional lease revenue of
+approximately 700,000 to the Partnership over the terms of the leases.
+
+ The Partnership obtained long-term financing in connection with certain
+equipment leases. The repayments of principal related to such indebtedness are
+reported as a component of financing activities. Each note payable is recourse
+only to the specific equipment financed and to the minimum rental payments
+contracted to be received during the debt amortization period (which period
+generally coincides with the lease rental term). As rental payments are
+collected, a portion or all of the rental payment is used to repay the
+associated indebtedness. In future years, the amount of cash used to repay debt
+obligations is scheduled to decline as the principal balance of notes payable is
+reduced through the collection and application of rents. However, the
+Partnership has balloon payment obligations at the expiration of the lease terms
+related to aircraft leased by Reno Air, Inc. of 679,276 and Finnair OY (see
+below). On April 29, 1999, the Programs entered into agreements with a
+third-party lender to extend the maturity dates of the Programs' indebtedness
+related to the Finnair Aircraft. Consistent with the extension terms of the
+lease agreements related to the Finnair Aircraft discussed above, the maturity
+dates of the indebtedness were extended to January 2000 and April 2001,
+respectively. The Partnership has balloon payment obligations of 399,502 and
+ 106,516 related to this indebtedness that is due on the respective maturity
+dates. In February 2000, the Programs refinanced the indebtedness maturing in
+January 2000 (see Note 9 to the accompanying financial statements). The Reno Air
+indebtedness matures in January 2003.
+
+ As a result of the vessel exchange in 1997 (see Results of Operations), the
+Partnership became the beneficial owner of 208,764 shares of Semele common stock
+(valued at 313,146 1.50 per share) at the time of the exchange transaction).
+This investment was reduced by a dividend of 41,752 received in 1997
+representing a return of equity to the Partnership. The Partnership also
+received a beneficial interest in the Semele Note of 459,729 in connection with
+the exchange. The Semele Note bears an annual interest rate of 10 and is
+scheduled to mature in April 2001. The note also requires mandatory principal
+reductions, if and to the extent that net proceeds are received by Semele from
+the sale or refinancing of its Rancho Malibu property (see Note 4 to the
+financial statements).
+
+ On June 30, 1998, Semele effected a 1-for-300 reverse stock split followed by
+a 30-for-1 forward stock split resulting in a reduction of the number of shares
+of Semele common stock owned by the Partnership to 20,876 shares. During the
+year ended December 31, 1998, the Partnership decreased the carrying value of
+its investment in Semele common stock to 4.125 per share (the quoted price of
+the Semele stock on NASDAQ at December 31, 1998) resulting in an unrealized loss
+in 1998 of 70,460. In 1997, the Partnership recorded an unrealized loss of
+ 114,821 related to its Semele common stock. These losses were reported as
+components of comprehensive income, included in partners' capital. At December
+31, 1998, the General Partner determined that the decline in market value of the
+Semele common stock was other-than-temporary. As a result, the Partnership wrote
+down the cost of the Semele common stock to 4.125 per share for a total
+realized loss of 185,281 in 1998. During the year ended December 31, 1999, the
+Partnership increased the carrying value of its investment in Semele common
+stock to 5.75 per share (the quoted price of the Semele stock on NASDAQ
+SmallCap market at December 31, 1999), resulting in an unrealized gain of
+ 33,924. This gain was reported as a component of comprehensive income, included
+in partners' capital.
+
+ There are no formal restrictions under the Restated Agreement, as amended,
+that materially limit the Partnership's ability to pay cash distributions,
+except that the General Partner may suspend or limit cash distributions to
+ensure that the Partnership maintains sufficient working capital reserves to
+cover, among other things, operating costs and potential expenditures, such as
+refurbishment costs to remarket equipment upon lease expiration. Liquidity is
+especially important as the Partnership matures and sells equipment, because the
+remaining equipment base consists of fewer revenue-producing assets that are
+available to cover prospective
+
+6
+
+cash disbursements. Insufficient liquidity could inhibit the Partnership's
+ability to sustain its operations or maximize the realization of proceeds from
+remarketing its remaining assets.
+
+ In particular, the Partnership must contemplate the potential liquidity risks
+associated with its investment in commercial jet aircraft. The management and
+remarketing of aircraft can involve, among other things, significant costs and
+lengthy remarketing initiatives. Although the Partnership's lessees are required
+to maintain the aircraft during the period of lease contract, repair,
+maintenance, and/or refurbishment costs at lease expiration can be substantial.
+For example, an aircraft that is returned to the Partnership meeting minimum
+airworthiness standards, such as flight hours or engine cycles, nonetheless may
+require heavy maintenance in order to bring its engines, airframe and other
+hardware up to standards that will permit its prospective use in commercial air
+transportation. At December 31, 1999, the Partnership had ownership interests in
+six commercial jet aircraft. Three of the aircraft are Boeing 737 aircraft
+formerly leased to Southwest Airlines, Inc. The lease agreements for each of
+these aircraft expired on December 31, 1999 and Southwest elected to return the
+aircraft. The aircraft are Stage 2 aircraft, meaning that they are prohibited
+from operating in the United States after December 31, 1999 unless they are
+retro-fitted with hush-kits to meet Stage 3 noise regulations promulgated by the
+Federal Aviation Administration. The cost to hush-kit an aircraft, such as the
+Partnership's Boeing 737s, can approach 2 million. At this time, the General
+Partner is attempting to remarket these assets without further capital
+investment by either re-leasing the aircraft to a user outside of the United
+States or selling the aircraft as they are without retro-fitting the aircraft to
+conform to Stage 3 standards. The remaining three aircraft in the Partnership's
+portfolio already are Stage 3 compliant. One of these aircraft had a lease term
+that expired in January 2000 and is being held in storage pending the outcome of
+ongoing remarketing efforts. The final two aircraft in the Partnership's
+portfolio have lease terms expiring in April 2001 and January 2003.
+
+ Cash distributions to the General and Limited Partners have been declared and
+generally paid within fifteen days following the end of each calendar quarter.
+The payment of such distributions is presented as a component of financing
+activities. For the year ended December 31, 1999, the Partnership declared total
+cash distributions of Distributable Cash From Operations and Distributable Cash
+From Sales and Refinancings of 634,306. In accordance with the Restated
+Agreement, as amended, the Limited Partners were allocated 95 of these
+distributions, or 602,590, and the General Partner was allocated 5 , or
+ 31,716. The fourth quarter 1999 cash distribution was paid on January 14, 2000.
+
+ Cash distributions paid to the Limited Partners consist of both a return of
+and a return on capital. Cash distributions do not represent and are not
+indicative of yield on investment. Actual yield on investment cannot be
+determined with any certainty until conclusion of the Partnership and will be
+dependent upon the collection of all future contracted rents, the generation of
+renewal and/or re-lease rents, and the residual value realized for each asset at
+its disposal date.
+
+ The Partnership's capital account balances for federal income tax and for
+financial reporting purposes are different primarily due to differing treatments
+of income and expense items for income tax purposes in comparison to financial
+reporting purposes (generally referred to as permanent or timing differences;
+see Note 7 to the financial statements). For instance, selling commissions and
+organization and offering costs pertaining to syndication of the Partnership's
+limited partnership units are not deductible for federal income tax purposes,
+but are recorded as a reduction of partners' capital for financial reporting
+purposes. Therefore, such differences are permanent differences between capital
+accounts for financial reporting and federal income tax purposes. Other
+differences between the bases of capital accounts for federal income tax and
+financial reporting purposes occur due to timing differences. Such items consist
+of the cumulative difference between income or loss for tax purposes and
+financial statement income or loss, the difference between distributions
+(declared vs. paid) for income tax and financial reporting purposes, and the
+treatment of unrealized gains or losses on investment securities for book and
+tax purposes. The principal component of the cumulative difference between
+financial statement income or loss and tax income or loss results from different
+depreciation policies for book and tax purposes.
+
+ For financial reporting purposes, the General Partner has accumulated a
+capital deficit at December 31, 1999. This is the result of aggregate cash
+distributions to the General Partner being in excess of its capital contribution
+of 1,000 and its allocation of financial statement net income or loss.
+Ultimately, the existence of a capital deficit for
+
+7
+
+the General Partner for financial reporting purposes is not indicative of any
+further capital obligations to the Partnership by the General Partner. The
+Restated Agreement, as amended, requires that upon the dissolution of the
+Partnership, the General Partner will be required to contribute to the
+Partnership an amount equal to any negative balance which may exist in the
+General Partner's tax capital account. At December 31, 1999, the General Partner
+had a positive tax capital account balance.
+
+ The outcome of the Class Action Lawsuit described in Note 8 to the
+accompanying financial statements will be the principal factor in determining
+the future of the Partnership's operations. The proposed settlement to that
+lawsuit, if effected, will materially change the future organizational structure
+and business interests of the Partnership, as well as its cash distribution
+policies. In addition, commencing with the first quarter of 2000, the General
+Partner believes that it will be in the Partnership's best interests to suspend
+the payment of quarterly cash distributions pending final resolution of the
+Class Action Lawsuit. Accordingly, future cash distributions are not expected to
+be paid until the Class Action Lawsuit is adjudicated.
+
+8
+
+REPORT OF INDEPENDENT AUDITORS
+
+To the Partners of American Income Fund I-C,
+a Massachusetts Limited Partnership:
+
+ We have audited the accompanying statements of financial position of American
+Income Fund I-C, a Massachusetts Limited Partnership, as of December 31, 1999
+and 1998, and the related statements of operations, changes in partners'
+capital, and cash flows for each of the three years in the period ended December
+31, 1999. These financial statements are the responsibility of the Partnership's
+management. Our responsibility is to express an opinion on these financial
+statements based on our audits.
+
+ We conducted our audits in accordance with auditing standards generally
+accepted in the United States. Those standards require that we plan and perform
+the audit to obtain reasonable assurance about whether the financial statements
+are free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements. An
+audit also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+
+ In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of American Income Fund I-C, a
+Massachusetts Limited Partnership at December 31, 1999 and 1998, and the results
+of its operations and its cash flows for each of the three years in the period
+ended December 31, 1999, in conformity with accounting principles generally
+accepted in the United States.
+
+ Our audits were conducted for the purpose of forming an opinion on the basic
+financial statements taken as a whole. The Additional Financial Information
+identified in the Index to Annual Report to the Partners is presented for
+purposes of additional analysis and is not a required part of the basic
+financial statements. Such information has been subjected to the auditing
+procedures applied in our audits of the basic financial statements and, in our
+opinion, is fairly stated in all material respects in relation to the basic
+financial statements taken as a whole.
+
+ERNST & YOUNG LLP
+
+Boston, Massachusetts
+March 10, 2000
+
+9
+
+AMERICAN INCOME FUND I-C,
+ a Massachusetts Limited Partnership
+
+ STATEMENT OF FINANCIAL POSITION
+ December 31, 1999 and 1998
+
+1999 1998
+ ------------ ------------
+ 
+ASSETS
+
+Cash and cash equivalents 3,970,877 3,243,631
+
+Rents receivable 92,215 361,283
+
+Accounts receivable - affiliate 133,950 50,767
+
+Note receivable - affiliate 459,729 459,729
+
+Investment securities - affiliate 120,037 86,113
+
+Equipment at cost, net of accumulated
+ depreciation of 7,486,725 and 8,610,088
+ at December 31, 1999 and 1998, respectively 6,405,777 7,364,212
+ ------------ ------------
+ Total assets 11,182,585 11,565,735
+ ============ ============
+
+LIABILITIES AND PARTNERS' CAPITAL
+
+Notes payable 2,363,628 3,459,289
+Accrued interest 16,416 26,620
+Accrued liabilities 386,918 259,500
+Accrued liabilities - affiliate 17,783 14,751
+Deferred rental income 57,307 54,912
+Cash distributions payable to partners 158,577 158,577
+ ------------ ------------
+
+ Total liabilities 3,000,629 3,973,649
+ ------------ ------------
+Partners' capital (deficit):
+ General Partner (473,442) (502,935)
+ Limited Partnership Interests
+ (803,454.56 Units; initial purchase price of 25 each) 8,655,398 8,095,021
+ ------------ ------------
+
+ Total partners' capital 8,181,956 7,592,086
+ ------------ ------------
+
+ Total liabilities and partners' capital 11,182,585 11,565,735
+ ============ ============
+
+The accompanying notes are an integral part
+ of these financial statements.
+
+10
+
+AMERICAN INCOME FUND I-C,
+ a Massachusetts Limited Partnership
+
+ STATEMENT OF OPERATIONS
+ for the years ended December 31, 1999, 1998 and 1997
+
+ 1999 1998 1997
+ ----------- ----------- -----------
+
+Income:
+
+ Lease revenue 2,174,523 2,463,373 4,068,381
+
+ Interest income 212,140 149,291 77,769
+
+ Interest income - affiliate 45,973 45,973 9,067
+
+ Gain on sale of equipment 508,592 119,724 652,413
+
+ Loss on exchange of equipment -- -- (378,324)
+ ----------- ----------- -----------
+
+ Total income 2,941,228 2,778,361 4,429,306
+ ----------- ----------- -----------
+
+Expenses:
+
+ Depreciation 956,631 1,083,372 2,099,722
+
+ Interest expense 222,725 318,530 387,553
+
+ Equipment management fees - affiliate 101,040 113,260 166,417
+ Write-down of investment securities
+ - affiliate -- 185,281 --
+
+ Operating expenses - affiliate 470,580 454,908 200,670
+ ----------- ----------- -----------
+
+ Total expenses 1,750,976 2,155,351 2,854,362
+ ----------- ----------- -----------
+
+Net income 1,190,252 623,010 1,574,944
+ =========== =========== ===========
+
+Net income
+ per limited partnership unit 1.41 0.74 1.86
+ =========== =========== ===========
+
+Cash distributions declared
+ per limited partnership unit 0.75 0.75 0.94
+ =========== =========== ===========
+
+ The accompanying notes are an integral part
+ of these financial statements.
+
+11
+
+AMERICAN INCOME FUND I-C,
+ a Massachusetts Limited Partnership
+
+ STATEMENT OF CHANGES IN PARTNERS' CAPITAL
+ for the years ended December 31, 1999, 1998 and 1997
+
+General Limited Partners
+ Partner -------------------------
+ Amount Units Amount Total
+ ----------- ----------- ----------- -----------
+ 
+Balance at December 31, 1996 (541,473) 803,454.56 7,362,794 6,821,321
+
+ Net income - 1997 78,747 -- 1,496,197 1,574,944
+
+ Unrealized loss on investment securities (5,741) -- (109,080) (114,821)
+ ----------- ----------- ----------- -----------
+
+Comprehensive income 73,006 -- 1,387,117 1,460,123
+ ----------- ----------- ----------- -----------
+
+Cash distributions declared (39,644) -- (753,239) (792,883)
+ ----------- ----------- ----------- -----------
+Balance at December 31, 1997 (508,111) 803,454.56 7,996,672 7,488,561
+
+ Net income - 1998 31,151 -- 591,859 623,010
+
+ Unrealized loss on investment securities (3,523) -- (66,937) (70,460)
+
+ Less: Reclassification adjustment for
+ write-down of investment securities 9,264 -- 176,017 185,281
+ ----------- ----------- ----------- -----------
+
+Comprehensive income 36,892 -- 700,939 737,831
+ ----------- ----------- ----------- -----------
+
+Cash distributions declared (31,716) -- (602,590) (634,306)
+ ----------- ----------- ----------- -----------
+
+Balance at December 31, 1998 (502,935) 803,454.56 8,095,021 7,592,086
+
+ Net income - 1999 59,513 -- 1,130,739 1,190,252
+
+ Unrealized gain on investment securities 1,696 -- 32,228 33,924
+ ----------- ----------- ----------- -----------
+
+Comprehensive income 61,209 -- 1,162,967 1,224,176
+ ----------- ----------- ----------- -----------
+
+Cash distributions declared (31,716) -- (602,590) (634,306)
+ ----------- ----------- ----------- -----------
+
+Balance at December 31, 1999 (473,442) 803,454.56 8,655,398 8,181,956
+ =========== =========== =========== ===========
+
+The accompanying notes are an integral part
+ of these financial statements.
+
+12
+
+AMERICAN INCOME FUND I-C,
+ a Massachusetts Limited Partnership
+
+ STATEMENT OF CASH FLOWS
+ for the years ended December 31, 1999, 1998 and 1997
+
+1999 1998 1997
+ ----------- ----------- -----------
+ 
+Cash flows from (used in) operating activities:
+Net income 1,190,252 623,010 1,574,944
+
+Adjustments to reconcile net income
+ to net cash from operating activities:
+ Depreciation 956,631 1,083,372 2,099,722
+ Gain on sale of equipment (508,592) (119,724) (652,413)
+ Write-down of investment securities - affiliate -- 185,281 --
+ Loss on exchange of equipment -- -- 378,324
+
+Changes in assets and liabilities:
+ Decrease (increase) in:
+ Rents receivable 269,068 (114,406) 222,213
+ Accounts receivable - affiliate (83,183) 245,738 (206,966)
+ Increase (decrease) in:
+ Accrued interest (10,204) (3,848) (49,284)
+ Accrued liabilities 127,418 250,300 (13,550)
+ Accrued liabilities - affiliate 3,032 (14,174) (4,142)
+ Deferred rental income 2,395 29,528 (107,660)
+ ----------- ----------- -----------
+
+ Net cash from operating activities 1,946,817 2,165,077 3,241,188
+ ----------- ----------- -----------
+
+Cash flows from investing activities:
+ Dividend received -- -- 41,752
+ Proceeds from equipment sales 510,396 135,384 1,041,030
+ ----------- ----------- -----------
+
+ Net cash from investing activities 510,396 135,384 1,082,782
+ ----------- ----------- -----------
+Cash flows used in financing activities:
+ Principal payments - notes payable (1,095,661) (942,464) (2,145,766)
+ Distributions paid (634,306) (634,306) (845,742)
+ ----------- ----------- -----------
+
+ Net cash used in financing activities (1,729,967) (1,576,770) (2,991,508)
+ ----------- ----------- -----------
+
+Net increase in cash and cash equivalents 727,246 723,691 1,332,462
+
+Cash and cash equivalents at beginning of year 3,243,631 2,519,940 1,187,478
+ ----------- ----------- -----------
+
+Cash and cash equivalents at end of year 3,970,877 3,243,631 2,519,940
+ =========== =========== ===========
+
+Supplemental disclosure of cash flow information:
+ Cash paid during the year for interest 232,929 322,378 436,837
+ =========== =========== ===========
+
+Supplemental disclosure of non-cash investing and financing activities:
+ See Note 4 to the financial statements regarding the Partnership's carrying
+ value of its investment securities - affiliate.
+
+ The accompanying notes are an integral part
+ of these financial statements.
+
+13
+
+AMERICAN INCOME FUND I-C,
+ a Massachusetts Limited Partnership
+ Notes to the Financial Statements
+
+ December 31, 1999
+
+NOTE 1 - ORGANIZATION AND PARTNERSHIP MATTERS
+
+ American Income Fund I-C, a Massachusetts Limited Partnership (the
+"Partnership") was organized as a limited partnership under the Massachusetts
+Uniform Limited Partnership Act (the "Uniform Act") on March 1, 1991, for the
+purpose of acquiring and leasing to third parties a diversified portfolio of
+capital equipment. Partners' capital initially consisted of contributions of
+ 1,000 from the General Partner (AFG Leasing VI Incorporated) and 100 from the
+Initial Limited Partner (AFG Assignor Corporation). On May 31, 1991, the
+Partnership issued 803,454.56 units of limited partnership interests (the
+"Units") to 909 investors. Included in the 803,454.56 units were 7,293.56 bonus
+units. The Partnership's General Partner, AFG Leasing VI Incorporated, is a
+Massachusetts corporation formed in 1990 and an affiliate of Equis Financial
+Group Limited Partnership (formerly known as American Finance Group), a
+Massachusetts limited partnership ("EFG"). The General Partner is not required
+to make any other capital contributions except as may be required under the
+Uniform Act and Section 6.1(b) of the Amended and Restated Agreement and
+Certificate of Limited Partnership (the "Restated Agreement, as amended").
+
+ Significant operations commenced on May 31, 1991 when the Partnership made
+its initial equipment acquisition. Pursuant to the Restated Agreement, as
+amended, Distributable Cash From Operations and Distributable Cash From Sales or
+Refinancings will be allocated 95 to the Limited Partners and 5 to the General
+Partner.
+
+ Under the terms of a Management Agreement between the Partnership and EFG,
+management services are provided by EFG to the Partnership at fees, which the
+General Partner believes to be competitive, for similar services (see Note 5).
+
+ EFG is a Massachusetts limited partnership formerly known as American Finance
+Group ("AFG"). AFG was established in 1988 as a Massachusetts general
+partnership and succeeded American Finance Group, Inc., a Massachusetts
+corporation organized in 1980. EFG and its subsidiaries (collectively, the
+"Company") are engaged in various aspects of the equipment leasing business,
+including EFG's role as Manager or Advisor to the Partnership and several other
+direct-participation equipment leasing programs sponsored or co-sponsored by EFG
+(the "Other Investment Programs"). The Company arranges to broker or originate
+equipment leases, acts as remarketing agent and asset manager, and provides
+leasing support services, such as billing, collecting, and asset tracking.
+
+ The general partner of EFG, with a 1 controlling interest, is Equis
+Corporation, a Massachusetts corporation owned and controlled entirely by Gary
+D. Engle, its President, Chief Executive Officer and sole Director. Equis
+Corporation also owns a controlling 1 general partner interest in EFG's 99 
+limited partner, GDE Acquisition Limited Partnership ("GDE LP"). Equis
+Corporation and GDE LP were established in December 1994 by Mr. Engle for the
+sole purpose of acquiring the business of AFG.
+
+ In January 1996, the Company sold certain assets of AFG relating primarily to
+the business of originating new leases, and the name "American Finance Group,"
+and its acronym to a third party. AFG changed its name to Equis Financial Group
+Limited Partnership after the sale was concluded. Pursuant to terms of the sale
+agreements, EFG specifically reserved the rights to continue using the name
+American Finance Group and its acronym in connection with the Partnership and
+the Other Investment Programs and to continue managing all assets owned by the
+Partnership and the Other Investment Programs.
+
+14
+
+AMERICAN INCOME FUND I-C,
+ a Massachusetts Limited Partnership
+ Notes to the Financial Statements
+
+ (Continued)
+
+NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Statement of Cash Flows
+
+ The Partnership considers liquid investment instruments purchased with a
+maturity of three months or less to be cash equivalents. From time to time, the
+Partnership invests excess cash with large institutional banks in federal agency
+discount notes and repurchase agreements with overnight maturities. Under the
+terms of the agreements, title to the underlying securities passes to the
+Partnership. The securities underlying the agreements are book entry securities.
+At December 31, 1999, the Partnership had 3,857,241 invested in federal agency
+discount notes, repurchase agreements secured by U.S. Treasury Bills or
+interests in U.S. Government securities, or other highly liquid overnight
+investments.
+
+Revenue Recognition
+
+ Rents are payable to the Partnership monthly, quarterly or semi-annually and
+no significant amounts are calculated on factors other than the passage of time.
+The leases are accounted for as operating leases and are noncancellable. Rents
+received prior to their due dates are deferred. In certain instances, the
+Partnership may enter renewal or re-lease agreements which expire beyond the
+Partnership's anticipated dissolution date. This circumstance is not expected to
+prevent the orderly wind-up of the Partnership's business activities as the
+General Partner and EFG would seek to sell the then-remaining equipment assets
+either to the lessee or to a third party, taking into consideration the amount
+of future noncancellable rental payments associated with the attendant lease
+agreements. See also Note 8 regarding the Class Action Lawsuit. Future minimum
+rents of 2,905,250 are due as follows:
+
+ For the year ending December 31, 2000 1,065,343
+ 2001 835,037
+ 2002 760,542
+ 2003 244,328
+ -----------
+
+ Total 2,905,250
+ ===========
+
+ Revenue from major individual lessees which accounted for 10 or more of
+lease revenue during the years ended December 31, 1999, 1998 and 1997 are as
+follows:
+
+ 1999 1998 1997
+ -------- -------- --------
+
+Finnair OY 507,521 511,496 511,496
+Southwest Airlines, Inc. 416,708 413,280 413,280
+Reno Air, Inc. 370,352 375,103 --
+General Motors Corporation 327,579 329,924 --
+Trans Ocean Corporation -- 279,106 --
+Gearbulk Shipowning Ltd. -- -- 534,796
+The Helen Mining Company -- -- 430,000
+
+15
+
+AMERICAN INCOME FUND I-C,
+ a Massachusetts Limited Partnership
+ Notes to the Financial Statements
+
+ (Continued)
+
+Use of Estimates
+
+ The preparation of the financial statements in conformity with generally
+accepted accounting principles requires the use of estimates and assumptions
+that affect the amounts reported in the financial statements and accompanying
+notes. Actual results could differ from those estimates.
+
+Equipment on Lease
+
+ All equipment was acquired from EFG, one of its Affiliates or from
+third-party sellers. Equipment Cost means the actual cost paid by the
+Partnership to acquire the equipment, including acquisition fees. Where
+equipment was acquired from EFG or an Affiliate, Equipment Cost reflects the
+actual price paid for the equipment by EFG or the Affiliate plus all actual
+costs incurred by EFG or the Affiliate while carrying the equipment, including
+all liens and encumbrances, less the amount of all primary term rents earned by
+EFG or the Affiliate prior to selling the equipment. Where the seller of the
+equipment was a third party, Equipment Cost reflects the seller's invoice price.
+
+Depreciation
+
+ The Partnership's depreciation policy is intended to allocate the cost of
+equipment over the period during which it produces economic benefit. The
+principal period of economic benefit is considered to correspond to each asset's
+primary lease term, which term generally represents the period of greatest
+revenue potential for each asset. Accordingly, to the extent that an asset is
+held on primary lease term, the Partnership depreciates the difference between
+(i) the cost of the asset and (ii) the estimated residual value of the asset on
+a straight-line basis over such term. For purposes of this policy, estimated
+residual values represent estimates of equipment values at the date of primary
+lease expiration. To the extent that an asset is held beyond its primary lease
+term, the Partnership continues to depreciate the remaining net book value of
+the asset on a straight-line basis over the asset's remaining economic life.
+Periodically, the General Partner evaluates the net carrying value of equipment
+to determine whether it exceeds estimated net realizable value. Adjustments to
+reduce the net carrying value of equipment are recorded in those instances where
+estimated net realizable value is considered to be less than net carrying value.
+
+ The ultimate realization of residual value for any type of equipment is
+dependent upon many factors, including EFG's ability to sell and re-lease
+equipment. Changing market conditions, industry trends, technological advances,
+and many other events can converge to enhance or detract from asset values at
+any given time.
+
+Investment Securities - Affiliate
+
+ The Partnership's investment in Semele Group, Inc. is considered to be
+available-for-sale and as such is carried at fair value with unrealized gains
+and losses reported as a component of comprehensive income (loss) included in
+Partner's Capital. Other-than-temporary declines in market value are recorded as
+write-down of investment in the Statement of Operations (see Note 4). Unrealized
+gains or losses on the Partnership's available-for-sale securities, are required
+to be included in comprehensive income. During the year ended December 31, 1999,
+total comprehensive income amounted to 1,224,176.
+
+Accrued Liabilities - Affiliate
+
+ Unpaid operating expenses paid by EFG on behalf of the Partnership and
+accrued but unpaid administrative charges and management fees are reported as
+Accrued Liabilities - Affiliate (see Note 5).
+
+16
+
+AMERICAN INCOME FUND I-C,
+ a Massachusetts Limited Partnership
+ Notes to the Financial Statements
+
+ (Continued)
+
+Contingencies
+
+ It is the Partnership's policy to recognize a liability for goods and
+services during the period when the goods or services are received. To the
+extent that the Partnership has a contingent liability, meaning generally a
+liability the payment of which is subject to the outcome of a future event, the
+Partnership recognizes a liability in accordance with Statement of Financial
+Accounting Standards No. 5 "Accounting for Contingencies" ("SFAS No. 5"). SFAS
+No. 5 requires the recognition of contingent liabilities when the amount of
+liability can be reasonably estimated and the liability is likely to be
+incurred.
+
+ The Partnership is a Nominal Defendant in a Class Action Lawsuit. In 1998, a
+settlement proposal to resolve that litigation was negotiated and remains
+pending (see Note 8). The Partnership's estimated exposure for costs anticipated
+to be incurred in pursuing the settlement proposal is approximately 348,000
+consisting principally of legal fees and other professional service costs. These
+costs are expected to be incurred regardless of whether the proposed settlement
+ultimately is effected and, therefore, the Partnership accrued and expensed
+approximately 298,000 of these costs in 1998 following the Court's approval of
+the settlement plan. The cost estimate is subject to change and is monitored by
+the General Partner based upon the progress of the settlement proposal and other
+pertinent information. As a result, the Partnership accrued and expensed an
+additional 50,000 for such costs during 1999.
+
+Allocation of Profits and Losses
+
+ For financial statement purposes, net income or loss is allocated to each
+Partner according to their respective ownership percentages (95 to the Limited
+Partners and 5 to the General Partner). See Note 7 for allocation of income or
+loss for income tax purposes.
+
+Net Income and Cash Distributions Per Unit
+
+ Net income and cash distributions per Unit are based on 803,454.56 Units
+outstanding during each of the three years in the period ended December 31, 1999
+and computed after allocation of the General Partner's 5 share of net income
+and cash distributions.
+
+Provision for Income Taxes
+
+ No provision or benefit from income taxes is included in the accompanying
+financial statements. The Partners are responsible for reporting their
+proportionate shares of the Partnership's taxable income or loss and other tax
+attributes on their tax returns.
+
+NOTE 3 - EQUIPMENT
+
+ The following is a summary of equipment owned by the Partnership at December
+31, 1999. Remaining Lease Term (Months), as used below, represents the number of
+months remaining from December 31, 1999 under contracted lease terms and is
+presented as a range when more than one lease agreement is contained in the
+stated equipment category. A Remaining Lease Term equal to zero reflects
+equipment either held for sale or re-lease or being leased on a month-to-month
+basis. In the opinion EFG, the acquisition cost of the equipment did not exceed
+its fair market value.
+
+17
+
+AMERICAN INCOME FUND I-C,
+ a Massachusetts Limited Partnership
+ Notes to the Financial Statements
+
+ (Continued)
+
+Remaining
+ Lease Term Equipment
+ Equipment Type (Months) at Cost Location
+- ------------------------------ ---------- ----------- ---------------------------
+ 
+Aircraft 0-36 8,318,862 NV/TX/Foreign
+Materials handling 0-24 2,898,375 CA/CO/GA/IA/IL/MI/MN/MO/NY/
+ OH/OR/PA/TX/Foreign
+Trailers/intermodal containers 36-42 1,973,690 CA/OK
+Retail store fixtures 7 517,488 FL
+Motor vehicles 0 97,400 MI
+Communications 0 51,469 TX
+Manufacturing 0 35,218 MI
+ -----------
+
+ Total equipment cost 13,892,502
+
+ Accumulated depreciation (7,486,725)
+ -----------
+
+Equipment, net of accumulated depreciation 6,405,777
+ ===========
+
+In certain cases, the cost of the Partnership's equipment represents a
+proportionate ownership interest. The remaining interests are owned by EFG or an
+affiliated equipment leasing program sponsored by EFG. The Partnership and each
+affiliate individually report, in proportion to their respective ownership
+interests, their respective shares of assets, liabilities, revenues, and
+expenses associated with the equipment. Proportionate equipment ownership
+enabled the Partnership to further diversify its equipment portfolio at
+inception by participating in the ownership of selected assets, thereby reducing
+the general levels of risk which could have resulted from a concentration in any
+single equipment type, industry or lessee. At December 31, 1999, the
+Partnership's equipment portfolio included equipment having a proportionate
+original cost of 10,810,044, representing approximately 78 of total equipment
+cost.
+
+ Certain of the equipment and related lease payment streams were used to
+secure term loans with third-party lenders. The preceding summary of equipment
+includes leveraged equipment having an original cost of approximately 6,218,000
+and a net book value of approximately 4,811,000 at December 31, 1999 (see Note
+6).
+
+ Generally, the costs associated with maintaining, insuring and operating the
+Partnership's equipment are incurred by the respective lessees pursuant to terms
+specified in their individual lease agreements with the Partnership.
+
+ As equipment is sold to third parties, or otherwise disposed of, the
+Partnership recognizes a gain or loss equal to the difference between the net
+book value of the equipment at the time of sale or disposition and the proceeds
+realized upon sale or disposition. The ultimate realization of estimated
+residual value in the equipment is dependent upon, among other things, EFG's
+ability to maximize proceeds from selling or re-leasing the equipment upon the
+expiration of the primary lease terms. The summary above includes equipment held
+for re-lease or sale with an original cost of approximately 2,127,000 and a net
+book value of approximately 746,000 at December 31, 1999. This equipment
+includes the Partnership's interests in three Boeing 737 aircraft formerly
+leased to Southwest Airlines. Each of these aircraft had an original cost of
+approximately 700,350 and a net book value of approximately 248,500 at
+December 31, 1999. The General Partner is actively seeking the sale or re-lease
+of all equipment not on lease.
+
+18
+
+AMERICAN INCOME FUND I-C,
+ a Massachusetts Limited Partnership
+ Notes to the Financial Statements
+
+ (Continued)
+
+NOTE 4 - INVESTMENT SECURITIES - AFFILIATE / NOTE RECEIVABLE - AFFILIATE
+
+ On April 30, 1997, the vessel partnerships, in which the Partnership and
+certain affiliated investment programs are limited partners and through which
+the Partnership and the affiliated investment programs shared economic interests
+in three cargo vessels (the "Vessels") leased by Gearbulk Shipowning Ltd.
+(formerly Kristian Gerhard Jebsen Skipsrederi A/S) (the "Lessee"), exchanged
+their ownership interests in the Vessels for aggregate consideration of
+ 11,565,375, consisting of 1,987,000 newly issued shares (at 1.50 per share) of
+common stock in Semele Group, Inc. ("Semele") (formerly Banyan Strategic Land
+Fund II), a purchase money note of 8,219,500 (the "Note") and cash of 365,375.
+Semele is a Delaware corporation organized on April 14, 1987 and has its common
+stock listed on NASDAQ Small Cap Market effective January 5, 1999 (previously
+NASDAQ). At the date of the exchange transaction, the common stock of Semele had
+a net book value of approximately 1.50 per share and closing market value of
+ 1.00 per share. Semele has one principal real estate asset consisting of an
+undeveloped 274 acre parcel of land near Malibu, California ("Rancho Malibu").
+
+ The exchange was organized through an intermediary company (Equis Exchange
+LLC, 99 owned by Semele and 1 owned by EFG), which was established for the
+sole purpose of facilitating the exchange. There were no fees paid to EFG by
+Equis Exchange LLC or Semele or by any other party that otherwise would not have
+been paid to EFG had the Partnership sold its beneficial interest in the Vessels
+directly to the Lessee. The Lessee prepaid all of its remaining contracted
+rental obligations and purchased the Vessels in two closings occurring on May 6,
+1997 and May 12, 1997. The Note was repaid with 3,800,000 of cash and delivery
+of a 4,419,500 note from Semele (the "Semele Note").
+
+ As a result of the exchange transaction and its original 33.85 beneficial
+ownership interest in Dove Arrow, one of the three Vessels, the Partnership
+received 430,187 in cash and became the beneficial owner of 208,764 shares of
+Semele common stock (valued at 313,146 1.50 per share) at the time of the
+exchange transaction) and received a beneficial interest in the Semele Note of
+ 459,729. The Semele Note bears an annual interest rate of 10 and is scheduled
+to mature in April 2001. The note requires mandatory principal reductions, if
+and to the extent that net proceeds are received by Semele from the sale or
+refinancing of Rancho Malibu. The Partnership recognized interest income of
+ 45,973 in both 1999 and 1998 and 9,067 in 1997 related to the Semele Note. The
+Partnership's interest in the vessel had an original cost and net book value of
+ 2,605,381 and 1,180,755, respectively. The proceeds realized by the
+Partnership of 802,431 resulted in a net loss, for financial statement
+purposes, of 378,324. In addition, as this vessel was disposed of prior to the
+expiration of the related lease term, the Partnership received a prepayment of
+the remaining contracted rent due under the vessel's lease agreement of
+ 400,631.
+
+ Cash equal to the amount of the Semele Note was held in escrow for the
+benefit of Semele in a segregated account pending the outcome of certain
+shareholder proposals. Specifically, as part of the exchange, Semele sought
+consent ("Consent") from its shareholders to: (1) amend its certificate of
+incorporation and by-laws; (2) make additional amendments to restrict the
+acquisition of its common stock in a way to protect Semele's net operating loss
+carry-forwards, and (3) engage EFG to provide administrative services to Semele,
+which services EFG will provide at cost. On October 21, 1997, such Consent was
+obtained from Semele's shareholders. The Consent also allowed for (i) the
+election of a new Board of Directors nominated by EFG for terms of up to three
+years and an increase in size of the Board to as many as nine members, provided
+a majority of the Board shall consist of members independent of Semele, EFG or
+any affiliate; and (ii) an amendment extending Semele's life to perpetual and
+changing its name from Banyan Strategic Land Fund II. Contemporaneously with the
+Consent being obtained, Semele declared a 0.20 per share dividend to be paid on
+all shares, including those beneficially owned by the Partnership. A dividend of
+ 41,752 was paid to the Partnership on November 17, 1997. This dividend
+represented a return of equity to the Partnership, which proportionately reduced
+the Partnership's investment in Semele. Subsequent to the exchange transaction,
+Gary D. Engle, President and Chief Executive
+
+19
+
+AMERICAN INCOME FUND I-C,
+ a Massachusetts Limited Partnership
+ Notes to the Financial Statements
+
+ (Continued)
+
+Officer of EFG, was elected to the Board of Directors and appointed Chief
+Executive Officer of Semele and James A. Coyne, Executive Vice President of EFG
+was appointed Semele's President and Chief Operating Officer, and was elected to
+the Board of Directors.
+
+ On June 30, 1998, Semele effected a 1-for-300 reverse stock split followed by
+a 30-for-1 forward stock split resulting in a reduction of the number of shares
+of Semele common stock owned by the Partnership to 20,876 shares. In accordance
+with the Financial Accounting Standard Board's Statement No. 115, Accounting for
+Certain Investments in Debt and Equity Securities, marketable equity securities
+classified as available-for-sale are required to be carried at fair value.
+During the year ended December 31, 1998, the Partnership decreased the carrying
+value of its investment in Semele common stock to 4.125 per share (the quoted
+price of the Semele stock on NASDAQ at December 31, 1998) resulting in an
+unrealized loss in 1998 of 70,460. In 1997, the Partnership recorded an
+unrealized loss of 114,821 related to its Semele common stock. These losses
+were reported as components of comprehensive income, included in partners'
+capital. At December 31, 1998, the General Partner determined that the decline
+in market value of the Semele common stock was other-than-temporary. As a
+result, the Partnership wrote down the cost of the Semele common stock to 4.125
+per share for a total realized loss of 185,281 in 1998. During the year ended
+December 31, 1999, the Partnership increased the carrying value of its
+investment in Semele common stock to 5.75 per share (the quoted price of the
+Semele stock on NASDAQ SmallCap market at December 31, 1999), resulting in an
+unrealized gain of 33,924. This gain was reported as a component of
+comprehensive income, included in partners' capital.
+
+NOTE 5 - RELATED PARTY TRANSACTIONS
+
+ All operating expenses incurred by the Partnership are paid by EFG on behalf
+of the Partnership and EFG is reimbursed at its actual cost for such
+expenditures. Fees and other costs incurred during the years ended December 31,
+1999, 1998 and 1997, which were paid or accrued by the Partnership to EFG or its
+Affiliates, are as follows:
+
+ 1999 1998 1997
+ ------------ ------------ ------------
+
+Equipment management fees 101,040 113,260 166,417
+Administrative charges 124,602 68,052 63,870
+Reimbursable operating expenses
+ due to third parties 345,978 386,856 136,800
+ ------------ ------------ ------------
+ Total 571,620 568,168 367,087
+ ============ ============ ============
+
+ As provided under the terms of the Management Agreement, EFG is compensated
+for its services to the Partnership. Such services include acquisition and
+management of equipment. For acquisition services, EFG was compensated by an
+amount equal to 2.23 of Equipment Base Price paid by the Partnership. For
+management services, EFG is compensated by an amount equal to 5 of gross
+operating lease rental revenue and 2 of gross full payout lease rental revenue
+received by the Partnership. Both acquisition and management fees are subject to
+certain limitations defined in the Management Agreement.
+
+ Administrative charges represent amounts owed to EFG, pursuant to Section
+9.4(c) of the Restated Agreement, as amended, for persons employed by EFG who
+are engaged in providing administrative services to the Partnership.
+Reimbursable operating expenses due to third parties represent costs paid by EFG
+on behalf of the Partnership which are reimbursed to EFG at actual cost.
+
+20
+
+AMERICAN INCOME FUND I-C,
+ a Massachusetts Limited Partnership
+ Notes to the Financial Statements
+
+ (Continued)
+
+ All equipment was purchased from EFG, one of its Affiliates or from
+third-party sellers. The Partnership's Purchase Price is determined by the
+method described in Note 2, Equipment on Lease.
+
+ All rents and proceeds from the sale of equipment are paid directly to either
+EFG or to a lender. EFG temporarily deposits collected funds in a separate
+interest-bearing escrow account prior to remittance to the Partnership. At
+December 31, 1999, the Partnership was owed 133,950 by EFG for such funds and
+the interest thereon. These funds were remitted to the Partnership in January
+2000.
+
+ Certain affiliates of the General Partner own Units in the Partnership as
+follows:
+
+ ---------------------------------------------------------------------
+ Number of Percent of Total
+ Affiliate Units Owned Outstanding Units
+ ---------------------------------------------------------------------
+
+ Atlantic Acquisition Limited
+ Partnership 16,536 2.06 
+ ---------------------------------------------------------------------
+
+ Old North Capital Limited
+ Partnership 124,065 15.44 
+ ---------------------------------------------------------------------
+
+ Atlantic Acquisition Limited Partnership ("AALP") and Old North Capital
+Limited Partnership ("ONC") are both Massachusetts Limited Partnerships formed
+in 1995 and affiliates of EFG. The general partners of AALP and ONC are
+controlled by Gary Engle. In addition, the limited partnership interests of ONC
+are owned by Semele. Gary D. Engle is Chairman and CEO of Semele.
+
+NOTE 6 - NOTES PAYABLE
+
+ Notes payable at December 31, 1999 consisted of installment notes of
+ 2,363,628 payable to banks and institutional lenders. The installment notes
+bear interest rates ranging between 8.09 and 8.65 , except one note which bears
+a fluctuating interest rate based on LIBOR plus a margin (6.4625 at December
+31, 1999). All of the installment notes are non-recourse and are collateralized
+by the equipment and assignment of the related lease payments. Generally, the
+installment notes will be fully amortized by noncancellable rents. However, the
+Partnership has balloon payment obligations at the expiration of the lease terms
+related to aircraft leased by Reno Air, Inc. 679,276) and Finnair OY 399,502
+and 106,516). The Finnair OY indebtedness matures in January 2000 and April
+2001, respectively. The Reno Air indebtedness matures in January 2003. (See Note
+9 regarding the refinancing of the January 2000 balloon payment in February
+2000). The carrying amount of notes payable approximates fair value at December
+31, 1999.
+
+ The annual maturities of the installment notes payable are as follows:
+
+ For the year ending December 31, 2000 908,630
+ 2001 473,531
+ 2002 302,191
+ 2003 679,276
+ ----------
+
+ Total 2,363,628
+ ==========
+
+21
+
+AMERICAN INCOME FUND I-C,
+ a Massachusetts Limited Partnership
+ Notes to the Financial Statements
+
+ (Continued)
+
+NOTE 7 - INCOME TAXES
+
+ The Partnership is not a taxable entity for federal income tax purposes.
+Accordingly, no provision for income taxes has been recorded in the accounts of
+the Partnership.
+
+ For financial statement purposes, the Partnership allocates net income or
+loss to each class of partner according to their respective ownership
+percentages (95 to the Limited Partners and 5 to the General Partner). This
+convention differs from the income or loss allocation requirements for income
+tax and Dissolution Event purposes as delineated in the Restated Agreement, as
+amended. For income tax purposes, the Partnership allocates net income or net
+loss in accordance with the provisions of such agreement. The Restated
+Agreement, as amended, requires that upon dissolution of the Partnership, the
+General Partner will be required to contribute to the Partnership an amount
+equal to any negative balance which may exist in the General Partner's tax
+capital account. At December 31, 1999, the General Partner had a positive tax
+capital account balance.
+
+ The following is a reconciliation between net income reported for financial
+statement and federal income tax reporting purposes for the years ended December
+31, 1999, 1998 and 1997:
+
+1999 1998 1997
+ ------------ ------------ ------------
+ 
+Net income 1,190,252 623,010 1,574,944
+
+ Financial statement depreciation
+ less than tax depreciation (606,172) (741,889) (244,130)
+ Deferred rental income 2,395 29,528 (107,660)
+ Other 5,435 193,981 (445,123)
+ ------------ ------------ ------------
+
+Net income for federal income tax
+ reporting purposes 591,910 104,630 778,031
+ ============ ============ ============
+
+The principal component of "Other" consists of the difference between the tax
+and financial statement gain or loss on equipment disposals.
+
+ The following is a reconciliation between partners' capital reported for
+financial statement and federal income tax reporting purposes for the years
+ended December 31, 1999 and 1998:
+
+1999 1998
+ ----------- -----------
+ 
+Partners' capital 8,181,956 7,592,086
+
+ Add back selling commissions and organization
+ and offering costs 2,234,203 2,234,203
+
+ Unrealized gain on investment securities (33,924) --
+
+ Financial statement distributions in excess of tax distributions -- 7,929
+
+ Cumulative difference between federal income tax
+ and financial statement income (loss) (2,470,977) (1,872,635)
+ ----------- -----------
+Partners' capital for federal income tax reporting purposes 7,911,258 7,961,583
+ =========== ===========
+
+22
+
+AMERICAN INCOME FUND I-C,
+ a Massachusetts Limited Partnership
+ Notes to the Financial Statements
+
+ (Continued)
+
+ Unrealized gain on investment securities, financial statement distributions
+in excess of tax distributions and cumulative difference between federal income
+tax and financial statement income (loss) represent timing differences.
+
+NOTE 8 - LEGAL PROCEEDINGS
+
+ In January 1998, certain plaintiffs (the "Plaintiffs") filed a class and
+derivative action, captioned Leonard Rosenblum, et al. v. Equis Financial Group
+Limited Partnership, et al., in the United States District Court for the
+Southern District of Florida (the "Court") on behalf of a proposed class of
+investors in 28 equipment leasing programs sponsored by EFG, including the
+Partnership (collectively, the "Nominal Defendants"), against EFG and a number
+of its affiliates, including the General Partner, as defendants (collectively,
+the "Defendants"). Certain of the Plaintiffs, on or about June 24, 1997, had
+filed an earlier derivative action, captioned Leonard Rosenblum, et al. v. Equis
+Financial Group Limited Partnership, et al., in the Superior Court of the
+Commonwealth of Massachusetts on behalf of the Nominal Defendants against the
+Defendants. Both actions are referred to herein collectively as the "Class
+Action Lawsuit".
+
+ The Plaintiffs have asserted, among other things, claims against the
+Defendants on behalf of the Nominal Defendants for violations of the Securities
+Exchange Act of 1934, common law fraud, breach of contract, breach of fiduciary
+duty, and violations of the partnership or trust agreements that govern each of
+the Nominal Defendants. The Defendants have denied, and continue to deny, that
+any of them have committed or threatened to commit any violations of law or
+breached any fiduciary duties to the Plaintiffs or the Nominal Defendants.
+
+ On July 16, 1998, counsel for the Defendants and the Plaintiffs executed a
+Stipulation of Settlement setting forth terms pursuant to which a settlement of
+the Class Action Lawsuit is intended to be achieved and which, among other
+things, is expected to reduce the burdens and expenses attendant to continuing
+litigation. The Stipulation of Settlement was preliminarily approved by the
+Court on August 20, 1998 when the Court issued its "Order Preliminarily
+Approving Settlement, Conditionally Certifying Settlement Class and Providing
+for Notice of, and Hearing on, the Proposed Settlement" (the "August 20 Order").
+
+ On March 12, 1999, counsel for the Plaintiffs and the Defendants entered into
+an amended stipulation of settlement (the "Amended Stipulation") which was filed
+with the Court on March 12, 1999. The Amended Stipulation was preliminarily
+approved by the Court by its "Modified Order Preliminarily Approving Settlement,
+Conditionally Certifying Settlement Class and Providing For Notice of, and
+Hearing On, the Proposed Settlement" dated March 22, 1999 (the "March 22
+Order"). The Amended Stipulation, among other things, divided the Class Action
+Lawsuit into two separate sub-classes that could be settled individually. On May
+26, 1999, the Court issued an Order and Final Judgment approving settlement of
+one of the sub-classes. Settlement of the second sub-class, involving the
+Partnership and 10 affiliated partnerships (collectively referred to as the
+"Exchange Partnerships"), remains pending due, in part, to the complexity of the
+proposed settlement pertaining to this class.
+
+ In February 2000, counsel for the Plaintiffs and the Defendants entered into
+a second amended stipulation of settlement (the "Second Amended Stipulation")
+which modified certain of the settlement terms contained in the Amended
+Stipulation. The Second Amended Stipulation was preliminarily approved by the
+Court by its "Second Modified Order Preliminarily Approving Settlement,
+Conditionally Certifying Settlement Class and Providing For Notice of, and
+Hearing On, the Proposed Settlement" dated March 6, 2000 (the "March 2000
+Order"). Prior to issuing a final order approving the settlement of the second
+sub-class involving the Partnership, the Court will hold a fairness hearing that
+will be open to all interested parties and permit any party to object to the
+settlement. The investors of the Partnership and all other plaintiff sub-class
+members will receive a Notice of Settlement and other information pertinent to
+the settlement of their claims that will be mailed to them in advance of the
+fairness hearing.
+
+23
+
+AMERICAN INCOME FUND I-C,
+ a Massachusetts Limited Partnership
+ Notes to the Financial Statements
+
+ (Continued)
+
+ The settlement of the second sub-class is premised on the consolidation of
+the Exchange Partnerships' net assets (the "Consolidation"), subject to certain
+conditions, into a single successor company ("Newco"). Under the proposed
+Consolidation, the partners of the Exchange Partnerships would receive both
+common stock in Newco and a cash distribution; and thereupon the Exchange
+Partnerships would be dissolved. In addition, EFG would contribute certain
+management contracts, operations personnel, and business opportunities to Newco
+and cancel its current management contracts with all of the Exchange
+Partnerships. Newco would operate principally as a finance company and would use
+its best efforts to list its shares on the NASDAQ National Market or another
+national exchange or market as soon after the Consolidation as Newco deems that
+market conditions and its business operations are suitable for listing its
+shares and Newco has satisfied all necessary regulatory and listing
+requirements. The potential benefits and risks of the Consolidation will be
+presented in a Solicitation Statement that will be mailed to all of the partners
+of the Exchange Partnerships as soon as the associated regulatory review process
+is completed and at least 60 days prior to the fairness hearing. A preliminary
+Solicitation Statement was filed with the Securities and Exchange Commission on
+August 24, 1998 and remains pending. Class members will be notified of the
+actual fairness hearing date when it is confirmed.
+
+ One of the principal objectives of the Consolidation is to create a company
+that would have the potential to generate more value for the benefit of existing
+limited partners than other alternatives, including continuing the Partnership's
+customary business operations until all of its assets are disposed in the
+ordinary course of business. To facilitate the realization of this objective,
+the Amended Stipulation provided, among other things, that commencing March 22,
+1999, the Exchange Partnerships could collectively invest up to 40 of the total
+aggregate net asset values of all of the Exchange Partnerships in any
+investment, including additional equipment and other business activities that
+the general partners of the Exchange Partnerships and EFG reasonably believed to
+be consistent with the anticipated business interests and objectives of Newco,
+subject to certain limitations. The Second Amended Stipulation, among other
+things, quantified the 40 limitation using a whole dollar amount of 32 million
+in the aggregate.
+
+ On March 8, 2000, the Exchange Partnerships collectively invested 32
+million as permitted by the Second Amended Stipulation approved by the Court.
+The Partnership's portion of the aggregate investment is 2,780,000. The
+investment consists of a term loan to Echelon Residential Holdings LLC, a
+newly-formed real estate development company that will be owned by several
+investors, including James A. Coyne, Executive Vice President of EFG. Mr.
+Coyne, in his individual capacity, is the only investor in Echelon
+Residential Holdings LLC who is related to EFG. The loan proceeds were used
+by Echelon Residential Holdings LLC in the formation of a subsidiary, Echelon
+Residential LLC, that in turn acquired various real estate assets from
+Echelon International Corporation, a Florida based real estate company. The
+loan has a term of 30 months maturing on September 7, 2002 and bears interest
+at the annual rate of 14 for the first 24 months and 18 for the final six
+months of the term. Interest accrues and compounds monthly but is not payable
+until maturity. Echelon Residential Holdings LLC has pledged a security
+interest in all of its right, title and interest in and to its membership
+interests in Echelon Residential LLC to the Exchange Partnerships as
+collateral.
+
+ In the absence of the Court's authorization to enter into new investment
+activities, the Partnership's Restated Agreement, as amended, would not permit
+such activities without the approval of limited partners owning a majority of
+the Partnership's outstanding Units. Consistent with the Amended Stipulation,
+the Second Amended Stipulation provides terms for unwinding any new investment
+transactions in the event that the Consolidation is not effected or the
+Partnership objects to its participation in the Consolidation.
+
+ The Second Amended Stipulation, as well as the Amended Stipulation and the
+original Stipulation of Settlement, prescribe certain conditions necessary to
+effect a final settlement, including providing the partners of the Exchange
+Partnerships with the opportunity to object to the participation of their
+partnership in the
+
+24
+
+AMERICAN INCOME FUND I-C,
+ a Massachusetts Limited Partnership
+ Notes to the Financial Statements
+
+ (Continued)
+
+Consolidation. Assuming the proposed settlement is effected according to present
+terms, the Partnership's share of legal fees and expenses related to the Class
+Action Lawsuit and the Consolidation is estimated to be approximately 348,000,
+of which approximately 298,000 was accrued and expensed by the Partnership in
+1998 and approximately 50,000 was accrued and expensed in 1999.
+
+ While the Court's August 20 Order enjoined certain class members, including
+all of the partners of the Partnership, from transferring, selling, assigning,
+giving, pledging, hypothecating, or otherwise disposing of any Units pending the
+Court's final determination of whether the settlement should be approved, the
+March 22 Order permitted the partners to transfer Units to family members or as
+a result of the divorce, disability or death of the partner. No other transfers
+are permitted pending the Court's final determination of whether the settlement
+should be approved. The provision of the August 20 Order which enjoined the
+General Partners of the Exchange Partnerships from, among other things,
+recording any transfers not in accordance with the Court's order remains
+effective.
+
+ There can be no assurance that settlement of the sub-class involving the
+Exchange Partnerships will receive final Court approval and be effected. There
+also can be no assurance that all or any of the Exchange Partnerships will
+participate in the Consolidation because if limited partners owning more than
+one-third of the outstanding Units of a partnership object to the Consolidation,
+then that partnership will be excluded from the Consolidation. Notwithstanding
+the extent of delays experienced thus far in achieving a final settlement of the
+Class Action Lawsuit with respect to the Exchange Partnerships, the General
+Partner and its affiliates, in consultation with counsel, continue to feel that
+there is a reasonable basis to believe that a final settlement of the sub-class
+involving the Exchange Partnerships ultimately will be achieved. However, in the
+absence of a final settlement approved by the Court, the Defendants intend to
+defend vigorously against the claims asserted in the Class Action Lawsuit.
+Neither the General Partner nor its affiliates can predict with any degree of
+certainty the cost of continuing litigation to the Partnership or the ultimate
+outcome.
+
+ In addition to the foregoing, the Partnership is a party to other lawsuits
+that have arisen out of the conduct of its business, principally involving
+disputes or disagreements with lessees over lease terms and conditions as
+described below:
+
+Action involving National Steel Corporation
+
+ EFG, on behalf of the Partnership and certain affiliated investment programs
+(collectively, the "Plaintiffs"), filed an action in the Commonwealth of
+Massachusetts Superior Court, Department of the Trial Court in and for the
+County of Suffolk on July 27, 1995, for damages and declaratory relief against a
+lessee of the Partnership, National Steel Corporation ("National Steel"). The
+Complaint sought reimbursement from National Steel of certain sales and/or use
+taxes paid to the State of Illinois in connection with equipment leased by
+National Steel from the Plaintiffs and other remedies provided under the Master
+Lease Agreement ("MLA"). On August 30, 1995, National Steel filed a Notice of
+Removal, which removed the case to United States District Court, District of
+Massachusetts. On September 7, 1995, National Steel filed its Answer to the
+Plaintiff's Complaint along with Affirmative Defenses and Counterclaims and
+sought declaratory relief, alleging breach of contract, implied covenant of good
+faith and fair dealing, and specific performance. The Plaintiffs filed an Answer
+to National Steel's Counterclaims on September 29, 1995. The parties discussed
+settlement with respect to this matter for some time; however, the negotiations
+were unsuccessful. The Plaintiffs filed an Amended and Supplemental Complaint
+alleging further default under the MLA and filed a motion for Summary Judgment
+on all claims and Counterclaims. The Court held a hearing on the Plaintiff's
+motion in December 1997 and later entered a decision dismissing certain of
+National Steel's Counterclaims, finding in favor of the Plaintiffs on certain
+issues and in favor of National Steel on other issues. On May 11, 1999, the
+parties executed a comprehensive settlement agreement to resolve all outstanding
+
+25
+
+AMERICAN INCOME FUND I-C,
+ a Massachusetts Limited Partnership
+ Notes to the Financial Statements
+
+ (Continued)
+
+issues, including reimbursement to the Partnership for the disputed sales tax
+items referenced above. This matter did not have a material effect on the
+Partnership's financial position or results of operations.
+
+NOTE 9 - SUBSEQUENT EVENTS
+
+Refinancing of Indebtedness
+
+ In February 2000, the Partnership and certain affiliated investment programs
+(collectively, the "Programs") refinanced the indebtedness maturing in January
+2000 associated with the McDonnell-Douglas MD-82 aircraft formerly leased to
+Finnair OY. The Programs received debt proceeds of 4,720,000 in aggregate,
+consisting of 3,370,000 to refinance the existing indebtedness and an
+additional 1,350,000 required to perform a D-Check on the aircraft. The note
+bears a fluctuating interest rate based on LIBOR plus a margin with interest
+payments due monthly. The Partnership's share of the indebtedness is 560,358
+which is due at maturity on August 9, 2000. The aircraft was returned in January
+2000 upon its lease term expiration and is currently being stored in a
+warehouse.
+
+Other
+
+ On March 8, 2000, the Exchange Partnerships (see Note 8) collectively loaned
+ 32 million to Echelon Residential Holdings LLC, a newly-formed real estate
+development company that will be owned by several investors, including James A.
+Coyne, Executive Vice President of EFG. Mr. Coyne, in his individual capacity,
+is the only investor in Echelon Residential Holdings LLC who is related to EFG.
+
+ The Partnership's participation in the loan is 2,780,000. Echelon
+Residential Holdings LLC, through a subsidiary (Echelon Residential LLC),
+used the loan proceeds to acquire various real estate assets from Echelon
+International Corporation, a Florida based real estate company. The loan has
+a term of 30 months maturing on September 7, 2002 and bears interest at the
+annual rate of 14 for the first 24 months and 18 for the final six months
+of the term. Interest accrues and compounds monthly but is not payable until
+maturity. In connection with the transaction, Echelon Residential Holdings
+LLC has pledged a security interest in all of its right, title and interest
+in and to its membership interests in Echelon Residential LLC to the Exchange
+Partnerships as collateral.
+
+ 26
+
+ADDITIONAL FINANCIAL INFORMATION
+
+AMERICAN INCOME FUND I-C,
+ a Massachusetts Limited Partnership
+
+ SCHEDULE OF EXCESS (DEFICIENCY) OF TOTAL CASH GENERATED TO COST
+ OF EQUIPMENT DISPOSED
+
+ for the years ended December 31, 1999, 1998 and 1997
+
+ The Partnership classifies all rents from leasing equipment as lease revenue.
+Upon expiration of the primary lease terms, equipment may be sold, rented on a
+month-to-month basis or re-leased for a defined period under a new or extended
+lease agreement. The proceeds generated from selling or re-leasing the
+equipment, in addition to any month-to-month revenue, represent the total
+residual value realized for each item of equipment. Therefore, the financial
+statement gain or loss, which reflects the difference between the net book value
+of the equipment at the time of sale or disposition and the proceeds realized
+upon sale or disposition may not reflect the aggregate residual proceeds
+realized by the Partnership for such equipment.
+
+ The following is a summary of cash excess associated with equipment
+dispositions occurring in the years ended December 31, 1999, 1998 and 1997.
+
+ 1999 1998 1997
+ ---------- ---------- ----------
+
+Rents earned prior to disposal of
+ equipment, net of interest charges 2,538,399 1,360,555 6,304,322
+
+Sale proceeds realized upon disposition
+ of equipment 510,396 135,384 1,041,030
+ ---------- ---------- ----------
+
+Total cash generated from rents
+ and equipment sale proceeds 3,048,795 1,495,939 7,345,352
+
+Original acquisition cost of equipment
+ disposed 2,081,798 854,679 6,190,551
+ ---------- ---------- ----------
+
+Excess of total cash generated to cost
+ of equipment disposed 966,997 641,260 1,154,801
+ ========== ========== ==========
+
+27
+
+AMERICAN INCOME FUND I-C,
+ a Massachusetts Limited Partnership
+
+ STATEMENT OF CASH AND DISTRIBUTABLE CASH FROM OPERATIONS,
+ SALES AND REFINANCINGS
+
+ for the year ended December 31, 1999
+
+Sales and
+ Operations Refinancings Total
+ ----------- ------------ -----------
+ 
+Net income 681,660 508,592 1,190,252
+Add:
+ Depreciation 956,631 -- 956,631
+ Management fees 101,040 -- 101,040
+ Book value of disposed equipment -- 1,804 1,804
+Less:
+ Principal reduction of notes payable (1,095,661) -- (1,095,661)
+ ----------- ----------- -----------
+ Cash from operations, sales and
+ refinancings 643,670 510,396 1,154,066
+
+Less:
+ Management fees (101,040) -- (101,040)
+ ----------- ----------- -----------
+
+ Distributable cash from operations,
+ sales and refinancings 542,630 510,396 1,053,026
+
+Other sources and uses of cash:
+ Cash at beginning of year 3,243,631 -- 3,243,631
+ Net change in receivables and
+ accruals 308,526 -- 308,526
+
+Less:
+ Cash distributions paid (123,910) (510,396) (634,306)
+ ----------- ----------- -----------
+
+Cash at end of year 3,970,877 -- 3,970,877
+ =========== =========== ===========
+
+28
+
+AMERICAN INCOME FUND I-C,
+ a Massachusetts Limited Partnership
+
+ SCHEDULE OF COSTS REIMBURSED TO THE
+ GENERAL PARTNER AND ITS AFFILIATES AS REQUIRED
+ BY SECTION 9.4 OF THE AMENDED AND RESTATED
+ AGREEMENT AND CERTIFICATE OF LIMITED PARTNERSHIP
+
+ December 31, 1999
+
+ For the year ended December 31, 1999, the Partnership reimbursed the General
+Partner and its Affiliates for the following costs:
+
+ Operating expenses 341,021
+
+29
+
+</EX-13>
+
+<EX-23>
+ 7
+ EXHIBIT 23
+
+Exhibit 23
+
+ CONSENT OF INDEPENDENT AUDITORS
+
+ We consent to the incorporation by reference in this Annual Report (Form
+10-K) of American Income Fund I-C, a Massachusetts Limited Partnership, of our
+report dated March 10, 2000, included in the 1999 Annual Report to the Partners
+of American Income Fund I-C, a Massachusetts Limited Partnership.
+
+ERNST & YOUNG LLP
+
+Boston, Massachusetts
+March 10, 2000
+
+</EX-23>
+
+<EX-27>
+ 8
+ EXHIBIT 27
+
+5
+
+YEAR
+ DEC-31-1999
+ JAN-01-1999
+ DEC-31-1999
+ 3,970,877
+ 120,037
+ 685,894
+ 0
+ 0
+ 4,776,808
+ 13,892,502
+ (7,486,725)
+ 11,182,585
+ 637,001
+ 2,363,628
+ 0
+ 0
+ 0
+ 8,181,956
+ 11,182,585
+ 0
+ 2,941,228
+ 0
+ 0
+ 1,528,251
+ 0
+ 222,725
+ 1,190,252
+ 0
+ 1,190,252
+ 0
+ 0
+ 0
+ 1,190,252
+ 0
+ 0
+
+</EX-27>
+

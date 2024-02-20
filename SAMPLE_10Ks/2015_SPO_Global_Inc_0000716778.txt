@@ -1,0 +1,3892 @@
+<Header>
+<FileStats>
+    <FileName>20150414_10-K_edgar_data_716778_0001558891-15-000060.txt</FileName>
+    <GrossFileSize>4405974</GrossFileSize>
+    <NetFileSize>162064</NetFileSize>
+    <NonText_DocumentType_Chars>1046263</NonText_DocumentType_Chars>
+    <HTML_Chars>987427</HTML_Chars>
+    <XBRL_Chars>1059388</XBRL_Chars>
+    <XML_Chars>1071724</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001558891-15-000060.hdr.sgml : 20150414
+<ACCEPTANCE-DATETIME>20150414115938
+ACCESSION NUMBER:		0001558891-15-000060
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		11
+CONFORMED PERIOD OF REPORT:	20141231
+FILED AS OF DATE:		20150414
+DATE AS OF CHANGE:		20150414
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SPO Global Inc
+		CENTRAL INDEX KEY:			0000716778
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEASURING & CONTROLLING DEVICES, NEC [3829]
+		IRS NUMBER:				251411971
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-11772
+		FILM NUMBER:		15768611
+
+	BUSINESS ADDRESS:	
+		STREET 1:		21860 BURBANK BLVD
+		STREET 2:		NORTH BUILDING SUITE 380
+		CITY:			WOODLAND HILLS
+		STATE:			CA
+		ZIP:			91367
+		BUSINESS PHONE:		8188884380
+
+	MAIL ADDRESS:	
+		STREET 1:		21860 BURBANK BLVD
+		STREET 2:		NORTH BUILDING SUITE 380
+		CITY:			WOODLAND HILLS
+		STATE:			CA
+		ZIP:			91367
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SPO Medical Inc
+		DATE OF NAME CHANGE:	20050427
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNITED DIAGNOSTIC INC
+		DATE OF NAME CHANGE:	19981229
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NU TECH BIO MED INC
+		DATE OF NAME CHANGE:	19941121
+
+</SEC-Header>
+</Header>
+
+ 0001558891-15-000060.txt : 20150414
+
+10-K
+ 1
+ spom-20141231_10k.htm
+ SPO GLOBAL INC., 10-K
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+FORM
+10-K 
+
+MARK
+ONE: 
+
+[X] 
+ ANNUAL
+ REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 for the Fiscal Year ended December 31, 2014 
+
+[ ] 
+ TRANSITION
+ REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+COMMISSION
+FILE NUMBER: 0-11772 
+
+SPO
+GLOBAL INC. 
+
+ (Name
+of registrant as specified in its chapter) 
+
+Delaware 
+ 11-3223672 
+ 
+ (State
+ or Other Jurisdiction of Incorporation) 
+ (IRS
+ Employer Identification No.) 
+
+3
+Gavish Street, POB 2454, Kfar Saba, Israel 
+
+ (Address
+of Principal Executive Offices) 
+
+9-966-2520 
+
+ (Registrant's
+telephone number, including area code) 
+
+Securities
+Registered Pursuant to Section 12(b) of the Exchange Act: None 
+
+Securities
+Registered Pursuant to Section 12(g) of the Exchange Act: 0.01 par value common stock 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes [ ] 
+No [X] 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes [ ] No
+[X] 
+
+Indicate
+by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such
+reports), and (2) has been subject to such filing requirements for the past 90 days. Yes [X] No
+[ ] 
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 Regulation S-T (232.405 of this chapter) during the preceding
+12 months (or for such shorter period that the registrant was required to submit and post such files Yes [X] No [ ] 
+
+Indicate
+by check mark if disclosure of delinquent filers in response to Item 405 of Regulation S-K is not contained in this form, and
+no disclosure will be contained, to the best of the registrant's knowledge, in definitive proxy or information statements incorporated
+by reference in Part III of this Form 10-K or any amendment to this Form 10-K. [X] 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller
+reporting company. See the definitions of accelerated filer , large accelerated filer and smaller
+reporting company in Rule 12b-2 of the Exchange Act. 
+
+Large
+ accelerated filer [_] 
+ 
+ Accelerated
+ filer [_] 
+
+Non-accelerated
+ filer [_] (Do not check if a smaller reporting company) 
+ Smaller reporting
+ company [X] 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act.) Yes [ ] 
+No [ X ] 
+
+The
+registrant had 7,039,679 shares of common stock outstanding as of April 14, 2015. The aggregate market value of the
+voting and non-voting common stock held by non-affiliates of the registrant, computed by reference to the closing price of such
+common stock on the OTC Market on June 30, 2014, was approximately 118,000. 
+
+SPO
+GLOBAL INC. 
+
+ 2014
+FORM 10-K ANNUAL REPORT 
+
+TABLE
+OF CONTENTS 
+
+PART
+ I 
+ 
+ Item
+ 1 
+ Business 
+ 3 
+ 
+ Item
+ 1A 
+ Risk
+ Factors 
+ 9 
+ 
+ Item
+ 1B 
+ Unresolved
+ Staff Comments 
+ 16 
+ 
+ Item
+ 2 
+ Properties 
+ 16 
+ 
+ Item
+ 3 
+ Legal
+ Proceedings 
+ 17 
+ 
+ Item
+ 4 
+ Mine
+ Safety Disclosures 
+ 17 
+
+PART
+ II 
+ 
+ Item
+ 5 
+ Market
+ for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 17 
+ 
+ Item 6 
+ Selected Financial
+ Data 
+ 18 
+ 
+ Item
+ 7 
+ Management's
+ Discussion and Analysis of Financial Condition and Results of Operations 
+ 18 
+ 
+ Item
+ 7A 
+ Quantitative
+ and Qualitative Disclosures about Market Risk 
+ 21 
+ 
+ Item
+ 8 
+ Financial
+ Statements and Supplementary Data 
+ 21 
+ 
+ Item
+ 9 
+ Changes
+ in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 21 
+ 
+ Item 9A 
+ Controls
+ and Procedures 
+ 21 
+ 
+ Item
+ 9B 
+ Other
+ Information 
+ 22 
+
+PART
+ III 
+ 
+ Item
+ 10 
+ Directors,
+ Executive Officer and Corporate Governance 
+ 22 
+ 
+ Item
+ 11 
+ Executive
+ Compensation 
+ 24 
+ 
+ Item
+ 12 
+ Security
+ Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 26 
+ 
+ Item
+ 13 
+ Certain
+ Relationships and Related Transactions and Director Independence 
+ 27 
+ 
+ Item
+ 14 
+ Principal
+ Accounting Fees and Services 
+ 28 
+
+PART
+ IV 
+ 
+ Item
+ 15 
+ Exhibits,
+ Financial Statement Schedules 
+ 29 
+
+1 
+
+FORWARD
+LOOKING STATEMENTS 
+
+THE
+FOLLOWING DISCUSSION SHOULD BE READ IN CONJUNCTION WITH THE FINANCIAL STATEMENTS AND RELATED NOTES CONTAINED ELSEWHERE IN THIS
+FORM 10-K. CERTAIN STATEMENTS MADE IN THIS DISCUSSION ARE FORWARD-LOOKING STATEMENTS WITHIN THE MEANING OF THE PRIVATE
+SECURITIES LITIGATION REFORM ACT OF 1995. FORWARD-LOOKING STATEMENTS CAN BE IDENTIFIED BY TERMINOLOGY SUCH AS MAY, 
+ WILL, SHOULD, EXPECTS, INTENDS, ANTICIPATES, BELIEVES, 
+ ESTIMATES, PREDICTS, OR CONTINUE OR THE NEGATIVE OF THESE TERMS OR OTHER COMPARABLE TERMINOLOGY
+AND INCLUDE, WITHOUT LIMITATION, STATEMENTS BELOW REGARDING: THE COMPANY S ABILITY TO CONTINUE AS A GOING CONCERN; THE COMPANY'S
+BUSINESS PLANS; TIMING OF PLANNED PRODUCT ROLLOUTS; EXPECTATIONS AS TO PRODUCT PERFORMANCE; EXPECTATIONS AS TO MARKET ACCEPTANCE
+OF THE COMPANY'S PRODUCTS; AND BELIEF AS TO THE SUFFICIENCY OF CASH RESERVES. BECAUSE FORWARD-LOOKING STATEMENTS INVOLVE RISKS
+AND UNCERTAINTIES, THERE ARE IMPORTANT FACTORS THAT COULD CAUSE ACTUAL RESULTS TO DIFFER MATERIALLY FROM THOSE EXPRESSED OR IMPLIED
+BY THESE FORWARD-LOOKING STATEMENTS. THESE FACTORS INCLUDE, BUT ARE NOT LIMITED TO, THE COMPANY S ABILITY TO CONTINUE AS
+A GOING CONCERN, THE COMPANY'S ABILITY TO OBTAIN NECESSARY FINANCING; SUFFICIENCY OF CASH RESERVES; SUCCESS OF RESTRUCTURED OPERATIONS;
+ORDER BACKLOG RESULTING IN REVENUES; THE COMPETITIVE ENVIRONMENT GENERALLY AND IN THE COMPANY'S SPECIFIC MARKET AREAS; CHANGES
+IN TECHNOLOGY; THE AVAILABILITY OF AND THE TERMS OF FINANCING; INFLATION; CHANGES IN COSTS AND AVAILABILITY OF GOODS AND SERVICES;
+ECONOMIC CONDITIONS IN GENERAL AND IN THE COMPANY'S SPECIFIC MARKET AREAS; DEMOGRAPHIC CHANGES; CHANGES IN FEDERAL, STATE AND
+/OR LOCAL GOVERNMENT LAW AND REGULATIONS AFFECTING THE TECHNOLOGY; CHANGES IN OPERATING STRATEGY OR DEVELOPMENT PLANS; AND THE
+ABILITY TO ATTRACT AND RETAIN QUALIFIED PERSONNEL. ALTHOUGH THE COMPANY BELIEVES THAT EXPECTATIONS REFLECTED IN THE FORWARD-LOOKING
+STATEMENTS ARE REASONABLE, IT CANNOT GUARANTEE FUTURE RESULTS, PERFORMANCE OR ACHIEVEMENTS. MOREOVER, NEITHER THE COMPANY NOR
+ANY OTHER PERSON ASSUMES RESPONSIBILITY FOR THE ACCURACY AND COMPLETENESS OF THESE FORWARD-LOOKING STATEMENTS. THE COMPANY IS
+UNDER NO DUTY TO UPDATE ANY FORWARD-LOOKING STATEMENTS AFTER THE DATE OF THIS REPORT TO CONFORM SUCH STATEMENTS TO ACTUAL RESULTS. 
+
+2 
+
+PART
+I 
+
+ITEM
+1. BUSINESS 
+
+Overview 
+
+SPO
+Global Inc. we or the Company is engaged in the design, development and marketing of
+non-invasive pulse oximetry technologies to measure blood oxygen saturation and heart rate. We have developed and patented
+proprietary technology that enables the measurement of heart rate and oxygen saturation levels in the blood, which is known
+as Reflectance Pulse Oximetry (RPO). Using RPO, a sensor can be positioned on various body parts, hence minimizing problems
+from motion artifacts and poor perfusion. The unique design features contribute to substantially lower power requirements and
+enhance wireless, stand-alone configurations facilitating expanded commercial possibilities. As of April 2015, we held 12
+patents issued by the United States Patent and Trademark Office USPTO covering various aspects of our
+technologies. As further discussed below, our technologies are currently applied to products that are designed for use by in
+the homecare, general wellness, sports, safety and search and rescue markets. 
+
+We
+are primarily engaged in developing, manufacturing and licensing our technology to third parties for integration with products
+in the general wellness, recreational, baby monitoring and sports monitoring fields. We pursue joint ventures through strategic
+market partners, OEM type arrangements, research and or subcontracting agreements relating to our oximetry technology with respect
+to the general wellness, recreational, baby monitoring and sports monitoring fields. Since August 2012, we have partnered with
+HoMedics LLC, a distributor and manufacturer of leading brands in an array of consumer health, wellness and electronic
+lifestyle categories throughout the Americas, Europe, the Asia-Pacific region, Africa and the Middle-East, for the distribution
+of a private labeled, over the counter pulse oximeter for non-medial consumer wellness applications. 
+
+We
+need to raise additional funds on an immediate basis in order to meet our on-going operating requirements, pay outstanding loans
+in the aggregate approximate amount of 2,185,000 and to realize our restructured business plan. If we are unable to generate
+cash flow or raise capital, it may be necessary for us to cease operations entirely. No assurance can be given that we will be
+able to raise the needed capital. These conditions raise substantial doubt about our ability to continue as a going concern. 
+
+Background
+of Pulse Oximetry 
+
+Pulse
+oximetry is an important non-invasive process used both to measure blood oxygen saturation levels (SpO2) by monitoring the percentage
+of hemoglobin that is saturated with oxygen and to measure heart rate. This procedure has been used regularly in hospitals during
+the past twenty years and is established as an essential measurement in medical practice to ensure maintenance of adequate oxygen
+and prevention of respiratory difficulty. In many disease states, oxygen saturation is one of the most important vital signs to
+monitor. 
+
+There
+are two methods to measure pulse oximetry by transmission through a body part or by reflection. In general, the transmission method
+can only be used on certain areas of the body, such as fingers, earlobes, etc. Furthermore, in some instances when the transmission
+method is used, physiological conditions such as stress and temperature can adversely affect the accuracy of pulse oximetry readings. 
+
+Since
+pulse oximetry measurements taken on-site in an emergency, at local medical practices, and/or in home care can save lives and
+curtail intervention costs, mobile units have been developed. However, mobile oximetry units have not been widely adopted because
+their power requirements (and hence limited battery life) often make them impractical. In addition, existing mobile units require
+patients to remain absolutely stationary to produce reliable results, further reducing their practicality. 
+
+3 
+
+Our
+solution 
+
+Responding
+to the need for life-saving information in the field where people cannot be absolutely stationary, we have developed patented
+sensors that work accurately during mild physical activity. This technique uses a reflectance method (known as RPO) whereby a
+very small sensor placed on the body at various locations has the ability to measure oxygen saturation and heart pulse rate. We
+have incorporated our patented reflectance technology into portable devices for medical and consumer applications. Moreover, these
+devices operate at a power requirement approximately 1/50th of that compared to other commercially available portable systems.
+This puts pulse oximetry into the hands medical practitioners and emergency personnel on-site for the safety and benefit of all
+and offers the opportunity to create new commercial and consumer applications. 
+
+We
+intend to continue to leverage our core technologies to develop new, innovative product applications for the general
+wellness, recreational, baby monitoring and sports monitoring markets. In furtherance of this goal, we intend to pursue joint
+ventures, OEM type arrangements, and research and or sub-contractor agreements relating to our oximetry technology with
+respect to these fields. 
+
+Products
+
+We
+are currently focused on exploiting the sports and wellness markets by developing cutting edge products based on our proprietary
+technology. Our current wellness products include an innovative wellness watch, and an oximetry product for sports and recreational
+use. In addition, we are currently working with partners for the development of a baby monitoring unit and a sports watch based
+on our proprietary technology. 
+
+HoMedics
+Deluxe Pulse Oximeter TM this private-label branded product addresses the sports and general recreational markets and
+is marketed under the HoMedics brand via drug-store retailer outlets. It offers the general consumer the ability to monitor vital
+signs under motion for a variety of recreational purposes. The HoMedics Deluxe Pulse Oximeter TM was first introduced commercially
+during the fourth quarter of 2012. The product accounts for the principal amount of our revenues in 2014. 
+
+Wellness
+Watch; Live Well by SHARP TM this branded label product is an easy-to-use time-piece that can be worn on
+the hand to continually measure the number of activities and calories burned by an individual on a daily basis; this wellness
+watch is marketed to the market for overweight adults and children. The watch features a display function to continuously measure
+the number of daily activities against preset recommended goals. We have designed and patented the functionality of the watch
+to be an affordable, simple-to-use, fashion accessory to encourage users to increase their mobility and overall wellness and to
+wear it with pride. The watch is commercially available through an exclusive agreement with MZB and Company Inc (a large private
+time-piece manufacture) to manufacture and sell the product to department stores, mid-tier mass-market and food drug stores
+throughout North America. The agreement specifies that the MZB will finance all costs associated with bringing the wellness watch
+to the marketplace. We and MZB have agreed to divide the profit margin from the sale of the wellness watch net of all manufacturing
+related costs. The term of the agreement continues through December 2015. All intellectual property rights are retained by us.
+Initial product revenues were recorded in 2014. 
+
+Baby
+Movement Monitor a monitor being designed and developed specifically for the use with infants. This unique monitor is
+being designed for continual non-invasive monitoring of an infant particularly during the hours that the baby is sleeping. This
+parental reassurance tool gives the company a technological competitive edge in providing an innovative, high performance solution
+for a market application that is applicable to most family homes. Additionally, we are looking to expand the baby product offering
+by introducing a forehead thermometer incorporating our RPO technology which will enable monitoring vital sign information of
+babies and infants. Subject to raising significant funds and securing a partnership with an existing market player, of which no
+assurances can be provided, we believe that these products could become commercially available during 2016 . 
+
+4 
+
+Sports
+Watch a sports watch for monitoring hear rate for sports enthusiast to monitor their wellness while training or engaging
+in sport activities without the requirement to wear a conventional chest strap or equivalent. This is achieved using proprietary
+intellectual property developed by us to address problems associated with motion artifacts which are typical during sports and
+recreational related activities. This is a major and unique practical advantage over current products that we believe exist in
+the general leisure and wearable technology market. As importantly, the watch will be able to read the heart rate without
+the sports enthusiast ceasing his physical activity. This will be made possible through the use of our patented RPO technology.
+Subject to raising significant funds and securing a partnership with an existing market player, of which no assurances can be
+provided, we anticipate that the product could become commercially available during 2016. 
+
+Our
+research and development activities as well as product design activities are primarily conducted on an outsourcing basis. 
+
+The
+following details the PulseOx medical product line that is commercially available under license in the medical field that utilizes
+our unique pulse oximetry technology. 
+
+PulseOx
+5500TM a stand-alone commercial RPO spot check monitor for SpO2 and heart rate. The PulseOx 5500TM uses SPO patented technology
+to provide a medical device that is easier to use for many patients and less expensive to operate than any other device that is
+commercially available. Its main advantages include: (i) long lasting battery with more than 1,000 hours, using only a fraction
+of the power used by competitive devices and (ii) resistance to many forms of motion, reducing its susceptibility to the motion
+artifacts that are typical of other pulse oximetry devices. The PulseOx 5500 was launched commercially during the fourth quarter
+of 2004. The device was approved and registered by the Food and Drug Administration FDA in June 2004. The device
+also carries the CE (European Directives 93/42/EEC and 90/385/EEC for regulatory and safety standards of medical equipment) and
+Canadian Standards Association (CSA) mark for safety and audited manufacturing processes, all of which were obtained in February
+2005. 
+
+Check
+MateTM addresses the sports and aviation market s demand for a lightweight, inexpensive monitor for measuring
+SpO2 and heart rate during physically active and high-altitude activities. It offers the user a greater ability to monitor
+these vital signs under motion and is less expensive than most other available devices. The Check Mate was first introduced
+commercially during third quarter of 2005. The Check Mate does not require FDA approval or registration. It carries the CE
+and CSA mark for safety and audited manufacturing processes. 
+
+PulseOx
+7500TM a monitor for extended monitoring of SpO2 and heart rate by means of RPO. The monitor is being initially
+marketed for pre screening of sleep apnea sufferers. Its main advantages include: (i) long lasting battery equivalent to a
+month s use of monitoring using only a fraction of the power used by competitive devices and hence a
+lower cost of ownership and (ii) resistance to many forms of motion, reducing its susceptibility to the motion artifacts that
+are typical of other similar pulse oximetry devices. 
+
+PulseOx
+6000 TM a professional stand-alone commercial RPO spot check monitor for SpO2 and heart rate. The PulseOx 6000TM uses
+our patented technology to provide a medical device which is easier to use for many patients and less expensive to operate than
+any other device that is commercially available. Its main advantages include: (i) long lasting battery with more than 500 hours,
+using only a fraction of the power used by competitive devices and (ii) AutospotTM technology which compensates for resistance
+to many forms of motion, thereby reducing its susceptibility to the motion artifacts that are typical of other pulse oximetry
+devices and low perfusion experienced in certain patients. The PulseOx 600TM was first introduced commercially during the first
+quarter of 2008. The device is approved and registered by the Food and Drug Administration FDA ). The device carries
+the CE and CSA mark for safety and audited manufacturing processes. 
+
+PulseOx
+6100 TM a professional stand-alone hand held commercial RPO spot check monitor for SpO2 and heart rate. The PulseOx 6100TM
+uses our patented technology to provide a medical device that is easier to use for many patients and less expensive to operate
+than any other device that is commercially available. Its main advantages include: (i) long lasting battery with more than 200
+hours, using only a fraction of the power used by competitive devices, (ii) AutospotTM technology which compensates for resistance
+to many forms of motion reducing its susceptibility to the motion artifacts that are typical of other pulse oximetry devices and
+low perfusion experienced in certain patients and (iii) flash memory for recording multiple patient readings. The PulseOx 6100TM
+was first introduced commercially during the first quarter of 2008. The device carries the CE and CSA mark for safety and audited
+manufacturing processes. 
+
+5 
+
+The
+PulseOx product line is subject to various licenses and distribution agreements that we have granted pursuant to which we are
+entitled to royalties from the PulseOx product line (whether distributed as a standalone or as part of bundled products). As of
+December 31, 2014, we have generated to date revenues of 47,214 from one of these agreements which is currently in default due
+to a failure of the licensee to pay a minimum annual royalty of 60,000. This agreement is now operating on a non-exclusive basis. 
+
+Business
+Strategy 
+
+Our
+mission is to build a profitable business via strategic partnership relationships that develops and commercializes our wellness
+technology through consumer products that improve people's lives and provide reassurance of wellness and thereby increase stockholder
+value 
+
+To
+achieve our objectives, we are pursuing the following business strategies: 
+
+Increasing
+growth potential by pursuing new market opportunities . Through our initial success in penetrating the medical device market
+with our proprietary oximetry technology, we intend to diligently pursue other market opportunities that are seeking similar technological
+solutions and product offerings as previously demonstrated and implemented by us. These include the recreational, sports and wellness
+markets. 
+
+Partner
+with highly qualified, focused companies, internationally . We intend to continue to seek out collaborative arrangements with
+leading international distributors for our consumer products for which we have developed the prototypes, in preparation for technological
+due diligence. We have identified a number of potential partners for these products, although there can be no assurance that we
+will be able to enter into any such collaborative arrangement. 
+
+Research
+and Development . Subject to raising additional capital, our research and development strategy in the near future will focus
+on our consumer product lines to enable the Company to partner with client corporations for commercialization and distribution. 
+
+Suppliers 
+
+We
+currently outsource industrial design, associated prototyping activities and product manufacturing. However, the outsourcing of
+these operations may mean that some degree of risks related to delivery schedules, yields, and other factors are not directly
+under our control. 
+
+Marketing
+and Sales Organization 
+
+Following
+the restructuring of our business operations in 2010, we are primarily engaged in managing research and development and design
+activities on an outsourcing basis as well as business development activities with potential client corporations for commercialization
+and distribution of our oximetry technology. We intend to pursue joint ventures, OEM type arrangement, research and or sub
+contractor agreements relating to our oximetry technology with respect to the recreational, baby wellness and sports monitoring
+fields. We anticipate that our prospective partners, if any, will take responsibility for manufacturing and sales/marketing of
+their products that incorporate the oximetry technology component from us. 
+
+Since
+August 2012, we have partnered with HoMedics LLC, a distributor and manufacturer of leading brands in an array of consumer
+health, wellness and electronic lifestyle categories throughout the Americas, Europe, the Asia-Pacific region, Africa and the
+Middle-East, for the distribution of a private labeled, over the counter pulse oximeter for non-medial consumer wellness applications. 
+
+6 
+
+Patents
+and Proprietary Information 
+
+We
+currently rely on a combination of patent, trade secret, copyright and trademark law, as well as non-disclosure agreements
+and invention assignment agreements, to protect proprietary information. However, such methods may not afford complete
+protection and there can be no assurance that other competitors will not independently develop such processes, concepts,
+ideas and documentation. As of April 2015, we held twelve patents issued by the United States Patent and Trademark Office USPTO covering various aspects of our unique sensors for radiance based diagnostics using pulse oximetry.
+Although we believe that our existing issued patents provide a competitive advantage, there can be no assurance that the
+scope of our patent protection is or will be adequate to protect our technologies or that the validity of any patent issued
+will be upheld in the future. 
+
+Because
+of the uncertainty of patent protection and the unavailability of patent protection for certain processes and techniques, our
+policy is to require our employees, consultants, other advisors, as well as utility and design collaborators, to execute confidentiality
+and assignment of invention agreements upon the commencement of employment, consulting or advisory relationships. These agreements
+generally provide that all confidential information developed or made known to a party by us during the course of the party's
+association with the Company is to be kept confidential and not to be disclosed to third parties except in specific circumstances.
+In the case of employees and consultants, the agreements also provide that all inventions conceived by the individual in the course
+of their employment or consulting relationship will be our exclusive property. 
+
+Employees 
+
+As
+of April 2015, we had two employees working on a full time basis. None of these employees are subject to collective bargaining
+agreements. 
+
+Competition 
+
+We
+believe that most of the companies that possess oximetry technology are currently offering commercial solutions exclusively in
+the medical or related market applications. We are not aware of specific entities that have a similar strategy as implemented
+by the Company using their RPO technology to target sports, baby monitoring and general wellness markets with their oximetry technology
+offerings. We further believe that the reflective oximetry nature of the Company s technology is a limiting factor for other
+entities to operate in non-medical or related market applications. 
+
+There
+are number of companies, some of which are substantially larger than we are and with significantly more resources, that are
+engaged in manufacturing competing products specifically in the medical market. Our competitors include Nonin Medical Inc. of
+Plymouth, Minnesota, a privately owned company; and Smiths Medical PM Inc. of Waukesha, WI, which is the designer, manufacturer,
+and distributor of the BCI(R) brand of patient monitoring equipment which competes with our products. 
+
+Within
+the last few years several Chinese based medical device manufacturers extended their share of the homecare medical market and
+have become direct competitors to a number of our medical products. Their pricing models have significantly impacted this market
+and in particular under the current economic conditions being experienced across world wide markets. 
+
+Since
+2013, several small development companies have been attempting to bring to market a baby monitoring system based on conventional
+pulse oximetry and associated wellness sensors. The market presence of these new industry entrants could have an impact on this
+growing market and in particular through increasing awareness of technology solutions for this consumer retail space. 
+
+7 
+
+Governmental
+Regulations 
+
+The
+manufacture and sale of the PulseOx products by our licensee are subject to extensive regulation by numerous governmental authorities,
+principally by the FDA and corresponding foreign agencies. The FDA administers the Federal Food, Drug and Cosmetic Act and the
+regulations promulgated thereunder. The PulseOx 5500TM, PulseOx 60000TM, PulseOx 6100TM and PulseOx 7500TM are sold in the United
+States and are subject to the FDA's standards and procedures for the manufacture of medical devices and our facilities are subject
+to inspection by the FDA for compliance with such standards and procedures. 
+
+The
+FDA classifies each medical device into one of three classes depending on the degree of risk associated with the device and
+the extent of control needed to ensure safety and effectiveness. Our medical products have been classified by the FDA as
+Class II device and have secured a 510(k) pre-market notification clearance before being introduced into the United States
+market. For additional products, the process of obtaining 510(k) clearance typically takes several months and may involve the
+submission of limited clinical data supporting assertions that the product is substantially equivalent to an already approved
+device or to a device that was on the market before the enactment of the Medical Device Amendments of 1976. 
+
+Every
+company that manufactures or assembles medical devices to be sold in the United States is required to register with the FDA and
+adhere to certain good manufacturing practices in accordance with the FDA's Quality System Regulation which regulates
+the manufacture of medical devices, prescribes record keeping procedures and provides for the routine inspection of facilities
+for compliance with such regulations. The FDA also has broad regulatory powers in the areas of clinical testing, marketing and
+advertising of medical devices. 
+
+Medical
+device manufacturers are routinely subject to periodic inspections by the FDA. If the FDA believes that a company may not be operating
+in compliance with applicable laws and regulations, it can: 
+
+place
+ the company under observation and re-inspect the facilities; or issue a warning letter apprising of violating conduct; 
+
+detain
+ or seize products; 
+
+mandate
+ a recall; 
+
+enjoin
+ future violations; and 
+
+assess
+ civil and criminal penalties against the company, its officers or its employees. 
+
+We
+are also subject to regulation in each of the foreign countries in which we sell our products. Many of the regulations applicable
+to our products in such countries are similar to those of the FDA. The national health or social security organizations of certain
+countries require our products to be qualified before they can be marketed in those countries. 
+
+AVAILABLE
+INFORMATION 
+
+Our
+Internet website is located at http://www.spoglobal.com . This reference to our Internet websites do not constitute incorporation
+by reference in this report of the information contained on or hyperlinked from our Internet website and such information should
+not be considered part of this report. 
+
+The
+public may read and copy any materials we file with the Securities and Exchange Commission SEC at the SEC's Public
+Reference Room at 450 Fifth Street, N.W., Washington, D.C. 20549. The public may obtain information on the operation of the Public
+Reference Rooms by calling the SEC at 1-800-SEC-0330. The SEC also maintains an Internet website that contains reports, proxy
+and information statements and other information regarding issuers that file electronically with the SEC. The SEC's Internet website
+is located at http://www.sec.gov . 
+
+8 
+
+ITEM
+1A. RISK FACTORS 
+
+The
+following risk factors should be considered carefully in addition to the other information presented in this report. This report
+contains forward-looking statements that involve risks and uncertainties. Our actual results may differ significantly from the
+results discussed in the forward-looking statements. Factors that might cause such differences include, but are not limited to,
+the following: 
+
+RISKS
+RELATED TO OUR BUSINESS 
+
+WE
+NEED ADDITIONAL FINANCING ON AN IMMEDIATE BASIS AND FAILURE TO OBTAIN ADEQUATE FINANCING COULD LEAD TO THE FINANCIAL AND OPERATING
+FAILURE OF OUR COMPANY. 
+
+We
+believe that our existing cash resources are insufficient to enable us to maintain operations as presently conducted and meet
+our obligations as they come due, as well pay outstanding loans which are currently due and payable. Our currently existing cash
+resources from sales will however enable us to maintain operations as presently conducted through September 30, 2015, so long
+as we do not settle any of our loans that are scheduled to mature during the period. Unless we raise additional funds or generate
+fees on an immediate basis, whether through the issuance of our securities, licensing fees for our technology or otherwise, we
+will be required to scale back operations. If we are unsuccessful in these efforts, we may consequently have to cease operations
+entirely. Without adequate funding, we also may not be able to accelerate the development and deployment of our products,
+respond to competitive pressures and develop new or enhanced products. At the present time, we have no commitments for any financing,
+and there can be no assurance that capital will be available to us on commercially acceptable terms or at all. We may have difficulty
+obtaining additional funds as and when needed, and we may have to accept terms that would adversely affect our stockholders. 
+Any failure to achieve adequate funding will delay our development programs and product launches and could lead to abandonment
+of one or more of our development initiatives, as well as prevent us from responding to competitive pressures or take advantage
+of unanticipated acquisition opportunities. In addition to a number of outstanding amounts owed to suppliers and professional
+service providers, as of December 31, 2014 we owed approximately 2,185,000 on outstanding notes that we issued. We currently
+do not have the capital resources from which to pay these amounts. 
+
+Any
+additional equity financing may be dilutive to stockholders, and debt and certain types of equity financing, if available, may
+involve restrictive covenants or other provisions that would limit how we conduct our business or finance our operations. 
+
+Even
+if we raise funds to address our immediate working capital requirements, we also may be required to seek additional financing
+in the future to respond to increased expenses or shortfalls in anticipated revenues, accelerate product development and deployment,
+respond to competitive pressures, develop new or enhanced products, or take advantage of unanticipated acquisition opportunities.
+In addition, the deterioration in the general economic environment that began in 2008 and continued into 2014 further complicates
+our capital raising efforts. 
+
+These
+conditions raise substantial doubt as to our ability to continue as a going concern and may make it more difficult for us to raise
+additional capital when needed. The accompanying consolidated financial statements do not include any adjustments relating to
+the recoverability of reported assets or liabilities should we be unable to continue as a going concern. 
+
+WE
+HAVE A HISTORY OF LOSSES AND EXPECT TO INCUR LOSSES AND NEGATIVE OPERATING CASH FLOWS IN THE FUTURE. 
+
+Our
+accumulated deficit was approximately 22.3 million as of December 31, 2014. We expect our operating losses to continue as we
+continue to expend resources to further develop and enhance our technology offering, to complete prototyping for proof-of-concept,
+obtain regulatory clearances or approvals as required, expand our business development activities and finance capabilities and
+conduct further research and development. We also expect to experience negative cash flow in the short-term until licensing revenues
+become available through the implementation of the Company s technology via client corporations for commercialization and
+distribution of products that include our technology. 
+
+9 
+
+WE
+DO NOT HAVE A LONG OPERATING HISTORY, WHICH MAKES IT DIFFICULT FOR YOU TO EVALUATE OUR BUSINESS. 
+
+SPO
+Ltd. commenced operations in 1998. We introduced our first product into the marketplace in the fourth quarter of 2004. Accordingly,
+there is limited historical information regarding our revenue trends and operations upon which investors can evaluate our business.
+Our prospects must be considered in light of the substantial risks, expenses, uncertainties and difficulties encountered by entrants
+into the medical device industry, which is characterized by increasing intense competition and the relative failure rates. 
+
+THE
+SALE OF OUR PULSEOX PRODUCTS IN THE UNITED STATES IS SUBJECT TO GOVERNMENT REGULATIONS AND WE MAY NOT BE ABLE TO OBTAIN CERTAIN
+NECESSARY CLEARANCES OR APPROVALS. 
+
+The
+design, manufacturing, labeling, distribution and marketing of medical device products in the United States is subject to extensive
+and rigorous regulation by the Food and Drug Administration (FDA). In order for us to market our products in the United States,
+we must obtain clearance or approval from the FDA which can be expensive and uncertain and can cause lengthy delays before we
+can begin selling our products. We cannot be sure: 
+
+that we, or any
+ collaborative partner, will make timely filings with the FDA; 
+
+that the FDA will
+ act favorably or quickly on these submissions; 
+
+that we will not
+ be required to submit additional information or perform additional clinical studies; 
+
+that we would
+ not be required to submit an application for pre-market approval, rather than a 510(k) pre-market notification submission
+ as described below; or 
+
+that other significant
+ difficulties and costs will not be encountered to obtain FDA clearance or approval. 
+
+The
+FDA may impose strict labeling or other requirements as a condition of its clearance or approval, any of which could limit our
+ability to market our products. Further, if we wish to modify a product after FDA clearance of a pre-market notification or approval
+of a pre-market approval application, including changes in indications or other modifications that could affect safety and efficacy,
+additional clearances or approvals will be required from the FDA. Any request by the FDA for additional data, or any requirement
+by the FDA that we conduct additional clinical studies or submit to the more rigorous and lengthier pre-market approval process,
+could result in a significant delay in bringing our products to market and substantial additional research and other expenditures.
+Similarly, any labeling or other conditions or restrictions imposed by the FDA on the marketing of our products could hinder our
+ability to effectively market our products. Any of the above actions by the FDA could delay or prevent altogether our ability
+to market and distribute our products. Further, there may be new FDA policies or changes in FDA policies that could be adverse
+to us. 
+
+OUTSIDE
+THE UNITED STATES, WE ARE SUBJECT TO GOVERNMENT REGULATION, WHICH COULD DELAY OR PREVENT OUR ABILITY TO SELL OUR PRODUCTS IN CERTAIN
+JURISDICTIONS. 
+
+In
+order for us to market our products in Europe and some other international jurisdictions, we and our distributors and agents
+must obtain required regulatory registrations or approvals. We must also comply with extensive regulations regarding safety,
+efficacy and quality in those jurisdictions. We may not be able to obtain the required regulatory registrations or approvals,
+or we may be required to incur significant costs in obtaining or maintaining any regulatory registrations or approvals we
+receive. Delays in obtaining any registrations or approvals required to market our products, failure to receive these
+registrations or approvals, or future loss of previously obtained registrations or approvals would limit our ability to sell
+our products internationally. For example, international regulatory bodies have adopted various regulations governing product
+standards, packaging requirements, labeling requirements, import restrictions, tariff regulations, duties and tax
+requirements. These regulations vary from country to country. 
+
+10 
+
+EVEN
+IF WE OBTAIN CLEARANCE OR APPROVAL TO SELL OUR PULSEOX MEDICAL PRODUCT LINE, WE ARE SUBJECT TO ONGOING REQUIREMENTS AND INSPECTIONS
+THAT COULD LEAD TO THE RESTRICTION, SUSPENSION OR REVOCATION OF OUR CLEARANCE. 
+
+We
+are required to adhere to applicable FDA regulations and ISO standards regarding good manufacturing practice, which include testing,
+control, and documentation requirements with respect to the PulseOx product line. We are subject to similar regulations in foreign
+countries. Ongoing compliance with good manufacturing practice and other applicable regulatory requirements will be strictly enforced
+in the United States through periodic inspections by state and federal agencies, including the FDA, and in international jurisdictions
+by comparable Notified Body for CE Marking and ISO Standards. Failure to comply with these regulatory requirements could result
+in, among other things, warning letters, fines, injunctions, civil penalties, recall or seizure of products, total or partial
+suspension of production, failure to obtain premarket clearance or premarket approval for devices, withdrawal of approvals previously
+obtained, and criminal prosecution. The restriction, suspension or revocation of regulatory approvals or any other failure to
+comply with regulatory requirements would limit our ability to operate and could increase our costs. 
+
+OUR
+SUCCESS LARGELY DEPENDS ON OUR ABILITY TO OBTAIN AND PROTECT THE PROPRIETARY INFORMATION ON WHICH WE BASE OUR PRODUCTS. 
+
+Our
+success depends in large part upon our ability to establish and maintain the proprietary nature of our technology through the
+patent process, as well as our ability to license from others patents and patent applications necessary to develop our products.
+If any of our patents are successfully challenged, invalidated or circumvented, or our right or ability to manufacture our products
+was to be limited, our ability to continue to manufacture and market our products could be adversely affected. 
+
+The
+defense of patent infringement suits is costly and time-consuming and their outcome is uncertain. In addition, our limited financial
+resources may limit our ability to defend our granted patents, if challenged. An adverse determination in litigation could subject
+us to significant liabilities, require us to obtain licenses from third parties, or restrict or prevent us from selling our products
+in certain markets. Although patent and intellectual property disputes are often settled through licensing or similar arrangements,
+costs associated with such arrangements may be substantial and could include ongoing royalties. Furthermore, the necessary licenses
+may not be available to us on satisfactory terms, if at all. Thus, as discussed above, if third party patents cover any aspect
+of our products or processes, then we may lack freedom to operate in accordance with our business plan. 
+
+As
+of April 2015, we have been issued twelve United States patents. One or more of the patents for our existing or future products,
+may be successfully challenged, invalidated or circumvented, or we may otherwise be unable to rely on these patents. These risks
+are also present for the process we use or will use for manufacturing our products. In addition, our competitors, many of whom
+have substantial resources and have made substantial investments in competing technologies, may apply for and obtain patents that
+prevent, limit or interfere with our ability to make, use and sell our products, either in the United States or in international
+markets. 
+
+The
+medical device industry has been characterized by extensive litigation regarding patents and other intellectual property
+rights. In addition, the United States Patent and Trademark Office may institute interference proceedings. The defense and
+prosecution of intellectual property suits, Patent and Trademark Office proceedings and related legal and administrative
+proceedings are both costly and time consuming. Moreover, we may need to litigate to enforce our patents, to protect our
+trade secrets or know-how, or to determine the enforceability, scope and validity of the proprietary rights of others. Any
+litigation or interference proceedings involving us may require us to incur substantial legal and other fees and expenses and
+may require some of our employees to devote all or a substantial portion of their time to the proceedings. An adverse
+determination in the proceedings could subject us to significant liabilities to third parties, require us to seek licenses
+from third parties or prevent us from selling our products in some or all markets. We may not be able to reach a satisfactory
+settlement of any dispute by licensing necessary patents or other intellectual property. Even if we reached a settlement, the
+settlement process may be expensive and time consuming, and the terms of the settlement may require us to pay substantial
+royalties. An adverse determination in a judicial or administrative proceeding or the failure to obtain a necessary license
+could prevent us from manufacturing and selling our products. 
+
+11 
+
+In
+addition to patents, we rely on trade secrets and proprietary know-how, which we seek to protect, in part, through confidentiality
+and proprietary information agreements. The other parties to these agreements may breach these provisions, and we may not have
+adequate remedies for any breach. Additionally, our trade secrets could otherwise become known to or be independently developed
+by competitors. 
+
+OUR
+PRODUCTS USE NOVEL TECHNOLOGIES OR APPLY TECHNOLOGIES IN MORE INNOVATIVE WAYS THAN OTHER COMPETING MEDICAL DEVICES AND ARE OR
+WILL BE NEW TO THE MARKET; ACCORDINGLY, WE MAY NOT BE SUCCESSFUL IN ACHIEVING WIDE ACCEPTANCE OF OUR PRODUCTS AND OUR OPERATIONS
+AND GROWTH WOULD BE ADVERSELY AFFECTED. 
+
+Our
+technology offering is based on new methods of reflective pulse oximetry. If products that include our technology do not achieve
+significant market acceptance, our royalties from sales will be limited and our financial condition may suffer. To date, few independent
+studies regarding our technology have been published. The lack of independent studies limits the ability of potential OEM/licensing
+partners to compare products that include our technology within to conventional products. 
+
+OUR
+LIMITED BUSINESS DEVELOPMENT AND MARKETING EXPERIENCE MAKES OUR REVENUE UNCERTAIN. 
+
+We
+are responsible for business development and marketing our oximetry technology offering. We have relatively limited experience
+in business development and marketing and only have one internal person responsible for these tasks. In order to successfully
+continue to promote our technology offering, we must partner with client corporations for commercialization and distribution of
+products that include our technology. We may not be able to successfully reach agreements with client corporations for commercialization
+and distribution of products that include our technology. In addition, we compete with other companies that have experienced and
+well-funded marketing and sales operations. If we enter into a marketing arrangement with a third party, any revenues we would
+receive will be dependent on this third party, and we will likely be required to pay a sales commission or similar compensation
+to this party. The efforts of these third parties for the marketing and sale of products that include our technology within may
+not be successful. 
+
+BECAUSE
+WE OPERATE IN AN INDUSTRY WITH SIGNIFICANT PRODUCT LIABILITY RISK, AND WE HAVE NOT SPECIFICALLY INSURED AGAINST THIS RISK, WE
+MAY BE SUBJECT TO SUBSTANTIAL CLAIMS AGAINST OUR PRODUCTS. 
+
+Medical
+products entail significant risks of product liability claims. We currently have limited product liability insurance coverage
+beyond that provided by our general liability insurance. Accordingly, we may not be adequately protected from any liabilities,
+including any adverse judgments or settlements, we might incur in connection with the development, clinical testing, manufacture
+and sale of our products. A successful product liability claim or series of claims brought against us that result in an adverse
+judgment against or settlement by us in excess of any insurance coverage could seriously harm our financial condition or reputation.
+In addition, product liability insurance is expensive and may not be available to us on acceptable terms, if at all. 
+
+THE
+AVAILABILITY OF THIRD-PARTY REIMBURSEMENT FOR OUR PRODUCTS VIA OUR LICENSEE IS UNCERTAIN, WHICH MAY LIMIT CONSUMER USE AND THE
+MARKET FOR OUR PRODUCTS. 
+
+In
+the United States and elsewhere, sales of medical products are dependent, in part, on the ability of consumers of these products
+to obtain reimbursement for all or a portion of their cost from third-party payors, such as government and private insurance plans.
+Any inability of patients, hospitals, physicians and other users of products that include our technology to obtain sufficient
+reimbursement from third-party payors for our products, or adverse changes in relevant governmental policies or the policies of
+private third-party payors regarding reimbursement for these products, could limit the marketability of these products. We are
+unable to predict what changes will be made in the reimbursement methods used by third-party health care payors. Moreover, third-party
+payors are increasingly challenging the prices charged for medical products and services, and some health care providers are gradually
+adopting a managed care system in which the providers contract to provide comprehensive health care services for a fixed cost
+per person. Patients, hospitals and physicians may not be able to justify the use of products that include our technology by the
+attendant cost savings and clinical benefits that we believe will be derived from the use of such products, and therefore may
+not be able to obtain third-party reimbursement. 
+
+12 
+
+Reimbursement
+and health care payment systems in international markets vary significantly by country and include both government sponsored health
+care and private insurance. Our Licensee may not be able to obtain approvals for reimbursement from these international third-party
+payors in a timely manner, if at all. Any failure to receive international reimbursement approvals could have an adverse effect
+on market acceptance of products that include our technology in the international markets in which approvals are sought. 
+
+OUR
+CHIEF EXECUTIVE OFFICER HAS CONTROL OVER KEY DECISION MAKING AS A RESULT OF HIS CONTROL OF A MAJORITY OF OUR VOTING STOCK. 
+
+Michael
+Braunold, our President and Chief Executive Officer, is able to exercise voting rights with respect to a majority of the voting
+power of our outstanding capital stock and therefore has the ability to control the outcome of matters submitted to our stockholders
+for approval, including the election of directors and any merger, consolidation, or sale of all or substantially all of our assets.
+This concentrated control could delay, defer, or prevent a change of control, merger, consolidation, or sale of all or substantially
+all of our assets that our other stockholders support, or conversely this concentrated control could result in the consummation
+of such a transaction that our other stockholders do not support. This concentrated control could also discourage a potential
+investor from acquiring our common stock due to the limited voting power of such stock relative to the Series A Preferred Stock,
+ 0.01 par value per share held by Mr. Braunold, and might harm the trading price of our common stock. As a board member and officer,
+Mr. Braunold owes a fiduciary duty to our stockholders and must act in good faith in a manner he reasonably believes to be
+in the best interests of our stockholders. As a stockholder, even a controlling stockholder, Mr. Braunold is entitled to
+vote his shares in his own interests, which may not always be in the interests of our stockholders generally. 
+
+THERE
+IS NO ESTABLISHED MARKET FOR OUR COMMON STOCK AND NONE MAY DEVELOP OR BE SUSTAINED. 
+
+Our
+Common Stock has been quoted on the OTC Market (Pink Sheets) under the symbol SPOM . The OTC Market (Pink Sheets)
+is a centralized quotation service that collects and publishes market maker quotes in real time. Because our stock does not trade
+on a national securities exchange this may affect the liquidity of our Common Stock. 
+
+There
+has been very limited trading activity in our Common Stock. There can be no assurance that a more active or established
+trading market will commence in our securities. Further, in the event that an established trading market commences, there can
+be no assurance as to the level of any market price of our shares of common stock, whether any trading market will provide
+liquidity to investors, or whether any trading market will be sustained. Investors should be aware that our stock may be
+illiquid. 
+
+FUTURE
+SALES OF COMMON STOCK OR OTHER DILUTIVE EVENTS MAY ADVERSELY AFFECT PREVAILING MARKET PRICES FOR OUR COMMON STOCK. 
+
+As
+of April 14, 2015, we had 100 million authorized shares of Common Stock, of which 7,039,679 shares of our Common Stock were issued
+and outstanding as of such date. An additional estimated 14,825,748 shares may be issued upon exercise or conversion of outstanding
+options, warrants and convertible securities. Many of the those options, warrants and convertible securities contain provisions
+that require the issuance of increased numbers of shares of common stock upon exercise or conversion in the event of stock splits,
+redemptions, mergers or other transactions. The occurrence of any such event or the exercise or conversion of any of the options,
+warrants or convertible securities described above would dilute the interest in our company represented by each share of Common
+Stock and may adversely affect the prevailing market price of our Common Stock. 
+
+Our
+board of directors has the authority, without further action or vote of our stockholders, to issue all or any part of the shares
+of our Common Stock that are authorized for issuance and neither issued nor reserved for issuance. Additionally, we require additional
+funds to continue to meet our liquidity needs and maintain our operations as presently conducted and to realize our business plan.
+Such stock issuances may be made at a price that reflects a discount from the then-current trading price of our Common Stock.
+In order to raise capital that we need at today's stock prices, we would likely need to issue securities that are convertible
+into or exercisable for a significant number of shares of our Common Stock. 
+
+13 
+
+The
+shares of Common Stock issuable upon conversion of our securities or the outstanding shares are saleable without restriction.
+Any of these issuances will dilute the percentage ownership interests of our current stockholders, which will have the effect
+of reducing their influence on matters on which our stockholders vote, and might dilute the book value and market value of our
+Common Stock. Our stockholders may incur additional dilution upon the exercise of currently outstanding or subsequently granted
+options or warrants to purchase shares of our Common Stock. 
+
+OUR
+STOCK PRICE MAY BE VOLATILE. 
+
+There
+is a very limited market for our stock. The market price of our common stock will likely fluctuate significantly in response to
+the following factors, some of which are beyond our control: 
+
+Variations in
+ our quarterly operating results due to a number of factors, including but not limited to those identified in this RISK
+ FACTORS section; 
+
+Changes in financial
+ estimates of our revenues and operating results by securities analysts or investors; 
+
+Announcements
+ by us of commencement of, changes to, or cancellation of significant contracts, acquisitions, strategic partnerships, joint
+ ventures or capital commitments; 
+
+Additions or departures
+ of key personnel; 
+
+Stock market price
+ and volume fluctuations attributable to inconsistent trading volume levels of our stock; 
+
+Commencement of
+ or involvement in litigation; and 
+
+announcements
+ by us or our competitors of technological innovations or new products 
+
+In
+addition, the equity markets have experienced volatility that has particularly affected the market prices of equity securities
+issued by high technology companies and that often has been unrelated or disproportionate to the operating results of those companies.
+These broad market fluctuations may adversely affect the market price of our Common Stock. 
+
+ADDITIONAL
+BURDENS IMPOSED UPON BROKER-DEALERS BY THE APPLICATION OF THE PENNY STOCK RULES TO OUR COMMON STOCK MAY LIMIT THE
+MARKET FOR OUR COMMON STOCK. 
+
+Broker-dealer
+practices in connection with transactions in penny stocks are regulated by certain penny stock rules adopted by the
+Securities and Exchange Commission. Penny stocks generally are equity securities with a price of less than 5.00 (other than securities
+registered on certain national securities exchanges or quoted on the Nasdaq system, provided that current prices and volume information
+with respect to transactions in such securities are provided by the exchange or system). If our Common Stock continues to be offered
+at a market price less than 5.00 per share, and does not qualify for any exemption from the penny stock regulations, our Common
+Stock will continue to be subject to these additional regulations relating to low-priced stocks. 
+
+The
+penny stock rules require a broker-dealer, prior to a transaction in a penny stock not otherwise exempt from the rules, to deliver
+a standardized risk disclosure document that provides information about penny stocks and the risks in the penny stock market.
+The broker-dealer also must provide the customer with current bid and offer quotations for the penny stock, the compensation of
+the broker-dealer and its salesperson in the transaction, and monthly account statements showing the market value of each penny
+stock held in the customer's account. In addition, the penny stock rules generally require that prior to a transaction in a penny
+stock the broker-dealer make a special written determination that the penny stock is a suitable investment for the purchaser and
+receive the purchaser's written agreement to the transaction. These requirements have historically resulted in reducing the level
+of trading activity in securities that become subject to the penny stock rules. 
+
+14 
+
+The additional
+burdens imposed upon broker-dealers by these penny stock requirements may discourage broker-dealers from effecting transactions
+in the Common Stock, which could severely limit the market liquidity of our Common Stock and our shareholders' ability to sell
+our Common Stock in the secondary market. 
+
+OUR
+BOARD OF DIRECTORS' RIGHT TO AUTHORIZE THE ISSUANCE OF ADDITIONAL SHARES OF PREFERRED STOCK COULD ADVERSELY IMPACT THE RIGHTS
+OF HOLDERS OF OUR COMMON STOCK. 
+
+Our
+board of directors currently has the right to designate and authorize the issuance of our preferred stock, in one or more series,
+with such voting, dividend and other rights as our directors may determine. The board of directors can designate new series of
+preferred stock without the approval of the holders of our Common Stock. The rights of holders of our Common Stock may be adversely
+affected by the rights of any holders of shares of preferred stock that may be issued in the future, including without limitation
+dilution of the equity ownership percentage of our holders of Common Stock and their voting power if we issue preferred stock
+with voting rights. Additionally, the issuance of preferred stock could make it more difficult for a third party to acquire a
+majority of our outstanding voting stock. 
+
+RISKS
+RELATED TO OPERATIONS IN ISRAEL 
+
+WE
+DEPEND ON OUTSOURCED RESEARCH AND DEVLOPMENT FACILITIES IN ISRAEL AND ARE SUSCEPTIBLE TO ANY EVENT THAT WOULD ADVERSELY AFFECT
+THEIR CONDITION. 
+
+All
+of our current outsourced research and development facilities are located in the State of Israel. Fire, natural disaster or
+any other cause of material disruption in our operation in this location could have a material adverse effect on our
+business, financial condition and operating results. As discussed above, to remain competitive in the network communications
+industry, we must respond quickly to technological developments. Damage to facilities in Israel could cause serious delays in
+the development of new products and services and, therefore, could adversely affect our business. In addition, the particular
+risks relating to our location in Israel are described below. 
+
+WE
+MAY BE ADVERSELY AFFECTED FROM FOREIGN CURRENCY MARKET FLUCTUATIONS. 
+
+A
+significant portion of our expenses, primarily labor expenses and certain supplier contracts, are denominated in New Israeli Shekels
+ NIS . As a result, we have significant exposure to the risk of fluctuating exchange rates with the US Dollar, our
+primary reporting currency. The recent volatility in the international currency markets has been equally reflected against NIS
+and this may continue in the future. Owing to the lack of cash flow resources and financing, we are limited in our ability to
+hedge against currency fluctuations. 
+
+THE
+TRANSFER AND USE OF SOME OF OUR TECHNOLOGY AND ITS PRODUCTION IS LIMITED BECAUSE OF THE RESEARCH AND DEVELOPMENT GRANTS WE RECEIVED
+FROM THE ISRAELI GOVERNMENT TO DEVELOP SUCH TECHNOLOGY. SUCH LIMITATIONS MAY RESTRICT OUR BUSINESS GROWTH AND PROFITABILITY. 
+
+Our
+research and development efforts associated with the development of oximetry products have been partially financed through grants
+from the Office of the Chief Scientist of the State of Israel (the Chief Scientist ). We are subject to certain restrictions
+under the terms of the Chief Scientist grants. Specifically, the products developed with the funding provided by these grants
+may not be manufactured, nor may the technology which is embodied in our products be transferred outside of Israel without appropriate
+governmental approvals and/or fines. 
+
+These
+restrictions do not apply to the sale or export from Israel of our products developed with this technology. These restrictions
+could limit or prevent our growth and profitability. 
+
+15 
+
+DETERIORATION
+OF POLITICAL, ECONOMIC AND SECURITY CONDITIONS IN ISRAEL MAY ADVERSELY AFFECT OUR OPERATIONS. 
+
+Any
+major hostilities involving Israel, a substantial decline in the prevailing regional security situation or the interruption or
+curtailment of trade between Israel and its present trading partners could have a material adverse effect on our operations. Since
+the establishment of the State of Israel in 1948, a number of armed conflicts have taken place between Israel and its Arab neighbors
+and a state of hostility, varying in degree and intensity, has led to security and economic problems for Israel. Beginning in
+September 2000, the overall relationship and security situation between Israel and the Palestinians deteriorated significantly
+and continues to be marked by ongoing violence, also varying in its degree of severity. During the summer of 2006, Israel was
+engaged in an armed conflict with Hezbollah, a Lebanese Islamist Shiite militia group and political party; and during the winter
+of 2008-2009, Israel was engaged in an armed conflict with Hamas, a militia group and political party operating in the Gaza Strip.
+These conflicts involved missile strikes against civilian targets in various parts of. To date, these matters have not had any
+material effect on our business and results of operations, but there can be no assurance that they will not do so in the future. 
+
+In
+addition, civil unrest, often accompanied by violence, has spread throughout the region. Protestors have demanded economic and
+political reforms, and to date, there have been several regime changes in other countries. Civil unrest could continue to spread
+throughout the region or grow in intensity, leading to regime changes resulting in governments that are hostile to the US, civil
+wars, or regional conflict. There have also been rising international tensions over Iran, which was censured by the
+United Nations over suspicions that it is trying to develop nuclear weapons. Certain countries have considered actions ranging
+from economic sanctions to pre-emptive strikes on suspected nuclear sites, and Iranian officials have threatened retaliation by,
+among other actions, closing the Strait of Hormuz, through which a significant portion of the global crude oil supply is transported. 
+
+Prolonged
+and/or widespread regional conflict in the Middle East could have the following results, among others: 
+
+Capital market
+ reassessment of risk and subsequent redeployment of capital to more stable areas making it more difficult for us to obtain
+ financing for potential development projects; 
+
+security concerns
+ in Israel, making it more difficult for our personnel or supplies to enter or exit the country; 
+
+security concerns
+ leading to evacuation of our personnel; 
+
+inability of our
+ service and equipment providers to deliver items necessary for us to conduct our operations in, resulting in delays;
+ and 
+
+Loss
+of property and/or interruption of our business plans resulting from hostile acts could have a significant negative impact on
+our earnings and cash flow. In addition, we may not have enough insurance to cover any loss of property or other claims resulting
+from these risks. 
+
+ITEM
+1B. UNRESOLVED STAFF COMMENTS 
+
+Not
+applicable. 
+
+ITEM
+2. PROPERTIES 
+
+We
+do not own any real property. 
+
+We
+lease approximately 250 square feet in Kfar Saba, Israel which are the administrative offices for our subsidiary SPO Ltd. We paid
+ 3,000 for the use of the office space for each of the fiscal years 2014 and 2013. 
+
+We
+believe that our facilities are generally in good condition and suitable to carry on our business. We also believe that, if required,
+suitable alternative or additional space will be available to us on commercially reasonable terms. 
+
+16 
+
+ITEM
+3. LEGAL PROCEEDINGS 
+
+There
+are no material pending legal proceedings to which we are a party or to which any of our properties are subject. There are no
+material proceedings known to us to be contemplated by any governmental authority. 
+
+ITEM
+4. MINE SAFETY DISCLOSURES 
+
+Not
+applicable. 
+
+ PART
+II 
+
+ITEM
+5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+Our
+Common Stock is quoted on the OTC Market (Pink Sheets) under the symbol SPOM . Trading of our Common Stock has been
+sporadic and limited. There can be no assurance that an established trading market will develop, that the current market will
+be maintained or that a liquid market for our Common Stock will be available in the future. Investors should not rely on historical
+stock price performance as an indication of future price performance. 
+
+The
+following table shows the quarterly high and low bid prices for our Common Stock over the last two completed fiscal years. The
+prices represent quotations by dealers without adjustments for retail mark-ups, mark-downs or commission and may not represent
+actual transactions. Prices have been adjusted to reflect the 1- for -20 reverse stock split of our common stock that became effective
+on October 7, 2013. 
+
+HIGH 
+ LOW 
+ 
+ Year Ended December 31, 2014 
+
+First Quarter 
+ 0.06 
+ 0.0251 
+ 
+ Second Quarter 
+ 0.04 
+ 0.0032 
+ 
+ Third Quarter 
+ 0.065 
+ 0.008 
+ 
+ Fourth Quarter 
+ 0.015 
+ 0.0101 
+
+Year Ended December 31, 2013 
+
+First Quarter 
+ 0.57 
+ 0.148 
+ 
+ Second Quarter 
+ 0.57 
+ 0.126 
+ 
+ Third Quarter 
+ 0.20 
+ 0.10 
+ 
+ Fourth Quarter 
+ 0.196 
+ 0.03 
+
+As
+of April 14, 2015, there were approximately 159 holders of record of our Common Stock. We believe that a number of shares of our
+Common Stock are held in either nominee name or street name brokerage accounts and, consequently, we are unable to determine the
+exact number of beneficial owners of our stock. 
+
+DIVIDEND
+POLICY 
+
+We
+have paid no dividends on our Common Stock and do not expect to pay cash dividends in the foreseeable future with respect to the
+Common Stock. It is the present policy of our board of directors to retain all earnings to provide funds for our growth. The declaration
+and payment of dividends in the future will be determined by our board based upon our earnings, financial condition, capital requirements
+and such other factors as our board may deem relevant. We are not under any contractual restriction as to our present or future
+ability to pay dividends. 
+
+RECENT
+SALES OF UNREGISTERED SECURITIES 
+
+We
+sold no securities during the three months ended December 31, 2014. 
+
+17 
+
+ITEM
+6. SELECTED FINANCIAL DATA 
+
+Not
+Applicable. 
+
+ITEM
+7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+THE
+FOLLOWING DISCUSSION SHOULD BE READ IN CONJUNCTION WITH OUR FINANCIAL STATEMENTS AND THE NOTES RELATED TO THOSE STATEMENTS. SOME
+OF OUR DISCUSSION IS FORWARD-LOOKING AND INVOLVES RISKS AND UNCERTAINTIES. FOR INFORMATION REGARDING RISK FACTORS THAT COULD HAVE
+A MATERIAL ADVERSE EFFECT ON OUR BUSINESS, REFER TO THE RISK FACTORS SECTION OF THIS ANNUAL REPORT. 
+
+OVERVIEW
+
+We
+are engaged in the design and development of non-invasive pulse oximetry technologies to measure blood oxygen saturation and
+heart rate. We have developed and patented proprietary technology that enables the measurement of heart rate and oxygen
+saturation levels in the blood, which is known as Reflectance Pulse Oximetry (RPO). RPO functions using an ASIC (application
+specific integrated circuit), which is equivalent to a customized semi-conductor. Using this technology, a
+sensor can be positioned on various body parts, minimizing problems from motion artifacts and poor perfusion. The unique
+design features contribute to substantially lower power requirements and enhance wireless, stand-alone configurations
+facilitating expanded commercial possibilities. As of April 2015, we held 12 patents issued by the United States Patent and
+Trademark Office USPTO and European Patent Authorities covering various aspects of our technologies. 
+
+We
+are primarily engaged in developing, manufacturing and licensing our technology to third parties for integration with products
+in the general wellness, recreational, baby monitoring and sports monitoring fields. We pursue joint ventures, OEM type arrangements,
+research and or subcontracting agreements relating to our oximetry technology with respect to the general wellness, recreational,
+baby monitoring and sports monitoring fields. Since August 2012, we have partnered with HoMedics LLC, a distributor and manufacturer
+of leading brands in an array of consumer health, wellness and electronic lifestyle categories throughout the Americas, Europe,
+the Asia-Pacific region, Africa and the Middle-East, for the distribution of a private labeled, over the counter pulse oximeter
+for non-medial consumer wellness applications. 
+
+We
+are currently focused on exploiting the sports and wellness markets by developing cutting edge products based on our proprietary
+technology. 
+
+The
+SPO sports watch has been designed to measure continuous heart-rate wirelessly, without the need to wear a conventional chest
+strap. This is a major and unique practical advantage over current products that we believe exist in the general leisure
+and wellness market. As importantly, the sports watch will be able to read the heart rate without the sports enthusiast
+ceasing his physical activity. This will be made possible through the use of SPO s patented reflectance technology. Subject
+to raising significant additional funds and securing a partnership with an existing market player, of which no assurances can
+be provided, we anticipate that the product should become commercially available through an OEM arrangement with a strategic market
+partner during 2016. 
+
+In
+addition to the sports watch, we launched an innovative wellness watch that measures the number of activities and calories burned
+by an individual performs on a given day. The watch, designed for both children and adults, features a display function
+to continuously measure the number of daily activities against preset recommended goals. SPO has designed and patented the functionality
+of the watch to be an affordable, simple-to-use, fashion accessory to encourage users to increase their mobility and overall wellness
+and to wear it with pride. 
+
+18 
+
+In
+addition, we are developing an innovative home-baby monitoring device for continuous measurement of wellness information to the
+parent or caregiver, while the baby is sleeping. This parental reassurance tool gives the company a technological competitive
+edge in providing an innovative, high performance solution for a market application that is applicable to most family homes. Subject
+to raising significant additional funds and securing a partnership with an existing market player, of which no assurances can
+be provided, we believe that the product could become commercially available through an OEM arrangement with a strategic market
+partner during 2016. 
+
+Current
+Operational Highlights 
+
+Since
+August 2012, we have partnered with HoMedics LLC, a distributor and manufacturer of leading brands in an array of consumer
+health, wellness and electronic lifestyle categories throughout the Americas, Europe, the Asia-Pacific region, Africa and the
+Middle-East, for the distribution of a private labeled, over the counter pulse oximeter for non-medial consumer wellness applications. 
+
+We
+recorded revenues of 461,000 for the twelve months ended December 31, 2014. Revenues resulted primarily from the initial
+shipments of a new consumer wellness product to mass-market retailers based in the United States. We have generated
+significant operating losses since inception and we have a limited operating history upon which an evaluation of our
+prospects can be made. Our prospects must therefore be evaluated in light of the problems, expenses, delays and complications
+associated with a development stage company. As of December 31, 2014, we had a backlog of approximately 814,000, consisting
+of orders for additional units of our wellness product that we expect to deliver during 2015. 
+
+However,
+we need to raise additional funds on an immediate basis in order to realize our business plan as well as pay outstanding loans
+in the approximate amount of 2,185,000, which are past due or mature during the year ended December 31, 2015. In January 2010,
+we restructured our operations in an attempt to focus primarily on our core technology for non-medical market operations. As of
+April 14, 2015, we had two employees working on a full-time basis. In addition, all research and development activities are performed
+on a sub-contracted basis. If we are unable to raise capital on an immediate basis, it may be necessary for us to take further
+cost cutting measures to reduce our cash burn including laying-off additional personnel and/or cease operations entirely. No assurance
+can be given that we will be able to raise the needed capital. These conditions raise substantial doubt about our ability to continue
+as a going concern. 
+
+CRITICAL
+ACCOUNTING POLICIES 
+
+The
+discussion and analysis of our financial condition and results of operations are based upon our audited consolidated financial
+statements, which have been prepared in accordance with generally accepted accounting principles in the United States. The preparation
+of these financial statements requires management to make estimates and judgments that affect the reported amounts of assets,
+liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. On an on-going basis, we evaluate
+our estimates, including those related to revenue recognition, bad debts, investments, intangible assets and income taxes. Our
+estimates are based on historical experience and on various other assumptions that are believed to be reasonable under the circumstances.
+Actual results may differ from these estimates. 
+
+We
+have identified the accounting policies below as critical to our business operations and the understanding of our results of operations. 
+
+REVENUE
+RECOGNITION 
+
+We
+generate revenues principally from product manufacturing and the provision of subcontracted research and development services.
+Revenues generated from product manufacturing are recognized when such products are shipped; subcontracted research and development
+services are recognized when such services are performed. 
+
+USE
+OF ESTIMATES 
+
+The
+preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates
+and assumptions that affect the amounts reported in the financial statements and accompanying notes. Actual results could differ
+from those estimates. 
+
+19 
+
+COMPARISON
+OF THE YEAR ENDED DECEMBER 31, 2014 (the 2014 Period AND THE YEAR ENDED DECEMBER 31, 2013 (the 2013 Period 
+
+REVENUES .
+Revenues for the 2014 Period were 461,000 compared to 556,000 in the 2013 Period. The decrease in revenues during the 2014 Period
+as compared to the 2013 Period is attributable to a decrease in purchase order of our consumer wellness product from mass-market
+retailers. 
+
+COSTS
+OF REVENUES . Costs of revenues include all costs related to products sold. Costs of revenues for the 2014 Period were 285,000
+compared to 411,000 for the 2013 Period. The decrease in cost of revenues is primarily attributable to reduction in purchase
+orders and product shipped. 
+
+RESEARCH
+AND DEVELOPMENT EXPENSES, NET. Research and development expenses, net consist primarily of expenses incurred in the
+design, development and testing of our products net of government grants and participation by others. These expenses consist
+primarily of contract design and testing services, supplies used and consulting and license fees paid to third parties.
+Research and development expenses, net, for the 2014 Period were 13,000 compared to 0 for the 2013 Period. The increase in
+research and development expenses, net in the 2014 Period as compared to the 2013 Period is primarily attributable to costs
+associated with new consumer related products under development. 
+
+SELLING
+AND MARKETING EXPENSES. Selling and marketing expenses consist primarily of costs relating to compensation attributable to
+consultants for the provision of public relations, promotion and marketing services geared to the recreational sports and wellness
+markets. Selling and marketing expenses for 2014 Period were 108,000 compared to 58,000. The increase in selling and marketing
+expenses in the 2014 Period as compared to the 2013 Period is primarily attributable to additional marketing activities in preparation
+for the introduction of new consumer products. 
+
+GENERAL
+AND ADMINISTRATIVE EXPENSES . General and administrative expenses primarily consist of salaries and other related costs for
+personnel in executive and other administrative functions. Other significant costs include professional fees for legal and accounting
+services. General and administrative expenses for the 2014 Period were 442,000 compared to 447,000 for the 2013 Period. The
+decrease in general and administrative expenses is primarily attributable to reduced costs of service providers. 
+
+FINANCIAL EXPENSE,
+NET . Financial expense net for the 2014 Period was 207,000 compared to 323,000 for the 2013 Period. The change from the 2013
+Period to the 2014 Period was primarily attributable to an increase in interest on debt and non-cash expenses related to convertible
+debt and warrants in the amount of 107,000, and Exchange rate differences caused by fluctuations in the exchange rate with the
+New Israeli Shekel NIS on liabilities denominated in NIS held by the subsidiary fluctuated from a 112,000
+loss in 2013 to a 111,000 gain in 2014. 
+
+NET
+LOSS . For the 2014 Period and 2013 Period, we had a net loss of 594,000 and 683,000, respectively. The decrease in net loss
+for the 2014 Period compared to the 2013 Period is primarily attributable to an increase in gross profits in the approximate amount
+of 31,000, an increase in our selling and marketing expenses in the approximate amount of 50,000, a decrease in our general
+and administrative expenses in the approximate amount of 5,000, and a decrease in financial expenses in the approximate amount
+of 116,000. 
+
+LIQUIDITY
+AND CAPITAL RESOURCES 
+
+We
+need to raise additional funds and/or generate revenues on an immediate basis in order to meet our on-going operating requirements,
+pay outstanding loans in the aggregate approximate amount of 2,185,000 and to realize our restructured business plan. Our currently
+existing cash resources from sales are sufficient to satisfy our operating requirements through September 30, 2015. If we are
+unable to raise capital on an immediate basis through a financial raise or revenues it may be necessary for us to take further
+measures to reduce our cash burn including laying-off additional personnel, or ceasing operations entirely . No assurance
+can be given that we will be able to raise the needed capital. These conditions raise substantial doubt about our ability to continue
+as a going concern. Any additional equity financings is likely to be dilutive to holders of our Common Stock and debt financing,
+if available, may require us to be bound by significant repayment obligations and covenants that restrict our operations. 
+
+20 
+
+As
+of December 31, 2014, we had approximately 2,000 from cash and cash equivalents available to us, compared to 286,000 cash and
+cash equivalents as at December 31, 2013. 
+
+We
+generated negative cash flow from operating activities of approximately 694,000 during the 2014 Period compared to negative cash
+flow of 274,000 for the 2013 Period. The increase in negative cash flows is primarily attributable to increased receivables and
+prepaid expenses 
+
+To
+date, we have financed our operations primarily from debt financing and the sale of our securities. See Notes 5 and 9 in our consolidated
+financial statements accompanying this Annual Report on Form 10-K . 
+
+During
+2014, we raised 425,000 from order financing promissory notes. These notes were paid or are scheduled to be paid in 2015. 
+
+Recently
+Issued Accounting Pronouncements 
+
+During
+2014, there were no recently issued accounting pronouncements which were issued and which have relevancy to our business. 
+
+ITEM
+7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Not
+Applicable. 
+
+ITEM
+8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+The
+information called for by this Item 8 is included following the Index to Consolidated Financial Statements contained
+in this Annual Report on Form 10-K. 
+
+ITEM
+9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+None. 
+
+ITEM
+9A. CONTROLS AND PROCEDURES 
+
+EVALUATION
+OF DISCLOSURE CONTROLS AND PROCEDURES. 
+
+We
+maintain disclosure controls and procedures that are designed to ensure that information required to be disclosed in our Exchange
+Act reports is recorded, processed, summarized and reported within the time periods specified in the SEC's rules and forms, and
+that such information is accumulated and communicated to management, including our Chief Executive Officer, as appropriate, to
+allow timely decisions regarding required disclosure based closely on the definition of disclosure controls and procedures 
+in Rule 13a-14(c). 
+
+As
+of the end of the period covered by this report, we carried out an evaluation, under the supervision and with participation of
+management, including our Chief Executive Officer, who serves as our principal executive officer and principal financial and accounting
+officer, of the effectiveness of the design and operation of our disclosure controls and procedures. Based on the foregoing, our
+Chief Executive Officer concluded that our disclosure controls and procedures were effective as of the end of the period covered
+by this report to provide reasonable assurance that material information required to be disclosed by us in reports that we file
+or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in SEC rules
+and forms. 
+
+21 
+
+Management
+is aware that there is a lack of segregation of duties due to the small number of employees dealing with general administrative
+and financial matters. However, at this time, management has decided that considering the employees involved, the control procedures
+in place, and the outsourcing of certain financial functions, the risks associated with such lack of segregation are low and the
+potential benefits of adding additional employees to clearly segregate duties do not justify the expenses associated with such
+increases. Management will periodically reevaluate this situation. If the volume of the business increases and sufficient capital
+is secured, it is our intention to increase staffing to mitigate the current lack of segregation of duties within the general
+administrative and financial functions. 
+
+A
+control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the
+objectives of the control system are met. Because of the inherent limitations in all control systems no evaluation of
+controls can provide absolute assurance that all control issues, if any, within a company have been detected. Such
+limitations include the fact that human judgment in decision-making can be faulty and that breakdowns in internal control can
+occur because of human failures, such as simple errors or mistakes or intentional circumvention of the established
+process. 
+
+MANAGEMENT S
+REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING; CHANGES IN INTERNAL CONTROLS OVER FINANCIAL REPORTING. 
+
+During
+the course of 2011 we affected a series of reductions in workforce that caused the number of our employees to drop from six as
+of December 31, 2010, to two as of December 31, 2014. As a result of this decline, we were unable to ensure a proper segregation
+of duties amongst different employees. This had an effect on our internal controls over financial reporting, primarily in the
+authorization, monitoring and segregation of duties. 
+
+Our
+management is responsible for establishing and maintaining adequate internal control over financial reporting. Our management,
+has, with the assistance of external financial advisor and our audit committee, conducted an evaluation of the effectiveness of
+our internal control over financial reporting. Our management assessed the effectiveness of its internal control over financial
+reporting as of December 31, 2014. In making this assessment, management employed the framework incorporated under the Committee
+of Sponsoring Organizations of the Treadway Commission COSO in Internal Control - Integrated Framework (2013).
+Based on use of this framework, management believes that, as of December 31, 2014, the Company s internal control over
+financing reporting were effective based on those criteria. 
+
+Changes
+in Internal Control over Financial Reporting 
+
+During
+the quarter ended December 31, 2014, there have been no changes in our internal control over financial reporting that have
+materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+ITEM
+9B. OTHER INFORMATION 
+
+None. 
+
+PART
+III 
+
+ITEM
+10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+
+Management 
+
+The individuals
+who serve as our executive officers and directors are: 
+
+NAME 
+ AGE 
+ POSITION 
+ 
+ Michael Braunold 
+ 55 
+ President, Chief Executive Officer and Director 
+ 
+ Sidney Braun 
+ 55 
+ Director (1) 
+
+(1) 
+ Audit
+ Committee and Compensation Committee Member. 
+
+22 
+
+The
+business experience, principal occupations and employment, as well as the periods of service, of each of our directors and executive
+officers during at least the last five years are set forth below. 
+
+MICHAEL
+BRAUNOLD has been Chief Executive Officer of SPO Ltd. since March 1998 and the President and Chief Executive Officer of the
+Company since May 18, 2005. Prior to March 1998, Mr. Braunold was Senior Director of Business Development at Scitex
+Corporation Ltd., a multinational corporation specializing in visual information communication. In such capacity, Mr.
+Braunold played a strategic role in managing a team of professionals assigned to M A activities. During his 12-year
+tenure at Scitex, he held various positions within the worldwide organization, including a period in the United States as
+Vice President of an American subsidiary of Scitex specializing in medical imaging. From March 2000 through September 2000,
+Mr. Braunold was also the Chief Executive Officer and Chairman of Ambient Corporation, a Delaware company, that specializes
+in the implementation of a proposed comprehensive high-speed communication infrastructure that is designed to utilize
+existing electrical power distribution lines as a high-speed communication medium. Mr. Braunold served as a director of
+Amedia Networks, Inc. (formerly TTR Technologies, Inc.) from February 2000 through August 2002. Mr. Braunold obtained a
+Bachelor of Science degree with honors in Engineering and Management Sciences from Imperial College Business School, London.
+Mr. Braunold as Chief Executive Officer of the company along with his seasoned corporate experience makes him well suited to
+confront the challenges our company faces. 
+
+SIDNEY
+BRAUN has served as a director since April 21, 2005. From June 2004 to December 2006, Mr. Braun has served as the President and
+Chief Operating Officer for Med-Emerg International Inc. (MEII), a public healthcare services company incorporated in the Province
+of Ontario. Mr. Braun served on the board of directors from June 2004 until June 2009, and as chair of the strategic development
+committee during the last 2 years. Since September 2006, Mr. Braun is also a director of Romlight International Inc., an energy
+saving lighting solutions company. Since June 2009, Mr. Braun has served on the board of directors of AIM Health Group, a publically
+listed company on TSVX and as a member of their Audit Committee. Mr. Braun has extensive experience in commerce both in North
+America and Europe, including manufacturing, distribution and trading. Prior to his position at MEII and Romlight, Mr. Braun worked
+for many years in investment banking with a focus on emerging markets, and took several companies public in the UK, Germany and
+Switzerland. Mr. Braun s wide experience both as an entrepreneur and in the finance markets affords the company access to
+wide array of prospective financing parties. 
+
+Committees
+of the Board of Directors 
+
+Our
+Board of Directors operates with the assistance of the Audit Committee and the Compensation Committee. Due to the small size of
+our Board, we do not presently maintain a formal nominating committee. The entire Board participates in the process of nominating
+candidates for the Board of Directors. 
+
+The
+function of the Audit Committee is to (i) make recommendations to the full Board of Directors with respect to appointment of our
+independent public accountants, and (ii) meet periodically with our independent public accountants to review the general scope
+of audit coverage, including consideration of internal accounting controls and financial reporting. 
+
+The
+Board of Directors has determined that at present we have no audit committee financial expert serving on the Audit Committee. 
+
+The
+Compensation Committee sets compensation policy and administers our cash and equity incentive programs for the purpose of attracting
+and retaining skilled executives who will promote the Company s business goals and build shareholder value. The committee
+is also responsible for reviewing and making recommendations to the Board regarding all forms of compensation to be provided to
+the Company s named executive officers, including stock compensation and bonuses. 
+
+All
+directors are elected by a plurality vote at the annual meeting of the shareholders, and hold office until a successor is duly
+elected and qualified. Any vacancy occurring in the Board of Directors may be filled by the stockholders, the Board of Directors,
+or if the Directors remaining in office constitute less than a quorum of the Board of Directors, they may fill the vacancy by
+the affirmative vote of a majority of the Directors remaining in office. A director elected to fill a vacancy is elected for the
+unexpired term of his predecessor in office. Any directorship filled by reason of an increase in the number of directors shall
+expire at the next shareholders' meeting in which directors are elected, unless the vacancy is filled by the shareholders, in
+which case the term shall expire on the later of (i) the next meeting of the shareholders or (ii) the term designated for the
+director at the time of creation of the position being filled. 
+
+23 
+
+Our
+executive officers are appointed by our board of directors. Each officer shall hold office until the earlier of: his death; resignation
+or removal from office; or the appointment and qualification of his successor. 
+
+CODE
+OF ETHICS 
+
+We
+have adopted a code of ethics that applies to our chief executive officer, president, chief financial officer, controller and
+others performing similar executive and financial functions at the Company. A copy of our policy was attached as an exhibit to
+our annual report on Form 10-KSB for the year ended December 31, 2005. We intend to satisfy the disclosure requirement under Item
+10 of Form 8-K regarding an amendment to, or waiver from, a provision of this code of ethics by posting such information on our
+Website, at the address and location specified above. 
+
+SECTION
+16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE 
+
+Section
+16(a) of the Securities Exchange Act of 1934, as amended, requires each of our officers and directors and each person who owns
+more than 10 of a registered class of our equity securities to file with the SEC an initial report of ownership and subsequent
+reports of changes in such ownership. Such persons are further required by SEC regulation to furnish us with copies of all Section
+16(a) forms (including Forms 3, 4 and 5) that they file. Based solely on our review of the copies of such forms received by us
+with respect to fiscal year 2014, or written representations from certain reporting persons, we believe all of our directors and
+executive officers met all applicable filing requirements. 
+
+ITEM
+11. EXECUTIVE COMPENSATION 
+
+The
+following table sets forth all compensation for the last fiscal year awarded to, earned by, or paid to our Chief Executive Officer,
+our sole executive officer (the Named Executive Officer ). 
+
+SUMMARY
+COMPENSATION TABLE 
+
+Name Principal Position 
+ Year 
+ Salary ) 
+ Bonus ) 
+ Option Awards ) 
+ All Other Compensation ) 
+ Total ) 
+ 
+ MICHAEL BRAUNOLD 
+ 2014 
+ 159,000 (1) 
+
+24,666 (2) 
+ 183,666 
+ 
+ President and Chief Executive Officer 
+ 2013 
+ 159,000 (3) 
+
+73,662 (4) 
+ 232,662 
+
+(1) 
+ Of
+ this amount, 51,750 was paid in 2014 and 107,250 is being deferred. 
+
+(2) 
+ Reflects
+ remuneration for automobile and related benefits 4,828), accrued vacation, and contributions to insurance premiums paid
+ under Israeli law for pension, severance and further education funds 19,838). 
+
+(3) 
+ Of
+ this amount, 50,940 was paid in 2013 and 108,060 is being deferred. 
+
+(4) 
+ Reflects
+ payments made by us in connection with a leased automobile and related benefits 6,782), accrued vacation, and contributions
+ to insurance premiums paid under Israeli law for pension, severance and further education funds 66,880 of which 44,062
+ is being deferred). 
+
+24 
+
+OUTSTANDING
+EQUITY AWARDS AT FISCAL YEAR-END DECEMBER 31, 2014 
+
+Name 
+ Number of Securities Underlying Unexercised Options (#)(1) Exercisable 
+ Number of Securities Underlying Unexercised Options (#) Unexercisable 
+ Equity Incentive Plan Awards: Number of Securities Underlying Unexercised Unearned Options (#) 
+ Option Exercise Price ) 
+ Option Expiration Date 
+ 
+ Michael Braunold 
+ 12,500 
+
+12.00 
+ 12/22/2015 
+
+10,000 
+
+2.60 
+ 12/05/2018 
+
+(1) 
+ Options
+ were issued under our 2005 Equity Incentive Plan and are fully vested. 
+
+EMPLOYMENT
+AGREEMENTS WITH SOLE EXECUTIVE OFFICER 
+
+MICHAEL
+BRAUNOLD . On May 18, 2005, we entered into an employment agreement with Michael Braunold, pursuant to which he serves as our
+Chief Executive Officer and President. On such date, Mr. Braunold and SPO Ltd., entered into an employment agreement pursuant
+to which Mr. Braunold serves as SPO Ltd.'s Chief Executive Officer. Each of the agreements with us and SPO Ltd. continues in effect
+through May 18, 2010; thereafter, the agreement and is automatically renewable for successive two year terms unless we or Mr.
+Braunold indicate in writing, upon 90 days prior to the scheduled termination of the term that such party does not intend to renew
+the agreement. Mr. Braunold is currently entitled to a monthly salary of 13,250 under the agreement with SPO Ltd. However, in
+order to reduce operating expenses and conserve cash, since July 2008 Mr. Braunold has been deferring a part of his salary and
+social benefits due thereon until such time as our cash position permits payment of salary in full without interfering with our
+ability to pursue our plan of operations, and, as of December 31, 2014, such deferred amount totaled an aggregate of 684,252.
+The agreements may be terminated by Mr. Braunold for any reason on 60 days written notice or for Good Reason (as defined in the
+employment agreement) or by us for Just Cause (as defined in the employment agreement) or for any other reason. In the event of
+a termination by Mr. Braunold for Good Reason or by us for any reason other than Just Cause, we are to pay Mr. Braunold an amount
+equal the base salary then payable, if any, for a period of twelve months as if the agreement had not been so terminated. 
+
+The
+agreement includes certain customary intellectual property development rights, confidentiality and non-compete provisions that
+prohibit the executive from competing with us for one year, or soliciting our employees for one year, following the termination
+of his employment. 
+
+COMPENSATION
+OF DIRECTOR 
+
+The
+following table summarizes data concerning the compensation of our sole non-employee director for the fiscal year ended December
+31, 2014. 
+
+Fees Earned 
+ Option 
+
+or paid 
+ Awards( 
+ Total 
+ 
+ Sidney Braun 
+ 10,000 (1) 
+ 
+ 10,000 
+
+(1) 
+ Of
+ this amount, 5,000 is being deferred (total deferred as of December 31, 2014 was 35,000). 
+
+25 
+
+ITEM
+12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+The
+following table sets forth information as of the close of business on April 14, 2015, concerning shares of our common stock and
+other voting securities beneficially owned by each director and named executive officer, each other person beneficially owning
+more than 5 of our Common Stock and by all directors and executive officers as a group. The column entitled Percentage
+of Outstanding Common Stock shows the percentage of voting common stock beneficially owned by each listed person. The
+column entitled Percentage of Outstanding Series A Preferred Stock shows the percentage of total Series A Preferred
+Stock, par value 0.01 per share, beneficially owned by each listed person. 
+
+In
+accordance with the rules of the SEC, the table gives effect to the shares of common stock that could be issued upon the exercise
+of outstanding options and warrants within 60 days of April 14, 2015. Unless otherwise noted in the footnotes to the table and
+subject to community property laws where applicable, the following individuals have sole voting and investment control with respect
+to the shares beneficially owned by them. We have calculated the percentages of shares beneficially owned based on 7,039,679 shares
+of Common Stock outstanding at April 14, 2015. 
+
+Name of Beneficial Owner (1) 
+ Number of Shares of Common Stock Owned Beneficially 
+ of Outstanding Shares of Common Stock 
+ Number of Shares of Series A Owned 
+ of Outstanding Series A Preferred Stock 
+
+Michael Braunold 
+ 59,696 (2) 
+ 
+ 100 
+ 100 
+
+Sidney Braun 
+ 8,750 (3) 
+
+All officers and directors 
+ 68,446 
+ 
+ 100 
+ 100 
+ 
+ as a group (2 persons) 
+
+5 Stockholders 
+
+AM145 Holdings LLC 
+ 355,000 (4) 
+ 5.0 
+
+LE7 Consulting Group 
+ 370,000 (5) 
+ 5.3 
+
+KCG Americas LLC 
+ 700,871 (6) 
+ 9.9 
+
+Less
+ than 1 
+
+(1) 
+ Except
+ as otherwise indicated, the address of each beneficial owner is c/o SPO Medical, 3 Gavish Street POB 2454, Kfar Saba, Israel
+ 44425. 
+
+(2) 
+ Includes
+ 22,500 shares of our Common Stock that are issuable upon exercise of vested options issued under our 2005 Equity Incentive
+ Plan (the 2005 Plan ). 
+
+(3) 
+ Represents
+ (i) shares issuable upon exercise of currently exercisable options under the Company's 2005 Non-Employee Directors Stock Option
+ Plan and (ii) warrants to purchase 5,000 shares of our Common Stock issued in December 2009. 
+
+(4) 
+ The
+above disclosure is based on a Schedule 13G filed by the stockholder on May 16, 2013. 
+
+(5) 
+ Represents
+(i) 145,000 shares of the Company s Common and (ii) a warrant for the purchase of 225,000 shares of the Company s
+Common Stock. The above disclosure is based on a Schedule 13G filed by the stockholder on May 16, 2013. 
+
+(6) 
+ The above disclosure
+ is based on a Schedule 13G filed by the stockholder on February 6, 2015, as amended. 
+
+26 
+
+EQUITY
+COMPENSATION PLAN INFORMATION 
+
+We
+have two compensation plans (excluding individual stock option grants outside of such plans) under which our equity securities
+are authorized for issuance to employees, directors and consultants in exchange for services - the 2005 Equity Incentive Plan
+(the 2005 Plan and the 2005 Non-Employee Directors Stock Option Plan (the 2005 Directors Plan together
+with the 2005 Plan, the Plans ). Our shareholders have approved these plans. 
+
+The
+following table presents information as of December 31, 2014 with respect to compensation plans under which equity securities
+were authorized for issuance, including the 2005 Plan and the Non-Employee Directors Plan and agreements granting options or warrants
+outside of these plans. 
+
+NUMBER OF SECURITIES 
+
+TO BE ISSUED UPON 
+ WEIGHTED- AVERAGE 
+ NUMBER OF SECURITIES 
+
+EXERCISE OF 
+ EXERCISE PRICE OF 
+ REMAINING AVAILABLE FOR 
+
+OUTSTANDING OPTIONS, 
+ OUTSTANDING OPTIONS, 
+ FUTURE ISSUANCE UNDER 
+
+WARRANTS OR RIGHTS 
+ WARRANTS OR RIGHTS 
+ EQUITY COMPENSATION PLANS 
+
+Equity compensation plans approved by security holders 
+ 95,000 
+ 7.80 
+ 6,500 
+ 
+ Equity compensation plans not approved by security holders 
+ 295,884 
+ 0.30 
+
+Total 
+ 390,884 
+ 2.12 
+ 6,500 
+
+NON-SHAREHOLDER
+APPROVED PLANS 
+
+The
+following is a description of options and warrants granted to employees, directors, advisory directors and consultants that were
+outstanding as of December 31, 2014. 
+
+As
+of December 31, 2014, we had outstanding options and warrants to purchase an aggregate of 295,884 shares of our Common Stock which
+were granted outside of the Plans. These are comprised of the following: (i) to employees 22,319, and (ii) 273,565 warrants issued
+to service providers. 
+
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+
+Certain
+Relationships and Related Transactions 
+
+Since
+the beginning of its last fiscal year, the Company has not engaged in any transaction, or any proposed transaction, to which the
+Company or any of its subsidiaries was or is to be a party and (1) in which the amount involved exceeds the lesser of 120,000
+or one percent of the average of the Company s assets at year end for the last three completed fiscal years and (2) in which
+any of the Company s directors, nominees for director, executive officers or beneficial owners of more than 5 of its Common
+Stock, or members of the immediate families of those individuals, had or will have, a direct or indirect material interest. 
+
+27 
+
+Director
+Independence 
+
+The
+Board believes that Sidney Braun meets the independence criteria set out in Rule 4200(a)(14) of the Marketplace Rules of the National
+Association of Securities Dealers and the rules and other requirements of the SEC. Mr. Braun was appointed to the Audit Committee
+in 2005, and is presently the sole member of the committee. 
+
+ITEM
+14. PRINCIPAL ACCOUNTING FEES AND SERVICES 
+
+Audit
+and Non-Audit Fees 
+
+The
+following table presents fees for professional audit services rendered by Brightman Almagor Zohar Co., Certified Public
+Accountants, a member firm of Deloitte Touche Tohmatsu Limited, for the audit of our annual financial statements for the year
+ended December 31, 2014 and 2013. 
+
+Fiscal Year Ended 
+ Fiscal Year Ended 
+
+December 31, 2014 
+ December 31, 2013 
+ 
+ Audit Fees 
+ 26,500 
+ 26,500 
+ 
+ Audit Related Fees 
+
+Tax Fees 
+ 3,500 
+ 3,500 
+ 
+ All Other Fees 
+
+Total 
+ 30,000 
+ 30,000 
+
+AUDIT
+FEES were for professional services rendered for the audits of our consolidated financial statements, quarterly review of the
+financial statements included in our Quarterly Reports on Form 10-QSB, consents, and other assistance required to complete the
+year-end audit of the consolidated financial statements. 
+
+AUDIT-RELATED
+FEES were for assurance and related services reasonably related to the performance of the audit or review of financial statements
+and not reported under the caption Audit Fees. 
+
+TAX
+FEES were for professional services related to tax compliance, tax authority audit support and tax planning. 
+
+All
+OTHER FEES include professional advisory fees relating to Company s efforts to raise additional funds through a public offering
+of our securities outside the United States. 
+
+Our
+audit committee (the Audit Committee reviews non-audit services rendered for each year and determines whether such
+services are compatible with maintaining the accountants' independence. The Audit Committee's policy is to pre-approve all audit
+services and all non-audit services that our independent public accountants are permitted to perform for us under applicable federal
+securities regulations. As permitted by the applicable regulations, the Audit Committee's policy utilizes a combination of specific
+pre-approval on a case-by-case basis of individual engagements of the independent public accountants and general pre-approval
+of certain categories of engagements up to predetermined dollar thresholds that are reviewed annually by the Audit Committee.
+Specific pre-approval is mandatory for, among other things, the annual financial statement audit engagement. 
+
+28 
+
+PART
+IV 
+
+ITEM
+15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+
+The
+following exhibits are incorporated herein by reference or are filed with this report as indicated below . 
+
+EXHIBIT NO. 
+ 
+ DESCRIPTION 
+
+2.1 
+ 
+ Restated Capital
+ Stock Exchange Agreement dated as of April 21, 2005 among the Company, SPO Ltd. and the SPO Ltd. shareholders specified therein.
+ (1) 
+ 
+ 3.1 
+ 
+ Amended and Restated
+ Certificate of Incorporation of the Company. (2) 
+ 
+ 3.2 
+ 
+ Certificate of
+ Amendment of the Amended and Restated Certificate of Incorporation of the Company 
+ 
+ 3.3 
+ 
+ Articles of Amendment
+ Certificate of Designation of Series A Preferred Stock Certificate of Incorporation of the Company (12) 
+ 
+ 3.4 
+ 
+ Bylaws of the
+ Company (1) 
+ 
+ 3.5 
+ 
+ Articles of Association
+ of SPO Medical Equipment Ltd. (3) 
+ 
+ 4.1 
+ 
+ Form of Promissory
+ Note issued to certain investors. (1) 
+ 
+ 4.2 
+ 
+ Form of Warrant
+ Instrument issued to certain investors.(1) 
+ 
+ 4.3 
+ 
+ Form of Promissory
+ Note issued in connection with the Subscription Agreement referred to in Item 10.1. (5) 
+ 
+ 4.4 
+ 
+ Form of Warrant
+ issued in connection with the Agreement referred to in Item 10.1 (4) 
+ 
+ 4.5 
+ 
+ Form of Warrant
+ (5) 
+ 
+ 4.6 
+ 
+ Form of Common
+ Stock Purchase Warrant (5) 
+ 
+ 4.7 
+ 
+ Form of Investor
+ Warrant used in the Financing Referred to in Exhibit 10.16. (6) 
+ 
+ 4.8 
+ 
+ Form of Investor
+ Warrant used in the Financing Referred to in Exhibit 10.17(11) 
+ 
+ 10.1 
+ 
+ Form of subscription
+ Agreement with certain investors. (4) 
+ 
+ 10.2 
+ 
+ Employment Agreement
+ effective as of May 18, 2005 between the Company and Michael Braunold. (7)+ 
+ 
+ 10.3 
+ 
+ Employment Agreement
+ effective as of May 18, 2005 between SPO Ltd. and Michael Braunold. (7)+ 
+ 
+ 10.4 
+ 
+ Company's 2005
+ Equity Incentive plan 
+ 
+ 10.5 
+ 
+ Company's
+2005 Non-Employee Directors Stock option Plan 
+ 
+ 10.5 
+ 
+ Form of Subscription
+ Agreement between SPO Global Inc. and certain Buyers (4) 
+ 
+ 10.6 
+ 
+ Form of First
+ Amendment to Subscription Agreement between SPO Global Inc. and parties thereto. (8) 
+ 
+ 10.6 
+ 
+ Form of Second
+ Amendment to an SPO Subscription Agreement (8) 
+ 
+ 10.7 
+ 
+ Form of Warrant
+ Exercise and Note Conversion Agreement dated as of March 26, 2008 (9) 
+ 
+ 10.9 
+ 
+ Form
+ of Subscription Agreement (9) 
+ 
+ 10.14 
+ 
+ Alliance and License
+ Agreement, dated as of December 1, 2009 between SPO Medical Equipment Ltd. and SPO Medical Systems Ltd. (10) 
+ 
+ 10.15 
+ 
+ Placement Agency
+ Agreement dated as of July 12, 2010 by and between SPO Global Inc. and Emerson Equity LLC. (6) 
+ 
+ 10.16 
+ 
+ Form of Subscription
+ Agreement. (6) 
+ 
+ 10.17 
+ 
+ Form of Subscription
+ Agreement (11) 
+ 
+ 10.18 
+ 
+ Preferred Stock
+ Purchase Agreement dated August 26, 2013 between SPO Global Inc. and Michael Braunold (12) 
+ 
+ 14.1 
+ 
+ Code of Conduct
+ (11) 
+ 
+ 31 
+ 
+ Certification
+ of the Chief Executive Officer (Principal Executive officer and Principal financial and accounting officer) pursuant to Section
+ 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ 32 
+ 
+ Certification
+ of the Chief Executive Officer (Principal Executive officer and Principal financial and accounting officer) pursuant to Section
+ 906 of the Sarbanes-Oxley Act of 2002 
+
+101.INS 
+ 
+ XBRL
+ Instance Document 
+ 
+ 101.SCH 
+ 
+ XBRL Taxonomy
+ Extension Schema 
+ 
+ 101.CAL 
+ 
+ XBRL Taxonomy
+ Extension Calculation Linkbase 
+ 
+ 101.DEF 
+ 
+ XBRL Taxonomy
+ Extension Definition Linkbase 
+ 
+ 101.LAB 
+ 
+ XBRL Taxonomy
+ Extension Label Linkbase 
+ 
+ 101.PRE 
+ 
+ XBRL Taxonomy
+ Extension Presentation Linkbase 
+
+29 
+
++ 
+Management Agreement 
+
+ Attached
+hereto 
+
+(1) 
+ Incorporated
+ by reference to Current Report on Form 8-K filed April 27, 2005. 
+ 
+ (2) 
+ Incorporated by
+ reference to the Company's Annual Report Form 10-K for the year ended December 31, 2010 
+ 
+ (3) 
+ Incorporated by
+ reference to the Company's Annual Report Form 10-KSB for the fiscal year ended December 31, 2005 
+ 
+ (4) 
+ Incorporated by
+ reference to the Company's Quarterly Report Form 10-QSB for the quarter ended September 30, 2006 
+ 
+ (5) 
+ Incorporated by
+ reference to the Company's Quarterly Report Form 10-QSB for the quarter ended March 31, 2008 
+ 
+ (6) 
+ Incorporated by
+ reference to the Company's Quarterly Report Form 10-Q for the quarter ended September 30, 2010 
+ 
+ (7) 
+ Incorporated by
+ reference to the Company's Quarterly Report Form 10-QSB for the quarter ended June 30, 2005 
+ 
+ (8) 
+ Incorporated by
+ reference to the Company's Quarterly Report Form 10-QSB for the quarter ended September 30, 2006 
+ 
+ (9) 
+ Incorporated by
+ reference to the Company's Quarterly Report Form 10-QSB for the quarter ended March 31, 2008 
+ 
+ (10) 
+ Incorporated
+by reference to the Company's Annual Report Form 10-K for the year ended December 31, 2010 
+ 
+ (11) 
+ Incorporated
+by reference to the Company's Quarterly Report on Form 10-Q for the quarter ended June 30, 2013 
+ 
+ (12) 
+ Incorporated by
+ reference to Current Report on Form 8-K filed August 30, 2013 
+
+30 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report
+to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+DATE:
+ April 14, 2015 
+ /s/
+ Michael Braunold 
+
+Michael Braunold 
+
+Chief Executive
+ Officer (Principal Executive Officer 
+ and Principal Financial and Accounting Officer) and 
+ Director 
+
+In accordance
+with the Exchange Act, this report has been signed below by the following persons on behalf of the issuer and in the capacities
+and on the dates indicated. 
+
+SIGNATURE 
+ 
+ TITLE 
+ 
+ DATE 
+
+/s/
+ Sidney Braun 
+ 
+ Chairman, Director 
+ 
+ April 14, 2015 
+ 
+ Sidney Braun 
+
+/s/
+ Michael Braunold 
+ 
+ President, Chief
+ Executive Officer and Director 
+ 
+ April 14, 2015 
+ 
+ Michael Braunold 
+
+31 
+
+SPO
+GLOBAL INC. AND ITS SUBSIDIARY 
+
+CONSOLIDATED
+FINANCIAL STATEMENTS 
+
+ AS
+OF DECEMBER 31, 2013 
+
+ U.S.
+DOLLARS IN THOUSANDS 
+
+INDEX 
+
+Page 
+
+Report of Independent
+ Registered Public Accounting Firm 
+ 
+ F-1 
+
+Consolidated Balance
+ Sheets 
+ 
+ F-2 
+
+Consolidated Statements
+ of Operations 
+ 
+ F-3 
+
+Statements of
+ Changes in Stockholders' Deficiency 
+ 
+ F-4 
+
+Consolidated Statements
+ of Cash Flows 
+ 
+ F-5 
+
+Notes to Consolidated
+ Financial Statements 
+ 
+ F-6 
+
+32 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the Stockholders of 
+
+ SPO
+GLOBAL Inc. 
+
+We
+have audited the accompanying consolidated balance sheets of SPO GLOBAL INC. the Company and its subsidiary as of
+December 31, 2014 and 2013, and the related consolidated statements of operations, changes in stockholders' deficiency and cash
+flows for each of the two years in the period ended December 31, 2014. These financial statements are the responsibility of the
+Company's management. Our responsibility is to express an opinion on these financial statements based on our audits. 
+
+We
+conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those
+standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are
+free of material misstatement. The Company is not required to have, nor were we engaged to perform, an audit of its internal control
+over financial reporting. Our audits included consideration of internal control over financial reporting as a basis for designing
+audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness
+of the Company s internal control over financial reporting. Accordingly, we express no such opinion. An audit also includes
+examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements, assessing the accounting
+principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion. 
+
+In
+our opinion, such consolidated financial statements, present fairly, in all material respects, the financial position of the Company
+and its subsidiary as of December 31, 2014 and 2013, and the results of their operations and their cash flows for each of the
+two years in the period ended December 31, 2014, in conformity with accounting principles generally accepted in the United States
+of America. 
+
+The
+accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed
+in Note 2 to the consolidated financial statements, the Company's recurring losses from operations and deficiency in stockholders'
+equity raise substantial doubt about its ability to continue as a going concern. Management's plans concerning these matters are
+also described in Note 2. The accompanying consolidated financial statements do not include any adjustments that might result
+from the outcome of this uncertainty. 
+
+/s/ Brightman
+Almagor Zohar Co 
+
+ Brightman
+Almagor Zohar Co. 
+
+ Certified
+Public Accountants 
+
+ A member
+firm of Deloitte Touche Tohmatsu Limited 
+
+Tel-Aviv,
+Israel 
+
+ April 14,
+2015 
+
+F- 1 
+
+SPO GLOBAL INC. 
+
+ CONSOLIDATED BALANCE SHEETS 
+
+ U.S. dollars in thousands (except share and
+per share data) 
+
+December 31, 
+ December 31, 
+
+2014 
+ 2013 
+
+ASSETS 
+
+CURRENT ASSETS 
+
+Cash and cash equivalents 
+ 2 
+ 286 
+ 
+ Accounts receivable 
+ 139 
+
+Prepaid expenses and other accounts receivable 
+ 300 
+ 61 
+
+441 
+ 347 
+
+LONG TERM ASSETS 
+
+Severance pay fund 
+ 159 
+ 168 
+
+PROPERTY AND EQUIPMENT, NET 
+ 31 
+ 22 
+
+Total assets 
+ 631 
+ 537 
+
+LIABILITIES AND STOCKHOLDERS DEFICIENCY 
+
+Current Liabilities 
+
+Short-term loans 
+ 2,185 
+ 700 
+ 
+ Trade payables 
+ 67 
+ 38 
+ 
+ Employees and Payroll accruals 
+ 848 
+ 774 
+ 
+ Accrued expenses and other liabilities 
+ 512 
+ 531 
+
+3,612 
+ 2,043 
+
+Long-Term Liabilities 
+
+Long-Term Loans 
+ 
+ 882 
+ 
+ Accrued severance pay 
+ 258 
+ 271 
+
+258 
+ 1,153 
+
+COMMITMENTS AND CONTINGENT LIABILITIES 
+
+STOCKHOLDERS DEFICIENCY 
+
+Preferred stock 0.01 par value 
+
+Authorized - 2,000,000 shares, issued and outstanding - 100 Series A shares at December 31, 2014 and 2013, respectively 
+ ) 
+ ) 
+ 
+ Common stock 0.01 par value- 
+
+Authorized - 100,000,000 shares, issued and outstanding - 6,418,368 and 5,305,608 shares as at December 31, 2014 and 2013, respectively 
+ 64 
+ 53 
+ 
+ Additional paid-in capital 
+ 18,974 
+ 18,971 
+ 
+ Accumulated deficit 
+ (22,277 
+ (21,683 
+
+(3,239 
+ (2,659 
+ 
+ Total liabilities and stockholders deficiency 
+ 631 
+ 537 
+
+) Less than 1 
+
+The number of shares have been adjusted retroactively to reflect the one for twenty reverse split of our common stock dated October 7, 2013. 
+
+The accompanying notes to these financial statements
+are an integral part thereof. 
+
+F- 2 
+
+SPO GLOBAL INC. 
+
+ CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+ U.S. dollars in thousands (except share and
+per share data) 
+
+12 Months ended December 31, 
+
+2014 
+ 2013 
+
+Revenues 
+ 461 
+ 556 
+ 
+ Cost of revenues 
+ 285 
+ 411 
+
+Gross profit 
+ 176 
+ 145 
+
+Operating expenses 
+
+Research and development 
+ 13 
+
+Selling and marketing 
+ 108 
+ 58 
+ 
+ General and administrative 
+ 442 
+ 447 
+
+Total operating expenses 
+ 563 
+ 505 
+
+Operating loss 
+ (387 
+ (360 
+
+Financial expense, net 
+ (207 
+ (323 
+ 
+ Net loss for the period 
+ (594 
+ (683 
+
+Basic and diluted loss per share ) 
+ (0.10 
+ (0.17 
+ 
+ Weighted average number of shares outstanding used in computation of basic loss per share ) 
+ 6,046,686 
+ 4,103,186 
+
+) The number of shares have been adjusted retroactively to reflect the one for twenty reverse split of our common stock dated October 7, 2013. 
+
+The accompanying notes to these financial statements
+are an integral part thereof. 
+
+F- 3 
+
+SPO GLOBAL INC. 
+
+ STATEMENTS OF CHANGES IN STOCKHOLDERS' DEFICIENCY 
+
+ U.S. dollars in thousands (except share and
+per share data) 
+
+Additional 
+
+paid-in 
+ Accumulated 
+
+Stock capital 
+ capital 
+ deficit 
+ Total 
+ 
+ Balance as of January 1, 2013 
+ 565 
+ 17,832 
+ (21,000 
+ (2,603 
+
+Conversion of convertible debt to shares 
+ 307 
+ (158 
+ 
+ 149 
+ 
+ Issuance of debt containing beneficial conversion feature 
+ 
+ 204 
+ 
+ 204 
+ 
+ Exercise of Penny warrants 
+ 24 
+
+24 
+ 
+ Revaluation of warrants 
+ 
+ 12 
+ 
+ 12 
+ 
+ Shares issued for cash 0.025 per share) 
+ 100 
+ 127 
+ 
+ 227 
+ 
+ Issuance of warrants to an investor 
+ 
+ 2 
+ 
+ 2 
+ 
+ Issuance of ordinary stock to service providers 
+ 1 
+ 8 
+ 
+ 9 
+ 
+ 1 for 20 reverse stock split 
+ (944 
+ 944 
+
+Net Loss 
+
+(683 
+ (683 
+ 
+ Balance as of December 31, 2013 
+ 53 
+ 18,971 
+ (21,683 
+ (2,659 
+
+Conversion of convertible debt to shares 
+ 11 
+ 3 
+ 
+ 14 
+ 
+ Net Loss 
+
+(594 
+ (594 
+ 
+ Balance as of December 31, 2014 
+ 64 
+ 18,974 
+ (22,277 
+ (3,239 
+
+The accompanying notes to these financial statements
+are an integral part thereof. 
+
+F- 4 
+
+SPO GLOBAL INC. 
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+ U.S. dollars in thousands (except share and
+per share data) 
+
+12 Months ended December 31, 
+
+2014 
+ 2013 
+
+Cash Flows from Operating Activities 
+
+Net Loss for the period 
+ (594 
+ (683 
+ 
+ Adjustments to reconcile loss to net cash used in operating activities: 
+
+Depreciation 
+ 6 
+ 7 
+ 
+ Non-cash expenses related to convertible debt 
+ 40 
+ 103 
+ 
+ Stock-based compensation to service providers 
+ 
+ 9 
+ 
+ Non-cash (income) related to warrants to issue shares 
+ 
+ (18 
+ 
+ Non-cash expense related to warrants issued to an investor 
+ 
+ 2 
+ 
+ Changes in assets and liabilities: 
+
+Increase in accrued interest payable on loans 
+ 152 
+ 50 
+ 
+ (Increase) in accounts receivable 
+ (139 
+
+(Increase) in prepaid expenses and other receivables 
+ (239 
+ (51 
+ 
+ Increase in trade payables 
+ 29 
+ 33 
+ 
+ (Decrease) increase in accrued severance pay, net 
+ (4 
+ 10 
+ 
+ Increase in accrued expenses and other liabilities 
+ 55 
+ 264 
+ 
+ Net cash used in operating activities 
+ (694 
+ (274 
+
+Cash Flows from Investing Activities 
+
+Purchase of property 
+ (15 
+ (29 
+ 
+ Net cash used in investing activities 
+ (15 
+ (29 
+
+Cash Flows from Financing Activities 
+
+Proceeds from sale of shares and warrants, net of issuance costs 
+ 
+ 227 
+ 
+ Payments of loans 
+ 
+ (14 
+ 
+ Proceeds from loan 
+ 425 
+ 352 
+ 
+ Net cash provided by financing activities 
+ 425 
+ 565 
+
+Increase (decrease) in cash and cash equivalents 
+ (284 
+ 262 
+ 
+ Cash and cash equivalents at the beginning of the period 
+ 286 
+ 24 
+ 
+ Cash and cash equivalents at the end of the period 
+ 2 
+ 286 
+
+Non cash transactions 
+
+Conversion of convertible debt to shares 
+ 14 
+ 149 
+ 
+ Exercise of warrants in consideration of concession of debt 
+ 
+ 24 
+ 
+ Discount on convertible notes recognized to beneficial conversion feature 
+ 
+ 204 
+ 
+ Reduced exercise price of warrants in consideration of concession of debt 
+ 
+ 12 
+
+Supplemental Disclosure of Cash Flow Information: 
+
+Cash paid during the period for: 
+
+Interest 
+ 138 
+ 76 
+
+The accompanying notes to these financial statements
+are an integral part thereof. 
+
+F- 5 
+
+SPO
+GLOBAL INC. 
+
+ NOTES
+TO THE FINANCIAL STATEMENTS 
+
+ U.S.
+dollars in thousands (except share data) 
+
+NOTE
+1 GENERAL 
+
+SPO
+Global Inc. (hereinafter referred to as SPO or the Company is engaged in the design, development and
+marketing of non-invasive pulse oximetry technologies to measure blood oxygen saturation and heart rate. The applications are
+marketed in the following sectors; professional medical care, homecare, sports, safety and search rescue. 
+
+The
+Company was originally incorporated under the laws of the State of Delaware in September 1981 under the name Applied DNA
+Systems, Inc. On November 16, 1994, the Company changed its name to Nu-Tech Bio-Med, Inc. On December 23, 1998,
+the Company changed its name to United Diagnostic, Inc. Effective April 21, 2005, the Company acquired (the Acquisition
+Transaction 100 of the outstanding capital stock of SPO Medical Equipment Ltd., a company incorporated under the laws
+of the State of Israel SPO Ltd. ), pursuant to a Capital Stock Exchange Agreement dated as of February 28, 2005 between
+the Company, SPO Ltd. and the shareholders of SPO Ltd., as amended and restated on April 21, 2005 (the Exchange Agreement ).
+In exchange for the outstanding capital stock of SPO Ltd., the Company issued to the former shareholders of SPO Ltd. a total of
+5,769,106 shares of the Company's common stock, par value 0.01 per share Common Stock ), representing approximately
+90 of the Common Stock then issued and outstanding after giving effect to the Acquisition Transaction. As a result of the Acquisition
+Transaction, SPO Ltd. became a wholly owned subsidiary of the Company as of April 21, 2005 and, subsequent to the Acquisition
+Transaction, the Company changed its name to SPO Medical Inc. Upon consummation of the Acquisition Transaction, the
+Company effectuated a forward subdivision of the Company's Common Stock issued and outstanding on a 2.65285:1 basis. 
+
+The
+merger between UNDI and the SPO Ltd was accounted for as a reverse merger. As the shareholders of SPO Ltd received the largest
+ownership interest in the Company, SPO Ltd was determined to be the accounting acquirer in the reverse acquisition.
+As a result, the historical financial statements of the Company were replaced with the historical financial statements of the
+SPO Ltd. 
+
+The
+Company and its subsidiary, SPO Ltd., are collectively referred to as the Company . In January 2010, the Company restructured
+its operations to focus primarily on licensing its core technology for non-medical market applications. Following the restructure,
+the Company ceased its previous operations associated with the distribution of the PulseOx line in the medical field. In February
+2011, the Company transferred research and development activities to subcontractors, thereby ceasing all internal research and
+development activities. 
+
+Effective
+October 4, 2013, the Company changed its corporate name to SPO Global Inc . 
+
+The
+Company implemented a 1-for-20 reverse stock split on October 7, 2013. All share and per share amounts and calculations in these
+financial statements have been retroactively adjusted to reflect the effects of the reverse stock split. 
+
+NOTE
+2 GOING CONCERN 
+
+As
+reflected in the accompanying financial statements, the Company s operations for the year ended December 31, 2014, resulted
+in a net loss of 594, and the Company s balance sheet reflects a net stockholders deficit of 3,239. The Company s
+ability to continue operating as a going concern is dependent on its ability to raise sufficient additional working
+capital. These matters raise substantial doubt about the Company s ability to continue as a going concern. The financial
+statements have been prepared on a going concern basis, which contemplates realization of assets and liquidation of liabilities
+in the ordinary course of business. As disclosed in previous filings with the Securities and Exchange Commission, management has
+been attempting to raise additional cash from current and potential stockholders and plans to continue these efforts. There can
+be no assurance that this capital will be available and if it is not, the Company may be forced to substantially curtail or cease
+operations. The financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+
+F- 6 
+
+NOTE
+3 SIGNIFICANT ACCOUNTING POLICIES 
+
+The
+financial statements have been prepared in accordance with generally accepted accounting principles GAAP in the
+United States of America. 
+
+Principles
+of Consolidation: 
+
+The
+consolidated financial statements include the accounts of the Company and its wholly-owned subsidiary, SPO Ltd. All material inter-company
+accounts and transactions have been eliminated in consolidation. 
+
+Use
+of Estimates: 
+
+The
+preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates
+and assumptions that affect the amounts reported in the financial statements and accompanying notes. Actual results could differ
+from those estimates. 
+
+Financial
+Statements in U.S. dollars: 
+
+The
+reporting currency of the Company is the U.S. dollar dollar ). The dollar is the functional currency of the Company.
+Transactions and balances originally denominated in dollars are presented at their original amounts. Non-dollar transactions and
+balances are remeasured into dollars in accordance with the principles set forth in Accounting Standards Codification (ASC) 830-10,
+ Foreign Currency Translation . All exchange gains and losses from remeasurement of monetary balance sheet items resulting
+from transactions in non-dollar currencies are recorded in the statement of operations as they arise. 
+
+Cash
+and Cash Equivalents: 
+
+The
+Company considers all highly liquid investments originally purchased with maturities of three months or less to be cash equivalents. 
+
+Property
+and Equipment: 
+
+Property
+and equipment are stated at cost. Depreciation is computed using the straight-line method over the estimated useful lives of the
+assets, as follows: 
+
+Office furniture, equipment and molds 
+ five - fifteen years 
+ 
+ Automobile 
+ six years 
+
+In
+accordance with ASC 360-10, Accounting for Impairment or Disposal of Long-Lived Assets , management reviews long-lived
+assets for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable
+based on estimated future undiscounted cash flows. If so indicated, an impairment loss would be recognized for the difference
+between the carrying amount of the asset and its fair value. There were no impairment losses in the years ended December 31, 2014
+and 2013. 
+
+Revenue
+Recognition: 
+
+The
+company generates revenues principally from manufacturing of products, on a subcontracted basis, and licensing of its core technology
+for non-medical market applications. Revenues are recognized when products are shipped and when the license fee is fixed, determinable
+and collectability is reasonably assured. 
+
+Research
+and Development Costs: 
+
+Research
+and development costs, net of government grants and participation by others, are charged to expenses as incurred. 
+
+F- 7 
+
+Income
+Taxes: 
+
+The
+Company accounts for income taxes in accordance with ASC 740-10, Accounting for Income Taxes This statement prescribes
+the use of the liability method whereby deferred tax assets and liability account balances are determined based on differences
+between financial reporting and tax bases of assets and liabilities and are measured using the enacted tax rates and laws that
+will be in effect when the differences are expected to reverse. The Company provides a valuation allowance, if necessary, to reduce
+deferred tax assets to their estimated realizable value. 
+
+Fair
+Value of Financial Instruments: 
+
+The
+financial instruments of the Company consist mainly of cash and cash equivalents, accounts payable and short-term loans. In view
+of their nature, the fair value of the Company s financial instruments is usually identical or close to their carrying value. 
+
+Stock-Based
+Compensation: 
+
+Effective
+January 1, 2006, the Company adopted ASC 718, Share-Based Payment requiring that compensation cost relating to share-based
+payment awards made to employees and directors be recognized in the financial statements. The awards issued under Company's stock-based
+compensation plans to employees are described in Note 11, Stockholder's Deficiency . The cost for such awards
+is measured at the grant date based on the calculated fair value of the award. The value of the portion of the award that is ultimately
+expected to vest is recognized as expense over the requisite service periods (generally the vesting period of the equity award)
+in the Company's Consolidated Statement of Operations. 
+
+Stock-based
+compensation cost relating to stock options is based on the value of the portion of the award that is ultimately expected to vest. ASC
+718-10 requires forfeitures to be estimated at the time of grant in order to estimate the portion of the award that will
+ultimately vest. Such portion is currently estimated at 0 , based on the Company's historical rates of forfeiture. 
+
+The
+following table summarizes the effects of stock-based compensation resulting from the application of ASC 718 and ASC 505-50 included
+in Statement of Operations: 
+
+Year ended December 31, 
+
+2014 
+ 2013 
+
+Selling and marketing 
+ 
+ 9 
+ 
+ General and administrative 
+
+Financing 
+
+9 
+
+On
+May 8, 2013, 50,000 (post reverse stock split) warrants were issued to a consultant. The fair value of the warrants in the amount
+of 9 was calculated using Black-Scholes and the following assumptions, estimated life of 0.25 years remaining, volatility of
+309 , risk free interest rate of 0.04 , and dividend yield of 0 . 
+
+Basic
+and Diluted Net Loss Per Share: 
+
+Basic
+and diluted net loss per share is presented in accordance with ASC 260-10, Earnings Per Share for all periods presented.
+Basic and diluted net loss per share of Common Stock was determined by dividing net loss attributable to Common stock holders
+by weighted average number of shares of Common Stock outstanding during the period. Diluted net loss per share of Common Stock
+is the same as basic net loss per share of Common Stock for all periods presented as the effect of the Company's potential additional
+shares of Common Stock were anti-dilutive. 
+
+All
+outstanding stock options and warrants have been excluded from the calculation of the diluted net loss per share of Common Stock
+because all such securities are anti-dilutive since the Company reported losses for those years. 
+
+F- 8 
+
+NOTE
+4 PROPERTY AND EQUIPMENT, NET 
+
+As of December 31, 
+
+2014 
+ 2013 
+ 
+ Cost: 
+
+Office furniture, equipment and molds 
+ 20 
+ 5 
+ 
+ Automobile 
+ 24 
+ 24 
+
+Less accumulated depreciation: 
+ 13 
+ 7 
+
+Property and Equipment, net 
+ 31 
+ 22 
+
+Depreciation
+expenses for the years ended December 31, 2014 and 2013 amounted to 6 and 7, respectively. 
+
+NOTE
+5 LOANS PAYABLE 
+
+In
+December 2005, the Company completed the private placement to certain accredited investors that commenced in April 2005 for the
+issuance of up to 1,544 of units of its securities, with each unit comprised of (i) the Company s 18 month 8 promissory
+note (collectively, the April 2005 Notes and (ii) three year warrants (expired). As of December 31, 2014, the remaining
+outstanding April 2005 Notes principal and accrued interest totaled 692. The Company reached an agreement with the investors
+to extend the maturity date of loans totaling 304 for an additional 24 months to December 31, 2015. The remaining balance of
+ 388 is past due. 
+
+In
+July 2006, the Company commenced a private placement of units of its securities, the Loan Notes ), with each unit
+comprised of (i) the Company s 8 month promissory note due 12 months from the date of issuance and (ii) warrants, pursuant
+to which the Company raised 550 (the maximum amount that could be raised from this offering). As of December 31, 2014, approximately
+ 191 in respect of the principal and accrued interest on these notes remains outstanding. These notes are past due. 
+
+On
+March 25, 2011, the Company and one of its stockholders entered into a loan agreement pursuant to which the stockholder loaned
+to the Company 50 for working capital purposes. The original maturity date of the loan was March 25, 2012. The loan continues
+to bear interest at a per annum rate of 8 and is now payable on demand. 
+
+In
+July, 2011, the Company received a 5 loan from an investor. The loan was scheduled to mature in June 2013 and bear interest at
+the rate of 8 per annum. The loan is past due. 
+
+In
+August and November, 2011, the Company received 75 and 200 from existing investors on account for loans. The loans were scheduled
+to mature in August and November 2013 and bear interest at the rate of 15 per annum. Principal and accrued interest is convertible
+into shares of the Company s common stock at the option of the holder at the conversion price of 0.50 (post reverse stock
+split) per share. In August 2013, the Company issued to the investors warrants, exercisable through August and November, 2015,
+to purchase, in the aggregate, up to 45,833 shares of our common stock at a per share exercise price of 0.50. The Company reached
+an agreement with the investors to extend the maturity date of each loan to February and May 2015, respectively. 
+
+On
+March 22, 2012, the Company entered into Convertible Note Agreements with two investors pursuant to which the Company
+received 25 from each investor. The original maturity date of the notes was originally scheduled for September 22, 2012. The
+notes bear interest at a per annum rate of 20 . The principal and accrued interest are convertible to common stock of the
+Company at a conversion rate of 0.50 (post reverse stock split) per share. The Company reached an agreement with the
+investors to extend the maturity date of each loan for an additional 18 months to February 21, 2015 and March 22,
+2015. 
+
+F- 9 
+
+On
+May 1, 2012, the Company entered into a Convertible Note Agreement with an investor pursuant to which the Company received 25.
+The maturity date of the note was November 1, 2012. The note representing the advance bears interest at a per annum rate of 20 .
+The principal and accrued interest are convertible to common stock of the Company at a conversion rate of 0.50 (post reverse
+stock split) per share. The Company reached an agreement with the investor to extend the maturity date to May 1, 2015. 
+
+On
+June 19, 2012, the Company entered into a Convertible Note Agreement with an investor pursuant to which the Company received 50.
+The original maturity date of the note representing the advance was June 19, 2013. The Note bears interest at a per annum rate
+of 23 . The principal and accrued interest are convertible to common stock of the Company at a conversion rate of 0.50 (post
+reverse stock split) per share. The Company reached an agreement with the investor to extend the maturity date to December 19,
+2014. The loan is past due. 
+
+On
+July 19, 2012, the Company entered into a Convertible Note Agreement with an investor pursuant to which the Company received 50.
+The original maturity date of the note representing the advance was July 19, 2013. The note bears interest at a per annum rate
+of 23 . The principal and accrued interest are convertible to common stock of the Company at a conversion rate of 0.50 (post
+reverse stock split) per share. The Company reached an agreement with the investor to extend the maturity date s to January 19,
+2015. 
+
+On
+August 23, 2012, the Company entered into a Convertible Note Agreement with an investor pursuant to which the Company received
+ 50. The original maturity date of the note was August 23, 2013. The note bears interest at a per annum rate of 23 . The principal
+and accrued interest are convertible to common stock of the Company at a conversion rate of 0.50 (post reverse stock split) per
+share. The Company reached an agreement with the investor to extend the maturity date to February 23, 2015. 
+
+On
+August 27, 2012, the Company entered into a Loan Agreement with an investor pursuant to which the Company was to be advanced 29
+in monthly installments ranging from 4 to 1 from August 2012 through June 2013. As of December 31, 2014, the Company received
+ 21 pursuant to the loan agreement. The loan is due on demand and is non-interest bearing. 
+
+On
+April 12, 2013, the Company entered into a Convertible Note Agreement pursuant to which the Company received an additional loan
+in the principal amount of 32.5 from the above referenced investor. The scheduled maturity date of the note was April 12, 2014.
+The note bears interest at a per annum rate of 8 . Commencing October 9, 2013, the Investor is entitled to convert all or any
+part of the outstanding and unpaid principal amount on the note, as well as the interest accrued, into shares of the Company s
+Common Stock at a conversion rate equal to 55 of the average of the five lowest closing sale prices during the ten days preceding
+the conversion date. As of December 31, 2014, 28 of principal and accrued interest was converted into shares of Common Stock. 
+
+On
+December 27, 2013, the Company entered into agreements with an accredited investor and a current shareholder of the Company,
+relating to a private placement of 250 in principal amount of the Company s Convertible Promissory Note due December
+28, 2015. The note was issued pursuant to a Subscription Agreement dated as of December 27, 2013 between the Company and the
+Investor. Interest on the Note accrues at the rate of 10 per annum and is payable in cash in arrears upon the earlier of (i)
+each six months from the date of the note (ii) or the date of conversion or (iii) at maturity, whichever occurs first, and
+will continue to accrue until the Note is fully converted and/or paid in full. The note is convertible into shares of the
+Company s common stock at the Investor s option at a conversion rate equal to the average of the closing price of
+the Common Stock for the ten consecutive trading days immediately preceding the date a notice of conversion is delivered. The
+Investor may not exercise the conversion right if the shares issuable upon conversion, together with shares held by the
+Investor, exceed 9.99 of the then outstanding shares of the Company after such conversion and/or exercise. Under the terms
+of the Subscription Agreement, at any time that the note (or any portion thereof) is converted, the Investor is to receive
+warrants, exercisable for two years following the date of issuance for Common Stock equal to 50 of the number of shares of
+Common Stock issued upon conversion of the Note (or any part thereof) at a per share warrant exercise price equal to twice
+the conversion price. 
+
+On
+May 23, 2014, the Company entered into a loan agreement with an investor pursuant to which the Company received a loan in the
+principal amount of 175 to be used for order financing. The principle amount of the loan with a 10 fee is repayable by September
+30, 2014 and such loan may be pre-paid, at the option of the Company, without notice or penalty. If the loan is not repaid by
+the scheduled maturity date, the principle amount of the loan shall begin to accrue interest at a rate of 12 per annum from the
+maturity date until repayment in full. 
+
+F- 10 
+
+On
+July 1, 2014, the Company entered into a loan agreement with an investor pursuant to which the Company received a loan in the
+principal amount of 50 to be used for order financing. The principle amount of the loan with a 4 fee was repayable by November
+30, 2014. If the loan is not repaid by the scheduled maturity date, the principle amount of the loan shall begin to accrue interest
+at a rate of 12 per annum from the maturity date until repayment in full. 
+
+On
+August 1, 2014, the Company entered into a loan agreement with an investor pursuant to which the Company received a loan in the
+principal amount of 200 to be used for order financing. The principle amount of the loan with a 16 fee was repayable by November
+30, 2014. If the loan is not repaid by the scheduled maturity date, the principle amount of the loan shall begin to accrue interest
+at a rate of 12 per annum from the maturity date until repayment in full. 
+
+NOTE
+6 EMPLOYEES AND PAYROLL ACCRUALS 
+
+The
+Company recorded a liability to its employees in respect of unpaid salaries and employment benefits, which also includes accruals
+for salaries and benefits thereon that have been deferred since July 2008. On July 15, 2010, the Company issued to part of the
+employees three year warrants to purchase up to 345,000 shares of the Company s Common Stock at a per share exercise price
+of 0.20 (post reverse stock split) in consideration of the waiver by such employees of amounts payable to them. As of December
+31, 2014 and 2013, the Company s liability to its employees in respect of unpaid salaries aggregated 705 and 622, respectively. 
+
+NOTE
+7 ACCRUED EXPENSES AND OTHER LIABILITIES 
+
+As of December 31, 
+
+2014 
+ 2013 
+
+Royalties to the office of the Chief Scientist 
+ 452 
+ 467 
+ 
+ Other accrued expenses 
+ 60 
+ 64 
+
+512 
+ 531 
+
+NOTE
+8 ACCRUED SEVERANCE PAY 
+
+The
+Company's liability for severance pay is calculated in accordance with Israeli law based on the most recent salary paid to employees
+and the length of employment in the Company. The Company's liability for severance pay has been fully provided for. Part of the
+liability is funded through individual insurance policies. These policies are assets of the Company and under labor agreements,
+subject to certain limitations, they may be transferred to the ownership of the beneficiary employees. 
+
+ Severance
+pay expense/(income) for the years ended December 31, 2014 and 2013 amounted to (22) and 10, respectively, after conversion
+from NIS to U.S. dollars. 
+
+NOTE
+9 CAPITAL TRANSACTIONS 
+
+Common
+Stock and Common Stock Equivalents 
+
+On
+May 8, 2013, the Company entered into a Subscription Agreement with two accredited investors (the Investors ),
+pursuant to which the Company sold and issued to the Investors (the Private Placement a total of 500,000 (post
+reverse stock split) shares of the Company's Common Stock for proceeds of 227, net of issuance expenses. In connection with
+the Private Placement, warrants (the Warrants for an additional 250,000 (post reverse stock split) shares of
+the Company s Common Stock were issued to one of the Investors. The Warrants are exercisable through May 8, 2018 at a
+per share exercise price of 2.00 (post reverse stock split). 
+
+On
+May 29, 2013, the Company issued 118,332 (post reverse stock split) shares to satisfy an obligation to issue shares. 
+
+On
+December 9, 2013, the Company issued 150,000 (post reverse stock split) shares to a service provider for consulting services.
+The shares were valued at the market price on the date issued. 
+
+F- 11 
+
+During the
+year ended December 31, 2013, the Company issued 1,713,743 (post reverse stock split) shares of its common stock upon conversion
+of 149 in principal and accrued interest of convertible promissory notes. 
+
+During the
+year ended December 31, 2014, the Company issued 1,112,760 (post reverse stock split) shares of its common stock upon conversion
+of 14 in principal of convertible promissory notes. 
+
+Series
+A Preferred Stock 
+
+On
+August 26, 2013, the Company designated 100 shares of its preferred stock as Series A Preferred Stock, par value 0.01 per share
+(the Series A Preferred Stock ). Among other things, the Certificate of Designation for the Series A Preferred
+Stock provides that each one share of Series A Preferred Stock has voting rights equal to (x) 0.019607 multiplied by the
+total issued and outstanding Common Stock eligible to vote at the time of the respective vote (the Numerator ), divided
+by (y) 0.49, minus (z) the Numerator. On August 26, 2013, the Company entered into a Preferred Stock Purchase Agreement
+pursuant to which it issued one hundred (100) shares of its Series A Preferred Stock to its Chief Executive Officer. The Series
+A Preferred Stock has no economic value and was issued solely for voting purposes. 
+
+NOTE
+10 WARRANTS 
+
+On
+May 8, 2013, 12,500 (post reverse stock split) warrants were issued to an investor in conjunction with financing. The fair value
+of the warrants was calculated using Black-Scholes and the following assumptions, estimated life of 0.25 years remaining, volatility
+of 309 , risk free interest rate of 0.04 , and dividend yield of 0 . 
+
+On
+December 31, 2013, 160,000 warrants were issued to an investor in conjunction with financing. The fair value of the warrants was
+calculated using Black-Scholes and the following assumptions, estimated life of 0.25 years remaining, volatility of 400 , risk
+free interest rate of 0.07 , and dividend yield of 0 . 
+
+NOTE
+11 STOCKHOLDER'S DEFECIENCY 
+
+Authorized
+Shares 
+
+The
+Company has two classes of capital stock: common and preferred. As of December 31, 2014 and 2013, the Company had 100,000,000
+shares of common stock authorized and 2,000,000 shares of preferred stock authorized both at 0.01 par value per share. 
+
+The
+Company s Board of Directors is authorized to issue from time to time up to 2 million shares of preferred stock in one or
+more series, and to fix for each such series such voting power and such designations, preferences, relative participating or other
+rights, redemption rights, conversion privileges and such qualifications or restrictions thereof as shall be adopted by the board
+and set forth in an amendment to the Company s Certificate of Incorporation. Unless a vote of any shareholders is required
+pursuant to the rights of the holders of preferred stock then outstanding, the board may from time to time increase or decrease
+(but not below the number of shares of such series outstanding) the number of shares of any series of Preferred Stock subsequent
+to the issuance of shares of that series. 
+
+Reverse
+Stock Split 
+
+The
+Company declared a 1-for-20 reverse stock split with an effective date of October 7, 2013. All share and per share amounts and
+calculations in these financial statements have been retroactively adjusted to reflect the effects of the reverse stock split. 
+
+F- 12 
+
+Equity
+Incentive Plans 
+
+In
+April 2005, the Company adopted the 2005 Equity Incentive Plan (the 2005 Plan ). A total of 87,500 (post reverse stock
+split) shares of Common Stock were originally reserved for issuance under the 2005 Plan. The 2005 Plan provides for the grant
+of incentive stock options, nonqualified stock options, stock appreciation rights, restricted stock, bonus stock, awards in lieu
+of cash obligations, other stock-based awards and performance units. The 2005 Plan also permits cash payments under certain conditions.
+The compensation committee of the Board of Directors is responsible for determining the type of award, when and to who awards
+are granted, the number of shares and the terms of the awards and exercise prices. The options are exercisable for a period not
+to exceed ten years from the date of grant. Vesting periods range from immediately to four years. Under the 2005 plan options
+granted expire no later than the tenth anniversary from the date of the grant. 
+
+In
+April 2005, the Company adopted the 2005 Non-Employee Directors Stock Option Plan (the 2005 Directors Plan providing
+for the issuance of up to 20,000 (post reverse stock split) shares of Common Stock to non-employee directors. Under the 2005 Directors
+Plan, only non-qualified options may be issued and they will be exercisable for a period of up to six years from the date of grant. 
+
+With
+respect to compensation expenses recorded in 2014 and 2013, relating to options granted through December 31, 2014, the Company
+applied the provisions of ASC 718-10, which require employee share-based equity awards to be accounted for under the fair value
+method, ASC 718-10 requires the use of an option pricing model for estimating fair value, which is then amortized to
+expense over the service periods. 
+
+During
+2014 and 2013 the Company recorded Stock-based compensation expenses in the amount of 0 and 9, respectively. 
+
+The
+2005 Plan and the Non-Employee Directors Plan authorized options exercisable into 95,000 (post reverse stock split) shares of
+common stock at an exercise price of 7.80. As of December 31, 2014, options for an aggregate of 6,500 (post reverse stock split)
+shares of Common Stock remain available for future grants under the Company s 2005 Plan and 2005 Directors Plan. 
+
+Stock
+Options: 
+
+Options
+outstanding and exercisable at December 31, 2014 and 2013 (post reverse stock split): 
+
+As of December 31, 2014 
+
+Amount of Options 
+ Weighed Average Exercise Price 
+
+Outstanding at the beginning of the year 
+ 77,500 
+ 9.20 
+ 
+ Expired 
+ 20,450 
+
+Outstanding at the end of the year 
+ 57,050 
+ 9.41 
+
+Exercisable at the end of the year 
+ 57,050 
+ 9.41 
+
+As of December 31, 2013 
+
+Amount of Options 
+ Weighed Average Exercise Price 
+
+Outstanding at the beginning of the year 
+ 77,500 
+ 9.20 
+ 
+ Forfeited 
+
+Outstanding at the end of the year 
+ 77,500 
+ 9.20 
+
+Exercisable at the end of the year 
+ 77,500 
+ 9.20 
+
+F- 13 
+
+The
+options outstanding as of December 31, 2014, have been separated into ranges of exercise price as follows: 
+
+Range of exercise price 
+ Options outstanding as of December 31, 2014 
+ Weighted average remaining contractual life (years) 
+ Weighted average exercise price 
+ Options exercisable as of December 31, 2014 
+ Weighted average exercise price of options exercisable 
+
+2.60 
+ 24,250 
+ 3.69 
+ 2.60 
+ 24,250 
+ 2.60 
+ 
+ 3.00 
+ 6,650 
+ 3.83 
+ 3.00 
+ 6,650 
+ 3.00 
+ 
+ 12.00 
+ 18,150 
+ 0.97 
+ 12.00 
+ 18,150 
+ 12.00 
+ 
+ 17.00 
+ 3,000 
+ 2.00 
+ 17.00 
+ 3,000 
+ 17.00 
+ 
+ 37.00 
+ 5,000 
+ 1.80 
+ 37.00 
+ 5,000 
+ 37.00 
+
+57,050 
+ 2.59 
+ 9.41 
+ 57,050 
+ 9.41 
+
+Stock
+Warrants 
+
+The
+Company has the following warrants outstanding (post reverse stock split) as of December 31, 2014: 
+
+Issuance date 
+ number of warrants issued 
+ Exercise price 
+ Exercisable as of December 31, 2014 
+ Exercisable Through 
+
+2005-2010 (1) 
+ 245,884 
+ 0.20 
+ 245,884 
+ April -September 2015 
+ 
+ 2012 (2) 
+ 45,833 
+ 0.50 
+ 45,833 
+ October 2015 
+ 
+ 2013 (3) 
+ 160,000 
+ 0.10 
+ 160,000 
+ December 2019 
+ 
+ 2013 (4) 
+ 12,500 
+ 2.00 
+ 12,500 
+ May 2018 
+ 
+ 2013 (5) 
+ 50,000 
+ 0.80 
+ 50,000 
+ May 2018 
+
+(1) 
+ 
+ Warrants
+ issued to service providers 223,565, and ex-employees 22,319. 
+
+(2) 
+ 
+ Warrants
+ issued to investors. 
+
+(3) 
+ 
+ Warrants
+ issued to lenders in return for extended maturity dates. 
+
+(4) 
+ 
+ Warrants
+ issued to investors. 
+
+(5) 
+ 
+ Warrants
+ issued in connection with capital raise. 
+
+Dividends 
+
+The
+Company does not intend to pay cash dividends in the foreseeable future. 
+
+F- 14 
+
+NOTE
+ 12 FINANCIAL EXPENSE 
+
+Financial
+expense is comprised of the following: 
+
+Year Ended 
+ Year Ended 
+
+December 31, 
+ December 31, 
+
+2014 
+ 2013 
+ 
+ Non-cash expenses related to convertible debt 
+ (40 
+ (103 
+
+Non-cash expenses related to warrants to issue shares 
+ 
+ 18 
+
+Interest in respect of debt instruments and liabilities 
+ (278 
+ (126 
+
+Exchange rate differences caused by fluctuations in the exchange rate with the New Israeli Shekel NIS on liabilities denominated in NIS held by the subsidiary 
+ 111 
+ (112 
+
+(207 
+ (323 
+
+NOTE
+13 DEFERRED TAXES 
+
+Measurement
+of taxable income under the Income Tax Law (Inflationary Adjustments), 1985: 
+
+The
+results for tax purposes of the Israeli subsidiary are measured in terms of earnings in NIS. As explained in Note 3, the functional
+currency is the U.S. dollar. The Company has not provided deferred income taxes on the difference between the functional currency
+and the tax bases of assets and liabilities at the Israeli subsidiary. 
+
+Deferred
+income taxes reflect the net tax effects of temporary differences between the carrying amounts of assets and liabilities for financial
+reporting purposes and the amounts used for income tax purposes. 
+
+In
+accordance with ASC 740-10, the components of deferred income taxes are as follows: 
+
+As of December 31, 
+
+2014 
+ 2013 
+
+Tax on net operating losses carryforward 
+ 6,374 
+ 6,030 
+ 
+ Less - valuation allowance 
+ (6,374 
+ (6,030 
+
+The
+Company has provided valuation allowances in respect of deferred tax assets resulting from tax loss carryforward and other temporary
+differences. Management currently believes that since the Company has a history of losses it is more likely than not that the
+deferred tax regarding the loss carryforward and other temporary differences will not be realized in the foreseeable future. 
+
+Net
+operating loss carryforwards as of December 31, 2014 and 2013 are as follows: 
+
+As of December 31, 
+
+2014 
+ 2013 
+
+Israel 
+ 11,671 
+ 10,749 
+ 
+ USA 
+ 9,876 
+ 9,550 
+ 
+ Total 
+ 21,547 
+ 20,299 
+
+F- 15 
+
+Net
+operating losses in Israel may be carried forward indefinitely. Net operating losses in the U.S. are available through 2034. 
+
+NOTE
+14 COMMITMENTS AND CONTINGENCIES 
+
+Government
+of Israel 
+
+The
+Company s wholly owned subsidiary, SPO Ltd., is committed to pay royalties to the Office of the Chief Scientist of the
+Government of Israel OCS on sales of products, the research and development of which the OCS has participated
+in by way of grants, up to the amount of 100 -150 of the grants received plus interest at dollar LIBOR. The royalties are
+payable at a rate of 3 for the first three years of product sales and 3.5 thereafter. The total amount of grants received
+or accrued, net of royalties paid or accrued, as of December 31, 2014 was 1.3 million. The refund of the grants is
+contingent upon the successful outcome of the research and development and the attainment of sales. The Company has no
+obligation to refund these grants, if sales are not generated. The financial risk is assumed completely by the OCS. The
+grants were received from the OCS on a project-by-project basis. If the project fails the Company has no obligation to repay
+any grant received for the specific unsuccessful or aborted project. As of December 31, 2014 and 2013 the Company has
+recorded a provision for 452 and 467, respectively, in royalties from sales of its products. Owing to the current financial
+situation of the Company, the Company has deferred these payments under an informal agreement with the OCS. 
+
+Contractual
+Undertaking to a Private Party 
+
+Under
+the Subscription Agreement dated December 27, 2013 referred to in Note 5, the Company agreed to pay to the Investor the amount
+of Five Dollars in respect of each baby monitor which incorporates the Company s patented PulseOx technology that it sells
+and for which it receives payment, up to a maximum amount of 75 (the Revenue Based Payment ). Additionally, 50 
+the aggregate amount of the Revenue Based Payment made during the term of the promissory note representing the advance made by
+such investor shall be applied to the amount outstanding under such note. Accordingly, upon payment or conversion, the amount
+being repaid or converted under the note will be reduced by an amount equal to 50 of the aggregate Revenue Based Payment actually
+made on or prior to the date of payment/conversion. 
+
+NOTE
+15 SUBSEQUENT EVENTS 
+
+On
+February 3, 2015, the Company issued 319,672 shares of its common stock upon conversion of convertible debt of approximately 2. 
+
+On
+February 9, 2015, the Company issued 301,639 shares of its common stock upon conversion of convertible debt of approximately 2. 
+
+F- 16 
+
+<EX-31>
+ 4
+ exhibit31.htm
+ EXHIBIT 31
+
+EXHIBIT 31 
+
+RULE 13A-14(A) / 15D-14(A) CERTIFICATION 
+
+I, Michael Braunold, certify that: 
+
+1. I have reviewed
+this Annual Report on Form 10-K for the year ended December 31, 2014 of SPO Global Inc. 
+
+2. Based on my knowledge,
+this annual report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period
+covered by this report; 
+
+3. Based on my knowledge,
+the financial statements, and other financial information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. I am responsible for
+establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e))
+and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and
+have: 
+
+a) designed such disclosure
+controls and procedures, or caused such disclosure controls and procedures to be designed under my supervision, to ensure that
+material information relating to the registrant, including its consolidated subsidiaries, is made known to me by others within
+those entities, particularly during the period in which this report is being prepared; 
+
+b) designed such internal
+control over financial reporting, or caused such internal control over financial reporting to be designed under my supervision,
+to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for
+external purposes in accordance with generally accepted accounting principles; 
+
+c) evaluated the effectiveness
+of the registrant s disclosure controls and procedures and presented in this report my conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) disclosed in this report
+any change in the registrant s internal control over financial reporting that occurred during the registrant s most
+recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; 
+
+5. I have disclosed,
+based on my most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit
+committee of registrant's board of directors (or persons fulfilling the equivalent function): 
+
+a) All
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and 
+
+b) Any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+ Date: April 14, 2015 
+
+/s/ Michael Braunold 
+
+Michael Braunold 
+
+Chief Executive Officer (Principal Executive Officer 
+ and Principal Financial and Accounting Officer) 
+
+</EX-31>
+
+<EX-32>
+ 5
+ exhibit32.htm
+ EXHIBIT 32
+
+EXHIBIT 32 
+
+SECTION 1350 CERTIFICATION 
+
+In connection with the Annual Report of SPO
+Global Inc. (the Company on Form 10-K for the year ended December 31, 2014 (the Report filed with the
+Securities and Exchange Commission, I, Michael Braunold, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C.
+Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+ The information contained in this Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+April 14, 2015 
+
+/s/ Michael Braunold 
+
+Michael Braunold 
+
+Chief Executive Officer (Principal Executive Officer 
+ and Principal Financial and Accounting Officer) 
+
+A SIGNED ORIGINAL OF THIS WRITTEN STATEMENT
+REQUIRED BY SECTION 906 HAS BEEN PROVIDED TO SPO GLOBAL INC. AND WILL BE RETAINED BY SPO MEDICAL INC. AND FURNISHED TO THE SECURITIES
+AND EXCHANGE COMMISSION OR ITS STAFF UPON REQUEST. 
+
+</EX-32>
+
+<EX-101.INS>
+ 6
+ spom-20141231.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ spom-20141231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ spom-20141231_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ spom-20141231_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ spom-20141231_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ spom-20141231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

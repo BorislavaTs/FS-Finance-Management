@@ -1,0 +1,2575 @@
+<Header>
+<FileStats>
+    <FileName>20000414_10-K_edgar_data_317340_0000317340-00-000005.txt</FileName>
+    <GrossFileSize>132215</GrossFileSize>
+    <NetFileSize>111505</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>174</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>0</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000317340-00-000005.hdr.sgml : 20000417
+ACCESSION NUMBER:		0000317340-00-000005
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19991231
+FILED AS OF DATE:		20000414
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MIKROS SYSTEMS CORP
+		CENTRAL INDEX KEY:			0000317340
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH [8731]
+		IRS NUMBER:				141598200
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-14801
+		FILM NUMBER:		600961
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 7189
+		STREET 2:		707 ALEXANDER RD STE 208 BLDG 2
+		CITY:			PRINCETON
+		STATE:			NJ
+		ZIP:			08540
+		BUSINESS PHONE:		6099871513
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 7189
+		STREET 2:		S VAUGHN DRIVE
+		CITY:			PRINCETON
+		STATE:			NJ
+		ZIP:			08540
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ M6aLK0f9IE3gtgPFc4yfYONCNUZrZuJdfz+v4AcJGItjOwj685Oo9gkth9oTH+3h
+ mb7A0vJwBk1ZRCWDFeXNnw==
+
+ 0000317340-00-000005.txt : 20000417
+
+10-K
+ 1
+
+SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+ ----------------------
+ FORM 10-K
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (D) OF THE
+ SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended December 31, 1999. Commission file number 2-67918
+
+ MIKROS SYSTEMS CORPORATION
+ --------------------------
+ (Exact name of Registrant as specified in charter)
+
+ Delaware 14-1598200
+ -------- -----------
+ (State or other jurisdiction of (I.R.S. Employer
+ incorporation or organization) Identification No.)
+
+ 707 Alexander Road, Suite 208, Princeton, New Jersey 08540
+ (Address of principal executive offices, Including Zip Code)
+
+Registrant's Telephone Number, including area code: 609-987-1513
+ ------------
+
+Securities Registered Pursuant to Section 12(b) of the Act: None
+Securities Registered Pursuant to Section 12(g) of the Act:
+
+ Common Stock, .01 par value
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days. [X] Yes [ ] No
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of Registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of Form 10-K or any amendment to this
+Form 10-K. [ X ]
+
+The aggregate market value of the voting stock held by nonaffiliates of
+Registrant as of March 31, 2000, was approximately 9,983,516, based on the
+average of the bid and asked price quoted by National Quotation Bureau, Inc. The
+number of shares outstanding of the Registrant's .01 par value common stock as
+of March 31, 2000 was 29,363,283.
+
+PART I
+
+Item 1. Description of Business
+- --------------------------------
+
+Introduction
+- ------------
+
+Mikros Systems Corporation was founded in 1978 in Albany, New York to exploit
+microprocessor technology developed at the General Electric Research and
+Development Center for the military defense industry. The Company was
+incorporated under the laws of the State of Delaware in 1978 and acquired all
+rights of General Electric Venture Capital Corp., a subsidiary of General
+Electric Company, to certain microcomputer technology. The Company's
+headquarters are located at 707 Alexander Road, Suite 208, Princeton, New
+Jersey; telephone (609)987-1513.
+
+The knowledge base and proprietary technology developed were recognized by the
+Company as applicable to the rapidly expanding wireless business in the
+commercial sector. The rigorous radio transmission environment as well as the
+challenges of underwater signal processing required Mikros scientists to invent
+new methods for optimizing the bandwidth for a higher data throughput.
+
+In 1995, the Company decided to also pursue commercial contracts which would
+employ these advanced techniques to enhance the data transmission rates in the
+AM and FM radio spectrum.
+
+In 1996, Safeguard Scientifics (Delaware), Inc., invested 1 million in Mikros
+in exchange for 10 ownership in the Company. At the same time, Mobile
+Broadcasting Corporation (MBC) was created to exploit the AM radio technology,
+particularly in mobile or portable platforms such as automobiles. Initially,
+Safeguard invested 1 million in MBC for 75 ownership whereas Mikros owned the
+remaining 25 . Mikros share in MBC was subsequently diluted to 18 , as a
+result of an additional capital investment of 1,200,000 by Safeguard. In
+1998, Mikros'share increased to 50 as a result of the Company's investment
+arising from the use of its engineering credits.
+
+Data Design and Development Corporation (3D) was also founded in 1996 as part of
+the Safeguard Scientific agreement and retains ownership of the AM and FM
+technology. 3D has licensed the FM technology rights in North America to Mikros
+and the AM technology rights in North America to MBC. Mikros owns 1/3 of 3D,
+certain Mikros shareholders own another 1/3, and Safeguard owns the remaining
+1/3.
+
+Mikros entered negotiations in late 1997 for the sale of its military contracts
+to General Atronics Corporation (GAC). The resulting transaction was concluded
+in 1998 and included a 600,000 cash payment and a 2 royalty to be paid to the
+Company over four years on all data terminal set sales. In addition, the
+purchaser was obligated to supply 1,000,000 in engineering services to the
+Company which will continue to be expended on the AM data program in cooperation
+with MBC. The Company was provided with engineering services by the purchaser
+pursuant to the agreement which aggregated 234,722 and 765,278 for the years
+ended December 31, 1999 and 1998, respectively.
+
+Mikros commercial business assets now consist of both the original FM
+technology and the AM Radio technology. Continued development of the FM
+technology has been postponed in order to direct all of the Company s resources
+to the AM Radio technology.
+
+The digital system Mikros is developing for AM radio data transmission will
+allow simultaneous broadcasting of the present radio signal with a digital
+signal. This will be accomplished with minimal disturbance to the existing
+radio channel. This system will require a minor modification to the radio
+station transmitter which is not expected to require new FCC approval since
+adjacent channel interference is avoided.
+
+The Company has completed the Alpha Phase of its development program for AM data
+broadcasting. Live on the air tests have demonstrated the Company's ability to
+simultaneously broadcast a data signal along with regular audio programming. The
+data are received using a prototype custom data radio that has been developed by
+the Company.
+
+The Company developed a business model during 1999. This model combines the AM
+data transmission technology with the operations of a nationwide or area wide
+network of AM radio stations equipped with the minor modifications to the radio
+station's transmitter. Data could be broadcast from point to multipoint and the
+signal received by the listener who will have a small portable receiver to be
+developed based on the prototype presently being used in the Company's
+experimental trials.
+
+In addition to the AM technology developed by the Company, Mikros entered into
+an Memorandum of Understanding with Lucent Digital Radio, Inc., a venture owned
+jointly by Lucent Technologies and Pequot Capital. Mikros is seeking to license
+the use of patented Lucent Digital Radio AM in band on channel technologies. The
+Company plans to augment its existing AM Digital Radio technology with the
+Lucent Digital Radio technologies. There is no assurance that any of the
+applications presently contemplated for datacasting (assuming a network will be
+established) will be embraced by potential users.
+
+Marketing
+- ---------
+
+The Company is focused on developing interest in its AM technology. Other than
+its relationship with MBC, there are no other programs being pursued. MBC is
+jointly owned by Safeguard Scientifics (Delaware), Inc. of Wayne, PA and Mikros
+Systems Corporation.
+
+Backlog
+- -------
+
+As of December 31, 1999, the Company had no backlog compared to a backlog of 0
+in 1998 and 380,000 in 1997 respectively.
+
+Engineering; Research and Development
+- -------------------------------------
+
+In 1994, the Company began research on a method of optimizing spectrum
+efficiency for wireless communications in radio data broadcasting and
+Personal Communications Services (PCS) markets and has continued this effort.
+
+Engineering is a critical factor in the development of the Company's present and
+future products. The Company is presently subcontracting its development work to
+General Atronics Corporation, a high technology company mainly involved in
+communications and radar equipment for the US Department of Defense and allied
+countries. GAC hired key Mikros engineers to continue the AM project when Mikros
+downsized. GAC is obligated to supply 1 million in engineering services to
+Mikros which will be expended on the AM data program with MBC. In 1999, the
+total amount of engineering services utilized was 234,722.
+
+Patents
+- -------
+
+The Company has two patents covering digital signal processing technology and
+our base scheme of implementing Link-11.
+
+Competition
+- -----------
+
+High technology products such as wireless technology often require large
+investments of both money and talent. Many large companies with greater
+financial and human resources than the Company are currently investing heavily
+in products that could compete directly with Mikros. There is no assurance that
+the Company could compete successfully against such competition.
+
+Being first in the market with new high technology is a critical factor in a
+company's success in the market. There is no assurance that the Company will be
+able to introduce new products to the market before any of its competitors.
+
+Employees
+- ---------
+
+As of March 31, 2000, the Company had two executive employees. The Company
+believes its relations with its employees are satisfactory.
+
+Year 2000 Compliance
+- --------------------
+
+In prior years, the Company discussed the nature and progress of its plan to
+become Year 2000 ready. In late 1999, the Company completed its remediation and
+testing of systems. As a result of those planning and implementation efforts,
+the Company experienced no significant disruptions in mission critical
+information technology and non-information technology systems and believes those
+systems successfully responded to the Year 2000 date change. Through December
+31, 1999, the Company capitalized approximately 0 in connection with software
+and hardware acquired to address the Year 2000. The Company is not aware of any
+material problems resulting from Year 2000 issues, either with its products,
+its internal systems, or the products and services of third parties. The
+Company will continue to monitor its mission critical computer applications
+and those of its suppliers and vendors throughout the Year 2000 to ensure that
+any latent Year 2000 matters that may arise are addressed promptly.
+
+Risk Factors
+- ------------
+
+History of Losses, Lack of Liquidity; Working Capital Deficit. The Company
+incurred a net loss before extraordinary items of 286,432, 1,223,890, and
+ 604,550 for the years ended December 31, 1999, 1998 and 1997 respectively. As
+of December 31, 1999, the Company had an accumulated deficit of 11,766,889 and
+had negative working capital of 412,115. In addition, the Company expects to
+incur substantial expenditures to expand its commercial wireless communications
+business. The Company s working capital, plus revenue from its royalty
+agreement with GAC will not be sufficient to meet such objectives as presently
+structured. There can be no assurance that the Company will achieve a
+profitable level of operations in the future.
+
+Additional Financing Requirement; Merger and Partnering Opportunities. The
+Company requires additional financing if it chooses to build a datacasting
+network around the AM radio stations from which it would lease bandwidth.
+Alliances or other partnership agreements must be developed with entities who
+may be interested in supporting the Company s commercial programs, or other
+business transactions which would generate resources sufficient to assure
+continuation of the Company s operations and research programs. There can be
+no assurance, assuming the Company successfully raises additional funds or
+enters into business alliances, that the Company will identify users for its
+datacasting network and thereby will achieve profitability or positive cash
+flow. If the Company is unable to obtain additional adequate financing or
+enter into such business alliances, management will be required to further
+curtail its operations. Failure to obtain such additional financing on terms
+acceptable to the Company, if coupled with a material shortfall from the
+Company s current operating plan could negatively impact the Company's ability
+to continue operations.
+
+Uncertainty of Market Acceptance. In 1995, the Company expanded its initiatives
+in commercial wireless communications in the current and emerging radio data
+broadcasting and the personal communications service markets. Market acceptance
+of the Company s network in the commercial sector will be determined in large
+part by the Company s ability to develop a customer base which would have a need
+to broadcast data and could be convinced of the value and cost effective uses of
+the AM radio based network. To date, the Company has limited evidence with
+which to evaluate the market reaction to its service in the commercial sector
+because there has been no commercial experience. There can be no assurance
+that the Company s services will achieve market acceptance.
+
+Limited Marketing Experience. The Company will be required to develop a
+marketing and sales network that will effectively demonstrate the advantages of
+its commercial offerings over competing options. The Company s marketing
+experience with its new commercial products is limited, and the Company has not
+identified a customer for a commercially feasible application. The Company
+currently performs all its marketing through its own employees and through MBC.
+There can be no assurance that the Company will be successful in its marketing
+efforts, that it will be able to establish adequate sales and distribution
+capabilities, or that it will be able to enter into marketing agreements or
+relationships with third parties on financially acceptable terms.
+
+Government Regulation. Under current Federal Communications Commission FCC regulations, designated portions of the FM radio broadcast spectrum, known as
+subcarriers, may be used to transmit information in addition to normal station
+programming. Listeners with specially equipped FM radios can decode the
+subcarrier information, while standard FM radios continue to receive normal
+radio station programs. FM subcarrier broadcasting currently represents a
+ 100 million industry operating within well-established and stable FCC
+regulatory guidelines. Any significant change in these regulatory requirements
+or the enforcement thereof could adversely affect the Company s prospects.
+
+Rapid Technological Change; Potential Infringement. The market for the
+Company s products and planned products is characterized by rapid changes in
+technology including the potential introduction of new types of wireless
+communications and digital signal processor technologies which could have a
+material adverse impact on the Company s business. The Company s future
+success will depend in part on its ability to continually enhance its current
+technology and to develop or acquire new ideas that address the needs of
+potential users. There can be no assurance that the Company will be successful
+in developing new products or procedures that respond to technological changes.
+There can be no assurance that research and development by competitors will not
+render the Company's technology obsolete or uncompetitive. In addition, in a
+technology-based industry, there can be no assurance that a claim of patent or
+other infringement will not be made against the Company. While the
+Company is not aware of any such claims, no infringement studies have been
+conducted on behalf of the Company.
+
+Competition. High technology applications such as those being developed by the
+Company often require large investments of both money and talent. Many large
+entities with greater financial, technical and human resources than the Company
+are currently investing heavily in products and services that compete directly
+with the Company s contemplated services and underlying products. There is no
+assurance that the Company s offerings can be successfully marketed against such
+competition. In addition being first in the market with new high technology is
+a critical factor in a company s success in the market. There is no assurance
+that the Company will be able to introduce new offerings to the market before
+any of its competitors. As the markets in which the Company competes mature
+and new and existing companies compete for customers, price competition is
+likely to intensify, and such price competition could adversely affect the
+Company s results of operations.
+
+Potential Dilutive Effect of Preferred Stock, Warrants and Options; Possible
+Adverse Effect on the Company s Ability to Obtain Additional Financing. The
+outstanding securities of the Company include shares of convertible preferred
+stock, options and warrants. During the respective terms of the options and
+warrants, and when the preferred stock is outstanding, the holders thereof are
+given an opportunity to profit from a rise in the market price of the Common
+Stock, causing a dilution of the interests of existing stockholders. Thus, the
+terms on which the Company may obtain additional financing during that period
+may be adversely affected. The holders of preferred stock, options, and
+warrants might be expected to exercise their respective rights to acquire
+Common Stock at a time when the Company would, in all likelihood, obtain needed
+capital through a new offering of securities on terms more favorable than those
+provided by these outstanding securities. In the event that such holders
+exercise their rights to acquire shares of Common Stock at such time, the net
+tangible book value per share of the Common Stock might be subject to dilution.
+
+Potential Future Sales. Future sales of shares by existing stockholders under
+Rule 144 of the Securities Act or through the exercise of outstanding options or
+otherwise could have a negative impact on the market price of the Common Stock.
+The Company is unable to estimate the number of shares that may be sold under
+Rule 144 because such sales depend on the market price for the Common Stock of
+the Company, the personal circumstances of the sellers and a variety of other
+factors. Any sale of substantial amounts of Common Stock or other securities of
+the Company in the open market may adversely affect the market price of the
+securities offered hereby and may adversely affect the Company s ability to
+obtain future financing in the capital markets as well as create a potential
+market overhang.
+
+No Dividends. The Company has never paid cash dividends on its Common Stock.
+Any payment of cash dividends in the future will depend upon the Company s
+earnings (if any), financial condition and capital requirements. In addition,
+the Company has executed certain loan agreements, which prohibit the payment of
+a dividend on the Common Stock as long as such agreements are in place.
+Accordingly, any potential investor who anticipates the need for current
+dividends from its investment should not purchase any of the securities offered
+hereby.
+
+Public Market; Possible Volatility of Stock Price. The Company s Common Stock
+currently is traded over-the-counter on the NASD Bulletin Board. There can be
+no assurance that an active market in any of the Company s securities will be
+sustained. Absent a public trading market, an investor may be unable to
+liquidate its investment. The Company believes that factors such as the
+Company s and its competitors announcements of the availability of new services
+and new contracts, quarterly fluctuations in the Company s financial results and
+general conditions in the communications industry could cause the price of the
+Common Stock to fluctuate substantially. In addition, stock markets have
+experienced extreme price volatility in recent years. This volatility has had
+a substantial effect on the market prices of securities issued by many companies
+for reasons unrelated to the operating performance of the specific companies.
+
+Concentration of Share Ownership. The Company s directors, officers and
+principal stockholders, and certain of their affiliates, beneficially own
+approximately 70.8 (without giving effect to any outstanding options, warrants
+or other convertible securities) of the outstanding Common Stock and will have
+significant influence over the outcome of all matters submitted to the
+stockholders for approval, including the election of directors of the Company.
+In addition, such influence by management could have the effect of discouraging
+others from attempting to take-over the Company, thereby increasing the
+likelihood that the market price of the Common Stock will not reflect a premium
+for control.
+
+Anti-Takeover Provisions. The Company has authorized 4,040,000 shares of
+preferred stock, which may be issued by the Board of Directors on such terms,
+and with such rights, preferences and designations as the Board may determine.
+Issuance of such preferred stock, depending upon the rights, preferences and
+designations thereof, may have the effect of delaying, deterring or preventing
+a change in control of the company. The 2,081,663 shares of issued and
+outstanding preferred stock have certain rights and preferences, including
+dividend and liquidation preferences, which also may have the effect of
+delaying, deterring or preventing a change in control of the Company. In
+addition, certain anti-takeover provisions of the Delaware General
+Corporation Law (the DGCL ), among other things, restrict the ability of
+stockholders to effect a merger or business combination or obtain control of
+the Company, and may be considered disadvantageous by a stockholder.
+
+Item 2. Properties
+- -------------------
+
+The Company owns no real property. The Company is currently leasing office
+space in Princeton, New Jersey.
+
+Item 3. Legal Proceedings
+- ---------------------------
+
+None.
+
+Item 4. Submission of Matters to a Vote of Security Holders
+- ------------------------------------------------------------
+
+Not Applicable
+
+PART II
+
+Item 5. Market for the Registrants' Common Equity and Related Shareholder
+ Matters
+- --------------------------------------------------------------
+
+The following table sets forth the range of high and low closing bid prices of
+the Common Stock for the periods indicated as determined by the National
+Quotation Bureau, Inc. The quoted prices represent only prices between dealers
+on each trading day as submitted from time to time by certain of the securities
+dealers wishing to trade in the Company's Common Stock, do not reflect retail
+mark-ups, mark-downs or commissions, and may differ substantially from prices in
+actual transactions.
+
+ Bid
+ High Low
+1999
+
+ First Quarter .2188 .05
+ Second Quarter .19 .13
+ Third Quarter .15 .07
+ Fourth Quarter .21 .05
+
+1998
+ First Quarter .375 .09
+ Second Quarter .13 .06
+ Third Quarter .13 .08
+ Fourth Quarter .13 .05
+
+The Company has never paid cash dividends on its Common Stock. Any payment of
+cash dividends in the future will depend upon the Company's earnings (if any),
+financial condition, and capital requirements.
+
+In addition, the Company has executed certain loan agreements which prohibit
+the payment of a dividend on the Common Stock as long as such agreements are in
+place. (see "Item 7. Management's Discussion and Analysis of Financial
+Conditions and Results of Operations - 1992-1993 Financing" and "1996 Financing"
+below).
+
+As of March 31, 2000, the Company had 477 holders of record of its Common
+Stock.
+
+Item 6. Selected Financial Data (1)
+- ------------------------------------
+
+ YEARS ENDED DECEMBER 31,
+ 1999 1998 1997 1996 1995
+ --------------------------------------------------------
+INCOME STATEMENT
+ Total Revenue 69,563 408,029 5,097,432 859,100 3,379,897
+ Net Income (Loss) (277,535) 393,839 (604,550) (1,447,641) (647,673)
+
+ Income (Loss) per
+ common share-Basic (.01) (.09) (.05) (.17) (.10)
+Fully Diluted (.01) .03 (.05) (.17) (.10)
+
+ Weighted average
+ number of common
+ shares outstanding-
+ Basic 28,388,986 14,013,941 12,688,327 8,382,383 7,285,441
+
+BALANCE SHEET
+ Current Assets 64,266 364,876 555,430 1,209,944 283,309
+ Current Liabilities 476,381 596,610 2,074,391 1,339,601 604,527
+ Total Assets 101,850 429,614 676,023 1,497,294 546,995
+ Long-Term Liabilities - - 716 1,080,052 423,319
+ Total Liabilities 556,831 677,060 2,155,557 2,410,652 1,027,846
+ Shareholders'
+ (Deficiency) (454,981) (247,446) (1,479,534) (913,359) (480,851)
+
+(1) The above data should be read in conjunction with the financial
+ statements of the Company included elsewhere herein.
+
+Item 7. Management's Discussion and Analysis of Financial
+ Condition and Results of Operations
+- ----------------------------------------------------------
+
+Results of Operations, General: Historically, the Company derived a large
+percentage of its revenues from government contracts. In the last three years,
+the Company has been developing commercial applications. While the financial
+data presented reflects the Company s financial history, it cannot predict
+future results as the Company divested its government contracts early in 1998.
+The Company s current focus is solely on the development of its AM data casting
+program.
+
+The statements contained in this Annual Report on Form 10-K that are not
+historical facts are forward-looking statements (as such term is defined in the
+Private Securities Litigation Reform Act of 1995). Such forward-looking
+statements may be identified by, among other things, the use of forward-looking
+terminology such as believes, expects, may, will, should or
+anticipates or the negative thereof or other variations thereon or comparable
+terminology,or by discussions of strategy that involve risks and uncertainties.
+These forward-looking statements, such as statements regarding anticipated
+future revenues, Year 2000 compliance, products under development, size of
+markets for products under development and other statements regarding matters
+that are not historical facts, involve predictions. The Company s actual
+results, performance or achievements could differ materially from the results
+expressed in, or implied by, these forward-looking statements contained in this
+Annual Report on Form 10-K. Factors that could cause actual results,
+performance or achievements to vary materially include, but are not limited to:
+changes in business conditions, Year 2000 Compliance of the Company s and other
+vendors products and related issues, changes in Mikros sales strategy and
+product development plans, changes in the radio digital data marketplace,
+competition between Mikros and other companies that may be entering the radio
+digital data marketplace, competitive pricing pressures, market acceptance of
+Mikros products under development, and delays in the development of products.
+
+1999 vs. 1998:
+- -------------
+
+Total revenues in 1999 were approximately 70,000 compared to 408,000 in 1998,
+a decrease of 82.8 .
+
+In 1999, revenues from research and development were 0 of total revenues
+compared to 47,000 of total revenues in 1998. Revenues from equipment sales in
+1999 were 0 compared to 334,000 in 1998.
+
+Total cost of sales in 1999 was 0 compared to 376,000 in 1998. Contract R&D
+cost of sales in 1999 was 0 compared to 55,000 in 1998.
+
+General and Administrative expenses were 125,000 in 1999 compared to 341,000
+in 1998. Interest expense in 1999 was 0 versus 51,000 in 1998. This decrease
+is due to the reduction in notes payable resulting from the conversion of debt
+to common stock and the corresponding interest payments (see "1996 Financing").
+
+The Company incurred a net loss of 278,000 compared to net income of 394,000
+in 1998. The loss in 1999 is due to the significant level of research and
+development costs by the Company.
+
+1998 vs. 1997:
+- --------------
+
+Total revenues in 1998 were approximately 408,000 compared to 5,097,000 in
+1997, a decrease of 92 .
+
+In 1998, revenues from research and development contracts were approximately
+ 47,000 or 11.5 of total revenues as compared to 1,856,000 or 36.4 of total
+revenues in 1997. Revenues from equipment sales in 1998 were approximately
+ 334,000 or 81.9 of total revenues compared to 3,241,000 or 63.6 of total
+revenues in 1997. The decrease in revenues in the equipment sales category were
+primarily the result of final revenues from a U.S. Navy contract. The decrease
+in Research & Development revenues is due primarily to the Company's final
+revenues on commercial contracts including revenues of approximately 29,755
+from MBC. In 1998, revenues from a royalty agreement pursuant to the Company's
+divestiture of its military contracts were approximately 27,000 or 6.6 of
+revenues. There were no royalties in 1997.
+
+Total cost of sales in 1998 was approximately 376,000 or 92.2 of total
+revenues as compared to 3,601,000 or 70.6 of total revenues in 1997. Contract
+R & D cost of sales in 1998 was approximately 55,000 or 117.5 of Contract
+R & D revenues compared to 1,336,000 or 72 in 1997.
+
+General and Administrative expenses were approximately 341,000 in 1998 compared
+to 1,088,000 in 1997. Interest expense in 1998 amounted to approximately
+ 51,000 versus 135,000 in 1997. This decrease is due to the reduction in notes
+payable resulting from the conversion of debt to common stock and the
+corresponding interest payments (see 1996 Financing ).
+
+In 1998, the Company incurred approximately 864,000 or 211.7 of total revenues
+on research and development costs related to the development of AM wireless
+technology. This is compared to 719,000 or 14.1 of total revenues for the
+development of a military communication system application in 1997.
+
+The Company attained net income for 1998 of approximately 394,000 compared to
+a net loss for 1997 of approximately 605,000. The net income in 1998 is
+attributable to extraordinary gains arising from the Company's divestiture of
+its military contracts and the settlement of its accounts payable obligations.
+The loss in 1997 is due to the significant level of research and development
+cost born by the Company.
+
+Liquidity and Capital Resources
+- -------------------------------
+
+Since its inception, the Company has financed its operations through debt,
+private and public offerings of equity securities and cash generated by
+operations.
+
+In 1999, the Company had negative cash flow from operations of approximately
+ 161,000 compared to negative cash flow from operations of approximately
+ 554,000 in 1998 and negative cash flow from operations of 185,000 in 1997.
+There was negative working capital of 412,000 as of December 31, 1999 as
+compared to negative working capital of 232,000 and 1,519,000 at December 31,
+1998 and 1997, respectively.
+
+As of December 31, 1998, the Company could not meet its remaining principal
+repayment obligations under the 1996 Financing and the 1992-93 Financing. The
+Company has ceased accruing interest on its notes payable as of May 15, 1998.
+Management is attempting to finalize the restructuring of its remaining note
+obligations with one related party and other note holders.
+
+A substantial portion of the Company s costs and expenses is represented by
+Research and Development costs.
+
+Commencing April 10, 1998, for a period of four years, the Company is
+receiving a royalty of 2 of all data terminal sales by General Atronics
+Corporation (GAC).The royalty agreement provides for quarterly reports and
+payments based on the GAC shipments and receipts during the quarter.
+The royalties for 1999 were 69,563, respectively.
+
+Mikros is presently seeking 5M in financing in order to implement its business
+plan. There is no guarantee that the Company will be able to obtain the
+necessary financing or that the application contemplated will be embraced by
+potential users.
+
+The Company intends to continue the development and marketing of its commercial
+applications of its wireless communications technology both directly and through
+its relationship with MBC. In order to continue such development and marketing,
+the Company will be required to raise additional funds. The Company intends to
+consider the sale of additional debt and equity securities under appropriate
+market conditions, alliances or other partnership agreements with entities
+interested in supporting the Company s commercial programs, or other business
+transactions which would generate resources sufficient to assure continuation of
+the Company s operations and research programs. There can be no assurance,
+assuming the Company successfully raises additional funds or enters into
+business alliances, that the Company will achieve profitability or positive
+cash flow. If the Company is unable to obtain additional adequate financing or
+enter into such business alliances, management will be required to sharply
+curtail its operations. Failure to obtain such additional financing on terms
+acceptable to the Company may materially adversely affect the Company s ability
+to continue as a going concern.
+
+Debt Financing
+- --------------
+
+1996 Financing
+- --------------
+
+In a series of transactions from February through May 1996, the Company issued
+secured promissory notes and warrants to raise an aggregate of 641,500
+(including 122,500 from officers and directors). The promissory notes were for
+a term of approximately eighteen months, bearing interest at 12 on the unpaid
+balance, and were secured by certain assets of the Company. In addition, the
+Company issued warrants to purchase five (5) shares of Common Stock at 0.01 per
+share for each dollar of debt. The value of the warrants was immaterial and no
+accounting recognition was given to their issuance.
+
+In October 1996, all of the note holders agreed to a deferral of principal
+payments in exchange for the right to convert outstanding debt to Common Stock
+of the Company at a rate of one (1) share of stock for 1.00 of debt. The
+Company determined that the fair value of the conversion feature was
+inmaterial. Accordingly, no accounting recognition has been given to this
+modification of terms.
+
+During 1998, the Company paid the investors all of the interest accrued on
+promissory notes payable through May 15, 1998. No additional interest accrued
+after that date. At that time, the Company offered to convert the notes at face
+value to stock valued at .06 per share in order to restructure its debt. Most
+of the investors elected to convert. As a result, 8,504,177 shares of common
+stock were issued. Three of the note holders (not related parties) chose not to
+convert notes totalling 105,000. These are included in the notes payable as of
+December 31, 1998. During 1999, two of the remaining three note holders
+converted their debt, totalling 70,000, under the 1998 terms.
+
+1992-93 Financing
+- -----------------
+
+During 1998, the Company paid the investors of the 1992-93 financing all of the
+interest accrued on their notes payable through May 15, 1998. At that time, it
+offered to convert the notes at face value to stock valued at 0.06 per share in
+order to restructure its debt. There were 4,166,668 shares issued as a
+result. One of the investors chose not to convert his notes which totaled
+ 72,500. This amount is included in Notes Payable as of December 31, 1998.
+The Company ceased accruing interest on the remaining debt as of May 15, 1998.
+
+Item 7A. Quantitative and Qualitative Disclosure About Market Risk
+- -------------------------------------------------------------------
+
+Not Applicable.
+
+Item 8. Financial Statements and Supplementary Data
+- -------------------------------------------------------
+
+The financial statements required to be filed pursuant to this Item 8 are
+appended to this report on Form 10-K. A list of the financial statement
+schedules filed herewith is found at "Item 14 Exhibits, Financial Statement
+Schedules and Reports on Form 8-K".
+
+Item 9. Changes In and Disagreements with Accountants on Accounting and
+ Financial Disclosure
+- ------------------------------------------------------------------------------
+
+Not Applicable.
+
+PART III
+
+Item 10. Directors and Executive Officers of the Company
+- ---------------------------------------------------------
+
+The current members of the Board of Directors of the Company are as follows:
+
+Served as a Positions with
+Name Age Director Since the Company
+
+Joseph R. Burns 62 1984 Director
+
+F. Joseph Loeper 55 1997 Director
+
+Thomas C. Lynch 58 1997 Director
+
+Thomas J. Meaney 65 1986 President
+ and Director
+
+Wayne E. Meyer 73 1988 Chairman of the
+ Board and
+ Director
+
+Frederick C. Tecce 64 1996 Director
+
+John B. Torkelsen 54 1985 Director
+
+The principal occupation and business experience, for at least the past
+five years, of each nominee is as follows:
+
+ Joseph R. Burns was a Director and President of the Company from May 1984
+until July 1986. From July 1986 until December 1986, Dr. Burns was Chairman of
+the Company. From January 1987 until April 1988, Dr. Burns was a consultant to
+the Company. From April 1988 to March 1998, Dr. Burns served has Senior Vice
+President and Chief Scientist of the Company. From March 1998 to present Dr.
+Burns serves as Executive Vice President of Ocean Power Technologies, Inc. Dr.
+Burns currently serves as a Director.
+
+ F. Joseph Loeper has been a Director of the Company since February 1997.
+He was first elected to the Pennsylvania Senate in 1979 to represent the 26th
+Senatorial District and continues to serve in this capacity. He currently
+serves as Majority Leader of the State Senate. Senator Loeper also serves as a
+member of the Board of Governors of the State System of Higher Education and
+is a Pennsylvania Commissioner on the Delaware River Port Authority. Senator
+Loeper serves on the Board of Directors of Sovereign Bank and Nursecare, Inc.
+He is Vice Chairman of Packard Press.
+
+ Thomas C. Lynch has been a Director of the Company since February 1997.
+He served as Senior Vice President for Safeguard Scientifics, Inc. since
+retiring at the rank of Rear Admiral, U.S. Navy in November 1995 and currently
+is the President and Chief Operating Officer of CompuCom Systems, Inc. Mr.
+Lynch serves on the Boards of Sanchez Computer Associates, Eastern Technology
+Council and e-Merge Interactive.
+
+ Thomas J. Meaney has been a Director of the Company since July 1986 and was
+Chairman of the Board from June 1997 to February 1999. He was appointed
+President in June 1986 and continued to serve until February 1997.
+On September 30, 1998, he was reappointed President of the Corporation.
+From February 1983 to June 1986, Mr. Meaney was Senior Vice President and
+Director of Robotic Vision Systems Incorporated ("RVSI"), a manufacturer of
+robotic vision systems. Mr. Meaney served as a Director of RVSI until 1991
+when he resigned from the post. Prior to 1983 and for more than five years, he
+was Vice President - Business Development, International of Norden Systems and
+President - Norden Systems Canada, both divisions of United Technologies
+Corporation and developers of computer and electronic products and systems.
+
+ Wayne E. Meyer has been a Director of the Company since April 1988.
+Chairman of the Board 1990 to 1997, and re-elected as Chairman in February
+1999. From 1986 to present he has been the Founder and President of the W.E.
+Meyer Corporation which engages in consulting and advice to industry,
+government and academic institutions in matters of system engineering,
+project management, strategic planning and military and electronic designs.
+He enlisted in the U.S. Navy as an Apprentice Seaman in 1943 and retired in
+1985 in the rank of Rear Admiral. As a national authority on Ballistic Missile
+Defense, he serves on numerous boards, groups and panels.
+
+ Frederick C. Tecce has been a Director of the Company since July 1996. Mr.
+Tecce is of Counsel to Klett Lieber Rooney & Schorling. He is also a Director
+of NutriSystems.com. In addition, he also serves as Chairman of the Finance
+Committee of the Pennsylvania Schools Employees Retirement Systems.
+
+ John B. Torkelsen has been a Director of the Company since June 1985 and
+has served as Secretary of the Corporation from June 1985 until April 25, 1996.
+Since October 1997, Mr. Torkelsen has been a General Partner of the Acorn
+Technology Fund, L.P., a venture capital fund specializing in early stage, high
+technology investing. From 1984 to 1999, he was President of Princeton Venture
+Research, Inc., an investment banking, consulting and venture capital firm that
+he founded. Mr. Torkelsen is currently a director of Princeton Video Image,
+Inc. (NASDAQ, PVII), a developer of video insertion systems for the television
+broadcast industry.
+
+ None of the Company's Directors or executive officers is related to any
+other Director or executive officer of the Company. In connection with the
+acquisition of certain debt and equity instruments of the Company from third
+parties, Messrs. Burns, Meaney, Meyer, Torkelsen and Tecce (collectively, the
+Investors") have the right to designate 2/7ths of the Board of Directors of the
+Company. See Certain Relationships and Related Transactions. There are
+currently seven members of the Board.
+
+There were two meetings of the Board of Directors in 1999, not including
+written consents of the Directors. During 1999, each Director attended at
+least 75 of the aggregate of all meetings of the Board of Directors and
+meeting of committees on which he served except for Messrs. Burns, Lynch, and
+Torkelsen.
+
+ The following table identifies the current executive officers of the
+Company:
+
+Capacities in In Current
+Name Age Which Served Position Since
+- ---------------- --- ------------- --------------
+
+Thomas J. Meaney 65 President September 1998
+ and Director
+
+Patricia A. Kapp 33 Secretary and September 1998
+ Treasurer
+
+Item 11. Executive Compensation
+- --------------------------------
+
+ The following Summary Compensation Table sets forth information concerning
+compensation for services in all capacities awarded to, earned by or paid to the
+Company's Chief Executive Officer and the four most highly compensated executive
+officers of the Company whose aggregate cash compensation exceeded 100,000
+(collectively, the "Named Executives") during the years ended December 31, 1997,
+1998 and 1999.
+
+SUMMARY COMPENSATION TABLE
+
+Name and Principal Position(a) Year (b) Annual Compensation (1)
+ Salary )
+ (c)
+Thomas J. Meaney, President 1999 0
+ 1998 35,830
+ 1997 145,466
+
+(1) The costs of certain benefits are not included because they did not
+ exceed, in the case of each Named Executive, the lesser of 50,000 or 10 
+ of the total of annual compensation reported in the above table.
+
+Item 12. Security Ownership of Certain Beneficial Owners and
+ Management
+- -------------------------------------------------------------
+Common Stock
+
+ The following table sets forth certain information, as of March 31, 2000
+with respect to holdings of the Company's Common Stock by (i) each person known
+by the Company to be the beneficial owner of more than 5 of the total number of
+shares of Common Stock outstanding as of such date, (ii) each of the nominees
+(which includes all current directors and Named Executives), and (iii) all
+current directors and officers as a group.
+
+ Amount and Nature
+ of Beneficial Percent
+ Name of Beneficial Owner Ownership(1) Of Class
+
+(i) Certain Beneficial Owners:
+ Safeguard Scientifics 7,371,000(2) 21.2
+ (Delaware) Inc.
+ 800 The Safeguard Building
+ 435 Devon Park Drive
+ Wayne, PA 19087-1945
+
+ Transitions Two, 2,137,775(3) 6.9
+ Limited Partnership
+ 920 Hopmeadow Street
+ Simsbury, Connecticut 06070
+
+ Princeton Valuation Consultants, 2,920,050(4) 9.6
+ L.L.C.
+ 5 Vaughn Drive
+ Princeton, New Jersey 08540
+
+(ii) Nominees:
+ Joseph R. Burns 1,113,081(5) 3.8
+
+ F. Joseph Loeper 202,000(6) 
+
+ Thomas C. Lynch - -
+
+ Thomas J. Meaney 3,700,167(7) 12.4
+
+ Wayne E. Meyer 3,108,000(8) 10.4
+
+ Frederick C. Tecce 2,066,668(9) 7.0
+
+ John B. Torkelsen 2,920,050(10) 9.6
+
+(iii) All Current Directors and Officers as a Group
+ (eight persons) 13,109,966(5)(6)(7)(8)(9)(10) 41.5
+
+ Less than 1 
+
+(1) Except as otherwise indicated, all shares are beneficially owned and the
+ sole investment and voting power is held by the persons named.
+
+(2) Includes 5,459,000 shares issuable upon exercise of warrants, and 504,916
+ shares of common stock granted by Safeguard to certain of its employees
+ pursuant to a long-term incentive plan. Safeguard will continue to
+ exercise voting rights with respect to these shares until the occurrence
+ of certain vesting requirements.
+
+(3) Includes 1,750,275 shares issuable upon conversion of Series B Stock.
+
+(4) Includes 202,500 shares issuable upon conversion of Convertible Preferred
+ Stock and 695,883 shares issuable upon conversion of Series B Stock.
+
+(5) Includes 14,748 shares issuable upon conversion of Series B Stock and
+ 100,000 shares issuable upon the exercise of warrants.
+
+(6) Includes 175,000 shares issuable upon the exercise of warrants.
+
+(7) Includes 50,000 shares issuable upon conversion of Convertible Preferred
+ Stock, 199,500 shares issuable upon conversion of Series B Stock and
+ 275,000 shares issuable upon the exercise of warrants.
+
+(8) Includes 30,000 shares issuable upon conversion of Series B Stock, 100,000
+ shares issuable upon the exercise of options and 318,750 shares issuable
+ upon the exercise of warrants.
+
+(9) Includes 100,000 shares issuable upon the exercise of warrants.
+
+(10) Represents shares held of record by Princeton Valuation Consultants,
+ L.L.C.
+
+Convertible Preferred Stock
+
+ The following table sets forth certain information, as of March 31, 2000,
+with respect to holdings of the Company's Convertible Preferred Stock by (i)
+each person known by the Company to be the beneficial owner of more than 5 of
+the total number of shares of Convertible Preferred Stock outstanding as of such
+date, (ii) each of the nominees (which includes all current directors and Named
+Executives), and (iii) all current directors and officers as a group.
+
+ Amount and Nature
+ of Beneficial Percent
+ Name of Beneficial Owner Ownership(1) of Class
+
+(I) Certain Beneficial Owners:
+
+ Princeton Valuation Consultants
+ L.L.C. 202,500 79.4
+ 5 Vaughn Drive
+ Princeton, New Jersey 08540
+
+(ii) Nominees:
+
+ Joseph R. Burns -- --
+
+ F. Joseph Loeper -- --
+
+ Thomas C. Lynch -- --
+
+ Thomas J. Meaney 50,000 19.6
+
+ Wayne E. Meyer -- --
+
+ Frederick C. Tecce -- --
+
+ John B. Torkelsen 202,500(2) 79.4
+
+(iii) All Current Directors and Officers as a Group
+ (eight persons) 252,500 99.0
+
+(1) Except as otherwise indicated, all shares are beneficially owned and the
+ sole investment and voting power is held by the persons named.
+
+(2) Represents shares held or record by Princeton Valuation Consultants,
+ L.L.C.
+ 
+Series B Stock
+
+ The following table sets forth certain information, as March 31, 2000,
+with respect to holdings of the Company's Series B Stock by (i) each person
+known by the Company to be the beneficial owner of more than 5 of the total
+number of shares of Series B Stock outstanding as of such date, (ii) each of
+the nominees (which includes all current directors and Named Executives), and
+(iii) all current directors and officers as a group.
+
+ Amount and Nature
+ of Beneficial Percent
+ Name of Beneficial Owner Ownership(1) of Class
+(I) Certain Beneficial Owners:
+ The Mercantile & General 91,342 8.1
+ Reinsurance Company, PLC
+ Moorfields House
+ Moorfields
+ London EC2Y 9AL
+
+ Transitions Two, Limited Partnership 583,425 51.6
+ 920 Hopmeadow Street
+ Simsbury, Connecticut 06070
+
+ Princeton Valuation Consultants, 231,961 20.5
+ L.L.C
+ 5 Vaughn Drive
+ Princeton, New Jersey 08540
+
+(ii) Nominees:
+
+ Joseph R. Burns 4,916 
+
+ F. Joseph Loeper -- --
+
+ Thomas C. Lynch -- --
+
+ Thomas J. Meaney 66,500 5.9
+
+ Wayne E. Meyer 10,000 
+
+ Frederick C. Tecce -- --
+
+ John B. Torkelsen 231,961(2) 20.5
+
+(iii) All Current Directors and Officers as a Group
+ (eight persons) 313,377 27.7
+
+ Less than 1 
+(1) Except as otherwise indicated, all shares are beneficially owned and the
+ sole investment and voting power is held by the persons named.
+
+(2) Represents shares held of record by Princeton Valuation Consultants,
+ L.L.C.
+Series C Stock
+
+ The following table sets forth certain information, as of March 31, 2000,
+with respect to holdings of the Company's Series C Stock by (i) each person
+known by the Company to be the beneficial owner of more than 5 of the total
+number of shares of Series C Stock outstanding as of such date, (ii) each of
+the nominees (which includes all current directors and Named Executives), and
+(iii) all current directors and officers as a group.
+
+ Amount and Nature
+ of Beneficial Percent
+ Name of Beneficial Owner Ownership(1) of Class
+
+(I) Certain Beneficial Owners:
+
+ Transitions Two, Limited Partnership 5,000 100.0
+ 920 Hopmeadow Street
+ Simsbury, Connecticut 06070
+
+ Princeton Valuation Consultants, 19,500(2) 79.6
+ L.L.C.
+ 5 Vaughn Drive
+ Princeton, New Jersey 08540
+
+(ii) Nominees:
+
+ Joseph R. Burns 19,500(2) 79.6
+
+ F. Joseph Loeper -- --
+
+ Thomas C. Lynch -- --
+
+ Thomas J. Meaney 19,500(2) 79.6
+
+ Wayne E. Meyer 19,500(2) 79.6
+
+ Frederick C. Tecce 19,500(2) 79.6
+
+ John B. Torkelsen 19,500(3) 79.6
+
+(iii) All Current Directors and Officers as a Group
+ (eight persons) 97,500(2) 95.1
+
+(1) Except as otherwise indicated, all shares are beneficially owned and the
+ sole investment and voting power is held by the persons named.
+
+(2) Reflects warrants to purchase Series C Stock.
+
+(3) Represents shares held of record by Princeton Valuation Consultants,
+ L.L.C.
+Series D Stock
+
+ The following table sets forth certain information, as of March 31, 2000,
+with respect to holdings of the Company's Series D Stock by (i) each person
+known by the Company to be the beneficial owner of more than 5 of the total
+number of shares of Series D Stock outstanding as of such date, (ii) each of
+the nominees (which includes all current directors and Named Executives), and
+(iii) all current directors and officers as a group.
+
+Amount and Nature
+ of Beneficial Percent
+ Name of Beneficial Owner Ownership(1) of Class
+
+(I) Certain Beneficial Owners:
+
+ Princeton Valuation Consultants,
+ L.L.C. 138,000 20.0
+ 5 Vaughn Drive
+ Princeton, New Jersey 08540
+
+(ii) Nominees:
+
+ Joseph R. Burns 138,000 20.0
+
+ F. Joseph Loeper -- --
+
+ Thomas C. Lynch -- --
+
+ Thomas J. Meaney 138,000 20.0
+
+ Wayne E. Meyer 138,000 20.0
+
+ Frederick C. Tecce 138,000 20.0
+
+ John B. Torkelsen 138,000(2) 20.0
+
+(iii) All Current Directors and Officers as a Group
+ (eight persons) 690,000 100.0
+
+(1) Except as otherwise indicated, all shares are beneficially owned and the
+ sole investment and voting power is held by the persons named.
+
+(2) Represents shares held of record by Princeton Valuation Consultants,
+ L.L.C.
+
+Item 13. Certain Relationships and Related Transactions
+- --------------------------------------------------------
+
+The Company currently is indebted to Joseph R. Burns, a director of the Company,
+in the aggregate amount of 72,500. Such debt is evidenced by promissory
+notes. Interest on the note is paid through May 15, 1998. The Company is no
+longer accruing interest on the remaining notes.
+
+On November 18, 1996, the Company consummated a Common Stock and Warrant
+Agreement (the "Purchase Agreement") with Safeguard Scientifics (Delaware),
+Inc., a Delaware corporation ("SSI"), pursuant to which SSI purchased for an
+aggregate consideration of 1,000,000: (i) 1,912,000 shares (the "Shares") of
+common stock of the Company, 0.01 par value ("Common Stock"); (ii) a warrant
+(the "First Warrant") to purchase 2,388,000 shares of Common Stock at an
+exercise price of 0.65 per share; and (iii) a warrant (the "Second Warrant")
+to purchase 3,071,000 shares of Common Stock at an exercise price of 0.78 per
+share. The First Warrant and the Second Warrant are referred to hereinafter
+collectively as the "Warrants." The exercise prices of the Warrants are subject
+to adjustment pursuant to customary anti-dilution provisions.
+
+In connection with the sale of the Shares and the Warrants, the Company granted
+to SSI certain piggyback and demand registration rights with respect to the
+Shares and the Common Stock underlying the Warrants. In addition, the Company
+granted to SSI a right of first refusal pursuant to which, subject to certain
+conditions, in the event the Company issues, sells or exchanges any securities,
+it must first offer such securities to SSI and such offer must remain open and
+irrevocable for 30 days. Such right of first refusal may only be waived in
+writing and terminates at such time as SSI owns less than ten percent (10 of
+the Shares.
+
+Pursuant to the Purchase Agreement, as long as SSI owns one percent (1 or more
+of the Company's outstanding equity securities, on a fully-diluted basis, the
+Company is obligated to, among other things: (i) permit SSI to inspect the
+operations and business of the Company; and (ii) fix and maintain the number of
+Directors on the Board of Directors at eight (8) members. In addition, the
+Purchase Agreement also provides that as long as SSI owns such one percent (1 ),
+the Company is subject to certain negative covenants, including, among other
+things, restrictions on: (i) transactions with affiliates of the Company; (ii)
+certain indebtedness; and (iii) amendments to the Company's Certificate of
+Incorporation and Bylaws.
+
+In connection with the transaction, the Company entered into a voting agreement
+pursuant to which Joseph R. Burns, Thomas J. Meaney, Wayne E. Meyer, Frederick
+C. Tecce and John B. Torkelsen, each a director of the Company (collectively,
+the "Management Shareholders"), agreed to vote an aggregate of approximately
+6,659,214 votes for the election of two designees of SSI to the Board of
+Directors of the Company.
+
+Also in connection with the transaction, certain of the Company's AM and FM
+technology was transferred to Data Design & Development Corporation, a Delaware
+corporation ("3D"), pursuant to a contribution agreement. Under the contribution
+agreement, each of the Company, SSI and certain debtholders of the Company
+(including each of the Management Shareholders) owns one-third of the issued and
+outstanding capital stock of 3D. Pursuant to the License Agreement, 3D granted
+to the Company an exclusive, royalty-free perpetual right and license in and to
+the development and marketing of FM technology in the United States, Canada and
+Mexico. Pursuant to the Technology License Agreement, 3D granted to Mobile
+Broadcasting Corporation ("MBC"), a Delaware corporation, a royalty-free,
+exclusive, perpetual right and license in and to the marketing of the AM
+technology in the United States, Canada and Mexico. Initially, SSI owned 75 of
+the issued and outstanding capital stock of MBC and the Company owned 25 of
+such capital stock.
+
+Finally, the Company entered into a Consulting Services Agreement with MBC
+pursuant to which the Company provided consulting services to MBC for the
+development of the AM technology.
+
+PART IV
+
+Item 14. Exhibits, Financial Statement Schedules, and Reports on
+ Form 8-K
+- -----------------------------------------------------------------
+
+(a) 1. Reference is made to financial statements included under Item 8.
+
+ 2. Reference is made to financial statements included under Item 14(c).
+
+ 3. Description of Exhibits (Pursuant to Item 601 of Regulation S-K).
+
+Note: All exhibits that were filed as exhibits (I) to the Company's
+Registration Statement on Form S-18, File No. 2-67918-NY, as amended, (ii) or,
+if so specified, to previously filed Annual Reports on Form 10-K or to
+previously filed Current Reports on Form 8-K, are indicated by a parenthesis
+setting forth the exhibit number by which the exhibits were identified in said
+Registration Statement and are hereby incorporated by reference.
+
+ 3.1 Certificate of Incorporation [Exhibit 2(I)]
+ 3.2 By-laws [Exhibit 2(ii)]
+ 3.3 Form of Certificate of Amendment to Certificate of
+ Incorporation [Exhibit 2(iii)]
+ 3.4 Form of Certificate of Amendment of Incorporation with
+ respect to increase of authorized shares [Exhibit iv)]
+ 4.1 Certificate of Designations of Series B Preferred Stock and
+ Series C Preferred Stock [Exhibit 4.1 to Form 8-K filed
+ September 12, 1988]
+ 4.2 Revised form of Series C Preferred Stock Purchase
+ Warrant issued to Bishop Capital, L.P. as assigned to
+ the Investors.
+ 4.3 Form of Series C Preferred Stock Purchase Warrant
+ issued to Unicorn Ventures, Ltd., Renaissance Holdings
+ PLC and Gartmore Information and Financial Trust PLC.
+ [Exhibit 4.5 to Form 10-K for 1988 filed May 15, 1989]
+ 4.4 Form of Series C Preferred Stock Purchase Warrant
+ assigned to the Investors. [Exhibit 4.10 to Form 10-K
+ for 1990 filed April 12, 1991]
+ 4.5 Form of Series C Preferred Stock Purchase Warrant
+ assigned to the Investors [Exhibit 4.11 to Form 10-K
+ for 1990 filed April 12, 1991]
+ 4.6 Assignment and Sale Agreement dated October 27, 1992 by
+ and among Renaissance Holdings PLC, acting by its
+ Receivers, the Company, and each of the Investors and,
+ as to Section 1.1 thereof only, the Chartfield Group,
+ acting by its Receivers [Exhibit 4.1 to Form 8-K filed
+ October 27, 1992]
+ 4.7 Loan Modification and Intercreditor Agreement dated
+ October 27, 1992 by and among the Company and the
+ Investors [Exhibit 4.2 to Form 8-K filed October 27,
+ 1992]
+ 4.8 Certificate of Designations of Serial Preferred Stock
+ [Exhibit 4.16 to Form 10-K for 1993 filed March 30, 1994]
+ 10.1 Loan Agreement dated April 26, 1988 between the Company
+ and Bishop Capital, L.P. as assigned to the Investors
+ [Exhibit 10.1 to Form 8-K filed September 12, 1988].
+ 10.2 Security Agreement dated April 26, 1988 between the
+ Company and Bishop Capital, L.P. as assigned to the
+ Investors [Exhibit 10.2 to Form 8-K filed September 12,
+ 1988]
+ 10.3 Amendment to Loan Agreement and Promissory Note dated
+ as of January 27, 1989 between Bishop Capital, L.P. as
+ assigned to the Investors and the Company. [Exhibit
+ 10.4 to Form 10-K for 1988 filed May 15, 1989]
+ 10.4 Investment Agreement dated as of June 30, 1988 between
+ Unicorn Ventures, Ltd., Unicorn Ventures II, L.P., as
+ assigned to the Investors and the Company [Exhibit 10.6
+ to Form 8-K filed September 12, 1988]
+ 10.5 Security Agreement dated June 30, 1988 from the Company
+ to Unicorn Ventures, Ltd. and Unicorn Ventures II, L.P.
+ as assigned to the Investors [Exhibit 10.9 to Form 8-K
+ filed September 12, 1988]
+ 10.6 Registration Agreement dated as of June 30, 1988
+ between Unicorn Ventures, Ltd., Unicorn Ventures II,
+ L.P., as assigned to the Investors and the Company
+ [Exhibit 10.10 to Form 8-K filed September 12, 1988]
+ 10.7 Consent and Amendment Agreement dated March 31,1989 as
+ assigned to the Investors. [Exhibit 10.10 to Form 10-K
+ for 1988 filed May 15, 1989]
+ 10.8 1988 Restricted Stock Award Plan. [Exhibit 10.20 to
+ Form 10-K for 1988 filed May 15, 1989]
+ 10.9 Form of Restricted Stock Agreement. [Exhibit 10.21 to
+ Form 10-K for 1988 filed May 15, 1989]
+ 10.10 Incentive Stock Option [Exhibit 10(c)(iii) to Form 10-K
+ for the year ended December 13, 1981]
+ 10.11 Amended and Restated Stock Option Plan (1988)[Exhibit
+ 10.27 to Form 10-K for 1989 filed April 3, 1990]
+ 10.12 Security Agreement dated April 19, 1990 from Mikros
+ to Bishop Capital, L.P. as assigned to the Investors
+ [Exhibit 10.35 to Form 10-K for 1990 filed April 12,
+ 1991]
+ 10.13 Security Agreement dated April 19, 1990 from Mikros to
+ Renaissance Holdings PLC as assigned to the Investors.
+ [Exhibit 10.36 to Form 10-K for 1990 filed April 12,
+ 1991]
+ 10.14 Consent and Amendment Agreement dated as of April 19,
+ 1990 as assigned to the Investors. [Exhibit 10.37 to
+ Form 10-K for 1990 filed April 12, 1991]
+ 10.15 Note Modification and Stock Purchase Agreement dated
+ December 31, 1993. [Exhibit 10.47 to Form 10-K for
+ 1993 filed March 30, 1994]
+ 10.16 Promissory Notes dated December 31, 1993 in the amount
+ of 100,000 to each of the Investors. [Exhibit 10.17 to
+ Form 10-K for 1994 filed March 29, 1995]
+ 10.17 Common Stock and Warrant Purchase Agreement dated
+ November 15, 1996 by and between Mikros Systems
+ Corporation and Safeguard Scientifics (Delaware), Inc.
+ [Exhibit 10.1 to Form 8-K filed November 18, 1996]
+ 10.18 License Agreement dated November 15, 1996 by and
+ between Mikros Systems Corporation and Data Design and
+ Development Corporation. [Exhibit 10.2 to Form 8-K
+ filed November 18, 1996]
+ 10.19 Technology License Agreement dated November 15, 1996 by
+ and among Data Design and Development Corporation,
+ Mikros Systems Corporation and Mobile Broadcasting
+ Corporation. [Exhibit 10.3 to Form 8-K filed November
+ 18, 1996]
+ 10.20 Form of Promissory Note together with Schedule of
+ Investors.[Exhibit 10.23 to Form 10-K filed February 28, 1997]
+ 10.21 Form of 1996 Warrant with Schedule of Warrants.
+ [Exhibit 10.24 to Form 10-K filed February 28,1997]
+ 10.22 Registration Statement of shares included in the
+ Incentive Stock Option Plan (1981)and the 1992
+ Incentive Stock Option Plan [Form S-8/S-3 filed April 25,1997]
+ 10.23 Contract to sell defense contracts to General Atronics
+ Corporation dated April 10, 1998 [Exhibit 10.25 to Form 10-K
+ filed November 13, 1998]
+ 10.24 Non-Compete agreement with General Atronics Corporation dated
+ April 10,1998 [Exhibit 10.26 to Form 10-K filed November 13,
+ 1998]
+ 10.25 Lease agreement with the Daily Plan It for office space dated
+ July 29, 1998 [Exhibit 10.23 to Form 10-K filed February 28,
+ 1997]
+(b) Reports on Form 8-K
+ The Company filed a current Report on Form 8-K with the Securities and
+ Exchange Commission on March 15, 2000.
+(c) See (a) 3 above
+(d) Financial Statement Schedules
+
+The following financial statements are incorporated herein:
+
+Independent Auditors' Reports
+Balance Sheets at December 31, 1998 and 1999
+Statements of Operations for the years ended December 31, 1997, 1998 and 1999
+Statements of Shareholders' Deficiency for the years ended December 31, 1997,
+1998 and 1999
+Statements of Cash Flows for the years ended December 31, 1997, 1998 and 1999
+Notes to Financial Statements
+
+SIGNATURE PAGE
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+ MIKROS SYSTEMS CORPORATION
+ --------------------------
+ (Registrant)
+Dated: April 14, 2000
+ By: /s/
+ --------------------------------
+ Thomas J. Meaney, President,
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the registrant and
+in the capacities indicated and on the date indicated.
+
+Signatures Date
+
+/s/
+- ------------------------------ April 14, 2000
+Wayne E. Meyer, Chairman
+
+/s/ April 14, 2000
+- ------------------------------
+Joseph R. Burns, Director
+
+/s/ April 14, 2000
+- ------------------------------
+F. Joseph Loeper, Director
+
+/s/ April 14, 2000
+- ------------------------------
+Thomas C. Lynch, Director
+
+/s/
+- ------------------------------ April 14, 2000
+Thomas J. Meaney, Director
+
+/s/ April 14, 2000
+- ------------------------------
+Frederick C. Tecce, Director
+
+/s/ April 14, 2000
+- ------------------------------
+John B. Torkelsen, Director
+
+DRUKER, RAHL & FEIN
+ Business Consultants
+ Certified Public Accountants
+ 200 Canal Pointe Boulevard
+ Princeton, NJ 08540-5998
+ (609) 243-9700
+ FAX (609) 243-9799
+
+ INDEPENDENT AUDITORS' REPORT
+
+To the Board of Directors and Shareholders of
+MIKROS SYSTEMS CORPORATION
+
+We have audited the accompanying balance sheet of Mikros Systems Corporation
+(the "Company") as of December 31, 1998, and the related statements of
+operations, shareholders' deficiency and cash flows for each of the two years
+in the period ended December 31, 1998. These financial statements are the
+responsibility of the Company's management. Our responsibility is to express an
+opinion on these financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of Mikros Systems Corporation,
+as of December 31, 1998 and the results of its operations, shareholders'
+deficiency and its cash flows for each of the two years in the period ended
+December 31, 1998, in conformity with generally accepted accounting principles.
+
+The accompanying financial statements have been prepared assuming the Company
+will continue as a going concern.
+
+As shown in the financial statements, the Company incurred an operating loss
+before extraordinary items of 1,223,890 and 604,550 for the years ended
+December 31, 1998 and 1997, respectively. As of December 31, 1998, current
+liabilities exceed current assets by 231,734 and total liabilities exceed total
+assets by 247,446. These factors, and others discussed in Note B raise
+substantial doubt about the Company s ability to continue as a going concern.
+The financial statements do not include any adjustments relating to the
+recoverability and classification of recorded assets or the amounts and
+classifications of liabilities that might be necessary in the event the Company
+cannot continue in existence.
+
+Druker Rahl & Fein
+Princeton, New Jersey
+March 5, 1999
+
+ Lipman Selzick & Witkowski
+ Raritan Plaza III
+ 101 Fieldcrest Avenue
+ Post Office Box 6204
+ Edison, New Jersey 08818-6204
+ (732) 225-8888
+ FAX (732) 225-5326
+
+ Independent Auditors' Report
+
+To the Board of Directors and Shareholders of
+MIKROS SYSTEMS CORPORATION
+
+We have audited the accompanying balance sheet of Mikros Systems Corporation as
+of December 31, 1999, and the related statements of operations, changes in
+shareholders' deficiency and cash flows for the year ended December 31, 1999.
+These financial statements are the responsibility of the Company's management.
+Our responsibility is to express an opinion on these financial statements based
+on our audit.
+
+We conducted our audit in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audit provides a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects the financial position of Mikros Systems Corporation as of
+December 31, 1999, and the consolidated results of its operations and its cash
+flows for the year ended December 31, 1999, in conformity with generally
+accepted accounting principles.
+
+The accompanying financial statements have been prepared assuming that the
+Company will continue as a going concern. As discussed in Note B to the
+financial statements, the Company has suffered recurring losses from operations
+and has a net capital deficiency that raise substantial doubt about its ability
+to continue as a going concern. Management's plans in regard to these matters
+are also described in Note B. The financial statements do not include any
+adjustments that might result from the outcome of this uncertainty.
+
+A Professional Corporation
+Lipman Selznick & Witkowski
+Edison, New Jersey
+April 7, 2000
+ 
+ MIKROS SYSTEMS CORPORATION
+ BALANCE SHEETS
+
+ DECEMBER 31,
+ ASSETS 1999 1998
+- ------------------------------ ------------ ------------
+
+CURRENT ASSETS
+ Cash 33,766 100,983
+
+ Accounts Receivable, net
+ of allowances 30,000 22,023
+
+ Prepaid Expenses - 234,722
+
+ Other Current Assets 500 7,148
+ ------------ ------------
+TOTAL CURRENT ASSETS 64,266 364,876
+ ------------ ------------
+
+ Equipment 71,170 71,170
+
+ Less: Accumulated Depreciation 61,080 36,080
+ ------------ ------------
+
+ 10,090 35,090
+
+OTHER ASSETS:
+ Patent Costs, Net 27,494 29,648
+
+ ------------ ------------
+TOTAL ASSETS 101,850 429,614
+ ============ ============
+
+ See Notes to Financial Statements
+
+ MIKROS SYSTEMS CORPORATION
+ BALANCE SHEETS (continued)
+
+LIABILITIES AND DECEMBER 31,
+ SHAREHOLDERS' DEFICIENCY 1999 1998
+- ---------------------------------- ----------- ------------
+CURRENT LIABILITIES
+ Accounts Payable 52,558 69,173
+ Notes Payable
+ Related Parties 72,500 72,500
+ Other 35,000 105,000
+ Obligations under Capital Leases - 26,063
+ Accrued Payroll and Payroll Taxes 25,240 25,932
+ Accrued Expenses 164,990 48,220
+ Advances from related party 111,093 -
+ Deferred Contract credits - 234,722
+ Unliquidated Progress Payments and
+ Other Customer Advances 15,000 15,000
+ ------------ ------------
+TOTAL CURRENT LIABILITIES 476,381 596,610
+
+ ------------ ------------
+COMMITMENTS AND CONTINGENCIES
+
+MANDATORILY REDEEMABLE SERIES C PREFERRED STOCK
+par value .01 per share, authorized 150,000
+shares, issued and outstanding 5,000 shares
+in 1999 and 1998 80,450 80,450
+ ------------ ------------
+SHAREHOLDERS' DEFICIENCY
+
+ Preferred Stock, convertible, par value .01
+ per share, authorized 2,000,000 shares, issued
+ and outstanding 255,000 shares in 1999 and
+ 1998 2,550 2,550
+
+ Preferred Stock, Series B convertible, par value
+ .01 per share, authorized 1,200,000 shares, issued
+ and outstanding 1,131,663 shares in 1999 and 1998 11,316 11,316
+
+ Preferred Stock, Series D, par value .01 per share
+ 690,000 shares authorized, issued and outstanding
+ in 1999 and 1998 6,900 6,900
+
+ Common Stock, par value .01 per share,
+ authorized 60,000,000 shares, issued and
+ outstanding 28,588,963 shares in 1999 and
+ 27,422,296 in 1998 285,890 274,223
+
+ Capital in Excess of Par 11,005,252 10,946,919
+
+ Accumulated Deficit (11,766,889) (11,489,354)
+ ------------ ------------
+TOTAL SHAREHOLDERS' DEFICIENCY 454,981) 247,446)
+ ------------ ------------
+TOTAL LIABILITIES AND SHAREHOLDERS' DEFICIENCY 101,850 429,614
+ ============ ============
+
+ See Notes to Financial Statements
+
+MIKROS SYSTEMS CORPORATION
+ STATEMENTS OF OPERATIONS
+
+ For the Year Ended December 31,
+ 1999 1998 1997
+ ------------ ---------- ----------
+Revenues:
+ Equipment Sales - 333,592 3,240,980
+ Contract Research and Development - 46,874 1,856,452
+ Royalties 69,563 27,563 -
+ ------------ ----------- -----------
+Total Revenues 69,563 408,029 5,097,432
+ ------------ ----------- -----------
+Cost of Sales:
+ Equipment Sales - 321,787 2,264,782
+ Contract Research and Development - 54,615 1,336,223
+ ------------ ----------- -----------
+Total Cost of Sales - 376,402 3,601,005
+ ------------ ----------- -----------
+Gross Margin 69,563 31,627 1,496,427
+ ------------ ----------- -----------
+Expenses:
+ Research and Development 230,946 863,825 878,095
+ General and Administrative 125,045 340,959 1,088,172
+ Interest - 50,733 134,710
+ ------------ ----------- -----------
+Total Operating Expenses 355,991 1,255,517 2,100,977
+ ------------ ----------- -----------
+Net Loss before Extraordinary Items (286,428) (1,223,890) (604,550)
+ ------------ ----------- -----------
+Extraordinary Items:
+Gain on Sale of Government Contracts - 1,299,814 -
+Gain on Settlement of Accounts
+ Payable Obligations 8,893 317,915 -
+ ------------ ----------- -----------
+Total Extraordinary Items 8,893 1,617,729 -
+ ------------ ----------- -----------
+Net Income (Loss) (277,535) 393,839 (604,550)
+ ============ =========== ============
+
+Basic Loss per share (0.01) (0.09) (0.05)
+
+Basic Income per share-Extraordinary
+ Items - 0.12 -
+ ------------ ------------- ------------
+Basic Income (Loss) per share (0.01) 0.03 (0.05)
+ ============ ============= ============
+Weighted Average Number of Shares
+ Outstanding 28,388,986 14,013,941 12,688,327
+ ============ ============= ============
+
+See Notes to Financial Statements
+
+MIKROS SYSTEMS CORPORATION
+ STATEMENTS OF SHAREHOLDERS' DEFICIENCY
+
+Preferred Stock Preferred Stock B Preferred Stock D
+ 0.01 Par Value 0.01 Par Value 0.01 Par Value
+ ---------------------------------------------------------
+ Number Par Number Par Number Par
+ of shares Value of shares Value of shares Value
+ ----------------------------------------------------------
+Balance-December 31, 19961,005,000 10,050 1,131,663 11,316 690,000 6,900
+
+Year Ended December 31, 1997:
+Issuance of Common Stock
+Conversion of Preferred Stock(750,000)(7,500)
+Net Loss
+ ----------- --------- ---------- ------- -------- -----
+Balance-December 31, 1997 255,000 2,550 1,131,663 11,316 690,000 6,900
+
+Year Ended December 31, 1998:
+Issuance of Common Stock
+Conversion of Secured Debt
+Net Loss
+ ---------- -------- --------- ------- --------- ----
+Balance-December 31, 1998 255,000 2,550 1,131,663 11,316 690,000 6,900
+
+Year Ended December 31, 1999:
+Conversion of Secured Debt
+Net Loss
+ ---------- -------- --------- ------- --------- -----
+Balance-December 31, 1999 255,000 2,550 1,131,663 11,316 690,000 6,900
+ ========== ======== ========= ======= ========= ======
+
+Capital in
+ Common Stock excess of Accumulated
+ 0.01 Par Value Par Value Deficit
+ ------------------------------------------------
+ Number Par
+ of shares Value
+ -----------------------
+Balance-December 31, 1996 11,846,952 118,470 10,218,548 (11,278,643)
+
+Year ended December 31, 1997:
+Issuance of Common Stock 854,500 8,545 29,830
+Conversion of Preferred Stock 750,000 7,500
+Net Loss (604,550)
+ ---------- ------- ---------- ------------
+Balance-December 31, 1997 13,451,452 134,515 10,248,378 (11,883,193)
+
+Year Ended December 31, 1998:
+Issuance of Common Stock 800,000 8,000 40,000
+Conversion of Secured Debt 13,170,844 131,708 658,541
+Net Income 393,839
+ ---------- -------- ----------- ------------
+Balance-December 31, 1998 27,422,296 274,223 10,946,919 (11,489,354)
+
+Year Ended December 31, 1999:
+Conversion of Secured Debt 1,166,667 11,667 58,333
+Net Loss (277,535)
+ ---------- -------- ----------- ------------
+Balance-December 31, 1999 28,588,963 285,890 11,005,252 (11,766,889)
+ ========== ======== =========== =============
+ See Notes to Financial Statements
+
+MIKROS SYSTEMS CORPORATION
+ STATEMENTS OF CASH FLOWS
+
+ For the Year Ended December 31,
+ 1999 1998 1997
+ ---------- ----------- -----
+Cash Flow From Operating Activities:
+ Net Income (Loss) (277,535) 393,839 (604,550)
+ Adjustments to reconcile Net Income (Loss)
+ to Net Cash Provided (Used) by
+ Operating Activities:
+ Gain from Sale of Defense Contracts,
+ net of Engineering Credit
+ and Equipment sold - (578,413) -
+ Settlement of Accounts Payable (8,893) (317,915) -
+ Depreciation and Amortization 8,154 26,421 86,050
+ Asset Impairment 19,000 - 107,489
+ Common Stock Grant to Related Parties - 48,000 -
+ Loss from Fixed Asset Disposition - - 36,482
+Net Changes in Operating Assets and Liabilities
+ Accounts Receivable (7,977) 432,961 185,140
+ Unbilled Receivables - 3,837 48,775
+ Inventories - 5,293 873,305
+ Other Current Assets 6,648 2,411 6,947
+ Other Assets - 425 778
+ Accounts Payable (16,615) (298,050) 177,890
+ Accrued Payroll and Payroll Taxes (692) (9,459) (15,531)
+ Unliquidated Progress Billings and
+ Other Customer Advances - (107,849)(1,110,028)
+ Other Liabilities and Accrued Expenses 116,770 (155,554) 22,558
+ ----------- --------- -----------
+ Net Cash Used in Operating Activities (161,140) (554,053) (184,695)
+ ----------- --------- -----------
+Cash Flows Provided (Used) By Investing Activities:
+ Sale of Government Contracts - 600,000 -
+ Proceeds from Sale of Equipment - 3,585 -
+ Equipment Purchases - - (107,818)
+ ----------- ---------- ----------
+Net Cash Provided by (used in) investing
+ Activities - 603,585 (107,818)
+ ----------- ---------- ----------
+Cash Flows Provided from Financing Activities:
+ Advances from Related Parties 111,093 - -
+ Proceeds from Exercise of Options and Warrants - - 38,375
+ Repayment of Debt and Capital Leases (17,170) (34,141) (55,390)
+ ----------- ---------- ----------
+ Net Cash Provided by (used in)
+ financing activities 93,923 (34,141) (17,015)
+ ----------- ---------- ---------
+
+Net Increase (Decrease) in Cash (67,217) 15,391 (309,528)
+Cash, Beginning of Year 100,983 85,592 395,120
+ ----------- ---------- ----------
+Cash, end of year 33,766 100,983 85,592
+ ============ ========== ===========
+Supplemental disclosure of cash flow
+ information:
+Cash paid during the year for interest - 82,915 105,770
+Supplemental disclosure of non-cash activities:
+ Acquisition of Equipment through
+ Capital Lease Obligations - - 11,449
+ Credit for Engineering Services from
+ Sale of Government Contracts - 1,000,000 -
+ Engineering Services Utilized (234,722) (765,278) -
+ Stock Issued from Conversion of Notes
+ Payable 70,000 790,250 -
+ Stock issued in Settlement of Accounts
+ Payable Obligations - - 27,255
+ =========== ============= ======
+ See Notes to Financial Statements
+ MIKROS SYSTEMS CORPORATION
+ NOTES TO FINANCIAL STATEMENTS
+
+A. THE COMPANY
+- --------------
+
+Mikros Systems Corporation was founded in 1978 in Albany, New York to exploit
+microprocessor technology developed at the General Electric Research and
+Development Center for the military defense industry. The Company was
+incorporated under the laws of the State of Delaware in 1978 and acquired all
+rights of General Electric Venture Capital Corp., a subsidiary of General
+Electric Company, to certain microcomputer technology. The Company's
+headquarters are located at 707 Alexander Road, Suite 208, Princeton, New
+Jersey; telephone (609)987-1513.
+
+Initially, the Company supplied technology for military applications. The
+knowledge base and proprietary technology developed was recognized as applicable
+to the rapidly expanding wireless business in the commercial sector. The
+rigorous radio transmission environment as well as the challenges of underwater
+signal processing required the Company's employees to invent new methods to
+optimize the bandwidth for a higher data throughput.
+
+In 1995, the Company's Board of Directors decided the Company should also pursue
+commercial contracts which would employ these advanced techniques to enhance the
+data transmission rates in the AM and FM radio spectrum. Since the Company had
+limited resources, it was decided to pursue the AM technology.
+
+In 1996, Safeguard Scientifics (Delaware), Inc., (Safeguard) invested 1,000,000
+in the Company in exchange for 10 ownership in the Company. At the same time,
+Mobile Broadcasting Corporation (MBC) was created to exploit the AM radio
+technology, particularly in mobile or portable platforms such as automobiles.
+Initially, Safeguard invested 1,000,000 in MBC for 75 ownership and the
+Company owned the remaining 25 . The Company's share in MBC was subsequently
+increased to 50 , as a result of the Company's investment in the development of
+this technology.
+
+Data Design and Development Corporation (3D) was founded in 1996 as a part of
+the Company's agreement with Safeguard Scientific agreement and retains
+ownership of the AM and FM technology. 3D has licensed the FM technology
+rights in North America to the Company and the AM technology rights in North
+America to MBC. The Company owns 1/3 of 3D, certain shareholders of the
+Company own another 1/3, and Safeguard owns the remaining 1/3.
+
+As a result, the Company's Board of Directors determined that it would be in the
+best interest of the shareholders to sell the government contracts and use the
+proceeds to focus exclusively on the commercial contracts, particularly the AM
+radio data casting
+
+The Company entered negotiations in late 1997 for the sale of the military
+contracts with prospective purchasers. The resulting transaction was concluded
+in 1998 and included a 600,000 cash payment and a 2 royalty to be paid to the
+Company over four years on all data terminal set sales. In addition, the
+purchaser was obligated to supply 1,000,000 in engineering services to the
+Company which will continue to be expended on the AM data program in cooperation
+with MBC. The Company was provided with engineering services by the purchaser
+pursuant to the agreement which aggregated 234,722 and 765,278 for the years
+ended December 31, 1999 and 1998, respectively.
+
+B. SIGNIFICANT ACCOUNTING POLICIES
+- ------------------------------------
+
+ Basis of Presentation
+ ---------------------
+
+ The Company's financial statements have been prepared in conformity with
+ generally accepted accounting principles, which contemplates the
+ continuation of the Company as a going concern. The Company has sustained
+ substantial operating losses in recent years. In addition, the Company has
+ used substantial amounts of working capital in its operations. Further, at
+ December 31, 1999, its current liabilities exceed its current assets by
+ 412,115. These conditions raise substantial doubt about the Company's
+ ability to continue as a going concern. Management's plans and intentions
+ on the going concern issue are discussed below. These financial
+ statements do not include any adjustments that would be required if the
+ Company were unable to continue as a going concern.
+
+ In order to continue as a going concern, the Company will need to incur
+ substantial expenditures to develop and market its commercial wireless
+ communications business.
+
+ In view of these matters, realization of a major portion of the assets
+ in the accompanying balance sheet is dependent upon continued operations of
+ the Company, which in turn is dependent on the Company being able to
+ obtain financing and/or equity to support further development for its
+ commercial wireless business and continuing operations. Management
+ believes that actions presently being taken to revise the Company s
+ operating and financial requirements provide the opportunity to continue
+ as a going concern.
+
+Equipment
+ ---------
+
+ Equipment is stated at cost. Depreciation is computed using the
+ straight-line method based on estimated useful lives which range from 2 to
+ 5 years. Depreciation expense amounted to 6,000, 84,872, and 71,552 for
+ years ended 1999, 1998 and 1997, respectively.
+
+ Certain property and equipment were deemed to be impaired and were
+ written down to their fair value. An impairment loss which was charged to
+ general and administrative amounted to 19,000 in 1999 and cost of
+ sales was charged 107,489 in 1997.
+
+Accounts Receivables
+ --------------------
+
+ In 1999 and 1998, accounts receivable is presented net of an allowance for
+ uncollectible accounts in the amount of 50,000 and 140,311, respectively.
+
+ Earnings per Common Share
+ -------------------------
+
+ The Company adopted FAS #128, earnings per share, and in accordance with
+ this provision has restated all prior periods. Basic earnings per common
+ share is computed using the weighted average number of shares outstanding.
+ The number of common shares that would be issued from the exercise of stock
+ options and warrants, and the conversion of convertible preferred stock
+ would be anti-dilutive.
+
+ Revenue Recognition
+ -------------------
+
+ Revenues pertaining to long-term fixed-price contracts, which principally
+ provide for the manufacture and delivery of finished units, were
+ recognized as shipments were made. The estimated profits applicable to
+ such shipments were recorded pro rata based upon estimated total profit
+ at completion of the contracts.
+
+ Revenues on contracts with significant engineering were measured by the
+ costs incurred as compared to total contract costs based on time and
+ materials. If milestones are included in the contract requirements, the
+ revenue recognition was deferred until the milestone was completed.
+ Adjustments to cost estimates are made periodically, and losses expected
+ to be incurred on contracts in progress are charged to operations in the
+ period such losses are determined.
+
+ Revenues on equipment sales were recognized as shipments were made.
+
+ Royalty revenues are recorded when shipments are completed and reported to
+ the Company.
+
+Patents
+ -------
+
+ Patent costs are amortized over a 17-year life. Amortization expense
+ amounted to 2,154 for 1999, 1,584 for 1998 and 1,178 for 1997.
+
+Warranty Costs
+ --------------
+
+ The Company expects warranty costs to be minimal.
+
+Use of Estimates
+ ----------------
+
+ The preparation of financial statements in conformity with generally
+ accepted accounting principles requires management to make estimates and
+ assumptions that affect the reported amounts of assets and liabilities and
+ disclosure of contingent assets and liabilities at the date of the
+ financial statements and reported amounts of revenues and expenses during
+ the reporting period. Actual results could differ from those estimates.
+
+ Cash
+ ----
+
+ The Company considers all highly liquid investments purchased with a
+ maturity of three months or less to be cash equivalents.
+
+ Unliquidated Progress Payments and Other Customer Advances
+ ----------------------------------------------------------
+
+ Unliquidated progress payments at December 31, 1999 and 1998 represented
+ partial billings to customers of costs incurred on contracts for future
+ deliveries. Other customer advances represent payments received from
+ customers prior to costs being incurred on certain contracts.
+
+C. FINANCING TRANSACTIONS
+- ---------------------------
+
+1996 Financing
+- --------------
+
+In a series of transactions from February through May 1996, the Company issued
+secured promissory notes and warrants to raise an aggregate of 641,500
+(including 122,500 from officers and directors). The promissory notes were for
+a term of approximately eighteen months, bearing interest at 12 on the unpaid
+balance, and were secured by certain assets of the Company. In addition, the
+Company issued warrants to purchase five (5) shares of Common Stock at 0.01 per
+share for each dollar of debt. The value of the warrants was immaterial and no
+accounting recognition was given to their issuance.
+
+In October 1996, all of the note holders agreed to a deferral of principal
+payments in exchange for the right to convert outstanding debt to Common Stock
+of the Company at a rate of one (1) share of stock for 1.00 of debt. The
+Company determined that the fair value of the conversion feature was
+inmaterial. Accordingly, no accounting recognition has been given to this
+modification of terms.
+
+During 1998, the Company paid the investors all of the interest accrued on
+promissory notes payable through May 15, 1998. No additional interest accrued
+after that date. At that time, it offered to convert the notes at face value to
+stock valued at .06 per share in order to restructure its debt. Most of the
+investors elected to convert. As a result, 8,504,177 shares of common stock were
+issued. Three of the note holders (not related parties) chose not to convert
+notes totaling 105,000. These are included in the notes payable as of December
+31, 1998. During 1999, two of the remaining three note holders converted their
+debt, totalling 70,000, under the 1998 terms.
+
+Safeguard Scientifics (Delaware) Inc. (SSI)
+- -------------------------------------------
+
+On November 15, 1996, the Company, all of its secured creditors and Safeguard
+entered into an agreement. Under the agreement Safeguard paid 1,000,000 to the
+Company. Safeguard received: 1) 1,912,000 shares of Common Stock of the
+Company; 2) a warrant to purchase 2,388,000 shares of Common Stock at 0.65 per
+share; 3) a warrant to purchase 3,071,000 shares at 0.78 per share; 4) a 75 
+interest in an exclusive, royalty-free, perpetual license of the AM technology
+in the United States, Canada and Mexico (through Safeguard's ownership in MBC);
+and 5) a 1/3 interest in the FM and AM technology (through Safeguard's
+ownership in 3D). This transaction is more fully described below.
+
+Two (2) new companies were formed, Data Design and Development Corporation (3D)
+and Mobile Broadcasting Corporation (MBC). The Company received one-third of 3D
+in exchange for certain of its AM and FM technology. Safeguard received one-
+third of 3D in exchange for a commitment to invest up to 1,000,000 in MBC. The
+secured creditors received one-third of 3D and released their security interest
+in the technology transferred. The Company received 25 of MBC for 50.
+Safeguard received 75 of MBC for 200,000.
+
+3D granted MBC an exclusive, royalty-free, perpetual license to the AM
+technology in the United States, Canada and Mexico. 3D granted the Company an
+exclusive, royalty-free, perpetual license to the FM technology in the United
+States, Canada and Mexico. 3D retained rights to the AM and FM technology in
+the rest of the world. The Company and MBC entered into a consulting
+arrangement under which the Company was paid for the development of the AM
+technology. 3D owns the rights to such technology.
+
+The Company is unable to assign fair values to these transactions. No amount of
+cash consideration was considered attributable to a sale of the AM or FM
+technology or to the license thereto. No gain was recognized on the transfer of
+the technology. The entire amount of the cash consideration received from
+Safeguard was recorded as a sale of Common Stock.
+
+In connection with the sale of the Common Stock and the Warrants, the Company
+granted to Safeguard certain piggyback and demand registration rights with
+respect to the Common Stock and the Common Stock underlying the Warrants. In
+addition, the Company granted to Safeguard a right of first refusal pursuant to
+which, subject to certain conditions, in the event the Company issues, sells or
+exchanges any securities, it must first offer such securities to Safeguard and
+such offer must remain open and irrevocable for 30 days. Such right of first
+refusal may only be waived in writing and terminates at such time as Safeguard
+owns less than 10 of the Common Stock.
+
+Pursuant to the Purchase Agreement, as long as Safeguard owns 1 or more of the
+Company's outstanding equity securities, on a fully-diluted basis, the Company
+is obligated to, among other things:(i) permit Safeguard to inspect the
+operations and business of the Company; and (ii) fix and maintain the number of
+Directors on the Board of Directors at eight members. In addition, the Purchase
+Agreement also provides that as long as Safeguard owns such 1 , the Company is
+subject to certain negative covenants, including, among other things,
+restrictions on: (i) transactions with affiliates of the Company; (ii) certain
+indebtedness; and (iii) amendments to the Company's Certificate of Incorporation
+and Bylaws.
+
+1992-93 Financing
+- -----------------
+
+During 1998, the Company paid the investors of the 1992-93 financing all of the
+interest accrued on their notes payable through May 15, 1998. At that time, it
+offered to convert the notes at face value to stock valued at 0.06 per share in
+order to restructure its debt. There were 4,166,668 shares issued as a
+result. One of the investors chose not to convert his notes which totaled
+ 72,500. This amount is included in Notes Payable. The Company ceased
+accruing interest on the remaining debt as of May 15, 1998.
+
+D. DIVIDENDS
+- --------------
+As of December 31, 1999 and 1998, there were dividends in arrears on shares of
+Series D Preferred Stock of 414,000 .10 per share) and 345,000,
+respectively.
+
+E. NOTES PAYABLE
+- ---------------- As of December 31,
+ 1999 1998
+ --------- ---------
+
+Related Parties 72,500 72,500
+Others 35,000 105,000
+ --------- ----------
+Total Notes Payable 107,500 177,500
+ --------- ----------
+
+Concurrent with the conversion proposal cited in Note C, on May 15, 1998, the
+Company ceased accrual and payment of interest on remaining notes payable.
+
+F. REVENUES
+- -------------
+
+Revenues from two federal government agencies amounted to 74.7 of total
+revenues in 1998, as compared to 63 in 1997. Revenues from commercial
+customers including a related party were 18.6 of total revenues in 1998.
+This compares to 34.1 in 1997 of revenues from two commercial customers.
+Revenues from a related party amounted to 7.1 of total revenues in 1998 and
+24 of total revenues in 1997.
+
+Royalty revenues from one customer amounted to 100 of total revenues in 1999,
+as compared to 6.7 in 1998.
+
+G. INCOME TAXES
+- ----------------
+
+Income taxes are recorded in accordance with FASB Statement 109 "Accounting for
+Income Taxes".
+
+The Company paid minimal corporate taxes to the State of New Jersey in 1999,
+1998 and 1997. Because of the extent of the net operating loss carryforward, no
+provisions for federal income taxes were required in the years ending December
+31, 1999, 1998 and 1997.
+
+The Income tax provision (benefit) is computed as follows:
+
+1999 1998 1997
+ --------- --------- ---------
+Income taxes:
+
+Net Loss before
+ Extraordinary Items (111,016) (489,556) (241,820)
+Extraordinary Items - 647,097
+Valuation Allowance 111,016 (157,541) 241,820
+ --------- --------- ---------
+
+Net Provision - - -
+ ========= ========= =========
+
+The differences between the statutory federal income tax rate and the
+effective rate for the company's income tax rate is as follows:
+
+ 1999 1998 1997
+ -------- ---------- ----------
+
+Federal statutory rate 34.0 34.0 34.0 
+
+State Income taxes, net of
+ federal income tax benefit - 4.6 -
+
+Increase in Valuation
+ Allowance (34.0) (38.6) (34.0)
+ --------- ---------- ----------
+
+Effective tax rate 0.0 0.0 0.0 
+ ========= ========== ==========
+
+The deferred tax asset and deferred tax liability consist of the following:
+
+ 1999 1998 1997
+ --------- --------- ---------
+Deferred tax asset:
+Income Taxes:
+
+ Carry Forward 2,635,476 2,524,460 2,757,989
+ Valuation Allowance 2,635,476) 2,524,460) 2,757,989)
+ ---------- ----------- ----------
+Net deferred tax asset - - -
+ ========== =========== ===========
+Deferred tax liability - - -
+ ========== =========== ===========
+
+Deferred income tax assets and liabilities are computed annually for differences
+between the financial statement and tax bases of assets and liabilities that
+will result in taxable or deductible amounts in the future based on enacted tax
+laws and rates applicable to the periods in which the differences are expected
+to affect taxable income. Valuation allowances are established when necessary
+to reduce deferred tax assets to the amount expected to be realized. Income tax
+expense is the tax payable or refundable for the period plus or minus the change
+during the period in deferred tax assets and liabilities.
+
+Total available Net Operating Loss Carry Forwards are reflected in the following
+schedule:
+
+ YEAR AVAILABLE FOR AVAILABLE FOR
+ OF FEDERAL STATE
+ EXPIRATION TAX PURPOSES TAX PURPOSES
+
+ 2000 1,143,000 -
+ 2001 1,441,000 -
+ 2002 923,000 227,000
+ 2003 606,000 1,421,000
+ 2004 147,000 340,000
+ 2005 81,000 227,000
+ 2010 602,000 -
+ 2011 1,422,000 -
+ 2012 339,000 -
+ 2013 277,000 -
+ ----------- ----------
+ 6,981,000 2,265,000
+ ----------- ----------
+
+H. OBLIGATIONS UNDER CAPITAL LEASES
+- -------------------------------------
+
+The Company is the lessee of equipment under capital leases which were to expire
+in 1998. This equipment was recorded on the books at the present value of the
+minimum lease payments. The Company was in arrears with one leaseholder on a
+capital lease which includes four pieces of equipment. The total amount in
+arrears was approximately 26,000 and was included in leases payable on the
+balance sheet. The leaseholder commenced litigation and in 1999 the Company
+settled its lawsuit with the leasing company. The Company agreed to a
+settlement of approximately 17,100 and the lessor forgave the remaining
+balance.
+
+I. RELATED PARTY TRANSACTIONS
+- -------------------------------
+
+The Company retained the services of a member of its board of directors to
+provide engineering and management consulting services to the Company. No
+payments were remitted in 1999 or 1998. In 1997, the Company paid 1,000 for
+these services. In addition, the Company paid 1,400 to the director for office
+and expenses.
+
+The Company retained the services of another member of its Board of Directors to
+provide operations management and technical consulting services until his death
+in 1997. In 1997, he received 5,000 for services.
+
+As of December 31, 1999 and 1998, accounts payable owed to these two related
+parties amounted to 19,573.
+
+In 1998, another director provided consulting services and was paid 10,000
+during the year.
+
+In 1998, another director provided services and was compensated with 600,000
+shares of common stock valued at 36,000.
+
+In addition, the Company retained the services of a management consultant in
+1998. The consultant, who is a lawyer, was compensated as follows:(i) a grant of
+200,000 shares of common stock valued at 12,000 and(ii) cash payments of 1,500
+per quarter to his affiliated law firm. As of December 31, 1999 and 1998,
+respectively, there was no balance due. Total cash payments to the law firm
+were 5,465 and 4,531 for 1999 and 1998, respectively.
+
+In 1998 and 1997, the Company had revenues of 29,755, 1,223,305, respectively
+from Mobile Broadcasting Corporation (MBC), 25 of whose outstanding capital
+stock was owned by the Company as of December 31, 1996. In 1997, the Company's
+share was diluted to 18 . In 1998, the Company s share grew to 50 as a result
+of the Company s investment arising from the use of its engineering credit with
+the purchaser of its defense contracts. Since there is no market for MBC s
+common stock, and MBC has incurred a net loss in each of the years ended
+December 31, 1999, 1998 and 1997, no asset has been recorded. As of December
+31, 1998, there were no accounts receivable from MBC. In addition, during 1999
+MBC advanced the Company 111,093 for working capital purposes.
+
+Certain directors and officers participated in the "1996 Financing" (see
+Note C). As a result, the Company issued a total of 131,250 in promissory
+notes payable to those directors and officers.
+
+In addition, in 1996 a director loaned 10,000 to the Company. The note bears
+interest at 14 per annum. Principal was to be repaid in four quarterly
+installments beginning September 30, 1997. In 1995, other directors loaned a
+total of 30,000 to the Company on identical terms. During 1998, three directors
+converted their notes to common stock at .06 per share. As a result, 500,001
+shares were issued. One director did not convert his shares, and his note of
+ 10,000 is reflected in Notes Payable as of December 31, 1998.
+
+Interest on the 10,000 note is paid through May 15, 1998. The Company is no
+longer accruing interest on the remaining note.
+
+J. MANDATORILY REDEEMABLE SERIES C PREFERRED STOCK
+- ----------------------------------------------------
+
+The Series C Preferred Stock, was issued in 1988 in order to satisfy notes
+payable and other trade accounts payable pursuant to a debt restructuring. The
+Series C Preferred Stock is not convertible into any other class of the
+Company's stock and is subject to redemption at the Company's option at any
+time and redemption is mandatory if certain events occur, such as capital
+reorganizations, consolidations, mergers, or sale of all or substantially all
+of the Company's assets. Upon any liquidation, dissolution or winding up of
+the Company, each holder of Series C Preferred Stock will be entitled to be
+paid, before any distribution or payment is made upon any other class of
+stock of the Company, an amount in cash equal to the redemption price for each
+share of Series C Preferred Stock held by such holder, and the holders of
+Series C Preferred Stock will not be entitled to any further payment. The
+redemption price per share is 16.09.
+
+K. SERIES B CONVERTIBLE PREFERRED STOCK
+- ---------------------------------------
+
+The Series B Preferred Stock, was issued in 1988 in order to satisfy notes
+payable and other trade accounts payable pursuant to a debt restructuring. Each
+share of Series B Preferred Stock is convertible into three shares of the
+Company's common stock at a price of .33 per share of common stock to be
+received upon conversion and entitles the holder thereof to cast three votes on
+all matters to be voted on by the Company's Shareholders. Upon any liquidation,
+dissolution, or winding up of the Company, each holder of Series B Preferred
+Stock will be entitled to be paid, after all distributions of payments are made
+upon the Series C Preferred Stock and before any payment is made upon the
+Company's Convertible Preferred Stock, an amount in cash equal to 1.00 for each
+share of Series B Preferred Stock held, and such holders will not be entitled to
+any further payment.
+
+L. SERIES D PREFERRED STOCK
+- -----------------------------
+
+The Series D Preferred Stock was issued in 1993 in order to partially satisfy
+notes payable and accrued interest thereon pursuant to a debt restructuring.
+The Series D Preferred Stock provides for an annual cumulative dividend of
+ .10 per share. The shares are not convertible into any other class of stock
+and are subject to redemption at the Company's option at any time at a
+redemption price of 1.00 per share plus all unpaid cumulative dividends. Upon
+liquidation, dissolution or winding up of the Corporation, each holder of
+Series D Preferred Stock will be entitled to be paid, after all distributions
+or payments are made upon the Corporation's Convertible Preferred Stock, Series
+B Preferred Stock, and Series C Preferred Stock, an amount in cash equal to the
+Redemption Price for each share of Series D Preferred Stock held by such
+holder. The holders of Series D Preferred Stock will not be entitled to any
+further payment.
+
+M. STOCK OPTIONS AND WARRANTS
+- -------------------------------
+
+In 1992, the Company adopted the Incentive Stock Option Plan. The stock option
+plan, as amended provides for ten-year options to purchase up to 2,000,000
+shares of Common Stock at a price equal to the market price of the shares on
+date of grant, exercisable at the cumulative rate of 25 per annum.
+
+The Company has adopted the disclosure-only provisions of SFAS No. 123,
+"Accounting for Stock-Based Compensation," but applies APB Opinion 25 and
+related interpretations in accounting for its various stock option plans.
+There was no compensation cost for the three years ended December 31, 1999.
+Had compensation cost been recognized consistent with the method prescribed by
+FASB 123, the Company's net loss and loss per share would have been changed to
+the pro forma amounts as follows:
+
+ 1999 1998 1997
+ ----------- ----------- -----------
+Net Income (Loss):
+ As Reported (277,535) 393,839 (604,550)
+ ========== =========== =============
+ Proforma (277,535) 393,839 (667,000)
+ ========== =========== =============
+Basic earnings (loss) per share:
+
+ As Reported (0.01) 0.03 (0.05)
+ ========== =========== =============
+ Proforma (0.01) 0.03 (0.05)
+ ========== =========== =============
+
+The fair value of the Company's stock options used to compute proforma net
+income (loss) and net income (loss) per share disclosures is the estimated
+present value at grant date using the Black-Scholes option-pricing model with
+the following weighted average assumptions:
+
+ASSUMPTION 1999 1998 1997
+ ----------- ---------- ---------
+ Dividend yield 0 0 0 
+ Risk free interest rate 6.48 6.48 6.48 
+ Expected life 5 years 5 years 5 years
+ Expected volatility 235 235 235 
+
+The per share weighted-average value of stock options issued by the Company
+during 1998, 1996 and 1995 were .06, 0.0625 and 0.1875 on the date of grant.
+Accordingly, the stock option values presented herein are not necessarily
+indicative of amounts that could be realized in a current market exchange.
+
+Proforma net income (loss) reflects only options granted in 1996 and 1995.
+Options which were granted in 1997 were subsequently forfeited. In addition,
+42.3 of all outstanding options as of December 31, 1998 were forfeited in 1999.
+Therefore, the full impact of calculating compensation cost for stock options
+issued in 1997 under SFAS No. 123 is not reflected in the proforma net loss
+amounts presented above because compensation cost is not material. Compensation
+cost for options granted prior to January 1, 1995 is not considered.
+
+Option activity under the Company's Plan is summarized below:
+
+Weighted Weighted Weighted
+ Average Average Average
+ Exercise Exercise Exercise
+Common Stock Options: 1999 Price 1998 Price 1997 Price
+ ---------------------------------------------------------
+Options outstanding 360,000 0.1276 1,120,000 0.1504 1,112,500 0.0605
+ beginning of year
+Granted - 0.0000 200,000 0.0600 250,000 0.1875
+Exercised - 0.0000 - 0.0000 (135,000) 0.0625
+Cancelled (110,000)(0.0858) (960,000) 0.3046 (107,500) 0.0529
+ -----------------------------------------------------------
+Options outstanding,250,000 (0.1240) 360,000 0.1385 1,120,000 0.2879
+ end of year ===========================================================
+Options exercised, - - 157,500 0.1276 410,000 0.1504
+ end of year ===========================================================
+
+The following summarizes information about the Company's stock
+options outstanding at December 31, 1999:
+
+ Options Outstanding Options Exercisable
+ ------------------------------------------ -------------------------
+Range of Number Weighted Avg. Weighted Number Weighted
+Exercise Outstanding Remaining Avg. Exercise Exercisable Avg. Exercise
+Prices at 12/31/99 Contractual Life Price as 12/31/99 Price
+- -------- ----------- ---------------- ------------- ------------ ------------
+ 0.0625 100,000 2.9 years 0.0625 0.0625
+ 0.1875 20,000 5.3 years 0.1875 0.1875
+ 0.50 30,000 6.5 years 0.50 0.50
+ 0.06 100,000 8.4 years 0.06 0.06
+
+ As of December 31,
+Common Stock Warrants: 1999 1998 1997
+ ------- ------- -------
+Warrants Outstanding at
+ beginning of year 6,800,666 6,600,666 7,138,166
+Granted - 200,000 175,000
+Exercised - - (712,500)
+Expired or Terminated (41,666) - -
+ ---------- --------- ---------
+Warrants outstanding and
+ exercisable, end of year 6,759,000 6,800,666 6,600,666
+ ========== ========= =========
+
+Exercise price per warrant 0.001, 0.001, 0.001,
+ 0.01, 0.01, 0.01,
+ 0.06, 0.06, 0.06,
+ 0.10, & 0.10, & 0.10, &
+ 0.26 0.26 0.26
+
+As of December 31,
+Series C Preferred
+Stock Warrants 1999 1998 1997
+ ------- ------- -------
+Warrants Outstanding and
+ exercisable at, beginning
+ of year 97,500 97,500 97,500
+Granted - - -
+Exercised - - -
+Expired or Terminated - - -
+ ------- -------- --------
+Warrants outstanding and
+ exercisable, end of year 97,500 97,500 97,500
+ ======== ======== ========
+
+Exercise price per warrant 1.00 1.00 1.00
+ ======== ======== ========
+
+N. EXTRAORDINARY GAIN
+- ----------------------
+
+In April 1998, the Company sold substantially all of the tangible and intangible
+assets related to its defense contracts. The Company received cash of 600,000
+and an engineering services credit from the purchaser. The Company will also
+receive a royalty of 2 of the total sales of all Link-11 Data Terminal sets for
+a period of four years. In connection with the sale of the defense contracts,
+the Company entered into a non-compete agreement with the purchaser for a period
+of 5 years. The purchaser is not assuming the liabilities of the Company,
+except the Company's warranty obligation under one of the contracts.
+
+The total net gain on the sale is approximately 1,535,000. Of the total,
+approximately 1,300,000 was realized in 1998. As of December 31, 1998, the
+unused credit of 234,722 was deferred. The entire 234,722 was utilized by
+December 31, 1999.
+
+In 1998, the Company also recognized a gain related to the settlement of
+accounts payable of approximately 318,000 whereby the Company offered
+settlement of amounts due at a percentage of face value. The total amount of
+accounts payable settled was approximately 605,000.
+
+O. COMMON STOCK ISSUANCE
+- -------------------------
+
+During 1998, the Company reached agreement with note holders to convert notes
+payable with a face value of 816,500 to approximately 13.2 million shares of
+Common Stock at a value of 0.06 per share. This conversion is recognized as
+having occurred in December, 1998 when all conditions necessary for the issuance
+of the stock had been met. Stock certificate were issued and dated in January,
+1999.
+
+In 1998, the Company granted 800,000 shares of common stock to one director and
+a management consultant as compensation for their services in 1998. The shares
+were valued at 0.06 per share. The recognition of the issuance is as of the
+grant date, however, the actual certificates were issued and dated in January,
+1999.
+
+P. PROFIT SHARING PLAN
+- -------------------------
+
+The Company maintained a 401(K) Profit Sharing Plan. The Plan allowed for a
+Company match of employee contributions to the plan up to a limit of one and
+one-half percent (1.5 of annual compensation. The payment of the Company
+matching contribution had been suspended since August, 1995, and the unpaid
+amounts were included in accrued expenses as of December 31, 1997.
+
+In 1998, the Company reversed the prior accruals and credited its General and
+Administrative Expenses in the amount of 44,096.
+
+In 1999, the Company notified its present employees as well as former employees
+who remained in the Plan of its intent to terminate the plan.
+
+Q. FAIR VALUE OF FINANCIAL INSTRUMENTS
+- -----------------------------------------
+
+The carrying amounts reflected in the financial statements for cash, loans and
+notes payable approximate the respective fair values due to the short maturities
+of those instruments.
+
+ December 31, 1999 December 31, 1998
+ ------------------------ ----------------------
+ Carrying Carrying
+ Amount Fair Value Amount Fair Value
+ ------------------------ ---------------------
+Assets
+ Cash 33,766 33,766 100,983 100,983
+ Unbilled receivables (A) - -
+Liabilities
+ Notes payable - Current 107,500 107,500 177,500 177,500
+ Mandatorily redeemable
+ preferred stock (A) 80,450 80,450
+
+(A) It is not practicable to estimate the fair value of
+ unbilled receivables, long-term debt and mandatorily
+ redeemable preferred stock because of the inability to
+ estimate fair value without incurring excessive costs.
+
+R. CONTINGENCY
+- -----------------
+
+The Company entered into an agreement in 1998 to sell one of its defense
+contracts to General Atronics Corporation (GAC). The contract was extended to
+November 1999 and was never novated by the United States Government. The
+Company does not anticipate any negative impact on its agreement with GAC.
+
+EXHIBIT 27
+
+ FINANCIAL DATA SCHEDULE
+
+PERIOD-TYPE YEAR
+
+FISCAL-YEAR-END DEC-31-1999
+
+PERIOD-END DEC-31-1999
+
+CASH 33,766
+SECURITIES 0
+RECEIVABLES 80,000
+ALLOWANCES 50,000
+INVENTORY 0
+CURRENT-ASSETS 64,266
+PP&E 71,170
+DEPRECIATION 61,080
+TOTAL-ASSETS 101,850
+CURRENT-LIABILITIES 476,381
+BONDS 0
+PREFERRED-MANDATORY 80,450
+PREFERRED 20,766
+COMMON 285,890
+OTHER-SE (761,637)
+TOTAL-LIABILITY-AND-EQUITY 101,850
+SALES 69,563
+TOTAL-REVENUES 69,563
+CGS 0
+TOTAL-COSTS 0
+OTHER-EXPENSES 355,995
+LOSS-PROVISION 0
+INTEREST-EXPENSE 0
+LOSS-PRETAX (286,432)
+LOSS-TAX 0
+LOSS-CONTINUING (286,432)
+DISCONTINUED 0
+EXTRAORDINARY 8,893
+CHANGES 0
+NET-INCOME (277,535)
+EPS-BASIC (.01)
+EPS-DILUTED (.01)
+

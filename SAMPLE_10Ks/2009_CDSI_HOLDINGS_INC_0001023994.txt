@@ -1,0 +1,2900 @@
+<Header>
+<FileStats>
+    <FileName>20090327_10-K_edgar_data_1023994_0000950144-09-002666.txt</FileName>
+    <GrossFileSize>293762</GrossFileSize>
+    <NetFileSize>89729</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>136565</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950144-09-002666.hdr.sgml : 20090327
+<ACCEPTANCE-DATETIME>20090327170743
+ACCESSION NUMBER:		0000950144-09-002666
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20081231
+FILED AS OF DATE:		20090327
+DATE AS OF CHANGE:		20090327
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CDSI HOLDINGS INC
+		CENTRAL INDEX KEY:			0001023994
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				954463937
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-22563
+		FILM NUMBER:		09711247
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 S E SECOND STREET
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33131
+		BUSINESS PHONE:		3055798000
+
+	MAIL ADDRESS:	
+		STREET 1:		100 S E SECOND STREET
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33131
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PC411 INC
+		DATE OF NAME CHANGE:	19961001
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ C4kQwmvR2jxIG3eV8zRNmX/IbswR1FOtVmsW1/e4RpTwMRBd7+O7iCHhbUZn5h1A
+ 2w7vHn2Oki6WDdXVqo8WqQ==
+
+ 0000950144-09-002666.txt : 20090327
+
+10-K
+ 1
+ g18193e10vk.htm
+ 10-K
+
+10-K 
+
+Table of Contents 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 10-K 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE 
+SECURITIES EXCHANGE ACT OF 1934 
+
+For the Fiscal Year ended December 31, 2008 
+
+Commission File Number: 0001-22563 
+
+CDSI HOLDINGS INC. 
+
+(Name of registrant as specified in its charter)
+
+Delaware 
+
+95-4463937 
+
+(State or other jurisdiction of 
+incorporation or organization)
+
+(I.R.S. Employer 
+Identification No.) 
+
+100 S.E. Second Street, 32 nd Floor, Miami, Florida 
+
+33131 
+
+(Address of principal executive offices)
+
+(Zip Code) 
+
+305-579-8000 
+(Issuer s telephone number)
+
+Securities registered under Section 12(b) of the Exchange Act: None 
+ Securities registered under Section 12(g) of the Exchange Act: 
+Common Stock, par value .01 per share
+
+Indicate by check mark if the Registrant is a well-known seasoned issuer, as defined in Rule
+405 of the Securities Act. Yes No
+
+Indicate by check mark if the Registrant is not required to file reports pursuant to Section
+13 or Section 15(d) of the Exchange Act. Yes No
+
+Indicate by check mark whether the Registrant (1) has filed all reports required to be filed
+by Section 13 or 15(d) of the Securities Exchange Act of 1934, as amended (the Exchange Act ),
+during the preceding 12 months (or for such shorter period that the Registrant was required to file
+such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes 
+ No
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 Regulation S-K
+is not contained herein, and will not be contained, to the best of the Registrant s knowledge, in
+definitive proxy or information statement incorporated by reference in Part III of this Form 10-K
+or any amendment to this Form 10-K. 
+
+Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated
+filer, or a non-accelerated filer. See definition of accelerated filer and large accelerated
+filer in Rule 12b-2 of the Exchange Act.
+
+Large accelerated filer 
+
+Accelerated filer 
+
+Non-accelerated filer 
+
+Smaller reporting company 
+
+(Do not check if a smaller reporting company) 
+
+Indicate by check mark whether the Registrant is a shell company as defined in Rule 12b-2 of
+the Exchange Act. Yes No
+
+The aggregate market value of the common stock held by non-affiliates of CDSI Holdings Inc. as
+of June 30, 2008 was approximately 342,000.
+
+As of March 27, 2009 the issuer had a total of 3,120,000 shares of Common Stock outstanding.
+
+CDSI HOLDINGS INC. 
+FORM 10-K 
+
+TABLE OF CONTENTS 
+
+Page 
+
+PART I 
+
+Item 1.
+
+Business
+
+2 
+
+Item 1A.
+
+Risk Factors
+
+3 
+
+Item 1B.
+
+Unresolved Staff Comments
+
+5 
+
+Item 2.
+
+Properties
+
+5 
+
+Item 3.
+
+Legal Proceedings
+
+5 
+
+Item 4.
+
+Submission to Matters to a Vote of Security Holders
+
+5 
+
+PART II 
+
+Item 5.
+
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+
+6 
+
+Item 6.
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations
+
+7 
+
+Item 8.
+
+Financial Statements 
+
+Item 9.
+
+Changes in and disagreements with Accountants on Accounting and Financial Disclosure
+
+8 
+
+Item 9A(T)
+
+Controls and Procedures
+
+8 
+
+Item 9B.
+
+Other information
+
+9 
+
+PART III 
+
+Item 10.
+
+Directors, Executive Officers and Corporate Governance
+
+10 
+
+Item 11.
+
+Executive Compensation
+
+12 
+
+Item 12.
+
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+14 
+
+Item 13.
+
+Certain Relationships and Related Transactions, and Director Independence
+
+15 
+
+Item 14.
+
+Principal Accounting Fees and Services
+
+15 
+
+PART IV 
+
+Item 15.
+
+Exhibits and Financial Statement Schedules
+
+16 
+
+SIGNATURES 
+
+17 
+
+EX-4.1 
+ EX-31.1 
+ EX-31.2 
+ EX-32.1 
+ EX-32.2 
+
+-1- 
+
+Table of Contents 
+
+PART I 
+
+ITEM 1. BUSINESS 
+
+FORWARD-LOOKING STATEMENTS 
+
+Certain statements made in this Annual Report on Form 10-K are forward-looking statements 
+(within the meaning of the Private Securities Litigation Reform Act of 1995) regarding the plans
+and objectives of management for future operations. Such statements involve known and unknown
+risks, uncertainties and other factors that may cause actual results, performance or achievements
+of ours to be materially different from any future results, performance or achievements expressed
+or implied by such forward-looking statements. The forward-looking statements included herein are
+based on current expectations that involve numerous risks and uncertainties. Our plans and
+objectives are based, in part, on assumptions involving judgments with respect to, among other
+things, future economic, competitive and market conditions and future business decisions, all of
+which are difficult or impossible to predict accurately and many of which are beyond the control of
+us. Although we believe that our assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate and, therefore, there can be no assurance
+that the forward-looking statements included in this report will prove to be accurate. In light of
+the significant uncertainties inherent in the forward-looking statements included herein,
+particularly in view of our limited operations, the inclusion of such information should not be
+regarded as a representation by us or any other person that the objectives and plans of ours will
+be achieved. Readers are cautioned not to place undue reliance on such forward-looking statements,
+which speak only as of the date on which such statements are made. Factors that could cause actual
+results to differ materially from those express or implied by such forward-looking statements
+include, but are not limited to, the factors set forth in this report under the headings The
+Company , Risk Factors and Management s Discussion and Analysis of Financial Condition and
+Results of Operations . We do not undertake to update any forward-looking statement that may be
+made from time to time on our behalf. 
+
+THE COMPANY 
+
+Overview 
+
+CDSI Holdings Inc. is a shell company as defined in Rule 12b-2 of the Securities Exchange Act
+of 1934 and holds limited amounts of cash. Prior to April 2007, we held 2,800 shares of Common
+Stock of Dialog Group Inc. Dialog , formerly known as IMX Pharmaceuticals Inc.). Prior to
+February 2000, our former wholly-owned subsidiary, Controlled Distribution Systems, Inc. CDS ),
+was primarily engaged in marketing and leasing a prepaid, wireless, remote-operated retail
+inventory control and dispensing system for tobacco products called the Coinexx Star 10. Prior to
+October 2000, CDS also owned traditional cigarette vending machines and a related vending route.
+In February 2000, we terminated all operations relating to marketing and leasing the Coinexx Star
+10 system. In October 2000, CDS sold the assets of its cigarette vending route, including vending
+machines and a van. Prior to January 2007, Dialog was a provider of relationship marketing
+communications services, business and consumer targeting databases for the healthcare, financial
+and other direct-to-customer, direct-to-professional business markets. In January 2007, the Dialog
+reported that it had completed the sale of substantially all of its operating assets. We sold our
+remaining 2,800 shares in Dialog in April 2007.
+
+-2- 
+
+Table of Contents 
+
+We intend to seek new business opportunities. As we have only limited cash resources, our
+ability to complete any acquisition or investment opportunities we may identify will depend on our
+ability to raise additional financing, as to which there can be no assurance. There can be no
+assurance that we will successfully identify, complete or integrate any future acquisition or
+investment, or that acquisitions or investments, if completed, will contribute favorably to our
+operations and future financial condition.
+
+Company History 
+
+We were incorporated in Delaware in December 1993 under the name PC411, Inc. In January 1999,
+we changed our name to CDSI Holdings Inc. to reflect the change in our principal business. We were
+originally formed to develop an on-line service that transmits name, address, telephone number and
+other related information digitally to users of personal computers. In May 1998 we acquired CDS
+and, in December 1998, CDS acquired substantially all of the assets of TD Rowe Corporation s New
+York cigarette vending route. In November 1998, we transferred substantially all of the non-cash
+assets and certain liabilities used in our on-line data distribution business to
+ThinkDirectMarketing Inc. TDMI in exchange for an initial 42.5 interest in that company. The
+other investors of TDMI included Acxiom Corporation, Cater Barnard plc and TDMI s management and
+employees. In January 2002, Dialog acquired all the stock of TDMI that it did not already own. In
+April 2007, we sold our remaining 2,800 shares of Dialog Common Stock for 204.
+
+In November 2003, we and our wholly-owned subsidiary CDS merged with CDSI Holdings Inc. as the
+surviving corporation.
+
+ThinkDirectMarketing, Inc. 
+
+In November 1998, we contributed substantially all the non-cash assets and certain liabilities
+related to our on-line electronic delivery information service to TDMI, and received preferred
+stock of TDMI. In January 2002, Dialog acquired all the shares of TDMI that it did not already own
+by exercising an option previously granted by the remaining TDMI stockholders. We received 8,250
+shares of Dialog Class B Convertible Preferred Stock in exchange for our interest in TDMI, which
+were converted into shares of Dialog Common Stock. We sold shares of Dialog stock for 4,888 in
+2004 and our remaining shares in April 2007 for 204.
+
+Employees 
+
+As of December 31, 2008, we had two employees, our President and Chief Executive Officer and
+our Vice President and Chief Financial Officer, both of whom are also employees of Vector Group
+Ltd. Vector ), our largest stockholder. We believe that we have good relations with our
+employees.
+
+ITEM 1A. 
+ 
+ RISK FACTORS 
+
+Accumulated Deficit; History of Losses. At December 31, 2008, we had an accumulated deficit
+of approximately 8.2 million. We have reported an operating loss in each of our fiscal quarters
+since inception and expects to continue to incur operating losses in the immediate future. We have
+reduced operating expenses and are seeking acquisition and investment opportunities. There is a
+risk that we will continue to incur operating losses.
+
+Limited Resources and No Source of Operating Revenues . At December 31, 2008, we had cash and
+cash equivalents of 19,698 and net working capital of 8,048. Since the sale of CDS s vending
+route in October 2000, we have had no source of operating revenue. We will not achieve any
+significant revenues until the consummation of an acquisition or investment, if ever. Moreover,
+there can
+be no assurance that any acquisition or investment, if achieved, will result in material revenues
+from our operations or that we will operate on a profitable basis.
+
+-3- 
+
+Table of Contents 
+
+Additional Financing Requirements. Our ability to complete any acquisition or investment
+opportunities we may identify will depend upon the availability of, and our ability to secure, new
+equity or debt financing. Further, there can be no assurance that we will be able to generate
+levels of revenues and cash flows sufficient from any acquisition or investment to fund operations
+or that we will be able to obtain financing on satisfactory terms, if at all, to achieve profitable
+operations.
+
+Blind Pool Broad Discretion of Management. Prospective investors who invest in us will do
+so without an opportunity to evaluate the specific merits or risks of any proposed transactions.
+As a result, investors will be entirely dependent on the broad discretion and judgment of
+management in connection with the application of our working capital and the selection of an
+acquisition or investment target. There can be no assurance that determinations ultimately made by
+us will permit us to achieve profitable operations.
+
+Acquisition and Investment Risks. As part of our business strategy, we may evaluate new
+acquisition and investment opportunities. Acquisitions involve numerous risks, including
+difficulties in the assimilation of the operations and products or services of the acquired
+companies, the expenses incurred in connection with the acquisition and subsequent assimilation of
+operations and products or services and the potential loss of key employees of the acquired
+company. There can be no assurance that we will successfully identify, complete or integrate any
+future acquisitions or investments or that completed acquisitions or investments will contribute
+favorably to our operations and future financial condition.
+
+Dependence Upon Executive Officers and Board of Directors . The ability of us to successfully
+effect a transaction will be largely dependent upon the efforts of our management and the Board of
+Directors. We only have two employees, none of whom work full-time for us. No assurance can be
+given that the Board of Directors and management will be successful in consummating a transaction
+and achieving profitability.
+
+Limited Trading Market . Since 1999, our common stock has been traded on the OTC Bulletin
+Board of the National Association of Security Dealers, Inc. There is a limited trading market in
+our shares and a stockholder could likely find it difficult to sell or to obtain quotations as to
+prices of our shares. During 2008, the average daily trading volume of our Common Stock was
+approximately 2,367 shares, with 190 days of 252 trading days having no trading activity. No
+assurances can be given that our Common Stock will continue to trade on the OTC Bulletin Board or
+that an orderly trading market will be maintained for our Common Stock.
+
+Absence of Full-Time Management Personnel. Our current President and Chief Executive Officer
+and our Vice President and Chief Financial Officer are executive officers of Vector. Neither of
+these individuals devotes his full time and attention to our affairs.
+
+Concentration of Stock Ownership. Vector beneficially owns approximately 47.8 of our
+outstanding Common Stock. As a result, Vector effectively controls all matters requiring
+stockholder approval, including the election of directors, the appointment of officers and approval
+of significant corporate transactions including a merger, an acquisition or a sale of all or
+substantially all of our assets. Such concentration of ownership may also have the effect of
+delaying or preventing a change in control. In addition, we are subject to a State of Delaware
+statute regulating business combinations, which may also hinder or delay a change of control.
+
+Absence of Dividends. We have never paid nor do we expect in the foreseeable future to pay
+any dividends.
+
+-4- 
+
+Table of Contents 
+
+Limitation on Director Liability. To the extent permitted under the Delaware General
+Corporation Law, our Restated Certificate of Incorporation limits the liability of directors for
+monetary damages for breaches of a director s fiduciary duty, including breaches that constitute
+gross negligence. As a result, under certain circumstances, neither us nor our stockholders may be
+able to recover damages from directors.
+
+Dilution. Our Board of Directors, without any action by the stockholders, is authorized to
+designate and issue additional classes or series of capital stock (including classes or series of
+preferred stock) as it deems appropriate and to establish the rights, preferences and privileges of
+such classes or series. The issuance of any new class or series of capital stock would not only
+dilute the ownership interest of our current stockholders but may also adversely affect the voting
+power and other rights of holders of Common Stock. The rights of holders of preferred stock and
+other classes of common stock that may be issued may be superior to the rights of the holders of
+the existing class of Common Stock in terms of the payment of ordinary and liquidating dividends
+and voting rights.
+
+Forward-looking Statements. This report contains forward-looking statements that involve
+risks and uncertainties. Words such as anticipate, believes, expects, future and intends 
+and similar expressions are used to identify forward-looking statements. You should not unduly
+rely on these forward-looking statements, which apply only as of the date of this report. Our
+actual results could differ materially from those anticipated in these forward-looking statements
+for many reasons, including the risks described above and elsewhere in this report.
+
+ITEM 1B. 
+ 
+ UNRESOLVED STAFF COMMENTS 
+
+None
+
+ITEM 2. 
+ 
+ PROPERTIES 
+
+Our corporate offices are located in the executive offices of Vector. We believe that our
+current facilities are adequate for the foreseeable future.
+
+ITEM 3. 
+ 
+ LEGAL PROCEEDINGS 
+
+Reference is made to Note 9 to our financial statements.
+
+ITEM 4. 
+ 
+ SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS 
+
+During the last quarter of 2008, no matter was submitted to stockholders for their vote or
+approval, through the solicitation of proxies or otherwise.
+
+-5- 
+
+Table of Contents 
+
+PART II 
+
+ITEM 5. 
+ 
+ MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASE OF
+EQUITY SECURITIES 
+
+Our Common Stock is currently traded on the OTC Bulletin Board under the symbol CDSI . The
+following table sets forth for the periods indicated, the reported high and low closing bid
+quotations per share for our Common Stock. The sale prices set forth below reflect inter-dealer
+quotations, do not include retail mark-ups, markdowns or commissions and do not necessarily
+represent actual transactions.
+
+High 
+
+Low 
+
+2007 
+
+Fourth Quarter
+
+0.25 
+
+0.16 
+
+Third Quarter
+
+0.30 
+
+0.18 
+
+Second Quarter
+
+0.22 
+
+0.17 
+
+First Quarter
+
+0.25 
+
+0.15 
+
+2008 
+
+Fourth Quarter
+
+0.20 
+
+0.07 
+
+Third Quarter
+
+0.26 
+
+0.20 
+
+Second Quarter
+
+0.45 
+
+0.14 
+
+First Quarter
+
+0.39 
+
+0.16 
+
+As of March 5, 2009, there were 32 holders of record of our Common Stock.
+
+Dividend Policy 
+
+We have never declared or paid dividends on our Common Stock and do not expect to pay any
+dividends in the foreseeable future.
+
+Recent Sales of Unregistered Securities 
+
+No securities were issued by us in 2008.
+
+Issuer Purchases of Equity Securities 
+
+No securities of ours were repurchased by us during the fourth quarter of 2008.
+
+-6- 
+
+Table of Contents 
+
+ITEM 6. 
+ 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Overview 
+
+We intend to seek new business opportunities. As we have only limited cash resources, our
+ability to complete any acquisition or investment opportunities we may identify will depend on our
+ability to raise additional financing, as to which there can be no assurance. There can be no
+assurance that we will successfully identify, complete or integrate any future acquisition or
+investment, or that acquisitions or investments, if completed, will contribute favorably to our
+operations and future financial condition.
+
+Results of Operations 
+
+Revenues 
+
+For the years ended December 31, 2008 and 2007, we did not generate revenues from operations.
+
+Expenses 
+
+Expenses associated with corporate activities were 36,029 and 35,070 for the years ended
+December 31, 2008 and 2007, respectively. The expenses in both years were primarily associated
+with costs necessary to maintain a public company, which consist primarily of directors fees,
+auditing fees and stock transfer fees.
+
+Other Income 
+
+Interest income was 439 and 2,501 for the years ended December 31, 2008 and 2007,
+respectively. The decrease is due primarily to lower cash balances and lower interest rates in
+2008 versus 2007.
+
+The recovery of unclaimed property relates to refunds receivable for unclaimed property in a
+state where we previously conducted business. We received 21,791 of refund claims in 2007.
+
+Liquidity and Capital Resources 
+
+At December 31, 2008, we had an accumulated deficit of 8,233,096. We have reported an
+operating loss in each of our fiscal quarters since inception and we expect to continue to incur
+operating losses in the immediate future. We have reduced operating expenses and are seeking
+acquisition and investment opportunities. No assurance can be given that we will not continue to
+incur operating losses.
+
+We have limited available cash, limited cash flow, limited liquid assets and no credit
+facilities. We have not been able to generate sufficient cash from operations and, as a
+consequence, financing has been required to fund ongoing operations. Since completion of our
+initial public offering of our common stock (the IPO in May 1997, we have primarily financed our
+operations with the net proceeds of the IPO. The funds were used to complete the introduction of
+the PC411 Service over the Internet, to expand marketing, sales and advertising, to develop or
+acquire new services or databases, to acquire CDS and for general corporate purposes.
+
+Cash used for operations for the years ended December 31, 2008 and 2007 was 30,590 and
+ 11,728, respectively. The decrease is associated primarily with the receipt of the refunds of
+unclaimed
+property in 2007 and the timing of payments of accounts payable and accrued liabilities. We
+evaluate our accruals on a quarterly basis and make adjustments when appropriate.
+
+-7- 
+
+Table of Contents 
+
+We do not expect significant capital expenditures during the year ended December 31, 2009.
+
+At December 31, 2008, we had cash and cash equivalents of 19,698.
+
+Inflation and changing prices had no material impact on revenues or the results of operations
+for years ended December 31, 2008.
+
+We are not authorized to transact business in any state other than Delaware, which is our
+state of incorporation. We received an inquiry from the Florida Department of State inquiring
+whether we should have registered with the Florida Department of State in previous years, beginning
+in 1998. We have responded to the inquiry and believe our activities in prior years did not meet
+the requirements for such registration; however, no assurance can be provided that our position
+will be accepted by the Florida Department of State. We are unable to quantify the amount of any
+registration fees and other costs attributable to any failure to register and have not accrued any
+amounts in our financial statements related to such inquiry.
+
+In March 2009, we entered into a revolving credit promissory note where our principal
+stockholder, Vector, has agreed to lend us 50,000 to meet our liquidity requirements over the next
+twelve months. The facility bears interest at 11 per annum and is due on December 31, 2012. No
+amounts were outstanding under the facility at March 27, 2009.
+
+Although there can be no assurance, we believe that we will be able to continue as a going
+concern for the next twelve months.
+
+We or our affiliates, including Vector, may, from time to time, based upon present market
+conditions, purchase shares of the Common Stock in the open market or in privately negotiated
+transactions.
+
+ITEM 8. 
+ 
+ FINANCIAL STATEMENTS 
+
+Our financial statements and the notes thereto, together with the report thereon of Becher
+Della Torre Gitto Company PC dated March 27, 2009, appear beginning on page F-1 of this report.
+
+ITEM 9. 
+ 
+ CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+None
+
+ITEM 9A (T). CONTROLS AND PROCEDURES 
+
+(a) Evaluation of Disclosure Controls and Procedures 
+
+Under the supervision and with the participation of our management, including our Chief
+Executive Officer and Chief Financial Officer, we have evaluated the effectiveness of our
+disclosure controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act
+of 1934, as amended) as of December 31, 2008. Based on that evaluation, our Chief Executive
+Officer and Chief Financial Officer concluded that, as of December 31, 2008, such disclosure
+controls and procedures were effective in ensuring information required to be disclosed by us in
+reports that we file or submit under the Securities Exchange Act of 1934, as amended, is (i)
+recorded, processed, summarized and reported within the time periods specified in the Securities
+and Exchange Commission s rules and forms and (ii)
+accumulated and communicated to our management, including our principal executive officer and
+principal financial officer, as appropriate to allow timely decisions regarding required
+disclosure.
+
+-8- 
+
+Table of Contents 
+
+(b) Management s Annual Report on Internal Control over Financial Reporting 
+
+Management is responsible for establishing and maintaining adequate internal control over financial
+reporting, as such term is defined in Rule 13a-15(f) under the Securities Exchange Act of 1934, as
+amended. As of December 31, 2008, under the supervision and with the participation of management,
+including our Chief Executive Officer and Chief Financial Officer, an evaluation was conducted of
+the effectiveness of our internal control over financial reporting based on the framework contained
+in the report titled Internal Control Integrated Framework issued by the Committee of
+Sponsoring Organizations of the Treadway Commission COSO ). This evaluation included review of
+the documentation of controls, evaluation of the design effectiveness of controls, testing of the
+operating effectiveness of controls and a conclusion on this evaluation. Based on that evaluation,
+management concluded that our internal control over financial reporting was effective as of
+December 31, 2008.
+
+This annual report does not include an attestation report of Becher Della Torre Gitto Company PC,
+our independent registered public accounting firm, regarding internal control over financial
+reporting. Our report was not subject to attestation by our independent registered public
+accounting firm pursuant to temporary rules of the Securities and Exchange Commission that permit
+us to provide only management s report in this annual report.
+
+(c) Inherent Limitations on Effectiveness of Controls 
+
+Our management, including our Chief Executive Officer and Chief Financial Officer, does not expect
+that our disclosure controls or our internal control over financial reporting will prevent or
+detect all errors and all fraud. A control system, no matter how well conceived or operated, can
+provide only reasonable, not absolute, assurance the objectives of the control system are met.
+Further, the design of a control system must reflect the fact there are resource constraints, and
+the benefits of controls must be considered relative to their costs. Because of the inherent
+limitations in all control systems, no evaluation of controls can provide absolute assurance that
+all control issues and instances of fraud, if any, have been detected. These inherent limitations
+include the realities that judgments in decision-making can be faulty, and breakdowns can occur
+because of simple error or mistake. Additionally, controls can be circumvented by the individual
+acts of some persons, by collusion of two or more people, or by management override of the
+controls. The design of any system of controls is based in part upon certain assumptions about the
+likelihood of future events, and there can be no assurance any design will succeed in achieving its
+stated goals under all potential future conditions; over time, controls may become inadequate
+because of changes in conditions, or the degree of compliance with the policies or procedures may
+deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements
+due to errors or fraud may occur and not be detected. Our disclosure controls and procedures are
+designed to provide a reasonable level of assurance that their objectives are achieved.
+
+(d) Changes in Internal Control Over Financial Reporting 
+
+There were no changes in our internal controls over financial reporting that occurred during the period covered by this report that have materially affected, or are reasonably likely to
+materially affect, our internal controls over financial reporting.
+
+ITEM 9B. 
+ 
+ OTHER INFORMATION 
+
+None.
+
+-9- 
+
+Table of Contents 
+
+PART III 
+MANAGEMENT 
+
+ITEM 10. 
+ 
+ DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+
+Set forth below are the names, ages and positions of our directors and executive officers as
+of March 27, 2009.
+
+Name 
+ 
+ Age 
+ 
+ Position 
+
+Richard J. Lampen
+
+55 
+
+President, Chief Executive Officer and Director 
+
+J. Bryant Kirkland III
+
+43 
+
+Vice President, Chief Financial Officer, 
+
+Secretary, Treasurer and Director 
+
+Robert M. Lundgren
+
+50 
+
+Director 
+
+Richard J. Lampen , age 55, has served as President and Chief Executive Officer of ours since
+November 1998 and as our director since January 1997. Mr. Lampen has also served as Executive Vice
+President of Vector since July 1996 and as President and Chief Executive Officer of Ladenburg
+Thalmann Financial Services Inc. since September 2006. Since October 2008, Mr. Lampen has served
+as interim President and Chief Executive Officer of Castle Brands Inc., a publicly traded developer
+and importer of premium branded spirits in which Vector held an approximate 11 equity interest at
+December 31, 2008. From October 1995 to December 2005, Mr. Lampen served as the Executive Vice
+President and General Counsel of New Valley Corporation, where he also served as a director. From
+May 1992 to September 1995, Mr. Lampen was a partner at Steel Hector Davis, a law firm located in
+Miami, Florida. From January 1991 to April 1992, Mr. Lampen was a Managing Director at Salomon
+Brothers Inc, an investment bank, and was an employee at Salomon Brothers Inc from 1986 to April
+1992. Mr. Lampen is also a director of Ladenburg Thalmann Financial Services and Castle Brands Inc. Mr. Lampen has served
+as a director of a number of other companies, including U.S. Can Corporation, The International
+Bank of Miami, N.A. and Spec s Music Inc., as well as a court-appointed independent director of
+Trump Plaza Funding, Inc. Mr. Lampen received a Bachelor of Arts degree from The Johns Hopkins
+University in 1975 and received a Juris Doctorate degree in 1978 from Columbia Law School.
+
+J. Bryant Kirkland III , age 43, has served as our Vice President, Chief Financial Officer,
+Secretary and Treasurer since January 1998 and as our director since November 1998. Mr. Kirkland
+has served as a Vice President of Vector since 2001 and became Vice President, Treasurer and Chief
+Financial Officer of Vector on April 1, 2006. From November 1994 to December 2005, Mr. Kirkland
+served in various financial capacities with New Valley Corporation, the predecessor to New Valley
+LLC, since November 1994 and from January 1998 to December 2005 as the Vice President, Treasurer
+and Chief Financial Officer of New Valley Corporation. Mr. Kirkland also served as Chief Financial
+Officer of Ladenburg Thalmann Financial Services Inc. from June 2001 to October 2002. Mr. Kirkland
+received a Bachelor of Science in Business Administration from the University of North Carolina in
+1987 and a Masters of Business Administration from Barry University in December 2006.
+
+Robert M. Lundgren , age 50, has served as our director since January 1997. He also served as
+our Vice President, Chief Financial Officer, Secretary and Treasurer from January 1997 through
+January 14, 1998. Mr. Lundgren has served as Director of Finance and Operations of Palmer Trinity
+School in Miami, Florida since July 2002. Mr. Lundgren was an independent consultant from October
+2001 until July 2002. From January 14, 1998 to October 2001, Mr. Lundgren was employed by Solar
+Cosmetic Labs, Inc. as
+Chief Financial Officer. From November 1994 through January 14, 1998, Mr. Lundgren was employed by
+New Valley Corporation where he served as Vice President and Chief Financial Officer from May 1996
+to January 14, 1998. From November 1992 through November 1994, Mr. Lundgren worked for Deloitte 
+Touche as a Senior Manager in the audit practice. Mr. Lundgren has been a certified public
+accountant since 1981 and holds a Bachelor of Science in Accounting from Wake Forest University.
+
+-10- 
+
+Table of Contents 
+
+Each director of ours holds office until the next annual meeting of stockholders, or until his
+successor is elected and qualified. At present, our By-laws provide for not less than two
+directors or more than nine directors. Currently, there are three directors. The By-laws permit
+the Board of Directors to fill any vacancy and such director may serve until the next annual
+meeting of stockholders or until his successor is elected and qualified. Officers serve at the
+discretion of the Board of Directors.
+
+Audit Committee 
+
+The Audit Committee of our Board of Directors consists of Mr. Lundgren and, prior to March 27,
+2008, consisted of Messrs. Lundgren and Henry Morris. Our Board of Directors has determined that
+Mr. Lundgren is an audit committee financial expert and independent , and that Mr. Morris was
+ independent prior to his resignation on March 27, 2008, as those terms are defined under the
+applicable Securities and Exchange Commission rules. In determining that Messrs. Lundgren and
+Morris were independent , the Board used the definition of independence in Rule 4200(a)(15) of the
+NASD s listing standards.
+
+Section 16(a) Beneficial Ownership Reporting Compliance 
+
+Section 16(a) of the Securities Exchange Act of 1934 requires our officers and directors, and
+persons who own more than ten percent of a registered class of our equity securities, to file
+reports of ownership and changes in ownership with the Securities and Exchange Commission (the
+ SEC ). Officers, directors and greater than ten percent shareholders are required by SEC
+regulation to furnish us with copies of all Section 16(a) forms which they file. Based solely on
+review of the copies of such forms furnished to us, or written representations that no Forms 5 were
+required, we believe that, during and with respect to the fiscal year ended December 31, 2008, all
+officers and directors complied with applicable Section 16(a) filing requirements.
+
+Code of Ethics 
+
+We have adopted a Code of Ethics that applies to our two employees, our President and Chief
+Executive Officer and our Vice President and Chief Financial Officer. We will provide, without
+charge, a copy of the Code of Ethics on the written request of any person addressed to our Chief
+Financial Officer at CDSI Holdings Inc., 100 S.E. Second Street, 32 nd Floor, Miami,
+Florida 33131.
+
+-11- 
+
+Table of Contents 
+
+ITEM 11. EXECUTIVE COMPENSATION 
+
+Executive Compensation 
+
+The following table sets forth the combined remuneration paid or accrued by us during our last
+two fiscal years to those persons who were, at December 31, 2008, our Principal Executive Officer
+or who were executive officers whose cash compensation exceeded 100,000 (the named executive
+officers ).
+
+Summary Compensation Table 
+
+Non-Equity 
+ 
+ Deferred 
+
+Option 
+ 
+ Incentive Plan 
+ 
+ Compensation 
+ 
+ All Other 
+ 
+ Total 
+
+Name and 
+
+Bonus 
+ 
+ Stock Awards 
+ 
+ Awards 
+ 
+ Compensation 
+ 
+ Earnings 
+ 
+ Compensation 
+ 
+ Compensation 
+
+Principal Position 
+ 
+ Year 
+ 
+ Salary ) 
+ 
+ ) 
+ 
+ ) 
+ 
+ ) 
+ 
+ ) 
+ 
+ ) 
+ 
+ ) 
+ 
+ ) 
+
+Richard J. Lampen
+
+2008 
+
+None 
+
+President and Chief
+
+2007 
+
+None 
+
+Executive
+Officer (1) 
+
+(1) Richard J. Lampen, who has served as our President and Chief Executive Officer since
+November 5, 1998, did not receive any salary or other compensation from us in 2008 or 2007,
+other than the normal compensation paid to directors of ours. See Compensation of
+Directors. 
+
+Stock Options 
+
+In order to attract and retain persons necessary for our business, we adopted the 1997 Stock
+Option Plan (the Option Plan covering up to 750,000 shares, pursuant to which officers,
+directors and key employees of ours and our consultants are eligible to receive incentive and/or
+non-incentive stock options. The Option Plan, which expired on January 29, 2007, was administered
+by the Board of Directors or the Compensation Committee. The selection of participants, allotment
+of shares, determination of price and other conditions relating to the grant of options was
+determined by the Board of Directors or the Compensation Committee. Incentive stock options
+granted under the Option Plan were exercisable for a period of up to 10 years from the date of
+grant at an exercise price which is not less than the fair market value of the Common Stock on the
+date of the grant, except that the term of an incentive stock option granted under the Option Plan
+to a stockholder owning more than 10 of the outstanding Common Stock could not exceed five years
+and its exercise price could not be less than 110 of the fair market value of the shares on the
+date of the grant.
+
+Under the Option Plan, each director who is not a full-time employee, immediately upon first
+taking office, was granted options to purchase 6,000 shares of Common Stock exercisable at the fair
+market value of such shares on the date of grant. Options for 3,000 shares covered thereby were
+exercisable immediately and options for 3,000 shares became exercisable on the first anniversary of
+the date of grant. Subsequently, the Option Plan provided for annual grants of options to purchase
+3,000 shares of Common Stock upon reelection as a director.
+
+-12- 
+
+Table of Contents 
+
+Option Awards 
+
+Stock Awards 
+
+Equity 
+
+Incentive 
+
+Equity 
+
+Plan 
+
+Equity 
+
+Incentive 
+
+Awards: 
+
+Number 
+
+Incentive 
+
+Plan 
+
+Market or 
+
+of 
+
+Plan 
+
+Awards: 
+
+Payout 
+
+Securities 
+ 
+ Number 
+
+Awards: 
+
+Number of 
+
+Value of 
+
+Under- 
+ 
+ of 
+
+Number of 
+
+Unearned 
+
+Unearned 
+
+lying 
+ 
+ Securities 
+
+Securities 
+
+Number 
+
+Market 
+
+Shares, 
+
+Shares, 
+
+Unexer- 
+ 
+ Under- 
+
+Underlying 
+
+of Shares 
+
+Value of 
+
+Units or 
+
+Units or 
+
+cised 
+ 
+ lying 
+
+Unexer- 
+
+or Units 
+
+Shares or 
+
+Other 
+
+Other 
+
+Options 
+ 
+ Options 
+
+cised 
+
+Option 
+
+of Stock 
+
+Units of 
+
+Rights 
+
+Rights 
+
+(#) 
+ 
+ (#) 
+
+Unearned 
+
+Option 
+
+Expir- 
+
+That 
+
+Stock That 
+
+That Have 
+
+That Have 
+
+Exercis- 
+ 
+ Unexercis- 
+
+Options 
+
+Exercise 
+
+ation 
+
+Have Not 
+
+Have Not 
+
+Not Vested 
+
+Not Vested 
+
+Name 
+ 
+ able 
+ 
+ able 
+
+(#) 
+
+Price ) 
+
+Date 
+
+Vested (#) 
+
+Vested ) 
+
+(#) 
+
+) 
+
+Richard J. Lampen
+
+3,000 
+
+0.44 
+
+1/12/09 
+
+There were no exercises or grants of options during 2008.
+
+Employment Agreements and Other Compensation Plans 
+
+We are not party to any employment agreements or other compensation plans except for the
+Option Plan.
+
+Compensation of Directors 
+
+We pay each director who is not a full-time employee of ours an annual retainer of 5,000,
+payable quarterly, and reimburse the directors for reasonable travel expenses incurred in
+connection with their activities on our behalf.
+
+The table below summarizes the compensation paid by us to non-employee directors for the
+fiscal year ended December 31, 2008.
+
+Changes in 
+
+Pension Value 
+
+Fees 
+
+and 
+
+Earned 
+
+Non-Equity 
+
+Nonqualified 
+
+or Paid 
+
+Stock 
+
+Option 
+
+Incentive Plan 
+
+Deferred 
+
+All Other 
+
+in Cash 
+
+Awards 
+
+Awards 
+
+Compensation 
+
+Compensation 
+
+Compensation 
+
+Name 
+ 
+ ) 
+
+) 
+
+) 
+
+) 
+
+Earnings ) 
+
+) 
+
+Total ) 
+
+Richard J. Lampen
+
+5,000 
+
+5,000 
+
+J. Bryant Kirkland III
+
+5,000 
+
+5,000 
+
+Robert M. Lundgren
+
+5,000 
+
+5,000 
+
+Henry Morris 1 
+
+1,250 
+
+1,250 
+
+1 
+ 
+ Mr. Morris resigned from our Board of Directors on
+March 27, 2008. 
+
+-13- 
+
+Table of Contents 
+
+ITEM 12. 
+ 
+ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+The following table sets forth, as of March 27, 2009, the beneficial ownership of our Common
+Stock (the only class of voting securities) by (i) each person known to us to own beneficially more
+than five percent of the Common Stock, (ii) each of our directors, (iii) each of our named
+executive officers (as such term is defined in the Summary Compensation Table above) and (iv) all
+directors and executive officers as a group. Unless otherwise indicated, each person possesses
+sole voting and investment power with respect to the shares indicated as beneficially owned, and
+the business address of each person is 100 S.E. Second Street, Miami, Florida 33131.
+
+Number of Shares of 
+
+Name and Address (1) 
+ 
+ Common Stock 
+ 
+ Percentage of Ownership 
+
+Vector Group Ltd. (2) 
+
+1,490,000 
+
+47.8 
+
+Jay Gottlieb (3) 
+
+275,000 
+
+8.8 
+
+27 Misty Brooke Lane 
+New Fairfield, CT 06812
+
+J. Bryant Kirkland III (4) 
+
+0.0 
+
+Richard J. Lampen (4) 
+
+0.0 
+
+Robert Lundgren (4) 
+
+0.0 
+
+14545 SW 79th Court 
+Miami, FL 33158
+
+All executive officers and directors
+as a group (3 persons) (4) 
+
+0.0 
+
+(1) 
+ 
+ Unless otherwise indicated, each named person has sole voting and investment power
+with respect to the shares set forth opposite such named person s name. 
+
+(2) 
+ 
+ Vector has voting and investment power with regard to such shares. Prior to
+November 2007, Vector s subsidiary, New Valley LLC, held such shares. Richard J. Lampen, an
+executive officer and a director of ours, and J. Bryant Kirkland III, an executive officer and
+a director of ours, serve as Executive Vice President and Vice President, respectively, of
+Vector. Neither Mr. Kirkland nor Mr. Lampen has investment authority or voting control over
+our securities owned by Vector. The other executive officers of Vector are Bennett S. LeBow,
+Executive Chairman, Howard M. Lorber, President and Chief Executive Officer and Marc N. Bell,
+Vice President and General Counsel. The directors of Vector are Messrs. LeBow and Lorber,
+Henry C. Beinstein, Ronald J. Bernstein, Robert J. Eide, Jeffrey S. Podell and Jean E. Sharpe. 
+
+(3) 
+ 
+ Based on Schedule 13G filed on February 10, 2009 by Jay Gottlieb. 
+
+(4) 
+ 
+ Includes shares subject to options and/or warrants currently exercisable or
+exercisable within 60 days of the date hereof. 
+
+-14- 
+
+Table of Contents 
+
+Equity Compensation Plan Information 
+
+The following table summarizes information about the options, warrants and rights and other
+equity compensation under our equity plans as of December 31, 2008.
+
+Number of securities remaining 
+
+Number of securities to 
+
+available for future issuance 
+
+be issued upon exercise 
+
+Weighted-average exercise 
+
+under equity compensation 
+
+of outstanding options, 
+
+price of outstanding 
+
+plans (excluding securities 
+
+warrants and rights 
+
+options, warrants and rights 
+
+reflected in column (a)) 
+
+Plan Category 
+ 
+ (a) 
+
+(b) 
+
+(c) 
+
+Equity compensation
+plans 
+approved by
+security holders
+(1)
+
+9,000 
+
+0.44 
+
+Equity compensation
+plans 
+not approved
+by security holders
+
+Total
+
+9,000 
+
+0.44 
+
+(1) 
+ 
+ Includes options to purchase 9,000 shares of our Common Stock under the 1997 Stock Option
+Plan, which were approved by stockholders. These options expired on January 12, 2009. For
+additional information concerning the options, see Note 6 to our Financial Statements. 
+
+ITEM 13. 
+ 
+ CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS 
+
+Certain accounting and related finance functions are performed on behalf of us by employees of
+our principal stockholder, Vector. Expenses incurred relating to these functions are allocated to
+us and paid as incurred to Vector based on management s best estimate of the cost involved. The
+amounts allocated were immaterial for all periods presented herein.
+
+On March 26, 2009, we entered into a 50,000 Revolving Credit Promissory
+Note (the Revolver with Vector due December 31, 2012. The loan bears interest at 11 per annum and is
+due on December 31, 2012. No amounts were outstanding under the Revolver at March 27, 2009.
+
+ITEM 14. 
+ 
+ PRINCIPAL ACCOUNTING FEES AND SERVICES 
+
+The Audit Committee reviews and approves audit and permissible non-audit services performed by
+Becher Della Torre Gitto Company PC, as well as the fees charged for such services. In our
+review of non-audit service fees and our appointment of Becher Della Torre Gitto Company PC as
+our independent accountants, the Audit Committee considered whether the provision of such services
+is compatible with maintaining Becher Della Torre Gitto Company PC s independence. All of the
+services provided and fees charged by Becher Della Torre Gitto Company PC in 2008 and 2007 were
+pre-approved by the Audit Committee.
+
+Audit Fees . The aggregate fees billed by Becher Della Torre Gitto Company PC for
+professional services for the audit of our annual financial statements for 2008 and the review of
+the financial statements included in our quarterly reports on Form 10-QSB for the quarters ended
+March 31, 2008, June 30, 2008 and September 30, 2008 was 10,548. The aggregate fees billed by
+Becher Della Torre Gitto Company PC for professional services for the audit of our annual
+financial statements for 2007 and the review of the financial statements included in our quarterly
+reports on Form 10-QSB for the quarters ended March 31, 2007, June 30, 2007 and September 30, 2007
+was 10,500.
+
+-15- 
+
+Table of Contents 
+
+Audit-Related Fees. There were no other fees billed by Becher Della Torre Gitto Company PC
+during the last two fiscal years for assurance and related services that were reasonably related to
+the
+performance of the audit or review of our financial statements and not reported under Audit Fees 
+above.
+
+Tax Fees . There were no fees billed by Becher Della Torre Gitto Company PC during the last
+two fiscal years for professional services rendered by such firms for tax compliance, tax advice
+and tax planning.
+
+All Other Fees . There were no other fees billed by Becher Della Torre Gitto Company PC
+during the last two fiscal years for products and services provided by such firms.
+
+PART IV 
+
+ITEM 15. 
+ 
+ EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+
+(a)(1) INDEX TO 2008 CONSOLIDATED FINANCIAL STATEMENTS: 
+
+Our financial statements and the notes thereto, together with the report thereon of Becher
+Della Torre Gitto Company PC dated March 27, 2009, appear beginning on page F-1 of this report.
+
+(a)(3) EXHIBITS 
+
+The following is a list of exhibits filed herewith as part of this Annual Report on Form 10-K:
+
+3.1 
+
+Form of Restated Certificate of Incorporation of the Company (1)
+
+3.2 
+
+Certificate of Amendment to the Restated Certificate of Incorporation of the Company (2)
+
+3.3 
+
+Form of By-Laws of the Company (1)
+
+4.1 
+
+Revolving Credit Promissory Note, dated as of March 26, 2009, by and between
+Vector Group Ltd, as lender, and CDSI Holdings Inc., as borrower. 
+
+10.1 
+
+Form of 1997 Stock Option Plan (1)
+
+31.1 
+
+Certification of Chief Executive Officer, Pursuant to Exchange Act Rule 13a-14(a), as Adopted
+Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+31.2 
+
+Certification of Chief Financial Officer, Pursuant to Exchange Act Rule 13a-14(a), as Adopted
+Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+32.1 
+
+Certification of Chief Executive Officer, Pursuant to 18 U.S.C. Section 1350, as Adopted
+Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+32.2 
+
+Certification of Chief Financial Officer, Pursuant to 18 U.S.C. Section 1350, as Adopted
+Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+Filed herewith. 
+
+(1) 
+ 
+ Previously filed as an Exhibit to our Registration Statement on Form S-1 (File No.
+333-21545). This Exhibit is incorporated herein by reference. 
+
+(2) 
+ 
+ Previously filed as an Exhibit to our Form 8-K filed January 14, 1999. This Exhibit is
+incorporated herein by reference. 
+
+-16- 
+
+Table of Contents 
+
+SIGNATURES 
+
+In accordance with Section 13 or 15(d) of the Securities Exchange Act of 1934, the Company has
+duly caused this report to be signed on Mach 27, 2009, on its behalf by the undersigned, thereunto
+duly authorized.
+
+CDSI Holdings Inc. 
+
+By: 
+ /s/ J. Bryant Kirkland III
+
+J. Bryant Kirkland III 
+
+Vice President, Treasurer and 
+Chief Financial Officer 
+
+POWER OF ATTORNEY 
+
+The undersigned directors and officers of CDSI Holdings Inc. hereby constitute and appoint
+Richard J. Lampen and J. Bryant Kirkland III, and each of them, with full power to act without the
+other and with full power of substitution and resubstitution, our true and lawful attorneys-in-fact
+with full power to execute in our name and behalf in the capacities indicated below, this Annual
+Report on Form 10-K and any and all amendments thereto and to file the same, with all exhibits
+thereto and other documents in connection therewith, with the Securities and Exchange Commission,
+and hereby ratify and confirm all that such attorneys-in-fact, or any of them, or their substitutes
+shall lawfully do or cause to be done by virtue hereof.
+
+In accordance with the Securities Exchange Act of 1934, this report has been signed below by
+the following persons on behalf of the Company and in the capacities indicated on March 27, 2009.
+
+Signature 
+ 
+ Title 
+
+/s/ Richard J. Lampen
+
+Richard J. Lampen 
+
+Director, President and
+Chief Executive Officer 
+
+/s/ J. Bryant Kirkland III
+
+J. Bryant Kirkland III 
+
+Director, Vice President, Treasurer and
+Chief Financial Officer
+(principal accounting and financial officer) 
+
+/s/ Robert Lundgren
+
+Robert Lundgren 
+
+Director 
+
+-17- 
+
+Table of Contents 
+
+CDSI HOLDINGS INC. 
+
+Financial Statements
+
+December 31, 2008 and 2007
+
+(With Report of Independent Registered Public Accounting Firm Thereon)
+
+Table of Contents 
+
+CDSI HOLDINGS INC. 
+
+Page 
+
+Report of Independent Registered Public Accounting Firm 
+
+F-2 
+
+Audited Financial Statements:
+
+Balance Sheets 
+
+F-3 
+
+Statements of Operations 
+
+F-4 
+
+Statements of Stockholders Equity 
+
+F-5 
+
+Statements of Cash Flows 
+
+F-6 
+
+Notes to Financial Statements 
+
+F-7 
+
+F-1 
+
+Table of Contents 
+
+Report of Independent Registered Public Accounting Firm 
+
+To the Stockholders and Board of Directors of 
+CDSI Holdings Inc.:
+
+We have audited the accompanying balance sheet of CDSI Holdings Inc. (the Company as of December
+31, 2008 and 2007, and the related statements of operations, stockholders equity, and cash flows
+for each of the years in the two-year period ended December 31, 2008. These financial statements
+are the responsibility of the Company s management. Our responsibility is to express an opinion on
+these financial statements based on our audits.
+
+We conducted our audits in accordance with the standards of the Public Company Accounting Oversight
+Board (United States). Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement. The
+Company is not required to have, nor were we engaged to perform, an audit of its internal control
+over financial reporting. Our audit included consideration of internal control over financial
+reporting as a basis for designing audit procedures that are appropriate in the circumstances, but
+not for the purpose of expressing an opinion on the effectiveness of the company s internal control
+over financial reporting. Accordingly, we express no such opinion. An audit also includes
+examining, on a test basis, evidence supporting the amounts and disclosures in the financial
+statements, assessing the accounting principles used and significant estimates made by management,
+as well as evaluating the overall financial statement presentation. We believe that our audits
+provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in all material
+respects, the financial position of the CDSI Holdings, Inc. as of December 31, 2008 and 2007, and
+the results of its operations and its cash flows for each of the years in the two-year period ended
+December 31, 2008 in conformity with accounting principles generally accepted in the United State
+of America.
+
+/s/ Becher Della Torre Gitto Company PC 
+Becher Della Torre Gitto Company PC 
+Ridgewood, NJ
+
+March 27, 2009
+
+F-2 
+
+Table of Contents 
+
+CDSI HOLDINGS INC. 
+
+Balance Sheets
+
+December 31, 
+
+December 31, 
+
+2008 
+
+2007 
+
+Assets: 
+
+Current assets:
+
+Cash and cash equivalents
+
+19,698 
+
+50,288 
+
+Total assets
+
+19,698 
+
+50,288 
+
+Liabilities and Stockholders Equity: 
+
+Current liabilities:
+
+Accounts payable and accrued expenses
+
+11,650 
+
+6,650 
+
+Total current liabilities
+
+11,650 
+
+6,650 
+
+Commitments and contingencies
+
+Stockholders equity:
+
+Preferred stock, .01 par value. Authorized 5,000,000
+shares; no shares issued and outstanding
+
+Common stock, .01 par value. Authorized 25,000,000
+shares; 3,120,000 shares issued and outstanding
+
+31,200 
+
+31,200 
+
+Additional paid-in capital
+
+8,209,944 
+
+8,209,944 
+
+Accumulated deficit
+
+(8,233,096) 
+
+(8,197,506) 
+
+Accumulated other comprehensive income
+
+Total stockholders equity
+
+8,048 
+
+43,638 
+
+Total liabilities and stockholders equity
+
+19,698 
+
+50,288 
+
+See accompanying notes to financial statements.
+
+F-3 
+
+Table of Contents 
+
+CDSI HOLDINGS INC. 
+
+Statements of Operations
+
+Years Ended December 31, 
+
+2008 
+
+2007 
+
+Revenues
+
+Cost and expenses:
+
+General and administrative
+
+36,029 
+
+35,070 
+
+36,029 
+
+35,070 
+
+Operating loss
+
+(36,029) 
+
+(35,070) 
+
+Other income:
+
+Gain on sale of Dialog common stock
+
+204 
+
+Recovery of unclaimed property
+
+21,791 
+
+Interest income
+
+439 
+
+2,501 
+
+439 
+
+24,496 
+
+Net loss
+
+(35,590) 
+
+(10,574) 
+
+Net loss per share (basic and diluted)
+
+(0.01) 
+
+(0.00) 
+
+Shares used in computing net loss
+
+Per share
+
+3,120,000 
+
+3,120,000 
+
+See accompanying notes to financial statements.
+
+F-4 
+
+Table of Contents 
+
+CDSI HOLDINGS INC. 
+
+Statements of Stockholders Equity
+
+Accumulated 
+
+Additional 
+
+Other 
+
+Total 
+
+Common Stock 
+
+Paid-in 
+
+Accumulated 
+
+Comprehensive 
+
+Stockholders 
+
+Shares 
+
+Amount 
+
+Capital 
+
+Deficit 
+
+Income 
+
+Equity 
+
+Balance at January 1, 2007
+
+3,120,000 
+
+31,200 
+
+8,209,944 
+
+(8,186,932) 
+
+224 
+
+54,436 
+
+Net loss
+
+(10,574) 
+
+(10,574) 
+
+Net realized gain reclassified
+into net loss
+
+(204) 
+
+(204) 
+
+Change in unrealized gain on
+investment securities
+
+(20) 
+
+(20) 
+
+Net change in unrealized gain
+on investment securities
+
+(224) 
+
+Total comprehensive loss
+
+(10,798) 
+
+Balance at January 1, 2008
+
+3,120,000 
+
+31,200 
+
+8,209,944 
+
+(8,197,506) 
+
+43,638 
+
+Net loss
+
+(35,590) 
+
+(35,590) 
+
+Balance at December 31, 2008
+
+3,120,000 
+
+31,200 
+
+8,209,944 
+
+(8,233,096) 
+
+8,048 
+
+See accompanying notes to financial statements.
+
+F-5 
+
+Table of Contents 
+
+CDSI HOLDINGS INC. 
+
+Statements of Cash Flows
+
+Years Ended December 31, 
+
+2008 
+
+2007 
+
+Cash flows from operating activities:
+
+Net loss
+
+(35,590) 
+
+(10,574) 
+
+Adjustments to reconcile net loss to
+net cash used in operating activities:
+
+Changes in assets and liabilities:
+
+Gain on investment securities
+
+(204) 
+
+Accounts payable and accrued expenses
+
+5,000 
+
+(950) 
+
+Net cash used in operating activities
+
+(30,590) 
+
+(11,728) 
+
+Net cash flows provided from investing activities:
+
+Sale of investment securities
+
+204 
+
+Net cash flows provided from investing activities
+
+204 
+
+Net cash flows provided from financing activities
+
+Net decrease in cash
+
+(30,590) 
+
+(11,524) 
+
+Cash and cash equivalents at beginning of period
+
+50,288 
+
+61,812 
+
+Cash and cash equivalents at end of period
+
+19,698 
+
+50,288 
+
+Supplemental cash flow information:
+
+Cash paid during year for:
+
+Interest
+
+Income taxes
+
+See accompanying notes to financial statements.
+
+F-6 
+
+Table of Contents 
+
+CDSI HOLDINGS INC. 
+
+Notes to Financial Statements
+
+(1) 
+ 
+ Business and Organization 
+
+CDSI Holdings Inc. (the Company or CDSI was incorporated in Delaware on December 29, 1993
+and is a shell company as defined in Rule 12b-2 of the Securities Exchange Act of 1934. On
+January 12, 1999, the Company s stockholders voted to change the corporate name of the Company
+from PC411, Inc. to CDSI Holdings Inc. Prior to May 1998, the Company s principal business
+was an on-line electronic delivery information service that transmits name, address, telephone
+number and other related information digitally to users of personal computers (the PC411
+Service ). In May 1998, the Company acquired Controlled Distribution Systems, Inc. CDS ), a
+company engaged in the marketing and leasing of an inventory control system for tobacco
+products. In February 2000, CDSI announced CDS will no longer actively engage in the business
+of marketing and leasing the inventory control system. In November 2003, the Company and its
+wholly-owned subsidiary CDS merged with the Company as the surviving corporation. 
+
+At December 31, 2008, the Company had an accumulated deficit of approximately 8,233,096. The
+Company has reported an operating loss in each of its fiscal quarters since inception and it
+expects to continue to incur operating losses in the immediate future. The Company has
+reduced operating expenses and is seeking acquisition and investment opportunities. There is
+a risk the Company will continue to incur operating losses. 
+
+CDSI intends to seek new business opportunities. As CDSI has only limited cash resources,
+CDSI s ability to complete any acquisition or investment opportunities it may identify will
+depend on its ability to raise additional financing, as to which there can be no assurance.
+There can be no assurance that the Company will successfully identify, complete or integrate
+any future acquisition or investment, or that acquisitions or investments, if completed, will
+contribute favorably to its operations and future financial condition. 
+
+(2) 
+ 
+ Summary of Significant Accounting Policies 
+
+Cash and Cash Equivalents 
+
+Cash and cash equivalents include money market funds with a maturity of three months or less. 
+
+Fair Value of Financial Instruments 
+
+The fair values of the Company s cash and cash equivalents and accrued expenses approximate
+their carrying values due to the relatively short maturities of these instruments. 
+
+F-7 
+
+Table of Contents 
+
+CDSI HOLDINGS INC. 
+
+Notes to Financial Statements Continued
+
+Income Taxes 
+
+The Company utilizes the liability method of accounting for deferred income taxes. Under the
+liability method, deferred tax assets and liabilities are determined based on the difference
+between the financial statement and tax basis of assets and liabilities using enacted tax
+rates in effect for the year in which the differences are expected to reverse. 
+
+Computation of Basic and Diluted Net Loss per Share 
+
+Basic net loss per share of Common Stock has been computed by dividing the net loss applicable
+to common shareholders by the weighted average number of shares of common stock outstanding
+during the year. Diluted loss per share is computed by dividing net loss applicable to common
+shareholders by the weighted average number of common shares outstanding, increased by the
+assumed conversion of other potentially dilutive securities during the period. Stock options
+and warrants totaling 9,000 and 128,000 shares at December 31, 2008 and 2007, respectively,
+were excluded from the calculation of diluted per share results presented because their effect
+was anti-dilutive. Accordingly, diluted net loss per common share is the same as basic net
+loss per common share. 
+
+Use of Estimates 
+
+The preparation of financial statements in conformity with U.S. generally accepted accounting
+principles requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and disclosure of contingent assets and liabilities at the
+date of the financial statements and the reported amounts of revenue and expenses during the
+reporting period. Actual results could differ from those estimates. 
+
+Concentrations of Risks 
+
+Financial instruments which potentially subject the Company to concentrations of credit risk
+consist principally of cash held in overnight money market accounts. The Company has no
+formal policy requiring collateral to support the financial instruments subject to credit
+risk. 
+
+F-8 
+
+Table of Contents 
+
+CDSI HOLDINGS INC. 
+
+Notes to Financial Statements Continued
+
+(3) 
+ 
+ Sale of Dialog Stock 
+
+Dialog Group Inc. owns the PC411 Service. In April 2007, the Company sold its remaining 2,800
+shares of Dialog stock for 204 and recorded a gain of 204 from the sale for the year ended
+December 31, 2007. 
+
+(4) 
+ 
+ Investments and Fair Value Measurements 
+
+On January 1, 2008, the Company adopted SFAS No. 157, Fair Value Measurements , for financial
+assets and financial liabilities. SFAS No. 157 does not require any new fair value
+measurements but rather introduces a framework for measuring fair value and expands required
+disclosure about fair value measurements of assets and liabilities. 
+
+SFAS No. 157 discusses valuation techniques, such as the market approach (comparable market
+prices), the income approach (present value of future income or cash flow), and the cost
+approach (cost to replace the service capacity of an asset or replacement cost). The statement
+clarifies that fair value is an exit price, representing amounts that would be received to
+sell an asset or paid to transfer a liability in an orderly transaction between market
+participants. 
+
+SFAS No. 157 utilizes a three-tier fair value hierarchy that prioritizes the inputs to
+valuation techniques used to measure fair value into three broad levels. The following is a
+brief description of those three levels: 
+
+Level 1
+
+Observable inputs such as quoted prices (unadjusted) in
+active markets for identical assets or liabilities.
+
+Level 2
+
+Inputs other than quoted prices that are observable for the
+assets or liability, either directory or indirectly. These
+include quoted prices for similar assets or liabilities in
+active markets and quoted prices for identical or similar
+assets or liabilities in markets that are not active.
+
+Level 3
+
+Unobservable inputs in which there is little market data,
+which requires the reporting entity to develop their own
+assumptions
+
+This hierarchy requires the use of observable market data, when available, and to minimize the
+use of unobservable inputs when determining fair value. 
+
+The Company s population of recurring financial assets and liabilities subject to fair value
+measurements and the necessary disclosures consists of approximately 19,394 of cash invested
+in a money market fund. The fair value determination of the money market fund is a Level 1
+asset under the SFAS 157 hierarchy. The money market fund is invested in Treasury Funds with
+quoted prices in active markets. 
+
+F-9 
+
+Table of Contents 
+
+CDSI HOLDINGS INC. 
+
+Notes to Financial Statements Continued
+
+(5) 
+ 
+ Related Party Transactions 
+
+Certain accounting and related finance functions are performed on behalf of the Company by
+employees of the parent of the Company s principal stockholder, Vector Group Ltd. Vector ).
+Expenses incurred relating to these functions are allocated to the Company and paid as
+incurred to Vector based on management s best estimate of the cost involved. The amounts
+allocated were immaterial for all periods presented herein. 
+
+On March 26, 2009, the Company and Vector entered into a 50,000 Revolving Credit Promissory
+Note (the Revolver due December 31, 2012. The loan bears interest at 11 per annum and is
+due on December 31, 2012. No amounts were outstanding under the Revolver at March 27, 2009. 
+
+(6) 
+ 
+ Stock Options 
+
+The Company granted equity compensation under its 1997 Stock Option Plan (the 1997 Plan ),
+which expired on January 29, 2007 and provided for the grant of options to purchase the
+Company s stock to the employees and directors of the Company. The term of the options granted
+under the 1997 Plan was limited to 10 years from the date of grant. 
+
+The Company accounts for stock options under the provisions of SFAS No. 123(R), which requires
+the Company to value unvested stock options granted prior to the adoption of SFAS No. 123(R)
+under the fair value method of accounting and expense this amount in the statement of
+operations over the stock option s remaining vesting period. The Company adopted this new
+standard, prospectively, on January 1, 2006. Because all options outstanding were fully vested
+at January 1, 2006, there was no impact on the Company s financial statements. 
+
+As permitted by SFAS No. 123 and SFAS No. 123(R), the fair value of option grants is estimated
+at the date of grant using the Black-Scholes option pricing model. There were no option grants
+in the years ended December 31, 2008 and 2007. 
+
+Approximately 25,333 and 119,000 options to acquire shares of Common Stock expired during 2007
+and 2008. In addition to the options issued to employees, the Company had granted New Valley
+LLC, a wholly-owned subsidiary of Vector, options to acquire 500,000 shares of Common Stock at
+ 5.75 per share, which fully vested upon the completion of the Company s initial public
+offering in May 1997. These options expired in March 2007. 
+
+F-10 
+
+Table of Contents 
+
+CDSI HOLDINGS INC. 
+
+Notes to Financial Statements Continued
+
+A summary of the Company s stock option activity during the years ended December 31, 2007 and
+2008, respectively, are as follows: 
+
+Weighted- 
+
+Average 
+
+Weighted- 
+
+Remaining 
+
+Average 
+
+Contractual 
+
+Aggregate 
+
+Exercise 
+
+Term 
+
+Intrinsic 
+
+Shares 
+
+Price 
+
+(in years) 
+
+Value(1) 
+
+Outstanding at January 1, 2007
+
+153,333 
+
+2.03 
+
+1.2 
+
+Granted
+
+Exercised
+
+Forfeited or expired
+
+(25,333) 
+
+5.50 
+
+Outstanding at December 31, 2007
+
+128,000 
+
+1.34 
+
+.35 
+
+Granted
+
+Exercised
+
+Forfeited or expired
+
+(119,000) 
+
+1.41 
+
+Outstanding at December 31, 2008
+
+9,000 
+ (2) 
+
+0.44 
+
+0.03 
+
+Exercisable at December 31, 2008
+
+9,000 
+
+Options vested during period
+
+(1) 
+ 
+ The aggregate intrinsic value represents the amount by which the fair value of the
+underlying common stock 0.10 and 0.19 at December 31, 2008 and 2007, respectively)
+exceeds the option exercise price. 
+
+(2) 
+ 
+ These options expired on January 12, 2009. 
+
+(7) 
+ 
+ Preferred Stock 
+
+The Company has the authority to issue 5,000,000 shares of Preferred Stock, which may be
+issued from time to time in one or more series. 
+
+F-11 
+
+Table of Contents 
+
+CDSI HOLDINGS INC. 
+
+Notes to Financial Statements Continued
+
+(8) 
+ 
+ Income Taxes 
+
+During the years ended December 31, 2008 and 2007, the Company had no income and therefore
+made no provision for Federal and state income taxes. 
+
+At December 31, 2008 and 2007, the Company had approximately 7,025,000 and 6,995,000,
+respectively, of net operating loss carryforwards for federal and state tax reporting purposes
+available to offset future taxable income, if any; such carryforwards expire between 2009 and
+2028 (federal) and 2006 and 2028 (state). Deferred tax assets and liabilities principally
+relate to net operating loss carryforwards and aggregate approximately 2,500,000 before
+valuation allowance. In assessing the realizability of the net deferred tax assets,
+management considers whether it is more likely than not that some or all of the deferred tax
+assets will not be realized. The ultimate realization of deferred tax assets is dependent
+upon the generation of future taxable income during periods in which those temporary
+differences become deductible. As of December 31, 2008, the Company has provided a full
+valuation allowance against net deferred tax assets due to the Company s uncertainty of future
+taxable income against which the deferred tax asset may be utilized. Accordingly, no deferred
+tax asset has been recorded on the accompanying balance sheet. 
+
+(9) 
+ 
+ Contingencies 
+
+As of December 31, 2008, the Company was not authorized to transact business in any state
+other than Delaware, which is its state of incorporation. The Company received an inquiry
+from the Florida Department of State (the FDS inquiring whether the Company should have
+registered with the FDS in previous years, beginning in 1998. In March 2006, the Company
+responded to the inquiry and stated it believes its activities in previous years did not meet
+the requirements for such registration; however, no assurance can be provided that the
+Company s position will be accepted by the FDS. The Company is unable to quantify the amount
+of any registration fees and other costs attributable to any failure to register and has not
+accrued any amounts in its financial statements related to such inquiry. 
+
+The Company received refunds of approximately 21,791 in 2007 for unclaimed property in a
+state the Company previously conducted business. 
+
+F-12 
+
+<EX-4.1>
+ 2
+ g18193exv4w1.htm
+ EX-4.1
+
+EX-4.1 
+
+Exhibit 4.1 
+
+REVOLVING CREDIT PROMISSORY NOTE 
+
+50,000.00
+
+March 26, 2009 
+
+FOR VALUE RECEIVED, CDSI Holdings Inc., a Delaware corporation (the Borrower hereby
+unconditionally promises to pay to the order of Vector Group Ltd., having an office at 100 S.E.
+Second Street, 32nd Floor, Miami, Florida 33131 (the Lender ), on December 31, 2012, or such later
+date as requested by Borrower and agreed to in writing by the Lender in its sole discretion (the
+ Maturity Date ), the principal sum of Fifty Thousand Dollars 50,000.00) (the Commitment
+Amount or such lesser amount as may be outstanding under this Revolving Credit Promissory Note
+(the Note ), together with accrued unpaid interest as set forth herein.
+
+1. Revolving Facility .
+
+1.1 Subject to the terms hereof, the Lender may, in its sole discretion, agree to make
+advances (each an Advance to the Borrower upon the Borrower s request in an aggregate amount not
+to exceed Fifty Thousand dollars 50,000.00) or such lesser amounts that when combined, shall not
+exceed the Commitment Amount. The Borrower acknowledges and agrees that the Lender has no
+obligation of any kind to make any Advance and may elect at any time and without cause to not make
+any Advances. The Borrower and the Lender shall agree upon mutually acceptable borrowing notice
+procedures.
+
+1.2 The Lender s records of all Advances and payments made hereunder shall, absent manifest
+error, be binding on the Borrower for all purposes.
+
+1.3 Principal amounts repaid or prepaid hereunder, subject to the terms hereof, may be
+reborrowed.
+
+2. Interest; Net Payments .
+
+2.1 All loans outstanding hereunder shall bear interest, upon any net balance outstanding at
+the close of each day, which interest will be payable by the Borrower in arrears, on the Maturity
+Date, until the principal is paid in full pursuant to the terms hereof, at a rate of interest
+(calculated on a year of 360 days) equal to eleven percent (11 per annum; provided ,
+ however , that if the Borrower does not pay the outstanding principal and interest due and
+owing by the Maturity Date, such amount(s) shall automatically be compounded at the Default Rate
+(defined below). Principal shall be repaid in full on the Maturity Date or upon such earlier date
+upon which demand therefor is made by the Lender; provided however , that two (2) days
+advance notice of any such demand is given to the Borrower.
+
+2.2 Any amounts outstanding on the earliest of (i) the occurrence of an Event of Default and
+the passage of any applicable cure period or (ii) the Maturity Date, to the extent permitted by
+applicable law, shall accrue interest at sixteen percent (16 per annum (calculated on a year of
+360 days) compounded quarterly (the Default Rate ).
+
+2.3 All payments hereunder shall be made to the account specified by the Lender to the
+Borrower in immediately available funds in United States Dollars without setoff, defense or
+counterclaim or withholding on account of taxes, levies, duties or any other deduction whatsoever.
+Whenever any payment to be made hereunder shall be otherwise due on a day which is not a business
+day, such payment shall be made on the next succeeding business day, unless such date falls into
+the next calendar month (in which case payment is to be made on the preceding date) and such
+extension of time shall in such case be included in the computation of interest.
+
+3. Representations and Warranties; Covenants .
+
+3.1 As an inducement for the Lender to make Advances hereunder, the Borrower hereby
+represents, warrants and covenants that on the closing date and at the time of each Advance that:
+
+(a) it is a Delaware corporation duly organized, validly existing and in good standing;
+
+(b) it has the authority and has taken all necessary action in order to execute and deliver
+this Note and to perform the terms and provisions set forth herein;
+
+(c) the Borrower s obligations under this Note are legal, valid and binding and enforceable
+against the Borrower in accordance with their terms, except as such enforceability may be limited
+by bankruptcy, insolvency or similar laws affecting the enforcement of creditor s rights in
+general;
+
+(d) the Borrower shall provide the Lender with such financial information regarding the
+Borrower, its affiliates and their respective business operations as the Lender may from time to
+time request;
+
+(e) without the prior consent of the Lender, the Borrower shall not amend its governing
+documents in any manner that would be adverse to the Lender;
+
+(f) without the prior consent of the Lender, the Borrower shall not directly or indirectly
+incur any indebtedness for borrowed money (or similar liability); and
+
+(g) without the prior consent of the Lender, the Borrower shall not directly or indirectly
+encumber, pledge, hypothecate or charge, any of its assets or properties or sell all or
+substantially all of its assets or properties.
+
+4. Intentionally Omitted. 
+
+5. Events of Default .
+
+5.1 In the event of any of the following (each, an Event of Default ):
+
+(a) the Borrower fails to pay any principal amount when due hereunder whether at maturity or
+upon demand or otherwise;
+
+-2- 
+
+(b) the Borrower fails to pay any interest or other amount when due hereunder;
+
+(c) the Borrower shall have made a material misrepresentation herein or in any other document
+or agreement delivered to the Lender in connection with this Note;
+
+(d) the Borrower fails to perform any agreement or covenant contained herein or under any
+other document or agreement delivered to the Lender in connection with this Note;
+
+(e) (i) the Borrower voluntarily commences a case or proceeding seeking liquidation,
+reorganization or other relief with respect to the Borrower or any of its debts under any
+bankruptcy, insolvency or other similar law or seeking the appointment of a trustee, receiver,
+liquidator, custodian or other similar official of it or any substantial part of its property
+(hereinafter, a Proceeding ), or (ii) an involuntary Proceeding is commenced against the Borrower,
+and such involuntary Proceeding shall remain undismissed and unstayed for a period of thirty (30)
+days, or (iii) an order for relief shall be entered against the Borrower with respect to the
+disposition of any of its respective property under the bankruptcy laws as now or hereafter in
+effect, or (iv) the Borrower makes an assignment for the benefit of its creditors or admits in
+writing its inability to pay its debts;
+
+(f) the Borrower fails to pay any other indebtedness (on account of borrowed money or similar
+liability) when due, and such failure continues unremedied for more than five (5) business days
+following notice of the failure to pay;
+
+(g) one or more judgments or decrees shall be entered by a court or courts against the
+Borrower or any of its properties;
+
+(h) the Borrower sells, transfers or assigns the Note or any of the loans or Advances
+thereunder without the prior written consent of Lender; or
+
+(i) Borrower terminates or dissolves its business or takes any actions designed or intended to
+impair or limit in any material respect the ability of Borrower to conduct its business in the
+ordinary course consistent with past practices;
+
+the obligations hereunder shall immediately and automatically become due and payable in full
+without further demand or notice, and the Lender shall be entitled to exercise all of its rights
+and remedies under this Note, and as otherwise provided under applicable law.
+
+6. Lender s Expenses .
+
+The Borrower agrees to pay or reimburse the Lender for all its reasonable costs and expenses
+incurred in connection with the enforcement, collection or preservation of any rights under this
+Note including, without limitation, reasonable fees and disbursements of counsel to the Lender.
+The agreements in this Section 6 shall survive repayment of the Note.
+
+-3- 
+
+7. Cumulative Remedies; No Waiver .
+
+To the extent permitted by law, every remedy given hereunder to the Lender shall not be
+exclusive of any other remedy or remedies, and every such remedy shall be cumulative and in
+addition to every remedy provided by statute, law, equity or otherwise.
+
+8. Waiver of Presentment .
+
+The Borrower hereby waives presentment for payment, demand, notice of nonpayment,
+notice of protest, notice of intent to accelerate, notice of acceleration and protest of this Note,
+and all other notices in connection with the delivery, acceptance, performance, default or
+enforcement of the payment of this Note, and agrees that its liability shall not be in any manner
+affected by any indulgence, extension of time, renewal, waiver or modification granted or consented
+to by the Lender and consents to any and all such extensions of time, renewals, waivers and
+modifications as may be granted by the Lender with respect to the payment or other provisions of
+this Note without notice to the Borrower and without affecting its liability hereunder.
+
+9. Compliance with Usury Laws .
+
+It is the intent of the Lender and the Borrower to comply at all times with applicable usury
+laws. If at any time such laws would render usurious any amounts called for under this Note, then
+it is the express intention of the Borrower and the Lender that such excess amount be immediately
+credited on the principal balance of this Note (or, if this Note has been fully paid, refunded by
+the Lender to the Borrower, and the Borrower shall accept such refund), and the provisions hereof
+be immediately deemed to be reformed and the amounts thereafter collectible hereunder reduced to
+comply with the then applicable laws, without the necessity of the execution of any further
+documents, but so as to permit the recovery of the fullest amount otherwise called for hereunder.
+
+10. Governing Law .
+
+(a) This Note shall be construed in accordance with, and governed by, the laws of the State of
+Florida without regard to the conflicts of law principles thereof.
+
+(b) The Borrower agrees that there are sufficient minimum contacts of the Borrower with
+Miami-Dade County and the State of Florida for the purpose of conferring jurisdiction upon the
+federal and state courts presiding in such county and state. The Borrower consents that any legal
+action or proceeding arising hereunder may be brought in the Circuit Court of the State of Florida,
+Miami-Dade County, Florida or the United States District Court for the Southern District of Florida
+and assents and submits to personal jurisdiction of any such court in any action or proceeding
+involving the Borrower or this Note.
+
+(c) THE BORROWER HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVES TRIAL BY JURY IN ANY LEGAL
+ACTION OR PROCEEDING RELATING TO THIS NOTE OR ANY OTHER LOAN DOCUMENT AND FOR ANY COUNTERCLAIM
+THEREIN .
+
+-4- 
+
+11. Amendment; Entire Agreement .
+
+(a) This Note may not be changed, waived, modified or discharged orally but only by an
+agreement in writing, signed by the party against whom enforcement of any such change, waiver,
+modification or discharge is sought. This Note may not be assigned by the Borrower or the Lender.
+This Note shall be binding on the Borrower and shall inure to the benefit of the Lender.
+
+(b) This Note represents the agreement of the Borrower and the Lender with respect to the
+subject matter hereof, and there are no promises, undertakings, representations or warranties by
+the Lender relative to the subject matter hereof not expressly set forth or referred to herein or
+under any other document or agreement delivered to the Lender in connection with this Note.
+
+12. Severability .
+
+If any term or provision of this Note or the application thereof to any person or
+circumstance shall to any extent be invalid, illegal or unenforceable, the remainder of this Note
+or the application of such term or provision to persons or circumstances other than those as to
+which it is invalid or unenforceable shall not be affected thereby.
+
+SIGNATURE PAGE FOLLOWS 
+
+-5- 
+
+IN WITNESS WHEREOF , the parties hereto have caused this Note to be executed by their duly
+authorized officers as of the date and year first above written.
+
+BORROWER 
+
+CDSI HOLDINGS, INC., a Delaware corporation 
+
+By: 
+ /s/ Robert M. Lundgren
+
+Name: 
+ Robert M. Lundgren 
+
+Title: 
+ Director 
+
+LENDER 
+
+VECTOR GROUP LTD., a Delaware corporation 
+
+By: 
+ /s/ Marc N. Bell
+
+Name: 
+ Marc N. Bell 
+
+Title: 
+ Vice President, General Counsel and Secretary 
+
+Address: 100 S.E. Second Street, 32nd Floor, Miami, Florida 33131 
+
+-6- 
+
+</EX-4.1>
+
+<EX-31.1>
+ 3
+ g18193exv31w1.htm
+ EX-31.1
+
+EX-31.1 
+
+EXHIBIT 31.1
+
+RULE 13a-14(a) CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+
+I, Richard J. Lampen, certify that:
+
+1. I have reviewed this annual report on Form 10-K of CDSI Holdings Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or
+omit to state a material fact necessary to make the statements made, in light of the circumstances
+under which such statements were made, not misleading with respect to the period covered by this
+report;
+
+3. Based on my knowledge, the financial statements, and other financial information included in
+this report, fairly present in all material respects the financial condition, results of operations
+and cash flows of the registrant as of, and for, the periods presented in this report;
+
+4. The registrant s other certifying officer and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and
+internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and
+15d-15(f)) for the registrant and have:
+
+(a) designed such disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material information relating to
+the registrant, including its consolidated subsidiaries, is made known to us by others within those
+entities, particularly during the period in which this report is being prepared;
+
+(b) designed such internal control over financial reporting, or caused such internal control
+over financial reporting to be designed under our supervision, to provide reasonable assurance
+regarding the reliability of financial reporting and the preparation of financial statements for
+external purposes in accordance with generally accepted accounting principles;
+
+(c) evaluated the effectiveness of the registrant s disclosure controls and procedures and
+presented in this report our conclusions about the effectiveness of the disclosure controls and
+procedures, as of the end of the period covered by this report based on such evaluation; and
+
+(d) disclosed in this report any change in the registrant s internal control over financial
+reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth
+fiscal quarter in the case of an annual report) that has materially affected, or is reasonably
+likely to materially affect, the registrant s internal control over financial reporting; and
+
+5. The registrant s other certifying officer and I have disclosed, based on our most recent
+evaluation of internal control over financial reporting, to the registrant s auditors and the audit
+committee of registrant s board of directors (or persons performing the equivalent functions):
+
+(a) all significant deficiencies and material weaknesses in the design or operation of
+internal control over financial reporting which are reasonably likely to adversely affect the
+registrant s ability to record, process, summarize and report financial information; and
+
+(b) any fraud, whether or not material, that involves management or other employees who have a
+significant role in the registrant s internal control over financial reporting.
+
+Date: March 27, 2009
+
+/s/ Richard J. Lampen
+
+Richard J. Lampen 
+
+President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ g18193exv31w2.htm
+ EX-31.2
+
+EX-31.2 
+
+EXHIBIT 31.2
+
+RULE 13a-14(a) CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+
+I, J. Bryant Kirkland III, certify that:
+
+1. I have reviewed this annual report on Form 10-K of CDSI Holdings Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or
+omit to state a material fact necessary to make the statements made, in light of the circumstances
+under which such statements were made, not misleading with respect to the period covered by this
+report;
+
+3. Based on my knowledge, the financial statements, and other financial information included in
+this report, fairly present in all material respects the financial condition, results of operations
+and cash flows of the registrant as of, and for, the periods presented in this report;
+
+4. The registrant s other certifying officer and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and
+internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and
+15d-15(f)) for the registrant and have:
+
+(a) designed such disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material information relating to
+the registrant, including its consolidated subsidiaries, is made known to us by others within those
+entities, particularly during the period in which this report is being prepared;
+
+(b) designed such internal control over financial reporting, or caused such internal control
+over financial reporting to be designed under our supervision, to provide reasonable assurance
+regarding the reliability of financial reporting and the preparation of financial statements for
+external purposes in accordance with generally accepted accounting principles;
+
+(c) evaluated the effectiveness of the registrant s disclosure controls and procedures and
+presented in this report our conclusions about the effectiveness of the disclosure controls and
+procedures, as of the end of the period covered by this report based on such evaluation; and
+
+(d) disclosed in this report any change in the registrant s internal control over financial
+reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth
+fiscal quarter in the case of an annual report) that has materially affected, or is reasonably
+likely to materially affect, the registrant s internal control over financial reporting; and
+
+5. The registrant s other certifying officer and I have disclosed, based on our most recent
+evaluation of internal control over financial reporting, to the registrant s auditors and the audit
+committee of registrant s board of directors (or persons performing the equivalent functions):
+
+(a) all significant deficiencies and material weaknesses in the design or operation
+of internal control over financial reporting which are reasonably likely to adversely
+affect the registrant s ability to record, process, summarize and report financial
+information; and
+
+(b) any fraud, whether or not material, that involves management or other employees
+who have a significant role in the registrant s internal control over financial
+reporting.
+
+Date: March 27, 2009
+
+/s/ J. Bryant Kirkland III
+
+J. Bryant Kirkland III 
+
+Vice President, Treasurer and Chief Financial
+Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ g18193exv32w1.htm
+ EX-32.1
+
+EX-32.1 
+
+EXHIBIT 32.1
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO 
+18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Annual Report of CDSI Holdings Inc. (the Company on Form 10-K for
+the period ended December 31, 2008 as filed with the Securities and Exchange Commission on the date
+hereof (the Report ), I, Richard J. Lampen, Chief Executive Officer of the Company, certify,
+pursuant to 18 U.S.C. section 1350, as adopted pursuant to section 906 of the Sarbanes-Oxley Act of
+2002, that, to my knowledge:
+
+1. 
+ 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of
+the Securities Exchange Act of 1934; and 
+
+2. 
+ 
+ The information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company. 
+
+March 27, 2009
+
+/s/ Richard J. Lampen
+
+Richard J. Lampen 
+
+President and Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ g18193exv32w2.htm
+ EX-32.2
+
+EX-32.2 
+
+EXHIBIT 32.2
+
+CERTIFICATION OF CHIEF FINANCIAL OFFICER PURSUANT TO 
+18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Annual Report of CDSI Holdings Inc. (the Company on Form 10-K for
+the period ended December 31, 2008 as filed with the Securities and Exchange Commission on the date
+hereof (the Report ), I, J. Bryant Kirkland III, Chief Financial Officer of the Company, certify,
+pursuant to 18 U.S.C. section 1350, as adopted pursuant to section 906 of the Sarbanes-Oxley Act of
+2002, that, to my knowledge:
+
+1. 
+ 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of
+the Securities Exchange Act of 1934; and 
+
+2. 
+ 
+ The information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company. 
+
+March 27, 2009
+
+/s/ J. Bryant Kirkland III
+
+J. Bryant Kirkland III 
+
+Vice President and Chief Financial Officer 
+
+</EX-32.2>
+

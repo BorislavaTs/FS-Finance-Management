@@ -1,0 +1,2454 @@
+<Header>
+<FileStats>
+    <FileName>19960319_10-K_edgar_data_40987_0000950144-96-001008.txt</FileName>
+    <GrossFileSize>141955</GrossFileSize>
+    <NetFileSize>106438</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1851</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950144-96-001008.hdr.sgml : 19960320
+ACCESSION NUMBER:		0000950144-96-001008
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		8
+CONFORMED PERIOD OF REPORT:	19951231
+FILED AS OF DATE:		19960319
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GENUINE PARTS CO
+		CENTRAL INDEX KEY:			0000040987
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-MOTOR VEHICLE SUPPLIES & NEW PARTS [5013]
+		IRS NUMBER:				580254510
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05690
+		FILM NUMBER:		96536133
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2999 CIRCLE 75 PARKWAY
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30339
+		BUSINESS PHONE:		4049531700
+
+	MAIL ADDRESS:	
+		STREET 1:		2999 CIRCLE 75 PARKWAY
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30339
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ L+NY4OGmJbme3RtmHMHkyE5xuKb2xWSy8FPHb8EGvDOhM9F71DF/WG5jEeEy8sBH
+ akxAfr7bfsT4KoJTFTfI+g==
+
+ 0000950144-96-001008.txt : 19960320
+
+10-K
+ 1
+ GENUINE PARTS 10-K
+
+1
+ 
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+ 
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+ 
+ ---------------------
+ 
+ FORM 10-K
+
+(MARK ONE)
+ [X] ANNUAL REPORT PURSUANT TO SECTION 13 OF
+ THE SECURITIES EXCHANGE ACT OF 1934 (FEE REQUIRED)
+ FOR THE FISCAL YEAR ENDED: DECEMBER 31, 1995
+ OR
+ [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF
+ THE SECURITIES EXCHANGE ACT OF 1934 (NO FEE REQUIRED)
+ COMMISSION FILE NO. 1-5690
+
+GENUINE PARTS COMPANY
+ (Exact name of Registrant as specified in its Charter)
+
+GEORGIA 58-0254510
+ (State of Incorporation) (IRS Employer Identification No.)
+
+2999 CIRCLE 75 PARKWAY, ATLANTA, GEORGIA 30339
+ (Address of Principal Executive Offices) (Zip Code)
+ 
+ Registrant's telephone number, including area code: (770) 953-1700.
+ 
+ Securities registered pursuant to Section 12(b) of the Act and the Exchange
+on which such securities are registered:
+ 
+ Common Stock, Par Value, 1 Per Share
+ New York Stock Exchange
+ 
+ Securities registered pursuant to Section 12(g) of the Act: None
+ 
+ Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports) and (2) has been subject to such
+filing requirements for the past 90 days. Yes X No
+ 
+ Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of Registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [X]
+ 
+ The aggregate market value of the Registrant's Common Stock (based upon the
+closing sales price reported by the New York Stock Exchange and published in The
+Wall Street Journal for February 9, 1996) held by non-affiliates as of February
+9, 1996 was approximately 5,000,416,444.
+ 
+ The number of shares outstanding of Registrant's Common Stock, as of
+February 9, 1996: 121,869,968.
+ 
+ Documents Incorporated by Reference:
+ --Portions of the Annual Report to Shareholders for the fiscal year ended
+ December 31, 1995, are incorporated by reference into Parts I and II.
+ --Portions of the definitive proxy statement for the Annual Meeting of
+ Shareholders to be held on April 15, 1996 are incorporated by reference
+ into Part III.
+ 
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+ 2
+
+PART I. ITEM I. BUSINESS.
+
+ Genuine Parts Company, a Georgia corporation incorporated on May 7,
+1928, is a service organization engaged in the distribution of automotive
+replacement parts, industrial replacement parts and office products. In 1995,
+business was conducted throughout most of the United States and in western
+Canada from more than 1250 operations. As used in this report, the "Company"
+refers to Genuine Parts Company and its subsidiaries, except as otherwise
+indicated by the context; and the terms "automotive parts" and "industrial
+parts" refer to replacement parts in each respective category.
+
+Industry Segment Data. The following table sets forth the net sales, operating
+profit and identifiable assets for the fiscal years 1995, 1994 and 1993
+attributable to each of the Company's groups of products which the Company
+believes indicate segments of its business. Sales to unaffiliated customers
+are the same as net sales.
+
+1995 1994 1993
+ ---- ---- ----
+ NET SALES (in thousands)
+ --------- 
+ 
+ Automotive Parts 2,804,086 2,693,961 2,485,267
+ Industrial Parts 1,509,566 1,317,495 1,153,371
+ Office Products 948,252 846,959 745,656
+ ----------- ----------- -----------
+ TOTAL NET SALES 5,261,904 4,858,415 4,384,294
+ =========== =========== ===========
+
+ OPERATING PROFIT
+ ----------------
+
+ Automotive Parts 307,726 304,164 282,791
+ Industrial Parts 132,952 111,822 96,727
+ Office Products 93,888 78,206 65,938
+ ----------- ----------- -----------
+ TOTAL OPERATING PROFIT 534,566 494,192 445,456
+ Interest Expense (3,419) (1,321) (1,584)
+ Corporate Expense (25,939) (22,854) (20,405)
+ Equity in Income 8,298 7,224 4,452
+ Minority Interests (2,712) (2,373) (2,090)
+ ----------- ----------- -----------
+ INCOME BEFORE
+ INCOME TAXES 510,794 474,868 425,829 
+ =========== =========== ===========
+
+ IDENTIFIABLE ASSETS
+ -------------------
+
+ Automotive Parts 1,320,910 1,223,416 1,152,148
+ Industrial Parts 482,067 404,647 370,633
+ Office Products 360,456 308,817 283,479
+ ----------- ----------- -----------
+ TOTAL IDENTIFIABLE ASSETS 2,163,433 1,936,880 1,806,260
+ Corporate Assets 18,631 5,950 6,731
+ Equity Investments 92,068 86,641 57,765
+ ----------- ----------- -----------
+ TOTAL ASSETS 2,274,132 2,029,471 1,870,756
+ =========== =========== ===========
+
+For additional information regarding industry data, see Page 27 of
+Annual Report to Shareholders for 1995.
+
+ The majority of the Company's revenue, profitability and identifiable
+assets are attributable to the Company's operations in the United States.
+Revenue, profitability and identifiable assets in Canada and Mexico are not
+material. For additional information regarding foreign operations, see "Note 1
+of Notes to Consolidated Financial Statements" on Page 23 of Annual Report to
+Shareholders for 1995.
+
+Competition - General. The distribution business, which includes all segments
+of the Company's business, is highly competitive with the principal methods of
+competition being product quality, sufficiency of inventory, price and the
+ability to give the customer prompt and dependable service. The Company
+anticipates no decline in competition in any of its business segments in the
+
+ -2-
+ 3
+
+foreseeable future.
+
+Employees. As of December 31, 1995, the Company employed approximately 22,500
+persons.
+
+AUTOMOTIVE PARTS GROUP.
+
+ The Automotive Parts Group, the largest division of the Company,
+distributes automotive replacement parts and accessory items. The Company is
+the largest member of the National Automotive Parts Association ("NAPA"), a
+voluntary trade association formed in 1925 to provide nationwide distribution
+of automotive parts. In addition to approximately 165,000 part numbers that
+are available, the Company, in conjunction with NAPA, offers complete
+inventory, accounting, cataloging, marketing, training and other programs in
+the automotive aftermarket.
+ During 1995, the Company's Automotive Parts Group included NAPA
+automotive parts distribution centers and automotive parts stores ("auto parts
+stores" or "NAPA Auto Parts stores") owned in the United States by Genuine
+Parts Company; automotive parts distribution centers and auto parts stores in
+western Canada owned and operated by UAP/NAPA Automotive Western Partnership
+("UAP/NAPA"), a general partnership in which a wholly owned subsidiary of
+Genuine Parts Company owns a 49 interest; auto parts stores in the United
+States operated by corporations in which Genuine Parts Company owned a 51 
+interest; distribution centers owned by Balkamp, Inc., a majority-owned
+subsidiary; rebuilding plants owned by the Company and operated by its Rayloc
+division; and automotive parts distribution centers and auto parts stores in
+Mexico, owned and operated by Grupo Auto Todo, S.A. de C.V. ("Auto Todo"), a
+joint venture company in which a wholly owned subsidiary of Genuine Parts
+Company owns a 49 interest.
+ The Company's NAPA automotive parts distribution centers distribute
+replacement parts (other than body parts) for substantially all motor vehicle
+makes and models in service in the United States, including imported vehicles,
+trucks, buses, motorcycles, recreational vehicles and farm vehicles. In
+addition, the Company distributes small engines and replacement parts for farm
+equipment and heavy duty equipment. The Company's inventories also include
+accessory items for such vehicles and equipment, and supply items used by a
+wide variety of customers in the automotive aftermarket, such as repair shops,
+service stations, fleet operators, automobile and truck dealers, leasing
+companies, bus and truck lines, mass merchandisers, farms, industrial concerns
+and individuals who perform their own maintenance and parts installation.
+Although the Company's domestic automotive operations purchase from more than
+150 different suppliers, approximately 76 of 1995 automotive inventories were
+purchased from 20 major suppliers. Since 1931, the Company has had return
+privileges with most of its suppliers which has protected the Company from
+inventory obsolescence.
+
+Distribution System. In 1995, Genuine Parts Company operated 64 domestic NAPA
+automotive parts distribution centers located in 38 states and 740 domestic
+company-owned NAPA Auto Parts stores located in 43 states. In August 1995, the
+Company's operations at the NAPA Normal, Illinois, Distribution Center were
+consolidated into the NAPA Chicago Distribution Center in Naperville, Illinois.
+The Normal facility was closed. In addition, at December 31, 1995, Genuine
+Parts Company owned a 51 interest in 61 corporations which operated 83 auto
+parts stores in 29 states.
+ In Canada, Genuine Parts Company Ltd., a wholly-owned subsidiary, owns
+a 49 interest in UAP/NAPA which operated 9 automotive parts distribution
+centers and 115 auto parts stores located in the provinces of Alberta, British
+Columbia, Manitoba and Saskatchewan and in the Yukon Territories. In addition,
+the Company has an approximate 23 interest in UAP Inc., a publicly traded
+Canadian corporation, which owns the other 51 interest in UAP/NAPA and further
+engages in the distribution of automotive parts primarily in eastern Canada.
+In Mexico, Auto Todo owns and operates 12 distribution centers and 27 auto
+parts stores. Auto Todo is not licensed to and does not use the NAPA(R) name
+in Mexico. The Company's investments in UAP/NAPA and Auto Todo are accounted
+for by the equity method of accounting.
+ The Company's distribution centers serve approximately 5,000
+independently
+
+ -3-
+ 4
+
+owned NAPA Auto Parts stores located throughout the market areas served. NAPA
+Auto Parts stores, in turn, sell to a wide variety of customers in the
+automotive aftermarket. Collectively, these auto parts stores account for
+approximately 39 of the Company's total sales with no auto parts store or
+group of auto parts stores with individual or common ownership accounting for
+more than .4 of the total sales of the Company.
+
+Products. Distribution centers carry approximately 165,000 different parts and
+related supply items. Each item is cataloged and numbered for identification
+and accessibility. Significant inventories are carried to provide for fast and
+frequent deliveries to customers. Most orders are filled and shipped the same
+day as received. The majority of sales are on terms which require payment
+within 30 days of the statement date. The Company does not manufacture any of
+the products it distributes. The majority of products are distributed under
+the NAPA(R) name, a mark licensed to the Company by the National Automotive
+Parts Association.
+
+Related Operations. A majority-owned subsidiary of Genuine Parts Company,
+Balkamp, Inc.("Balkamp"), distributes a wide variety of replacement parts and
+accessory items for passenger cars, heavy duty vehicles, motorcycles and farm
+equipment. In addition, Balkamp distributes service items such as testing
+equipment, lubricating equipment, gauges, cleaning supplies, chemicals and
+supply items used by repair shops, fleets, farms and institutions. Balkamp
+packages many of the approximately 20,000 part numbers which constitute the
+"Balkamp" line of products which are distributed to the members of the National
+Automotive Parts Association ("NAPA"). These products are categorized in 150
+different product groups purchased from more than 600 suppliers. All Balkamp
+items are cataloged separately to provide single source convenience for NAPA
+customers. BALKAMP(R), a federally registered trademark owned by NAPA and
+licensed to Balkamp, is important to the sales and marketing promotions of the
+Balkamp organization. Balkamp has three distribution centers located in
+Indianapolis, Indiana, Greenwood, Mississippi, and West Jordan, Utah.
+ The Company, through its Rayloc division, also operates six plants
+where certain small automotive parts are rebuilt. These products are
+distributed to the members of NAPA under the name Rayloc(R). Rayloc(R) is a
+mark licensed to the Company by the NAPA.
+
+Segment Data. In the year ended December 31, 1995, sales from the Automotive
+Parts Group approximated 53 of the Company's net sales as compared to 56 in
+1994 and 57 in 1993.
+
+Service to NAPA Auto Parts Stores. The Company believes that the quality and
+the range of services provided to its auto parts customers constitute a
+significant part of its automotive parts distribution system. Such services
+include fast and frequent delivery, obsolescence protection, parts cataloging
+(including the use of computerized NAPA Auto Parts catalogues) and stock
+adjustment through a continuing parts classification system which allows auto
+parts customers to return certain merchandise on a scheduled basis. The
+Company offers its NAPA Auto Parts store customers various management aids,
+marketing aids and service on topics such as inventory control, cost analysis,
+accounting procedures, group insurance and retirement benefit plans, marketing
+conferences and seminars, sales and advertising manuals and training programs.
+Point of sale/inventory management is available through TAMS(R) (Total
+Automotive Management Systems), a computer system designed and developed by the
+Company for the NAPA Auto Parts store.
+ In association with NAPA, the Company has developed and refined an
+inventory classification system to determine optimum distribution center and
+auto parts store inventory levels for automotive parts stocking based on
+automotive registrations, usage rates, production figures, technological
+advances and other similar factors. This system, which undergoes continuous
+analytical review, is an integral part of the Company's inventory control
+procedures and comprises an important feature of the inventory management
+services which the Company makes available to its NAPA Auto Parts store
+customers. Over the last 10 years, losses
+
+ -4-
+ 5
+
+to the Company from obsolescence have been insignificant, and the Company
+attributes this to the successful operation of its classification system which
+involves product return privileges with most of its suppliers.
+
+Competition. In the distribution of automotive parts, the Company competes
+with automobile manufacturers (some of which sell replacement parts for
+vehicles built by other manufacturers as well as those which they build
+themselves), automobile dealers, warehouse clubs and large automotive parts
+retail chains. In addition, the Company competes with the distributing outlets
+of parts manufacturers, oil companies, mass merchandisers, including national
+retail chains, and with other parts distributors and jobbers.
+
+NAPA. The Company is a member of the National Automotive Parts Association, a
+voluntary association formed in 1925 to provide nationwide distribution of
+automotive replacement parts. NAPA, which neither buys nor sells automotive
+parts, functions as a trade association whose members currently operate 72
+distribution centers located throughout the United States, 63 of which are
+owned and operated by the Company. NAPA develops marketing concepts and
+programs which may be used by its members. It is not involved in the chain of
+distribution.
+ Among the automotive lines which each NAPA member purchases and
+distributes are certain lines designated, cataloged, advertised and promoted as
+"NAPA" lines. The members are not required to purchase any specific quantity
+of parts so designated and may, and do, purchase competitive lines from other
+supply sources. 
+ The Company and the other NAPA members use the federally registered 
+trademark NAPA(R) as part of the trade name of their distribution centers and 
+jobbing stores. The Company contributes to NAPA's national advertising which 
+is designed to increase public recognition of the "NAPA" name and to promote 
+"NAPA" product lines.
+ The Company is a party, together with other members of NAPA and NAPA
+itself, to a consent decree entered by the Federal District Court in Detroit,
+Michigan, on May 4, 1954. The consent decree enjoins certain practices under
+the federal antitrust laws, including the use of exclusive agreements with
+manufacturers of automotive parts, allocation or division of territories among
+several NAPA members, fixing of prices or terms of sale for such parts among
+such members, and agreements to adhere to any uniform policy in selecting parts
+customers or determining the number and location of, or arrangements with, auto
+parts customers.
+
+INDUSTRIAL PARTS GROUP
+
+ The Industrial Parts Group distributes industrial replacement parts
+and related supplies. This Group distributes industrial bearings and fluid
+transmission equipment, including hydraulic and pneumatic products, material
+handling components, agricultural and irrigation equipment and their related
+supplies.
+ In 1995, the Company distributed industrial parts in the United States
+through Motion Industries, Inc. ("Motion"), headquartered in Birmingham,
+Alabama, and Berry Bearing Company ("Berry Bearing"), headquartered in Chicago,
+Illinois. Motion and Berry Bearing are wholly owned subsidiaries of the
+Genuine Parts Company. In Canada, industrial parts are distributed by Oliver
+Industrial Supply Ltd., a wholly owned subsidiary of Genuine Parts Holdings
+Ltd., headquartered in Lethbridge, Alberta. Genuine Parts Holdings Ltd. is a
+wholly owned subsidiary of the Company.
+ On June 9, 1995, September 30, 1995, and October 31, 1995 the Company
+completed the acquisitions of Midcap Bearing Corporation, Power Drives &
+Bearings, Inc., and Atlantic/Tracy, Inc., respectively. Midcap Bearing
+Corporation is a distributor of bearings and mechanical, electrical and fluid
+power components headquartered in San Antonio, Texas, and the operator of 17
+branches in Texas and New Mexico. Power Drives & Bearings, Inc. is
+headquartered in Omaha, Nebraska, and operates 6 branches. Atlantic/Tracy,
+Inc. is headquartered in Somerville, Massachusetts, and operates 11 branches.
+All three companies distribute products similar to those distributed by the
+Company's Industrial Parts Group and all three companies have been merged into
+the
+
+ -5-
+ 6
+
+Company's Motion Industries, Inc. subsidiary.
+ As of December 31, 1995, the Group served more than 150,000 customers
+in all types of industries located throughout the United States, and in Canada,
+principally in the Provinces of Alberta, Manitoba and Saskatchewan.
+
+Distribution System. In the United States, the Industrial Parts Group operates
+5 distribution centers, two re-distribution centers, 10 service centers for
+fluid power and special hose applications and over 370 branches. Distribution
+centers stock and distribute more than 200,000 different items purchased from
+over 250 different suppliers. The Group's re-distribution centers serve as
+collection points for excess inventory collected from its branches for re-
+distribution to those branches which need the inventory. Approximately 50 of
+1995 total industrial purchases were made from 15 major suppliers. Sales are
+generated from the Group's branches located in 43 states, each of which has
+warehouse facilities, which stock significant amounts of inventory
+representative of the lines of products used by customers in the respective
+market area served.
+ In Canada, Oliver Industrial Supply Ltd. ("Oliver") operates an
+industrial parts and agricultural supply distribution center for its seven
+branches serving the industrial and agricultural markets of Alberta, British
+Columbia, Manitoba and Saskatchewan in western Canada. In addition to
+industrial parts and agricultural supplies, Oliver distributes irrigation
+systems and related supplies.
+
+Products. The Industrial Parts Group distributes a wide variety of products to
+its customers, primarily industrial concerns, to maintain and operate plants,
+machinery and equipment. Products include such items as hoses, belts,
+bearings, pulleys, pumps, valves, chains, gears, sprockets, speed reducers and
+electric motors. The nature of this Group's business demands the maintenance
+of large inventories and the ability to provide prompt and demanding delivery
+requirements. Virtually all of the products distributed are installed by the
+customer. Most orders are filled immediately from existing stock and
+deliveries are normally made within 24 hours of receipt of order. The majority
+of all sales are on open account.
+
+Related Information. Non-exclusive distributor agreements are in effect with
+most of the Group's suppliers. The terms of these agreements vary; however, it
+has been the experience of the Group that the custom of the trade is to treat
+such agreements as continuing until breached by one party, or until terminated
+by mutual consent.
+
+Segment Data. In the year ended December 31, 1995, sales from the Company's
+Industrial Parts Group approximated 29 of the Company's net sales as compared
+to 27 in 1994 and 26 in 1993.
+
+Competition. The Industrial Parts Group competes with other distributors
+specializing in the distribution of such items, as well as with general line
+distributors. To a lesser extent, the Group competes with manufacturers that
+sell directly to the customer.
+
+OFFICE PRODUCTS GROUP
+
+ The Office Products Group, through S. P. Richards Company ("S.P.
+Richards"), a wholly owned subsidiary of Genuine Parts Company headquartered in
+Atlanta, Georgia, is engaged in the wholesale distribution of a broad line of
+office products which are used in the daily operation of businesses, schools,
+offices and institutions. Office products fall into the general categories of
+computer supplies, office machines, general office supplies, janitorial
+supplies, breakroom supplies, and office furniture. Lesker Office Furniture, a
+furniture only wholesaler acquired in 1993, operates from 5 branches in the
+Northeast. In 1995, a new Lesker branch was opened in New England. On May 22,
+1995, the Company completed the acquisition of Horizon USA Data Supplies, Inc.
+Horizon USA Data Supplies, Inc., is a computer supplies distributor
+headquartered in Reno,
+
+ -6-
+ 7
+
+Nevada with three locations.
+ The Group distributes computer supplies including diskettes, printer
+supplies, printout paper and printout binders; office furniture to include
+desks, credenzas, chairs, chair mats, partitions, files and computer furniture;
+office machines to include telephones, answering machines, calculators,
+typewriters, shredders and copiers; and general office supplies to include
+copier supplies, desk accessories, business forms, accounting supplies,
+binders, report covers, writing instruments, note pads, envelopes, secretarial
+supplies, mailroom supplies, filing supplies, art/drafting supplies, janitorial
+supplies, breakroom supplies and audio visual supplies.
+ The Office Products Group distributes more than 20,000 items to over
+6,000 office supply dealers from 43 distribution centers located in 30 states.
+The newest distribution center opened in 1995 in Pittsburgh, Pennsylvania.
+Approximately 53 of 1995 total office products purchases were made from 14
+major suppliers.
+ The Office Products Group sells to qualified resellers of office
+products. Customers are offered comprehensive marketing programs which include
+flyers, other promotional material and personalized product catalogs. The
+marketing programs are supported by all the Group's distribution centers which
+stock all cataloged products and have the capability to provide overnight
+delivery.
+ While many recognized brand-name items are carried in inventory, S. P.
+Richards Company also markets items produced for it under its own SPARCO(R)
+brand name, as well as its NATURE SAVER(R) brand of recycled products.
+
+Segment Data. In the year ended December 31, 1995, sales from the Company's
+Office Products Group approximated 18 of the Company's net sales as compared
+to 17 in 1994 and in 1993.
+
+Competition. In the distribution of office supplies to retail dealers, S. P.
+Richards competes with many other wholesale distributors as well as with
+manufacturers of office products and large national retail chains.
+
+Executive Officers of the Company. The table below sets forth the name and age
+of each person deemed to be an executive officer of the Company as of February
+19, 1996, the position or office held by each and the period during which each
+has served as such. Each executive officer is elected by the Board of
+Directors and serves at the pleasure of the Board of Directors until his
+successor has been elected and has qualified, or until his earlier death,
+resignation, removal, retirement or disqualification.
+
+Year First
+ Assumed
+Name Age Position of Office Position 
+- ---- --- ------------------ ----------
+ 
+Larry L. Prince 57 Chairman of the Board of Directors
+ and Chief Executive Officer 1990/1989
+Thomas C. Gallagher 48 President and Chief Operating Officer 1990
+George W. Kalafut 62 Executive Vice President-Finance and
+ Administration 1991
+John J. Scalley 65 Executive Vice President 1986
+Keith M. Bealmear 49 Group Vice President 1994
+Robert J. Breci 60 Group Vice President 1987
+Albert T. Donnon, Jr 48 Group Vice President 1993
+Louis W. Rice, Jr 69 Senior Vice President-Personnel 1981
+
+Also serves as the Company's Principal Financial Officer.
+
+ All executive officers have been employed by and have served as
+officers of the Company for at least the last five years.
+
+ -7-
+ 8
+
+ITEM 2. PROPERTIES.
+
+ The Company's headquarters are located in one of two adjacent office
+buildings owned by Genuine Parts Company in Atlanta, Georgia.
+
+ The Company's Automotive Parts Group currently operates 63 NAPA
+Distribution Centers in the United States distributed among nine geographic
+divisions. More than 90 of the distribution center properties are owned by
+the Company. At December 31, 1995, the Company owned 740 NAPA Auto Parts
+stores located in 43 states, and Genuine Parts Company owned a 51 interest
+in 83 auto parts stores located in 29 states. Other than NAPA Auto Parts
+stores located within Company owned distribution centers, most of the auto
+parts stores were operated in leased facilities. In addition, UAP/NAPA, in
+which Genuine Parts Company owns a 49 interest, operated 115 auto parts stores
+in Western Canada. The Company's Automotive Parts Group also operates three
+Balkamp distribution centers, six Rayloc rebuilding plants, two transfer and
+shipping facilities and a Rayloc warehouse.
+
+ The Company's Industrial Parts Group, operating through Motion and
+Berry Bearing Company, operates 5 distribution centers, 2 re-distribution
+centers, 10 service centers and over 370 branches. Approximately 80 of these
+branches are operated in leased facilities. In addition, the Industrial Parts
+Group operates an industrial parts and agricultural supply distribution center
+in Western Canada for its 7 branches of which approximately 85 are operated in
+leased facilities.
+
+ The Company's Office Products Group operates 43 distribution centers
+in the United States distributed among the Group's six geographic divisions.
+Approximately 75 of these distribution centers are operated in leased
+facilities.
+
+ For additional information regarding rental expense on leased
+properties, see "Note 4 of Notes to Consolidated Financial Statements" on Page
+24 of Annual Report to Shareholders for 1995.
+
+ITEM 3. LEGAL PROCEEDINGS.
+
+ Not Applicable.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+ Not Applicable.
+
+PART II.
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCK-
+ HOLDER MATTERS.
+
+ Information required by this item is set forth under the
+heading "Market and Dividend Information" on Page 18 of Annual Report to
+Shareholders for the year ended December 31, 1995, and is incorporated herein
+by reference.
+
+ITEM 6. SELECTED FINANCIAL DATA.
+
+ Information required by this item is set forth under the
+heading "Selected Financial Data" on Page 18 of Annual Report to Shareholders
+for the year ended December 31, 1995, and is incorporated herein by reference.
+
+ -8-
+ 9
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS.
+
+ Information required by this item is set forth under the
+heading "Management's Discussion and Analysis" on Page 26 of Annual Report to
+Shareholders for the year ended December 31, 1995, and is incorporated herein
+by reference.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+
+ Information required by this item is set forth in the
+consolidated financial statements on Pages 20 through 25 and Page 27, in
+"Report of Independent Auditors" on Page 19, and under the heading "Quarterly
+Results of Operations" on Page 26, of the Annual Report to Shareholders for the
+year ended December 31, 1995, and is incorporated herein by reference.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+ FINANCIAL DISCLOSURE.
+
+ Not Applicable.
+
+PART III.
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+ Information required by this item is set forth under the
+headings "Nominees for Director" and "Members of the Board of Directors
+Continuing in Office" on Pages 2 through 4 of the definitive proxy statement
+for the Company's Annual Meeting to be held on April 15, 1996, and is
+incorporated herein by reference. Certain information about Executive
+Officers of the Company is included in Item 1 of Part I of this Annual Report
+on Form 10-K.
+
+ITEM 11. EXECUTIVE COMPENSATION.
+
+ Information required by this item is set forth under the
+heading "Executive Compensation and Other Benefits" on Pages 6 through 8, and
+under the headings "Compensation Committee Interlocks and Insider
+Participation", "Compensation Pursuant to Plans" and "Termination of Employment
+and Change of Control Arrangements" on Pages 11 through 14 of the definitive
+proxy statement for the Company's Annual Meeting to be held on April 15, 1996,
+and is incorporated herein by reference. In no event shall the information
+contained in the definitive proxy statement for the Company's 1996 Annual
+Meeting on Pages 9 through 11 under the heading "Compensation and Stock Option
+Committee Report on Executive Compensation" or on Pages 15 and 16 under the
+heading "Performance Graph" be incorporated herein by reference.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+
+ Information required by this item is set forth under the
+headings "Common Stock Ownership of Certain Beneficial Owners" and "Common
+Stock Ownership of Management" on Pages 4, 5, and 6 of the definitive proxy
+statement for the Company's Annual Meeting to be held on April 15, 1996, and is
+incorporated herein by reference.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+ Information required by this item is set forth under the
+heading "Certain Relationships and Related Transactions" on Page 16 of the
+definitive proxy statement for the Company's Annual Meeting to be held on April
+15, 1996,
+
+ -9-
+ 10
+
+and is incorporated herein by reference.
+
+PART IV.
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K.
+
+(a) (1) and (2) The response to this portion of Item 14 is submitted as a separate section of this
+ report.
+
+ (3) The following Exhibits are filed as part of this report in Item 14(c):
+
+ Exhibit 3.1 Restated Articles of Incorporation of the Company, dated as of April 18,
+ 1988, and as amended April 17, 1989 and amendments to the Restated
+ Articles of Incorporation of the Company, dated as of November 20, 1989 and
+ April 18, 1994. (Incorporated herein by reference from the Company's
+ Annual Report on Form 10-K, dated March 3, 1995).
+
+ Exhibit 3.2 By-laws of the Company, as amended. (Incorporated herein by reference from
+ the Company's Annual Report on Form 10-K, dated March 5, 1993).
+
+ Exhibit 4.1 Shareholder Protection Rights Agreement, dated as of November 20, 1989,
+ between the Company and Trust Company Bank, as Rights Agent.
+ (Incorporated herein by reference from the Company's Report on Form 8-K,
+ dated November 20, 1989).
+
+ Exhibit 4.2 Specimen Common Stock Certificate. (Incorporated herein by reference from
+ the Company's Registration Statement on Form S-1, Registration No. 33-
+ 63874).
+
+ Exhibit 10.1 1988 Stock Option Plan. (Incorporated herein by reference from the
+ Company's Annual Meeting Proxy Statement, dated March 9, 1988).
+
+ Exhibit 10.2 Form of Amendment to Deferred Compensation Agreement, adopted February 13,
+ 1989, between the Company and certain executive officers of the Company.
+ (Incorporated herein by reference from the Company's Annual Report on Form
+ 10-K, dated March 15, 1989).
+
+ Exhibit 10.3 Form of Agreement adopted February 13, 1989, between the Company and
+ certain executive officers of the Company providing for a supplemental
+ employee benefit upon a change in control of the Company. (Incorporated
+ herein by reference from the Company's Annual Report on Form 10-K, dated
+ March 15, 1989).
+
+ Exhibit 10.4 Genuine Parts Company Supplemental Retirement Plan, effective January 1,
+ 1991. (Incorporated herein by reference from the 
+
+-10-
+
+ 11
+
+Company's Annual Report on Form 10-K, dated March 8, 1991).
+
+ Exhibit 10.5 1992 Stock Option and Incentive Plan, effective April 20, 1992.
+ (Incorporated herein by reference from the Company's Annual Meeting Proxy
+ Statement, dated March 6, 1992).
+
+ Exhibit 10.6 Restricted Stock Agreement dated March 31, 1994, between the Company and
+ Larry L. Prince. (Incorporated herein by reference from the Company's Form
+ 10-Q, dated May 6, 1994).
+
+ Exhibit 10.7 Restricted Stock Agreement dated March 31, 1994, between the Company and
+ Thomas C. Gallagher. (Incorporated herein by reference from the Company's
+ Form 10-Q, dated May 6, 1994).
+
+ Exhibit 10.8 The Genuine Parts Company Restated Tax-Deferred Savings Plan, January 1,
+ 1993. (Incorporated herein by reference from the Company's Annual Report
+ on Form 10-K, dated March 3, 1995).
+
+ Exhibit 10.9 Amendment No. 2 to the Genuine Parts Company Supplemental Retirement Plan,
+ effective January 1, 1995. (Incorporated herein by reference from the
+ Company's Annual Report on Form 10-K, dated March 3, 1995).
+
+ Exhibit 10.10 Genuine Partnership Plan, as amended and restated January 1, 1994.
+ (Incorporated herein by reference from the Company's Annual Report on Form
+ 10-K, dated March 3, 1995).
+
+ Exhibit 10.11 Genuine Parts Company Pension Plan, as amended and restated effective
+ January 1, 1989. (Incorporated herein by reference from the Company's
+ Annual Report on Form 10-K, dated March 3, 1995).
+
+ Exhibit 10.12 Amendment No. 1 to the Genuine Partnership Plan, effective September 1,
+ 1995.
+
+ Exhibit 10.13 Amendment No. 1 to the Genuine Parts Company Pension Plan, effective April
+ 1, 1995.
+
+ Exhibit 10.14 Amendment No. 2 to the Genuine Parts Company Pension Plan, dated September
+ 28, 1995, effective January 1, 1995.
+
+ Indicates executive compensation plans and arrangements
+
+ Exhibit 13 The following sections and pages of the 1995 Annual Report to
+ Shareholders: 
+
+-11-
+ 12
+
+- Selected Financial Data on Page 18
+ - Market and Dividend Information on Page 18
+ - Report of Independent Auditors on Page 19
+ - Consolidated Financial Statements and Notes to
+ Consolidated Financial Statements on Pages 20-25
+ - Management's Discussion and Analysis on Page 26
+ - Quarterly Results of Operations on Page 26
+ - Industry Data on Page 27
+
+ Exhibit 21 Subsidiaries of the Company
+
+ Exhibit 23 Consent of Independent Auditors
+
+ Exhibit 27 Financial Data Schedule (for SEC use only)
+
+ (b) Reports on Form 8-K. No reports on Form 8-K were filed by the Registrant during the last quarter of
+ ------------------- 
+ the fiscal year.
+
+(c) Exhibits. The response to this portion of Item 14 is submitted as a separate section of this report.
+ -------- 
+
+(d) Financial Statement Schedules. The response to this portion of Item 14 is submitted as a separate
+ ----------------------------- 
+ section of this report.
+
+SIGNATURES.
+
+ Pursuant to the requirements of Section 13 or 15(d) of the
+Securities Exchange Act of 1934, the Registrant has duly caused this Report to
+be signed on its behalf by the undersigned, thereunto duly authorized.
+
+GENUINE PARTS COMPANY
+
+/s/Larry L. Prince 3/7/96 /s/George W. Kalafut 3/7/96
+- ------------------------------------- ------------------------------------
+Larry L. Prince (Date) George W. Kalafut (Date)
+Chairman of the Board Executive Vice President -
+and Chief Executive Officer Finance and Administration and
+ Principal Financial and Accounting 
+ Officer
+
+-12-
+ 
+ 13
+
+Pursuant to the requirements of the Securities and Exchange Act of
+1934, this Report has been signed below by the following persons on behalf of
+the Registrant and in the capacities and on the dates indicated.
+
+/s/ Bradley Currey, Jr. 2/19/96 /s/ Larry L. Prince 2/19/96
+- ------------------------------------- ------------------------------------
+Bradley Currey, Jr. (Date) Larry L. Prince (Date)
+Director Director
+ Chairman of the Board and
+ Chief Executive Officer
+
+/s/ Jean Douville 2/19/96 /s/ John J. Scalley 2/19/96
+- ------------------------------------- ------------------------------------
+Jean Douville (Date) John J. Scalley (Date)
+Director Director
+Chairman of the Board and Executive Vice President
+Chief Executive Officer UAP Inc. 
+
+/s/ Thomas C. Gallagher 2/19/96 /s/ Alana S. Shepherd 2/19/96
+- ------------------------------------- ------------------------------------
+Thomas C. Gallagher (Date) Alana S. Shepherd (Date)
+Director Director
+President and Chief Operating Officer 
+
+/s/ J. Hicks Lanier 2/19/96 /s/ Lawrence G. Steiner 2/19/96
+- ------------------------------------- ------------------------------------
+J. Hicks Lanier (Date) Lawrence G. Steiner (Date)
+Director Director
+
+/s/ James B. Williams 2/19/96
+- ------------------------------------ ------------------------------------
+Gardner E. Larned (Date) James B. Williams (Date)
+Director Director
+Chairman of the Board 
+Berry Bearing Company
+
+- ------------------------------------
+William A. Parker (Date)
+Director
+
+-13-
+ 14
+
+Annual Report on Form 10-K
+
+ Item 14(a)(1) and (2), (c) and (d)
+
+ List of Financial Statements
+
+ Certain Exhibits
+
+ Year ended December 31, 1995
+
+ Genuine Parts Company
+
+ Atlanta, Georgia
+
+15
+
+Form 10-K - Item 14(a)(1) and (2)
+
+Genuine Parts Company and Subsidiaries
+
+Index of Financial Statements
+
+The following consolidated financial statements of Genuine Parts Company and
+subsidiaries, included in the annual report of the registrant to its
+shareholders for the year ended December 31, 1995, are incorporated by
+reference in Item 8:
+
+ Consolidated balance sheets - December 31, 1995 and 1994
+
+ Consolidated statements of income - Years ended December 31, 1995, 1994,
+ and 1993
+
+ Consolidated statements of shareholders' equity - Years ended December 31,
+ 1995, 1994, and 1993
+
+ Consolidated statements of cash flows - Years ended December 31, 1995,
+ 1994, and 1993
+
+ Notes to consolidated financial statements - December 31, 1995
+
+All schedules for which provision is made in the applicable accounting
+regulation of the Securities and Exchange Commission are not required under the
+related instructions or are inapplicable, and therefore have been omitted.
+
+16
+
+ANNUAL REPORT ON FORM 10-K
+
+ ITEM 14(a)(3)
+
+ LIST OF EXHIBITS
+
+The following Exhibits are filed as a part of this Report:
+
+10.12 Amendment No. 1 to the Genuine Partnership Plan, effective September 1,
+ 1995.
+
+10.13 Amendment No. 1 to the Genuine Parts Company Pension Plan, effective
+ April 1, 1995.
+
+10.14 Amendment No. 2 to the Genuine Parts Company Pension Plan, dated
+ September 28, 1995, effective January 1, 1995.
+
+13 The following Sections and Pages of the Annual Report to Shareholders for
+ 1995:
+
+ - Selected Financial Data on Page 18
+ - Common Stock Market and Dividend Information
+ on Page 18
+ - Report of Independent Auditors on Page 19
+ - Consolidated Financial Statements and Notes to Consolidated
+ Financial Statements on Pages 20-25
+ - Management's Discussion and Analysis of Financial Condition
+ and Results of Operations on Page 26
+ - Quarterly Results of Operations on Page 26
+ - Industry Data on Page 27
+
+21 Subsidiaries of the Company
+
+23 Consent of Independent Accountants
+
+27 Financial Data Schedule (for SEC use only)
+
+The following Exhibits are incorporated by reference as set forth
+in Item 14 on pages 10 and 11 of this Form 10-K:
+
+- 3.1 Restated Articles of Incorporation of the Company, dated as of April 18, 1988, and as amended
+ April 17, 1989 and amendments to the Restated Articles of Incorporation of the Company, dated
+ as of November 20, 1989 and April 18, 1994.
+ - 3.2 By-laws of the Company, as amended.
+ - 4.1 Shareholder Protection Rights Agreement, dated as of November 20, 1989, between the Company and
+ Trust Company Bank, as Rights Agent.
+ - 4.2 Specimen Common Stock Certificate. (Incorporated herein by reference from the Company's
+ Registration Statement on Form S-1, Registration No. 33-63874).
+ - 10.1 1988 Stock Option Plan.
+ - 10.2 Form of Amendment to Deferred Compensation Agreement adopted February 13, 1989, between the
+ Company and certain executive officers of the Company.
+ - 10.3 Form of Agreement adopted February 13, 1989, between the Company and certain executive officers
+ of the Company providing for a supplemental employee benefit upon a change in control of the
+ Company.
+
+17
+
+- 10.4 Genuine Parts Company Supplemental Retirement Plan, 
+ effective January 1, 1991.
+ - 10.5 1992 Stock Option and Incentive Plan, effective 
+ April 20, 1992.
+ - 10.6 Restricted Stock Agreement dated March 31, 1994, between the 
+ Company and Larry L. Prince.
+ - 10.7 Restricted Stock Agreement dated March 31, 1994, between the 
+ Company and Thomas C. Gallagher.
+ - 10.8 The Genuine Parts Company Restated Tax-Deferred Savings Plan, 
+ effective January 1, 1993
+ - 10.9 Amendment No. 2 to the Genuine Parts Company Supplemental 
+ Retirement Plan, effective January 1,
+ 1995.
+ - 10.10 Genuine Partnership Plan, as amended and restated January 1, 
+ 1994.
+ - 10.11 Genuine Parts Company Pension Plan, as amended and restated 
+ effective January 1, 1989.
+
+ Indicates executive compensation plans and arrangements
+
+<EX-10.12>
+ 2
+ AM. #1 TO PARTNERSHIP PLAN
+
+1
+ EXHIBIT 10.12
+
+ AMENDMENT NUMBER ONE TO THE
+ GENUINE PARTNERSHIP PLAN
+
+This Amendment to the Genuine Partnership Plan is adopted by Genuine
+Parts Company (the "Company"), effective as of the date set forth herein.
+
+ W I T N E S S E T H:
+
+ WHEREAS, the Company maintains the Genuine Partnership Plan (the
+"Plan"), as amended and restated effective January 1, 1994, and such Plan is
+currently in effect; and
+
+ WHEREAS, the Company wishes to use a look back year for purposes of
+determining highly compensated employees; and
+
+ NOW, THEREFORE, BE IT RESOLVED that the Plan is hereby amended as
+follows:
+
+ 1.
+
+ Section 6.06(b) is deleted in its entirety, and a new Section 6.06(b)
+is substituted in lieu thereof, as follows:
+
+ "6.06(b) Account Balance as of December 31, 1993. Prior to the
+ Effective Date, a Participant's Account (other than his
+ Matching Employer Contribution Account) was invested in the
+ fixed income fund. During the 1994 Plan Year and during the
+ period beginning January 1, 1995 and ending August 31, 1995, a
+ Participant may direct the Committee to transfer up to 25 of
+ his pre-1994 Account that was invested in the fixed income
+ fund to any of the other available Investment Funds.
+ Beginning September 1, 1995, a Participant may direct the
+ Committee to transfer any whole percent of his pre-1994
+ Account that was invested in the fixed income fund to any of
+ the other available Investment Funds."
+
+2.
+
+ Section 13.02 is deleted in its entirety, and a new Section 13.02 is
+substituted in lieu thereof, as follows:
+
+ "13.02 Highly Compensated Employees.
+
+ (a) Look-Back Year. An Employee is a Highly Compensated
+ Employee if during a Look Back Year the Employee:
+
+ (1) is a 5 Percent Owner;
+
+2
+
+ (2) receives Compensation in excess of 75,000;
+
+ (3) receives Compensation in excess of 50,000
+ and is a member of the Top Paid Group; or
+
+ (4) is an Includable Officer.
+
+ The dollar amounts described above shall be increased
+ annually as provided in Code Section 414(q)(1).
+
+ (b) Determination Year. An Employee is a Highly
+ Compensated Employee if during a Determination Year
+ the Employee:
+
+ (1) is a 5 Percent Owner; or
+
+ (2) is one of the 100 Employees who receives the
+ most Compensation from the Employer during
+ the Determination Year and during the
+ Determination Year (A) receives Compensation
+ in excess of 75,000; (B) receives
+ Compensation in excess of 50,000 and is a
+ member of the Top Paid Group; or (C) is an
+ Includable Officer.
+
+ The dollar amounts described above shall be increased
+ annually as provided in Code Section 414(q)(1).
+
+ (c) Election to Use Simplified Method.
+
+ (1) If elected by the Committee (which election
+ may change from year to year), an Employee's
+ status as a Highly Compensated Employee shall
+ be determined pursuant to the simplified
+ method described in Code Section 401(q)(12).
+
+ (2) If the Committee elects to use the simplified
+ method for the Look Back Year, an Employee's
+ status during the Look Back Year shall be
+ determined by substituting " 50,000" for
+ " 75,000" in subsection (a)(2) and by
+ ignoring the provisions of subsection (a)(3).
+
+ (3) If the Committee elects to use the simplified
+ method for the Determination Year, an
+ Employee's status for the Determination Year
+ shall be determined by substituting " 50,000"
+ for " 75,000" in subsection (b)(2)(A) and by
+ ignoring the provisions of subsection
+ (b)(2)(B).
+
+ (4) The Committee may make separate elections for
+ both Look Back Year and for the Determination
+ Year.
+
+- 2 -
+
+3
+
+(5) The simplified method may not be elected for
+ a given year unless (i) at all times during
+ such year the Employer maintained significant
+ business activities and employed Employees in
+ at least two significantly separate
+ geographic areas and (ii) the Employer
+ satisfies all other conditions prescribed by
+ the Secretary of the Treasury or his delegate
+ as a prerequisite for electing the simplified
+ method."
+
+ 3.
+
+ Paragraph 1 of this Amendment shall be effective September 1, 1995.
+Paragraph 2 of this Amendment shall be effective January 1, 1995. Except as
+amended herein, the Plan shall remain in full force and effect.
+
+ IN WITNESS WHEREOF, Genuine Parts Company has caused this Amendment to
+the Plan to be executed on the date shown below, but effective as of the dates
+indicated above.
+
+ GENUINE PARTS COMPANY
+
+By: /s/ George W. Kalafut
+ -----------------------------
+ Date: September 28, 1995
+ ---------------------------
+
+Attest: /s/ Frank M. Howard
+ -----------------------------
+
+- 3 -
+
+</EX-10.12>
+
+<EX-10.13>
+ 3
+ AM. #1 TO PENSION PLAN
+
+1
+ EXHIBIT 10.13
+
+ AMENDMENT NO. 1 TO THE
+ GENUINE PARTS COMPANY PENSION PLAN
+
+This Amendment to the Genuine Parts Company Pension Plan is adopted by
+Genuine Parts Company (the "Company") through action of the Pension Committee,
+effective as of the date set forth herein.
+
+ W I T N E S S E T H:
+
+ WHEREAS, the Company maintains the Genuine Parts Company Pension Plan
+(the "Plan"), as amended and restated effective January 1, 1989, and such Plan
+is currently in effect; and
+
+ WHEREAS, under Section 8.06(c), the Pension Committee has the
+authority to amend the Plan to comply with changes in law and to make other
+amendments that do not materially increase the costs associated with the Plan;
+and
+
+ WHEREAS, under the Retirement Protection Act, the interest rate under
+Section 417(e)(3) of the Internal Revenue Code (i.e., the interest rate used to
+determine a lump sum distribution) has been changed; and
+
+ WHEREAS, the Pension Committee wishes to amend the Plan to comply with
+amended Code Section 417(e)(3) and to make certain other changes;
+
+ NOW, THEREFORE, BE IT RESOLVED that the Plan is hereby amended as
+follows:
+
+ 1.
+
+ Section 2.03(c) is hereby deleted and a new Section 2.03(c) is
+substituted therefor as follows:
+
+ "(c) Lump Sum Distributions Before April 1, 1995. For purposes of
+ computing single sum values, the interest rate shall be the
+ interest rate which would be applied by the Pension Benefit
+ Guaranty Corporation for purposes of determining the present
+ value of the Participant's benefits under the Plan if the Plan
+ had terminated on January 1 of the applicable Plan Year with
+ insufficient assets to provide benefits guaranteed by the
+ Pension Benefit Guaranty Corporation on that date.
+
+ Lump Sum Distributions After April 1, 1995. Notwithstanding
+ the preceding paragraph, for lump sum distributions made on or
+ after April 1, 1995, a lump sum distribution will be
+ determined based on the Applicable Mortality Table and the
+ Applicable Interest Rate as defined immediately below:
+
+2
+
+(1) Applicable Mortality Table. The term "Applicable Mortality
+ Table" means the table prescribed by the secretary of the
+ Treasury based on the prevailing Commissioner's Standard Table
+ (described in Section 807(d)(6)(A) of the Internal Revenue
+ Code) used to determine reserves or group annuity contracts
+ issued on the date as of which present value is being
+ determined (without regard to any other subparagraph of
+ Section 807(d)(5) of the Internal Revenue Code).
+
+ (2) Applicable Interest Rate. For lump sum distributions made on
+ or after April 1, 1995, the term "Applicable Interest Rate"
+ means the annual rate of interest on 30-year Treasury
+ securities for the month of December that precedes the
+ beginning of the Plan Year in which such distribution occurs.
+ (Note that the December rates are published in January)."
+
+ 2.
+
+ The phrase "The Pension Committee shall have the right to amend any
+and all of the provisions of the Plan;" set forth in Section 9.01 is hereby
+deleted and the following phrase is substituted therefor as follows: "The
+Compensation and Stock Option Committee (or the Pension Committee to the extent
+permitted by Section 8.06(c)) shall have the right, at any time, to amend any
+or all of the provisions of the Plan;".
+
+ 3.
+
+ Paragraph 1 shall be effective for lump sum distributions made on or
+after April 1, 1995. The Amendment set forth in Paragraph 2 shall be effective
+on January 1, 1989. Except as amended herein, the Plan shall remain in full
+force and effect.
+
+ IN WITNESS WHEREOF, Genuine Parts Company, acting through the Pension
+Committee, has caused this Amendment to the Plan to be executed on the date
+shown below, but effective as of the dates indicated above.
+
+ PENSION COMMITTEE TO THE
+ GENUINE PARTS COMPANY
+ PENSION PLAN
+
+ By: /s/ George W. Kalafut
+ -----------------------------
+ Date: April 25, 1995
+ --------------------------- 
+Attest: /s/ Frank M. Howard
+ -----------------------------
+
+- 2 -
+
+</EX-10.13>
+
+<EX-10.14>
+ 4
+ AM. #2 TO PENSION PLAN
+
+1
+ EXHIBIT 10.14
+
+ AMENDMENT NO. 2 TO THE
+ GENUINE PARTS COMPANY PENSION PLAN
+
+This Amendment to the Genuine Parts Company Pension Plan is adopted by
+Genuine Parts Company (the "Company") through action of the Pension Committee,
+effective as of the date set forth herein.
+
+ W I T N E S S E T H:
+
+ WHEREAS, the Company maintains the Genuine Parts Company Pension Plan
+(the "Plan"), as amended and restated effective January 1, 1989, and such Plan
+is currently in effect; and
+
+ WHEREAS, under Section 8.06(c), the Pension Committee has the
+authority to amend the Plan to comply with changes in law and to make other
+amendments that do not materially increase the costs associated with the Plan;
+and
+
+ WHEREAS, the Company wishes to use a look back year for purposes of
+determining highly compensated employees; and
+
+ WHEREAS, the employees of M&B, Inc. (Lesker Office Furniture) (the
+"Predecessor Employer") received distributions of their accrued benefit under
+the Predecessor Employer's retirement plan, and the Company intended for M&B,
+Inc. (Lesker Office Furniture) employees to receive service credit under this
+Plan for vesting purposes only; and
+
+ WHEREAS, the Company wishes to correct a typographical error under
+Schedule B of the Plan regarding the proper service crediting for M&B, Inc.
+(Lesker Office Furniture) employees; and
+
+ NOW, THEREFORE, BE IT RESOLVED that the Plan is hereby amended as
+follows:
+
+ 1.
+
+ Section 14.02 is deleted in its entirety, and a new Section 14.02 is
+substituted in lieu thereof, as follows:
+
+ "14.02 Highly Compensated Employees.
+
+ (a) Look-Back Year. An Employee is a Highly Compensated
+ Employee if during a Look Back Year the Employee:
+
+ (1) is a 5 Percent Owner;
+
+ (2) receives Compensation in excess of 75,000;
+
+2
+
+(3) receives Compensation in excess of 50,000
+ and is a member of the Top Paid Group; or
+
+ (4) is an Includable Officer.
+
+ The dollar amounts described above shall be increased
+ annually as provided in Code Section 414(q)(1).
+
+ (b) Determination Year. An Employee is a Highly
+ Compensated Employee if during a Determination Year
+ the Employee:
+
+ (1) is a 5 Percent Owner; or
+
+ (2) is one of the 100 Employees who receives the
+ most Compensation from the Employer during
+ the Determination Year and during the
+ Determination Year (A) receives Compensation
+ in excess of 75,000; (B) receives
+ Compensation in excess of 50,000 and is a
+ member of the Top Paid Group; or (C) is an
+ Includable Officer.
+
+ The dollar amounts described above shall be increased
+ annually as provided in Code Section 414(q)(1).
+
+ (c) Election to Use Simplified Method.
+
+ (1) If elected by the Committee (which election
+ may change from year to year), an Employee's
+ status as a Highly Compensated Employee shall
+ be determined pursuant to the simplified
+ method described in Code Section 401(q)(12).
+
+ (2) If the Committee elects to use the simplified
+ method for the Look Back Year, an Employee's
+ status during the Look Back Year shall be
+ determined by substituting " 50,000" for
+ " 75,000" in subsection (a)(2) and by
+ ignoring the provisions of subsection (a)(3).
+
+ (3) If the Committee elects to use the simplified
+ method for the Determination Year, an
+ Employee's status for the Determination Year
+ shall be determined by substituting " 50,000"
+ for " 75,000" in subsection (b)(2)(A) and by
+ ignoring the provisions of subsection
+ (b)(2)(B).
+
+ (4) The Committee may make separate elections for
+ both Look Back Year and for the Determination
+ Year.
+
+- 2 -
+
+ 3
+
+(5) The simplified method may not be elected for
+ a given year unless (i) at all times during
+ such year the Employer maintained significant
+ business activities and employed Employees in
+ at least two significantly separate
+ geographic areas and (ii) the Employer
+ satisfies all other conditions prescribed by
+ the Secretary of the Treasury or his delegate
+ as a prerequisite for electing the simplified
+ method."
+
+ 2.
+
+ Schedule B is amended to delete Section II, Item 7 only.
+
+ 3.
+
+ Schedule B is amended to add the following to Section III:
+
+ " Name Employment Date
+ ---- ---------------
+
+ M&B, Inc. (Lesker Office Furniture) November 1, 1993"
+
+ 4.
+
+ The Amendment set forth in Paragraph 1 shall be effective January 1,
+1995. The Amendment set forth in Paragraphs 2 and 3 shall be effective on
+January 1, 1989. Except as amended herein, the Plan shall remain in full force
+and effect.
+
+ IN WITNESS WHEREOF, Genuine Parts Company, acting through the Pension
+Committee, has caused this Amendment to the Plan to be executed on the date
+shown below, but effective as of the dates indicated above.
+
+ PENSION COMMITTEE TO THE
+ GENUINE PARTS COMPANY
+ PENSION PLAN
+
+ By: /s/ George W. Kalafut
+ -----------------------------
+ Date: September 28, 1995
+ --------------------------- 
+
+Attest: /s/ Frank M. Howard
+ -----------------------------
+
+- 3 -
+
+</EX-10.14>
+
+<EX-13>
+ 5
+ GENUINE PARTS A/R
+
+1
+ EXHIBIT 13
+
+SELECTED FINANCIAL DATA
+Genuine Parts Company and Subsidiaries
+
+- --------------------------------------------------------------------------------------------------------------------
+Year Ended December 31 1995 1994 1993 1992 1991
+====================================================================================================================
+ 
+ (in thousands except per share data)
+Net sales ....................................... 5,261,904 4,858,415 4,384,294 4,016,751 3,763,736
+Cost of goods sold .............................. 3,654,703 3,343,699 3,023,038 2,781,731 2,612,059
+Selling, administrative and other expenses ...... 1,096,407 1,039,848 935,427 852,610 790,559
+Income before income taxes ...................... 510,794 474,868 425,829 382,410 361,118
+Income taxes .................................... 201,626 186,320 166,961 145,440 137,154
+Net income .................................... 309,168 288,548 257,813 236,970 223,964
+Average common shares outstanding during year .. 122,615 124,041 124,217 124,085 123,980
+Per common share :
+ Net income .................................. 2.52 2.33 2.08 1.91 1.81
+ Dividends declared ............................ 1.26 1.15 1.06 1.00 .97
+ December 31 closing stock price ............... 41.00 36.00 37.63 34.00 32.50
+Long-term debt, less current maturities ......... 60,607 11,431 12,265 13,043 12,658
+Shareholders' equity ............................ 1,650,882 1,526,165 1,445,263 1,316,372 1,211,716
+Total assets .................................... 2,274,132 2,029,471 1,870,756 1,707,303 1,577,516
+- --------------------------------------------------------------------------------------------------------------------
+ 
+ Adjusted to reflect the three-for-two split in 1992.
+ Net of cumulative effect of changes in accounting principles of 1,055 in
+1993.
+
+SELECTED RATIO ANALYSIS
+
+- --------------------------------------------------------------------------------------------
+Year Ended December 31 1995 1994 1993 1992 1991
+============================================================================================
+ 
+(In of net sales)
+ Cost of goods sold ............................... 69.46 68.82 68.95 69.25 69.40 
+ Selling, administrative and other expenses ....... 20.84 21.40 21.34 21.23 21.00
+ Income before income taxes ....................... 9.71 9.77 9.71 9.52 9.60
+ Net income ....................................... 5.88 5.94 5.88 5.90 5.95
+Rate earned on shareholders' equity at the beginning
+ of each year ..................................... 20.26 19.97 19.59 19.56 19.96 
+- --------------------------------------------------------------------------------------------
+
+MARKET AND DIVIDEND INFORMATION
+
+High and Low Sales Price and Dividends Declared per Share of Common Shares 
+Traded on the New York Stock Exchange.
+
+Sales Price of Common Shares
+- -------------------------------------------------------------------------------------------------------
+Quarter 1995 1994
+=======================================================================================================
+ High Low High Low
+- -------------------------------------------------------------------------------------------------------
+ 
+First 40.00 35.50 39.38 33.75
+Second 40.38 37.50 36.88 33.63
+Third 40.88 36.25 37.38 34.13
+Fourth 42.00 38.88 37.00 33.88
+
+Dividends Declared per Share
+- ---------------------------------------------------------------------------------------
+ 1995 1994
+=======================================================================================
+
+First ..................................... .315 .2875
+Second .................................... .315 .2875
+Third ..................................... .315 .2875
+Fourth .................................... .315 .2875
+
+Number of Record Holders of Common Stock .. 8,076
+
+18
+ 2
+
+REPORT OF INDEPENDENT AUDITORS
+
+Board of Directors
+Genuine Parts Company
+
+ We have audited the accompanying consolidated balance sheets of Genuine
+Parts Company and subsidiaries as of December 31, 1995 and 1994, and the
+related consolidated statements of income, shareholders' equity, and cash flows
+for each of the three years in the period ended December 31, 1995. These
+financial statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+ We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+
+ In our opinion, the financial statements referred to above present fairly,
+in all material respects, the consolidated financial position of Genuine Parts
+Company and subsidiaries at December 31, 1995 and 1994, and the consolidated
+results of their operations and their cash flows for each of the three years in
+the period ended December 31, 1995, in conformity with generally accepted
+accounting principles.
+
+ As discussed in Note 1 to the consolidated financial statements, in 1993
+the Company changed its method of accounting for post-retirement benefits other
+than pensions and income taxes.
+
+/s/ Ernst & Young LLP
+
+Atlanta, Georgia
+February 5, 1996
+
+19
+ 3
+
+CONSOLIDATED BALANCE SHEETS
+GENUINE PARTS COMPANY AND SUBSIDIARIES
+
+- -------------------------------------------------------------------------------------------------------------------------
+(dollars in thousands)
+- -------------------------------------------------------------------------------------------------------------------------
+December 31 1995 1994
+=========================================================================================================================
+ASSETS
+- -------------------------------------------------------------------------------------------------------------------------
+ 
+CURRENT ASSETS
+Cash and cash equivalents ............................................................. 44,254 82,410
+Trade accounts receivable ............................................................. 565,305 487,395
+Merchandise inventories ............................................................... 1,127,456 1,004,580
+Prepaid expenses and other current accounts ........................................... 26,946 21,396
+- -------------------------------------------------------------------------------------------------------------------------
+ TOTAL CURRENT ASSETS 1,763,961 1,595,781
+INVESTMENTS AND OTHER ASSETS (Notes 1 and 7) .......................................... 206,932 175,658
+PROPERTY, PLANT AND EQUIPMENT
+Land .................................................................................. 38,844 32,152
+Buildings, less allowance for depreciation
+ (1995- 63,507; 1994- 60,176) ........................................................ 119,580 106,608
+Machinery and equipment, less allowance for
+ depreciation (1995- 146,290; 1994- 131,905) ......................................... 144,815 119,272
+- -------------------------------------------------------------------------------------------------------------------------
+ NET PROPERTY, PLANT AND EQUIPMENT 303,239 258,032
+- -------------------------------------------------------------------------------------------------------------------------
+ 2,274,132 2,029,471
+=========================================================================================================================
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+- -------------------------------------------------------------------------------------------------------------------------
+CURRENT LIABILITIES
+Trade accounts payable ................................................................ 331,704 316,589
+Revolving line of credit (Note 2) ..................................................... 45,000 --
+Current maturities on long-term debt .................................................. 590 933
+Accrued compensation .................................................................. 33,802 37,790
+Accrued expenses ...................................................................... 24,220 20,368
+Dividends payable ..................................................................... 38,401 35,246
+Income taxes payable .................................................................. 1,807 11,482
+- -------------------------------------------------------------------------------------------------------------------------
+ TOTAL CURRENT LIABILITIES 475,524 422,408
+LONG-TERM DEBT, less current maturities (Note 2) ...................................... 60,607 11,431
+DEFERRED INCOME TAXES (Note 6) ........................................................ 58,690 44,540
+MINORITY INTERESTS IN SUBSIDIARIES .................................................... 28,429 24,927
+SHAREHOLDERS' EQUITY (Notes 1, 3 and 5)
+Preferred Stock, par value 1 a share-authorized
+ 10,000,000 shares; none issued
+Common Stock, par value 1 a share-authorized
+ 450,000,000 shares; issued 121,913,040 shares
+ in 1995; 122,627,303 shares in 1994 ................................................. 121,913 122,627
+Additional paid-in capital ............................................................ -- --
+Retained earnings ..................................................................... 1,528,969 1,403,538
+- -------------------------------------------------------------------------------------------------------------------------
+ TOTAL SHAREHOLDERS' EQUITY 1,650,882 1,526,165
+- -------------------------------------------------------------------------------------------------------------------------
+ 2,274,132 2,029,471
+=========================================================================================================================
+
+See accompanying notes.
+
+20
+ 4
+
+CONSOLIDATED STATEMENTS OF INCOME
+Genuine Parts Company and Subsidiaries
+
+- --------------------------------------------------------------------------------------------------------------------------------
+(dollars in thousands, except per share data)
+- --------------------------------------------------------------------------------------------------------------------------------
+Year Ended December 31 1995 1994 1993
+================================================================================================================================
+ 
+Net sales........................................................................... 5,261,904 4,858,415 4,384,294
+Cost of goods sold.................................................................. 3,654,703 3,343,699 3,023,038
+- --------------------------------------------------------------------------------------------------------------------------------
+ 1,607,201 1,514,716 1,361,256
+Selling, administrative and other expenses.......................................... 1,096,407 1,039,848 935,427
+- --------------------------------------------------------------------------------------------------------------------------------
+Income before income taxes and cumulative effect of changes
+ in accounting principles.......................................................... 510,794 474,868 425,829
+Income taxes (Note 6)............................................................... 201,626 186,320 166,961
+- --------------------------------------------------------------------------------------------------------------------------------
+Income before cumulative effect of changes in accounting principles................. 309,168 288,548 258,868
+Cumulative effect of changes in accounting principles, net of tax (Note 1).......... -- -- 1,055
+- --------------------------------------------------------------------------------------------------------------------------------
+NET INCOME.......................................................................... 309,168 288,548 257,813
+================================================================================================================================
+Net income per common share......................................................... 2.52 2.33 2.08
+================================================================================================================================
+Average common shares outstanding during the year................................... 122,615 124,041 124,217
+================================================================================================================================
+ 
+See accompanying notes.
+
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+Genuine Parts Company and Subsidiaries
+
+- ---------------------------------------------------------------------------------------------------------------------
+ Common Stock Additional Total 
+ ------------------------ Paid-In Retained Shareholders'
+(dollars in thousands) Shares Amount Capital Earnings Equity
+=====================================================================================================================
+ 
+Balance at January 1, 1993.................. 124,163,089 124,163 -- 1,192,209 1,316,372
+ Net income.............................. -- -- -- 257,813 257,813
+ Cash dividends declared................. -- -- -- (131,681) (131,681)
+ Stock options exercised................. 119,200 119 2,566 74 2,759
+- ---------------------------------------------------------------------------------------------------------------------
+Balance at December 31, 1993................ 124,282,289 124,282 2,566 1,318,415 1,445,263
+ Net income.............................. -- -- -- 288,548 288,548
+ Cash dividends declared................. -- -- -- (142,602) (142,602)
+ Stock options exercised................. 192,613 193 4,175 -- 4,368
+ Purchase of stock....................... (2,011,000) (2,011) (6,741) (61,593) (70,345)
+ Stock issued for acquisitions........... 163,401 163 -- 770 933
+- ---------------------------------------------------------------------------------------------------------------------
+Balance at December 31, 1994................ 122,627,303 122,627 -- 1,403,538 1,526,165
+ Net income.............................. -- -- -- 309,168 309,168
+ Cash dividends declared................. -- -- -- (154,411) (154,411)
+ Stock options exercised................. 149,827 150 3,955 -- 4,105
+ Purchase of stock....................... (1,021,551) (1,021) (9,835) (29,326) (40,182)
+ Stock issued for acquisitions........... 157,461 157 5,880 -- 6,037
+- ---------------------------------------------------------------------------------------------------------------------
+BALANCE AT DECEMBER 31, 1995................ 121,913,040 121,913 -- 1,528,969 1,650,882
+=====================================================================================================================
+ 
+See accompanying notes.
+
+21
+ 5
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+Genuine Parts Company and Subsidiaries
+
+- -----------------------------------------------------------------------------------------------------------------------------------
+(dollars in thousands)
+Year Ended December 31 1995 1994 1993
+===================================================================================================================================
+ 
+Operating Activities
+ Net income ........................................................................... 309,168 288,548 257,813
+ Adjustments to reconcile net income to net cash provided by
+ operating activities:
+ Depreciation and amortization ................................................... 43,234 37,374 34,420
+ Gain on sale of property, plant and equipment ................................... (1,248) (158) (1,342)
+ Provision for deferred taxes .................................................... 12,340 6,699 5,990
+ Equity in income from investees ................................................. (8,298) (7,224) (4,452)
+ Income applicable to minority interests ......................................... 2,712 2,373 2,090
+ Changes in operating assets and liabilities:
+ Trade accounts receivable .................................................... (77,910) (58,484) (25,759)
+ Merchandise inventories ...................................................... (122,876) (125,426) (91,462)
+ Prepaid expenses and other current accounts .................................. (5,550) (11,097) (1,413)
+ Trade accounts payable ....................................................... 15,115 57,641 18,319
+ Income taxes payable and other current liabilities ........................... (8,000) 8,708 6,367
+- -----------------------------------------------------------------------------------------------------------------------------------
+ (150,481) (89,594) (57,242)
+- -----------------------------------------------------------------------------------------------------------------------------------
+ NET CASH PROVIDED BY OPERATING ACTIVITIES 158,687 198,954 200,571
+Investing Activities
+ Investment in Grupo Auto Todo ........................................................ -- (26,009) --
+ Purchase of property, plant and equipment ............................................ (90,769) (66,002) (57,513)
+ Proceeds from sale of property, plant and equipment .................................. 4,836 2,885 4,831
+ Purchase of short-term investments ................................................... -- -- (64,599)
+ Proceeds from sale and maturity of short-term investments ............................ -- 64,599 12,010
+ Other investing activities ........................................................... (18,199) (9,062) (12,962)
+- -----------------------------------------------------------------------------------------------------------------------------------
+ NET CASH USED IN INVESTING ACTIVITIES (104,132) (33,589) (118,233)
+Financing Activities
+ Proceeds from revolving line of credit, net .......................................... 45,000 -- --
+ Proceeds from long-term debt ......................................................... 50,000 -- --
+ Payments on long-term debt ........................................................... (1,167) (698) (804)
+ Stock options exercised .............................................................. 4,105 4,368 2,759
+ Dividends paid ....................................................................... (151,257) (140,289) (129,846)
+ Purchase of stock .................................................................... (40,182) (70,345) --
+ Contributions from minority interests ................................................ 790 778 765
+- -----------------------------------------------------------------------------------------------------------------------------------
+ NET CASH USED IN FINANCING ACTIVITIES (92,711) (206,186) (127,126)
+- -----------------------------------------------------------------------------------------------------------------------------------
+ NET DECREASE IN CASH AND CASH EQUIVALENTS (38,156) (40,821) (44,788)
+ CASH AND CASH EQUIVALENTS AT BEGINNING OF YEAR 82,410 123,231 168,019
+- -----------------------------------------------------------------------------------------------------------------------------------
+ CASH AND CASH EQUIVALENTS AT END OF YEAR 44,254 82,410 123,231
+===================================================================================================================================
+Supplemental disclosure of cash flow information
+ Cash paid during the year for:
+ Income taxes ...................................................................... 223,641 178,307 160,944
+===================================================================================================================================
+ Interest .......................................................................... 2,919 1,333 1,587
+===================================================================================================================================
+
+See accompanying notes.
+
+22
+ 6
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Genuine Parts Company and Subsidiaries
+December 31, 1995
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+PRINCIPLES OF CONSOLIDATION: The consolidated financial statements include the
+accounts of Genuine Parts Company and all of its subsidiaries (the "Company").
+Income applicable to minority interests is included in other expenses.
+Significant intercompany accounts and transactions have been eliminated in
+consolidation.
+
+USE OF ESTIMATES: The preparation of the consolidated financial statements in 
+conformity with generally accepted accounting principles requires management to
+make estimates and assumptions that affect the amounts reported in the 
+consolidated financial statements and accompanying notes. Actual results
+may differ from those estimates.
+
+CASH EQUIVALENTS: The Company considers all highly liquid investments with a
+maturity of three months or less when purchased to be cash equivalents.
+
+INVESTMENTS: The Company has a 23 ownership interest in UAP Inc., a Canadian 
+automotive parts distributor and a 49 interest in a partnership formed by the 
+Company and UAP Inc.
+ On October 1, 1994, the Company paid approximately 26 million to acquire
+a 49 interest in Grupo Auto Todo, a partnership formed by the Company and Auto
+Todo, a Mexican automotive parts distributor.
+ These investments are accounted for by the equity method of accounting and
+represent less than five percent of consolidated amounts. Translation 
+adjustments are not material.
+
+INVENTORIES: Inventories are valued at the lower of cost or market. Cost is
+determined by the last-in, first-out (LIFO) method for substantially all
+automotive parts, and certain industrial parts, and by the first-in, first-out
+(FIFO) method for all other inventories. If the FIFO method had been used for
+all inventories, cost would have been 114,381,000 and 102,077,000 higher than
+reported at December 31, 1995 and December 31, 1994, respectively.
+
+PROPERTY, PLANT AND EQUIPMENT: Property, plant and equipment is stated on the
+basis of cost. Depreciation is determined principally on a straight-line basis
+over the estimated useful life of each asset.
+
+LONG-LIVED ASSETS: In March 1995, the FASB issued Statement No. 121, Accounting
+for the Impairment of Long-Lived Assets and for Long-Lived Assets to be
+Disposed Of, which requires impairment losses to be recorded on long-lived
+assets used in operations when indicators of impairment are present and the
+undiscounted cash flows estimated to be generated by those assets are less than
+the assets' carrying amount. Statement 121 also addresses the accounting for
+long-lived assets that are expected to be disposed of. The Company will adopt
+Statement 121 in the first quarter of 1996 and, based on current circumstances,
+does not believe the effect of adoption will be material.
+
+STOCK OPTIONS: Proceeds from the sale of stock under options are credited to
+common stock at par value and the excess of the option price over par value is
+credited to additional paid-in capital.
+ The Company grants stock options for a fixed number of shares to employees
+with an exercise price equal to the fair value of the shares at the date of
+grant. The Company accounts for stock option grants in accordance with APB
+Opinion No. 25, Accounting for Stock Issued to Employees, and, accordingly,
+recognizes no compensation expense for the stock option grants.
+
+ACCOUNTING CHANGES: Effective January 1, 1993, the Company adopted Statement of
+Financial Accounting Standards No. 106, "Employers' Accounting for
+Postretirement Benefits Other Than Pensions" which requires the projected
+future costs of providing postretirement benefits, such as health care and life
+insurance, be recognized as an expense as employees render service instead of 
+when benefits are paid. The Company applied the new rules using the cumulative 
+effect method, resulting in a charge of 5,055,000 (net of income taxes of 
+ 3,095,000) in 1993.
+ Also effective January 1, 1993, the Company adopted Statement of Financial
+Accounting Standards No. 109, "Accounting for Income Taxes". The cumulative
+effect as of January 1, 1993, of adopting Statement 109 increased 1993 net
+income by 4,000,000.
+
+NET INCOME PER COMMON SHARE: Net income per common share is based on the
+weighted average number of shares of common stock outstanding during each year.
+Options outstanding under the Company's stock option plan would not materially
+dilute net income per share and, therefore, have not been included in the
+computation.
+
+2. CREDIT FACILITIES
+In June 1995, the Company obtained a 100,000,000 unsecured revolving line of
+credit with a bank which matures in May 1996 and bears interest at the bank's
+cost of funds rate plus .10 (5.98 as of December 31, 1995). At December 31,
+1995, 45,000,000 was outstanding under this line.
+ In December 1995, the Company converted 50,000,000 of amounts outstanding
+under the line of credit into an unsecured term note which matures in December
+2000, and bears interest at a fixed rate of 5.98 . Other long-term debt of
+ 10,607,000 and 11,431,000 at December 31, 1995 and 1994, respectively,
+consists of various industrial development
+
+ 23
+ 7
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+2. CREDIT FACILITIES (CONTINUED)
+
+bonds and other obligations which bear interest at varying rates and mature at
+varying dates through 2004.
+ The Company believes that the fair value of these financial instruments
+approximates the carrying value.
+
+3. SHAREHOLDERS' EQUITY
+The Company has a Shareholder Protection Rights Agreement which includes the
+distribution of Rights to common shareholders. The Rights entitle the holder,
+upon occurrence of certain events, to purchase additional stock of the Company.
+The Rights will be exercisable only if a person, group or company acquires 20 
+or more of the Company's common stock or commences a tender offer that would
+result in ownership of 30 or more of the common stock. The Company is entitled
+to redeem each Right for one cent.
+
+4. LEASED PROPERTIES
+The Company leases land, buildings and equipment. Certain land and building
+leases have renewal options generally for periods ranging from two to ten
+years. Future minimum payments, by year and in the aggregate, under the
+noncancellable operating leases with initial or remaining terms of one year
+or more consisted of the following at December 31, 1995 (in thousands):
+
+1996 ....................... 50,524
+ 1997 ....................... 36,932
+ 1998 ....................... 27,207
+ 1999 ....................... 19,483
+ 2000 ....................... 13,971
+ Subsequent to 2000 ......... 27,789
+ ----------------------------------------------------------
+ 175,906
+ ==========================================================
+
+Rental expense for operating leases was 58,146,000 in 1995; 53,913,000
+in 1994; 48,935,000 in 1993.
+
+5. STOCK OPTIONS
+In accordance with stock option plans approved by the shareholders, options are
+granted to key personnel for the purchase of the Company's common stock at
+prices not less than the fair market value of the shares on the dates of grant.
+Most options may be exercised not earlier than twelve months nor later than ten
+years from the date of grant. Further information relating to the options is as
+follows:
+
+Shares
+ Option Price -------------------------------
+ Per Share 1995 1994 1993
+ -------------------------------------------------------------------
+ 
+ Outstanding at
+ January 1 .... 23.21 to 37.06 1,900,077 1,496,301 1,432,850
+ Granted ...... 34.38 to 39.56 500,500 693,000 235,700
+ Exercised .... 23.21 to 37.06 (182,098) (272,887) (150,749)
+ Cancelled .... 25.25 to 35.69 (6,191) (16,337) (21,500)
+ -------------------------------------------------------------------
+ Outstanding at
+ December 31 .. 24.50 to 39.56 2,212,288 1,900,077 1,496,301
+ ===================================================================
+ Exercisable at
+ December 31 .. 24.50 to 37.06 1,336,990 770,774 1,014,843
+ ===================================================================
+ Shares available 
+ for future grants 2,199,884 2,694,193 3,520,856
+ ===================================================================
+
+On March 31, 1994, the Company entered into restricted stock agreements
+with two officers which provide for the award of up to 100,000 and 50,000
+shares, respectively, during the period 1994 through 1998 based on the Company
+achieving certain increases in earnings per share and stock price levels. The
+officers earned 8,000 and 4,000 shares, and 10,000 and 5,000 shares for the
+years ended December 31, 1995 and 1994, respectively. The Company recognizes
+compensation expense equal to the fair market value of the stock on the award
+date over the remaining vesting period which expires on March 31, 2004.
+
+6. INCOME TAXES
+Deferred income taxes reflect the net tax effect of temporary differences
+between the carrying amounts of the assets and liabilities for financial
+reporting purposes and amounts used for income tax purposes. Significant
+components of the Company's deferred tax liabilities are as follows:
+
+1995 1994
+ --------------------------------------------------------------------------
+ (in thousands)
+ Employee and retiree benefits 27,775 17,301
+ Property, plant and equipment 19,966 17,231
+ Merchandise inventories ..... 4,039 6,855
+ Other ....................... 6,910 3,153
+ --------------------------------------------------------------------------
+ 58,690 44,540
+ ==========================================================================
+
+The components of income tax expense are as follows:
+
+1995 1994 1993
+ --------------------------------------------------------------------------
+ (in thousands)
+ 
+ Federal:
+ Current ................... 155,895 148,282 132,298
+ Deferred .................. 12,340 6,699 5,990
+ State ....................... 33,391 31,339 28,673
+ --------------------------------------------------------------------------
+ 201,626 186,320 166,961
+ ==========================================================================
+
+The reasons for the difference between total tax expense and the amount
+computed by applying the statutory Federal income tax rate to income before
+income taxes were as follows:
+
+1995 1994 1993
+ (in thousands)
+ ------------------------------------------------------------ 
+ 
+ Statutory rate applied to
+ pre-tax income .............. 178,778 166,204 149,040
+ Plus state income taxes,
+ net of Federal tax benefit .. 21,704 20,370 18,637
+ Other ........................ 1,144 (254) (716)
+ ------------------------------------------------------------ 
+ 201,626 186,320 166,961
+ ============================================================ 
+
+7. EMPLOYEE BENEFIT PLANS
+The Company's noncontributory defined benefit pension plan covers substantially
+all of its employees. The benefits are based on an average of the employees'
+compensation during five of their last ten years of credited service. The
+Company's funding policy is to contribute amounts deductible for income
+
+24
+ 8
+tax purposes. Contributions are intended to provide not only for benefits
+attributed for service to date but also for those expected to be earned in the
+future.
+ The following table sets forth the plan's funded status and amounts
+recognized in the Company's financial statements at December 31:
+
+1995 1994
+- -----------------------------------------------------------------------------------
+ (in thousands)
+ 
+Actuarial present value of
+ benefit obligations:
+ Accumulated benefit obligation,
+ including vested benefits of 244,256
+ in 1995 and 201,029 in 1994..................... (251,245) (205,808)
+===================================================================================
+Projected benefit obligation for service
+ rendered to date ................................ (394,974) (315,368)
+Plan assets at fair value, primarily
+ bonds and equity securities 436,846 346,303
+- -----------------------------------------------------------------------------------
+Plan assets in excess of projected
+ benefit obligation .............................. 41,872 30,935
+Unrecognized prior service cost.................... (23,657) (26,520)
+Unrecognized net loss from past
+ experience different from that
+ assumed and effects of changes
+ in assumptions .................................. 62,835 51,926
+
+Unrecognized net transition obligation ............ 1,562 1,822
+- -----------------------------------------------------------------------------------
+Net prepaid pension cost .......................... 82,612 58,163
+===================================================================================
+
+Net pension cost (income) included the following components at December 31:
+
+1995 1994 1993
+- -------------------------------------------------------------------------------------------------------
+ (in thousands)
+ 
+Service cost .................. 10,710 12,247 9,498
+Interest cost ................. 26,032 25,002 23,192
+Actual return on plan
+ assets ..................... (90,127) 3,578 (35,190)
+Net amortization and
+ deferral ................... 51,622 (36,606) 2,353
+- -------------------------------------------------------------------------------------------------------
+Net periodic pension
+ cost (income) .............. (1,763) 4,221 (147)
+=======================================================================================================
+
+Assumptions used in the accounting for the defined benefit plan as of
+December 31 were:
+
+1995 1994 1993
+- -------------------------------------------------------------------------------------------------------
+ 
+Weighted-average
+ discount rate ............... 7.40 8.40 7.50 
+Rate of increase in future
+ compensation levels ......... 5.00 5.00 5.75 
+Expected long-term rate
+ of return on assets ......... 9.50 9.50 10.00 
+
+The changes in the above assumptions resulted in a net 66,200,000
+increase in the projected benefit obligation at December 31, 1995 and a
+ 37,400,000 decrease at December 31, 1994.
+ At December 31, 1995, the plan held 534,997 shares of common stock of the
+Company with a market value of 21,935,000.
+ The Company has a defined contribution plan which covers substantially all
+of its employees. The Company's contributions are determined based on 20 of
+the first 6 of the covered employee's salary. Total plan expense was
+approximately 3,556,000 in 1995, 3,364,000 in 1994, and 2,712,000 in 1993,
+respectively.
+
+8. INDUSTRY DATA
+The industry data for the past five years presented in the Exhibit on page 27
+is an integral part of these financial
+statements.
+ The Company is primarily engaged in the distribution of merchandise,
+principally automotive and industrial replacement parts, and office supplies
+throughout the United States. In the automotive industry, the Company
+distributes replacement parts (other than body parts) for substantially all
+makes and models of domestically manufactured automobiles, most domestically
+manufactured trucks and buses, and most vehicles manufactured outside the
+United States. In addition, this segment of the business includes the
+rebuilding of some automotive parts and the distribution of replacement parts
+for certain types of farm equipment, motorcycles, motorboats and small engines.
+ The Company's industrial segment distributes a wide variety of industrial
+bearings, mechanical and fluid power transmission equipment, including
+hydraulic and pneumatic products, material handling components, and related
+parts and supplies.
+ The Company's office products segment distributes a wide variety of office
+products, computer supplies, office furniture and business electronics.
+ Intersegment sales are not significant. Operating profit for each industry
+segment is calculated as net sales less operating expenses excluding general
+corporate expenses, interest expense, equity in income from investees and
+minority interests. Identifiable assets by industry are those assets that are
+used in the Company's operations in each industry. Corporate assets are
+principally cash, cash equivalents and headquarters' facilities and equipment.
+
+25
+ 9
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Genuine Parts Company and Subsidiaries
+December 31, 1995
+
+RESULTS OF OPERATIONS:
+Net sales in 1995 increased for the 46th consecutive year to a record high of
+ 5.3 billion. This was an increase of 8 over the prior year and compares with
+increases of 11 in 1994, and 9 in 1993. Sales for the Automotive Parts Group
+increased 4 in 1995 versus 8 in 1994, reflecting increased market share,
+aggressive advertising and redesigned stores, offset by the soft automotive
+aftermarket. Price increases for the Automotive Parts Group were less than 2 
+in 1995 and there were no price increases in 1994. Sales for the Industrial
+Parts Group increased 15 in 1995 versus 14 in 1994 reflecting geographic
+expansion and strong industrial production and factory utilization. Price
+increases for the Industrial Parts Group were slightly less than 5 in 1995 and
+approximately 3 in 1994. Sales for the Office Products Group increased 12 in
+1995 compared with 14 in 1994 reflecting increased market share, continued
+geographic expansion, and improved service level. Price increases for the 
+Office Products Group were approximately 2 in 1995 and less than 1 in 1994.
+ Costs of goods sold was 69.5 of net sales in 1995 compared to 68.8 in
+1994 and 69.0 in 1993. While selling, administrative and other expenses
+increased each year, the percentage to net sales remained approximately the
+same. The effective income tax rate was 39.5 in 1995 and 39.2 in 1994 and in
+1993. Net income in 1995 increased 7 over 1994 net income. Net income in
+1994 increased 12 over 1993.
+ Effective January 1, 1993, the Company adopted Statement of Financial
+Accounting Standards No. 106, "Employers' Accounting for Postretirement
+Benefits Other Than Pensions" which requires the projected future costs of
+providing postretirement benefits, such as health care and life insurance, be
+recognized as an expense as employees render service instead of when benefits
+are paid. The Company has applied the new rules using the cumulative effect
+method, resulting in a charge of 5,055,000 (net of income taxes of
+ 3,095,000). Also effective January 1, 1993, the Company adopted Statement of
+Financial Accounting Standards No. 109, "Accounting for Income Taxes". The
+cumulative effect as of January 1, 1993, of adopting Statement 109 increased
+net income by 4,000,000. As permitted by the Statement, prior year financial
+statements have not been restated to reflect the change in accounting method.
+ Effective December 31, 1995, the Company changed the weighted average
+discount rate for the Pension Plan from 8.40 to 7.40 , resulting in a net
+ 66,200,000 increase in the projected benefit obligation.
+
+LIQUIDITY AND SOURCES OF CAPITAL:
+The ratio of current assets to current liabilities was 3.7 at the close of 1995
+with current assets amounting to 78 of total assets. Trade accounts
+receivable and inventories increased 16 and 12 respectively, while working
+capital increased 10 . The increase in working capital has been financed
+principally from the Company's cash flow generated by operations. At December
+31, 1995, 45,000,000 was outstanding under an unsecured revolving line of
+credit with a bank. In December 1995 the Company converted 50,000,000 of
+amounts outstanding under the line of credit into an unsecured term note which
+matures in December 2000 and bears interest at a fixed rate of 5.98 . The
+amounts borrowed have principally been used to finance the Company's stock
+repurchase program. At the August 16, 1994 meeting, the Board of Directors
+approved a stock repurchase program which authorizes the Company to acquire up
+to 10 million shares of its Common Stock. To date, approximately 3 million
+shares have been repurchased. Existing credit facilities, current financial
+resources and anticipated funds from operations are expected to meet
+requirements for working capital in 1996. Capital expenditures during 1995
+amounted to 91 million compared with 66 million in 1994 and 58 million in
+1993. The increases reflect the Company's continuing geographic expansion as
+well as the upgrading of existing facilities. It is anticipated that capital
+expenditures in 1996 will be approximately the same as 1995.
+
+QUARTERLY RESULTS OF OPERATIONS:
+Miscellaneous year-end adjustments resulted in increasing net income during the
+fourth quarter of 1995 and 1994 by approximately 20,093,000 .16 per share)
+and 18,353,000 .15 per share), respectively.
+ The following is a summary of the quarterly results of operations for the
+years ended December 31, 1995 and 1994.
+
+Three Months Ended
+- ----------------------------------------------------------------------------
+ March 31, June 30, Sept. 30, Dec. 31,
+- ----------------------------------------------------------------------------
+1995 (in thousands except per share data)
+- ----------------
+ 
+Net Sales ...... 1,281,230 1,308,712 1,362,481 1,309,481
+Gross Profit ... 382,554 390,956 408,495 425,196
+Net Income ..... 69,036 74,931 76,952 88,249
+Net Income per
+ Common Share .56 .61 .63 .72
+
+1994
+- ----------------
+Net Sales ...... 1,162,075 1,219,801 1,268,417 1,208,122
+Gross Profit ... 346,457 362,817 382,280 423,162
+Net Income ..... 62,891 71,011 72,924 81,722
+Net Income per
+ Common Share. .51 .57 .59 .66
+
+26
+ 10
+INDUSTRY DATA
+Genuine Parts Company and Subsidiaries
+
+(dollars in thousands) 1995 1994 1993 1992 1991
+=====================================================================================================
+Net sales
+ Automotive ............................. 2,804,086 2,693,961 2,485,267 2,318,761 2,188,698
+ Industrial ............................. 1,509,566 1,317,495 1,153,371 1,082,428 1,021,019
+ Office products ........................ 948,252 846,959 745,656 615,562 554,019
+- -----------------------------------------------------------------------------------------------------
+ Total net sales ...................... 5,261,904 4,858,415 4,384,294 4,016,751 3,763,736
+- -----------------------------------------------------------------------------------------------------
+Operating profit
+ Automotive ............................. 307,726 304,164 282,791 262,422 260,818
+ Industrial ............................. 132,952 111,822 96,727 87,493 76,922
+ Office products ........................ 93,888 78,206 65,938 50,967 45,112
+- -----------------------------------------------------------------------------------------------------
+ Total operating profit ............... 534,566 494,192 445,456 400,882 382,852
+Interest expense ........................ (3,419) (1,321) (1,584) (1,871) (5,434)
+Corporate expense ....................... (25,939) (22,854) (20,405) (17,577) (18,662)
+Equity in income ........................ 8,298 7,224 4,452 2,513 4,000
+Minority interests ...................... (2,712) (2,373) (2,090) (1,537) (1,638)
+- -----------------------------------------------------------------------------------------------------
+ Income before income taxes ........... 510,794 474,868 425,829 382,410 361,118
+- -----------------------------------------------------------------------------------------------------
+Identifiable assets
+ Automotive ............................. 1,320,910 1,223,416 1,152,148 1,040,191 926,617
+ Industrial ............................. 482,067 404,647 370,633 354,547 338,054
+ Office products ........................ 360,456 308,817 283,479 228,802 201,036
+ Corporate .............................. 18,631 5,950 6,731 27,333 57,197
+ Equity investments ..................... 92,068 86,641 57,765 56,430 54,612
+- -----------------------------------------------------------------------------------------------------
+ Total assets ......................... 2,274,132 2,029,471 1,870,756 1,707,303 1,577,516
+- -----------------------------------------------------------------------------------------------------
+Depreciation and amortization
+ Automotive ............................. 30,239 26,588 24,056 21,905 20,301
+ Industrial ............................. 5,049 4,640 5,410 5,286 5,732
+ Office products ........................ 6,814 5,257 4,246 3,752 3,794
+ Corporate .............................. 1,132 889 708 744 768
+- -----------------------------------------------------------------------------------------------------
+ Total depreciation and amortization .. 43,234 37,374 34,420 31,687 30,595
+- -----------------------------------------------------------------------------------------------------
+Capital expenditures
+ Automotive ............................. 67,643 45,921 39,502 24,272 22,381
+ Industrial ............................. 12,132 4,164 2,779 2,553 2,479
+ Office products ........................ 10,587 13,547 12,378 3,395 3,055
+ Corporate .............................. 407 2,370 2,854 1,365 358
+- -----------------------------------------------------------------------------------------------------
+ Total capital expenditures ........... 90,769 66,002 57,513 31,585 28,273
+- -----------------------------------------------------------------------------------------------------
+
+27
+
+</EX-13>
+
+<EX-21>
+ 6
+ SUBSIDIARIES OF THE COMPANY
+
+1
+
+ EXHIBIT 21
+
+SUBSIDIARIES OF THE COMPANY
+
+Jurisdiction of
+ Name Owned Incorporation
+ ---- ------- -------------
+ 
+ Balkamp, Inc. 89.61 Indiana
+
+ Berry Bearing Company 100.0 Illinois
+
+ Genuine Parts Holdings, Ltd. 100.0 Province of
+ Alberta, Canada
+
+ GPC Mexico, S.A. de C. V. 100.0 Mexico
+
+ GPC Trading Corporation 100.0 Virgin Islands
+
+ Motion Industries, Inc. 100.0 Delaware
+
+ S. P. Richards Company 100.0 Georgia
+
+ Horizon USA Data Supplies, Inc. 100.0 Nevada
+
+ Alamogordo Parts & Supply, Inc. 51.0 Georgia
+
+ Ann Arbor Auto Supply, Inc. 51.0 Georgia
+
+ Antioch Automotive Supply, Inc. 51.0 Georgia
+
+ Auto Paint and Supply Company
+ of Lexington, Inc. 51.0 Georgia
+
+ Auto Parts of Big Creek, Inc. 51.0 Georgia
+
+ Auto Parts of Daytona, Inc. 51.0 Georgia
+
+ Best Auto Parts, Inc. 51.0 Georgia
+
+ Brigham Automotive Supply, Inc. 51.0 Georgia
+
+ Bulldog Auto Parts, Inc. 51.0 Georgia
+
+ Calcutta Auto Supply, Inc. 51.0 Georgia
+
+ Central Motor Parts, Inc. 51.0 Georgia
+
+ CKT Motive Parts, Inc. 51.0 Georgia
+
+ Clermont-Brown Automotive Supply, Inc. 51.0 Georgia
+
+ C & O Auto Parts, Inc. 51.0 Georgia
+
+ Cross Timbers Auto Supply, Inc. 51.0 Georgia
+
+ Fairfield Automobile Supply, Inc. 51.0 Georgia
+
+ First Choice Automotive, Inc. 51.0 Georgia
+
+ First Settlement Automotive, Inc. 51.0 Georgia
+
+ 1st Choice Auto Parts, Inc. 51.0 Georgia
+
+2
+
+EXHIBIT 21 (cont.)
+
+Franklin County Supply, Inc. 51.0 Georgia
+
+ Gila Automotive Supply, Inc. 51.0 Georgia
+
+ Grand Canyon Auto Supply, Inc. 51.0 Georgia
+
+ Hansens Automotive Supply, Inc. 51.0 Georgia
+
+ Hastings Auto Supply, Inc. 51.0 Georgia
+
+ Huntsville Parts & Equipment, Inc. 51.0 Georgia
+
+ J.B.H. Auto Supply Incorporated 51.0 Georgia
+
+ L & P Automotive Supply, Inc. 51.0 Georgia
+
+ Lake Havasu City Auto Parts, Inc. 51.0 Georgia
+
+ Lana Lou Auto Parts, Inc. 51.0 Georgia
+
+ Lauderdale County Supply, Inc. 51.0 Georgia
+
+ Lodi Automotive Supply, Inc. 51.0 Georgia
+
+ Luke's Auto Supply, Inc. 51.0 Georgia
+
+ Malden Auto Supply, Inc. 51.0 Georgia
+
+ Mid-town Auto & Machine Shop, Inc. 51.0 Georgia
+
+ McKinney Parts, Inc. 51.0 Georgia
+
+ McMinn County Automotive, Inc. 51.0 Georgia
+
+ Middletown Parts Unlimited, Inc. 51.0 Georgia
+
+ Nelson Enterprises, Inc. 51.0 Georgia
+
+ Oberlin Auto Parts, Inc. 51.0 Georgia
+
+ Parts & Company of Selma, Inc. 51.0 Georgia
+
+ Petoskey Automotive Center, Incorporated 51.0 Georgia
+
+ P.M.A. Associates, Inc. 51.0 Georgia
+
+ Port Charlotte Auto Supply, Inc. 51.0 Georgia
+
+ Prescott Auto Parts, Inc. 51.0 Georgia
+
+ Price Automotive Enterprises, Inc. 100.0 Georgia
+
+ Pride City Auto Parts, Inc. 51.0 Georgia
+
+ Quality Auto Parts & Paint Supply, Inc. 51.0 Georgia
+
+ R.K.R., Inc. 51.0 Georgia
+
+ Rasmussen Auto Supply, Inc. 51.0 Georgia
+
+ Riverside Auto Parts, Inc. 51.0 Georgia
+
+ River Valley Auto Parts, Inc. 51.0 Georgia
+
+ Rome Auto Parts, Inc. 51.0 Georgia
+
+3
+
+ EXHIBIT 21 (cont.)
+
+Rutherford Automotive, Inc. 51.0 Georgia
+
+ Sanchez Truck & Auto Parts, Inc. 51.0 Georgia
+
+ Sevier County Auto Parts, Inc. 100.0 Georgia
+
+ Slidell Parts Warehouse, Inc. 51.0 Georgia
+
+ Sumner Auto & Truck, Inc. 51.0 Georgia
+
+ Sweet Home Auto & Truck Supply, Inc. 51.0 Georgia
+
+ TAG Automotive, Inc. 51.0 Georgia
+
+ TNT Supply, Inc. 51.0 Georgia
+
+ Uptergrove Auto Supply, Inc. 51.0 Georgia
+
+ Warren County Automotive, Inc. 51.0 Georgia
+
+ Wisota Auto Parts, Inc. 51.0 Georgia
+
+</EX-21>
+
+<EX-23>
+ 7
+ CONSENT OF INDEPENDENT AUDITORS
+
+1
+ Exhibit 23 
+Consent of Independent Auditors
+
+We consent to the incorporation by reference in this Annual Report (Form 10-K)
+of Genuine Parts Company of our report dated February 5, 1996, included in the
+1995 Annual Report to Shareholders of Genuine Parts Company.
+
+We also consent to the incorporation by reference in the Registration Statement
+(Form S-8 Number 33-30982) pertaining to the Genuine Parts Company 1988 Stock
+Option Plan and in the Registration Statement (Form S-8 Number 33-62512)
+pertaining to the Genuine Parts Company 1992 Stock Option and Incentive Plan of
+our report dated February 5, 1996, with respect to the consolidated financial
+statements of Genuine Parts Company incorporated by reference in the Annual
+Report (Form 10-K) for the year ended December 31, 1995.
+
+/s/ Ernst & Young LLP
+
+Atlanta, Georgia
+March 19, 1996
+
+</EX-23>
+
+<EX-27>
+ 8
+ FINANCIAL DATA SCHEDULE
+
+5
+ 1,000
+
+YEAR
+ DEC-31-1995
+ DEC-31-1995
+ 44,254
+ 0
+ 565,305
+ 2,104
+ 1,127,456
+ 1,763,961
+ 303,239
+ 209,797
+ 2,274,132
+ 475,524
+ 60,607
+ 0
+ 0
+ 121,913
+ 1,528,969
+ 2,274,132
+ 5,261,904
+ 5,261,904
+ 3,654,703
+ 3,654,703
+ 1,092,988
+ 0
+ 3,419
+ 510,794
+ 201,626
+ 309,168
+ 0
+ 0
+ 0
+ 309,168
+ 2.52
+ 2.52
+
+</EX-27>
+

@@ -1,0 +1,3904 @@
+<Header>
+<FileStats>
+    <FileName>20100331_10-K_edgar_data_351017_0001140361-10-014303.txt</FileName>
+    <GrossFileSize>1245005</GrossFileSize>
+    <NetFileSize>169948</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>994746</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001140361-10-014303.hdr.sgml : 20100331
+<ACCEPTANCE-DATETIME>20100331113938
+ACCESSION NUMBER:		0001140361-10-014303
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20091231
+FILED AS OF DATE:		20100331
+DATE AS OF CHANGE:		20100331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AUTOINFO INC
+		CENTRAL INDEX KEY:			0000351017
+		STANDARD INDUSTRIAL CLASSIFICATION:	TRUCKING & COURIER SERVICES (NO AIR) [4210]
+		IRS NUMBER:				132867481
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11497
+		FILM NUMBER:		10717257
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PO BOX 4383
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06907-0383
+		BUSINESS PHONE:		2019301800
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 4383
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06907-0383
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ FwFQe/kJvBwWz5c2DLaQrL6VfwnvAnDXoeBKfriRHkjygLGghh7D0Y8S27+Rm3DZ
+ keh1RWYb+fIMzKxiJ650ig==
+
+ 0001140361-10-014303.txt : 20100331
+
+10-K
+ 1
+ form10-k.htm
+ AUTOINFO 10-K 12-31-2010
+
+form10-k.htm 
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 10-K 
+
+ANNUAL REPORT PURSUANT TO SECTIONS 13 OR 15 (d) OF THE 
+
+SECURITIES AND EXCHANGE ACT OF 1934 
+
+For the fiscal year ended December 31, 2009 
+
+Commission file number : 001-11497 
+
+AUTOINFO, INC. 
+
+(Exact Name of Registrant as Specified in Its Charter) 
+
+Delaware 
+
+13-2867481 
+
+(State or Other Jurisdiction of Incorporation or Organization) 
+
+(I.R.S. Employer Identification No.) 
+
+6413 Congress Ave Suite 260 
+
+Boca Raton, Florida 33487 
+
+(Address of Principal Executive Offices) 
+
+Registrant's telephone number, including area code: 561 - 988 - 9456 
+
+Securities registered pursuant to Section 12(b) of the Act: None 
+
+Securities registered pursuant to section 12(g) of the Act: 
+
+Common Stock, .001 par value 
+
+(Title of class) 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined by Rule 405 of the Securities Act. 
+
+Yes o No T 
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act. 
+
+Yes o No T 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+
+Yes T No o 
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). 
+
+Yes o No T 
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. 
+
+o 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or smaller reporting company. See the definitions of large accelerated filer, accelerated filer and smaller reporting company in Rule 12b-2 of the Exchange Act. (Check one): 
+
+Large Accelerated filer o 
+
+Non-accelerated filer o 
+
+Accelerated filer o 
+
+Smaller reporting company T 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+
+Yes o No T 
+
+The aggregate market value of the voting common stock held by non-affiliates of the registrant as June 30, 2009 was (based upon the closing price on the Nasdaq Over-the-Counter Bulletin Board of 0.40 per share) approximately 3,569,000. 
+
+The number of shares outstanding of the registrant's common stock, .001 par value, as of March 29, 2010 was 33,496,060 shares. 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+
+None. 
+
+AUTOINFO , INC. 
+
+Annual Report on Form 10-K 
+
+TABLE OF CONTENTS 
+
+Page 
+
+PART I 
+
+2 
+
+Item 1. 
+
+Business 
+
+2 
+
+Item 1A. 
+
+Risk Factors 
+
+7 
+
+Item 1B. 
+
+Unresolved Staff Comments 
+
+13 
+
+Item 2. 
+
+Properties 
+
+13 
+
+Item 3. 
+
+Legal Proceedings 
+
+13 
+
+Item 4. 
+
+[Removed and Reserved] 
+
+13 
+
+PART II 
+
+13 
+
+Item 5. 
+
+Market for our Common Equity, Related Stockholder Matters and Purchases of Equity Securities 
+
+13 
+
+Item 6. 
+
+Selected Consolidated Financial Data 
+
+14 
+
+Item 7. 
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+15 
+
+Item 7A. 
+
+Quantitive and Qualitative Disclosures About market Risk 
+
+21 
+
+Item 8. 
+
+Financial Statements and Supplementary Data 
+
+22 
+
+Item 9. 
+
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosures 
+
+22 
+
+Item 9A(T). 
+
+Controls and Procedures 
+
+22 
+
+Item 9B. 
+
+Other Information 
+
+23 
+
+PART III 
+
+23 
+
+Item 10. 
+
+Directors, Executive Officers and Corporate Governance 
+
+23 
+
+Item 11. 
+
+Executive Compensation 
+
+25 
+
+Item 12. 
+
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+
+29 
+
+Item 13. 
+
+Certain Relationships and Related Transactions, and Director Independence 
+
+30 
+
+Item 14. 
+
+Principal Accounting Fees and Services 
+
+31 
+
+PART IV 
+
+31 
+
+Item 15. 
+
+Exhibits and Financial Statement Schedules 
+
+31 
+
+FORWARD LOOKING STATEMENT INFORMATION 
+
+Certain statements made in this Annual Report on Form 10-K are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, regarding the plans and objectives of management for future operations. Such statements involve known and unknown risks, uncertainties and other factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements. The forward-looking statements included herein are based on current expectations that involve numerous risks and uncertainties. Our plans and objectives are based, in part, on assumptions involving jud
+gments with respect to, among other things, future economic, competitive and market conditions and future business decisions, all of which are difficult or impossible to predict accurately and many of which are beyond our control. Although we believe that our assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate and, therefore, there can be no assurance that the forward-looking statements included in this report will prove to be accurate. In light of the significant uncertainties inherent in the forward-looking statements included herein particularly in view of the current state of our operations, the inclusion of such information should not be regarded as a statement by us or any other person that our objectives and plans will be achieved. Factors that could cause actual results to differ materially from those expressed or implied by such forward-looking statements include, but are not limited to, the factors set 
+forth herein under the headings Business, Risk Factors and Management s Discussion and Analysis of Financial Condition and Results of Operations. We undertake no obligation to revise or update publicly any forward-looking statements for any reason. 
+
+Table of Contents 
+
+PART I 
+
+Item 1. 
+
+BUSINESS 
+
+Overview 
+
+Through our wholly-owned subsidiaries, Sunteck Transport Group, Inc. and Eleets Logistics, Inc., AutoInfo, Inc., a Delaware corporation (collectively, we, us, our or AutoInfo ), is a non-asset based transportation services company, providing transportation capacity and related transportation services to shippers throughout the United States, and to a lesser extent, Canada. As a non-asset based provider of brokerage and contract carrier transportation services, we do not own any equipment and our services are provided through our strategic alliances with less than truckload, truckload, air, rail, ocean common carriers and independent owner-operators to service our customers needs. Our services include ground transportation coast to coast, local pick-up and deliver
+y, air freight and ocean freight. We have strategic alliances with less than truckload, truckload, air, rail and ocean common carriers to service our customers needs. Our business services emphasize safety, information coordination and customer service and are delivered through a network of independent commissioned sales agents and third party capacity providers coordinated by us. The independent commissioned sales agents typically enter into exclusive contractual arrangements with Sunteck and are responsible for locating freight and coordinating the transportation of the freight with customers and capacity providers. The third party capacity providers consist of independent contractors who provide truck capacity to us, including owner-operators who operate under our contract carrier license, air cargo carriers and railroads. 
+
+Through 2008, we operated in one business segment. During 2009, we determined that we operated in two business segments, non-asset based transportation services and agent support services. The non-asset based transportation services segment includes our brokerage and contract carrier services which are provided through a network of independent sales agents throughout the United States and Canada. Revenue in this segment is generated from freight transportation transactions. 
+
+The agent support services segment includes an array of services that we provide to our agent network to support and encourage the expansion of our agents businesses, primarily financial support through interest bearing long-term loans and non-interest bearing short-term loans, as well as other services including training, margin analysis, marketing assistance, industry and market segment data and business analysis tools. Revenue in this segment consists primarily of interest on interest bearing loans. This segment also includes potential revenues related to profit participations and realization on options to acquire equity that we may receive related to a loan or advance extended to an agent. 
+
+As a non-asset based provider of brokerage and contract carrier transportation services, we do not own any equipment and our services are provided through our strategic alliances with less than truckload, truckload, air, rail, ocean common carriers and independent owner-operators to service customers needs. Our brokerage and contract carrier services are provided through a network of independent sales agents throughout the United States and Canada. During our most recently completed fiscal year, we generated revenue, gross profit and net income of approximately 183.9 million, 37.2 million and 1.4 million, respectively. 
+
+Strategy 
+
+Our strategy is to continue to expand through affiliations with independent sales agents and through internal expansion. We have expanded our sales agent network to include representatives throughout the United States and Canada. In addition, we have experienced internal expansion as many of our existing agents have expanded their customer base and increased the number of transactions they generate. We intend to seek, on a selective basis, acquisition of businesses that have services which complement and expand our existing services, and provide us with strategic distribution locations or attractive customer bases. Our ability to implement our growth strategy will be dependent on our ability to identify and affiliate with these agents on mutually acceptable terms. 
+
+2 
+
+Table of Contents 
+
+Company background 
+
+AutoInfo was organized under the laws of the State of New York in 1976 and reincorporated under the laws of Delaware in 1987. In December 2000, we acquired Sunteck in a merger transaction. 
+
+The industry 
+
+Prior to the mid 1980 s, the trucking industry was regulated by the Interstate Commerce Commission. Deregulation brought new breath and life to the industry. This also brought with it the problem of how to navigate the transportation highway. Shippers found it difficult to locate carriers and carriers found that it was expensive to find freight. Enter the third party transportation providers-intermediaries (freight brokers, freight forwarders and logistics providers). The third party intermediary connects the shipper and the carrier and helps manage the flow of goods. 
+
+The present market for freight moved by truck is estimated to exceed 200 billion per year. This is a highly fragmented industry comprised of common carriers, contract carriers, freight forwarders and freight brokers. 
+
+The actual movement of goods is accomplished by trucking (consisting of local, over the road, truckload, and less than truckload shipments), air freight (time sensitive in nature), rail freight (non time sensitive in nature and usually less expensive than truck) and ocean freight (generally in containerized ships). Other services provided include warehousing and distribution. 
+
+There are several trends which are relevant to the continued dependency upon and growth of the trucking industry: 
+
+Just in time service 
+
+With new technology and a premium on cost savings, businesses are able to maintain smaller inventories, thereby reducing carrying costs and warehouse space requirements. The impact on the freight industry is more shipments of smaller quantities that are more time sensitive and, therefore, more costly. 
+
+Outsourcing 
+
+Companies have found it to be more cost effective and efficient to eliminate company owned truck fleets and rely upon others to handle their trucking and shipping needs. 
+
+Logistics 
+
+Small to medium size businesses, with less frequent shipping requirements, utilize logistics providers (freight brokers, etc.) to manage all aspects of the transportation, warehousing and delivery needs. 
+
+The market for third party logistics providers is highly fragmented. It is comprised primarily of full service logistics providers, freight brokers, independent sales agents and sales representatives. Sales agents often work out of home-based offices or small regional sales offices and affiliate themselves with full service brokers to provide back-office services including load dispatching, bonding and licensing, billing, collection and other administrative services. Sales representatives vary from experienced people with years of freight industry experience and established client relationships to telemarketing personnel cold calling shippers and dispatchers. 
+
+Third party logistics companies provide numerous services to clients on an outsourced basis, by contract and on demand. The continued growth of this industry has created secondary market opportunities to provide low-cost delivery to the endpoint, in addition to supply chain services of warehousing, inventory management and electronic interface with customers and suppliers. Third party logistics companies provide customized domestic and international freight transportation of customers goods and packages via truck, rail, airplane and ship, and provide warehousing and storage of those goods. Many companies utilize information systems and expertise to reduce inventories, cut transportation costs, speed delivery and improve customer service. The third-party logistics services business has been bolstered in recent years by the compe
+titiveness of the global economy, which causes shippers to focus on reducing handling costs, operating with lower inventories and shortening inventory transit times. Using a network of transportation, handling and storage providers in multiple transportation modes, third-party logistics services companies seek to improve their customers operating efficiency by reducing their inventory levels and related handling costs. Many third-party logistics service providers are non-asset-based, primarily utilizing physical assets owned by others in multiple transport modes. 
+
+3 
+
+Table of Contents 
+
+The third-party logistics services business increasingly relies upon advanced information technology to link the shipper with its inventory and as an analytical tool to optimize transportation solutions. This trend favors the larger, more professionally managed companies that have the resources to support a sophisticated information technology infrastructure. By outsourcing all non-core business services to third party providers, companies can help to control costs, eliminate staff and focus on internal business. 
+
+Operations and systems 
+
+In our brokerage services, our sales agents throughout the United States and Canada receive customers freight requirements daily. All agents make appropriate carrier arrangements for the pick-up and timely delivery of customers freight. 
+
+In our contract carrier services, our sales agents receive customers freight requirements daily and, utilizing their respective owner-operators, make appropriate carrier arrangements for the pick-up and timely delivery of customers freight. In addition, utilizing various sources, including numerous internet based freight posting boards, our agents locate additional freight to maximize utilization of available capacity and minimize deadhead miles, or miles driven generating little or no revenue. A typical owner-operator will generate 2,500 per week in revenues. 
+
+Our sales agents vary in level of experience from agents with years of freight industry experience and established client relationships to a more limited number of inexperienced telemarketing and operations personnel working under the direct supervision and training of experienced sales agents and dispatchers. 
+
+The agent support services segment includes an array of services that we provide to our agent network to support and encourage the expansion of our agents businesses, primarily financial support through interest bearing long-term loans and non-interest bearing short-term loans, as well as other services including training, margin analysis, marketing assistance, industry and market segment data, and business analysis tools. Revenue in this segment consists primarily of interest on interest bearing loans. This segment also includes potential revenues related to profit participations and realization on the option to acquire equity that we may receive related to a loan or an advance extended to an agent. 
+
+We rely exclusively on independent third parties for our hauling capacity. These third party capacity providers consist of our independent owner-operators, unrelated trucking companies, air cargo carriers and railroads. Our use of capacity provided by our independent owner-operators, and other third party capacity providers, allows us to maintain a lower level of capital investment, resulting in lower fixed costs. 
+
+We utilize a state-of-the-art proprietary internet based order entry system. All agents access our web-based platform and orders are entered into a customized traffic management system which enables us to monitor the status of all orders, generate customer billing and provide detailed transactional reports from our Florida corporate headquarters. We use these reports to monitor customer logistics and transportation usage, track customer and carrier historical data, generate detailed financial and accounting data and provide our customers with details of their supply chain activity. We maintain dual off-site storage and back-up facilities to insure data integrity and safety. 
+
+4 
+
+Table of Contents 
+
+Suppliers 
+
+We use the services of various third party transportation companies. During 2009, no third party provider handled more than 10 of our shipping volume (measured by revenue). 
+
+Customers 
+
+We strive to establish long-term customer relationships and, by providing a full range of logistics and supply chain services, we seek to increase our level of business with each customer. We service customers ranging from Fortune 100 companies to small businesses in a variety of industries. During 2009, no customer accounted for more than 10 of our revenues. We typically receive credit applications from all customers, review credit references and perform credit checks to ensure credit worthiness. 
+
+We have achieved revenue growth through the addition of independent sales agents, the opening of new operations offices, an increase in the number of customers serviced, and the expansion of the logistics and supply chain services we provide. 
+
+Each of our operations office markets our full range of supply chain services to existing customers and pursues new customers within its local markets. We build new customer relationships by exploiting our range of logistics and supply chain services, the traffic lanes we commonly service, carrier relationships and capabilities, our industry specific expertise and our sales agents individual knowledge and experience. 
+
+Our growth model is focused on adding sales agents in strategic markets as well as, through our agent support services, providing capital, training and support for expansion and growth. As our agent network is further established and expanded, we believe that significant other opportunities will emerge. Larger sales agents offices often have their own equipment (truck space), which presents the opportunity to maximize available freight and load capacity thereby increasing gross margins above current levels. In addition, sales representatives will be added to regional operating office sales agent locations to increase market penetration. Since representatives work on a commission basis, this expansion essentially comes with no additional overhead outlay. 
+
+Significant opportunities for expansion and growth also include strategic alliances with other service freight broker groups. This strategy will enable us to achieve strong regional penetration into new geographical markets and increase back office capabilities to service the agent network. 
+
+Competition 
+
+The transportation industry is highly competitive and highly fragmented. In our brokerage services, our primary competitors are other non-asset based as well as asset based third party logistics companies, freight brokers, carriers offering logistics services and freight forwarders. In our contract carrier services, our competitors are other contract carriers and common carriers. We also compete with customers and shippers internal traffic and transportation departments as well as carriers internal sales and marketing departments directly seeking shippers freight. We generally compete on the basis of price and the range of logistics and supply chain services offered. 
+
+5 
+
+Table of Contents 
+
+Government regulation 
+
+Our industry has long been subject to government legislation and regulation. Over the years, many changes in these laws and regulations have affected the industry and caused changes in the operating practices and the cost of providing transportation services. We cannot predict what effect, if any, legislative and regulatory changes may have on the industry in the future. 
+
+We are licensed by the United States Department of Transportation (DOT) as a broker arranging the movement of materials by motor carrier. In this capacity, we are required to meet certain qualifications to enable us to conduct business, which includes the compliance with certain surety bond requirements. We are also licensed by the DOT as a contract carrier arranging the movement of materials by motor carrier. In this capacity, we are required to meet certain qualifications to enable us to conduct business, which includes the maintenance of 750,000 of general liability insurance. Accordingly, we maintain 1,000,000 of general liability insurance and 500,000 of cargo insurance. 
+
+If we fail to comply with, or lose, any required licenses, governmental regulators could assess penalties or issue a cease and desist order against our operations that are not in compliance. 
+
+Risk and liability 
+
+In our brokerage services, we do not take possession of the freight and therefore do not assume legal liability for loss or damage to freight and are not liable for the carrier's negligence or failure to perform. We do assist our customers in the processing and collection of any claim. The Federal Highway Administration requires us to maintain a surety bond of 10,000, which is intended to show our financial responsibility and provide surety for the arrangements with shippers and carriers. In addition, we maintain 500,000 of contingent cargo liability insurance. 
+
+In our contract carrier services business, we are liable for loss or damage to our customers freight. We maintain cargo liability insurance coverage with a policy limit of 500,000 per occurrence. We have not incurred any material losses to date. Any such losses in excess of insurance limits would be accounted for as incurred for financial reporting purposes. 
+
+Employees 
+
+As of March 17, 2010 we had 62 full-time employees. None of our employees are represented by a labor union and we believe that our relationship with our employees is good. 
+
+Available Information 
+
+Our website address is www.suntecktransport.com . We are not including the information contained on our website as part of, or incorporating it by reference into, this annual report on Form 10-K. We make available free of charge through our website our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, Forms 3, 4 and 5, and all amendments to those reports as soon as reasonably practicable after such material is electronically filed with or furnished to the Securities and Exchange Commission (SEC). 
+
+The public may read and copy any materials we file with the SEC at the SEC's Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers such as us that file electronically with the SEC. The website address is www.sec.gov . 
+
+6 
+
+Table of Contents 
+
+Item 1A. 
+
+RISK FACTORS 
+
+In addition to the other information provided in this report, you should carefully consider the following factors in evaluating our business, operations and financial condition. Additional risks and uncertainties not presently known to us, that we currently deem immaterial or that are similar to those faced by other companies in our industry or business in general, such as competitive conditions, may also impair our business operations. 
+
+The occurrence of any of the following risks could have a material adverse effect on our business, financial condition and results of operations. 
+
+We are dependent upon independent commissioned sales agents who have direct relationships with our customers. 
+
+A substantial portion of our business is originated by our network of independent sales agents. Most of these sales agents work with us on an exclusive basis pursuant to contracts with terms ranging from one to five years. However, certain agent contracts are terminable upon thirty days notice by either party. These contracts typically contain non-compete and non-solicitation provisions. Notwithstanding these provisions, we may not be able to restrict the ability of a former agent from competing with us following termination. As a result, if sales representatives terminate their affiliation with us, our revenue and results of operations could be adversely affected. 
+
+If we are unable to expand the number of our sales agents, or if a significant number of our existing sales agents leave us, our ability to increase our revenue could be negatively impacted. 
+
+Our ability to expand our business will depend, in part, on our ability to attract additional sales agents. Competition for qualified brokerage agents can be intense, and we may be unable to attract such persons. Any difficulties we experience in expanding sales agents could have a negative impact on our ability to expand our customer base, increase our revenue, and continue our growth. 
+
+In addition, we must retain our current sales agents and properly incentivize them to obtain new customers and maintain existing customer relationships. If a significant number of our sales agents leave us, our revenue could be negatively impacted. A significant increase in the turnover rate among our current sales agents could also increase our recruiting costs and decrease our operating efficiency. 
+
+As part of our business, we periodically extend uncollateralized loans and advances to our independent sales agents and have collection risk associated therewith. 
+
+As part of our agent support services, we periodically extend loans and/or advances, often uncollateralized, to our independent sales agents to support and encourage the expansion of their businesses. Recovery of these loans and advances depends to a large extent on the borrowers ability to generate revenue, which essentially is commissions on sales that they generate. If the agent is not successful in generating sales, or if the agent or we should decide to disaffiliate from each other, our ability to recover these loan amounts may be impaired. 
+
+We are dependent on third party capacity providers . 
+
+We do not own trucks or other transportation equipment and rely on third party capacity providers, including independent owner operators, unrelated trucking companies, railroads and air cargo carriers to transport freight for our customers. We compete with motor carriers and other third parties for the services of independent owner operators and other third party capacity providers. A significant decrease in available capacity provided by either our independent owner operators or other third party capacity providers could have a material adverse effect on our results of operations and revenue. 
+
+7 
+
+Table of Contents 
+
+Our third-party carriers must meet our needs and expectations, and those of our customers, and their inability to do so could adversely affect our results of operations. 
+
+Our business depends to a large extent on our ability to provide consistent, high quality, technology-enabled transportation and logistics solutions. We do not own or control the transportation assets that deliver our customers freight, and we do not employ the people directly involved in delivering the freight. We rely on third parties to provide less-than-truckload, truckload and, intermodal brokerage and domestic air services and to report certain information to us, including information relating to delivery status and freight claims. This reliance could cause delays in providing our customers with timely delivery of freight, important service data, and in the financial reporting of certain events, including recognizing revenue and recording claims. If we are unable to secure suffi
+cient transportation services to meet our customer commitments, or if any of the third parties we rely on do not meet our needs or expectations, or those of our customers, our results of operations could be adversely affected, and our customers could switch to our competitors temporarily or permanently. 
+
+If we are unable to maintain the level of service we currently provide to our customers, our reputation may be damaged, resulting in a loss of business. 
+
+We compete with other transportation providers based on reliability, delivery time, security, visibility, and personalized service. Our reputation is based on the level of customer service that we currently provide. If this level of service deteriorates, or if we are prevented from delivering on our services in a timely, reliable, safe and secure manner, our reputation and business may suffer. 
+
+Our reliance on independent owner operators to provide transportation services to our customers could limit our expansion. 
+
+Our transportation services are conducted in part by independent owner operators, who are generally responsible for paying for their, own equipment, fuel, and other operating costs. Our independent owner operators are responsible for providing the tractors and trailers they use related to our business. Certain factors, such as increases in fuel costs, insurance costs, and the cost of new and used tractors, or reduced financing sources available to independent owner operators for the purchase of equipment, could create a difficult operating environment for independent owner operators. Turnover and bankruptcy among independent owner operators in the over-the-road freight sector, often limits the pool of qualified independent owner operators and increases the competition among carriers for their services. If we are 
+required to increase the amounts paid to independent owner operators in order to obtain their services, our results of operations could be adversely affected to the extent increased expenses are not offset by higher freight rates. Additionally, our agreements with our independent owner operators are terminable by either party upon short notice and without penalty. Consequently, we regularly need to recruit qualified independent owner operators to replace those who have left our pool. If we are unable to retain our existing independent owner operators or recruit new independent owner operators, our results of operations and ability to expand could be adversely affected. 
+
+A decrease in levels of capacity in the over-the-road freight sector could have an adverse impact on our business. 
+
+Recently, the over-the-road freight sector has experienced levels of excess capacity. The current operating environment in the over-the-road freight sector resulting from an economic recession, fluctuating fuel costs, and other economic factors is beginning to cause a reduction in capacity in the sector generally, and in our carrier network specifically, which could have an adverse impact on our ability to execute our business strategy and on our business. 
+
+8 
+
+Table of Contents 
+
+Decreased demand for tr ansportation services could adversely affect our operating results. 
+
+The transportation industry historically has experienced cyclical financial results as a result of slowdowns in economic activity, the business cycles of customers, price increases by capacity providers, interest rate fluctuations, and other economic factors beyond our control. Certain of our third party capacity providers can be expected to charge higher prices to cover increased operating expenses, and our operating income may decline if we are unable to pass through to our customers the full amount of these higher transportation costs. If a slowdown in economic activity or a downturn in our customers business cycles causes a reduction in the volume of freight shipped by those customers, our operating results could be materially adversely affected. 
+
+One or more significant claims, our failure to adequately reserve for such claims, or the cost of maintaining our insurance for such claims, could have an adverse effect on our results of operations. 
+
+We use the services of thousands of transportation companies and their drivers in connection with our transportation operations. From time to time, these drivers are involved in accidents and goods carried by these drivers are lost or damaged, and the carriers may not have adequate insurance coverage. Such accidents usually result in equipment damage and, unfortunately, can also result in injuries or death. Although these drivers are not our employees and all of these drivers are independent contractors or work for third-party carriers, from time to time claims may be asserted against us for their actions or for our actions in retaining them. Claims against us may exceed the amount of our insurance coverage, or may not be covered by insurance a
+t all. A material increase in the frequency or severity of accidents, claims for lost or damaged goods, liability claims, or workers compensation claims, or unfavorable resolutions of any such claims, could adversely affect our results of operations to the extent claims are not covered by our insurance or such losses exceed our reserves. Significant increases in insurance costs or the inability to purchase insurance as a result of these claims could also reduce our profitability and have an adverse effect on our results of operations. 
+
+A significant or prolonged economic downturn, particularly the current downturn in the over-the-road freight sector, or a substantial downturn in our customers business, could adversely affect our revenue and results of operations. 
+
+The over-the-road freight sector has historically experienced cyclical fluctuations in financial results due to, among other things, economic recession, downturns in business cycles, increasing costs and taxes. Fluctuations in energy prices, price increases by carriers, changes in regulatory standards, license and registration fees, interest rate fluctuations, and other economic factors beyond our control. All of these factors could increase the operating costs of a vehicle and impact capacity levels in the over-the-road freight sector. Carriers may charge higher prices to cover higher operating expenses, and our operating income may decrease if we are unable to pass through to our customers the full amount of higher purchased transportation costs. Additionally, economic conditions may adversely affect our customers, their 
+need for our services, or their ability to pay for our services. 
+
+The cost of compliance with, liability for violations of, or modifications to existing or future governmental regulations could adversely affect our business and results of operations. 
+
+Our operations are subject to certain federal, state, and local regulatory requirements. These regulations and requirements are subject to change based on new legislation and regulatory initiatives, which could affect the economics of the transportation industry by requiring changes in operating practices or influencing the demand for, and the cost of providing, transportation services. The DOT, and its agencies, such as the Federal Motor Carrier Safety Administration, and various state and local agencies exercise broad powers over our business, generally governing such activities as engaging in motor carrier operations, freight forwarding, and freight brokerage operations, as well as regulating safely. As a motor carrier authorized by the DOT, we must comply with the safety and fitness regulations promulgated by the DOT, including th
+ose relating to drug and alcohol testing, driver qualification, and hours-of service. There also are regulations specifically relating to the trucking industry, including testing and specifications of equipment, product handling requirements, and hazardous material requirements. In addition, we must comply with certain safety, insurance, and bonding requirements promulgated by the DOT and various stale agencies. Compliance with existing, new, or more stringent measures could disrupt or impede the timing of our deliveries and our ability to satisfy the needs of our customers. In addition, we may experience an increase in operating costs, such as security costs, as a result of governmental regulations that have been and will be adopted in response to terrorist activities and potential terrorist activities. The cost of compliance with existing or future measures could adversely affect our results of operations. Further, we could become subject to liabilities as a result of a failure to com
+ply with applicable regulations. 
+
+9 
+
+Table of Contents 
+
+If our independent contractors are deemed by regulators to be employees, our business and results of operations could be adversely affected. 
+
+Tax and other regulatory authorities have in the past sought to assert that independent contractors in the trucking industry are employees rather than independent contractors. There can be no assurance that these authorities will not successfully assert this position or that tax laws and other laws that currently consider these persons independent contractors will not change. If our independent contractors are determined to be our employees, we would incur additional exposure under federal and state law, workers compensation, unemployment benefits, labor, employment, and tort laws, including for prior periods, as well as potential liability for employee benefits and tax withholdings. Our business model relies on the fact that our independent contractors are independent contractors and not deemed to be our employees, and exposure to an
+y of the above factors could have an adverse effect on our business and results of operations. 
+
+We have limited marketing and sales capabilities and must make sales in fragmented markets. 
+
+Our future success depends, to a great extent, on our ability to successfully market our services through our network of independent agents. Our sales and marketing capabilities are more limited than many of our competitors who have captive internal sales forces and greater financial resources than us. We cannot assure you that any marketing and sales efforts undertaken on our behalf will be successful or will result in any significant sales. 
+
+Our industry is intensely competitive, which may adversely affect our operations and financial results. 
+
+All our markets are intensely competitive and numerous companies offer services that compete with our services. We anticipate that competition for our services will continue to increase. Many of our competitors have substantially greater capital resources, sales and marketing resources and experience. We cannot assure you that we will be able to effectively compete with our competitors in effecting our business expansion plans. 
+
+We depend on the continued services of our president, chief financial officer and chief operating officer. 
+
+Our future success depends, in part, on the continuing efforts of our president, Harry Wachtel, who conceived our strategic plan and is responsible for executing that plan, our chief financial officer, William Wunderlich, and our chief operating officer, Michael Williams. The loss of any of Messrs. Wachtel, Wunderlich or Williams would adversely affect our business. We do not have any term key man insurance on any of them. If we lose any of their services, our business, operations, and financial condition would be materially adversely affected. 
+
+10 
+
+Table of Contents 
+
+We must attract and retain qualified personnel. 
+
+As we implement our business growth strategy, significant demands will be placed on our managerial, financial and other resources. One of the keys to our future success will be our ability to attract and retain highly qualified marketing, sales and administrative personnel. Competition for qualified personnel in these areas is intense and we will be competing for their services with companies that have substantially greater resources than we do. We cannot assure you that we will be able to identify, attract and retain personnel with skills and experience necessary and relevant to the future operations of our business. Our inability to retain or attract qualified personnel in these areas could have a material adverse effect on our business and results of operations. 
+
+We may require additional financing in the future, which may not be available on acceptable terms. 
+
+Depending on our ability to generate revenues, we may require additional funds to expand our business operations and for working capital and general corporate purposes. Any additional equity financing may be dilutive to stockholders, and debt financings may involve restrictive covenants that limit our ability to make decisions that we believe will be in our best interests. In the event we cannot obtain additional financing on terms acceptable to us when required, our ability to expand operations may be materially adversely affected. 
+
+Our principal stockholders have substantial control over our affairs. 
+
+As of March 17, 2010, our president, Harry Wachtel, beneficially owned approximately 18.7 of the issued and outstanding shares of our common stock. Further, James T. Martin, Kinderhook Partners, LP and Investors Management Corporation, three significant stockholders, owned approximately 18.7 , 18.0 and 13.5 , respectively, of the issued and outstanding shares of our common stock. As a result, any one or a combination of Mr. Wachtel, Mr. Martin, Kinderhook Partners, LP or Investors Management Corporation could assert control over our affairs, including the election of directors and any proposals regarding a sale of the company or its assets or a merger. In addition, this concentration of ownership could have the effect of delaying, deferring or preventing a change in control or impeding a merger or consolidation, takeover 
+or other business combination which you, as a stockholder, may otherwise view favorably. 
+
+Our stock price is volatile and could be further affected by events not within our control. 
+
+The market price of our common stock has historically experienced and may continue to experience significant volatility. For the 52-week period ended March 16, 2010, our closing stock price has ranged from 0.53 to 0.25. On March 16, 2010, our closing stock price was 0.34. 
+
+The trading price of our common stock has been volatile and will continue to be subject to: 
+
+volatility in the trading markets generally; 
+
+fluctuations in our quarterly operating results; and 
+
+announcements regarding our business or the business of our competitors. 
+
+Statements or changes in opinions, ratings or earnings estimates made by brokerage firms or industry analysts relating to the markets in which we operate or expect to operate could also have an adverse effect on the market price of our common stock. In addition, the stock market as a whole is currently experiencing extreme price and volume fluctuations which have particularly affected the market price for the securities of many small-cap companies and which often have been unrelated to the operating performance of these companies. 
+
+11 
+
+Table of Contents 
+
+The price of our common stock may be adversely affected by the possible issuance of shares of our common stock as a result of the exercise of outstanding options. 
+
+We have granted options covering approximately 11.1 million shares of our common stock. As a result of the actual or potential sale of these shares into the market, our common stock price may decrease. 
+
+Future sales of our common stock may adversely affect our common stock price. 
+
+If our stockholders sell a large number of shares of common stock or if we issue a large number of shares in connection with future acquisitions or financings, the market price of our common stock could decline significantly. In addition, the perception in the public market that our stockholders might sell a large number of shares of common stock could cause a decline in the market price of our common stock. 
+
+Some provisions in our charter documents and bylaws may have anti-takeover effects. 
+
+Our certificate of incorporation and bylaws contain provisions that may make it more difficult for a third party to acquire us, with the result that it may deter potential suitors. For example, our board of directors is authorized, without action of the stockholders, to issue authorized but unissued common and preferred stock. The existence of authorized but unissued common and preferred stock enables us to discourage or to make it more difficult to obtain control of us by means of a merger, tender offer, proxy contest or otherwise. 
+
+We have agreed to limitations on the potential liability of our directors. 
+
+Our certificate of incorporation provides that, in general, directors will not be personally liable for monetary damages to the company or our stockholders for a breach of fiduciary duty. Although this limitation of liability does not affect the availability of equitable remedies such as injunctive relief or rescission, the presence of these provisions in the certificate of incorporation could prevent us from recovering monetary damages. 
+
+Liquidity on the Nasdaq OTC Bulletin Board is limited, and we may be unable to obtain listing of our common stock on a more liquid market. 
+
+Our common stock is quoted on the Nasdaq OTC Bulletin Board, which provides significantly less liquidity than a national securities exchange such as the New York Stock Exchange and the Nasdaq World or Capital Markets. We do not currently meet the minimum trading price requirement for listing on any of these exchanges and there is uncertainty that we will ever be accepted for a listing on any of these exchanges. 
+
+Our common stock has been thinly traded, and the public market may provide little or no liquidity for holders of our common stock. 
+
+Purchasers of shares of our common stock may find it difficult to resell their shares at prices quoted in the market or at all. There is currently a limited volume of trading in our common stock, and on many days there has been no trading activity at all. Due to the historically low trading price of our common stock, many brokerage firms may be unwilling to effect transactions in our common stock, particularly because low-priced securities are subject to an SEC rule that imposes additional sales practice requirements on broker-dealers who sell low-priced securities (generally those below 5.00 per share). We cannot predict when or whether investor interest in our common stock might lead to an increase in its market price or the development of a more active trading market or how liquid that market might become. 
+
+12 
+
+Table of Contents 
+
+Item 1B. 
+
+UNRESOLVED STAFF COMMENTS 
+
+None. 
+
+Item 2. 
+
+PROPERTIES 
+
+We lease approximately 5,300 square feet of space for our executive offices and the headquarters of Sunteck at 6413 Congress Avenue, Boca Raton, Florida. This lease runs through April 2010 and provides for aggregate rent payments of 71,000 for the twelve months ending April 2010. We lease approximately 1,433 square feet of space for our sales and dispatch group at 6401 Congress Avenue, Boca Raton, Florida. This lease runs through November 2011 and provides for annual aggregate rent payments of 18,000. We have reached a tentative agreement with our landlord to extend these leases through August 2015 on terms comparable to our current leases. We lease approximately 3,000 square feet of space for our legal and compliance 
+group at 11437 Central Parkway, Jacksonville, Florida. This lease runs through November 2010 and provides for aggregate annual rent payments of 36,000. We intend to renew this lease on terms comparable to our existing lease. 
+
+Item 3. 
+
+LEGAL PROCEEDINGS 
+
+We are not a party to any material legal proceedings. 
+
+Item 4. 
+
+[Removed and Reserved] 
+
+PART II 
+
+Item 5. 
+
+MARKET FOR OUR COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND PURCHASES OF EQUITY SECURITIES 
+
+Our common stock is not listed on any stock exchange. Our common stock is traded on the Nasdaq Over-the-Counter Bulletin Board OTCBB under the symbol Auto. The following table sets forth the high and low bid information for our common stock for each quarter within the last two fiscal years, as reported by the OTCBB. The bid information reflects inter-dealer prices, without retail mark-up, mark-down or commission, and may not represent actual transactions. 
+
+Bid Prices 
+
+Year Ended December 31, 2009 
+
+High 
+
+Low 
+
+First quarter 
+
+0.40 
+
+0.25 
+
+Second quarter 
+
+0.53 
+
+0.35 
+
+Third quarter 
+
+0.45 
+
+0.35 
+
+Fourth quarter 
+
+0.42 
+
+0.33 
+
+Year Ended December 31, 2008 
+
+High 
+
+Low 
+
+First quarter 
+
+0.80 
+
+0.70 
+
+Second quarter 
+
+0.80 
+
+0.60 
+
+Third quarter 
+
+0.70 
+
+0.40 
+
+Fourth quarter 
+
+0.50 
+
+0.21 
+
+13 
+
+Table of Contents 
+
+As of March 16, 2010, the closing bid price per share for our common stock, as reported on the OTCBB was 0.34. As of March 16, 2010 we had approximately 1,000 beneficial stockholders. 
+
+Dividend policy 
+
+We have never declared or paid a cash dividend on our common stock. It has been the policy of our board of directors to retain all available funds to finance the development and growth of our business. The payment of cash dividends in the future will be dependent upon our earnings and financial requirements and other factors deemed relevant by our board of directors. 
+
+Item 6. 
+
+SELECTED CONSOLIDATED FINANCIAL DATA 
+
+The following is a summary of our selected consolidated financial data for the years ended December 31, 2009, 2008, 2007, 2006 and 2005. The financial data has been derived from our audited consolidated financial statements and accompanying notes. 
+
+The selected financial data set forth below should be read together with, and are qualified by reference to, the Management s Discussion and Analysis of Financial condition and Results of Operations section of this report and our audited consolidated financial statements and accompanying notes included elsewhere in this report. 
+
+000 s omitted, except for per share data 
+
+Year ended December 31, 
+
+2009 
+
+2008 
+
+2007 
+
+2006 
+
+2005 
+
+Statement of Operations Data: 
+
+Gross revenues 
+
+183,899 
+
+180,211 
+
+110,332 
+
+84,111 
+
+68,040 
+
+Gross profit (1) 
+
+37,178 
+
+31,698 
+
+21,309 
+
+17,743 
+
+13,554 
+
+Net income 
+
+1,418 
+
+2,224 
+
+1,604 
+
+3,628 
+
+3,608 
+
+Net income per share (2) 
+
+Basic 
+
+.04 
+
+.07 
+
+.05 
+
+.11 
+
+.11 
+
+Diluted 
+
+.04 
+
+.07 
+
+.05 
+
+.10 
+
+.11 
+
+(1) 
+
+Gross profit is determined by deducting cost of transportation from total revenues. See Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+
+(2) 
+
+The common stock equivalents for the year ended December 31, 2009, 2008, 2007, 2006 and 2005 were 1,266,000, 1,727,000, 3,113,000, 4,090,000 and 2,400,000, respectively. 
+
+000 s omitted 
+
+As at December 31, 
+
+2009 
+
+2008 
+
+2007 
+
+2006 
+
+2005 
+
+Balance Sheet Data: 
+
+Cash and cash equivalents 
+
+67 
+
+390 
+
+270 
+
+146 
+
+419 
+
+Accounts receivable, net 
+
+36,068 
+
+29,863 
+
+24,224 
+
+16,967 
+
+12,735 
+
+Total assets 
+
+54,205 
+
+42,776 
+
+33,190 
+
+23,822 
+
+16,646 
+
+Total liabilities 
+
+36,281 
+
+26,467 
+
+19,374 
+
+11,826 
+
+8,515 
+
+Deficit 
+
+(2,210) 
+
+(3,628) 
+
+(5,852) 
+
+(7,456) 
+
+(11,084) 
+
+Stockholders equity 
+
+17,924 
+
+16,309 
+
+13,816 
+
+11,996 
+
+8,131 
+
+14 
+
+Table of Contents 
+
+Item 7. 
+
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Cautionary statement identifying important factors that could cause our actual results to differ from those projected in forward looking statements. 
+
+Readers of this report are advised that this document contains both statements of historical facts and forward looking statements. Forward looking statements are subject to certain risks and uncertainties, which could cause actual results to differ materially from those indicated by the forward looking statements. Examples of forward looking statements include, but are not limited to (i) projections of revenues, income or loss, earnings per share, capital expenditures, dividends, capital structure and other financial items, (ii) statements of our plans and objectives with respect to business transactions and enhancement of stockholder value, (iii) statements of future economic performance, a
+nd (iv) statements of assumptions underlying other statements and statements about our business prospects. 
+
+This report also identifies important factors, which could cause actual results to differ materially from those indicated by the forward looking statements. These risks and uncertainties include the factors discussed under the heading Risk Factors beginning at page 7 of this report. 
+
+The following Management s Discussion and Analysis of Financial Condition and Results of Operations should be read in conjunction with our financial statements and the notes thereto appearing elsewhere in this report. 
+
+Overview 
+
+Through our wholly-owned subsidiaries, Sunteck Transport Group, Inc. and Eleets Logistics, Inc., we are a non-asset based transportation services company, providing transportation capacity and related transportation services to shippers throughout the United States, and to a lesser extent, Canada. As a non-asset based provider of brokerage and contract carrier transportation services, we do not own any equipment and our services are provided through our strategic alliances with less than truckload, truckload, air, rail, ocean common carriers and independent owner-operators to service our customers needs. Our services include ground transportation coast to coast, local pick up and delivery, air freight and ocean freight. We have strategic alliances with less than truckload, truckload, air, rail and ocean co
+mmon carriers to service our customers needs. Our business services emphasize safety, information coordination and customer service and are delivered through a network of independent commissioned sales agents and third party capacity providers coordinated by us. The independent commissioned sales agents typically enter into exclusive contractual arrangements with Sunteck and are responsible for locating freight and coordinating the transportation of the freight with customers and capacity providers. The third party capacity providers consist of independent contractors who provide truck capacity to us, including owner-operators who operate under our contract carrier license, air cargo carriers and railroads. 
+
+During 2009, we determined that we operated in two business segments, non-asset based transportation services and agent support services. The non-asset based transportation services segment includes our brokerage and contract carrier services which are provided through a network of independent sales agents throughout the United States and Canada. Revenue in this segment is generated from freight transportation transactions. The agent support services segment includes an array of services that we provide to our agent network to support and encourage the expansion of our agents businesses, primarily financial support through interest bearing long-term loans, non-interest bearing short-term loans, as well as other services including training, margin analysis, marketing assistance, industry and market segment data, and busine
+ss analysis tools. Revenue in this segment consists primarily of interest on interest bearing loans. This segment also includes potential revenues related to profit participations and realization on the option to acquire equity that we may receive related to a loan or advance extended to an agent. 
+
+15 
+
+Table of Contents 
+
+Gross revenues during our most recently completed fiscal year were approximately 182.4 million and 1.5 million from transportation services and agent support services, respectively. Gross profits were approximately 35.7 million and 1.5 million from transportation services and agent support services, respectively. 
+
+In our transportation services segment, gross revenues increased by 1 while gross profit increased by 13 over the same prior year period. This is the result of several factors including, the decrease in average revenue dollars per transaction due to the reduction of fuel prices resulting in lower fuel surcharges, the increase in less than truckload versus truckload freight, a trend by customers toward regional and local distribution points reducing mileage and the reduction in per mile costs based upon the availability of carrier capacity. These factors resulted in a lower cost of transportation and had a corresponding positive impact on our gross profit and per load margins. 
+
+During the next twelve months, we plan to continue to offer our brokerage and contract carrier transportation services, our agent support services and expand our agent network. We are presently profitable and have adequate available lines of credit to satisfy our working capital requirements during the next twelve months. 
+
+In 2009, we modified our contractual arrangements with one of our significant independent agents which adversely impacted our commission rates. The new arrangement provides for the agent s retention of all of the gross profit earned on the transactions it generates. Under the prior arrangement, the agent retained 70 of the gross profit. Under the new arrangement, in lieu of a portion of the gross profit, the agent pays us interest on loans and advances we extend to it at rates ranging from 8 to 20 plus a fee equal to 25 of the agent s pre-tax income, as defined. In addition, the agent has granted to us an option to convert a portion of outstanding loans into a 25 equity ownership interest in the agent s business. 
+
+During 2009, we received interest payments of 1,255,000 on loans and advances to this agent but no incremental amounts were earned since the agent did not generate any pre-tax income in 2009. We believe this was the result of the general economic downturn that our industry experienced beginning in the fourth quarter of 2008, which is discussed below. Future fee revenue is dependent upon several factors including economic recovery and the agent s continued revenue growth and ability to control its costs. 
+
+Economic downturn 
+
+During the latter part of the fourth quarter of 2008, the general economic conditions in the United States and globally experienced a significant downturn, impacting the market segments in which we operate. This downturn, referred to by many economic experts as a world-wide recession, continued into 2009. This resulted in a decrease in gross revenues for the nine months ended September 30, 2009 compared to the same prior year periods of approximately 5 . Gross revenues from transportation services increased during the fourth quarter of 2009 to 54.8 million as compared to 45.7 in the fourth quarter of 2008, which was severely impacted by the economic downturn. While this fourth quarter trend is a positive sign, there are no assurances that it is indicative of future results. 
+
+During the next twelve months, we plan to continue to offer our brokerage and contract carrier transportation services and expand our agent network. We are presently profitable and have adequate available lines of credit to satisfy our working capital requirements during the next twelve months. 
+
+16 
+
+Table of Contents 
+
+Results of operations 
+
+Comparison of 2009 vs 2008 
+
+During the year ended December 31, 2009, we continued to implement our strategic growth business plan consisting primarily of the expansion of client services and the addition of independent sales agents providing brokerage and contract carrier services. Our gross profits (gross transportation services revenues less cost of transportation) are the primary indicator of our ability to source, add value and resell services that are provided by third parties and are considered to be the primary measurement of growth. Therefore, the discussion of the results of operations for this segment focuses on the changes in our gross profit. The increases in gross profit and all related cost and expense categories are the direct result of our business expansion. 
+
+The following table represents certain statement of operation data for our transportation services segment as a percentage of gross profit: 
+
+Year Ended December 31, 
+
+2009 
+
+2008 
+
+Gross profit 
+
+100.0 
+
+100.0 
+
+Commissions 
+
+75.1 
+
+64.3 
+
+Operating expenses 
+
+20.6 
+
+22.5 
+
+Interest expense 
+
+1.3 
+
+1.6 
+
+Income taxes 
+
+1.2 
+
+4.6 
+
+Net income 
+
+1.8 
+
+7.0 
+
+Revenues 
+
+During 2009, we determined that we operated in two business segments, non-asset based transportation services and agent support services. 
+
+Non-asset based transportation services 
+
+Gross revenues from transportation services, consisting of freight fees and other related services revenue, totaled 182,444,000 for the year ended December 31, 2009, as compared with 180,211,000 in the same prior year period, a increase of approximately 1 . Gross profits were 35,723,000 for the year ended December 31, 2009, as compared with 31,698,000 in the prior year period, an increase of approximately 18 . This is the result of several factors including: (a) the decrease in average revenue dollars per transaction due to the reduction of fuel prices resulting in lower fuel surcharges; (b) the increase in less than truckload versus truckload freight; and (c) a trend by customers toward regional and local distribution points reducing mileage and the reduction in per mile costs based upon the avail
+ability of carrier capacity. These factors resulted in a lower cost of transportation and had a corresponding positive impact on our gross profits and per load margins. 
+
+Agent support services 
+
+Gross revenues from agent support services, consisting primarily of interest on loans, totaled 1,455,000 for the year ended December 31, 2009. Included in these gross revenues is interest of 1,255,000 on loans and advances to one of our significant independent agents. In 2009, we modified our contractual arrangements with one of our significant independent agents. The new arrangement provides for the agent s retention of all of the gross profit earned on the transactions it generates. Under the prior arrangement, the agent retained 70 of the gross profit. Under the new arrangement, in lieu of a portion of the gross profit, the agent pays us interest on loans and advances we extend to it at rates ranging from 8 to 20 plus a fee equal to 25 of its pre-tax income, as defined. 
+
+17 
+
+Table of Contents 
+
+Costs and expenses 
+
+Commissions totaled 26,816,000 for the year ended December 31, 2009, as compared with 20,373,000 in the prior year, an increase of 31.6 . This increase is the result of the increase in gross profits as well as the increased commission rates pursuant to a modified contractual arrangement with a significant agent, described above, which was in a start-up period in 2008. As a percentage of gross profit from transportation services, commissions were 75.1 for the year ended December 31, 2009 as compared with 64.3 in the prior year. This increase is the result of agent and revenue mix as well as the increased commission rates with a significant agent as compared to the same prior year period. Our agreement with this agent includes revenues generated from interest on loans, profit participation and realization on our option to acquire eq
+uity each of which is recorded as revenues from our agent support services segment. The benchmarks which would have resulted in profit participation were not met during the 2009. 
+
+Operating expenses totaled 7,534,000 for the year ended December 31, 2009, as compared with 7,130,000 in the prior year. This increase is the direct result of the increase in selling, general and administrative expenses in connection with our business expansion. As a percentage of gross profit, operating expenses were 20.2 for the year ended December 31, 2009 as compared with 22.5 in the prior year. We presently have adequate facilities and management to handle our present and anticipated transaction volume in 2010 without a significant increase in overhead. 
+
+Interest expense was 478,000 for the year ended December 31, 2009 as compared with 500,000 in the prior year. This decrease is primarily due to lower interest rates under our line of credit offset by increased capital requirements related to our business expansion. 
+
+Income tax 
+
+Income tax expense was 932,000 for the year ended December 31, 2009 as compared with 1,471,000 in the prior year. The 2009 income tax expense reflects an effective federal and state tax rate of 39.6 and is comprised of a deferred tax expense of 795,000 related to the utilization of our federal tax loss carryforward and a current state tax expense of 137,000. The 2008 income tax expense reflects an effective federal and state tax rate of 39.8 and is comprised of a deferred tax expense of 1,257,000 related to the utilization of our federal tax loss carryforward and a current state tax expense of 214,000. 
+
+Trends and uncertainties 
+
+The transportation industry is highly competitive and highly fragmented. In our brokerage services, our primary competitors are other non-asset based as well as asset based third party logistics companies, freight brokers, carriers offering logistics services and freight forwarders. In our contract carrier services, our competitors are other contract carriers and common carriers. We also compete with customers and shippers internal traffic and transportation departments as well as carriers internal sales and marketing departments directly seeking shippers freight. We anticipate that competition for our services will continue to increase. Many of our competitors have substantially greater capital resources, sales and marketing resources and experience. We cannot as
+sure you that we will be able to effectively compete with our competitors in effecting our business expansion plans. The most significant trend contributing to our growth during the past two years has been the expansion of our brokerage services agent network and contract carrier agent and owner operator network. Sales agents are independent contractors and, as such, there are no assurances that we can either maintain our existing agent network or continue to expand this network. 
+
+18 
+
+Table of Contents 
+
+For the year ended December 31, 2009, we increased gross revenues from 180.2 million to 183.9 million. As of December 31, 2009, we had an accumulated deficit of 2.2 million compared to 3.6 million at December 31, 2008. Factors that could adversely affect our operating results include: 
+
+the success of Sunteck in expanding its business operations; and 
+
+changes in general economic conditions. 
+
+Depending on our ability to generate revenues, we may require additional funds to expand our business operations and for working capital and general corporate purposes. Any additional equity financing may be dilutive to stockholders, and debt financings may involve restrictive covenants that further limit our ability to make decisions that we believe will be in our best interests. In the event we cannot obtain additional financing on terms acceptable to us when required, our ability to expand our operations may be materially adversely affected. 
+
+Advances and other assets 
+
+An integral component of our growth strategy is, and has been, the expansion of our independent sales agent network. During the past two years, we have expanded this strategy to include independent sales agents with the experience and opportunity to build the infrastructure required to generate opportunities for significant increases in revenues. As our year-over-year results reflect, this initiative has been successful. In identifying these opportunities, we analyze a prospective sales agent s customer relationships, financial stability, industry experience and past performance. Based upon the results of such analysis we determine our level of interest in affiliating with the target sales agent and evaluate such sales agent s capital needs to support its integration into our business and t
+o maximize the agent s potential revenue growth, and thus revenue contribution. 
+
+Our agent expansion and recruiting program includes several components which are tailored to the specific needs of individual agent groups. Each of these situations has differing characteristics and are addressed and evaluated on a case-by-case basis. The options we consider to support a new sales agent s business expansion include signing bonuses, short-term advances, non-interest bearing loans, long-term advances and interest bearing loans. 
+
+Loans have been utilized in a limited number of sales agent opportunities and the loan proceeds are restricted in use. Such funds can be used by independent sales agents only to invest in operating facilities, equipment and personnel, which typically includes both sales and operating staff. These are viewed by us as contributing to future revenue enhancement that we will benefit from. 
+
+Liquidity and capital resources 
+
+During the past two years, our sources for cash have been cash flow generated from operations and available borrowings under our lines of credit. 
+
+In February 2009, we entered into a 30.0 million line of credit with Regions Bank, secured by substantially all of our assets. The line of credit, which had a balance outstanding of 18,650,000 as of December 31, 2009, replaced the then existing 20.0 million line of credit with Wachovia Bank, is due to expire in March 2012, accrues interest at a rate of LIBOR plus 1 1/2 with a minimum of 3 , and is subject to the maintenance of certain financial covenants. As of December 31, 2009, we were in violation of the debt to earnings ratio covenant and as of March 15, 2010, have obtained a waiver of this violation. The waiver modified the interest rate under the facility to LIBOR plus 2 1/2 with a minimum of 3.5 , which will return to the original interest r
+ate when we regain compliance with the required debt to earnings ratio. 
+
+At December 31, 2009, we had liquid assets of approximately 67,000. 
+
+19 
+
+Table of Contents 
+
+The total amount of debt outstanding at December 31, 2009 and 2008 was 18,650,000 and 14,164,000, respectively. The following table presents our debt instruments and their weighted average interest rates at December 31, 2009 and 2008, respectively: 
+
+Balance 
+
+Weighted Average 
+
+Rate 
+
+Balance 
+
+Weighted Average Rate 
+
+2009 
+
+2008 
+
+Line of Credit 
+
+18,650,000 
+
+3.00 
+
+14,164,000 
+
+1.69 
+
+Inflation and changing prices had no material impact on our revenues or the results of operations for the year ended December 31, 2009. 
+
+Critical accounting policies 
+
+Preparation of our financial statements requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Note 1 of the Notes to Financial Statements includes a summary of the significant accounting policies and methods used in the preparation of our financial statements. The most significant areas involving our estimates and assumptions are described below. Actual results could differ materially from our estimates under different assumptions or conditions. 
+
+Revenue recognition 
+
+Gross revenues from transportation services consist of the total dollar value of services purchased by shippers. Gross profits are gross revenues less the direct costs of transportation. Revenue is recognized upon the delivery of freight, at which time the related transportation cost, including commission, is also recognized. At that time, our obligations are completed and collection of receivables is reasonably assured. Gross revenues and profits from agent support services consist primarily of interest on interest bearing loans. 
+
+Accounting Standards Codification Topic 605-45 Revenue Recognition Principal Agent Considerations (ASC 605-45), establishes criteria for recognizing revenues on a gross or net basis. We are the primary obligor in our transactions, have all credit risk, maintain substantially all risk and rewards, have discretion in selecting the supplier, and latitude in pricing decisions. Accordingly, we record all transactions at the gross amount, consistent with the provisions of ASC 605-45. 
+
+Income on all loans is recognized on the interest method. Accrual of interest is suspended at the earlier of the time at which collection becomes doubtful or the loan becomes delinquent. Interest income on impaired loans is recognized either as cash is collected or on a cost-recovery basis as conditions warrant. 
+
+Income taxes 
+
+The deferred tax asset represents expected future tax savings resulting from our net operating loss carryforward. As of December 31, 2009, we had a net operating loss carryforward of approximately 2.9 million for federal income tax purposes which expire through 2014. Utilization of this benefit is primarily subject to the extent of our future earnings, and may be limited by, among other things, stockholder changes, including the possible issuance of additional shares in one or more financing or acquisition transactions. 
+
+20 
+
+Table of Contents 
+
+Allowance for doubtful accounts 
+
+We continuously monitor the creditworthiness of our customers and have established an allowance for amounts that may become uncollectible in the future based on current economic trends, our historical payment and bad debt write-off experience, and any specific customer related collection issues. 
+
+Recently issued accounting standards 
+
+In June 2009, the Financial Accounting Standards Board (FASB) issued Accounting Standards Codification Topic 105 Generally Accepted Accounting Principles (ASC 105). ASC 105 establishes the FASB Accounting Standards Codification (ASC) as the single source of authoritative generally accepted accounting principles (GAAP) recognized by the FASB and substantially retains existing GAAP. The ASC does not replace or affect guidance issued by the Securities and Exchange Commission (SEC) or its staff for public entities in the filings with the SEC. ASC 105 is effective for financial statements issued for interim and annual periods ending after September 15, 2009. All references to authoritative accounting literature in the Company s financial statements reflect the newly adop
+ted ASC. 
+
+In May 2009, the FASB issued ASC Topic 855 Subsequent Events . ASC 855 establishes guidance for the accounting for and the disclosure of events that occur after the date of the balance sheet but before the issuance of the financial statements. We adopted the provisions of ASC 855 in 2009 and have evaluated subsequent events through the date of this filing. 
+
+In February 2008, the FASB issued an update to ASC Topic 820 Fair Value Measurements and Disclosures . This update deferred the effective date of changes to fair value measurements as it relates to non-financial assets and liabilities until fiscal years beginning after November 15, 2008. Effective January 1, 2009, we began applying the changes to the fair value measurements which were previously deferred. The adoption of this update did not have a material impact on our financial statements. 
+
+Off-balance sheet arrangements 
+
+We do not have any off-balance sheet arrangements. 
+
+Contractual obligations 
+
+The following table summarizes our contractual obligations as of December 31, 2009: 
+
+Contractual Obligations 
+
+Payments due by period 
+
+Total 
+
+Less than 1 year 
+
+1-3 years 
+
+3-5 years 
+
+More than 5 years 
+
+Operating Lease Obligations 
+
+91,000 
+
+75,000 
+
+16,000 
+
+- 
+
+- 
+
+Line of Credit 
+
+18,650,000 
+
+- 
+
+18,650,000 
+
+- 
+
+- 
+
+Total 
+
+18,741,000 
+
+75,000 
+
+18,666,000 
+
+- 
+
+- 
+
+Item 7A. 
+
+QUANTITIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+A smaller reporting company is not required to provide the information required by this Item. 
+
+21 
+
+Table of Contents 
+
+Item 8. 
+
+FINANCIAL STATEMENTS 
+
+The response to this item is submitted as a separate section of this report beginning on page F-1. 
+
+Item 9. 
+
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURES 
+
+None. 
+
+Item 9A(T). 
+
+CONTROLS AND PROCEDURES 
+
+(a) 
+
+Evaluation of Disclosure Controls and Procedures 
+
+Our management, with the participation of our president and chief financial officer, carried out an evaluation of the effectiveness of our disclosure controls and procedures (as defined in the Securities Exchange Act of 1934 (the Exchange Act Rules 13a-15(e) and 15-d-15(e)) as of the end of the period covered by this report (the Evaluation Date ). Based upon that evaluation, the president and chief financial officer concluded that as of the Evaluation Date, our disclosure controls and procedures are effective to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange Act (i) is recorded, processed, summarized and reported, within the time periods specified in the SEC s rules and forms and (ii) is accumulated and communicated to our management, including our president and chief financial officer, as appropriate to allow timely decisions regarding required disclosure. 
+
+(b) 
+
+Management's Report on Internal Control over Financial Reporting 
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Rule 13a-15(f) under the Exchange Act). Internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company s internal control over financial reporting includes those policies and procedures that pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements 
+in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company s assets that could have a material effect on the financial statements. 
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+
+Management evaluated our internal control over financial reporting as of December 31, 2009. In making this assessment, management used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission in Internal Control Integrated Framework . As a result of this assessment and based on the criteria in this framework, management has concluded that, as of December 31, 2009, our internal control over financial reporting was effective. 
+
+This annual report does not include an attestation report of our independent registered public accounting firm regarding internal control over financial reporting. Management's report was not subject to attestation by our independent registered public accounting firm pursuant to temporary rules of the SEC that permit us to provide only management's report in this annual report. 
+
+22 
+
+Table of Contents 
+
+(c) 
+
+Changes in Internal Control over Financial Reporting 
+
+There were no changes in our internal controls over financial reporting that occurred during the period covered by this report that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+Item 9B. 
+
+OTHER INFORMATION 
+
+None. 
+
+PART III 
+
+Item 10. 
+
+DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+
+The following table sets forth the names, ages and positions of our directors and executive officers: 
+
+Name 
+
+Age 
+
+Position 
+
+Peter C. Einselen 
+
+70 
+
+Director 
+
+Thomas C. Robertson 
+
+64 
+
+Director 
+
+Harry Wachtel 
+
+51 
+
+President, chief executive officer and director 
+
+Mark Weiss 
+
+49 
+
+National account executive and director 
+
+William Wunderlich 
+
+62 
+
+Chief financial officer 
+
+Michael P. Williams 
+
+43 
+
+Chief operating officer and general counsel 
+
+PETER C. EINSELEN has been a director since January 1999. Mr. Einselen has been an account executive since 1990 and served as senior vice president from 1990 to 2001 of Anderson Strudwick, a brokerage firm. From 1983 to 1990, Mr. Einselen was employed by Scott and Stringfellow, Incorporated, a brokerage firm. Mr. Einselen s professional experience and background as an executive and as one of our directors since 1999, have given him the expertise needed to serve as one of our directors. 
+
+THOMAS C. ROBERTSON has been a director since January 1999. Mr. Robertson has been senior vice president since 2005 and was president and chief financial officer from 1988 to 2005 and a director from 1988 to 2008 of Anderson Strudwick, a brokerage firm. Mr. Robertson has been president of Gardner Robertson, a money management firm, since 1997. Mr. Robertson s professional experience and background as a financial executive and as one of our directors since 1999, have given him the expertise needed to serve as one of our directors. 
+
+HARRY WACHTEL joined us in conjunction with the acquisition of Sunteck and has been a director, and our president and chief executive officer since December 7, 2000. Since 1997, he has been president of Sunteck. From 1992 to 1997, he served as vice president of sales and marketing for Pioneer Services, Inc., a third party, non-asset based transportation logistics provider. As our President and Chief Executive Officer, Mr. Wachtel is an integral member of our Board and has been serving effectively on the Board with all the current members since joining the Board in 2000. As a senior executive officer of our company, he provides the Board with management s perspective and insight to our business. 
+
+MARK WEISS joined us in conjunction with the acquisition of Sunteck and has been a director since December 7, 2000. Since 1997, he has been employed by Sunteck as a national account executive. From 1994 to 1997 he served as a national account executive for Pioneer Services, Inc., a third party, non-asset based transportation logistics provider. Mr. Weiss is the brother-in-law of Mr. Wunderlich, our executive vice president and chief financial officer. As our national account executive, Mr. Weiss is an integral member of our Board and has been serving effectively on the Board with all the current members since joining the Board in 2000. As a senior executive officer of our company, he provides the Board with management s perspectiv
+e and insight to our business. 
+
+23 
+
+Table of Contents 
+
+WILLIAM WUNDERLICH joined us in October 1992 as our vice president - finance, became chief financial officer in January 1993, president in January 1999 and, in conjunction with the acquisition of Sunteck, became executive vice president in December 2000. From 1990 to 1992, he served as vice president of Goldstein Affiliates, Inc., a public adjusting company. From 1981 to 1990, he served as executive vice president, chief financial officer and a director of Novo Corporation, a manufacturer of consumer products. Mr. Wunderlich is a Certified Public Accountant with a B.A. degree in Accounting and Economics from the City University of New York at Queens College. Mr. Wunderlich is the brother-in-law of Mr. Weiss, one of our directors. 
+
+MICHAEL P. WILLIAMS joined us in January 2007 as our chief operating officer and general counsel. From 2002 to 2006, Mr. Williams served as general counsel and vice president of legal and business affairs for Vexure, Inc., a logistics company. Prior to that, from 1999 to 2002, Mr. Williams also served as general counsel and vice president of legal and business affairs for Stonier Transportation Group, Inc., a trucking and brokerage company. During his tenure with Stonier and Vexure, Mr. Williams gained experience handling customer and vendor contract negotiations, risk management strategies, human resources and assets management, and transportation and employment litigation matters. Mr. Williams received his juris doctor cum laude 
+from Thomas Cooley Law School, Lansing, Michigan and his masters degree (LL.M.) in taxation from the University of Florida, Gainesville. He has been a member of the Florida Bar since 1995. 
+
+Committees of the Board of Directors 
+
+Our board of directors has an audit committee and a compensation committee. The audit committee reviews the scope and results of the audit and other services provided by our independent accountants and our internal controls. The compensation committee is responsible for the approval of compensation arrangements for our officers and the review of our compensation plans and policies. Each committee is comprised of Messrs. Einselen and Robertson, our non-employee independent outside directors. 
+
+Audit Committee Matters 
+
+Under its charter, the audit committee must pre-approve all engagements of our independent auditor unless an exception to such pre-approval exists under the Exchange Act or the rules of the SEC. Each year, the independent auditor s retention to audit our financial statements, including the associated fee, is approved by the committee before the filing of the preceding year s annual report on Form 10-K. At the beginning of the fiscal year, the audit committee will evaluate other known potential engagements of the independent auditor, including the scope of the work proposed to be performed and the proposed fees, and approve or reject each service, taking into account whether the services are permissible under applicable law and the possible impact of each non-audit service on the independent auditor s independence from management. At each subsequent committee meeting, the committee will receive updates on the services actually provided by the independent auditor, and management may present additional services for approval. Typically, these would be services such as due diligence for an acquisition that would not have been known at the beginning of the year. 
+
+Since the May 6, 2003 effective date of the SEC rules stating that an auditor is not independent of an audit client if the services it provides to the client are not appropriately approved, each new engagement of Dworken, Hillman, LaMorte Sterczala, P.C. was approved in advance by the audit committee, and none of those engagements made use of the de minimus exception to pre-approval contained in the SEC s rules. 
+
+Our board of directors has determined that the chairman of the audit committee, Mr. Robertson, is an audit committee financial expert, as that term is defined in Item 407(d)(5) of Regulation S-K, and independent under Nasdaq s listing standards and Section 10A(m)(3) of the Exchange Act. 
+
+24 
+
+Table of Contents 
+
+Code of Ethics 
+
+We have adopted a code of ethics that applies to our principal executive officer, principal financial officer and other persons performing similar functions. This code of ethics is posted on our website at www.suntecktransport.com . 
+
+Section 16(a) beneficial ownership reporting compliance 
+
+Section 16(a) of the Securities Exchange Act of 1934 requires our officers and directors, and persons who own more than ten percent of a registered class of our equity securities, to file reports of ownership and changes in ownership with the SEC. Officers, directors and greater than ten-percent stockholders are required by SEC regulation to furnish us with copies of all Section 16(a) forms they file. Based solely on review of the copies of such forms furnished to us, or written representations that no Forms 5 were required, we believe that all Section 16(a) filing requirements applicable to our officers and directors were complied with during the fiscal year ended December 31, 2009, except that each of Thomas C. Robertson , Peter C. Einselen and Michael P. Williams did not timely file one Form 4 filing to report
+ the receipt of an option grant. 
+
+Item 11. 
+
+EXECUTIVE COMPENSATION 
+
+Summary Compensation Table 
+
+The following table sets forth certain information with respect to compensation for the years ended December 31, 2009 and 2008 earned by or paid to our chief executive officer and our two other most highly compensated executive officers in 2009 whose total compensation exceeded 100,000 (the named executive officers ). 
+
+Summary Compensation Table 
+
+Name and Principal Position 
+
+Year 
+
+Salary ) 
+
+Bonus ) 
+
+Option Awards( (1) 
+
+Other (2) 
+
+Total ) 
+
+Harry M. Wachtel, 
+
+President and chief executive officer 
+
+2009 
+
+235,000 
+
+208,000 
+
+- 
+
+9,000 
+
+452,000 
+
+2008 
+
+250,000 
+
+287,000 
+
+- 
+
+16,000 
+
+553,000 
+
+William I. Wunderlich, 
+
+Executive vice president and chief financial officer 
+
+2009 
+
+164,000 
+
+208,000 
+
+- 
+
+8,000 
+
+380,000 
+
+2008 
+
+175,000 
+
+287,000 
+
+- 
+
+16,000 
+
+478,000 
+
+Michael P. Williams, 
+
+Chief operating officer 
+
+2009 
+
+183,000 
+
+29,000 
+
+3,000 
+
+4,000 
+
+219,000 
+
+2008 
+
+185,000 
+
+- 
+
+- 
+
+6,000 
+
+191,000 
+
+(1) 
+
+Reflects the fair value of the stock option awards granted during the year in accordance with FASB ASC Topic 718, Accounting for Stock Compensation. 
+
+(2) 
+
+Includes company matching contributions to a qualifying 401(K) plan. 
+
+Discussion of Summary Compensation 
+
+We believe that the total compensation paid to our named executive officers for the fiscal year ended December 31, 2009 achieves the overall objectives of our executive compensation program. In accordance with our overall objectives, executive compensation for 2009 was competitive with our peer group and was weighted more heavily to pay for performance. 
+
+25 
+
+Table of Contents 
+
+Employment Agreements and Severance Benefits 
+
+We have employment agreements with our chief executive officer, Harry M. Wachtel, our chief financial officer, William I. Wunderlich and our chief operating officer, Michael Williams. We entered into these agreements, effective January 1, 2008, to ensure the performance of their roles for an extended period of time. In addition, we also considered the critical nature of the position and our need to retain them when we committed to these agreements. 
+
+The agreements for Messrs. Wachtel and Wunderlich provide for annual base salaries of 250,000 and 175,000, respectively, and for participation in all executive benefit plans. Each of their agreements provide that they will each be entitled to a bonus equal to 10 of our consolidated pre-tax profit (as defined in their respective employment agreements) up to 1,250,000 and 5 of our consolidated pre-tax profit in excess of 1,250,000. Annual salaries and bonuses shall not exceed 750,000 for Mr. Wachtel and 675,000 for Mr. Wunderlich. The employment contracts with both Messrs. Wachtel and Wunderlich are for terms expiring in December 2011. If either is terminated for cause or terminates without good reason (as defined in the agreements), we are obligated to pay only those wages and bonuses pursuant to the
+ terms of our annual incentive plan and other compensation then vested. If either Mr. Wachtel or Mr. Wunderlich is terminated without cause or if either terminates his employment agreement for good reason (as defined in the agreements), in addition to the payment of amounts then vested, in exchange for a general release of all claims, such executive is entitled to: 
+
+The immediate vesting of any unvested stock options and one-year from the date of such termination to exercise such options; 
+
+Salary for the remaining term of the agreement, if any; and 
+
+Bonus based on a pre-determined percentage of pre-tax profit for the remaining term of the agreement, if any. 
+
+The employment contract with Mr. William s provides for participation in all executive benefit plans and for a base salary starting at 175,000 per year which will increase to 205,000 per year by the fourth year of the contract term. During the term of the agreement, he will also be entitled to cash bonuses annually which increases by 25,000 per year and ranges from 25,000, in year one, to 125,000, in year five. The bonuses are paid annually and contingent on AutoInfo meeting certain agreed upon annual earnings target each year. The term of the employment contract with Mr. Williams is five-years, expiring on December 31, 2011, which, beginning on December 1, 2011, will automatically be extended for an additional one year period on that date and on each anniversary of that date unless thirty d
+ays prior written notice of termination is provide by either party. The agreement also generally provides that if (i) we terminate his employment for cause, due to death or disability, we would be obligated to pay all compensation accrued to him prior to any such date of termination; or (ii) he terminates his employment for good reason on or prior to December 31, 2009, we would be obligated to pay all of his unpaid base compensation through and including December 31, 2009. 
+
+In May 2009, as part of our cost reduction efforts, the employment agreements with Messrs. Wachtel, Wunderlich and Williams were modified to reflect a 10 reduction in base salary through December 31, 2009. 
+
+26 
+
+Table of Contents 
+
+Tax Deductibility of Executive Compensation 
+
+Section 162(m) of the Internal Revenue Code of 1996, as amended (the "Code"), generally disallows a tax deduction to public companies for compensation over 1 million paid to the chief executive officer and four other most highly compensated executive officers, unless the compensation is considered performance based. The compensation disclosed in this report does not exceed the 1 million limit, and executive compensation for 2009 is also expected to qualify for deductibility. We currently intend to structure the performance-based portion of our executive officers' compensation to achieve maximum deductibility under Section 162(m) of the code with minimal sacrifices in flexibility and corporate objective. 
+
+Although deductibility of compensation is preferred, tax deductibility is not a primary objective of our compensation programs. We believe that achieving our compensation objectives set forth above is more important than the benefit of tax deductibility and we reserve the right to maintain flexibility in how we compensate our executive officers that may result in limiting the deductibility of amounts of compensation from time to time. 
+
+Indemnification Arrangements 
+
+Our Certificate of Incorporation provides that we indemnify and hold harmless each of our directors and officers to the fullest extent authorized by the Delaware General Corporation Law, against all expense, liability and loss (including attorney's fees, judgments, fines, ERISA excise taxes or penalties and amounts paid or to be paid in settlement) reasonably incurred or suffered by such person in connection therewith. 
+
+Our Certificate of Incorporation also provides that a director will not be personally liable to us or to our stockholders for monetary damages for breach of the fiduciary duty of care as a director. This provision does not eliminate or limit the liability of a director: 
+
+for breach of his or her duty of loyalty to us or to our stockholders; 
+
+for acts or omissions not in good faith or which involve intentional misconduct or a knowing violation of law; 
+
+under Section 174 of the Delaware General Corporation Law (relating to unlawful payments or dividends or unlawful stock repurchases or redemptions); or 
+
+for any improper benefit. 
+
+27 
+
+Table of Contents 
+
+Outstanding Equity Awards 
+
+The following table sets forth certain information with respect to outstanding equity awards at December 31, 2009 with respect to the named executive officers. 
+
+Outstanding Equity Awards at Fiscal Year-End 
+
+Option Awards 
+
+Name 
+
+Number of Securities Underlying Unexercised Options 
+
+Exercisable 
+
+Number of Securities Underlying Unexercised Options 
+
+Unexercisable 
+
+Option 
+
+Exercise 
+
+Price 
+
+Option Expiration Date 
+
+Harry M. Wachtel 
+
+500,000 
+
+- 
+
+1.173 
+
+1/10/2010 
+
+William I. Wunderlich 
+
+300,000 
+
+- 
+
+1.173 
+
+1/10/2010 
+
+Michael P. Williams 
+
+250,000 
+
+350,000 
+
+1.12 
+
+6/06/2012 
+
+Michael P. Williams 
+
+- 
+
+400,000 
+
+.29 
+
+3/16/2015 
+
+Compensation of Directors 
+
+We do not pay any directors fees. Directors are reimbursed for the costs relating to attending board of directors and committee meetings. During 2009, Peter C. Einselen and Thomas C. Robertson, our non-employee directors, each were granted options to purchase 100,000 shares of our common stock at 0.32 per share, 115 of the fair market value on the date of grant. 
+
+The following table provides compensation information for the year ended December 31, 2009 for each of the independent members of our board of directors. 
+
+Director Compensation 
+
+Name 
+
+Year 
+
+Option Awards (1) (2) 
+
+Total 
+
+Thomas C. Robertson 
+
+2009 
+
+2,500 
+
+2,500 
+
+Peter C. Einselen 
+
+2009 
+
+2,500 
+
+2,500 
+
+(1) 
+
+Reflects the fair value of the stock option awards granted during the year in accordance with FASB ASC Topic 718, Accounting for Stock Compensation. 
+
+(2) 
+
+During 2009, each of Mr. Robertson and Mr. Einselen was granted one option award on January 6, 2009 exercisable for 100,000 shares of our common stock, respectively. 
+
+28 
+
+Table of Contents 
+
+Equity Compensation Plan Information 
+
+Year Ended December 31, 2009 
+
+Plan Category 
+
+Number of securities to be issued upon exercise of outstanding options, warrants and rights 
+
+Weighted-average exercise price of outstanding options, warrants and rights 
+
+Number of securities remaining available for future issuance under equity compensation plans (excluding securities reflected in column (a)) 
+
+(a) 
+
+(b) 
+
+(c) 
+
+Equity compensation plans approved by security holders (1992, 1997, 1999, 2003 and 2006) 
+
+6,140,000 
+
+0.73 
+
+744,000 
+
+Equity compensation plans not approved by security holders (1) 
+
+4,962,000 
+
+0.71 
+
+4,531,000 
+
+Total 
+
+11,102,000 
+
+0.72 
+
+5,275,000 
+
+(1) Includes the following equity compensation plans: 
+
+In 2006, we established the 2006 Independent Sales Agent Stock Option Plan (the Sales Agent Plan to align the interests of our independent sales agents and affiliates with those of our stockholders, to afford an incentive to such sales agents to continue as such, to increase their efforts on our behalf and to promote the success of our business. Generally, the Sales Agent Plan is administered by our board of directors and provides (i) for the granting of non-qualified stock options, (ii) that the maximum term for options granted under the plan is 10 years and (iii) that the exercise price for the options may not be less than 115 of the fair market value of our common stock on the date of grant. 
+
+In 2005, we established the 2005 Independent Sales Agent Stock Option Plan (the 2005 Sales Agent Plan to align the interests of our independent sales agents and affiliates with those of our stockholders, to afford an incentive to such sales agents to continue as such, to increase their efforts on our behalf and to promote the success of our business. Generally, the 2005 Sales Agent Plan is administered by our board of directors and provides (i) for the granting of non-qualified stock options, (ii) that the maximum term for options granted under the plan is 10 years and (iii) that the exercise price for the options may not be less than 100 of the fair market value of our common stock on the date of grant. 
+
+Item 12. 
+
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+The following table, together with the accompanying footnotes, sets forth information, as of March 17, 2010, regarding stock ownership of all persons known by us to own beneficially 5 or more of our outstanding common stock, all directors, named executive officers and all directors and executive officers as a group. 
+
+We determined beneficial ownership in accordance with rules promulgated by the SEC, and the information is not necessarily indicative of beneficial ownership for any other purpose. Except as otherwise indicated, we believe that the persons or entities named in the following table have sole voting and investment power with respect to all shares of common stock as beneficially owned by them, subject to community property laws where applicable. All information with respect to beneficial ownership has been furnished to us by the respective stockholder. 
+
+29 
+
+Table of Contents 
+
+Name of 
+
+Shares of Common Stock 
+
+Percentage 
+
+Beneficial Owner (1) 
+
+Beneficially Owned 
+
+Of Ownership 
+
+(i) Directors and Executive Officers 
+
+Harry Wachtel 
+
+6,262,000 
+ (2) 
+
+18.7 
+
+Thomas C. Robertson 
+
+705,000 
+ (3) 
+
+2.1 
+
+Peter C. Einselen 
+
+802,000 
+ (4) 
+
+2.4 
+
+Mark Weiss 
+
+864,000 
+ (6) 
+
+2.6 
+
+William I. Wunderlich 
+
+1,322,000 
+ (7) 
+
+3.9 
+
+Michael P. Williams 
+
+386,000 
+ (5) 
+
+All executive officers and directors as a group (6 persons) 
+
+9,081,000 
+ (8) 
+
+26.0 
+
+(ii) 5 Stockholders 
+
+James T. Martin 
+
+6,270,000 
+ (9) 
+
+18.7 
+
+Kinderhook Partners, LP 
+
+6,038,000 
+ (9) 
+
+18.0 
+
+Investors Management Corporation 
+
+4,535,000 
+ (9) 
+
+13.5 
+
+_____________________________ 
+
+Less than one percent. 
+
+(1) 
+
+Unless otherwise indicated below, each director, executive officer and each 5 stockholder has sole voting and investment power with respect to all shares beneficially owned. The address for Mr. Wachtel, Mr. Weiss and Mr. Wunderlich is c/o AutoInfo, Inc., 6413 Congress Avenue, Suite 260, Boca Raton, FL 33487. The address for Mr. Martin is c/o Bermuda Trust Company, Compass Point Road, 9 Bermudian Road, Hamilton HM11, Bermuda. The address for Kinderhook Partners, LP is One Executive Drive, Suite 160, Fort Lee, NJ 07024. The address for Investors Management Corporation is 5151 Glenwood Avenue, Raleigh, NC 27612. 
+
+(2) 
+
+Includes 1,259,000 shares with respect to which Mr. Wachtel has been granted voting rights pursuant to voting proxy agreements. 
+
+(3) 
+
+Includes 500,000 shares issuable upon the exercise of stock options. 
+
+(4) 
+
+Includes 498,000 shares issuable upon the exercise of stock options 
+
+(5) 
+
+Includes 383,000 shares issuable upon the exercise of stock options. 
+
+(6) 
+
+Includes 852,000 with respect to which Mr. Weiss has granted voting rights to Mr. Wachtel pursuant to a voting proxy agreement. Mr. Weiss retains full control over the disposition of these shares and 20,000 shares issuable upon the exercise of stock options. 
+
+(7) 
+
+Includes 407,000 with respect to which Mr. Wunderlich has granted voting rights to Mr. Wachtel pursuant to a voting proxy agreement. Mr. Wunderlich retains full control over the disposition of these shares. 
+
+(8) 
+
+Assumes that all currently exercisable options or warrants owned by members of this group have been exercised. 
+
+(9) 
+
+The information with respect to this stockholder is derived from the stockholders most recent Exchange Act filing with the SEC. 
+
+Item 13. 
+
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+
+Certain relationships and related transactions 
+
+None. 
+
+Director Independence 
+
+Our board of directors has determined that Thomas Robertson and Peter Einselen (the Independent Directors are independent as that term is defined in the listing standards of the Nasdaq. As disclosed above, Messrs. Robertson and Einselen are the sole members of our audit committee and our compensation committee and are independent for such purposes. 
+
+In determining director independence, the board of directors considered the option awards to the Independent Directors for the year ended December 31, 2009, disclosed in Item 11 Executive Compensation Director Compensation above, and determined that such awards were compensation for services rendered as directors and therefore did not impact their ability to continue to serve as Independent Directors. 
+
+30 
+
+Table of Contents 
+
+Item 14. 
+
+PRINCIPAL ACCOUNTING FEES AND SERVICES 
+
+The aggregate fees billed by our principal accounting firm, Dworken, Hillman, LaMorte Sterczala, P.C., for the fiscal years ended December 31, 2009 and 2008 are as follows : 
+
+2009 
+
+2008 
+
+Audit fees 
+
+106,000 
+
+80,000 
+
+Audit related fees 
+
+Tax fees 
+
+All other fees 
+
+Total fees 
+
+106,000 
+
+80,000 
+
+Audit Committee Pre-Approval Policies and Procedures 
+
+Our audit committee charter provides that the audit committee will pre-approve audit services and non-audit services to be provided by our independent auditor before the auditor is engaged to render these services. The audit committee may consult with management in the decision-making process, but may not delegate this authority to management. The audit committee may delegate its authority to pre-approve services to one or more committee members, provided that the designees present the pre-approvals to the full committee at the next committee meeting. 
+
+PART IV 
+
+Item 15. 
+
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+
+(a) 
+
+The following documents are filed as part of this report: 
+
+(1) Financial Statements See the Index to the consolidated financial statements on page F-1. 
+
+(b) 
+
+Exhibits: 
+
+Exhibit No. 
+
+Description 
+
+No. 3A 
+
+Certificate of Incorporation of the Company, as amended. (6) 
+
+No. 3B 
+
+Amended and Restated By-Laws of the Company. (3) 
+
+No. 4A 
+
+Specimen Stock Certificate. (1) 
+
+No. 10A 
+
+1992 Stock Option Plan. (2) 
+
+No. 10B 
+
+1997 Stock Option Plan. (4) 
+
+No. 10C 
+
+1997 Non-Employee Stock Option Plan. (4) 
+
+No. 10D 
+
+1999 Stock Option Plan. (5) 
+
+No. 10E 
+
+Employment Agreement between AutoInfo, Inc. and Harry M. Wachtel dated as of January 1, 2007. (10) 
+
+31 
+
+Table of Contents 
+
+No. 10F 
+
+Employment Agreement between AutoInfo, Inc. and William I. Wunderlich dated January 1, 2007. (10) 
+
+No. 10G 
+
+First Amendment to Revolving Credit and Security Agreement between Wachovia Bank and AutoInfo, Inc., et al. (7) 
+
+No. 10H 
+
+Second Amendment to Revolving Credit and Security Agreement between Wachovia Bank and AutoInfo, Inc., et al. (8) 
+
+No. 10I 
+
+Third Amendment to Revolving Credit and Security Agreement between Wachovia Bank and AutoInfo, Inc., et al. (10) 
+
+No. 10J 
+
+2003 Stock Option Plan. (9) 
+
+No. 10K 
+
+2005 Independent Sales Agent Stock Option Plan. (10) 
+
+No. 10L 
+
+2006 Stock Option Plan. (10) 
+
+No. 10M 
+
+2006 Independent Sales Agent Stock Option Plan. (10) 
+
+No. 10N 
+
+Fourth Amendment to Revolving Credit and Security Agreement between Wachovia Bank and AutoInfo, Inc., et al. (11) 
+
+No. 10O 
+
+Fifth Amendment to Revolving Credit and Security Agreement between Wachovia Bank and AutoInfo, Inc., et al. (11) 
+
+No. 10P 
+
+Sixth Amendment to Revolving Credit and Security Agreement between Wachovia Bank and AutoInfo, Inc., et al. (11) 
+
+No. 10Q 
+
+Employment Agreement between AutoInfo, Inc. and Michael. P. Williams dated as of January 1, 2007. (11) 
+
+No. 10R 
+
+Loan and Security Agreement between Regions Bank and AutoInfo, Inc., et al. (12) 
+
+No. 10S 
+
+Amendment to the Employment Agreement between AutoInfo, Inc. and Harry M. Wachtel dated May 11, 2009. (13) 
+
+No. 10T 
+
+Amendment to the Employment Agreement between AutoInfo, Inc. and William I. Wunderlich dated May 11, 2009. (13) 
+
+No. 10U 
+
+Amendment to the Employment Agreement between AutoInfo, Inc. and Michael. P. Williams dated May 11, 2009. (13) 
+
+No. 10V 
+
+First Amendment to the Loan and Security Agreement between Regions Bank and AutoInfo, Inc., et al. dated March 24, 2010. 
+
+No. 14A 
+
+Code of Ethics. (7) 
+
+No. 21A 
+
+Subsidiaries of the Registrant. (7) 
+
+No. 23A 
+
+Consent of Dworken, Hillman, LaMorte Sterczala, P.C., independent registered public accounting firm. 
+
+32 
+
+Table of Contents 
+
+No. 31A 
+
+Certification of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+No. 31B 
+
+Certification of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+No. 32A 
+
+Certification of Chief Executive Officer Pursuant to 18 U.S.C. Section 1350, as adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+No. 32B 
+
+Certification of Chief Financial Officer Pursuant to 18 U.S.C. Section 1350, as adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+_______________________ 
+
+Filed as an exhibit hereto. 
+
+Management contract or compensatory plan or arrangement. 
+
+(1) 
+
+This Exhibit was filed as Exhibit to our Registration Statement on Form S-1 (File No. 33-15465) and is incorporated herein by reference. 
+
+(2) 
+
+This Exhibit was filed as an Exhibit our definitive proxy statement dated October 2, 1992 and is incorporated herein by reference. 
+
+(3) 
+
+This Exhibit was filed as an Exhibit to our Current Report on Form 8-K dated March 30, 1995 and is incorporated herein by reference. 
+
+(4) 
+
+This Exhibit was filed as an Exhibit to our Annual Report on Form 10-K for the year ended December 31, 1997 and is incorporated herein by reference. 
+
+(5) 
+
+This Exhibit was filed as an Exhibit to our Annual Report on Form 10-K for the year ended December 31, 1999 and is incorporated herein by reference. 
+
+(6) 
+
+This Exhibit was filed as an Exhibit to our Annual Report on Form 10-KSB for the year ended December 31, 2000 and is incorporated herein by reference. 
+
+(7) 
+
+This Exhibit was filed as an Exhibit to our Annual Report on Form 10-KSB for the year ended December 31, 2004 and is incorporated herein by reference. 
+
+(8) 
+
+This Exhibit was filed as an Exhibit to our Annual Report on Form 10-K for the year ended December 31, 2005 and is incorporated herein by reference. 
+
+(9) 
+
+This Exhibit was filed with our Definitive Information Statement on Schedule 14C, filed on July 7, 2003 and is incorporated herein by reference. 
+
+(10) 
+
+This Exhibit was filed as an Exhibit to our Annual Report on Form 10-K for the year ended December 31, 2006 and is incorporated herein by reference. 
+
+(11) 
+
+This Exhibit was filed as an Exhibit to our Annual Report on Form 10-K for the year ended December 31, 2007 and is incorporated herein by reference. 
+
+(12) 
+
+This Exhibit was filed as an Exhibit to our Annual Report on Form 10-K for the year ended December 31, 2008 and is incorporated herein by reference. 
+
+(13) 
+
+This Exhibit was filed as an Exhibit to our Quarterly Report on Form 10-Q for the period ended June 30, 2009 and is incorporated herein by reference. 
+
+(c) Information required by schedules called for under Regulation S-X is either not applicable or is included in the consolidated financial statements or notes thereto. 
+
+33 
+
+Table of Contents 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d), the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on March 29, 2010 on its behalf by the undersigned, thereunto duly authorized. 
+
+AutoInfo, Inc. 
+
+By: 
+
+/s/ Harry M. Wachtel 
+
+Harry M. Wachtel, President and Chief Executive Officer 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this Report has been signed below by the following persons on behalf of the registrant and in the capacities indicated. 
+
+/s/ Harry M. Wachtel 
+
+Harry M. Wachtel 
+
+President, Chief Executive Officer and Chairman of the Board (Principal Executive Officer) 
+
+March 29, 2010 
+
+/s/ William I. Wunderlich 
+
+William I. Wunderlich 
+
+Chief Financial Officer (Principal Accounting Officer) 
+
+March 29, 2010 
+
+/s/ Mark Weiss 
+
+Mark Weiss 
+
+Director 
+
+March 29, 2010 
+
+/s/ Peter C. Einselen 
+
+Peter C. Einselen 
+
+Director 
+
+March 29, 2010 
+
+/s/ Thomas C. Robertson 
+
+Thomas C. Robertson 
+
+Director 
+
+March 29, 2010 
+
+34 
+
+Table of Contents 
+
+AUTOINFO, INC. AND SUBSIDIARIES 
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+Report of Independent Registered Public Accounting Firm 
+
+F-2 
+
+Consolidated Balance Sheets as of December 31, 2009 and 2008 
+
+F-3 
+
+Consolidated Statements of Income for the Years Ended December 31, 2009 and 2008 
+
+F-4 
+
+Consolidated Statements of Stockholders Equity for the Years Ended December 31, 2009 and 2008 
+
+F-5 
+
+Consolidated Statements of Cash Flows for the Years Ended December 31, 2009 and 2008 
+
+F-6 
+
+Notes to Consolidated Financial Statements 
+
+F-7 
+
+Information required by schedules called for under Regulation S-X is either not applicable or is included in the Consolidated Financial Statements or Notes thereto. 
+
+F-1 
+
+Table of Contents 
+
+Report of Independent Registered Public Accounting Firm 
+
+To the Board of Directors and Stockholders 
+
+AutoInfo, Inc. 
+
+Boca Raton, Florida 
+
+We have audited the accompanying consolidated balance sheets of AutoInfo, Inc. and subsidiaries as of December 31, 2009 and 2008, and the related consolidated statements of income, stockholders equity, and cash flows for the years then ended. These financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on these financial statements based on our audits. 
+
+We conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. Our audits included consideration of internal control over financial reporting as a basis for designing audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. An audit includes examining, on a te
+st basis, evidence supporting the amounts and disclosures in the financial statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation. We believe that our audits provide a reasonable basis for our opinion. 
+
+In our opinion, the financial statements referred to above present fairly, in all material respects, the financial position of AutoInfo, Inc. and subsidiaries as of December 31, 2009 and 2008, and the results of their operations and their cash flows for the years then ended, in conformity with accounting principles generally accepted in the United States of America. 
+
+March 29, 2010 
+
+Shelton, Connecticut 
+
+/s/ Dworken, Hillman, LaMorte Sterczala, P.C. 
+
+Dworken, Hillman, LaMorte Sterczala, P.C. 
+
+F-2 
+
+Table of Contents 
+
+AUTOINFO, INC. AND SUBSIDIARIES 
+
+CONSOLIDATED BALANCE SHEETS 
+
+December 31, 
+
+2009 
+
+2008 
+
+ASSETS (Note 3) 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+67,000 
+
+390,000 
+
+Accounts receivable, net of allowance for doubtful accounts of 420,000 and 370,000 as of December 31, 2009 and 2008, respectively 
+
+36,068,000 
+
+29,863,000 
+
+Deferred income taxes (Note 4) 
+
+985,000 
+
+1,100,000 
+
+Prepaid expenses 
+
+1,182,000 
+
+560,000 
+
+Current portion of advances and other assets (Note 2) 
+
+3,183,000 
+
+1,260,000 
+
+Total current assets 
+
+41,485,000 
+
+33,173,000 
+
+Fixed assets, net of depreciation 
+
+523,000 
+
+590,000 
+
+Deferred income taxes (Note 4) 
+
+- 
+
+680,000 
+
+Advances and other assets, net of current portion (Note 2) 
+
+12,197,000 
+
+8,333,000 
+
+54,205,000 
+
+42,776,000 
+
+LIABILITIES AND STOCKHOLDERS EQUITY 
+
+Current liabilities: 
+
+Accounts payable and accrued liabilities 
+
+17,631,000 
+
+12,303,000 
+
+Loan payable (Note 3) 
+
+18,650,000 
+
+14,164,000 
+
+Commitments and contingencies (Note 5) 
+
+Stockholders equity : (Note 6) 
+
+Common stock - authorized 100,000,000 shares, .001 par value; issued and outstanding 33,496,000 and 32,946,000 as of December 31, 2009 and 2008, respectively 
+
+34,000 
+
+33,000 
+
+Additional paid-in capital 
+
+20,100,000 
+
+19,904,000 
+
+Deficit 
+
+(2,210,000) 
+
+(3,628,000) 
+
+Total stockholders equity 
+
+17,924,000 
+
+16,309,000 
+
+54,205,000 
+
+42,776,000 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+F-3 
+
+Table of Contents 
+
+AUTOINFO, INC. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF INCOME 
+
+For The Years Ended December 31, 
+
+2009 
+
+2008 
+
+Gross revenues 
+
+Transportation services 
+
+182,444,000 
+
+180,211,000 
+
+Agent support services 
+
+1,455,000 
+
+Total revenues 
+
+183,899,000 
+
+180,211,000 
+
+Cost of transportation 
+
+146,721,000 
+
+148,513,000 
+
+Gross profit 
+
+37,178,000 
+
+31,698,000 
+
+Commissions 
+
+26,816,000 
+
+20,373,000 
+
+Operating expenses 
+
+7,534,000 
+
+7,130,000 
+
+34,350,000 
+
+27,503,000 
+
+Income from operations 
+
+2,828,000 
+
+4,195,000 
+
+Interest expense 
+
+478,000 
+
+500,000 
+
+Income before income taxes 
+
+2,350,000 
+
+3,695,000 
+
+Income taxes (Note 4) 
+
+932,000 
+
+1,471,000 
+
+Net income 
+
+1,418,000 
+
+2,224,000 
+
+Net income per share: 
+
+Basic 
+
+.04 
+
+.07 
+
+Diluted 
+
+.04 
+
+.07 
+
+Weighted average number of common shares: 
+
+Basic 
+
+32,997,000 
+
+32,774,000 
+
+Diluted 
+
+34,263,000 
+
+34,501,000 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+F-4 
+
+Table of Contents 
+
+AUTOINFO, INC. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY 
+
+Shares of 
+
+Common 
+
+Additional 
+
+Stock 
+
+Common 
+
+Paid - In 
+
+Outstanding 
+
+Stock 
+
+Capital 
+
+Deficit 
+
+Balance, January 1, 2008 
+
+32,586,000 
+
+33,000 
+
+19,635,000 
+
+(5,852,000) 
+
+Exercise of stock options 
+
+360,000 
+
+54,000 
+
+Stock-based compensation expense 
+
+215,000 
+
+Net income 
+
+2,224,000 
+
+Balance, December 31, 2008 
+
+32,946,000 
+
+33,000 
+
+19,904,000 
+
+(3,628,000) 
+
+Exercise of stock options 
+
+550,000 
+
+1,000 
+
+70,000 
+
+Stock-based compensation expense 
+
+126,000 
+
+Net income 
+
+1,418,000 
+
+Balance, December 31, 2009 
+
+33,496,000 
+
+34,000 
+
+20,100,000 
+
+(2,210,000) 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+F-5 
+
+Table of Contents 
+
+AUTOINFO, INC. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+For The Years Ended December 31, 
+
+2009 
+
+2008 
+
+Cash flows from operating activities: 
+
+Net income 
+
+1,418,000 
+
+2,224,000 
+
+Adjustments to reconcile net income to net cash provided by (used in) operating activities: 
+
+Change in allowance for doubtful accounts 
+
+50,000 
+
+44,000 
+
+Depreciation and amortization expenses 
+
+251,000 
+
+201,000 
+
+Stock-based compensation expense 
+
+126,000 
+
+215,000 
+
+Deferred income taxes 
+
+795,000 
+
+1,256,000 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable 
+
+(6,255,000) 
+
+(5,683,000) 
+
+Prepaid expenses 
+
+(622,000) 
+
+(250,000) 
+
+Accounts payable and accrued liabilities 
+
+5,328,000 
+
+1,719,000 
+
+Net cash provided by (used in) operating activities 
+
+1,091,000 
+
+(274,000) 
+
+Cash flows from investing activities: 
+
+Advances and other assets 
+
+(5,787,000) 
+
+(4,721,000) 
+
+Capital expenditures 
+
+(185,000) 
+
+(313,000) 
+
+Net cash used in investing activities 
+
+(5,972,000) 
+
+(5,034,000) 
+
+Cash flows from financing activities: 
+
+Exercise of stock options 
+
+71,000 
+
+54,000 
+
+Increase in loan payable, net 
+
+4,487,000 
+
+5,374,000 
+
+Net cash provided by financing activities 
+
+4,558,000 
+
+5,428,000 
+
+Net change in cash and cash equivalents 
+
+(323,000) 
+
+120,000 
+
+Cash and cash equivalents, beginning of year 
+
+390,000 
+
+270,000 
+
+Cash and cash equivalents, end of year 
+
+67,000 
+
+390,000 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+F-6 
+
+Table of Contents 
+
+AUTOINFO, INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+FOR THE YEARS ENDED DECEMBER 31, 2009 and 2008 
+
+Note 1 - Business and Summary of Significant Accounting Policies 
+
+Business Overview 
+
+Through 2008, AutoInfo, Inc., through its wholly-owned subsidiaries, Sunteck Transport Group, Inc., Inc. and Eleets Logistics, Inc. (collectively, the Company), operated in one business segment. During 2009, the Company determined that it operated in two business segments, non-asset based transportation services and agent support services. The non-asset based transportation services segment includes our brokerage and contract carrier services which are provided through a network of independent sales agents throughout the United States and Canada. Revenue in this segment is generated from freight transportation transactions. The agent support services segment includes an array of services that we provide to our agent network to support and encourage the expansion of our agents businesses, primarily financial support through 
+interest bearing long-term loans and non-interest bearing short-term loans, as well as other services including training, margin analysis, marketing assistance, industry and market segment data, and business analysis tools. Revenue in this segment consists primarily of interest on interest bearing loans. This segment also includes potential revenues related to profit participations and realization on the option to acquire equity that the Company may receive related to a loan or advance extended to an agent. 
+
+As a non-asset based provider of brokerage and contract carrier transportation services, the Company does not own any equipment and its services are provided through its strategic alliances with less than truckload, truckload, air, rail, ocean common carriers and independent owner-operators to service customers needs. The Company s brokerage and contract carrier services are provided through a network of independent sales agents throughout the United States and Canada. During its most recently completed fiscal year, the Company generated revenue, gross profit and net income of approximately 183.9 million, 37.2 million and 1.4 million, respectively. 
+
+Summary of Significant Accounting Policies 
+
+Basis of Presentation 
+
+The financial statements of the Company have been prepared using the accrual basis of accounting under accounting principles generally accepted in the United States of America (GAAP). 
+
+Principles of Consolidation 
+
+The consolidated financial statements include the accounts of the AutoInfo, Inc. and its wholly-owned subsidiaries, Sunteck Transport Group, Inc., Inc. and Eleets Logistics, Inc. All significant intercompany balances and transactions have been eliminated in consolidation. 
+
+Use of Estimates 
+
+The preparation of these financial statements in conformity with GAAP requires management to make certain estimates and assumptions. These estimates and assumptions affect the reported amounts of assets, liabilities and contingent liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the periods presented. The Company believes that all such assumptions are reasonable and that all estimates are adequate, however, actual results could differ from those estimates. 
+
+F-7 
+
+Table of Contents 
+
+Revenue Recognition 
+
+Gross revenues from transportation services consist of the total dollar value of services purchased by shippers. Gross profits are gross revenues less the direct costs of transportation. Revenue is recognized upon delivery of freight, at which time the related transportation cost, including commission, is also recognized. At that time, the Company s obligations are completed and collection of receivables is reasonably assured. Gross revenues and profits from agent support services consist primarily of interest on interest bearing loans. 
+
+Accounting Standards Codification Topic 605-45 Revenue Recognition Principal Agent Considerations (ASC 605-45), establishes criteria for recognizing revenues on a gross or net basis. The Company is the primary obligor in its transactions, has all credit risk, maintains substantially all risk and rewards, has discretion in selecting the supplier, and has latitude in pricing decisions. Accordingly, the Company records all transactions at the gross amount, consistent with the provisions of ASC 605-45. 
+
+Income on all loans is recognized on the interest method. Accrual of interest is suspended at the earlier of the time at which collection becomes doubtful or the loan becomes delinquent. Interest income on impaired loans is recognized either as cash is collected or on a cost-recovery basis as conditions warrant. 
+
+Cash and Cash Equivalents 
+
+Cash and cash equivalents consist of cash in banks. 
+
+Provision For Doubtful Accounts 
+
+The Company continuously monitors the creditworthiness of its customers and has established an allowance for amounts that may become uncollectible in the future based on current economic trends, its historical payment and bad debt write-off experience, and any specific customer related collection issues. 
+
+Fixed Assets 
+
+Fixed assets as of December 31, 2009 and 2008, consisting predominantly of furniture, fixtures, equipment and proprietary software, were carried at cost net of accumulated depreciation. Depreciation of fixed assets was provided on the straight-line method over the estimated useful lives of the related assets which range from three to five years. 
+
+Employee Benefit Plan 
+
+In 2008, the Company established a qualified 401(K) plan covering all employees meeting certain minimum requirements. Employees may contribute up to 5 of eligible compensation, as defined, and may make additional contributions subject to Internal Revenue Code limitations. The plan provides for matching contributions by the Company equal to 100 of the employees first 3 of elective deferrals and an additional 50 of the next 2 of elective deferrals, subject to a maximum contribution of 4 of an employees eligible compensation. 401(K) expense charged to operations in 2009 and 2008 was 49,000 and 91,000, respectively. In May 2009, the plan was modified eliminating matching contributions by the Company. 
+
+F-8 
+
+Table of Contents 
+
+Income Per Share 
+
+Basic income per share is based on net income divided by the weighted average number of common shares outstanding. Common stock equivalents outstanding were 1,266,000 and 1,727,000 for the years ended December 31, 2009 and 2008, respectively. 
+
+Income Taxes 
+
+The Company utilizes the asset and liability method for accounting for income taxes. Under the asset and liability method, deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases and future benefits to be recognized upon the utilization of certain operating loss carryforwards. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date. 
+
+Recently Issued Accounting Standards 
+
+In June 2009, the Financial Accounting Standards Board (FASB) issued Accounting Standards Codification Topic 105 Generally Accepted Accounting Principles (ASC 105). ASC 105 establishes the FASB Accounting Standards Codification (ASC) as the single source of authoritative generally accepted accounting principles (GAAP) recognized by the FASB and substantially retains existing GAAP. The ASC does not replace or affect guidance issued by the Securities and Exchange Commission (SEC) or its staff for public entities in the filings with the SEC. ASC 105 is effective for financial statements issued for interim and annual periods ending after September 15, 2009. All references to authoritative accounting literature in the Company s financial statements reflect the newly adop
+ted ASC. 
+
+In May 2009, the FASB issued ASC Topic 855 Subsequent Events . ASC 855 establishes guidance for the accounting for and the disclosure of events that occur after the date of the balance sheet but before the issuance of the financial statements. The Company adopted the provisions of ASC 855 in 2009 and has evaluated subsequent events through the date of this filing. 
+
+In February 2008, the FASB issued an update to ASC Topic 820 Fair Value Measurements and Disclosures . This update deferred the effective date of changes to fair value measurements as it relates to non-financial assets and liabilities until fiscal years beginning after November 15, 2008. Effective January 1, 2009, we began applying the changes to the fair value measurements which were previously deferred. The adoption of this update did not have a material impact on our financial statements. 
+
+Segment Information 
+
+Through 2008, the Company operated in one business segment. During 2009, the Company determined that it operated in two business segments, non-asset based transportation services and agent support services. The non-asset based transportation services segment includes our brokerage and contract carrier services which are provided through a network of independent sales agents throughout the United States and Canada. Revenue in this segment is generated from freight transportation transactions. The agent support services segment includes an array of services that we provide to our agent network to support and encourage the expansion of our agents businesses, primarily financial support through interest bearing long-term loans and non-interest bearing short-term loans, as well a
+s other services including training, margin analysis, marketing assistance, industry and market segment data, and business analysis tools. Revenue in this segment consists primarily of interest on interest bearing loans. This segment also includes potential revenues related to profit participations and realization on the option to acquire equity that the Company may receive related to a loan or advance extended to an agent. 
+
+F-9 
+
+Table of Contents 
+
+Note 2 - Advances and Other Assets 
+
+Advances and other assets consists of the following: 
+
+December 31, 
+
+2009 
+
+2008 
+
+Signing bonuses to independent sales agents, amortized on a straight-line basis over the life of the underlying contracts from three to five years 
+
+933,000 
+
+1,448,000 
+
+Non-interest bearing advances to independent sales agents repayable at the end of the underlying contracts at various dates through 2014 
+
+1,052,000 
+
+1,151,000 
+
+Loans to independent sales agents bearing interest at prime, prime plus 1 , 8 and 20 , are repayable Through 2014 
+
+10,032,000 
+
+6,046,000 
+
+Due from independent sales agents and employees consisting of non-interest bearing loans, agent chargebacks, and advanced commissions expected to be earned / repaid through 2014 
+
+3,363,000 
+
+948,000 
+
+15,380,000 
+
+9,593,000 
+
+Less: current portion 
+
+3,183,000 
+
+1,260,000 
+
+12,197,000 
+
+8,333,000 
+
+F-10 
+
+Table of Contents 
+
+Advances and other assets are expected to be earned / repaid as follows: 
+
+2010 
+
+3,183,000 
+
+2011 
+
+767,000 
+
+2012 
+
+9,592,000 
+
+2013 
+
+204,000 
+
+2014 
+
+1,634,000 
+
+15,380,000 
+
+Note 3 - Debt 
+
+Loan Payable 
+
+At December 31, 2008, the Company had a balance outstanding of 14,164,000 under our 20.0 million line of credit with Wachovia Bank. The line of credit was subject to the maintenance of certain financial covenants, was secured by accounts receivable and other operating assets, and matured in June 2010. The line of credit provided for interest at the LIBOR plus 1 1/4 . 
+
+In February 2009, the Company entered into a 30.0 million line of credit with Regions Bank, secured by substantially all assets of the Company. At December 31, 2009, we had a balance outstanding of 18,650,000 pursuant to this line of credit. The line of credit replaced the 20.0 million line of credit with Wachovia Bank, expires in March 2012, provides for interest at the LIBOR plus 1 1/2 with a minimum of 3 , and the maintenance of certain financial covenants. As of December 31, 2009, the company was in violation of the debt to earnings ratio covenant and has obtained a waiver of this violation as of March 15, 2010. In addition, the waiver modified interest rates to LIBOR plus 2 1/2 with a minimum of 3.5 , returning to original levels should this ratio return to agreed upon levels. 
+
+Note 4 - Income Taxes 
+
+For the years ended December 31, 2009 and 2008, the provision for income taxes consisted of the following: 
+
+2009 
+
+2008 
+
+Current 
+
+Deferred 
+
+Current 
+
+Deferred 
+
+Income tax expense before application of operating loss carryforwards 
+
+932,000 
+
+- 
+
+1,471,000 
+
+- 
+
+Income tax expense (benefit) of operating loss carryforwards 
+
+(795,000) 
+
+795,000 
+
+(1,257,000) 
+
+1,257,000 
+
+Income tax expense 
+
+137,000 
+
+795,000 
+
+214,000 
+
+1,257,000 
+
+F-11 
+
+Table of Contents 
+
+The following table reconciles the Company's effective income tax rate on income before income taxes to the Federal Statutory Rate for the years ended December 31, 2009 and 2008: 
+
+2009 
+
+2008 
+
+Federal Statutory Rate 
+
+34.0 
+
+34.0 
+
+State income taxes, net of federal benefit 
+
+5.6 
+
+5.8 
+
+39.6 
+
+39.8 
+
+Deferred taxes are comprised of the following at December 31, 2009 and 2008: 
+
+December 31, 
+
+December 31, 
+
+2009 
+
+2008 
+
+Deferred tax asset: 
+
+Net operating loss carryforward 
+
+985,000 
+
+1,780,000 
+
+The deferred tax asset represents expected future tax savings resulting from the Company s net operating loss carryforward. As of December 31, 2009, the Company has a net operating loss carryforward of approximately 2.9 million for federal income tax purposes which expire through 2014. Utilization of this benefit is primarily subject to the extent of future earning of the Company, and may be limited by, among other things, stockholder changes, including the possible issuance by the Company of additional shares in one or more financing or acquisition transactions. 
+
+Based upon available objective evidence, including the Company s post-merger history of profitability, management believes it is more likely than not that forecasted taxable income will be sufficient to utilize all of the net operating loss carryforward before its expiration in 2014. 
+
+Note 5 - Commitments and Contingencies 
+
+Leases 
+
+The Company is obligated under non-cancelable operating leases for premises expiring at various dates through November 2011. Future minimum lease payments are 75,000 and 16,000 for the years ending December 31, 2010 and 2011, respectively. Rent expense for the years ended December 31, 2009 and 2008 was 224,000 and 206,000, respectively. 
+
+Other Agreements 
+
+The Company has employment agreements with Messrs. Wachtel and Wunderlich, its chief executive officer and chief financial officer, respectively, who are also stockholders and Mr. Williams, its chief operating officer. The agreements with Messrs. Wachtel and Wunderlich expire on December 31, 2011 and provide for minimum annual compensation of 250,000 and 175,000, and bonuses equal to 10 of the Company s consolidated pre-tax profit (as defined) up to 1,250,000 and 5 of consolidated pre-tax profit in excess of 1,250,000, respectively. Under the terms of the agreements, annual salaries and bonuses shall not exceed 750,000 and 675,000 for Messrs. Wachtel and Wunderlich, respectively. Bonus payments to each of Messrs. Wachtel and Wunderlich were 208,000 and 287,000 for the years ended December 31, 2009 and 2
+008, respectively. The agreement with Mr. Williams expires on December 31, 2011 and provides for a base salary starting at 175,000 per year which will increase to 205,000 per year by the fourth year of the contract term and, commencing with the year ended December 31, 2009, a bonus equal to 1 of consolidated pre-tax profit. Accordingly, a bonus of 29,000 was paid for the year ended December 31, 2009. No bonus was paid for the year ended December 31, 2008. 
+
+F-12 
+
+Table of Contents 
+
+In May 2009, as part of the Company s cost reduction efforts, the employment agreements with Messrs. Wachtel, Wunderlich and Williams were modified to reflect a 10 reduction in base salary through December 31, 2009. 
+
+Litigation 
+
+The Company is involved in certain litigation arising in the ordinary course of its business. In the opinion of management, these matters will not have a material adverse effect on the Company's financial position or liquidity. 
+
+Note 6 - Stockholders' Equity 
+
+Stock Option Plans 
+
+The Company has seven stock option plans; its 1992, 1997, 1999, 2003, 2005 and two 2006 Plans (collectively, the Plans). Pursuant to the Plans, a total of 18,850,000 shares of common stock were made available for grant of stock options. Under the Plans, options have been granted to key personnel to purchase shares at not less than fair market value on the date of grant. Stock options generally vest ratably over a period of three to five years from the date of grant and must be exercised within ten years from the date of grant. The Company s policy is to recognize compensation expense on a straight-line basis over the requisite service period for the entire award. Compensation expense is recognized only for those options expected to vest, with forfeitures estimated at the date of grant based on the Company s historical experience and future expectations. No further grants will be made under the 1992 or 1997 Plans. 
+
+Options have been granted under the Plans to independent sales agents under the same general terms and conditions as options granted to employees. Such option grants are primarily based upon profits generated and act as long-term incentives to remain with the Company. Out of the total options outstanding of 11,102,000 as of December 31, 2009, 7,639,000 have been granted to independent sales agents. 
+
+F-13 
+
+Table of Contents 
+
+Option activity for the years ended December 31, 2009 and 2008 was as follows: 
+
+Shares 
+
+Subject to Options 
+
+Weighted Average Exercise Price Per Share 
+
+Weighted 
+
+Average Remaining Contractual Life 
+
+Aggregate Intrinsic Value 
+
+(in millions) 
+
+Outstanding, January 1, 2008 
+
+12,811,000 
+
+.72 
+
+4.1 
+
+- 
+
+Forfeited 
+
+(3,847,000) 
+
+.77 
+
+Exercised 
+
+(360,000) 
+
+.16 
+
+Granted 
+
+3,000,000 
+
+.78 
+
+Outstanding, December 31, 2008 
+
+11,604,000 
+
+.73 
+
+3.2 
+
+- 
+
+Forfeited 
+
+(1,850,000) 
+
+.55 
+
+Exercised 
+
+(550,000) 
+
+.12 
+
+Granted 
+
+1,898,000 
+
+.30 
+
+Outstanding December 31, 2009 
+
+11,102,000 
+
+.72 
+
+4.1 
+
+- 
+
+Exercisable, December 31, 2009 
+
+5,503,000 
+
+.76 
+
+3.2 
+
+- 
+
+As of December 31, 2009, there were 5,322,000 shares of common stock available for issuance pursuant to future stock option grants. Additional information regarding options outstanding as of December 31, 2009 is as follows: 
+
+Options outstanding 
+
+Options exercisable 
+
+Range of exercise prices 
+
+Shares 
+
+Weighted average remaining contractual life (years) 
+
+Weighted average exercise price 
+
+Shares 
+
+Weighted average exercise price 
+
+.05 - .20 
+
+499,000 
+
+4.0 
+
+.16 
+
+499,000 
+
+.16 
+
+.24 - .65 
+
+4,177,000 
+
+4.2 
+
+.41 
+
+2,903,000 
+
+.48 
+
+.72 - .88 
+
+3,514,000 
+
+5.2 
+
+.79 
+
+996,000 
+
+.81 
+
+1.00 1.48 
+
+2,912,000 
+
+2.7 
+
+1.17 
+
+2,005,000 
+
+1.18 
+
+.05 1.48 
+
+11,102,000 
+
+4.1 
+
+.72 
+
+5,503,000 
+
+.76 
+
+Weighted average grant-date fair value of options granted: 
+
+2009 
+
+.30 
+
+2008 
+
+.78 
+
+The fair value of each option grant is estimated on the date of grant using the Black-Scholes option pricing model with the following weighted average assumptions by grant year. 
+
+2009 
+
+2008 
+
+Risk-free interest rate 
+
+2.25 
+
+2.25 
+
+Expected dividend yield 
+
+0 
+
+0 
+
+Expected volatility factor 
+
+13.60 
+
+10.82 
+
+Expected option term, in years 
+
+5.42 
+
+5.90 
+
+F-14 
+
+Table of Contents 
+
+The Company recognized stock-based compensation expense related to stock options of 126,000 and 215,000 for the years ended December 31, 2009 and 2008, respectively. As of December 31, 2009, the Company had 312,000 of unrecognized stock-based compensation expense related to nonvested stock option plans that will be recognized over a period of five years. 
+
+Note 7 - Fair Value of Financial Instruments 
+
+The following disclosures of fair value were determined by management using available market information and appropriate valuation methodologies. Considerable judgment is necessary to interpret market data and develop estimated fair value. Accordingly, the estimates presented herein are not necessarily indicative of the amounts the Company could realize on disposition of the financial instruments. The use of different market assumptions and/or estimation methodologies may have a material effect on the estimated fair value amounts. 
+
+Cash and cash equivalents, accounts receivable, accounts payable and accrued liabilities and loan payable are carried at amounts which reasonably approximate fair value. 
+
+Note 8 - Quarterly Results of Operations (Unaudited) 
+
+Year Ended December 31, 2009 
+
+Quarter Ended (1) 
+
+Mar 31 
+
+June 30 
+
+Sep 30 
+
+Dec 31 
+
+Gross revenues: 
+
+Transportation services 
+
+34,993,000 
+
+43,794,000 
+
+48,847,000 
+
+54,810,000 
+
+Agent support services 
+
+320,000 
+
+321,000 
+
+362,000 
+
+452,000 
+
+35,313,000 
+
+44,115,000 
+
+49,209,000 
+
+55,262,000 
+
+Net income 
+
+216,000 
+
+390,000 
+
+358,000 
+
+454,000 
+
+Basic net income per share 
+
+.01 
+
+.01 
+
+.01 
+
+.01 
+
+Diluted net income per share 
+
+.01 
+
+.01 
+
+.01 
+
+.01 
+
+__________________________ 
+
+(1) 
+
+Gross revenues for the quarters ended March 31 and June 30 have been adjusted to reflect the revenues of both operating segments. This reallocation did not result in a change in net income, as previously reported. 
+
+F-15 
+
+Table of Contents 
+
+Year Ended December 31, 2008 
+
+Quarter Ended 
+
+Gross revenues 
+
+36,562,000 
+
+45,234,000 
+
+52,744,000 
+
+45,671,000 
+
+Net income 
+
+490,000 
+
+596,000 
+
+560,000 
+
+578,000 
+
+Basic net income per share 
+
+.01 
+
+.02 
+
+.02 
+
+.02 
+
+Diluted net income per share 
+
+.01 
+
+.02 
+
+.02 
+
+.02 
+
+Note 9 - Supplemental Disclosure of Cash Flow Information and Non-Cash Financing Activities 
+
+Cash paid for interest in 2009 and 2008 was 478,000 and 500,000, respectively. 
+
+The Company paid income taxes of 181,000 and 130,000 for the years ended December 31, 2009 and 2008, respectively. 
+
+During 2009, the Company obtained a 30.0 million line of credit from Regions Bank. In connection with this transaction, the Company s previous line of credit with Wachovia Bank was paid in full. 
+
+Note 10 - Segment Reporting 
+
+Through 2008, the Company operated in one business segment. During 2009, the Company determined that it operated in two business segments, non-asset based transportation services and agent support services. The non-asset based transportation services segment includes our brokerage and contract carrier services which are provided through a network of independent sales agents throughout the United States and Canada. Revenue in this segment is generated from freight transportation transactions. The agent support services segment includes an array of services that we provide to our agent network to support and encourage the expansion of our agents businesses, primarily financial support through interest bearing long-term loans and non-interest bearing short-term loans, as well as other services including training, margin anal
+ysis, marketing assistance, industry and market segment data, and business analysis tools. Revenue in this segment consists primarily of interest on interest bearing loans. This segment also includes potential revenues related to profit participations and realization on the option to acquire equity that the Company may receive related to a loan or advance extended to an agent. 
+
+F-16 
+
+Table of Contents 
+
+Our gross profits, expenses, and total assets by segment as of and for the year ended December 31, 2009 are summarized below: 
+
+Transportation 
+
+Services 
+
+Agent Support Services 
+
+Total 
+
+Gross revenues 
+
+182,444,000 
+
+1,455,000 
+
+183,899,000 
+
+Direct freight 
+
+146,721,000 
+
+- 
+
+146,721,000 
+
+Gross profit 
+
+35,723,000 
+
+1,455,000 
+
+37,178,000 
+
+Commissions 
+
+26,816,000 
+
+- 
+
+26,816,000 
+
+Operating expenses 
+
+7,295,000 
+
+239,000 
+
+7,534,000 
+
+Interest expense 
+
+478,000 
+
+- 
+
+478,000 
+
+Income taxes 
+
+449,000 
+
+483,000 
+
+932,000 
+
+Net income 
+
+685,000 
+
+733,000 
+
+1,418,000 
+
+Assets 
+
+39,177,000 
+
+15,380,000 
+
+54,557,000 
+
+F-17 
+
+<EX-10.V>
+ 2
+ ex10v.htm
+ EXHIBIT 10V
+
+ex10v.htm 
+
+EXHIBIT 10V 
+
+FIRST AMENDMENT TO 
+
+LOAN AND SECURITY AGREEMENT 
+
+THIS FIRST AMENDMENT TO LOAN AND SECURITY AGREEMENT (this Amendment ), dated as of March 24, 2010 (the Amendment Date ), is made by and between AUTOINFO, INC., a Delaware corporation Parent Company and its direct and indirect Subsidiaries, namely, SUNTECK TRANSPORT CO., INC. Sunteck ), ELEETS LOGISTICS, INC. ELEETS ), SUNTECK TRANSPORT CARRIERS, INC. STC ), SUNTECK GOVE
+RNMENT LOGISTICS, INC. SGL ), SUNTECK TRANSPORT GROUP, INC., a Florida corporation STG ), RAILPORT SERVICES, INC., a Florida corporation RSI and AMERICAN SHIPPERS DISPATCH, INC. ASD ), all of which are Florida corporations (Parent Company, together with Sunteck, ELEETS, STC, SGL, RSI and ASD, herein called, collectively, the Borrowers and, individually, a Borrower ), and REGIONS BANK Lender ), for the purpose of amending that certain Loan and Security Agreement, da
+ted as of February 17, 2009, made between Borrowers and Lender (as amended hereby, the Loan Agreement ), as an accommodation to Borrowers made at their request in reliance by Lender on the terms and conditions herein contained. 
+
+1. Definitions, Etc . Capitalized terms used in this Amendment, but not expressly defined herein, shall have the same meanings as given to such terms in the Loan Agreement. Section references used in this Amendment shall mean Sections references in the Loan Agreement. 
+
+2. Statement of Facts . As of the Amendment Date, a certain Event of Default is known to have occurred and be continuing, namely, in respect of Section 8.2(b) (Funded Debt to EBITDA Ratio) of the Loan Agreement as the Fiscal Month ended December 31, 2009 (the foregoing herein called the Known Default ). Borrowers have requested that Lender waive the Known Default and make certain other accommodations to Borrowers, which Lender has agreed to do subject to the terms and conditions set forth herein below. 
+
+3. Waivers and Suspension . Lender hereby waives the Known Default but solely in regard to the specific time and matter described above and with the understanding that the foregoing is not intended, and shall not be construed, to imply that any waiver has been, or will be, granted as to any other Event of Default, whether present or future, and whether in regard to said Section 8.2(b)of the Loan Agreement or otherwise, except solely as expressly set forth hereinabove. 
+
+4. Amendments . The Loan Agreement shall be amended as follows: 
+
+4.1 Applicable Margin . The definition of Applicable Margin, appearing in Section 1.2 of the Loan Agreement, shall be amended and restated to read in its entirety as follows: 
+
+Applicable Margin means (i) as to any Revolving Loan made as a LIR Loan, one and 50/100ths of one percent (1.50 per annum and (ii) as to any Revolving Loan made as a Base Rate Loan, one and 50/100ths of one percent (1.50 per annum; provided , however , that, notwithstanding the foregoing, effective beginning on March 1, 2010 the Applicable Margin shall be determined from time to time on each Determination Date (as defined below), by reference to the following pricing table: 
+
+Funded Debt to EBITDA Ratio 
+
+Applicable Margin LIR Loans 
+
+Base Rate Loan 
+
+Level I 
+
+Greater than 6.00 to 1.00 
+
+2.00 
+
+1.00 
+
+Level II 
+
+Less than or equal to 6.00 to 1.00, but greater than 5.00 to 1.00 
+
+1.75 
+
+.75 
+
+Level III 
+
+Less than or equal to 5.00 to 1.00 
+
+1.50 
+
+.50 
+
+The Applicable Margin shall be subject to reduction or increase, as applicable and as set forth in the table above, on a monthly basis as of each Determination Date (as defined below), according to the performance of the Borrowers as measured by the Funded Debt to EBITDA Ratio as determined in the manner provided in Section 8.2(b) and reported in accordance with Section 6.6(d). Except as otherwise provided in this paragraph, any increase or reduction in the Applicable Margin provided for herein shall be effective on each Determination Date. Without limiting Lender s rights to invoke the Default Rate, if (i) the financial statements and the compliance certificate of the Borrowers setting forth the Funded Debt to EBITDA Ratio are not received by Lender by the date required pursuant to Section 6.6(d) or (ii) a
+n Event of Default occurs and Lender so elects, then, in each case, the Applicable Margin shall be at Level I until such time as such financial statements and compliance certificate are received and any Event of Default (whether resulting from a failure to timely deliver such financial statements or compliance certificate or otherwise) is waived in writing by Lender. As used herein, Determination Date means the first day of the first calendar month after the date on which Borrower provides the monthly compliance certificate and financial statements under Section 6.6(d), for the Fiscal Month in question, beginning with the Fiscal Month ending January 31, 2010. For avoidance of doubt, the Applicable margin as of March 1, 2010 is at Level I above. 
+
+In the event that any financial statement or certificate required by Section 6.6(c) is shown to be inaccurate (regardless of whether this Agreement or the Commitment is in effect when such inaccuracy is discovered), and such inaccuracy, if corrected, would have led to the application of a higher Applicable Margin for any period (an Applicable Period than the Applicable Margin applied for such Applicable Period, then (i) Borrowers shall immediately deliver to Lender a correct certificate for such Applicable Period, (ii) the Applicable Margin for such Applicable Period shall be determined by reference to such certificate, and (iii) Borrower shall promptly pay Lender, on demand, the accrued additional interest owing as a result of such increased Applicable Ma
+rgin for such Applicable Period, which payment shall be promptly applied by Lender in accordance with the terms hereof. 
+
+2 
+
+4.2 The definition of Flat Rate appearing in Section 1.2 of the Loan Agreement shall be amended and restated, in its entirety, to read as follows: 
+
+Flat Rate shall mean a simpler interest rate equal to three percent (3.0 per annum; provided , however , that, effective on March 1, 2010, and continuing at all times thereafter, the Flat Rate shall be determined by Lender instead based upon the Funded Debt to EBITDA Ratio; that is, if the Funded Debt to EBITDA Ratio for the Fiscal Month then most recently ended as determined by Lender is greater than 6.00 to 1.00, then, the Flat Rate shall be three and 50/100ths of one percent (3.50 per annum; if the Funded Debt to EBITDA Ratio for such Fiscal Month is less than or equal to 6.00 to 1.00 but greater than 5.00 to 1.00, then, the
+ Flat Rate shall be three and 25/100ths of one percent (3.25 per annum and if the Funded Bet to EBITDA Ratio is less than or equal to 3.00 to 1.00, then, the Flat Rate shall be three percent (3.0 per annum. For avoidance of doubt, the Flat Rate as of March 1, 2010, is three and 50/100ths of one percent (3.50 per annum. The Flat Rate shall also be subject to review and adjustment by Lender from time to time in the same manner and to the same extent as provided in the definition of Applicable Margin for the periodic determination thereof. 
+
+4.3 Funded Debt to EBITDA Ratio . Section 8.2(b) of the Loan Agreement shall be amended and restated in its entirety, to read as follows: 
+
+(b) Funded Debt to EBITDA Ratio . The Funded Debt to EBITDA Ratio for each Fiscal Month, beginning with the Fiscal Month ending January 31, 2009 shall be not more than 5.00 to1; provided , however , that, notwithstanding the forgoing, beginning with the Fiscal Month ending January 31, 2010, and continuing through the Fiscal Month ending December 31, 2010, the Funded Debt to EBITDA ratio for each Fiscal Month shall be not more than 7.50 to 1, and beginning with the Fiscal Month ending January 31, 2011 and continuing thereafter, the Funded Debt to EBITDA Ratio shall be not more than 6.00 to 1. 
+
+5. Conditions Precedent . Completion of the following to Lender s satisfaction shall constitute express conditions precedent to the effectiveness of the amendments set forth in Section 4 above: (i) Lender and Borrowers shall have executed and delivered this Amendment. 
+
+6. Representations and Warranties . In order to induce Lender to enter into this Amendment, Borrowers hereby represent and warrant to Lender as follows: 
+
+6.1 Legal Right . Each Borrower has the full power, right and legal authority to execute, deliver and perform its obligations under this Amendment; 
+
+6.2 Authorization . Each Borrower has taken all necessary corporate action necessary to authorize the execution and delivery of, and the performance of its obligations under, this Amendment; 
+
+6.3 Enforceability . This Amendment constitutes a legal, valid and binding obligations of each Borrower, enforceable against each Borrower in accordance with its terms, subject to the effect of any applicable bankruptcy, insolvency, reorganization or moratorium or similar laws affecting the rights of creditors generally; 
+
+3 
+
+6.4 No Default . Except for the Known Defaults, no Default or Event of Default has occurred and is continuing or would result from the execution, delivery and performance by each Borrower of this Amendment; 
+
+6.5 No Offset . No right of offset, no defense and no counterclaim exists in favor of either Borrower in regard to the payment and performance of the Obligations; 
+
+6.6 Representations . The representations and warranties contained in the Loan Agreement and in each of the other Loan Documents to which each Borrower is a party remain true and complete on and as of the date hereof as though made on and as of the date hereof except for (i) changes which have occurred and which were not prohibited by the terms of the Loan Agreement or such other Loan Documents, (ii) to the extent that any such representation or warranty related to an earlier date, and (iii) as are affected by transactions specifically and expressly contemplated by the Loan Agreement. 
+
+7. Reference to and Effect on the Documents . 
+
+7.1 Each reference in the Loan Agreement to this Agreement , hereunder , hereof , herein or words of like import, and each reference to the Loan Agreement in the other Loan Documents other than the Loan Agreement, shall mean and be a reference to the Loan Agreement as amended hereby. 
+
+7.2 Except as specifically amended hereby, the Loan Agreement and all other Loan Documents, and all other documents, agreements, instruments or writings entered into in connection therewith, shall remain in full force and effect, and are hereby ratified, confirmed and acknowledged by Borrowers. The amendments set forth herein are limited precisely as written and shall not be deemed to (i) be a consent to any waiver or modification of any other term or conditions of the Loan Agreement, any other Loan Document, or any document delivered pursuant thereto, or (ii) prejudice any right or rights which Lender may now or in the future have in connection with the Loan Agreement or any other Loan Document, or (iii) constitute a novation of the Loan Agreement or any othe
+r Loan Document. 
+
+8. Governing Law . This Amendment and the rights and obligations of the parties hereunder shall be governed by, and construed and interpreted in accordance with the substantive laws of the State of Georgia, without regard for its conflict of laws principles. 
+
+9. Headings . Section headings in this Amendment are included herein for convenience of reference only and shall not constitute a part of this Amendment for any other purpose. 
+
+10. Successors . This Amendment shall be binding upon the permitted successors and assigns of the parties hereto. 
+
+11. Counterparts . This Amendment may be executed in any number of counterparts, all of which taken together shall constitute one and the same instrument, and any party hereto may execute this Amendment by signing any such counterpart. 
+
+4 
+
+12. Loan Document . This Amendment constitutes a Loan Document under the Loan Agreement. 
+
+5 
+
+WITNESS the hands of Borrowers and Lender, as of the date first above written. 
+
+BORROWERS 
+
+AUTOINFO, INC. 
+
+[SEAL] 
+
+By: 
+
+/s/William I. Wunderlich 
+
+Name: 
+
+William I. Wunderlich 
+
+Title: 
+
+Chief Financial Officer 
+
+SUNTECK TRANSPORT CO., INC. 
+
+[SEAL] 
+
+By: 
+
+/s/William I. Wunderlich 
+
+Name: 
+
+William I. Wunderlich 
+
+Title: 
+
+Chief Financial Officer 
+
+ELEETS LOGISTICS, INC. 
+
+[SEAL] 
+
+By: 
+
+/s/William I. Wunderlich 
+
+Name: 
+
+William I. Wunderlich 
+
+Title: 
+
+Chief Financial Officer 
+
+SUNTECK TRANSPORT CARRIERS, INC. 
+
+[SEAL] 
+
+By: 
+
+/s/William I. Wunderlich 
+
+Name: 
+
+William I. Wunderlich 
+
+Title: 
+
+Chief Financial Officer 
+
+6 
+
+SUNTECK GOVERMENT LOGISTICS, INC. 
+
+[SEAL] 
+
+By: 
+
+/s/William I. Wunderlich 
+
+Name: 
+
+William I. Wunderlich 
+
+Title: 
+
+Chief Financial Officer 
+
+SUNTECK TRANSPORT GROUP, INC. 
+
+[SEAL] 
+
+By: 
+
+/s/William I. Wunderlich 
+
+Name: 
+
+William I. Wunderlich 
+
+Title: 
+
+Chief Financial Officer 
+
+RAILPORT SERVICES, INC. 
+
+[SEAL] 
+
+By: 
+
+/s/William I. Wunderlich 
+
+Name: 
+
+William I. Wunderlich 
+
+Title: 
+
+Chief Financial Officer 
+
+AMERICAN SHIPPERS DISPATCH, INC. 
+
+[ SEAL] 
+
+By: 
+
+/s/William I. Wunderlich 
+
+Name: 
+
+William I. Wunderlich 
+
+Title: 
+
+Chief Financial Officer 
+
+7 
+
+Accepted in Atlanta, Georgia 
+
+LENDER 
+
+REGIONS BANK 
+
+By: 
+
+/s/David L. Coody 
+
+Name: 
+
+David L. Coody 
+
+Title: 
+
+Senior Vice President 
+
+8 
+
+</EX-10.V>
+
+<EX-23.A>
+ 3
+ ex23a.htm
+ EXHIBIT 23A
+
+ex23a.htm 
+
+EXHIBIT 23A 
+
+CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+We consent to the incorporation by reference in the Registration Statements (Form S-8 No. 33-34442 and 333-156289) pertaining to stock option plans of AutoInfo, Inc. of our report dated March 29, 2010, with respect to the consolidated financial statements of AutoInfo, Inc., included in the Annual Report (Form 10-K) for the year ended December 31, 2009. 
+
+/s/ Dworken, Hillman, LaMorte Sterczala, P.C. 
+
+Shelton, Connecticut 
+
+Dworken, Hillman, LaMorte Sterczala, P.C. 
+
+March 29, 2010 
+
+</EX-23.A>
+
+<EX-31.A>
+ 4
+ ex31a.htm
+ EXHIBIT 31A
+
+ex31a.htm 
+
+EXHIBIT 31A 
+
+CERTIFICATION 
+
+I, Harry M. Wachtel, certify that: 
+
+1. 
+
+I have reviewed this annual report on Form 10-K of AutoInfo, Inc.; 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+
+The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+
+The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: March 29, 2010 
+
+/s/ Harry M. Wachtel 
+
+Harry M. Wachtel 
+
+President and Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+</EX-31.A>
+
+<EX-31.B>
+ 5
+ ex31b.htm
+ EXHIBIT 31B
+
+ex31b.htm 
+
+EXHIBIT 31B 
+
+CERTIFICATION 
+
+I, William I. Wunderlich, certify that: 
+
+1. 
+
+I have reviewed this annual report on Form 10-K of AutoInfo, Inc.; 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+
+The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+
+The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: March 29, 2010 
+
+/s/ William I. Wunderlich 
+
+William I. Wunderlich 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+</EX-31.B>
+
+<EX-32.A>
+ 6
+ ex32a.htm
+ EXHIBIT 32A
+
+ex32a.htm 
+
+EXHIBIT 32A 
+
+CERTIFICATION PURSUANT TO 
+
+18 U.S.C. SECTION 1350, 
+
+AS ADOPTED PURSUANT TO 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of AutoInfo, Inc. (the Company on Form 10-K for the fiscal year ended December 31, 2009 as filed with the Securities and Exchange Commission SEC on the date hereof (the "Report"), I, Harry M. Wachtel, President and Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+
+(2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+A signed original of this written statement has been provided to the Company and will be retained by the Company and furnished to the SEC or its staff upon request. 
+
+Dated: March 29, 2010 
+
+/s/ Harry M. Wachtel 
+
+Harry M. Wachtel 
+
+President and Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+</EX-32.A>
+
+<EX-32.B>
+ 7
+ ex32b.htm
+ EXHIBIT 32B
+
+ex32b.htm 
+
+EXHIBIT 32B 
+
+CERTIFICATION PURSUANT TO 
+
+18 U.S.C. SECTION 1350, 
+
+AS ADOPTED PURSUANT TO 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of AutoInfo, Inc. (the "Company") on Form 10-K for the fiscal year ended December 31, 2009 as filed with the Securities and Exchange Commission SEC on the date hereof (the "Report"), I, William I. Wunderlich, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+
+(2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+A signed original of this written statement has been provided to the Company and will be retained by the Company and furnished to the SEC or its staff upon request. 
+
+Dated: March 29, 2010 
+
+/s/ William I. Wunderlich 
+
+William I. Wunderlich 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+</EX-32.B>
+

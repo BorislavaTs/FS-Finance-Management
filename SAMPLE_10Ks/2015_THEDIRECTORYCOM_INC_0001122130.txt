@@ -1,0 +1,3677 @@
+<Header>
+<FileStats>
+    <FileName>20150415_10-K_edgar_data_1122130_0001019687-15-001475.txt</FileName>
+    <GrossFileSize>2782950</GrossFileSize>
+    <NetFileSize>187523</NetFileSize>
+    <NonText_DocumentType_Chars>531834</NonText_DocumentType_Chars>
+    <HTML_Chars>680547</HTML_Chars>
+    <XBRL_Chars>573407</XBRL_Chars>
+    <XML_Chars>736086</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001019687-15-001475.hdr.sgml : 20150415
+<ACCEPTANCE-DATETIME>20150415172107
+ACCESSION NUMBER:		0001019687-15-001475
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		10
+CONFORMED PERIOD OF REPORT:	20141130
+FILED AS OF DATE:		20150415
+DATE AS OF CHANGE:		20150415
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			THEDIRECTORY.COM, INC.
+		CENTRAL INDEX KEY:			0001122130
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ADVERTISING AGENCIES [7311]
+		IRS NUMBER:				330052057
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-31431
+		FILM NUMBER:		15772586
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PO BOX 340746
+		CITY:			TAMPA
+		STATE:			FL
+		ZIP:			33618
+		BUSINESS PHONE:		727-417-7807
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 340746
+		CITY:			TAMPA
+		STATE:			FL
+		ZIP:			33618
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ELYSIUM INTERNET INC
+		DATE OF NAME CHANGE:	20081021
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	US BIODEFENSE INC
+		DATE OF NAME CHANGE:	20030609
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PIEDMONT INC
+		DATE OF NAME CHANGE:	20000818
+
+</SEC-Header>
+</Header>
+
+ 0001019687-15-001475.txt : 20150415
+
+10-K
+ 1
+ thedirectory_10k-113014.htm
+ ANNUAL REPORT
+
+UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+FORM 10-K 
+
+ (Mark One) 
+
+x ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended November 30, 2014
+
+o TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE EXCHANGE ACT 
+
+For the transition period from ________________
+to _______________ 
+
+(Commission file number) 
+
+THEDIRECTORY.COM, INC. 
+
+ (Exact name of registrant
+as specified in its charter) 
+
+Utah 
+ 
+ 33-0052057 
+ 
+ (State or other jurisdiction
+of incorporation or organization) 
+ 
+ (IRS Employer Identification No.) 
+
+2701 N. Rocky Point Dr. 
+
+ Suite 950 
+
+ Tampa, Florida 33607 
+
+ (866) 304-3463 
+
+ (Address and telephone number of principal executive
+offices) 
+
+N/A 
+
+ (Former name, former
+address and former fiscal year, if changed since last report) 
+
+Securities registered pursuant to Section 12(b)
+of the Act: None 
+
+Securities registered pursuant to Section 12(g)
+of the Act: Common Stock, 0.001 par value per share 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes o No
+ x 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act. Yes
+ o No
+ x 
+
+Indicate
+by check mark whether the issuer (1) filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act during
+the past 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject
+to such filing requirements for the past 90 days. Yes x No
+ o 
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or such shorter
+period that the registrant was required to submit and post such files. Yes x No
+ o 
+
+Indicate
+by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be
+contained, to the best of the registrant s knowledge, in the definitive proxy or information statement incorporated by reference
+in Part III of this Form 10-K or amendment to Form 10-K. Yes x No o 
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a small reporting company. See definitions
+of large accelerated filer, accelerated filer, and smaller reporting company in Rule
+12b-2 of the Exchange Act. (Check one): 
+
+Large accelerated filer 
+ o 
+ Accelerated filer 
+ o 
+ 
+ Non-accelerated filer 
+ o 
+ Smaller reporting company 
+ x 
+ 
+ (Do not check if a smaller reporting company) 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes o No
+ x 
+
+The aggregate market value of the common stock held by non-affiliates
+of the registrant based on the closing price of the registrant s common stock on April 7, 2015, was approximately 102,600.
+For purposes of this computation, all officers, directors and 10 beneficial owners of the registrant are deemed to be affiliates.
+Such determination should not be deemed to be an admission that such officers, directors or 10 beneficial owners are, in fact,
+affiliates of the registrant. 
+
+As of April 7, 2015, there were
+7,884,034,676 outstanding shares of the registrant s common stock. 
+
+THEDIRECTORY.COM, INC. 
+
+Index 
+
+Page
+ Number 
+
+PART I. 
+
+Item 1. 
+ Description
+ of Business 
+ 3 
+
+Item 1A. 
+ Risk
+ Factors 
+ 9 
+
+Item 2. 
+ Properties
+ 
+ 17 
+
+Item 3. 
+ Legal
+ Proceedings 
+ 17 
+
+Item 4. 
+ Mine
+ Safety Disclosures (Not applicable.) 
+ 1 7 
+
+PART II. 
+
+Item 5. 
+ Market
+ For Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 18 
+
+Item 6. 
+ Selected
+ Financial Data 
+ 19 
+
+Item 7. 
+ Management s
+ Discussion and Analysis of Financial Condition and Results of Operations 
+ 19 
+
+Item 7A. 
+ Quantitative
+ and Qualitative Disclosures About Market Risk 
+ 23 
+
+Item 8. 
+ Financial
+ Statements and Supplementary Data 
+ 23 
+
+Item 9. 
+ Changes
+ in and Disagreements With Accountants on Accounting and Financial Disclosure 
+ 24 
+
+Item 9A. 
+ Controls
+ and Procedures 
+ 24 
+
+Item 9B. 
+ Other
+ Information 
+ 24 
+
+PART III. 
+
+Item 10. 
+ Directors,
+ Executive Officers, and Corporate Governance 
+ 25 
+
+Item 11. 
+ Executive
+ Compensation 
+ 26 
+
+Item 12. 
+ Security
+ Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 26 
+
+Item 13. 
+ Certain
+ Relationships and Related Transactions, and Director Independence 
+ 28 
+
+Item 14. 
+ Principal
+ Accountant Fees and Services 
+ 28 
+
+PART IV. 
+
+Item 15. 
+ Exhibits
+ and Financial Statement Schedules 
+ 29 
+
+2 
+
+TheDirectory.com, Inc. 
+ 2014 Annual Report Form 10-K 
+
+CAUTIONARY NOTICE REGARDING FORWARD-LOOKING
+STATEMENTS 
+
+In this document, TheDirectory.com, Inc. and its subsidiaries are
+referred to as we, our, us, the Company or TheDirectory 
+
+This Annual Report on Form 10-K (including
+the section regarding Management's Discussion and Analysis or Plan of Operation) contains forward-looking statements regarding
+our business, financial condition, results of operations and prospects. Words such as expects, anticipates, 
+ intends, plans, believes, seeks, estimates and similar expressions
+or variations of such words are intended to identify forward-looking statements, but are not deemed to represent an all-inclusive
+means of identifying forward-looking statements as denoted in this Annual Report on Form 10-K. Additionally, statements concerning
+future matters are forward-looking statements. 
+
+Although forward-looking statements in this
+Annual Report on Form 10-K reflect the best judgment of our Management, such statements can only be based on facts and factors
+currently known by us. Consequently, forward-looking statements are inherently subject to risks and uncertainties and actual results
+and outcomes may differ materially from the results and outcomes discussed in or anticipated by the forward-looking statements.
+Factors that could cause or contribute to such differences in results and outcomes include factors discussed elsewhere in this
+Annual Report on Form 10-K. Readers are urged not to place undue reliance on these forward-looking statements, which speak only
+as of the date of this Annual Report on Form 10-K. We file reports with the Securities and Exchange Commission. Our electronic
+filings with the SEC (including our Annual Reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K,
+and any amendments to these reports) are available free of charge on the SEC s website at http://www.sec.gov. You can also
+read and copy any materials we file with the SEC at the SEC's Public Reference Room at 100 F Street, NE, Washington, DC 20549.
+You can obtain additional information about the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. In
+addition, the SEC maintains an Internet site (www.sec.gov) that contains reports, proxy and information statements, and other information
+regarding issuers that file electronically with the SEC, including us. We undertake no obligation to revise or update any forward-looking
+statements in order to reflect any event or circumstance that may arise after the date of this Annual Report on Form 10-K, except
+as required by law. 
+
+3 
+
+PART I 
+
+ITEM 1. Business. 
+
+Our Business 
+
+We are an emerging vertical search and advertising
+company that provides search results to consumers who are searching online for local businesses, products and services. Our search
+results consist primarily of local business listings as well as local community information including: events, jobs, white pages
+and classifieds. We provide our search results through our flagship business search engine TheDirectory.com as well as our vertically
+targeted directories such as Podiatrist.net, Chiropractor.net, 123HomeRepair.com and DentistAppointments.com. We provide additional
+local community information through our network of Hello branded city guides such as HelloNewYorkCity.com, HelloChicago.com,
+HelloMiami.com and many more. 
+
+We launched our directory network in 2008.
+We acquired our Hello branded city guide network in October of 2013. Our network includes 2,083 directories, city
+guides and websites. Our network of directories, city guides and websites reaches approximately 6 million monthly unique users,
+or MUVs. 
+
+Consumers can access any website in our network
+and receive free local search results, generated according to the consumer s search queries, which can include geographic
+area, zip code, and city name, for listings of business professionals, providers and contractors in the consumer s respective
+community. Our search results consist primarily of local business listings that we aggregate, verify and distribute over our network
+of city guides and vertical directories. We generate revenue from subscriptions paid by our subscribers to list on our city guides
+and directories, and from third party ads placed alongside our search results, which include pay-per-click, pay-per-call, and display
+(banner) ad units. We also receive revenue from ad products and certain advertising and identity management services rendered for
+small- and medium-sized businesses, or SMBs. 
+
+Industry Overview 
+
+Why Local Search Matters 
+
+Consumers who conduct local searches on the
+Internet, or local searchers, tend to convert into buying customers at a higher rate than other types of Internet users. As a result,
+advertisers often pay a significant premium to place their ads in front of local searchers on websites like www.TheDirectory.com
+or our vertical directories like www.Chiropractor.net. Additionally, SMBs that would not normally compete at the national level
+for advertising opportunities are increasingly engaging in and competing for local advertising opportunities, including local search
+and mobile search, to promote their products and services. 
+
+The Local SMB Advertising Market 
+
+Small- and medium-sized businesses, or SMBs,
+serving local markets represent significant economic activity, control substantial purchasing power and address the needs of hundreds
+of millions of consumers. These SMBs include businesses and professionals such as lawyers, physicians, car dealers, dentists, plumbers,
+florists, and therapists. To generate and sustain their businesses, SMBs spend money to market their services and to acquire, maintain
+and retain customers, and the associated expenditures are critical components of the operating budget for many SMBs, particularly
+given the potential value of each customer over the lifetime of the relationship. For example, a new dental patient may generate
+several hundred dollars in revenue during the customer s first visit, thousands of dollars in subsequent visits and make
+referrals to friends and family that generate significant additional revenue. In addition to their customer acquisition efforts,
+increasingly SMBs are looking for platforms that enable them to transact with their customers online. These efforts to manage the
+entire customer experience online - from lead generation to transaction execution to overall customer management - are key to the
+success of SMBs. 
+
+Over the past decade, the local advertising
+market for SMBs and other local businesses has undergone rapid and fundamental changes. The delivery and consumption of local advertising,
+like all media, is becoming increasingly fragmented and digitized. Many consumers who used to search for a local business in the
+Yellow Pages or the local newspaper are now going online and searching on Google, checking reviews on Yelp and Citysearch, buying
+coupons on Groupon and LivingSocial, and asking their friends for their opinions through Facebook and Twitter. We aim to address
+the unique needs of the SMB and re-create the simplicity and effectiveness with which SMBs have traditionally purchased offline
+advertising as they transition into online and digital media advertising. Ultimately, our goal is to drive traffic to our subscribers 
+websites and gain exposure for SMBs that they would not have been able to have on their own. 
+
+4 
+
+Our Strategy 
+
+We believe we are in the early stages of a
+significant long-term business opportunity presented by the shift of local and national marketing budgets away from traditional
+media channels including the yellow pages, newspapers and radio to Internet and digital based media formats. Our strategy for pursuing
+this opportunity includes the following key components: 
+
+Increase growth drivers to TheDirectory.com. 
+We are focused on the expansion of both our consumer outreach, the number of consumers who use our network of directories and city
+guides, and the monetization of that reach, how much ad revenue we generate from those users. We also aim to increase the number
+of SMB customers listing on TheDirectory.com network. 
+
+Optimize monetization of our network. 
+As an ongoing initiative, we continuously look to optimize our ability to monetize the traffic reaching our websites. 
+
+Consolidate and integrate the highly
+fragmented local search space. Other than the major search engines like Google, Inc., Yahoo, Inc., and Microsoft Corporation s
+Bing, the local search space remains highly fragmented with no clear market leader. Over the coming years as our Company and our
+capabilities grow, we plan to consolidate key websites into selected vertical directories under our brand TheDirectory.com to create,
+what we believe, will be the leading local search destination in North America. 
+
+Our Business Model 
+
+We operate our business under a Build,
+Buy or Partner business model. 
+
+Build- We build directories, websites
+and city guides. We are in the process of building a centralized business listing database to support our control your data
+initiative for local businesses. We expect this project to be completed sometime in the middle of 2015 and become a backbone
+piece of our business moving forward. 
+
+Buy- With regards to the Buy 
+component of our business model, we are constantly scouring the market for strategic acquisition opportunities that we feel will
+help create shareholder value and accelerate our growth plans. In 2013 we closed the largest acquisition in our history by acquiring
+our 1,500 plus Hello branded city guides. 
+
+Partner- We believe focusing our management s
+attention on forming strategic partnerships will allow us to create a profitable, sustainable enterprise over both the short and
+long term. Additionally, the Partner pillar of our business model allows us the flexibility to partner with industry
+leading technology companies and integrate their best in class products and services into our core local business services offerings
+without incurring the significant development expenses and uncertainty associated with creating new technology based products. 
+
+Principal Products and Services 
+
+Our business revolves around two key initiatives: 
+
+Expand Our Owned and Operated Network of
+Online Destinations into New Categories: 
+
+In order to achieve this goal, we re
+building a user focused, cloud based, local search platform and centralized database that we believe will become the core of our
+business going forward. We currently operate vertical directories in podiatry, chiropractic, dental, therapy, home services and
+legal. Additionally, we operate a network of over 1,500 city guides that operate under the Hello brand such as www.HelloTampa.com,
+www.HelloNewYorkCity.com. 
+
+Increase Monetization of Our Network: 
+
+We currently monetize our network of Internet
+properties through subscriptions paid to us by local businesses and by placing advertisements on our network of sites. Our plan
+is to expand into larger verticals that we feel will increase our subscription model as well as increase our traffic thereby increasing
+the amount of money we make from placing ads on our sites. 
+
+Local Search Platform 
+
+We are focused on building Internet destinations
+that connect consumers with businesses in their local area. We developed our local search platform, TheDirectory.com, as a network
+of online destinations that focuses on connecting local businesses with local customers via a custom-built user interface that
+promotes enhanced user actions and engagements. We contract with SMBs to provide their business listing information and rich content
+on our network. The terms of such agreements vary from subscriber to subscriber based on the services we provide, but the duration
+of almost all of our agreements is month to month. We build a custom, detailed business profile for each of our subscribers and
+market to consumers in the subscriber s local area via search engine marketing and search engine optimization. On our network
+of directories and city guides, consumers can locate verified, relevant search results for local businesses, products and services
+which translate into new customers for our subscribers. In areas or categories that we do not have direct subscribers, we distribute
+and monetize listing information supplied from our partners. 
+
+5 
+
+Through our local search platform, TheDirectory.com,
+we re able to provide SMBs with complete transparency and measurability of the results of our advertising and promotion efforts
+via a set of performance reports they can access from our subscriber portal. These reports provide our subscribers with detailed
+data including: statistics that show the traffic we drive to the subscriber s website and social media content; recordings
+of all calls to the subscriber s telephone line linked to our directory and the return phone number for the consumer; certain
+data submitted into forms on the subscriber s website or directory listing; and fully integrated management of their social
+media pages and reviews sites like Google, Facebook and Yelp. 
+
+We provide some of this data to our clients
+through partnerships and business relationships we have with industry leading technology companies such as Yext, Duda Mobile, Google
+and others. We partner with a variety of third party vendors who allow us the capability of providing specific functionality within
+our local search platform to further track consumers visits, including call tracking and recording services. We believe
+by partnering with third party vendors, the partner aspect of our platform, that we have a critical advantage within
+the fast paced Internet advertising space. By partnering with top tier technology firms to provide certain functionality instead
+of building out our own proprietary software products, we gain a level of flexibility related to these integrated products that
+other companies using proprietary products do not have. Additionally, we eliminate the massive cost and uncertainties typically
+associated with many development programs. 
+
+Small Business Online Advertising 
+
+Our other primary initiative, which is also
+linked to our local search platform, is to help local SMBs acquire, maintain and retain customers using technology and the Internet.
+We aim to drive traffic to our subscribers websites using such techniques as search engine optimization, social media, and
+customer-driven marketing. 
+
+In addition to the design, development and
+deployment of our subscribers business listings and profiles on our local search directories, we provide our customers with
+an array of services designed to promote, control and enhance their corporate identity and brand management. We specialize in providing
+a comprehensive suite of online marketing and branding solutions, including search engine marketing, display advertising, Web presence,
+and online media and social networking products that allow our SMB clients to control and increase their online exposure and identity
+over websites that cover over 95 of all U.S.-based Internet traffic, including Google, Yahoo!, Bing, Facebook and Twitter. We
+design, develop and deploy custom-built search engine optimized business websites for our subscribers and help to manage the site
+content and site design. We can also design online pay-per-click campaigns for our subscribers, based upon our access to expertise
+in the area of analyzing and creating relevant keyword and content driven search engine optimized ad campaigns. Utilizing our expertise
+in the areas of search engine optimization and search engine marketing services, which can be a confusing and complicating space,
+we can typically drive improved results while saving our subscribers money. 
+
+We also assist in the management of our subscribers 
+online identity, Internet presence and brand by utilizing a mix of proprietary techniques and third party software products to
+scan, claim and repair business listings and reviews on hundreds of websites across the Internet, specifically Google, Yahoo and
+Bing which collectively, account for the vast majority of local search traffic. 
+
+Competition 
+
+The market for local online advertising solutions
+is intensely competitive and rapidly changing, and with the introduction of new technologies and market entrants, we expect competition
+to intensify in the future. Many of our current and potential competitors enjoy substantial competitive advantages, such as greater
+name recognition, longer operating histories and larger marketing budgets, as well as substantially greater financial, technical
+and other resources. In addition, many of our current and potential competitors have established marketing relationships and access
+to larger customer bases. 
+
+Our competitors include: 
+
+Internet Marketing Providers . Our
+main, direct competitors include national Internet marketing companies such as Reach Local, Inc. and Yodle, Inc., smaller Internet
+marketing companies located in local markets around the United States, and online directories and city guides, such as Yellowpages.com.
+Our other competitors, to a lesser degree, include the major search engines, Google, Inc., Yahoo!, Inc., and Microsoft Corporation s
+Bing, however, we do not compete on the same scale as those search engines or for the same target audience. Certain of these providers
+offer their products and services to SMBs through online-only, self-service platforms which can be appealing to certain SMBs. We,
+however, believe there are a significant number of SMBs, that are generally disinclined to purchase online advertising via self-service
+platforms, and we provide a valuable service by connecting these large Internet marketing providers with SMBs. We believe that
+SMBs will continue to enter into the local advertising market, especially in terms of local search, and we are able to provide
+product offerings that appeal specifically to these types of clients and their unique needs. Although we currently pursue a strategy
+that allows us to partner with a broad range of websites and search engines, our current and future partners may view us as a threat
+to their own local advertising services. We believe that the principal competitive factors in our local advertising market are
+network size, revenue sharing agreements, services, convenience, accessibility, customer service, quality of tools, quality of
+editorial review and reliability and speed of fulfillment of advertising needs and requirements across the Internet infrastructure. 
+
+Traditional, Offline Media Companies. 
+We also compete with other online advertising services as well as traditional offline media such as television, radio and print,
+for a share of businesses total advertising budgets. We compete with these companies on the basis of the strength and breadth
+of our technology platform and product offering and our focus exclusively on Internet advertising. Many of our competitors have
+longer operating histories, larger customer bases, greater brand recognition and significantly greater financial, marketing and
+other resources than we do. Our competitors may secure more favorable revenue sharing agreements, devote greater resources to marketing
+and promotional campaigns, adopt more aggressive growth strategies and devote substantially more resources than we can. 
+
+Other SMB Marketing Providers. 
+We also compete with technology companies providing online marketing platforms focused on the SMB market such as Angie s
+List and Yelp, as well as newer market entrants, such as Groupon and LivingSocial, which are actively focused on new forms of online
+marketing solutions for SMBs and in some cases building significant direct sales forces. 
+
+6 
+
+The local online search market is still relatively
+new, and as a result, it is difficult to determine our current market share, or predict our future market share. However, we have
+a number of competitors with greater experience and resources than we have, including Google, Yahoo and Microsoft, among many others,
+that have announced an intention to increase their focus on local search with regard to U.S. online advertising. 
+
+Additionally, larger companies may implement
+technologies into their search engines or software that make it less likely that consumers will reach, or execute searches on,
+TheDirectory.com and less likely to access our subscribers sponsored listings. If we are unable to successfully compete
+against current and future competitors, our operating results will be adversely affected. 
+
+Sales and Marketing 
+
+As of April 7, 2015, we employed a total of
+8 full-time sales representatives. We are seeking to hire additional sales representatives. 
+
+We primarily advertise our products and
+services on other search engine websites, such as google.com, yahoo.com and bing.com, by bidding on certain keywords which we believe
+will drive consumers to TheDirectory.com website. During the year ended November 30, 2014, approximately 55 of the traffic on
+TheDirectory.com website and our network of vertical directories was acquired through Search Engine Marketing, or SEM, campaigns
+on Google. The remaining traffic was generated organically via search engine optimization. During the year ended November 30, 2014,
+advertising costs to drive consumers to TheDirectory.com network of websites was 476,464. We depend on the advertising we do with
+other search engines, especially Google, to drive consumers to TheDirectory.com website in order to generate revenue from consumer
+searches and other actions they may undertake while at TheDirectory.com. If we were unable to advertise on Google, or if the cost
+to advertise on these websites increases, our financial results will suffer. While our strategy is to grow our organic traffic
+through repeat usage, better content, and increased search engine optimization efforts, we cannot guarantee that these efforts
+will be successful or that we will not remain dependent on advertising with other search engines to secure the large majority of
+consumers who visit TheDirectory.com. 
+
+We also receive referrals from existing clients,
+participate in tradeshows, and sent out targeted email campaigns to potential and past clients. 
+
+Significant Customers 
+
+We primarily sell our products and services
+to SMBs, advertisers focused on the local market, agencies and resellers. During the year ended November 30, 2014, one customer
+represented 65 of our net revenues. During the year ended November 30, 2013, this customer represented 15 of our net revenues.
+No other customer accounted for more than 10 of our net revenue. 
+
+Research and Development 
+
+Our research and development efforts are focused
+on developing new services and enhancing our existing services to provide additional features and functionality that we believe
+will appeal to our subscribers and consumers. Namely, we have incurred significant expenses in redesigning the user interface of
+www.TheDirectory.com. During the years ended November 30, 2014 and 2013, our research and development expenses were 37,023 and
+ 11,115, respectively. None of these expenses were borne by our customers. 
+
+Intellectual Property 
+
+Our success and ability to compete in the local
+search market sector is dependent in part on our ability to develop and maintain the proprietary aspects of our technology and
+operate without infringing upon the proprietary rights of others. We rely primarily on a combination of copyright, trade secret
+and trademark laws, confidentiality procedures, contractual provisions and other similar measures to protect our proprietary technology
+and information. 
+
+On an ongoing basis, we consider trademark
+registration for some of our product names, slogans and logos in the United States. Our registered U.S. trademarks include: TheDirectory.com 
+and Hyper Local. We may claim trademark rights in and apply for registrations in the United States for a number of
+other marks. As a local search company, Internet domain names for our websites are crucial to the success of our business. We own
+over 2,000 domain names, including: 
+
+www.TheDirectory.com ; 
+ 
+ www.Chiropractor.net ; 
+ 
+ www.Podiatrist.net ; 
+ 
+ www.Therapists.net ; 
+ 
+ www.Dietitians.net ; 
+ 
+ www.DentistAppointments.com ; 
+ 
+ www.HelloLocal.com ; and 
+ 
+ www.HelloOperator.com . 
+
+7 
+
+Government Regulation 
+
+We are subject to a variety of laws and regulations
+in the United States that involve matters central to our business, including user privacy, rights of publicity, data protection,
+content, intellectual property, distribution, electronic contracts and other communications, competition, protection of minors,
+consumer protection, taxation, and online payment services. Likewise, all but a few states have laws in place requiring companies
+to notify users if there is a security breach that compromises certain categories of their information. These U.S. federal and
+state laws and regulations are constantly evolving and can be subject to significant change. In addition, the application and interpretation
+of these laws and regulations are often uncertain. These laws and regulations could have a significant impact on online advertising
+services depending on how these laws and regulations are interpreted and enforced. It is also clear that the laws and regulations
+intend to regulate behavioral targeting, the availability of which could become highly limited are eliminated entirely. 
+
+In addition, a number of proposals are pending
+before federal and state legislative and regulatory bodies that could significantly affect our business. For example, there have
+been a number of recent legislative proposals in the United States, at both the federal and state level, that would impose new
+obligations in areas such as privacy, data protection and data breach notifications. Some of the proposed changes to U.S. law could
+require that we obtain prior consent before using cookies or other tracking technologies or provide a do not track 
+mechanism in certain circumstances. These existing and proposed laws and regulations can be costly to comply with and can delay
+or impede the development of new products, result in negative publicity, increase our operating costs, require significant management
+time and attention, and subject us to claims or other remedies, including fines or demands that we modify or cease existing business
+practices. 
+
+We receive, store and process personal information
+and other user data, including credit card information for certain users. There are numerous federal, state and local laws regarding
+privacy and the storing, sharing, use, processing, disclosure and protection of personal information and other user data, the scope
+of which are changing, subject to differing interpretations, and may be inconsistent between countries or conflict with other rules.
+It is possible that these obligations may be interpreted and applied in a manner that is inconsistent from one jurisdiction to
+another and may conflict with other rules or our practices. Any failure or perceived failure by us to comply with our privacy policies,
+our privacy-related obligations to users or other third parties, or our privacy-related legal obligations, or any compromise of
+security that results in the unauthorized release or transfer of personally identifiable information or other user data, may result
+in governmental enforcement actions, litigation or negative publicity and could cause our advertisers to lose trust in us, which
+could have an adverse effect on our business. Additionally, if third parties with whom we work, such as our publishers or our providers
+of telephony services, violate applicable laws or our policies, such violations may also put our users information at risk
+and could have an adverse effect on our business. 
+
+We are subject to general business regulations
+and laws as well as regulations and laws specifically governing the Internet. Existing and future laws and regulations may impede
+the growth in use of the Internet and online services. The application of existing laws to the Internet and online services governing
+issues such as property ownership, sales and other taxes, libel and personal privacy has not yet been settled. Unfavorable resolution
+of these issues may substantially harm our business and operating results. Other laws and regulations that have been adopted, or
+may be adopted in the future, that may affect our business include those covering user privacy, data protection, spyware, do
+not email lists, access to high speed and broadband service, pricing, taxation, tariffs, patents, copyrights, trademarks,
+trade secrets, export of encryption technology, electronic contracting, click-fraud, acceptable content, search terms, lead generation,
+behavioral targeting, consumer protection, and quality of products and services. Any changes in regulations or laws that hinder
+growth of the Internet generally or that decrease the acceptance of the Internet as a communications, commercial and advertising
+medium could adversely affect our business. 
+
+Our Employees 
+
+At November 30, 2014, we employed a total of
+fourteen employees in the United States, all of which were full-time. We also contract with certain outsourced vendors for programming,
+graphic design and sales-related activities. We are not a party to any collective bargaining agreements. We believe our relations
+with our employees are good. 
+
+Available Information 
+
+Our website is located at www.thedirectory.com,
+and our corporate website is located at www.thedirectory.net. We make available on our website, free of charge, copies of our annual
+reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports, as applicable
+and as soon as reasonably practicable after we electronically file or furnish such materials to the Securities and Exchange Commission.
+Our website and the information contained therein or connected thereto are not intended to be incorporated into this registration
+statement. 
+
+You may also read and copy any materials we
+file with the SEC at the SEC s Public Reference Room, located at 100 F Street, N.E., Washington, DC 20549. Information on
+the operation of the Public Reference Room may be obtained by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet
+site that contains reports, proxy and information statements, and other information regarding issuers that file electronically
+with the SEC at http://www.sec.gov. 
+
+8 
+
+ITEM 1A. Risk Factors. 
+
+Risks Related to Our Business 
+
+Our November 30, 2014 financial statements
+include disclosure that casts substantial doubt regarding our ability to continue as a going concern. 
+
+As reflected in our financial
+statements, we had an accumulated deficit of 9,497,316 as of November 30, 2014, and a net loss for the period ended November 30,
+2014 of 1,096,714. These factors raise substantial doubt about our ability to continue as a going concern. Our financial statements
+do not include any adjustments related to the recoverability and classification of recorded asset amounts or the amounts and classification
+of liabilities that might be necessary should we be unable to continue as a going concern, pursuant to Accounting Standards Update
+No. 2014-15, Presentation of Financial Statements Going Concern (Subtopic 205-40): Disclosure of Uncertainties about
+an Entity s Ability to Continue as a Going Concern. Our financial statements have been prepared assuming that we will continue
+as a going concern, which contemplates continuity of operations, realization of assets, and liquidation of liabilities in the normal
+course of business. We attempt to further implement and expand our business plan to generate sufficient revenue; however, our cash
+position may not be sufficient to support our daily operations if revenue does not grow to levels to support ongoing expenses.
+Our management believes in the viability of our business plan to expand operations and generate sufficient revenue and in our ability
+to raise additional funds by way of a public or private offering. There can be no assurances to that effect. Our ability to continue
+as a going concern depends on our ability to further implement our business plan and generate sufficient revenue, profits and our
+ability to raise additional funds by way of a public or private offering, which include the raising of capital through debt and/or
+equity markets, with some additional funding from other traditional financing sources, including term notes. We may need to incur
+additional liabilities with certain related parties to sustain the Company s existence. There can be no assurance that we
+will be able to raise any additional capital. If we are unable to secure additional capital, we may be required to curtail our
+operations and take additional measures to reduce costs in order to conserve our cash in amounts sufficient to sustain operations
+and meet our obligations. These measures could cause significant delays in our efforts to implement our business plan. These matters
+raise substantial doubt about our ability to continue as a going concern. 
+
+We are in default of the terms of our credit facility with
+TCA 
+
+On October 1, 2013 we obtained 1.3 million
+in cash from TCA under a new 5 Million credit facility. In September of 2014, we restructured our agreement with TCA under new
+terms that envisioned TCA converting debt payments into shares of our common stock at a discount rate much lower than we could
+obtain elsewhere. Since the restructuring in September of 2014, our share price has declined and TCA has notified us that they
+do not plan to convert the debt payments into shares under the discount rate (15 described in our agreement and will require
+us to make monthly cash payments. We are behind on the cash payments to TCA and are therefore in technical default on the notes.
+We are actively working to resolve the situation with TCA as soon as possible, however, there can be no guarantee of the outcome
+at this time. The credit facility is secured by our tangible and intangible assets. If TCA were unable to collect the balance on
+the facility from us, it could repossess the collateral used to secure the facility. This could materially affect our operations
+and financial results. 
+
+Our limited operating capital could result
+in us not being able to execute our business plan, thereby preventing our company from reaching profitability and expanding. 
+
+We
+are a relatively young company and our proposed operations are impacted by the risks inherent in a company specializing in local
+search and SMB online advertising solutions. The likelihood of our success must be considered in light of the problems, expenses,
+difficulties, complications, and delays frequently encountered in connection with the development of a business in competitive
+industries and multiple economies. The growth of our business will require significant additional investment. We do not presently
+have adequate cash from operations or financing activities to meet our plan of operations for the next twelve months our long-term
+needs. Additional capital will be needed for long-term growth. If we are unable to raise additional capital in the future, our
+business may fail and we will not grow as quickly as planned. Our
+ability to continue as a going concern depends on our ability to further implement our business plan and generate sufficient revenue,
+profits and our ability to raise additional funds by way of a public or private offering, which include the raising of capital
+through debt and/or equity markets, with some additional funding from other traditional financing sources, including term notes.
+If additional shares are issued to raise capital, our existing stockholders will suffer a dilution of their stock ownership and
+the value of our outstanding shares may fall. If we borrow more money, we will have to pay interest and may also have to agree
+to restrictions that limit our operating flexibility. We have no commitments for additional financing and there can be no assurance
+that additional funds will be available when needed, or on terms acceptable to us, if at all. If adequate funds are not available
+we may be required to change our planned business strategies. If we are unable to obtain adequate financing, we may not be able
+to successfully develop and market our products and services. As a result, we would need to curtail business operations which would
+have a material negative effect on operating results, the value of our outstanding stock is likely to fall, and our business may
+fail causing our stockholders to lose their entire investment. 
+
+We have experienced rapid growth in an
+emerging market and have a limited operating history, which may make it difficult to evaluate our current business and future prospects. 
+
+We commenced operations in late 2010 as an
+online local search and directory company and have only a limited operating history in the industry, which may make our current
+business and future prospects difficult to evaluate. We have developed a strategy for taking advantage of what we believe is a
+shift of local marketing budgets from traditional media formats to digital media formats and our strategy allowed us to grow rapidly.
+Recently, however, due to the need to upgrade our core local search platform and user interface, our growth rate has slowed and
+although we have plans to increase our growth, we cannot assure you that our strategy will be successful and that we will be able
+to increase or stabilize our growth rate. You must consider our business and prospects in light of the risks and difficulties we
+encounter as an early stage company in the new and rapidly evolving online marketing industry. These risks and difficulties include: 
+
+9 
+
+maintaining the effectiveness of The Directory.com
+network, and adapting our technology to new market opportunities and challenges; 
+
+competition from existing and new competitors; 
+
+reaching and maintaining profitability; 
+
+our limited number of product offerings
+and services and risks associated with developing and selling new product offerings; 
+
+continuing to attract new SMB clients,
+many of whom have not previously advertised online and may not understand the value to their businesses of our products and services;
+and 
+
+successfully entering new markets. 
+
+Failing to successfully address these challenges
+or others could significantly harm our business, financial condition, results of operations and liquidity. 
+
+We have incurred significant operating
+losses in the past and may incur significant operating losses in the future. 
+
+As of November 30, 2014, we had an accumulated
+deficit of 9,497,316. We believe our operating expenses will increase in the future as we expand our operations. If our revenue
+does not grow to offset these increased expenses, we will not be profitable. We also expect that a variety of factors, including
+increased competition and the maturation of our business, may cause our revenue growth rate to decline in the future, and we cannot
+assure you that our revenue will continue to grow or will not decline. As a result, you should not consider our historical revenue
+growth as indicative of our future performance. Furthermore, if our operating expenses exceed our expectations, our financial performance
+will be adversely affected. 
+
+If we do not have the resources necessary
+to manage growth effectively our business, operating results and financial condition could be materially adversely affected. 
+
+We believe that as our business plan is more
+fully realized, we may experience a period of rapid growth that will result in new and increased responsibilities for management
+personnel and will place a significant strain upon our management, operating and financial systems and resources. To accommodate
+any rapid growth and to compete effectively and manage future growth, if any, we will be required to implement and improve our
+operational, financial and management information systems, procedures and controls on a timely basis and to expand, train, motivate
+and manage our workforce. Our personnel, systems, procedures and controls might not be adequate to support our existing and future
+operations. Any failure to implement and improve our operational, financial and management systems or to expand, train, motivate
+or manage employees could have a materially adverse effect on our business, operating results and financial condition. 
+
+The market for Internet and local search
+advertising services is in the early stages of development, and if the market for our services decreases it will have a material
+adverse effect on our business, prospects, financial condition and results of operations. 
+
+Internet marketing and advertising, in general,
+and paid-search, in particular, are in the early stages of development. Our future revenue and profits are substantially dependent
+upon the continued widespread acceptance, growth, and use of the Internet and other online services as effective advertising mediums.
+Many of the largest advertisers have generally relied upon more traditional forms of media advertising and have only limited experience
+advertising on the Internet. Local search, in particular, is still in an early stage of development and may not be accepted by
+consumers for many reasons including, among others, that consumers may conclude that local search results are less relevant and
+reliable than non-paid-search results, and may view paid-search results less favorably than search results generated by non-paid-search
+engines. If consumers reject our paid-search services, or commercial use of the Internet generally, and the number of click-throughs
+on our sponsored listings decreases, the commercial utility of our search services could be adversely affected which could have
+a material adverse effect on our business, prospects, financial condition and results of operations. 
+
+The loss of our chief executive officer
+could adversely affect our operations and financial performance. 
+
+Our success is heavily dependent upon the continued
+active participation of our Chief Executive Officer, Scott Gallagher. Mr. Gallagher s efforts are critical to us as we continue
+to develop our business strategy and product offerings. If we were to lose Mr. Gallagher, we would have difficulty replacing him
+in a timely manner with an individual who has an equivalent level of experience. Ultimately, the departure of Mr. Gallagher would
+likely affect our daily operations, the implementation of business strategies, and our financial performance. 
+
+Our Chief Executive Officer owns, beneficially
+and in the aggregate, the majority of the voting power of the outstanding shares of our capital stock. Therefore, he has the ability
+to control the approval of most corporate actions. 
+
+Our Chief Executive Officer owns, beneficially
+and in the aggregate, the majority of the voting power of the outstanding shares of the capital stock of our Company. Accordingly,
+our Chief Executive Officer has the ability to control the approval of most corporate actions, including increasing our authorized
+capital stock and the dissolution, merger or sale of our assets or business. 
+
+10 
+
+We purchase a significant majority of
+our media from Google, Microsoft and Yahoo! in an auction marketplace. If we are unable to purchase media from any one of these
+companies, if prices for media significantly increase or if the manner in which the media is sold changes, our business could be
+adversely affected. 
+
+Our success depends on our ability to purchase
+media from Google, Microsoft and Yahoo! at reasonable prices so that we can provide our clients with a reasonable return on the
+advertising expenditures they incur through us. We generally purchase this media in an auction marketplace. Increased competition
+or other factors may cause the cost of the media that we purchase from Google, Yahoo! and Microsoft to rise. In particular, if
+our expectation that local SMB advertising will increasingly migrate to the Internet is correct, the marketing budget available
+to bid in these auctions will increase and the price of media may increase substantially. An increase in the cost of media in these
+marketplaces without a corresponding increase in our media buying efficiency could result in an increase in our cost of revenue
+as a percentage of revenue even if our business expands. In addition, such an increase could result in an increase in the prices
+we must charge our clients or a decrease in our ability to fulfill our clients service expectations. Furthermore, the Internet
+search companies that operate these media marketplaces may change the operating rules or bidding procedures in ways that decrease
+the effectiveness of the technology that we use to optimize our purchases or otherwise prevent us from purchasing media at reasonable
+prices or at all. Any change in our ability to provide effective online marketing campaigns to our clients may adversely affect
+our ability to attract and retain clients. 
+
+If we do not deliver quality traffic
+that delivers value for advertisers, then our advertisers and our advertising partners may pay us less for their listing or discontinue
+listings with us altogether. 
+
+For our services to be successful, we need
+to deliver consumers to advertisers websites that are valuable to such advertiser. If we do not meet advertisers 
+expectations by delivering quality traffic, then our advertising partners may pay us less per click or cease doing business with
+us altogether, which may adversely affect our business and financial results. We compete with other web search services, online
+publishers and high-traffic websites, as well as traditional media such as television, radio and print, for a share of our advertisers 
+total advertising expenditures. Many potential advertisers and advertising agencies have only limited experience advertising on
+the Internet and have not devoted a significant portion of their advertising expenditures to paid-search. Acceptance of our advertising
+offerings among our advertisers and advertising partners will depend, to a large extent, on its perceived effectiveness and the
+continued growth of commercial usage of the Internet. If we experience downward pricing pressure for our services in the future,
+our financial results may suffer. 
+
+The market in which we participate is
+intensely competitive, and if we do not compete effectively, our operating results could be harmed. 
+
+The market for local online advertising solutions
+is intensely competitive and rapidly changing, and with the emergence of new technologies and market entrants, we expect competition
+to intensify in the future. 
+
+Our competitors include: 
+
+Internet Marketing Providers. We
+compete with large Internet marketing providers such as Google, Yahoo! and Microsoft. These providers typically offer their products
+and services through disparate, online-only, self-service platforms. 
+
+Traditional, Offline Media Companies. 
+We compete with traditional yellow page, newspaper, television and radio companies that, in many cases, have large, direct sales
+forces. 
+
+Other SMB Marketing Providers. 
+We also compete with technology companies providing online marketing platforms focused on the SMB market such as Angie s
+List and Yelp, as well as new market entrants, such as Groupon and LivingSocial, which are actively focused on new forms of online
+marketing solutions for SMBs and, in some cases, building significant direct sales forces. 
+
+Many of our current and potential competitors
+enjoy substantial competitive advantages, such as greater name recognition, longer operating histories, and substantially greater
+financial, technical and other resources and, in some cases, the ability to combine their online marketing products with traditional
+offline media such as newspapers or the Yellow Pages. These companies may use these advantages to offer products similar to ours
+at a lower price, develop different products to compete with our current solutions and respond more quickly and effectively than
+we can to new or changing opportunities, technologies, standards or client requirements. In particular, if major Internet search
+companies such as Google, Yahoo! and Microsoft decide to devote greater resources to develop and market online advertising offerings
+directly to SMBs, greater numbers of our clients and potential clients may choose to purchase online advertising services directly
+from these competitors, particularly if and as the ease of their self-service models increases. In addition, many of our current
+and potential competitors have established marketing relationships with and access to larger client bases and are heavily investing
+in recruiting sales personnel, while we have a small in- house sales force and rely primarily on commissioned sales professionals
+to sell our products and services. 
+
+As the market for local online advertising
+increases, we expect new competitors, business models and solutions to emerge, some of which may be superior to ours. We also believe
+that the marketplace for online media is more transparent than other media marketplaces. Our competitors may use information available
+to them to price their products at a discount to the prices that we currently offer. Clients and potential clients might adopt
+competitive products and services in lieu of purchasing our solutions, even if our online marketing and reporting solutions are
+more effective than those offered by our competitors, if we are not able to differentiate our products and convince clients that
+our products are more effective that our competitors offerings. For all of these reasons, we may not be able to compete
+successfully against our current and potential competitors. 
+
+11 
+
+Our future success depends in part on
+our ability to effectively develop and sell additional products, services and features. 
+
+We invest in the development of new products
+and services targeted toward SMBs with the expectation that we will be able to effectively offer them to our clients. We plan to
+develop or potentially acquire other products and services that address new segments of an SMB s marketing activities. Our
+future revenue depends in part on our ability to stay competitive with our product and service offerings. Our ability to develop
+and launch new products on our expected timelines, or at all, is subject to numerous risks and uncertainties, such as the difficulties
+of designing complex software products, achieving desired functionality and integrating the new products with our existing technology. 
+
+The sale of new or additional features, products
+and services, the value or utility of which may be different from our current products and services or less easily understood by
+our clients, may require increasingly sophisticated and costly sales efforts and increased operating expenses, as well as education
+for our SMB clients. New product launches require the investment of resources in advance of any revenue generation. If new products
+fail to achieve market acceptance, we may never realize a return on this investment. If these efforts are not successful, our business
+may suffer. Further, many SMBs have modest advertising budgets. Accordingly, we cannot assure you that the successful introduction
+of new products or services will not adversely affect sales of our current products and services or that our SMB clients will increase
+their aggregate spending as a result of the introduction of new products and services. 
+
+The impact of worldwide economic conditions,
+including the resulting effect on our clients advertising budgets, may adversely affect our business, operating results
+and financial condition. 
+
+Our performance is subject to worldwide economic
+conditions and their impact on levels of advertising. We believe that the economic conditions remain challenging, and such conditions
+have adversely affected our business. To the extent that economic difficulties continue, or worldwide economic conditions materially
+deteriorate, our existing and potential clients may no longer consider investment in our online marketing solutions a necessity,
+or may elect to reduce or eliminate advertising budgets. Historically, economic downturns have resulted in overall reductions in
+advertising spending. In particular, local online advertising solutions may be viewed by some of our existing and potential clients
+as a lower priority and may be among the first expenditures reduced as a result of unfavorable economic conditions. These developments
+could cause us to respond by temporarily reducing hiring or taking other measures and could have an adverse effect on our business,
+operating results and financial condition. 
+
+If we fail to increase the number of
+our clients or retain existing clients, our revenue and our business will be harmed. 
+
+Our ability to grow our business depends in
+large part on maintaining and expanding our client base. To do so, we must convince prospective clients of the benefits of TheDirectory
+network and existing clients of the continuing value of our products and services. The local search directory industry is relatively
+new and rapidly evolving, and many prospective clients may not be familiar with the benefits of online marketing. These businesses
+may generally favor using more traditional methods of local advertising, such as newspapers or print yellow pages directories.
+In addition, as the online media options for SMBs proliferate, including certain self-service options offered through Google, and
+our clients become more familiar with such options, we cannot assure you that we will be successful in maintaining or expanding
+our client base. SMB marketing and advertising campaigns are often sporadic and difficult to predict, as they may be driven by
+seasonal promotions or business dynamics, evolving product and service offerings, available budgets and other factors. Some SMBs
+advertise only periodically, such as to promote sales or special offers. Because we need to address these business considerations
+of our clients, we do not require clients to enter into long-term obligations to purchase our products and services and most of
+our contracts are month to month any contract would be for one year with a renewal option. The nature of the business is such that
+some clients do not renew their campaigns. We must continually add new clients both to replace clients who choose not to renew
+their advertising campaigns and to grow our business beyond our current client base. A client s decision not to renew may
+be based on a number of factors, including dissatisfaction with our products and services, inability to continue operations and
+spending levels or because their campaigns were event-driven or otherwise intentionally limited in scope or duration. If our clients
+increasingly fail to fulfill their contracts or increasingly do not renew their advertising campaigns with us, or if we are unable
+to attract new clients in numbers greater than the number of clients that we lose, our client base will decrease and our business,
+financial condition and operating results will be adversely affected. 
+
+Growth may place significant demands
+on our management and our infrastructure. 
+
+We have experienced substantial growth in our
+business since our inception in 2010. This growth has placed and may continue to place significant demands on our management and
+our operational and financial infrastructure. As our operations grow in size, scope and complexity, we will need to improve and
+upgrade our systems and infrastructure to offer an increasing number of clients enhanced solutions, features and functionality.
+The expansion of our systems and infrastructure will require us to commit substantial financial, operational and technical resources
+in advance of an increase in the volume of business, with no assurance that the volume of business will increase. Continued growth
+could also strain our ability to maintain reliable service levels for our clients, develop and improve our operational, financial
+and management controls, enhance our reporting systems and procedures and recruit, train and retain highly skilled personnel. Managing
+our growth will require significant expenditures and allocation of valuable management resources. If we fail to maintain the necessary
+level of discipline and efficiency in our organization as it grows, our business, operating results and financial condition would
+be harmed. 
+
+12 
+
+Client complaints or negative publicity
+about our customer service or other business practices could adversely affect our reputation and brand. 
+
+Client complaints or negative publicity about
+our technology, personnel or customer service could severely diminish confidence in and the use of our products and services. Effective
+customer service requires significant personnel expense, and this expense, if not managed properly, could significantly impact
+our operating results. Moreover, failure to provide our clients with high-quality customer experiences for any reason could substantially
+harm our reputation and our brand and adversely affect our efforts to develop as a trusted provider of online marketing and reporting
+solutions for the SMB market. 
+
+Rapid technological changes may render
+our online marketing and reporting solutions obsolete or decrease the attractiveness of our solutions to our clients. 
+
+To remain competitive, we must continue to
+enhance and improve the functionality and features of TheDirectory network. The Internet, access to the Internet and the online
+marketing and advertising industry are rapidly changing. Our competitors are constantly developing new products and services in
+online marketing and advertising. As a result, we must continue to invest significant resources in order to enhance our existing
+products and services and introduce new products and services that clients can easily and effectively use. If competitors introduce
+new solutions embodying new technologies, or if new industry practices emerge, our existing technology may become obsolete. Our
+future success will depend on our ability to: 
+
+enhance our existing solutions; 
+
+develop or acquire via partnerships, new
+solutions and technologies that address the increasingly sophisticated and varied needs of our prospective clients; and 
+
+respond to technological advances and
+emerging industry practices on a cost-effective and timely basis. 
+
+Developing our online marketing and reporting
+solutions and the underlying technology entail significant technical and business risks. We may use new technologies ineffectively,
+or we may fail to adapt our network infrastructure to client requirements or emerging industry practices. If we face material delays
+in introducing new or enhanced solutions, our clients may forego the use of our solutions in favor of those of our competitors. 
+
+We may require additional capital to
+respond to business opportunities, challenges, acquisitions or unforeseen circumstances. If capital is not available to us, our
+business, operating results and financial condition may be harmed. 
+
+We may require additional capital to operate
+or expand our business. In addition, some of the product development initiatives we have in the early stages of development may
+require substantial additional capital resources before they begin to generate material revenue. Additional funds may not be available
+when we need them, on terms that are acceptable to us, or at all. Any debt financing secured by us in the future could involve
+restrictive covenants relating to our capital raising activities and other financial and operational matters, which may make it
+more difficult for us to obtain additional capital and to pursue business opportunities, including potential acquisitions. If we
+do not have funds available to enhance our solutions, maintain the competitiveness of our technology or pursue business opportunities,
+we may not be able to service our existing clients or acquire new clients, which could have an adverse effect on our business,
+operating results and financial condition. 
+
+We expect a number of factors to cause
+our operating results to fluctuate on a quarterly and annual basis, which may make it difficult to predict our future performance. 
+
+Our revenue and operating results could vary
+significantly from quarter-to-quarter and year-to-year because of a variety of factors, many of which are outside of our control.
+As a result, comparing our operating results on a period-to-period basis may not be meaningful. In addition to other risk factors
+discussed in this section, factors that may contribute to the variability of our quarterly and annual results include: 
+
+seasonal variations in our clients 
+advertising budgets and media pricing; 
+
+the rate at which SMBs migrate their advertising
+spending to online offerings, including our offerings; 
+
+the timing and stage of product and technology
+development; 
+
+our ability to develop, introduce and
+manage consumer-facing products and services; 
+
+our ability to accurately forecast revenue
+and appropriately plan our expenses; 
+
+the attraction and retention of qualified
+employees and key personnel; 
+
+13 
+
+the effectiveness of our internal controls; 
+
+our ability to effectively manage our
+growth; 
+
+our ability to successfully manage any
+future acquisitions of businesses, solutions or technologies; 
+
+interruptions in service and any related
+impact on our reputation; 
+
+the effects of natural or man-made catastrophic
+events; and 
+
+changes in government regulation affecting
+our business. 
+
+As a result of these and other factors, the
+results of any prior quarterly or annual periods should not be relied upon as indications of our future operating performance.
+In addition, our operating results may not meet the expectations of investors. 
+
+Risk Factors Related to Third Party Relationships 
+
+We are dependent on third-party products,
+services and technologies; changes to existing products, services and technologies or the advent of new products, services and
+technologies could adversely affect our business. 
+
+Our business is dependent upon our ability
+to use and interact with many third-party products, services and technologies, such as browsers, data and search indices, and privacy
+software. Any changes made by third parties or consumers to the settings, features or functionality of these third-party products,
+services and technologies or the development of new products, services and technologies that interfere with or disrupt our products,
+services and technologies could adversely affect our business. For instance, if a major search index were to alter its algorithms
+in a manner that resulted in our content not being indexed as often or appearing as high in its search results, our consumers might
+not be able to reach and use our content, products and services and our business could be adversely affected. Similarly, if more
+consumers were to switch their browsers to higher security settings to restrict the acceptance of cookies from the websites they
+visit, our ability to effectively use cookies to track consumer behavior in our business could be impacted and our business could
+be adversely affected. 
+
+Our ability to deliver reporting and
+tracking solutions to our clients depends upon the quality, availability, policies and prices of third- party call tracking providers. 
+
+We rely on third parties to provide our call
+tracking and recording services. In the event our primary current provider were to terminate our relationship or stop providing
+these services, our ability to provide our tracking services could be impaired. We may not be able to find an alternative provider
+in time to avoid a disruption of our services or at all, and we cannot be certain that such provider s services would be
+compatible with our products without significant modifications or cost, if at all. The failure of all or part of our tracking services
+could result in a loss of clients and associated revenue and could harm our results of operations. 
+
+We rely on bandwidth providers, data
+centers and other third parties for key aspects of the process of providing online marketing solutions to our clients, and any
+failure or interruption in the services provided by these third parties could harm our ability to operate our business and damage
+our reputation. 
+
+We rely on third-party vendors, including a
+data center, software as a service, cloud computing Internet infrastructure and bandwidth providers. Any disruption in the services
+provided by these third-party providers or any failure of these third-party providers to handle current or higher volumes of use
+could significantly harm our business. Any financial or other difficulties our providers face may have negative effects on our
+business, the nature and extent of which we cannot predict. We exercise little control over these third-party vendors, which increases
+our vulnerability to problems with the services they provide. We have experienced and expect to continue to experience interruptions
+and delays in service and availability for such elements. Any errors, failures, interruptions or delays experienced in connection
+with these third-party technologies and information services could negatively impact our relationship with our clients and adversely
+affect our brand and our business and could expose us to liabilities to third parties. 
+
+Failure to adequately protect our intellectual
+property could substantially harm our business and operating results. 
+
+Because our business is heavily dependent on
+our intellectual property, particularly as it pertains to Internet website domain registration, the protection of our intellectual
+property rights is crucial to the success of our business. We rely on a combination of intellectual property rights, including
+trade secrets, copyrights and trademarks, to safeguard our intellectual property. These rights afford only limited protection.
+Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to copy aspects of our online marketing
+and reporting solutions, technology, software and functionality or obtain and use information that we consider proprietary. Our
+proprietary technology is not currently protected by any issued patents, and policing our rights to such technology may, therefore,
+be difficult. 
+
+14 
+
+We have registered TheDirectory.com 
+and Hyper Local as trademarks in the United States. Also, trademark protection may not be available, or sought by
+us, in every country in which our technology and products are available online. Competitors may adopt service names similar to
+ours, or purchase our trademarks and confusingly similar terms as keywords in Internet search engine advertising programs, thereby
+impeding our ability to build brand identity and possibly leading to client confusion. In addition, there could be potential trade
+name or trademark infringement claims brought by owners of other registered trademarks or trademarks that incorporate variations
+of the term TheDirectory.com or our other trademarks. 
+
+Litigation or proceedings before the U.S. Patent
+and Trademark Office or other governmental authorities and administrative bodies in the United States and abroad may be necessary
+in the future to enforce our intellectual property rights, to protect our patent rights, trade secrets and domain names and to
+determine the validity and scope of the proprietary rights of others. Our efforts to enforce or protect our proprietary rights
+may be ineffective and could result in substantial costs and diversion of resources and could substantially harm our operating
+results. 
+
+We rely on third-party technology, server
+and hardware providers, and a failure of service by any of these providers could adversely affect our business and reputation. 
+
+We rely upon third-party data center providers
+to host our main servers and expect to continue to do so. These systems and operations are vulnerable to damage or interruption
+from human error, floods, fires, power loss, telecommunication failures and similar events. They are also subject to computer viruses,
+break-ins, sabotage, phishing attacks, attempts to overload our servers with denial of service or other attacks, intentional acts
+of vandalism and similar misconduct. Despite any precautions we may take, the occurrence of any disruption of service due to any
+such misconduct, natural disaster or other unanticipated problems at such facilities, or the failure by such facility to provide
+our required data communications capacity could result in lengthy interruptions or delays in our services. Any system failure or
+network disruption that causes an interruption or delay in service could impair our reputation, damage our brand name and have
+a material adverse effect on our business, results of operations and financial condition. In the event that these providers experience
+any interruption in operations or cease operations for any reason or if we are unable to agree on satisfactory terms for continued
+hosting relationships, we would be forced to enter into a relationship with other service providers or assume hosting responsibilities
+ourselves. If we are forced to switch hosting facilities, we may not be successful in finding an alternative service provider on
+acceptable terms or in hosting the computer servers ourselves. We may also be limited in our remedies against these providers in
+the event of a failure of service. In the event of certain system failures, we may not be able to switch to back-up systems immediately
+and the time to full recovery could be prolonged. We also rely on third-party providers for components of our technology platform,
+such as hardware and software providers, credit card processors and domain name registrars. A failure or limitation of service
+or available capacity by any of these third-party providers could adversely affect our business and reputation. 
+
+If we fail to detect click-through fraud,
+we could lose the confidence of our advertisers and advertising partners, thereby causing our business to suffer. 
+
+We are exposed to the risk of fraudulent or
+illegitimate clicks on our sponsored listings. If fraudulent clicks are not detected, the affected advertisers may experience a
+reduced return on their investment in our advertising programs because the fraudulent clicks will not lead to revenue for the advertisers.
+As a result, our advertisers and advertising partners may become dissatisfied with our advertising programs, which could lead to
+loss of advertisers, advertising partners and revenue. 
+
+Our business is subject to complex and
+evolving U.S. laws and regulations regarding privacy, data protection, and other matters. Many of these laws and regulations are
+subject to change and uncertain interpretation, and could result in claims, changes to our business practices, increased cost of
+operations, or otherwise harm our business. 
+
+We are subject to a variety of laws and regulations
+in the United States that involve matters central to our business, including user privacy, rights of publicity, data protection,
+content, intellectual property, distribution, electronic contracts and other communications, competition, protection of minors,
+consumer protection, taxation, and online payment services. These U.S. federal and state laws and regulations are constantly evolving
+and can be subject to significant change. In addition, the application and interpretation of these laws and regulations are often
+uncertain. These laws and regulations could have a significant impact on online advertising services depending on how these laws
+and regulations are interpreted and enforced. It is also clear that the laws and regulations are intending to regulate behavioral
+targeting, the availability of which could become highly limited are eliminated entirely. 
+
+In addition, a number of proposals are pending
+before federal and state legislative and regulatory bodies that could significantly affect our business. For example, there have
+been a number of recent legislative proposals in the United States, at both the federal and state level, that would impose new
+obligations in areas such as privacy, data protection and data breach notifications. Some of the proposed changes to U.S. law could
+require that we obtain prior consent before using cookies or other tracking technologies or provide a do not track 
+mechanism in certain circumstances. These existing and proposed laws and regulations can be costly to comply with and can delay
+or impede the development of new products, result in negative publicity, increase our operating costs, require significant management
+time and attention, and subject us to claims or other remedies, including fines or demands that we modify or cease existing business
+practices. 
+
+15 
+
+We process, store and use personal information
+and other data, which subjects us to governmental regulation and other legal obligations related to privacy. Our actual or perceived
+failure to comply with such obligations could harm our business. 
+
+We receive, store and process personal information
+and other user data, including credit card information for certain users. There are numerous federal, state and local laws regarding
+privacy and the storing, sharing, use, processing, disclosure and protection of personal information and other user data, the scope
+of which are changing, subject to differing interpretations, and may be inconsistent between countries or conflict with other rules.
+It is possible that these obligations may be interpreted and applied in a manner that is inconsistent from one jurisdiction to
+another and may conflict with other rules or our practices. Any failure or perceived failure by us to comply with our privacy policies,
+our privacy-related obligations to users or other third parties, or our privacy-related legal obligations, or any compromise of
+security that results in the unauthorized release or transfer of personally identifiable information or other user data, may result
+in governmental enforcement actions, litigation or negative publicity and could cause our advertisers to lose trust in us, which
+could have an adverse effect on our business. Additionally, if third parties with whom we work, such as our publishers or our providers
+of telephony services, violate applicable laws or our policies, such violations may also put our users information at risk
+and could have an adverse effect on our business. 
+
+Government regulation of the Internet
+is evolving, and unfavorable changes could substantially harm our business and operating results. 
+
+We are subject to general business regulations
+and laws as well as regulations and laws specifically governing the Internet. Existing and future laws and regulations may impede
+the growth in use of the Internet and online services. The application of existing laws to the Internet and online services governing
+issues such as property ownership, sales and other taxes, libel and personal privacy has not yet been settled. Unfavorable resolution
+of these issues may substantially harm our business and operating results. Other laws and regulations that have been adopted, or
+may be adopted in the future, that may affect our business include those covering user privacy, data protection, spyware, 
+do not email lists, access to high speed and broadband service, pricing, taxation, tariffs, patents, copyrights, trademarks,
+trade secrets, export of encryption technology, electronic contracting, click-fraud, acceptable content, search terms, lead generation,
+behavioral targeting, consumer protection, and quality of products and services. Any changes in regulations or laws that hinder
+growth of the Internet generally or that decrease the acceptance of the Internet as a communications, commercial and advertising
+medium could adversely affect our business. 
+
+Risks Related to Our Common Stock 
+
+Our share price could decrease significantly
+from the sale of our shares of common stock by stockholders. 
+
+As of November 30, 2014, 193,512,315 shares
+of our common stock are eligible for resale pursuant to Rule 144. We have not agreed to register any shares of our common stock
+under the Securities Act for sale by any security holders. Future sales of large numbers of shares of our common stock into a limited
+trading market or the concerns that those sales may occur could cause the trading price of our common stock to decrease or to be
+lower than it might otherwise be. If an active, stable and sustained trading market does not develop, the market price for our
+shares will decline and such declines are likely to be permanent. 
+
+Trading in our common stock is limited
+and the price of our common stock may be subject to substantial volatility. 
+
+Our common stock (OTC: SEEK) is quoted on the
+OTC Pink Current marketplace. We expect our common stock to continue to be quoted on the OTC for the foreseeable future. Broker-dealers
+may decline to trade in OTC Pink stocks given the market for such securities is often limited, the stocks are more volatile
+and the risk to investors is greater. These factors may reduce the potential market for our common stock by reducing the number
+of potential investors. This may make it more difficult for investors in our common stock to sell shares to third parties or to
+otherwise dispose of their shares. This could cause our stock price to decline. 
+
+Additionally, the price of our common stock
+may be volatile as a result of a number of factors, including, but not limited to, the following: 
+
+our ability to retain existing subscribers
+to TheDirectory network and clients continued demand for our products and services; 
+
+seasonal variations in advertising budgets
+and media pricing; 
+
+the rate at which SMBs migrate their advertising
+spending to online offerings, particularly our online offerings; 
+
+the timing and level of market acceptance
+of our new products or services; 
+
+our ability to successfully manage any
+future acquisitions of businesses, solutions or technologies; and 
+
+price and volume fluctuations in the stock
+market at large which do not relate to our operating performance. 
+
+16 
+
+Penny stock rules may make
+buying or selling our securities difficult which may make our stock less liquid and make it harder for investors to buy and sell
+our securities. 
+
+Trading in our securities is subject to the
+SEC s penny stock rules and it is anticipated that trading in our securities will continue to be subject to
+the penny stock rules for the foreseeable future. The SEC has adopted regulations that generally define a penny stock to be any
+equity security that has a market price of less than 5.00 per share, subject to certain exceptions. These rules require that any
+broker-dealer who recommends our securities to persons other than prior customers and accredited investors must, prior to the sale,
+make a special written suitability determination for the purchaser and receive the purchaser s written agreement to execute
+the transaction. Unless an exception is available, the regulations require the delivery, prior to any transaction involving a penny
+stock, of a disclosure schedule explaining the penny stock market and the risks associated with trading in the penny stock market.
+In addition, broker-dealers must disclose commissions payable to both the broker-dealer and the registered representative and current
+quotations for the securities they offer. The additional burdens imposed upon broker-dealers by these requirements may discourage
+broker-dealers from recommending transactions in our securities, which could severely limit the liquidity of our securities and
+consequently adversely affect the market price for our securities. 
+
+Our operating results may fluctuate,
+which could cause our stock price to decrease. 
+
+Fluctuations in our operating results may lead
+to fluctuations, including declines, in our share price. Our operating results and our share price may fluctuate from period to
+period due to a variety of factors, including: 
+
+actual and anticipated fluctuations in
+our quarterly financial and operating results; 
+
+new or less expensive products and services
+or new technology introduced or offered by our competitors or by us; 
+
+the development and commercialization
+of products or services; 
+
+delays in establishing new strategic partnerships; 
+
+costs associated with collaborations and
+partnerships; 
+
+introduction of technological innovations
+or new commercial products by us or our competitors; 
+
+changes in recommendations of securities
+analysts or lack of analyst coverage; 
+
+failure to meet analyst expectations regarding
+our operating results; 
+
+additions or departures of key personnel;
+and 
+
+general market conditions. 
+
+Variations in the timing of our future revenues
+and expenses could also cause significant fluctuations in our operating results from period to period and may result in unanticipated
+earning shortfalls or losses. In addition, companies quoted on the OTC Pink marketplace, in general, and the market for online
+local advertising companies, in particular, have experienced significant price and volume fluctuations that have often been unrelated
+or disproportionate to the operating performance of those companies. 
+
+If an active, liquid trading market for
+our common stock does not develop, you may not be able to sell your shares quickly or at or above the price you paid for it. 
+
+Although our common stock is quoted on OTC
+Pink Current marketplace, an active and liquid trading market for our common stock has not yet and may not ever develop or
+be sustained. You may not be able to sell your shares quickly or at or above the price you paid for our stock if trading in our
+stock is not active. 
+
+ITEM 2. Properties. 
+
+We currently lease 2,700 square feet of office
+space in Tampa, Florida, which serves as our principal executive offices and 4,600 square feet of office space in Red Bank, New
+Jersey which serves as our primary sales center. We do not have any plans to expand our operations in 2015 other than hiring additional
+employees and maximizing the resources of our two leased spaces. 
+
+ITEM 3. Legal Proceedings. 
+
+We may be involved from time to time in ordinary
+litigation, negotiation and settlement matters that will not have a material effect on our operations or finances. We are not aware
+of any pending or threatened litigation against us or our officers and directors in their capacity as such that could have a material
+impact on our operations or finances. 
+
+ITEM 4. Mine Safety Disclosures. 
+
+Not applicable. 
+
+17 
+
+PART II 
+
+ITEM 5. Market For Registrant s Common
+Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+
+Market Information 
+
+Our common stock (OTC: SEEK) is quoted on OTC
+Pink Current marketplace. The following table sets forth the high and low bid prices for our common stock for each quarter
+during the last two fiscal years and the last quarter as quoted on OTC Pink Current. Such OTC market quotations reflect inter-dealer
+prices, without retail markup, markdown or commissions and may not necessarily represent actual transactions. 
+
+High 
+ 
+ Low 
+
+For the Fiscal Year Ended November 30, 2013 
+
+First Quarter Ended February 28, 2013 
+ 0.0004 
+ 
+ 0.0001 
+
+Second Quarter Ended May 31, 2013 
+ 0.0003 
+ 
+ 0.0001 
+
+Third Quarter Ended August 31, 2013 
+ 0.0022 
+ 
+ 0.0001 
+
+Fourth Quarter Ended November 30, 2013 
+ 0.0077 
+ 
+ 0.0007 
+
+For the Fiscal Year Ended November 30, 2014 
+
+First Quarter Ended February 28, 2014 
+ 0.0004 
+ 
+ 0.0001 
+
+Second Quarter Ended May 31, 2014 
+ 0.0003 
+ 
+ 0.0001 
+
+Third Quarter Ended August 31, 2014 
+ 0.0022 
+ 
+ 0.0001 
+
+Fourth Quarter Ended November 30, 2014 
+ 0.0077 
+ 
+ 0.0001 
+
+For the Fiscal Year Ending November 30, 2015 
+
+First Quarter Ended February 28, 2015 
+ 0.004 
+ 
+ 0.0001 
+
+Holders 
+
+As of April 7th, 2015, we had approximately
+642 holders of record of our common stock. Holders of record include nominees who may hold shares on behalf of multiple owners. 
+
+Dividends 
+
+We have never declared or paid any cash dividends
+on our capital stock, and we do not currently intend to pay any cash dividends on our common stock in the foreseeable future. At
+present, we intend to retain our earnings, if any, to finance research and development and expansion of our business. 
+
+Securities Authorized for Issuance under
+Equity Compensation Plans 
+
+As of November 30, 2014, we do not have an
+active equity compensation plan. 
+
+Recent Sales of Unregistered Securities. 
+
+On January 7, 2013, we issued 100,000,000 shares
+of common stock to an institutional investor related to the conversion of 5,000 of debt at a price of 0.00005 per share. 
+
+On February 21, 2013, we issued 40,000,000
+shares of common stock to an institutional investor related to the conversion of 2,000 of debt at a price of 0.00005 per share. 
+
+On July 29, 2013, we issued 125,000,000 shares
+of common stock to an institutional investor related to the conversion of 12,500 of debt at a price of 0.0001 per share. 
+
+On August 2, 2013, we issued 100,000,000 shares
+of common stock to an institutional investor related to the conversion of 35,000 of debt at a price of 0.00035 per share. 
+
+On October 4, 2013, we issued 140,000,000 shares
+of common stock to an institutional investor related to the conversion of 67,000 of debt at a price of 0.00047 per share. 
+
+On October 29, 2013, we issued 90,909,090 shares
+of common stock to an institutional investor related to the conversion of 100,000 of debt at a price of 0.0011 per share. 
+
+On December 1 st ,
+2013, the Company issued 270,000 shares of Series A Convertible Preferred to an officer for 100,000. 
+
+On December 18, 2013, we issued 187,500,000
+shares of common stock to an institutional investor related to the conversion of 206,250 of debt at a price of 0.0011 per share. 
+
+18 
+
+On February 20, 2014, we issued 125,000,000
+shares of common stock to an institutional investor related to the conversion of 200,000 of debt at a price of 0.0016 per share. 
+
+On March 31, 2014, we issued 208,333,333 shares
+of common stock to an institutional investor related to the conversion of 250,000 of debt at a price of 0.0016 per share. 
+
+On May 27 and 29, 2014, we issued an aggregate
+of 241,732,810 shares of common stock to an institutional investor related to the conversion of 156,000 of debt at a price of
+ 0.0016 per share. 
+
+On May 31, 2014, we issued 202,380,952 shares
+of common stock to an institutional investor related to the conversion of 135,000 of debt at a price of 0.0016 per share. 
+
+On July 15, 2014, we issued 73,636,364 shares
+of common stock to an investor related to the conversion of 45,000 of debt at a price of 0.00055 per share. 
+
+On August 13, 2014, we issued 162,500,000 shares
+of common stock valued at 130,000 to an institutional investor due under a finder s fee agreement relating to our 1.3 Million
+financing with TCA Global. 
+
+On September 16, 2014, we issued 20,000,000
+shares of common stock to TCA Global as an investment banking advisory fee valued at 150,000. 
+
+On October 13, 2014, we issued 82,500,000 shares
+of common stock to an investor related to the conversion of 33,000 of debt at a price of 0.0004 per share. 
+
+On October 27, 2014, we issued 81,846,914 shares
+of common stock to an investor related to the conversion of 41,812.50 of debt at a price of 0.000511 per share. 
+
+On November 1 st ,
+2013, the Company issued 270,000 shares of Series A Convertible Preferred to an officer for 25,000. 
+
+On November 24, 2014, we issued 412,536,864
+shares of common stock to an investor related to the conversion of 125,000 of debt at a price of 0.00303 per share. 
+
+On January 8, 2015, we issued 258,028,571
+shares of common stock to an investor related to the conversion of 43,348.80 of debt at a price of 0.000168 per share. 
+
+On January 21, 2015, we issued 225,000,000 shares of common stock
+to an investor related to the conversion of 25,200 of debt a price of 0.000112 per share. 
+
+On January 22, 2015, we issued 250,000,000 shares of common stock
+to an investor related to the conversion of 28,000 of debt a price of 0.000112 per share. 
+
+On January 26, 2015, we issued 116,666,667 shares of common stock
+to an investor related to the conversion of 14,000 of debt a price of 0.0012 per share. 
+
+On February 2, 2015, we issued 90,909,091 shares of common stock
+to an investor related to the conversion of 10,000 of debt a price of 0.0011 per share. 
+
+On February 5, 2015, we issued 236,750,000 shares of common stock
+to an investor related to the conversion of 23,675 of debt a price of 0.001 per share. 
+
+On February 12, 2015, we issued 265,000,000 shares of common stock
+to an investor related to the conversion of 24,910 of debt a price of 0.000094 per share. 
+
+On February 23, 2015, we issued 335,166,667 shares of common stock
+to an investor related to the conversion of 20,110 of debt a price of 0.00006 per share. 
+
+On February 23, 2015, we issued 331,850,545 shares of common stock
+to an investor related to the conversion of 18,251 of debt a price of 0.000055 per share. 
+
+On February 26, 2015, we issued 335,890,909 shares of common stock
+to an investor related to the conversion of 18,474 of debt a price of 0.000055 per share. 
+
+On March 11, 2015, we issued 375,000,000 shares of common stock
+to an investor related to the conversion of 20,625 of debt a price of 0.000055 per share. 
+
+Unless otherwise indicated, each of the securities
+described above was exempt from the registration requirements of the Securities Act pursuant to Section 4(a)(2) as a transaction
+not involving a public offering or as a transaction made offshore to non-U.S. persons. None of the offerings were registered or
+qualified in any jurisdiction. In each case, the number of investors was limited, the investors were either accredited or otherwise
+qualified, had access to material information about us, and restrictions were placed on the resale of the securities. 
+
+ITEM 6. Selected Financial Data. 
+
+As a smaller reporting company, as defined
+by Rule 12b-2 of the Exchange Act and in Item 10(f)(1) of Regulation S-K, we are electing scaled disclosure reporting obligations
+and therefore are not required to provide the information requested by this Item. 
+
+ITEM 7. Management s Discussion and
+Analysis of Financial Condition and Results of Operations. 
+
+Introduction 
+
+The following discussion and analysis sets
+forth certain factors we believe could cause actual results to differ materially from those contemplated by the forward-looking
+statements and should be read in conjunction with the consolidated financial statements and notes thereto, and other financial
+information included elsewhere in this Annual Report on Form 10-K. This report contains forward-looking statements that involve
+risks and uncertainties. Actual results in future periods may differ materially from those expressed or implied in such forward-looking
+statements as a result of a number of factors, including, but not limited to, the risks discussed under the heading Risk
+Factors and elsewhere in this Annual Report on Form 10-K. 
+
+19 
+
+Overview 
+
+We are an online local search and directory
+company. We own and operate a network of online local business directories and city guides which provide business listings, directory
+information, and user generated reviews to consumers who are searching online for services from local businesses. 
+
+Our business revolves around two key initiatives:
+building out our local search platform known as TheDirectory.com, of which we have several member directories including our recent
+acquisition of the Hyper-Local(TM) City Guide Domain Network, and assisting SMBs acquire, maintain and retain customers using technology
+and the Internet. 
+
+Results of Operations 
+
+Sales Revenue 
+
+Our revenue for the year ended November 30,
+2014 was 1,515,733, as compared to revenue of 780,163 for the same period in the prior year, and represented an increase of 735,570
+or 94.28 . The increase in sales revenue for 2014 came as a result of our decision to expand our operations in late 2013 with the
+closing of an acquisition and funding. The funding allowed us to increase our ability to acquire and monetize Internet traffic
+at a higher level. Additionally, during the year we expanded our outbound sales operations by opening new sales centers in Red
+Bank, New Jersey and Tampa, Florida. 
+
+Cost of Revenue 
+
+Our cost of revenue for the year ended November
+30, 2014 increased to 476,464, as compared to cost of revenue of 206,969 for the year ended November 30, 2013 and represented
+an increase of 269,495 or 130.21 . The increase in cost of revenue for 2014 is directly related to increased traffic purchases
+made during the period as we expanded our business operations. 
+
+General Administrative Expenses 
+
+For the year ended November 30, 2014, general
+and administrative expenses increased to 864,878, as compared to general and administrative expenses of 176,575 for the same
+period in the prior year, and represented an increase of 688,303 or 389.81 . The increase in general and administrative expenses
+for 2014 came as a result of increased expenses related to our becoming a fully reporting company during 2014 and completing three
+annual audits, as well as increased operating expenses as we grew our business 94.28 year over year. 
+
+Sales and Marketing 
+
+For the year ended November 30, 2014, sales
+and marketing expenses increased to 34,341, as compared to sales and marketing expenses of 6,509 for the same period in the prior
+year, and represented an increase of 27,832 or 427.59 . The increase in sales and marketing expenses for 2014 was primarily a
+result in the increased operating costs associated with the growth levels we experienced during the year. 
+
+Consulting Fees 
+
+For the year ended November 30, 2014, consulting
+fees decreased to 134,918, as compared to consulting fees of 158,473 for the same period in the prior year, and represented a
+decrease of 23,555 or 14.86 . As our business grew throughout the year, we continued to increase
+our full time staff which reduced our reliance on consultants. Going forward, we expect consulting expenses to increase as we expand
+our operations into more technology specific areas that will require an advanced level of expertise we may only be able to secure
+through consultants. 
+
+Research Development 
+
+For the year ended November 30, 2014, research
+and development fees increased to 40,223, as compared to research and development fees of 11,115 for the same period in the prior
+year, and represented an increase of 29,108 or 261.884 . As with other business related expenses R D costs will continue
+to grow as our business expands and the need to increase R D grows which we expect it will. 
+
+Amortization of Intangibles 
+
+For the year ended November 30, 2014, amortization
+of intangibles increased to 608,630, as compared to amortization of intangibles costs of 23,172 for the same period in the prior
+year resulting in an increase of 585,485 or 2,526.58 . The primary cause in the increase of amortization costs were related to
+the TCA financing and subsequent restructuring and the fact that these expenses were present for the entire year in 2014 as compared
+to only a few months in 2013. The restructuring that occurred in September of 2014 required us to write off certain expenses that
+were previously being amortized and were therefore responsible for the majority of the large increase in amortization costs year
+over year. We expect this expense item to remain relatively high until such time as the TCA credit facility is fully repaid. 
+
+20 
+
+Interest Expenses 
+
+During the year ended November 30, 2014
+our interest expenses increased 341,873 or 388 to 430,070, as compared to interest expenses of 88,197 for the same period in
+the prior year. The increase in interest expenses for 2014 was directly related to the increase of interest expenses associated
+with the TCA financing and subsequent restructuring, and the fact that these expenses were present for the entire year in 2014
+compared to only a few months in 2013. We expect this expense item to remain relatively high until such time as the TCA credit
+facility is fully repaid or reduced. 
+
+Change in Derivative Liability 
+
+For the year ended November
+30, 2014 we incurred a derivative liability expense of 22,923. This expense is related to financings completed during the 2014
+fiscal year, and were therefore not present during the period ending November 30, 2013. Derivative expenses are measured and adjusted
+based on the stock price at the end of each quarter as long as the financing instrument remains open and are a non-cash expense
+item. 
+
+Net Income/Loss 
+
+During the year
+ended November 30, 2014, we posted a net loss of 1,096,714 compared to net income of 109,153 for the year ended November
+30, 2013 representing a year over year decrease of 1,205,867 or 1,105 in net income. The net loss was primarily attributed
+to increases in interest expenses of 430,070, an increase of 22,923 in derivative liabilities and increased non cash
+amortization expenses of 608,630 in the aggregate these combined costs of 1,072,623 accounted for all but 24,091 of our
+entire 1,096,714 net loss for the year ending November 30, 2014. Our primary goal during 2015 is to eliminate, or at a
+minimum, dramatically reduce the debt owed to TCA under the credit facility. If we are successful in achieving these goals,
+the actions will have a material impact in reducing both interest and amortization expenses during 2015. We will not be
+drawing down on the TCA facility again. 
+
+Liquidity and Capital
+Resources 
+
+As of November
+30, 2014, we had total assets of 3,086,807, as compared to total current assets of 3,335,086 for the same period in the
+prior year, and represented a decrease of 248,279 or 7.44 . The decrease in total assets for 2014 is related to decreases in
+our cash position and accounts receivables as well as a decrease in non-amortizable intangible assets amounting in the
+aggregate amount of 529,412. At November 30, 2014, our total assets consisted of 52,987 in cash; 189,954 in accounts
+receivable; 10,610 of property and equipment; 22,643 of deposits and 2,810,613 related to intangible assets. At November
+30, 2013, our total assets consisted of 128,910 in cash; 270,717 in accounts receivable; 1,318 in property and equipment;
+ 1,535 in deposits and 2,932,606 related to intangible assets. 
+
+As of November
+30, 2014 our total liabilities decreased 751,157 or 19 to 3,110,1132, as compared to total liabilities of 3,861,270 for
+the same period in the prior year. At November 30, 2014, our total liabilities consisted of 535,726 in accounts payable and
+accrued expenses; 1,096,338 related our commercial line of credit; 1,028,205 of notes payable; and 70,623 of notes payable
+to related parties. At November 30, 2013, our total liabilities of 3,861,270 consisted of 572,746 in accounts payable and
+accrued expenses; 1,300,000 related our commercial line of credit; 1,593,367 of notes payable and 65,157 of notes payable
+to related parties and 330,000 in long term debt net of current portion. 
+
+We will require additional capital to
+support our business plan which contemplates strategic acquisitions, to reduce our debt and to facilitate our current expansion
+plans. Effective October 1, 2013, we closed on a 5 million revolving credit financing facility with TCA Global Credit Master Fund.
+As of November 30, 2014, we still had 3.3 million available under the credit facility. At November 30, 2014 we had completed two
+draw downs under the credit facility, our first draw down occurred on October 1, 2013 when we drew down 1.3 million to close an
+acquisition. Our second draw down was for 400,000 and occurred on September 12, 2014 as part of a restructuring of the TCA obligation.
+The credit facility may be drawn down, at TCA s discretion subject to a use of proceeds or other investor defined metric
+such as our financial performance. Standard requested draw-downs shall not exceed 80 of the repayments made to the investor. There
+are no contractual guarantees or formal metric based obligations for TCA to provide us with access to additional draw downs. Future
+draw downs of the credit facility are solely at the discretion of TCA. We may also need to raise funds through private placements
+of our equity securities that may involve dilution to our existing stockholders. We do not plan to draw down any additional funds
+under this credit facility going forward. 
+
+As reflected in our financial statements,
+we had an accumulated deficit at November 30, 2014 of 9,497,316 and a net loss for the reporting period then ended of 1,096,714.
+Our auditor in its report dated April 13, 2015, has expressed substantial doubt about our ability to continue as a going concern.
+Our ability to continue our operations and finance the growth of our future operations and strategic objectives depends on management s
+plans, which include the raising of capital through debt and/or equity markets, with some additional funding from other traditional
+financing sources, including term notes, until such time that funds provided by operations are sufficient to fund working capital
+requirements. There can be no assurance that we will be able to raise any additional capital or on terms acceptable to us, if at
+all. Our plan In the event that we are unable to generate adequate revenues to cover expenses and cannot obtain additional financing
+in the near future, we may seek protection under bankruptcy laws. The accompanying financial statements have been prepared on a
+going concern basis, which contemplates the realization of assets and the satisfaction of liabilities in the normal course of business.
+These financial statements do not include any adjustments relating to the recovery of the recorded assets or the classification
+of the liabilities that might be necessary should we be unable to continue as a going concern. 
+
+21 
+
+Off-Balance Sheet Arrangements 
+
+We currently have no off-balance sheet arrangements
+that have or are reasonably likely to have a current or future material effect on our financial condition, changes in financial
+condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources. 
+
+Critical Accounting Policies and Estimates 
+
+The preparation of financial statements in
+conformity with accounting principles generally accepted in the United States of America requires management to make judgments
+and estimates. 
+
+We believe the following critical accounting
+policies affect our more significant judgments and estimates used in the preparation of our financial statements. 
+
+Derivative Financial Instruments 
+
+We estimate the fair value of our complex derivative
+financial instruments that are required to be carried as liabilities at fair value pursuant to Statements on Financial Accounting
+Standards No. 133, Accounting for Derivative Financial Instruments and Hedging Activities (SFAS 133). 
+
+We do not use derivative financial instruments
+to hedge exposures to cash-flow, market or foreign-currency risks. However, we frequently enter into certain other financial instruments
+and contracts, such as debt financing arrangements, preferred stock arrangements and freestanding warrants with features that are
+either (i) not afforded equity classification, (ii) embody risks not clearly and closely related to host contracts or (iii) may
+be net-cash settled by the counterparty to a financing transaction. As required by SFAS 133, these instruments are required to
+be carried as derivative liabilities, at fair value, in our financial statements. 
+
+We estimate fair values of derivative financial
+instruments using various techniques, and combinations thereof, that are considered to be consistent with the objective measuring
+of fair values. In selecting the appropriate technique(s), we consider, among other factors, the nature of the instrument, the
+market risks that such instruments embody and the expected means of settlement. For less complex derivative instruments, such as
+free-standing warrants, we generally use the Black-Scholes option valuation technique, since it embodies all of the requisite assumptions,
+including trading volatility, estimated terms and risk free rates, necessary to fair value these instruments. For complex derivative
+instruments, such as embedded conversion options, we generally use the flexible Monte Carlo valuation technique since it embodies
+all of the requisite assumptions, including credit risk, interest-rate risk and exercise/conversion behaviors, that are necessary
+to fair value these more complex instruments. For forward contracts that contingently require net-cash settlement as the principal
+means of settlement, we project and discount future cash flows applying probability-weightage to multiple possible outcomes. Estimating
+fair values of derivative financial instruments requires the development of significant and subjective estimates that may, and
+are likely to, change over the duration of the instrument with related changes in internal and external market factors. In addition,
+option-based techniques are highly volatile and sensitive to changes in our trading market price which has high-historical volatility.
+Since derivative financial instruments are initially and subsequently carried at fair values, our income will reflect the volatility
+in these estimate and assumption changes. 
+
+Revenue Recognition 
+
+We recognize revenue when the following conditions
+have been met: (a) the service or product a customer has subscribed to has been provided to the customer; (b) the amount of fees
+to be paid by the customer is fixed or determinable; and (c) the collection of our fees is probable. 
+
+We generate revenue when it is realizable and
+earned, as evidenced by clicks generated through our network of Internet properties or when a subscriber pays for an online marketing
+package and the fulfillment of the subscription obligations have been satisfied. Our contracts and agreements are short term and
+do not contain multiple elements and can be cancelled at any time. 
+
+Accounts Receivable 
+
+Accounts receivable consist primarily of trade
+receivables, net of a valuation allowance for doubtful accounts. 
+
+Property and Equipment 
+
+Property and equipment are recorded at cost
+less accumulated depreciation. Upon retirement or sale, the cost of the assets disposed of and the related accumulated depreciation
+are removed from the accounts, with any resultant gain or loss included in the results of operations. Depreciation is computed
+over the estimated useful lives of the assets (3-20 years) using the straight-line method for financial reporting purposes and
+accelerated methods for income tax purposes. Maintenance and repairs are charged to operations as incurred. 
+
+22 
+
+Use of Estimates 
+
+The preparation of financial statements in
+conformity with accounting principles generally accepted in the United States of America requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities
+at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results
+could vary from those estimates. 
+
+Goodwill and Intangible Asset Impairment 
+
+Realization of long-lived assets, including
+goodwill, is periodically assessed by our management. Accordingly, in the event that facts and circumstances indicate that property
+and equipment, and intangible or other assets may be impaired, an evaluation of recoverability would be performed. If an evaluation
+is required, the estimated future undiscounted cash flows associated with the asset are compared to the asset s carrying
+amount to determine if a write-down to market value is necessary. In management's opinion, there was no impairment of such assets
+at November 30, 2014. 
+
+Deferred Tax Benefit 
+
+Management assumes that the realization of the Company s
+net deferred tax assets resulting from its net operating loss NOL carry forwards for Federal income tax purposes
+that may be offset against future taxable income was not considered more likely than not and accordingly, the potential tax benefits
+of the net loss carry-forwards are offset by a full valuation allowance. Management made this assumption based on (a) the Company
+has incurred recurring losses, (b) general economic conditions, and (c) its ability to raise additional funds to support its daily
+operations by way of a public or private offering, among other factors; 
+
+ITEM 7A. Quantitative and Qualitative Disclosures
+about Market Risk. 
+
+As a smaller reporting company, as defined
+by Rule 12b-2 of the Exchange Act and in Item 10(f)(1) of Regulation S-K, we are electing scaled disclosure reporting obligations
+and therefore are not required to provide the information requested by this Item. 
+
+ITEM 8. Financial Statements and Supplementary
+Data. 
+
+FINANCIAL STATEMENTS 
+
+Index to Financial Statements 
+
+Page 
+
+Report of Independent Registered Public Accounting Firm 
+ F-1 
+
+Balance Sheets at November 30, 2014 and 2013 
+ F-2 
+ 
+ Statements of Operations for the Years Ended November 30, 2014 and 2013 
+ F-3 
+ 
+ Statements of Cash Flows for the Years Ended November 30, 2014 and 201 3 
+ F-4 
+ 
+ Statements of Stockholders Equity for the Years Ended November 30, 2014 and 2013 
+ F-5 
+ 
+ Notes to Financial Statements 
+ F-6 
+
+23 
+
+2451 N. McMullen Booth Road
+
+Suite.308 
+
+ Clearwater, FL 33759 
+
+Toll free: 855.334.0934 
+
+Fax: 800.581.1908 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC
+ACCOUNTING FIRM 
+
+The Board of Directors and Stockholders 
+
+ TheDirectory.com, Inc. 
+
+We have audited the accompanying consolidated balance sheets
+of TheDirectory.com, Inc. as of November 30, 2014 and 2013, and the related statements of operations, stockholders equity,
+and cash flows for the years ended November 30, 2014 and 2013. These financial statements are the responsibility of the Company s
+management. Our responsibility is to express an opinion on these financial statements based on our audits. 
+
+We conducted our audits in accordance with the standards of
+the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audits to obtain
+reasonable assurance about whether the financial statements are free of material misstatement. The Company is not required to have,
+nor were we engaged to perform, an audit of its internal control over financial reporting. Our audits included consideration of
+internal control over financial reporting as a basis for designing audit procedures that are appropriate in the circumstances,
+but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting.
+Accordingly, we express no such opinion. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures
+in the financial statements, assessing the accounting principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation. We believe that our audits provide a reasonable basis for our opinion. 
+
+In our opinion, the financial statements referred to above present
+fairly, in all material respects, the financial position of TheDirectory.com, Inc. as November 30, 2014 and 2013, and related statements
+of operations, stockholders equity, and cash flows for the years then ended in conformity with accounting principles generally
+accepted in the United States of America. 
+
+The accompanying financial statements have been prepared assuming
+that the Company will continue as a going concern. As shown in the accompanying financial statements, the Company has significant
+net losses and cash flow deficiencies. Those conditions raise substantial doubt about the Company s ability to continue as
+a going concern. Management s plans regarding those matters are described in Note 4. The financial statements do not include
+any adjustments that might result from the outcome of this uncertainty. 
+
+/s/ DKM Certified Public Accountants 
+
+DKM Certified Public Accountants 
+
+Clearwater, Florida 
+
+April 15, 2015 
+
+PCAOB Registered 
+
+AICPA Member 
+
+F- 1 
+
+TheDirectory.com,
+Inc. 
+
+ Balance Sheets 
+
+ November 30, 2014 and 2013 
+
+2014 
+ 2013 
+ 
+ Assets 
+
+Current assets 
+
+Cash and cash equivalents 
+ 52,987 
+ 128,910 
+ 
+ Accounts receivable, net 
+ 189,954 
+ 270,717 
+
+Total Current Assets 
+ 242,941 
+ 399,627 
+
+Property and Equipment, net 
+ 10,610 
+ 1,318 
+
+Other Assets 
+
+Amortizable Intangible Assets, net 
+ 644,661 
+ 393,928 
+ 
+ Nonamortizable Intangible Assets 
+ 2,165,952 
+ 2,538,678 
+ 
+ Deposits 
+ 22,643 
+ 1,535 
+
+Total Other Assets 
+ 2,833,256 
+ 2,934,141 
+
+Total Assets 
+ 3,086,807 
+ 3,335,086 
+
+Liabilities and Stockholders' Equity (Deficit) 
+
+Accounts payable and accrued expenses 
+ 535,726 
+ 572,746 
+ 
+ Commercial line of credit 
+ 1,096,338 
+ 1,300,000 
+ 
+ Derivative liabilities 
+ 379,221 
+
+Notes payable 
+ 1,028,205 
+ 1,593,367 
+ 
+ Notes payable to related parties 
+ 70,623 
+ 65,157 
+
+Total current Liabilities 
+ 3,110,113 
+ 3,531,270 
+
+Long-Term Debt-Net of Current portion 
+ 
+ 330,000 
+
+Total liabilities 
+ 3,110,113 
+ 3,861,270 
+
+Stockholders' equity: 
+
+Preferred stock, 1,200,000 share authorized, .001 par value, 640,000 and 270,000 shares
+ issued and outstanding at November 30, 2014 and 2013 
+ 640 
+ 270 
+ 
+ Common stock 30,000,000,000 shares authorized, .001 par value, 5,129,999,499 and
+ 3,450,749,199 shares issued and outstanding at November 30, 2014 and 2013 
+ 5,130,000 
+ 3,450,750 
+ 
+ Additional paid in capital 
+ 4,343,370 
+ 4,423,398 
+ 
+ Accumulated deficit 
+ (9,497,316 
+ (8,400,602 
+
+Total stockholders' equity (deficit) 
+ (23,306 
+ (526,184 
+
+Total Liabilities and stockholders' equity (deficit) 
+ 3,086,807 
+ 3,335,086 
+
+The accompanying notes are an integral
+part of these financial statements. 
+
+F- 2 
+
+TheDirectory.com, Inc. 
+
+ Statements of Operations 
+
+ For The Years Ended November 30, 2014 and
+2013 
+
+2014 
+ 2013 
+
+REVENUES 
+ 1,515,733 
+ 780,163 
+
+OPERATING EXPENSES: 
+
+Cost of revenues 
+ 476,464 
+ 206,969 
+ 
+ Sales and marketing 
+ 34,341 
+ 6,509 
+ 
+ Consulting fees 
+ 134,918 
+ 158,473 
+ 
+ General and administrative 
+ 864,878 
+ 176,575 
+ 
+ Research and development 
+ 40,223 
+ 11,115 
+ 
+ Amortization of intangibles 
+ 608,630 
+ 23,172 
+
+Total operating expenses 
+ 2,159,454 
+ 582,813 
+
+Income (Loss) from operations 
+ (643,721 
+ 197,350 
+
+OTHER INCOME (EXPENSE) 
+
+Interest expense 
+ (430,070 
+ (88,197 
+ 
+ Change in derivative 
+ (22,923 
+
+NET INCOME (LOSS) 
+ (1,096,714 
+ 109,153 
+
+Basic weighted average number of shares outstanding 
+ 4,105,316,855 
+ 2,937,485,412 
+
+Basic Earnings per share 
+
+Diluted weighted average number of shares outstanding 
+ 4,105,316,855 
+
+5,637,485,412 
+
+Diluted earnings per share 
+
+The accompanying notes are an integral part
+of these financial statements. 
+
+F- 3 
+
+TheDirectory.com, Inc. 
+
+ Statements of Cash Flows 
+
+ For The Years Ended November 30, 2014 and
+2013 
+
+2014 
+ 2013 
+ 
+ Cash flows from operating activities: 
+
+Net income (loss) 
+ (1,096,714 
+ 109,153 
+ 
+ Adjustments to reconcile net income (loss) to net cash from operating
+ activities: 
+
+Depreciation and amortization 
+ 837,271 
+ 23,825 
+ 
+ Change in derivative 
+ 22,923 
+
+Change in operating assets and liabilities: 
+
+Accounts receivable 
+ (9,237 
+ (270,717 
+ 
+ Accounts payable and accrued expenses 
+ 108,766 
+ 73,121 
+
+Total cash flows from operating activities 
+ (136,991 
+ (64,618 
+
+Cash flows from investing activities: 
+
+Payment of rental deposits, net of refund 
+ (21,108 
+
+Purchase of office equipment 
+ (11,269 
+
+Purchase of software enhancements 
+ (29,636 
+
+Purchase of domain names 
+ (14,091 
+
+Total cash flows from investing activities 
+ (76,104 
+
+Cash flows from financing activities: 
+
+Financing fees paid 
+ (24,250 
+ (87,400 
+ 
+ Repayments to line of credit (net of proceeds) 
+ (345,888 
+ 170,300 
+ 
+ Advances from (repayments to) individuals, net 
+ 501,844 
+ 82,250 
+ 
+ Advances from (repayments to) related parties, net 
+ 5,466 
+ 24,657 
+
+Total cash flows from financing activities 
+ 137,172 
+ 189,807 
+
+Increase (decrease in) cash and cash equivalents 
+ (75,923 
+ 125,189 
+
+Cash and cash equivalents, beginning of period 
+ 128,910 
+ 3,721 
+
+Cash and cash equivalents, end of period 
+ 52,987 
+ 128,910 
+
+NONCASH INVESTING AND FINANCING ACTIVITIES: 
+
+Purchase of assets 
+
+Domain names and intangibles 
+ 
+ 2,150,000 
+ 
+ Line of Credit 
+ 
+ (1,000,000 
+ 
+ Acquisition note 
+ 
+ (1,150,000 
+
+Cash paid 
+
+Stock Issued to Convert Debt 
+ 888,513 
+ 221,500 
+ 
+ Stock Issued for Financing Fees 
+ 280,000 
+ 200,000 
+
+SUPPLEMENTAL INFORMATION: 
+
+Income taxes paid 
+
+Interest expense paid 
+ 184,831 
+ 48,197 
+
+The accompanying notes are an integral part
+of these financial statements. 
+
+F- 4 
+
+TheDirectory.com, Inc. 
+
+ Statements of Stockholders' Equity 
+
+ For The Years Ended November 30, 2014 and
+2013 
+
+Additional 
+
+Preferred Stock 
+ Common Stock 
+ Paid-In 
+ Accumulated 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Capital 
+ Deficit 
+ Total 
+
+Balance November 30, 2012 
+ 270,000 
+ 270 
+ 2,707,521,297 
+ 2,707,522 
+ 4,745,126 
+ (8,509,755 
+ (1,056,837 
+
+Stock issued for debt and interest 
+
+589,909,090 
+ 589,909 
+ (368,409 
+ 
+ 221,500 
+
+Stock issued for financing fees 
+
+153,318,812 
+ 153,319 
+ 46,681 
+ 
+ 200,000 
+
+Net income for the year ended November 30, 2013 
+
+109,153 
+ 109,153 
+
+Balance November 30, 2013 
+ 270,000 
+ 270 
+ 3,450,749,199 
+ 3,450,750 
+ 4,423,398 
+ (8,400,602 
+ (526,184 
+
+Stock issued for debt and interest 
+
+1,496,750,300 
+ 1,496,750 
+ (608,187 
+ 
+ 888,563 
+
+Stock issued for financing fees 
+
+182,500,000 
+ 182,500 
+ 97,500 
+ 
+ 280,000 
+
+Debt discount on convertible debt 
+
+662,326 
+ 
+ 662,326 
+
+Stock issued as compensation 
+ 370,000 
+ 370 
+
+124,630 
+ 
+ 125,000 
+
+Warrants derivative liabilities 
+
+(356,297 
+ 
+ (356,297 
+
+Net income for the year ended November 30, 2014 
+
+(1,096,714 
+ (1,096,714 
+
+640,000 
+ 640 
+ 5,129,999,499 
+ 5,130,000 
+ 4,343,370 
+ (9,497,316 
+ (23,306 
+
+The accompanying notes are an integral part
+of these financial statements. 
+
+F- 5 
+
+TheDirectory.com, Inc. 
+
+ Notes to Financial Statements 
+
+Note 1 - Background and Summary of Significant
+Accounting Policies 
+
+The Company 
+
+TheDirectory.com, Inc. (the Company ),
+incorporated under the laws of the State of Utah in June 1983 as Teal Eye, Inc. Subsequently, in 1984, the Company then merged
+with Terzon Corporation and changed its name to Terzon Corporation. In September 1984, the Company changed its name to Candy Stripers
+Corporation, Inc. In 1986, the Company ceased the candy manufacturing operations and filed for Chapter 11 bankruptcy protection.
+After emerging from bankruptcy in 1993, the Company remained dormant until it changed its name to Piedmont, Inc. on January 6,
+1998. On May 31, 2003, the Company changed its name to US Biodefense, Inc. 
+
+Effective January 10, 2008, the Company experienced
+a change in control as the result of a series of transactions. Effective on that date, the Company executed an employment agreement
+with Scott Gallagher pursuant to which he was appointed the Company s Chief Executive Officer and Chairman of the Company s
+Board of Directors, positions which he still holds today. Simultaneously, the former Chairman, David Chin, resigned as an officer
+and director of the Company, leaving Mr. Gallagher as the Company s sole director. As a result of these transactions, Mr.
+Gallagher assumed control of the Company. 
+
+On April 4, 2008, the Company acquired 100 
+of the assets of Elysium Internet, Inc., a direct navigation Internet media company, in exchange for stock and a 1,500,000 promissory
+note to FTS Group, Inc. In 2008, the Company filed an Amended and Restated Articles of Incorporation, and effective July 28, 2008,
+changed its name to Elysium Internet, Inc. In May 2011, the Company changed its name to TheDirectory.com, Inc. 
+
+The Company s principal executive offices
+are located at 2701 Rocky Point Dr., Suite 950, Tampa, Florida 33607. The Company s shares are quoted on the Over the Counter
+marketplace under the ticker symbol, SEEK. 
+
+Control By Principal Shareholder 
+
+The Chief Executive Officer of the Company
+owns, beneficially and in the aggregate, the majority of the voting power of the outstanding shares of the capital stock of the
+Company. Accordingly, the Chief Executive Officer has the ability to control the approval of most corporate actions, including
+increasing the authorized capital stock of the Company and the dissolution, merger or sale of the Company's assets or business. 
+
+Basis of Presentation 
+
+The accompanying financial statements have
+been prepared in conformity with accounting principles generally accepted in the United States of America (GAAP), which contemplate
+continuation of the Company as a going concern. 
+
+Use of Estimates 
+
+The preparation of financial statements in
+conformity with accounting principles generally accepted in the United States of America requires management to make estimates
+and assumptions that affect reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the
+date of the financial statements, and the reported amounts of revenues and expenses during the reporting period. Actual results
+could differ from those estimates. 
+
+Fair Value of Financial Instruments 
+
+We estimate the fair value of our complex derivative
+financial instruments that are required to be carried as liabilities at fair value pursuant to Statements on Financial Accounting
+Standards No. 133, Accounting for Derivative Financial Instruments and Hedging Activities (SFAS 133). 
+
+We do not use derivative financial instruments
+to hedge exposures to cash-flow, market or foreign-currency risks. However, we frequently enter into certain other financial instruments
+and contracts, such as debt financing arrangements, preferred stock arrangements and freestanding warrants with features that are
+either (i) not afforded equity classification, (ii) embody risks not clearly and closely related to host contracts or (iii) may
+be net-cash settled by the counterparty to a financing transaction. As required by SFAS 133, these instruments are required to
+be carried as derivative liabilities, at fair value, in our financial statements. 
+
+We estimate fair values of derivative financial
+instruments using various techniques, and combinations thereof, that are considered to be consistent with the objective measuring
+of fair values. In selecting the appropriate technique(s), we consider, among other factors, the nature of the instrument, the
+market risks that such instruments embody and the expected means of settlement. For less complex derivative instruments, such
+as free-standing warrants, we generally use the Black-Scholes option valuation technique, since it embodies all of the requisite
+assumptions, including trading volatility, estimated terms and risk free rates, necessary to fair value these instruments. For
+complex derivative instruments, such as embedded conversion options, we generally use the flexible Monte Carlo valuation technique
+since it embodies all of the requisite assumptions, including credit risk, interest-rate risk and exercise/conversion behaviors,
+that are necessary to fair value these more complex instruments. For forward contracts that contingently require net-cash settlement
+as the principal means of settlement, we project and discount future cash flows applying probability-weightage to multiple possible
+outcomes. Estimating fair values of derivative financial instruments requires the development of significant and subjective estimates
+that may, and are likely to, change over the duration of the instrument with related changes in internal and external market factors.
+In addition, option-based techniques are highly volatile and sensitive to changes in our trading market price which has high-historical
+volatility. Since derivative financial instruments are initially and subsequently carried at fair values, our income will reflect
+the volatility in these estimate and assumption changes. 
+
+F- 6 
+
+Leases 
+
+The Company leases office facilities under
+agreements accounted for as operating leases. For leases that contain escalation or rent concessions provisions, management recognizes
+rent expense during the lease term on a straight-line basis over the term of the lease. The difference between rent paid and straight-line
+rent expense is recorded as a deferred rent liability in the accompanying consolidated balance sheets. 
+
+Revenue Recognition 
+
+The Company recognizes revenue when the following
+conditions have been met: (a) the service or product a customer has subscribed to has been provided to the customer; (b) the amount
+of fees to be paid by the customer is fixed or determinable; and (c) the collection of our fees is probable. 
+
+The Company generates revenue when it is realizable
+and earned, as evidenced by clicks generated through our network of Internet properties or when a subscriber pays for an online
+marketing package and the fulfillment of the subscription obligations have been satisfied. The Company s contracts and agreements
+are short term and do not contain multiple elements and can be cancelled at any time. 
+
+Concentration of Credit Risk 
+
+Financial instruments that subject the Company
+to concentrations of credit risk include cash and cash equivalents. 
+
+The Company maintains its cash in well-known
+banks selected based upon management's assessment of the bank's financial stability. Balances may periodically exceed the 250,000
+federal depository insurance limit; however, the Company has not experienced any losses on deposits. The Company extends credit
+to its customers based on an evaluation of the customer's financial condition, generally without collateral. Exposure to losses
+on receivables is principally dependent on each customer's financial condition. The Company monitors its exposure for credit losses
+and maintains allowances for anticipated losses, as required. 
+
+Cash Equivalents 
+
+For purposes of reporting cash flows, the Company
+considers all short-term investments with an original maturity of three months or less to be cash equivalent. 
+
+Selling and Marketing Expenses 
+
+Selling and marketing expenses consist primarily
+of personnel and related expenses for selling and marketing staff, including salaries, consulting fees and wages, commissions and
+other variable compensation, benefits, bonuses and stock-based compensation; travel and business costs; training, recruitment,
+marketing and promotional events; advertising; other brand building and product marketing expenses; and occupancy, technology and
+other direct overhead costs. 
+
+General and Administrative Expenses 
+
+General and administrative expenses consist
+primarily of personnel and related expenses for executive, legal, finance, human resources and corporate communications, including
+wages, benefits, bonuses and stock-based compensation, professional fees, insurance premiums and other expenses, including occupancy,
+technology and other direct overhead, public company costs and other corporate expenses. 
+
+Advertising Expenses 
+
+The Company expenses advertising as incurred.
+For the years ended November 30, 2014 and 2013, advertising expenses were 34,341 and 6,509, respectively, and such expenses are
+included under sales and marketing expenses. 
+
+Fixed Assets 
+
+Fixed assets are stated at cost, less accumulated
+depreciation. Depreciation is provided principally on the straight-line method over the estimated useful lives of the assets, which
+are generally 3 to 10 years. The cost of repairs and maintenance is charged to expense as incurred. Expenditures for property betterments
+and renewals are capitalized. Upon sale or other disposition of a depreciable asset, cost and accumulated depreciation are removed
+from the accounts and any gain or loss is reflected in results of operations. 
+
+The Company will periodically evaluate whether
+events and circumstances have occurred that may warrant revision of the estimated useful lives of fixed assets or whether the remaining
+balance of fixed assets should be evaluated for possible impairment. The Company uses an estimate of the related undiscounted cash
+flows over the remaining life of the fixed assets in measuring their recoverability. 
+
+Income Taxes 
+
+The Company records income taxes using the
+asset and liability method which requires the recognition of deferred tax assets and liabilities for the expected future tax consequences
+of events that have been recognized in its financial statements or tax returns. In estimating future tax consequences, all expected
+future events other than enactments or changes in the tax law or rates are considered. Valuation allowances are provided when
+necessary to reduce deferred tax assets to the amount expected to be realized. 
+
+F- 7 
+
+The Company records tax benefits for income
+tax positions only if it is more-likely-than-not to be sustained based solely on its technical merits as of the reporting
+date. Management considers many factors when evaluating and estimating tax positions and tax benefits, which may require periodic
+adjustments and which may differ from actual outcomes. The Company follows a comprehensive model for the financial statement recognition,
+measurement, presentation and disclosure of uncertain tax positions taken or expected to be taken in income tax returns. The Company s
+policy is to recognize interest and penalties related to tax in income tax expense. 
+
+Payroll Taxes 
+
+The Company has an accrued payroll tax liability
+of 118,627.04 for the year ended November 30, 2014. The Company has a plan in place to eliminate this liability during the 2015
+fiscal year and expects to be current with its payroll tax liability obligation during the first quarter of 2015. The Company may
+be subject to fines, late charges or penalties for not filing its quarterly returns on time. 
+
+Net Income (Loss) Per Share 
+
+Basic net income (loss) per share is computed
+by dividing the net income (loss) for the period by the weighted average number of common shares outstanding during the period.
+Diluted net income (loss) per share is computed by dividing the net income (loss) for the period by the weighted average number
+of common and potential dilutive shares outstanding during the period, to the extent such shares are dilutive. Potential dilutive
+shares are composed of incremental common shares issuable upon the exercise of stock options, warrants and unvested restricted
+shares using the treasury stock method and convertible preferred stock under the if-converted method, where such conversions are
+dilutive. 
+
+Note 2 - Property and Equipment 
+
+Property and equipment consisted of the following
+at November 30, 2014 and November 30 2013: 
+
+2014 
+ 2013 
+ 
+ Furniture and fixtures (at cost) 
+ 19,736 
+ 8,467 
+ 
+ Accumulated depreciation 
+ 9,126 
+ 7,149 
+ 
+ Net 
+ 10,610 
+ 1,318 
+
+Depreciation expense was 1,977 and 653 for
+the years ended November 30, 2014 and 2013. 
+
+Note 3 - Comprehensive Income 
+
+Accounting principles generally require that
+recognized revenues, expenses, gains and losses be included in net income. Although certain changes in assets and liabilities,
+such as unrealized gains and losses on available for sale securities are reported as a separate component of the equity section
+of the balance sheet, such items, along with net income, are components of comprehensive income. 
+
+The components of other comprehensive income
+and related tax effects for the years ended November 30, 2014 and 2013 are zero. 
+
+Note 4 - Going Concern 
+
+The Company has elected to early adopt Accounting
+Standards Update No. 2014-15, Presentation of Financial Statements Going Concern (Subtopic 205-40): Disclosure
+of Uncertainties about an Entity s Ability to Continue as a Going Concern ASU 2014-15 . 
+
+The financial statements
+do not include any adjustments related to the recoverability and classification of recorded asset amounts or the amounts and classification
+of liabilities that might be necessary should the Company is unable to continue as a going concern. 
+
+The Company s financial statements have
+been prepared assuming that it will continue as a going concern, which contemplates continuity of operations, realization of assets,
+and liquidation of liabilities in the normal course of business. 
+
+As reflected in the financial statements, the
+Company had an accumulated deficit and net loss for the period ended November 30, 2014. These factors raise substantial doubt about
+the Company s ability to continue as a going concern. 
+
+The Company is attempting to further implement
+and expand its business plan to generate sufficient revenue; however, the Company s cash position may not be sufficient
+to support the Company s daily operations if revenue does not grow to levels to support ongoing expenses. While the Company
+believes in the viability of its business plan to expand operations and generate sufficient revenue and in its ability to raise
+additional funds by way of a public or private offering, there can be no assurances to that effect. The ability of the Company
+to continue as a going concern is dependent upon its ability to further implement its business plan and generate sufficient revenue,
+profits and its ability to raise additional funds by way of a public or private offering. 
+
+F- 8 
+
+Note 5 - Taxes 
+
+The income tax provision reflected in the
+statement of operations consists of the following components for the years ended November 30, 2014 and 2013: 
+
+2014 
+ 2013 
+ 
+ Current Tax Provision 
+ (399,300 
+ 26,000 
+ 
+ Application of net operating losses 
+ 399,300 
+ (26,000 
+ 
+ Net provision for income taxes 
+
+Deferred income taxes are the result of timing
+differences between book and tax basis of certain assets and liabilities, timing of income and expense recognition of certain items
+and net operating loss carry-forwards. 
+
+The Company assesses temporary differences
+resulting from different treatments of items for tax and accounting purposes. These differences result in deferred tax assets and
+liabilities, which are recorded in the Company s balance sheets. The Company evaluates the reliability of its deferred tax
+assets and assesses the need for a valuation allowance on an ongoing basis. In evaluating its deferred tax assets, the Company
+considers whether it is more likely than not that the deferred income tax assets will be realized. The ultimate realization of
+deferred tax assets depends upon generating sufficient future taxable income prior to the expiration of the tax attributes. In
+assessing the need for a valuation allowance the Company must project future levels of taxable income. This assessment requires
+significant judgment. The Company examined the evidence related to a recent history of tax losses, the economic conditions in which
+it operates recent organizational changes, its forecasts and projections. 
+
+Net operating losses can be carried forward
+up to twenty years. As of November 30, 2014 the Company has net operating loss carry forwards in the amount of 4,330,080 which
+start to expire in 2030. 
+
+2014 
+ 2013 
+ 
+ Deferred tax benefit attributable to NOLs 
+ 1,585,300 
+ 1,286,000 
+ 
+ Less Allowance 
+ (1,585,300 
+ (1,286,000 
+ 
+ Total Tax (Benefit) 
+
+The Company is currently open to audit under
+the statute of limitations by the Internal Revenue Service for the years ending November 30, 2010 through 2014. The Company s
+state income tax returns are open to audit under the statute of limitations for the years ending November 30, 2010 through 2014. 
+
+The Company recognizes interest and penalties
+related to income taxes in income tax expense. The Company had incurred no penalties relating to federal income taxes and interest
+for the years ended November 30, 2014 and 2013. 
+
+The Company has an accrued payroll tax liability
+of 118,627.04 for the year ended November 30, 2014 and may incur penalties relating to the timing of payroll payments and filings.
+The Company expects that it will be current with its ongoing payroll tax liability obligations during the first quarter of 2015. 
+
+Note 6 - Intangible Assets 
+
+The Company classifies Intangible Assets 
+within Other Assets on the balance sheets. 
+
+Intangible Assets consisted of the following
+as of November 30, 2014 and 2013: 
+
+Amortizable 
+
+November 30, 2014 
+ November 30, 2013 
+ 
+ Financing Fees 
+ 307,400 
+ 417,100 
+ 
+ Intellectual Property 
+ 421,963 
+
+729,363 
+ 417,100 
+ 
+ Less: accumulated amortization 
+ 84,702 
+ 23,172 
+
+Net amortizable intangible assets 
+ 644,661 
+ 393,928 
+
+Non-Amortizable 
+
+November 30, 2014 
+ November 30, 2013 
+ 
+ Internet domain portfolio 
+ 2,065,952 
+ 2,051,861 
+ 
+ Intellectual property 
+ 
+ 386,817 
+ 
+ Trademarks 
+ 100,000 
+ 100,000 
+
+Net non-amortizable intangible assets 
+ 2,165,952 
+ 2,538,678 
+
+Intellectual Assets are digital assets owned
+by the Company that relate to the creation and operations of websites and directories. 
+
+F- 9 
+
+Note 7 - Accounts Receivable 
+
+The Company reports all receivables at gross
+amounts due from customers. Because losses related to these receivables are deemed improbable due to the short term nature
+and renewal process of the contracts, management uses the direct write-off method to account for bad debts. On a continuing basis,
+management analyzes delinquent receivables and, once these receivable are determined to be uncollectible, they are written off
+through a charge against earnings. Bad debt expense for the years ended November 30, 2014 and 2013 was zero in both periods. 
+
+Note 8 - Earnings per Share 
+
+Basic earnings per share are calculated by
+dividing net income by the weighted average number of common shares outstanding during the period. 
+
+The Company had convertible preferred stock
+issued and outstanding during the nine months ended November 30, 2014 and 2013. The preferred stock has a 0.001 par value with
+each share convertible into 10,000 shares of common stock. There were 640,000 and 270,000 shares of the convertible preferred stock
+issued and outstanding at November 30, 2014 and November 30, 2013 convertible into 6,400,000,000 and 2,700,000,000 shares of common
+stock, respectively. Since these shares are potentially dilutive, they are included in the calculation of fully diluted earnings
+per share. 
+
+Note 9 - Asset Acquisition 
+
+On October 1, 2013, the Company agreed to acquire
+selected assets from two privately held companies; Let s See What Sticks, LLC a Kentucky Corporation and CMS Domains, LLC
+a Nevada Corporation for a total purchase price of 2,150,000. The Company also closed a 5 million credit facility with an institutional
+investor whereby the Company raised a total of 1.3 million to be used to close the asset purchase. The Company paid the seller
+ 1 million at closing. The seller issued to the Company a promissory note in the amount of 1,150,000 payable over 24 month from
+the closing date. The Company agreed to make monthly payments in the amount of 45,000 for the first 12 months post-closing then
+an additional 12 monthly payments of 30,000 beginning on November 1, 2014. Additionally, the Company agreed to make a balloon
+payment in the amount of 250,000 prior to October 1, 2014. As of the year ended November 30, 2014, the Company owed Let s
+See What sticks and CMS Domains, LLC a total of 345,000 of the 1,150,000 promissory note. 
+
+Pursuant to the accounting guidance in ASC
+805-10, the Company determined that the asset purchase did not meet the criteria necessary to constitute a business combination
+and was therefore accounted for as an asset purchase. 
+
+Note 10 - Revolving Credit Facility 
+
+Effective October 1, 2013, the Company closed
+a 5 million revolving credit financing facility with TCA Global Credit Master Fund (TCA). On October 1, 2013, the Company took
+an initial draw down on the line of 1.3 million. The Company used the funds to purchase selected assets from a privately held
+Company, as well as to pay the related deal and transaction fees and to increase its traffic acquisition programs. At November
+30, 2014 the Company had 1,092,000 outstanding relating to the total draw of 1.7 million. At November 30, 2014 the Company had
+ 3.3 million available under the credit facility. The credit facility may be drawn down, at the investor s sole discretion
+subject to a use of proceeds or other investor defined metric such as Company financial performance metric or other investor defined
+metric. Standard requested draw-downs shall not exceed 80 of the repayments made to TCA unless the requested draw down is relating
+to a proposed acquisition. In the event of an acquisition funding request TCA may consider the financial performance of the target
+company, along with other metrics in order to determine whether or not to release additional funds under the facility. There are
+no contractual guarantees or formal metric specific obligations that require TCA to provide the Company with access to additional
+draw downs. Future draw-downs of the credit facility are to be made solely at the discretion of the managers at TCA. The Company
+may also need to raise funds through private placements of its equity securities that may involve dilution to our existing stockholders.
+The Company has no plans to make additional draw downs on the Credit Facility in 2015. 
+
+F- 10 
+
+Note 11 - Notes Payable 
+
+Notes payable to individuals at November 30,
+2014 and 2013 consisted of the following: 
+
+Note payable to CMS Domains, monthly payments of principal through October 1, 2014 of 45,000 monthly payments of principal through October 1, 2015 of 30,000, balloon payment due October 1, 2015 of 250,000. This note contains 10,000 of capitalized interest included in the principal payments. 
+ 345,000 
+ 1,105,000 
+
+Note payable to Institutional Investor with origination date September 22, 2014, maturity date
+ June 22, 2015, and interest at 8 per annum. Payable in cash or stock at company's discretion. Original issue discount on
+ note of 42,564 with unamortized discount of 31,808. 
+ 29,442 
+
+Note payable to Institutional Investor with origination date April 28, 2014, maturity date April
+ 28, 2015, and interest at 8 per annum. Payable in cash or stock at company's discretion. Original issue discount on note
+ of 66,162 with unamortized discount of 27,008. 
+ 40,992 
+
+Note payable to Institutional Investor with origination date June 4, 2014, maturity date March 4, 2015, and interest
+ at 8 per annum. Original issue discount on note of 63,000 with unamortized discount of 21,692. 
+ 41,308 
+
+Note payable to Institutional Investor with origination date August 4, 2014, maturity date August 4, 2015, and interest
+ at 8 per annum. Original issue discount on note of 39,974 with unamortized discount of 27,051. 
+ 20,449 
+
+Note payable to Institutional Investor with origination date October 1, 2014, maturity date May 10, 2015, and
+ interest at 10 per annum. Original issue discount on note of 308,123 with unamortized discount of 187,766. 
+ 16,073 
+
+Note payable to Institutional Investor with origination date November 24, 2014, maturity date December 24, 2015, and
+ interest at 10 per annum. Original issue discount on note of 142,500 with unamortized discount of 140,335. 
+ 2,165 
+
+Note payable to Institutional Investor, due June 1, 2015 
+ 309,792 
+
+Note payable to individual, due January 1, 2015 
+ 188,486 
+ 195,367 
+
+Note payable to individual, due January 1, 2015 
+ 34,500 
+ 34,500 
+
+Note payable to individual, due January 1, 2012. Company has received and extension through December 31, 2014. 
+ 
+ 434,500 
+
+Note payable to individual, due June 1, 2012 
+ 
+ 154,000 
+
+1,028,205 
+ 1,923,367 
+ 
+ Less current maturities of long term debt 
+ 1,028,205 
+ 1,593,367 
+
+Long-term debt, net of current portion 
+ 
+ 330,000 
+
+F- 11 
+
+Note 12- Related Party Transactions 
+
+At November 30, 2014 the company had the following related party
+transactions outstanding: 
+
+Note from Officer 
+ 70,623 
+
+Accrued Officer Compensation 
+ 286,545 
+
+This amount is included in notes payable, related parties. 
+
+This amount is included in accrued expenses. 
+
+Note 13- Leases 
+
+The Company leases its office facilities under two non-cancelable
+operating leases. The lease agreements require the Company to pay property taxes, insurance, common area expenses and maintenance
+costs. The leases expire in April and October, 2019. Total rent expense for the year ended November 30, 2014 was 104,941. Prior
+to its current two leases, the company leased a single facility on a month to month basis ending in April, 2014 rent expense for
+the year ended November 30, 2013 18,156. 
+
+Future minimum lease payments under operating leases are approximately
+as follows: 
+
+FYE 11/30/15 
+ 173,379 
+ 
+ FYE 11/30/16 
+ 179,512 
+ 
+ FYE 11/30/17 
+ 182,579 
+ 
+ FYE 11/30/18 
+ 182,579 
+ 
+ FYE 11/30/19 
+ 113,698 
+
+Note 14 - Equity 
+
+Preferred Stock 
+
+The Company is authorized to issue up to a
+total of one million, two hundred thousand (1,200,000) shares of preferred stock, par value 0.001 per share, without stockholder
+approval. The Board of Directors has the authority, without action by the stockholders, to issue all or any portion of the authorized
+but unissued preferred stock in one or more series and to determine the voting rights, preferences as to dividends and liquidation,
+conversion rights, and other rights of such series. As of November 30, 2014, the Company had 640,000 Series A Convertible Preferred
+shares issued and outstanding. For each share of Series A Convertible Preferred Stock, the holder will receive 10,000 shares of
+common stock upon conversion. 
+
+Common Stock 
+
+The Company is authorized
+to issue up to a total of thirty billion (30,000,000,000) shares of common stock, par value 0.001 per share. The shares of common
+stock are non-assessable, without preemption rights, and do not carry cumulative voting rights. Holders of common stock are entitled
+to one vote for each share held on all matters submitted to a vote of stockholders. Holders of common stock are entitled to receive
+dividends if, as and when declared by the Board of Directors. 
+
+During the period ended November 30, 2014,
+the Company issued the following shares to note holders to reduce its outstanding debt obligations: 
+
+On December 1 st ,
+2013, the Company issued 270,000 shares of Series A Convertible Preferred to an officer for 100,000. 
+
+On December 18, 2013, the Company issued 187,500,000
+shares of common stock to an institutional investor related to the conversion of 206,250 of debt at a price of 0.0011 per share. 
+
+On February 20, 2014, the Company issued 125,000,000
+shares of common stock to an institutional investor related to the conversion of 200,000 of debt at a price of 0.0016 per share. 
+
+On March 31, 2014, the Company issued 208,333,333
+shares of common stock to an institutional investor related to the conversion of 250,000 of debt at a price of 0.0016 per share. 
+
+ On May 27 and 29, 2014, the Company issued
+an aggregate of 241,732,810 shares of common stock to an institutional investor related to the conversion of 156,000 of debt
+at a price of 0.0016 per share. 
+
+F-12 
+
+On May 31, 2014, the Company issued 202,380,952
+shares of common stock to an institutional investor related to the conversion of 135,000 of debt at a price of 0.0016 per share. 
+
+On July 15, 2014, the Company issued 73,636,364
+shares of common stock to an investor related to the conversion of 45,000 of debt at a price of 0.00055 per share. 
+
+On August 13, 2014, the Company issued 162,500,000
+shares of common stock valued at 130,000 to an institutional investor due under a finder s fee agreement relating to the
+Companies 1.3 Million financing with TCA. 
+
+On September 16, 2014, the Company issued 20,000,000
+shares of common stock to TCA Global as an investment banking advisory fee valued at 150,000. 
+
+On October 13.2014, the Company issued 82,500,000
+shares of common stock to an investor related to the conversion of 33,000 of debt at a price of 0.0004 per share. 
+
+On October 27, 2014, the Company issued 81,846,914
+shares of common stock to an investor related to the conversion of 41,812.50 of debt at a price of 0.000511 per share. 
+
+On November 1 st , 2014, the Company
+issued 100,000 shares of Series A Convertible Preferred to an officer for 25,000. 
+
+On November 24, 2014, the Company issued 412,536,864
+shares of common stock to an investor related to the conversion of 125,000 of debt at a price of .00303 
+
+Note 15 - Subsequent Events 
+
+Subsequent to the period ending November
+30, 2014, the Company restructured some of its outstanding debt agreements. The Company agreed to make a 170,000 payment to TCA. 
+
+On
+November 13, 2014, the holders of a majority of the voting power of outstanding capital stock executed a Written Consent in Lieu
+of a Meeting of Stockholders approving an amendment to the Company s Restated Articles of Incorporation, as amended, to
+increase the number of authorized shares, 0.001 par value per share, from a total number of 6,001,200,000 shares to a total number
+of 30,001,200,000 shares, consisting of 30,000,000,000 shares of common stock and 1,200,000 shares of preferred stock. 
+ The authorized share increase became effective on January 6, 2015, after
+filing of the Articles of Amendment with the Secretary of State of the State of Utah. 
+
+F- 13 
+
+ITEM 9. Changes in and Disagreements with
+Accountants on Accounting and Financial Disclosure. 
+
+There have been no disagreements with our independent
+registered public accounting firm in regards to accounting and financial disclosure. 
+
+ITEM 9A. Controls and Procedures. 
+
+At the period ending November
+30, 2014, we conducted an evaluation, under the supervision and with the participation of our chief executive officer and our principal
+financial officer of our disclosure controls and procedures (as defined in Rule 13a-15(e) and Rule 15d-15(e) of the Exchange
+Act). Based upon this evaluation, our chief executive officer and our principal financial officer concluded that our disclosure
+controls and procedures are effective to ensure that information required to be disclosed by us in the reports that we file or
+submit under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the Commission s
+rules and forms. We did experience an issue that delayed the filing of our annual report when we changed auditors in January of
+2015 to a brand new firm and then switched back to our former auditor. This issue has caused us to improve our internal processes
+relating to the timing of future changes of our auditor firm. We will no longer change auditors after the third quarter of any
+fiscal year. The change regarding the timing of any future changes of our auditor was the only change we made to our internal controls.
+There was no other changes in our internal controls or in other factors that could affect these controls during our last fiscal
+year that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+Evaluation of Disclosure
+Controls and Procedures. Our management, principally our chief executive officer and our principal financial officer and related
+accounting consultants, evaluated the effectiveness of our disclosure controls and procedures as of the end of the period covered
+by this report. Based on that evaluation, our chief executive officer and our principal financial officer and related accounting
+consultants concluded that our disclosure controls and procedures as of the end of the period covered by this report were effective
+such that material information required to be disclosed is made known to management and others, as appropriate, to allow timely
+decision regarding required disclosure and that the information required to be disclosed by us in reports filed under the Securities
+Exchange Act of 1934 is (i) recorded, processed, summarized and reported within the time periods specified in the SEC s
+rules and forms and (ii) accumulated and communicated to our management, including our chief executive officer and our principal
+financial officer and related accounting consultants, as appropriate to allow timely decisions regarding required disclosure. A
+controls system cannot provide absolute assurance, however, that the objectives of the controls system are met, and no evaluation
+of controls can provide absolute assurance that all control issues and instances of fraud, if any, within a company have been detected. 
+
+Management s Annual
+Report on Internal Control over Financial Reporting . Our management is responsible for establishing and maintaining adequate
+internal control over financial reporting (as defined in Rule 13a-15(f) under the Exchange Act). Our internal control over financial
+reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation
+of financial statements for external purposes of accounting principles generally accepted in the United States. 
+
+Because of its inherent
+limitations, internal control over financial reporting may not prevent or detect misstatements. Therefore, even those systems determined
+to be effective can provide only reasonable assurance of achieving their control objectives. 
+
+Our management, with the
+participation of the chief executive officer and our principal financial officer and related accounting consultants, evaluated
+the effectiveness of the Company s internal control over financial reporting as of November 30, 2014. In making this assessment,
+our management used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in
+Internal Control Integrated Framework. Based on this evaluation, our management, with the participation of the CEO and
+the CFO, concluded that, as of November 30, 2014, our internal control over financial reporting was effective. 
+
+This annual report does
+not include an attestation report of the Company s registered public accounting firm regarding internal control over financial
+reporting. Management s report was not subject to attestation by the Company s registered public accounting firm pursuant
+to rules of the SEC that permits us to provide only management s report in this annual report. 
+
+Changes in Internal Control over Financial Reporting .
+
+We experienced an issue that delayed the filing of our annual report when we changed auditors in January of
+2015 to a brand new auditing firm and then switched back to our former auditor. This issue has caused us to improve our internal
+processes relating to the timing of future changes of our auditing firm. We will no longer change auditors after the end of the
+third quarter of any fiscal year. The change regarding the timing of any future changes of our auditor was the only change we made
+to our internal controls. 
+
+ITEM 9B. Other Information. 
+
+None. 
+
+24 
+
+PART III 
+
+ITEM 10. Directors and Executive Officers. 
+
+Identification of Directors and Executive
+Officers 
+
+Set forth below is certain information with
+respect to the individuals who are our directors and executive officers as of April 7, 2015. 
+
+Name 
+ Age 
+ Position(s) or Office(s) Held 
+ 
+ Scott Gallagher 
+ 48 
+ President, Chief Executive Officer, acting Chief Financial Officer and Chairman of the Board of Directors 
+ 
+ W. Scott McBride 
+ 43 
+ Director 
+
+Biographies and Qualifications of Our Executive
+Officer and Directors. 
+
+The biographies of our executive officer and
+directors and certain information regarding each individual s experience, attributes, skills and/or qualifications that led
+to the conclusion that the individual should be serving as an executive officer and/or director of our Company are as follows: 
+
+Scott Gallagher - President, Chief Executive
+Officer, acting Chief Financial Officer, and Chairman of the Board of Directors 
+
+Scott Gallagher has served as our President,
+Chief Executive Officer, acting Chief Financial Officer and Chairman of the Board of Directors since January 10, 2008. During his
+twenty-five year business career, Mr. Gallagher founded several public and privately held companies and was an officer and director
+of FTS Group, Inc. from 2002 through 2009. Prior to 2001, Mr. Gallagher was the Chief Investment Officer and a general partner
+with the Avalon Investment Fund, a private hedge fund based in New York City and Philadelphia. Mr. Gallagher previously held SEC
+licenses series 7, 63 and 24, all of which were retired in good standing. We believe Mr. Gallagher is a valuable member of our
+Board due to his depth of strategic, transactional, and senior management experience, both during his time with our Company and
+prior to joining us. 
+
+W. Scott McBride - Director 
+
+W. Scott McBride was appointed to our Board
+of Directors on May 5, 2008. He has consulted and assisted in the development of our Company since our pre-revenue development
+stage, through proof of concept stage, to the present state of the Company as a growing profitable entity. Effective February 1,
+2014 Mr. McBride was hired by the Company to serve as director of operations for our new office in Red Bank, New Jersey where he
+manages the day to day operations. He previously worked, from 2011 through February of 2014 for a privately held company handling
+federal grants Mr. McBride has served as a director of several public and private companies during his professional career, including
+serving as a director of FTS Group, Inc., a publicly traded company from 2002 to 2008. He also founded and managed several ventures
+in a variety of industries successfully. He holds a master s degree from Western University in Colorado. We believe Mr. McBride
+is a valuable member of our Board and our Company due to his depth of operating and strategic experience. 
+
+Other Involvement in Certain Legal Proceedings 
+
+None of our directors or our executive officer
+has been involved in any bankruptcy or criminal proceedings, nor have there been any judgments or injunctions brought against any
+of our directors or executive officer during the last ten years that we consider material to the evaluation of the ability and
+integrity of any director or executive officer. 
+
+Code of Business Conduct and Senior Financial
+Officers Code of Ethics 
+
+We do not currently have a Code of Business
+Conduct and Code of Ethics at this time. As our Company expands we will develop a formal code of business conduct and ethics. 
+
+Procedures for Nominating Directors 
+
+There have been no material changes to the
+procedures by which security holders may recommend nominees to our Board of Directors. 
+
+The Board of Directors will consider candidates
+for director positions that are recommended by any of our stockholders. Any such recommendation should be provided to our Secretary.
+The recommended candidate should be submitted to us in writing addressed to our Secretary, c/o TheDirectory.com, Inc., 2701 N.
+Rocky Pointe Dr. Suite 950, Tampa, FL 33607. The recommendation should include the following information: name of candidate; address,
+phone and fax number of candidate; a statement signed by the candidate certifying that the candidate wishes to be considered for
+nomination to our Board of Directors and stating why the candidate believes that he or she would be a valuable addition to our
+Board of Directors; a summary of the candidate s work experience for the prior five years and the number of shares of our
+stock beneficially owned by the candidate. 
+
+The Board will evaluate the recommended candidate
+and shall determine whether or not to proceed with the candidate in accordance with our procedures. We reserve the right to change
+our procedures at any time to comply with the requirements of applicable laws. 
+
+Audit committee and Financial Expert 
+
+The Board of Directors has no separately designated
+audit committee. The functions of the audit committee are conducted by the entire Board, whose members are named above. We do not
+currently have an audit committee financial expert, as defined in Item 407(d)(5)(ii) of Regulation S-K. Our
+Board of Directors believes that the interests of our stockholders can be adequately served for the time being by the current members
+but intends to add such an expert to the board once a suitable candidate can be identified and recruited. 
+
+25 
+
+ITEM 11. Executive Compensation. 
+
+Executive Compensation 
+
+The following table sets forth all compensation
+for our fiscal years ended November 30, 2014 and 2013 awarded to, earned by, or paid to our Principal Executive Officer, who is
+our sole executive officer. 
+
+Summary Compensation Table for Fiscal Years
+Ended November 30, 2014 and 2013 
+
+Name and Principal Position 
+ 
+ Year Ended 
+ November 30 
+ 
+ Salary 
+ ) 
+ 
+ Total 
+
+Scott Gallagher 
+ President,
+Chief Executive Officer, acting Chief Financial Officer and 
+ Chairman
+of the Board of Directors (Principal Executive Officer) 
+ 2014 
+ 120,000 
+ 120,000 
+
+2013 
+ 75,000 
+ 75,000 
+
+Narrative to Summary Compensation Table 
+
+Employment Agreement with Mr. Gallagher 
+
+On January 10, 2008, we entered into an executive
+employment agreement with Scott Gallagher, our Chief Executive Officer and Chairman of our Board of Directors. Pursuant to the
+terms of the employment agreement, we engaged Mr. Gallagher to serve as our Chief Executive Officer and Chairman for a period of
+two years, subject to earlier termination. We agreed to pay Mr. Gallagher an annual salary of 100,000 and other benefits of a
+nature consistent with his position. Mr. Gallagher was also eligible for an annual bonus in a minimum amount of twenty five percent
+(25 of his annual base salary, based upon the achievement of certain predetermined quantitative and qualitative goals related
+to the operating performance of our Company as mutually determined and agreed upon by us and Mr. Gallagher and in accordance with
+our policies and practices. We also agreed to issue Mr. Gallagher 1,500,000 unrestricted shares of our common stock as a signing
+bonus and to register such shares on a registration statement on Form S-8. Our employment agreement with Mr. Gallagher expired
+in 2010. Mr. Gallagher is currently an employee-at-will and we pay him an annual salary of 120,000 and other benefits of a nature
+consistent with his position. 
+
+Outstanding Equity Awards at Fiscal Year-End 
+
+There are no unexercised options, stock that
+has not vested, or equity incentive plan awards for Mr. Gallagher outstanding as of the end of our last completed fiscal year. 
+
+Director Compensation 
+
+We have no formal or informal arrangements
+or agreements to compensate our directors for services they provide as our directors. Messrs. McBride and Gallagher did not receive
+any compensation during the year ended November 30, 2014 for their respective services as members of our Board of Directors. 
+
+ITEM 12. Security Ownership of Certain Beneficial
+Owners and Management. 
+
+The following tables set forth certain information
+related to the beneficial ownership, as of the close of business on February 13, 2015, of our Series A Convertible Preferred Stock
+and common stock by: (i) all persons that we know who beneficially holds more than 5 of our securities, (ii) all of our directors,
+(iii) our sole executive officer and (iv) our directors and executive officer as a group. The information on beneficial ownership
+in the table and footnotes thereto is based upon data furnished to us by, or on behalf of, the persons listed in the table. 
+
+We have determined beneficial ownership in
+accordance with the rules of the SEC. Except as indicated by the footnotes below, we believe, based on the information furnished
+to us, that the persons and entities named in the table below have sole voting and investment power with respect to all securities
+that they beneficially own, subject to applicable community property laws. 
+
+26 
+
+Stockholders Known by Us to Own 5 or More
+of Our Common Stock 
+
+Name and Address of Beneficial Owner 
+ Amount and Nature of beneficial ownership 
+ Percentage of Shares Beneficially Owned 1 
+
+Typenex Co-Investment, LLC 2 
+ 303 East Wacker Drive, Suite 1200 
+ Chicago, Illinois 60601 
+ 492,453,317 3 
+ 9.6 
+
+(1) 
+ 
+ On April 7, 2015, we had 8,096,034,676
+shares of common shares issued and outstanding. 
+ 
+ (2) 
+ Typenex Co-Investment, LLC, a Utah limited liability company, has rights, under a Convertible Promissory Note and a Warrant, to own an aggregate number of shares of our common stock which, except for a contractual cap on the amount of outstanding shares of our common stock that Typenex may own, would exceed such a cap. Typenex s ownership cap is 9.99 of our outstanding shares. Thus, the number of shares of our common stock beneficially owned by Typenex as of the date of the filing of the Schedule 13G was 492,453,317 shares, which is 9.6 of the 5,129,999,499 shares that were outstanding on February 13, 2015. John Fife is the sole shareholder of reporting person JFV Holdings, Inc., which is the sole shareholder of reporting person Red Cliffs Investments Inc., which is the manager of reporting person Typenex. 
+ 
+ (3) 
+ We relied, in part, on Schedule 13G/A filed jointly with the SEC on January 23, 2015, by Typenex Co-Investment, LLC, Red Cliffs Investment Inc., JFV Holdings, Inc., and John M. Fife. Typenex beneficially owns 492,453,317 shares of our common stock. Red Cliffs Investment Inc., JFV Holdings, Inc., and John Fife do not directly own any shares of our common stock, but each indirectly owns 492,453,317 shares of our common stock. Red Cliffs Investment Inc., a Utah corporation, indirectly owns 492,453,317 shares of our common stock because it serves as the manager of Typenex. JFV Holdings, Inc., a Illinois corporation, indirectly owns 492,453,317 shares of our common stock because it is the sole shareholder of Red Cliffs Investment Inc. John M. Fife, a United States citizen, indirectly owns 492,453,317 shares of our common stock because he is the sole shareholder of JFV Holdings, Inc. 
+
+Series A Convertible Preferred Stock 
+
+Name and address 
+ Nature of beneficial ownership 
+ 
+ Amount of 
+ beneficial 
+ ownership 
+ 
+ Percentage of 
+ class beneficially 
+ owned (2) 
+ 
+ Scott Gallagher (1) 
+ President, Chief Executive Officer, acting Chief Financial Officer and Chairman of the Board of Directors 
+ 640,000 
+ 100 
+
+(1) The mailing address of Mr. Gallagher is c/o TheDirectory.com, Inc., PO Box 340746,
+Tampa, Florida 33694. 
+
+(2) On February 28, 2015, we had 640,000 shares of Series A Convertible Preferred Stock
+issued and outstanding. 
+
+Common Stock Owned by Directors and Executive
+Officer 
+
+Name and address of 
+ beneficial owner (1) 
+ Nature of beneficial ownership 
+ 
+ Amount of 
+ beneficial 
+ ownership 
+ 
+ Percentage of 
+ class beneficially 
+ owned (2) 
+ 
+ Scott Gallagher (3) 
+ President, Chief Executive Officer, acting Chief Financial Officer and Chairman of the Board of Directors 
+ 0 
+
+W. Scott McBride (4) 
+ Director 
+ 250,000 
+
+All directors and executive officer as a group (2 persons) 
+ 250,000 
+
+Percentage of shares beneficially owned does
+not exceed one percent. 
+
+(1) Unless otherwise stated, the address of each beneficial owner listed on the table
+is c/o TheDirectory.com, Inc., PO Box 340746, Tampa, Florida 33694. 
+
+(2) On April 7, 2015, we had 8,096,034,676 shares of common stock issued and outstanding. 
+
+(3) Mr. Gallagher is our President, Chief Executive Officer, acting Chief Financial Officer,
+and Chairman of our Board of Directors. Mr. Gallagher does not beneficially own any shares of our common stock. He does, however,
+hold certain holdings of our preferred stock, and such holdings are disclosed in the table above. 
+
+(4) Mr. McBride is a director of our Company. Mr. McBride beneficially owns 250,000 shares
+of common stock. 
+
+As of April 7, 2015, there are no arrangements
+among our beneficial owners known to management which may result in a change in control of our Company. 
+
+27 
+
+Section 16(a) Beneficial Ownership Reporting Compliance 
+
+Section 16(a) of the Securities Exchange Act
+of 1934 requires our executive officers and directors, and persons who own more than 10 of a registered class of our equity securities,
+to file reports of ownership on Forms 3, 4 and 5 with the SEC. Officers, directors and greater than 10 stockholders are required
+to furnish us with copies of all Forms 3, 4 and 5 they file. 
+
+Based solely on our review of the copies of
+such forms we have received and written representations from certain reporting person that they filed all required reports, we
+believe that all of our officers, directors and greater than 10 stockholders complied with all Section 16(a) filing requirements
+applicable to them with respect to transactions during fiscal year 2014. 
+
+ITEM 13. Certain Relationships and Related
+Transactions, and Director Independence. 
+
+It is our policy that all employees, officers
+and directors must avoid any activity that is or has the appearance of conflicting with the interests of our Company. Our Board
+conducts a review of all related party transactions for potential conflict of interest situations on an ongoing basis and all such
+transactions relating to executive officers and directors must be approved by the full Board. 
+
+Director Independence 
+
+We do not have any independent members on our
+Board of Directors as defined under the standards of independence set forth in the NASDAQ Listing Rules and the rules under the
+Securities Exchange Act of 1934. 
+
+ITEM 14. Principal Accountant Fees and Services. 
+
+Fees Paid to the Independent Accountants 
+
+The aggregate fees billed to us for professional
+accounting services, including the audit of our annual financial statements by our independent registered public accounting firm
+for the fiscal years ended November 30, 2014 and 2013, are set forth in the table below. 
+
+2014 
+ 2013 
+ 
+ Audit fees 
+ 18,000 
+ 10,000 
+ 
+ Accounting and Tax Related Fees 
+ 61,500 
+ 13,548 
+ 
+ Total fees 
+ 79,500 
+ 23,548 
+
+For purposes of the preceding table, the professional fees are classified
+as follows: 
+
+Audit Fees . This column includes
+fees for professional services billed for the audit of the financial statements included in our annual report on Form 10-K
+filing, the review of financial statements included in our quarterly reports on Form 10-Q filings, comfort letters, consents
+and assistance with and review of documents filed with the SEC. The fees include amounts billed to us during each respective calendar
+year. 
+
+Accounting and Tax Related Fees .
+This column includes fees for professional services rendered by our accountant for preparation of our financial statements as well
+as tax compliance, tax planning and tax advice. Tax compliance involves preparation of original and amended tax returns. Tax planning
+and tax advice encompass a diverse range of subjects, including assistance with tax audits and appeals, tax advice related to dispositions,
+and requests for rulings or technical advice from taxing authorities. The fees include amounts billed to us during each respective
+calendar year. 
+
+Board of Director s Pre-Approval Policies and Procedures
+
+We may not engage our independent registered
+public accounting firm to render any audit or non-audit service unless our Board of Directors approves the service in advance.
+100 of the services performed by our independent registered public accounting firm described above were approved in advance by
+our Board of Directors. 
+
+28 
+
+PART IV 
+
+ITEM 15. Financial Statements and Exhibits. 
+
+Exhibit 
+ Description 
+
+3.1. 
+ Articles of Incorporation, filed June 29, 1983 (included as Exhibit 3.1 to the Form 10SB12G filed September 1, 2000, and incorporated herein by reference). 
+
+3.2 
+ Articles of Amendment to the Articles of Incorporation, filed July 17, 1984 (included as Exhibit 3.2 to the Form 10SB12G filed September 1, 2000, and incorporated herein by reference). 
+
+3.3 
+ Articles of Amendment to the Articles of Incorporation, filed September 17, 1984 (included as Exhibit 3.3 to the Form 10SB12G filed September 1, 2000, and incorporated herein by reference). 
+
+3.4 
+ Amended and Restated Articles of Incorporation, filed December 30, 1997 (included as Exhibit 3.4 to the Form 10SB12G filed September 1, 2000, and incorporated herein by reference). 
+
+3.5 
+ Certificate of Amendment to the Amended and Restated Articles of Incorporation, filed May 13, 2003 (included as Exhibit 3 to the Form 10-QSB filed July 15, 2003, and incorporated herein by reference). 
+
+3.6 
+ Amended and Restated Articles of Incorporation, filed July 11, 2008 (included as Exhibit 3.6 to the Company s Current Report on Form 10-12G filed with the SEC on March 6, 2015, and incorporated herein by reference). 
+
+3.7 
+ Articles of Amendment to the Amended and Restated Articles of Incorporation, filed June 22, 2010 (included as Exhibit 3.7 to the Company s Current Report on Form 10-12G filed with the SEC on March 6, 2015, and incorporated herein by reference). 
+
+3.8 
+ Articles of Amendment to the Amended and Restated Articles of Incorporation, filed April 13, 2011 (included as Exhibit 3.8 to the Company s Current Report on Form 10-12G filed with the SEC on March 6, 2015, and incorporated herein by reference). 
+
+3.9 
+ Articles of Amendment to the Amended and Restated Articles of Incorporation, dated May 19, 2011 (included as Exhibit 3.9 to the Company s Current Report on Form 10-12G filed with the SEC on March 6, 2015, and incorporated herein by reference). 
+
+3.10 
+ Articles of Amendment to the Amended and Restated Articles of Incorporation, effective December 10, 2013, filed December 11, 2013 (included as Exhibit 3.1 to the Company s Current Report on Form 10-12G filed with the SEC on March 6, 2015, and incorporated herein by reference). 
+
+3.11 
+ Articles of Amendment to the Amended and Restated Articles of Incorporation, effective January 6, 2015, dated December 22, 2014 (included as Exhibit 3.1 to the Company s Current Report on Form 8-K filed with the SEC on January 7, 2015, and incorporated herein by reference). 
+
+3.12 
+ Bylaws (included as Exhibit 3.5 to the Form 10SB12G filed September 1, 2000, and incorporated herein by reference). 
+
+4.1 
+ Certificate of Designation of Series A Convertible Preferred Stock, filed with the State of Utah Department of Commerce on April 13, 2011 (included in Exhibit 3.8). 
+
+10.1 
+ Executive Employment Agreement between the Company and Scott Gallagher, dated January 10, 2008 (included as Exhibit 10.1 to the Form 8-K filed January 10, 2008, and incorporated herein by reference). 
+
+10.2 
+ Agreement for Purchase and Sale of Stock between the Company and Scott Gallagher, dated January 10, 2008 (included as Exhibit 10.2 to the Form 8-K filed January 10, 2008, and incorporated herein by reference). 
+
+10.3 
+ Agreement for Purchase and Sale of Stock between the Company and 221 Fund, LLC, dated January 10, 2008 (included as Exhibit 10.3 to the Form 8-K filed January 10, 2008, and incorporated herein by reference). 
+
+10.4 
+ Asset Purchase Agreement between the Company and FTS Group, Inc., dated March 19, 2008 (included as Exhibit 10.1 to the Form 8-K filed April 10, 2008, and incorporated herein by reference). 
+
+10.5 
+ Promissory Note between due January 3, 2010, issued by the Company to FTS Group, Inc. (included as Exhibit 10.2 to the Form 8-K filed April 10, 2008, and incorporated herein by reference). 
+
+29 
+
+Exhibit 
+ Description 
+
+10.6 
+ Credit facility with TCA Global Master Fund, dated August 30, 2014 (included as Exhibit 10.6 to the Form 10-12G/A filed May 6, 2014, and incorporated herein by reference). 
+
+23.1 
+ Consent of Independent Registered Public Accounting Firm 
+
+31.1 
+ Certification of Chief Executive Officer and Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+32.1 
+ Certification of Officers pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+101.INS # 
+ XBRL Instance Document. 
+ 
+ 101.SCH # 
+ XBRL Taxonomy Extension Schema. 
+ 
+ 101.CAL # 
+ XBRL Taxonomy Extension Calculation Linkbase. 
+ 
+ 101.DEF # 
+ XBRL Taxonomy Extension Definition Linkbase. 
+ 
+ 101.LAB # 
+ XBRL Taxonomy Extension Label Linkbase. 
+ 
+ 101.PRE # 
+ XBRL Taxonomy Extension Presentation Linkbase. 
+
+Filed herewith. 
+
+# Pursuant to Rule 406T of Regulation
+S-T, the Interactive Data Files on Exhibit 101 hereto are deemed not filed or part of a registration statement or prospectus for
+purposes of Sections 11 or 12 of the Securities Act of 1933, as amended, are deemed not filed for purposes of Section 18 of the
+Securities Exchange Act of 1934, as amended, and otherwise are not subject to liability under those sections. 
+
+Financial Statement Schedules 
+
+Schedules
+have been omitted because the information required to be set forth therein is not applicable or is shown in the financial statements
+or notes thereto. 
+
+30 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 12
+of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed on its behalf
+by the undersigned, thereunto duly authorized. 
+
+Date: April 15, 2015 
+ THEDIRECTORY.COM, INC. 
+
+By /s/ Scott Gallagher 
+
+Name: Scott Gallagher 
+
+Title: Chief Executive Officer and acting Chief Financial Officer 
+
+31 
+
+<EX-31.1>
+ 2
+ thedirectory_10k-ex3101.htm
+ CERTIFICATION
+
+Exhibit 31.1 
+
+Certification of Chief Executive Officer Pursuant
+to Section 302 
+
+ of the Sarbanes-Oxley Act of 2002 
+
+ (18 U.S.C. Section 1350) 
+
+I, Scott Gallagher, certify that: 
+
+1. 
+ I have reviewed this Annual Report on Form 10-K of TheDirectory.com, Inc. (the Company ); 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+ Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in case of annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting. 
+
+5. 
+ The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+
+(b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+/s/ Scott Gallagher 
+
+ Scott Gallagher 
+
+ Chief Executive Officer 
+
+ (Principal Executive Officer) 
+
+ (Principal Financial and Accounting Officer) 
+
+Date: April 15, 2015 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ thedirectory_10k-ex3201.htm
+ CERTIFICATION
+
+Exhibit 32.1 
+
+CERTIFICATION OF OFFICERS PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF
+2002 
+
+ (18 U.S.C. SECTION 1350) 
+
+Pursuant to section 906 of the Sarbanes-Oxley
+Act of 2002 (subsections (a) and (b) of section 1350, chapter 63 of title 18, United States Code), the undersigned officers of
+TheDirectory.com, Inc., a Utah Corporation (the Company ), do hereby certify, to such officers knowledge, that: 
+
+The Annual Report on Form 10-K for the year
+ended November 30, 2014 (the Form 10-K of the Company fully complies with the requirements of Section 13(a) or 15(d)
+of the Securities Exchange Act of 1934, and the information contained in the Form 10-K fairly presents, in all material respects,
+the financial condition and results of operations of the Company. 
+
+/s/ Scott Gallagher 
+
+ Scott Gallagher 
+
+ Chief Executive Officer 
+
+ (Principal Executive Officer) 
+
+ (Principal Financial and Accounting Officer) 
+
+Date: April 15, 2015 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 5
+ seek-20141130.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ seek-20141130.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ seek-20141130_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ seek-20141130_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ seek-20141130_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ seek-20141130_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

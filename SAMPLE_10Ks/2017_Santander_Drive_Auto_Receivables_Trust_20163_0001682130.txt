@@ -1,0 +1,2072 @@
+<Header>
+<FileStats>
+    <FileName>20170331_10-K_edgar_data_1682130_0001193125-17-104499.txt</FileName>
+    <GrossFileSize>257245</GrossFileSize>
+    <NetFileSize>83960</NetFileSize>
+    <NonText_DocumentType_Chars>12986</NonText_DocumentType_Chars>
+    <HTML_Chars>140065</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001193125-17-104499.hdr.sgml : 20170331
+<ACCEPTANCE-DATETIME>20170330180956
+ACCESSION NUMBER:		0001193125-17-104499
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		12
+CONFORMED PERIOD OF REPORT:	20161231
+<DEPOSITOR-CIK>0001383094
+<SPONSOR-CIK>0001540151
+FILED AS OF DATE:		20170331
+DATE AS OF CHANGE:		20170330
+<ABS-ASSET-CLASS>Auto loans
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Santander Drive Auto Receivables Trust 2016-3
+		CENTRAL INDEX KEY:			0001682130
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-206684-03
+		FILM NUMBER:		17727302
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8585 NORTH STEMMONS FREEWAY
+		STREET 2:		SUITE 1100-N
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75247
+		BUSINESS PHONE:		214-237-3530
+
+	MAIL ADDRESS:	
+		STREET 1:		8585 NORTH STEMMONS FREEWAY
+		STREET 2:		SUITE 1100-N
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75247
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SANTANDER DRIVE AUTO RECEIVABLES LLC
+		CENTRAL INDEX KEY:			0001383094
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				204382941
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-139609
+		FILM NUMBER:		17727303
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8585 NORTH STEMMONS FREEWAY
+		STREET 2:		SUITE 1100-N
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75247
+		BUSINESS PHONE:		214-237-3530
+
+	MAIL ADDRESS:	
+		STREET 1:		8585 NORTH STEMMONS FREEWAY
+		STREET 2:		SUITE 1100-N
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75247
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DRIVE AUTO RECEIVABLES LLC
+		DATE OF NAME CHANGE:	20061208
+
+</SEC-Header>
+</Header>
+
+ 0001193125-17-104499.txt : 20170331
+
+10-K
+ 1
+ d368125d10k.htm
+ 10-K
+
+10-K 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 10-K 
+ (Mark One) 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934. 
+ For the fiscal year ended December 31, 2016. 
+ or 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934. 
+ For the transition period from
+ to
+ . 
+ SANTANDER
+DRIVE AUTO RECEIVABLES TRUST 2016-3 (Exact name of issuing entity as specified in its
+charter) Commission file number of the issuing entity:
+ 333-206684-03 Central Index Key Number of issuing
+entity: 0001682130 SANTANDER DRIVE AUTO RECEIVABLES LLC 
+ (Exact name of depositor as specified in its charter) 
+ Commission file number of depositor: 333-206684 
+ Central Index Key Number of depositor: 0001383094 
+ SANTANDER CONSUMER USA INC. 
+ (Exact name of sponsor as specified in its charter) 
+ Central Index Key Number of sponsor: 0001540151 
+ Delaware
+ (State or other jurisdiction of incorporation or organization of the issuing entity) 
+ 30-6539855 
+ (I.R.S. Employer Identification No. of the issuing entity) 
+ c/o Santander Drive Auto Receivables LLC 
+ 1601 Elm Street, Suite 800 
+ Dallas, Texas 75201 
+ (Address of principal executive offices) 
+ (214) 292-1930 
+ (Telephone number, including area code) 
+ Securities Registered Pursuant to Section 12 (b) of the Securities Exchange Act of 1934: None 
+ Securities Registered Pursuant to Section 12 (g) of the Securities Exchange Act of 1934: None 
+ 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities
+Act. Yes No Indicate by check mark if the registrant is not required
+to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes No 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15 (d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90
+days. Yes No Indicate by check mark whether the registrant has
+submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter)
+during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes No 
+ Indicate by check mark if the disclosure of delinquent filers pursuant to Item 405 of Regulation S-K 229.405 of this chapter) is not contained herein and will not be contained, to the best of the Registrants knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. Indicate by check
+mark whether the registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer. See definition of accelerated filer and large accelerated filer in Rule 12b-2 of the Exchange Act. (Check one): 
+
+Large accelerated filer 
+
+Accelerated filer 
+
+Non-accelerated filer 
+ 
+ (Do not check if a smaller reporting company) 
+ 
+ Smaller reporting company 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule
+ 12b-2 of the Act). Yes No 
+ State the aggregate market value of the voting and non-voting common equity held by
+ non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant s most
+recently completed second fiscal quarter. Not applicable . List hereunder the following documents if incorporated by
+reference and the part of the Form 10-K (e.g. Part I, Part II, etc.) into which the document is incorporated: (1) Any annual report to security holders; (2) Any proxy information statement; and
+(3) Any prospectus filed pursuant to Rule 424(b) or (c) under the Securities Act of 1933. The listed documents should be clearly described for identification purposes (e.g., annual report to security holders for fiscal year ended
+December 24, 1980). None . 
+
+PART I 
+ The following items have been omitted in accordance with General Instruction J to Form 10-K: 
+
+Item 1: 
+ 
+ Business 
+
+Item 1A: 
+ 
+ Risk Factors 
+
+Item 2: 
+ 
+ Properties 
+
+Item 3: 
+ 
+ Legal Proceedings 
+
+Item 4: 
+ 
+ Mine Safety Disclosures 
+ Item 1B. Unresolved Staff Comments. 
+ Nothing to report. Substitute information
+provided in accordance with General Instruction J to Form 10-K: Item 1112(b) of Regulation AB.
+Significant Obligors of Pool Assets (Financial Information). Nothing to report. 
+ Item 1114(b)(2) of Regulation AB. Credit Enhancement and Other Support, Except for Certain Derivatives Instruments (Information
+Regarding Significant Enhancement Providers). Nothing to report. 
+ Item 1115(b) of Regulation AB. Certain Derivatives Instruments (Financial Information). 
+ Nothing to report. Item 1117 of
+Regulation AB. Legal Proceedings. Wells Fargo Bank, N.A., as the indenture trustee, has provided the following information: On
+June 18, 2014, a group of institutional investors filed a civil complaint in the Supreme Court of the State of New York, New York County, against Wells Fargo Bank, N.A., in its capacity as trustee under 276 residential mortgage backed
+securities RMBS trusts, which was later amended on July 18, 2014, to increase the number of trusts to 284 RMBS trusts. On November 24, 2014, the plaintiffs filed a motion to voluntarily dismiss the state court action
+without prejudice. That same day, a group of institutional investors filed a civil complaint in the United States District Court for the Southern District of New York against Wells Fargo Bank, N.A., alleging claims against the bank in its
+capacity as trustee for 274 residential mortgage backed securities RMBS trusts (the Complaint ). In December 2014, the plaintiffs motion to voluntarily dismiss their original state court action was granted. As
+with the prior state court action, the Complaint is one of six similar complaints filed contemporaneously against RMBS trustees (Deutsche Bank, Citibank, HSBC, Bank of New York Mellon and US Bank) by a group of institutional investor
+plaintiffs. The Complaint against Wells Fargo Bank, N.A. alleges that the trustee caused losses to investors and asserts causes of action based upon, among other things, the trustee s alleged failure to (i) enforce repurchase
+obligations of mortgage loan sellers for purported breaches of representations and warranties, (ii) notify investors of alleged events of default purportedly caused by breaches by mortgage loan servicers, and (iii) abide by appropriate
+standards of care following alleged events of default. Relief sought includes money damages in an unspecified amount, reimbursement of expenses, and equitable relief. Other cases alleging similar causes of action have been filed against Wells
+Fargo Bank, N.A. and other trustees by RMBS investors in these and other transactions. 
+ 2 
+
+There can be no assurances as to the outcome of the litigation, or the possible impact of the
+litigation on the trustee or the RMBS trusts. However, Wells Fargo Bank, N.A. denies liability and believes that it has performed its obligations under the RMBS trusts in good faith, that its actions were not the cause of any losses to investors,
+and that it has meritorious defenses, and it intends to contest the plaintiffs claims vigorously. 
+ 3 
+
+PART II 
+ The following items have been omitted in accordance with General Instruction J to Form 10-K: 
+
+Item 5: 
+ 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+
+Item 6: 
+ 
+ Selected Financial Data 
+
+Item 7: 
+ 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+Item 7A: 
+ 
+ Quantitative and Qualitative Disclosures about Market Risk 
+
+Item 8: 
+ 
+ Financial Statements and Supplementary Data 
+
+Item 9: 
+ 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+
+Item 9A: 
+ 
+ Controls and Procedures 
+ Item 9B. Other Information. 
+ Santander Consumer USA Inc. SC is party to, or is periodically otherwise involved in, reviews, investigations, and proceedings (both formal and
+informal), and information-gathering requests, by government and self-regulatory agencies, including the Board of Governors of the Federal Reserve System (the Federal Reserve ), the CFPB, the U.S. Department of Justice (the
+ DOJ ), the SEC, the Federal Trade Commission (the FTC and various state regulatory agencies. Since July 2014, SC has received civil subpoenas and civil investigative demands from various federal and state agencies, including
+from the DOJ under the Financial Institutions Reform, Recovery and Enforcement Act, the SEC and several state attorneys general, requesting the production of documents and communications that, among other things, relate to the origination,
+underwriting and securitization of auto loans for varying time periods since 2007. Investigations, litigation proceedings and/or information-gathering requests that SC or any of its subsidiaries or affiliates are involved in, or may become involved
+in, may result in adverse consequences to SC including, without limitation, adverse judgments, settlements, fines, penalties, injunctions, or other actions. 
+ In October 2016, the parent of SC, Santander Consumer Holdings USA Inc. SC Holdings ), filed amendments to certain periodic reports previously
+filed with the SEC after determining that its previously issued audited financial statements for the years ended December 31, 2015, 2014 and 2013, and previously issued unaudited financial statements contained in its Quarterly Reports on Form 10-Q for the quarters ended March 31, 2016, 2015 and 2014, June 30, 2015 and 2014 and September 30, 2015 and 2014 should no longer be relied on and should be restated due to certain errors identified
+in such financial statements relating to (i) SC Holdings methodology for accreting dealer discounts, subvention payments from manufacturers and capitalized origination costs, (ii) SC Holdings lack of consideration of net
+discounts when estimating the allowance for credit losses and (iii) the discount rate used in determining the impairment for loans accounted for as troubled debt restructurings. SC Holdings has reviewed all critical relationships and does not
+foresee a material interruption in, or change to, normal business activities related to the delayed and amended filings. The financial statement errors relate to non-cash items and have no material impact on
+net cash from operating activities, investing activities or financing activities. Additional information about SC Holdings, including information contained in required annual reports on Form 10-K, quarterly
+reports on Form 10-Q and current reports on Form 8-K, is on file with the SEC under the name Santander Consumer USA Holdings Inc. and file number 001-36270. 
+ 4 
+
+SC, as servicer, entered into a Servicing Agreement, dated as of July 15, 2016 (the Subservicing
+Agreement ), and a related Amended and Restated Program Portfolio Schedule (SDART Publicly Registered Transactions), dated as of January 31, 2017 (the Program Portfolio Schedule ), with Santander Consumer International Puerto
+Rico LLC (the Subservicer ), pursuant to which SC delegated to the Subservicer certain of its duties as servicer with respect to the asset pool held by the issuing entity. The Subservicing Agreement and the Program Portfolio Schedule are
+attached as exhibits to this Form 10-K. SC, as sole equity member, entered into a First Amendment, dated as of
+February 28, 2017, to the Amended and Restated Limited Company Agreement of Santander Drive Auto Receivables LLC, the depositor, amending the definition of independent director. The First Amendment is attached as an exhibit to this Form 10-K. 
+ 5 
+
+PART III 
+ The following items have been omitted in accordance with General Instruction J to Form 10-K: 
+
+Item 10: 
+ 
+ Directors, Executive Officers, and Corporate Governance 
+
+Item 11: 
+ 
+ Executive Compensation 
+
+Item 12: 
+ 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+
+Item 13: 
+ 
+ Certain Relationships and Related Transactions, and Director Independence 
+
+Item 14: 
+ 
+ Principal Accounting Fees and Services 
+ Substitute information provided in accordance with General Instruction J to Form
+ 10-K: Item 1119 of Regulation AB. Affiliations and Certain Relationships and Related
+Transactions. Information required by Item 1119 of Regulation AB has been omitted from this report on Form 10-K in reliance on the Instruction to Item 1119. Item 1122 of Regulation AB. Compliance with
+Applicable Servicing Criteria. Each of SC, the Subservicer and Wells Fargo Bank, National Association (each, a Servicing
+Participant have been identified by the issuing entity as parties participating in the servicing function with respect to the pool assets held by the issuing entity. Each of the Servicing Participants has completed a report on an
+assessment of compliance with the servicing criteria applicable to it (each, a Report on Assessment ), which Reports on Assessment are attached as exhibits to this Form 10-K. In addition, each
+of the Servicing Participants has provided an attestation report (each, an Attestation Report by one or more registered public accounting firms, which reports are also attached as exhibits to this Form
+ 10-K. Management s Assessment of Compliance for SC has identified a material instance of
+noncompliance related to the servicing criterion set forth in Item 1122(d)(3)(i) reports to investors, including those to be filed with the Commission, were not maintained in accordance with the transaction agreements and applicable Commission
+requirements. Specifically, reports to investors provided information that was not calculated in accordance with the terms specified in the transaction agreements. This material instance of noncompliance does not relate to the asset-backed
+securities covered in this Form 10-K and issued by the Issuer. The instance relates to two separate matters: 
+ (1) Under the transaction agreements for the Platform, SC, as Servicer, is entitled to receive all Supplemental Servicing Fees as
+additional servicing compensation, and such Supplemental Servicing Fees do not constitute Available Funds. However, SC included Supplemental Servicing Fees for certain transactions in the Platform under other amounts received and
+included such amounts as part of Available Funds in the investor reports; for these transactions, Supplemental Servicing Fees were distributed in accordance with the payment priorities set forth in the related transaction agreements
+rather than being retained by the Servicer. To address this issue and the related instance of noncompliance, SC will stop including
+Supplemental Servicing Fees as other amounts received for all transactions in the Platform beginning with the March 2017 collection period and will retain such amounts as additional servicing compensation as specified in the transaction
+agreements. SC believes that the inclusion of Supplemental Servicing Fees as available funds did not result in any material adverse effect on security holders or the amounts or timing of payments to security holders. 
+ 6 
+
+(2) Under the transaction agreements for the Platform, SC, as Servicer, is required to pay
+all expenses incurred by it in connection with its activities as servicer other than expenses in connection with the sale of a repossessed vehicle, which may be netted from liquidation proceeds from such sale. For certain transactions in the
+Platform, SC did not net external costs associated with repossession expenses attributable to financed vehicles sold after the related receivables have become defaulted receivables; for these transactions, SC paid such repossession expenses and the
+ Liquidation Proceeds included in the investor reports and distributed in accordance with the payment priorities set forth in the related transaction agreements were greater than they would have been had SC reduced the liquidation
+proceeds by the external costs associated with repossession expenses in accordance with the transaction agreements for those transactions. 
+ To address this issue and the related instance of noncompliance, SC will amend the transaction agreements for the effected transactions in the
+Platform to memorialize the agreement of the Servicer to pay such external costs of repossessions rather than netting such amounts from sale proceeds from the disposition of repossessed financed vehicles. SC believes that the payment of
+external costs associated with repossession expenses by the Servicer and the failure to report Liquidation Expenses on the investor reports net of such repossession expenses for certain transactions did not result in any material adverse effect on
+security holders or the amounts or timing of payments to security holders. With respect to the matters described in paragraphs (1) and (2)
+above, SC has already implemented additional policies and procedures to confirm that calculations included in investor reports are completed as set forth in the amended agreements, and is in the process of implementing greater management oversight
+of reporting and implementing enhanced quality assurance controls. Item 1123 of Regulation AB. Servicer Compliance Statements. 
+ SC and the Subservicer have been identified by the issuing entity as the servicers with respect to the asset pool held by the issuing
+entity. Each of SC and the Subservicer have completed a statement of compliance with applicable servicing criteria (each, a Compliance Statement signed by an authorized officer. The Compliance Statements are attached as
+exhibits to this Form 10-K. 
+ 7 
+
+PART IV 
+ Item 15. Exhibits and Financial Statement Schedules. 
+
+(a)(1) Not Applicable. 
+
+(a)(2) Not Applicable. 
+
+(a)(3) Not Applicable. 
+
+(b) Exhibits. 
+ The exhibits listed below are either included or incorporated by reference as indicated: 
+
+Exhibit No. 
+ 
+ Description 
+
+1.1 
+ 
+ Underwriting Agreement, dated as of October 4, 2016, among Santander Drive Auto Receivables LLC Santander Drive ), Santander Consumer USA Inc. SC and J.P. Morgan Securities LLC, as representative of
+the several underwriters 
+
+3.1 
+ 
+ Amended and Restated Limited Liability Company Agreement of Santander Drive dated as of March 7, 2007 
+
+3.2 
+ 
+ First Amendment to Amended and Restated Limited Liability Company Agreement, dated as of February 28, 2017, by SC, as sole equity member (Incorporated by reference to Exhibit 3.1 to Form
+ 8-K filed by the Santander Drive (Commission File No. 333-139609) on March 1, 2017) 
+
+4.1 
+ 
+ Indenture, dated as of October 12, 2016, between Santander Drive Auto Receivables Trust 2016-3, as issuer (the Issuer ), and Wells Fargo Bank, National Association, as
+indenture trustee (the Indenture Trustee 
+
+10.1 
+ 
+ Purchase Agreement, dated as of October 12, 2016, between SC and Santander Drive 
+
+10.2 
+ 
+ Sale and Servicing Agreement, dated as of October 12, 2016, among the Issuer, Santander Drive, SC and the Indenture Trustee 
+
+10.3 
+ 
+ Administration Agreement, dated as of October 12, 2016, among the Issuer, SC, as administrator, and the Indenture Trustee 
+
+10.4 
+ 
+ Amended and Restated Trust Agreement, dated as of October 12, 2016, between Santander Drive and Wilmington Trust, National Association, not in its individual capacity but solely as owner trustee for the Issuer 
+
+31.1 
+ 
+ Certification (Santander Drive) 
+
+33.1 
+ 
+ Management s Assessment of Compliance with SEC Regulation AB Servicing Criteria (SC) 
+
+33.2 
+ 
+ Assessment of Compliance with the Applicable Servicing Criteria (Indenture Trustee) 
+
+33.3 
+ 
+ Management s Assessment of Compliance with SEC Regulation AB Servicing Criteria (Subservicer) 
+ 
+ 8 
+
+34.1 
+ 
+ Report of Independent Registered Public Accounting Firm (PricewaterhouseCoopers LLP with respect to SC) 
+
+34.2 
+ 
+ Report of Independent Registered Public Accounting Firm (KPMG LLP with respect to the Indenture Trustee) 
+
+34.3 
+ 
+ Report of Independent Registered Public Accounting Firm (PricewaterhouseCoopers LLP with respect to the Subservicer) 
+
+35.1 
+ 
+ Servicer Compliance Statement (SC) 
+
+35.2 
+ 
+ Servicer Statement (Subservicer) 
+
+99.1 
+ 
+ Servicing Agreement, dated as of July 15, 2016, by and between SC and the Subservicer (Incorporated by reference to Exhibit 99.1 to Form 8-K filed by Santander Drive (Commission File No. 333-139609) filed on March 1, 2017) 
+
+99.2 
+ 
+ Amended and Restated Program Portfolio Schedule (SDART Publicly Registered Transactions), dated as of January 31, 2017, by and between SC and the Subservicer (Incorporated by reference to Exhibit 99.2 to Form 8-K filed by Santander Drive (Commission File No. 333-139609) on March 1, 2017) 
+
+Incorporated by reference from Form 8-K filed by Santander Drive (Commission File No. 333-206684) and the Issuer (Commission File No. 333-206684-03) with the Securities and Exchange Commission on October 6, 2016. 
+
+Incorporated by reference from Form SF-3 filed by Santander Drive (Commission File No. 333-206684) with the Securities and Exchange
+Commission on August 31, 2015. 
+
+Incorporated by reference from Form 8-K filed by Santander Drive (Commission File No. 333-206684) and the Issuer (Commission File No. 333-206684-03) with the Securities and Exchange Commission on October 13, 2016. 
+
+(c) 
+ Not Applicable. Supplemental information to be Furnished With Reports Filed Pursuant to Section 15(d) of
+the Act by Registrants Which Have Not Registered Securities Pursuant to Section 12 of the Act. No annual report, proxy statement, form of proxy
+or other proxy soliciting material has been sent to certificateholders, and the registrant does not presently contemplate sending any such materials subsequent to the filing of this report. 
+ 9 
+
+SIGNATURES 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to
+be signed on its behalf by the undersigned, thereunto duly authorized. Date: March 30, 2017 
+
+SANTANDER DRIVE AUTO RECEIVABLES LLC, as depositor 
+
+By: 
+ 
+ /s/ Andrew Kang 
+ 
+ Name: 
+ 
+ Andrew Kang 
+ 
+ Title: 
+ 
+ President and Chief Executive Officer 
+
+(senior officer in charge of securitization of the depositor) 
+
+10 
+
+EXHIBIT INDEX 
+
+Exhibit No. 
+ 
+ Description 
+
+1.1 
+ 
+ Underwriting Agreement, dated as of October 4, 2016, among Santander Drive Auto Receivables LLC Santander Drive ), Santander Consumer USA Inc. SC and J.P. Morgan Securities LLC, as representative of
+the several underwriters 
+
+3.1 
+ 
+ Amended and Restated Limited Liability Company Agreement of Santander Drive dated as of March 7, 2007 
+
+3.2 
+ 
+ First Amendment to Amended and Restated Limited Liability Company Agreement, dated as of February 28, 2017, by SC, as sole equity member (Incorporated by reference to Exhibit 3.1 to Form
+ 8-K filed by the Santander Drive (Commission File No. 333-139609) on March 1, 2017) 
+
+4.1 
+ 
+ Indenture, dated as of October 12, 2016, between Santander Drive Auto Receivables Trust 2016-3, as issuer (the Issuer ), and Wells Fargo Bank, National Association, as
+indenture trustee (the Indenture Trustee 
+
+10.1 
+ 
+ Purchase Agreement, dated as of October 12, 2016, between SC and Santander Drive 
+
+10.2 
+ 
+ Sale and Servicing Agreement, dated as of October 12, 2016, among the Issuer, Santander Drive, SC and the Indenture Trustee 
+
+10.3 
+ 
+ Administration Agreement, dated as of October 12, 2016, among the Issuer, SC, as administrator, and the Indenture Trustee 
+
+10.4 
+ 
+ Amended and Restated Trust Agreement, dated as of October 12, 2016, between Santander Drive and Wilmington Trust, National Association, not in its individual capacity but solely as owner trustee for the Issuer 
+
+31.1 
+ 
+ Certification (Santander Drive) 
+
+33.1 
+ 
+ Management s Assessment of Compliance with SEC Regulation AB Servicing Criteria (SC) 
+
+33.2 
+ 
+ Assessment of Compliance with the Applicable Servicing Criteria (Indenture Trustee) 
+
+33.3 
+ 
+ Management s Assessment of Compliance with SEC Regulation AB Servicing Criteria (Subservicer) 
+
+34.1 
+ 
+ Report of Independent Registered Public Accounting Firm (PricewaterhouseCoopers LLP with respect to SC) 
+
+34.2 
+ 
+ Report of Independent Registered Public Accounting Firm (KPMG LLP with respect to the Indenture Trustee) 
+
+34.3 
+ 
+ Report of Independent Registered Public Accounting Firm (PricewaterhouseCoopers LLP with respect to the Subservicer) 
+ 11 
+
+35.1 
+ 
+ Servicer Compliance Statement (SC) 
+
+35.2 
+ 
+ Servicer Compliance Statement (Subservicer) 
+
+99.1 
+ 
+ Servicing Agreement, dated as of July 15, 2016, by and between SC and the Subservicer (Incorporated by reference to Exhibit 99.1 to Form 8-K filed by Santander Drive (Commission File No. 333-139609) filed on March 1, 2017) 
+
+99.2 
+ 
+ Amended and Restated Program Portfolio Schedule (SDART Publicly Registered Transactions), dated as of January 31, 2017, by and between SC and the Subservicer (Incorporated by reference to Exhibit 99.2 to Form 8-K filed by Santander Drive (Commission File No. 333-139609) on March 1, 2017) 
+
+Incorporated by reference from Form 8-K filed by Santander Drive (Commission File No. 333-206684) and the Issuer (Commission File No. 333-206684-03) with the Securities and Exchange Commission on October 6, 2016. 
+
+Incorporated by reference from Form SF-3 filed by Santander Drive (Commission File No. 333-206684) with the Securities and Exchange
+Commission on August 31, 2015. 
+
+Incorporated by reference from Form 8-K filed by Santander Drive (Commission File No. 333-206684) and the Issuer (Commission File No. 333-206684-03) with the Securities and Exchange Commission on October 13, 2016. 
+ 12 
+
+<EX-31.1>
+ 2
+ d368125dex311.htm
+ EX-31.1
+
+EX-31.1 
+
+Exhibit 31.1 
+ CERTIFICATION I, Andrew
+Kang, certify that: 1. I have reviewed this report on Form 10-K and all reports on Form 10-D required to be filed in respect of the period
+covered by this report on Form 10-K of Santander Drive Auto Receivables Trust 2016-3 (the Exchange Act periodic reports 2.
+Based on my knowledge, the Exchange Act periodic reports, taken as a whole, do not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by this report; 3. Based on my knowledge, all of the distribution,
+servicing and other information required to be provided under Form 10-D for the period covered by this report is included in the Exchange Act periodic reports; 
+ 4. Based on my knowledge and the servicer compliance statements required in this report under Item 1123 of Regulation AB, and except
+as disclosed in the Exchange Act periodic reports, the servicers have fulfilled their obligations under the servicing agreements in all material respects; and 
+ 5. All of the reports on assessment of compliance with servicing criteria for asset-backed securities and their related attestation reports on
+assessment of compliance with servicing criteria for asset-backed securities required to be included in this report in accordance with Item 1122 of Regulation AB and Exchange Act Rules 13a-18 and 15d-18 have been included as an exhibit to this
+report, except as otherwise disclosed in this report. Any material instances of noncompliance described in such reports have been disclosed in this report on Form 10-K. 
+ In giving the certifications above, I have reasonably relied on information provided to me by the following unaffiliated parties: Wells Fargo
+Bank, National Association. 
+
+By: 
+ 
+ /s/ Andrew Kang 
+ 
+ Name: 
+ 
+ Andrew Kang 
+ 
+ Title: 
+ 
+ President and Chief Executive Officer 
+
+Santander Drive Auto Receivables LLC, as Depositor 
+
+(senior officer in charge of securitization of the depositor) 
+ 
+ Date: 
+ 
+ March 30, 2017 
+
+</EX-31.1>
+
+<EX-33.1>
+ 3
+ d368125dex331.htm
+ EX-33.1
+
+EX-33.1 
+
+Exhibit 33.1 
+
+Management s Assessment of Compliance with SEC Regulation AB Servicing Criteria 
+
+1. 
+ Santander Consumer USA Inc. SC is responsible for assessing compliance with the servicing criteria applicable to it under paragraph (d) of Item 1122 of Regulation AB as of and for the year ended
+December 31, 2016. The transactions covered by this report are all publicly registered transactions backed by auto loans for which Santander Consumer USA Inc. is the servicer (the Platform ). See Appendix A. 
+
+2. 
+ SC used the criteria set forth in paragraph (d) of Item 1122 of Regulation AB (See Appendix B) to assess the compliance with the applicable servicing criteria for which it is responsible, except for the following
+criteria which SC determined are not applicable to the activities performed by SC or through its vendors with respect to the Platform: 1122(d)(1)(iv), 1122(d)(2)(iii), 1122(d)(2)(vi), 1122(d)(4)(ix), 1122(d)(4)(x), 1122(d)(4)(xi), 1122(d)(4)(xii),
+and 1122(d)(4)(xiii). 
+
+3. 
+ There were no external enhancements as of and for the year ended December 31, 2016, with respect to the Platform taken as a whole. 
+
+4. 
+ With respect to servicing criterion, Item 1122(d)(1)(iii), some of the transactions included in the Platform require the Company to utilize a backup servicer when certain events, which are specified within the
+transaction agreements, occur. As of and for the year ended December 31, 2016, the events that would require a backup servicer as listed in the transaction documents did not occur, and therefore the requirement for a backup servicer does not
+apply. 
+
+5. 
+ SC has engaged vendors that are not servicers as defined in Item 1101(j) of Regulation AB to perform limited or scripted activities with respect to the servicing criteria applicable to each vendor s activities as
+set forth in Appendix B of this report. SC elected to take responsibility for assessing compliance with the portion of the servicing criteria applicable to each such vendor. SC has policies and procedures in place to provide reasonable assurance
+that the vendors activities comply in all material respects with the portion of the servicing criteria applicable to each vendor. SC is solely responsible for determining that it meets the requirements to apply Interpretation 200.06 of the SEC
+Compliance and Disclosure Interpretations. 
+
+6. 
+ With respect to servicing criterion set forth in Item 1122(d)(3)(i), reports to investors, including those to be filed with the Commission, were not maintained in accordance with the transactions agreements and
+applicable Commission requirements. Specifically, reports to investors provided information that was not calculated in accordance with the terms specified in the transaction agreements. The affected transactions included in the Platform are
+identified on Appendix A with an asterisk. 
+
+7. 
+ Except for the material instance of noncompliance described in the paragraph above, SC has complied, in all material respects, with the applicable servicing criteria for which it is responsible, as of and for the year
+ended December 31, 2016, with respect to the Platform taken as a whole. 
+
+8. 
+ SC has not identified and is not aware of any material instance of noncompliance by the vendors with regard to the applicable servicing criteria, as of and for the year ended December 31, 2016, with respect to the
+Platform taken as a whole. 
+
+9. 
+ SC has not identified any material deficiency in its policies and procedures to monitor the compliance by the vendors with the applicable servicing criteria, as of and for the year ended December 31, 2016, with
+respect to the Platform taken as a whole. 
+
+10. 
+ PricewaterhouseCoopers LLP, a registered public accounting firm, has issued an attestation report on SC s compliance with the applicable servicing criteria as of and for the year ended December 31, 2016.
+
+March 30, 2017 
+ Santander Consumer USA Inc. 
+
+By: 
+ 
+ /s/ Rich Morrin 
+
+By: 
+ 
+ /s/ Andrew Kang 
+
+Rich Morrin 
+
+Andrew Kang 
+
+Chief Operating Officer 
+
+EVP Capital Markets Treasurer 
+
+Santander Consumer USA Inc. 
+
+Santander Consumer USA Inc. 
+
+Appendix A 
+ The Transactions in the Platform include the following: 
+
+1 
+ 
+ SDART 2011-3 
+ 
+ 2 
+ 
+ SDART 2011-4 
+ 
+ 3 
+ 
+ SDART 2012-1 
+ 
+ 4 
+ 
+ SDART 2012-2 
+ 
+ 5 
+ 
+ SDART 2012-3 
+ 
+ 6 
+ 
+ SDART 2012-4 
+ 
+ 7 
+ 
+ SDART 2012-5 
+ 
+ 8 
+ 
+ SDART 2012-6 
+ 
+ 9 
+ 
+ SDART 2013-1 
+ 
+ 10 
+ 
+ SDART 2013-2 
+ 
+ 11 
+ 
+ SDART 2013-3 
+ 
+ 12 
+ 
+ SDART 2013-4 
+ 
+ 13 
+ 
+ SDART 2013-5 
+ 
+ 14 
+ 
+ SDART 2014-1 
+ 
+ 15 
+ 
+ SDART 2014-2 
+ 
+ 16 
+ 
+ SDART 2014-3 
+ 
+ 17 
+ 
+ SDART 2014-4 
+ 
+ 18 
+ 
+ SDART 2014-5 
+ 
+ 19 
+ 
+ SDART 2015-1 
+ 
+ 20 
+ 
+ SDART 2015-2 
+ 
+ 21 
+ 
+ SDART 2015-3 
+ 
+ 22 
+ 
+ SDART 2015-4 
+ 
+ 23 
+ 
+ SDART 2015-5 
+ 
+ 24 
+ 
+ SDART 2016-1 
+ 
+ 25 
+ 
+ SDART 2016-2 
+ 
+ 26 
+ 
+ SDART 2016-3 
+
+SC has identified a material instance of noncompliance with respect to this transaction, as described more fully in paragraph 6 of Management s Assessment of Compliance with SEC Regulation AB Servicing Criteria.
+ 
+ App A-1 
+
+APPENDIX B 
+ SERVICING CRITERIA TO BE ADDRESSED IN SERVICER S ASSESSMENT OF COMPLIANCE 
+
+Servicing Criteria 
+
+Applicable Servicing Criteria 
+ 
+ Inapplicable Servicing Criteria 
+ 
+ Reference 
+ 
+ Criteria 
+ 
+ Performed Directly by SC 
+ 
+ Performed by a Vendor
+for which SC is the Responsible Party 
+
+General Servicing Considerations 
+
+1122(d)(1)(i) 
+ 
+ Policies and procedures are instituted to monitor any performance or other triggers and events of default in accordance with the transaction agreements. 
+ 
+ X 
+
+1122(d)(1)(ii) 
+ 
+ If any material servicing activities are outsourced to third parties, policies and procedures are instituted to monitor the third party s performance and compliance with such servicing activities. 
+ 
+ X 
+
+1122(d)(1)(iii) 
+ 
+ Any requirements in the transaction agreements to maintain a back-up servicer for the pool assets are maintained. 
+ 
+ X 1 
+
+1122(d)(1)(iv) 
+ 
+ A fidelity bond and errors and omissions policy is in effect on the party participating in the servicing function throughout the reporting period in the amount of coverage required by and otherwise in accordance with the terms of
+the transaction agreements. 
+
+X 2 
+
+1122(d)(1)(v) 
+ 
+ Aggregation of information, is mathematically accurate and the information conveyed accurately reflects the information. 
+ 
+ X 
+
+Cash Collection and Administration 
+
+1122(d)(2)(i) 
+ 
+ Payments on pool assets are deposited into the appropriate custodial bank accounts and related bank clearing accounts no more than two business days following receipt, or such other number of days specified in the transaction
+agreements. 
+ 
+ X 
+ 
+ X 
+
+1122(d)(2)(ii) 
+ 
+ Disbursements made via wire transfer on behalf of an obligor or to an investor are made only by authorized personnel. 
+ 
+ X 
+
+1122(d)(2)(iii) 
+ 
+ Advances of funds or guarantees regarding collections, cash flows or distributions, and any interest or other fees charged for such advances, are made, reviewed and approved as specified in the transaction agreements. 
+
+X 
+
+1122(d)(2)(iv) 
+ 
+ The related accounts for the transaction, such as cash reserve accounts or accounts established as a form of overcollateralization, are separately maintained (e.g., with respect to commingling of cash) as set forth in the
+transaction agreements. 
+ 
+ X 
+
+App B-1 
+
+Servicing Criteria 
+
+Applicable Servicing Criteria 
+ 
+ Inapplicable Servicing Criteria 
+ 
+ Reference 
+ 
+ Criteria 
+ 
+ Performed Directly by SC 
+ 
+ Performed by a Vendor
+for which SC is the Responsible Party 
+
+1122(d)(2)(v) 
+ 
+ Each custodial account is maintained at a federally insured depository institution as set forth in the transaction agreements. For purposes of this criterion, federally insured depository institution with respect to a
+foreign financial institution means a foreign financial institution that meets the requirements of Rule 13k-1(b)(1) of the Securities Exchange Act. 
+ 
+ X 
+
+1122(d)(2)(vi) 
+ 
+ Unissued checks are safeguarded so as to prevent unauthorized access. 
+
+X 
+
+1122(d)(2)(vii) 
+ 
+ Reconciliations are prepared on a monthly basis for all asset-backed securities related bank accounts, including custodial accounts and related bank clearing accounts. These reconciliations are (A) mathematically accurate;
+(B) prepared within 30 calendar days after the bank statement cutoff date, or such other number of days specified in the transaction agreements; (C) reviewed and approved by someone other than the person who prepared the reconciliation;
+and (D) contain explanations for reconciling items. These reconciling items are resolved within 90 calendar days of their original identification, or such other number of days specified in the transaction agreements. 
+ 
+ X 
+
+Investor Remittances and Reporting 
+
+1122(d)(3)(i) 
+ 
+ Reports to investors, including those to be filed with the Commission, are maintained in accordance with the transaction agreements and applicable Commission requirements. Specifically, such reports (A) are prepared in
+accordance with timeframes and other terms set forth in the transaction agreements; (B) provide information calculated in accordance with the terms specified in the transaction agreements; (C) are filed with the Commission as required by
+its rules and regulations; and (D) agree with investors or the trustee s records as to the total unpaid principal balance and number of pool assets serviced by the Servicer. 
+ 
+ X 
+
+1122(d)(3)(ii) 
+ 
+ Amounts due to investors are allocated and remitted in accordance with timeframes, distribution priority and other terms set forth in the transaction agreements. 
+ 
+ X 3 
+
+1122(d)(3)(iii) 
+ 
+ Disbursements made to an investor are posted within two business days to the Servicer s investor records, or such other number of days specified in the transaction agreements. 
+ 
+ X 3 
+
+1122(d)(3)(iv) 
+ 
+ Amounts remitted to investors per the investor reports agree with cancelled checks, or other form of payment, or custodial bank statements. 
+ 
+ X 3 
+
+Pool Asset Administration 
+
+1122(d)(4)(i) 
+ 
+ Collateral or security on pool assets is maintained as required by the transaction agreements or related asset pool documents. 
+ 
+ X 
+ 
+ X 
+
+1122(d)(4)(ii) 
+ 
+ Pool assets and related documents are safeguarded as required by the transaction agreements 
+ 
+ X 
+ 
+ X 
+
+App B-2 
+
+Servicing Criteria 
+
+Applicable Servicing Criteria 
+ 
+ Inapplicable Servicing Criteria 
+ 
+ Reference 
+ 
+ Criteria 
+ 
+ Performed Directly by SC 
+ 
+ Performed by a Vendor
+for which SC is the Responsible Party 
+
+1122(d)(4)(iii) 
+ 
+ Any additions, removals or substitutions to the asset pool are made, reviewed and approved in accordance with any conditions or requirements in the transaction agreements. 
+ 
+ X 
+
+1122(d)(4)(iv) 
+ 
+ Payments on pool assets, including any payoffs, made in accordance with the related pool asset documents are posted to the Servicer s obligor records maintained no more than two business days after receipt, or such other number
+of days specified in the transaction agreements, and allocated to principal, interest or other items (e.g., escrow) in accordance with the related asset pool documents. 
+ 
+ X 
+ 
+ X 
+
+1122(d)(4)(v) 
+ 
+ The Servicer s records regarding the accounts and the accounts agree with the Servicer s records with respect to an obligor s unpaid principal balance. 
+ 
+ X 
+
+1122(d)(4)(vi) 
+ 
+ Changes with respect to the terms or status of an obligor s account (e.g., loan modifications or re-agings) are made, reviewed and approved by authorized personnel in accordance with the
+transaction agreements and related pool asset documents. 
+ 
+ X 
+ 
+ X 
+
+1122(d)(4)(vii) 
+ 
+ Loss mitigation or recovery actions (e.g., forbearance plans, modifications and deeds in lieu of foreclosure, foreclosures and repossessions, as applicable) are initiated, conducted and concluded in accordance with the timeframes or
+other requirements established by the transaction agreements. 
+ 
+ X 
+ 
+ X 
+
+1122(d)(4)(viii) 
+ 
+ Records documenting collection efforts are maintained during the period a pool asset is delinquent in accordance with the transaction agreements. Such records are maintained on at least a monthly basis, or such other period
+specified in the transaction agreements, and describe the entity s activities in monitoring delinquent pool assets including, for example, phone calls, letters and payment rescheduling plans in cases where delinquency is deemed temporary (e.g.,
+illness or unemployment). 
+ 
+ X 
+ 
+ X 
+
+1122(d)(4)(ix) 
+ 
+ Adjustments to interest rates or rates of return for pool assets with variable rates are computed based on the related pool asset documents. 
+
+X 
+
+1122(d)(4)(x) 
+ 
+ Regarding any funds held in trust for an obligor (such as escrow accounts): (A) such funds are analyzed, in accordance with the obligor s Account documents, on at least an annual basis, or such other period specified in the
+transaction agreements; (B) interest on such funds is paid, or credited, to obligors in accordance with applicable Account documents and state laws; and (C) such funds are returned to the obligor within 30 calendar days of full repayment
+of the related Accounts, or such other number of days specified in the transaction agreements. 
+
+X 
+
+1122(d)(4)(xi) 
+ 
+ Payments made on behalf of an obligor (such as tax or insurance payments) are made on or before the related penalty or expiration dates, as indicated on the appropriate bills or notices for such payments, provided that such support
+has been received by the servicer at least 30 calendar days prior to these dates, or such other number of days specified in the transaction agreements. 
+
+X 
+ 
+ App B-3 
+
+Servicing Criteria 
+
+Applicable Servicing Criteria 
+ 
+ Inapplicable Servicing Criteria 
+ 
+ Reference 
+ 
+ Criteria 
+ 
+ Performed Directly by SC 
+ 
+ Performed by a Vendor
+for which SC is the Responsible Party 
+
+1122(d)(4)(xii) 
+ 
+ Any late payment penalties in connection with any payment to be made on behalf of an obligor are paid from the servicer s funds and not charged to the obligor, unless the late payment was due to the obligor s error or
+omission. 
+
+X 
+
+1122(d)(4)(xiii) 
+ 
+ Disbursements made on behalf of an obligor are posted within two business days to the obligor s records maintained by the servicer, or such other number of days specified in the transaction agreements. 
+
+X 
+
+1122(d)(4)(xiv) 
+ 
+ Delinquencies, charge-offs and uncollectible accounts are recognized and recorded in accordance with the transaction agreements. 
+ 
+ X 
+
+1122(d)(4)(xv) 
+ 
+ Any external enhancement or other support, identified in Item 1114(a)(1) through (3) or Item 1115 of Regulation AB, is maintained as set forth in the transaction agreements. 
+ 
+ X 4 
+
+1 
+ Some of the transactions in the Platform require SC to utilize a backup servicer when certain events, which are specified in the transaction agreements, occur. As of and for the year ended December 31, 2016, none
+of these events occurred. 
+
+2 
+ None of the transactions included in the Platform require SC to maintain a fidelity bond and errors and omissions policy. 
+
+3 
+ Solely as it relates to allocation and/or remittance to the relevant indenture trustee. 
+
+4 
+ There were no external enhancements or other support as of and for the year ended December 31, 2016. 
+ App B-4 
+
+</EX-33.1>
+
+<EX-33.2>
+ 4
+ d368125dex332.htm
+ EX-33.2
+
+EX-33.2 
+
+Exhibit 33.2 
+ ASSESSMENT OF COMPLIANCE WITH THE APPLICABLE SERVICING CRITERIA 
+ The management Management of the Corporate Trust Services division of Wells Fargo Bank, National Association (the
+ Company is responsible for assessing the Company s compliance with the applicable servicing criteria set forth in Item 1122(d) of Regulation AB of the Securities and Exchange Commission. Management has determined that
+the servicing criteria are applicable in regards to the servicing platform for the period as follows: Period : As of and for the twelve months
+ended December 31, 2016 (the Period ). Platform : The platform consists of asset-backed securities ABS transactions for which the Company provides trustee (except Delaware trustee or owner trustee) and/or paying agent services and for which (i) some or all of the offered securities for such ABS transactions were publicly offered pursuant to a
+registration statement delivered under the Securities Act of 1933, as amended, or (ii) the offered securities for such ABS transactions were privately issued pursuant to an exemption from registration and the Company has an obligation under the
+transaction agreements to deliver an assessment of compliance with the applicable servicing criteria under Item 1122(d) of Regulation AB; provided however that, the platform excludes (a) any transactions for which the securities issued are
+mortgage-backed securities or mortgage-related asset-backed securities and (b) certain transactions for which the issuing entity has a fiscal year that ends on a date other than the end of the calendar year (the ABS
+Platform ). Appendix A identifies the individual transactions defined by Management as constituting the ABS Platform for the Period. 
+ Applicable Servicing Criteria : All servicing criteria set forth in Item 1122(d) applicable to the Company s obligations in the related
+transaction agreements with respect to the ABS Platform for the Period, except for the following servicing criteria: 1122(d)(1)(v), 1122(d)(2)(iii), 1122(d)(3)(i)(B), 1122(d)(3)(i)(C), 1122(d)(3)(i)(D), 1122(d)(4)(ii), 1122(d)(4)(iv), 1122(d)(4)(v),
+1122(d)(4)(vi), 1122(d)(4)(vii), 1122(d)(4)(viii), 1122(d)(4)(ix), 1122(d)(4)(x), 1122(d)(4)(xi), 1122(d)(4)(xii), 1122(d)(4)(xiii) and 1122(d)(4)(xiv), which Management has determined are not applicable to the Company s obligations in the
+related transaction agreements with respect to the ABS Platform for the Period; provided however that, with respect to the ABS Platform (a) servicing criterion 1122(d)(3)(i)(A) is applicable only as it relates to the Company s obligation
+to distribute or make available to investors, in accordance with the timeframes set forth in the transaction agreements, the relevant investor reports received by the Company from the entity preparing such reports; (b) servicing criterion
+1122(d)(3)(ii) is applicable only as it relates to the Company s obligation to make remittances to investors in accordance with the transaction agreements; and (c) servicing criterion 1122(d)(4)(iii) is applicable only as it relates to the
+Company s obligation to obtain an Officer s Certificate from the servicer and report any additions, removals and substitutions to investors on the relevant investor report, in each case, in accordance with the transaction agreements (the
+ Applicable Servicing Criteria ). With respect to the ABS Platform and the Period, Management provides the following assessment of the
+Company s compliance with respect to the Applicable Servicing Criteria: 1. Management is responsible for assessing the Company s compliance with
+the Applicable Servicing Criteria. 2. Management has assessed the Company s compliance with the Applicable Servicing Criteria. In performing this
+assessment, Management used the criteria set forth by the Securities and Exchange Commission in paragraph (d) of Item 1122 of Regulation AB. 3.
+With respect to applicable servicing criteria 1122(d)(1)(ii), 1122(d)(4)(i) and 1122(d)(4)(xv), Management has determined that there were no activities performed during the Period with respect to the ABS Platform, because there were no occurrences
+of events that would require the Company to perform such activities. 4. Based on such assessment for the Period, the Company has complied in all material
+respects with the Applicable Servicing Criteria. 
+
+KPMG LLP, an independent registered public accounting firm, has issued an attestation report with respect to
+Management s assessment of the Company s compliance with the Applicable Servicing Criteria for the Period. 
+
+WELLS FARGO BANK, National Association 
+
+By: 
+ 
+ /s/ Bruce C. Wandersee 
+
+Bruce C. Wandersee 
+
+Title: 
+ 
+ Senior Vice President 
+
+Dated: 
+ 
+ February 21, 2017 
+
+2 
+
+Appendix A to the Company s Assessment of Compliance with the Applicable Servicing Criteria
+
+ABS Platform Transactions 
+ 
+ Deal Identifier 
+ 
+ Long Name 
+
+AMCAR114 
+ 
+ AmeriCredit Automobile Receivables Trust 2011-4 
+ 
+ AMCAR115 
+ 
+ AmeriCredit Automobile Receivables Trust 2011-5 
+ 
+ AMCAR121 
+ 
+ AmeriCredit Automobile Receivables Trust 2012-1 
+ 
+ AMCAR122 
+ 
+ AmeriCredit Automobile Receivables Trust 2012-2 
+ 
+ AMCAR123 
+ 
+ AmeriCredit Automobile Receivables Trust 2012-3 
+ 
+ AMCAR124 
+ 
+ AmeriCredit Automobile Receivables Trust 2012-4 
+ 
+ AMCAR134 
+ 
+ AmeriCredit Automobile Receivables Trust 2013-4 
+ 
+ AMOT124 
+ 
+ Ally Master Owner Trust 2012-4 
+ 
+ AMOT125 
+ 
+ Ally Master Owner Trust 2012-5 
+ 
+ AMOT131 
+ 
+ Ally Master Owner Trust 2013-1 
+ 
+ AMOT132 
+ 
+ Ally Master Owner Trust 2013-2 
+ 
+ AMOT133 
+ 
+ Ally Master Owner Trust 2013-3 
+ 
+ AMOT141 
+ 
+ Ally Master Owner Trust 2014-1 
+ 
+ AMOT142 
+ 
+ Ally Master Owner Trust 2014-2 
+ 
+ AMOT143 
+ 
+ Ally Master Owner Trust 2014-3 
+ 
+ AMOT144 
+ 
+ Ally Master Owner Trust 2014-4 
+ 
+ AMOT145 
+ 
+ Ally Master Owner Trust 2014-5 
+ 
+ AMOT151 
+ 
+ Ally Master Owner Trust 2015-1 
+ 
+ AMOT152 
+ 
+ Ally Master Owner Trust 2015-2 
+ 
+ AMOT153 
+ 
+ Ally Master Owner Trust 2015-3 
+ 
+ BANKONESER1 
+ 
+ Chase Issuance Trust 
+ 
+ CHASE97ABOAT 
+ 
+ Chase Manhattan Marine Owner Trust 1997-A 
+ 
+ CHASE97ARV 
+ 
+ Chase Manhattan RV Owner Trust 1997-A 
+ 
+ CITEL051 
+ 
+ CIT Education Loan Trust 2005-1 
+ 
+ GMALT151 
+ 
+ GM Financial Automobile Leasing Trust 2015-1 
+ 
+ GMALT152 
+ 
+ GM Financial Automobile Leasing Trust 2015-2 
+ 
+ GMALT153 
+ 
+ GM Financial Automobile Leasing Trust 2015-3 
+ 
+ GMALT161 
+ 
+ GM Financial Automobile Leasing Trust 2016-1 
+ 
+ GMALT162 
+ 
+ GM Financial Automobile Leasing Trust 2016-2 
+ 
+ GMALT163 
+ 
+ GM Financial Automobile Leasing Trust 2016-3 
+ 
+ GREENTREE961 
+ 
+ Green Tree Manufactured Housing Contract Senior/Subordinate Pass-Through Certificates, Series 1996-1 
+ 
+ GREENTREE962 
+ 
+ Green Tree Manufactured Housing Contract Senior/Subordinate Pass-Through Certificates, Series 1996-2 
+ 
+ HUNT2016-1 
+ 
+ HUNTINGTON AUTO TRUST 2016-1 
+ 
+ NAVIENT151 
+ 
+ Navient Student Loan Trust 2015-1 
+ 
+ NAVIENT152 
+ 
+ Navient Student Loan Trust 2015-2 
+ 
+ NAVIENT153 
+ 
+ Navient Student Loan Trust 2015-3 
+ 
+ NSLT043 
+ 
+ Nelnet Student Loan Trust Student Loan Asset Backed Notes Series 2004-3 
+ 
+ NSLT044 
+ 
+ Nelnet Student Loan Trust Student Loan Asset Backed Notes Series 2004-4 
+ 
+ NSLT051 
+ 
+ Nelnet Student Loan Trust Student Loan Asset Backed Notes Series 2005-1 
+ 
+ NSLT052 
+ 
+ Nelnet Student Loan Trust Student Loan Asset Backed Notes Series 2005-2 
+ 
+ NSLT053 
+ 
+ Nelnet Student Loan Trust Student Loan Asset Backed Notes Series 2005-3 
+ 
+ NSLT054 
+ 
+ Nelnet Student Loan Trust Student Loan Asset Backed Notes Series 2005-4 
+ 
+ NSLT061 
+ 
+ Nelnet Student Loan Trust Student Loan Asset Backed Notes Series 2006-1 
+ 
+ NSLT062 
+ 
+ Nelnet Student Loan Trust Student Loan Asset Backed Notes Series 2006-2 
+ 
+ NSLT063 
+ 
+ Nelnet Student Loan Trust Student Loan Asset Backed Notes Series 2006-3 
+ 
+ NSLT071 
+ 
+ Nelnet Student Loan Trust Student Loan Asset Backed Notes Series 2007-1 
+ 
+ NSLT082 
+ 
+ Nelnet Student Loan Trust Student Loan Asset Backed Notes Series 2008-2 
+ 
+ NSLT083 
+ 
+ Nelnet Student Loan Trust Student Loan Asset Backed Notes Series 2008-3 
+ 
+ NSLT084 
+ 
+ Nelnet Student Loan Trust Student Loan Asset Backed Notes Series 2008-4 
+ 
+ NSLT092 
+ 
+ Nelnet Student Loan Trust Student Loan Asset Backed Notes Series 2009-2 
+ 
+ OAKWOOD2000C 
+ 
+ Oakwood Mortgage Investors 2000-C Senior/Subordinate Pass-Through Certificates 
+ 
+ OAKWOOD2000D 
+ 
+ Oakwood Mortgage Investors Series 2000-D Senior/Subordinate Pass-Through Certificates 
+ 
+ SDART121 
+ 
+ Santander Drive Auto Receivables Trust 2012-1 
+ 
+ SDART124 
+ 
+ Santander Drive Auto Receivables Trust 2012-4 
+ 
+ SDART133 
+ 
+ Santander Drive Auto Receivables Trust 2013-3 
+ 
+ SDART141 
+ 
+ Santander Drive Auto Receivables Trust 2014-1 
+ 
+ SDART144 
+ 
+ Santander Drive Auto Receivables Trust 2014-4 
+ 
+ SDART145 
+ 
+ Santander Drive Auto Receivables Trust 2014-5 
+ 
+ SDART152 
+ 
+ Santander Drive Auto Receivables Trust 2015-2 
+ 
+ SDART154 
+ 
+ Santander Drive Auto Receivables Trust 2015-4 
+ 
+ SDART155 
+ 
+ Santander Drive Auto Receivables Trust 2015-5 
+ 
+ SDART161 
+ 
+ Santander Drive Auto Receivables Trust 2016-1 
+ 
+ SDART162 
+ 
+ Santander Drive Auto Receivables Trust 2016-2 
+ 
+ SDART163 
+ 
+ Santander Drive Auto Receivables Trust 2016-3 
+ 
+ A-1 
+
+</EX-33.2>
+
+<EX-33.3>
+ 5
+ d368125dex333.htm
+ EX-33.3
+
+EX-33.3 
+
+Exhibit 33.3 
+
+Management s Assessment of Compliance with SEC Regulation AB Servicing Criteria 
+
+1. 
+ Santander Consumer International Puerto Rico, LLC SCI is responsible for assessing compliance with the servicing criteria applicable to it under paragraph (d) of Item 1122 of Regulation AB as of and
+for the year ended December 31, 2016. There are no servicing criteria applicable to SCI for the period January 1, 2016 through July 14, 2016. The transactions covered by this report are all publicly registered transactions backed by
+auto loans for which Santander Consumer USA Inc. is the servicer (the Platform ). See Appendix A. 
+
+2. 
+ SCI used the criteria set forth in paragraph (d) of Item 1122 of Regulation AB (See Appendix B) to assess the compliance with the applicable servicing criteria for which it is responsible, except for the following
+criteria which SCI determined are not applicable to the activities performed by SCI or through its vendors, with respect to the Platform: 1122(d)(1)(i), 1122(d)(1)(iii), 1122(d)(1)(iv), 1122(d)(1)(v), 1122(d)(2)(i) through 1122(d)(2)(vii),
+1122(d)(3)(i) through 1122(d)(3)(iv), 1122(d)(4)(i) through 1122(d)(4)(v), and 1122(d)(4)(ix) through (d)(4)(xv). 
+
+3. 
+ SCI has engaged vendors that are not servicers as defined in Item 1101 (j) of Regulation AB to perform limited or scripted activities with respect to the servicing criteria applicable to each vendor s activities as
+set forth in Appendix B of this report. SCI elected to take responsibility for assessing compliance with the portion of the servicing criteria applicable to each such vendor. SCI has policies and procedures in place to provide reasonable assurance
+that the vendors activities comply in all material respects with the portion of the servicing criteria applicable to each vendor. SCI is solely responsible for determining that it meets the requirements to apply Interpretation 200.06 of the
+SEC Compliance and Disclosure Interpretations. 
+
+4. 
+ SCI has complied, in all material respects, with the applicable servicing criteria for which it is responsible, as of December 31, 2016 and for the period July 15, 2016 through December 31, 2016, with
+respect to the Platform taken as a whole. 
+
+5. 
+ SCI has not identified and is not aware of any material instance of noncompliance by the vendors with regard to the applicable servicing criteria, as of December 31, 2016 and for the period July 15, 2016
+through December 31, 2016, with respect to the Platform taken as a whole. 
+
+6. 
+ SCI has not identified any material deficiency in its policies and procedures to monitor the compliance by the vendors with the applicable servicing criteria, as of December 31, 2016 and for the period
+July 15, 2016 through December 31, 2016, with respect to the Platform taken as a whole. 
+
+7. 
+ PricewaterhouseCoopers LLP, a registered public accounting firm, has issued an attestation report on SCI s assessment of compliance with the applicable servicing criteria as of December 31, 2016 and for the
+period July 15, 2016 through December 31, 2016. March 30, 2017 
+ Santander Consumer International Puerto Rico, LLC 
+
+By: 
+ 
+ /s/ Troy Miller 
+
+Troy Miller 
+
+President 
+
+Santander Consumer International Puerto Rico, LLC 
+
+Appendix A 
+ The Transactions in the Platform include the following: 
+
+1 
+ 
+ SDART 2011-3 
+ 
+ 2 
+ 
+ SDART 2011-4 
+ 
+ 3 
+ 
+ SDART 2012-1 
+ 
+ 4 
+ 
+ SDART 2012-2 
+ 
+ 5 
+ 
+ SDART 2012-3 
+ 
+ 6 
+ 
+ SDART 2012-4 
+ 
+ 7 
+ 
+ SDART 2012-5 
+ 
+ 8 
+ 
+ SDART 2012-6 
+ 
+ 9 
+ 
+ SDART 2013-1 
+ 
+ 10 
+ 
+ SDART 2013-2 
+ 
+ 11 
+ 
+ SDART 2013-3 
+ 
+ 12 
+ 
+ SDART 2013-4 
+ 
+ 13 
+ 
+ SDART 2013-5 
+ 
+ 14 
+ 
+ SDART 2014-1 
+ 
+ 15 
+ 
+ SDART 2014-2 
+ 
+ 16 
+ 
+ SDART 2014-3 
+ 
+ 17 
+ 
+ SDART 2014-4 
+ 
+ 18 
+ 
+ SDART 2014-5 
+ 
+ 19 
+ 
+ SDART 2015-1 
+ 
+ 20 
+ 
+ SDART 2015-2 
+ 
+ 21 
+ 
+ SDART 2015-3 
+ 
+ 22 
+ 
+ SDART 2015-4 
+ 
+ 23 
+ 
+ SDART 2015-5 
+ 
+ 24 
+ 
+ SDART 2016-1 
+ 
+ 25 
+ 
+ SDART 2016-2 
+ 
+ 26 
+ 
+ SDART 2016-3 
+
+Transactions were part of the Platform for the year ended December 31, 2016, but were redeemed prior to July 15, 2016. 
+
+APPENDIX B 
+ SERVICING CRITERIA TO BE ADDRESSED IN SERVICER S ASSESSMENT OF COMPLIANCE 
+
+Servicing Criteria 
+ 
+ Applicable
+Servicing Criteria 
+ 
+ Inapplicable Servicing Criteria 
+ 
+ Reference 
+ 
+ Criteria 
+ 
+ Performed Directly by SCI 
+ 
+ Performed by a Vendor for which SCI is
+the Responsible Party 
+
+General Servicing Considerations 
+
+1122(d)(1)(i) 
+ 
+ Policies and procedures are instituted to monitor any performance or other triggers and events of default in accordance with the transaction agreements. 
+
+X 
+
+1122(d)(1)(ii) 
+ 
+ If any material servicing activities are outsourced to third parties, policies and procedures are instituted to monitor the third party s performance and compliance with such servicing activities. 
+ 
+ X 
+
+1122(d)(1)(iii) 
+ 
+ Any requirements in the transaction agreements to maintain a back-up servicer for the pool assets are maintained. 
+
+X 
+
+1122(d)(1)(iv) 
+ 
+ A fidelity bond and errors and omissions policy is in effect on the party participating in the servicing function throughout the reporting period in the amount of coverage required by and otherwise in accordance with the terms of
+the transaction agreements. 
+
+X 
+
+1122(d)(1)(v) 
+ 
+ Aggregation of information, is mathematically accurate and the information conveyed accurately reflects the information. 
+
+X 
+
+Cash Collection and Administration 
+
+1122(d)(2)(i) 
+ 
+ Payments on pool assets are deposited into the appropriate custodial bank accounts and related bank clearing accounts no more than two business days following receipt, or such other number of days specified in the transaction
+agreements. 
+
+X 
+
+1122(d)(2)(ii) 
+ 
+ Disbursements made via wire transfer on behalf of an obligor or to an investor are made only by authorized personnel. 
+
+X 
+
+1122(d)(2)(iii) 
+ 
+ Advances of funds or guarantees regarding collections, cash flows or distributions, and any interest or other fees charged for such advances, are made, reviewed and approved as specified in the transaction agreements. 
+
+X 
+
+1122(d)(2)(iv) 
+ 
+ The related accounts for the transaction, such as cash reserve accounts or accounts established as a form of overcollateralization, are separately maintained (e.g., with respect to commingling of cash) as set forth in the
+transaction agreements. 
+
+X 
+
+Servicing Criteria 
+ 
+ Applicable
+Servicing Criteria 
+ 
+ Inapplicable Servicing Criteria 
+ 
+ Reference 
+ 
+ Criteria 
+ 
+ Performed Directly by SCI 
+ 
+ Performed by a Vendor for which SCI is
+the Responsible Party 
+
+1122(d)(2)(v) 
+ 
+ Each custodial account is maintained at a federally insured depository institution as set forth in the transaction agreements. For purposes of this criterion, federally insured depository institution with respect to a
+foreign financial institution means a foreign financial institution that meets the requirements of Rule 13k-1(b)(1) of the Securities Exchange Act. 
+
+X 
+
+1122(d)(2)(vi) 
+ 
+ Unissued checks are safeguarded so as to prevent unauthorized access. 
+
+X 
+
+1122(d)(2)(vii) 
+ 
+ Reconciliations are prepared on a monthly basis for all asset-backed securities related bank accounts, including custodial accounts and related bank clearing accounts. These reconciliations are (A) mathematically accurate;
+(B) prepared within 30 calendar days after the bank statement cutoff date, or such other number of days specified in the transaction agreements; (C) reviewed and approved by someone other than the person who prepared the reconciliation;
+and (D) contain explanations for reconciling items. These reconciling items are resolved within 90 calendar days of their original identification, or such other number of days specified in the transaction agreements. 
+
+X 
+
+Investor Remittances and Reporting 
+
+1122(d)(3)(i) 
+ 
+ Reports to investors, including those to be filed with the Commission, are maintained in accordance with the transaction agreements and applicable Commission requirements. Specifically, such reports (A) are prepared in
+accordance with timeframes and other terms set forth in the transaction agreements; (B) provide information calculated in accordance with the terms specified in the transaction agreements; (C) are filed with the Commission as required by
+its rules and regulations; and (D) agree with investors or the trustee s records as to the total unpaid principal balance and number of pool assets serviced by the Servicer. 
+
+X 
+
+1122(d)(3)(ii) 
+ 
+ Amounts due to investors are allocated and remitted in accordance with timeframes, distribution priority and other terms set forth in the transaction agreements. 
+
+X 
+
+1122(d)(3)(iii) 
+ 
+ Disbursements made to an investor are posted within two business days to the Servicer s investor records, or such other number of days specified in the transaction agreements. 
+
+X 
+
+1122(d)(3)(iv) 
+ 
+ Amounts remitted to investors per the investor reports agree with cancelled checks, or other form of payment, or custodial bank statements. 
+
+X 
+
+Servicing Criteria 
+ 
+ Applicable
+Servicing Criteria 
+ 
+ Inapplicable Servicing Criteria 
+ 
+ Reference 
+ 
+ Criteria 
+ 
+ Performed Directly by SCI 
+ 
+ Performed by a Vendor for which SCI is
+the Responsible Party 
+
+Pool Asset Administration 
+
+1122(d)(4)(i) 
+ 
+ Collateral or security on pool assets is maintained as required by the transaction agreements or related asset pool documents. 
+
+X 
+
+1122(d)(4)(ii) 
+ 
+ Pool assets and related documents are safeguarded as required by the transaction agreements 
+
+X 
+
+1122(d)(4)(iii) 
+ 
+ Any additions, removals or substitutions to the asset pool are made, reviewed and approved in accordance with any conditions or requirements in the transaction agreements. 
+
+X 
+
+1122(d)(4)(iv) 
+ 
+ Payments on pool assets, including any payoffs, made in accordance with the related pool asset documents are posted to the Servicer s obligor records maintained no more than two business days after receipt, or such other number
+of days specified in the transaction agreements, and allocated to principal, interest or other items (e.g., escrow) in accordance with the related asset pool documents. 
+
+X 
+
+1122(d)(4)(v) 
+ 
+ The Servicer s records regarding the accounts and the accounts agree with the Servicer s records with respect to an obligor s unpaid principal balance. 
+
+X 
+
+1122(d)(4)(vi) 
+ 
+ Changes with respect to the terms or status of an obligor s account (e.g., loan modifications or re-agings) are made, reviewed and approved by authorized personnel in accordance with the transaction agreements and related pool
+asset documents. 
+ 
+ X 
+ 
+ X 
+
+1122(d)(4)(vii) 
+ 
+ Loss mitigation or recovery actions (e.g., forbearance plans, modifications and deeds in lieu of foreclosure, foreclosures and repossessions, as applicable) are initiated, conducted and concluded in accordance with the timeframes or
+other requirements established by the transaction agreements. 
+ 
+ X 
+ 
+ X 
+
+1122(d)(4)(viii) 
+ 
+ Records documenting collection efforts are maintained during the period a pool asset is delinquent in accordance with the transaction agreements. Such records are maintained on at least a monthly basis, or such other period
+specified in the transaction agreements, and describe the entity s activities in monitoring delinquent pool assets including, for example, phone calls, letters and payment rescheduling plans in cases where delinquency is deemed temporary (e.g.,
+illness or unemployment). 
+ 
+ X 
+ 
+ X 
+
+1122(d)(4)(ix) 
+ 
+ Adjustments to interest rates or rates of return for pool assets with variable rates are computed based on the related pool asset documents. 
+
+X 
+
+Servicing Criteria 
+ 
+ Applicable
+Servicing Criteria 
+ 
+ Inapplicable Servicing Criteria 
+ 
+ Reference 
+ 
+ Criteria 
+ 
+ Performed Directly by SCI 
+ 
+ Performed by a Vendor for which SCI is
+the Responsible Party 
+
+1122(d)(4)(x) 
+ 
+ Regarding any funds held in trust for an obligor (such as escrow accounts): (A) such funds are analyzed, in accordance with the obligor s Account documents, on at least an annual basis, or such other period specified in the
+transaction agreements; (B) interest on such funds is paid, or credited, to obligors in accordance with applicable Account documents and state laws; and (C) such funds are returned to the obligor within 30 calendar days of full repayment
+of the related Accounts, or such other number of days specified in the transaction agreements. 
+
+X 
+
+1122(d)(4)(xi) 
+ 
+ Payments made on behalf of an obligor (such as tax or insurance payments) are made on or before the related penalty or expiration dates, as indicated on the appropriate bills or notices for such payments, provided that such support
+has been received by the servicer at least 30 calendar days prior to these dates, or such other number of days specified in the transaction agreements. 
+
+X 
+
+1122(d)(4)(xii) 
+ 
+ Any late payment penalties in connection with any payment to be made on behalf of an obligor are paid from the servicer s funds and not charged to the obligor, unless the late payment was due to the obligor s error or
+omission. 
+
+X 
+
+1122(d)(4)(xiii) 
+ 
+ Disbursements made on behalf of an obligor are posted within two business days to the obligor s records maintained by the servicer, or such other number of days specified in the transaction agreements. 
+
+X 
+
+1122(d)(4)(xiv) 
+ 
+ Delinquencies, charge-offs and uncollectible accounts are recognized and recorded in accordance with the transaction agreements. 
+
+X 
+
+1122(d)(4)(xv) 
+ 
+ Any external enhancement or other support, identified in Item 1114(a)(1) through (3) or Item 1115 of Regulation AB, is maintained as set forth in the transaction agreements. 
+
+X 
+
+</EX-33.3>
+
+<EX-34.1>
+ 6
+ d368125dex341.htm
+ EX-34.1
+
+EX-34.1 
+
+Exhibit 34.1 
+ Report of Independent Registered Public Accounting Firm 
+ To the Management of Santander Consumer USA Inc. 
+ We have examined Santander Consumer USA Inc. s compliance with the servicing criteria set forth in Item 1122(d) of the Securities and Exchange
+Commission s Regulation AB for all publicly registered transactions backed by auto loans for which Santander Consumer USA Inc. is the servicer (the Platform described in the accompanying Management s Assessment of Compliance
+with SEC Regulation AB Servicing Criteria, as of December 31, 2016 and for the year then ended, excluding criteria 1122(d)(1)(iv), 1122(d)(2)(iii), 1122(d)(2)(vi), and 1122(d)(4)(ix) through 1122(d)(4)(xiii), which the Company has determined
+are not applicable to the servicing activities performed by it with respect to the Platform. As described in management s assertion, for servicing criteria 1122(d)(2)(i), 1122(d)(4)(i), 1122(d)(4)(ii), 1122(d)(4)(iv), 1122(d)(4)(vi),
+1122(d)(4)(vii) and 1122(d)(4)(viii), the Company has engaged various vendors to perform the activities required by these servicing criteria. The Company has determined that these vendors are not considered servicers as defined in Item
+1101(j) of Regulation AB, and the Company has elected to take responsibility for assessing compliance with the servicing criteria applicable to each vendor as permitted by Compliance and Disclosure Interpretation 200.06 of the SEC Division of
+Corporation Finance s interpretations of the rules adopted under Regulation AB and the Securities Act and the Exchange Act Interpretation 200.06 ). As permitted by Interpretation 200.06, the Company has asserted that it has policies
+and procedures in place designed to provide reasonable assurance that the vendors activities comply in all material respects with the servicing criteria applicable to each vendor. The Company is solely responsible for determining that it meets
+the SEC requirements to apply Interpretation 200.06 for the vendors and related criteria as described in its assertion, and we performed no procedures with respect to the Company s determination of its eligibility to use Interpretation 200.06.
+Appendix A to management s assertion identifies the individual asset-backed transactions and securities defined by management as constituting the Platform. Management is responsible for the Company s compliance with the servicing criteria.
+Our responsibility is to express an opinion on the Company s compliance with the servicing criteria based on our examination. Our examination was
+conducted in accordance with attestation standards of the Public Company Accounting Oversight Board (United States) and, accordingly, included examining, on a test basis, evidence about the Company s compliance with the applicable servicing
+criteria and performing such other procedures as we considered necessary in the circumstances. Our examination included testing of selected asset-backed transactions and securities that comprise the Platform, testing of selected servicing activities
+related to the Platform, and determining whether the Company processed those selected transactions and performed those selected activities in compliance with the applicable servicing criteria. Our procedures were limited to the selected transactions
+and servicing activities performed by the Company during the period covered by this report. Our procedures were not designed to detect noncompliance arising from errors that may have occurred prior to or subsequent to our tests that may have
+affected the balances or amounts calculated or reported by the Company during the period covered by this report. We believe that our examination provides a reasonable basis for our opinion. Our examination does not provide a legal determination on
+the Company s compliance with the servicing criteria. 
+
+Our examination disclosed the following material noncompliance with the servicing criterion set forth in Item
+1122(d)(3)(i) of Regulation AB applicable to the Company during the year ended December 31, 2016. As required by Item 1122(d)(3)(i) of Regulation AB, reports to investors, including those to be filed with the Commission, were not maintained in
+accordance with the transaction agreements and applicable Commission requirements. In our opinion, except for the material noncompliance described in the
+preceding paragraph, Santander Consumer USA Inc. complied with the aforementioned applicable servicing criteria as of and for the year ended December 31, 2016 for all publicly registered transactions backed by auto loans for which
+Santander Consumer USA Inc. is the servicer, in all material respects. /s/ PricewaterhouseCoopers LLP 
+ Dallas, Texas March 30, 2017 
+ 2 
+
+</EX-34.1>
+
+<EX-34.2>
+ 7
+ d368125dex342.htm
+ EX-34.2
+
+EX-34.2 
+
+Exhibit 34.2 
+ Report of Independent Registered Public Accounting Firm 
+ The Board of Directors The Corporate Trust Services division of
+Wells Fargo Bank, National Association: We have examined management s assessment, included in the accompanying Assessment of Compliance with the
+Applicable Servicing Criteria, that the Corporate Trust Services division of Wells Fargo Bank, National Association (the Company complied with the servicing criteria set forth in Item 1122(d) of the Securities and Exchange
+Commission s Regulation AB for asset-backed securities ABS transactions for which the Company provides trustee (except Delaware trustee or owner trustee) and/or paying agent services and for which (i) some or all of the
+offered securities for such ABS transactions were publicly offered pursuant to a registration statement delivered under the Securities Act of 1933, as amended, or (ii) the offered securities for such ABS transactions were privately issued
+pursuant to an exemption from registration and the Company has an obligation under the transaction agreements to deliver an assessment of compliance with the applicable servicing criteria under Item 1122(d) of Regulation AB; provided however that,
+the platform excludes (a) any transactions for which the securities issued are mortgage-backed securities or mortgage-related asset-backed securities and (b) certain transactions for which the issuing entity has a fiscal year that ends on
+a date other than the end of the calendar year (the ABS Platform as of and for the twelve months ended December 31, 2016. Management has determined that all the servicing criteria set forth in Item 1122(d) are applicable to the
+Company s obligations in the related transaction agreements with respect to the ABS Platform as of and for the twelve months ended December 31, 2016, except for the following servicing criteria: 1122(d)(1)(v), 1122(d)(2)(iii),
+1122(d)(3)(i)(B), 1122(d)(3)(i)(C), 1122(d)(3)(i)(D), 1122(d)(4)(ii), 1122(d)(4)(iv), 1122(d)(4)(v), 1122(d)(4)(vi), 1122(d)(4)(vii), 1122(d)(4)(viii), 1122(d)(4)(ix), 1122(d)(4)(x), 1122(d)(4)(xi), 1122(d)(4)(xii), 1122(d)(4)(xiii) and
+1122(d)(4)(xiv), which management has determined are not applicable to the Company s obligations in the related transaction agreements with respect to the ABS Platform as of and for the twelve months ended December 31, 2016; provided
+however that, with respect to the ABS Platform (a) servicing criterion 1122(d)(3)(i)(A) is applicable only as it relates to the Company s obligation to distribute or make available to investors, in accordance with the timeframes set forth
+in the transaction agreements, the relevant investor reports received by the Company from the entity preparing such reports; (b) servicing criterion 1122(d)(3)(ii) is applicable only as it relates to the Company s obligation to make
+remittances to investors in accordance with the transaction agreements; and (c) servicing criterion 1122(d)(4)(iii) is applicable only as it relates to the Company s obligation to obtain an Officer s Certificate from the servicer and
+report any additions, removals and substitutions to investors on the relevant investor report, in each case, in accordance with the transaction agreements (the Applicable Servicing Criteria ). With respect to applicable servicing criteria
+1122(d)(1)(ii), 1122(d)(4)(i) and 1122(d)(4)(xv), management has determined that there were no activities performed during the twelve months ended December 31, 2016 with respect to the ABS Platform, because there were no occurrences of events
+that would require the Company to perform such activities. Appendix A to the Assessment of Compliance with the Applicable Servicing Criteria identifies the individual transactions defined by management as constituting the ABS Platform. Management is
+responsible for the Company s compliance with the servicing criteria. Our responsibility is to express an opinion on management s assessment about the Company s compliance based on our examination. 
+
+Our examination was conducted in accordance with the standards of the Public Company Accounting Oversight Board
+(United States) and in accordance with attestation standards established by the American Institute of Certified Public Accountants and, accordingly, included examining, on a test basis, evidence about the Company s compliance with the
+servicing criteria specified above and performing such other procedures as we considered necessary in the circumstances. Our examination included testing selected asset-backed transactions and securities that comprise the ABS Platform, testing
+selected servicing activities related to the ABS Platform, and determining whether the Company processed those selected transactions and performed those selected activities in compliance with the servicing criteria. Furthermore, our procedures were
+limited to the selected transactions and servicing activities performed by the Company during the period covered by this report. Our procedures were not designed to determine whether errors may have occurred either prior to or subsequent to our
+tests that may have affected the balances or amounts calculated or reported by the Company during the period covered by this report for the selected transactions or any other transactions. We believe that our examination provides a reasonable basis
+for our opinion. Our examination does not provide a legal determination on the Company s compliance with the servicing criteria. In our opinion,
+management s assessment that the Company complied with the aforementioned servicing criteria as of and for the twelve months ended December 31, 2016 is fairly stated, in all material respects. 
+ /s/ KPMG LLP Chicago, Illinois 
+ February 21, 2017 
+
+</EX-34.2>
+
+<EX-34.3>
+ 8
+ d368125dex343.htm
+ EX-34.3
+
+EX-34.3 
+
+Exhibit 34.3 
+ Report of Independent Registered Public Accounting Firm 
+ To the Management of Santander Consumer International Puerto
+Rico, LLC We have examined management s assertion, included in the accompanying Management s Assessment of Compliance with SEC Regulation AB
+Servicing Criteria, that Santander Consumer International Puerto Rico, LLC complied with the servicing criteria set forth in Item 1122(d) of the Securities and Exchange Commission s Regulation AB for all publicly registered transactions backed
+by auto loans for which Santander Consumer USA Inc. is the servicer (the Platform ), as of December 31, 2016 and for the period from July 15, 2016 to December 31, 2016, excluding criteria 1122(d)(1)(i), 1122(d)(1)(iii)
+through 1122(d)(1)(v), 1122(d)(2)(i) through 1122(d)(2)(vii), 1122(d)(3)(i) through 1122(d)(3)(iv), 1122(d)(4)(i) through 1122(d)(4)(v) and 1122(d)(4)(ix) through 1122(d)(4)(xv), which the Company has determined are not applicable to the servicing
+activities performed by it with respect to the Platform. As described in management s assertion, for servicing criteria 1122(d)(4)(vi), 1122(d)(4)(vii), and 1122(d)(4)(viii), the Company has engaged various vendors to perform the activities
+required by these servicing criteria. The Company has determined that these vendors are not considered servicers as defined in Item 1101(j) of Regulation AB, and the Company has elected to take responsibility for assessing compliance
+with the servicing criteria applicable to each vendor as permitted by Interpretation 200.06 of the SEC Division of Corporation Finance s Interpretations of the rules adopted under Regulation AB and the Securities Act and the Exchange Act Interpretation 200.06 ). As permitted by Interpretation 200.06, the Company has asserted that it has policies and procedures in place designed to provide reasonable assurance that the vendors activities comply in all material
+respects with the servicing criteria applicable to each vendor. The Company is solely responsible for determining that it meets the SEC requirements to apply Interpretation 200.06 for the vendors and related criteria as described in its assertion,
+and we performed no procedures with respect to the Company s determination of its eligibility to use Interpretation 200.06. Appendix A to management s assertion identifies the individual asset-backed transactions and securities defined by
+management as constituting the Platform. Management is responsible for the Company s compliance with the servicing criteria. Our responsibility is to express an opinion on management s assertion based on our examination. 
+ Our examination was conducted in accordance with attestation standards of the Public Company Accounting Oversight Board (United States) and, accordingly,
+included examining, on a test basis, evidence about the Company s compliance with the applicable servicing criteria and performing such other procedures as we considered necessary in the circumstances. Our examination included testing of
+selected asset-backed transactions and securities that comprise the Platform, testing of selected servicing activities related to the Platform, and determining whether the Company processed those selected transactions and performed those selected
+activities in compliance with the applicable servicing criteria. Our procedures were limited to the selected transactions and servicing activities performed by the Company during the period covered by this report. Our procedures were not designed to
+detect noncompliance arising from errors that may have occurred prior to or subsequent to our tests that may have affected the balances or amounts calculated or reported by the Company during the period covered by this report. We believe that our
+examination provides a reasonable basis for our opinion. Our examination does not provide a legal determination on the Company s compliance with the servicing criteria. 
+
+In our opinion, management s assertion that Santander Consumer International Puerto Rico, LLC complied with
+the aforementioned applicable servicing criteria as of December 31, 2016 and for the period from July 15, 2016 to December 31, 2016 for all publicly registered transactions backed by auto loans for which Santander Consumer USA Inc. is
+the servicer is fairly stated, in all material respects. /s/ PricewaterhouseCoopers LLP 
+ Dallas, Texas March 30, 2017 
+ 2 
+
+</EX-34.3>
+
+<EX-35.1>
+ 9
+ d368125dex351.htm
+ EX-35.1
+
+EX-35.1 
+
+Exhibit 35.1 
+ SERVICER COMPLIANCE STATEMENT 
+ In connection with the Annual Report on Form 10-K of Santander Drive Auto Receivables Trust 2016-3 for the fiscal year ended December 31,
+2016 (the Report ), the undersigned, a duly authorized officer of Santander Consumer USA Inc. (the Servicer ), does hereby certify and represent that: 
+
+1. 
+ A review of the activities and performance of the Servicer under the Sale and Servicing Agreement, dated as of October 12, 2016, among Santander Drive Auto Receivables LLC, Santander Consumer USA Inc., Santander
+Drive Auto Receivables Trust 2016-3 and Wells Fargo Bank, National Association (the Agreement during the period that is the subject of the Report has been made under my supervision. 
+
+2. 
+ To the best of my knowledge, based on such review, the Servicer has fulfilled all of its obligations under the Agreement in all material respects throughout the period that is the subject of the Report.
+
+SANTANDER CONSUMER USA INC. 
+
+By: 
+ 
+ /s/ Andrew Kang 
+ 
+ Name: 
+ 
+ Andrew Kang 
+ 
+ Title: 
+ 
+ Executive Vice President Capital Markets and Treasurer 
+ 
+ Date: 
+ 
+ March 30, 2017 
+
+By: 
+ 
+ /s/ Rich Morrin 
+ 
+ Name: 
+ 
+ Rich Morrin 
+ 
+ Title: 
+ 
+ Chief Operating Officer 
+ 
+ Date: 
+ 
+ March 30, 2017 
+
+</EX-35.1>
+
+<EX-35.2>
+ 10
+ d368125dex352.htm
+ EX-35.2
+
+EX-35.2 
+
+Exhibit 35.2 
+ SERVICER COMPLIANCE STATEMENT 
+ In connection with the Annual Report on Form 10-K of Santander Drive Auto Receivables Trust 2016-3 for the fiscal year ended December 31, 2016 (the Report ), the undersigned, a duly authorized officer of Santander Consumer International Puerto Rico LLC (the Subservicer ), does
+hereby certify and represent that: 
+
+1. 
+ A review of the activities and performance of the Subservicer under the Sale and Servicing Agreement, dated as of October 12, 2016, among Santander Drive Auto Receivables LLC, Santander Consumer USA Inc., Santander
+Drive Auto Receivables Trust 2016-3 and Wells Fargo Bank, National Association (the Agreement during the period that is the subject of the Report has been made under my supervision.
+
+2. 
+ To the best of my knowledge, based on such review, the Subservicer has fulfilled all of its obligations under the Agreement in all material respects throughout the period that is the subject of the Report.
+
+SANTANDER CONSUMER INTERNATIONAL PUERTO RICO LLC 
+
+By: 
+ 
+ /s/ Troy Miller 
+ 
+ Name: 
+ 
+ Troy Miller 
+ 
+ Title: 
+ 
+ President 
+ 
+ Date: 
+ 
+ March 30, 2017 
+
+</EX-35.2>
+

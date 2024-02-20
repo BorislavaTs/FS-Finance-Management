@@ -1,0 +1,2586 @@
+<Header>
+<FileStats>
+    <FileName>20081014_10-K_edgar_data_1040721_0001079973-08-000947.txt</FileName>
+    <GrossFileSize>134497</GrossFileSize>
+    <NetFileSize>109215</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>847</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001079973-08-000947.hdr.sgml : 20081013
+<ACCEPTANCE-DATETIME>20081014142550
+ACCESSION NUMBER:		0001079973-08-000947
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20080630
+FILED AS OF DATE:		20081014
+DATE AS OF CHANGE:		20081014
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APOLO GOLD & ENERGY INC.
+		CENTRAL INDEX KEY:			0001040721
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		IRS NUMBER:				980412805
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-27791
+		FILM NUMBER:		081121713
+
+	BUSINESS ADDRESS:	
+		STREET 1:		#12-1900 INDIAN RIVER CR
+		CITY:			NORTH VANCOUVER
+		STATE:			A1
+		ZIP:			V7G2R1
+		BUSINESS PHONE:		604-970-0901
+
+	MAIL ADDRESS:	
+		STREET 1:		#12-1900 INDIAN RIVER CR
+		CITY:			NORTH VANCOUVER
+		STATE:			A1
+		ZIP:			V7G2R1
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APOLO GOLD INC
+		DATE OF NAME CHANGE:	19990914
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GIrNZfbi9h02dLOlNpzbD5vYeI06RchkEYAZmuoZoWoAvx2zjGVOvY3BMxOoMCuU
+ 1GA0HOYjy+fsdxSjFHnQPQ==
+
+ 0001079973-08-000947.txt : 20081014
+
+10-K
+ 1
+ appl_10k-063008.txt
+ FORM 10-K
+ 
+ UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ Washington D.C. 20549
+
+FORM 10-K
+
+(Mark One)
+
+[X] ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+ 1934 FOR THE FISCAL YEAR ENDED JUNE 30, 2008 OR
+
+[ ] TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ ACT OF 1934 FOR THE TRANSITION PERIOD FROM ______________ TO ______________
+
+ Commission file number: 000-27791
+
+Apolo Gold & Energy Inc.
+ ------------------------
+ (Exact name of small business issuer in its charter)
+
+Nevada 98-0412805
+- ------------------------------ ----------------------------------
+State or other jurisdiction of I.R.S. Employer Identification No.
+incorporation or organization
+
+#12-1900 Indian River Cresc.
+ North Vancouver, British Columbia V7G 2R1
+ ----------------------------------------- ----------
+ (Address of principal executive offices) (Zip Code)
+
+Issuer's telephone number: 604-970-0901
+
+Securities Registered Under Section 12(b) of the Exchange Act: None
+ ----
+
+ Securities Registered Under Section 12(g) of the Exchange Act:
+ Common Stock, 0.001 par value
+ -----------------------------
+ (Title of class)
+
+Indicate by check mark if the registrant is well-known seasoned issuer, as
+defined in Rule 405 of the Securities Act Yes [ ] No [X]
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or 15(d) of the Act.
+ Yes [X] No [ ]
+
+Check whether the issuer (1) filed all reports required to be filed by Section
+13 or 15(d) of the Securities Exchange Act of 1934 during the past 12 months (or
+for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days.
+
+ Yes [X] No [ ]
+
+Check if there is no disclosure of delinquent filers in response to Item 405 of
+Regulation S-B contained in this form, and no disclosure will be contained, to
+the best of the issuer's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-KSB or any
+amendment to this Form 10-KSB. [ ]
+
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, a non-accelerated filer, or a smaller reporting company.
+Seethe definitions of "large accelerated filer", "accelerated filer", and
+"smaller reporting company" in Rule 12b-2 of the Exchange Act.
+
+Large accelerated filer [ ] Accelerated filer [ ]
+Non-accelerated filer [ ] Smaller reporting company [X]
+(Do not check if a smaller reporting company)
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act). Yes [X] No [ ]
+
+State issuer's revenues for most recent fiscal year: Nil
+
+State the aggregate market value of the voting and non-voting common equity held
+by non-affiliates 65,850,396 shares) based on the average bid and asked price as
+of October 1, 2008 being .03 per share: 1,975,512.
+
+State the number of shares outstanding of each of the issuer's classes of common
+equity, as of the latest practicable date: 80,453,729 shares of Common Stock as
+of October 1, 2008.
+
+Documents Incorporated by Reference: None
+
+ NOTE REGARDING FORWARD LOOKING STATEMENTS
+
+Except for statements of historical fact, certain information contained herein
+constitutes "forward-looking statements," including without limitation
+statements containing the words "believes," "anticipates," "intends," "expects"
+and words of similar import, as well as all projections of future results. Such
+forward-looking statements involve known and unknown risks, uncertainties and
+other factors which may cause the actual results or achievements of the Company
+to be materially different from any future results or achievements of the
+Company expressed or implied by such forward-looking statements. Such factors
+include, but are not limited to the following: the Company's lack of an
+operating history, the Company's minimal level of revenues and unpredictability
+of future revenues; the Company's future capital requirements to develop
+additional property within the defined claim; the risks associated with rapidly
+changing technology; the risks associated with governmental regulations and
+legal uncertainties; and the other risks and uncertainties described under
+"Description of Business - Risk Factors" in this Form 10-KSB. Certain of the
+Forward-looking statements contained in this annual report are identified with
+cross-references to this section and/or to specific risks identified under
+"Description of Business - Risk Factors".
+
+PART 1
+
+ITEM 1. DESCRIPTION OF BUSINESS.
+
+History
+- -------
+
+Apolo Gold & Energy Inc, (the Company) was incorporated in March 1997 under the
+laws of the State of Nevada as Apolo Gold Inc., for the purpose of financing and
+operating precious metals concessions. In May 2005, the Company amended its
+articles of incorporation to change the name of the Company to Apolo Gold &
+Energy Inc.
+
+After incorporation in 1997 the Company focused on precious metals opportunities
+in Latin and South America. Shortly thereafter the Company formed a subsidiary,
+Compania Minera Apologold, C.A. a corporation, and on May 18, 1999 the Venezuela
+subsidiary entered into an agreement with Empresa Proyectos Mineros Goldma, C.A.
+in Caracas Venezuela, to acquire the diamond and gold mining concession in
+Southern Venezuela known as Codsa 13, located in the Gran Sabana Autonomous
+Municipality, State of Bolivar, Venezuela. This project was subsequently
+cancelled in August 2001 because of poor testing results. The subsidiary company
+in Venezuela has been dormant since 2001 and will not be reactivated.
+
+On April 16, 2002, the Company executed an agreement with Pt. Metro Astatama, of
+Jakarta, Indonesia, for the mining rights to a property known as Nepal Umbar
+Picung ("NUP"), which is located west of Bandar Lampung, on the island of
+Sumatra, Indonesia. NUP has a KP, Number KW. 098PP325, which is a mineral
+tenement license for both Exploration and Exploitation. All KP's must be held by
+an Indonesian entity. The "NUP" is 733.9 hectares in size and Apolo had an 80 
+interest. Apolo was entitled to recover all of its development costs on the
+"NUP" including property payments before the partner with 20 could participate.
+The total purchase price for "NUP" was 375,000. The Company made payments
+amounting to 250,000 prior to termination of the project.
+
+After general exploration programs including drilling failed to yield the
+necessary Positive results, the Company discussed various options with the
+property owner subsequent to its year ending June 30, 2008 and then decided to
+terminate its agreement with the NUP property and return all exploration rights
+to the property owners.
+
+The Company's office is in North Vancouver B.C.at #12-1900 Indian River Cresc.
+V7G 2R1.
+
+Government Regulation
+- ---------------------
+
+The Company is not presently subject to any government regulation other than
+that of the State of Nevada and pursuant to its obligations under the Securities
+Exchange Act. The Company is comfortable with the requirements and regulations
+and will abide by them.
+
+Risk Factors
+- ------------
+
+1. The Company has no record of earnings. It is also subject to all the risks
+inherent in a developing business enterprise including lack of cash flow, and no
+assurance of recovery of precious metals.
+
+2. The Company's success and possible growth will depend on its ability to
+develop or acquire new business operations.
+
+3. Liquidity and need for additional financing is a concern for the Company. At
+the present time, the Company does not have sufficient cash to finance its
+operations. The Company is dependent on the ability of its management team to
+obtain the necessary working capital to operate successfully. There is no
+assurance that the Company will be able to obtain additional capital as
+required, or if the capital is available, to obtain it on terms favorable to the
+Company. The Company may suffer form a lack of liquidity in the future that
+could impair its production efforts and adversely affect its results of
+operations.
+
+ 1
+ 
+4. Competition is more in the area of ability to sell at world prices, that the
+Company cannot control, and the Company competes for access to the world markets
+with its products.
+
+5. The Company is wholly dependent at the present upon the personal efforts and
+abilities of its Officers and Directors, who exercise control over the
+day-to-day affairs of the Company.
+
+6. There are currently 80,453,729 common shares outstanding at October 1, 2008
+out of a total authorized capital of 200,000,000 shares. The Board of Directors
+has the power to issue such shares, subject to Shareholder approval, in some
+instances.
+
+7. There are no dividends anticipated by the Company.
+
+Company's Office
+- ----------------
+
+The Company's office is at #12-1900 Indian River Cresc., North Vancouver, BC,
+Canada V7G 2R1. Its telephone number is 604-970-0901.
+
+ITEM 2 - Description of Property
+
+Location and Title
+- ------------------
+
+The Company currently has no exploration properties, having terminated its
+exploration Agreement on the NUP property in Indonesia.
+
+ITEM 3 - Legal Proceedings
+
+The Company is not a party to any pending or threatened litigation and to its
+knowledge, no action, suit or proceedings has been threatened against its
+officers and its directors.
+
+ITEM 4 - Submission of Matters to a Vote of Security Holders: None
+
+2
+
+PART II
+
+ITEM 5 - Market for Common Equity and Related Stockholder Matters
+
+The Company's common stock has been quoted on the National Association of
+Securities Dealers' Over-the-Counter market since May 17,2000. There is no other
+public trading market for the Company's equity securities.
+
+The following table summarizes trading in the Company's common stock, as
+provided by quotations published by the OTC Bulletin Board for the periods as
+indicated. The quotations reflect inter-dealer prices without retail mark-up,
+markdown or commission, and may not represent actual transactions.
+
+ Quarter Ended High Bid Low Bid
+ ------------- -------- -------
+ Sept 30, 2007 0.04 0.04
+ Dec 31, 2007 0.04 0.03
+ March 31,2008 0.04 0.04
+ June 30, 2008 0.02 0.02
+
+As of October 6,2008, there were 62 holders of record of the Company's common
+stock. That does not include the number of beneficial holders whose stock is
+held in the name of broker-dealers or banks.
+
+The Company has not paid, and, in the foreseeable future, the Company does not
+intend to pay any dividends.
+
+Equity Compensation Plan Information
+- ------------------------------------
+
+The Company has outstanding options from previous plans adopted.
+
+In August, 2000, Stock Option Plan #1 was created for a total of 5,000,000
+shares. At the present time there are still 1,000,000 options outstanding and
+they are held by two directors. Mr. Dinning, a director, has 700,000 stock
+options, Mr. Kelleway, a former director, has 300,000. Mr. Kelleway's option is
+at 0.08 per share while the option of Mr. Dinning is at 0.14 per share.
+
+In May, 2002, Stock Option Plan #2 was created for 5,000,000 shares. At the
+present time there are still 100,000 options outstanding and they are held by
+Robert Lee, a former director, for 100,000 shares. The price on these options
+was 0.09 per share.
+
+In December, 2002, Stock Option Plan #3 was created for 7,500,000 shares. At the
+present time there are no options outstanding. The price for these options was
+ 0.054 per share.
+
+In September, 2003, Stock Option Plan #4 was created for 10,000,000 shares. All
+shares in this plan have been exercised. The price on these options was 0.06
+per share
+
+In June, 2004, Stock Option Plan #5 was created for 5,000,000 shares. At the
+present time, there are still 3,500,000 options outstanding and they are held by
+Mr. Dinning, 1,000,000, and the balance is held by a former advisor. The price
+for Mr. Dinning is 0.16 while the other options at 0.08 per share.
+
+In May, 2005, Stock Option Plan #6 was approved by shareholders at a general
+Shareholders' meeting who also approved the issuance of 2,000,000 stock options
+to Mr. Dinning at 0.08 per share.
+
+In May 2006, Stock Option Plan #7 was created for 8,000,000 shares. There are
+still 2,350,000 options outstanding and they are held by Mr. Dinning, 600,000
+shares, a former advisor, 750,000 shares, and Mr. Bojtos, 1,000,000 shares. The
+price for the options under Plan #7 above options is 0.08 per share.
+
+The per share option price for the stock subject to each option shall be as the
+Board may determine. All options must be granted within ten years from the
+effective date of the Plan. There is no express termination date for the options
+although the Board may vote to terminate the Plan.
+
+ 3
+
+Plan category Number of securities to Weighted average Number of securities
+ be issued upon exercise exercise price of remaining available for
+ of outstanding options, outstanding options, future issuance
+ warrants and rights warrants and rights
+
+Equity compensation plans
+approved by security 2,000,000 0.09 0
+holders
+
+Equity compensation plans
+not approved by security 6,950,000 0.13 1,875,000
+holders
+
+Total 8,950,000 0.12 1,875,000
+
+The directors in total, hold 5,800,000 of the outstanding options of 8,950,000
+at June 30, 2008.
+
+ITEM 6 Selected Financial Data
+
+As a smaller business issuer, the Company is not required to include this Item.
+
+ITEM 7 - Management's Discussion and Analysis of Financial Condition and Results
+of Operations/Plan of Operation
+
+General Overview
+- ----------------
+
+Apolo Gold & Energy Inc. ("Company") was incorporated in March 1997 under the
+laws of the State of Nevada. Its objective was to pursue mineral properties in
+South America, Central America, North America and Asia. The Company incorporated
+a subsidiary - Compania Minera Apologold, C.A in Venezuela to develop a
+gold/diamond mining concession in Southeastern Venezuela. Project was terminated
+in August 2001, due to poor testing results and the property abandoned. This
+subsidiary company has been inactive since 2001 and will not be reactivated.
+
+On April 16, 2002, the Company announced the acquisition of the mining rights to
+a property known as the Napal Gold Property, ("NUP"). This property is located
+48 km south-west of Bandar Lampung, Sumatra, Indonesia. The property consists of
+733.9 hectares and possesses a Production Permit (a KP) # KW. 098PP325. The
+terms of the Napal Gold Property called for a total payment of 375,000 US over
+a six-year period. Company paid 250,000 over the past 5 years and subsequent to
+the year ending June 30, 2008 the Company terminated its agreement on the NUP
+property and returned all exploration rights to the owner.
+
+The Company continues to pursue opportunities in the natural resource industry
+and will consider the acquisition of any other business opportunity in order to
+enhance its value.
+
+Results of Operations - Period From July 01, 2007 to June 30, 2008
+
+REVENUES:
+The Company had no revenues in the past fiscal year.
+
+EXPENSES:
+During the fiscal year ending June 30, 2008 the Company had exploration costs of
+ 886 as compared to 403,372 the previous year. This related to exploration
+costs on NUP.
+
+4
+ 
+Overall, Company expenses decreased to 232,323 in the year ending June 30, 2008
+as compared to 872,325 in the previous fiscal year. General and administrative
+expenses have declined to 78,850 in the current year compared to 120,781 in
+the previous fiscal year. Consulting and professional fees have decreased to
+ 152,587 in the current year from 348,172 in 2007.
+
+There was no stock compensation charges in either 2008 or 2007.
+
+Expenses for the year related primarily to evaluation of options available re
+the Napal Gold Property in Indonesia, and seeking out other options in the
+resource Industry.
+
+The Company continues to carefully control its expenses, and intends to seek
+additional financing both for potential business opportunities it may develop.
+There is no assurance that the Company will be successful in its attempts to
+raise additional capital.
+
+The Company has no employees in its head office at the present time other than
+it's Officers and Directors, and engages personnel through consulting agreements
+where necessary as well as outside attorneys, accountants and technical
+consultants.
+
+Cash on hand at June 30, 2008 was 5,803 compared to 17,616 in 2007 and the
+Company recognizes it may not have sufficient funds to conduct its affairs. It
+fully intends to seek financing by way of loans, private placements or a
+combination of both in the coming months.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+The Company has financed its development to date by way of sale of common stock
+and with loans from shareholders of the Company.
+
+At October 6, 2008, the Company had 80,453,729 shares of common stock
+Outstanding, and has raised total capital to date of approximately 7,000,000.
+
+During the year, the Company did not raise any funds compared to 100,000 raised
+In 2007 by way of sale of common stock.
+
+Included in accounts payable of 148,691 at June 30, 2008 is the sum of 113,520
+owing to Atna Resources Ltd regarding cancellation of the Beowawe agreement. The
+Company retired additional 135,622 debt owning to Atna by issuance of 2,200,000
+restricted common shares. The remaining accounts payable of 35,171 and accrued
+expenses of 31,320 include fees and expenses due to former related parties,
+sundry professional fees and various trade accounts outstanding.
+
+Amounts due to Related Parties of 269,817 are due to current officers and
+directors of the Company
+
+INFLATION
+
+Inflation has not been a factor during the fiscal year ending June 30, 2008.
+While inflationary forces are showing some signs of increasing in the next year,
+it is not considered a factor in capital expenditures or production activities.
+
+ITEM 7A. Quantitative and Qualitative Disclosures about Market Risk.
+
+The Company does not have any market risk sensitive financial instruments for
+trading or other purposes. All Company cash is held in insured deposit accounts.
+
+5
+
+Item 8. Financial Statements
+
+I. Vellmer Inc.
+Chartered Accountant 
+- --------------------------------------------------------------------------------
+ 721-602 W. Hastings Street
+ Vancouver, B.C., V6B 1P2
+
+ Tel: 604-687-3773
+ Fax: 604-687-3778
+ E-mail: vellmer @ i-vellmer.ca
+ denotes an incorporated professional
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Stockholders,
+Apolo Gold & Energy Inc.
+
+We have audited the accompanying balance sheet of Apolo Gold & Energy Inc. (an
+Exploration Stage Company) as of June 30, 2008 and the related statements of
+operations, stockholders' equity (deficit) and cash flows for the year ended
+June 30, 2008 and for the period from April 16, 2002 (date of inception of the
+exploration stage) to June 30, 2008. These financial statements are the
+responsibility of the Company's management. Our responsibility is to express an
+opinion on these financial statements based on our audit.
+
+We conducted our audit in accordance with the standards of the Public Company
+Accounting Oversight Board (United States of America). Those standards require
+that we plan and perform an audit to obtain reasonable assurance whether the
+financial statements are free of material misstatement. An audit includes
+examining on a test basis, evidence supporting the amounts and disclosures in
+the financial statements. An audit also includes assessing the accounting
+principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation. We believe that our
+audit provides a reasonable basis for our opinion.
+
+In our opinion, these financial statements present fairly, in all material
+respects, the financial position of the Company as of June 30, 2008 and the
+results of its operations and its cash flows for the year ended June 30, 2008
+and for the period from April 16, 2002 (date of inception of the exploration
+stage) to June 30, 2008 in conformity with accounting principles generally
+accepted in the United States of America.
+
+The accompanying financial statements have been prepared using accounting
+principles generally accepted in the Unites States of America assuming that the
+Company will continue as a going concern. As discussed in Note 2 to the
+financial statements, the Company is an exploration stage company and has
+incurred substantial losses, which raises substantial doubt about its ability to
+continue as a going concern. Management's plans in regard to their planned
+financing and other matters are also described in Note 2. The financial
+statements do not include any adjustments that might result from the outcome of
+this uncertainty.
+
+Vancouver, Canada "I Vellmer Inc."
+October 6, 2008 Chartered Accountant
+
+6
+ 
+Board of Directors
+Apolo Gold & Energy, Inc.
+Vancouver, British Columbia
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+We have audited the accompanying consolidated balance sheets of Apolo Gold &
+Energy, Inc. (formerly known as Apolo Gold, Inc.), an exploration stage company
+and Nevada corporation, as of June 30, 2007, and the related consolidated
+statements of operations, stockholders' equity (deficit) and cash flows for the
+year then ended and for the period from April 16, 2002 (inception of exploration
+stage) through June 30, 2007. These financial statements are the responsibility
+of the Company's management. Our responsibility is to express an opinion on
+these financial statements based on our audit.
+
+We conducted our audit in accordance with the standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audit provides a
+reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of Apolo Gold & Energy, Inc. as of
+June 30, 2007, and the results of its operations, stockholders equity (deficit)
+and its cash flows for the year then ended and for the period from April 16,
+2002 (inception of exploration stage) through June 30, 2007, in conformity with
+accounting principles generally accepted in the United States of America.
+
+The accompanying financial statements have been prepared assuming that the
+Company will continue as a going concern. As discussed in Note 2 to the
+financial statements, the Company has no revenues and limited cash. In addition,
+the Company's significant operating losses raise substantial doubt about its
+ability to continue as a going concern. Management's plans regarding those
+matters also are described in Note 2. The financial statements do not include
+any adjustments that might result from the outcome of this uncertainty.
+
+/s/ Williams & Webster, P.S.
+- ----------------------------
+Williams & Webster, P.S.
+Certified Public Accountants
+Spokane, Washington
+September 28, 2007
+
+7
+
+APOLO GOLD & ENERGY INC.
+ (An Exploration Stage Company)
+ BALANCE SHEETS
+
+ June 30, June 30,
+ 2008 2007
+ ----------- -----------
+CURRENT ASSETS
+ 
+ Cash 5,803 17,616
+ Loan receivable -- 12,075
+ ----------- -----------
+ Total Current Assets 5,803 29,691
+ ----------- -----------
+
+FIXED ASSETS
+ Mining equipment (Note 4) 95,174 95,174
+ Less accumulated depreciation (95,174) (45,396)
+ ----------- -----------
+ -- 49,778
+ ----------- -----------
+
+ 5,803 79,469
+ =========== ===========
+
+CURRENT LIABILITIES
+ Accounts payable and accrued expenses 180,011 275,450
+ Loans payable, related parties (Note 5) 269,817 152,530
+ ----------- -----------
+ Total Current Liabilities 449,828 427,980
+ ----------- -----------
+
+COMMITMENTS AND CONTINGENCIES -- --
+ ----------- -----------
+
+STOCKHOLDERS' DEFICIT (Notes 6 and 7)
+ Common stock, 200,000,000 shares authorized, 0.001
+ par value; 80,453,729 and 78,253,729 shares
+ issued and outstanding, respectively 80,454 78,254
+ Additional paid-in capital 6,930,374 6,825,874
+ Accumulated deficit prior to exploration stage (1,862,852) (1,862,852)
+ Deficit accumulated during exploration stage (5,592,002) (5,389,787)
+ ----------- -----------
+
+ TOTAL STOCKHOLDERS' DEFICIT (444,026) (348,511)
+ ----------- -----------
+
+ 5,803 79,469
+ =========== ===========
+
+The accompanying notes are an integral part of these financial statements.
+
+ 8
+
+APOLO GOLD & ENERGY INC.
+ (An Exploration Stage Company)
+ STATEMENTS OF OPERATIONS
+
+ Period from
+ April 16, 2002
+ (Inception of
+ Year Ended Year Ended Exploration Stage)
+ June 30, June 30, Through
+ 2008 2007 June 30, 2008
+ ------------ ------------ ---------------
+ 
+REVENUES -- -- --
+ ------------ ------------ ---------------
+
+EXPENSES
+ Consulting and professional fees 152,587 348,172 1,650,356
+ Exploration costs 886 403,372 2,449,248
+ Stock compensation expense -- -- 381,340
+ General and administrative expenses 78,850 120,781 963,973
+ ------------ ------------ ---------------
+ TOTAL EXPENSES 232,323 872,325 5,444,917
+ ------------ ------------ ---------------
+
+LOSS FROM OPERATIONS (232,323) (872,325) (5,444,917)
+
+OTHER INCOME (EXPENSE)
+ Loss on sale of mining equipment -- -- (177,193)
+ Gain on settlement of debt 28,922 -- 28,922
+ Other income 1,186 -- 1,186
+ ------------ ------------ ---------------
+ 30,108 -- (147,085)
+ ------------ ------------ ---------------
+
+LOSS BEFORE INCOME TAXES (202,215) (872,325) (5,592,002)
+
+INCOME TAXES -- -- --
+ ------------ ------------ ---------------
+
+NET LOSS (202,215) (872,325) (5,592,002)
+ ============ ============ ===============
+
+NET LOSS PER SHARE, BASIC AND DILUTED: (0.00) (0.01)
+ ============ ============
+
+WEIGHTED AVERAGE NUMBER OF
+ COMMON STOCK SHARES OUTSTANDING, BASIC AND DILUTED: 79,936,789 75,349,484
+ ============ ============
+
+The accompanying notes are an integral part of these financial statements.
+
+ 9
+
+APOLO GOLD & ENERGY INC.
+ (An Exploration Stage Company)
+ STATEMENTS OF CASH FLOWS
+
+ Period from
+ April 16, 2002
+ (Inception of
+ Year Year Exploration Stage)
+ Ended Ended Through
+ June 30, June 30, June 30,
+ 2008 2007 2008
+ ----------- ----------- -----------------
+CASH FLOWS FROM OPERATING ACTIVITIES:
+ 
+ Net loss (202,215) (872,325) (5,592,002)
+ Adjustments to reconcile net loss
+ to net cash used by operating activities:
+ Depreciation 49,779 15,320 95,176
+ Loss on sale of mining equipment -- -- 177,193
+ Options exercised for services -- -- 276,691
+ Gain on settlement of debt (28,922) -- (28,922)
+ Stock issued for current debt -- 43,500 470,041
+ Stock issued for officer's wages and services -- 132,000 252,700
+ Stock issued for professional services -- -- 247,060
+ Stock issued for exploration costs -- -- 711,000
+ Stock options granted -- -- 381,340
+ Expenses paid on behalf of Company -- -- 42,610
+ Decrease (increase) in:
+ Prepaid expenses -- -- --
+ Security deposits -- 4,954 --
+ Loans and advance receivable 12,075 16,425 --
+ Increase (decrease) in:
+ Accounts payable 40,183 248,486 185,818
+ Accrued expenses -- -- (5,807)
+ Accrued payables, related parties 117,287 132,080 269,817
+ ----------- ----------- -----------------
+Net cash (used) by operating activities (11,813) (279,561) (2,517,285)
+ ----------- ----------- -----------------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+ Purchase of fixed assets -- -- (95,174)
+ ----------- ----------- -----------------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+ Net proceeds from related party loans -- -- 57,733
+ Proceeds from borrowings -- -- 84,937
+ Proceed from subscription receivable -- -- 25,000
+ Proceeds from sale of common stock -- 100,000 2,397,835
+ ----------- ----------- -----------------
+Net cash provided by financing activities -- 100,000 2,565,505
+ ----------- ----------- -----------------
+
+NET INCREASE (DECREASE) IN CASH (11,813) (179,561) 4,307
+
+Cash, beginning of year 17,616 197,177 1,496
+ ----------- ----------- -----------------
+
+Cash, end of year 5,803 17,616 5,803
+ =========== =========== =================
+
+NON-CASH INVESTING AND FINANCING ACTIVITIES:
+ Note receivable from sale of mining equipment -- -- 45,000
+
+The accompanying notes are an integral part of these financial statements.
+
+10
+
+APOLO GOLD & ENERGY INC.
+ (An Exploration Stage Company)
+ CONSOLIDATED STATEMENT OF STOCKHOLDERS' EQUITY
+- -----------------------------------------------------------------------------------------------------------------------------------
+
+ Common Stock Accumulated Accumulated Accumulated Total
+ ---------------------- Additional Deficit Prior Deficit During Other Stockholders'
+ Number Paid-in Subscription to Exploration Exploration Comprehensive Equity
+ of Shares Amount Capital Receivable Stage Stage Income (Deficit)
+ ---------------------- ------------- ------------ --------------- ------------- ------------- ------------
+ 
+Balance,
+ June 30, 2001 18,654,580 18,654 1,265,282 - (1,634,303) - - (350,367)
+
+Issuance of
+ common stock
+ for services
+ at an average
+ of 0.05 per
+ share 2,300,000 2,300 112,700 - - - - 115,000
+
+Cancellation
+ of stock used
+ as payment for
+ debt (3,000,000) (3,000) (32,000) - - - - (35,000)
+
+Options exercised
+ as payment for
+ services at
+ 0.05 per share 700,000 700 34,300 - - - - 35,000
+
+Issuance of common
+ stock for debt
+ retirement at
+ 0.15 per share 4,421,282 4,422 658,771 - - - - 663,193
+
+Issuance of stock
+ for mining rights 3,000,000 3,000 327,000 - - - - 330,000
+
+Options exercised
+ at 0.07 per
+ common share 2,000,000 2,000 138,000 (70,000) - - - 70,000
+
+Options exercised
+ as payment for
+ services at 0.11
+ per common share 20,000 20 2,180 - - - - 2,200
+
+Net loss for
+ the year ended
+ June 30, 2002 - - - - (228,549) (575,370) - (803,919)
+ ----------- ---------- --------------- --------- ------------- -------------- ------------ -------------
+Balance,
+ June 30, 2002 28,095,862 28,096 2,506,233 (70,000) (1,862,852) (575,370) - 26,107
+
+Options exercised
+ as payment for
+ services at
+ 0.09 per common
+ share 500,000 500 44,500 - - - - 45,000
+
+Subscriptions
+ received - - - 70,000 - - - 70,000
+
+Options exercised
+ as payment for
+ services at
+ 0.05 per common
+ share 1,300,000 1,300 67,700 - - - - 69,000
+
+Options exercised
+ for cash of
+ 150,000 and
+ services at
+ 0.06 per
+ share 3,400,000 3,400 201,600 - - - - 205,000
+
+Options exercised
+ as payment of
+ legal services
+ at 0.04 per
+ common share 39,000 39 1,521 - - - - 1,560
+ ----------- ---------- --------------- --------- ------------- -------------- ------------ -------------
+Balance Forward 33,334,862 33,335 2,821,554 - (1,862,852) (575,370) - 416,667
+
+The accompanying notes are an integral part of these financial statements.
+
+11
+
+APOLO GOLD & ENERGY INC.
+ (An Exploration Stage Company)
+ STATEMENT OF STOCKHOLDERS' EQUITY
+- ----------------------------------------------------------------------------------------------------------------------------------
+
+ Common Stock Accumulated Accumulated Accumulated Total
+ ---------------------- Additional Deficit Prior Deficit During Other Stockholders'
+ Number Paid-in Subscription to Exploration Exploration Comprehensive Equity
+ of Shares Amount Capital Receivable Stage Stage Income (Deficit)
+ ---------------------- ------------ ------------ --------------- ------------- ------------- ------------
+ 
+Balance Forward 33,334,862 33,335 2,821,554 - (1,862,852) (575,370) - 416,667
+
+Issuance of stock
+ for services at
+ 0.08 per share 600,000 600 47,400 - - - - 48,000
+
+Issuance of stock
+ for debt at
+ 0.06 per
+ common share 2,348,615 2,348 138,568 - - - - 140,916
+
+Options exercised
+ for cash at
+ 0.045 per
+ common share 1,111,112 1,111 48,889 - - - - 50,000
+
+Options exercised
+ at 0.05 per
+ share for
+ subscription
+ receivable 500,000 500 24,500 (25,000) - - - -
+
+Options exercised
+ as payment for
+ services at
+ 0.05 per share 400,000 400 19,600 - - - - 20,000
+
+Net loss for the
+ year ended
+ June 30, 2003 - - - - - (730,997) - (730,997)
+
+Foreign currency
+ translation
+ gain - - - - - - 682 682
+ ---------- --------- ------------ ---------- ----------- ----------- --------- -----------
+Balance,
+ June 30, 2003 38,294,589 38,294 3,100,511 (25,000) (1,862,852) (1,306,367) 682 (54,732)
+
+Options exercised
+ as payment for
+ services at
+ 0.05 per share 525,000 525 26,875 - - - - 27,400
+
+Stock subscription
+ paid - - - 25,000 - - - 25,000
+
+Options exercised
+ at 0.06 per
+ share 11,125,000 11,125 696,375 - - - - 707,500
+
+Issuance of stock
+ for services at
+ 0.20 per share 25,000 25 4,975 - - - - 5,000
+
+Issuance of stock
+ for property
+ acquisition at
+ 0.16 per share 1,000,000 1,000 159,000 - - - - 160,000
+
+Stock issued for
+ cash at 0.30
+ per share 1,000,000 1,000 299,000 - - - - 300,000
+
+Net loss for the
+ year ended
+ June 30, 2004 - - - - - (788,700) - (788,700)
+
+Foreign currency
+ translation
+ gain (loss) - - - - - - (682) (682)
+ ---------- --------- ------------ ---------- ----------- ----------- --------- -----------
+Balance,
+ June 30, 2004 51,969,589 51,969 4,286,736 - (1,862,852) (2,095,067) - 380,786
+
+Options exercised
+ at an average
+ of 0.11 per
+ share 859,000 859 90,132 - - - - 90,991
+
+Issuance of stock
+ for debt at
+ 0.07 per share 1,088,075 1,088 79,245 - - - - 80,333
+
+Issuance of stock
+ for property
+ acquisition at
+ 0.09 per share 1,500,000 1,500 133,500 - - - - 135,000
+
+Issuance of stock
+ for services at
+ 0.09 per share 150,000 150 13,350 - - - - 13,500
+
+Issuance of stock
+ for services at
+ 0.20 per share 50,000 50 9,950 - - - - 10,000
+
+Options exercised
+ as payment for
+ services at
+ 0.08 1,709,888 1,710 133,580 - - - - 135,290
+
+Net loss for the
+ year ended
+ June 30, 2005 - - - - - (1,018,390) - (1,018,390)
+ ---------- --------- ------------ ---------- ----------- ----------- --------- -----------
+Balance,
+ June 30, 2005 57,326,552 57,326 4,746,493 - (1,862,852) (3,113,457) - (172,490)
+
+The accompanying notes are an integral part of these financial statements.
+
+ 12
+
+APOLO GOLD & ENERGY INC.
+ (An Exploration Stage Company)
+ STATEMENT OF STOCKHOLDERS' EQUITY
+
+ Common Stock Accumulated Accumulated Accumulated Total
+ ---------------------- Additional Deficit Prior Deficit During Other Stockholders'
+ Number Paid-in to Exploration Exploration Comprehensive Equity
+ of Shares Amount Capital Stage Stage Income (Deficit)
+ ----------------------- ----------- -------------- -------------- ------------- ------------
+ 
+Balance Forward -
+ June 30, 2005 57,326,552 57,326 4,746,493 (1,862,852) (3,113,457) - (172,490)
+
+Issuance of stock
+ for services at
+ 0.06 per share 1,805,000 1,805 116,695 - - - 118,500
+
+Issuance of stock
+ for property
+ acquisition at
+ 0.16 per share 1,100,000 1,100 64,900 - - - 66,000
+
+Options exercised
+ for cash at
+ 0.07 per common
+ share 1,000,000 1,000 69,000 - - - 70,000
+
+Options exercised
+ as payment for
+ services from
+ 0.07 to 0.10
+ per share
+ common share 1,300,000 1,300 112,700 - - - 114,000
+
+Stock issued for
+ cash at 0.10
+ per share 5,600,000 5,600 554,400 - - - 560,000
+
+Issuance of stock
+ for debt from
+ 0.06 to 0.10
+ per share 3,726,125 3,726 281,899 - - - 285,625
+
+Stock issued for
+ cash from 0.09
+ to 0.105 per
+ share 2,364,387 2,365 226,979 - - - 229,344
+
+Stock options
+ granted - - 381,340 - - - 381,340
+
+Net loss for the
+ year ended
+ June 30, 2006 - - - - (1,404,004) - (1,404,004)
+ ----------- ---------- ------------ ------------- ------------- ------------- -------------
+Balance,
+ June 30, 2006 74,222,064 74,222 6,554,406 (1,862,852) (4,517,461) - 248,315
+
+Issuance of stock
+ for services
+ at 0.10 per
+ share 90,000 90 8,910 - - - 9,000
+
+Issuance of stock
+ for debt at
+ 0.06 per share 725,000 725 42,775 - - - 43,500
+
+Issuance of stock
+ for services
+ from 0.08 to
+ 0.09 per
+ common share 2,100,000 2,100 170,400 - - - 172,500
+
+Common shares
+ cancelled at
+ 0.09 per share (550,000) (550) (48,950) - - - (49,500)
+
+Issuance of stock
+ for cash at
+ 0.06 per share 1,666,665 1,667 98,333 - - - 100,000
+
+Net loss for the
+ year ended
+ June 30, 2007 -- -- -- - (872,325) - (872,325)
+ ---------- ------- ----------- ---------- ------------ ---------- ----------
+Balance,
+ June 30, 2007 78,253,729 78,254 6,825,874 (1,862,852) (5,389,787) - (348,511)
+
+Issuance of stock
+ for debt at
+ 0.0485 per
+ share on
+ September 24,
+ 2007 2,200,000 2,200 104,500 - - - 106,700
+
+Net loss for the
+ year ended
+ June 30, 2008 - - - - (202,215) - (202,215)
+ ---------- ------- ----------- ---------- ------------ ---------- ----------
+Balance,
+ June 30, 2008 80,453,729 80,454 6,930,374 (1,862,852) (5,592,002) - (444,026)
+ ========== ======= =========== =========== ============ ========== ==========
+
+The accompanying notes are an integral part of these financial statements.
+
+13
+
+APOLO GOLD & ENERGY, INC.
+(An Exploration Stage Company)
+NOTES TO FINANCIAL STATEMENTS
+June 30, 2008
+- --------------------------------------------------------------------------------
+
+NOTE 1 - ORGANIZATION AND DESCRIPTION OF BUSINESS
+
+Apolo Gold & Energy, Inc. formerly known as Apolo Gold, Inc. (hereinafter "the
+Company") was incorporated in March of 1997 under the laws of the State of
+Nevada primarily for the purpose of acquiring and developing mineral properties.
+The Company conducts operations primarily from its administrative offices in
+Vancouver, British Columbia, Canada. In 1997, the Company formed a subsidiary
+corporation (Apologold C.A.) in Venezuela, which was originally used to acquire
+a Venezuelan mining property. The subsidiary has had no financial transactions
+since 2001 and is no longer active.
+
+On April 16, 2002, the Company signed an agreement to enter into a joint venture
+with PT Metro Astatama, a limited liability corporation, incorporated under the
+laws of Republic of Indonesia. Upon signing this agreement, the Company entered
+a new exploration stage and commenced exploration of the Napal Gold Property,
+not yet under production. See Note 3.
+
+The Company's year-end is June 30.
+
+NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+This summary of significant accounting policies is presented to assist in
+understanding the Company's financial statements. The financial statements and
+notes are representations of the Company's management, which is responsible for
+their integrity and objectivity. These accounting policies conform to accounting
+principles generally accepted in the United States of America and have been
+consistently applied in the preparation of the financial statements.
+
+Accounting Method
+- -----------------
+The Company uses the accrual basis of accounting, in accordance with accounting
+principles generally accepted in the United States of America.
+
+Basic and Diluted Loss Per Share
+- --------------------------------
+Loss per share was computed by dividing the net loss by the weighted average
+number of shares outstanding during the period. The weighted average number of
+shares was calculated by taking the number of shares outstanding and weighting
+them by the amount of time that they were outstanding. Basic and diluted loss
+per share are the same, as inclusion of common stock equivalents would be
+antidilutive.
+
+Cash and Cash Equivalents
+- -------------------------
+For purposes of the statement of cash flows, the Company considers all
+short-term debt securities purchased with maturity of three months or less to be
+cash equivalents.
+
+ 14
+
+APOLO GOLD & ENERGY, INC.
+(An Exploration Stage Company)
+NOTES TO FINANCIAL STATEMENTS
+June 30, 2008
+- --------------------------------------------------------------------------------
+
+Concentration of Risk
+- ---------------------
+The Company maintains its cash accounts in primarily one commercial bank in
+Vancouver, British Columbia, Canada. The Canadian dollar account is insured up
+to a maximum of 60,000 per account. However, the Company's business checking
+account, which is maintained in United States dollars, is not insured.
+
+Derivative Instruments
+- ----------------------
+The Financial Accounting Standards Board issued Statement of Financial
+Accounting Standards No. 133, "Accounting for Derivative Instruments and Hedging
+Activities" (hereinafter "SFAS No. 133"), as amended by SFAS No. 137,
+"Accounting for Derivative Instruments and Hedging Activities - Deferral of the
+Effective Date of FASB No. 133", and SFAS No. 138, "Accounting for Certain
+Derivative Instruments and Certain Hedging Activities", and SFAS No. 149,
+"Amendment of Statement 133 on Derivative Instruments and Hedging Activities".
+These statements establish accounting and reporting standards for derivative
+instruments, including certain derivative instruments embedded in other
+contracts, and for hedging activities. They require that an entity recognize all
+derivatives as either assets or liabilities in the balance sheet and measure
+those instruments at fair value.
+
+If certain conditions are met, a derivative may be specifically designated as a
+hedge, the objective of which is to match the timing of gain or loss recognition
+on the hedging derivative with the recognition of (i) the changes in the fair
+value of the hedged asset or liability that are attributable to the hedged risk
+or (ii) the earnings effect of the hedged forecasted transaction. For a
+derivative not designated as a hedging instrument, the gain or loss is
+recognized in income in the period of change.
+
+Historically, the Company has not entered into derivatives contracts to hedge
+existing risks or for speculative purposes. At June 30, 2008 and 2007, the
+Company has not engaged in any transactions that would be considered derivative
+instruments or hedging activities.
+
+Estimates
+- ---------
+The preparation of financial statements in conformity with accounting principles
+generally accepted in the United States of America requires management to make
+estimates and assumptions that affect the reported amounts of assets and
+liabilities and disclosure of contingent assets and liabilities at the date of
+the financial statements and the reported amounts of revenues and expenses
+during the reporting period. Actual results could differ from those estimates.
+
+Exit or Disposal Activities
+- ---------------------------
+In June 2002, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards No. 146, "Accounting for Costs Associated with
+Exit or Disposal Activities" (hereinafter "SFAS No. 146"). SFAS No. 146
+addresses significant issues regarding the recognition, measurement, and
+reporting of costs associated with exit and disposal activities, including
+restructuring activities. SFAS No. 146 also addresses recognition of certain
+costs related to terminating a contract that is not a capital lease, costs to
+consolidate facilities or relocate employees, and termination benefits provided
+to employees that are involuntarily terminated under the terms of a one-time
+benefit arrangement that is not an ongoing benefit arrangement or an individual
+deferred-compensation contract. SFAS No. 146 was issued in June 2002 and is
+effective for activities after December 31, 2002. There has been no impact on
+the Company's financial position or results of operations from adopting SFAS No.
+146.
+
+ 15
+
+APOLO GOLD & ENERGY, INC.
+(An Exploration Stage Company)
+NOTES TO FINANCIAL STATEMENTS
+June 30, 2008
+- --------------------------------------------------------------------------------
+
+Exploration Stage
+- -----------------
+The Company began a new exploration stage on April 16, 2002 at which time it
+commenced the exploration of the Napal Gold Property, including a drilling
+program but the property is not yet in production. Subsequent to the year ending
+June 30, 2008, the Company terminated its exploration agreement on the NUP
+property in Indonesia.
+
+Fair Value of Financial Instruments
+- -----------------------------------
+The carrying amounts for cash, notes receivable, accounts payable, loans payable
+and accrued liabilities approximate their fair value. The Company is not exposed
+to significant interest, credit or currency risk arising from these financial
+instruments due to their short term nature.
+
+Foreign Currency Translation
+- ----------------------------
+Assets and liabilities of the Company's foreign operations are translated into
+U.S. dollars at the period-end exchange rates, and revenue and expenses are
+translated at the average exchange rates during the period. Exchange rate
+differences arising on translation are disclosed as a separate component of
+shareholders' equity. Realized gains and losses from foreign currency
+transactions are reflected in the results of operations.
+
+Comprehensive Income
+- --------------------
+In accordance with SFAS 130, "Reporting Comprehensive Income" ("SFAS 130"),
+comprehensive income consists of net income and other gains and losses affecting
+stockholder's equity that are excluded from net income, such as unrealized gains
+and losses on investments available for sale, foreign currency translation gains
+and losses when the Company has a functional currency other than U.S. dollars,
+and minimum pension liability. For the year ended June 30, 2008 and 2007 the
+Company's financial statements include none of the additional elements that
+affect comprehensive income. Accordingly, net income and comprehensive income
+are identical.
+
+Going Concern
+- -------------
+As shown in the financial statements, the Company incurred a net loss of
+ 202,215 for the year ended June 30, 2008 and has an accumulated deficit of
+ 7,454,854, has no revenues, and has limited cash resources.
+
+16
+
+APOLO GOLD & ENERGY, INC.
+(An Exploration Stage Company)
+NOTES TO FINANCIAL STATEMENTS
+June 30, 2008
+- --------------------------------------------------------------------------------
+
+These factors indicate that the Company may be unable to continue in existence.
+The financial statements do not include any adjustments related to the
+recoverability and classification of recorded assets, or the amounts and
+classification of liabilities that might be necessary in the event the Company
+cannot continue existence. The Company is actively seeking additional capital
+and management believes that new properties can ultimately be developed to
+enable the Company to continue its operations. However, there are inherent
+uncertainties in mining operations and management cannot provide assurances that
+it will be successful in its endeavors.
+
+The Company's management believes that it will be able to generate sufficient
+cash from public or private debt or equity financing for the Company to continue
+to operate based on current expense projections.
+
+Impaired Asset Policy
+- ---------------------
+In October 2001, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards No. 144, "Accounting for the Impairment or
+Disposal of Long-Lived Assets" (hereinafter "SFAS No. 144"). SFAS No. 144
+replaces SFAS No. 121, "Accounting for the Impairment of Long-Lived Assets and
+for Long-Lived Assets to Be Disposed of." This standard establishes a single
+accounting model for long-lived assets to be disposed of by sale, including
+discontinued operations.
+
+The Company reviews its long-lived assets quarterly to determine if any events
+or changes in circumstances have transpired which indicate that the carrying
+value of its assets may not be recoverable. The Company determines impairment by
+comparing the undiscounted future cash flows estimated to be generated by these
+assets to their respective carrying amounts. Maintenance and repairs are
+expensed as incurred. Replacements and betterments are capitalized. The cost and
+related reserves of assets sold or retired are removed from the accounts, and
+any resulting gain or loss is reflected in results of operations. As of June 30,
+2008 and 2007 no impairment was recognized.
+
+Mineral Exploration and Development Costs
+- -----------------------------------------
+All exploration expenditures are expensed as incurred. Significant property
+acquisition payments for active exploration properties are capitalized. If no
+ore body able to be mined is discovered, previously capitalized costs are
+expensed in the period the property is abandoned.
+
+Expenditures to develop new mines, to define further mineralization in existing
+ore bodies, and to expand the capacity of operating mines are capitalized and
+amortized on a units-of-production basis over proven and probable reserves.
+Should a property be abandoned, its capitalized costs are charged to operations.
+The Company charges to operations the allocable portion of capitalized costs
+attributable to properties sold. Capitalized costs are allocated to properties
+sold based on the proportion of claims sold to the claims remaining within the
+project area.
+
+Provision for Taxes
+- -------------------
+Income taxes are provided based upon the liability method of accounting pursuant
+to Statement of Financial Accounting Standards No. 109, "Accounting for Income
+Taxes" (hereinafter "SFAS No. 109"). Under this approach, deferred income taxes
+are recorded to reflect the tax consequences in future years of differences
+between the tax basis of assets and liabilities and their financial reporting
+amounts at each year-end. A valuation allowance is recorded against deferred tax
+assets if management does not believe the Company has met the "more likely than
+not" standard imposed by SFAS No. 109 to allow recognition of such an asset.
+
+ 17
+
+APOLO GOLD & ENERGY, INC.
+(An Exploration Stage Company)
+NOTES TO FINANCIAL STATEMENTS
+June 30, 2008
+- --------------------------------------------------------------------------------
+
+At June 30, 2008, the Company had net deferred tax assets calculated at an
+expected rate of 33 of approximately 2,468,983 principally arising from
+approximate net operating loss carry forward of 7,481,768 for income tax
+purposes, which expire in the years 2015 through 2028. As management of the
+Company cannot determine that it is more likely than not that the Company will
+realize the benefit of the net deferred tax asset, a valuation allowance equal
+to the net deferred tax asset has been recorded. The significant components of
+the deferred tax asset at June 30, 2008 and June 30, 2007 were as follows:
+
+ June 30, June 30,
+ 2008 2007
+ ----------- -----------
+Net operating loss carry forward 7,483,685 7,252,639
+ =========== ===========
+
+Deferred tax asset 2,469,616 2,393,370
+Deferred tax asset valuation allowance (2,469,616) 2,393,370)
+ ----------- -----------
+ Net deferred tax asset -- --
+ =========== ===========
+
+The change in the allowance account from June 30, 2007 to June 30, 2008 was
+ 76,246
+
+Site Restoration Costs
+- ----------------------
+The Company has adopted SFAS No 143, Accounting for Assets Retirement
+Obligations, which requires that the fair value of a liability for an asset
+retirement obligation be recognized in the period in which it is incurred. SFAS
+No. 143 requires the Company to record a liability for the present value of the
+estimated site restoration costs with corresponding increase to the carrying
+amount of the related long-lived assets. The liability will be accreted and the
+asset will be depreciated over the life of the related assets. Adjustments for
+changes resulting from the passage of time and changes to either the timing or
+amount of the original present value estimate underlying the obligation will be
+made. As at June 30, 2008 and 2007, the Company does not have any site
+restoration costs.
+
+Stock-Based Compensation
+- ------------------------
+The Company has adopted SFAS No. 123(revised), "Share-Based Payment", to account
+for its stock options and similar equity instruments issued. Accordingly,
+compensation costs attributable to stock options or similar equity instruments
+granted are measured at the fair value at the grant date, and expensed over the
+expected vesting period.
+
+Transactions in which goods or services are received from non-employees in
+exchange for the issuance of equity instruments are accounted for based on the
+fair value of the consideration received or the fair value of the equity
+instruments issued, whichever is more reliably measurable.
+
+ 18
+
+APOLO GOLD & ENERGY, INC.
+(An Exploration Stage Company)
+NOTES TO FINANCIAL STATEMENTS
+June 30, 2008
+- --------------------------------------------------------------------------------
+
+SFAS 123(revised) requires excess tax benefits be reported as a financing cash
+inflow rather than as a reduction of taxes paid.
+
+Revenue Recognition
+- -------------------
+Sales are recorded when minerals are delivered to the purchaser, when it has a
+written contract and when reasonable assurance exists regarding measurement and
+collectability.
+
+Segment Information
+- -------------------
+The Company adopted Statement of Financial Accounting Standards No. 131,
+"Disclosures about Segments of an Enterprise and Related Information,"
+(hereinafter "SFAS No. 131") in the year ended June 30, 2000. SFAS No. 131
+supersedes SFAS No. 14, "Financial Reporting for Segments of a Business
+Enterprise," replacing the "industry segment" approach with the "management"
+approach. The management approach designates the internal organization that is
+used by management for making operating decisions and assessing performance as
+the source of the Company's reportable segments. SFAS No. 131 also requires
+disclosures about products and services, geographic areas and major customers.
+The adoption of SFAS No. 131 did not affect the Company's results of operations
+or financial position. The Company has abandoned its only operating mining
+property and has no operating segments at this time.
+
+Recent Accounting Pronouncements
+- --------------------------------
+In September, 2006, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards No. 157, "Fair Value Measurements" (hereinafter
+"SFAS No. 157"). This statement defines fair value, establishes a framework for
+measuring fair value in generally accepted accounting principles (GAAP), and
+expands disclosure about fair value measurements. This statement applies under
+other accounting pronouncements that require or permit fair value measurements.
+This statement does not require any new fair value measurements, but for some
+entities, the application of this statement may change current practice. The
+adoption of this statement is estimated to have no immediate material effect on
+the Company's financial condition or results of operations upon adoption.
+
+In September, 2006, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards No. 158, "Employers' Accounting for Defined
+Benefit Pension and Other Postretirement Plans - an amendment of FASB Statements
+No. 87, 88, 106, and 132(R)" (hereinafter :SFAS No. 158"). This statement
+requires an employer to recognize the overfunded or underfunded statues of a
+defined benefit postretirement plan (other than a multiemployer plan) as an
+asset or liability in its statement of financial position and to recognize
+changes in that funded status in the year in which the changes occur through
+comprehensive income of a business entity or changes in unrestricted net assets
+of a not for profit organization. This statement also requires an employer to
+measure the funded status of a plan as of the date of its year end statement of
+financial position, with limited exceptions. The adoption of this statement is
+estimated to have no immediate material effect on the Company's financial
+condition or results of operations upon adoption.
+
+19
+
+APOLO GOLD & ENERGY, INC.
+(An Exploration Stage Company)
+NOTES TO FINANCIAL STATEMENTS
+June 30, 2008
+- --------------------------------------------------------------------------------
+
+In February, 2007, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards No. 159, "The Fair Value Option for Financial
+Assets and Financial Liabilities - Including an amendment of FASB Statement No.
+115" (hereinafter SFAS No. 159"). This statement permits entities to choose to
+measure many financial instruments and certain other items at fair value. The
+objective is to improve financial reporting by providing entities with the
+opportunity to mitigate volatility in reported earnings caused by measuring
+related assets and liabilities differently without having to apply complex hedge
+accounting provisions. This Statement is expected to expand the use of fair
+value measurement, which is consistent with the Board's long-term measurement
+objectives for accounting for financial instruments. This statement is effective
+as of the beginning of an entity's first fiscal year that begins after November
+15, 2007, although earlier adoption is permitted. The adoption of this statement
+is not expected to have a material effect on the Company's financial statements.
+
+In December 2007, the FASB issued SFAS No. 141(R), "Business Combinations". This
+Statement replaces SFAS No. 141, Business Combinations. This Statement retains
+the fundamental requirements in Statement 141 that the acquisition method of
+accounting (which Statement 141 called the purchase method) be used for all
+business combinations and for an acquirer to be identified for each business
+combination. This Statement also establishes principles and requirements for how
+the acquirer: a) recognizes and measures in its financial statements the
+identifiable assets acquired, the liabilities assumed, and any non-controlling
+interest in the acquiree; b) recognizes and measures the goodwill acquired in
+the business combination or a gain from a bargain purchase and c) determines
+what information to disclose to enable users of the financial statements to
+evaluate the nature and financial effects of the business combination. SFAS No.
+141(R) will apply prospectively to business combinations for which the
+acquisition date is on or after Company's fiscal year beginning November 1,
+2009. The adoption of this statement is not expected to have a material effect
+on the Company's financial statements.
+
+In December 2007, the FASB issued SFAS No. 160, "Non-controlling Interests in
+Consolidated Financial Statements". This Statement amends ARB 51 to establish
+accounting and reporting standards for the non-controlling (minority) interest
+in a subsidiary and for the deconsolidation of a subsidiary. It clarifies that a
+non-controlling interest in a subsidiary is an ownership interest in the
+consolidated entity that should be reported as equity in the consolidated
+financial statements. SFAS No. 160 is effective for the Company's fiscal year
+beginning November 1, 2009. The adoption of this statement is not expected to
+have a material effect on the Company's financial statements.
+
+In March 2008, the FASB issued SFAS No. 161, "Disclosures about Derivative
+Instruments and Hedging Activities-an amendment of FASB Statement No. 133" ("FAS
+161"). FAS 161 changes the disclosure requirements for derivative instruments
+and hedging activities. Entities are required to provide enhanced disclosures
+about (a) how and why an entity uses derivative instruments, (b) how derivative
+instruments and related hedged items are accounted for under Statement 133 and
+its related interpretations, and (c) how derivative instruments and related
+hedged items affect an entity's financial position, financial performance, and
+cash flows. The guidance in FAS 161 is effective for financial statements issued
+for fiscal years and interim periods beginning after November 15, 2008, with
+early application encouraged. This Statement encourages, but does not require,
+comparative disclosures for earlier periods at initial adoption. The Company is
+currently assessing the impact of FAS 161.
+
+ 20
+
+APOLO GOLD & ENERGY, INC.
+(An Exploration Stage Company)
+NOTES TO FINANCIAL STATEMENTS
+June 30, 2008
+- --------------------------------------------------------------------------------
+
+In May 2008, the FASB issued SFAS No. 162, "The Hierarchy of Generally Accepted
+Accounting Principles". SFAS No. 162 identifies the sources of accounting
+principles and the framework for selecting the principles used in the
+preparation of financial statements of nongovernmental entities that are
+presented in conformity with generally accepted accounting principles. This
+statement shall be effective 60 days following the SEC's approval of the Public
+Company Accounting Oversight Board amendments to AU Section 411, "the Meaning of
+Present Fairly in Conformity with Generally Accepted Accounting Principles". We
+do not expect this adoption will have a material impact on our financial
+statements.
+
+NOTE 3 - MINERAL PROPERTIES
+
+Indonesia
+- ---------
+On April 8, 2002, the Company signed an agreement to enter into a joint venture
+with PT Metro Astatama, a limited liability corporation, incorporated under the
+laws of Republic of Indonesia, who held the rights to explore the property and
+Pt Napal Umbar Picung, the owners of the NUP property. The agreement enables the
+joint venture to acquire the mining rights on the property known as the Napal
+Gold Property, (NUP) located in Sumatra, Indonesia. In exchange for a commitment
+for future incremental cash payments totaling 375,000, payable over six years,
+and 3,000,000 shares of the Company's restricted common stock, the Company will
+receive 734 hectares with a production permit number KW-098PP325 (KP) in place.
+Although preliminary sampling on the property indicated the presence of gold,
+significant additional work will be required to gain a better overview of the
+potential of the property. According to the agreement, the Company will retain
+80 percent of the net profits once production commences.
+
+As of June 30, 2008, in accordance with the aforementioned agreement, the
+Company had paid 225,000 in cash and issued 3,000,000 shares of its common
+stock, with a fair market value of 330,000. The payment due September 15, 2006
+was deferred to March 31, 2007 by mutual consent of the parties.. Payments due
+since March 15, 2007 have not been made and after consultation with Pt. Umbar
+Picung, the Company decided subsequent to the June 30, 2008 year end to
+terminate its agreement on the property and return exploration rights to the
+property owner.
+
+Nevada
+- ------
+On September 21, 2005, the Company entered into an Exploration Agreement with
+Option for Joint Venture on the "Beowawe Project" in Nevada. This Agreement was
+executed with Atna Resources Inc, of Vancouver BC Canada in regard to
+exploration on the Beowawe Property located in Lander and Eureka Counties,
+Nevada. Under terms of the Agreement, Atna Resources Inc granted the Company the
+exclusive right to acquire an undivided 55 interest in the Beowawe Property by
+expending a total of 1,700,000 within a four year period. The first year
+exploration requirement was 250,000. The Company did not complete the required
+work program in the allotted time period and subsequently negotiated a
+cancellation of the Agreement signed on February 14, 2007. Under terms of the
+cancellation, the Company is required to pay to Atna the sum of 113,520 plus
+issue 2,200,000 shares (paid).
+
+21
+
+APOLO GOLD & ENERGY, INC.
+(An Exploration Stage Company)
+NOTES TO FINANCIAL STATEMENTS
+June 30, 2008
+- --------------------------------------------------------------------------------
+
+NOTE 4 - PROPERTY AND EQUIPMENT
+
+Property and equipment are stated at cost. Depreciation is provided using the
+straight-line method over the estimated useful lives of the assets. The useful
+lives of property, plant and equipment for purposes of computing depreciation
+are three to seven years.
+
+Depreciation expense for the year ended June 30, 2008 and 2007 was 49,780 and
+ 15,320 respectively. Subsequent to June 30, 2008 the Company decided to abandon
+the mining equipment and consequently charged an additional 34,460 to
+depreciation in fiscal 2008 to reflect a change in the estimate of the salvage
+value of the equipment due to the abandonment.
+
+NOTE 5 - LOANS PAYABLE TO RELATED PARTIES
+
+The Company's loans payable are due to directors of the Company. They are
+non-interest bearing, have no stated terms of repayment and are unsecured.
+
+NOTE 6 - PREFERRED STOCK
+
+The Company's directors authorized 25,000,000 preferred shares with a par value
+of 0.001. The preferred shares will have rights and preferences set from time
+to time by the Board of Directors. As of June 30, 2008 and 2007, the Company has
+no shares issued and outstanding.
+
+NOTE 7 - COMMON STOCK
+
+The Company is authorized to issue 200,000,000 shares of 0.001 par value common
+stock. All shares have equal voting rights, are non-assessable and have one vote
+per share. Voting rights are not cumulative and, therefore, the holders of more
+than 50 of the common stock could, if they choose to do so, elect all of the
+directors of the Company.
+
+During the year ended June 30, 3008, the Company issued 2,200,000 restricted
+common shares for debt settlement of 106,700 and the restricted common stock
+was valued at 0.0485 per share.
+
+The Company's policy is to record stock at its fair market value on the date of
+issuance.
+
+ 22
+
+APOLO GOLD & ENERGY, INC.
+(An Exploration Stage Company)
+NOTES TO FINANCIAL STATEMENTS
+June 30, 2008
+- --------------------------------------------------------------------------------
+
+NOTE 8 - COMMON STOCK OPTIONS
+
+The Company has seven common stock option plans: the Apolo Gold, Inc. 2000 Stock
+Option Plan; Apolo Gold, Inc. 2002 Stock Option Plan; Apolo Gold, Inc. 2003
+Stock Option Plan; Apolo Gold, Inc. 2004 Stock Option Plan; the 2004 Stock
+Option Plan #A; and 2005 Stock Option Plan (hereinafter "the Plans") adopted in
+July 2000, May 2002, November 2002, September 2003, March 2004, February 2005,
+and May 2006 respectively. Their purpose is to advance the business and
+development of the Company and its shareholders by enabling employees, officers,
+directors and independent contractors or consultants of the Company the
+opportunity to acquire a proprietary interest in the Company from the grant of
+options to such persons under the Plans' terms. The Plans provide that the
+Company's board of directors may exercise its discretion in awarding options
+under the Plans, not to exceed 5,000,000 for the 2000 Plan, 5,000,000 for the
+2002 Plan, 7,500,000 for the 2003 Plan, 15,000,000 for the 2004 and the 2004A
+Plans and 8,000,000 for the 2006 Plan. The Board determines the per share option
+price for the stock subject to each option. All options authorized by each plan
+must be granted within ten years from the effective date of the Plan.
+
+There is no express termination date for the options, although the Board may
+vote to terminate the Plan. The exercise price of the options will be determined
+at the date of grant. The following is a summary of the Company's stock option
+plans:
+
+Number of
+ securities
+ Number of remaining
+ securities to be Weighted-average available for
+ issued exercise price future issuance
+ Equity compensation plans not upon exercise of of outstanding under equity
+ approved by security holders outstanding options options compensation plans
+ -------------------------------- --------------------- ------------------ -------------------
+ 
+ 2000 stock option plan 1,000,000 0.14 -
+ 2002 stock option plan 200,000 0.10 -
+ 2003 stock option plan - 0.00 -
+ 2004 and 2004A stock
+ option plans 3,500,000 0.16 -
+ 2005 stock option plan 2,000,000 0.09 -
+ 2006 stock option plan 2,250,000 1,875,000
+ 0.09
+ --------------------- -------------------
+ Total 8,950,000 1,875,000
+ ===================== ===================
+
+23
+
+APOLO GOLD & ENERGY, INC.
+(An Exploration Stage Company)
+NOTES TO FINANCIAL STATEMENTS
+June 30, 2008
+- --------------------------------------------------------------------------------
+
+The following is a summary of stock option activity:
+
+ Number of Shares Weighted Average
+ Exercise Price
+ ---------------- ----------------
+
+ Outstanding at June 30, 2006 11,050,000 0.11
+ Granted 90,000 0.09
+ Exercised 2,190,000 0.08
+ ---------------- ----------------
+ Outstanding at June 30, 2007 8,950,000 0.08
+ Granted
+ - -
+
+ Exercised - -
+ ---------------- ----------------
+ Outstanding at June 30, 2008 8,950,000 0.08
+ ================ ================
+
+During the fiscal year ending June 30, 2007, the Company granted 90,000 options.
+Of the options issued, 2,190,000 were exercised during the year ended June 30,
+2007. These options were issued for services valued at 180,500. There were no
+options granted or exercised during the fiscal year ending June 30, 2008.
+
+NOTE 9 - RELATED PARTY TRANSACTIONS
+
+The Company accrued consulting fees as due to two officers for a total of
+ 120,000 during the year ended June 30, 2008 and in (2007 - 180,000), including
+a consultant's fees.
+
+On October 2, 2008, a director submitted his resignation as a director of the
+Company. In addition, the director submitted an invoice for services of 24,000
+that the Company does not recognize as there was no agreement and no
+authorization for said expense.
+
+NOTE 10 - COMMITMENTS AND CONTINGENCIES
+
+Operating Lease
+- ---------------
+The Company leased office facilities in Vancouver, British Columbia under a two
+year operating lease that was terminated by mutual consent September 30, 2008.
+Rent expense to September 30, 2007 amounted to 4,459. The security deposit was
+refunded to the Company subsequent to September 30, 2008.
+
+Foreign Operations
+- ------------------
+The accompanying balance sheet at June 30, 2008 includes 5,803 of cash in
+Canada and 95,174 of equipment, primarily in Indonesia. This equipment has been
+fully depreciated at June 30, 2008. Although these countries are considered
+economically stable, it is always possible that unanticipated events in foreign
+countries could disrupt the Company's operations.
+
+Compliance with Environmental Regulations
+- -----------------------------------------
+The Company's mining activities are subject to laws and regulations controlling
+not only the exploration and mining of mineral properties, but also the effect
+of such activities on the environment. Compliance with such laws and regulations
+may necessitate additional capital outlays, affect the economics of a project,
+and cause changes or delays in the Company's activities.
+
+24
+
+ITEM 9. Changes in and Disagreements with Accountants on Accounting and
+ Financial Disclosure.
+
+On September 10, 2008 the firm Williams & Webster, P.S. of Spokane, Washington,
+resigned as the principal accountant to audit the Registrant's financial
+statements. Williams & Webster, P.S., were the auditors of the financial
+statements for the fiscal years of the Registrant ended June 30, 2007 and 2006.
+
+Except for the following qualification, the report of Williams & Webster, P.S,
+for the fiscal years of the Registrant ended June 30, 2007 and 2006 did not
+contain an adverse opinion or disclaimer of opinion, nor were they qualified or
+modified as to uncertainty, audit scope, or accounting principle:
+
+ "The accompanying financial statements have been prepared assuming that
+ the Company will continue as a going concern. As discussed in Note 2 to
+ the financial statements, the Company has no revenues and limited cash.
+ In addition, the Company's significant operating losses raise
+ substantial doubt about its ability to continue as a going concern.
+ Management's plans regarding those matters also are described in Note
+ 2. The financial statements do not include any adjustments that might
+ result from the outcome of this uncertainty."
+
+During the fiscal years of the Registrant ended June 30, 2007 and 2006 and
+through September 10, 2008, there were no disagreements with Williams & Webster,
+P.S., on any matter of accounting principles or practices, financial statement
+disclosure or auditing scope or procedure, which disagreements, if not resolved
+to the satisfaction of Williams & Webster, P.S., would have caused Williams &
+Webster, P.S., to make reference thereto in his report on the Registrant's
+financial statements for such year.
+
+During the fiscal years of the Registrant ended June 30, 2007 and 2006 and
+through September 10, 2008, there were no "reportable events" with respect to
+the Registrant as that term is defined in Item 304(a)(1)(iv) of Regulation S-B.
+
+During the fiscal years of the Registrant ended June 30, 2007 and 2006 and
+through September 10, 2008, the Registrant did not consult with Williams &
+Webster, P.S., with respect to any of the matters or events set forth in Item
+304(a)(2)(i) and (ii) of Regulation S-B.
+
+ITEM 9A. Controls and Procedures
+
+The Company maintains disclosure controls and procedures that are designed to
+ensure that information required to be disclosed in the Company's Exchange Act
+reports is recorded, processed, summarized and reported within the time periods
+specified in the SEC's rules and forms, and that such information is accumulated
+and communicated to the Company's management, including its Chief Executive
+Officer / Chief Financial Officer, as appropriate, to allow timely decisions
+regarding required disclosure based closely on the definition of "disclosure
+controls and procedures" in Rule 13a-15(e). In designing and evaluating the
+disclosure controls and procedures, management recognized that any controls and
+procedures, no matter how well designed and operated, can provide only
+reasonable assurance of achieving the desired control objectives, and management
+necessarily was required to apply its judgment in evaluating the cost-benefit
+relationship of possible controls and procedures.
+
+As of June 30, 2008, the end of the period of this report, the Company
+carried out an evaluation, under the supervision and with the participation of
+the Company's management, including the Company's Chief Executive Officer /Chief
+Financial Officer, of the effectiveness of the design and operation of the
+Company's disclosure controls and procedures. Based on the foregoing, the
+Company's Chief Executive Officer and Chief Financial Officer concluded that the
+Company's disclosure controls and procedures were effective.
+
+25
+
+REPORT OF MANAGEMENT ON INTERNAL CONTROL OVER FINANCIAL REPORTING
+
+Our management is responsible for establishing and maintaining adequate internal
+control over financial reporting for the company. Internal control over
+financial reporting is a process to provide reasonable assurance regarding the
+reliability of our financial reporting for external purposes in accordance with
+accounting principles generally accepted in the United States of America.
+Internal control over financial reporting includes maintaining records that in
+reasonable detail accurately and fairly reflect our transactions; providing
+reasonable assurance that transactions are recorded as necessary for preparation
+of our financial statements; providing reasonable assurance that receipts and
+expenditures of company assets are made in accordance with management
+authorization; and providing reasonable assurance that unauthorized acquisition,
+use or disposition of company assets that could have a material effect on our
+financial statements would be prevented or detected on a timely basis. Because
+of its inherent limitations, internal control over financial reporting is not
+intended to provide absolute assurance that a misstatement of our financial
+statements would be prevented or detected.
+
+In connection with the preparation of this Annual Report on Form 10-K for the
+year ended June 30, 2008, management, with the participation of our Chief
+Executive Officer and Chief Financial Officer, evaluated the effectiveness of
+our internal controls over financial reporting, pursuant to Rule 13a-15 under
+the Exchange Act. Our Chief Executive Officer and Chief Financial Officer
+concluded and reported to the Board of Directors that the design and operation
+of our internal controls and procedures were effective as of June 30, 2008.
+
+There have been no material changes in the Company's internal controls or in
+other factors that could significantly affect the internal controls subsequent
+to the date the Company completed its evaluation.
+
+ITEM 9A(T). Controls and Procedures.
+
+This annual report does not include an attestation report of the Company's
+registered public accounting firm regarding internal control over financial
+reporting. Management's report was not subject to attestation by the company's
+registered public accounting firm pursuant to temporary rules of the Securities
+and Exchange Commission that permit the company to provide only management's
+report in this annual report.
+
+ 26
+ 
+ PART III
+
+ITEM 10. Directors, Executive Officers, Promoters and Control Persons;
+ Compliance With Section 16(A) of the Exchange Act
+
+ (a) Directors and Executive Officers
+
+NAME AGE POSITION 1ST YEAR
+ WITH COMPANY
+- ---- --- -------- ------------
+Peter Bojtos 59 Director Chairman, President & CEO 2006
+Robert G. Dinning 69 Director Chief Financial Officer, Secretary 2000
+David Yu 52 Director 2006
+
+Business Experience
+- -------------------
+
+Peter Bojtos.
+
+Mr. Bojtos is a Profesional Engineer and a graduate of Leicester University,
+England with a B.Sc. Honours degree in Geology. He is a member of the
+Institution of Mining and Metallurgy, England, and a member of the Canadian
+Institute of Mining, Metallurgy and Petroleum. Mr. Bojtos has over 30 years of
+worldwide experience in the mining industry from exploration through the
+feasibility study stage to mine construction, operations and decommissioning.
+
+Mr. Bojtos is a director of several resource companies, including Yukon-Nevada
+Gold Corp Fischer-Watt Gold Co, Tournigan Gold Corp and US Gold Inc.
+
+Mr. Bojtos was appointed Chairman, President, and CEO on February 1, 2006,
+replacing Mr. Martial Levasseur, who was a founder of the Company who retired.
+
+Robert G. Dinning C.A.
+
+Mr. Dinning is a Chartered Accountant, and a life time member of the Alberta
+Institute of Chartered Accountants. Mr. Dinning has Operated his own Business
+and Management Consulting business since 1977, in the forestry, mining, and
+software/high tech industries. Mr. Dinning has been active as a Director and
+Officer and consultant in various public companies over the past 37 years. Prior
+to commencing his consulting business, Mr. Dinning was CFO and Secretary of a
+large publicly traded broadcast and sports Entertainment Company. Mr. Dinning is
+also a director of Industrial Minerals, Inc., and Paramount Gold & Silver Corp.
+
+David Yu
+
+Mr. Yu is a resident of Hong Kong and is an experienced independent financial
+professional with over 30 years experience in the securities, Commodities, and
+foreign exchange trading business. He has previously been employed by Rothschild
+& Sons, Shearson American Express and Citibank. He is an international
+consultant who assists the Chinese government in the negotiation of long-term
+agreements with oil producing countries in Africa. He focuses primarily in
+Chinese government-backed investment in economic development, trade and
+infrastructure projects for these countries. He is working on similar
+arrangements in South America and in Indonesia.
+
+Mr.Yu acquired 5,600,000 restricted common shares of the Company in a
+transaction that closed in January 2006. Mr. Yu became a director in March 2006.
+
+ 27
+
+Committees: Meetings of the Board
+- ---------------------------------
+
+The Company does not have a separate Compensation Committee, Audit Committee or
+Nominating Committee. These functions are done by the Board of Directors meeting
+as a whole. The Company's Board of Directors held both in person meetings during
+the fiscal year ended June 30, 2008 and meetings by telephone. All corporate
+actions by the Board of Directors were either consented to in writing by all
+Directors or were agreed to unanimously at a meeting where proper notice had
+been given and a quorum was present.
+
+Audit Committee
+- ---------------
+
+The board of directors has not established an audit committee. The functions of
+the audit committee are currently performed by the entire board of directors.
+The Company is under no legal obligation to establish an audit committee and has
+elected not to do so at this time so as to avoid the time and expense of
+identifying independent directors willing to serve on the audit committee. The
+Company may establish an audit committee in the future if the board determines
+it to be advisable or we are otherwise required to do so by applicable law, rule
+or regulation.
+
+As the board of directors does not have an audit committee, it therefore has no
+"audit committee financial expert" within the meaning of Item 401(e) of
+Regulation S-B. except its chief financial officer. In general, an "audit
+committee financial expert" is an individual member of the audit committee who:
+
+ understands generally accepted accounting principles and financial
+ statements,
+ is able to assess the general application of such principles in connection
+ with accounting for estimates, accruals and reserves,
+ has experience preparing, auditing, analyzing or evaluating financial
+ statements comparable to the breadth and complexity to our financial
+ statements,
+ understands internal controls over financial reporting, and
+ understands audit committee functions.
+
+Board of Directors Independence
+
+One of the Company's directors is "independent" within the meaning of
+definitions established by the Securities and Exchange Commission or any
+self-regulatory organization. The independent director is David Yu. The Company
+is not currently subject to any law, rule or regulation requiring that all or
+any portion of its board of directors include "independent" directors.
+
+Director Nominees
+
+The Company does not have a nominating committee. The board of directors,
+sitting as a board, selects those individuals to stand for election as members
+of our board. Since the board of directors does not include a majority of
+independent directors, the decision of the board as to director nominees is made
+by persons who have an interest in the outcome of the determination. The board
+will consider candidates for directors proposed by security holders, although no
+formal procedures for submitting candidates have been adopted. Until otherwise
+determined, not less than 90 days prior to the next annual board of directors'
+meeting at which the slate of board nominees is adopted, the board accepts
+written submissions that include the name, address and telephone number of the
+proposed nominee, along with a brief statement of the candidate's qualifications
+to serve as a director and a statement of why the shareholder submitting the
+name of the proposed nominee believes that the nomination would be in the best
+interests of shareholders. If the proposed nominee is not the security holder
+submitting the name of the candidate, a letter from the candidate agreeing to
+the submission of his or her name for consideration should be provided at the
+time of submission. The letter should be accompanied by a resume supporting the
+nominee's qualifications to serve on the board of directors, as well as a list
+of references.
+
+ 28
+ 
+The board identifies director nominees through a combination of referrals,
+including by management, existing board members and security holders, where
+warranted. Once a candidate has been identified the board reviews the
+individual's experience and background, and may discuss the proposed nominee
+with the source of the recommendation. If the board believes it to be
+appropriate, board members may meet with the proposed nominee before making a
+final determination whether to include the proposed nominee as a member of
+management's slate of director nominees submitted for shareholders for election
+to the board.
+
+Among the factors that the board considers when evaluating proposed nominees are
+their experience in the information technology industry, knowledge of and
+experience with and knowledge of and experience in business matters, finance,
+capital markets and mergers and acquisitions. The board may request additional
+information from the candidate prior to reaching a determination. The board is
+under no obligation to formally respond to all recommendations, although as a
+matter of practice, it will endeavor to do so.
+
+Security Holder Communications with our Board of Directors
+- ----------------------------------------------------------
+
+The Company provides an informal process for security holders to send
+communications to our board of directors. Security holders who wish to contact
+the board of directors or any of its members may do so by writing to Apolo Gold
+Inc., #12-1900 Indian River Cres, North Vancouver BC, Canada V7G 2R1
+
+Correspondence directed to an individual board member is referred, unopened, to
+that member. Correspondence not directed to a particular board member is
+referred, unopened, to the President and CEO.
+
+Code of Ethics
+- --------------
+
+Under the Sarbanes-Oxley Act of 2002 and the Securities and Exchange
+Commission's related rules, the Company is required to disclose whether it has
+adopted a code of ethics that applies to the Company's principal executive
+officer, principal financial officer, principal accounting officer or controller
+or persons performing similar functions. The Company has adopted a code of
+ethics that applies to its chief executive officer, chief financial officer and
+other officers, legal counsel and to any person performing similar functions.
+The Company has made the code of ethics available and intends to provide
+disclosure of any amendments or waivers of the code within five business days
+after an amendment or waiver on the Company's website wwww.apologold.com.
+
+Compliance with Section 16(a) of Securities Exchange Act of 1934
+- ----------------------------------------------------------------
+
+To our knowledge, during the fiscal year ended June 30, 2008 our Directors and
+Officers complied with all applicable Section 16(a) filing requirements. This
+statement is based solely on a review of the copies of such reports that reflect
+all reportable transactions furnished to us by our Directors and Officers and
+their written representations that such reports accurately reflect all
+reportable transactions.
+
+Family Relationships
+- --------------------
+
+There is no family relationship between any Director, executive or person
+nominated or chosen by the Company to become a Director or executive officer.
+
+29
+
+ITEM 11. Executive Compensation
+
+ The following table shows for the fiscal years ending June 30, 2008,and
+2007, the compensation awarded or paid by the Company to its Chief Executive
+Officer. No executive officers of the Company had total salary and bonus
+exceeding 100,000 during such year.
+
+Summary Compensation Table
+
+ Long Term Compensation
+- --------------------------------------------------------------------------------------------------------------
+ Annual Compensation Awards Payouts
+- --------------------------------------------------------------------------------------------------------------
+ Other Annual Securities
+ Salary Compensation Underlying All Other
+Name and Principle Position Year ) ) Options (#) Compensation )
+- --------------------------------------------------------------------------------------------------------------
+ 
+Peter Bojtos President/CEO 2008 60,000 Nil
+Peter Bojtos President/CEO 2007 60,000 0 1,500,000 Common 500,000
+- --------------------------------------------------------------------------------------------------------------
+Robert Dinning CFO 2008 60,000 Nil
+Robert Dinning CFO 2007 60,000 Nil 500,000
+- --------------------------------------------------------------------------------------------------------------
+
+Above options totaling 500,000 each were exercised in February 2007.
+
+Option Grants in Last Fiscal Year June 30, 2008 and 2007 - Nil
+- --------------------------------------------------------------
+
+Aggregated Option Exercises in Last Fiscal Year and Fiscal Year End
+Option/Values
+
+The following table sets forth the number and value of the unexercised options
+held by each of the Named Executive Officers and Directors at June 30, 2008 and
+as of June 30, 2007.
+
+- ---------------------------------------------------------------------------------------------------------------------
+Aggregate Option Exercises in Last Fiscal Year and Option Values
+- ---------------------------------------------------------------------------------------------------------------------
+ Value Number of Securities Underlying
+ Shares Realized Unexercised Options at FY-End Value of Unexercised In-the Money
+ Acquired on at FY-End June 30, 2008 (#) Options at June 30, 2008 (1)
+Name Exercise (#) ) Exercisable/Unexercisable Exercisable/Unexercisable
+- ---------------------------------------------------------------------------------------------------------------------
+ 
+Peter Bojtos, 1,000,000 shares 0
+ CEO/Director 0 0
+
+Robert Dinning, 4,300,000 Shares 0
+ CFO, Director 0 0
+
+Glen Kelleway 0 0 300,000 Shares 0
+
+David Yu 0 0 500,000 Shares 0
+
+(1) Option value based on the difference between the exercise price of
+unexercised options and the closing sale price of 0.01 per share on
+October 10, 2008.
+
+ 30
+ 
+Compensation of Directors
+- -------------------------
+
+ Standard Arrangements: The members of the Company's Board of Directors are
+reimbursed for actual expenses incurred in attending Board meetings.
+
+ Other Arrangements: There are no other arrangements.
+
+Employment Contracts and Termination of Employment, And Change-in-control
+- -------------------------------------------------------------------------
+Arrangements
+- ------------
+
+The Company's CEO and CFO do not have employment agreements.
+
+Termination of Employment and Change of Control Arrangement
+- -----------------------------------------------------------
+
+There is no compensatory plan or arrangement in excess of 100,000 with respect
+to any individual named above which results or will result from the resignation,
+retirement or any other termination of employment with the Company, or from a
+change in the control of the Company.
+
+Compensation Discussion and Analysis
+- ------------------------------------
+
+The following Compensation Discussion and Analysis (CD&A) provides information
+on the compensation programs established for our "Named Executive Officers"
+during our fiscal year ended June 30, 2008. All information provided herein
+should be read in conjunction with the tables provided below.
+
+Our Board of Directors is responsible for establishing, implementing and
+monitoring the policies governing compensation for our executives. Currently our
+Board does not have a compensation committee. Our officers are members of our
+Board of Directors and are able to vote on matters of compensation. We are not
+currently under any legal obligation to establish a compensation committee and
+have elected not to do so at this time. In the future, we may establish a
+compensation committee if the Board determines it to be advisable or we are
+otherwise required to do so by applicable law, rule or regulation. During the
+year ended June 30, 2008 our Board did not employ any outside consultants to
+assist in carrying out its responsibilities with respect to executive
+compensation, although we have access to general executive compensation
+information regarding both local and national industry compensation practices.
+In future periods we may participate in regional and national surveys that
+benchmark executive compensation by peer group factors such as company size,
+annual revenues, market capitalization and geographical location.
+
+The executive employment market in general is very competitive due to the number
+of companies with whom we compete to attract and retain executive and other
+staff with the requisite skills and experience to carry out our strategy and to
+maintain compliance with multiple Federal and State regulatory agencies. Many of
+these companies have significantly greater economic resources than our own. Our
+Board has recognized that our compensation packages must be able to attract and
+retain highly talented individuals that are committed to our goals and
+objectives, without at this time paying cash salaries that are competitive with
+some of our peers with greater economic resources. Our compensation structure is
+weighted towards equity compensation in the form of options to acquire common
+stock, which the Board believes motivates and encourages executives to pursue
+strategic opportunities while managing the risks involved in our current
+business stage, and aligns compensation incentives with value creation for our
+shareholders.
+
+Components of Our Executive Compensation Program
+- ------------------------------------------------
+
+Our executive compensation program incorporates components we believe are
+necessary in order for the Company to provide a competitive compensation package
+relative to our peers and to provide an appropriate mix between short-term and
+long-term cash and non-cash compensation. Elements of our executive compensation
+are listed below:
+
+ o Base Salary
+ o Stock Awards
+ o Other benefits available to all employees
+ o Items specific to our President and Chief Executive Officer per an
+ employment agreement
+
+ 31
+
+Base Salary: At present we do not have a salary structure for employees and
+executives is based on skill set, knowledge and responsibilities. Base salaries
+may be established as necessary. During the year ended June 30, 2008 none of our
+Named Executive Officers received a salary increase.
+
+Stock Awards: A portion of compensation paid to our executives is equity based.
+We believe equity compensation helps align the interests of our executives with
+the interests of our shareholders. In that regard, our executives' compensation
+is subject to downside risk in the event that our common stock price decreases.
+In addition, we believe stock awards provide incentives to aid in the retention
+of key executives.
+
+Other Benefits: Our Executive Officers and employees receive no other benefits.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+
+ (a) Security Ownership of Certain Beneficial Owners holding five percent or
+greater of the 80,453,729 shares of common stock outstanding as of September 15,
+2007 and of Management assuming the exercise of outstanding options held by
+management.
+
+Title of Name and Address(1) Position Amount and Nature of
+Class Beneficial Owner of Beneficial Owner Class
+- -------- ------------------- ---------- ------------------- -------
+Common Peter Bojtos Director, CEO 1,500,000 (2) 1.86 
+ Robert Dinning Director, CFO 6,703,333 (3) 8.33 
+ David Yu Director 6,100,000 (4) 7.58
+
+ All officers and Directors
+ as a Group (3 persons) 14,303,333 17.77 
+
+(1) The Address of the executive officers and directors is that of the Company:
+ #12-1900 Indian River Cresc, North Vancouver, B.C. Canada V7G 2R1
+
+(2) Included stock options of 1,000,000 granted February 1, 2006 to Mr. Bojtos
+
+(3) Includes a stock option of 700,000 common shares, exercisable at 0.14 per
+ share until July 1, 2008, a stock option for 100,000 common shares,
+ exercisable at 0.09 per share until June 30, 2008, a stock option for
+ 1,000,000 common shares exercisable at 0.16 per share until June 10, 2009,
+ a stock option for 2,000,000 common shares, exercisable at 0.08 per share
+ until February 2, 2010 and a stock option for 1,000,000 exercisable at
+ 0.08 per share until February 1, 2111.
+
+(4) Includes an option at 0.08 per share until Feb 2, 2010 for 500,000 shares
+
+Item 13. Certain Relationships and Related Transactions: None
+
+32
+
+Item 14. Exhibits and Reports on Form 8-K
+
+A. Exhibits
+
+ 3.1 Articles of Incorporation (Incorporated by reference from Form
+ 10SB Registration filed October 25, 1999)
+
+ 3.2 By-Laws effective May 20, 2005 (Incorporated by reference from
+ Current Report on Form 8-K filed on May 31, 2005
+
+ 3.3 Certificate of Amendment (Incorporated by reference from Annual
+ Report on Form 10KSB filed on August 29, 2005.
+
+ 10.7 2000 Stock Option Plan (Incorporated by Reference from the S-8
+ Registration Statement filed on August 7, 2000.)
+
+ 10.8 May 2002 Stock Option Plan (Incorporated by Reference from the
+ S-8 Registration Statement filed on May 16, 2002.)
+
+ 10.9 December 2002 Stock Option Plan (Incorporated by Reference from
+ the S-8 Registration Statement filed on December 2, 2002.)
+
+ 10.10 2003 Stock Option Plan (Incorporated by Reference from the S-8
+ Registration Statement filed on September 29, 2003.)
+
+ 10.11 2004 Stock Option Plan (Incorporated by Reference from the S-8
+ Registration Statement filed on April 7, 2004.)
+
+ 10.12 2005 Stock Option Plan (Incorporated by Reference from the S-8
+ Registration Statement filed on December 2, 2005.)
+
+ 10.13 2006 Stock Option Plan (Incorporated by Reference from the S-8
+ Registration Statement filed on May 4, 2006.)
+
+ 14 Code of Ethics (Incorporated by reference from Annual Report on
+ Form 10KSB filed on August 27, 2004)
+
+ 16.1 Letter of Williams & Webster, P.S., dated September 16, 2008,
+ regarding change in certifying accountant of Apolo Gold & Energy,
+ Inc. (Incorporated by reference from Current Report on Form 8-K
+ filed on September 16, 2008)
+
+ 17.1 Resignation of Glen Kelleway dated October 2, 2008 (Incorporated
+ by reference from the Current Report on Form S-8 filed October
+ 13, 2008)
+
+ 31.1 Sarbanes Oxley Section 302 Certification from C.E.O.
+
+ 31.2 Sarbanes Oxley Section 302 Certification from C.F.O.
+
+ 32.1 Sarbanes Oxley Section 906 Certification from C.E.O.
+
+ 33
+ 
+Item 15. Principal Accountant Fees And Services
+
+Williams & Webster PS, Certified Public Accountants, were the Company's
+independent auditors to examine the financial statements of the Company for the
+fiscal year ending June 30, 2007. Williams & Webster PS has performed the
+following services and has been paid the following fees for these fiscal years.
+
+Audit Fees: Williams & Webster PS was paid aggregate fees of approximately
+ 23,000 and 27,000 for the fiscal years ended June 30, 2007 and June 30, 2006
+for professional services rendered for the audit of the Company's annual
+financial statements and for the reviews of the financial statements included in
+Company's quarterly reports on Form 10QSB during these fiscal years.
+
+Audit -Related Fees: Williams & Webster PS was not paid any additional fees for
+the fiscal year ended June 30, 2008 for assurance and related services
+reasonably related to the performance of the audit or review of the Company's
+financial statements.
+
+Tax Fees: Williams & Webster PS was not paid any aggregate fees for the fiscal
+year ended June 30, 2008 for professional services rendered for tax compliance,
+tax advice and tax planning. This service was not provided.
+
+Other Fees: Williams & Webster PS was paid no other fees for professional
+services during the fiscal year ended June 30, 2008
+
+34
+
+SIGNATURES
+
+In accordance with Section 13 or 15(d) of the Exchange Act, the registrant
+caused this report to be signed on its behalf by the undersigned, thereunto duly
+authorized.
+
+Date: October 13, 2008
+ /s/ Peter Bojtos
+ --------------------------------------
+ Peter Bojtos, President/CEO
+
+In accordance with the Exchange Act, this report has been signed below by the
+following persons on behalf of the registrant and in the capacities and on the
+dates indicated.
+
+Signature Title Date
+- --------- ----- ----
+
+/s/ Peter Bojtos
+- ------------------------
+Peter Bojtos Chairman,President, CEO, October 13, 2008
+ Director
+
+/s/ Robert G. Dinning
+- ------------------------
+Robert G. Dinning Chief Financial Officer,
+ Secretary, Director October 13, 2008
+
+/s/ David Yu
+- ------------------------
+David Yu Director October 13, 2008
+
+35
+ 
+ Exhibit Index
+
+The following exhibits are filed with the Annual Report on Form 10-K.
+
+ 31.1 Sarbanes Oxley Section 302 Certification from C.E.O.
+ 31.2 Sarbanes Oxley Section 302 Certification from C.F.O.
+ 32.1 Sarbanes Oxley Section 906 Certification from C.E.O.
+ 32.2 Sarbanes Oxley Section 906 Certification from C.F.O.
+
+36
+
+<EX-31.1>
+ 2
+ appl_10k-311.txt
+ EXHIBIT 31.1
+
+Exhibit 31.1
+ CERTIFICATION
+I, Peter Bojtos, certify that:
+
+1. I have reviewed this report on Form 10-K of Apolo Gold & Energy Inc.
+
+2. Based on my knowledge, this report does not contain any untrue statement
+ of a material fact or omit to state a material fact necessary to make the
+ statements made, in light of the circumstances under which such statements
+ were made, not misleading with respect to the period covered by this
+ report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of
+ the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer(s) and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+ control over financial reporting (as defined in Exchange Act Rules
+ 13a-15(f) and 15d-15(f)) for the registrant and have:
+
+ a) Designed such disclosure controls and procedures or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known to
+ us by others within those entities, particularly during the period in
+ which this report is being prepared;
+
+ b) Designed such internal control over financial reporting, or caused
+ such internal control over financial reporting to be designed under
+ our supervision, to provide reasonable assurance regarding the
+ reliability of financial reporting and the preparation of financial
+ statements for external purposes in accordance with generally
+ accepted accounting principles;
+
+ c) Evaluated the effectiveness of the registrant's disclosure controls
+ and procedures and presented in this report our conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the
+ end of the period covered by this report based on such evaluation;
+ and
+
+ d) Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the
+ registrant's most recent fiscal quarter (the registrant's fourth
+ fiscal quarter in the case of an annual report) that has materially
+ affected, or is reasonably likely to materially affect, the
+ registrant's internal control over financial reporting; and
+
+5. The registrant's other certifying officer(s) and I have disclosed, based
+ on our most recent evaluation of internal control over financial
+ reporting, to the registrant's auditors and the audit committee of
+ registrant's board of directors (or persons performing the equivalent
+ functions):
+
+a) All significant deficiencies and material weaknesses in the design or
+ operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant's ability to
+ record, process, summarize and report financial information; and
+
+ b) Any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal
+ control over financial reporting.
+
+Date: October 13, 2008
+
+/s/ Peter Bojtos
+- -----------------------
+Peter Bojtos
+Chairman, President and Chief Executive Officer
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ appl_10k-ex312.txt
+ EXHIBIT 31.2
+
+Exhibit 31.2
+ CERTIFICATION
+I, Robert Dinning, certify that:
+
+1. I have reviewed this report on Form 10-K of Apolo Gold & Energy Inc.
+
+2. Based on my knowledge, this report does not contain any untrue statement
+ of a material fact or omit to state a material fact necessary to make the
+ statements made, in light of the circumstances under which such statements
+ were made, not misleading with respect to the period covered by this
+ report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of
+ the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer(s) and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+ control over financial reporting (as defined in Exchange Act Rules
+ 13a-15(f) and 15d-15(f)) for the registrant and have:
+
+ a) Designed such disclosure controls and procedures or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known to
+ us by others within those entities, particularly during the period in
+ which this report is being prepared;
+
+ b) Designed such internal control over financial reporting, or caused
+ such internal control over financial reporting to be designed under
+ our supervision, to provide reasonable assurance regarding the
+ reliability of financial reporting and the preparation of financial
+ statements for external purposes in accordance with generally
+ accepted accounting principles;
+
+ c) Evaluated the effectiveness of the registrant's disclosure controls
+ and procedures and presented in this report our conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the
+ end of the period covered by this report based on such evaluation;
+ and
+
+ d) Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the
+ registrant's most recent fiscal quarter (the registrant's fourth
+ fiscal quarter in the case of an annual report) that has materially
+ affected, or is reasonably likely to materially affect, the
+ registrant's internal control over financial reporting; and
+
+5. The registrant's other certifying officer(s) and I have disclosed, based
+ on our most recent evaluation of internal control over financial
+ reporting, to the registrant's auditors and the audit committee of
+ registrant's board of directors (or persons performing the equivalent
+ functions):
+
+a) All significant deficiencies and material weaknesses in the design or
+ operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant's ability to
+ record, process, summarize and report financial information; and
+
+ b) Any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal
+ control over financial reporting.
+
+Date: October 13, 2008
+
+/s/ Robert Dinning
+- ------------------
+Robert Dinning
+Chief Financial Officer
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ appl_10k-321.txt
+ EXHIBIT 32.1
+
+Exhibit 32.1
+
+CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+Certification of Chief Executive Officer
+
+In connection with the Annual Report of Apolo Gold & Energy Inc. (the "Company")
+on Form 10-K for the fiscal year ending June 30, 2008 as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), I, Peter
+Bojtos, Chief Executive Officer certify, pursuant to 18 U.S.C. Section 1350, as
+adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to the
+best of my knowledge and belief:
+
+ (1) The Report fully complies with the requirements of section 13(a) or
+ 15(d) of the Securities Exchange Act of 1934; and
+
+ (2) The information contained in the Report fairly presents, in all
+ material respects, the financial condition and results of operations
+ of the Company.
+
+October 13, 2008 /s/ Peter Bojtos
+- ---------------- -----------------------------------
+ Peter Bojtos
+ Chief Executive Officer
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ appl_10k-322.txt
+ EXHIBIT 32.2
+
+Exhibit 32.2
+
+CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+Certification of Chief Financial Officer
+
+In connection with the Annual Report of Apolo Gold & Energy Inc., (the
+"Company") on Form 10-K for the fiscal year ended June 30, 2008 as filed with
+the Securities and Exchange Commission on the date hereof (the "Report"), I,
+Robert Dinning, Chief Financial Officer certify, pursuant to 18 U.S.C. Section
+1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002,
+that, to the best of my knowledge and belief:
+
+ (1) The Report fully complies with the requirements of section 13(a) or
+15(d) of the Securities Exchange Act of 1934; and
+
+ (2) The information contained in the Report fairly presents, in all
+material respects, the financial condition and results of operations of the
+Company.
+
+October 13, 2008 /s/ Robert Dinning
+- ---------------- -----------------------------------
+ Robert Dinning
+ Chief Financial Officer
+
+</EX-32.2>
+

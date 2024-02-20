@@ -1,0 +1,2304 @@
+<Header>
+<FileStats>
+    <FileName>20100330_10-K_edgar_data_1377940_0001377940-10-000002.txt</FileName>
+    <GrossFileSize>106775</GrossFileSize>
+    <NetFileSize>97736</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>760</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001377940-10-000002.hdr.sgml : 20100330
+<ACCEPTANCE-DATETIME>20100330155705
+ACCESSION NUMBER:		0001377940-10-000002
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20091231
+FILED AS OF DATE:		20100330
+DATE AS OF CHANGE:		20100330
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Border Management, Inc.
+		CENTRAL INDEX KEY:			0001377940
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MANAGEMENT CONSULTING SERVICES [8742]
+		IRS NUMBER:				205088293
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-53751
+		FILM NUMBER:		10713874
+
+	BUSINESS ADDRESS:	
+		STREET 1:		968 - 240TH STREET
+		CITY:			LANGLEY
+		STATE:			A1
+		ZIP:			V2Z 2Y3
+		BUSINESS PHONE:		604 539-9680
+
+	MAIL ADDRESS:	
+		STREET 1:		968 - 240TH STREET
+		CITY:			LANGLEY
+		STATE:			A1
+		ZIP:			V2Z 2Y3
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ASkqH/VxxKFgTe/QhOWKIgf8hd75WA2IndcRwFt9ZZmhzNGTeTgqoV7VwKhI/Tzb
+ f3BJ8tnxw1Wh0RpJIx2Ung==
+
+ 0001377940-10-000002.txt : 20100330
+
+10-K
+ 1
+ bmi10k09.txt
+ 
+ UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ Washington, D.C. 20549
+
+ ---------------
+
+ FORM 10-K
+
+(Mark One)
+
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+ OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended December 31, 2009
+
+[ ] Transition Report Pursuant to Section 13 or 15(d)
+ of The Securities Exchange Act of 1934
+
+ For the transition period from to
+ --------- ---------
+
+ Commission File Number 333-139129
+
+ -----------------
+
+ BORDER MANAGEMENT, INC.
+
+ (Exact name of small business issuer as specified
+ in its charter)
+
+Nevada 20-5088293
+(State or other jurisdiction of (I.R.S. Employer
+incorporation or organization) Identification No.)
+
+968 - 240 th Street V2Z 2Y3
+Langley, British Columbia, Canada
+
+(Address of principal (Zip Code)
+executive offices)
+
+ ------------------
+
+ Securities registered pursuant to Section 12(b) of the Act:
+ None
+
+ Securities registered pursuant to Section 12(g) of the Act:
+
+ Title of each class
+ -------------------
+ Common stock, par value 0.001 per share
+ Preferred stock, par value 0.001 per share
+
+Issuer's telephone number, including area code: (604) 539-9680
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as
+defined in Rule 404 of the Securities Act. [ ]
+
+Indicate by check mark if the issuer is not required to file reports pursuant
+to Section 13 or 15(d) of the Exchange Act. [ ]
+
+- ----------------------------------------------------------------
+
+Check whether the issuer filed all reports required to be filed by Section 13
+or 15(d) of the Exchange Act during the preceding 12 months (or for such
+shorter period that the issuer was required to file such reports), and (2)
+has been subject to the filing requirements for the past 90 days. Yes [X] No
+
+Check if there is no disclosure of delinquent filers in response to Item 405
+of Regulation S-K and no disclosure will be contained, to the best of the
+issuer's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to
+this Form 10-K. [ ]
+
+Indicate by check mark whether the registrant is a large accelerated filer,
+an accelerated filer, a non-accelerated filer, or a smaller reporting
+company.
+
+Large accelerated filer [ ] Accelerated filer [ ]
+Non-accelerated filer [ ] Smaller reporting company [X]
+
+(Do not check if a
+ smaller reporting
+ company)
+
+Indicate by check mark whether the registrant is a shell company (as defined
+in Rule 12b-2 of the Exchange Act). Yes [X] No
+
+There were no issuer's revenues for the fiscal year ended December 31, 2009.
+
+The aggregate market value of the Common Stock held by non-affiliates of the
+issuer as of March 29, 2010 was 0.
+
+The number of shares outstanding of the issuer's Common Stock as of March 29,
+2010 was 14,050,000 shares.
+
+DOCUMENTS INCORPORATED BY REFERENCE: NONE
+
+- --------------------------------------------------------------
+
+BORDER MANAGEMENT, INC.
+
+ 2009 FORM 10-K ANNUAL REPORT
+
+ TABLE OF CONTENTS
+
+PART I
+
+Item 1 Description of Business . . . . . . . . . . . . . . . . . . . .1
+Item 1a Risk Factors. . . . . . . . . . . . . . . . . . . . . . . . . .3
+Item 2 Description of Property . . . . . . . . . . . . . . . . . . . .7
+Item 3 Legal Proceedings . . . . . . . . . . . . . . . . . . . . . . .7
+Item 4 Submission of Matters to a Vote of Security Holders . . . . . .7
+
+PART II
+
+Item 5 Market for Common Equity and Related Stockholder Matters. . . .7
+Item 6 Management's Discussion and Analysis or Plan of Operation . . .9
+Item 7 Financial Statements. . . . . . . . . . . . . . . . . . . . . .F-1
+Item 8 Changes in and Disagreements with Accountants on Accounting and
+Financial Disclosure. . . . . . . . . . . . . . . . . . . . . . . . . .14
+Item 8A Controls and Procedures . . . . . . . . . . . . . . . . . . . .14
+Item 8B Other Information . . . . . . . . . . . . . . . . . . . . . . .14
+
+PART III
+
+Item 9 Directors, Executive Officers, Promoters and Control Persons:
+Compliance with Section 16(a) of the Exchange Act . . . . . . . . . . .14
+Item 10 Executive Compensation. . . . . . . . . . . . . . . . . . . . .16
+Item 11 Security Ownership of Certain Beneficial Owners and Management
+and Related Stockholders. . . . . . . . . . . . . . . . . . . . . . . .16
+Item 12 Certain Relationships and Related Transactions, and Director
+Independence. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .18
+Item 13 Exhibits. . . . . . . . . . . . . . . . . . . . . . . . . . . .18
+Item 14 Principal Accountant Fees and Services. . . . . . . . . . . . .18
+
+PART I
+
+ Item 1. DESCRIPTION OF BUSINESS
+
+ History and Development
+
+We were incorporated pursuant to the laws of the State of Nevada on June 7,
+2006 under the name Border Management, Inc. Our Directors have significant
+business experience. They have dealt personally with many entrepreneurs,
+existing for profit and not-for profit businesses and organizations. They
+have also dealt with all three Canadian levels of government. It became
+apparent that the complexities of operating in Canada would be even more
+daunting for non-Canadians who did not have the cultural, geographic, or
+business background necessary. Border Management was formed to offer a "one
+stop" management and consulting service to Non-Canadians. We have a mature
+base of consultants that we can draw on to assist our Directors in providing
+services to our clients. We are therefore able to provide advice directly or
+through a sound base of business, engineering, legal, and other professionals
+relating to a wide variety of issues including:
+
+Business Structure
+Strategic Planning
+Budgeting
+Financing
+Accounting Systems
+Tax Planning
+Marketing
+Capital Expenditures
+Cost Controls
+Project Management
+Estate Planning
+Mediation
+Due Diligence
+Mergers
+Acquisitions
+Web Site Design
+Computer and Systems Installations
+
+Border Management will work with both private and public companies. We will
+market our services to accommodate a wide range of clients. We will serve
+clients who require our services on a one-time basis. We believe however,
+the majority of our revenues will be derived from assisting clients on an
+ongoing basis over a period of years. We will strive to establish long term
+business relationships.
+
+ Typical Revenue Producing Transaction
+
+We will analyze each clients needs and our ability to professionally service
+that client. Assuming we can, our fee will be set by the type of service we
+provide. Services of a more routine or elementary nature will be charged at
+lower rates than services requiring specialized skills. Also, in many cases
+we will have to utilize the outside services of consultants. In doing so our
+fee will in part be dictated by the type of consultant retained what they as
+sub-contractors would charge as well the quantity of work and expertise
+applied. In some cases our fee will only be for a review of the clients
+needs. In all cases, we will attempt to avoid misunderstandings regarding
+fees with our clients by discussing and reviewing our services and the
+amounts to be charged to our clients before accepting the engagement.
+
+ .1.
+
+Revenue Breakdown
+
+We will bill our clients in two ways. We will record revenues depending on
+which way we invoice. If we accept an appointment to act as management or
+business consultants, and the appointment is for a service or services which
+will take an extended time to deliver, we will bill and record revenue on a
+monthly or periodic basis. If we accept appointments that will provide
+services for a short duration of time, we will bill and record revenue when
+the services are completed. We may receive equity securities in certain
+entities as payments for services provided for these entities. Some of these
+entities may be newly formed, have no operating history, and the market for
+such securities is very limited. Since there is no assurance that these
+securities are marketable, we will recognize a reduced amount of revenue upon
+receipt. Actual amounts of revenue will be recorded at the time we sell any
+of these securities. The amount of shares we will accept in lieu of a portion
+of a client's cash payment is situation specific. Such amount will not be
+contingent on the success or failure of our efforts.
+
+ Strategic Relationships
+
+We plan to engage outside consultants to assist us in providing services to
+our clients. We will strive to establish personal and long-term business
+relationships with these consultants. As our management team expands and we
+are able to offer a wide range of services, we hope to engage the same
+consultants on an ongoing basis. We should be able to effect economies of
+scale in terms of the fees charged to us as well as become more efficient in
+the use of such consultants.
+
+ The Market
+
+Canada provides an exceptional market for many businesses. New businesses or
+organizations however are faced with major differences in government
+regulations and local business conditions than they are familiar with in
+their home countries. Every person, business, or organization will face the
+many challenges and Canadian specific regulations when attempting to set up
+in Canada. We believe our potential client base is very large. Within the
+potential client base we believe small to medium sized businesses will most
+likely find our services attractive. Very large companies will have more "in
+house" expertise as well as better funding to search out more established
+consultants with high profiles.
+
+ Competition
+
+We face a highly competitive market place for all of our services. We do not
+expect this to change in the future. Other business consultants, accounting
+firms, marketing and business development companies, engineering, personnel,
+and project management firms will be direct competitors. Our competitors
+will be better funded, more experienced, and already established. They
+therefore may be able to offer similar services at lower rates.
+
+ Employees and Strategic Advisors
+
+As at March 29, 2010 we have no full-time employees with the
+exception of our three members of Executive Management and Board of
+Directors. We will utilize outside consultants as required to offer our
+services. These consultants will be independent contractors.
+
+ .2.
+
+Financial Information About Industry Segments
+
+The Company has commenced limited operations with respect to research and
+marketing as at December 31, 2009. The Company has generated no service
+revenue to date and therefore does not report financial information on
+indusrty segments.
+
+ Compliance with Environmental Laws and Regulations
+
+Our operations are subject to local, state and federal laws and regulations
+governing environmental quality and pollution control. To date, our
+compliance with these regulations has had no material effect on our
+operations, capital, earnings, or competitive position, and the cost of such
+compliance has not been material. We are unable to assess or predict at this
+time what effect additional regulations or legislation could have on our
+activities.
+
+ Item 1a RISK FACTORS
+
+ Risk Factors
+
+In addition to other information contained in this Form 10-K, the following
+Risk Factors should be considered when evaluating the forward-looking
+statements contained in this Form 10-K:
+
+An Investment In Our Common Stock Involves A High Degree Of Risk. Investors
+could lose their entire investment. Prospective investors should carefully
+consider the following factors, along with the other information set forth in
+this 10-K, in evaluating Border Management, its business and prospects
+before purchasing the common stock.
+
+Concentrated Ownership Of Our Common Stock May Allow Certain Security Holders
+To Exert Significant Influence In Corporate Matters Which May Be Adverse To
+The Public Investor.
+
+Our principal stockholders, officers and directors own a controlling interest
+in our voting stock and investors will not have any effective voice in our
+management, which could result in decisions adverse to our general
+shareholders.
+
+Our three officers and directors, in the aggregate, beneficially own
+approximately or have the right to vote 54 of our outstanding common stock.
+As a result, these three stockholders, acting together, will have the ability
+to control substantially all matters submitted to our stockholders for
+approval including:
+
+- - election of our board of directors;
+
+- - removal of any of our directors;
+
+- - amendment of our Articles of Incorporation or bylaws;
+
+- - adoption of measures that could delay or prevent a change in control
+or impede a merger, takeover or other business combination involving
+us; and
+
+- - adoption of measures that could initiate a change in control, a
+merger, takeover, or other business combination involving us.
+
+As a result of their ownership and positions, our directors and executive
+officers collectively are able to influence all matters requiring shareholder
+approval, including the election of directors and approval of significant
+corporate transactions. In addition, the future prospect of sales of
+significant amounts of shares held by our directors and executive officers,
+could affect the market price of our common stock if the marketplace does not
+orderly adjust to the increase in shares in the market and the value of your
+investment in the company may decrease. Management's stock ownership may
+discourage a potential acquirer from making a tender offer or otherwise
+attempting to obtain control of us, this in turn could reduce our stock
+price or prevent our stockholders from realizing a premium over our stock
+price.
+
+The Timing And Amount Of Capital Requirements Are Not Entirely Within Our
+Control And Cannot Accurately Be Predicted And As A Result, We May Not Be
+Able To Raise Capital In Time To Satisfy Our Needs.
+
+If we are unable to attract clients and the resulting revenues, we may need
+to acquire additional financing. If working capital is required, we may
+require financing sooner than anticipated. We have no commitments for
+financing, and we cannot be sure that any financing would be available in a
+timely manner, on terms acceptable to us, or at all. Further, any equity
+financing could reduce ownership of existing stockholders and any borrowed
+money could involve restrictions on future capital raising activities and
+other financial and operational matters. If we were unable to obtain
+financing as needed, we could be bankrupt.
+
+ .3.
+
+We Are a Development Stage Company.
+
+We were incorporated on June 7, 2006. Although we believe we will generate
+revenues and become profitable, no assurance can be given in this regard. We
+are a development stage company and may never be able to effectively
+implement our business plan. The revenue and income potential of our
+proposed business and operations is unproven. The lack of operating history
+makes it difficult to evaluate the future prospects of our business.
+
+Our Competitors Are Better Financed and Already Established in the Industry.
+As our competitors are better established and funded, they will be able to
+offer services at more competitive prices than us if they choose. We may
+have to accept engagements at significantly lower fees to attract clients.
+We may be unable to attract larger clients who want existing name recognition
+from their consultants.
+
+In addition we hold no trademarks or copyrights and our proprietary
+information could be assumed by others offering similar services. Our
+business model is not capital intensive, so others wanting to enter our field
+will have little barrier to entry if they have the necessary skills.
+
+We Have Limited Operating History And Have Losses To Date Which May Continue
+in The Future. As A Result, We May Have To Suspend Or Cease Operations.
+
+We have generated no operating revenues since our incorporation on June 7,
+2006. We cannot with any accuracy evaluate our future success or failure. Our
+ability to achieve and maintain profitability and positive cash flow is
+dependent upon our ability to procure new business and generate revenues.
+Our current operating expenses are greater than our revenues. As we cannot
+be certain of future revenues, we may have to suspend our operations.
+
+At Present We Are Dependant On Our Three Directors And A Loss Of Any Could
+Have A Material Adverse Effect Upon Us.
+
+Evan Williams, President, Solomon Nordine, Treasurer, and Leigh Anderson,
+Secretary are our Founding Directors. None of our Directors has a consulting
+or employment contract with us so there is no assurance that they will remain
+with us. Our Directors are committed to provide a part time commitment only
+as they serve on the Boards of other non-competitive privately held
+companies. If any were to leave or be unable to perform there duties, there
+is no assurance that we would be able to retain qualified personnel We do
+not maintain any key man life insurance policies on any of our Directors so
+in the event of death, there would be no extra funding to cope with any
+resulting financial losses we might incur.
+
+There is no current trading market for our securities and if a trading market
+does not develop, purchasers of our securities may have difficulty selling
+their shares.
+
+As of November 14, 2007, our securities were listed on the OTC Bulletin
+Board. There is currently no established public trading market for our
+securities and an active trading market in our securities may not develop or,
+if developed, may not be sustained. If for any reason a public trading market
+does not otherwise develop, purchasers of the shares may have difficulty
+selling their common stock should they desire to do so. No market makers have
+committed to becoming market makers for our common stock and none may do so.
+
+ .4.
+
+State securities laws may limit secondary trading, which may restrict the
+states in which and conditions under which you can sell the shares of our
+Company.
+
+Secondary trading in our common stock will not be possible
+in any state until the common stock is qualified for sale under the
+applicable securities laws of the state or there is confirmation that an
+exemption, such as listing in certain recognized securities manuals, is
+available for secondary trading in the state. If we fail to register of
+qualify, or to obtain or verify an exemption for the secondary trading of,
+the common stock in any particular state, the common stock could not be
+offered or sold to, or purchased by, a resident of that state. In the event
+that a significant number of states refuse to permit secondary trading in our
+common stock, the liquidity for the common stock could be significantly
+impacted thus causing you to realize a loss on your investment.
+
+We May Be Unable To Pay Any Cash Dividends On Our Common Stock, Our
+Stockholders May Not Be Able To Receive A Return On Their Shares Unless They
+Sell Them.
+
+As we presently do not have net income nor can we assure our shareholders of
+net income in the future, our stockholders may not be able to receive a
+return on their shares unless they sell them. There is no assurance that
+stockholders will be able to sell shares when desired.
+
+Under Certain Conditions, We May Receive Securities As Full or Partial
+Payment For Our Services Rendered And Such Securities May Lose All Value We
+Ascribe To Them.
+
+In certain circumstances, we may accept a client's securities as full or
+partial payment. The securities we receive may be unregistered and as a
+result restricted. As a general rule we must hold restricted securities for
+one year until we have the ability to sell them. Although we will book any
+restricted securities we receive at a significantly reduced valuation in
+comparison to the same company's unrestricted shares, there is a risk that
+during such holding period the securities may be become worthless. We would
+suffer a loss of revenue as a result of such devaluation. By accepting
+client's securities as payment we could become partially or fully dependent
+of the client's success to sell the client's shares or receive dividends on
+the client's shares that we hold. Securities we receive as payment may
+decline in value from the time we receive them. Should we have to sell them
+to acquire additional capital for operations, we could incur serious
+financial losses that would impair our ability to carry on business.
+
+We may not be able to raise sufficient capital or generate adequate revenue
+to meet our obligations and fund our operating expenses.
+
+Failure to raise adequate capital and generate adequate sales revenues to
+meet our obligations and develop and sustain our operations could result in
+our having to curtail or cease operations. Additionally, even if we do raise
+sufficient capital and generate revenues to support our operating expenses,
+there can be no assurances that the revenue will be sufficient to enable us
+to develop business to a level where it will generate profits and cash flows
+from operations. These matters raise substantial doubt about our ability to
+operate as a going concern. Our independent auditors currently included an
+explanatory paragraph in their report on our financial statements regarding
+concerns about our ability to continue as a going concern.
+
+ .5.
+
+We may, in the future, issue additional common shares, which would reduce
+investors' percent of ownership and may dilute our share value.
+
+Our Articles of Incorporation authorize the issuance of 50,000,000 shares of
+common stock and 20,000,000 preferred shares. The future issuance of either
+common or preferred stock may result in substantial dilution in the
+percentage of our common stock held by our then existing shareholders. We may
+value any stock issued in the future on an arbitrary basis. The issuance of
+common or preferred stock for future services or acquisitions or other
+corporate actions may have the effect of diluting the value of the shares
+held by our investors, and might have an adverse effect on any trading market
+for our common stock.
+
+Our common shares are subject to the "Penny Stock" Rules of the SEC and the
+trading market in our securities is limited, which makes transactions in our
+stock cumbersome and may reduce the value of an investment in our stock.
+
+The Securities and Exchange Commission has adopted Rule 15g-9 which
+establishes the definition of a "penny stock," for the purposes relevant to
+us, as any equity security that has a market price of less than 5.00 per
+share or with an exercise price of less than 5.00 per share, subject to
+certain exceptions. For any transaction involving a penny stock, unless
+exempt, the rules require:
+
+- - that a broker or dealer approve a person's account for transactions in
+penny stocks; and
+
+- - the broker or dealer receive from the investor a written agreement to
+the transaction, setting forth the identity and quantity of the penny
+stock to be purchased.
+
+In order to approve a person's account for transactions in penny stocks, the
+broker or dealer must:
+
+- - obtain financial information and investment experience objectives of
+the person; and
+
+- - make a reasonable determination that the transactions in penny stocks
+are suitable for that person and the person has sufficient knowledge
+and experience in financial matters to be capable of evaluating the
+risks of transactions in penny stocks.
+
+The broker or dealer must also deliver, prior to any transaction in a penny
+stock, a disclosure schedule prescribed by the Commission relating to the
+penny stock market, which, in highlight form:
+
+- - sets forth the basis on which the broker or dealer made the
+suitability determination; and
+
+- - that the broker or dealer received a signed, written agreement from
+the investor prior to the transaction.
+
+Generally, brokers may be less willing to execute transactions in securities
+subject to the "penny stock" rules. This may make it more difficult for
+investors to dispose of our Common shares and cause a decline in the market
+value of our stock.
+
+ .6.
+
+Disclosure also has to be made about the risks of investing in penny stocks
+in both public offerings and in secondary trading and about the commissions
+payable to both the broker-dealer and the registered representative, current
+quotations for the securities and the rights and remedies available to an
+investor in cases of fraud in penny stock transactions. Finally, monthly
+statements have to be sent disclosing recent price information for the penny
+stock held in the account and information on the limited market in penny
+stocks.
+
+ Our Services May Sometimes Be Paid for With Restricted Securities
+
+We may allow certain clients to pay for our services with a combination of
+cash and restricted securities of theirs and as a result we are somewhat
+dependent on such companies' ability to succeed in the marketplace. There
+will usually be a significant period of time between when such securities are
+received and when they may be sold into the market. In the event that any
+securities we receive as partial payment decline in value from the time we
+receive them and we find ourselves in the unfortunate position of needing to
+raise capital for operations by selling some or all of such securities we may
+suffer irreparable harm.
+
+ Our Forward-looking Statements Are Estimates Only
+
+The statements contained in this 10-K that are not historical fact are
+"forward-looking statements," which can be identified by the use of
+forward-looking terminology such as "believes," "expects," "may," "should,"
+or "anticipates," the negatives thereof or other variations thereon or
+comparable terminology, and include statements as to the intent, belief or
+current our expectations with respect to the future operations, performance
+or position. These forward-looking statements are predictions. We cannot
+assure you that the future results indicated, whether expressed or implied,
+will be achieved. While sometimes presented with numerical specificity, these
+forward-looking statements are based upon a variety of assumptions relating
+to our business, which, although currently considered reasonable by us, may
+not be realized. Because of the number and range of the assumptions
+underlying our forward-looking statements, many of which are subject to
+significant uncertainties and contingencies beyond our reasonable control,
+some of the assumptions inevitably will not materialize and unanticipated
+events and circumstances may occur subsequent to the date of this 10-K.
+These forward-looking statements are based on current information and
+expectation, and we assume no obligation to update them at any stage.
+
+Therefore, our actual experience and results achieved during the period
+covered by any particular forward-looking statement may differ substantially
+from those anticipated. Consequently, the inclusion of forward-looking
+statements should not be regarded as a representation by us or any other
+person that these estimates will be realized, and actual results may vary
+materially. We can not assure that any of these expectations will be realized
+or that any of the forward-looking statements contained herein will prove to
+be accurate.
+
+Item 2. DESCRIPTION OF PROPERTY
+
+The Company owns no Property. Our executive offices are located at
+968 - 240th Street, Langley, BC, CanadaV2Z 2Y3. Our telephone number is (604)
+539-9680. The office premises, which are approximately 1000 square feet, and
+include furniture, and equipment have been provided to December 31, 2009 by
+the President and majority shareholder Evan Williams.
+
+ Item 3. LEGAL PROCEEDINGS
+
+None
+
+ Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+No matters were submitted to a vote of the Company's shareholders
+through the solicitation of proxies, during the fourth quarter of the
+Company's fiscal year ended December 31, 2009.
+
+ PART II
+
+ Item 5. MARKET FOR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+The Company's Common Stock is available for trading on the OTC Bulletin
+Board. The following table sets forth the high and low bid price per share of
+the company's common stock for each full quarterly period since incorporation
+on June 7, 2006 to December 31, 2009.
+
+2006
+- ---------
+ High Low
+ 
+Third Quarter No Quote No Quote
+Fourth Quarter No Quote No Quote
+
+2007
+- ---------
+
+ High Low
+First Quarter No Quote No Quote
+Second Quarter No Quote No Quote
+Third Quarter No Quote No Quote
+Fourth Quarter No Quote No Quote
+
+2008
+- ---------
+
+ High Low
+First Quarter No Quote No Quote
+Second Quarter No Quote No Quote
+Third Quarter No Quote No Quote
+Fourth Quarter No Quote No Quote
+
+2009
+- ---------
+
+ High Low
+First Quarter No Quote No Quote
+Second Quarter No Quote No Quote
+Third Quarter No Quote No Quote
+Fourth Quarter No Quote No Quote
+
+As of December 31, 2009 there was no Quote for the Stock. As of December 31,
+2009 there were 56 holders of record of the Common Stock of the Company.
+
+ .7.
+
+General
+
+The following description of our capital stock does not purport to be
+complete and is subject to and qualified in its entirety by our Articles of
+Incorporation, and By-laws, which are included as exhibits.
+
+We are authorized to issue 50,000,000 shares of common stock, 0.001 par
+value per share, of which 14,050,000 shares were issued and outstanding as of
+December 31, 2009. We are also authorized to issue 20,000,000 preferred
+stock, 0.001 par value per share, of which no shares were issued as of
+December 31, 2009. The Company did not purchase any securities during the
+year-ended December 31, 2009.
+
+ Common Stock
+
+Holders of shares of our common stock are entitled to share equally on a per
+share basis in such dividends as may be declared by our Board of Directors
+out of funds legally available. There are presently no plans to pay
+dividends with respect to the shares of our common stock. Upon our
+liquidation, dissolution or winding up, after payment of creditors and the
+holders of any of our senior securities, if any, our assets will be divided
+pro rata on a per share basis among the holders of the shares of our common
+stock. The common stock is not subject to any liability for further
+assessments. There are no conversion or redemption privileges or any sinking
+fund provisions with respect to the common stock. The holders of common stock
+do not have any pre-emptive or other subscription rights.
+
+Holders of shares of common stock are entitled to cast one vote for each
+share held at all stockholders' meetings for all purposes, including the
+election of directors. The common stock does not have cumulative voting
+rights.
+
+Our Preferred shares have not been assigned any special or preemptive rights
+at this time, nor any cumulative voting rights.
+
+ Dividend Policy
+
+We have never declared or paid any cash dividends on our common stock. We
+anticipate that any earnings will be retained for development and expansion
+of our business and we do not anticipate paying any cash dividends in the
+near future. Our Board of Directors has sole discretion to pay cash dividends
+with respect to our common stock based on our financial condition, results of
+operations, capital requirements, contractual obligations and other relevant
+factors.
+
+ Equity Compensation Plan Information
+
+No equity compensation plan has been authorized by the Company.
+
+ Unregistered Sales of Equity Securities
+
+Following is a summary of unregistered securities issued from inception (June
+7, 2006) through December 31, 2009.
+
+On June 7, 2006, we issued an aggregate of 7,600,000 shares of our common
+stock, par value .001 per share, to the founders and Directors of our
+company, which included our Chief Executive Officer, our Treasurer, and
+Secretary for an aggregate purchase price of 77,173.29.
+
+On September 30, 2006, we issued an aggregate of 6,450,000 shares of our
+common stock, par value .001 per share to the other 53 founders of our
+Company for an aggregate purchase price of 65,502.43.
+
+ .8.
+
+Item 6. MANAGEMENT'S DISCUSSION AND ANALYSIS OR PLAN OF OPERATION
+
+The following discussion should be read in conjunction with our financial
+statements and attached notes. This discussion may contain forward-looking
+statements that could involve risks and uncertainties. For additional
+information see "Risk Factors".
+
+Border Management was incorporated on June 7, 2006 however, we have not yet
+commenced operations other than research and establish a preliminary business
+plan. We invested the majority of the proceeds from our original share
+issue in a short term interest bearing note issued by JPI Project Management
+Inc., The note was repaid during 2008. JPI Project Management Inc. is a
+privately held British Columbia non reporting company owned by Mrs. Jillian
+Williams, Evan Williams's wife.
+
+ Critical Accounting Policies:
+
+Our financial statements are prepared in accordance with accounting
+principles generally accepted in the United States of America, which require
+management to make estimates and assumptions that affect the reported amounts
+of assets and liabilities at the date of the financial statements, the
+disclosure of contingent assets and liabilities, and the reported amounts of
+revenues and expenses during the reporting period. Actual results could
+differ from those estimates. The critical accounting policies that affect our
+more significant estimates and assumptions used in the preparation of our
+financial statements are reviewed and any required adjustments are recorded
+on a monthly basis.
+
+ Results of Operations:
+
+Substantial positive and negative fluctuations can occur in our business due
+to a variety of factors, including variations in the economy, and the
+abilities to raise capital. As a result, net income and revenues in a
+particular period may not be representative of full year results and may vary
+significantly in this early stage of our operations. In addition results of
+operations, may vary in the future, and will be materially affected by many
+factors of a national and international nature, including economic and market
+conditions, currency values, inflation, the availability of capital, the
+level of volatility of interest rates, the valuation of security positions
+and investments and legislative and regulatory developments. Our results of
+operations also may be materially affected by competitive factors and our
+ability to attract and retain highly skilled individuals.
+
+Liquidity Management:
+
+Liquidity is the ability to meet current and future financial obligations
+of a short-term nature. Our primary sources of funds will consist of
+management and consulting revenues. During the next twelve months, we will
+continue our research into our specific industry, management systems, and
+marketing. We have also commenced operations with the creation of our
+website and the marketing of our services. Unless we derive sufficient
+revenues from operations, we will be required to issue additional share
+capital or secure debt financing. Depending on market conditions, we may be
+required to pay high rates of interest on such loans. We no not have enough
+cash available to satisfy our requirements during the next twelve months.
+
+Operational Matters:
+
+Over the next twelve months, we do not have enough cash to proceed with
+limited research, recruitment, and marketing plans.
+
+Our industry research will be ongoing. We will monitor what services our
+competitors offer along with their strengths, weaknesses, and fees. We will
+also monitor changes in Federal and Provincial legislation, which is likely
+to affect our clients and our ability to deliver professional service.
+
+Our recruiting efforts will be to attract and contract with professionals
+such as engineers, lawyers, and accountants outside of our company. We will
+also recruit prospective employees and professionals to work within our
+company. Employees, however, will only be hired as workload demands. As
+such we cannot say at this time how many, if any, will be hired during the
+next twelve months.
+
+Our marketing objective will be to solicit clients outside and to a lesser
+extent inside of Canada. Our marketing will include the use of newspapers
+and internet. We will consider trade journals, various print mediums such as
+brochures, and some travel to meet prospective clients. We will change our
+website as is necessary.
+
+Primary Investing Activities: We do not anticipate any major investing
+activities in the next twelve months. Neither do we expect any major
+purchases or sales of plant and equipment.
+
+In addition to the other information set forth in this report, you should
+carefully consider the "Risk Factors" in this Annual Report, which could
+materially affect our business, financial condition or future
+results. The risks described in our Annual Report on Form 10-K are not
+the only risks that we face. Additional risks and uncertainties not
+currently known to us or that we currently deem to be immaterial also may
+materially affect our business, financial condition and/or operating results.
+
+Period Ended December 31, 2009:
+
+We have commenced operations, however we have had no service revenues
+to date. Much of our preliminary organization has been completed including
+establishing our office premises and accounting system. During the last year,
+we initiated our marketing plan. Our focus has been on the following
+three areas:
+
+1.Our web-site has been maintained.
+
+2.We have continued discussions with a number of business contacts.
+
+We believe the value of the Canadian dollar as compared to the U.S.
+dollar may have a negative and on going impact on our business plans.
+
+Should we be able to develop a client base, we anticipate our services will
+be rendered to our clients on both an ongoing basis as well as a one time
+and project consulting basis. If engaged on a project or one time basis, we
+will recognize revenues at the time that all services have been substantially
+completed. At the discretion of our management, we may accept restricted
+equity securities in certain entities as payments for services provided to
+these entities. Some of these entities may be newly formed, have no operating
+history, and the market for such securities would be very limited. In the
+event that there is a public market for the securities, we will record the
+securities at a discount from the market price, since (i) the securities are
+restricted and (ii) there is no assurance that the value of these securities
+will be realized. The amount of shares we will accept in lieu of a portion of
+a client's cash payment is situation specific.
+
+The major changes in specific accounts in our operating statement for the
+year ended December 31, 2009 as compared to the previous period are as
+follows:
+
+Revenue
+
+Revenue for the year ended December 31, 2009 was 0. Revenue for the year
+ended December 31, 2008, 4,600, was derived from interest income only.
+
+Expenses
+
+Advertising costs increased to 333 during the year ended December 31, 2009.
+Advertising costs of 167 were incurred during the previous year ended
+December 31, 2008.
+
+Management fees of 4,961 were incurred during this year of operations.
+ 39,841 was paid during the previous year ended December 31,2008.
+
+Professional fees of 14,864 were incurred as compares to 29,611 from
+inception to December 31, 2008. Included in fees to December 31, 2009 were
+fees of 1,491 paid to S N Ventures Inc., a company owned by the Treasurer.
+
+Listing and Share Transfer fees of 5,429 were incurred for the year ended
+December 31, 2009. Our prior period amount to December 31, 2008 was 6,700.
+The increase was due to the initial costs paid to Island Stock Transfer of
+Florida upon their appointment as our new Listing and Stock Transfer Agent.
+
+Rent, of 2,481 was paid during the year ended December 31, 2009. 10,155 was
+paid during the previous year of operations.
+
+The net loss for the year ended December 31, 2009 was 29,501 or 0.00209 per
+share compared to a loss of 82,700 for the period ended December 31, 2008,
+an decrease of 53,199.
+
+.9.
+
+Off-Balance Sheet Arrangements
+
+We do not have any off balance sheet arrangements that are reasonably likely
+to have a current or future effect on our financial condition, revenues,
+results of operations, liquidity or capital expenditures.
+
+Shares Eligible for Future Sale
+
+ Common Stock
+
+We are authorized to issue an additional 35,950,000 shares of Common Stock;
+however, none have been issued to date.
+
+The founders shares(14,050,000) are deemed to be "restricted securities," as
+that term is defined under Rule 144 promulgated under the Securities Act.
+
+ .10.
+
+Preferred Stock
+
+We are authorized to issue 20,000,000 shares of preferred stock; however none
+have been issued to date.
+
+ Transfer Agent and Registrar
+
+Our transfer agent is Island Stock Transfer located in St. Petersburg,
+Florida.
+
+ Resale Restrictions
+
+All of our shares of common stock issued prior to March 25, 2008 are
+"restricted securities" as this term is defined under Rule 144, in that such
+shares were issued in private transactions not involving a public offering
+and may not be sold in the U.S. in the absence of registration other than in
+accordance with Rule 144 under the Securities Act of 1933, as amended, or
+another exemption from registration. In general, under Rule 144 as currently
+in effect, any of our affiliates or any person (or persons whose shares are
+aggregated in accordance with Rule 144) who has beneficially owned our common
+shares which are treated as restricted securities for at least one (1) year
+would be entitled to sell within any three-month period a number of shares
+that does not exceed the greater of 1 of our outstanding common shares
+(approximately 170,500 shares based upon the number of common shares expected
+to be outstanding after our offering) or the reported average weekly trading
+volume in our common shares during the four weeks preceding the date on which
+notice of such sale was filed under Rule 144. Sales under Rule 144 are also
+subject to sale restrictions and notice requirements and to the availability
+of current public information concerning our company. In addition, affiliates
+of our company must comply with the restrictions and requirements of Rule 144
+(other than the one (1) year holding period requirements) in order to sell
+common shares that are not restricted securities (such as common shares
+acquired by affiliates in market transactions). Furthermore, if a period of
+at least two (2) years has elapsed from the date restricted securities were
+acquired from us or from one of our affiliates, a holder of these restricted
+securities who is not an affiliate at the time of the sale and who has not
+been an affiliate for at least three (3) months prior to such sale would be
+entitled to sell the shares immediately without regard to the volume, manner
+of sale, notice and public information requirements of Rule 144.
+
+ Penny Stock Considerations
+
+Broker-dealer practices in connection with transactions in penny stocks are
+regulated by certain penny stock rules adopted by the Securities and Exchange
+Commission. Penny stocks generally are equity securities with a price of less
+than US 5.00. Penny stock rules require a broker-dealer, prior to a
+transaction in a penny stock not otherwise exempt from the rules, to deliver
+a standardized risk disclosure document that provides information about penny
+stocks and the risks in the penny stock market. The broker-dealer also must
+provide the customer with current bid and offer quotations for the penny
+stock, the compensation of the broker-dealer and its salesperson in the
+transaction, and monthly account statements showing the market value of each
+penny stock held in the customer's account. In addition, the penny stock
+rules generally require that prior to a transaction in a penny stock, the
+broker-dealer make a special written determination that the penny stock is a
+suitable investment for the purchaser and receive the purchaser's written
+agreement to the transaction. These disclosure requirements may have the
+effect of reducing the level of trading activity in the secondary market for
+a stock that becomes subject to the penny stock rules. Our shares may be
+subject to such penny stock rules and our shareholders may find it difficult
+to sell their securities.
+
+ .11.
+
+PLAN OF DISTRIBUTION
+
+Currently there are no shares registered for sale on behalf of the Company.
+
+There are no shares registered for sale on behalf on the existing
+Shareholders.
+
+The existing shareholders may sell some or all of their shares as restricted
+shares at any price.
+
+Broker-dealers engaged by the selling shareholder may arrange for other
+broker-dealers to participate. Broker-dealers may receive commissions or
+discounts from the selling shareholder (or, if any such broker-dealer acts as
+agent for the purchaser of such shares, from such purchaser) in amounts to be
+negotiated. Broker-dealers may agree with the selling shareholder to sell a
+specified number of such shares at a stipulated price per share.
+
+The selling shareholders and any broker-dealers participating in the
+distributions of the shares may be deemed to be "underwriters" within the
+meaning of Section 2(11) of the Securities Act. Any profit on the sale of
+shares by the selling shareholder and any commissions or discounts given to
+any such broker-dealer may be deemed to be underwriting commissions or
+discounts. The shares may also be sold pursuant to Rule 144 under the
+Securities Act of 1933, as amended, beginning one (1) year after the shares
+were issued.
+
+Under the Securities Exchange Act of 1934 and the regulations there under,
+any person engaged in a distribution of the shares of our Common Stock
+offered by our prospectus may not simultaneously engage in market making
+activities with respect to our Common Stock during the applicable "cooling
+off" periods prior to the commencement of such distribution. Also, the
+selling shareholder is subject to applicable provisions that limit the timing
+of purchases and sales of our Common Stock by the selling shareholder.
+
+ .12.
+
+We have informed the selling shareholders that, during such time as he may be
+engaged in a distribution of any of the shares we have registered by our
+prospectus, he is required to comply with Regulation M. In general,
+Regulation M precludes the selling shareholder, any affiliated purchasers and
+any broker-dealer or other person who participates in a distribution from
+bidding for or purchasing, or attempting to induce any person to bid for or
+purchase, any security which is the subject of the distribution until the
+entire distribution is complete. Regulation M defines a "distribution" as an
+offering of securities that is distinguished from ordinary trading activities
+by the magnitude of the offering and the presence of special selling efforts
+and selling methods. Regulation M also defines a "distribution participant"
+as an underwriter, prospective underwriter, broker, dealer, or other person
+who has agreed to participate or who is participating in a distribution.
+
+Regulation M prohibits any bids or purchases made in order to stabilize the
+price of a security in connection with the distribution of that security,
+except as specifically permitted by Rule 104 of Regulation M. These
+stabilizing transactions may cause the price of our Common Stock to be less
+volatile than it would otherwise be in the absence of these transactions. We
+have informed the selling shareholder that stabilizing transactions permitted
+by Regulation M allow bids to purchase our Common Stock if the stabilizing
+bids do not exceed a specified maximum. Regulation M specifically prohibits
+stabilizing that is the result of fraudulent, manipulative, or deceptive
+practices. The selling shareholder and distribution participants are required
+to consult with their own legal counsel to ensure compliance with Regulation
+M.
+
+ .13.
+
+BORDER MANAGEMENT, INC.
+ (A Development Stage Company)
+ FINANCIAL STATEMENTS
+
+ DECEMBER 31, 2009
+
+FINANCIAL STATEMENTS
+ BORDER MANAGEMENT, INC.
+ (A Development Stage Company)
+
+ INDEX
+- ---------------------------------------------------------------------------
+ Page (s)
+- ---------------------------------------------------------------------------
+ 
+Independent Auditors' Report . . . . . . . . . . . . . . . . . . . F-2
+Financial Statements:
+Balance Sheets as at December 31, 2009 and December 31, 2008 . . . F-3
+Statement of Operations for the Cumulative Period from Inception
+June 7, 2006, to December 31, 2009 . . . . . . . . . . . . . . . . F-4
+Statement of Shareholders' Equity for the Cumulative Period from
+Inception, June 7, 2006 to December 31, 2009 . . . . . . . . . . . F-5
+Statement of Cash Flows for the Cumulative Period from Inception,
+June 7, 2006 to December 31, 2009. . . . . . . . . . . . . . . . . F-6
+Notes to Financial Statement . . . . . . . . . . . . . . . . . . . F-7
+
+.F.
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Stockholders and Board of Directors of:
+Border Management, Inc.
+We have audited the accompanying balance sheets of Border Management, Inc. as
+at December 31, 2009 and 2008 and the related statements of operations,
+stockholders' equity and cash flows for each of the three years in the period
+ended December 31, 2009. These financial statements are the responsibility of
+the Company's management. Our responsibility is to express an opinion on
+these financial statements based on our audit.
+
+We conducted our audit in accordance with the standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we
+plan and perform an audit to obtain reasonable assurance whether the
+financial statements are free of material misstatement. The Company is not
+required to have, nor were we engaged to perform, an audit of its internal
+control over financial reporting. Our audit included consideration of
+internal control over financial reporting as a basis for designing audit
+procedures that are appropriate in the circumstances, but not for the purpose
+of expressing an opinion on the effectiveness of the Company's internal
+control over financial reporting. Accordingly, we express no such opinion. An
+audit includes examining, on a test basis, evidence supporting the amounts
+and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement
+presentation. We believe that our audit provides a reasonable basis for our
+opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of the Company as at December
+31, 2009 and 2008 and the results of its operations and cash flows for each
+of the three years in the period ended December 31, 2009, in conformity with
+accounting principles generally accepted in the United States.
+
+The accompanying financial statements have been prepared assuming that the
+Company will continue as a going concern. As discussed in Note 1 to the
+financial statements, the Company has limited capital and has suffered losses
+from operations and negative cash flows from operations that raise
+substantial doubt about its ability to continue as a going concern.
+Management's plans in regard to these matters are also described in Note 1.
+The financial statements do not include any adjustments that might result
+from the outcome of this uncertainty.
+
+/s/ UHY LDMB Advisors Inc.
+- --------------------------
+UHY LBMB Advisors Inc.
+
+Chartered Accountants
+Surrey, British Columbia, Canada
+
+March 29, 2010
+
+.F-2.
+
+Border Management, Inc.
+(a development stage company)
+
+Balance Sheets
+ As At As At
+ December 31 December 31
+ 2009 2008
+
+- ---------------------------------------------------------------------
+ASSETS
+- ---------------------------------------------------------------------
+ 
+Current Assets:
+ Cash 1,747 9,983
+ Refundable Taxes 249 664
+ ------------ -------------
+Total Assets 1,996 10,647
+ ============ =============
+
+- ---------------------------------------------------------------------
+LIABILITIES
+- ---------------------------------------------------------------------
+Current
+ Accounts payable and 31,641 10,791
+ accrued liabilities ------------ -------------
+
+- ---------------------------------------------------------------------
+STOCKHOLDERS' DEFICIENCY
+- ---------------------------------------------------------------------
+ Common stock, .001 par value
+ Authorized: 50,000,000 shares
+ Issued: 14,050,000 shares 14,050 14,050
+ Preferred stock, .001 par value
+ Authorized: 20,000,000 shares
+ Issued: Nil
+ Additional paid-in capital 128,626 128,626
+ Deficit accumulated during the
+ development stage (172,321) (142,820)
+ ------------ -------------
+Total stockholders' deficiency (29,645) (144)
+ ------------ -------------
+
+Total liabilities and stockholders'
+deficiency 1,996 10,647
+ ============ =============
+
+GOING CONCERN (Note 1)
+
+The accompanying notes are an integral part of these financial statements.
+
+APPROVED BY THE DIRECTORS:
+
+/s/Evan Williams
+- ----------------
+Evan William
+Director
+
+/s/Leigh Anderson
+- -----------------
+
+Leigh Anderson
+Director
+
+/s/ Solomon Nordine
+- -------------------
+Solomon Nordine
+Director
+
+ .F-3.
+
+Border Management, Inc.
+(a development stage company)
+
+Statements of Operations
+
+For the Year For the Year For the Year Period From
+ Ended Ended Ended June 7, 2006
+ Dec 31, 2009 Dec 31, 2008 Dec 31, 2007 (inception) to
+ Dec 31, 2009
+- ----------------------------------------------------------------------------------------
+
+REVENUE
+Interest Revenue - 4,600 9,741 17,096
+Operating Revenue - - - -
+ ------------- ------------- --------------- --------------
+Total Revenue - 4,600 9,741 17,096
+ ============= ============= =============== ==============
+
+EXPENSES
+ Advertising 333 167 746 1,247
+ Bank Charges 240 309 23 600
+ Foreign Currency
+ Loss 1,193 517 - 1,710
+ Listing and Share
+ Transfer fees 5,429 6,700 6,020 18,399
+ Management fees 4,961 39,841 17,441 62,243
+ Professional fees 14,864 29,611 16,759 88,177
+ Rent 2,481 10,155 4,405 17,041
+ ------------- ------------- -------------- ---------------
+Total Expenses 29,501 87,300 45,394 189,417
+ ============= ============= ============== ===============
+
+NET LOSS (29,501) (82,700) (35,653) (172,321)
+
+ ============= ============= ============== ===============
+
+Loss per share (0.00) (0.01) (0.00) (0.01)
+ (Note 2(f)) ============= ============= ============== ===============
+
+Weighted average
+number of shares
+outstanding 14,050,000 14,050,000 14,050,000 13,480,737
+ ============= ============= ============== ===============
+
+- -----------------------------------------------------------------------------------------
+
+The accompanying notes are an integral part of these financial statements.
+
+ .F-4.
+
+Border Management, Inc.
+(a development stage company)
+
+Statement of Stockholders' Equity
+
+For the Period from June 7, 2006 (inception) to December 31, 2009
+
+- -----------------------------------------------------------------------------
+
+ Common stock
+ -------------- Deficit Acc. Total
+ Number Amount Additional During Devel- Stockholders
+ Of Shares Paid-in opment Stage Equity
+ Capital
+ --------- -------- ----------- --------------- -------------
+ 
+Issue of Common 7,600,000 7,600 68,400 - 76,000
+Stock for cash
+On organization
+Of the Company
+
+Issue of Common 6,450,000 6,450 60,226 - 66,676
+Stock for cash
+
+Net loss for
+Period - - - (24,467) (24,467)
+
+ --------- -------- ----------- --------------- -------------
+Balance 14,050,000 14,050 128,626 (24,467) 118,209
+December 31,
+2006
+
+Net loss for
+the period - - - (35,653) (35,653)
+ --------- -------- ----------- --------------- -------------
+Balance
+Dec 31,
+2007 14,050,000 14,050 128,626 (60,120) 82,556
+
+Net loss for
+The period - - - (82,700) (82,700)
+ ---------- -------- ----------- --------------- -------------
+
+Balance
+Dec 31,
+2008 14,050,000 14,050 128,626 (142,820) (144)
+Net loss for
+The period - - - (29,501) (29,501)
+ ---------- -------- ----------- --------------- -------------
+
+Balance
+Dec 31,
+2009 14,050,00 14,050 128,626 (172,321) (29,645)
+ =========== ======== =========== ================ ============
+
+The accompanying notes are an integral part of these financial statements.
+
+ .F-5.
+
+Border Management, Inc.
+(a development stage company)
+
+Statement of Cash Flows
+
+For the Year For the Year For the Year Period from
+ Ended Ended Ended June 7,2006
+ Dec 31,2009 Dec 31,2008 Dec 31,2007 (inception) to
+ Dec 31, 2009
+
+- ---------------------------------------------------------------------------------
+
+CASH FLOWS (USED IN)
+PROVIDED BY:
+
+OPERATING ACTIVITIES
+ Net loss (29,501) (82,700) (35,653) (172,321)
+ Adjustments to
+ reconcile net
+ loss to net cash
+ used in operating
+ activities:
+ Increase in
+ accounts receivable
+ and accrued
+ assets 416 2,269 (2,933) (249)
+
+ Increase (Decrease)
+ In accounts payable
+ and accrued
+ liabilities 20,849 84 (11,436) 31,641
+ ----------- ---------- ----------- ------------
+ (8,236) (80,347) (50,022) (140,929)
+
+ =========== ========== =========== ============
+
+INVESTING ACTIVITIES
+ Promissory note
+ receivable - 90,000 50,000 -
+ ----------- ---------- ----------- ------------
+
+FINANCING ACTIVITIES
+ Common stock
+ issued for cash: - - - 142,676
+ ----------- ---------- ----------- ------------
+DECREASE IN CASH (8,236) 9,653 (22) 1,747
+ ----------- ---------- ----------- ------------
+CASH, beginning 9,983 330 352 -
+ ----------- ---------- ----------- ------------
+
+CASH, ending 1,747 9,983 330 1,747
+ =========== ========== =========== ============
+
+SUPPLEMENTAL
+INFORMATION
+Cash paid during
+ the year to:
+ Interest - - - -
+ Income taxes - - - -
+- ---------------------------------------------------------------------------------
+
+The accompanying notes are an integral part of these financial statements.
+
+ .F-6.
+
+BORDER MANAGEMENT, INC.
+(a development stage company)
+
+December 31, 2009
+
+1. 0RGANIZATION AND DEVELOPMENT STAGE ACTIVITIES
+
+The Company was incorporated under the laws of the State of Nevada on June 7,
+2006. The company purpose in the Articles of Incorporation is to engage in
+any lawful activity or activities in the State of Nevada and throughout the
+world. The Company will specialize in offering management and consulting
+services to non-Canadian businesses, organizations and individuals wishing to
+conduct business in Canada. As of December 31, 2009, the Company is
+considered to be in the development stage as the Company is devoting
+substantially all of its effort to establishing its new business and the
+Company has not generated revenues from its business activities. The Company
+has no cash flows from operations. The Company is currently seeking
+additional funds through future debt or equity financing to offset future
+cash flow deficiencies. Such financing may not be available or may not be
+available on reasonable terms. The resolution of this going concern issue is
+dependent on the realization of management's plans. If management is
+unsuccessful in raising future debt or equity financing, the Company will be
+required to liquidate assets and curtail or possibly cease operations.
+
+ 2 . SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+The financial statements of the Company have been prepared in accordance with
+accounting principles generally accepted in the United States. Because a
+precise determination of many assets and liabilities is dependent on future
+events, the preparation of financial statements for a period necessarily
+involves the use of estimates which have been made using careful judgment.
+
+The financial statements have, in management's opinion, been properly
+prepared within reasonable limits of materiality and within the framework of
+the accounting policies summarized below:
+
+ a .Cash and cash equivalents
+
+The Company considers all short-term investments, including investments in
+certificates of 	deposit, with a maturity date at purchase of three months
+or less to be cash equivalents.
+
+ b .Revenue recognition.
+
+Revenue is recognized on the sale and transfer of goods and services.
+
+ c .Foreign currencies
+
+The functional currency of the Company is the United States dollar.
+Transactions in foreign currencies are translated into United States dollars
+at the rates in effect on the transaction date. Exchange gains or losses
+arising on translation or settlement of foreign currency denomination
+monetary items are included in the statement of operations.
+
+ d .Financial instruments
+
+The Company's financial instruments consist of cash, promissory note
+receivable, interest receivable, refundable taxes, and accounts payable and
+accrued liabilities.
+
+Management is of the opinion that the Company is not subject to significant
+interest, currency or 	credit risks on the financial instruments included in
+these financial statements. The fair market values of these financial
+instruments approximate their carrying values.
+
+ e .Income taxes
+
+The Company follows the asset and liability method of accounting for income
+taxes. Under this method, current taxes are recognized for the estimated
+income taxes payable for the current period.
+
+Deferred income taxes are provided based on the estimated future tax effects
+of temporary differences between financial statement carrying amounts of
+assets and liabilities and their respective tax bases as well as the benefit
+of losses available to be carried forward to future years for tax purposes.
+
+Deferred tax assets and liabilities are measured using enacted tax rates that
+are expected to apply to taxable income in the years in which those temporary
+differences are expected to be covered or settled. The effect of deferred tax
+assets and liabilities of a change in tax rates is recognized in operations
+in the period that includes the enactment date. A valuation allowance is
+recorded for deferred tax assets when it is more likely than not that such
+deferred tax assets will not be realized.
+
+ f .Loss per share
+
+Basic loss per share is computed by dividing loss for the period available to
+common stockholders by the weighted average number of common stock
+outstanding during the period.
+
+ g .Recent accounting pronouncements
+
+In June 2009, the Financial Accounting Standards Board ("FASB") issued
+Statement of Financial Accounting Standards No. 168 ("SFAS No. 168"), The
+FASB Accounting Standards Codification and the Hierarchy of Generally
+Accepted Accounting Principles-a replacement of FASB Statement No. 162. The
+FASB Accounting Standards Codification ("Codification") will be the single
+source of authoritative nongovernmental U.S. generally accepted accounting
+principles ("GAAP"). Rules and interpretive releases of the Securities and
+Exchange Commission ("SEC") under authority of federal securities laws are
+also sources of authoritative GAAP for SEC registrants. SFAS No. 168 is
+effective for interim and annual periods ending after September 15, 2009. The
+Codification does not change GAAP and did not have a material impact on the
+Company's financial statements.
+
+FASB ASC Topic 260, "Earnings Per Share." On January 1, 2009, the company
+adopted new authoritative accounting guidance under FASB ASC Topic 260,
+"Earnings Per Share," which provides that unvested share-based payment awards
+that contain non-forfeitable rights to dividends or dividend equivalents
+(whether paid or unpaid) are participating securities and shall be included
+in the computation of earnings per share pursuant to the two-class method.
+
+FASB ASC Topic 320, "Investments - Debt and Equity Securities." New
+authoritative accounting guidance under ASC Topic 320, "Investments - Debt
+and Equity Securities," (i) changes existing guidance for determining whether
+an impairment is other than temporary to debt securities and (ii) replaces
+the existing requirement that the entity's management assert it has both the
+intent and ability to hold an impaired security until recovery with a
+requirement that management assert: (a) it does not have the intent to sell
+the security; and (b) it is more likely than not it will not have to sell the
+security before recovery of its cost basis. Under ASC Topic 320, declines in
+the fair value of held-to-maturity and available-for-sale securities below
+their cost that are deemed to be other than temporary are reflected in
+earnings as realized losses to the extent the impairment is related to credit
+losses. The amount of the impairment related to other factors is recognized
+in other comprehensive income. The company adopted the provisions of the new
+authoritative accounting guidance under ASC Topic 320 during the first
+quarter of 2009. Adoption of the new guidance did not have a material impact
+on the company's financial statements.
+
+FASB ASC Topic 805, "Business Combinations." On January 1, 2009, new
+authoritative accounting guidance under ASC Topic 805, "Business
+Combinations," became applicable to the company's accounting for business
+combinations closing on or after January 1, 2009. ASC Topic 805 applies to
+all transactions and other events in which one entity obtains control over
+one or more other businesses. ASC Topic 805 requires an acquirer, upon
+initially obtaining control of another entity, to recognize the assets,
+liabilities and any non-controlling interest in the acquiree at fair value as
+of the acquisition date. Contingent consideration is required to be
+recognized and measured at fair value on the date of acquisition rather than
+at a later date when the amount of that consideration may be determinable
+beyond a reasonable doubt. This fair value approach replaces the cost
+allocation process required under previous accounting guidance whereby the
+cost of an acquisition was allocated to the individual assets acquired and
+liabilities assumed based on their estimated fair value. ASC Topic 805
+requires acquirers to expense acquisition-related costs as incurred rather
+than allocating such costs to the assets acquired and liabilities assumed, as
+was previously the case under prior accounting guidance. Assets acquired and
+liabilities assumed in a business combination that arise from contingencies
+are to be recognized at fair value if fair value can be reasonably estimated.
+If fair value of such an asset or liability cannot be reasonably estimated,
+the asset or liability would generally be recognized in accordance with ASC
+Topic 450, "Contingencies." Under ASC Topic 805, the requirements of ASC
+Topic 420, "Exit or Disposal Cost Obligations," would have to be met in order
+to accrue for a restructuring plan in purchase accounting. Pre-acquisition
+contingencies are to be recognized at fair value, unless it is a non
+contractual contingency that is not likely to materialize, in which case,
+nothing should be recognized in purchase accounting and, instead, that
+contingency would be subject to the probable and estimable recognition
+criteria of ASC Topic 450, "Contingencies."
+
+FASB ASC Topic 810, "Consolidation." New authoritative accounting guidance
+under ASC Topic 810, "Consolidation," amended prior guidance to establish
+accounting and reporting standards for the non-controlling interest in a
+subsidiary and for the deconsolidation of a subsidiary. Under ASC Topic 810,
+a non-controlling interest in a subsidiary, which is sometimes referred to as
+minority interest, is an ownership interest in the consolidated entity that
+should be reported as a component of equity in the consolidated financial
+statements. Among other requirements, ASC Topic 810 requires consolidated net
+income to be reported at amounts that include the amounts attributable to
+both the parent and the non-controlling interest. It also requires
+disclosure, on the face of the consolidated income statement, of the amounts
+of consolidated net income attributable to the parent and to the non
+controlling interest.
+
+Further new authoritative accounting guidance under ASC Topic 810 amends
+prior guidance to change how a company determines when an entity that is
+insufficiently capitalized or is not controlled through voting (or similar
+rights) should be consolidated. The determination of whether a company is
+required to consolidate an entity is based on, among other things, an
+entity's purpose and design and a company's ability to direct the activities
+of the entity that most significantly impact the entity's economic
+performance. The new authoritative accounting guidance requires additional
+disclosures about the reporting entity's involvement with variable-interest
+entities and any significant changes in risk exposure due to that involvement
+as well as its affect on the entity's financial statements. The new
+authoritative accounting guidance under ASC Topic 810 is effective October 1,
+2009 and is not expected to have a significant impact on the company's
+financial statements.
+
+FASB ASC Topic 820, "Fair Value Measurements and Disclosures." New
+authoritative accounting guidance under ASC Topic 820,"Fair Value
+Measurements and Disclosures," affirms that the objective of fair value when
+the market for an asset is not active is the price that would be received to
+sell the asset in an orderly transaction, and clarifies and includes
+additional factors for determining whether there has been a significant
+decrease in market activity for an asset when the market for that asset is
+not active. ASC Topic 820 requires an entity to base its conclusion about
+whether a transaction was not orderly on the weight of the evidence. The new
+accounting guidance amended prior guidance to expand certain disclosure
+requirements. The company adopted the new authoritative accounting guidance
+under ASC Topic 820 in 2009. Adoption of the new guidance did not
+significantly impact the company's financial statements.
+
+Further new authoritative accounting guidance (Accounting Standards Update
+No. 2009-5) under ASC Topic 820 provides guidance for measuring the fair
+value of a liability in circumstances in which a quoted price in an active
+market for the identical liability is not available. In such instances, a
+reporting entity is required to measure fair value utilizing a valuation
+technique that uses (i) the quoted price of the identical liability when
+traded as an asset, (ii) quoted prices for similar liabilities or similar
+liabilities when traded as assets, or (iii) another valuation technique that
+is consistent with the existing principles of ASC Topic 820, such as an
+income approach or market approach. The new authoritative accounting guidance
+also clarifies that when estimating the fair value of a liability, a
+reporting entity is not required to include a separate input or adjustment to
+other inputs relating to the existence of a restriction that prevents the
+transfer of the liability. The new authoritative accounting guidance under
+ASC Topic 820 will be effective for our financial statements beginning
+January 1, 2010 and is not expected to have a significant impact on the
+company's financial statements.
+
+FASB ASC Topic 825 "Financial Instruments." New authoritative accounting
+guidance under ASC Topic 825,"Financial Instruments," requires an entity to
+provide disclosures about the fair value of financial instruments in interim
+financial information and amends prior guidance to require those disclosures
+in summarized financial information at interim reporting periods. The new
+interim disclosures required under Topic 825 had no impact on the company's
+financial statements.
+
+FASB ASC Topic 855, "Subsequent Events." New authoritative accounting
+guidance under ASC Topic 855, "Subsequent Events," establishes general
+standards of accounting for and disclosure of events that occur after the
+balance sheet date but before financial statements are issued or available to
+be issued. ASC Topic 855 defines (i) the period after the balance sheet date
+during which a reporting entity's management should evaluate events or
+transactions that may occur for potential recognition or disclosure in the
+financial statements, (ii) the circumstances under which an entity should
+recognize events or transactions occurring after the balance sheet date in
+its financial statements, and (iii) the disclosures an entity should make
+about events or transactions that occurred after the balance sheet date. The
+new authoritative accounting guidance under ASC Topic 855 did not have a
+significant impact on the company's financial statements.
+
+3.STOCKHOLDERS' DEFICIENCY:
+
+ Common Stock Offerings:
+
+ On June 7, 2006, the Company completed a private placement
+ offering of 7,600,000 common shares to its officers and directors
+ for 76,000.
+
+ On September 30, 2006, the Company completed a private placement
+ offering of 6,450,000 to its remaining founders for 66,676.
+
+4.RELATED PARTY TRANSACTIONS
+
+a.Included in accounts payable and accrued liabilities is (2009 - 12,595;
+2008 - 2,191) owing to the president of the Company.
+
+b.On April 1, 2007, a management agreement was entered into with JPI and all
+management fees (2009 - 4,961; 2008 - 39,841) relate to this agreement.
+Management fees for July 2009 to December 2009 have been waived.
+
+c.Rental charges are paid on a month-to-month basis to JPI (2009 - 2,480;
+2008 - 10,155). Rental charges for July 2009 to December 2009 have been
+waived.
+
+d.Professional fees include amounts attributed to S N Ventures Inc. (2009 -
+ 1,491; 2008 - 20,111), a company controlled by the Treasurer.
+
+These amounts are recorded at the exchange amount based on the amounts paid
+and/or received by the parties.
+
+5.INCOME TAXES
+
+- ----------------------------------------------------------------------------
+Deferred tax assets and liabilities:
+- ----------------------------------------------------------------------------
+ 
+Deferred tax assets: Dec 31,2009
+ Operating loss carry-forwards 58,589
+ Valuation allowance (58,589)
+- ----------------------------------------------------------------------------
+Net Deferred tax asset -
+============================================================================
+
+Management believes that it is not more likely than not that it will create
+sufficient taxable income sufficient to realize its deferred tax assets. It
+is reasonably possible these estimates could change due to future income and
+the timing and manner of the reversal of deferred tax liabilities. Due to its
+losses, the Company has no income tax expense.
+
+The Company has computed its 2009 operating loss carry-forwards for
+income tax purposes to be 172,321.
+ .F-7.
+
+ITEM 8. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+ AND FINANCIAL DISCLOSURE
+
+None.
+
+ Item 8A. CONTROLS AND PROCEDURES
+
+As of the end of the period covered by this report, we have evaluated the
+effectiveness of the design and operation of our disclosure controls and
+procedures under the supervision of and with the participation of our Chief
+Executive Officer ("CEO") and is also our Chief Financial Officer ("CFO").
+Based on this evaluation, our CEO and CFO, concluded that our disclosure
+controls and procedure were effective, that there have been no changes in our
+internal controls or in other factors that could significantly affect
+internal controls subsequent to the evaluation.
+
+ Item 8B. OTHER INFORMATION
+
+None.
+
+ PART III
+
+ Item 9. DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL
+ PERSONS;COMPLIANCE WITH SECTION 16(a) OF THE EXCHANGE ACT
+
+The following table sets forth information about our executive officers, Key
+employees and directors as of December 31,2009.
+
+- --------------------------- --------------- ---------------------------
+NAME AGE Position
+- --------------------------- --------------- ---------------------------
+ 
+Evan Williams 64 President
+Solomon Nordine 29 Treasurer
+Leigh Anderson 71 Secretary
+- --------------------------- --------------- ---------------------------
+
+Background of Executive Officers, Directors and Significant Employees
+
+Evan Williams. Mr. Williams is a founder, and current President and CEO of
+Border Management, Inc. Mr. Williams has over thirty-seven years experience
+as an electrical, engineering, and project management consultant. Mr.
+Williams has provided professional advice through his own consulting company
+
+to both small and large businesses as well as institutional and government
+bodies. Mr. Williams also has experience in business planning, performance
+analysis, budgeting, procurement, and quality assurance. Mr. Williams holds a
+General Certificate of Education in Mathematics & Physics, University of
+Cambridge, Extn. Examinations Syndicate. Also Ordinary National Diplomas in
+Mechanical, Electronic, and Electrical Engineering (Great Britain) and Higher
+National Diploma in Electrical and Electronic Engineering (Great Britain).
+Mr. Williams has received Post Graduate awards for Illuminating Engineering
+and Mathematics. Mr. Williams professional affiliations include membership
+in the Illuminating Engineering Society and prior membership in the
+Electrical Research Association (U.K.) 1967-1971
+
+ .14.
+
+Solomon Nordine. Mr. Nordine is a founder , and current Treasurer of Border
+Management, Inc. Mr. Nordine has operated his own accounting and business
+consulting company for over four years. Mr. Nordine has also provided part
+time and full time marketing services for over one year to an import and
+distribution business. Mr. Nordine earned a Diploma in Business
+Administration and Bachelor of Business Administration from Okanagan
+University College as well as a Master of Business Administration from the
+University of Phoenix.
+
+Leigh Anderson. Mr. Anderson is founder, and current Secretary of Border
+Management, Inc. Mr. Anderson has thirty three years financial experience in
+public education. Mr. Anderson's positions have included Secretary
+Treasurer, Superintendent of Business and Finance, and Business
+Administrator. Mr. Anderson has also worked as an Independent Consultant to
+the B.C. Ministry of Education. For ten years Mr. Anderson held various
+positions with Canada's largest chartered bank. Mr. Anderson received a
+Diploma in Business Administration from the University of Toronto and a
+Supervisory Officer's Certificate from the Ontario Ministry of Education.
+
+ Compensation of Directors
+
+We currently do not pay our Directors any fee in connection with their role
+as members of our Board; however our Board may choose to pay our Directors in
+the future dependent on Border Management's income and cash flows. Our
+Directors will be reimbursed for travel and out-of-pocket expenses in
+connection with their attendance at Board meetings.
+
+ Employment Agreements
+
+There are currently no Employment Agreements in place.
+
+ Committees of the Board
+
+We currently have no audit committee, compensation committee, nominations and
+governance committee of our board of directors.
+
+ Indebtedness of Executive Officers and Directors
+
+No executive officer, director or any member of these individuals' immediate
+families or any corporation or organization with whom any of these
+individuals is an affiliate is or has been indebted to us since the beginning
+of our last fiscal year.
+
+ Family Relationships
+
+There are no family relationships among our executive officers and directors.
+
+ Legal Proceedings
+
+As of December 31, 2009, there are no material proceedings to which any of
+our directors, executive officers, affiliates or stockholders is a party
+adverse to us.
+
+ Code of Ethics
+
+We have not adopted a Code of Ethics within the meaning of Item 406(b) of
+Regulation S-B of the Securities Exchange Act of 1934.
+
+Section 16(a) of the Securities Exchange Act of 1934 requires our directors
+and executive officers and persons who beneficially own more than ten percent
+of a registered class of our equity securities to file with the SEC initial
+reports of ownership and reports of change in ownership of common stock and
+other equity securities of our company. Officers, directors and greater than
+ten percent stockholders are required by SEC regulations to furnish us with
+copies of all Section 16 (a) forms they file. Based solely upon a review of
+Forms 3 and 4 and amendments thereto furnished to us under Rule 16a-3(e)
+during the fiscal year ended December 31, 2009, and Forms 5 and amendments
+thereto furnished to us with respect to the fiscal year ended December 31,
+2009, we believe that during the year ended December 31, 2009, our executive
+officers, directors and all persons who own more than ten percent of a
+registered class of our equity securities complied with all Section 16(a)
+filing requirements.
+
+ .15.
+
+Item 10. EXECUTIVE COMPENSATION
+
+We currently do not pay our Directors any fee in connection with their role
+as members of our Board; however our Board may choose to pay our Directors in
+the future dependent on Border Management's income and cash flows. Our
+Directors will be reimbursed for travel and out-of-pocket expenses in
+connection with their attendance at Board meetings.
+
+ Outstanding Equity Awards at Fiscal Year-End Table.
+
+None.
+
+ Director Compensation
+
+None.
+
+ Employment Agreements
+
+None.
+
+ Item 11. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+ MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+
+The following table sets forth, as of December 31, 2009 information
+regarding the beneficial ownership of our common stock by each person we know
+to own five percent or more of the outstanding shares, by each of the
+directors, and officers. As of December 31, 2009, there were 14,050,000
+shares of our common stock outstanding.
+
+Beneficial ownership has been determined in accordance with Rule 13d-3 of the
+Exchange Act. Generally, a person is deemed to be the beneficial owner of a
+security if he has the right to acquire voting or investment power within 60
+days. Subject to community property laws, where applicable, the persons or
+entities named in the table above have sole voting and investment power with
+respect to all shares of our common stock indicated as beneficially owned by
+them.
+
+ .16.
+
+- ----------------------------------------------------------
+Percentage of Shares Beneficially Owned
+
+Name and Address Number of Shares Percentage of Shares
+Of Beneficial Beneficially Owned
+Owner
+- ----------------- ------------------ --------------------
+ 
+Evan Williams 7,500,000 53.38 
+968 - 240 St.
+Langley, BC
+Canada, V2Z 2Y3
+
+Solomon Nordine 50,000 .35 
+542 264th Street
+Aldergrove, B.C.
+Canada, V4W 2M1
+
+Leigh Anderson 50,000 .35 
+17316 Hillview Pl.
+Surrey, BC
+Canada
+- ----------------- ------------------- --------------------
+
+The following table sets forth information concerning the beneficial
+ownership of shares of our Common Stock with respect to stockholders who were
+known by us to be beneficial owners of more than 5 of our Common Stock as of
+December 31, 2009. Unless otherwise indicated, the beneficial owner has sole
+voting and investment power with respect to such shares of Common Stock.
+
+Beneficial ownership is determined in accordance with the rules of the
+Securities and Exchange Commission and generally includes voting or
+investment power with respect to securities. In accordance with the
+Securities and Exchange Commission rules, shares of our Common Stock which
+may be acquired upon exercise of stock options or warrants which are
+currently exercisable or which become exercisable within sixty (60) days of
+the date of the table are deemed beneficially owned by the optionees. Subject
+to community property laws, where applicable, the persons or entities named
+in the table above have sole voting and investment power with respect to all
+shares of our Common Stock indicated as beneficially owned by them.
+Percentage ownership is based on 14,050,000 shares of Common Stock
+outstanding as of December 31, 2009.
+
+There is no public trading market for our shares of common stock. In addition
+to Mr. Evan Williams our President, we have 55 shareholders, none of which
+owns more than 5 of the total shares outstanding.
+
+- -----------------------------------------------------------------------------
+Percentage of Shares Beneficially Owned
+
+Name and Address Number of Shares Percentage of Shares After the Offering
+Of Beneficial Beneficially Owned Shares Before the Assuming All Are
+Owner Offering Sold
+- ----------------- ------------------ -------------------- ------------------
+ 
+Evan Williams 7,500,000 53.38 43.98 
+- ----------------- ------------------ -------------------- ------------------
+
+.17.
+
+Item 12. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND
+ DIRECTOR INDEPENDENCE
+
+There were no material related party transactions which we entered into from
+inception (June 7, 2006) to December 31, 2009.
+
+ Item 13. EXHIBITS
+
+Exhibit Description
+No.
+ 
+3.1 Articles of Incorporation of Border Management, Inc. filed with
+Nevada Secretary of State on June 7, 2006. (1)
+
+3.4 Bylaws of Border Management, Inc. (1)
+
+23.1 Consent of UHY LDMB Advisors Inc. (filed herewith)
+
+Material Contracts
+
+31.1 Certification by Chief Executive Officer pursuant to Sarbanes -
+Oxley Section 302 (filed herewith)
+
+31.2 Certification by Chief Financial Officer pursuant to Sarbanes -
+Oxley Section 302 (filed herewith)
+
+32.1 Certification by Chief Executive Officer pursuant to section 906 of
+the Sarbanes-Oxley Act of 2002 (filed herewith)
+
+32.2 Certification by Chief Financial Officer pursuant to section 906 of
+the Sarbanes-Oxley Act of 2002 (filed herewith)
+
+Notes
+
+(1) Incorporated by reference to the Company's Registration Statement
+ on Form SB-2 filed with the SEC on December 5, 2006.
+
+Item 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+ Audit Fees
+
+The aggregate fees billable to us by UHY LDMB Advisors Inc. during 2009 for
+the audit of our annual financial statements for the fiscal year totaled
+ 6,250.
+
+ Audit-Related Fees
+
+We incurred assurance and audit-related fees during 2009 of 9,653 to UHY
+LDMB Advisors Inc. in connection with the audit of the financial statements
+of Border Management, Inc. from June 7, 2006 (Inception) through December 31,
+2009 and for the reviews of registration statements and issuance of related
+consents and assistance with SEC comment letters.
+
+ Tax Fees
+
+We incurred fees of 0 billed to us by UHY LDMB Advisors Inc. for services
+rendered to us for tax compliance, tax advice, or tax planning for the fiscal
+year ended December 31, 2009.
+
+ All Other Fees
+
+There were no fees billed to us by UHY LDMB Advisors Inc. for services
+rendered to us during the last fiscal year, other than the services described
+above under "Audit Fees" and Audit-Related Fees."
+
+As of the date of this filing, our current policy is not engage UHY LDMB
+Advisors Inc. to provide, among other things, bookkeeping services, appraisal
+or valuation services, or international audit services. The policy provides
+that we engage UHY LDMB Advisors Inc to provide audit, tax, and other
+assurance services, such as review of SEC reports or filings.
+
+ .18.
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Exchange
+Act, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+Border Management, Inc.
+
+By: /s/ Evan Williams
+- ---------------------
+Evan Williams
+Chief Executive Officer,
+President
+
+Date: March 29, 2010
+
+In accordance with the Exchange Act, this report has been signed below by the
+following persons on behalf of the registrant and in the capacities and on
+the dates indicated:
+
+SIGNATURE TITLE DATE
+
+/s/ Evan Williams Chief Executive Officer, March 29, 2010
+- ----------------- President, Director
+Evan Williams
+
+/s/ Solomon Nordine Chief Financial Officer, March 29, 2010
+- ------------------- Treasurer, Director
+Solomon Nordine
+
+/s/Leigh Anderson
+- ----------------- Secretary, Director March 29, 2010
+Leigh Anderson
+
+<EX-31>
+ 2
+ bmiex311.txt
+
+EXHIBIT 31.1
+
+CERTIFICATION
+
+I, Evan Williams, certify that:
+
+1.I have reviewed this Annual Report on Form 10-K of Border Management,
+Inc;
+
+2.Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period
+covered by this report;
+
+3.Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of
+the Small Business Issuer ("registrant") as of, and for, the periods
+presented in this report;
+
+4.The registrant's other certifying officer(s) and I are responsible for
+establishing and maintaining disclosure controls and procedures (as
+defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+control over financial reporting (as defined in Exchange Act Rules
+13 (a-15(f) and 15d-15(f) for the registrant and have:
+
+A)Designed such disclosure controls and procedures, or caused
+such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those
+entities, particularly during the period in which this report is being
+prepared;
+
+B)Designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of
+financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles;
+
+C)Evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluation; and
+
+D)Disclosed in this report any change in the registrant's internal
+control over financial reporting that occurred during the registrant's most
+recent fiscal quarter (the registrant's fourth fiscal quarter in the case of
+an annual report) that has materially affected, or is reasonably likely to
+materially affect, the registrant's internal control over financial
+reporting; and
+
+5.The registrant's other certifying officer(s) and I have disclosed, based
+on our most recent evaluation of internal control over financial reporting,
+to the registrant's auditors and the audit committee of the registrant's
+board of directors (or persons performing the equivalent functions):
+
+(a)All significant deficiencies and material weaknesses in the design
+or operation of internal control over financial reporting which are
+reasonably likely to adversely affect the registrant's ability
+to record, process, summarize and report financial information; and
+
+(b)Any fraud, whether or not material, that involves management or
+other employees who have a significant role in the registrant's internal
+control over financial reporting.
+
+Date: March 29, 2010
+
+/s/ Evan Williams
+- ------------------
+Evan Williams
+Chief Executive Officer,
+Border Management, Inc
+
+</EX-31>
+
+<EX-31>
+ 3
+ bmiex312.txt
+
+EXHIBIT 31.2
+
+CERTIFICATION
+
+I, Solomon Nordine, certify that:
+
+1.I have reviewed this Annual Report on Form 10-K of Border Management,
+Inc;
+
+2.Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period
+covered by this report;
+
+3.Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of
+the Small Business Issuer ("registrant") as of, and for, the periods
+presented in this report;
+
+4.The registrant's other certifying officer(s) and I are responsible for
+establishing and maintaining disclosure controls and procedures (as
+defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+control over financial reporting (as defined in Exchange Act Rules
+13 (a-15(f) and 15d-15(f) for the registrant and have:
+
+A)Designed such disclosure controls and procedures, or caused
+such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those
+entities, particularly during the period in which this report is being
+prepared;
+
+B)Designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of
+financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles;
+
+C)Evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluation; and
+
+D)Disclosed in this report any change in the registrant's internal
+control over financial reporting that occurred during the registrant's most
+recent fiscal quarter (the registrant's fourth fiscal quarter in the case of
+an annual report) that has materially affected, or is reasonably likely to
+materially affect, the registrant's internal control over financial
+reporting; and
+
+5.The registrant's other certifying officer(s) and I have disclosed, based
+on our most recent evaluation of internal control over financial reporting,
+to the registrant's auditors and the audit committee of the registrant's
+board of directors (or persons performing the equivalent functions):
+
+(a)All significant deficiencies and material weaknesses in the design
+or operation of internal control over financial reporting which are
+reasonably likely to adversely affect the registrant's ability
+to record, process, summarize and report financial information; and
+
+(b)Any fraud, whether or not material, that involves management or
+other employees who have a significant role in the registrant's internal
+control over financial reporting.
+
+Date: March 29, 2010
+
+/s/ Solomon Nordine
+- ------------------
+Solomon Nordine
+Chief Financial Officer,
+Border Management, Inc
+
+</EX-31>
+
+<EX-32>
+ 4
+ bmiex321.txt
+
+EXHIBIT 32.1
+
+CERTIFICATION PURSUANT TO
+18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+The undersigned, Evan Williams, Chief Executive Officer of Border Management,
+Inc., hereby certifies, pursuant to 18 U.S.C. Section 1350, as adopted
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that:
+
+(1)the Annual Report on Form 10-K of Border Management, Inc. for the
+twelve month period ended December 31, 2009 (the 'Report') fully complies
+with the requirements of Section 13(a) or 15(d) of the Securities Exchange
+Act of 1934; and
+
+(2)the information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of Border
+Management, Inc.
+
+Dated: March 29, 2010
+
+/s/ Evan Williams
+- ------------------
+Evan Williams
+Chief Executive Officer,
+Border Management, Inc.
+
+A signed original of this written statement required by Section 906, or other
+document authenticating, acknowledging, or otherwise adopting the signature
+that appears in typed form within the electronic version of this written
+statement required by Section 906, has been provided to Border Management,
+Inc. and will be retained by Border Management, Inc. and furnished to the
+Securities and Exchange Commission or its staff upon request.
+
+</EX-32>
+
+<EX-32>
+ 5
+ bmiex322.txt
+
+EXHIBIT 32.2
+
+CERTIFICATION PURSUANT TO
+18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+The undersigned, Solomon Nordine, Chief Financial Officer of Border
+Management, Inc., hereby certifies, pursuant to 18 U.S.C. Section 1350, as
+adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that:
+
+(1)the Annual Report on Form 10-K of Border Management, Inc. for the
+twelve month period ended December 31, 2009 (the 'Report') fully complies
+with the requirements of Section 13(a) or 15(d) of the Securities Exchange
+Act of 1934; and
+
+(2)the information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of Border
+Management, Inc.
+
+Dated: March 29, 2010
+
+/s/ Solomon Nordine
+- ------------------
+Solomon Nordine
+Chief Financial Officer,
+Border Management, Inc.
+
+A signed original of this written statement required by Section 906, or other
+document authenticating, acknowledging, or otherwise adopting the signature
+that appears in typed form within the electronic version of this written
+statement required by Section 906, has been provided to Border Management,
+Inc. and will be retained by Border Management, Inc. and furnished to the
+Securities and Exchange Commission or its staff upon request.
+
+</EX-32>
+
+<EX-23>
+ 6
+ bmiex231.txt
+ 
+EXHIBIT 23.1
+
+INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM'S CONSENT
+
+The Board of Directors
+Border Management, Inc.
+
+We consent to the inclusion in this Annual Report of Border
+Management, Inc. on Form 10-K of our report dated March 29, 2010, with
+respect to our audits of the financial staements of Border Management, Inc.
+as of December 31, 2009 and 2008.
+
+/s/ UHY LDMB Advisors Inc.
+- - --------------------------
+UHY LDMB Advisors Inc.
+
+Chartered Accountants
+Surrey, British Columbia
+
+March 29, 2010
+
+</EX-23>
+

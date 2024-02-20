@@ -1,0 +1,1488 @@
+<Header>
+<FileStats>
+    <FileName>20080325_10-K_edgar_data_1407669_0000905148-08-001654.txt</FileName>
+    <GrossFileSize>87808</GrossFileSize>
+    <NetFileSize>62358</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>524</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000905148-08-001654.hdr.sgml : 20080325
+<ACCEPTANCE-DATETIME>20080325134530
+ACCESSION NUMBER:		0000905148-08-001654
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20071231
+FILED AS OF DATE:		20080325
+DATE AS OF CHANGE:		20080325
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHL Mortgage Pass-Through Trust 2007-14
+		CENTRAL INDEX KEY:			0001407669
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-140958-12
+		FILM NUMBER:		08708970
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4500 PARK GRANADA
+		CITY:			CALABASAS
+		STATE:			CA
+		ZIP:			91302
+		BUSINESS PHONE:		8183325300
+
+	MAIL ADDRESS:	
+		STREET 1:		4500 PARK GRANADA
+		CITY:			CALABASAS
+		STATE:			CA
+		ZIP:			91302
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ H45F5gKj9ep5ukuo9lL+uMHtu1DelOZSUfUzyA9jOwWuwv4tsVF3gXs5B9V9W8jY
+ +KJUHR0UdR5FT/CoKfXX+Q==
+
+ 0000905148-08-001654.txt : 20080325
+
+10-K
+ 1
+ efc8-0497_6551037fm10k.txt
+
+UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, DC 20549
+ --------------------
+
+ FORM 10-K
+ ANNUAL REPORT
+ PURSUANT TO SECTIONS 13 OR 15(d)
+ OF THE SECURITIES EXCHANGE ACT OF 1934
+
+(Mark One)
+
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934
+
+ For the fiscal year ended: December 31, 2007
+ -----------------
+
+ or
+
+[_] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+
+ For the transition period from to
+ ------------- -------------
+
+ Commission file number of Issuing Entity: 333-140958-12
+ -------------
+
+ CHL Mortgage Pass-Through Trust 2007-14,
+ Mortgage Pass-Through Certificates, Series 2007-14
+ --------------------------------------------------
+ (Exact name of Issuing Entity as Specified in Its Charter)
+
+ Commission file number of Depositor: 333-140958
+ ----------
+
+ CWMBS, Inc.
+ -----------
+ (Exact name of Depositor as Specified in Its Charter)
+
+ Countrywide Home Loans, Inc.
+ ----------------------------
+ (Exact name of Sponsor as Specified in Its Charter)
+
+ Delaware 95-4449516
+- ------------------------------------ -------------------------------
+(State or Other Jurisdiction of (I.R.S. Employer Identification
+Incorporation or Organization of No. of the Depositor)
+the Depositor)
+
+c/o Countrywide Home Loans Servicing LP
+ 4500 Park Granada
+ Calabasas, California 91302
+- ---------------------------------------- -------------------------------
+(Address of Principal Executive Offices (Zip Code)
+of the Depositor)
+
+Registrant's telephone number, including area code: (818) 225-3000
+ --------------
+
+Securities registered pursuant to Section 12(b) of the Act: None
+ ----
+
+Securities registered pursuant to Section 12(g) of the Act: None
+ ----
+
+Indicate by check mark if the registrant is a well-known seasoned
+issuer, as defined in Rule 405 of the Securities Act. [_] Yes [X] No
+
+ Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. [_] Yes [X] No
+
+ Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days. [X] Yes [_] No
+
+ Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K (ss.229.405 of this chapter) is not contained
+herein, and will not be contained, to the best of registrant's knowledge, in
+definitive proxy or information statements incorporated by reference in Part
+III of this Form 10-K or any amendment to this Form 10-K. [X]
+
+ Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, or a non-accelerated filer. See definition of
+"accelerated filer and large accelerated filer" in Rule 12b-2 of the Exchange
+Act. (Check one):
+
+Large Accelerated Filer [_] Accelerated Filer [_] Non-Accelerated Filer [X]
+
+ Indicate by check mark whether the registrant is a shell company (as
+defined in Rule 12b-2 of the Exchange Act). [_] Yes [X] No
+
+ The Registrant has no voting or non-voting common equity held by
+non-affiliates.
+
+2
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+ None.
+
+This Annual Report on Form 10-K (the "Report") is filed with respect
+to the trust entitled CHL Mortgage Pass-Through Trust 2007-14 (the "Issuing
+Entity") formed pursuant to the pooling and servicing agreement dated as of
+July 1, 2007 (the "Pooling and Servicing Agreement") among CWMBS, Inc., as
+depositor (the "Company"), Countrywide Home Loans, Inc., as sponsor and as a
+seller (the "Sponsor" and a "Seller"), Park Granada LLC, as a seller (a
+"Seller"), Park Sienna LLC, as a seller (a "Seller"), Park Monaco Inc., as a
+seller (a "Seller"), Countrywide Home Loans Servicing LP, as master servicer
+(the "Master Servicer"), and The Bank of New York, as trustee (the "Trustee"),
+for the issuance of Mortgage Pass-Through Certificates, Series 2007-14 (the
+"Certificates").
+
+3
+
+PART I
+
+Item 1. Business.
+
+ Omitted as permitted by Instruction J to Form 10-K.
+
+Item 1A. Risk Factors.
+
+ Omitted as permitted by Instruction J to Form 10-K.
+
+Item 1B. Unresolved Staff Comments.
+
+ Not Applicable.
+
+Item 2. Properties.
+
+ Omitted as permitted by Instruction J to Form 10-K.
+
+Item 3. Legal Proceedings.
+
+ Omitted as permitted by Instruction J to Form 10-K.
+
+Item 4. Submission of Matters to a Vote of Security Holders.
+
+ Omitted as permitted by Instruction J to Form 10-K.
+
+4
+
+PART II
+
+Item 5. Market for Registrant's Common Equity, Related Stockholder
+ Matters and Issuer Purchases of Equity Securities.
+
+ Omitted as permitted by Instruction J to Form 10-K.
+
+Item 6. Selected Financial Data.
+
+ Omitted as permitted by Instruction J to Form 10-K.
+
+Item 7. Management's Discussion and Analysis of Financial Condition
+ and Results of Operations.
+
+ Omitted as permitted by Instruction J to Form 10-K.
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk.
+
+ Omitted as permitted by Instruction J to Form 10-K.
+
+Item 8. Financial Statements and Supplementary Data.
+
+ Omitted as permitted by Instruction J to Form 10-K.
+
+Item 9. Changes in and Disagreements With Accountants on Accounting
+ and Financial Disclosure.
+
+ Omitted as permitted by Instruction J to Form 10-K.
+
+Item 9A. Controls and Procedures.
+
+ Omitted as permitted by Instruction J to Form 10-K.
+
+Item 9B. Other Information.
+
+ None.
+
+5
+
+PART III
+
+Item 10. Directors, Executive Officers and Corporate Governance.
+
+ Omitted as permitted by Instruction J to Form 10-K.
+
+Item 11. Executive Compensation.
+
+ Omitted as permitted by Instruction J to Form 10-K.
+
+Item 12. Security Ownership of Certain Beneficial Owners and
+ Management and Related Stockholder Matters.
+
+ Omitted as permitted by Instruction J to Form 10-K.
+
+Item 13. Certain Relationships and Related Transactions, and Director
+ Independence.
+
+ Omitted as permitted by Instruction J to Form 10-K.
+
+Item 14. Principal Accountant Fees and Services.
+
+ Omitted as permitted by Instruction J to Form 10-K.
+
+6
+
+PART IV
+
+Item 15. Exhibits and Financial Statement Schedules.
+
+ (a) (1) Not applicable.
+
+ (2) Not applicable.
+
+ (3) The required exhibits are as follows:
+
+ o Exhibit 3(i): Copy of Company's
+ Certificate of Incorporation (Filed as
+ Exhibit 3.1 to Registration Statement on
+ Form S-3 (File No. 33-63714))
+
+ o Exhibit 3(ii): Copy of Company's By-laws
+ (Filed as Exhibit 3.2 to Registration
+ Statement on Form S-3 (File No. 33-63714))
+
+ o Exhibit 4: Pooling and Servicing Agreement
+ (Filed as part of the Current Report on
+ Form 8-K filed on August 16, 2007 under
+ the Commission file number of the Issuing
+ Entity)
+
+ o Exhibit 31(ii): Rule 15d-14(d)
+ Certification
+
+ o Exhibit 33.1: Report on Assessment of
+ Compliance With Servicing Criteria for
+ Asset-Backed Securities for Countrywide
+ Financial Corporation
+
+ o Exhibit 33.2: Report on Assessment of
+ Compliance With Servicing Criteria for
+ Asset-Backed Securities for the Trustee
+
+ o Exhibit 34.1: Attestation Report on
+ Assessment of Compliance With Servicing
+ Criteria for Asset-Backed Securities of
+ KPMG LLP on behalf of Countrywide
+ Financial Corporation
+
+ o Exhibit 34.2: Attestation Report on
+ Assessment of Compliance With
+ Servicing Criteria for Asset-Backed
+ Securities of KPMG LLP on behalf of
+ the Trustee
+
+ o Exhibit 35: Servicer Compliance Statement
+ of the Master Servicer
+
+ (b) See subparagraph (a)(3) above.
+
+ (c) Not applicable.
+
+7
+
+ADDITIONAL INFORMATION
+
+Item 1112(b) of Regulation AB. Financial Information of Significant
+ Obligors.
+
+ Not Applicable.
+
+Item 1114(b)(2) of Regulation AB. Financial Information of Significant
+ Enhancement Providers.
+
+ Not Applicable.
+
+Item 1115(b) of Regulation AB. Financial Information of Certain Entities
+ Providing Derivative Instruments.
+
+ Not Applicable.
+
+Item 1117 of Regulation AB. Legal Proceedings.
+
+ None.
+
+Item 1119 of Regulation AB. Affiliations and Certain Relationships and
+ Related Transactions.
+
+ The Sponsor, the Company, the Issuing Entity, the Sellers
+ and the Master Servicer are affiliated parties. There are no
+ other affiliated parties. There are currently no business
+ relationships, agreements, arrangements, transactions or
+ understandings between (a) the Sponsor, the Company or the
+ Issuing Entity and (b) the Trustee, or any of its
+ affiliates, that were entered into outside the ordinary
+ course of business or that contain terms other than would be
+ obtained in an arm's length transaction with an unrelated
+ third party and that are material to the investor's
+ understanding of the Certificates. No such business
+ relationship, agreement, arrangement, transaction or
+ understanding has existed during the past two years.
+
+Item 1122 of Regulation AB. Compliance with Applicable Servicing
+ Criteria.
+
+ See Exhibits 33.1, 33.2, 34.1 and 34.2 to this Form 10-K.
+
+Item 1123 of Regulation AB. Servicer Compliance Statement.
+
+ See Exhibit 35 to this Form 10-K.
+
+8
+
+SIGNATURES
+
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+ CHL MORTGAGE PASS-THROUGH TRUST 2007-14
+
+ By: Countrywide Home Loans Servicing LP,
+ as Master Servicer
+
+ By: Countrywide GP, Inc.
+
+ By: /s/ Steve Bailey
+ ------------------------------------
+ Name: Steve Bailey
+ Title: Senior Managing Director,
+ Chief Executive Officer Loan Administration
+ (Senior officer in charge of the servicing
+ function of Countrywide Home Loans Servicing
+ LP)
+
+ Date: March 25, 2008
+
+9
+
+SUPPLEMENTAL INFORMATION TO BE FURNISHED WITH REPORTS FILED PURSUANT
+TO SECTION 15(d) OF THE ACT BY REGISTRANTS WHICH HAVE NOT REGISTERED
+SECURITIES PURSUANT TO SECTION 12 OF THE ACT.
+
+ No annual report, proxy statement, form of proxy or other proxy
+soliciting material with respect to the Issuing Entity or the Depositor has
+been, or will be, sent to security holders.
+
+10
+
+EXHIBIT INDEX
+
+Exhibit Document
+- ------- --------
+
+3(i) Company's Certificate of Incorporation (Filed as Exhibit 3.1
+ to Registration Statement on Form S-3 (File No. 33-63714)) 
+
+3(ii) Company's By-laws (Filed as Exhibit 3.2 to Registration
+ Statement on Form S-3 (File No. 33-63714) 
+
+4 Pooling and Servicing Agreement (Filed as part of the
+ Current Report on Form 8-K filed on August 16, 2007 under
+ the Commission file number of the Issuing Entity) 
+
+31(ii) Rule 15d-14(d) Certification
+
+33.1 Report on Assessment of Compliance With Servicing Criteria
+ for Asset-Backed Securities for Countrywide Financial
+ Corporation
+
+33.2 Report on Assessment of Compliance With Servicing Criteria
+ for Asset-Backed Securities for the Trustee
+
+34.1 Attestation Report on Assessment of Compliance With
+ Servicing Criteria for Asset-Backed Securities of KPMG LLP
+ on behalf of Countrywide Financial Corporation
+
+34.2 Attestation Report on Assessment of Compliance With
+ Servicing Criteria for Asset-Backed Securities of KPMG LLP
+ on behalf of the Trustee
+
+35 Servicer Compliance Statement of the Master Servicer
+
+_________________
+
+ Incorporated herein by reference.
+
+11
+
+<EX-31.(II)>
+ 2
+ efc8-0497_6551037ex31ii.txt
+
+Exhibit 31(ii)
+ --------------
+
+CERTIFICATIONS
+ --------------
+
+ I, Steve Bailey, certify that:
+
+ 1. I have reviewed this report on Form 10-K and all reports
+ on Form 10-D required to be filed in respect of the period
+ covered by this report on Form 10-K of CHL Mortgage
+ Pass-Through Trust 2007-14 (the "Exchange Act periodic
+ reports");
+
+ 2. Based on my knowledge, the Exchange Act periodic reports,
+ taken as a whole, do not contain any untrue statement of a
+ material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances
+ under which such statements were made, not misleading with
+ respect to the period covered by this report;
+
+ 3. Based on my knowledge, all of the distribution, servicing
+ and other information required to be provided under Form
+ 10-D for the period covered by this report is included in
+ the Exchange Act periodic reports;
+
+ 4. I am responsible for reviewing the activities performed by
+ the servicer(s) and based on my knowledge and the
+ compliance review(s) conducted in preparing the servicer
+ compliance statement(s) required in this report under Item
+ 1123 of Regulation AB, and except as disclosed in the
+ Exchange Act periodic reports, the servicer(s) have
+ fulfilled their obligations under the servicing
+ agreement(s) in all material respects; and
+
+ 5. All of the reports on assessment of compliance with
+ servicing criteria for asset-backed securities and their
+ related attestation reports on assessment of compliance
+ with servicing criteria for asset-backed securities
+ required to be included in this report in accordance with
+ Item 1122 of Regulation AB and Exchange Act Rules 13a-18
+ and 15d-18 have been included as an exhibit to this
+ report, except as otherwise disclosed in this report. Any
+ material instances of noncompliance described in such
+ reports have been disclosed in this report on Form 10-K.
+
+ In giving the certifications above, I have reasonably relied on
+ information provided to me by the following unaffiliated
+ parties: The Bank of New York, as Trustee.
+
+ Date: March 25, 2008
+
+ /s/ Steve Bailey
+ -------------------------------
+ Steve Bailey
+ Senior Managing Director, Chief Executive Officer Loan
+ Administration
+ (Senior officer in charge of the servicing function of
+ Countrywide Home Loans Servicing LP)
+
+</EX-31.(II)>
+
+<EX-33.1>
+ 3
+ efc8-0497_6551037ex331.txt
+ 
+ Exhibit 33.1
+ ------------
+
+ [LOGO OMITTED]
+ Countrywide
+ Financial(SM)
+
+ASSESSMENT OF COMPLIANCE WITH APPLICABLE SERVICING CRITERIA
+
+Countrywide Financial Corporation and certain of its subsidiaries,
+including its direct and indirect wholly-owned subsidiaries, Countrywide Home
+Loans, Inc. ("CHL"), Countrywide Tax Services Corporation, Newport Management
+Corporation, and Countrywide Home Loans Servicing, L.P., a wholly-owned
+subsidiary of CHL (collectively, the "Company"), provides this platform-level
+assessment, for which Countrywide Financial Corporation and such subsidiaries
+participated in servicing functions, as such term is described under Title 17,
+Section 229.1122 of the Code of Federal Regulations ("Item 1122 of Regulation
+AB"), of compliance in respect of the following Applicable Servicing Criteria
+specified in Item 1122(d) of Regulation AB in regard to the following
+servicing platform for the following period:
+
+ Platform: publicly-issued (i.e., registered with the Securities and
+ Exchange Commission pursuant to the Securities Act of 1933, as
+ amended) residential mortgage-backed securities (securities
+ collateralized by residential mortgage loans, including prime,
+ alternative loan products, sub-prime, HELOC and closed seconds)
+ issued on or after January 1, 2006 for which the Company provides
+ cash collection and administration, investor remittances and
+ reporting (except for those activities relating to trustee and paying
+ agent services), and pool asset administration (except for those
+ activities relating to custodial operations of pool assets and
+ related documents), and for which the related issuer has a fiscal
+ year end of December 31, 2007. The platform excludes any transactions
+ issued by any government sponsored enterprise for which the Company
+ provides the servicing functions described in the preceding sentence.
+
+ Period: as of and for the year ended December 31, 2007.
+
+ Applicable Servicing Criteria: all servicing criteria set forth in
+ Schedule A hereto, to the extent required in the related agreements,
+ except the criteria listed in the column titled "Inapplicable
+ Servicing Criteria" on Schedule A hereto and the portions of the
+ criteria footnoted on that schedule that are inapplicable to the
+ Company based on the activities it performs with respect to the
+ Platform.
+
+ With respect to the Platform and the Period, the Company provides the
+following assessment of compliance in respect of the Applicable Servicing
+Criteria:
+
+ 1. The Company is responsible for assessing its compliance with the
+Applicable Servicing Criteria.
+
+ 2. The Company has assessed compliance with the Applicable Servicing
+Criteria.
+
+ 3. Other than as identified on Schedule B hereto, as of and for the
+Period, the Company complied in all material respects with the Applicable
+Servicing Criteria.
+
+KPMG LLP, an independent registered public accounting firm, has
+issued an attestation report with respect to the Company's foregoing
+assessment of compliance as of and for the year ended December 31, 2007.
+
+COUNTRYWIDE FINANCIAL CORPORATION
+
+ By: /s/ Steve Bailey
+ -----------------------------------------------------
+ Steve Bailey
+
+ Its: Senior Managing Director and Chief Executive Officer,
+ Loan Administration
+
+Dated: February 28, 2008
+
+By: /s/ Kevin Meyers
+ -----------------------------------------------------
+ Kevin Meyers
+
+ Its: Managing Director and Chief Financial Officer,
+ Countrywide Home Loans, Inc. Loan Administration
+
+Dated: February 28, 2008
+
+Schedule A
+ ----------
+
+ Applicable Servicing Criteria
+ -----------------------------
+
+- --------------------------------------------------------------- ------------------------------- ------------------------------------
+ INAPPLICABLE
+ APPLICABLE SERVICING
+ SERVICING CRITERIA SERVICING CRITERIA CRITERIA
+- --------------------------------------------------------------- ------------------------------- ------------------------------------
+ Performed by NOT
+ Performed subservicer(s) performed by
+ By Vendor(s) or vendor(s) the Company
+ for which for which the or by
+ Performed the Company Company is subservicer(s)
+ Directly is the NOT the or vendor(s)
+ by the Responsible Responsible retained by
+Reference Criteria Company Party Party the Company
+ 
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ General Servicing Considerations
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Policies and procedures are instituted
+ to monitor any performance or other
+ triggers and events of default in
+ accordance with the transaction
+1122(d)(1)(i) agreements. X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ If any material servicing activities are
+ outsourced to third parties, policies
+ and procedures are instituted to monitor
+ the third party's performance and
+ compliance with such servicing
+1122(d)(1)(ii) activities. X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Any requirements in the transaction
+ agreements to maintain a back-up
+ servicer for the pool assets are
+1122(d)(1)(iii) maintained. X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ A fidelity bond and errors and omissions
+ policy is in effect on the party
+ participating in the servicing function
+ throughout the reporting period in the
+ amount of coverage required by and
+ otherwise in accordance with the terms
+1122(d)(1)(iv) of the transaction agreements. X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Cash Collection and
+ Administration
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Payments on pool assets are deposited
+ into the appropriate custodial bank
+ accounts and related bank clearing
+ accounts no more than two business days
+ following receipt, or such other number
+ of days specified in the transaction
+1122(d)(2)(i) agreements. X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Disbursements made via wire transfer on
+ behalf of an obligor or to an investor
+1122(d)(2)(ii) are made only by authorized personnel. X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Advances of funds or guarantees
+ regarding collections, cash flows or
+ distributions, and any interest or other
+ fees charged for such advances, are
+ made, reviewed and approved as specified
+1122(d)(2)(iii) in the transaction agreements. X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ The related accounts for the
+ transaction, such as cash reserve
+ accounts or accounts established as a
+ form of overcollateralization, are
+ separately maintained (e.g., with
+ respect to commingling of cash) as set
+1122(d)(2)(iv) forth in the transaction agreements. X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+
+- --------------------------------------------------------------- ------------------------------- ------------------------------------
+ INAPPLICABLE
+ APPLICABLE SERVICING
+ SERVICING CRITERIA SERVICING CRITERIA CRITERIA
+- --------------------------------------------------------------- ------------------------------- ------------------------------------
+ Performed by NOT
+ Performed subservicer(s) performed by
+ By Vendor(s) or vendor(s) the Company
+ for which for which the or by
+ Performed the Company Company is subservicer(s)
+ Directly is the NOT the or vendor(s)
+ by the Responsible Responsible retained by
+Reference Criteria Company Party Party the Company
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Each custodial account is maintained at
+ a federally insured depository
+ institution as set forth in the
+ transaction agreements. For purposes of
+ this criterion, "federally insured
+ depository institution" with respect to
+ a foreign financial institution means a
+ foreign financial institution that meets
+ the requirements of Rule 13k-1(b)(1) of
+1122(d)(2)(v) the Securities Exchange Act. X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Unissued checks are safeguarded so as to
+1122(d)(2)(vi) prevent unauthorized access. X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Reconciliations are prepared on a
+ monthly basis for all asset-backed
+ securities related bank accounts,
+ including custodial accounts and related
+ bank clearing accounts. These
+ reconciliations are (A) mathematically
+ accurate; (B) prepared within 30
+ calendar days after the bank statement
+ cutoff date, or such other number of
+ days specified in the transaction
+ agreements; (C) reviewed and approved by
+ someone other than the person who
+ prepared the reconciliation; and (D)
+ contain explanations for reconciling
+ items. These reconciling items are
+ resolved within 90 calendar days of
+ their original identification, or such
+ other number of days specified in the
+1122(d)(2)(vii) transaction agreements. X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Investor Remittances and
+ Reporting
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Reports to investors, including those to
+ be filed with the Commission, are
+ maintained in accordance with the
+ transaction agreements and applicable
+ Commission requirements. Specifically,
+ such reports (A) are prepared in
+ accordance with timeframes and other
+ terms set forth in the transaction
+ agreements; (B) provide information
+ calculated in accordance with the terms
+ specified in the transaction agreements;
+ (C) are filed with the Commission as
+ required by its rules and regulations;
+ and (D) agree with investors' or the
+ trustee's records as to the total unpaid
+ principal balance and number of pool
+1122(d)(3)(i) assets serviced by the Servicer. X(1)
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+
+______________
+ (1) Servicing functions performed by the Company with respect to Item
+1122(d)(3)(i)(B) do not relate to information other than that contained in the
+monthly remittance reports delivered by the Company to the master servicer,
+trustee, and/or bond administrator. Servicing functions performed by the
+Company with respect to Item 1122(d)(3)(i)(D) do not relate to the agreeing
+with investors' records as to the total unpaid principal balance and number of
+pool assets serviced by the Company.
+
+- --------------------------------------------------------------- ------------------------------- ------------------------------------
+ INAPPLICABLE
+ APPLICABLE SERVICING
+ SERVICING CRITERIA SERVICING CRITERIA CRITERIA
+- --------------------------------------------------------------- ------------------------------- ------------------------------------
+ Performed by NOT
+ Performed subservicer(s) performed by
+ By Vendor(s) or vendor(s) the Company
+ for which for which the or by
+ Performed the Company Company is subservicer(s)
+ Directly is the NOT the or vendor(s)
+ by the Responsible Responsible retained by
+Reference Criteria Company Party Party the Company
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Amounts due to investors are allocated
+ and remitted in accordance with
+ timeframes, distribution priority and
+ other terms set forth in the transaction
+1122(d)(3)(ii) agreements. X(2)
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Disbursements made to an investor are
+ posted within two business days to the
+ Servicer's investor records, or such
+ other number of days specified in the
+1122(d)(3)(iii) transaction agreements. X(3)
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Amounts remitted to investors per the
+ investor reports agree with cancelled
+ checks, or other form of payment, or
+1122(d)(3)(iv) custodial bank statements. X(4)
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Pool Asset Administration
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Collateral or security on pool assets is
+ maintained as required by the
+ transaction agreements or related
+1122(d)(4)(i) mortgage loan documents. X(5)
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Pool assets and related documents are
+ safeguarded as required by the
+1122(d)(4)(ii) transaction agreements X(5)
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Any additions, removals or substitutions
+ to the asset pool are made, reviewed and
+ approved in accordance with any
+ conditions or requirements in the
+1122(d)(4)(iii) transaction agreements. X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Payments on pool assets, including any
+ payoffs, made in accordance with the
+ related pool asset documents are posted
+ to the Servicer's obligor records
+ maintained no more than two business
+ days after receipt, or such other number
+ of days specified in the transaction
+ agreements, and allocated to principal,
+ interest or other items (e.g., escrow)
+ in accordance with the related pool
+1122(d)(4)(iv) asset documents. X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+
+______________
+ (2) Servicing functions performed by the Company with respect to Item
+1122(d)(3)(ii) do not relate to amounts other than amounts remitted by the
+Company to the master servicer, trustee, and/or bond administrator.
+
+ (3) Servicing functions performed by the Company with respect to Item
+1122(d)(3)(iii) do not relate to records other than the applicable custodial
+bank account statements maintained by the Company pursuant to the transaction
+agreements.
+
+ (4) Servicing functions performed by the Company with respect to Item
+1122(d)(3)(iv) do not relate to records other than custodial bank account
+statements and wire records of the Company and the remittance reports prepared
+and delivered by the Company.
+
+ (5) Servicing functions performed by the Company with respect to Item
+1122(d)(4)(i) and Item 1122(d)(4)(ii) do not relate to the custodial
+operations of the pool assets and related documents (collateral file) by the
+document custodian responsible for such functions for the related transaction.
+
+- --------------------------------------------------------------- ------------------------------- ------------------------------------
+ INAPPLICABLE
+ APPLICABLE SERVICING
+ SERVICING CRITERIA SERVICING CRITERIA CRITERIA
+- --------------------------------------------------------------- ------------------------------- ------------------------------------
+ Performed by NOT
+ Performed subservicer(s) performed by
+ By Vendor(s) or vendor(s) the Company
+ for which for which the or by
+ Performed the Company Company is subservicer(s)
+ Directly is the NOT the or vendor(s)
+ by the Responsible Responsible retained by
+Reference Criteria Company Party Party the Company
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ The Servicer's records regarding the
+ pool assets agree with the Servicer's
+ records with respect to an obligor's
+1122(d)(4)(v) unpaid principal balance. X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Changes with respect to the terms or
+ status of an obligor's pool assets
+ (e.g., loan modifications or re-agings)
+ are made, reviewed and approved by
+ authorized personnel in accordance with
+ the transaction agreements and related
+1122(d)(4)(vi) pool asset documents. X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Loss mitigation or recovery actions
+ (e.g., forbearance plans, modifications
+ and deeds in lieu of foreclosure,
+ foreclosures and repossessions, as
+ applicable) are initiated, conducted and
+ concluded in accordance with the
+ timeframes or other requirements
+ established by the transaction
+1122(d)(4)(vii) agreements. X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Records documenting collection efforts
+ are maintained during the period a pool
+ asset is delinquent in accordance with
+ the transaction agreements. Such records
+ are maintained on at least a monthly
+ basis, or such other period specified in
+ the transaction agreements, and describe
+ the entity's activities in monitoring
+ delinquent pool assets including, for
+ example, phone calls, letters and
+ payment rescheduling plans in cases
+ where delinquency is deemed temporary
+1122(d)(4)(viii) (e.g., illness or unemployment). X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Adjustments to interest rates or rates
+ of return for pool assets with variable
+ rates are computed based on the related
+1122(d)(4)(ix) pool asset documents. X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Regarding any funds held in trust for an
+ obligor (such as escrow accounts): (A)
+ such funds are analyzed, in accordance
+ with the obligor's pool asset documents,
+ on at least an annual basis, or such
+ other period specified in the
+ transaction agreements; (B) interest on
+ such funds is paid, or credited, to
+ obligors in accordance with applicable
+ pool asset documents and state laws; and
+ (C) such funds are returned to the
+ obligor within 30 calendar days of full
+ repayment of the related pool assets, or
+ such other number of days specified in
+1122(d)(4)(x) the transaction agreements. X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+
+- --------------------------------------------------------------- ------------------------------- ------------------------------------
+ INAPPLICABLE
+ APPLICABLE SERVICING
+ SERVICING CRITERIA SERVICING CRITERIA CRITERIA
+- --------------------------------------------------------------- ------------------------------- ------------------------------------
+ Performed by NOT
+ Performed subservicer(s) performed by
+ By Vendor(s) or vendor(s) the Company
+ for which for which the or by
+ Performed the Company Company is subservicer(s)
+ Directly is the NOT the or vendor(s)
+ by the Responsible Responsible retained by
+Reference Criteria Company Party Party the Company
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Payments made on behalf of an obligor
+ (such as tax or insurance payments) are
+ made on or before the related penalty or
+ expiration dates, as indicated on the
+ appropriate bills or notices for such
+ payments, provided that such support has
+ been received by the Servicer at least
+ 30 calendar days prior to these dates,
+ or such other number of days specified
+1122(d)(4)(xi) in the transaction agreements. X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Any late payment penalties in connection
+ with any payment to be made on behalf of
+ an obligor are paid from the Servicer's
+ funds and not charged to the obligor,
+ unless the late payment was due to the
+1122(d)(4)(xii) obligor's error or omission. X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Disbursements made on behalf of an
+ obligor are posted within two business
+ days to the obligor's records maintained
+ by the Servicer, or such other number of
+ days specified in the transaction
+1122(d)(4)(xiii) agreements. X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Delinquencies, charge-offs and
+ uncollectible accounts are recognized
+ and recorded in accordance with the
+1122(d)(4)(xiv) transaction agreements. X
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+ Any external enhancement or other
+ support, identified in Item 1114(a)(1)
+ through (3) or Item 1115 of Regulation
+ AB, is maintained as set forth in the
+1122(d)(4)(xv) transaction agreements. X(6)
+- -------------------- ------------------------------------------ -------------- ---------------- ------------------ -----------------
+
+______________
+ (6) Servicing functions performed by the Company with respect to Item
+1122(d)(4)(xv) do not relate to Item 1115 of Regulation AB (derivative
+transactions).
+
+Schedule B
+ ----------
+
+ Material Instances of Noncompliance
+ -----------------------------------
+
+No material instances of noncompliance: the Company has complied, in all
+material respects, with the Applicable Servicing Criteria as of and for the
+year ended December 31, 2007.
+
+</EX-33.1>
+
+<EX-33.2>
+ 4
+ efc8-0497_6551037ex332.txt
+ 
+ Exhibit 33.2
+ ------------
+
+ ASSERTION OF COMPLIANCE WITH
+ APPLICABLE SERVICING CRITERIA
+
+The Bank of New York and The Bank of New York Trust Company, N. A.
+(collectively, the "Company") is responsible for assessing compliance with the
+applicable servicing criteria set forth in Item 1122(d) of Regulation AB of the
+Securities and Exchange Commission. Management has determined that the servicing
+criteria are applicable in regard to the servicing platform for the period as
+follows:
+
+Platform: Publicly-issued (i.e., transaction-level reporting initially required
+under the Securities Exchange Act of 1934, as amended) residential
+mortgage-backed securities and other mortgage-related asset-backed securities
+issued on or after January 1, 2006 (and like-kind transactions issued prior to
+January 1, 2006) for which the Company provides trustee, securities
+administration, or paying agent or custodial services.
+
+Applicable Servicing Criteria: All servicing criteria set forth in Item 1122(d),
+to the extent required by the related transaction agreements as to any
+transaction, except as set forth in the column titled "Not Applicable To
+Platform" in Appendix 1 attached hereto. Servicing criterion 1122(d)(4)(iii) is
+applicable to the activities the Company performs with respect to the Platform
+only as it relates to the Company's obligation to report additions, removals or
+substitutions on reports to investors and to obtain servicer certifications
+related to any additions, removals or substitutions in accordance with the
+transaction agreements.
+
+Period: Twelve months ended December 31, 2007 (the "Period")
+
+With respect to the Platform and the Period, the Company's management provides
+the following assertion of compliance with respect to the Applicable Servicing
+Criteria:
+
+1. The Company is responsible for assessing its compliance with the Applicable
+Servicing Criteria.
+
+2. The Company assessed compliance with the Applicable Servicing Criteria. In
+performing this assessment, management used the criteria set forth by the
+Securities and Exchange Commission in paragraph (d) of Item 1122 of Regulation
+AB.
+
+3. Based on such assessment, as of and for the Period, the Company has complied,
+in all material respects with the Applicable Servicing Criteria.
+
+KPMG LLP, an independent registered public accounting firm, has issued an
+attestation report with respect to the Company's compliance with the Applicable
+Servicing Criteria as of and for the Period.
+
+The Bank of New York The Bank of New York
+The Bank of New York Trust
+ Company, N.A.
+
+/s/Patrick J. Tadie /s/Samir Pandiri
+- --------------------------- -----------------------
+ Patrick J. Tadie Samir Pandiri
+ Authorized Officer Authorized Officer
+
+March 5, 2008
+
+2
+
+APPENDIX 1
+
+- -----------------------------------------------------------------------------------------------------------------------------------
+REG AB SERVICING CRITERIA APPLICABLE NOT APPLICABLE TO
+REFERENCE TO PLATFORM PLATFORM
+- -----------------------------------------------------------------------------------------------------------------------------------
+
+General Servicing Considerations
+
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Policies and procedures are instituted to monitor any
+ 1122(d)(1)(i) performance or other triggers and events of default X
+ in accordance with the transaction agreements.
+- -----------------------------------------------------------------------------------------------------------------------------------
+ If any material servicing activities are outsourced to
+ 1122(d)(1)(ii) third parties, policies and procedures are instituted to X
+ monitor the third party's performance and compliance with
+ such servicing activities.
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Any requirements in the transaction agreements to
+ 1122(d)(1)(iii) maintain a back-up servicer for the [pool assets] are X
+ maintained.
+- -----------------------------------------------------------------------------------------------------------------------------------
+ A fidelity bond and errors and omissions policy is in
+ 1122(d)(1)(iv) effect on the party participating in the servicing X
+ function throughout the reporting period in the amount of
+ coverage required by and otherwise in accordance with the
+ terms of the transaction agreements.
+- -----------------------------------------------------------------------------------------------------------------------------------
+
+ Cash Collection and Administration
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Payments on [pool assets] are deposited into the
+ appropriate custodial bank accounts and related bank
+ 1122(d)(2)(i) clearing accounts no more than two business days X
+ following receipt, or such other number of days
+ specified in the transaction agreements.
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Disbursements made via wire transfer on behalf of an
+ 1122(d)(2)(ii) obligor or to an investor are made only by authorized X
+ personnel.
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Advances of funds or guarantees regarding collections,
+ cash flows or distributions, and any interest or other
+ 1122(d)(2)(iii) fees charged for such advances, are made, reviewed and X
+ approved as specified in the transaction agreements.
+- -----------------------------------------------------------------------------------------------------------------------------------
+ The related accounts for the transaction, such as cash
+ reserve accounts or accounts established as a form of
+ 1122(d)(2)(iv) over collateralization, are separately maintained (e.g., X
+ with respect to commingling of cash) as set forth in the
+ transaction agreements.
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Each custodial account is maintained at a federally
+ insured depository institution as set forth in the
+ 1122(d)(2)(v) transaction agreements. For purposes of this criterion, X
+ "federally insured depository institution" with respect
+ to a foreign financial institution means a foreign
+ financial institution that meets the requirements of Rule
+ 13k-1(b)(1) of the Securities Exchange Act.
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Unissued checks are safeguarded so as to prevent
+ 1122(d)(2)(vi) unauthorized access. X
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Reconciliations are prepared on a monthly basis for all
+ asset-backed securities related bank accounts, including
+ custodial accounts and related bank clearing accounts.
+ These reconciliations are (A) mathematically accurate;
+ (B) prepared within 30 calendar days after the bank
+ statement cutoff date, or such other number of days
+ specified in the transaction agreements; (C) reviewed and
+ approved by someone other than the person who prepared
+ 1122(d)(2)(vii) the reconciliation; and (D) contain explanations for X
+ reconciling items. These reconciling items are resolved
+ within 90 calendar days of their original identification,
+ or such other number of days specified in the transaction
+ agreements
+- -----------------------------------------------------------------------------------------------------------------------------------
+
+1
+
+APPENDIX 1
+
+- -----------------------------------------------------------------------------------------------------------------------------------
+REG AB SERVICING CRITERIA APPLICABLE NOT APPLICABLE TO
+REFERENCE TO PLATFORM PLATFORM
+- -----------------------------------------------------------------------------------------------------------------------------------
+
+ Investor Remittances and Reporting
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Reports to investors, including those to be filed
+ with the Commission, are maintained in accordance
+ with the transaction agreements and applicable
+ Commission requirements. Specifically, such reports
+ (A) are prepared in accordance with timeframes and
+ other terms set forth in the transaction
+ agreements; (B) provide information calculated in
+ 1122(d)(3)(i) accordance with the terms specified in the X
+ transaction agreements; (C) are filed with the
+ Commission as required by its rules and
+ regulations; and (D) agree with investors' or the
+ trustee's records as to the total unpaid principal
+ balance and number of [pool assets] serviced by
+ the Servicer.
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Amounts due to investors are allocated and remitted in
+ 1122(d)(3)(ii) accordance with timeframes, distribution priority and X
+ other terms set forth in the transaction agreements.
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Disbursements made to an investor are posted within two
+ business days to the Servicer's investor records, or such
+ 1122(d)(3)(iii) other number of days specified in the transaction X
+ agreements.
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Amounts remitted to investors per the investor reports
+ 1122(d)(3)(iv) agree with cancelled checks, or other form of payment, or X
+ custodial bank statements
+- -----------------------------------------------------------------------------------------------------------------------------------
+
+ Pool Asset Administration
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Collateral or security on [pool assets] is maintained as
+ 1122(d)(4)(i) required by the transaction agreements or related X
+ mortgage loan documents.
+- -----------------------------------------------------------------------------------------------------------------------------------
+ [pool asset] and related documents are safeguarded
+ 1122(d)(4)(ii) as required by the transaction agreements X
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Any additions, removals or substitutions to the asset
+ 1122(d)(4)(iii) pool are made, reviewed and approved in accordance with X
+ any conditions or requirements in the transaction
+ agreements.
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Payments on [pool assets], including any payoffs, made in
+ accordance with the related [pool asset] documents are
+ posted to the Servicer's obligor records maintained no
+ more than two business days after receipt, or such other
+ 1122(d)(4)(iv) number of days specified in the transaction agreements, X
+ and allocated to principal, interest or other items
+ (e.g., escrow) in accordance with the related [pool
+ asset] documents.
+- -----------------------------------------------------------------------------------------------------------------------------------
+ The Servicer's records regarding the [pool assets] agree
+ 1122(d)(4)(v) with the Servicer's records with respect to an obligor's X
+ unpaid principal balance.
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Changes with respect to the terms or status of an
+ obligor's [pool assets] (e.g., loan modifications or
+ 1122(d)(4)(vi) re-agings) are made, reviewed and approved by authorized X
+ personnel in accordance with the transaction agreements
+ and related pool asset documents.
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Loss mitigation or recovery actions (e.g., forbearance
+ plans, modifications and deeds in lieu of foreclosure,
+ foreclosures and repossessions, as applicable) are
+ 1122(d)(4)(vii) initiated, conducted and concluded in accordance with the X
+ timeframes or other requirements established by the
+ transaction agreements.
+- -----------------------------------------------------------------------------------------------------------------------------------
+
+2
+
+APPENDIX 1
+
+- -----------------------------------------------------------------------------------------------------------------------------------
+REG AB SERVICING CRITERIA APPLICABLE NOT APPLICABLE TO
+REFERENCE TO PLATFORM PLATFORM
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Records documenting collection efforts are maintained
+ during the period a [pool asset] is delinquent in
+ accordance with the transaction agreements. Such
+ records are maintained on at least a monthly basis,
+ or such other period specified in the transaction
+ 1122(d)(4)(viii) agreements, and describe the entity's activities in X
+ monitoring delinquent [pool assets] including, for
+ example, phone calls, letters and payment
+ rescheduling plans in cases where delinquency is
+ deemed temporary (e.g., illness or unemployment).
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Adjustments to interest rates or rates of return for
+ 1122(d)(4)(ix) [pool assets] with variable rates are computed based on X
+ the related [pool asset] documents.
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Regarding any funds held in trust for an obligor (such as
+ escrow accounts): (A) such funds are analyzed, in
+ accordance with the obligor's [pool asset] documents, on
+ at least an annual basis, or such other period specified
+ in the transaction agreements; (B) interest on such funds
+ 1122(d)(4)(x) is paid, or credited, to obligors in accordance with X
+ applicable [pool asset] documents and state laws; and (C)
+ such funds are returned to the obligor within 30 calendar
+ days of full repayment of the related [pool assets], or
+ such other number of days specified in the transaction
+ agreements.
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Payments made on behalf of an obligor (such as tax or
+ insurance payments) are made on or before the related
+ penalty or expiration dates, as indicated on the
+ 1122(d)(4)(xi) appropriate bills or notices for such payments, provided X
+ that such support has been received by the Servicer at
+ least 30 calendar days prior to these dates, or such
+ other number of days specified in the transaction
+ agreements.
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Any late payment penalties in connection with any payment
+ to be made on behalf of an obligor are paid from the
+ 1122(d)(4)(xii) Servicer's funds and not charged to the obligor, unless X
+ the late payment was due to the obligor's error or
+ omission.
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Disbursements made on behalf of an obligor are posted
+ within two business days to the obligor's records
+ 1122(d)(4)(xiii) maintained by the Servicer, or such other number of days X
+ specified in the transaction agreements.
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Delinquencies, charge-offs and uncollectible accounts are
+ 1122(d)(4)(xiv) recognized and recorded in accordance with the X
+ transaction agreements.
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Any external enhancement or other support, identified in
+ Item 1114(a)(1) through (3) or Item 1115 of Regulation
+ 1122(d)(4)(xv) AB, is maintained as set forth in the transaction X
+ agreements
+- -----------------------------------------------------------------------------------------------------------------------------------
+
+3
+
+</EX-33.2>
+
+<EX-34.1>
+ 5
+ efc8-0497_6551037ex341.txt
+ 
+ Exhibit 34.1
+ ------------
+
+KPMG [LOGO OMITTED]
+
+ KPMG LLP
+ Suite 2000
+ 355 South Grand Avenue
+ Los Angeles, CA 90071-1568
+
+Report of Independent Registered Public Accounting Firm
+
+The Board of Directors
+Countrywide Financial Corporation:
+
+We have examined management's assessment, included in the Assessment of
+Compliance with Applicable Servicing Criteria, that Countrywide Financial
+Corporation and certain of its subsidiaries, including its direct and indirect
+wholly owned subsidiaries, Countrywide Home Loans, Inc. (CHL), Countrywide Tax
+Services Corporation, Newport Management Corporation, and Countrywide Home
+Loans Servicing L.P., a wholly owned subsidiary of CHL (collectively, the
+Company), complied with the servicing criteria set forth in Item 1122(d) of
+the Securities and Exchange Commission's Regulation AB for publicly issued
+residential mortgage-backed securities (securities collateralized by
+residential mortgage loans, including prime, alternative loan products,
+subprime, HELOC, and closed seconds) issued on or after January 1, 2006 for
+which the Company provides cash collection and administration, investor
+remittances and reporting (except for those activities relating to trustee and
+paying agent services), and pool asset administration (except for those
+activities relating to custodial operations of pool assets and related
+documents), collectively, "Servicing Functions", excluding any transactions
+issued by any government sponsored enterprise for which the Company provides
+Servicing Functions (the Platform), as of and for the year ended December 31,
+2007. The Platform includes all servicing criteria set forth in Schedule A to
+the Assessment of Compliance with Applicable Servicing Criteria except for the
+Inapplicable Servicing Criteria and portions of the criteria footnoted on that
+schedule, which are inapplicable to the Company based on the activities it
+performs with respect to the Platform. Management is responsible for the
+Company's compliance with those servicing criteria. Our responsibility is to
+express an opinion on management's assessment about the Company's compliance
+based on our examination.
+
+Our examination was conducted in accordance with the standards of the Public
+Company Accounting Oversight Board (United States) and, accordingly, included
+examining, on a test basis, evidence about the Company's compliance with the
+servicing criteria specified above and performing such other procedures as we
+considered necessary in the circumstances. Our examination included testing
+selected asset-backed transactions and securities that comprise the Platform,
+testing selected servicing activities related to the Platform, and determining
+whether the Company processed those selected transactions and performed those
+selected activities in compliance with the servicing criteria. Furthermore,
+our procedures were limited to the selected transactions and servicing
+activities performed by the Company during the period covered by this report.
+Our procedures were not designed to determine whether errors may have occurred
+either prior or subsequent to our tests that may have affected the balances or
+amounts calculated or reported by the Company during the period covered by
+this report for the selected transactions or any other transactions. We
+believe that our examination provides a reasonable basis for our opinion. Our
+examination does not provide a legal determination on the Company's compliance
+with the servicing criteria.
+
+KPMG LLP, a U.S. limited liability partnership, is the U.S.
+ member firm of KPMG International, a Swiss cooperative.
+
+In our opinion, management's assessment that the Company complied with the
+aforementioned servicing criteria as of and for the year ended December 31,
+2007 is fairly stated in all material respects.
+
+/s/ KPMG LLP
+
+Los Angeles, California
+February 28, 2008
+
+</EX-34.1>
+
+<EX-34.2>
+ 6
+ efc8-0497_6551037ex342.txt
+ 
+ Exhibit 34.2
+ ------------
+
+KPMG (logo omitted)
+
+ KPMG LLP
+ 303 East Wacker Drive
+ Chicago, IL 60601-5212
+
+Report of Independent Registered Public Accounting Firm
+
+The Board of Directors
+The Bank of New York
+The Bank of New York Trust Company, N.A.:
+
+We have examined management's assessment, included in the accompanying Assertion
+of Compliance with Applicable Servicing Criteria, that The Bank of New York and
+The Bank of New York Trust Company, N.A., (collectively the "Company") complied
+with the servicing criteria set forth in Item 1122(d) of the Securities and
+Exchange Commission's Regulation AB for the publicly issued (i.e.
+transaction-level reporting initially required under the Securities and Exchange
+Act of 1934, as amended) residential mortgage-backed securities and other
+mortgage-related asset-backed securities issued on or after January 1, 2006 (and
+like-kind transactions issued prior to January 1, 2006) for which the Company
+provides trustee, securities administration, paying agent, or custodial services
+(the Platform), except for servicing criteria 1122(d)(1)(ii), 1122(d)(1)(iii),
+1122(d)(1)(iv), 1122(d)(4)(iv), 1122(d)(4)(v), 1122(d)(4)(vi), 1122(d)(4)(vii),
+1122(d)(4)(viii), 1122(d)(4)(ix), 1122(d)(4)(x), 1122(d)(4)(xi), 1122(d)(4)(xii)
+1122(d)(4)(xiii) and 1122(d)(4)(xiv) which the Company has determined are not
+applicable to the activities it performs with respect to the Platform, as of and
+for the twelve months ended December 31, 2007. Servicing criterion
+1122(d)(4)(iii) is applicable to the activities the Company performs with
+respect to the Platform only as it relates to the Company's obligation to report
+additions, removals or substitutions on reports to investors and to obtain
+servicer certifications related to any additions, removals or substitutions in
+accordance with the transaction agreements. Management is responsible for the
+Company's compliance with those servicing criteria. Our responsibility is to
+express an opinion on management's assessment about the Company's compliance
+based on our examination.
+
+Our examination was conducted in accordance with the standards of the Public
+Company Accounting Oversight Board (United States) and, accordingly, included
+examining, on a test basis, evidence about the Company's compliance with the
+servicing criteria specified above and performing such other procedures as we
+considered necessary in the circumstances. Our examination included testing
+selected asset-backed transactions and securities that comprise the Platform,
+testing selected servicing activities related to the Platform, and determining
+whether the Company processed those selected transactions and performed those
+selected activities in compliance with the servicing criteria. Furthermore, our
+procedures were limited to the selected transactions and servicing activities
+performed by the Company during the period covered by this report. Our
+procedures were not designed to determine whether errors may have occurred
+either prior to or subsequent to our tests that may have affected the balances
+or amounts calculated or reported by the Company during the period covered by
+this report for the selected transactions or any other transactions. We believe
+that our examination provides a reasonable basis for our opinion. Our
+examination does not provide a legal determination on the Company's compliance
+with the servicing criteria.
+
+KPMG LLP, a U.S. limited liability partnership, is the U.S.
+ member firm of KPMG International, a Swiss cooperative.
+
+In our opinion, management's assessment that the Company complied with the
+aforementioned servicing criteria as of and for the twelve months ended December
+31, 2007 is fairly stated, in all material respects.
+
+(Signed) KPMG LLP
+
+Chicago, IL
+March 5, 2008
+
+</EX-34.2>
+
+<EX-35>
+ 7
+ efc8-0497_6551037ex35.txt
+ 
+ Exhibit 35
+ ----------
+
+COUNTRYWIDE HOME LOANS SERVICING LP
+
+OFFICERS' CERTIFICATE
+ ANNUAL STATEMENT OF THE MASTER SERVICER
+
+CWMBS, INC.
+ CHL MORTGAGE PASS-THROUGH TRUST 2007-14
+ MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-14
+
+The undersigned does hereby certify that the undersigned is an
+officer of Countrywide GP, Inc., general partner of Countrywide Home Loans
+Servicing LP (the "Master Servicer"), and does hereby further certify pursuant
+to Section 3.16 of the Pooling and Servicing Agreement for the above-captioned
+Series (the "Agreement") that:
+
+(i) A review of the activities of the Master Servicer during the preceding
+calendar year and of the performance of the Master Servicer under the
+Agreement has been made under my supervision; and
+
+(ii) To the best of my knowledge, based on such review, the Master Servicer
+has fulfilled all of its obligations under the Agreement in all material
+respects throughout such calendar year.
+
+/s/ Craig Baingo Dated: March 14, 2008
+- -----------------
+
+Craig Baingo
+Executive Vice President, Finance
+
+</EX-35>
+

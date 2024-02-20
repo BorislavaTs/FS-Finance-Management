@@ -1,0 +1,3825 @@
+<Header>
+<FileStats>
+    <FileName>20021230_10-K_edgar_data_1040599_0000950134-02-016143.txt</FileName>
+    <GrossFileSize>234123</GrossFileSize>
+    <NetFileSize>166087</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1890</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>1</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950134-02-016143.hdr.sgml : 20021230
+<ACCEPTANCE-DATETIME>20021230154604
+ACCESSION NUMBER:		0000950134-02-016143
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20020930
+FILED AS OF DATE:		20021230
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NEENAH FOUNDRY CO
+		CENTRAL INDEX KEY:			0001040599
+		STANDARD INDUSTRIAL CLASSIFICATION:	GLASS, GLASSWARE, PRESSED OR BLOWN [3220]
+		IRS NUMBER:				391580331
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-28751-03
+		FILM NUMBER:		02871938
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2121 BROOKS AVE
+		STREET 2:		PO BOX 729
+		CITY:			NEENAH
+		STATE:			WI
+		ZIP:			54927
+		BUSINESS PHONE:		9207257000
+
+	MAIL ADDRESS:	
+		STREET 1:		2121 BROOKS AVE
+		STREET 2:		PO BOX 729
+		CITY:			NEENAH
+		STATE:			WI
+		ZIP:			54927
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ OX7J96Szdd72RSpaC99LH3c+z/USc+leQP9TSNeJvwUKLEi+xkgzlLx2F9j+CYQb
+ sNrGRUP9N7oph0hKztxYvg==
+
+ 0000950134-02-016143.txt : 20021230
+
+10-K
+ 1
+ c73719e10vk.txt
+ FORM 10-K
+
+UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+ FORM 10-K
+
+[x] Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange
+ Act of 1934.
+ For the fiscal year ended September 30, 2002.
+
+[ ] Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange
+ Act of 1934.
+ For the transition period from ____ to ____.
+
+ Commission file number 333-28751
+
+ NEENAH FOUNDRY COMPANY
+ (Exact Name of Registrant as Specified in Its Charter)
+
+ Wisconsin 39-1580331
+(State or Other Jurisdiction of (IRS Employer Identification Number)
+ Incorporation or Organization)
+
+2121 Brooks Avenue, P.O. Box 729, Neenah, Wisconsin 54957
+(Address of principal executive offices) (Zip Code)
+
+ (920) 725-7000
+ (Registrant's telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act: NONE
+
+Securities registered pursuant to section 12(g) of the Act: NONE
+
+ Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X] No [ ]
+
+ Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [X]
+
+ Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Exchange Act Rule 12b-2). Yes [ ] No [X]
+
+ State the aggregate market value of the voting and non-voting common
+equity held by non-affiliates computed by reference to the price at which the
+common equity was last sold, or the average bid and asked price of such common
+equity, as of the last business day of the registrant's most recently completed
+second quarter. 0
+
+ Indicate the number of shares outstanding of each of the issuer's classes
+of common stock, as of the latest practical date.
+
+ Common Stock, Class A, 100 par value- 1,000 shares as of November 30,
+2002
+ Common Stock, Class B, 100 par value- 0 shares as of November 30,
+2002
+
+1
+
+PART I
+Item 1. BUSINESS
+
+ Unless otherwise stated in this document or unless the context otherwise
+requires, references herein to the "Company" include Neenah Foundry Company and
+its wholly owned subsidiaries, namely- Neenah Transport, Inc., Deeter Foundry,
+Inc. ("Deeter"), Mercer Forge Corporation ("Mercer"), Dalton Corporation
+("Dalton"), Advanced Cast Products ("ACP"), Gregg Industries, Inc. ("Gregg"),
+and Niemin Porter & Co. d/b/a Cast Alloys, Inc. ("Cast Alloys"), which is
+inactive, and their respective subsidiaries. "Neenah" refers to Neenah Foundry
+Company, not including any of its wholly owned subsidiaries.
+
+General Development of Business
+
+ The Company designs, manufactures and markets a wide range of metal
+castings and forgings for the heavy municipal market and selected segments of
+the industrial markets. Neenah began business in 1872 and has built a strong
+reputation for producing quality iron castings. After Neenah was acquired by ACP
+Holding Company in 1997, the Company began a strategic initiative to grow and
+diversify its business by making selected acquisitions within the metals
+industry. As part of the Company's strategy, the Company completed the following
+acquisitions:
+
+- - Deeter, a manufacturer of gray iron castings for the heavy municipal
+ market, in March 1998.
+- - Mercer, a producer of complex-shaped forged components for use in
+ transportation, railroad, mining and heavy industrial applications, in
+ April 1998.
+- - Dalton, a manufacturer of gray iron castings primarily for the
+ refrigeration and air conditioning, transportation and heavy equipment
+ industrial markets, in September 1998.
+- - ACP, a manufacturer of ductile and malleable iron castings for various
+ industrial markets, in September 1998.
+- - Cast Alloys, a manufacturer of investment-cast titanium and stainless steel
+ golf clubheads, in December 1998. The operations of Cast Alloys were
+ discontinued in January, 2002 and this subsidiary is currently inactive.
+- - Gregg, a manufacturer of gray and ductile iron castings for various
+ industrial markets, in November 1999.
+
+ The Company believes it is one of the largest manufacturers of heavy
+municipal iron castings in the United States. The Company's broad range of heavy
+municipal iron castings includes manhole covers and frames, storm sewer frames
+and grates, heavy duty airport castings, specialized trench drain castings,
+specialty flood control castings and ornamental tree grates. These municipal
+castings are sold throughout the United States to state and local government
+entities, utility companies, precast concrete manhole structure producers and
+contractors for both new construction and infrastructure replacement. The
+Company believes it is also a leading manufacturer of a wide range of complex
+industrial castings, including castings for the transportation industry, a broad
+range of castings for the farm equipment industry, and specific components for
+compressors used in heating, ventilation and air conditioning (HVAC) systems.
+
+ The Company has two reportable segments, Castings and Forgings. The
+Castings segment manufactures and sells iron castings for the municipal and
+industrial markets, while the Forgings segment manufactures and sells forged
+components for the industrial market. The segments were determined based upon
+the production process utilized and the type of product manufactured.
+
+2
+
+CASTINGS SEGMENT
+
+Overview
+
+ The Castings segment is a leading producer of iron and other metal castings
+for use in heavy municipal and industrial applications. This segment sells
+directly to original equipment manufacturers (OEMs), as well as to industrial
+end users.
+
+ Products, Customers and Markets
+
+ The Castings segment provides a variety of products to both the heavy
+municipal and industrial markets. Sales to the heavy municipal market are
+comprised of storm and sanitary sewer castings, manhole covers and frames, and
+storm sewer frames and grates. Sales also include heavy airport castings,
+specialized trench drain castings, specialty flood control castings and
+ornamental tree grates. Customers for these products include state and local
+government entities, utility companies, precast concrete structure producers,
+and contractors.
+
+ Sales to the industrial market are comprised of differential carriers and
+casings, transmission, gear and axle housings, calipers, yokes, planting and
+harvesting equipment parts, and compressor components. Customers for these
+products include medium and heavy-duty truck, farm equipment, and heating,
+ventilating, and air-conditioning manufacturers.
+
+ Heavy Municipal. The Company's broad heavy municipal product line consists
+of two general categories of castings, "standard" and "specialty" castings.
+Standard castings principally consist of storm and sanitary sewer castings that
+are consistent with pre-existing dimension and strength specifications
+established by local authorities. Standard castings are generally high volume
+items that are routinely used in new construction and infrastructure
+replacement. Specialty castings are generally lower volume, higher margin
+products which include heavy-duty airport castings, trench drain castings, flood
+control castings, special manhole and inlet castings and ornamental tree grates.
+These specialty items are frequently selected and/or specified from the
+Company's municipal product catalog and its tree grate catalog, which together
+encompass over 4,400 standard and specialty patterns. For many of these
+specialty products, the Company believes it is the only manufacturer with
+existing patterns to produce such a particular casting, although a competing
+manufacturer could elect to make the investment in patterns or equipment
+necessary to produce a similar casting. The Company holds a number of patents
+and trademarks related to its heavy municipal product line.
+
+ The Company's municipal castings are sold to state and local government
+entities, utility companies, pre-cast concrete manhole structure producers and
+contractors for both new construction and infrastructure replacement. The
+Company's active municipal customers generally make purchase decisions based on
+a number of criteria, including acceptability of the product per local
+specification, quality, service, price and the customer's relationship with the
+foundry. Relative to customers in the industrial market, municipal market
+customers are less technically demanding and rely more on published product
+specifications to ensure product performance.
+
+ Over its 70 years of heavy municipal market participation, the Company has
+emphasized sales and marketing and believes it has built a strong reputation for
+customer service. The Company believes that it is one of the leaders in U.S.
+heavy municipal casting production and that it has strong name recognition. The
+Company has the largest sales and marketing effort of any foundry serving the
+heavy municipal market. The dedicated sales force works out of regional sales
+offices to market the Company's municipal castings to contractors and state and
+local governmental entities throughout the United States. The Company operates a
+number of regional distribution and sales centers throughout the Unites States.
+The Company believes this regional approach enhances its knowledge of local
+specifications and its position in the heavy municipal market.
+
+3
+
+Industrial. The Company's industrial castings have increased in complexity
+since the early 1990's and are generally produced in higher volumes than
+municipal castings. Complexity in the industrial market is determined by the
+intricacy of a casting's shape, the thinness of its walls and the amount of
+processing by a customer required before a part is suitable for use. OEMs and
+their first tier suppliers have been demanding higher complexity parts
+principally to reduce labor costs in their own production processes by using
+fewer parts to manufacture the same finished product or assembly and by using
+parts which require less preparation before entering the production process.
+
+ The Company's industrial castings are primarily sold to a limited number of
+customers with whom the Company has established a close working relationship.
+These customers make purchasing decisions based on, among other things,
+technical ability, price, service, quality assurance systems, facility
+capabilities and reputation. However, as in the municipal market, the Company's
+assistance in product engineering plays an important role in winning bids for
+industrial castings. The average industrial casting typically takes between 12
+and 18 months to go from the design phase to full production and has an average
+product life cycle of approximately 8 to 10 years. The patterns for industrial
+castings, unlike the patterns for municipal castings, are owned by the Company's
+customers rather than the Company. However, such industrial patterns are not
+readily transferable to other foundries without, in most cases, significant
+additional investment. Although foundries, including the Company, do not design
+industrial castings, a close working relationship between a foundry and the
+customer during a product launch is critical to reduce potential production
+problems and minimize the customer's risk of incurring lost sales or damage to
+its reputation due to a delayed launch. Involvement by a foundry early in the
+design process generally improves the likelihood that the customer will design a
+casting within the manufacturing capabilities of such foundry and also improves
+the likelihood that such foundry will be awarded the casting for full
+production.
+
+ The Company estimates that it has historically retained approximately 90 
+of the castings it has been awarded throughout the product life cycle, which is
+typical for the industry. The Company believes industrial customers will
+continue to seek out foundries with a strong reputation for performance who are
+capable of providing a cost-effective combination of manufacturing technology
+and quality. The Company's strategy is to further its relationships with
+existing customers by participating in the design and production of more complex
+industrial castings, while seeking out selected new customers who would value
+the Company's performance reputation, technical ability and high level of
+quality and service.
+
+ The Company employs a dedicated industrial casting sales force at all of
+its subsidiary locations. The sales force supports ongoing customer
+relationships and organizes the scheduling and delivery of shipments, as well as
+working with customers' engineers and procurement representatives, Company
+engineers, manufacturing management and quality assurance representatives
+throughout all stages of the production process to ensure that the final product
+consistently meets or exceeds customer specifications. This team approach,
+consisting of sales, marketing, manufacturing, engineering and quality assurance
+efforts is an integral part of the Company's marketing strategy.
+
+Manufacturing Process
+
+ The Company's foundries manufacture gray and ductile iron and cast it into
+intricate shapes according to customer metallurgical and dimensional
+specifications. The Company continually invests in the improvement of process
+controls and product performance and believes that these investments and its
+significant experience in the industry have made it one of the most efficient
+manufacturers of industrial and heavy municipal casting products.
+
+4
+
+The casting process involves using metal, wood or urethane patterns to make
+an impression of a casting product in a mold made primarily of sand. Cores, also
+made primarily of sand, are used to make the internal cavities and openings in a
+casting product. Once the casting impression is made in the mold, the cores are
+set into the mold and the mold is closed. Molten metal is then poured into the
+mold, which fills the mold cavity and takes on the shape of the desired casting
+product. Once the iron has solidified and cooled, the mold is shaken from the
+casting and the sand is recycled. The selection of the appropriate casting
+method, pattern, core-making equipment and sand, and other raw materials depends
+on the final product, including its complexity, specifications, and function as
+well as intended production volumes. Because the casting process involves many
+critical variables, such as choice of raw materials, design and production of
+tooling, iron chemistry and metallurgy, and core and molding sand properties, it
+is important to monitor the process parameters closely to ensure dimensional
+precision and metallurgical consistency. The Company continually seeks to find
+ways to expand the capabilities of existing technology to improve its
+manufacturing processes.
+
+ The Company also achieves productivity gains by improving upon the
+individual steps of the casting process such as reducing the amount of time
+required to make a pattern change to produce a different casting product. The
+reduced time permits it to profitably produce castings in medium volume
+quantities on high volume, cost-effective equipment. Additionally, extensive
+effort in real time process controls permits the Company to produce a
+consistent, dimensionally accurate casting product, which requires less time and
+effort in the final processing stages of production. This accuracy contributes
+significantly to the Company's manufacturing efficiency.
+
+ Continual testing and monitoring of the manufacturing process is important
+to maintain product quality. The Company has adopted sophisticated quality
+assurance techniques and policies for its manufacturing operations. During and
+after the casting process, the Company performs numerous tests, including
+tensile, proof-load, radiography, ultrasonic, magnetic particle and chemical
+analysis. The Company utilizes statistical process controls to measure and
+control significant process variables and casting dimensions. The results of
+this testing are documented in metallurgical certifications, which are provided
+with each shipment to most industrial customers. The Company strives to maintain
+systems that provide for continual improvement of operations and personnel,
+emphasize defect prevention and reduce variation and waste in all areas.
+
+Raw Materials
+
+ The primary raw materials used by the Company to manufacture ductile and
+gray iron castings are steel scrap, pig iron, metallurgical coke and silica
+sand. While there are multiple suppliers for each of these commodities, the
+Company has single-source arrangements with its suppliers for each of these
+major raw materials, with the exception of pig iron. Due to long standing
+relationships with each of its suppliers, the Company believes that it will
+continue to be able to secure raw materials at competitive prices. The primary
+energy sources for the Company's operations, electricity and natural gas, are
+purchased through utilities.
+
+5
+
+Although the prices of all raw materials used by the Company vary, the
+fluctuations in the price of steel scrap are the most significant to the
+Company. The Company has arrangements with most of its industrial customers
+which allow the Company to adjust industrial casting prices to reflect scrap
+price fluctuations. In periods of rapidly rising or falling scrap prices, these
+adjustments will lag the current scrap price because they are generally based on
+average market prices for prior periods, which periods vary by customer but are
+generally no longer than six months. Castings are generally sold to the heavy
+municipal market on a bid basis and, after a bid is won, the price for the
+municipal casting generally cannot be adjusted for raw material price increases.
+However, in most cases the Company believes it has been successful in obtaining
+higher municipal casting unit prices in subsequent bids to compensate for rises
+in scrap prices in prior periods. Rapidly fluctuating scrap prices may have an
+adverse or positive effect on the Company's financial condition and results of
+operations.
+
+Seasonality
+
+ The Company has historically experienced moderate cyclicality in the heavy
+municipal market. Sales of municipal products are influenced by, among other
+things, public spending. There is generally not a backlog of business in the
+municipal market due to the nature of the market. In the industrial market, the
+Company has experienced cyclicality in sales resulting from fluctuations in the
+medium and heavy-duty truck market and the farm equipment market, which are
+subject to general economic trends. The Company's current backlog of industrial
+market business is smaller than there would be in a stronger, more typical
+market.
+
+ The Company experiences seasonality in its municipal business where sales
+tend to be higher during the construction season, which occurs during the warmer
+months, generally the third and fourth quarters of the Company's fiscal year.
+The Company maintains level production throughout the year in anticipation of
+such seasonality and does not experience production volume fluctuations as a
+result. The Company builds inventory in anticipation of the construction season
+with such inventories reaching a peak near the end of its second quarter in
+March. This inventory build has a negative impact on working capital and
+increases liquidity needs during the second quarter. The Company has not
+historically experienced seasonality in industrial casting sales.
+
+Competition
+
+ The markets for the Company's products are highly competitive. Competition
+is based not only on price, but also on quality of product, range of capability,
+level of service and reliability of delivery. The Company competes with numerous
+independent and captive foundries, as well as with a number of foreign iron
+foundries, including certain foundries located in India. The Company also
+competes with several large domestic manufacturers whose products are made with
+materials other than ductile and gray iron, such as steel or aluminum. The
+industry consolidation that has occurred over the past 20 years has resulted in
+a significant reduction in the number of smaller foundries and a rise in the
+share of production by larger foundries, some of which have significantly
+greater financial resources than the Company. Competition from India has had a
+strong presence in the heavy municipal market and continues to be a factor,
+primarily in the western and eastern United States, due in part to costs
+associated with transportation.
+
+6
+
+FORGINGS SEGMENT
+
+Overview
+
+ The forgings segment, operated by Mercer, is a leading producer of
+complex-shaped forged components for use in transportation, railroad, mining and
+heavy industrial applications. Mercer is also a leading producer of microalloy
+forgings. Mercer sells directly to OEMs, as well as to industrial end users.
+Mercer's subsidiary, A&M Specialties, Inc. (A&M), machines forgings and castings
+for Mercer and other industrial applications.
+
+ Until the mid-1980's, Mercer produced military tank parts, but successfully
+converted from a defense contractor to a commercial manufacturer and today is
+one of the leading suppliers to the heavy duty truck sector. Mercer produces
+approximately 500 individually forged components and has developed specialized
+expertise in forgings of microalloy steel.
+
+Products, Customers and Markets
+
+ Mercer manufactures its products to customer specification with typical
+production runs of 1,000 or more units. Mercer currently operates mechanical
+press lines, from 1,300 tons to 4,000 tons. Key markets for Mercer include truck
+and automotive parts, railroad equipment and general industrial machinery.
+
+ Mercer's in-house sales organization sells direct to end users and OEMs. A
+key element of Mercer's sales strategy is its ability to develop strong customer
+relationships through responsive engineering capability, dependable quality and
+just-in-time performance.
+
+ Demand for forged products for civilian application closely follows the
+general business cycles of the various market segments and the demand level for
+capital goods. While there is a more consistent base level of demand for the
+replacement parts portion of the business, the strongest expansions in the
+forging industry coincide with the periods of industrial segment economic
+growth. Mercer's largest industry segment, the heavy truck segment is extremely
+weak due to overbuilds and energy costs. Mercer's other market segments are also
+showing weakness following general economic slowdowns in those industrial areas.
+Management attributes this to normal industrial cycles in these markets and
+adjustments to overbuilds in inventory levels as well as high energy costs.
+
+Manufacturing Process
+
+ Forgings and castings (together with a third process, fabrication) are the
+principal commercial metal working processes. In forging, metal is pressed,
+pounded or squeezed under great pressure, with or without the use of heat, into
+parts that retain the metal's original grain flow, imparting high strength,
+ductility and resistance properties.
+
+ Forging itself usually entails one of four principal processes: impression
+die; open die; cold; and seamless rolled ring forging. Impression die forging,
+commonly referred to as "closed die" forging, is the principal process employed
+by Mercer, and involves bringing two or more dies containing "impressions" of
+the part shape together under extreme pressure, causing the forging stock to
+undergo plastic reformation. Because the metal flow is restricted by die
+containers, this process can yield more complex shapes and closer tolerances
+than the "open die" forging process. Impression die forging is used to produce
+products such as military and off-highway track and drive train parts;
+automotive and truck drive train and suspension parts; railroad engine, coupling
+and suspension parts; military ordinance parts and other items where close
+tolerances are required.
+
+7
+
+Once a rough forging is produced, regardless of the forging process, it
+must generally still be machined. This process, known as "finishing" or
+"conversion", smoothes the component's exterior and mating surfaces and adds any
+required specification, such as groves, threads, bolt holes and brand name
+markings. The finishing process can contribute significantly to the value of the
+end product, in particular in certain custom situations where high value
+specialized machining is required. Machining can be performed either in-house by
+the forger, by a machine shop which performs this process exclusively or by the
+end-user.
+
+ An internal staff of engineers designs products to meet customer
+specifications incorporating computer assisted design (CAD) work stations for
+tooling design. Because its forged products are inherently less expensive and
+stronger, Mercer has been successful in replacing certain cast parts previously
+supplied by third party foundries. Management believes that Mercer is an
+industry leader in forging techniques using microalloy steel which produces
+parts which are lighter and stronger than those forged from conventional carbon
+steel.
+
+Raw Materials
+
+ The principal raw materials used in Mercer's products are carbon and
+microalloy steel. Mercer purchases substantially all of its carbon steel from
+four principal sources. While Mercer has never suffered an interruption of
+materials supply, management believes that, in the event of any disruption from
+any individual source, adequate alternative sources of supply are available
+within the immediate vicinity.
+
+Seasonality
+
+ Mercer has experienced moderate cyclicality in sales resulting from
+fluctuations in the medium and heavy-duty truck market and the heavy industrial
+market, which are subject to general economic trends. Mercer's current backlog
+of industrial market business is smaller than there would be in a stronger, more
+typical market.
+
+ Competition
+
+ Mercer competes primarily in a highly fragmented industry which includes
+several dozen other press forgers and hammer forge shops. Hammer shops cannot
+typically match press forgers' for high volume, single component manufacturing,
+or close tolerance production. Competition in the forging industry has also
+historically been determined both by product and geography, with a large number
+of relatively small forgers across the country carving out their own product and
+customer niches. In addition, most end users manufacture some forgings
+themselves, often maintaining a critical minimum level of production in-house
+and contracting out the balance. The primary basis of competition in the forging
+industry is price, but engineering, quality and dependability are also
+important, particularly with respect to building and maintaining customer
+relationships. Some of Mercer's competitors have significantly greater resources
+than Mercer. There can be no assurance that Mercer will be able to maintain or
+improve its competitive position in the markets in which it competes.
+
+EMPLOYEES
+
+ As of September 30, 2002 the Company had approximately 2,970 full time
+employees, of whom 2,420 were hourly employees and 550 were salaried employees.
+Nearly all of the hourly employees at Neenah, Dalton, ACP and Mercer are members
+of either the United Steelworkers of America or the Glass, Molders, Pottery,
+Plastics and Allied Workers International Union. A collective bargaining
+agreement is negotiated every three to five years. The current agreements expire
+as follows: Neenah, December 2006; Dalton- Warsaw, April 2003;
+Dalton-Kendallville, June 2004; ACP-Meadville, October 2004; ACP-Belcher, June
+2004; and Mercer, June 2004. All employees at Deeter and Gregg are non-union.
+The Company believes that it has a good relationship with its employees.
+
+8
+
+ENVIRONMENTAL MATTERS
+
+ The facilities of the Company are subject to federal, state and local laws
+and regulations relating to the protection of the environment and worker health
+and safety, including those relating to discharges to air, water and land, the
+handling and disposal of solid and hazardous waste and the cleanup of properties
+affected by hazardous substances. Such laws include the Federal Clean Air Act,
+the Clean Water Act, the Resource Conservation and Recovery Act, the
+Comprehensive Environmental Response, Compensation, and Liability Act of 1980
+("CERCLA"), and the Occupational Health and Safety Act. The Company believes
+that each of its operations are currently in substantial compliance with
+applicable environmental laws, and that it has no liabilities arising under such
+environmental laws which would have a material adverse effect on the Company's
+operations, financial condition or competitive position. However, some risk of
+environmental liability and other cost is inherent in each of the Company's
+businesses. Any of the Company's businesses might in the future incur
+significant costs to meet current or more stringent compliance, cleanup or other
+obligations pursuant to environmental requirements. Such costs may include
+expenditures related to remediation of historical releases of hazardous
+substances or clean-up of physical structures prior to decommissioning.
+
+ Under the Federal Clean Air Act Amendments of 1990, the Environmental
+Protection Agency ("EPA") is directed to establish maximum achievable control
+technology ("MACT") standards for certain industrial operations that are major
+sources of hazardous air pollutants ("HAPs"). The iron foundry industry is not
+expected to be required to implement the MACT emission limits, control
+technologies or work practices until the year 2004 at the earliest. Although the
+Company cannot accurately estimate the costs to comply with the MACT standard
+until it is issued, the MACT standard, when implemented, and state laws
+governing the emission of toxic air pollutants may require that certain of the
+Company's facilities incur significant costs for air emission control equipment,
+air emission monitoring equipment or process modifications.
+
+Compliance Impacts
+
+ Dalton's Warsaw facility was issued an NPDES permit in 2000 that limits
+the level of chlorine and the temperature of its non-contact cooling water
+permitted to be discharged to a waterway by the year 2003. Although the chlorine
+is already in the water when purchased from the city, Dalton is responsible for
+the elimination. Dalton has several alternatives to meet the chlorine discharge
+permit requirements by 2003, and is currently implementing a system to lower the
+chlorine levels of its cooling water. The cost of implementing this system will
+not be material. Dalton believes the system will be tested and operational
+before the 2003 deadline.
+
+ ACP's Belcher facility has received two notices of violation from the
+Massachusetts Department of Environmental Protection, and one notice from OSHA
+related to environmental matters. Corrective plans have been devised and will be
+implemented in 2003 to correct these violations. The cost of implementing these
+corrective plans will not be material.
+
+9
+
+Item 2. PROPERTIES
+
+ The Company maintains the following manufacturing, machining, and office
+facilities. All of the facilities are owned, with the exception of Mercer's
+machining facility, which is leased.
+
+ENTITY LOCATION PURPOSE
+ ------ -------- -------
+ 
+Neenah Foundry Company Neenah, WI 2 manufacturing facilities
+ Office facility
+
+Dalton Corporation Warsaw, IN Manufacturing and office facilities
+ Kendallville, IN Manufacturing facility
+ Stryker, OH Machining facility
+
+Advanced Cast Products, Inc. Meadville, PA Manufacturing and office facility
+ South Easton, MA Manufacturing facility
+
+Mercer Forge Corporation Mercer, PA Manufacturing and office facility
+ Sharon, PA Machining facility
+
+Deeter Foundry, Inc. Lincoln, NE Manufacturing and office facility
+
+Gregg Industries, Inc. El Monte, CA Manufacturing and office facility
+
+In addition to the facilities above, Neenah operates thirteen distribution
+and sales centers. Seven of those properties are owned and six are leased.
+
+ The principal equipment at the facilities consists of molding machines,
+presses, machining equipment, welding, grinding and painting equipment. The
+Company regards its plant and equipment as well maintained and adequate for its
+needs.
+
+Item 3. LEGAL PROCEEDINGS
+
+ The Company is involved in routine litigation incidental to its business.
+Such litigation is not, in the opinion of management, likely to have a material
+adverse effect on the financial condition or results of operations of the
+Company.
+
+Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+ There were no matters submitted to a vote of security holders during the
+year ended September 30, 2002.
+
+10
+
+PART II
+
+Item 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS.
+
+ There is no public market for the common stock of the Company. There was
+one holder of record of the Company's common stock as of September 30, 2002.
+
+Item 6. SELECTED CONSOLIDATED FINANCIAL AND OTHER DATA
+
+ The following table sets forth the selected historical consolidated
+financial and other data of the Company for the years ended September 30, 1998,
+1999, 2000, 2001, and 2002 which have been derived from the Company's historical
+consolidated financial statements. The information contained in the following
+table should also be read in conjunction with "Management's Discussion and
+Analysis of Financial Condition and Results of Operations," and the Company's
+historical consolidated financial statements and related notes included
+elsewhere in this report.
+
+Fiscal Year Ended
+ September 30,
+ -------------------------------------------------------------------------
+ 1998(1)(5)(6) 1999(2)(5)(6) 2000(3)(5)(6) 2001(5)(6) 2002 (6)
+ -----------------------------------------------------------------------------------
+STATEMENT OF
+INCOME DATA: (Dollars in thousands)
+ 
+Net sales 303,090 491,151 504,311 416,907 405,218
+
+Cost of sales 224,548 395,336 406,652 352,737 341,013
+ -----------------------------------------------------------------------------------
+
+Gross profit 78,542 95,815 97,659 64,170 64,205
+
+Selling, general, and
+ Administrative
+ Expenses 21,435 31,491 33,619 28,017 29,297
+Amortization expense 7,727 11,082 10,503 10,613 3,829
+Provision for impairment of
+ assets - - - - 5,453
+Other expenses (income) (4) 38 7,518 85 (434) 544
+ -----------------------------------------------------------------------------------
+
+Operating income 49,342 45,724 53,452 25,974 25,082
+
+Interest expense, net 27,208 39,238 43,433 43,542 43,132
+ -----------------------------------------------------------------------------------
+
+Income (loss) from continuing
+ operations before taxes 22,134 6,486 10,019 (17,568) (18,050)
+
+Provision (credit) for
+income Taxes 10,650 4,182 6,175 (4,149) (8,389)
+ -----------------------------------------------------------------------------------
+Income (loss) from
+ continuing operations 11,484 2,304 3,844 (13,419) (9,661)
+
+Income (loss) from
+ discontinued operations 397 (4,196) (8,987) (4,035) (38,042)
+
+Gain on sale of
+ discontinued operations - - - 2,404 -
+
+Extraordinary item (7) (392) - - - -
+ -----------------------------------------------------------------------------------
+Net income (loss) 11,489 (1,892) (5,143) (15,050) (47,703)
+ ===================================================================================
+
+11
+
+Fiscal Year Ended
+ September 30,
+ --------------------------------------------------------------
+ 1998(1)(5)(6) 1999(2)(5)(6) 2000(3)(5)(6) 2001(5)(6) 2002 (6)
+ ------------- ------------- ------------- ---------- --------
+ (Dollars in thousands)
+ 
+BALANCE SHEET
+ DATA (AT END
+ OF PERIOD):
+Cash and cash 19,978 17,368 19,478 4,346 26,354
+ Equivalents
+Working capital 78,186 83,962 86,080 72,140 78,135
+Total assets 584,309 641,702 666,218 626,443 582,473
+Total debt 371,871 428,007 449,607 434,077 451,432
+Total stockholder's 67,922 63,750 58,518 41,939 (12,146)
+ equity (deficit)
+- --------------------------------------------------------------------------------------------
+
+(1) The amounts include the results of Deeter subsequent to March 30, 1998, the
+ results of Mercer subsequent to April 3, 1998 and the results of Dalton
+ subsequent to September 8, 1998.
+(2) The amounts include the results of Cast Alloys subsequent to December 31,
+ 1998.
+(3) The amounts include the results of Gregg subsequent to November 30, 1999.
+(4) In 1999, other expenses includes a 6,713 charge related to the closure of
+ Dalton's Ashland facility.
+(5) On October 2, 2000, the Company sold all of the issued and outstanding
+ shares of common stock of Hartley Controls Corporation (Hartley). The
+ results of the operations of Hartley have been reported separately as
+ discontinued operations for all periods presented.
+(6) During the year ended September 30, 2002, the Company discontinued the
+ operations of Cast Alloys. The results of Cast Alloys have been reported
+ separately as discontinued operations for all periods presented.
+(7) Extraordinary item includes the write-off of unamortized deferred financing
+ costs due to the early extinguishment of debt, net of tax of 260
+
+12
+
+Item 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+ RESULTS OF OPERATIONS
+
+ Certain matters discussed in this Management's Discussion and Analysis of
+Financial Condition and Results of Operations and other sections of this annual
+report are "forward-looking statements" intended to qualify for the safe harbors
+from liability established by the Private Securities Litigation Reform Act of
+1995. These forward-looking statements can generally be identified as such
+because the context of the statement will include words such as the Company
+"believes," "anticipates," "expects" or words of similar import. Similarly,
+statements that describe the Company's future plans, objectives or goals are
+also forward-looking statements. Such forward-looking statements are subject to
+certain risks and uncertainties which are described in close proximity to such
+statements and which may cause actual results to differ materially from those
+currently anticipated. The forward-looking statements made herein are made only
+as of the date of this report and the Company undertakes no obligation to
+publicly update such forward-looking statements to reflect subsequent events or
+circumstances.
+
+COMPARISON OF FISCAL YEAR ENDED SEPTEMBER 30, 2002 TO FISCAL YEAR ENDED
+SEPTEMBER 30, 2001
+
+ Net Sales. Net sales for the year ended September 30, 2002 were 405.2
+million, which was 11.7 million or 2.8 lower than the year ended September 30,
+2001. The decrease in net sales resulted from weakness in the demand for
+industrial castings used for the HVAC market and an overall slowing of demand
+for castings in the Company's other major markets.
+
+ Gross Profit. Gross profit was 64.2 million in each of the years ended
+September 30, 2002 and 2001. Gross profit as a percentage of net sales increased
+to 15.8 during the year ended September 30, 2002 from 15.4 for the fiscal year
+ended September 30, 2001. Gross profit percentage was positively impacted during
+the year ended September 30, 2002 by modest reductions in raw material costs and
+improved efficiency in the manufacturing process.
+
+ Selling, General and Administrative Expenses. Selling, general and
+administrative expenses for the year ended September 30, 2002 were 29.3
+million, an increase of 1.3 million from the 28.0 million for the year ended
+September 30, 2001. As a percentage of net sales, selling, general and
+administrative expenses increased to 7.2 for the year ended September 30, 2002
+from 6.7 for the fiscal year ended September 30, 2001. The increase was due to
+increased professional fees paid in conjunction with debt refinancing and other
+corporate projects in 2002 and a favorable escrow refund received in 2001 which
+did not occur in 2002.
+
+ Amortization of intangible assets. Amortization of intangible assets for
+the year ended September 30, 2002 was 3.8 million, a decrease of 6.8 million
+from the 10.6 million for the year ended September 30, 2001. The decrease was
+due to the adoption of Statement of Financial Accounting Standards No. 142 (SFAS
+142) as of October 1, 2001. Under SFAS 142, goodwill is no longer amortized but
+instead is tested for impairment. Except for the discontinued operations of Cast
+Alloys, there was no deemed impairment of intangible assets.
+
+ Provision for impairment of assets. A provision for the impairment of
+long-lived assets of 5.5 million was recorded during the year ended September
+30, 2002 after the Company identified indicators of impairment at one of its
+foundries which is held for use. In accordance with SFAS No. 144, since the net
+book value of the foundries' long-lived assets exceeded the sum of the
+undiscounted cash flows expected to be realized from the respective assets, the
+Company recognized an impairment charge of 5.4 million to adjust the carrying
+value of the foundries' long-lived assets to fair value. The Company also
+recognized an impairment charge of 0.1 million related to a building held for
+sale.
+
+ Other expenses. Other expenses for the years ended September 30, 2002 and
+2001 consist of losses of 0.5 million and gains of 0.4 million, respectively,
+for the disposal of long-lived assets in the ordinary course of business.
+
+13
+
+Operating Income. Operating income was 25.1 million for the year ended
+September 30, 2002, a decrease of 0.9 million or 3.4 from the year ended
+September 30, 2001. The decrease was caused by a 1.3 million increase in
+selling, general and administrative expenses and the 5.5 million provision for
+impairment of assets noted above, partially offset by 6.8 million of lower
+amortization expense. As a percentage of net sales, operating income was 6.2 
+for each of the years ended September 30, 2002 and 2001.
+
+ Net Interest Expense. Net interest expense decreased to 43.1 million for
+the year ended September 30, 2002 from 43.5 million for the year ended
+September 30, 2001. The decreased interest expense resulted from the Company's
+principal debt repayments and lower interest rates on the Company's Senior Bank
+Facility, partially offset by the interest on the higher level of borrowings
+outstanding on the Company's Revolving Credit Facility during the year ended
+September 30, 2002 as compared to the year ended September 30, 2001.
+
+ Provision for Income Taxes. The credit for income taxes for the year ended
+September 30, 2002 is higher than the amount computed by applying the Company's
+statutory rate of approximately 40 to the loss before income taxes due to
+permanent differences related to the discontinuance of Cast Alloys.
+
+ Discontinued Operations. On October 2, 2000, the Company sold the common
+stock of Hartley. The disposition of Hartley resulted in a gain of 2.4 million,
+net of income taxes of 1.6 million, which was recorded during the year ended
+September 30, 2001.
+
+ Customer actions and the significant deterioration of the U.S. economy
+during the quarter ended December 31, 2001, had a dramatic effect on the
+operations of Cast Alloys. This resulted in a significant reduction in sales,
+operating profits and cash flows of Cast Alloys for the three months ended
+December 31, 2001. Based on these factors, a goodwill impairment charge of 10.7
+million was recognized during the three months ended December 31, 2001, related
+to the decline in fair value of Cast Alloys.
+
+ These events also had a significant impact on the value of Cast Alloys'
+fixed assets and long-lived assets with finite lives. Due to the existing
+impairment indicators, management assessed the recoverability of these fixed
+assets and long-lived assets. As the expected undiscounted cash flows were less
+than the carrying value of the related assets, an impairment charge of 20.4
+million was recognized for the difference between the fair value and carrying
+value of such assets during the year ended September 30, 2002.
+
+ In January 2002, management initiated a plan for the discontinuation of the
+operations of Cast Alloys by closing its manufacturing facilities. Severance
+costs of approximately 2.2 million associated with this plan were recognized
+during the three months ending March 31, 2002. All employees of Cast Alloys were
+terminated by April 2002. In accordance with the provisions of SFAS No. 144,
+"Accounting for the Impairment of Long-Lived Assets", the results of operations
+of Cast Alloys have been reported as discontinued operations in the consolidated
+statements of operations for all periods presented.
+
+COMPARISON OF FISCAL YEAR ENDED SEPTEMBER 30, 2001 TO FISCAL YEAR ENDED
+SEPTEMBER 30, 2000
+
+ Net Sales. Net sales for the year ended September 30, 2001 were 416.9
+million, which was 87.4 million or 17.3 lower than the year ended September
+30, 2000. The decrease in net sales resulted from significant weakness in the
+demand for industrial castings used for the heavy duty truck and HVAC markets
+and an overall slowing of demand for castings in the Company's other major
+markets.
+
+ Gross Profit. Gross profit for the year ended September 30, 2001 was 64.2
+million, a decrease of 33.5 million or 34.3 , as compared to the year ended
+September 30, 2000. Gross profit as a percentage of net sales decreased to 15.4 
+during the year ended September 30, 2001 from 19.4 for the fiscal year ended
+September 30, 2000. The decrease in gross profit resulted from lower sales
+volumes noted above and an inability, at the lower production and sales levels,
+to sufficiently absorb the overhead costs
+
+14
+
+necessary to effectively run the foundry operations. Gross profit percentage was
+also negatively impacted during the year ended September 30, 2001 by intense
+market pressure to reduce product pricing.
+
+ Selling, General and Administrative Expenses. Selling, general and
+administrative expenses for the year ended September 30, 2001 were 28.0
+million, a decrease of 5.6 million from the 33.6 million for the year ended
+September 30, 2000. The decrease was due to decreased corporate expense and the
+implementation of other cost cutting measures, including salary reductions and
+consolidation of facilities, in response to the decreased sales level. As a
+percentage of net sales, selling, general and administrative expenses were 6.7 
+for each of the years ended September 30, 2002 and 2001.
+
+ Amortization of intangible assets. Amortization of intangible assets for
+the year ended September 30, 2001 was 10.6 million, an increase of 0.1 million
+from the 10.5 million for the year ended September 30, 2000.
+
+ Other expenses. Other expenses for the years ended September 30, 2001 and
+2000 consist of gains of 0.4 million and losses of 0.1 million, respectively,
+for the disposal of long-lived assets in the ordinary course of business.
+
+ Operating Income. Operating income was 26.0 million for the year ended
+September 30, 2001, a decrease of 27.5 million or 51.4 from the year ended
+September 30, 2000. As a percentage of net sales, operating income was 6.2 for
+the year ended September 30, 2001, as compared to 10.6 for the year ended
+September 30, 2000. These decreases were caused by the reasons discussed above
+under gross profit, partially offset by decreased selling, general and
+administrative expenses
+
+ Net Interest Expense. Net interest expense increased from 43.4 million for
+the year ended September 30, 2000 to 43.5 million for the year ended September
+30, 2001. The increase in net interest expense resulted from interest on capital
+leases entered into during the second half of fiscal 2000 and interest on the
+increased borrowings outstanding on the Company's Revolving Credit Facility,
+partially offset by lower interest rates on the Company's Senior Bank
+Facilities.
+
+ Provision for Income Taxes. The credit for income taxes for the year ended
+September 30, 2001 is lower than the amount computed by applying the statutory
+rate of approximately 40 to loss before income taxes principally due to the
+amortization of goodwill, which is not deductible for income tax purposes.
+
+ Discontinued Operations. On October 2, 2000, the Company sold the common
+stock of Hartley. The disposition of Hartley resulted in a gain of 2.4 million,
+net of income taxes of 1.6 million, which was recorded during the year ended
+September 30, 2001. The results of operations of Hartley have been reported
+separately as discontinued operations in the consolidated statements of
+operations for all periods presented.
+
+15
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+ The Company has outstanding 284.8 million principal of 11 1/8 Senior
+Subordinated Notes due 2007 (the "Senior Subordinated Notes"). In addition, the
+Company has entered into a credit agreement (the "Senior Bank Facility" or
+"Credit Agreement"), as amended, providing for term loans in two tranches, with
+Tranche A maturing in September 2003 and Tranche B maturing in September 2005,
+an Acquisition Loan Facility maturing in June 2004 and a Revolving Credit
+Facility of up to 28.5 million maturing in September 2003. At September 30,
+2002, there is 28.5 million outstanding on the Revolving Credit Facility, 10.8
+million outstanding on the Acquisition Loan Facility and 117.3 million
+outstanding under the term loans. The Company also has outstanding a 9.9
+million PIK Note maturing in December, 2005.
+
+ The Company's liquidity needs will arise primarily from debt service on the
+above indebtedness, working capital needs and the funding of capital
+expenditures. Borrowings under the Senior Bank Facility bear interest at
+variable interest rates. Both the Senior Bank Facility and the indentures
+governing the Senior Subordinated Notes limit the Company's ability to incur
+additional indebtedness. The covenants contained in the Senior Bank Facility
+also, among other things, restrict the ability of the Company and its
+subsidiaries to dispose of assets, incur guarantee obligations, prepay the
+Senior Subordinated Notes or amend its indentures, pay dividends, create liens
+on assets, enter into sale and leaseback transactions, make investments, loans
+or advances, make acquisitions, engage in mergers or consolidations, change the
+business conducted by the Company, engage in certain transactions with
+affiliates, and otherwise restrict corporate activities. These covenants also
+require the Company to maintain leverage, net worth and interest coverage
+ratios. Effective December 31, 2001, the Credit Agreement was amended to provide
+relief from the above financial ratio covenants through December 31, 2003, to
+reduce the amount of the Revolving Credit Facility from 50.0 million to 28.5
+million and define minimum EBITDA and liquidity covenants. At September 30,
+2002, the Company is in compliance with existing bank covenants.
+
+ In conjunction with the amendment of the Credit Agreement, in April 2002,
+the Company received cash of 9.9 million from its parent company in exchange
+for the issuance of a PIK note with principal plus 14 annual interest payable
+at the maturity date of December 31, 2005.
+
+ For the years ended September 30, 2002, 2001 and 2000, capital expenditures
+were 9.1 million, 16.9 million, and 19.3 million, respectively. During the
+year ended September 30, 2000, the Company incurred additional capital
+expenditures of 13.3 million, which the Company financed by entering into
+capital leases. The Company did not enter into any capital leases during the
+years ended September 30, 2002 and 2001. The decrease in capital expenditures
+during the year ended September 30, 2002 was the result of tighter spending
+controls placed on capital expenditures.
+
+ The Company's principal source of cash to fund its liquidity needs will be
+net cash from operating activities and borrowings under its Senior Bank
+Facilities. Net cash provided by operating activities for the years ended
+September 30, 2002 and 2001 was 16.4 million and 9.3 million, respectively.
+The increase in net cash provided by operating activities for the year ended
+September 30, 2002 was due to an acceleration of account receivable collections
+and the implementation of inventory reduction programs at some of the subsidiary
+companies. Net cash from operating activities for the year ended September 30,
+2001 was 9.3 million, a decrease of 20.2 million from 29.5 million for the
+year ended September 30, 2000, primarily as a result of decreased operating
+income, which was caused by lower sales volume and an inability to absorb
+overhead costs at the reduced sales level, and a slowdown in accounts receivable
+collections.
+
+16
+
+The Company believes that cash generated from operations and existing
+revolving lines of credit under the Senior Bank Facilities will be sufficient to
+meet its normal operating requirements for fiscal 2003, including working
+capital needs and interest payments on the Company's outstanding indebtedness.
+In fiscal 2003, the Company anticipates receiving an income tax refund of
+approximately 18.4 million from the carryback of net operating losses which
+will assist the Company in generating sufficient cash to meet its operating
+requirements.
+
+ Amounts under the Revolving Credit Facility may be used for working capital
+and general corporate purposes, subject to certain limitations under the Senior
+Bank Facilities. Although the maximum amount available under the Revolving
+Credit Facility has been reduced to the current borrowing level, the Company
+believes that it has adequate resources, together with the potential future use
+of debt or equity financing, to allow the Company to pursue its strategic goals
+of growth and returning to acceptable levels of profitability. The Company's
+ability to utilize future debt or equity financing is subject to risks such as
+the demand for such instruments and the risk of interest rate fluctuations.
+
+CRITICAL ACCOUNTING POLICIES
+
+ Our accounting policies are more fully described in Note 1 of notes to
+consolidated financial statements included herein. As disclosed in Note 1 of
+notes to consolidated financial statements, the preparation of financial
+statements in conformity with accounting principles generally accepted in the
+United States requires us to make estimates and assumptions about future events
+that affect the amounts reported in the financial statements and accompanying
+notes. Future events and their effects cannot be determined with absolute
+certainty. Therefore, the determination of estimates requires the exercise of
+judgment. Actual results inevitably will differ from those estimates, and such
+differences may be material to the financial statements.
+
+ The most significant accounting estimates inherent in the preparation of
+our financial statements include estimates associated with the evaluation of the
+recoverability of certain assets including goodwill, other intangible assets and
+fixed assets as well as those estimates used in the determination of reserves
+related to the allowance for doubtful accounts, obsolescence, workers
+compensation and pensions and other post-retirement benefits. Various
+assumptions and other factors underlie the determination of these significant
+estimates. In addition to assumptions regarding general economic conditions, the
+process of determining significant estimates is fact specific and takes into
+account factors such as historical experience, product mix, and in some cases,
+actuarial techniques. We constantly reevaluate these significant factors and
+make adjustments where facts and circumstances dictate. Historically, actual
+results have not significantly deviated from those determined using the
+estimates described above.
+
+The Company believes the following critical accounting policies affect its more
+significant judgments and estimates used in the preparation of its consolidated
+financial statements:
+
+- - Impairment of long-lived assets. The Company determined that the carrying
+ value of the long-lived assets of one of its foundries is no longer
+ recoverable based on the undiscounted cash flows expected to be realized
+ from the respective assets. As a result, the Company recognized an
+ impairment charge of 5.4 million during the year ended September 30, 2002.
+ The long-lived assets have a post-impairment carrying value of 7.3
+ million. Changes in estimates of future cash flows used to test the assets
+ for recoverability could have a significant effect on the amount ultimately
+ realized from these long-lived assets.
+
+17
+
+- - Defined-Benefit Pension Plans. The Company accounts for its defined benefit
+ pension plans in accordance with SFAS No. 87, "Employers' Accounting for
+ Pensions" which requires that amounts recognized in financial statements be
+ determined on an actuarial basis. The most significant element in
+ determining the Company's pension expense in accordance with SFAS 87 is the
+ expected return on plan assets. The Company has assumed that the expected
+ long-term rate of return on plan assets will be 6.75 to 9.00 , depending
+ on the plan. Over the long term, the Company's pension plan assets have
+ earned in excess of these rates; therefore, the Company believes that its
+ assumption of future returns is reasonable. However, the plan assets have
+ earned a rate of return substantially less than these rates in the last two
+ years. Should this trend continue, future pension expense would likely
+ increase. At the end of each year, the Company determines the discount rate
+ to be used to discount plan liabilities. In developing this rate, the
+ Company uses the Moody's Average AA Corporate Bonds index. At September 30,
+ 2002, the Company determined the discount rate to be 6.75 . Changes in
+ discount rates over the past few years have not materially affected pension
+ expense. The net effect of changes in this rate, as well as other changes
+ in actuarial assumptions and experience, have been deferred as allowed by
+ SFAS 87. This has had a significant negative effect on the reported net
+ worth of the Company.
+
+- - Other Postretirement Benefits. We provide retiree health benefits to
+ qualified employees under an unfunded plan. We use various actuarial
+ assumptions including the discount rate and the expected trend in health
+ care costs and benefit obligations for our retiree health plan. Consistent
+ with our pension plans, we used a discount rate of 6.75 . In 2002, our
+ assumed healthcare cost trend rate was 7.5 decreasing gradually to 4.5 in
+ 2011 and then remaining at that level thereafter. Changes in these rates
+ could materially affect future operating results and net worth of the
+ Company.
+
+Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+ The Company is exposed to market risk related to changes in interest rates.
+The Company does not use derivative financial instruments for speculative,
+hedging or trading purposes.
+
+ Interest Rate Sensitivity. The Company's earnings are affected by changes
+in short-term interest rates as a result of its borrowings under the Senior Bank
+Facilities. If market interest rates for such borrowings averaged 1 more during
+the fiscal year ended September 30, 2003 than they did during fiscal 2002, the
+Company's interest expense would increase, and income before income taxes would
+decrease by approximately 1.6 million. This analysis does not consider the
+effects of the reduced level of overall economic activity that may exist in such
+an environment. Further, in the event of a change of such magnitude, management
+could take actions to further mitigate its exposure to such change. However, due
+to the uncertainty of the specific actions that would be taken and their
+possible effects, the sensitivity analysis assumes no changes in the Company's
+financial structure.
+
+Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+ The financial statements and schedules are listed in Part IV Item 14 of
+this Form 10-K.
+
+Item 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+ FINANCIAL DISCLOSURE.
+
+ None.
+
+18
+
+Part III
+
+Item 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+ The following sets forth certain information as of September 30, 2002, with
+respect to the persons who are members of the Board of Directors and executive
+officers.
+
+Name Age Position
+ ---- --- --------
+ 
+William M. Barrett 55 President and Chief Executive Officer, Director
+Gary W. LaChey 56 Corporate Vice President - Finance
+Charles M. Kurtti 65 Executive Vice President
+Phillip C. Zehner 60 Vice President, Secretary and Treasurer
+Brenton F. Halsey 73 Director
+David F. Thomas 52 Director
+John D. Weber 38 Director
+
+Mr. Barrett is President and Chief Executive Officer of the Company, a
+position he has held since May 15, 2000. Mr. Barrett joined the Company in 1992
+serving as General Sales Manager - Industrial Castings until May 1, 1997. Mr.
+Barrett was Vice President and General Manager from May 1, 1997 to September 30,
+1998 and President from October 1, 1998 to April 30, 2000. From 1985 to 1992,
+Mr. Barrett was the Vice President - Sales for Harvard Industries Cast Products
+Group. Mr. Barrett has also been a director of the Company since May, 2000.
+
+ Mr. LaChey is Corporate Vice President - Finance of the Company, a position
+he has held since June 1, 2000. Mr. LaChey joined the Company in 1971, serving
+in a variety of positions of increasing responsibility in the finance
+department. Mr. LaChey was most recently Vice President - Finance, Treasurer and
+Secretary of the Company.
+
+ Mr. Kurtti was Executive Vice President of the Company, a position he had
+held since July 2000. Mr. Kurtti joined the Company in 1976 as a salesman. Mr.
+Kurtti has served as Director of Marketing, Director of Purchasing -
+Engineering, Director - Manufacturing and Engineering and Vice President -
+Manufacturing and Engineering. Mr. Kurtti retired from the Company in May, 2002.
+
+ Mr. Zehner is Vice President, Secretary and Treasurer for the Company, a
+position he has held since June 1, 2000. Mr. Zehner joined the Company in 1974,
+serving in a variety of positions of increasing responsibility in the finance
+department.
+
+ Mr. Halsey is a director of the Company, a position he has held since May
+1, 1997. Mr. Halsey was the founding Chief Executive Officer and Chairman of the
+James River Corporation from 1969 to 1990. He continued as Chairman until 1992
+when he became Chairman Emeritus. Mr. Halsey has expressed his intention to
+retire during 2003 and a replacement director will be appointed at the time of
+his retirement.
+
+ Mr. Thomas is a director of the Company, a position he has held since May
+1, 1997. Mr. Thomas has been a Managing Director of Citicorp Venture Capital,
+Ltd. since 1991. Mr. Thomas is a director of Lifestyles Furnishings
+International Ltd., Galey & Lord, Inc., Anvil Knitwear, Inc. and a number of
+private companies.
+
+ Mr. Weber is a director of the Company, a position he has held since May 1,
+1997. Since 1994, Mr. Weber has been employed at Citicorp Venture Capital, Ltd.,
+first as Vice President and currently as Managing Director. Previously, Mr.
+Weber worked at Putnam Investments from 1992 through 1994. Mr. Weber is a
+director of Anvil Knitwear, Inc. and a number of private companies.
+
+19
+
+ITEM 11. Executive Compensation
+
+ The compensation of executive officers of the Company is determined by the
+Board of Directors of the Company. The following table sets forth information
+concerning compensation received by the officers of the Company for services
+rendered in the fiscal years ended September 30, 2002, 2001 and 2000. Directors
+of the Company do not receive compensation for their services as directors. They
+are reimbursed for their out-of-pocket expenses in connection with their travel
+to and attendance at meetings of the board of directors.
+
+Long-Term Compensation
+ ----------------------
+ Other All
+ Annual Compensation Annual Restricted Securities Other
+ Name and Principal Fiscal ------------------- Compen- Stock Underlying LTIP Compen-
+ Position Year Salary Bonus sation(1) Awards Options/SARs Payouts sation
+ -------- ---- ------ ----- --------- ------ ------------ ------- -------
+ 
+William M. Barrett 2002 306,254 -- 35,684 -- -- -- --
+ President and Chief 2001 275,000 -- 33,048
+ Executive Officer 2000 275,000 99,418 31,866
+
+Gary W. LaChey 2002 219,374 -- 35,110 -- -- -- --
+ Corporate Vice 2001 208,334 -- 33,680
+ President - Finance 2000 200,000 58,568 31,452
+
+Charles M. Kurtti 2002 182,000 37,774 35,271 -- -- -- --
+ Executive Vice 2001 176,174 48,319 34,321
+ President 2000 167,500 87,549 32,743
+
+Phillip C. Zehner 2002 129,000 19,124 32,701 -- -- -- --
+ Vice President, 2001 125,800 26,312 30,902
+ Secretary and 2000 109,200 37,459 29,021
+ Treasurer
+
+Joseph L. DeRita 2002 224,000 -- 18,015 -- -- -- --
+ President- 2001 224,000 -- 19,182
+ Dalton Corporation 2000 218,000 92,887 18,915
+
+(1) The named officers have participated in the Company's voluntary profit
+ sharing contributions or matching 401(k) contributions, and excess benefit
+ programs. The aggregate payments made by the Company pursuant to such
+ employee benefit programs are listed as Other Annual Compensation.
+
+20
+
+MANAGEMENT INCENTIVE PLAN
+
+ The Company provides performance-based compensation awards to executive
+officers and key employees for achievement during each year as part of a bonus
+plan. Such compensation awards may be a function of individual performance and
+consolidated corporate results. The qualitative and quantitative criteria will
+be determined from time to time by the Board of Directors of the Company.
+
+MANAGEMENT EQUITY PARTICIPATION
+
+ Certain Management Investors have acquired units representing membership
+interests in ACP Products, L.L.C., which represent, in the aggregate,
+approximately a ten percent beneficial interest in the Company (the "Purchased
+Interests"). Neenah is owned by NFC Castings, Inc., which is a wholly owned
+subsidiary of ACP Holdings which in turn is wholly owned by ACP Products, L.L.C.
+In addition, in connection with certain of the acquisitions, certain senior
+managers of certain of the subsidiaries purchased common interests in ACP
+Products, L.L.C. The Management Investors and certain other employees of the
+Company may be given the opportunity to purchase additional Purchased Interests
+either in connection with future acquisitions or otherwise.
+
+ Upon the termination of employment with the Company, an employee's
+Purchased Interests will be subject to certain repurchase provisions exercisable
+by ACP Products, L.L.C. or its designees. Any Purchased Interests issued in the
+future are expected to be subject to rights and restrictions similar to those of
+the Purchased Interests purchased in connection with the Merger. The price of
+the future Purchased Interests will be established by ACP Products, L.L.C. in
+consultation with the Board of Directors of the Company or a compensation
+committee thereof.
+
+Item 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+ The Company's authorized capital stock consists of (a) 11,000 shares of
+common stock of Neenah Foundry Company, par value 100 per share (the "Common
+Stock"), 1,000 shares of which are issued and outstanding and owned by NFC
+Castings, Inc. and are pledged to the lenders under the Senior Bank Facilities;
+(b) 3,000 shares of preferred stock, par value 100 per share, none of which are
+issued or outstanding.
+
+ The Company's authorized preferred stock consists of 3,000 shares of
+preferred stock, par value 100 per share. There are no issued or outstanding
+shares of preferred stock.
+
+ The outstanding common units of ACP Products, L.L.C. consist of 102,070
+Class A-3 Common Units (the "Class A Common Units"), 929,391 Class B-3 Common
+Units (the "Class B Common Units") and 713,637 Class C-3 Common Units (the
+"Class C Common Units"), and together with the Class A "Common Units" and the
+Class B Common Units, the "Common Units"). Holders of Class A Common Units are
+entitled to one vote per Class A Common Unit on all matters to be voted upon by
+the holders of Class A Common Units. Holders of Class C Common Units are
+entitled to a number of votes per Class C Common Unit based on the total number
+of Class C Common Units outstanding, on all matters to be voted upon by the
+holders of Class C Common Units. Holders of Class B Common Units have no right
+to vote on any matters to be voted on by holders of Common Units. Holders of
+Class B Common Units may elect at any time to convert any or all of such Units
+into Class A Common Units, on a Common Unit-for-Common-Unit basis.
+
+21
+
+Set forth below is certain information regarding the beneficial
+ownership as of September 30, 2002 of Class A Common Units and Class C Common
+Units, respectively, by each person who beneficially owns 5.0 or more of the
+outstanding Class A Common Units or Class C Common Units, each director and
+named executive officer and all directors and named executive officers as a
+group. Except as indicated below, the address for each of the persons listed
+below is c/o Neenah Foundry Company, 2121 Brooks Avenue, Box 729, Neenah,
+Wisconsin 54957.
+
+Percentage Percentage
+ Number of Number of of Voting of Voting Total
+ Voting Class Voting Class Class A Class C Voting
+NAME AND ADDRESS OF BENEFICIAL A Common C Common Common Common Percentage
+OWNER Units Units Units Units (1)
+- ------------------------------------------- ------------- ------------ ----------- ----------- -----------
+
+Citicorp Venture Capital, Ltd. 81,000(2) -- 79.35 -- 36.79 
+399 Park Avenue
+New York, New York 10043
+
+Metropolitan Life Insurance Co. 5,000(3) -- 4.90 -- 2.27 
+One Madison Avenue
+New York, New York 10010
+
+William M. Barrett -- 170,000 -- 23.82 12.78 
+
+Gary W. LaChey -- 130,000 -- 18.22 9.78 
+
+Charles M. Kurtti -- 130,000 -- 18.22 9.78 
+
+Phillip C. Zehner -- -- -- -- --
+
+Joseph L. DeRita -- 55,000 -- 7.71 4.14 
+
+Brenton F. Halsey 7,070 -- 6.93 -- 3.21 
+
+David F. Thomas 84,167(4) -- 82.46 -- 38.23 
+
+John D. Weber 81,169(5) -- 79.52 -- 36.87 
+
+Directors and named executive officers as
+a group 91,406 485,000 89.55 67.97 78.00 
+
+(1) Each holder of Class C Common Units is entitled to approximately 0.17
+ votes per Class C Common Unit.
+
+(2) Does not include 754,779 Class B Common Units, which are convertible at
+ any time into the same number of Class A Common Units.
+
+(3) Does not include 78,712 Class B Common Units, which are convertible at
+ any time into the same number of Class A Common Units.
+
+(4) Includes (a) Class A Common Units beneficially owned by Mr. Thomas and
+ (b) 81,000 Class A Common Units beneficially owned by Citicorp Venture
+ Capital, Ltd. and certain affiliated individuals and entities,
+ (collectively, "CVC"). Does not include 754,779 Class B Common Units
+ beneficially owned by CVC or 32,526 Class B Common Units beneficially
+ owned by Mr. Thomas, which Class B Common Units are convertible at any
+ time into the same number of Class A Common Units. Mr. Thomas is a
+ managing director of CVC. Mr. Thomas disclaims beneficial ownership of
+ the Class A Common Units and Class B Common Units beneficially owned by
+ CVC, except to the extent of his pecuniary interest therein.
+
+(5) Includes (a) Class A Common Units beneficially owned by Mr. Weber and
+ (b) 81,000 Class A Common Units beneficially owned by CVC. Does not
+ include 754,779 Class B Common Units beneficially owned by CVC or 4,228
+ Class B Common Units beneficially owned by Mr. Weber, which Class B
+ Common Units are convertible at any time into the same number of Class
+ A Common Units. Mr. Weber is a managing director of CVC. Mr. Weber
+ disclaims beneficial ownership of the Class A Common Units and Class B
+ Common Units beneficially owned by CVC, except to the extent of his
+ pecuniary interest therein.
+
+22
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+RELATIONSHIP WITH ACP HOLDINGS
+
+ ACP Products, L.L.C. holds all of the issued and outstanding shares of
+capital stock of ACP Holdings. ACP Holdings is the parent company of NFC
+Castings, Inc., and thus ACP Holdings indirectly owns 100 of the Common Stock
+of the Company. William M. Barrett, who serves as the President and Chief
+Executive Officer of the Company, currently serves as President and Chief
+Executive Officer of ACP Holdings.
+
+SHAREHOLDER RELATIONSHIPS
+
+ The Management Investors and certain institutional investors, including
+Citicorp Venture Capital, Ltd., are parties to the Fifth Amended and Restated
+Limited Liability Agreement of ACP Products, L.L.C. (the "L.L.C. Agreement").
+The L.L.C. Agreement contains certain provisions with respect to the beneficial
+equity interests and corporate governance of the Company. The L.L.C. Agreement
+provides that the Investor Group and the Management Investors, as the only
+members of ACP Products, L.L.C. holding beneficial interests in the Company,
+have the right to direct all actions taken in respect of NFC Castings, Inc. and
+the Company, including, without limitation, appointing members of the Board of
+Directors of the Company and of NFC Castings, Inc..
+
+CONTRIBUTION OF ACP CAPITAL STOCK
+
+ On September 8, 1998, the capital stock of ACP was contributed to the
+Company by ACP Holdings. In connection with the contribution, the Company
+assumed 14.6 million of indebtedness of ACP, which was refinanced through
+borrowings of Tranche A Loans. In connection with the contribution of the
+capital stock of ACP to the Company, (i) NFC Castings, Inc. issued a 4.2
+million senior subordinated note to CVC in exchange for a 4.2 million current
+pay obligation of ACP to CVC and (ii) 6.7 million of outstanding subordinated
+debt of ACP to ACP Holdings and NFC Castings, Inc. was contributed to the
+capital of ACP.
+
+REGISTRATION RIGHTS AGREEMENT
+
+ The Company entered into a registration rights agreement (the "Registration
+Rights Agreement") with the Investor Group and the Management Investors.
+Pursuant to the terms of the Registration Rights Agreement, certain holders of
+the Company's Common Stock have the right to require the Company, at the
+Company's sole cost and expense and subject to certain limitations, to register
+under the Securities Act of 1933, as amended, or list on any recognized stock
+exchange all or part of the Common Stock beneficially owned by such holders (the
+"Registrable Securities"). All such holders will be entitled to participate in
+all registrations by the Company or other holders, subject to certain
+limitations. In connection with all such registrations, the Company agreed to
+indemnify all beneficial owners of Registrable Securities against certain
+liabilities, including liabilities under the Securities Act of 1933, as amended,
+and other applicable state or foreign securities laws. Registrations pursuant to
+the Registration Rights Agreement will be made, if applicable, on the
+appropriate registration form and may be underwritten registrations.
+
+23
+
+EMPLOYMENT AGREEMENTS
+
+ The Company, ACP, ACP Holdings and ACP Products, L.L.C. entered into an
+executive employment and consulting agreement with James K. Hildebrand dated as
+of September 15, 1998. Such agreement provided for (i) an initial term of
+employment until September 30, 2001 after which, barring termination by the
+Company under certain circumstances (including gross negligence, willful
+misconduct and commission of certain crimes), Mr. Hildebrand will serve as a
+consultant to the Company for a period of two years with automatic renewal,
+subject to earlier termination notice by either party, for successive one year
+periods up to an additional three years; (ii) a minimum base salary of 500,000
+and a bonus to be calculated based on achieved EBITDA performance so long as Mr.
+Hildebrand is employed by the Company; (iii) severance benefits; (iv)
+non-competition, non-solicitation and confidentiality agreements; (v) an option
+to purchase certain common membership units of ACP Products L.L.C.; and (vi)
+other terms and conditions of Mr. Hildebrand's employment including health
+benefits. Mr. Hildebrand resigned his position in May, 2000. At that time, the
+Company recorded severance benefits payable to Mr. Hildebrand under the terms of
+the above agreement.
+
+ITEM 14. CONTROLS AND PROCEDURES
+
+(a) Evaluation of disclosure controls and procedures. In accordance with Rule
+13a-15(b) of the Securities Exchange Act of 1934 (the "Exchange Act"), within 90
+days prior to the filing date of this annual report on Form 10-K, an evaluation
+was carried out under the supervision and with the participation of the
+Company's management, including the Company's President and Chief Executive
+Officer and Corporate Vice President - Finance, of the effectiveness of the
+design and operation of the Company's disclosure controls and procedures (as
+defined in Rule 13a-14 (c) under the Exchange Act). Based upon their evaluation
+of these disclosure controls and procedures, the President and Chief Executive
+Officer and Corporate Vice President - Finance concluded that the disclosure
+controls and procedures were effective as of the date of such evaluation to
+ensure that material information relating to the Company, including its
+consolidated subsidiaries, was made known to them by others within those
+entities, particularly during the period in which this Annual Report on Form
+10-K was being prepared. One of the consolidated subsidiaries had inadequate
+controls and procedures at the time the Company acquired it. The Company has
+made substantial progress to resolve these inadequacies and is continuing to
+address them. This issue was considered in the evaluation of disclosure controls
+and procedures for the Company but did not affect the conclusion referred to
+above.
+
+(b) Changes in internal controls. There were no significant changes in the
+Company's internal controls or other factors that could significantly affect
+these controls subsequent to the date of their evaluation, including any
+corrective actions with regard to significant deficiencies and material
+weaknesses.
+
+24
+
+Part IV
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K.
+
+Page
+ ----
+ 
+(a) (1) Consolidated Financial Statements of Neenah Foundry Company
+
+ Report of Ernst & Young LLP, Independent Auditors 34
+
+ Consolidated Balance Sheets 35
+
+ Consolidated Statements of Operations 37
+
+ Consolidated Statements of Changes in Stockholder's Equity (Deficit) 38
+
+ Consolidated Statements of Cash Flows 39
+
+ Notes to Consolidated Financial Statements 41
+
+ (2) Financial Statements Schedules
+
+ Report of Ernst & Young LLP, Independent Auditors 70
+
+ Schedule II - Valuation and Qualifying Accounts of Neenah Foundry Company 71
+
+Schedules I, III, IV, and V are omitted since they are not applicable or not
+required under the rules of Regulation S-X.
+
+(b) Reports on Form 8-K.
+
+ The Company did not file any reports on Form 8-K during the quarter
+ ended September 30, 2002.
+
+(c) Exhibits
+
+ See Exhibit Index.
+
+25
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized in the City of Neenah,
+State of Wisconsin, on December 20, 2002.
+
+NEENAH FOUNDRY COMPANY
+
+(Registrant)
+
+ /s/Gary W. LaChey
+ ------------------------------
+ Gary W. LaChey
+ Corp. Vice President - Finance
+
+ (Principal Financial and Principal
+ Accounting Officer)
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below on December 20, 2002, by the following persons on behalf
+of the registrant and in the capacities indicated.
+
+ /s/William M. Barrett /s/ Brenton F. Halsey
+- ---------------------------- -----------------------------
+ William M. Barrett Brenton F. Halsey
+ President and Director
+Chief Executive Officer, Director
+ (Principal Executive Officer)
+
+ /s/ David F. Thomas /s/ Gary W. LaChey
+- ---------------------------- ----------------------------
+ David F. Thomas Gary W. LaChey
+ Director Corp. Vice President - Finance
+ (Principal Financial and Principal
+ Accounting Officer)
+
+/s/ John D. Weber
+ -----------------------
+ John D. Weber
+ Director
+
+26
+
+CERTIFICATIONS
+
+I, William M. Barrett, President and Chief Executive Officer of Neenah Foundry
+Company, certify that:
+
+1. I have reviewed this annual report on Form 10-K of Neenah Foundry
+ Company.
+2. Based on my knowledge, this annual report does not contain any untrue
+ statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which
+ such statements were made, not misleading with respect to the period
+ covered by this annual report;
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this annual report, fairly present in all
+ material respects the financial condition, results of operations and
+ cash flows of the registrant as of, and for, the periods presented in
+ this annual report;
+4. The registrant's other certifying officers and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-14 and 15d-14) for the registrant and
+ we have:
+
+ a) designed such disclosure controls and procedures to
+ ensure that material information relating to the
+ registrant, including its consolidated subsidiaries,
+ is made known to us by others within those entities,
+ particularly during the period in which this annual
+ report is being prepared;
+ b) evaluated the effectiveness of the registrant's
+ disclosure controls and procedures as of a date
+ within 90 days prior to the filing date of this
+ annual report (the "Evaluation Date"); and
+ c) presented in this annual report our conclusions about
+ the effectiveness of the disclosure controls and
+ procedures based on our evaluation as of the
+ Evaluation Date;
+
+5. The registrant's other certifying officers and I have disclosed, based
+ on our most recent evaluation, to the registrant's auditors and the
+ audit committee of the registrant's board of directors (or persons
+ performing the equivalent functions):
+
+ a) all significant deficiencies in the design or
+ operation of internal controls which could adversely
+ affect the registrant's ability to record, process,
+ summarize and report financial data and have
+ identified for the registrant's auditors any material
+ weaknesses in internal controls; and
+ b) any fraud, whether or not material, that involves
+ management or other employees who have a significant
+ role in the registrant's internal controls; and
+
+6. The registrant's other certifying officers and I have indicated in
+ this annual report whether or not there were significant changes in
+ internal controls or in other factors that could significantly affect
+ internal controls subsequent to the date of our most recent
+ evaluation, including any corrective actions with regard to
+ significant deficiencies and material weaknesses.
+
+Date: December 20, 2002
+
+/s/William M. Barrett
+ ------------------------------
+ William M. Barrett
+ President and Chief Executive Officer
+
+27
+
+CERTIFICATIONS
+
+I, Gary W. LaChey, Corporate Vice President - Finance of Neenah Foundry Company,
+certify that:
+
+1. I have reviewed this annual report on Form 10-K of Neenah Foundry
+ Company.
+2. Based on my knowledge, this annual report does not contain any untrue
+ statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which
+ such statements were made, not misleading with respect to the period
+ covered by this annual report;
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this annual report, fairly present in all
+ material respects the financial condition, results of operations and
+ cash flows of the registrant as of, and for, the periods presented in
+ this annual report;
+4. The registrant's other certifying officers and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-14 and 15d-14) for the registrant and
+ we have:
+
+ a) designed such disclosure controls and procedures to
+ ensure that material information relating to the
+ registrant, including its consolidated subsidiaries,
+ is made known to us by others within those entities,
+ particularly during the period in which this annual
+ report is being prepared;
+ b) evaluated the effectiveness of the registrant's
+ disclosure controls and procedures as of a date
+ within 90 days prior to the filing date of this
+ annual report (the "Evaluation Date"); and
+ c) presented in this annual report our conclusions about
+ the effectiveness of the disclosure controls and
+ procedures based on our evaluation as of the
+ Evaluation Date;
+
+5. The registrant's other certifying officers and I have disclosed, based
+ on our most recent evaluation, to the registrant's auditors and the
+ audit committee of the registrant's board of directors (or persons
+ performing the equivalent functions):
+
+ a) all significant deficiencies in the design or
+ operation of internal controls which could adversely
+ affect the registrant's ability to record, process,
+ summarize and report financial data and have
+ identified for the registrant's auditors any material
+ weaknesses in internal controls; and
+ b) any fraud, whether or not material, that involves
+ management or other employees who have a significant
+ role in the registrant's internal controls; and
+
+6. The registrant's other certifying officers and I have indicated in this
+ annual report whether or not there were significant changes in internal
+ controls or in other factors that could significantly affect internal
+ controls subsequent to the date of our most recent evaluation,
+ including any corrective actions with regard to significant
+ deficiencies and material weaknesses.
+
+Date: December 20, 2002
+
+/s/Gary W. LaChey
+ --------------------------
+ Gary W. LaChey
+ Corporate Vice President- Finance
+
+28
+
+EXHIBIT INDEX
+EXHIBITS
+- --------
+
+2.1 Agreement and Plan of Reorganization, dated November 20, 1996, by and
+ among NFC Castings, Inc., NC Merger Company and Neenah Corporation. 
+2.2 First Amendment to Agreement and Plan of Reorganization, dated as of
+ January 13, 1997, by and among NFC Castings, Inc., NC Merger Company
+ and Neenah Corporation. 
+2.3 Second Amendment to Agreement and Plan of Reorganization, dated as of
+ February 21, 1997, by and among NFC Castings, Inc., NC Merger Company
+ and Neenah Corporation. 
+2.4 Third Amendment to Agreement and Plan of Reorganization, dated as of
+ April 3, 1997, by and among NFC Castings, Inc., NC Merger Company and
+ Neenah Corporation. 
+2.5 Merger Agreement, made as of July 1,1997, by and between Neenah
+ Corporation and Neenah Foundry Company. 
+2.6 Stock Purchase Agreement for the acquisition of Deeter Foundry, Inc.
+ dated as of March 26, 1998 by and among Neenah Foundry Company and the
+ Selling Shareholders of Deeter Foundry, Inc. (incorporated by reference
+ to the Company's Form 10-Q for the period ended March 31, 1998 filed on
+ May 14, 1998.)
+2.7 Stock Purchase Agreement for the acquisition of Mercer dated as of
+ April 3, 1998 by and among Neenah Foundry Company, Mercer Forge
+ Corporation and the Selling Shareholders of Mercer (incorporated by
+ reference to the Company's Form 8-K filed on April 14, 1998.)
+2.8 Stock Purchase Agreement for the acquisition of Dalton dated as of
+ August 7, 1998 by and among Neenah Foundry Company, Dalton Corporation
+ and the Dalton Corporation Employee Stock Ownership Plan and Trust
+ (incorporated by reference to the Company's Form 8-K filed on September
+ 21, 1998.)
+2.9 Stock Purchase Agreement dated as of December 3, 1998 among Niemin
+ Porter & Co. d/b/a Cast Alloys, Inc., the Sellers as defined therein
+ and Neenah Foundry Company. 
+2.10 First Amendment to the Stock Purchase Agreement dated December 30, 1998
+ among Niemin Porter & Co. d/b/a Cast Alloys, Inc., the Sellers as
+ defined therein and Neenah Foundry Company. 
+3.1 Restated Articles of Incorporation of Neenah Foundry Company. 
+3.2 By-laws of Neenah Foundry Company. 
+3.3 (Intentionally omitted.)
+3.4 (Intentionally omitted.)
+3.5 Restated Articles of Incorporation of Hartley Controls Corporation. 
+3.6 By-laws of Hartley Controls Corporation. 
+3.7 Restated Articles of Incorporation of Neenah Transport, Inc. 
+3.8 By-laws of Neenah Transport, Inc. 
+4.1 Indenture dated as of April 30, 1997 among NC Merger Company and United
+ States Trust Company of New York. 
+4.2 Purchase Agreement dated as of April 23, 1997 among NC Merger Company,
+ Chase Securities Inc. and Morgan Stanley & Co. Incorporated. 
+4.3 Exchange and Registration Rights Agreement dated as of April 30, 1997
+ among Neenah Corporation, Neenah Foundry Company, Hartley Controls
+ Corporation and Neenah Transport, Inc. and Chase Securities, Inc. 
+4.4 First Supplemental Indenture, dated as of April 30, 1997 among Neenah
+ Corporation, Neenah Foundry Company, Neenah Transport, Inc. and Hartley
+ Controls Corporation and United States Trust Company of New York. 
+4.5 Letter Agreement, dated as of April 30, 1997 among Neenah Corporation,
+ Neenah Foundry Company, Hartley Controls Corporation and Neenah
+ Transport, Inc. and Chase Securities Inc. and Morgan Stanley & Co.
+ Incorporated. 
+4.6 Form of Global Note relating to the Indenture dated as of April 23,
+ 1997. 
+
+29
+
+4.7 Indenture dated as of July 1, 1997 among Neenah Corporation, Neenah
+ Foundry Company, Neenah Transport, Inc., Hartley Controls Corporation
+ and United States Trust Company of New York. 
+4.8 Purchase Agreement dated as of June 26, 1997 among Neenah Corporation,
+ Neenah Foundry Company, Hartley Controls Corporation, Neenah Transport,
+ Inc. and Chase Securities Inc. 
+4.9 Exchange and Registration Rights Agreement dated as of July 1, 1997 by
+ and between Neenah Corporation, Neenah Foundry Company, Hartley
+ Controls Corporation, Neenah Transport, Inc. and Chase Securities, Inc.
+ 
+4.10 Form of Global Note related to the Indenture dated as of July 1, 1997.
+ 
+4.11 Indenture dated as of November 24, 1998 among Neenah Foundry Company,
+ Neenah Transport, Inc., Hartley Controls Corporation, the
+ Guarantors and United States Trust Company of New York. 
+10.1 Master Lease Agreement between Neenah Foundry Company and Bank One
+ Leasing Corporation dated December 14, 1992. 
+10.2 Agreement between Neenah Foundry Company and Rockwell International
+ Corporation effective April 1, 1995. 
+10.3 Letter Agreement between Neenah Foundry Company and Eaton Corporation
+ dated April 4, 1996. 
+10.4 (Intentionally omitted).
+10.5 (Intentionally omitted).
+10.6 (Intentionally omitted).
+10.7 Credit Agreement dated as of April 30, 1997 as Amended and Restated as
+ of September 12, 1997, as of April 3, 1998, and as of September 8, 1998
+ by and among Neenah Foundry Company, NFC Castings, Inc., the Chase
+ Manhattan Bank as Administrative Agent, Chase Securities, Inc. as
+ Arranger and the other Lenders from time to time party thereto
+ (incorporated by reference to the Company's Form 8-K filed on September
+ 21, 1998.)
+10.8 Employment Agreement dated September 9, 1994 between the Neenah
+ Corporation, Neenah Foundry Company, Harley Controls Corporation,
+ Neenah Transport, Inc. and James P. Keating, Jr. 
+10.9 Consulting Agreement dated September 9, 1994 between the Neenah Foundry
+ Company and the Guarantors and James P. Keating, Jr. 
+10.10 First Amendment to Employment Agreement, dated September 9, 1994,
+ between Neenah Foundry Company, Neenah Corporation, Hartley Controls
+ Corporation and James P. Keating, Jr. 
+10.11 Pledge Agreement dated as of April 30, 1997, among NC Merger Company, a
+ Wisconsin Corporation, NFC Castings, Inc., a Delaware Corporation. 
+10.12 Subsidiary Guarantee Agreement dated as of April 30, 1997, among each
+ of the subsidiaries listed of NC Merger Company, a Wisconsin
+ corporation, and The Chase Manhattan Bank, a New York banking
+ corporation, as collateral agent for the secured parties. 
+10.13 Parent Guarantee Agreement dated as of April 30, 1997, between NFC
+ Castings, Inc., a Delaware corporation and The Chase Manhattan Bank, a
+ New York banking corporation, as collateral agent for the secured
+ parties. 
+10.14 Security Agreement dated as of April 30, 1997, among NC Merger Company,
+ a Wisconsin corporation, each subsidiary of the borrower and The Chase
+ Manhattan Bank, a New York banking corporation, as collateral agent for
+ the secured parties. 
+10.15 Form of Mortgage. 
+
+30
+
+10.16 Amendment No. 1, Consent and Waiver, dated as of November 18, 1998, to
+ the Credit Agreement dated as of April 30, 1997 as Amended and Restated
+ as of September 12, 1997, as of April 3, 1998, and as of September 8,
+ 1998 by and among Neenah Foundry Company, NFC Castings, Inc., the
+ Lenders from time to time party thereto, and the Chase Manhattan Bank.
+ 
+10.17 Cash Collateral Account Agreement dated as of November 24, 1998,
+ between Neenah Foundry Company and the Chase Manhattan Bank. 
+10.18 Executive Employment and Consulting Agreement dated September 15, 1998
+ by and among Neenah Foundry Co., Advanced Cast Products, Inc., ACP
+ Holding Co., ACP Products, LLC and James K. Hildebrand. 
+10.19 Dalton Corporation, KLDavidson Employment Agreement dated September 8,
+ 1998. 
+10.20 Purchase Agreement dated November 19, 1998 among Neenah Foundry
+ Company. Neenah Transport, Inc., Hartley Controls Corporation, the
+ Guarantors and the Initial Purchasers. 
+10.21 Exchange and Registration Rights Agreement dated November 24, 1998
+ among Neenah Foundry Company, Neenah Transport, Inc., Hartley Controls
+ Corporation, the Guarantors and the Initial Purchasers. 
+10.22 Stock Purchase Agreement dated October 2, 2000 by and between Neenah
+ Foundry Company (as seller) and Simpson Technologies Corp. (as buyer)
+ (incorporated by reference to the Company's Form 10-Q for the period
+ ended December 31, 2000 filed on February 9, 2001).
+10.23 Amendment No. 2 dated as of March 16, 2001, to the Credit Agreement
+ dated as of April 30, 1997 as Amended and Restated as of September 12,
+ 1997, as of April 3, 1998, and as of September 8, 1998 by and among
+ Neenah Foundry Company, NFC Castings, Inc., the Lenders from time to
+ time party thereto, and the Chase Manhattan Bank (incorporated by
+ reference to the Company's Form 10-Q for the period ended March 31,
+ 2001 filed on May 9, 2001).
+10.24 Amendment No. 3 dated as of December 31, 2001, to the Credit Agreement
+ dated as of April 30, 1997 as Amended and Restated as of September 12,
+ 1997, as of April 3, 1998, as of September 8, 1998, as of November 18,
+ 1998, and as of March 23, 2001 by and among Neenah Foundry Company, NFC
+ Castings, Inc., the Lenders from time to time party thereto, and the
+ Chase Manhattan Bank (incorporated by reference to the Company's Form
+ 10-Q for the period ended March 31, 2002 filed on May 13, 2002).
+10.25 Secured PIK Note dated as of April 29, 2002 between Neenah Foundry
+ Company and Citicorp Venture Capital, Ltd. (incorporated by reference
+ to the Company's Form 10-Q for the period ended March 31, 2002 filed on
+ May 13, 2002).
+10.26 Secured PIK Note Purchase Agreement dated as of April 29, 2002, by and
+ among Neenah Foundry Company, NFC Castings, Inc., and Citicorp Venture
+ Capital, Ltd. (incorporated by reference to the Company's Form 10-Q for
+ the period ended March 31, 2002 filed on May 13, 2002).
+21.1 Subsidiaries of the Registrant. 
+
+- ----
+
+ Filed herewith.
+
+ Incorporated by reference to the Company's Form S-4 (Registration No.
+ 333-28751) which became effective August 29, 1997.
+
+ Incorporated by reference to the Company's Form 10-K (Registration No.
+ 332-28751) which was filed December 23, 1998.
+
+ Incorporated by reference to the Company's Form S-4 (Registration No.
+ 333-72455) which became effective May 13, 1999.
+
+31
+
+CONSOLIDATED FINANCIAL STATEMENTS
+
+Neenah Foundry Company
+Years ended September 30, 2002, 2001 and 2000
+
+32
+
+Neenah Foundry Company
+
+ Consolidated Financial Statements
+
+ Years ended September 30, 2002, 2001 and 2000
+
+CONTENTS
+
+Report of Independent Auditors...........................................................................1
+
+Consolidated Financial Statements
+
+Consolidated Balance Sheets..............................................................................2
+Consolidated Statements of Operations....................................................................4
+Consolidated Statements of Changes in Stockholder's Equity (Deficit).....................................5
+Consolidated Statements of Cash Flows....................................................................6
+Notes to Consolidated Financial Statements...............................................................8
+
+33
+
+Report of Independent Auditors
+
+Board of Directors
+Neenah Foundry Company
+
+We have audited the accompanying consolidated balance sheets of Neenah Foundry
+Company (the Company) as of September 30, 2002 and 2001, and the related
+consolidated statements of operations, changes in stockholder's equity (deficit)
+and cash flows for each of the three years in the period ended September 30,
+2002. These consolidated financial statements are the responsibility of the
+Company's management. Our responsibility is to express an opinion on these
+financial statements based on our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States. Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant estimates
+made by management, as well as evaluating the overall financial statement
+presentation. We believe that our audits provide a reasonable basis for our
+opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the consolidated financial position of the
+Company at September 30, 2002 and 2001, and the consolidated results of its
+operations and its cash flows for each of the three years in the period ended
+September 30, 2002, in conformity with accounting principles generally accepted
+in the United States.
+
+/s/ Ernst & Young LLP
+
+Milwaukee, Wisconsin
+November 5, 2002
+
+34
+
+Neenah Foundry Company
+
+ Consolidated Balance Sheets
+ (In Thousands, Except Share and per Share Amounts)
+
+SEPTEMBER 30
+ 2002 2001
+ ----------------------------------
+ 
+ASSETS
+Current assets:
+ Cash and cash equivalents 26,354 4,346
+ Accounts receivable, less allowance for doubtful
+ accounts of 1,062 in 2002 and 1,437 in 2001 59,260 69,845
+ Inventories 51,896 71,695
+ Refundable income taxes 14,850 2,148
+ Deferred income taxes 15,880 3,069
+ Other current assets 5,765 5,852
+ Current assets of discontinued operations 665 -
+ ----------------------------------
+Total current assets 174,670 156,955
+
+Property, plant and equipment:
+ Land 6,353 6,226
+ Buildings and improvements 29,123 31,346
+ Machinery and equipment 217,139 236,852
+ Patterns 28,881 28,034
+ Construction in progress 5,811 6,240
+ ----------------------------------
+ 287,307 308,698
+ Less accumulated depreciation 110,017 94,865
+ ----------------------------------
+ 177,290 213,833
+
+Deferred financing costs, net of accumulated amortization of 8,340 in
+ 2002 and 6,327 in 2001 6,656 7,811
+Identifiable intangible assets, net of accumulated amortization of
+ 18,116 in 2002 and 22,163 in 2001 37,173 55,932
+Goodwill, net of accumulated amortization of 26,566 in 2002 and
+ 22,619 in 2001 180,214 186,005
+Other assets 6,470 5,907
+ ----------------------------------
+ 230,513 255,655
+ ----------------------------------
+ 582,473 626,443
+ ==================================
+
+35
+
+Neenah Foundry Company
+
+ Consolidated Balance Sheets (continued)
+ (In Thousands, Except Share and per Share Amounts)
+
+SEPTEMBER 30
+ 2002 2001
+ ---------------------------------
+ 
+LIABILITIES AND STOCKHOLDER'S EQUITY (DEFICIT)
+Current liabilities:
+ Accounts payable 23,140 30,568
+ Accrued wages and employee benefits 12,855 13,250
+ Accrued interest 13,733 13,567
+ Other accrued liabilities 2,904 4,701
+ Current portion of long-term debt 40,917 20,424
+ Current portion of capital lease obligations 2,519 2,305
+ Current liabilities of discontinued operations 467 -
+ ---------------------------------
+Total current liabilities 96,535 84,815
+
+Long-term debt 410,515 413,653
+Capital lease obligations 5,248 7,845
+Deferred income taxes 56,971 63,719
+Postretirement benefit obligations 6,696 6,345
+Other liabilities 18,654 8,127
+ ---------------------------------
+Total liabilities 594,619 584,504
+
+Commitments and contingencies
+
+Stockholder's equity (deficit):
+ Preferred stock, par value 100 per share; 3,000 shares authorized;
+ no shares issued or outstanding - -
+ Common stock, Class A (voting), par value 100 per share; 1,000
+ shares authorized, issued and outstanding 100 100
+ Common stock, Class B (nonvoting), par value 100 per share; 10,000
+ shares authorized; no shares issued or outstanding - -
+ Capital in excess of par value 51,317 51,317
+ Accumulated deficit (55,563) (7,860)
+ Accumulated other comprehensive loss (8,000) (1,618)
+ ---------------------------------
+Total stockholder's equity (deficit) (12,146) 41,939
+ ---------------------------------
+ 582,473 626,443
+ =================================
+
+36
+
+Neenah Foundry Company
+
+ Consolidated Statements of Operations
+ (In Thousands)
+
+YEAR ENDED SEPTEMBER 30
+ 2002 2001 2000
+ ---------------------------------------------------------------
+ 
+Net sales 405,218 416,907 504,311
+Cost of sales 341,013 352,737 406,652
+ ---------------------------------------------------------------
+Gross profit 64,205 64,170 97,659
+
+Selling, general and administrative
+ expenses 29,297 28,017 33,619
+Amortization expense 3,829 10,613 10,503
+Provision for impairment of assets 5,453 - -
+(Gain) loss on disposal of
+ equipment 544 (434) 85
+ ---------------------------------------------------------------
+Operating income 25,082 25,974 53,452
+
+Other income (expense):
+ Interest expense (43,951) (43,987) (44,411)
+ Interest income 819 445 978
+ ---------------------------------------------------------------
+Income (loss) from continuing operations
+ before income taxes (18,050) (17,568) 10,019
+Provision (credit) for income taxes (8,389) (4,149) 6,175
+ ---------------------------------------------------------------
+Income (loss) from continuing
+ operations (9,661) (13,419) 3,844
+
+Discontinued operations:
+ Loss from discontinued operations net of
+ income tax credit of (20,475) in
+ 2002, (2,318) in 2001 and (4,575) in
+ 2000 (38,042) (4,035) (8,987)
+
+ Gain on sale of discontinued operations,
+ net of income taxes of 1,603 in 2001 - 2,404 -
+ ---------------------------------------------------------------
+Net loss (47,703) (15,050) (5,143)
+ ===============================================================
+
+See accompanying notes.
+
+37
+
+Neenah Foundry Company
+
+ Consolidated Statements of Changes in Stockholder's Equity (Deficit)
+ (In Thousands)
+
+Common Stock Retained Accumulated
+ ------------------ Earnings Other
+ Preferred Capital in Excess (Accumulated Comprehensive
+ Stock Class A Class B of Par Value Deficit) Loss Total
+ --------- --------- -------- ----------------- --------------- ------------- -------
+ 
+Balance at September 30, 1999 - 100 - 51,317 12,333 - 63,750
+ Components of comprehensive loss:
+ Net loss - - - - (5,143) - (5,143)
+ Pension liability adjustment,
+ net of tax effect of 60 - - - - - (89) (89)
+ ---------
+ Total comprehensive loss (5,232)
+ --------- --------- -------- --------------- --------------- ------------ ---------
+Balance at September 30, 2000 - 100 - 51,317 7,190 (89) 58,518
+ Components of comprehensive income:
+ Net loss - - - - (15,050) - (15,050)
+ Pension liability adjustment,
+ net of tax effect of 1,018 - - - - - (1,529) (1,529)
+ ---------
+ Total comprehensive loss (16,579)
+ --------- --------- -------- --------------- --------------- ------------ ---------
+Balance at September 30, 2001 - 100 - 51,317 (7,860) (1,618) 41,939
+ Components of comprehensive
+ income:
+ Net loss - - - - (47,703) - (47,703)
+ Pension liability adjustment,
+ net of tax effect of 4,255 - - - - - (6,382) (6,382)
+ ---------
+ Total comprehensive loss (54,085)
+ --------- --------- -------- --------------- --------------- ------------ ---------
+Balance at September 30, 2002 - 100 - 51,317 (55,563) (8,000) (12,146)
+ ========= ========= ======== =============== =============== ============ =========
+
+See accompanying notes.
+
+38
+
+Neenah Foundry Company
+
+ Consolidated Statements of Cash Flows
+ (In Thousands)
+
+YEAR ENDED SEPTEMBER 30
+ 2002 2001 2000
+ ------------------------------------------------
+ 
+OPERATING ACTIVITIES
+Net loss (47,703) (15,050) (5,143)
+Adjustments to reconcile net loss to net cash provided
+ by operating activities:
+ Provision for obsolete inventories 240 248 2,500
+ Provision for impairment of assets 36,533 - -
+ Depreciation 25,532 29,636 28,112
+ Amortization of identifiable intangible assets and
+ goodwill 3,947 11,638 11,641
+ Amortization of deferred financing costs and premium
+ on notes 1,392 1,222 1,082
+ Gain on sale of discontinued operations - (4,007) -
+ (Gain) loss on disposal of property, plant and
+ equipment 559 (337) 104
+ Deferred income taxes (10,650) (1,630) (358)
+ Changes in operating assets and liabilities:
+ Accounts receivable 10,275 2,145 8,558
+ Inventories 19,559 (7,405) (7,759)
+ Other current assets 1,043 45 (378)
+ Accounts payable (7,118) (474) (3,842)
+ Accrued liabilities (2,983) (3,911) (3,924)
+ Income taxes (14,104) (2,152) (1,183)
+ Postretirement benefit obligations 351 379 477
+ Other liabilities (437) (1,060) (405)
+ --------------------------------------------------
+Net cash provided by operating activities 16,436 9,287 29,482
+
+INVESTING ACTIVITIES
+Acquisition of business, net of cash acquired - - (29,502)
+Proceeds from disposition of business, net of fees - 5,190 -
+Purchase of property, plant and equipment (9,055) (16,882) (19,268)
+Proceeds from sale of property, plant and equipment 323 2,859 2,381
+Other (431) 2,373 (936)
+ --------------------------------------------------
+Net cash used in investing activities (9,163) (6,460) (47,325)
+
+39
+
+Neenah Foundry Company
+
+ Consolidated Statements of Cash Flows (continued)
+ (In Thousands)
+
+YEAR ENDED SEPTEMBER 30
+ 2002 2001 2000
+ -------------------------------------------------
+ 
+FINANCING ACTIVITIES
+Proceeds from long-term debt 33,400 5,000 29,750
+Payments on long-term debt and capital
+ lease obligations (17,807) (22,053) (9,797)
+Debt issuance costs (858) (906) -
+ -------------------------------------------------
+Net cash provided by (used in) financing activities 14,735 (17,959) 19,953
+ -------------------------------------------------
+Increase (decrease) in cash and cash equivalents 22,008 (15,132) 2,110
+Cash and cash equivalents at beginning of period 4,346 19,478 17,368
+ -------------------------------------------------
+Cash and cash equivalents at end of period 26,354 4,346 19,478
+ =================================================
+
+Supplemental disclosures of cash flow information:
+ Interest paid 44,340 47,428 47,475
+ Income taxes paid (refunded) (4,080) (1,253) 3,141
+
+40
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements
+
+ September 30, 2002
+ (In Thousands)
+
+1. NATURE OF OPERATIONS AND SIGNIFICANT ACCOUNTING POLICIES
+
+Neenah Foundry Company (Neenah), together with its subsidiaries (the Company),
+manufactures gray and ductile iron castings and forged components for sale to
+industrial and municipal customers. Industrial castings are custom-engineered
+and are produced for customers in several industries, including the medium and
+heavy-duty truck components, farm equipment, heating, ventilation and
+air-conditioning industries. Municipal castings include manhole covers and
+frames, storm sewer frames and grates, tree grates and specialty castings for a
+variety of applications and are sold principally to state and local government
+entities, utilities and contractors. The Company's sales generally are
+unsecured.
+
+Neenah has the following subsidiaries, all of which are wholly owned: Deeter
+Foundry, Inc. (Deeter); Mercer Forge Corporation and subsidiaries (Mercer);
+Dalton Corporation and subsidiaries (Dalton); Advanced Cast Products, Inc. and
+subsidiaries (ACP); Gregg Industries, Inc. (Gregg); Neenah Transport, Inc.
+(Transport) and Cast Alloys, Inc. (Cast Alloys), which is inactive. Deeter
+manufactures gray iron castings for the municipal market and special application
+construction castings. Mercer manufactures forged components for use in
+transportation, railroad, mining and heavy industrial applications and
+microalloy forgings for use by original equipment manufacturers and industrial
+end users. Dalton manufactures gray iron castings for refrigeration systems, air
+conditioners, heavy equipment, engines, gear boxes, stationary transmissions,
+heavy-duty truck transmissions and other automotive parts. ACP manufactures
+ductile and malleable iron castings for use in various industrial segments,
+including heavy truck, construction equipment, railroad, mining and automotive.
+Gregg manufactures gray and ductile iron castings for industrial and commercial
+use. Transport is a common and contract carrier licensed to operate in the
+continental United States. The majority of Transport's revenues are derived from
+transport services provided to the Company
+
+PRINCIPLES OF CONSOLIDATION
+
+The consolidated financial statements include the accounts of Neenah and its
+subsidiaries. All significant intercompany accounts and transactions have been
+eliminated in consolidation.
+
+41
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+1. NATURE OF OPERATIONS AND SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+USE OF ESTIMATES
+
+The preparation of financial statements in conformity with accounting principles
+generally accepted in the United States requires management to make estimates
+and assumptions that affect the amounts reported in the financial statements and
+accompanying notes. Actual results could differ from those estimates.
+
+CASH AND CASH EQUIVALENTS
+
+The Company considers all highly liquid investments with a maturity of three
+months or less when purchased to be cash equivalents. The cost, which
+approximates fair value, of cash equivalents, which consist entirely of
+repurchase agreements, totaled 25,500 at September 30, 2002. There were no cash
+equivalents at September 30, 2001.
+
+INVENTORIES
+
+Inventories are stated at the lower of cost or market. The cost of inventories
+for Neenah and Dalton is determined on the last-in, first-out (LIFO) method for
+substantially all inventories except supplies, for which cost is determined on
+the first-in, first-out (FIFO) method. The cost of inventories for Deeter,
+Mercer, ACP and Gregg is determined on the FIFO method. LIFO inventories
+comprise 47 and 38 of total inventories at September 30, 2002 and 2001,
+respectively. If the FIFO method of inventory valuation had been used by all
+companies, inventories would have been approximately 1,458 and 1,041 higher
+than reported at September 30, 2002 and 2001, respectively.
+
+PROPERTY, PLANT AND EQUIPMENT
+
+Property, plant and equipment are stated at cost. Depreciation for financial
+reporting purposes is provided over the estimated useful lives of the respective
+assets using the straight-line method.
+
+DEFERRED FINANCING COSTS
+
+Costs incurred to obtain long-term financing are amortized using the effective
+interest method over the term of the related debt.
+
+ 42
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+1. NATURE OF OPERATIONS AND SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+IDENTIFIABLE INTANGIBLE ASSETS
+
+Identifiable intangible assets are amortized on a straight-line basis over the
+estimated useful lives of 10 to 40 years.
+
+GOODWILL
+
+Effective October 1, 2001, goodwill is no longer amortized but is subject to an
+annual test for impairment. Prior to October 1, 2001, goodwill was amortized on
+a straight-line basis over 15 to 40 years.
+
+IMPAIRMENT OF LONG-LIVED ASSETS
+
+Property, plant and equipment and identifiable intangible assets are reviewed
+for impairment whenever events or changes in circumstances indicate that the
+carrying amount may not be recoverable. If the sum of the expected undiscounted
+cash flows is less than the carrying value of the related asset or group of
+assets, a loss is recognized for the difference between the fair value and
+carrying value of the asset or group of assets. Such analyses necessarily
+involve significant judgment.
+
+REVENUE RECOGNITION
+
+Revenues are recognized upon shipment of product, which generally corresponds
+with the transfer of title.
+
+SHIPPING AND HANDLING COSTS
+
+Shipping and handling costs are included in cost of sales.
+
+ADVERTISING COSTS
+
+Advertising costs are expensed as incurred. Advertising costs for continuing
+operations amounted to 587, 615 and 636 for the years ended September 30,
+2002, 2001 and 2000, respectively.
+
+43
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+1. NATURE OF OPERATIONS AND SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+INCOME TAXES
+
+Deferred income taxes are provided for temporary differences between the
+financial reporting and income tax basis of the Company's assets and liabilities
+and are measured using currently enacted tax rates and laws.
+
+FINANCIAL INSTRUMENTS
+
+The Company has a number of financial instruments, none of which are held for
+trading purposes. The following presents the carrying amounts and estimated fair
+values of such instruments:
+
+SEPTEMBER 30, 2002 SEPTEMBER 30, 2001
+ ----------------------------- ----------------------------
+ Carrying Fair Carrying Fair
+ Amount Value Amount Value
+ -------------- -------------- -------------- -------------
+
+Cash and cash equivalents 26,354 26,354 4,346 4,346
+Accounts receivable 59,260 59,260 69,845 69,845
+Accounts payable 23,140 23,140 30,568 30,568
+Long-term debt 451,432 285,052 434,077 308,586
+Capital lease obligations 7,767 7,767 10,150 10,150
+
+The fair value of the Senior Subordinated Notes with a face value of 282,000 is
+based on quoted market prices.
+
+2. DISCONTINUED OPERATIONS
+
+In August 2001, the Financial Accounting Standards Board (FASB) issued Statement
+of Financial Accounting Standards (SFAS) No. 144, "Accounting for the Impairment
+or Disposal of Long-Lived Assets." The Company adopted SFAS No. 144 as of
+October 1, 2001. The provisions of SFAS No. 144 were applied during the year
+ended September 30, 2002, as discussed below.
+
+Customer actions and the significant deterioration of the U.S. economy during
+the quarter ended December 31, 2001, had a dramatic effect on the operations of
+Cast Alloys. This resulted in a significant reduction in sales, operating
+profits and cash flows of Cast Alloys for the three months ended December 31,
+2001. Based on these factors, a goodwill impairment charge of 10,668 was
+recognized during the three months ended December 31, 2001, related to the
+decline in fair value of the Cast Alloys reporting unit, which is included in
+the Castings segment.
+
+44
+ 
+ Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+2. DISCONTINUED OPERATIONS (CONTINUED)
+
+These events also had a significant impact on the value of Cast Alloys' fixed
+assets and long-lived assets with finite lives. Due to the existing impairment
+indicators, management assessed the recoverability of these fixed assets and
+long-lived assets. As the expected undiscounted cash flows were less than the
+carrying value of the related assets, an impairment charge of 20,412 was
+recognized for the difference between the fair value and carrying value of such
+assets during the year ended September 30, 2002.
+
+In January 2002, management initiated a plan for the discontinuation of the
+operations of Cast Alloys by closing its manufacturing facilities. Severance
+costs of approximately 2,200 associated with this plan were recognized during
+the three months ending March 31, 2002. All employees of Cast Alloys were
+terminated by April 2002. In accordance with the provisions of SFAS No. 144, the
+results of operations of Cast Alloys have been reported as discontinued
+operations in the consolidated statements of operations for all periods
+presented. Previously, Cast Alloys was included in the Castings segment.
+
+Revenues for Cast Alloys for the years ended September 30, 2002, 2001 and 2000
+were 8,641, 53,130 and 45,345, respectively. Interest expense allocated to
+Cast Alloys of 1,954, 4,309 and 3,892 for the years ended September 30, 2002,
+2001 and 2000, respectively, was based on the purchase price of Cast Alloys in
+relation to the purchase price of all other acquisitions funded by additional
+Company borrowings.
+
+On October 2, 2000, the Company sold all of the issued and outstanding shares of
+common stock of Hartley for cash of 5,190, net of fees of 129. The disposition
+of Hartley resulted in a gain of 2,404, net of income taxes of 1,603. Proceeds
+from the sale were used to reduce outstanding debt. Hartley designs and
+manufactures customized sand control systems. In accordance with the provisions
+of APB Opinion No. 30, "Reporting the Results of Operations - Reporting the
+Effects of Disposal of a Segment of a Business, and Extraordinary, Unusual and
+Infrequently Occurring Events and Transactions," which has been amended by SFAS
+No. 144, the results of operations of Hartley have been reported as discontinued
+operations in the consolidated statements of operations. Revenues for Hartley
+for the year ended September 30, 2000 were 5,514.
+
+45
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+3. ACQUISITION
+
+On November 30, 1999, the Company purchased Gregg, a manufacturer of gray and
+ductile iron castings, for 23,002 (including direct costs of 485 and net of
+ 403 of acquired cash). Additional purchase consideration of 6,500 was paid in
+April 2000 based on Gregg's operating results for the calendar year ended
+December 31, 1999. The acquisition of Gregg was financed through borrowings
+under the Company's Acquisition Loan Facility.
+
+The acquisition of Gregg has been accounted for using the purchase method of
+accounting, and, accordingly, the purchase price has been allocated on the basis
+of fair values to the underlying assets acquired and liabilities assumed. The
+excess of the cost of acquisition over the fair value of the net tangible and
+identifiable intangible assets acquired has been allocated to goodwill. The
+operating results of Gregg are included in the consolidated statements of
+operations since the date of acquisition.
+
+4. INVENTORIES
+
+Inventories consist of the following as of September 30:
+
+2002 2001
+ ---------- -----------
+ 
+ Raw materials 4,021 9,519
+ Work in process and finished goods 35,482 50,210
+ Supplies 12,393 11,966
+ ---------- -----------
+ 51,896 71,695
+ ========== ===========
+
+5. INTANGIBLE ASSETS
+
+In June 2001, the FASB issued SFAS No. 141, "Business Combinations," and No.
+142, "Goodwill and Other Intangible Assets." The Company adopted SFAS No. 142 as
+of October 1, 2001. Under SFAS No. 142, goodwill and intangible assets deemed to
+have indefinite lives are no longer amortized but are subject to annual
+impairment tests in accordance with the Statements. Other intangible assets
+continue to be amortized over their estimated useful lives.
+
+Upon adoption of SFAS No. 141, the Company reclassified the identifiable
+intangible assets related to the assembled workforce and facilities in place
+with an unamortized balance of 4,660 and 3,469, respectively, net of related
+deferred income taxes of 1,864 and 1,388, respectively, to goodwill.
+
+ 46
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+5. INTANGIBLE ASSETS (CONTINUED)
+
+The Company performed the transitional impairment test of goodwill as of October
+1, 2001, and concluded that no impairment existed at the time of adoption of
+SFAS No. 142. As discussed in Note 2, subsequent to the adoption of SFAS No.
+142, a goodwill impairment charge of 10,668 related to Cast Alloys, a
+discontinued operation, was recognized. The Company performed the annual
+impairment test of goodwill as of July 1, 2002, and concluded that no additional
+goodwill impairment existed. The impairment tests were performed based on the
+expected present value of future cash flows for each of the Company's reporting
+units.
+
+Identifiable intangible assets consist of the following as of September 30:
+
+SEPTEMBER 30, 2002 SEPTEMBER 30, 2001
+ ----------------------------------------------------------------
+ Gross Gross
+ Carrying Accumulated Carrying Accumulated
+ Amount Amortization Amount Amortization
+ ----------------------------------------------------------------
+ 
+ Amortizable intangible assets:
+ Customer lists 31,441 14,814 35,041 12,662
+ Tradenames 22,553 2,649 27,053 2,392
+ Assembled workforce - - 10,942 6,282
+ Facilities in place - - 3,764 295
+ Other 1,295 653 1,295 532
+ ----------------------------------------------------------------
+ 55,289 18,116 78,095 22,163
+ ================================================================
+
+The Company does not have any intangible assets deemed to have indefinite lives.
+Amortization expense expected to be recognized during fiscal years subsequent to
+September 30, 2002, is as follows:
+
+2003 3,832
+ 2004 3,832
+ 2005 3,832
+ 2006 3,832
+ 2007 3,195
+
+47
+ 
+ Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+5. INTANGIBLE ASSETS (CONTINUED)
+
+Changes in the carrying amount of goodwill during the year ended September 30,
+2002, consist of the following:
+
+Castings Forgings Other
+ Segment Segment Segment Total
+ ------------------------------------------------------------
+
+Balance as of September 30, 2001 168,709 17,296 - 186,005
+ Reclassification of assembled workforce and
+ facilities in place net of deferred income
+ tax liability of 3,064, 188, 0 and
+ 3,252, respectively 4,595 282 - 4,877
+ Impairment charge related to
+ discontinued operations - See
+ Note 2 (10,668) - - (10,668)
+ ------------------------------------------------------------
+ Balance as of September 30, 2002 162,636 17,578 - 180,214
+ ============================================================
+
+As required by SFAS No. 142, the results of operations of the Company for
+periods prior to its adoption have not been restated. The following table
+reconciles reported net loss to pro forma net loss that would have resulted for
+the years ending September 30, 2001 and 2000, if SFAS No. 142 had been adopted
+effective October 1, 1999:
+
+YEAR ENDED SEPTEMBER 30
+ 2001 2000
+ ----------------------------------
+ 
+ Reported net loss (15,050) (5,143)
+ Amortization of goodwill 5,552 5,522
+ Amortization of assembled workforce, net of tax 1,025 995
+ Amortization of facilities in place, net of tax 45 45
+ ==================================
+ Pro forma net income (loss) (8,428) 1,419
+ ==================================
+
+48
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+6. LONG-TERM DEBT
+
+Long-term debt consists of the following as of September 30:
+
+2002 2001
+ ---------------- -------------
+
+11 1/8 Series B Senior Subordinated Notes 150,000 150,000
+11 1/8 Series D Senior Subordinated Notes, including
+ unamortized premium of 1,206 in 2002 and 1,469 in 2001 46,206 46,469
+11 1/8 Series F Senior Subordinated Notes, including
+ unamortized premium of 1,642 in 2002 and 2,000 in 2001 88,642 89,000
+Term Loan Facilities 117,292 123,542
+Acquisition Loan Facility 10,794 19,891
+Revolving Credit Facility 28,500 5,000
+PIK Note 9,900 -
+Other 98 175
+ ------------------------------
+ 451,432 434,077
+Less current portion 40,917 20,424
+ ------------------------------
+ 410,515 413,653
+ ==============================
+
+The Series B, Series D and Series F Senior Subordinated Notes (collectively, the
+Notes) are unsecured and mature on May 1, 2007. Interest is payable semiannually
+on May 1 and November 1. The Notes are fully, unconditionally, jointly and
+severally guaranteed by all subsidiaries. The Notes are subordinated to all
+existing and future senior indebtedness of the Company but rank equally in right
+of payment with any future senior subordinated indebtedness of the Company. The
+Notes contain covenants, which restrict the Company from incurring additional
+indebtedness and prohibit dividend payments, stock redemptions and certain other
+transactions.
+
+The Company has a Credit Agreement, as amended, with a group of banks, which
+provides Term Loan Facilities, an Acquisition Loan Facility and a Revolving
+Credit Facility. Borrowings under the Credit Agreement are secured by
+substantially all assets of the Company. Covenants in the Credit Agreement
+restrict the payment of dividends, capital expenditures and certain other
+transactions and require the Company to maintain leverage, net worth and
+interest coverage ratios. Effective December 31, 2001, the Credit Agreement was
+amended to provide relief from the above financial ratio covenants through
+December 31, 2003, reduce the amount of the Revolving Credit Facility to 29,565
+and establish minimum EBITDA and liquidity covenants. The Company is in
+compliance with existing bank covenants at September 30, 2002.
+
+49
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+6. LONG-TERM DEBT (CONTINUED)
+
+The Term Loan Facilities consist of two tranches of term loans. The Tranche A
+term loans outstanding at September 30, 2002 and 2001, total 4,057 and 9,057,
+respectively, and mature on September 30, 2003. The Tranche B term loans
+outstanding at September 30, 2002 and 2001, total 113,235 and 114,485,
+respectively, and mature on September 30, 2005. Installments of the Tranche A
+term loans are due in aggregate principal amounts of 1,250 per quarter from
+December 31, 2002 through June 30, 2003, and the remaining principal due
+September 30, 2003. Installments on 47,583 of the Tranche B term loans are due
+in aggregate principal amounts of 250 per quarter until September 30, 2003,
+ 6,250 per quarter from December 31, 2003 through June 30, 2005, and the
+remaining principal due September 30, 2005. Installments on 65,652 of the
+Tranche B term loans are due in aggregate principal amounts of 8,750 per
+quarter commencing on December 31, 2003, with the remaining principal due
+September 30, 2005. Interest on the Tranche A and Tranche B term loans is at
+LIBOR (2.50 at September 30, 2002) plus 4.50 and 4.75 , respectively.
+
+Borrowings under the Acquisition Loan Facility are due in quarterly principal
+installments of 1,820 through March 31, 2004, with the remaining principal due
+June 30, 2004, with interest at LIBOR plus 4.50 .
+
+The Revolving Credit Facility matures on September 30, 2003. The Company is
+entitled to draw amounts under the Revolving Credit Facility to a maximum of
+ 28,500 for general corporate purposes, including permitted acquisitions, as
+defined, and to a maximum of 1,065 for letters of credit. As of September 30,
+2002, the Company had outstanding letters of credit of 1,065, which secure
+certain workers' compensation and other obligations.
+
+The PIK Note is secured by substantially all assets of the Company. Principal
+and interest at 14 are payable on December 31, 2005.
+
+Scheduled maturities of long-term debt during fiscal years subsequent to
+September 30, 2002, are as follows:
+
+2003 40,917
+2004 63,532
+2005 52,235
+2006 9,900
+2007 282,000
+ -----------------
+ 448,584
+ =================
+
+50
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+7. COMMITMENTS AND CONTINGENCIES
+
+The Company leases certain plants, warehouse space, machinery and equipment,
+office equipment and vehicles under operating leases. Rent expense for
+continuing operations under these operating leases for the years ended September
+30, 2002, 2001 and 2000 totaled 3,222, 2,793 and 2,860, respectively.
+
+The Company did not enter into any capital leases during the years ended
+September 30, 2002 or 2001. During the year ended September 30, 2000, the
+Company financed purchases of property, plant and equipment totaling 13,348 by
+entering into capital leases.
+
+Property, plant and equipment under leases accounted for as capital leases as of
+September 30 are as follows:
+
+2002 2001
+ ----------------- ------------------
+
+Machinery and equipment 13,893 14,308
+ Less accumulated depreciation 3,593 2,419
+ ----------------- ------------------
+ 10,300 11,889
+ ================= ==================
+
+Minimum rental payments due under operating and capital leases for fiscal years
+subsequent to September 30, 2002, are as follows:
+
+Operating Capital
+ Leases Leases
+ ------------------------------------
+
+2003 2,352 3,358
+2004 1,593 3,158
+2005 1,047 2,332
+2006 683 556
+2007 280 -
+Thereafter 13 -
+ ------------------------------------
+Total minimum lease payments 5,968 9,404
+ ====================
+
+Less amount representing interest 1,637
+ -----------------
+Present value of minimum lease payments 7,767
+Less current portion 2,519
+ -----------------
+Capital lease obligations 5,248
+ =================
+
+51
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+7. COMMITMENTS AND CONTINGENCIES (CONTINUED)
+
+The Company is partially self-insured for workers' compensation claims. An
+accrued liability is recorded for claims incurred but not yet paid or reported
+and is based on current and historical claim information. The accrued liability
+may ultimately be settled for an amount different than the recorded amount.
+Adjustments of the accrued liability are recorded in the period in which they
+become known.
+
+Approximately 62 of the Company's work force is covered by collective
+bargaining agreements. The collective bargaining agreement for the Warsaw
+location of Dalton is scheduled to expire during fiscal 2003.
+
+8. INCOME TAXES
+
+The provision (credit) for income taxes consists of the following:
+
+YEAR ENDED SEPTEMBER 30
+ 2002 2001 2000
+ --------------------------------------------------------
+Current:
+ 
+ Federal (18,522) (2,902) 1,804
+ State 308 (1,218) 154
+ Foreign - 886 -
+ --------------------------------------------------------
+ (18,214) (3,234) 1,958
+Deferred (10,650) (1,630) (358)
+ --------------------------------------------------------
+ (28,864) (4,864) 1,600
+ ========================================================
+
+The provision (credit) for income taxes is included in the consolidated
+statements of operations as follows:
+
+YEAR ENDED SEPTEMBER 30
+ 2002 2001 2000
+ --------------------------------------------------------
+
+Continuing operations (8,389) (4,149) 6,175
+Discontinued operations (20,475) (715) (4,575)
+ --------------------------------------------------------
+ (28,684) (4,864) 1,600
+ ========================================================
+
+52
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+8. INCOME TAXES (CONTINUED)
+
+The provision (credit) for income taxes differs from the amount computed by
+applying the federal statutory rate of 35 as of September 30, 2002, 2001 and
+2000, to income (loss) before income taxes as follows:
+
+YEAR ENDED SEPTEMBER 30
+ 2002 2001 2000
+ ---------------------------------------------------
+
+Provision (credit) at statutory rate (26,798) (6,970) (1,240)
+State income taxes (benefit), net of federal taxes 74 (535) 452
+Amortization of goodwill - 1,943 1,927
+Additional provision recorded in connection with tax
+ examinations 932 417 405
+Permanent difference related to the discontinuance of
+ Cast Alloys (2,734) - -
+Other (338) 281 56
+ -------------------------------------------------
+Provision (credit) for income taxes (28,864) (4,864) 1,600
+ =================================================
+
+Deferred income tax assets and liabilities consist of the following as of
+September 30:
+
+2002 2001
+ -------------------------------------
+ 
+Deferred income tax liabilities:
+ Book basis of assets in excess of tax basis:
+ Inventories (3,023) (2,605)
+ Property, plant and equipment (37,277) (44,519)
+ Identifiable intangible assets (14,890) (22,892)
+ Other (1,779) (1,619)
+ ------------------------------------
+ (56,969) (71,635)
+Deferred income tax assets:
+ Employee benefit plans 8,773 5,570
+ Accrued vacation 2,498 2,251
+ Other accrued liabilities 2,801 1,251
+ State net operating loss carryforwards 1,806 1,945
+ Other - 622
+ Valuation allowance - (654)
+ ------------------------------------
+ 15,878 10,985
+ ------------------------------------
+Net deferred income tax liability (41,091) (60,650)
+ ====================================
+
+Included in the consolidated balance sheets as:
+ Current deferred income tax asset 15,880 3,069
+ Noncurrent deferred income tax liability (56,971) (63,719)
+ ------------------------------------
+ (41,091) (60,650)
+ ====================================
+
+53
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+8. INCOME TAXES (CONTINUED)
+
+As of September 30, 2002, the Company has state net operating loss (NOL)
+carryforwards for income tax purposes for continuing operations of approximately
+ 35,000, which expire in varying amounts through September 30, 2017. The
+valuation allowance as of September 30, 2001, was provided against the deferred
+tax asset related to the state NOL carryforwards of Cast Alloys as the benefit
+related to these carryforwards was not expected to be realized.
+
+9. EMPLOYEE BENEFIT PLANS
+
+DEFINED-BENEFIT PENSION PLANS AND POSTRETIREMENT BENEFITS
+
+The Company sponsors five defined-benefit pension plans covering the majority of
+its hourly employees. Retirement benefits under the pension plans are based on
+years of service and defined-benefit rates. The Company funds the pension plans
+based on actuarially determined cost methods allowable under Internal Revenue
+Service regulations. Plan assets consist primarily of mutual funds. The
+measurement date for three of the defined-benefit pension plans is September 30.
+The remaining two plans use a measurement date of June 30.
+
+The Company also sponsors unfunded defined-benefit postretirement health care
+plans covering substantially all salaried and hourly employees at Neenah and
+their dependents. For salaried employees at Neenah, benefits are provided from
+the date of retirement for the duration of the employee's life, while benefits
+for hourly employees at Neenah are provided from retirement to age 65. Retirees'
+contributions to the plans are based on years of service and age at retirement.
+The Company funds benefits as incurred. These plans use a measurement date of
+September 30.
+
+54
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+9. EMPLOYEE BENEFIT PLANS (CONTINUED)
+
+The following table summarizes the funded status of the pension plans and
+postretirement benefit plans and the amounts recognized in the consolidated
+balance sheets at September 30, 2002 and 2001:
+
+PENSION POSTRETIREMENT
+ BENEFITS BENEFITS
+ -----------------------------------------------------------
+ 2002 2001 2002 2001
+ -----------------------------------------------------------
+ 
+Change in benefit obligation:
+ Benefit obligation, October 1 44,166 40,400 7,024 6,692
+ Service cost 1,512 1,543 198 204
+ Interest cost 3,269 3,036 476 493
+ Curtailment - - - (153)
+ Actuarial losses 5,077 1,246 1,037 148
+ Benefits paid (2,113) (2,059) (362) (360)
+ -----------------------------------------------------------
+ Benefit obligation, September 30 51,911 44,166 8,373 7,024
+ ===========================================================
+
+Change in plan assets:
+ Fair value of plan assets, October 1 40,020 42,122 - -
+ Actual loss on plan assets (1,769) (2,068) - -
+ Company contributions 2,062 2,025 362 360
+ Benefits paid (2,113) (2,059) (362) (360)
+ -----------------------------------------------------------
+ Fair value of plan assets, September 30 38,200 40,020 - -
+ ===========================================================
+
+Funded status of the plans:
+ Benefit obligation in excess of plan
+ assets (13,711) (4,146) (8,373) (7,024)
+ Unrecognized prior service cost 2,184 1,856 581 626
+ Unrecognized net losses 13,279 3,447 1,096 53
+ -----------------------------------------------------------
+ 1,752 1,157 (6,696) (6,345)
+ ===========================================================
+
+Amounts recognized in the consolidated
+ balance sheets at September 30:
+ Accrued pension liability (13,765) (3,395) (6,696) (6,345)
+ Intangible asset 2,184 1,856 - -
+ Deferred income tax asset 5,333 1,078 - -
+ Accumulated other comprehensive loss 8,000 1,618 - -
+ -----------------------------------------------------------
+ 1,752 1,157 (6,696) (6,345)
+ ===========================================================
+
+55
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+9. EMPLOYEE BENEFIT PLANS (CONTINUED)
+
+Amounts applicable to the Company's pension plans with accumulated benefit
+obligations and projected benefit obligations in excess of plan assets:
+
+2002 2001
+ -------------------------------
+
+Projected benefit obligation 51,911 44,166
+Accumulated benefit obligation 51,911 44,166
+Fair value of plan assets 38,200 40,020
+
+Components of net periodic pension cost for the years ended September 30, 2002,
+2001 and 2000, respectively, are as follows:
+
+PENSION BENEFITS POSTRETIREMENT BENEFITS
+ ----------------------------------- -------------------------------
+ 2002 2001 2000 2002 2001 2000
+ ----------------------------------- -------------------------------
+
+Service cost 1,512 1,543 1,383 198 204 206
+Interest cost 3,269 3,036 2,768 476 493 476
+Expected return on plan assets (3,486) (3,580) (2,755) - - -
+Amortization of prior service cost 146 123 117 45 45 45
+Recognized net actuarial loss 26 2 1 (5) 2 -
+ ----------------------------------- -------------------------------
+Net periodic benefit cost 1,467 1,124 1,514 714 744 727
+ ================================== ==============================
+
+Assumptions as of September 30:
+ Discount rate 6.75 7.25 to 7.25 to
+ 7.625 7.75 6.75 7.625 7.75 
+
+ Expected long-term rate of return 6.75 to 7.50 to 7.50 to
+ 9.00 9.00 9.50 - - -
+
+For measurement purposes, the healthcare cost trend rate was assumed to be 7.5 
+decreasing gradually to 4.5 in 2011 and then remaining at that level
+thereafter. The healthcare cost trend rate assumption has a significant effect
+on the amounts reported. A one percentage point change in the healthcare cost
+trend rate would have the following effect:
+
+1 Increase 1 Decrease
+ ---------------------------------
+
+Effect on total of service cost and interest cost 125 (99)
+ Effect on postretirement benefit obligation 1,498 (1,192)
+
+56
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+9. EMPLOYEE BENEFIT PLANS (CONTINUED)
+
+DEFINED-CONTRIBUTION RETIREMENT PLANS
+
+The Company sponsors various defined-contribution retirement plans (the Plans)
+covering substantially all salaried and certain hourly employees. The Plans
+allow participants to make 401(k) contributions in amounts ranging from 1 to
+15 of their compensation. The Company matches between 35 and 50 of the
+participants' contributions up to a maximum of 6 of the employee's
+compensation, as defined. The Company may make additional voluntary
+contributions to the Plans as determined annually by the Board of Directors.
+Total Company contributions for continuing operations amounted to 1,493, 1,882
+and 1,828 for the years ended September 30, 2002, 2001 and 2000, respectively.
+
+OTHER EMPLOYEE BENEFITS
+
+The Company provides unfunded supplemental retirement benefits to certain active
+and retired employees at Dalton. At September 30, 2002, the present value of the
+current and long-term portion of these supplemental retirement obligations
+totaled 334 and 2,955, respectively. At September 30, 2001, the present value
+of the current and long-term portion of these supplemental retirement
+obligations totaled 147 and 2,954, respectively.
+
+Certain of Dalton's hourly employees are covered by a multi-employer,
+defined-benefit pension plan pursuant to a collective bargaining agreement. The
+Company's expense for the years ended September 30, 2002, 2001 and 2000, was
+ 397, 470 and 567, respectively.
+
+Substantially all of Mercer's union employees are covered by a multiemployer,
+defined-benefit pension plan pursuant to a collective bargaining agreement. The
+Company's expense for the years ended September 30, 2002, 2001 and 2000, was
+ 119, 135 and 159, respectively.
+
+10. PROVISION FOR IMPAIRMENT OF ASSETS
+
+During the year ended September 30, 2002, the Company identified indicators of
+impairment at one of its foundries, which is held for use. In accordance with
+SFAS No. 144, since the net book value of the foundries' long-lived assets
+exceeded the sum of the undiscounted cash flows expected to be realized from the
+respective assets, the Company recognized an impairment charge of 5,379 to
+adjust the carrying value of the foundries' long-lived assets to fair value. The
+impaired long-lived assets are included in the Castings segment.
+
+57
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+10. PROVISION FOR IMPAIRMENT OF ASSETS (CONTINUED)
+
+In accordance with SFAS No. 144, the Company recognized an impairment charge of
+ 74 during the year ended September 30, 2002, related to a building held for
+sale to adjust the carrying value of the building to fair value less costs to
+sell.
+
+11. SEGMENT INFORMATION
+
+The Company has two reportable segments, Castings and Forgings. The Castings
+segment manufactures and sells gray and ductile iron castings for the industrial
+and municipal markets, while the Forgings segment manufactures forged components
+for the industrial market. The Other segment includes machining operations and
+freight hauling.
+
+The Company evaluates performance and allocates resources based on the operating
+income before depreciation and amortization charges of each segment. The
+accounting policies of the reportable segments are the same as those described
+in the summary of significant accounting policies. Intersegment sales and
+transfers are recorded at cost plus a share of operating profit. The following
+segment information is presented for continuing operations:
+
+YEAR ENDED SEPTEMBER 30
+ 2002 2001 2000
+ ----------------------------------------------------
+ 
+Revenues from external customers:
+ Castings 379,425 381,958 457,319
+ Forgings 21,893 28,109 36,779
+ Other 20,498 19,460 28,147
+ Elimination of intersegment revenues (16,598) (12,620) (17,934)
+ ----------------------------------------------------
+ 405,218 416,907 504,311
+ ====================================================
+
+Income (loss) from continuing operations:
+ Castings (63,156) (13,419) 3,844
+ Forgings (4,135) (5,112) (3,716)
+ Other (764) (711) 509
+ Elimination of intersegment loss 58,394 5,823 3,207
+ ----------------------------------------------------
+ (9,661) (13,419) 3,844
+ ====================================================
+
+Total assets:
+ Castings 681,754 770,044 832,256
+ Forgings 41,584 51,148 57,933
+ Other 16,494 16,149 19,654
+ Elimination of intersegment assets (157,359) (210,898) (243,625)
+ ----------------------------------------------------
+ 582,473 626,443 666,218
+ ====================================================
+
+58
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+11. SEGMENT INFORMATION (CONTINUED)
+
+Castings Forgings Other Total
+ -------------------------------------------------------------
+ 
+Year ended September 30, 2002:
+ Interest expense 38,681 4,439 831 43,951
+ Interest income 819 - - 819
+ Provision for income taxes (5,477) (2,790) (122) (8,389)
+ Depreciation and amortization expense 24,257 2,627 1,669 28,553
+ Expenditures for long-lived assets 8,466 415 82 8,963
+
+Year ended September 30, 2001:
+ Interest expense 38,051 4,953 983 43,987
+ Interest income 445 - - 445
+ Provision (credit) for income taxes (958) (3,273) 82 (4,149)
+ Depreciation and amortization expense 30,878 3,884 1,505 36,267
+ Expenditures for long-lived assets 15,604 228 435 16,267
+
+Year ended September 30, 2000:
+ Interest expense 38,740 4,816 855 44,411
+ Interest income 967 - 11 978
+ Provision (credit) for income taxes 7,959 (2,204) 420 6,175
+ Depreciation and amortization expense 29,514 3,357 1,942 34,813
+ Expenditures for long-lived assets 14,368 793 1,088 16,249
+
+GEOGRAPHIC INFORMATION
+ Long-Lived
+ Assets
+ Net Sales (1)
+ -------------------------------------
+ 
+Year ended September 30, 2002:
+ United States 392,366 177,290
+ Foreign countries 12,852 -
+ -------------------------------------
+ 405,218 177,290
+ =====================================
+
+Year ended September 30, 2001:
+ United States 406,894 211,375
+ Foreign countries 10,013 2,458
+ -------------------------------------
+ 416,907 213,833
+ =====================================
+
+Year ended September 30, 2000:
+ United States 490,754 225,244
+ Foreign countries 13,557 2,995
+ -------------------------------------
+ 504,311 228,239
+ =====================================
+
+(1) Represents tangible long-lived assets only.
+
+59
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+12. GUARANTOR SUBSIDIARIES
+
+The following tables present condensed consolidating financial information for
+fiscal 2002, 2001 and 2000 for: (a) the Company, and (b) on a combined basis,
+the guarantors of the Senior Subordinated Notes, which include all of the wholly
+owned subsidiaries of the Company (Subsidiary Guarantors). Separate financial
+statements of the Subsidiary Guarantors are not presented because the guarantors
+are jointly, severally and unconditionally liable under the guarantees, and the
+Company believes separate financial statements and other disclosures regarding
+the Subsidiary Guarantors are not material to investors.
+
+60
+ 
+ Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+12. GUARANTOR SUBSIDIARIES (CONTINUED)
+
+CONDENSED CONSOLIDATING BALANCE SHEET
+SEPTEMBER 30, 2002
+
+Subsidiary
+ Company Guarantors Eliminations Consolidated
+ -------------- ---------------- --------------- ------------------
+ 
+ASSETS
+Current assets:
+ Cash and cash equivalents 29,290 (2,936) - 26,354
+ Accounts receivable, net 30,829 28,431 - 59,260
+ Inventories 20,535 31,361 - 51,896
+ Refundable income taxes 14,850 - - 14,850
+ Deferred income taxes 8,720 7,160 - 15,880
+ Other current assets 3,372 3,058 - 6,430
+ -------------------------------------------------------------------
+Total current assets 107,596 67,074 - 174,670
+
+Investments in and advances to
+ subsidiaries 198,460 (23,829) (174,631) -
+ Property, plant and equipment, net 83,523 93,767 - 177,290
+ Deferred financing costs,
+ identifiable intangible assets and
+ goodwill, net 129,687 94,356 - 224,043
+ Other assets 4,191 2,279 - 6,470
+ -------------------------------------------------------------------
+ 523,457 233,647 (174,631) 582,473
+ ===================================================================
+
+LIABILITIES AND STOCKHOLDER'S EQUITY (DEFICIT)
+Current liabilities:
+ Accounts payable 7,740 15,400 - 23,140
+ Accrued wages and employee benefits 6,151 6,704 - 12,855
+ Accrued interest 13,733 - - 13,733
+ Other accrued liabilities 1,151 2,220 - 3,371
+ Current portion of long-term debt 40,917 - - 40,917
+ Current portion of capital lease
+ obligations - 2,519 - 2,519
+ -------------------------------------------------------------------
+Total current liabilities 69,692 26,843 - 96,535
+
+Long-term debt 410,515 - - 410,515
+Capital lease obligations - 5,248 - 5,248
+Deferred income taxes 36,603 20,368 - 56,971
+Postretirement benefit obligations 6,696 - - 6,696
+Other liabilities 12,097 6,557 - 18,654
+Stockholder's equity (deficit) (12,146) 174,631 (174,631) (12,146)
+ -------------------------------------------------------------------
+ 523,457 233,647 (174,631) 582,473
+ ===================================================================
+
+61
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+12. GUARANTOR SUBSIDIARIES (CONTINUED)
+
+CONDENSED CONSOLIDATING BALANCE SHEET
+SEPTEMBER 30, 2001
+
+Subsidiary
+ Company Guarantors Eliminations Consolidated
+ -------------------------------------------------------------------
+ 
+ASSETS
+Current assets:
+ Cash and cash equivalents 4,682 (336) - 4,346
+ Accounts receivable, net 30,862 38,983 - 69,845
+ Inventories 21,131 50,564 - 71,695
+ Refundable income taxes 2,148 - - 2,148
+ Deferred income taxes 559 2,510 - 3,069
+ Other current assets 2,361 3,491 - 5,852
+ -------------------------------------------------------------------
+Total current assets 61,743 95,212 - 156,955
+
+Investments in and advances to
+ subsidiaries 263,249 (41,712) (221,537) -
+ Property, plant and equipment, net 87,587 126,246 - 213,833
+ Deferred financing costs,
+ identifiable intangible assets and
+ goodwill, net 133,255 116,493 - 249,748
+ Other assets 3,891 2,016 - 5,907
+ -------------------------------------------------------------------
+ 549,725 298,255 (221,537) 626,443
+ ===================================================================
+
+LIABILITIES AND STOCKHOLDER'S EQUITY
+Current liabilities:
+ Accounts payable 7,534 23,034 - 30,568
+ Accrued wages and employee benefits 5,300 7,950 - 13,250
+ Accrued interest 13,567 - - 13,567
+ Other accrued liabilities 1,200 3,501 - 4,701
+ Current portion of long-term debt 20,424 - - 20,424
+ Current portion of capital lease
+ obligations - 2,305 - 2,305
+ -------------------------------------------------------------------
+Total current liabilities 48,025 36,790 - 84,815
+
+Long-term debt 413,653 - - 413,653
+Capital lease obligations - 7,845 - 7,845
+Deferred income taxes 35,357 28,362 - 63,719
+Postretirement benefit obligations 6,345 - - 6,345
+Other liabilities 4,406 3,721 - 8,127
+Stockholder's equity 41,939 221,537 (221,537) 41,939
+ -------------------------------------------------------------------
+ 549,725 298,255 (221,537) 626,443
+ ===================================================================
+
+62
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+12. GUARANTOR SUBSIDIARIES (CONTINUED)
+
+CONDENSED CONSOLIDATING STATEMENT OF OPERATIONS
+YEAR ENDED SEPTEMBER 30, 2002
+
+Subsidiary
+ Company Guarantors Eliminations Consolidated
+ ---------------------------------------------------------------------
+
+Net sales 168,519 244,811 (8,112) 405,218
+Cost of sales 119,442 229,683 (8,112) 341,013
+ ---------------------------------------------------------------------
+Gross profit 49,077 15,128 - 64,205
+
+Selling, general and
+ administrative expenses 13,357 15,940 - 29,297
+Amortization expense 1,833 1,996 - 3,829
+Provision for impairment of assets - 5,453 - 5,453
+Loss on disposal of equipment 98 446 - 544
+ ---------------------------------------------------------------------
+Operating income 33,789 (8,707) - 25,082
+
+Other income (expense):
+ Interest expense (22,568) (21,383) - (43,951)
+ Interest income 805 14 - 819
+ ---------------------------------------------------------------------
+
+Income (loss) from continuing
+ operations before income taxes
+ and equity in earnings of
+ subsidiaries 12,026 (30,076) - (18,050)
+Provision (credit) for income
+ taxes 1,293 (9,682) - (8,389)
+ ---------------------------------------------------------------------
+ 10,733 (20,394) - (9,661)
+Equity in losses of subsidiaries (58,436) - 58,436 -
+ ---------------------------------------------------------------------
+Loss from continuing operations (47,703) (20,394) 58,436 (9,661)
+Loss from discontinued operations,
+ net of income
+ taxes - (38,042) - (38,042)
+ ---------------------------------------------------------------------
+Net loss (47,703) (58,436) 58,436 (47,703)
+ =====================================================================
+
+63
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+12. GUARANTOR SUBSIDIARIES (CONTINUED)
+
+CONDENSED CONSOLIDATING STATEMENT OF OPERATIONS
+YEAR ENDED SEPTEMBER 30, 2001
+
+Subsidiary
+ Company Guarantors Eliminations Consolidated
+ ----------------------------------------------------------------------
+
+Net sales 160,735 262,300 (6,128) 416,907
+Cost of sales 113,550 245,315 (6,128) 352,737
+ ----------------------------------------------------------------------
+Gross profit 47,185 16,985 - 64,170
+
+Selling, general and
+ administrative expenses 11,857 16,160 - 28,017
+Amortization expense 4,919 5,694 - 10,613
+Gain on disposal of equipment (11) (423) - (434)
+ ----------------------------------------------------------------------
+Operating income 30,420 (4,446) - 25,974
+
+Other income (expense):
+ Interest expense (19,828) (24,159) - (43,987)
+ Interest income 411 34 - 445
+ ----------------------------------------------------------------------
+
+Income (loss) from continuing
+ operations before income taxes
+ and equity in earnings of
+ subsidiaries 11,003 (28,571) - (17,568)
+Provision (credit) for income
+ taxes 6,361 (10,510) - (4,149)
+ ----------------------------------------------------------------------
+ 4,642 (18,061) - (13,419)
+Equity in losses of subsidiaries (22,096) - 22,096 -
+ ----------------------------------------------------------------------
+Loss from continuing operations (17,454) (18,061) 22,096 (13,419)
+Loss from discontinued operations,
+ net of income taxes - (4,035) - (4,035)
+Gain on sale of discontinued
+ operations, net of income
+ taxes 2,404 - - 2,404
+ ----------------------------------------------------------------------
+Net loss (15,050) (22,096) 22,096 (15,050)
+ ======================================================================
+
+64
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+12. GUARANTOR SUBSIDIARIES (CONTINUED)
+
+CONDENSED CONSOLIDATING STATEMENT OF OPERATIONS
+YEAR ENDED SEPTEMBER 30, 2000
+
+Subsidiary
+ Company Guarantors Eliminations Consolidated
+ ----------------------------------------------------------------------
+
+Net sales 191,138 319,367 (6,194) 504,311
+Cost of sales 132,061 280,785 (6,194) 406,652
+ ----------------------------------------------------------------------
+Gross profit 59,077 38,582 - 97,659
+
+Selling, general and
+ administrative expenses 15,014 18,605 - 33,619
+Amortization expense 4,916 5,587 - 10,503
+(Gain) loss on disposal of
+ equipment 298 (213) - 85
+ ----------------------------------------------------------------------
+Operating income 38,849 14,603 - 53,452
+
+Other income (expense):
+ Interest expense (22,003) (22,408) - (44,411)
+ Interest income 764 214 - 978
+ ----------------------------------------------------------------------
+
+Income (loss) from continuing
+ operations before income taxes
+ and equity in earnings of
+ subsidiaries 17,610 (7,591) - 10,019
+Provision (credit) for income
+ taxes 8,335 (2,160) - 6,175
+ ----------------------------------------------------------------------
+ 9,275 (5,431) - 3,844
+Equity in losses of subsidiaries (14,418) - 14,418 -
+ ----------------------------------------------------------------------
+Income (loss) from continuing
+ operations (5,143) (5,431) 14,418 3,844
+Loss from discontinued operations,
+ net of income taxes - (8,987) - (8,987)
+ ----------------------------------------------------------------------
+Net loss (5,143) (14,418) 14,418 (5,143)
+ ======================================================================
+
+65
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+12. GUARANTOR SUBSIDIARIES (CONTINUED)
+
+CONDENSED CONSOLIDATING STATEMENT OF CASH FLOWS
+YEAR ENDED SEPTEMBER 30, 2002
+
+Subsidiary
+ Company Guarantors Eliminations Consolidated
+ ----------------------------------------------------------------------
+ 
+ OPERATING ACTIVITIES
+ Net loss (47,703) (58,436) 58,436 (47,703)
+ Noncash adjustments 10,773 46,780 - 57,553
+ Changes in operating assets and
+ liabilities (13,173) 19,759 - 6,586
+ ----------------------------------------------------------------------
+ Net cash provided by (used in)
+ operating activities (50,103) 8,103 58,436 16,436
+ ----------------------------------------------------------------------
+ INVESTING ACTIVITIES
+ Investments in and advances to
+ subsidiaries 62,066 (3,630) (58,436) -
+ Purchase of property, plant and
+ equipment (4,510) (4,545) - (9,055)
+ Other 37 (145) - (108)
+ ----------------------------------------------------------------------
+ Net cash provided by (used in)
+ investing activities 57,593 (8,320) (58,436) (9,163)
+
+ FINANCING ACTIVITIES
+ Proceeds from long-term debt 33,400 - - 33,400
+ Payments on long-term debt and
+ capital lease obligations (15,424) (2,383) - (17,807)
+ Debt issuance costs (858) - - (858)
+ ----------------------------------------------------------------------
+ Net cash provided by (used in)
+ financing activities 17,118 (2,383) - 14,735
+ ----------------------------------------------------------------------
+
+ Increase (decrease) in cash and
+ cash equivalents 24,608 (2,600) - 22,008
+ Cash (overdraft) and cash
+ equivalents at beginning
+ of year 4,682 (336) - 4,346
+ ----------------------------------------------------------------------
+ Cash (overdraft) and cash
+ equivalents at end of year 29,290 (2,936) - 26,354
+ ======================================================================
+
+66
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+12. GUARANTOR SUBSIDIARIES (CONTINUED)
+
+CONDENSED CONSOLIDATING STATEMENT OF CASH FLOWS
+YEAR ENDED SEPTEMBER 30, 2001
+
+Subsidiary
+ Company Guarantors Eliminations Consolidated
+ ---------------------------------------------------------------------
+ 
+ OPERATING ACTIVITIES
+ Net loss (15,050) (22,096) 22,096 (15,050)
+ Gain on sale of discontinued
+ operations (4,007) - - (4,007)
+ Noncash adjustments 11,621 29,156 - 40,777
+ Changes in operating assets and
+ liabilities (4,849) (7,584) - (12,433)
+ ---------------------------------------------------------------------
+ Net cash provided by (used in)
+ operating activities (12,285) (524) 22,096 9,287
+
+ INVESTING ACTIVITIES
+ Investments in and advances to
+ subsidiaries 14,650 7,446 (22,096) -
+ Proceeds from disposition of
+ business, net of fees 5,190 - - 5,190
+ Purchase of property, plant and
+ equipment (4,371) (12,511) - (16,882)
+ Other 99 5,133 - 5,232
+ ---------------------------------------------------------------------
+ Net cash provided by (used in)
+ investing activities 15,568 68 (22,096) (6,460)
+
+ FINANCING ACTIVITIES
+ Proceeds from long-term debt 5,000 - - 5,000
+ Payments on long-term debt and
+ capital lease obligations (19,677) (2,376) - (22,053)
+ Debt issuance costs (906) - - (906)
+ ---------------------------------------------------------------------
+ Net cash used in financing
+ activities (15,583) (2,376) - (17,959)
+ ---------------------------------------------------------------------
+
+ Decrease in cash and cash
+ equivalents (12,300) (2,832) - (15,132)
+ Cash and cash equivalents at
+ beginning of year 16,982 2,496 - 19,478
+ ---------------------------------------------------------------------
+ Cash (overdraft) and cash
+ equivalents at end of year 4,682 (336) - 4,346
+ =====================================================================
+
+67
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+12. GUARANTOR SUBSIDIARIES (CONTINUED)
+
+CONDENSED CONSOLIDATING STATEMENT OF CASH FLOWS
+YEAR ENDED SEPTEMBER 30, 2000
+
+Subsidiary
+ Company Guarantors Eliminations Consolidated
+ -------------------------------------------------------------------------
+ 
+OPERATING ACTIVITIES
+Net loss (5,143) (14,418) 14,418 (5,143)
+Noncash adjustments 14,490 28,591 - 43,081
+Changes in operating assets and
+ liabilities (1,946) (6,510) - (8,456)
+ -------------------------------------------------------------------------
+Net cash provided by operating
+ activities 7,401 7,663 14,418 29,482
+
+INVESTING ACTIVITIES
+Investments in and advances to
+ subsidiaries (23,061) 37,479 (14,418) -
+Acquisition of business - (29,502) - (29,502)
+Purchase of property, plant and
+ equipment (5,644) (13,624) - (19,268)
+Other 212 1,233 - 1,445
+ -------------------------------------------------------------------------
+Net cash used in investing
+ activities (28,493) (4,414) (14,418) (47,325)
+
+FINANCING ACTIVITIES
+Proceeds from long-term debt 29,750 - - 29,750
+Payments on long-term debt and
+ capital lease obligations (7,528) (2,269) - (9,797)
+ -------------------------------------------------------------------------
+Net cash provided by (used in)
+ financing activities 22,222 (2,269) - 19,953
+ -------------------------------------------------------------------------
+
+Increase in cash and cash
+ equivalents 1,130 980 - 2,110
+Cash and cash equivalents at
+ beginning of year 15,852 1,516 - 17,368
+ -------------------------------------------------------------------------
+Cash and cash equivalents at end
+ of year 16,982 2,496 - 19,478
+ =========================================================================
+
+68
+
+Neenah Foundry Company
+
+ Notes to Consolidated Financial Statements (continued)
+ (In Thousands)
+
+13. QUARTERLY RESULTS OF OPERATIONS (UNAUDITED)
+
+YEAR ENDED SEPTEMBER 30, 2002
+ --------------------------------------------------------------------
+ 1st Quarter 2nd Quarter 3rd Quarter 4th Quarter
+ ---------------- ----------------- ------------------ --------------
+
+Net sales 88,098 92,852 115,476 108,792
+Gross profit 10,285 11,063 22,073 20,784
+Net income (loss) (41,074) (9,167) (2,209) (a) 4,747
+
+YEAR ENDED SEPTEMBER 30, 2001
+ --------------------------------------------------------------------
+ 1st Quarter 2nd Quarter 3rd Quarter 4th Quarter
+ --------------------------------------------------------------------
+
+Net sales 102,249 100,898 111,197 102,563
+Gross profit 14,062 11,246 19,669 19,193
+Net loss (4,248) (6,841) (2,661) (1,300)
+
+(a) Net income as previously reported 1,287
+ Adjustment to recognize impairment on long-lived
+ assets held for use, net of income taxes of
+ 1,883 (3,496)
+ -----------------
+ Net loss as restated (2,209)
+ =================
+
+During the fourth quarter of fiscal 2002, the Company identified indicators of
+impairment, which existed at June 30, 2002, at one of its foundries, which is
+held for use. In accordance with SFAS No. 144, the Company compared the net book
+value of the respective long-lived assets to the sum of the undiscounted future
+cash flows expected to be realized from the assets, which resulted in an
+impairment charge of 5,379. The effect of this impairment charge is to decrease
+previously reported fiscal 2002 third quarter net income by 3,496.
+
+69
+
+Report of Ernst & Young LLP, Independent Auditors
+
+We have audited the consolidated financial statements of Neenah Foundry Company
+as of September 30, 2002 and 2001 and for each of the three years in the period
+ended September 30, 2002, and have issued our report thereon dated November 5,
+2002 (included elsewhere in this Annual Report on Form 10-K). Our audits also
+included the financial statement schedule listed in the index at Item 15(a).
+This schedule is the responsibility of the Company's management. Our
+responsibility is to express an opinion based on our audits.
+
+In our opinion, the financial statement schedule referred to above, when
+considered in relation to the basic financial statements taken as a whole,
+presents fairly in all material respects the information set forth therein.
+
+Milwaukee, Wisconsin ERNST & YOUNG LLP
+November 5, 2002
+
+70
+
+Schedule II
+
+ NEENAH FOUNDRY COMPANY
+
+ VALUATION AND QUALIFYING ACCOUNTS
+ Years ended September 30, 2002, 2001, and 2000.
+ (Dollars in Thousands)
+
+BALANCE AT PURCHASE ADDITIONS
+ BEGINNING ACCOUNTING CHARGED TO BALANCE AT
+ DESCRIPTION OF PERIOD ADJUSTMENTS EXPENSE DEDUCTIONS END OF PERIOD
+- ----------------------------------------------------------------------------------------------------------------
+
+Allowance for doubtful
+accounts receivable:
+
+ 2000 1,020 130 242 391 (A) 1,001
+ ======= ======= ======= ======= ======
+
+ 2001 1,001 - 761 325 (A) 1,437
+ ======= ======= ======= ======= ======
+
+ 2002 1,437 - 533 908 (A) 1,062
+ ======= ======= ======= ======= ======
+
+ (A) Uncollectible accounts written off, net of recoveries
+
+Reserve for obsolete
+inventory:
+
+ 2000 686 - 2,300 - 2,986
+ ======= ======= ======= ======= ======
+
+ 2001 2,986 - 248 2,749 (B) 485
+ ======= ======= ======= ======= ======
+
+ 2002 485 - 240 240 (B) 485
+ ======= ======= ======= ======= ======
+
+ (B) Reduction for disposition of inventory
+
+71
+
+<EX-21>
+ 3
+ c73719exv21.txt
+ SUBSIDIARIES OF THE REGISTRANT
+
+Exhibit 21.1
+
+ Subsidiaries of the Registrant
+
+Neenah Foundry Company
+
+ Advanced Cast Products, Inc. - wholly owned.
+ Belcher Corporation.
+ Peerless Corporation.
+ Cast Alloys, Inc. - wholly owned.
+ International Golf, S.A. de, C.V.
+ Dalton Corporation - wholly owned.
+ Dalton Corporation, Warsaw Manufacturing Facility.
+ Dalton Corporation, Ashland Manufacturing Facility.
+ Dalton Corporation, Kendallville Manufacturing Facility.
+ Dalton Corporation, Stryker Manufacturing Facility.
+ Deeter Foundry, Inc. - wholly owned.
+ Gregg Industries, Inc. - wholly owned
+ Mercer Forge Corporation - wholly owned.
+ A&M Specialties, Inc.
+ Neenah Transport, Inc. - wholly owned.
+
+72
+
+</EX-21>
+

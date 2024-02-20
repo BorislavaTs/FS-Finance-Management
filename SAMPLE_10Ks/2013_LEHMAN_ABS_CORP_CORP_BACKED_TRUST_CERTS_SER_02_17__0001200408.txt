@@ -1,0 +1,336 @@
+<Header>
+<FileStats>
+    <FileName>20130401_10-K_edgar_data_1200408_0001193125-13-135573.txt</FileName>
+    <GrossFileSize>52404</GrossFileSize>
+    <NetFileSize>15809</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>31802</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>2</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001193125-13-135573.hdr.sgml : 20130401
+<ACCEPTANCE-DATETIME>20130401101701
+ACCESSION NUMBER:		0001193125-13-135573
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20121231
+FILED AS OF DATE:		20130401
+DATE AS OF CHANGE:		20130401
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LEHMAN ABS CORP CORP BACKED TRUST CERTS SER 02 17 CLASS A1
+		CENTRAL INDEX KEY:			0001200408
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31515
+		FILM NUMBER:		13729250
+
+	BUSINESS ADDRESS:	
+		STREET 1:		LEHMAN ABS CORP
+		STREET 2:		3 WORLD FINANCIAL CENTER
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10285
+		BUSINESS PHONE:		2125267000
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O LEHMAN BROTHERS
+		STREET 2:		3 WORLD FINANCIAL CENTER.
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10285
+
+</SEC-Header>
+</Header>
+
+ 0001193125-13-135573.txt : 20130401
+
+10-K
+ 1
+ d501826d10k.htm
+ 10-K
+
+10-K 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 
+ FORM 10-K
+ 
+ (Mark One) 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the fiscal year ended December 31, 2012 or 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from
+ to
+ Commission File Number: 001-31515 
+ filed on
+behalf of: Corporate Backed Trust Certificates, American General Institutional Capital A Capital Securities-Backed
+Series 2002-17 Trust (Exact Name of Registrant as Specified in Its Charter) 
+ by: 
+ Lehman ABS Corporation (Exact Name of Depositor as Specified in Its Charter) 
+
+Delaware 
+ 
+ 13-3447441 
+ 
+ (State or other jurisdiction of 
+ incorporation or organization) 
+ 
+ (I.R.S. Employer Identification No.) 
+
+1271 Avenue of the Americas, New York, New York 
+ 
+ 10020 
+ 
+ (Address of principal executive offices) 
+ 
+ (Zip Code) 
+ Registrant s telephone number, including area code: (646) 285-9000 
+ Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of Each Class 
+ 
+ Name of Each Exchange on Which Registered 
+
+Corporate Backed Trust Certificates, American General Institutional Capital A Capital Securities-Backed Series 2002-17 
+ 
+ New York Stock Exchange NYSE 
+ Securities registered pursuant to Section 12(g) of the Act: 
+ None 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities
+Act. Yes No Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes No Indicate
+by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required
+to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes No Indicate by check mark whether the registrant has submitted electronically and posted on its
+corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was
+required to submit and post such files). Not applicable. Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K 229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of
+this Form 10-K or any amendment to this Form 10-K. Indicate by check mark
+whether the registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer. See definition of accelerated filer and large accelerated filer in Rule 12b-2 of the Exchange Act. (Check one:) 
+
+Large Accelerated Filer 
+
+Accelerated Filer 
+
+Non-Accelerated Filer 
+
+Smaller reporting company 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Act). Yes No State the aggregate market value of the voting and non-voting common equity held by nonaffiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked
+price of such common equity, as of the last business day of the registrant s most recently completed second fiscal quarter. The registrant has no voting stock or class of common stock that is held by nonaffiliates. DOCUMENTS INCORPORATED BY REFERENCE The distribution reports to security holders, filed
+on Form 8-K during the fiscal year in lieu of reports on Form 10-Q, which include the reports filed on Form 8-K listed in Item 15(a) hereto are incorporated by reference into part IV of this Annual Report. 
+
+Introductory Note Lehman ABS Corporation (the Depositor is the Depositor in respect of the Corporate Backed Trust Certificates, American General Institutional Capital A Capital Securities-Backed Series 2002-17
+Trust (the Trust ), a common law trust formed pursuant to the Standard Terms for Trust Agreements, dated as of January 16, 2001, between the Depositor and U.S. Bank Trust National Association, as trustee (the Trustee ), as
+supplemented by a Series Supplement (the Series Supplement ), dated as of October 23, 2002, in respect of the Trust, as supplemented by a Supplement to the Series Supplement, dated as of June 18, 2003. The Trust s assets
+consist solely of capital securities issued by American General Institutional Capital A (the Underlying Securities Issuer ). The Certificates do not represent obligations of, or interests in, the Depositor or the Trustee. 
+ As previously disclosed, the Registrant is a wholly-owned, indirect subsidiary of Lehman Brothers Holdings Inc. LBHI ). On
+September 15, 2008 and periodically thereafter, LBHI and certain of its subsidiaries (collectively, the Debtors commenced voluntary cases under chapter 11 of title 11 of the United States Code with the United States Bankruptcy
+Court for the Southern District of New York (the Bankruptcy Court (jointly administered proceedings, In re Lehman Brothers Holdings Inc. et al., Case Number 08-13555). LBHI and its wholly-owned broker-dealer, Lehman Brothers
+Inc., have sold since September 15, 2008 significant businesses, including the sale on September 21, 2008 of the investment banking business to Barclays Capital Inc., which business included the employees who historically conducted the
+Registrant s business. On December 6, 2011, the Bankruptcy Court entered an order (the Confirmation Order confirming
+the Modified Third Amended Joint Chapter 11 Plan of Lehman Brothers Holdings Inc. and its Affiliated Debtors (the Plan ). The Plan and the Confirmation Order were attached as Exhibit 2.1 and Exhibit 2.2, respectively, to LBHI s
+Current Report on Form 8-K filed with the Securities and Exchange Commission on December 14, 2011. LBHI s Current Report on Form 8-K filed with the Securities and Exchange Commission on December 14, 2011 contains a summary of the
+Plan. On March 6, 2012 (the Effective Date ), the Plan became effective and a notice of the Effective Date of the Plan (the
+ Notice of Effective Date was filed with the Bankruptcy Court. American General Institutional Capital A is a subsidiary of
+American International Group, Inc. American International Group, Inc., the guarantor of the junior subordinated debentures, the sole assets held by the Underlying Securities Issuer, is subject to the information reporting requirements of the
+Securities Exchange Act of 1934, as amended (the Exchange Act ). For information on American International Group, Inc., please see its periodic and current reports filed with the Securities and Exchange Commission (the
+ Commission under American International Group, Inc. s Exchange Act file number, 001-08787. The Commission maintains a site on the World Wide Web at http://www.sec.gov at which users can view and download copies of
+reports, proxy and information statements and other information regarding issuers filed electronically through the Electronic Data Gathering, Analysis and Retrieval system, or EDGAR. Periodic and current reports and other information
+required to be filed pursuant to the Exchange Act by the guarantor of the junior subordinated debentures may be accessed on this site. Neither the Depositor nor the Trustee has participated in the preparation of such reporting documents, or made any
+due diligence investigation with respect to the information provided therein. Neither the Depositor nor the Trustee has verified the accuracy or completeness of such documents or reports. There can be no assurance that events affecting the
+Underlying Securities Issuer, the guarantor of the junior subordinated debentures or the underlying securities have not occurred or have not yet been publicly disclosed which would affect the accuracy or completeness of the publicly available
+documents described above. PART I Item 1. Business. Not Applicable 
+ Item 1A. Risk Factors. Not Applicable 
+ 2 
+
+Item 1B. Unresolved Staff Comments. 
+ Not Applicable Item 2.
+Properties . Not Applicable Item 3. Legal Proceedings. None 
+ Item 4. Submission of Matters to a Vote of Security Holders. None PART II Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+ The publicly offered Certificates representing investors interest in the Trust are represented by one or more physical Certificates
+registered in the name of Cede Co. , the nominee of The Depository Trust Company. Those publicly offered Certificates are listed on the NYSE. Item 6. Selected Financial Data. Not Applicable 
+ Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operation. 
+ Not Applicable 
+ Item 7A. Quantitative and Qualitative Disclosures About Market Risk. Not Applicable Item 8. Financial Statements and Supplementary Data. 
+ Not Applicable Item 9.
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure. None 
+ Item 9A. Controls and Procedures. Not Applicable Item 9A(T). Controls and Procedures. 
+ Not Applicable 
+ Item 9B. Other Information. Not Applicable PART III 
+ Item 10. Directors, Executive Officers and Corporate Governance. Not Applicable Item 11. Executive Compensation. 
+ Not Applicable 
+ 3 
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder
+Matters. Not Applicable Item 13. Certain Relationships and Related Transactions, and Director Independence. None Item 14. Principal Accountant Fees and Services. 
+ Not Applicable 
+ PART IV 
+ Item 15. Exhibits, Financial Statement Schedules. 
+
+(a) 
+ The following documents have been filed as part of this report. 
+
+1. 
+ Trustee s Distribution Statements documented on Form 8-K regarding the distributions from the Trust to the certificateholders for the period from January 1,
+2012 through and including December 31, 2012 have been filed with the Securities and Exchange Commission and are hereby incorporated by reference. Filing dates are listed below: 
+
+Trust Description 
+ 
+ Distribution Date 
+
+Filed on 
+
+Corporate Backed Trust Certificates, American General Institutional Capital A Capital Securities-Backed Series 2002-17 Trust
+
+06/01/2012 12/03/2012 
+
+06/08/2012 12/10/2012 
+
+2. 
+ None. 
+
+3. 
+ Exhibits: 31.1 
+Certification by Executive Vice President of the Registrant pursuant to 15 U.S.C. Section 7241, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 31.2 Annual Compliance Report by Trustee pursuant to 15 U.S.C. Section 7241, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ The trust covered by this Annual Report was formed prior to June 30, 2003 and there is no requirement in the trust agreement for the
+preparation of a report by an independent public accountant regarding the Trustee s compliance with its obligations. 
+
+(b) 
+ See Item 15(a) above. 
+
+(c) 
+ Not Applicable 
+ 4 
+
+SIGNATURES Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly
+authorized. In preparing this report the Registrant has relied on Distribution Statements provided to it by the Trustee. 
+
+Lehman ABS Corporation, as Depositor for the Trust (the Registrant 
+
+Dated: April 1, 2013 
+
+By: 
+ 
+ /s/ William J. Fox 
+
+Name: 
+ 
+ William J. Fox 
+
+Title: 
+ 
+ Chief Financial Officer and Executive Vice President 
+ 
+ 5 
+
+EXHIBIT INDEX 
+
+Reference 
+ Number per Item 601 of Regulation SK 
+ 
+ Description of Exhibits 
+ 
+ Exhibit Number 
+ in this Form 10-K 
+
+(31.1) 
+ 
+ Certification by Executive Vice President of the Registrant pursuant to 15 U.S.C. Section 7241, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 
+ 31.1 
+
+(31.2) 
+ 
+ Annual Compliance Report by Trustee pursuant to 15 U.S.C. Section 7241, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 
+ 31.2 
+ 
+ 6 
+
+<EX-31.1>
+ 2
+ d501826dex311.htm
+ EX-31.1
+
+EX-31.1 
+
+Exhibit 31.1 CERTIFICATION I, William J. Fox, certify that: 
+
+1. 
+ I have reviewed this annual report on Form 10-K, and all reports on Form 8-K containing distribution or servicing reports filed in respect of periods included in the
+year covered by this annual report, of Lehman ABS Corporation, on behalf of Corporate Backed Trust Certificates, American General Institutional Capital A Capital Securities-Backed Series 2002-17 Trust (the Trust 
+
+2. 
+ Based on my knowledge, and the annual compliance review required under the pooling and servicing, or similar agreement, the information in these reports, taken as a
+whole, does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading as of the last day of the
+period covered by this annual report; 
+
+3. 
+ Based on my knowledge, and the annual compliance review required under the pooling and servicing, or similar, agreement, the distribution or servicing information
+required to be provided to the Depositor by the Trustee under that agreement for inclusion in these reports is included in these reports; and 
+
+4. 
+ I am responsible for reviewing the activities performed by the Depositor and the Trustee under the pooling and servicing, or similar, agreement and based upon my
+knowledge and the annual compliance review required under that agreement, and except as disclosed in the reports, the Depositor and Trustee have each fulfilled its obligations under that agreement. 
+ In giving the certifications above, I have reasonably relied on information provided to me by the following unaffiliated party: U.S. Bank Trust National
+Association, as Trustee. Date: April 1, 2013 
+
+By: 
+ 
+ /s/ William J. Fox 
+ 
+ Name: 
+ 
+ William J. Fox 
+ 
+ Title: 
+ 
+ Chief Financial Officer and Executive Vice President 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ d501826dex312.htm
+ EX-31.2
+
+EX-31.2 
+
+Exhibit 31.2 ANNUAL COMPLIANCE REPORT I, David J. Kolibachuk, being an officer of U.S. Bank Trust
+National Association, the Trustee in respect of the Corporate Backed Trust Certificates, American General Institutional Capital A Capital Securities-Backed Series 2002-17 Trust (the Trust ), certify that: 
+
+1. 
+ I have reviewed this annual report on Form 10-K in respect of the Trust and all reports on Form 8-K containing distribution or servicing reports of the Trust filed by
+Lehman ABS Corporation in respect of periods included in the year covered by this annual report of the Trust; 
+
+2. 
+ Based on my knowledge, the information in those reports, taken as a whole, does not contain any untrue statement of a material fact or omit to state a material fact
+necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading as of the last day of the period covered by this annual report; 
+
+3. 
+ Based on my knowledge, the distribution information required to be provided to the Depositor or the certificateholders by the Trustee under the pooling and servicing or
+similar agreement for inclusion in such distribution reports is included in such reports; and 
+
+4. 
+ I am responsible for reviewing the activities performed by the Trustee under the pooling and servicing or similar agreement and based on my knowledge, except as
+disclosed in such reports, the Trustee has fulfilled its obligations under that agreement. Date: April 1, 2013 
+
+/s/ David J. Kolibachuk 
+ 
+ David J. Kolibachuk, Vice President 
+
+</EX-31.2>
+
